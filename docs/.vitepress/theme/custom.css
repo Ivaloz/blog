@@ -14,40 +14,8 @@
 }
 
 /* ---------- Home ---------- */
-.blog-home {
-  max-width: 960px;
-  margin: 0 auto;
-  padding: 48px 24px 64px;
-}
-.blog-home .hero {
-  text-align: center;
-  padding: 24px 0 40px;
-  border-bottom: 1px solid var(--vp-c-divider);
-  margin-bottom: 40px;
-}
-.blog-home .hero h1 {
-  font-size: 2.4rem;
-  font-weight: 700;
-  letter-spacing: -0.02em;
-  margin-bottom: 8px;
-}
-.blog-home .hero .lead {
-  color: var(--vp-c-text-2);
-  font-size: 1.05rem;
-}
-.blog-home .hero-stats {
-  margin-top: 18px;
-  display: flex;
-  gap: 24px;
-  justify-content: center;
-  color: var(--vp-c-text-2);
-  font-size: 0.9rem;
-}
-.blog-home .hero-stats strong {
-  color: var(--vp-c-brand-1);
-  font-weight: 700;
-  margin-right: 4px;
-}
+/* Hero/stats/section-head 的排版全部在 BlogHome.vue scoped 样式中处理，
+   这里只留非首页专属、被其他页面也复用的 .block 类。 */
 
 .block {
   margin-top: 40px;
@@ -240,8 +208,4 @@
 /* Hide the page <h1> we inject for posts so it doesn't double with VitePress */
 .VPDoc .main > .content .vp-doc > h1:first-child { margin-top: 0; }
 
-@media (max-width: 640px) {
-  .blog-home { padding: 24px 16px 48px; }
-  .blog-home .hero h1 { font-size: 1.8rem; }
-  .hero-stats { gap: 14px; font-size: 0.8rem; }
-}
+/* 响应式规则已迁移到 BlogHome.vue scoped 样式中。 */

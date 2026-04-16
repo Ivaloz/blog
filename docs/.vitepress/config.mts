@@ -220,7 +220,7 @@ export default defineConfig({
   },
 
   themeConfig: {
-    siteTitle: '范伟彬 · blog',
+    siteTitle: 'fanweibin.cn',
     logo: { src: '/logo.svg', width: 24, height: 24, alt: 'FF' },
 
     nav: [
