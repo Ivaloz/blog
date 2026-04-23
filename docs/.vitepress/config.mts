@@ -301,7 +301,7 @@ export default defineConfig({
     footer: {
       // spans 由客户端脚本填充：Vercount 注入总浏览量，SiteStatsFooter 注入已运行天数
       message: `<a href="/">${SITE_TITLE}</a> · 已运行 <span id="site-runtime-days" data-start="${firstPostDate}">…</span> · 总访问 <span id="vercount_value_site_pv">0</span> 次`,
-      copyright: `© 2020-${new Date().getFullYear()} ${AUTHOR}`
+      copyright: `© 2018-${new Date().getFullYear()} ${AUTHOR}`
     }
   },
 
