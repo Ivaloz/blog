@@ -120,6 +120,12 @@ ${items}
 
 const posts = loadPosts()
 
+// 站点启动日期 = 最早一篇文章的发布日期，用于页脚"已运行 N 天"
+const firstPostDate = posts
+  .map((p) => p.date)
+  .filter((d): d is string => Boolean(d))
+  .sort()[0] || '2025-08-10'
+
 export default defineConfig({
   title: SITE_TITLE,
   description: SITE_DESC,
@@ -293,7 +299,8 @@ export default defineConfig({
     },
 
     footer: {
-      message: '以 <a href="https://vitepress.dev/" target="_blank">VitePress</a> 驱动，部署于 GitHub Pages',
+      // spans 由客户端脚本填充：Vercount 注入总浏览量，SiteStatsFooter 注入已运行天数
+      message: `<a href="/">${SITE_TITLE}</a> · 已运行 <span id="site-runtime-days" data-start="${firstPostDate}">…</span> · 总访问 <span id="vercount_value_site_pv">0</span> 次`,
       copyright: `© 2020-${new Date().getFullYear()} ${AUTHOR}`
     }
   },
