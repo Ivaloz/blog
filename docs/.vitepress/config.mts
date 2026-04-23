@@ -120,11 +120,8 @@ ${items}
 
 const posts = loadPosts()
 
-// 站点启动日期 = 最早一篇文章的发布日期，用于页脚"已运行 N 天"
-const firstPostDate = posts
-  .map((p) => p.date)
-  .filter((d): d is string => Boolean(d))
-  .sort()[0] || '2025-08-10'
+// 站点启动日期：从 2018 年开始算，与页脚总访问数的预估基线保持一致
+const SITE_START_DATE = '2018-01-01'
 
 export default defineConfig({
   title: SITE_TITLE,
@@ -301,7 +298,7 @@ export default defineConfig({
     footer: {
       // spans 由客户端脚本填充：Vercount 注入真实 PV 到隐藏 tracker，
       // SiteStatsFooter 叠加 2018 以来的预估值写入可见的 #site-pv-display
-      message: `已运行 <span id="site-runtime-days" data-start="${firstPostDate}">…</span> · 总访问 <span id="site-pv-display">…</span> 次<span id="vercount_value_site_pv" style="display:none">0</span>`,
+      message: `已运行 <span id="site-runtime-days" data-start="${SITE_START_DATE}">…</span> · 总访问 <span id="site-pv-display">…</span> 次<span id="vercount_value_site_pv" style="display:none">0</span>`,
       copyright: `© 2018-${new Date().getFullYear()} ${SITE_TITLE}`
     }
   },
