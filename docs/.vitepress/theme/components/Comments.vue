@@ -1,7 +1,8 @@
 <script setup lang="ts">
 import { useData, useRoute } from 'vitepress'
-import { onMounted, ref, watch, nextTick } from 'vue'
+import { onMounted, onUnmounted, ref, watch, nextTick } from 'vue'
 import { giscus } from '../giscus.config'
+import { commentCount } from '../useCommentCount'
 
 const { isDark, frontmatter } = useData()
 const route = useRoute()
@@ -24,7 +25,7 @@ function loadGiscus() {
   s.setAttribute('data-mapping', 'pathname')
   s.setAttribute('data-strict', '1')
   s.setAttribute('data-reactions-enabled', '1')
-  s.setAttribute('data-emit-metadata', '0')
+  s.setAttribute('data-emit-metadata', '1')
   s.setAttribute('data-input-position', 'top')
   s.setAttribute('data-theme', isDark.value ? 'dark_dimmed' : 'light')
   s.setAttribute('data-lang', 'zh-CN')
@@ -32,8 +33,25 @@ function loadGiscus() {
   container.value.appendChild(s)
 }
 
-onMounted(() => nextTick(loadGiscus))
-watch(() => route.path, () => nextTick(loadGiscus))
+// 监听 giscus 回传的 metadata，提取评论数
+function onMessage(evt: MessageEvent) {
+  if (evt.origin !== 'https://giscus.app') return
+  const data = evt.data as { giscus?: { discussion?: { totalCommentCount?: number; totalReplyCount?: number } } }
+  const d = data?.giscus?.discussion
+  if (!d) return
+  const total = (d.totalCommentCount ?? 0) + (d.totalReplyCount ?? 0)
+  commentCount.value = total
+}
+
+onMounted(() => {
+  window.addEventListener('message', onMessage)
+  nextTick(loadGiscus)
+})
+onUnmounted(() => window.removeEventListener('message', onMessage))
+watch(() => route.path, () => {
+  commentCount.value = null
+  nextTick(loadGiscus)
+})
 watch(isDark, (v) => {
   const iframe = container.value?.querySelector<HTMLIFrameElement>('iframe.giscus-frame')
   if (iframe) {
