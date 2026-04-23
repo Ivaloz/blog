@@ -12,6 +12,7 @@ import PostMeta from './components/PostMeta.vue'
 import SeriesNav from './components/SeriesNav.vue'
 import RelatedPosts from './components/RelatedPosts.vue'
 import Comments from './components/Comments.vue'
+import SiteStatsFooter from './components/SiteStatsFooter.vue'
 import './custom.css'
 
 export default {
@@ -21,7 +22,9 @@ export default {
       // 文章顶部：日期/阅读时间/标签 + 时效性提示 + 系列导航
       'doc-before': () => [h(PostMeta), h(SeriesNav)],
       // 文章底部：相关文章 + 评论
-      'doc-after': () => [h(RelatedPosts), h(Comments)]
+      'doc-after': () => [h(RelatedPosts), h(Comments)],
+      // 全站页脚：驱动 Vercount + 填充运行天数
+      'layout-bottom': () => h(SiteStatsFooter)
     })
   },
   enhanceApp({ app }) {
@@ -34,5 +37,6 @@ export default {
     app.component('SeriesNav', SeriesNav)
     app.component('RelatedPosts', RelatedPosts)
     app.component('Comments', Comments)
+    app.component('SiteStatsFooter', SiteStatsFooter)
   }
 } satisfies Theme

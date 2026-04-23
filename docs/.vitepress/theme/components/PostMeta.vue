@@ -1,27 +1,10 @@
 <script setup lang="ts">
-import { useData, useRoute } from 'vitepress'
-import { computed, onMounted, nextTick, watch } from 'vue'
+import { useData } from 'vitepress'
+import { computed } from 'vue'
 import { data as allPosts } from '../../../posts/posts.data'
 import { commentCount } from '../useCommentCount'
 
 const { frontmatter, page } = useData()
-const route = useRoute()
-
-// Vercount 是 IIFE，只在 DOMContentLoaded 时运行一次；VitePress 走 SPA 路由，
-// 所以每次切到新文章都需要重新注入脚本，新 IIFE 会抓到当前 URL 并回填 span。
-function refreshVercount() {
-  if (typeof document === 'undefined') return
-  const el = document.getElementById('vercount_value_page_pv')
-  if (!el) return
-  el.textContent = '...'
-  const s = document.createElement('script')
-  s.src = 'https://cn.vercount.one/js?_=' + Date.now()
-  s.defer = true
-  document.head.appendChild(s)
-}
-
-onMounted(() => nextTick(refreshVercount))
-watch(() => route.path, () => nextTick(refreshVercount))
 
 const isoDate = computed(() => {
   const d: unknown = frontmatter.value.date
