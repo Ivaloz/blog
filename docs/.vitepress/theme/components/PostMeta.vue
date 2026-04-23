@@ -1,9 +1,27 @@
 <script setup lang="ts">
-import { useData } from 'vitepress'
-import { computed } from 'vue'
+import { useData, useRoute } from 'vitepress'
+import { computed, onMounted, nextTick, watch } from 'vue'
 import { data as allPosts } from '../../../posts/posts.data'
+import { commentCount } from '../useCommentCount'
 
 const { frontmatter, page } = useData()
+const route = useRoute()
+
+// Vercount 是 IIFE，只在 DOMContentLoaded 时运行一次；VitePress 走 SPA 路由，
+// 所以每次切到新文章都需要重新注入脚本，新 IIFE 会抓到当前 URL 并回填 span。
+function refreshVercount() {
+  if (typeof document === 'undefined') return
+  const el = document.getElementById('vercount_value_page_pv')
+  if (!el) return
+  el.textContent = '...'
+  const s = document.createElement('script')
+  s.src = 'https://cn.vercount.one/js?_=' + Date.now()
+  s.defer = true
+  document.head.appendChild(s)
+}
+
+onMounted(() => nextTick(refreshVercount))
+watch(() => route.path, () => nextTick(refreshVercount))
 
 const isoDate = computed(() => {
   const d: unknown = frontmatter.value.date
@@ -53,6 +71,8 @@ const categories = computed<string[]>(() =>
     <time v-if="dateDisplay" :datetime="isoDate">📅 {{ dateDisplay }}</time>
     <span v-if="readingTime" class="meta-chip">⏱ {{ readingTime }} 分钟阅读</span>
     <span v-if="wordCount" class="meta-chip">✍️ {{ wordCount.toLocaleString() }} 字</span>
+    <span class="meta-chip" title="本页浏览数">👁 <span id="vercount_value_page_pv">...</span></span>
+    <span v-if="commentCount !== null" class="meta-chip" title="评论数">💬 {{ commentCount }}</span>
     <span v-if="categories.length" class="post-cat">
       <span v-for="c in categories" :key="c" class="tag">{{ c }}</span>
     </span>
