@@ -1,6 +1,7 @@
 ---
 title: 'KPI vs KSF：为什么 KPI 越考越废，KSF 才能让中小民企企员双赢（含一家 80 人公司的完整落地案例）'
 date: 2026-05-08
+draft: true
 slug: 'kpi-vs-ksf-zhong-xiao-min-qi-luo-di-zhi-nan'
 categories:
   - '管理与组织'
