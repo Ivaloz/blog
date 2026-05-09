@@ -330,7 +330,7 @@ ext4 全都没有。后期改文件系统等于重建存储池，**初次设置�
 
 如果你按这个系列搭出了自己的家庭实验室，欢迎告诉我，互相交流踩坑经验。
 
-下一篇：**[#1 PVE 装机篇](/posts/homelab-pve-zhuang-ji-pian)**
+下一篇：**[#1 PVE 装机篇](/posts/2026-05-09-homelab-pve-zhuang-ji-pian)**
 
 ---
 

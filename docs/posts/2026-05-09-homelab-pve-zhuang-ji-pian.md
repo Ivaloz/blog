@@ -17,7 +17,7 @@ seriesIndex: 1
 
 # 家庭实验室 #1 ｜ PVE 9.x 装机篇 — 选型、安装、初始化全流程
 
-> 系列第 1 篇 ▏前置阅读：[#0 系列导览](/posts/homelab-overview-jia-ting-shi-yan-shi-jia-gou)。本篇记录 Proxmox VE 9.x 从硬件就位到第一台 VM 创建之前的完整流程，含选型对比、踩坑、个人反思。
+> 系列第 1 篇 ▏前置阅读：[#0 系列导览](/posts/2026-05-09-homelab-overview-jia-ting-shi-yan-shi-jia-gou)。本篇记录 Proxmox VE 9.x 从硬件就位到第一台 VM 创建之前的完整流程，含选型对比、踩坑、个人反思。
 
 ## 卷首：从 ESXi 到 PVE 的迁移
 
@@ -504,7 +504,7 @@ PVE 装好后，下一步建议：
 3. 再建 Tailscale Subnet Router（异地访问）
 4. 最后建 NAS VM 和 Dev-Server VM
 
-下一篇：**[#2 LXC：全屋代理 (Mihomo)](/posts/homelab-lxc-mihomo-quan-wu-dai-li)**
+下一篇：**[#2 LXC：全屋代理 (Mihomo)](/posts/2026-05-09-homelab-lxc-mihomo-quan-wu-dai-li)**
 
 ---
 
