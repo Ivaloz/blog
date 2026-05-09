@@ -2,6 +2,7 @@
 title: '剖析华为"一报一会"机制：三条铁律 + 小、中、大公司落地实践指南'
 date: 2026-05-06
 slug: 'hua-wei-yi-bao-yi-hui-ji-zhi'
+draft: true
 categories:
   - '管理与组织'
 tags:

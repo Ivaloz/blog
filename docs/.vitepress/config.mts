@@ -33,7 +33,7 @@ function parseFrontmatter(raw) {
       list = null
       key = null
     }
-    const scalar = line.match(/^(title|date|slug|description|source):\s*(.*)$/)
+    const scalar = line.match(/^(title|date|slug|description|source|draft):\s*(.*)$/)
     if (scalar) {
       let v = scalar[2].trim()
       if ((v.startsWith("'") && v.endsWith("'")) || (v.startsWith('"') && v.endsWith('"'))) {
@@ -56,6 +56,7 @@ function parseFrontmatter(raw) {
 function loadPosts() {
   const dir = path.resolve(__dirname, '../posts')
   if (!fs.existsSync(dir)) return []
+  const isDev = process.env.NODE_ENV !== 'production'
   return fs
     .readdirSync(dir)
     .filter((f) => f.endsWith('.md') && f !== 'index.md' && !f.endsWith('.data.ts'))
@@ -69,9 +70,11 @@ function loadPosts() {
         date: fm.date || '',
         description: fm.description || '',
         tags: fm.tags || [],
-        categories: fm.categories || []
+        categories: fm.categories || [],
+        draft: String(fm.draft).toLowerCase() === 'true'
       }
     })
+    .filter((p) => isDev || !p.draft)
     .sort((a, b) => (a.date < b.date ? 1 : -1))
 }
 
