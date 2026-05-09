@@ -21,7 +21,7 @@ seriesIndex: 5
 
 # 家庭实验室 #5 ｜ Dev-Server VM 篇 — Ubuntu + 面板 + 完整开发栈
 
-> 系列第 5 篇 ▏前置：[#0 导览](/posts/homelab-overview-jia-ting-shi-yan-shi-jia-gou) + [#1 PVE](/posts/homelab-pve-zhuang-ji-pian)。本篇用一个 PVE VM 跑 Ubuntu 24.04 LTS，搭一台**真正能干活**的开发服务器：运维面板 + JDK17 + Node + Maven + MySQL + Redis + Docker，一应俱全。
+> 系列第 5 篇 ▏前置：[#0 导览](/posts/2026-05-09-homelab-overview-jia-ting-shi-yan-shi-jia-gou) + [#1 PVE](/posts/2026-05-09-homelab-pve-zhuang-ji-pian)。本篇用一个 PVE VM 跑 Ubuntu 24.04 LTS，搭一台**真正能干活**的开发服务器：运维面板 + JDK17 + Node + Maven + MySQL + Redis + Docker，一应俱全。
 
 ## 卷首：开发服务器到底要装什么？
 

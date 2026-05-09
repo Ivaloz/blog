@@ -19,7 +19,7 @@ seriesIndex: 4
 
 # 家庭实验室 #4 ｜ NAS VM 篇 — 存储池、团队协作、备份策略
 
-> 系列第 4 篇 ▏前置：[#0 导览](/posts/homelab-overview-jia-ting-shi-yan-shi-jia-gou) + [#1 PVE](/posts/homelab-pve-zhuang-ji-pian)。本篇用一个 PVE VM 跑 NAS 系统，挂载 4TB HDD 直通，搭起团队共享 + 个人备份的存储中心。
+> 系列第 4 篇 ▏前置：[#0 导览](/posts/2026-05-09-homelab-overview-jia-ting-shi-yan-shi-jia-gou) + [#1 PVE](/posts/2026-05-09-homelab-pve-zhuang-ji-pian)。本篇用一个 PVE VM 跑 NAS 系统，挂载 4TB HDD 直通，搭起团队共享 + 个人备份的存储中心。
 
 ## 卷首：从 Synology DSM 到 NAS VM
 
@@ -579,7 +579,7 @@ NAS 装好后，PVE 备份 + 团队共享 + 个人备份**都有目标**了。�
 1. 建 Dev-Server VM
 2. 把 NAS 作为 Dev-Server 的备份目标
 
-下一篇：**[#5 Dev-Server VM：开发环境搭建](/posts/homelab-dev-server-vm-kai-fa-zhan)**
+下一篇：**[#5 Dev-Server VM：开发环境搭建](/posts/2026-05-09-homelab-dev-server-vm-kai-fa-zhan)**
 
 ---
 

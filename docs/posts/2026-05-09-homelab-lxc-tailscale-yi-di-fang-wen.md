@@ -18,7 +18,7 @@ seriesIndex: 3
 
 # 家庭实验室 #3 ｜ LXC 跑 Tailscale Subnet Router — 异地访问家里所有服务
 
-> 系列第 3 篇 ▏前置：[#0 导览](/posts/homelab-overview-jia-ting-shi-yan-shi-jia-gou) + [#1 PVE](/posts/homelab-pve-zhuang-ji-pian)。本篇用一个 LXC 容器跑 Tailscale，把整个家庭网段暴露给 Tailscale 网络，**让你在任何地方都能访问家里所有服务**。
+> 系列第 3 篇 ▏前置：[#0 导览](/posts/2026-05-09-homelab-overview-jia-ting-shi-yan-shi-jia-gou) + [#1 PVE](/posts/2026-05-09-homelab-pve-zhuang-ji-pian)。本篇用一个 LXC 容器跑 Tailscale，把整个家庭网段暴露给 Tailscale 网络，**让你在任何地方都能访问家里所有服务**。
 
 ## 卷首：那些被异地访问折磨过的方案
 
@@ -94,7 +94,7 @@ Tailscale 是基于 [WireGuard](https://www.wireguard.com/) 的"零配置 VPN"�
 
 ## 三、创建 LXC 容器
 
-跟[第 2 篇代理 LXC](/posts/homelab-lxc-mihomo-quan-wu-dai-li) 的创建流程一致，差异：
+跟[第 2 篇代理 LXC](/posts/2026-05-09-homelab-lxc-mihomo-quan-wu-dai-li) 的创建流程一致，差异：
 
 | 字段 | 设置 |
 |---|---|
@@ -515,7 +515,7 @@ Tailscale 的"控制服务器"（决定谁能加入网络）在他们那。理�
 2. 然后建 Dev-Server VM
 3. 最后接 CI/CD（Jenkins）
 
-下一篇：**[#4 NAS VM：存储与团队协作](/posts/homelab-nas-vm-cun-chu-tuan-dui-xie-zuo)**
+下一篇：**[#4 NAS VM：存储与团队协作](/posts/2026-05-09-homelab-nas-vm-cun-chu-tuan-dui-xie-zuo)**
 
 ---
 

@@ -18,7 +18,7 @@ seriesIndex: 2
 
 # 家庭实验室 #2 ｜ LXC 容器跑全屋代理 (Mihomo) — 让所有 VM 一键科学上网
 
-> 系列第 2 篇 ▏前置：[#0 导览](/posts/homelab-overview-jia-ting-shi-yan-shi-jia-gou) + [#1 PVE 装机](/posts/homelab-pve-zhuang-ji-pian)。本篇用一个 LXC 容器搭一个 7×24 的代理网关，所有 VM 通过 `http_proxy=http://<容器 IP>:7890` 就能科学上网。
+> 系列第 2 篇 ▏前置：[#0 导览](/posts/2026-05-09-homelab-overview-jia-ting-shi-yan-shi-jia-gou) + [#1 PVE 装机](/posts/2026-05-09-homelab-pve-zhuang-ji-pian)。本篇用一个 LXC 容器搭一个 7×24 的代理网关，所有 VM 通过 `http_proxy=http://<容器 IP>:7890` 就能科学上网。
 
 ## 卷首：为什么需要全屋代理？
 
@@ -544,7 +544,7 @@ dns:
 2. 然后建 NAS VM
 3. 最后建 Dev-Server VM
 
-下一篇：**[#3 LXC: Tailscale Subnet Router](/posts/homelab-lxc-tailscale-yi-di-fang-wen)**
+下一篇：**[#3 LXC: Tailscale Subnet Router](/posts/2026-05-09-homelab-lxc-tailscale-yi-di-fang-wen)**
 
 ---
 
