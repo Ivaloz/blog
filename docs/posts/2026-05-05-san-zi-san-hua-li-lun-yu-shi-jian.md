@@ -2,6 +2,7 @@
 title: '什么是"三资三化"：从一块荒地到一份理财，看懂这套金融炼金术'
 date: 2026-05-05
 slug: 'san-zi-san-hua-li-lun-yu-shi-jian'
+draft: true
 categories:
   - '金融与宏观'
 tags:
