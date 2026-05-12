@@ -14,7 +14,7 @@ tags:
   - 'Redis'
   - 'Docker'
   - 'homelab'
-description: '「家庭实验室从零到一」系列第 5 篇（完结）。用一个 PVE VM 跑 Ubuntu 24.04 LTS，搭一台真正能干活的开发服务器：运维面板（宝塔 / 1Panel）+ JDK17 + Maven + Node + pnpm + MySQL + Redis + Docker + Nginx 一应俱全。覆盖 OS 横评、面板选型、80/20 分工原则（标准件用面板、开发工具链 CLI 装）、清华源 + 阿里 Maven 镜像、Docker 国内镜像加速、UFW + fail2ban 安全加固，及 cloud-init 网络、宝塔改 sshd、Docker 镜像源、JDK 双栈冲突、MySQL 内存暴吃 5 个真实踩坑。系列完结。'
+description: '「家庭实验室从零到一」系列第 5 篇（基础设施篇完结）。用一个 PVE VM 跑 Ubuntu 24.04 LTS，搭一台真正能干活的开发服务器：运维面板（宝塔 / 1Panel）+ JDK17 + Maven + Node + pnpm + MySQL + Redis + Docker + Nginx 一应俱全。覆盖 OS 横评、面板选型、80/20 分工原则（标准件用面板、开发工具链 CLI 装）、清华源 + 阿里 Maven 镜像、Docker 国内镜像加速、UFW + fail2ban 安全加固，及 cloud-init 网络、宝塔改 sshd、Docker 镜像源、JDK 双栈冲突、MySQL 内存暴吃 5 个真实踩坑。下一篇接 #6 CI/CD。'
 series: '家庭实验室从零到一'
 seriesIndex: 5
 ---
@@ -762,15 +762,13 @@ PVE Host (192.168.X.10)
 - 出差时通过 Tailscale 远程访问
 - 写一篇博客分享你的家庭实验室经验
 
-**接着往下读**：
-
-- [#6 CI/CD：Jenkins + Harbor + 三仓库自动部署](/posts/2026-05-12-homelab-cicd-jenkins-harbor-zi-dong-bu-shu) —— 拿这套环境当测试机/生产机，给真实业务项目接上自动部署
-
 **后续单独成文的计划**：
 
 - 监控篇：Prometheus + Grafana + Node Exporter + cAdvisor
 - LLM 篇：跑 Ollama / vLLM / 自托管 ChatGPT
 - 数据备份篇：3-2-1 完整实践
+
+下一篇：**[#6 CI/CD：Jenkins + Harbor + 三仓库自动部署](/posts/2026-05-12-homelab-cicd-jenkins-harbor-zi-dong-bu-shu)** —— 拿这套基础设施当测试机/生产机，给真实业务项目接上自动部署。
 
 ---
 
