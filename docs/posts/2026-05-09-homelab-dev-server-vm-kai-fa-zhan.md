@@ -740,6 +740,7 @@ dev 服务器跟生产不一样：
 ✅ LXC Tailscale 异地     (#3)
 ✅ NAS VM 团队存储        (#4)
 ✅ Dev-Server VM 开发栈   (#5)  ← 你在这
+➡️ CI/CD：Jenkins + Harbor (#6)  ← 拿这套环境接业务项目自动部署
 ```
 
 **架构图回顾**：
@@ -761,10 +762,13 @@ PVE Host (192.168.X.10)
 - 出差时通过 Tailscale 远程访问
 - 写一篇博客分享你的家庭实验室经验
 
-**后续系列计划**（不属于本系列，单独成系列）：
+**接着往下读**：
 
-- CI/CD 篇：Jenkins + Docker 蓝绿
-- 监控篇：Prometheus + Grafana
+- [#6 CI/CD：Jenkins + Harbor + 三仓库自动部署](/posts/2026-05-12-homelab-cicd-jenkins-harbor-zi-dong-bu-shu) —— 拿这套环境当测试机/生产机，给真实业务项目接上自动部署
+
+**后续单独成文的计划**：
+
+- 监控篇：Prometheus + Grafana + Node Exporter + cAdvisor
 - LLM 篇：跑 Ollama / vLLM / 自托管 ChatGPT
 - 数据备份篇：3-2-1 完整实践
 
@@ -815,6 +819,6 @@ DBSIZE                     # 看 key 数量
 
 ---
 
-> **本系列完结**。如果你按这个系列搭出了自己的家庭实验室，欢迎交流。
+> **基础设施 6 篇（#0–#5）到此完结**；下一篇 [#6 CI/CD：Jenkins + Harbor + 三仓库自动部署](/posts/2026-05-12-homelab-cicd-jenkins-harbor-zi-dong-bu-shu) 在这套环境上接业务项目的自动部署。如果你按这个系列搭出了自己的家庭实验室，欢迎交流。
 > 
 > **本文协议**：CC BY-NC-SA 4.0，转载请保留出处
