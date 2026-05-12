@@ -309,8 +309,9 @@ ext4 全都没有。后期改文件系统等于重建存储池，**初次设置�
 | 3 | LXC：Tailscale 中继 | Subnet Router 模式，异地访问家里 |
 | 4 | NAS VM：存储与协作 | btrfs 存储池 + 部门权限 + 备份策略 |
 | 5 | Dev-Server VM：开发栈 | 系统装机 + 面板 + 开发工具链 |
+| 6 | [CI/CD：Jenkins + Harbor 自动部署](/posts/2026-05-12-homelab-cicd-jenkins-harbor-zi-dong-bu-shu) | 三仓库流水线 + 镜像仓库 + 一键回滚 |
 
-> 后续系列：CI/CD（Jenkins + Docker 蓝绿）单独成系列，避免本系列篇幅失控。
+> 第 6 篇把上面这套基础设施当"测试机/生产机"，给真实业务项目接上自动部署。再后面的"监控环"（Prometheus + Grafana）单独成文，避免本系列篇幅失控。
 
 ---
 
