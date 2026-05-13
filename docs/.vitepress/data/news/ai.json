@@ -3,51 +3,51 @@
   "slug": "ai",
   "title": "AI 与大模型",
   "description": "大模型、Agent、AI 编程、推理框架、开源模型的发布与落地。",
-  "updatedAt": "2026-05-13T08:00:00+08:00",
+  "updatedAt": "2026-05-13T08:30:00+08:00",
   "items": [
     {
-      "id": "ai-20260513-001",
-      "title": "Anthropic 发布 Claude Opus 4.7,1M 上下文成为默认",
-      "summary": "推理速度较 4.6 提升 35%,Agent SDK 同步更新,新增 sub-agent 隔离 worktree 能力。",
-      "publishedAt": "2026-05-13T05:30:00+08:00",
+      "id": "ai-20260416-001",
+      "title": "Anthropic 发布 Claude Opus 4.7，编码基准较前代提升 13%",
+      "summary": "Claude Opus 4.7 在软件工程编码基准上较 Opus 4.6 提升13%，视觉支持最高375万像素图像，在Finance Agent与GDPval-AA评测达行业最高，定价与前代一致，新增xhigh推理精度控制等级及任务预算公测功能。",
+      "publishedAt": "2026-04-16T08:00:00+08:00",
       "source": "Anthropic",
-      "url": "https://example.com/ai-1",
+      "url": "https://www.anthropic.com/news/claude-opus-4-7",
       "subCategory": "大模型"
     },
     {
-      "id": "ai-20260512-001",
-      "title": "智谱 GLM-5 开源 32B 版本,支持 256K 上下文",
-      "summary": "在 MMLU-Pro、GSM8K、HumanEval 三项基准上接近闭源旗舰水平,采用 Apache 2.0 协议。",
-      "publishedAt": "2026-05-12T20:00:00+08:00",
-      "source": "智谱 AI",
-      "url": "https://example.com/ai-2",
+      "id": "ai-20260506-001",
+      "title": "OpenAI 将 GPT-5.5 Instant 设为 ChatGPT 默认模型",
+      "summary": "GPT-5.5 Instant 于5月6日成为ChatGPT默认模型，在医学、法律、金融等高风险场景下幻觉率较GPT-5.3 Instant降低52.5%，提供更简洁精准回答；旗舰版GPT-5.5已于4月23日正式发布。",
+      "publishedAt": "2026-05-06T15:00:00+08:00",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/gpt-5-5-instant/",
+      "subCategory": "大模型"
+    },
+    {
+      "id": "ai-20260506-002",
+      "title": "字节跳动发布豆包 Doubao-Seed-2.0-lite 全模态理解模型",
+      "summary": "豆包大模型家族首款全模态模型，原生统一理解视频、图像、音频与文本，支持19语种语音转写，在多项音频理解基准上超越Gemini-3.1-Pro，Agent和Coding能力同步升级，支持前端页面与3D场景开发。",
+      "publishedAt": "2026-05-06T22:00:00+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/947/010.htm",
+      "subCategory": "多模态"
+    },
+    {
+      "id": "ai-20260424-001",
+      "title": "DeepSeek V4 正式开源，首次打通华为昇腾，百万上下文成默认",
+      "summary": "DeepSeek V4采用混合注意力架构（CSA+HCA），首次原生支持华为昇腾与英伟达GPU双平台，百万token上下文为默认配置，推理成本大幅下降，开源后迅速在国产大模型生态内获得广泛适配。",
+      "publishedAt": "2026-04-24T10:00:00+08:00",
+      "source": "InfoQ",
+      "url": "https://www.infoq.cn/article/wUUPEzvNajcaVN0k7HPF",
       "subCategory": "开源模型"
     },
     {
-      "id": "ai-20260512-002",
-      "title": "Cursor 推出 Background Agent,可后台执行长任务",
-      "summary": "用户可将多步骤改造、CI 修复、依赖升级等任务交给后台 Agent,在 PR 中查看结果。",
-      "publishedAt": "2026-05-12T14:00:00+08:00",
-      "source": "Cursor",
-      "url": "https://example.com/ai-3",
-      "subCategory": "AI 编程"
-    },
-    {
-      "id": "ai-20260511-001",
-      "title": "vLLM 0.10 发布,引入 prefix cache v2 与多模态调度",
-      "summary": "对长上下文场景吞吐提升约 60%,视觉模型推理延迟下降 30%。",
-      "publishedAt": "2026-05-11T11:00:00+08:00",
-      "source": "vLLM",
-      "url": "https://example.com/ai-4",
-      "subCategory": "推理框架"
-    },
-    {
-      "id": "ai-20260510-001",
-      "title": "Meta 发布 Llama 4 多模态版本,支持图文混合输入",
-      "summary": "在 Math-Vista、MMMU 等多模态基准上对齐 GPT-5 视觉版表现,提供 8B/70B/405B 三个规格。",
-      "publishedAt": "2026-05-10T23:00:00+08:00",
-      "source": "Meta AI",
-      "url": "https://example.com/ai-5",
+      "id": "ai-20260508-001",
+      "title": "消息称 DeepSeek V4.1 定档 6 月，新增原生多模态与 MCP 适配",
+      "summary": "据报道，DeepSeek V4.1将于6月发布，新增原生图像与音频理解能力，强化MCP协议适配，进一步面向企业端工具集成场景优化，延续V4混合注意力架构，百万token上下文成标配，推理成本继续压缩。",
+      "publishedAt": "2026-05-08T09:00:00+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/947/947.htm",
       "subCategory": "大模型"
     }
   ]

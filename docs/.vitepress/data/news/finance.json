@@ -3,43 +3,43 @@
   "slug": "finance",
   "title": "投资与财经",
   "description": "宏观经济、A 股 / 港股 / 美股、一级市场融资、行业研报观点。",
-  "updatedAt": "2026-05-13T08:00:00+08:00",
+  "updatedAt": "2026-05-13T08:30:00+08:00",
   "items": [
     {
       "id": "finance-20260513-001",
-      "title": "央行 5 月 LPR 报价持平,1 年期 3.10%,5 年期 3.55%",
-      "summary": "市场原本预期 5 年期下调 5bp,叠加近期房地产数据偏弱,银行净息差压力依然显著。",
-      "publishedAt": "2026-05-13T09:15:00+08:00",
-      "source": "中国人民银行",
-      "url": "https://example.com/finance-1",
+      "title": "美 4 月 CPI 同比 +3.8% 创近 3 年新高，纳指跌 0.71%，加息预期升温",
+      "summary": "美国4月CPI同比上涨3.8%创2023年5月以来新高，市场对美联储年底前加息预期升温；道指微涨0.11%，纳指跌0.71%，高通大跌11.46%创近年最大单日跌幅，英伟达微涨0.61%，中概股纳斯达克金龙指数跌0.82%。",
+      "publishedAt": "2026-05-13T08:00:00+08:00",
+      "source": "新浪财经",
+      "url": "https://cj.sina.com.cn/articles/view/1656954260/62c31d94001018ufo",
       "subCategory": "宏观经济"
     },
     {
       "id": "finance-20260512-001",
-      "title": "AI 基础设施公司 CoreWeave 完成 D 轮融资,估值 230 亿美元",
-      "summary": "由黑石领投,英伟达、英特尔战略加投,本轮募资将用于扩张欧洲数据中心容量。",
-      "publishedAt": "2026-05-12T21:00:00+08:00",
-      "source": "Bloomberg",
-      "url": "https://example.com/finance-2",
+      "title": "A 股 5 月 12 日三大指数震荡，沪指逼近 4200 点刷新近 11 年高位",
+      "summary": "5月12日沪指围绕4200点震荡，三大指数收跌但维持近11年高位区间，全市场超4000只个股下跌，赚钱效应偏弱；两市成交额连续5日维持3.27万亿天量，增量资金分歧加剧，科技与高股息板块分化明显。",
+      "publishedAt": "2026-05-12T15:30:00+08:00",
+      "source": "中国新闻网",
+      "url": "https://www.chinanews.com.cn/cj/2026/05-12/10619713.shtml",
+      "subCategory": "A股"
+    },
+    {
+      "id": "finance-20260508-001",
+      "title": "DeepSeek 完成首轮融资约 500 亿元，估值推至 515 亿美元刷新中国 AI 纪录",
+      "summary": "梁文锋自投近30亿美元领投，国家大基金参与磋商，DeepSeek估值推至515亿美元，为中国AI创业公司历史最高单轮估值；此次融资标志着大模型被纳入与半导体同等重要的国家战略资产序列。",
+      "publishedAt": "2026-05-08T10:00:00+08:00",
+      "source": "观察者网",
+      "url": "https://www.guancha.cn/economy/2026_05_06_816054.shtml",
       "subCategory": "一级市场"
     },
     {
-      "id": "finance-20260512-002",
-      "title": "贵州茅台一季度净利润同比 +12.4%,直销渠道占比超 50%",
-      "summary": "i 茅台 + 自营店双轮驱动,系列酒收入同比 +35%,管理层强调价格体系稳定优先。",
-      "publishedAt": "2026-05-12T18:30:00+08:00",
-      "source": "证券时报",
-      "url": "https://example.com/finance-3",
-      "subCategory": "公司财报"
-    },
-    {
-      "id": "finance-20260511-001",
-      "title": "美联储 5 月会议纪要:多数官员倾向于年内再降息一次",
-      "summary": "纪要措辞较 4 月明显鸽派,通胀回落速度好于预期,但服务通胀粘性仍受关注。",
-      "publishedAt": "2026-05-11T02:00:00+08:00",
-      "source": "Federal Reserve",
-      "url": "https://example.com/finance-4",
-      "subCategory": "宏观经济"
+      "id": "finance-20260429-001",
+      "title": "寒武纪 Q1 扣非净利暴增 238%，重登 A 股股王，经营现金流首度转正",
+      "summary": "寒武纪Q1扣非净利润9.34亿元同比暴增238%，归母净利10.13亿元同比增185%，经营现金流首度转正至8.34亿元，股价持续走强重登A股股王；国产AI算力芯片行情获扎实业绩支撑。",
+      "publishedAt": "2026-04-29T20:00:00+08:00",
+      "source": "澎湃新闻",
+      "url": "https://m.thepaper.cn/newsDetail_forward_33088901",
+      "subCategory": "A股"
     }
   ]
 }

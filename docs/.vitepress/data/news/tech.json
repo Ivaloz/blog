@@ -3,51 +3,51 @@
   "slug": "tech",
   "title": "科技新闻",
   "description": "前沿科技、互联网产品、芯片硬件、开源生态。",
-  "updatedAt": "2026-05-13T08:00:00+08:00",
+  "updatedAt": "2026-05-13T08:30:00+08:00",
   "items": [
     {
       "id": "tech-20260513-001",
-      "title": "苹果发布 M5 系列芯片,NPU 算力达到 70 TOPS",
-      "summary": "采用第二代 3nm 工艺,集成 16 核 NPU,首批搭载于 MacBook Pro 与 Mac Studio,本地大模型推理能力大幅提升。",
-      "publishedAt": "2026-05-13T07:00:00+08:00",
-      "source": "Apple Newsroom",
-      "url": "https://example.com/tech-1",
+      "title": "联发科 MDDC 2026 开发者大会：天玑 AI Agent Engine 2.0 正式发布",
+      "summary": "联发科在上海举办天玑开发者大会，发布AI Agent Engine 2.0，利用天玑感知爪技术实现低功耗全时感知，推出天玑AI开发套件3.0将部署优化效率提升50%，OPPO、小米、传音等50余家大厂参与生态共建。",
+      "publishedAt": "2026-05-13T10:00:00+08:00",
+      "source": "新浪科技",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-05-13/doc-inhxtqxr4611726.shtml",
       "subCategory": "芯片硬件"
     },
     {
-      "id": "tech-20260512-002",
-      "title": "GitHub 推出 Repo Agents,可自动维护开源仓库",
-      "summary": "新功能基于 GitHub Models,可自动 triage issue、回复 PR、运行 CI 修复脚本,目前对部分组织灰度开放。",
-      "publishedAt": "2026-05-12T22:10:00+08:00",
-      "source": "GitHub Blog",
-      "url": "https://example.com/tech-2",
-      "subCategory": "开源生态"
-    },
-    {
-      "id": "tech-20260512-001",
-      "title": "微信开放\"小程序云函数\" Node 22 LTS 运行时",
-      "summary": "支持 ESM、最长 60s 执行时间、按需冷启动优化,旧版 Node 16 将于 9 月停用。",
-      "publishedAt": "2026-05-12T11:00:00+08:00",
-      "source": "微信开放社区",
-      "url": "https://example.com/tech-3",
+      "id": "tech-20260513-002",
+      "title": "Google Android Show 揭晓：安卓全新品牌形象与 Googlebooks 笔记本新品类",
+      "summary": "谷歌于北京时间5月13日凌晨举办Android Show活动，揭晓安卓全新彩色半透明机器人标识，发布Material 3 Expressive设计体系，全面整合Gemini AI，并宣布Googlebooks高端AI笔记本新品类秋季上线。",
+      "publishedAt": "2026-05-13T01:00:00+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/946/670.htm",
       "subCategory": "互联网产品"
     },
     {
-      "id": "tech-20260511-001",
-      "title": "PostgreSQL 18 发布,原生支持向量检索与异步 I/O",
-      "summary": "新增 pgvector 内置扩展、io_uring 后端、增量物化视图等特性,性能较 17 提升 1.4-2.1 倍。",
-      "publishedAt": "2026-05-11T03:00:00+08:00",
-      "source": "PostgreSQL.org",
-      "url": "https://example.com/tech-4",
-      "subCategory": "开源生态"
+      "id": "tech-20260505-001",
+      "title": "国产 AI 芯片 Q1 业绩全线爆发：寒武纪净利同比 +185%，摩尔线程首度盈利",
+      "summary": "寒武纪Q1营收28.85亿元同比增159%，海光信息突破40亿元，摩尔线程首次实现季度盈利（净利2936万元），沐曦减亏57%，科创板AI芯片整体进入业绩兑现期，经营现金流质量持续改善。",
+      "publishedAt": "2026-05-05T10:00:00+08:00",
+      "source": "新浪财经",
+      "url": "https://finance.sina.com.cn/wm/2026-05-05/doc-inhwwezc9706282.shtml",
+      "subCategory": "芯片硬件"
     },
     {
-      "id": "tech-20260510-001",
-      "title": "NVIDIA 发布 RTX 6090,显存升至 32GB GDDR7",
-      "summary": "Blackwell Refresh 架构,FP4 算力 4.2 PFlops,面向本地 70B 模型推理与生成式工作流。",
-      "publishedAt": "2026-05-10T21:00:00+08:00",
-      "source": "NVIDIA",
-      "url": "https://example.com/tech-5",
+      "id": "tech-20260507-001",
+      "title": "韩国 4 月半导体出口同比 +173.5%，三星预警 2027 年供需缺口更大",
+      "summary": "韩国4月半导体出口额319亿美元同比增173.5%，连续13个月刷新月度纪录；三星电子存储芯片业务高管表示，AI算力需求拉动下供应远不能满足客户，预计2027年供需缺口将较2026年进一步扩大。",
+      "publishedAt": "2026-05-07T10:00:00+08:00",
+      "source": "17173",
+      "url": "https://news.17173.com/content/05072026/080728460.shtml",
+      "subCategory": "芯片硬件"
+    },
+    {
+      "id": "tech-20260506-001",
+      "title": "新华网：全球 AI 行业面临词元供应短缺，成继芯片后新型算力瓶颈",
+      "summary": "英媒报告指出全球AI行业正遭遇token（词元）供应短缺，现有算力基础设施生成token的速度无法满足快速增长的应用需求，这一新型瓶颈制约AI规模化落地，推动算力基础设施进入新一轮扩张周期。",
+      "publishedAt": "2026-05-06T10:00:00+08:00",
+      "source": "新华网",
+      "url": "http://www.news.cn/liangzi/20260506/ca1b4362a17b43ff84acd7a34896f295/c.html",
       "subCategory": "芯片硬件"
     }
   ]

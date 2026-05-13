@@ -3,61 +3,43 @@
   "slug": "trade",
   "title": "外贸资讯",
   "description": "亚马逊、TikTok Shop、阿里国际站、Shopify 等平台政策与跨境电商市场、独立站、物流支付、关税法规、选品趋势。",
-  "updatedAt": "2026-05-13T08:00:00+08:00",
+  "updatedAt": "2026-05-13T08:30:00+08:00",
   "items": [
     {
-      "id": "trade-20260513-001",
-      "title": "亚马逊全球开店 2026 旺季招商政策公布,FBA 费率结构调整",
-      "summary": "美国站点 FBA 配送费分级调整,母婴 / 小家电品类有 4%-7% 下调;新增泰国与印尼站点试运营。",
-      "publishedAt": "2026-05-13T09:00:00+08:00",
-      "source": "Amazon Seller Central",
-      "url": "https://example.com/trade-1",
-      "subCategory": "平台政策"
-    },
-    {
       "id": "trade-20260512-001",
-      "title": "TikTok Shop 美国 Q1 GMV 同比 +180%,中国卖家贡献占比 72%",
-      "summary": "母婴 / 美妆 / 3C 三大类目合计占 65%,平台扶持本土仓发货卖家,佣金阶梯下调。",
-      "publishedAt": "2026-05-12T20:00:00+08:00",
-      "source": "TikTok Shop Newsroom",
-      "url": "https://example.com/trade-2",
-      "subCategory": "平台动态"
+      "title": "TikTok Shop 美区自发货模式终止，美通墨跨境项目推进落地",
+      "summary": "TikTok Shop美国站正式废止卖家自发货模式，全部订单须通过TikTok Shipping（4PL）系统履约；同步推进美通墨跨境项目，采用美国仓库直邮墨西哥订单模式，为2026年世界杯旺季流量提前布局。",
+      "publishedAt": "2026-05-12T10:00:00+08:00",
+      "source": "跨境眼",
+      "url": "https://www.kuajingyan.com/article/30406",
+      "subCategory": "平台政策"
     },
     {
       "id": "trade-20260512-002",
-      "title": "阿里巴巴国际站推出 AI 外贸助手 OKKI Copilot",
-      "summary": "覆盖客户开发、报价生成、合规检测、多语种沟通,免费向认证供应商开放,日均使用上限 200 次。",
-      "publishedAt": "2026-05-12T15:30:00+08:00",
-      "source": "阿里巴巴国际站",
-      "url": "https://example.com/trade-3",
+      "title": "亚马逊 Haul 在 Temu/TikTok 围剿下加速国际化扩张",
+      "summary": "亚马逊以闪购下单模式应对Temu、TikTok Shop竞争，Haul板块加速向欧洲、中东扩张，继续扩大低价选品数量，并计划提前至6月联动世界杯举办Prime Day促销，强化极致价格赛道竞争力。",
+      "publishedAt": "2026-05-12T10:00:00+08:00",
+      "source": "证券时报",
+      "url": "https://stcn.com/article/detail/3532613.html",
       "subCategory": "平台动态"
     },
     {
-      "id": "trade-20260511-001",
-      "title": "Shopify 后台 1.0 全新仪表盘上线,Magic 选品引擎默认开启",
-      "summary": "独立站 SaaS 重构后台,提供 AI 选品 / 文案 / 图像三件套,Shop Pay 新增跨境分期。",
-      "publishedAt": "2026-05-11T22:00:00+08:00",
-      "source": "Shopify",
-      "url": "https://example.com/trade-4",
-      "subCategory": "独立站"
-    },
-    {
-      "id": "trade-20260510-001",
-      "title": "海关总署:1-4 月跨境电商进出口同比 +24.5%",
-      "summary": "出口 4682 亿元、进口 1583 亿元,品类结构向新能源装备、智能家居、个护倾斜,东南亚为最大增量市场。",
-      "publishedAt": "2026-05-10T10:00:00+08:00",
-      "source": "中国海关总署",
-      "url": "https://example.com/trade-5",
+      "id": "trade-20260405-001",
+      "title": "商务部：2026 年 Q1 跨境电商进出口同比增长超 24%",
+      "summary": "商务部电子商务司公布数据，2026年一季度全国跨境电商进出口保持强劲增势，同比增幅超24%，出口以中间品和消费品为主，跨境综合试验区建设提速，东南亚与欧洲为增量核心市场。",
+      "publishedAt": "2026-04-05T10:00:00+08:00",
+      "source": "商务部",
+      "url": "http://www.mofcom.gov.cn/xwfb/sjfzrfb/art/2026/art_331956a92c8746b6b43e8b0027648cd5.html",
       "subCategory": "海关数据"
     },
     {
-      "id": "trade-20260509-001",
-      "title": "Temu 全托管模式调整,新增半托管与本地店铺",
-      "summary": "卖家可选择全托管 / 半托管 / 本地店铺三种模式,价格管控收紧,头部供应商扶持加大。",
-      "publishedAt": "2026-05-09T18:00:00+08:00",
-      "source": "Temu Seller Portal",
-      "url": "https://example.com/trade-6",
-      "subCategory": "平台政策"
+      "id": "trade-20260508-001",
+      "title": "2026 世界杯跨境大促备战：五大平台发布专项政策，TikTok 设 FIFA 专区",
+      "summary": "亚马逊、TikTok Shop、Shopify、eBay、Walmart五大平台相继发布2026年世界杯跨境促销专项政策，TikTok Shop墨西哥站设立FIFA世界杯官方专区并给予300%流量倾斜，卖家备货窗口已打开。",
+      "publishedAt": "2026-05-08T10:00:00+08:00",
+      "source": "AMZ123",
+      "url": "https://www.amz123.com/t/fgWTIi4f",
+      "subCategory": "平台动态"
     }
   ]
 }

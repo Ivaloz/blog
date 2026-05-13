@@ -3,42 +3,42 @@
   "slug": "industry",
   "title": "行业新闻",
   "description": "企业服务、SaaS、云计算、制造业、消费互联网的产业动态。",
-  "updatedAt": "2026-05-13T08:00:00+08:00",
+  "updatedAt": "2026-05-13T08:30:00+08:00",
   "items": [
     {
-      "id": "industry-20260512-001",
-      "title": "阿里云宣布全面降价,核心计算产品平均下调 22%",
-      "summary": "覆盖 ECS、对象存储、数据库、AI 推理实例等 200+ 商品,被业内解读为公有云价格战进入新阶段。",
-      "publishedAt": "2026-05-12T15:00:00+08:00",
-      "source": "阿里云",
-      "url": "https://example.com/industry-1",
-      "subCategory": "云计算"
-    },
-    {
-      "id": "industry-20260512-002",
-      "title": "钉钉 7.5 上线\"AI 团队\",支持自定义角色与权限",
-      "summary": "面向中大型组织开放,可将日常审批、汇报、纪要等流程交由 AI 角色处理,主管负责复核与例外。",
-      "publishedAt": "2026-05-12T10:00:00+08:00",
-      "source": "钉钉",
-      "url": "https://example.com/industry-2",
-      "subCategory": "企业服务"
-    },
-    {
       "id": "industry-20260511-001",
-      "title": "比亚迪海外销量首次超过国内,4 月达 32.6 万辆",
-      "summary": "欧洲 + 东南亚双市场驱动,巴西、泰国工厂均已满产,Q2 预计交付 80 万辆海外订单。",
-      "publishedAt": "2026-05-11T19:00:00+08:00",
-      "source": "比亚迪",
-      "url": "https://example.com/industry-3",
-      "subCategory": "新能源"
+      "title": "Gartner：2026 年全球 IT 支出将达 6.31 万亿美元，同比增长 13.5%",
+      "summary": "Gartner 5月最新预测显示，2026年全球IT支出将达6.31万亿美元；数据中心系统支出预计7880亿美元同比增55.8%，AI基础设施投入大幅提速，生成式AI开发支出增速同比翻倍，较2月预测值6.15万亿美元上调。",
+      "publishedAt": "2026-05-11T08:00:00+08:00",
+      "source": "199IT",
+      "url": "http://www.199it.com/archives/1827781.html",
+      "subCategory": "行业研报"
     },
     {
-      "id": "industry-20260510-001",
-      "title": "SaaS 厂商 Notion 调整定价,引入按 AI 调用付费",
-      "summary": "免费版保留基础协作,AI 功能改为按 token 计费,中国区由本地服务商接入合规算力。",
-      "publishedAt": "2026-05-10T22:30:00+08:00",
-      "source": "Notion Blog",
-      "url": "https://example.com/industry-4",
+      "id": "industry-20260502-001",
+      "title": "科创板 AI 芯片六强 Q1 业绩集体起跳，行业进入变现期",
+      "summary": "科创板AI芯片上市公司Q1营收全线高增：寒武纪、海光信息、摩尔线程、沐曦、燧原等业绩大幅增长，摩尔线程首次季度盈利，分析师判断国产算力芯片业绩兑现周期已至，梯队化成长格局清晰。",
+      "publishedAt": "2026-05-02T10:00:00+08:00",
+      "source": "新浪财经",
+      "url": "https://finance.sina.com.cn/roll/2026-05-02/doc-inhwnnkm5858314.shtml",
+      "subCategory": "半导体产业"
+    },
+    {
+      "id": "industry-20260401-001",
+      "title": "IDC：未来 5 年全球加速计算服务器市场年增 30%，2029 年超万亿美元",
+      "summary": "IDC加速计算服务器市场报告预测，受AI推理与训练需求持续拉动，全球加速计算服务器市场将以年均30%速度增长，2029年规模超过1万亿美元，智能算力架构向专业化演进是核心趋势。",
+      "publishedAt": "2026-04-01T08:00:00+08:00",
+      "source": "IDC",
+      "url": "https://www.idc.com/resource-center/blog/%E4%BB%8E2026-gtc%E7%9C%8B%E7%AE%97%E5%8A%9B%E6%BC%94%E8%BF%9B5%E5%A4%A7%E8%B6%8B%E5%8A%BF%EF%BC%9A%E6%99%BA%E8%83%BD%E7%AE%97%E5%8A%9B%E6%9E%B6%E6%9E%84%E6%9B%B4%E5%8A%A0%E4%B8%93%E4%B8%9A%E5%8C%96/",
+      "subCategory": "行业研报"
+    },
+    {
+      "id": "industry-20260504-001",
+      "title": "字节豆包推出付费订阅，中国大模型免费时代宣告终结",
+      "summary": "字节跳动宣布豆包推出最高5088元/年三档付费订阅方案，成为中国大模型行业首批规模化推进付费化的产品，被业界解读为大模型商业化深水期正式开始，将带动国内其他主流模型跟进定价调整。",
+      "publishedAt": "2026-05-04T10:00:00+08:00",
+      "source": "澎湃新闻",
+      "url": "https://m.thepaper.cn/newsDetail_forward_33105478",
       "subCategory": "SaaS"
     }
   ]
