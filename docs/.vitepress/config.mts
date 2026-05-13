@@ -295,7 +295,14 @@ export default defineConfig({
 
     nav: [
       { text: '首页', link: '/' },
-      { text: '文章', link: '/posts/' },
+      {
+        text: '文章',
+        items: [
+          { text: '全部文章', link: '/posts/' },
+          { text: '按分类', link: '/categories' },
+          { text: '按标签', link: '/tags' }
+        ]
+      },
       {
         text: '资讯',
         items: [
@@ -306,14 +313,6 @@ export default defineConfig({
           { text: '外贸资讯', link: '/news/trade' },
           { text: 'AI 与大模型', link: '/news/ai' },
           { text: '投资与财经', link: '/news/finance' }
-        ]
-      },
-      {
-        text: '索引',
-        items: [
-          { text: '按分类', link: '/categories' },
-          { text: '按标签', link: '/tags' },
-          { text: '按年份', link: '/posts/' }
         ]
       },
       { text: '关于', link: '/pages/about' },
