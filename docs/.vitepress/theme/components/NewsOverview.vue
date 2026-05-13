@@ -76,9 +76,13 @@ function dateDisplay(iso?: string) {
   return d.toLocaleDateString('zh-CN', { month: '2-digit', day: '2-digit' })
 }
 
+function hasTimeComponent(iso?: string): boolean {
+  return !!iso && /T\d{2}:\d{2}/.test(iso)
+}
+
 function timeDisplay(iso?: string) {
-  if (!iso) return ''
-  const d = new Date(iso)
+  if (!hasTimeComponent(iso)) return ''
+  const d = new Date(iso!)
   if (isNaN(d.getTime())) return ''
   return d.toLocaleTimeString('zh-CN', { hour: '2-digit', minute: '2-digit', hour12: false })
 }
@@ -151,7 +155,7 @@ function timeDisplay(iso?: string) {
             <div class="no-latest-meta">
               <time v-if="item.publishedAt" :datetime="item.publishedAt">
                 {{ dateDisplay(item.publishedAt) }}
-                <span class="no-latest-hour">{{ timeDisplay(item.publishedAt) }}</span>
+                <span v-if="hasTimeComponent(item.publishedAt)" class="no-latest-hour">{{ timeDisplay(item.publishedAt) }}</span>
               </time>
               <span v-if="item.source" class="no-latest-source">{{ item.source }}</span>
               <a :href="categoryHref(item.categorySlug)" class="no-latest-cat" @click.stop>
@@ -176,7 +180,7 @@ function timeDisplay(iso?: string) {
           <a :href="item.url" target="_blank" rel="noopener">
             <div class="no-latest-title">{{ item.title }}</div>
             <div class="no-latest-meta">
-              <time v-if="item.publishedAt" :datetime="item.publishedAt">
+              <time v-if="hasTimeComponent(item.publishedAt)" :datetime="item.publishedAt">
                 <span class="no-latest-hour">{{ timeDisplay(item.publishedAt) }}</span>
               </time>
               <span v-if="item.source" class="no-latest-source">{{ item.source }}</span>

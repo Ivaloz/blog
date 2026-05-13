@@ -117,9 +117,13 @@ function dateDisplay(iso?: string) {
   return d.toLocaleDateString('zh-CN', { month: '2-digit', day: '2-digit' })
 }
 
+function hasTimeComponent(iso?: string): boolean {
+  return !!iso && /T\d{2}:\d{2}/.test(iso)
+}
+
 function timeDisplay(iso?: string) {
-  if (!iso) return ''
-  const d = new Date(iso)
+  if (!hasTimeComponent(iso)) return ''
+  const d = new Date(iso!)
   if (isNaN(d.getTime())) return ''
   return d.toLocaleTimeString('zh-CN', { hour: '2-digit', minute: '2-digit', hour12: false })
 }
@@ -188,7 +192,7 @@ function hostOf(url: string) {
             <div class="nf-card-meta">
               <time v-if="item.publishedAt" :datetime="item.publishedAt" class="nf-meta-time">
                 {{ dateDisplay(item.publishedAt) }}
-                <span class="nf-meta-hour">{{ timeDisplay(item.publishedAt) }}</span>
+                <span v-if="hasTimeComponent(item.publishedAt)" class="nf-meta-hour">{{ timeDisplay(item.publishedAt) }}</span>
               </time>
               <span v-if="item.source" class="nf-meta-source">{{ item.source }}</span>
               <span v-else-if="hostOf(item.url)" class="nf-meta-source">{{ hostOf(item.url) }}</span>
