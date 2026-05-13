@@ -1,0 +1,53 @@
+{
+  "slug": "ai",
+  "title": "AI 与大模型",
+  "description": "大模型、Agent、AI 编程、推理框架、开源模型的发布与落地。",
+  "updatedAt": "2026-05-13T08:00:00+08:00",
+  "items": [
+    {
+      "id": "ai-20260513-001",
+      "title": "Anthropic 发布 Claude Opus 4.7,1M 上下文成为默认",
+      "summary": "推理速度较 4.6 提升 35%,Agent SDK 同步更新,新增 sub-agent 隔离 worktree 能力。",
+      "publishedAt": "2026-05-13T05:30:00+08:00",
+      "source": "Anthropic",
+      "url": "https://example.com/ai-1",
+      "subCategory": "大模型"
+    },
+    {
+      "id": "ai-20260512-001",
+      "title": "智谱 GLM-5 开源 32B 版本,支持 256K 上下文",
+      "summary": "在 MMLU-Pro、GSM8K、HumanEval 三项基准上接近闭源旗舰水平,采用 Apache 2.0 协议。",
+      "publishedAt": "2026-05-12T20:00:00+08:00",
+      "source": "智谱 AI",
+      "url": "https://example.com/ai-2",
+      "subCategory": "开源模型"
+    },
+    {
+      "id": "ai-20260512-002",
+      "title": "Cursor 推出 Background Agent,可后台执行长任务",
+      "summary": "用户可将多步骤改造、CI 修复、依赖升级等任务交给后台 Agent,在 PR 中查看结果。",
+      "publishedAt": "2026-05-12T14:00:00+08:00",
+      "source": "Cursor",
+      "url": "https://example.com/ai-3",
+      "subCategory": "AI 编程"
+    },
+    {
+      "id": "ai-20260511-001",
+      "title": "vLLM 0.10 发布,引入 prefix cache v2 与多模态调度",
+      "summary": "对长上下文场景吞吐提升约 60%,视觉模型推理延迟下降 30%。",
+      "publishedAt": "2026-05-11T11:00:00+08:00",
+      "source": "vLLM",
+      "url": "https://example.com/ai-4",
+      "subCategory": "推理框架"
+    },
+    {
+      "id": "ai-20260510-001",
+      "title": "Meta 发布 Llama 4 多模态版本,支持图文混合输入",
+      "summary": "在 Math-Vista、MMMU 等多模态基准上对齐 GPT-5 视觉版表现,提供 8B/70B/405B 三个规格。",
+      "publishedAt": "2026-05-10T23:00:00+08:00",
+      "source": "Meta AI",
+      "url": "https://example.com/ai-5",
+      "subCategory": "大模型"
+    }
+  ]
+}

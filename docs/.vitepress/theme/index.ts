@@ -13,6 +13,8 @@ import SeriesNav from './components/SeriesNav.vue'
 import RelatedPosts from './components/RelatedPosts.vue'
 import Comments from './components/Comments.vue'
 import SiteStatsFooter from './components/SiteStatsFooter.vue'
+import NewsFeed from './components/NewsFeed.vue'
+import NewsOverview from './components/NewsOverview.vue'
 import './custom.css'
 
 export default {
@@ -38,5 +40,7 @@ export default {
     app.component('RelatedPosts', RelatedPosts)
     app.component('Comments', Comments)
     app.component('SiteStatsFooter', SiteStatsFooter)
+    app.component('NewsFeed', NewsFeed)
+    app.component('NewsOverview', NewsOverview)
   }
 } satisfies Theme

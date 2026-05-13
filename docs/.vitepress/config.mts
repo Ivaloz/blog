@@ -233,6 +233,17 @@ export default defineConfig({
       { text: '首页', link: '/' },
       { text: '文章', link: '/posts/' },
       {
+        text: '资讯',
+        items: [
+          { text: '总览', link: '/news/' },
+          { text: '政策信息', link: '/news/policy' },
+          { text: '科技新闻', link: '/news/tech' },
+          { text: '行业新闻', link: '/news/industry' },
+          { text: 'AI 与大模型', link: '/news/ai' },
+          { text: '投资与财经', link: '/news/finance' }
+        ]
+      },
+      {
         text: '索引',
         items: [
           { text: '按分类', link: '/categories' },

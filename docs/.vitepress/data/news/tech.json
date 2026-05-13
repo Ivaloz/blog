@@ -1,0 +1,53 @@
+{
+  "slug": "tech",
+  "title": "科技新闻",
+  "description": "前沿科技、互联网产品、芯片硬件、开源生态。",
+  "updatedAt": "2026-05-13T08:00:00+08:00",
+  "items": [
+    {
+      "id": "tech-20260513-001",
+      "title": "苹果发布 M5 系列芯片,NPU 算力达到 70 TOPS",
+      "summary": "采用第二代 3nm 工艺,集成 16 核 NPU,首批搭载于 MacBook Pro 与 Mac Studio,本地大模型推理能力大幅提升。",
+      "publishedAt": "2026-05-13T07:00:00+08:00",
+      "source": "Apple Newsroom",
+      "url": "https://example.com/tech-1",
+      "subCategory": "芯片硬件"
+    },
+    {
+      "id": "tech-20260512-002",
+      "title": "GitHub 推出 Repo Agents,可自动维护开源仓库",
+      "summary": "新功能基于 GitHub Models,可自动 triage issue、回复 PR、运行 CI 修复脚本,目前对部分组织灰度开放。",
+      "publishedAt": "2026-05-12T22:10:00+08:00",
+      "source": "GitHub Blog",
+      "url": "https://example.com/tech-2",
+      "subCategory": "开源生态"
+    },
+    {
+      "id": "tech-20260512-001",
+      "title": "微信开放\"小程序云函数\" Node 22 LTS 运行时",
+      "summary": "支持 ESM、最长 60s 执行时间、按需冷启动优化,旧版 Node 16 将于 9 月停用。",
+      "publishedAt": "2026-05-12T11:00:00+08:00",
+      "source": "微信开放社区",
+      "url": "https://example.com/tech-3",
+      "subCategory": "互联网产品"
+    },
+    {
+      "id": "tech-20260511-001",
+      "title": "PostgreSQL 18 发布,原生支持向量检索与异步 I/O",
+      "summary": "新增 pgvector 内置扩展、io_uring 后端、增量物化视图等特性,性能较 17 提升 1.4-2.1 倍。",
+      "publishedAt": "2026-05-11T03:00:00+08:00",
+      "source": "PostgreSQL.org",
+      "url": "https://example.com/tech-4",
+      "subCategory": "开源生态"
+    },
+    {
+      "id": "tech-20260510-001",
+      "title": "NVIDIA 发布 RTX 6090,显存升至 32GB GDDR7",
+      "summary": "Blackwell Refresh 架构,FP4 算力 4.2 PFlops,面向本地 70B 模型推理与生成式工作流。",
+      "publishedAt": "2026-05-10T21:00:00+08:00",
+      "source": "NVIDIA",
+      "url": "https://example.com/tech-5",
+      "subCategory": "芯片硬件"
+    }
+  ]
+}
