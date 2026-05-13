@@ -1,4 +1,5 @@
 {
+  "$schema": "./schema.json",
   "slug": "ai",
   "title": "AI 与大模型",
   "description": "大模型、Agent、AI 编程、推理框架、开源模型的发布与落地。",

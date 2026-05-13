@@ -216,21 +216,27 @@ function timeDisplay(iso?: string) {
   margin: 0 0 12px;
 }
 .no-cat-recent-item {
+  display: flex;
+  align-items: baseline;
+  gap: 6px;
   padding: 3px 0;
+  overflow: hidden;
+}
+.no-cat-recent-item::before {
+  content: '·';
+  flex: 0 0 auto;
+  color: var(--vp-c-text-3);
+  line-height: 1.5;
 }
 .no-cat-recent-title {
-  display: block;
+  flex: 1 1 auto;
+  min-width: 0;
   font-size: 13px;
   line-height: 1.5;
   color: var(--vp-c-text-2);
   overflow: hidden;
   text-overflow: ellipsis;
   white-space: nowrap;
-}
-.no-cat-recent-item::before {
-  content: '·';
-  color: var(--vp-c-text-3);
-  margin-right: 6px;
 }
 .no-cat-more {
   margin-top: auto;

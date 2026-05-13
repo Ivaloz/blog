@@ -1,0 +1,101 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://fanweibin.cn/schemas/news-category.schema.json",
+  "title": "News Category Feed",
+  "description": "routines 每日抓取的资讯数据契约,对应 docs/.vitepress/data/news/<slug>.json。文件 slug 与 schema 中 slug 字段必须一致。",
+  "type": "object",
+  "required": ["slug", "title", "items"],
+  "additionalProperties": false,
+  "properties": {
+    "$schema": {
+      "type": "string",
+      "description": "可选,指向本 schema 用于编辑器 IntelliSense / CI 校验。"
+    },
+    "slug": {
+      "type": "string",
+      "description": "大类英文 slug,需与文件名 <slug>.json 一致;新增类别时同步更新 docs/news/news.data.ts 的 CATEGORY_SLUGS 与本 enum。",
+      "enum": ["policy", "tech", "industry", "ai", "finance"]
+    },
+    "title": {
+      "type": "string",
+      "description": "大类中文标题,显示在页面顶部 H1。",
+      "minLength": 1
+    },
+    "description": {
+      "type": "string",
+      "description": "大类副标题/说明,显示在 H1 下方。"
+    },
+    "updatedAt": {
+      "type": "string",
+      "description": "routines 最近一次写入时间 (ISO 8601 含时区,推荐 +08:00)。",
+      "format": "date-time"
+    },
+    "items": {
+      "type": "array",
+      "description": "本大类下的资讯条目数组。前端会按 publishedAt 倒序展示,routines 不需要预排序。",
+      "items": { "$ref": "#/$defs/NewsItem" }
+    }
+  },
+  "$defs": {
+    "NewsItem": {
+      "type": "object",
+      "required": ["title", "url"],
+      "additionalProperties": false,
+      "properties": {
+        "id": {
+          "type": "string",
+          "description": "条目稳定唯一 ID,建议 <slug>-<yyyymmdd>-<seq>;用于 routines 跨日去重与前端 v-for key。缺省时前端 fallback 用 url 作 key。",
+          "minLength": 1
+        },
+        "title": {
+          "type": "string",
+          "description": "条目标题。",
+          "minLength": 1
+        },
+        "summary": {
+          "type": "string",
+          "description": "1-2 句话的内容摘要,前端 CSS 截断到 2 行。建议 60-120 个汉字。"
+        },
+        "publishedAt": {
+          "type": "string",
+          "description": "原文发布时间 (ISO 8601 含时区)。",
+          "format": "date-time"
+        },
+        "source": {
+          "type": "string",
+          "description": "原始来源名称,如 36氪 / InfoQ / 中国政府网。缺省时前端会用 URL host 兜底。"
+        },
+        "url": {
+          "type": "string",
+          "description": "原文链接,必须是 http/https URL。",
+          "format": "uri",
+          "pattern": "^https?://"
+        },
+        "subCategory": {
+          "type": "string",
+          "description": "在大类下用于分组的子分类,如「大模型」/「芯片硬件」/「宏观经济」。缺省时归入「其他」分组。"
+        }
+      }
+    }
+  },
+  "examples": [
+    {
+      "$schema": "./schema.json",
+      "slug": "tech",
+      "title": "科技新闻",
+      "description": "前沿科技、互联网产品、芯片硬件、开源生态。",
+      "updatedAt": "2026-05-13T08:00:00+08:00",
+      "items": [
+        {
+          "id": "tech-20260513-001",
+          "title": "苹果发布 M5 系列芯片,NPU 算力达到 70 TOPS",
+          "summary": "采用第二代 3nm 工艺,集成 16 核 NPU,首批搭载于 MacBook Pro 与 Mac Studio。",
+          "publishedAt": "2026-05-13T07:00:00+08:00",
+          "source": "Apple Newsroom",
+          "url": "https://example.com/tech-1",
+          "subCategory": "芯片硬件"
+        }
+      ]
+    }
+  ]
+}
