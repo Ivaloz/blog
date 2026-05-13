@@ -1,28 +1,15 @@
 // Build-time loader for routines-fetched news feeds.
 // See: https://vitepress.dev/guide/data-loading
 //
-// Data source contract (each JSON file at docs/.vitepress/data/news/<slug>.json):
+// 数据契约见 docs/.vitepress/data/news/schema.json (JSON Schema 2020-12)。
+// routines 直接覆盖写入 docs/.vitepress/data/news/<slug>.json 即可,构建
+// 时自动生效;dev server 文件变更会触发热更新。
 //
-//   {
-//     "slug": "tech",                 // 与文件名一致,作为该大类的 key
-//     "title": "科技新闻",            // 顶部展示用的大类标题
-//     "description": "...",           // 副标题/说明,可选
-//     "updatedAt": "ISO8601 时间串",   // routines 最近一次写入时间
-//     "items": [
-//       {
-//         "id": "unique-id",          // 稳定的唯一 ID,routines 用于去重
-//         "title": "...",             // 标题
-//         "summary": "...",           // 1-2 句话的摘要
-//         "publishedAt": "ISO8601",   // 原文发布时间
-//         "source": "36氪",           // 来源名称
-//         "url": "https://...",       // 原文链接
-//         "subCategory": "大模型"     // 在大类下用于分组的子分类
-//       }
-//     ]
-//   }
-//
-// Routines 直接覆盖写入对应 JSON 即可,构建时自动生效;
-// dev server 模式下文件变更会触发热更新。
+// 本地/CI 校验:
+//   pnpm dlx --package=ajv-cli --package=ajv-formats ajv validate \
+//     -s docs/.vitepress/data/news/schema.json \
+//     -d 'docs/.vitepress/data/news/{policy,tech,industry,ai,finance}.json' \
+//     --strict=false --spec=draft2020 -c ajv-formats
 import { defineLoader } from 'vitepress'
 import fs from 'node:fs'
 import path from 'node:path'
