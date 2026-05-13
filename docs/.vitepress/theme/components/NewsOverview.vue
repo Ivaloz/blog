@@ -1,10 +1,25 @@
 <script setup lang="ts">
-import { computed } from 'vue'
+import { computed, onMounted, ref } from 'vue'
 import { data as news } from '../../../news/news.data'
+
+type ViewMode = 'cats' | 'time'
+const STORAGE_KEY = 'news-overview-view'
 
 const categories = computed(() => news.categories)
 
 const latest = computed(() => news.latest.slice(0, 12))
+
+const view = ref<ViewMode>('cats')
+onMounted(() => {
+  try {
+    const saved = localStorage.getItem(STORAGE_KEY)
+    if (saved === 'cats' || saved === 'time') view.value = saved
+  } catch { /* SSR or storage disabled */ }
+})
+function setView(v: ViewMode) {
+  view.value = v
+  try { localStorage.setItem(STORAGE_KEY, v) } catch { /* ignore */ }
+}
 
 const totalItems = computed(() =>
   news.categories.reduce((acc, c) => acc + c.items.length, 0)
@@ -21,6 +36,34 @@ const newestUpdate = computed(() => {
     hour: '2-digit', minute: '2-digit', hour12: false
   })
 })
+
+// Timeline 视图:全部条目按日期分组,每组日期内按时间倒序
+const timelineGroups = computed(() => {
+  const items = news.latest.slice(0, 80)
+  const map = new Map<string, typeof items>()
+  for (const item of items) {
+    const day = (item.publishedAt || '').slice(0, 10) || '未知日期'
+    if (!map.has(day)) map.set(day, [])
+    map.get(day)!.push(item)
+  }
+  return [...map.entries()]
+    .sort((a, b) => (a[0] < b[0] ? 1 : -1))
+    .map(([day, items]) => ({ day, label: formatDayLabel(day), items }))
+})
+
+function formatDayLabel(day: string): string {
+  if (!day || day === '未知日期') return '未知日期'
+  const d = new Date(day + 'T00:00:00+08:00')
+  if (isNaN(d.getTime())) return day
+  const today = new Date()
+  const ymdToday = today.toISOString().slice(0, 10)
+  const yesterday = new Date(today.getTime() - 86400000).toISOString().slice(0, 10)
+  if (day === ymdToday) return `今天 · ${day}`
+  if (day === yesterday) return `昨天 · ${day}`
+  return d.toLocaleDateString('zh-CN', {
+    year: 'numeric', month: '2-digit', day: '2-digit', weekday: 'short'
+  })
+}
 
 function categoryHref(slug: string) {
   return `/news/${slug}`
@@ -52,9 +95,32 @@ function timeDisplay(iso?: string) {
       <p v-if="newestUpdate" class="no-updated">
         <span class="no-updated-label">最近更新</span>
         <time>{{ newestUpdate }}</time>
+        <a href="/news.xml" class="no-rss" target="_blank" rel="noopener" title="订阅资讯 RSS">RSS ↗</a>
       </p>
     </header>
 
+    <div class="no-tabs" role="tablist">
+      <button
+        type="button"
+        role="tab"
+        :class="['no-tab', { 'is-active': view === 'cats' }]"
+        :aria-selected="view === 'cats'"
+        @click="setView('cats')"
+      >
+        按大类
+      </button>
+      <button
+        type="button"
+        role="tab"
+        :class="['no-tab', { 'is-active': view === 'time' }]"
+        :aria-selected="view === 'time'"
+        @click="setView('time')"
+      >
+        按时间
+      </button>
+    </div>
+
+    <template v-if="view === 'cats'">
     <section class="no-cats">
       <a v-for="c in categories" :key="c.slug" :href="categoryHref(c.slug)" class="no-cat">
         <div class="no-cat-head">
@@ -97,6 +163,33 @@ function timeDisplay(iso?: string) {
         </li>
       </ul>
     </section>
+    </template>
+
+    <template v-else>
+    <section v-for="group in timelineGroups" :key="group.day" class="no-timeline-day">
+      <header class="no-timeline-head">
+        <h3 class="no-timeline-label">{{ group.label }}</h3>
+        <span class="no-timeline-count">{{ group.items.length }} 条</span>
+      </header>
+      <ul class="no-latest-list">
+        <li v-for="item in group.items" :key="item.id || item.url" class="no-latest-item">
+          <a :href="item.url" target="_blank" rel="noopener">
+            <div class="no-latest-title">{{ item.title }}</div>
+            <div class="no-latest-meta">
+              <time v-if="item.publishedAt" :datetime="item.publishedAt">
+                <span class="no-latest-hour">{{ timeDisplay(item.publishedAt) }}</span>
+              </time>
+              <span v-if="item.source" class="no-latest-source">{{ item.source }}</span>
+              <a :href="categoryHref(item.categorySlug)" class="no-latest-cat" @click.stop>
+                {{ item.categoryTitle }}
+              </a>
+              <span v-if="item.subCategory" class="no-latest-sub">#{{ item.subCategory }}</span>
+            </div>
+          </a>
+        </li>
+      </ul>
+    </section>
+    </template>
   </div>
 </template>
 
@@ -151,6 +244,76 @@ function timeDisplay(iso?: string) {
   letter-spacing: 0.18em;
   text-transform: uppercase;
   margin-right: 8px;
+}
+
+/* ---------- RSS chip + Tabs ---------- */
+.no-rss {
+  margin-left: 12px;
+  padding: 1px 8px;
+  border-radius: 4px;
+  border: 1px solid var(--vp-c-divider);
+  color: var(--vp-c-text-3) !important;
+  text-decoration: none !important;
+  font-size: 10px;
+  letter-spacing: 0.12em;
+}
+.no-rss:hover {
+  color: var(--vp-c-brand-1) !important;
+  border-color: var(--vp-c-brand-1);
+}
+.no-tabs {
+  display: inline-flex;
+  gap: 4px;
+  padding: 4px;
+  margin-bottom: 24px;
+  border-radius: 999px;
+  background: var(--vp-c-bg-soft);
+  border: 1px solid var(--vp-c-divider);
+}
+.no-tab {
+  padding: 6px 16px;
+  border: 0;
+  border-radius: 999px;
+  background: transparent;
+  color: var(--vp-c-text-2);
+  font-size: 13px;
+  cursor: pointer;
+  font-family: inherit;
+  transition: all .15s;
+}
+.no-tab:hover:not(.is-active) {
+  color: var(--vp-c-text-1);
+}
+.no-tab.is-active {
+  background: var(--vp-c-brand-1);
+  color: #fff;
+}
+
+/* ---------- Timeline (按时间) ---------- */
+.no-timeline-day {
+  margin-bottom: 32px;
+}
+.no-timeline-head {
+  display: flex;
+  align-items: baseline;
+  gap: 10px;
+  margin-bottom: 10px;
+  padding-bottom: 6px;
+  border-bottom: 1px dashed var(--vp-c-divider);
+}
+.no-timeline-label {
+  margin: 0 !important;
+  padding: 0 !important;
+  border: 0 !important;
+  font-size: 14px;
+  font-weight: 600;
+  color: var(--vp-c-brand-1);
+  font-variant-numeric: tabular-nums;
+}
+.no-timeline-count {
+  font-family: ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace;
+  font-size: 11px;
+  color: var(--vp-c-text-3);
 }
 
 /* ---------- Category cards ---------- */
