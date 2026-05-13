@@ -24,6 +24,7 @@
 docs/.vitepress/data/news/policy.json     政策信息
 docs/.vitepress/data/news/tech.json       科技新闻
 docs/.vitepress/data/news/industry.json   行业新闻
+docs/.vitepress/data/news/trade.json      外贸资讯
 docs/.vitepress/data/news/ai.json         AI 与大模型
 docs/.vitepress/data/news/finance.json    投资与财经
 docs/.vitepress/data/news/schema.json     JSON Schema (只读参考,不要改)
@@ -43,111 +44,357 @@ docs/.vitepress/data/news/schema.json     JSON Schema (只读参考,不要改)
 8. **提交**:`mcp__github__push_files` 单次 commit 推送 5 个文件到 main
 9. **回报**:输出本次摘要(见末尾「回报格式」)
 
-## 信息源清单(已扩展)
+## 信息源清单
+
+> **采源原则**
+> - 同一新闻多源出现 → 优先采**公司官方 newsroom**,其次**研究机构 / 政府公告**,最后**媒体二手稿**
+> - 英文站点能直接 `WebFetch` newsroom 页面的优先用 WebFetch;中文媒体 / 政府公文用 `WebSearch site:xxx` 关键词检索
+> - 优先选 RSS / 官方 atom 源(如有)以节省 token
 
 ### policy(政策信息) — 窗口:过去 36 小时
 
-中国官方:
-- `site:gov.cn` 通知 / 公告
+**中国国务院与部委**:
+- `site:gov.cn` —— 国务院 / 国办文件
 - `site:miit.gov.cn` —— 工信部
 - `site:ndrc.gov.cn` —— 发改委
-- `site:mofcom.gov.cn` —— 商务部(跨境/贸易)
-- `site:cac.gov.cn` —— 网信办(AI / 数据 / 平台监管)
-- `site:pbc.gov.cn` —— 央行(货币政策 / 金融监管)
-- `site:csrc.gov.cn` —— 证监会
-- `site:samr.gov.cn` —— 市监总局(反垄断 / 数据安全)
+- `site:mofcom.gov.cn` —— 商务部(跨境 / 贸易 / 出口管制)
 - `site:mof.gov.cn` —— 财政部
 - `site:sasac.gov.cn` —— 国资委
+- `site:mps.gov.cn` —— 公安部(数据安全 / 网络犯罪)
+- `site:scio.gov.cn` —— 国务院新闻办
 
-海外政策(可选,采集到再放):
-- `site:whitehouse.gov` executive-orders / briefing-room
-- `site:ec.europa.eu/info` press releases
-- `site:gov.uk/government/news`
+**监管 / 信披机构**:
+- `site:cac.gov.cn` —— 网信办(AI 备案 / 数据出境 / 平台监管)
+- `site:nda.gov.cn` —— 国家数据局(2023 新设)
+- `site:pbc.gov.cn` —— 央行
+- `site:csrc.gov.cn` —— 证监会
+- `site:cbirc.gov.cn` —— 国家金融监督管理总局
+- `site:samr.gov.cn` —— 市监总局(反垄断 / 平台经济)
+
+**海外政策**:
+- `whitehouse.gov/briefing-room` / `whitehouse.gov/presidential-actions`
+- `sec.gov/news/pressreleases` / `ftc.gov/news-events/news`
+- `ec.europa.eu/commission/presscorner` —— 欧盟
+- `gov.uk/government/news` —— 英国
+- `bis.doc.gov/index.php/policy-guidance` —— 美国 BIS(出口管制 / Entity List)
 
 ### tech(科技新闻) — 窗口:过去 12 小时
 
-英文:
-- Hacker News 首页 Top 30(`news.ycombinator.com`)
-- Reddit `r/technology` / `r/programming` Hot(`reddit.com/r/...`)
-- TechCrunch latest(`techcrunch.com/latest`)
-- The Verge(`theverge.com`)
-- Ars Technica(`arstechnica.com`)
-- Engadget latest(`engadget.com`)
-- MIT Technology Review(`technologyreview.com`)
+#### 媒体(广度采集)
 
-中文:
-- 36 氪 24 小时(`36kr.com/newsflashes`)
-- IT 之家(`ithome.com`)
-- 极客公园(`geekpark.net`)
-- 少数派 Matrix(`sspai.com/matrix`)
-- InfoQ 中文(`infoq.cn`)
+**英文**:Hacker News(`news.ycombinator.com`)、Reddit `r/technology` `r/programming` `r/hardware` Hot、TechCrunch、The Verge、Ars Technica、Engadget、Wired、CNET、MIT Technology Review
+
+**中文**:36 氪 24h(`36kr.com/newsflashes`)、IT 之家、极客公园、少数派 Matrix、InfoQ 中文、钛媒体、雷锋网、虎嗅
+
+#### 子分类:消费电子 / 互联网平台
+
+**国外巨头 newsroom**:
+- Apple Newsroom `apple.com/newsroom`
+- Google The Keyword `blog.google`
+- Microsoft Source `news.microsoft.com`
+- Meta Newsroom `about.fb.com/news`
+- Amazon `aboutamazon.com/news`
+- Samsung `news.samsung.com`
+- Sony `sony.com/en/SonyInfo/News`
+
+**国内互联网巨头**:
+- 阿里巴巴 `alibabagroup.com/news` / 钉钉、阿里云
+- 腾讯 `tencent.com/zh-cn/about/news` / 微信开放、QQ
+- 字节跳动 `bytedance.com` / 抖音、飞书、火山引擎
+- 百度 `baidu.com/about` / 智能云、文心
+- 京东 `jdcorporateblog.com`
+- 美团 `about.meituan.com`
+- 拼多多 `investor.pddholdings.com`
+- 网易 / 新浪 / 搜狐
+
+**国内终端品牌**:
+- 华为 `huawei.com/cn/news` / 鸿蒙 / 鸿蒙智行
+- 小米 `mi.com/about` / Xiaomi HyperOS / 小米汽车
+- OPPO `oppo.com/cn/about/news` / vivo / 荣耀 / 一加
+- 联想 `lenovo.com/cn/about-us/news`
+
+#### 子分类:芯片硬件
+
+- Nvidia `blogs.nvidia.com` / GTC announcements
+- AMD `amd.com/en/newsroom`
+- Intel `intel.com/content/www/us/en/newsroom`
+- 台积电 TSMC `pr.tsmc.com`
+- ASML `asml.com/en/news`
+- Qualcomm `qualcomm.com/news`
+- 三星半导体 `samsung.com/semiconductor/newsroom`
+- 国产:中芯国际 SMIC `smics.com`、长江存储 YMTC `ymtc.com`、长鑫存储 CXMT、寒武纪 Cambricon `cambricon.com`、海光信息 Hygon `hygon.cn`、摩尔线程 Moore Threads `mthreads.com`、燧原 Enflame `enflame-tech.com`、沐曦 MetaX、龙芯 Loongson `loongson.cn`、飞腾 Phytium `phytium.com.cn`
+
+#### 子分类:机器人(硬件层,与 ai 类「具身智能」对应)
+
+- **国内**:宇树科技 Unitree `unitree.com` / `unitree.cc`、智元机器人 AgiBot `agibot.com`、优必选 UBTech `ubtrobot.com`、傅利叶智能 Fourier `fftai.com`、越疆 Dobot `dobot.cn`、节卡 JAKA、埃斯顿 ESTUN、银河通用 Galbot `galbot.com`、加速进化 Booster Robotics `boosterobotics.com`、星动纪元、跨维智能、Engineai、大疆 DJI `dji.com/cn/newsroom`
+- **海外**:Boston Dynamics `bostondynamics.com/news`、Figure AI `figure.ai/news`、1X Technologies `1x.tech`、Apptronik `apptronik.com`、Sanctuary AI `sanctuary.ai`、Agility Robotics `agilityrobotics.com`、NEURA Robotics、Tesla Optimus(并入 Tesla 渠道)
+
+#### 子分类:智能汽车
+
+- 特斯拉 Tesla `tesla.com/blog` / `electrek.co` 行业解读
+- **国内新势力**:蔚来 NIO `nio.com`、小鹏 Xpeng `xiaopeng.com`、理想 Li Auto `lixiang.com`、极氪 Zeekr `zeekrlife.com`、智己 IM、阿维塔 Avatr、岚图 Voyah、小米汽车 `auto.xiaomi.com`、鸿蒙智行(问界 / 享界 / 智界 / 尊界)
+- **国内传统**:比亚迪 BYD `bydglobal.com`、吉利、长城、长安、上汽、广汽
+- **海外**:Rivian `rivian.com/stories`、Lucid Motors、GM `news.gm.com`、Ford `media.ford.com`、Stellantis、VW ID
+
+#### 子分类:航空航天
+
+- SpaceX `spacex.com/updates`、Blue Origin `blueorigin.com/news`、NASA `nasa.gov/news`
+- 国内:蓝箭航天 `landspace.com`、星河动力 `galactic-energy.cn`、银河航天 `galaxyspace.com`、中国航天科技集团 `casc.cn`
+
+#### 子分类:XR / AR / VR
+
+- Apple Vision Pro(归 Apple Newsroom)
+- Meta Reality Labs / Quest(归 Meta Newsroom)
+- PICO `pico-interactive.com`、XReal `xreal.com`
+
+#### 子分类:开发者工具
+
+- GitHub Changelog `github.blog/changelog`
+- Vercel blog `vercel.com/blog`、Cloudflare blog `blog.cloudflare.com`
+- Cursor `cursor.com/blog`、Linear `linear.app/blog`、Notion `notion.so/blog`
+- Stripe / Supabase / Railway / Replit newsroom
+
+#### 子分类:开源生态
+
+- Linux Foundation `linuxfoundation.org/press`
+- CNCF `cncf.io/news`
+- Apache `news.apache.org`
+- PyTorch `pytorch.org/blog`、TensorFlow `blog.tensorflow.org`
+- Rust Foundation `foundation.rust-lang.org`
+- 开放原子开源基金会 OpenAtom `openatom.org`
+
+#### 子分类:云计算
+
+- AWS `aws.amazon.com/blogs/aws`、Azure `azure.microsoft.com/en-us/blog`、GCP `cloud.google.com/blog`
+- 阿里云 `alibabacloud.com/blog`、腾讯云 `cloud.tencent.com`、华为云 `huaweicloud.com/news`
+- 字节火山引擎 `volcengine.com`、百度智能云 `cloud.baidu.com`
+
+#### 子分类:安全漏洞
+
+- CISA Advisories `cisa.gov/news-events/cybersecurity-advisories`
+- NVD CVE `nvd.nist.gov`、国家漏洞库 CNNVD `cnnvd.org.cn`
+- 阿里云安全中心、腾讯安全应急响应中心 TSRC、奇安信、360
+- Krebs On Security `krebsonsecurity.com`、Bleeping Computer
 
 ### ai(AI 与大模型) — 窗口:过去 24 小时
 
-模型厂官博:
-- Anthropic news(`anthropic.com/news`)
-- OpenAI blog(`openai.com/news`)
-- Google DeepMind blog(`deepmind.google/discover/blog`)
-- Meta AI blog(`ai.meta.com/blog`)
-- Mistral / xAI / Stability 官博
+#### 模型厂官博
 
-国内厂:
-- 智谱 AI 官博(`zhipuai.cn`)
-- 月之暗面 Kimi(`moonshot.cn`)
-- DeepSeek(`deepseek.com`)
-- 阿里通义(`tongyi.aliyun.com`)
-- 百度文心(`yiyan.baidu.com`)
+**海外**:
+- Anthropic `anthropic.com/news`
+- OpenAI `openai.com/news`
+- Google DeepMind `deepmind.google/discover/blog` / Google AI `ai.google/discover`
+- Meta AI `ai.meta.com/blog`
+- Mistral AI `mistral.ai/news`
+- xAI `x.ai/news`
+- Stability AI `stability.ai/news`
+- Cohere `cohere.com/blog`
+- Hugging Face `huggingface.co/blog`
+- Nvidia AI `blogs.nvidia.com`(AI 类条目)
+- Together AI、Groq、Anyscale
 
-社区与平台:
-- Hugging Face blog / Daily Papers(`huggingface.co/blog`)
-- arXiv `cs.AI` / `cs.LG` / `cs.CL` 新提交摘要(`arxiv.org/list/cs.AI/new`)
-- Papers with Code trending(`paperswithcode.com`)
+**国内**:
+- 智谱 AI `zhipuai.cn`
+- 月之暗面 Moonshot / Kimi `moonshot.cn`
+- DeepSeek `deepseek.com`
+- 阿里通义 `tongyi.aliyun.com` / Qwen `qwenlm.github.io`
+- 百度文心 `wenxin.baidu.com`
+- 商汤 SenseTime `sensetime.com/cn/news`
+- 百川智能 `baichuan-ai.com`
+- 零一万物 01.AI `lingyiwanwu.com`
+- MiniMax `minimaxi.com`
+- 阶跃星辰 StepFun `stepfun.com`
+- 面壁智能 ModelBest `modelbest.cn`
+- 字节豆包 `doubao.com` / 火山方舟
+
+#### AI 应用(代码 / 视频 / 音频 / 设计)
+
+- 代码:Cursor、Cognition Devin、GitHub Copilot、Sourcegraph Cody、Vercel v0、Bolt、Replit Agent、通义灵码、CodeGeeX
+- 视频:Runway `runwayml.com`、Pika `pika.art`、Sora(OpenAI)、可灵 `klingai.com`、即梦(字节)、Vidu(生数科技)
+- 音频:Suno `suno.com`、Udio `udio.com`、ElevenLabs `elevenlabs.io`
+- 图像:Midjourney `midjourney.com/news`、Stable Diffusion、Ideogram、Recraft、即梦图像
+
+#### 推理框架 / Agent 框架
+
+- vLLM `blog.vllm.ai`、SGLang `lmsys.org/blog`、Ollama `ollama.com/blog`、llama.cpp(GitHub releases)
+- NVIDIA TensorRT-LLM / NIM
+- LangChain `blog.langchain.dev`、LlamaIndex `llamaindex.ai/blog`、AutoGen、CrewAI、MetaGPT
+
+#### 评测与论文
+
+- arXiv `cs.AI` `cs.LG` `cs.CL` 新提交(`arxiv.org/list/cs.AI/new`)
+- Hugging Face Daily Papers `huggingface.co/papers`
+- Papers with Code `paperswithcode.com`
+- Chatbot Arena LMSys `lmarena.ai`、SuperCLUE `superclueai.com`
+
+#### 具身智能(AI 能力层,与 tech 类「机器人」对应)
+
+- Figure AI 的 VLM 能力公告(Figure 02 / Helix)
+- 1X 神经网络 demo
+- Tesla Optimus(Tesla 渠道)
+- 智元机器人启元 / 灵犀大模型(AgiBot 渠道)
+- 银河通用 Galbot / NVIDIA GR00T
+- Apptronik Apollo
+- 划分标准:**讨论硬件本体 = tech/机器人;讨论 AI 模型 / VLA / 数据集 = ai/具身智能**
+
+### trade(外贸资讯) — 窗口:过去 24 小时
+
+#### 平台官方(卖家中心 / Newsroom)
+
+- **亚马逊 Amazon**
+  - Seller Central News `sellercentral.amazon.com/help/hub/announcements`
+  - Amazon Newsroom `aboutamazon.com/news`
+  - 全球开店中文站(`gs.amazon.cn`)、新闻动态
+- **TikTok Shop**
+  - TikTok Newsroom `newsroom.tiktok.com`
+  - Seller Center 公告(各国站点:US / UK / 东南亚 6 国 / 沙特 / 墨西哥)
+  - 字节火山引擎 TikTok 数据
+- **阿里巴巴国际站 Alibaba.com**
+  - 阿里巴巴国际站资讯 `seller.alibaba.com/aliyz`
+  - OKKI / OKKI Copilot 产品动态
+  - 1688 跨境专供
+- **AliExpress(速卖通)** `sell.aliexpress.com/zh/news`
+- **Shopify**
+  - Shopify News `news.shopify.com`
+  - Shopify Engineering `shopify.engineering/blog`
+- **Temu / Pinduoduo Holdings** `temu.com` 卖家公告
+- **Shein** `careers.sheingroup.com` / `corporate.sheingroup.com`
+- **eBay** `ebaymainstreet.com` / 卖家中心
+- **Walmart Marketplace** `marketplace.walmart.com/news`
+- **Shopee 东南亚** `seller.shopee.com/edu/category/announcement`
+- **Lazada** `sellercenter.lazada.com.my`(各东南亚站)
+- **Mercado Libre 拉美** `developers.mercadolibre.com.ar/zh_cn/announcement`
+- **Coupang 韩国** `coupangnews.com`
+- **Wish** `merchant.wish.com/announcements`
+
+#### 跨境电商垂直媒体(中文)
+
+- 雨果跨境 `cifnews.com`
+- 亿邦动力 `ebrun.com`
+- 鹰熊汇 / 跨境眼 / 跨境知道
+- 36 氪出海 `overseas.36kr.com`
+- KrAsia(亚洲)`kr-asia.com`
+- 网经社电子商务研究中心 `100ec.cn`
+- 跨境电商指南、卖家精灵 `sellersprite.com/cn/blog`
+
+#### 海外行业 / 数据机构
+
+- Marketplace Pulse `marketplacepulse.com`
+- Helium 10 blog、Jungle Scout blog
+- Modern Retail `modernretail.co`、Retail Dive `retaildive.com`
+- Tech in Asia `techinasia.com`、DealStreetAsia `dealstreetasia.com`
+- eMarketer / Insider Intelligence cross-border 主题页
+- Forrester Retail、Gartner Digital Commerce
+
+#### 政府 / 海关 / 行业协会
+
+- 中国海关总署 `customs.gov.cn`(进出口数据 / 公告)
+- 商务部对外贸易司 `mofcom.gov.cn`(外贸数据、跨境电商综试区)
+- 国务院关税税则委员会
+- 中国国际贸易促进委员会 CCPIT `ccpit.org`
+- 国家外汇管理局 `safe.gov.cn`
+- 中国出口信用保险公司 `sinosure.com.cn`
+- 海外:USTR `ustr.gov`、US Customs CBP `cbp.gov`、欧盟海关 TARIC `taxation-customs.ec.europa.eu`
+- 各国合规:韩国 KCC、印尼 BKPM、巴西 ANATEL、墨西哥 SAT
+
+#### 物流 / 跨境支付
+
+- 中外运 / 中国邮政国际 / 菜鸟国际 / 京东物流国际(京东 IR 子页)
+- DHL `dhl.com/global-en/home/press.html`、FedEx、UPS
+- Flexport `flexport.com/blog`、ShipBob、Easyship
+- 跨境支付:Payoneer `payoneer.com/resources`、WorldFirst `worldfirst.com`、Airwallex `airwallex.com/blog`、连连国际 `lianlianpay-global.com`、PingPong `pingpongx.com`
+- 波罗的海航运指数 BDI `balticexchange.com`、上海集装箱运价指数 SCFI、Drewry WCI
 
 ### industry(行业新闻) — 窗口:过去 7 天
 
-研究机构(中国):
-- 艾瑞咨询(`iresearch.com.cn`)
-- 199IT(`199it.com`)
-- 创业邦研究(`cyzone.cn`)
-- 艾媒咨询(`iimedia.cn`)
-- QuestMobile(`questmobile.com.cn`)
-- 易观分析(`analysys.cn`)
-- 赛迪顾问(`ccidnet.com`)
+#### 中国研究机构
 
-研究机构(海外):
-- McKinsey Insights(`mckinsey.com/insights`)
-- BCG(`bcg.com/publications`)
-- Gartner Newsroom(`gartner.com/en/newsroom`)
-- IDC Research(`idc.com`)
-- Counterpoint Research(`counterpointresearch.com`)
-- Canalys(`canalys.com/newsroom`)
+- 艾瑞咨询 `iresearch.com.cn`
+- 199IT `199it.com`
+- 创业邦 `cyzone.cn`
+- 艾媒咨询 `iimedia.cn`
+- QuestMobile `questmobile.com.cn`
+- 易观分析 `analysys.cn`
+- 赛迪顾问 `ccidnet.com`
+- 信通院 CAICT `caict.ac.cn`(政策 + 行业白皮书)
+- 中国互联网络信息中心 CNNIC `cnnic.cn`
+- 中国汽车工业协会 `caam.org.cn`
+- 中国电子学会 `cie-info.org.cn`
 
-公司动态(财报/公告):
-- 港交所 HKEX 披露易(`hkexnews.hk`)
-- 中国证监会指定信披(`cninfo.com.cn`)
-- 各龙头公司投资者关系页面(按需采)
+#### 海外咨询 / 研究
+
+- McKinsey `mckinsey.com/insights`
+- BCG `bcg.com/publications`
+- Bain `bain.com/insights`
+- Deloitte Insights `deloitte.com/global/en/insights`
+- Gartner Newsroom `gartner.com/en/newsroom`
+- IDC `idc.com/research`
+- Forrester `forrester.com/blogs`
+- Counterpoint Research `counterpointresearch.com`
+- Canalys `canalys.com/newsroom`
+- Omdia、Strategy Analytics
+- Statista `statista.com/topics`(免费摘要)
+
+#### 公司动态(财报 / 公告 / 季度数据)
+
+- 港交所 HKEX 披露易 `hkexnews.hk`
+- A 股巨潮资讯网 `cninfo.com.cn`
+- 美股 SEC EDGAR `sec.gov/edgar`
+- 各龙头公司 IR 页面(按本文件「公司清单」)
+
+#### 垂直行业速查
+
+- **新能源汽车**:乘联会 CPCA、中汽协 CAAM(月度交付 / 销量)
+- **半导体产业**:Semiconductor Industry Association SIA `semiconductors.org`、SEMI `semi.org`
+- **医疗健康**:STAT News `statnews.com`、丁香园 `dxy.cn`(医药)
+- **教育科技**:EdSurge、芥末堆 `jiemodui.com`
 
 ### finance(投资与财经) — 窗口:过去 24 小时
 
-美股盘后 / 大盘:
-- Yahoo Finance market summary(`finance.yahoo.com/markets`)
-- Bloomberg markets(`bloomberg.com/markets`)
-- CNBC pre-markets(`cnbc.com/pre-markets`)
-- Investing.com markets(`investing.com/markets`)
-- 大型美股财报:AAPL / MSFT / GOOGL / NVDA / TSLA / META / AMZN / AMD / TSM(纳指龙头)
+#### 美股 / 美国市场
 
-港股 / A 股:
-- 恒生指数实时(`hsi.com.hk`)
-- 财联社快讯(`cls.cn`)
-- 雪球资讯(`xueqiu.com/news`)
-- 华尔街见闻(`wallstreetcn.com`)
-- 第一财经(`yicai.com`)
+- 综合:Bloomberg Markets、Reuters Business、CNBC、Yahoo Finance、MarketWatch、Investing.com、Seeking Alpha free
+- 大盘 / 龙头:AAPL / MSFT / GOOGL / NVDA / META / AMZN / TSLA / AMD / TSM / NFLX / AVGO / ORCL / CRM
+- 财报披露:SEC EDGAR、各公司 IR
+- 指数 / ETF 动向:S&P Dow Jones Indices `spglobal.com/spdji`、Nasdaq `nasdaq.com/news`
 
-宏观日历:
-- 经济数据日历(`investing.com/economic-calendar`)
-- 央行公告(`pbc.gov.cn`)
-- 国家统计局月度数据(`stats.gov.cn`)
-- 美联储(`federalreserve.gov`)
+#### 港股
+
+- 恒生指数 `hsi.com.hk`
+- 港交所新闻 `hkex.com.hk/News`
+- AAStocks `aastocks.com`、香港經濟日報 `hket.com`、信报 `hkej.com`
+- Smartkarma research(免费摘要)
+
+#### A 股
+
+- 财联社快讯 `cls.cn`
+- 雪球资讯 `xueqiu.com/news`
+- 华尔街见闻 `wallstreetcn.com`
+- 第一财经 `yicai.com`
+- 证券时报 `stcn.com`、上海证券报 `cnstock.com`、经济观察报 `eeo.com.cn`
+- 同花顺 / 东方财富 / 巨潮资讯
+
+#### 宏观经济
+
+- 经济数据日历:`investing.com/economic-calendar`
+- 美联储 `federalreserve.gov`
+- 央行 `pbc.gov.cn`
+- 国家统计局 `stats.gov.cn`
+- ECB `ecb.europa.eu`、Bank of England `bankofengland.co.uk`、BOJ `boj.or.jp`
+- 智库:NBER、Brookings、Peterson Institute PIIE
+
+#### 一级市场 / 融资
+
+- TechCrunch funding、Crunchbase News `news.crunchbase.com`
+- 投中网 `chinaventure.com.cn`、IT 桔子 `itjuzi.com`、铅笔道 `pencilnews.cn`
+
+#### 大宗商品 / 商品市场
+
+- Reuters Commodities `reuters.com/markets/commodities`
+- OPEC 月报 `opec.org`
+- Trading Economics `tradingeconomics.com`
+
+
 
 ## 分类与子分类(固定 taxonomy)
 
@@ -155,22 +402,35 @@ docs/.vitepress/data/news/schema.json     JSON Schema (只读参考,不要改)
 
 | 大类 | 子分类枚举 |
 |---|---|
-| **policy** | 产业政策 / 数字经济 / 金融监管 / AI 监管 / 数据安全 / 跨境贸易 / 新能源政策 / 海外政策 |
-| **tech** | 芯片硬件 / 互联网产品 / 开源生态 / 消费电子 / 操作系统 / 网络基础设施 / 安全漏洞 |
-| **industry** | 行业研报 / 公司动态 / SaaS / 云计算 / 新能源汽车 / 制造业 / 消费零售 / 企业服务 |
-| **ai** | 大模型 / 开源模型 / AI 编程 / 推理框架 / Agent / 多模态 / 论文进展 / AI 应用 |
-| **finance** | 美股 / 港股 / A股 / 宏观经济 / 一级市场 / 公司财报 / 风险事件 / 政策利率 |
+| **policy** | 产业政策 / 数字经济 / 金融监管 / AI 监管 / 数据安全 / 跨境贸易 / 新能源政策 / 反垄断 / 半导体出口管制 / 海外政策 |
+| **tech** | 芯片硬件 / 消费电子 / 互联网产品 / 操作系统 / 机器人 / 智能汽车 / 航空航天 / XR-AR-VR / 开发者工具 / 开源生态 / 云计算 / 网络基础设施 / 安全漏洞 |
+| **industry** | 行业研报 / 公司动态 / SaaS / 新能源汽车 / 半导体产业 / 制造业 / 消费零售 / 企业服务 / 医疗健康 / 教育科技 |
+| **trade** | 平台政策 / 平台动态 / 独立站 / 新兴市场 / 物流仓储 / 跨境支付 / 关税法规 / 选品趋势 / 海关数据 |
+| **ai** | 大模型 / 开源模型 / AI 编程 / 推理框架 / Agent / 多模态 / AI 视频 / AI 音频 / 具身智能 / AI 评测 / 论文进展 / AI 应用 |
+| **finance** | 美股 / 港股 / A股 / 宏观经济 / 政策利率 / 一级市场 / 公司财报 / 风险事件 / 大宗商品 |
 
 **跨类路由规则(优先级从高到低)**:
 
-1. 标题/摘要明确涉及 **大模型 / Agent / AI 编程 / 多模态** → 一律归 **ai**,不归 tech
-2. 来源是 **官方政府网站**(`*.gov.cn` / `*.gov.uk` / `*.europa.eu` / `whitehouse.gov`) → 归 **policy**
-3. 内容是 **公司财报 / 业绩快报 / 分红回购** → 归 **finance**(子分类:公司财报)
-4. 内容是 **研究机构 / 咨询公司发布的行业研究** → 归 **industry**(子分类:行业研报)
-5. 内容是 **股票 / 指数 / 宏观数据 / 货币政策** → 归 **finance**
-6. 其余科技产品 / 硬件 / 互联网新闻 → 归 **tech**
+1. 来源是 **官方政府网站**(`*.gov.cn` / `*.gov.uk` / `*.europa.eu` / `whitehouse.gov` / `sec.gov` / `ftc.gov`) → 归 **policy**
+2. 内容是 **AI 模型 / Agent / VLA / 多模态训练 / AI 编程工具 / AI 视频音频生成** → 归 **ai**,即便公司是科技巨头(如 Apple Intelligence、Google Gemini)
+3. 内容是 **具身机器人 AI 能力**(如 Figure 02 VLM / Tesla Optimus 神经网络) → 归 **ai/具身智能**;**机器人本体硬件与产品发布**(如宇树 Go2 上市) → 归 **tech/机器人**
+4. 内容是 **整车产品发布 / 智驾系统 / 车机系统** → 归 **tech/智能汽车**;**车企季度交付量 / 销量数据 / 市占率** → 归 **industry/新能源汽车**;**车企股价 / 财报 / 融资** → 归 **finance/公司财报**
+5. 内容是 **跨境电商平台(Amazon / TikTok Shop / 阿里国际站 / Shopify / Temu / Shein / 速卖通 / Shopee / Lazada / eBay / Walmart)的卖家规则 / 平台政策 / 平台战略 / 跨境出口数据 / 海外仓 / 跨境支付** → 归 **trade**;但同一家公司的 **股价 / 财报** 仍归 **finance**,**公司层面 AI / 算法 / 技术架构发布** 仍归 **tech** 或 **ai**
+6. 内容是 **海关进出口数据 / 跨境综合试验区 / 关税调整 / 出口退税 / 跨境合规要求** → 归 **trade/海关数据 或 关税法规**
+7. 内容是 **公司财报 / 业绩快报 / 分红回购 / 一级市场融资轮次** → 归 **finance**
+8. 内容是 **研究机构 / 咨询公司发布的行业研究** → 归 **industry**(子分类:行业研报)
+9. 内容是 **股票 / 指数 / 宏观数据 / 货币政策 / 大宗商品 / 美联储 / 央行公告** → 归 **finance**
+10. 其余 **科技产品发布 / 硬件 / 互联网产品 / 芯片 / 云服务 / 安全漏洞** → 归 **tech**
 
-如果一条新闻天然跨类(如"工信部发文规范大模型应用"),只放进**最强相关**的那一类(本例归 policy 而非 ai)。
+如果一条新闻天然跨类(如"工信部发文规范大模型应用"),只放进**最强相关**的那一类(本例归 policy 而非 ai;判定准则:**触发该新闻的最直接主体** —— 这里是政府监管行为)。
+
+**简记口诀**:
+- 政府发文 → policy
+- 模型 / 算法 → ai
+- 硬件 / 产品 → tech
+- 销量 / 行业数据 → industry
+- 跨境电商 / 平台卖家政策 / 出海 → trade
+- 股票 / 财报 / 钱 → finance
 
 ## 字段规约(每条 NewsItem)
 
@@ -208,12 +468,13 @@ docs/.vitepress/data/news/schema.json     JSON Schema (只读参考,不要改)
 参数:
   repo: fanweibin2018/fanweibin2018
   branch: main
-  message: "chore(news): routines 更新 YYYY-MM-DD HH:MM (P=x T=y I=z A=w F=v)"
-          // x/y/z/w/v 分别为 5 类的新增条目数
+  message: "chore(news): routines 更新 YYYY-MM-DD HH:MM | policy +Np tech +Nt industry +Ni trade +Nx ai +Na finance +Nf"
+          // Np/Nt/Ni/Nx/Na/Nf 分别为 6 类本次新增条目数
   files:
     - path: docs/.vitepress/data/news/policy.json    content: <serialized JSON>
     - path: docs/.vitepress/data/news/tech.json      content: <serialized JSON>
     - path: docs/.vitepress/data/news/industry.json  content: <serialized JSON>
+    - path: docs/.vitepress/data/news/trade.json     content: <serialized JSON>
     - path: docs/.vitepress/data/news/ai.json        content: <serialized JSON>
     - path: docs/.vitepress/data/news/finance.json   content: <serialized JSON>
 ```
@@ -248,6 +509,7 @@ JSON 序列化注意:
   • 政策信息  +N / 共 NN  (子分类: A×n B×n)
   • 科技新闻  +N / 共 NN
   • 行业新闻  +N / 共 NN
+  • 外贸资讯  +N / 共 NN
   • AI 与大模型 +N / 共 NN
   • 投资与财经 +N / 共 NN
 

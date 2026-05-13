@@ -1,5 +1,6 @@
 <script setup lang="ts">
 import { data as posts } from '../../../posts/posts.data'
+import { data as news } from '../../../news/news.data'
 import { computed } from 'vue'
 import PostList from './PostList.vue'
 
@@ -10,6 +11,15 @@ const latest = computed(() => {
   const pinnedUrls = new Set(featured.value.map((p) => p.url))
   return posts.filter((p) => !pinnedUrls.has(p.url)).slice(0, 12)
 })
+
+const latestNews = computed(() => news.latest.slice(0, 6))
+
+function newsDateDisplay(iso?: string) {
+  if (!iso) return ''
+  const d = new Date(iso)
+  if (isNaN(d.getTime())) return ''
+  return d.toLocaleDateString('zh-CN', { month: '2-digit', day: '2-digit' })
+}
 
 const stats = computed(() => {
   const tags = new Set<string>()
@@ -89,6 +99,28 @@ const stats = computed(() => {
         <a href="/posts/" class="more">全部 →</a>
       </div>
       <PostList :posts="latest" />
+    </section>
+
+    <section v-if="latestNews.length" class="home-section home-news">
+      <div class="section-head">
+        <div class="section-title">
+          <span class="section-en">NEWS FEED</span>
+          <h2>最近资讯</h2>
+        </div>
+        <a href="/news/" class="more">全部 →</a>
+      </div>
+      <ul class="news-mini-list">
+        <li v-for="item in latestNews" :key="item.id || item.url" class="news-mini-item">
+          <a :href="item.url" target="_blank" rel="noopener" class="news-mini-link">
+            <span class="news-mini-title">{{ item.title }}</span>
+            <span class="news-mini-meta">
+              <time v-if="item.publishedAt" :datetime="item.publishedAt">{{ newsDateDisplay(item.publishedAt) }}</time>
+              <a :href="`/news/${item.categorySlug}`" class="news-mini-cat" @click.stop>{{ item.categoryTitle }}</a>
+              <span v-if="item.source" class="news-mini-source">{{ item.source }}</span>
+            </span>
+          </a>
+        </li>
+      </ul>
     </section>
   </div>
 </template>
@@ -274,6 +306,67 @@ const stats = computed(() => {
   font-variant-numeric: tabular-nums;
 }
 
+/* ---------- News mini list (home only) ---------- */
+.home-news .news-mini-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: grid;
+  gap: 2px;
+}
+.news-mini-link {
+  display: flex;
+  align-items: baseline;
+  gap: 14px;
+  padding: 10px 12px;
+  border-radius: 8px;
+  text-decoration: none !important;
+  color: inherit !important;
+  transition: background .15s;
+}
+.news-mini-link:hover {
+  background: var(--vp-c-bg-soft);
+}
+.news-mini-title {
+  flex: 1 1 auto;
+  min-width: 0;
+  font-size: 14px;
+  line-height: 1.55;
+  color: var(--vp-c-text-1);
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.news-mini-link:hover .news-mini-title {
+  color: var(--vp-c-brand-1);
+}
+.news-mini-meta {
+  flex: 0 0 auto;
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  font-size: 12px;
+  color: var(--vp-c-text-3);
+  font-variant-numeric: tabular-nums;
+}
+.news-mini-meta time {
+  font-family: ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace;
+}
+.news-mini-cat {
+  padding: 1px 8px;
+  border-radius: 4px;
+  background: var(--vp-c-brand-soft);
+  color: var(--vp-c-brand-1) !important;
+  font-size: 11px;
+  text-decoration: none !important;
+}
+.news-mini-cat:hover {
+  filter: brightness(1.08);
+}
+.news-mini-source {
+  color: var(--vp-c-text-2);
+}
+
 /* ---------- Responsive ---------- */
 @media (max-width: 640px) {
   .blog-home {
@@ -296,6 +389,22 @@ const stats = computed(() => {
   }
   .stat dd .unit {
     font-size: 13px;
+  }
+  .news-mini-link {
+    flex-wrap: wrap;
+    gap: 4px;
+    padding: 10px 8px;
+  }
+  .news-mini-title {
+    flex-basis: 100%;
+    white-space: normal;
+    overflow: visible;
+  }
+  .news-mini-meta {
+    width: 100%;
+  }
+  .news-mini-source {
+    display: none;
   }
 }
 </style>

@@ -123,6 +123,69 @@ ${items}
 
 const posts = loadPosts()
 
+// --------------------------- news RSS (buildEnd) ---------------------------
+const NEWS_SLUGS = ['policy', 'tech', 'industry', 'trade', 'ai', 'finance']
+
+function loadNewsItems() {
+  const dir = path.resolve(__dirname, 'data/news')
+  if (!fs.existsSync(dir)) return []
+  const all = []
+  for (const slug of NEWS_SLUGS) {
+    const f = path.join(dir, `${slug}.json`)
+    if (!fs.existsSync(f)) continue
+    try {
+      const obj = JSON.parse(fs.readFileSync(f, 'utf-8'))
+      const items = Array.isArray(obj.items) ? obj.items : []
+      for (const it of items) {
+        if (!it || !it.title || !it.url) continue
+        all.push({ ...it, categorySlug: obj.slug || slug, categoryTitle: obj.title || slug })
+      }
+    } catch (err) {
+      console.warn(`[news.xml] failed to parse ${f}:`, err.message)
+    }
+  }
+  return all.sort((a, b) => {
+    const ta = a.publishedAt || ''
+    const tb = b.publishedAt || ''
+    return ta < tb ? 1 : ta > tb ? -1 : 0
+  })
+}
+
+function buildNewsFeedXml() {
+  const now = new Date().toUTCString()
+  const items = loadNewsItems()
+    .slice(0, 50)
+    .map((it) => {
+      const pub = it.publishedAt ? new Date(it.publishedAt).toUTCString() : now
+      const guid = it.id ? `${SITE_URL}/news/${it.categorySlug}#${it.id}` : it.url
+      const desc = it.source ? `[${it.source}] ${it.summary || ''}` : (it.summary || '')
+      return `    <item>
+      <title>${escapeXml(it.title)}</title>
+      <link>${escapeXml(it.url)}</link>
+      <guid isPermaLink="false">${escapeXml(guid)}</guid>
+      <pubDate>${pub}</pubDate>
+      <description>${escapeXml(desc)}</description>
+      <category>${escapeXml(it.categoryTitle)}</category>${
+        it.subCategory ? `\n      <category>${escapeXml(it.subCategory)}</category>` : ''
+      }
+    </item>`
+    })
+    .join('\n')
+  return `<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>${escapeXml(SITE_TITLE)} · 信息与资讯</title>
+    <link>${SITE_URL}/news/</link>
+    <description>每日由 routines 自动抓取的多源资讯,按主题与子分类归档。</description>
+    <language>zh-cn</language>
+    <lastBuildDate>${now}</lastBuildDate>
+    <atom:link href="${SITE_URL}/news.xml" rel="self" type="application/rss+xml"/>
+${items}
+  </channel>
+</rss>
+`
+}
+
 // 站点启动日期：从 2018 年开始算，与页脚总访问数的预估基线保持一致
 const SITE_START_DATE = '2018-01-01'
 
@@ -138,6 +201,7 @@ export default defineConfig({
   head: [
     ['link', { rel: 'icon', type: 'image/svg+xml', href: '/favicon.svg' }],
     ['link', { rel: 'alternate', type: 'application/rss+xml', title: SITE_TITLE, href: '/feed.xml' }],
+    ['link', { rel: 'alternate', type: 'application/rss+xml', title: SITE_TITLE + ' · 信息与资讯', href: '/news.xml' }],
     ['meta', { name: 'author', content: AUTHOR }],
     ['meta', { name: 'theme-color', content: '#3e7bff' }],
     ['meta', { property: 'og:type', content: 'website' }],
@@ -239,6 +303,7 @@ export default defineConfig({
           { text: '政策信息', link: '/news/policy' },
           { text: '科技新闻', link: '/news/tech' },
           { text: '行业新闻', link: '/news/industry' },
+          { text: '外贸资讯', link: '/news/trade' },
           { text: 'AI 与大模型', link: '/news/ai' },
           { text: '投资与财经', link: '/news/finance' }
         ]
@@ -317,11 +382,15 @@ export default defineConfig({
     }
   },
 
-  // Emit RSS feed after build finishes.
+  // Emit RSS feeds after build finishes.
   async buildEnd(siteConfig) {
     const outDir = siteConfig.outDir
     const xml = buildFeedXml(posts)
     await fs.promises.writeFile(path.join(outDir, 'feed.xml'), xml, 'utf-8')
     console.log(`[rss] wrote feed.xml (${posts.length} items)`)
+    const newsXml = buildNewsFeedXml()
+    const newsItems = loadNewsItems().length
+    await fs.promises.writeFile(path.join(outDir, 'news.xml'), newsXml, 'utf-8')
+    console.log(`[rss] wrote news.xml (${Math.min(newsItems, 50)} items from ${newsItems} total)`)
   }
 })

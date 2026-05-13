@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import { computed } from 'vue'
+import { computed, ref, watch } from 'vue'
 import { data as news, type NewsItem } from '../../../news/news.data'
 
 const props = defineProps<{
@@ -8,11 +8,85 @@ const props = defineProps<{
 
 const category = computed(() => news.bySlug[props.slug])
 
-const groups = computed(() => {
+// 各 slug 的平台 / 来源过滤器(可扩展)。
+// 一个过滤器 = 一个 chip,匹配规则作用于 NewsItem.source。
+// '其他' 是兜底:命中"非任何已知平台"的条目。
+type PlatformFilter = { label: string; test: (source: string) => boolean }
+const PLATFORM_FILTERS: Record<string, PlatformFilter[]> = {
+  trade: [
+    { label: 'Amazon',     test: (s) => /amazon|亚马逊/i.test(s) },
+    { label: 'TikTok Shop',test: (s) => /tiktok/i.test(s) },
+    { label: '阿里国际站', test: (s) => /阿里巴巴国际站|alibaba|aliexpress|速卖通|okki/i.test(s) },
+    { label: 'Shopify',    test: (s) => /shopify/i.test(s) },
+    { label: 'Temu',       test: (s) => /temu/i.test(s) },
+    { label: 'Shein',      test: (s) => /shein/i.test(s) },
+    { label: 'eBay',       test: (s) => /ebay/i.test(s) },
+    { label: 'Walmart',    test: (s) => /walmart/i.test(s) },
+    { label: 'Shopee',     test: (s) => /shopee/i.test(s) },
+    { label: 'Lazada',     test: (s) => /lazada/i.test(s) },
+    { label: '海关/政府',  test: (s) => /海关|商务部|外汇局|出口信保|customs|cbp|ustr|ccpit|mofcom/i.test(s) },
+    { label: '其他',       test: () => false }
+  ]
+}
+
+const platformFilters = computed(() => PLATFORM_FILTERS[props.slug] || [])
+const hasPlatformFilters = computed(() => platformFilters.value.length > 0)
+const selected = ref<Set<string>>(new Set())
+
+watch(() => props.slug, () => { selected.value = new Set() })
+
+function matchesFilter(source: string, label: string): boolean {
+  if (label === '其他') {
+    return !platformFilters.value
+      .filter((f) => f.label !== '其他')
+      .some((f) => f.test(source))
+  }
+  const f = platformFilters.value.find((x) => x.label === label)
+  return f ? f.test(source) : false
+}
+
+function toggle(label: string) {
+  const next = new Set(selected.value)
+  if (next.has(label)) next.delete(label)
+  else next.add(label)
+  selected.value = next
+}
+
+function clear() {
+  selected.value = new Set()
+}
+
+const filterCounts = computed(() => {
+  const cat = category.value
+  const result: Record<string, number> = {}
+  if (!cat) return result
+  for (const f of platformFilters.value) {
+    let count = 0
+    for (const item of cat.items) {
+      if (matchesFilter(item.source || '', f.label)) count++
+    }
+    result[f.label] = count
+  }
+  return result
+})
+
+const filteredItems = computed(() => {
   const cat = category.value
   if (!cat) return []
+  if (selected.value.size === 0) return cat.items
+  return cat.items.filter((item) => {
+    const src = item.source || ''
+    for (const label of selected.value) {
+      if (matchesFilter(src, label)) return true
+    }
+    return false
+  })
+})
+
+const groups = computed(() => {
+  if (!category.value) return []
   const map = new Map<string, NewsItem[]>()
-  for (const item of cat.items) {
+  for (const item of filteredItems.value) {
     const key = (item.subCategory && item.subCategory.trim()) || '其他'
     if (!map.has(key)) map.set(key, [])
     map.get(key)!.push(item)
@@ -23,6 +97,7 @@ const groups = computed(() => {
 })
 
 const totalCount = computed(() => category.value?.items.length || 0)
+const filteredCount = computed(() => filteredItems.value.length)
 
 const updatedDisplay = computed(() => {
   const u = category.value?.updatedAt
@@ -73,6 +148,32 @@ function hostOf(url: string) {
     </header>
 
     <p v-else class="nf-empty">未找到 <code>{{ slug }}</code> 类别的数据,等待 routines 写入。</p>
+
+    <div v-if="category && hasPlatformFilters" class="nf-filters">
+      <span class="nf-filters-label">平台筛选</span>
+      <button
+        v-for="f in platformFilters"
+        :key="f.label"
+        type="button"
+        :class="['nf-filter-chip', { 'is-active': selected.has(f.label), 'is-empty': !filterCounts[f.label] }]"
+        :disabled="!filterCounts[f.label] && !selected.has(f.label)"
+        :aria-pressed="selected.has(f.label)"
+        @click="toggle(f.label)"
+      >
+        {{ f.label }}
+        <span class="nf-filter-count">{{ filterCounts[f.label] || 0 }}</span>
+      </button>
+      <span v-if="selected.size" class="nf-filters-summary">
+        命中 {{ filteredCount }} / {{ totalCount }}
+      </span>
+      <button v-if="selected.size" type="button" class="nf-filter-clear" @click="clear">
+        清空 ×
+      </button>
+    </div>
+
+    <p v-if="category && hasPlatformFilters && selected.size && !filteredCount" class="nf-empty">
+      所选平台下暂无条目。<button type="button" class="nf-filter-clear inline" @click="clear">清空筛选</button>
+    </p>
 
     <section v-for="g in groups" :key="g.name" class="nf-group">
       <header class="nf-group-head">
@@ -165,6 +266,92 @@ function hostOf(url: string) {
   border-radius: 4px;
   background: var(--vp-c-bg-soft);
   font-size: 12px;
+}
+
+/* ---------- Filters (platform chips) ---------- */
+.nf-filters {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  align-items: center;
+  margin-bottom: 24px;
+  padding: 12px 14px;
+  border: 1px solid var(--vp-c-divider);
+  border-radius: 10px;
+  background: var(--vp-c-bg-soft);
+}
+.nf-filters-label {
+  font-family: ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace;
+  font-size: 11px;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: var(--vp-c-text-3);
+  margin-right: 4px;
+}
+.nf-filter-chip {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 4px 10px;
+  border-radius: 14px;
+  border: 1px solid var(--vp-c-divider);
+  background: var(--vp-c-bg);
+  color: var(--vp-c-text-1);
+  font-size: 12px;
+  line-height: 1.4;
+  cursor: pointer;
+  transition: all .15s;
+  font-family: inherit;
+}
+.nf-filter-chip:hover:not(:disabled) {
+  border-color: var(--vp-c-brand-1);
+  color: var(--vp-c-brand-1);
+}
+.nf-filter-chip.is-active {
+  background: var(--vp-c-brand-1);
+  border-color: var(--vp-c-brand-1);
+  color: #fff;
+}
+.nf-filter-chip.is-active .nf-filter-count {
+  background: rgba(255, 255, 255, 0.22);
+  color: #fff;
+}
+.nf-filter-chip.is-empty {
+  opacity: 0.4;
+  cursor: not-allowed;
+}
+.nf-filter-count {
+  font-family: ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace;
+  font-size: 10px;
+  padding: 1px 5px;
+  border-radius: 8px;
+  background: var(--vp-c-bg-soft);
+  color: var(--vp-c-text-3);
+  line-height: 1.4;
+}
+.nf-filter-clear {
+  padding: 4px 10px;
+  border-radius: 14px;
+  border: 1px dashed var(--vp-c-divider);
+  background: transparent;
+  color: var(--vp-c-text-3);
+  font-size: 12px;
+  cursor: pointer;
+  font-family: inherit;
+}
+.nf-filter-clear:hover {
+  color: var(--vp-c-brand-1);
+  border-color: var(--vp-c-brand-1);
+}
+.nf-filter-clear.inline {
+  margin-left: 8px;
+  vertical-align: baseline;
+}
+.nf-filters-summary {
+  margin-left: auto;
+  font-family: ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace;
+  font-size: 11px;
+  color: var(--vp-c-text-3);
 }
 
 /* ---------- Group ---------- */

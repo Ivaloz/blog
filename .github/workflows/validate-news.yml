@@ -1,0 +1,66 @@
+name: Validate News JSON
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'docs/.vitepress/data/news/**.json'
+      - '.github/workflows/validate-news.yml'
+  pull_request:
+    paths:
+      - 'docs/.vitepress/data/news/**.json'
+      - 'docs/.vitepress/data/news/schema.json'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    name: ajv validate
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install ajv-cli + ajv-formats
+        run: npm install --no-save ajv-cli@5 ajv-formats@3
+
+      - name: Validate news JSON against schema
+        run: |
+          npx ajv validate \
+            -s docs/.vitepress/data/news/schema.json \
+            -d 'docs/.vitepress/data/news/policy.json' \
+            -d 'docs/.vitepress/data/news/tech.json' \
+            -d 'docs/.vitepress/data/news/industry.json' \
+            -d 'docs/.vitepress/data/news/trade.json' \
+            -d 'docs/.vitepress/data/news/ai.json' \
+            -d 'docs/.vitepress/data/news/finance.json' \
+            --strict=false --spec=draft2020 -c ajv-formats
+
+      - name: Verify slug matches filename
+        run: |
+          fail=0
+          for f in docs/.vitepress/data/news/policy.json \
+                   docs/.vitepress/data/news/tech.json \
+                   docs/.vitepress/data/news/industry.json \
+                   docs/.vitepress/data/news/trade.json \
+                   docs/.vitepress/data/news/ai.json \
+                   docs/.vitepress/data/news/finance.json; do
+            name=$(basename "$f" .json)
+            slug=$(jq -r .slug "$f")
+            if [ "$name" != "$slug" ]; then
+              echo "::error file=$f::slug '$slug' does not match filename '$name'"
+              fail=1
+            fi
+          done
+          exit $fail
+
+      - name: Verify no placeholder URLs leaked into production data
+        run: |
+          if grep -rn 'example\.com' docs/.vitepress/data/news/*.json; then
+            echo "::warning::placeholder example.com URLs still present; routine should overwrite these on next run."
+          fi

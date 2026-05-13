@@ -14,7 +14,7 @@
     "slug": {
       "type": "string",
       "description": "大类英文 slug,需与文件名 <slug>.json 一致;新增类别时同步更新 docs/news/news.data.ts 的 CATEGORY_SLUGS 与本 enum。",
-      "enum": ["policy", "tech", "industry", "ai", "finance"]
+      "enum": ["policy", "tech", "industry", "trade", "ai", "finance"]
     },
     "title": {
       "type": "string",
