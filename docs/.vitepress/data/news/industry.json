@@ -1,0 +1,44 @@
+{
+  "slug": "industry",
+  "title": "行业新闻",
+  "description": "企业服务、SaaS、云计算、制造业、消费互联网的产业动态。",
+  "updatedAt": "2026-05-13T08:00:00+08:00",
+  "items": [
+    {
+      "id": "industry-20260512-001",
+      "title": "阿里云宣布全面降价,核心计算产品平均下调 22%",
+      "summary": "覆盖 ECS、对象存储、数据库、AI 推理实例等 200+ 商品,被业内解读为公有云价格战进入新阶段。",
+      "publishedAt": "2026-05-12T15:00:00+08:00",
+      "source": "阿里云",
+      "url": "https://example.com/industry-1",
+      "subCategory": "云计算"
+    },
+    {
+      "id": "industry-20260512-002",
+      "title": "钉钉 7.5 上线\"AI 团队\",支持自定义角色与权限",
+      "summary": "面向中大型组织开放,可将日常审批、汇报、纪要等流程交由 AI 角色处理,主管负责复核与例外。",
+      "publishedAt": "2026-05-12T10:00:00+08:00",
+      "source": "钉钉",
+      "url": "https://example.com/industry-2",
+      "subCategory": "企业服务"
+    },
+    {
+      "id": "industry-20260511-001",
+      "title": "比亚迪海外销量首次超过国内,4 月达 32.6 万辆",
+      "summary": "欧洲 + 东南亚双市场驱动,巴西、泰国工厂均已满产,Q2 预计交付 80 万辆海外订单。",
+      "publishedAt": "2026-05-11T19:00:00+08:00",
+      "source": "比亚迪",
+      "url": "https://example.com/industry-3",
+      "subCategory": "新能源"
+    },
+    {
+      "id": "industry-20260510-001",
+      "title": "SaaS 厂商 Notion 调整定价,引入按 AI 调用付费",
+      "summary": "免费版保留基础协作,AI 功能改为按 token 计费,中国区由本地服务商接入合规算力。",
+      "publishedAt": "2026-05-10T22:30:00+08:00",
+      "source": "Notion Blog",
+      "url": "https://example.com/industry-4",
+      "subCategory": "SaaS"
+    }
+  ]
+}

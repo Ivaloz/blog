@@ -1,0 +1,44 @@
+{
+  "slug": "finance",
+  "title": "投资与财经",
+  "description": "宏观经济、A 股 / 港股 / 美股、一级市场融资、行业研报观点。",
+  "updatedAt": "2026-05-13T08:00:00+08:00",
+  "items": [
+    {
+      "id": "finance-20260513-001",
+      "title": "央行 5 月 LPR 报价持平,1 年期 3.10%,5 年期 3.55%",
+      "summary": "市场原本预期 5 年期下调 5bp,叠加近期房地产数据偏弱,银行净息差压力依然显著。",
+      "publishedAt": "2026-05-13T09:15:00+08:00",
+      "source": "中国人民银行",
+      "url": "https://example.com/finance-1",
+      "subCategory": "宏观经济"
+    },
+    {
+      "id": "finance-20260512-001",
+      "title": "AI 基础设施公司 CoreWeave 完成 D 轮融资,估值 230 亿美元",
+      "summary": "由黑石领投,英伟达、英特尔战略加投,本轮募资将用于扩张欧洲数据中心容量。",
+      "publishedAt": "2026-05-12T21:00:00+08:00",
+      "source": "Bloomberg",
+      "url": "https://example.com/finance-2",
+      "subCategory": "一级市场"
+    },
+    {
+      "id": "finance-20260512-002",
+      "title": "贵州茅台一季度净利润同比 +12.4%,直销渠道占比超 50%",
+      "summary": "i 茅台 + 自营店双轮驱动,系列酒收入同比 +35%,管理层强调价格体系稳定优先。",
+      "publishedAt": "2026-05-12T18:30:00+08:00",
+      "source": "证券时报",
+      "url": "https://example.com/finance-3",
+      "subCategory": "公司财报"
+    },
+    {
+      "id": "finance-20260511-001",
+      "title": "美联储 5 月会议纪要:多数官员倾向于年内再降息一次",
+      "summary": "纪要措辞较 4 月明显鸽派,通胀回落速度好于预期,但服务通胀粘性仍受关注。",
+      "publishedAt": "2026-05-11T02:00:00+08:00",
+      "source": "Federal Reserve",
+      "url": "https://example.com/finance-4",
+      "subCategory": "宏观经济"
+    }
+  ]
+}
