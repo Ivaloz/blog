@@ -275,29 +275,113 @@ journalctl -u mihomo -f --no-pager
 # Ctrl+C 退出
 ```
 
-### 4.6 装 Web Dashboard（YACD 或 MetaCubeX）
+### 4.6 装 Web Dashboard（metacubexd）
 
-可视化看流量、切换节点：
+可视化看流量、切换节点。这里用 metacubexd 官方编译好的 release 包，省得本地装 npm 现编译。
+
+#### Step 1：下载 metacubexd UI
 
 ```bash
 cd /opt/mihomo
 
-# YACD (老牌 Dashboard)
-wget https://github.com/haishanh/yacd/archive/gh-pages.zip
-unzip gh-pages.zip
-mv yacd-gh-pages ui
-rm gh-pages.zip
+# 走自身代理拉（前提：mihomo 已经在跑、订阅可用）
+export http_proxy=http://127.0.0.1:7890
+export https_proxy=http://127.0.0.1:7890
 
-# 或 MetaCubeX 官方 Dashboard (推荐)
-git clone https://github.com/MetaCubeX/metacubexd.git ui
-cd ui
-# 装 npm + 编译，或直接拉 release 版本
+curl -L -o /tmp/ui.tgz \
+  https://github.com/MetaCubeX/metacubexd/releases/latest/download/compressed-dist.tgz
 
-# 重启 mihomo
-systemctl restart mihomo
+# 检查下载成功（~2-3MB）
+ls -lh /tmp/ui.tgz
+
+# 解压
+mkdir -p /opt/mihomo/ui
+tar -xzf /tmp/ui.tgz -C /opt/mihomo/ui
+rm /tmp/ui.tgz
+
+# 验证
+ls /opt/mihomo/ui/index.html
 ```
 
-浏览器访问：`http://192.168.X.12:9090/ui` → 输入 secret → 完整 Dashboard。
+下不到走 GitHub 镜像：
+
+```bash
+curl -L -o /tmp/ui.tgz \
+  https://gh-proxy.com/https://github.com/MetaCubeX/metacubexd/releases/latest/download/compressed-dist.tgz
+```
+
+#### Step 2：在 config.yaml 加一行 external-ui
+
+```bash
+# 备份
+cp /opt/mihomo/config.yaml /opt/mihomo/config.yaml.bak.$(date +%F)
+
+# 看 external-ui 现在在不在
+grep -n "external-ui" /opt/mihomo/config.yaml
+
+# 不在的话，在 secret 行后面插 external-ui
+sed -i "/^secret:/a external-ui: /opt/mihomo/ui" /opt/mihomo/config.yaml
+
+# 验证
+grep -A1 "^secret:" /opt/mihomo/config.yaml
+# 期望看到：
+# secret: '<RANDOM_LONG_STRING>'
+# external-ui: /opt/mihomo/ui
+```
+
+#### Step 3：（可选）开 CORS 允许局域网浏览器访问 API
+
+```bash
+# 在 external-ui 行后再插 CORS 配置
+sed -i "/^external-ui:/a external-controller-cors:\n    allow-origins:\n        - '*'\n    allow-private-network: true" /opt/mihomo/config.yaml
+
+# 验证
+grep -A4 "^external-ui:" /opt/mihomo/config.yaml
+```
+
+#### Step 4：重启 + 验证
+
+```bash
+systemctl restart mihomo
+sleep 2
+systemctl status mihomo --no-pager | head -10
+
+# 看启动日志有没有起 UI
+journalctl -u mihomo -n 30 --no-pager | grep -iE 'external|ui|api|listening'
+
+# 期望看到：
+# RESTful API listening at: [::]:9090
+# External UI: serving at /ui
+```
+
+LXC 内部连通性测一下：
+
+```bash
+curl -s http://127.0.0.1:9090/ui/index.html | head -3
+# 期望：看到 <!DOCTYPE html>... 之类的页面内容
+
+# 测 API
+curl -s -H "Authorization: Bearer <SECRET>" \
+  http://127.0.0.1:9090/version
+# 期望：{"version":"...","meta":true}
+```
+
+#### Step 5：浏览器登录
+
+笔记本浏览器（与 LXC 容器同网段）打开：
+
+```
+http://192.168.X.12:9090/ui/
+```
+
+填：
+
+```
+API Base URL:  http://192.168.X.12:9090
+Secret:        <你 config.yaml 里 secret 字段的值>
+```
+
+→ Add → 进 dashboard。节点切换、延迟测试、实时流量、规则查看全有。
 
 ---
 
