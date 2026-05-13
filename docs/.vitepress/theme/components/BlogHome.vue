@@ -90,17 +90,6 @@ const stats = computed(() => {
       </ul>
     </section>
 
-    <section class="home-section">
-      <div class="section-head">
-        <div class="section-title">
-          <span class="section-en">LATEST</span>
-          <h2>最新</h2>
-        </div>
-        <a href="/posts/" class="more">全部 →</a>
-      </div>
-      <PostList :posts="latest" />
-    </section>
-
     <section v-if="latestNews.length" class="home-section home-news">
       <div class="section-head">
         <div class="section-title">
@@ -121,6 +110,17 @@ const stats = computed(() => {
           </a>
         </li>
       </ul>
+    </section>
+
+    <section class="home-section">
+      <div class="section-head">
+        <div class="section-title">
+          <span class="section-en">LATEST</span>
+          <h2>最新</h2>
+        </div>
+        <a href="/posts/" class="more">全部 →</a>
+      </div>
+      <PostList :posts="latest" />
     </section>
   </div>
 </template>
