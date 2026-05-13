@@ -24,6 +24,7 @@
 docs/.vitepress/data/news/policy.json     政策信息
 docs/.vitepress/data/news/tech.json       科技新闻
 docs/.vitepress/data/news/industry.json   行业新闻
+docs/.vitepress/data/news/trade.json      外贸资讯
 docs/.vitepress/data/news/ai.json         AI 与大模型
 docs/.vitepress/data/news/finance.json    投资与财经
 docs/.vitepress/data/news/schema.json     JSON Schema (只读参考,不要改)
@@ -236,6 +237,74 @@ docs/.vitepress/data/news/schema.json     JSON Schema (只读参考,不要改)
 - Apptronik Apollo
 - 划分标准:**讨论硬件本体 = tech/机器人;讨论 AI 模型 / VLA / 数据集 = ai/具身智能**
 
+### trade(外贸资讯) — 窗口:过去 24 小时
+
+#### 平台官方(卖家中心 / Newsroom)
+
+- **亚马逊 Amazon**
+  - Seller Central News `sellercentral.amazon.com/help/hub/announcements`
+  - Amazon Newsroom `aboutamazon.com/news`
+  - 全球开店中文站(`gs.amazon.cn`)、新闻动态
+- **TikTok Shop**
+  - TikTok Newsroom `newsroom.tiktok.com`
+  - Seller Center 公告(各国站点:US / UK / 东南亚 6 国 / 沙特 / 墨西哥)
+  - 字节火山引擎 TikTok 数据
+- **阿里巴巴国际站 Alibaba.com**
+  - 阿里巴巴国际站资讯 `seller.alibaba.com/aliyz`
+  - OKKI / OKKI Copilot 产品动态
+  - 1688 跨境专供
+- **AliExpress(速卖通)** `sell.aliexpress.com/zh/news`
+- **Shopify**
+  - Shopify News `news.shopify.com`
+  - Shopify Engineering `shopify.engineering/blog`
+- **Temu / Pinduoduo Holdings** `temu.com` 卖家公告
+- **Shein** `careers.sheingroup.com` / `corporate.sheingroup.com`
+- **eBay** `ebaymainstreet.com` / 卖家中心
+- **Walmart Marketplace** `marketplace.walmart.com/news`
+- **Shopee 东南亚** `seller.shopee.com/edu/category/announcement`
+- **Lazada** `sellercenter.lazada.com.my`(各东南亚站)
+- **Mercado Libre 拉美** `developers.mercadolibre.com.ar/zh_cn/announcement`
+- **Coupang 韩国** `coupangnews.com`
+- **Wish** `merchant.wish.com/announcements`
+
+#### 跨境电商垂直媒体(中文)
+
+- 雨果跨境 `cifnews.com`
+- 亿邦动力 `ebrun.com`
+- 鹰熊汇 / 跨境眼 / 跨境知道
+- 36 氪出海 `overseas.36kr.com`
+- KrAsia(亚洲)`kr-asia.com`
+- 网经社电子商务研究中心 `100ec.cn`
+- 跨境电商指南、卖家精灵 `sellersprite.com/cn/blog`
+
+#### 海外行业 / 数据机构
+
+- Marketplace Pulse `marketplacepulse.com`
+- Helium 10 blog、Jungle Scout blog
+- Modern Retail `modernretail.co`、Retail Dive `retaildive.com`
+- Tech in Asia `techinasia.com`、DealStreetAsia `dealstreetasia.com`
+- eMarketer / Insider Intelligence cross-border 主题页
+- Forrester Retail、Gartner Digital Commerce
+
+#### 政府 / 海关 / 行业协会
+
+- 中国海关总署 `customs.gov.cn`(进出口数据 / 公告)
+- 商务部对外贸易司 `mofcom.gov.cn`(外贸数据、跨境电商综试区)
+- 国务院关税税则委员会
+- 中国国际贸易促进委员会 CCPIT `ccpit.org`
+- 国家外汇管理局 `safe.gov.cn`
+- 中国出口信用保险公司 `sinosure.com.cn`
+- 海外:USTR `ustr.gov`、US Customs CBP `cbp.gov`、欧盟海关 TARIC `taxation-customs.ec.europa.eu`
+- 各国合规:韩国 KCC、印尼 BKPM、巴西 ANATEL、墨西哥 SAT
+
+#### 物流 / 跨境支付
+
+- 中外运 / 中国邮政国际 / 菜鸟国际 / 京东物流国际(京东 IR 子页)
+- DHL `dhl.com/global-en/home/press.html`、FedEx、UPS
+- Flexport `flexport.com/blog`、ShipBob、Easyship
+- 跨境支付:Payoneer `payoneer.com/resources`、WorldFirst `worldfirst.com`、Airwallex `airwallex.com/blog`、连连国际 `lianlianpay-global.com`、PingPong `pingpongx.com`
+- 波罗的海航运指数 BDI `balticexchange.com`、上海集装箱运价指数 SCFI、Drewry WCI
+
 ### industry(行业新闻) — 窗口:过去 7 天
 
 #### 中国研究机构
@@ -336,6 +405,7 @@ docs/.vitepress/data/news/schema.json     JSON Schema (只读参考,不要改)
 | **policy** | 产业政策 / 数字经济 / 金融监管 / AI 监管 / 数据安全 / 跨境贸易 / 新能源政策 / 反垄断 / 半导体出口管制 / 海外政策 |
 | **tech** | 芯片硬件 / 消费电子 / 互联网产品 / 操作系统 / 机器人 / 智能汽车 / 航空航天 / XR-AR-VR / 开发者工具 / 开源生态 / 云计算 / 网络基础设施 / 安全漏洞 |
 | **industry** | 行业研报 / 公司动态 / SaaS / 新能源汽车 / 半导体产业 / 制造业 / 消费零售 / 企业服务 / 医疗健康 / 教育科技 |
+| **trade** | 平台政策 / 平台动态 / 独立站 / 新兴市场 / 物流仓储 / 跨境支付 / 关税法规 / 选品趋势 / 海关数据 |
 | **ai** | 大模型 / 开源模型 / AI 编程 / 推理框架 / Agent / 多模态 / AI 视频 / AI 音频 / 具身智能 / AI 评测 / 论文进展 / AI 应用 |
 | **finance** | 美股 / 港股 / A股 / 宏观经济 / 政策利率 / 一级市场 / 公司财报 / 风险事件 / 大宗商品 |
 
@@ -345,10 +415,12 @@ docs/.vitepress/data/news/schema.json     JSON Schema (只读参考,不要改)
 2. 内容是 **AI 模型 / Agent / VLA / 多模态训练 / AI 编程工具 / AI 视频音频生成** → 归 **ai**,即便公司是科技巨头(如 Apple Intelligence、Google Gemini)
 3. 内容是 **具身机器人 AI 能力**(如 Figure 02 VLM / Tesla Optimus 神经网络) → 归 **ai/具身智能**;**机器人本体硬件与产品发布**(如宇树 Go2 上市) → 归 **tech/机器人**
 4. 内容是 **整车产品发布 / 智驾系统 / 车机系统** → 归 **tech/智能汽车**;**车企季度交付量 / 销量数据 / 市占率** → 归 **industry/新能源汽车**;**车企股价 / 财报 / 融资** → 归 **finance/公司财报**
-5. 内容是 **公司财报 / 业绩快报 / 分红回购 / 一级市场融资轮次** → 归 **finance**
-6. 内容是 **研究机构 / 咨询公司发布的行业研究** → 归 **industry**(子分类:行业研报)
-7. 内容是 **股票 / 指数 / 宏观数据 / 货币政策 / 大宗商品 / 美联储 / 央行公告** → 归 **finance**
-8. 其余 **科技产品发布 / 硬件 / 互联网产品 / 芯片 / 云服务 / 安全漏洞** → 归 **tech**
+5. 内容是 **跨境电商平台(Amazon / TikTok Shop / 阿里国际站 / Shopify / Temu / Shein / 速卖通 / Shopee / Lazada / eBay / Walmart)的卖家规则 / 平台政策 / 平台战略 / 跨境出口数据 / 海外仓 / 跨境支付** → 归 **trade**;但同一家公司的 **股价 / 财报** 仍归 **finance**,**公司层面 AI / 算法 / 技术架构发布** 仍归 **tech** 或 **ai**
+6. 内容是 **海关进出口数据 / 跨境综合试验区 / 关税调整 / 出口退税 / 跨境合规要求** → 归 **trade/海关数据 或 关税法规**
+7. 内容是 **公司财报 / 业绩快报 / 分红回购 / 一级市场融资轮次** → 归 **finance**
+8. 内容是 **研究机构 / 咨询公司发布的行业研究** → 归 **industry**(子分类:行业研报)
+9. 内容是 **股票 / 指数 / 宏观数据 / 货币政策 / 大宗商品 / 美联储 / 央行公告** → 归 **finance**
+10. 其余 **科技产品发布 / 硬件 / 互联网产品 / 芯片 / 云服务 / 安全漏洞** → 归 **tech**
 
 如果一条新闻天然跨类(如"工信部发文规范大模型应用"),只放进**最强相关**的那一类(本例归 policy 而非 ai;判定准则:**触发该新闻的最直接主体** —— 这里是政府监管行为)。
 
@@ -357,6 +429,7 @@ docs/.vitepress/data/news/schema.json     JSON Schema (只读参考,不要改)
 - 模型 / 算法 → ai
 - 硬件 / 产品 → tech
 - 销量 / 行业数据 → industry
+- 跨境电商 / 平台卖家政策 / 出海 → trade
 - 股票 / 财报 / 钱 → finance
 
 ## 字段规约(每条 NewsItem)
@@ -395,12 +468,13 @@ docs/.vitepress/data/news/schema.json     JSON Schema (只读参考,不要改)
 参数:
   repo: fanweibin2018/fanweibin2018
   branch: main
-  message: "chore(news): routines 更新 YYYY-MM-DD HH:MM (P=x T=y I=z A=w F=v)"
-          // x/y/z/w/v 分别为 5 类的新增条目数
+  message: "chore(news): routines 更新 YYYY-MM-DD HH:MM | policy +Np tech +Nt industry +Ni trade +Nx ai +Na finance +Nf"
+          // Np/Nt/Ni/Nx/Na/Nf 分别为 6 类本次新增条目数
   files:
     - path: docs/.vitepress/data/news/policy.json    content: <serialized JSON>
     - path: docs/.vitepress/data/news/tech.json      content: <serialized JSON>
     - path: docs/.vitepress/data/news/industry.json  content: <serialized JSON>
+    - path: docs/.vitepress/data/news/trade.json     content: <serialized JSON>
     - path: docs/.vitepress/data/news/ai.json        content: <serialized JSON>
     - path: docs/.vitepress/data/news/finance.json   content: <serialized JSON>
 ```
@@ -435,6 +509,7 @@ JSON 序列化注意:
   • 政策信息  +N / 共 NN  (子分类: A×n B×n)
   • 科技新闻  +N / 共 NN
   • 行业新闻  +N / 共 NN
+  • 外贸资讯  +N / 共 NN
   • AI 与大模型 +N / 共 NN
   • 投资与财经 +N / 共 NN
 

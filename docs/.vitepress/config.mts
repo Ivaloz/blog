@@ -239,6 +239,7 @@ export default defineConfig({
           { text: '政策信息', link: '/news/policy' },
           { text: '科技新闻', link: '/news/tech' },
           { text: '行业新闻', link: '/news/industry' },
+          { text: '外贸资讯', link: '/news/trade' },
           { text: 'AI 与大模型', link: '/news/ai' },
           { text: '投资与财经', link: '/news/finance' }
         ]

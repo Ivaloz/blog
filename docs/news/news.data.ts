@@ -35,7 +35,7 @@ export interface NewsCategory {
 // 大类清单 —— 顺序即顶部导航顺序。
 // 新增一个大类:1) 在此追加;2) 在 docs/.vitepress/data/news/ 放对应 JSON;
 //             3) 在 docs/news/ 新增对应 markdown 页面与导航。
-export const CATEGORY_SLUGS = ['policy', 'tech', 'industry', 'ai', 'finance'] as const
+export const CATEGORY_SLUGS = ['policy', 'tech', 'industry', 'trade', 'ai', 'finance'] as const
 export type CategorySlug = (typeof CATEGORY_SLUGS)[number]
 
 export interface NewsData {
