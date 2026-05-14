@@ -3,16 +3,43 @@
   "slug": "ai",
   "title": "AI 与大模型",
   "description": "大模型、Agent、AI 编程、推理框架、开源模型的发布与落地。",
-  "updatedAt": "2026-05-14T08:30:00+08:00",
+  "updatedAt": "2026-05-14T17:40:00+08:00",
   "items": [
+    {
+      "id": "ai-20260514-001",
+      "title": "DeepSeek 专家模式已无法上传文件，官方提示资源紧张",
+      "summary": "DeepSeek专家模式停止支持文件上传，官方说明原因为资源紧张，网页端与App端同步下线该功能；快速模式保留上传权限但仅支持识别图片中的文字；DeepSeek同期灰度测试历史聊天关键词搜索新功能。",
+      "publishedAt": "2026-05-14T15:16:15+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/950/419.htm",
+      "subCategory": "大模型"
+    },
     {
       "id": "ai-20260513-001",
       "title": "Google Android Show 展示 Gemini Intelligence 代理体系：跨应用自动任务、Chrome 获代理浏览功能",
-      "summary": "谷歌在5月13日Android Show上正式展示Gemini Intelligence体系，宣布将安卓从操作系统重构为'智能系统'：Gemini可跨应用读取屏幕并自动完成多步任务，Chrome Android新增Auto Browse代理浏览功能，Android Auto围绕Gemini重新设计，新功能夏季首发三星Galaxy及Pixel旗舰机型，年内扩展至手表、车载与智能眼镜端。",
+      "summary": "谷歌在5月13日Android Show上正式展示Gemini Intelligence体系，宣布将安卓从操作系统重构为智能系统：Gemini可跨应用读取屏幕并自动完成多步任务，Chrome Android新增Auto Browse代理浏览功能，Android Auto围绕Gemini重新设计，新功能夏季首发三星Galaxy及Pixel旗舰机型，年内扩展至手表、车载与智能眼镜端。",
       "publishedAt": "2026-05-13",
       "source": "Google Blog",
       "url": "https://blog.google/products-and-platforms/platforms/android/android-show-io-edition-2026/",
       "subCategory": "Agent"
+    },
+    {
+      "id": "ai-20260513-002",
+      "title": "Anthropic 推出 Claude for Small Business",
+      "summary": "Anthropic推出Claude for Small Business，通过Claude Cowork平台集成QuickBooks、PayPal、HubSpot、Canva、DocuSign等主流商业软件，提供财务、运营、销售、HR等15类代理工作流，面向美国小微企业主，并同步发起10城免费AI培训巡回活动。",
+      "publishedAt": "2026-05-13",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/news/claude-for-small-business",
+      "subCategory": "AI应用"
+    },
+    {
+      "id": "ai-20260513-003",
+      "title": "AnyFlow: Any-Step Video Diffusion Model with On-Policy Flow Map Distillation",
+      "summary": "提出AnyFlow视频扩散生成框架，以流映射过渡学习取代固定步长端点一致性映射，使模型在任意采样步数下维持生成质量并降低离散化误差与生成偏差，为视频扩散模型高效蒸馏提供新方向；5月14日在HuggingFace Daily Papers以78票获当日最高关注。",
+      "publishedAt": "2026-05-13",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2605.13724",
+      "subCategory": "论文进展"
     },
     {
       "id": "ai-20260508-001",
@@ -45,7 +72,7 @@
       "id": "ai-20260424-001",
       "title": "DeepSeek V4 正式开源，首次打通华为昇腾，百万上下文成默认",
       "summary": "DeepSeek V4采用混合注意力架构（CSA+HCA），首次原生支持华为昇腾与英伟达GPU双平台，百万token上下文为默认配置，推理成本大幅下降，开源后迅速在国产大模型生态内获得广泛适配。",
-      "publishedAt": "2026-04-24T10:00:00+08:00",
+      "publishedAt": "2026-04-24",
       "source": "InfoQ",
       "url": "https://www.infoq.cn/article/wUUPEzvNajcaVN0k7HPF",
       "subCategory": "开源模型"
@@ -54,7 +81,7 @@
       "id": "ai-20260416-001",
       "title": "Anthropic 发布 Claude Opus 4.7，编码基准较前代提升 13%",
       "summary": "Claude Opus 4.7 在软件工程编码基准上较 Opus 4.6 提升13%，视觉支持最高375万像素图像，在Finance Agent与GDPval-AA评测达行业最高，定价与前代一致，新增xhigh推理精度控制等级及任务预算公测功能。",
-      "publishedAt": "2026-04-16T08:00:00+08:00",
+      "publishedAt": "2026-04-16",
       "source": "Anthropic",
       "url": "https://www.anthropic.com/news/claude-opus-4-7",
       "subCategory": "大模型"
