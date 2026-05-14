@@ -3,7 +3,7 @@
   "slug": "policy",
   "title": "政策信息",
   "description": "国家与地方政策、监管动态、产业扶持与合规要求。",
-  "updatedAt": "2026-05-14T17:40:00+08:00",
+  "updatedAt": "2026-05-14T22:05:00+08:00",
   "items": [
     {
       "id": "policy-20260514-001",
@@ -13,6 +13,15 @@
       "source": "新华网",
       "url": "https://www.news.cn/world/20260514/a35e7fa8c8154861ade9e385ffd2670d/c.html",
       "subCategory": "海外政策"
+    },
+    {
+      "id": "policy-20260513-002",
+      "title": "市场监管总局：严查算法违规乱象 规范市场竞争秩序",
+      "summary": "市场监管总局部署反不正当竞争专项执法行动，聚焦平台经济、民生及科技创新领域，重点规制利用数据、算法、技术及平台规则实施的各类网络不正当竞争行为，着力提升常态化监管水平，维护公平竞争市场秩序。",
+      "publishedAt": "2026-05-13T17:07:00+08:00",
+      "source": "证券时报",
+      "url": "https://www.stcn.com/article/detail/3907306.html",
+      "subCategory": "反垄断"
     },
     {
       "id": "policy-20260513-001",
