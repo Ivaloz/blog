@@ -156,6 +156,7 @@ function timeDisplay(iso?: string) {
               <time v-if="item.publishedAt" :datetime="item.publishedAt">
                 {{ dateDisplay(item.publishedAt) }}
                 <span v-if="hasTimeComponent(item.publishedAt)" class="no-latest-hour">{{ timeDisplay(item.publishedAt) }}</span>
+                <span v-else class="no-latest-hour no-latest-hour-unknown" title="原文未提供具体发布时间，按当日末时排序">时间未知</span>
               </time>
               <span v-if="item.source" class="no-latest-source">{{ item.source }}</span>
               <a :href="categoryHref(item.categorySlug)" class="no-latest-cat" @click.stop>
@@ -183,6 +184,7 @@ function timeDisplay(iso?: string) {
               <time v-if="hasTimeComponent(item.publishedAt)" :datetime="item.publishedAt">
                 <span class="no-latest-hour">{{ timeDisplay(item.publishedAt) }}</span>
               </time>
+              <span v-else-if="item.publishedAt" class="no-latest-hour no-latest-hour-unknown" title="原文未提供具体发布时间，按当日末时排序">时间未知</span>
               <span v-if="item.source" class="no-latest-source">{{ item.source }}</span>
               <a :href="categoryHref(item.categorySlug)" class="no-latest-cat" @click.stop>
                 {{ item.categoryTitle }}
@@ -481,6 +483,12 @@ function timeDisplay(iso?: string) {
 .no-latest-hour {
   margin-left: 4px;
   opacity: 0.7;
+}
+.no-latest-hour-unknown {
+  font-family: inherit;
+  font-style: italic;
+  opacity: 0.55;
+  cursor: help;
 }
 .no-latest-source {
   color: var(--vp-c-text-2);
