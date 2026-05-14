@@ -69,6 +69,21 @@ function readCategory(slug: string): NewsCategory | null {
   }
 }
 
+// 把 publishedAt 解析为可数值比较的时间戳。
+// - 完整 ISO(带时区)→ Date.parse 直接拿到毫秒
+// - 仅日期 YYYY-MM-DD → 视为当日 23:59:59 +08:00,避免「时间未知」条目被同日带时间的条目挤到末尾,
+//   反而让用户错过当天最新的(routine 没拿到精确时间的)资讯
+// - 解析失败/缺省 → 返回 -Infinity,排到最末
+function publishedAtToMs(p?: string): number {
+  if (!p) return Number.NEGATIVE_INFINITY
+  if (/^\d{4}-\d{2}-\d{2}$/.test(p)) {
+    const t = Date.parse(`${p}T23:59:59+08:00`)
+    return Number.isNaN(t) ? Number.NEGATIVE_INFINITY : t
+  }
+  const t = Date.parse(p)
+  return Number.isNaN(t) ? Number.NEGATIVE_INFINITY : t
+}
+
 function buildData(): NewsData {
   const categories: NewsCategory[] = []
   const bySlug: Record<string, NewsCategory> = {}
@@ -76,11 +91,9 @@ function buildData(): NewsData {
     const cat = readCategory(slug)
     if (cat) {
       // 类内条目按发布时间倒序
-      cat.items = [...cat.items].sort((a, b) => {
-        const ta = a.publishedAt || ''
-        const tb = b.publishedAt || ''
-        return ta < tb ? 1 : ta > tb ? -1 : 0
-      })
+      cat.items = [...cat.items].sort(
+        (a, b) => publishedAtToMs(b.publishedAt) - publishedAtToMs(a.publishedAt)
+      )
       categories.push(cat)
       bySlug[cat.slug] = cat
     }
@@ -89,11 +102,7 @@ function buildData(): NewsData {
     .flatMap((c) =>
       c.items.map((it) => ({ ...it, categorySlug: c.slug, categoryTitle: c.title }))
     )
-    .sort((a, b) => {
-      const ta = a.publishedAt || ''
-      const tb = b.publishedAt || ''
-      return ta < tb ? 1 : ta > tb ? -1 : 0
-    })
+    .sort((a, b) => publishedAtToMs(b.publishedAt) - publishedAtToMs(a.publishedAt))
   return { categories, bySlug, latest }
 }
 

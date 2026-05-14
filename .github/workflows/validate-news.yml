@@ -64,3 +64,55 @@ jobs:
           if grep -rn 'example\.com' docs/.vitepress/data/news/*.json; then
             echo "::warning::placeholder example.com URLs still present; routine should overwrite these on next run."
           fi
+
+      - name: Detect suspicious placeholder timestamps
+        # 路由经常把抓不到时间的条目伪造成整点。如果同一文件 ≥3 条 publishedAt 共享
+        # 同一个 hh:mm:ss 子串，强烈提示是占位时间，应退化为 date-only。
+        # 仅 warn 不 fail，保留人工判断空间；routine 自己应该已经退化。
+        run: |
+          for f in docs/.vitepress/data/news/policy.json \
+                   docs/.vitepress/data/news/tech.json \
+                   docs/.vitepress/data/news/industry.json \
+                   docs/.vitepress/data/news/trade.json \
+                   docs/.vitepress/data/news/ai.json \
+                   docs/.vitepress/data/news/finance.json; do
+            dup=$(jq -r '
+              .items
+              | map(.publishedAt // "")
+              | map(select(test("T\\d{2}:\\d{2}:\\d{2}")) | capture("T(?<hms>\\d{2}:\\d{2}:\\d{2})") | .hms)
+              | group_by(.) | map(select(length >= 3) | { hms: .[0], count: length })
+              | .[]?
+              | "\(.count) items share T\(.hms)"
+            ' "$f")
+            if [ -n "$dup" ]; then
+              while IFS= read -r line; do
+                echo "::warning file=$f::suspicious placeholder timestamp: $line — should be degraded to date-only"
+              done <<< "$dup"
+            fi
+          done
+
+      - name: Detect future-dated entries
+        # publishedAt 不允许晚于 commit 时刻 + 1 天缓冲(跨时区可能出现 UTC vs +08:00 偏差)
+        run: |
+          now_plus_1d=$(date -u -d '+1 day' +%Y-%m-%dT%H:%M:%SZ)
+          fail=0
+          for f in docs/.vitepress/data/news/policy.json \
+                   docs/.vitepress/data/news/tech.json \
+                   docs/.vitepress/data/news/industry.json \
+                   docs/.vitepress/data/news/trade.json \
+                   docs/.vitepress/data/news/ai.json \
+                   docs/.vitepress/data/news/finance.json; do
+            future=$(jq -r --arg now "$now_plus_1d" '
+              .items[]?
+              | select((.publishedAt // "") | test("T"))
+              | select(.publishedAt > $now)
+              | "\(.id // .url) published=\(.publishedAt)"
+            ' "$f")
+            if [ -n "$future" ]; then
+              while IFS= read -r line; do
+                echo "::error file=$f::future-dated entry: $line"
+              done <<< "$future"
+              fail=1
+            fi
+          done
+          exit $fail

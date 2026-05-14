@@ -193,6 +193,7 @@ function hostOf(url: string) {
               <time v-if="item.publishedAt" :datetime="item.publishedAt" class="nf-meta-time">
                 {{ dateDisplay(item.publishedAt) }}
                 <span v-if="hasTimeComponent(item.publishedAt)" class="nf-meta-hour">{{ timeDisplay(item.publishedAt) }}</span>
+                <span v-else class="nf-meta-hour nf-meta-hour-unknown" title="原文未提供具体发布时间，按当日末时排序">时间未知</span>
               </time>
               <span v-if="item.source" class="nf-meta-source">{{ item.source }}</span>
               <span v-else-if="hostOf(item.url)" class="nf-meta-source">{{ hostOf(item.url) }}</span>
@@ -445,6 +446,12 @@ function hostOf(url: string) {
   margin-left: 4px;
   color: var(--vp-c-text-3);
   opacity: 0.7;
+}
+.nf-meta-hour-unknown {
+  font-family: inherit;
+  font-style: italic;
+  opacity: 0.55;
+  cursor: help;
 }
 .nf-meta-source {
   color: var(--vp-c-text-2);
