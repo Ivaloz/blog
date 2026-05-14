@@ -3,7 +3,7 @@
   "slug": "tech",
   "title": "科技新闻",
   "description": "前沿科技、互联网产品、芯片硬件、开源生态。",
-  "updatedAt": "2026-05-13T08:30:00+08:00",
+  "updatedAt": "2026-05-14T08:30:00+08:00",
   "items": [
     {
       "id": "tech-20260513-001",
@@ -24,12 +24,12 @@
       "subCategory": "互联网产品"
     },
     {
-      "id": "tech-20260505-001",
-      "title": "国产 AI 芯片 Q1 业绩全线爆发：寒武纪净利同比 +185%，摩尔线程首度盈利",
-      "summary": "寒武纪Q1营收28.85亿元同比增159%，海光信息突破40亿元，摩尔线程首次实现季度盈利（净利2936万元），沐曦减亏57%，科创板AI芯片整体进入业绩兑现期，经营现金流质量持续改善。",
-      "publishedAt": "2026-05-05T10:00:00+08:00",
-      "source": "新浪财经",
-      "url": "https://finance.sina.com.cn/wm/2026-05-05/doc-inhwwezc9706282.shtml",
+      "id": "tech-20260513-003",
+      "title": "黄仁勋临时登上空军一号，H200芯片出口许可议题成中美科技博弈焦点",
+      "summary": "英伟达CEO黄仁勋经特朗普总统亲自致电邀请，在阿拉斯加加油时临时登机随团访华，被市场解读为H200 GPU对华出口许可松绑积极信号；峰会技术议程包括是否为中国学术与商业AI机构建立GPU出口许可框架，以取代现行逐案否决机制，英伟达股价当日涨2.1%至225.40美元。",
+      "publishedAt": "2026-05-13",
+      "source": "Euronews",
+      "url": "https://www.euronews.com/next/2026/05/13/trump-xi-summit-chips-may-be-off-the-table-but-ai-warfare-will-likely-feature-in-china",
       "subCategory": "芯片硬件"
     },
     {
@@ -48,6 +48,15 @@
       "publishedAt": "2026-05-06T10:00:00+08:00",
       "source": "新华网",
       "url": "http://www.news.cn/liangzi/20260506/ca1b4362a17b43ff84acd7a34896f295/c.html",
+      "subCategory": "芯片硬件"
+    },
+    {
+      "id": "tech-20260505-001",
+      "title": "国产 AI 芯片 Q1 业绩全线爆发：寒武纪净利同比 +185%，摩尔线程首度盈利",
+      "summary": "寒武纪Q1营收28.85亿元同比增159%，海光信息突破40亿元，摩尔线程首次实现季度盈利（净利2936万元），沐曦减亏57%，科创板AI芯片整体进入业绩兑现期，经营现金流质量持续改善。",
+      "publishedAt": "2026-05-05T10:00:00+08:00",
+      "source": "新浪财经",
+      "url": "https://finance.sina.com.cn/wm/2026-05-05/doc-inhwwezc9706282.shtml",
       "subCategory": "芯片硬件"
     }
   ]

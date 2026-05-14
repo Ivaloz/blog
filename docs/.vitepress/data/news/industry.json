@@ -3,8 +3,17 @@
   "slug": "industry",
   "title": "行业新闻",
   "description": "企业服务、SaaS、云计算、制造业、消费互联网的产业动态。",
-  "updatedAt": "2026-05-13T08:30:00+08:00",
+  "updatedAt": "2026-05-14T08:30:00+08:00",
   "items": [
+    {
+      "id": "industry-20260512-001",
+      "title": "AI需求令半导体行情脱离传统周期引力，申万半导体PE升至历史80%分位警示区",
+      "summary": "21世纪经济报道分析指出，AI算力需求拉动使本轮半导体行情与历史库存周期规律明显背离，增长高度集中于HBM与先进封装等方向；截至5月11日申万半导体指数PE达103.6倍（2019年以来80-85%分位），科创50 PE达156.4倍（91%历史高位），机构提示估值压力与需求能否长期兑现之间的不确定性分歧。",
+      "publishedAt": "2026-05-12",
+      "source": "21世纪经济报道",
+      "url": "https://www.21jingji.com/article/20260512/herald/d560b065b3ed618839aabc2420f0c8ab.html",
+      "subCategory": "半导体产业"
+    },
     {
       "id": "industry-20260511-001",
       "title": "Gartner：2026 年全球 IT 支出将达 6.31 万亿美元，同比增长 13.5%",
@@ -13,6 +22,15 @@
       "source": "199IT",
       "url": "http://www.199it.com/archives/1827781.html",
       "subCategory": "行业研报"
+    },
+    {
+      "id": "industry-20260504-001",
+      "title": "字节豆包推出付费订阅，中国大模型免费时代宣告终结",
+      "summary": "字节跳动宣布豆包推出最高5088元/年三档付费订阅方案，成为中国大模型行业首批规模化推进付费化的产品，被业界解读为大模型商业化深水期正式开始，将带动国内其他主流模型跟进定价调整。",
+      "publishedAt": "2026-05-04T10:00:00+08:00",
+      "source": "澎湃新闻",
+      "url": "https://m.thepaper.cn/newsDetail_forward_33105478",
+      "subCategory": "SaaS"
     },
     {
       "id": "industry-20260502-001",
@@ -31,15 +49,6 @@
       "source": "IDC",
       "url": "https://www.idc.com/resource-center/blog/%E4%BB%8E2026-gtc%E7%9C%8B%E7%AE%97%E5%8A%9B%E6%BC%94%E8%BF%9B5%E5%A4%A7%E8%B6%8B%E5%8A%BF%EF%BC%9A%E6%99%BA%E8%83%BD%E7%AE%97%E5%8A%9B%E6%9E%B6%E6%9E%84%E6%9B%B4%E5%8A%A0%E4%B8%93%E4%B8%9A%E5%8C%96/",
       "subCategory": "行业研报"
-    },
-    {
-      "id": "industry-20260504-001",
-      "title": "字节豆包推出付费订阅，中国大模型免费时代宣告终结",
-      "summary": "字节跳动宣布豆包推出最高5088元/年三档付费订阅方案，成为中国大模型行业首批规模化推进付费化的产品，被业界解读为大模型商业化深水期正式开始，将带动国内其他主流模型跟进定价调整。",
-      "publishedAt": "2026-05-04T10:00:00+08:00",
-      "source": "澎湃新闻",
-      "url": "https://m.thepaper.cn/newsDetail_forward_33105478",
-      "subCategory": "SaaS"
     }
   ]
 }

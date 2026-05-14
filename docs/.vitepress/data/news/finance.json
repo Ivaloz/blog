@@ -3,8 +3,26 @@
   "slug": "finance",
   "title": "投资与财经",
   "description": "宏观经济、A 股 / 港股 / 美股、一级市场融资、行业研报观点。",
-  "updatedAt": "2026-05-13T08:30:00+08:00",
+  "updatedAt": "2026-05-14T08:30:00+08:00",
   "items": [
+    {
+      "id": "finance-20260513-002",
+      "title": "纳指标普5月13日双创历史新高，芯片股主导，热通胀数据压制降息预期",
+      "summary": "美股5月13日收盘：纳斯达克综合指数涨至26,402点历史高位，标普500升至7,444点创纪录，芯片股领涨（英伟达+2.1%至$225.40、AMD与美光同步走强）；4月PPI环比+1.4%为2022年3月以来最大单月涨幅，批发通胀同比+6%远超预期，波士顿联储主席柯林斯表示若通胀未能回落、加息重回桌面。",
+      "publishedAt": "2026-05-13",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-slides-sp-500-and-nasdaq-rise-as-ppi-inflation-data-comes-in-hot-223045547.html",
+      "subCategory": "美股"
+    },
+    {
+      "id": "finance-20260513-003",
+      "title": "英伟达 FY2027 Q1 财报5月20日见真章，华尔街预期营收780亿美元同比增77%",
+      "summary": "英伟达将于5月20日发布FY2027第一财季业绩，公司指引约780亿美元（同比+77%），高盛预计实际将超出指引约20亿美元；CEO黄仁勋随特朗普访华被市场解读为H200出口许可松绑信号，此前英伟达已将中国数据中心营收从指引中剔除，黄仁勋估计中国市场规模约500亿美元。",
+      "publishedAt": "2026-05-13",
+      "source": "The Motley Fool",
+      "url": "https://www.fool.com/investing/2026/05/13/nvidia-reports-its-fiscal-2027-q1-earnings-may-20/",
+      "subCategory": "公司财报"
+    },
     {
       "id": "finance-20260513-001",
       "title": "美 4 月 CPI 同比 +3.8% 创近 3 年新高，纳指跌 0.71%，加息预期升温",

@@ -3,8 +3,17 @@
   "slug": "trade",
   "title": "外贸资讯",
   "description": "亚马逊、TikTok Shop、阿里国际站、Shopify 等平台政策与跨境电商市场、独立站、物流支付、关税法规、选品趋势。",
-  "updatedAt": "2026-05-13T08:30:00+08:00",
+  "updatedAt": "2026-05-14T08:30:00+08:00",
   "items": [
+    {
+      "id": "trade-20260513-002",
+      "title": "中美关税互降至历史低位，跨境卖家获90天备货窗口，出海成本压力短期缓解",
+      "summary": "中美贸易休战后美对华商品关税从145%降至30%、中方对美从125%降至10%，业界分析这是近三年跨境卖家面临的最低税率环境，建议在90天有效期内加速海运备货与海外仓补库；受益品类包括3C数码、家居户外与体育用品；提醒休战为临时机制，需密切关注6月下旬后续谈判进展。",
+      "publishedAt": "2026-05-13",
+      "source": "Coface",
+      "url": "https://www.coface.com/news-economy-and-insights/us-china-trade-agreement-a-tactical-truce-not-a-strategic-shift",
+      "subCategory": "关税法规"
+    },
     {
       "id": "trade-20260512-001",
       "title": "TikTok Shop 美区自发货模式终止，美通墨跨境项目推进落地",
@@ -24,15 +33,6 @@
       "subCategory": "平台动态"
     },
     {
-      "id": "trade-20260405-001",
-      "title": "商务部：2026 年 Q1 跨境电商进出口同比增长超 24%",
-      "summary": "商务部电子商务司公布数据，2026年一季度全国跨境电商进出口保持强劲增势，同比增幅超24%，出口以中间品和消费品为主，跨境综合试验区建设提速，东南亚与欧洲为增量核心市场。",
-      "publishedAt": "2026-04-05T10:00:00+08:00",
-      "source": "商务部",
-      "url": "http://www.mofcom.gov.cn/xwfb/sjfzrfb/art/2026/art_331956a92c8746b6b43e8b0027648cd5.html",
-      "subCategory": "海关数据"
-    },
-    {
       "id": "trade-20260508-001",
       "title": "2026 世界杯跨境大促备战：五大平台发布专项政策，TikTok 设 FIFA 专区",
       "summary": "亚马逊、TikTok Shop、Shopify、eBay、Walmart五大平台相继发布2026年世界杯跨境促销专项政策，TikTok Shop墨西哥站设立FIFA世界杯官方专区并给予300%流量倾斜，卖家备货窗口已打开。",
@@ -40,6 +40,15 @@
       "source": "AMZ123",
       "url": "https://www.amz123.com/t/fgWTIi4f",
       "subCategory": "平台动态"
+    },
+    {
+      "id": "trade-20260405-001",
+      "title": "商务部：2026 年 Q1 跨境电商进出口同比增长超 24%",
+      "summary": "商务部电子商务司公布数据，2026年一季度全国跨境电商进出口保持强劲增势，同比增幅超24%，出口以中间品和消费品为主，跨境综合试验区建设提速，东南亚与欧洲为增量核心市场。",
+      "publishedAt": "2026-04-05T10:00:00+08:00",
+      "source": "商务部",
+      "url": "http://www.mofcom.gov.cn/xwfb/sjfzrfb/art/2026/art_331956a92c8746b6b43e8b0027648cd5.html",
+      "subCategory": "海关数据"
     }
   ]
 }
