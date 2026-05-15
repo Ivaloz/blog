@@ -3,8 +3,35 @@
   "slug": "finance",
   "title": "投资与财经",
   "description": "宏观经济、A 股 / 港股 / 美股、一级市场融资、行业研报观点。",
-  "updatedAt": "2026-05-14T22:05:00+08:00",
+  "updatedAt": "2026-05-15T16:35:00+08:00",
   "items": [
+    {
+      "id": "finance-20260514-007",
+      "title": "应用材料 Q2 FY2026 营收创纪录 79.1 亿美元，Q3 指引 89.5 亿超预期",
+      "summary": "应用材料FY2026第二财季营收79.1亿美元同比增11%，调整后EPS 2.86美元均创纪录；Q3指引营收89.5亿±5亿美元（远超市场预期81.5亿），并宣布季度股息提升15%至每股0.53美元；CEO表示半导体设备业务预计在2026日历年增长逾30%，AI驱动全球超百个晶圆厂建设项目持续加码。",
+      "publishedAt": "2026-05-14T16:01:00-04:00",
+      "source": "StockTitan",
+      "url": "https://www.stocktitan.net/news/AMAT/applied-materials-announces-second-quarter-2026-y205hrnxvpxb.html",
+      "subCategory": "公司财报"
+    },
+    {
+      "id": "finance-20260514-006",
+      "title": "Cerebras 纳斯达克上市首日涨 68%，融资 55.5 亿美元，创 2026 年最大 IPO",
+      "summary": "Cerebras Systems于5月14日在纳斯达克以CBRS为股票代码上市，IPO定价185美元每股融资55.5亿美元，首日开盘于385美元（IPO价格+108%），收盘于311美元（+68%）；公司市值约660亿美元，2025年营收5.1亿美元盈利2.37亿美元，主要客户包括OpenAI、Group 42、AWS等，为年内全球最大科技IPO。",
+      "publishedAt": "2026-05-14T09:30:00-07:00",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/05/14/cerebras-raises-5-5b-kicking-off-2026s-ipo-season-with-a-bang/",
+      "subCategory": "一级市场"
+    },
+    {
+      "id": "finance-20260514-004",
+      "title": "央行发布 2026 年 4 月金融数据：M2 同比增 8.6%，社融存量同比增 7.8%",
+      "summary": "中国人民银行公布4月金融数据，4月末M2余额353.04万亿元同比增长8.6%，M1同比增5%；社会融资规模存量456.89万亿元同比增7.8%；前四个月人民币贷款增加8.59万亿元，企业贷款增长强劲，住户贷款小幅减少，同业拆借加权平均利率1.29%。",
+      "publishedAt": "2026-05-14T17:29:10+08:00",
+      "source": "新华网",
+      "url": "https://www.news.cn/fortune/20260514/47a41f1904504c27b22593b26aef5de0/c.html",
+      "subCategory": "宏观经济"
+    },
     {
       "id": "finance-20260514-002",
       "title": "华虹公司 2026 年一季度净利润 13956.26 万元，同比增长 513.10%",
@@ -22,6 +49,15 @@
       "source": "网易财经",
       "url": "https://m.163.com/money/article/KST93P8U00258105.html",
       "subCategory": "A股"
+    },
+    {
+      "id": "finance-20260514-005",
+      "title": "思科 Q3 FY2026 财报：营收 158.4 亿美元超预期，AI 订单目标升至 90 亿，裁员 4000 人聚焦 AI",
+      "summary": "思科Q3 FY2026营收158.4亿美元同比增12%，调整后EPS 1.06美元，全年营收指引上调至628-630亿美元；财年以来累计AI基础设施订单53亿美元，年度订单目标从50亿上调至90亿美元；同步宣布裁员约4000人（占比不足5%），将资源向AI基础设施、光学技术与网络安全集中，股价盘后涨近20%。",
+      "publishedAt": "2026-05-14",
+      "source": "东方财富",
+      "url": "https://finance.eastmoney.com/a/202605143737556129.html",
+      "subCategory": "公司财报"
     },
     {
       "id": "finance-20260514-001",

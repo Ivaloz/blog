@@ -3,7 +3,7 @@
   "slug": "trade",
   "title": "外贸资讯",
   "description": "亚马逊、TikTok Shop、阿里国际站、Shopify 等平台政策与跨境电商市场、独立站、物流支付、关税法规、选品趋势。",
-  "updatedAt": "2026-05-14T22:05:00+08:00",
+  "updatedAt": "2026-05-15T16:35:00+08:00",
   "items": [
     {
       "id": "trade-20260513-002",
@@ -39,6 +39,15 @@
       "publishedAt": "2026-05-08",
       "source": "AMZ123",
       "url": "https://www.amz123.com/t/fgWTIi4f",
+      "subCategory": "平台动态"
+    },
+    {
+      "id": "trade-20260505-001",
+      "title": "亚马逊 Prime Day 2026 正式确认定于 6 月举办",
+      "summary": "亚马逊官方宣布2026年Prime Day将于6月在多个国家和地区举行，为近年来首次将年度大促从7月提前至6月，活动涵盖电子、厨房、家居、美妆、服装及生鲜等主要品类，上一届Prime Day创下独立卖家历史最高销量纪录。",
+      "publishedAt": "2026-05-05",
+      "source": "ChannelX",
+      "url": "https://channelx.world/2026/05/amazon-prime-day-confirmed-for-june-2026/",
       "subCategory": "平台动态"
     },
     {
