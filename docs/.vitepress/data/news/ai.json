@@ -3,7 +3,7 @@
   "slug": "ai",
   "title": "AI 与大模型",
   "description": "大模型、Agent、AI 编程、推理框架、开源模型的发布与落地。",
-  "updatedAt": "2026-05-15T16:35:00+08:00",
+  "updatedAt": "2026-05-15T17:35:00+08:00",
   "items": [
     {
       "id": "ai-20260515-002",
@@ -48,6 +48,15 @@
       "publishedAt": "2026-05-14T13:58:00+08:00",
       "source": "证券时报",
       "url": "https://www.stcn.com/article/detail/3908911.html",
+      "subCategory": "AI应用"
+    },
+    {
+      "id": "ai-20260514-004",
+      "title": "Anthropic与盖茨基金会建立2亿美元合作伙伴关系",
+      "summary": "Anthropic与盖茨基金会宣布为期四年、价值2亿美元的合作，涵盖补助金、Claude使用积分及技术支持，重点推进低中收入国家全球卫生（疟疾、结核病等疫苗研发与医疗决策系统）、美国和撒哈拉以南非洲K-12教育辅导，以及发展中国家农业生产力提升，旨在惠及约46亿缺乏基本医疗服务的人口。",
+      "publishedAt": "2026-05-14",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/news/gates-foundation-partnership",
       "subCategory": "AI应用"
     },
     {
