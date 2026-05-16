@@ -3,8 +3,17 @@
   "slug": "industry",
   "title": "行业新闻",
   "description": "企业服务、SaaS、云计算、制造业、消费互联网的产业动态。",
-  "updatedAt": "2026-05-15T17:35:00+08:00",
+  "updatedAt": "2026-05-16T08:30:00+08:00",
   "items": [
+    {
+      "id": "industry-20260516-001",
+      "title": "CounterPoint 称三星 Galaxy S26 系列手机中国市场首发表现弱于 S25 系列",
+      "summary": "Counterpoint Research数据显示，三星Galaxy S26系列上市后6周全球销量同比增长13%，但中国、日本市场表现弱于上一代S25系列；韩国和美国实现两位数增长，Galaxy S26 Ultra在欧洲销售占比创历史新高。",
+      "publishedAt": "2026-05-16",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/951/164.htm",
+      "subCategory": "行业研报"
+    },
     {
       "id": "industry-20260514-001",
       "title": "Counterpoint：到 2027 年，每出货三款智能手机就有一款具备智能体 AI 功能",

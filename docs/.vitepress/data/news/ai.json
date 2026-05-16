@@ -3,8 +3,17 @@
   "slug": "ai",
   "title": "AI 与大模型",
   "description": "大模型、Agent、AI 编程、推理框架、开源模型的发布与落地。",
-  "updatedAt": "2026-05-15T17:35:00+08:00",
+  "updatedAt": "2026-05-16T08:30:00+08:00",
   "items": [
+    {
+      "id": "ai-20260516-001",
+      "title": "OpenAI 开测 ChatGPT 个人理财：AI 洞察消费、分析旅行支出、规划目标等",
+      "summary": "OpenAI推出ChatGPT个人理财功能预览版，面向美国ChatGPT Pro用户（月费200美元），通过Plaid接入逾1.2万家金融机构，支持连接银行、投资、信用卡账户，生成消费仪表盘并提供目标规划、旅行支出分析等功能；账户数据30天后自动删除，源自OpenAI今年4月收购的初创公司Hiro团队。",
+      "publishedAt": "2026-05-16T08:15:00+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/951/162.htm",
+      "subCategory": "AI应用"
+    },
     {
       "id": "ai-20260515-002",
       "title": "自 SpaceX 和 xAI 合并以来，马斯克的 SpaceXAI 核心人才正持续流失",
@@ -57,6 +66,15 @@
       "publishedAt": "2026-05-14",
       "source": "Anthropic",
       "url": "https://www.anthropic.com/news/gates-foundation-partnership",
+      "subCategory": "AI应用"
+    },
+    {
+      "id": "ai-20260514-005",
+      "title": "Anthropic 与普华永道扩大 Claude 合作，将培训认证 3 万名专业人员",
+      "summary": "Anthropic与普华永道宣布扩大战略合作，PwC将对3万名专业人员开展Claude认证培训并向全球数十万员工推广，双方共建卓越中心，落地方向为智能体技术开发、AI原生并购及企业职能重构；现有部署中保险承保周期从10周压缩至10天，部分客户交付效率提升最高70%。",
+      "publishedAt": "2026-05-14",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/news/pwc-expanded-partnership",
       "subCategory": "AI应用"
     },
     {
