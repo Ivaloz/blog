@@ -3,8 +3,26 @@
   "slug": "ai",
   "title": "AI 与大模型",
   "description": "大模型、Agent、AI 编程、推理框架、开源模型的发布与落地。",
-  "updatedAt": "2026-05-16T08:30:00+08:00",
+  "updatedAt": "2026-05-16T16:45:00+08:00",
   "items": [
+    {
+      "id": "ai-20260516-002",
+      "title": "OpenAI 大规模重组，总裁 Brockman 夺权挂帅",
+      "summary": "OpenAI将ChatGPT、Codex和API三大产品线整合为统一产品组织，联合创始人兼总裁Greg Brockman正式接管全部产品战略；ChatGPT负责人Nick Turley转任企业客户，公司正开发融合ChatGPT、Codex编程智能及Atlas浏览器的“超级应用”，Sora视频生成项目已终止，Kevin Weil等核心高管相继离职。",
+      "publishedAt": "2026-05-16T14:55:45+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/951/258.htm",
+      "subCategory": "大模型"
+    },
+    {
+      "id": "ai-20260516-003",
+      "title": "蚂蚁集团百灵开源万亿参数思考模型 Ring-2.6-1T",
+      "summary": "蚂蚁集团百灵大模型开源Ring-2.6-1T，定位面向复杂任务场景的万亿参数旗舰推理模型，提供High（低消耗、适合Agent多步工作流）和XHigh（深度推理、适合数学与复杂逻辑分析）两种推理强度，已上线Hugging Face和ModelScope平台供开发者下载与适配。",
+      "publishedAt": "2026-05-16T14:49:25+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/951/255.htm",
+      "subCategory": "开源模型"
+    },
     {
       "id": "ai-20260516-001",
       "title": "OpenAI 开测 ChatGPT 个人理财：AI 洞察消费、分析旅行支出、规划目标等",
@@ -52,7 +70,7 @@
     },
     {
       "id": "ai-20260514-003",
-      "title": "阿里MaaS ARR已破80亿元，年底或将破300亿元，AI迎来\"兑现时刻\"",
+      "title": "阿里MaaS ARR已破80亿元，年底或将破300亿元，AI迎来“兑现时刻”",
       "summary": "阿里巴巴2026财年Q4财报显示，阿里云外部收入同比增长40%，AI产品收入占比首次突破30%，季度AI收入89.71亿元，年化358亿元，连续11个季度实现三位数增长；CEO吴泳铭表示MaaS年化经常性收入（ARR）已突破80亿元，预计Q2超100亿元并在年底达300亿元。",
       "publishedAt": "2026-05-14T13:58:00+08:00",
       "source": "证券时报",
@@ -129,6 +147,15 @@
       "publishedAt": "2026-05-06T15:00:00+08:00",
       "source": "OpenAI",
       "url": "https://openai.com/index/gpt-5-5-instant/",
+      "subCategory": "大模型"
+    },
+    {
+      "id": "ai-20260506-003",
+      "title": "Anthropic 宣布 Claude 用量上限翻倍，同步敲定与 SpaceX 算力合作协议",
+      "summary": "Anthropic将Claude Code在Pro、Max、Team及Enterprise各计划的5小时速率限制翻倍，移除高峰时段限制；同步与SpaceX签署算力协议，可访问逾300兆瓦新容量（220,000余块英伟达GPU），与亚马逊5GW、谷歌/Broadcom 5GW及微软/英伟达300亿美元Azure协议共同构成算力生态布局。",
+      "publishedAt": "2026-05-06",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/news/higher-limits-spacex",
       "subCategory": "大模型"
     },
     {
