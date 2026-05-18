@@ -3,7 +3,7 @@
   "slug": "trade",
   "title": "外贸资讯",
   "description": "亚马逊、TikTok Shop、阿里国际站、Shopify 等平台政策与跨境电商市场、独立站、物流支付、关税法规、选品趋势。",
-  "updatedAt": "2026-05-18T08:37:00+08:00",
+  "updatedAt": "2026-05-18T23:05:00+08:00",
   "items": [
     {
       "id": "trade-20260513-002",
@@ -40,6 +40,15 @@
       "source": "AMZ123",
       "url": "https://www.amz123.com/t/fgWTIi4f",
       "subCategory": "平台动态"
+    },
+    {
+      "id": "trade-20260506-001",
+      "title": "TikTok Shop 东南亚跨境调整店铺评分规则，7 月起 AHT 替代投诉率指标",
+      "summary": "TikTok Shop东南亚跨境将于7月正式调整店铺评分机制，引入售后处理时长（AHT）指标取代现有投诉率，目标须将AHT控制在20小时以内；商家可自5月起在商家中心预览新评分体系并收到具体优化建议，平台同步显示达标所需订单数量。",
+      "publishedAt": "2026-05-06T17:27:00+08:00",
+      "source": "AMZ123",
+      "url": "https://www.amz123.com/kx/99AT78Lt",
+      "subCategory": "平台政策"
     },
     {
       "id": "trade-20260505-001",

@@ -3,8 +3,26 @@
   "slug": "finance",
   "title": "投资与财经",
   "description": "宏观经济、A 股 / 港股 / 美股、一级市场融资、行业研报观点。",
-  "updatedAt": "2026-05-18T08:38:00+08:00",
+  "updatedAt": "2026-05-18T23:05:00+08:00",
   "items": [
+    {
+      "id": "finance-20260518-001",
+      "title": "A股新\"股王\"联讯仪器上市14日涨逾15倍",
+      "summary": "联讯仪器上市14个交易日股价从81.88元涨至1344.99元，涨幅逾15倍，超越贵州茅台成A股新高价股王；公司聚焦高速通信、光芯片及半导体晶圆测试设备，一季度营收同比增142.52%，受益于AI算力建设拉动的半导体测试设备需求激增。",
+      "publishedAt": "2026-05-18T21:30:00+08:00",
+      "source": "中国新闻网",
+      "url": "https://www.chinanews.com.cn/cj/2026/05-18/10623718.shtml",
+      "subCategory": "A股"
+    },
+    {
+      "id": "finance-20260518-002",
+      "title": "英伟达 FY2027 Q1 财报 5 月 20 日见真章，共识预期营收 780 亿美元",
+      "summary": "英伟达将于5月20日美股盘后发布FY2027一季度财报，共识预期营收780亿美元（数据中心约730亿），EPS约1.77美元；投资者关注毛利率方向（75%以上确认定价权）、Blackwell GB200/GB300 Ultra产能爬坡及中国H200出口政策走向；期权市场预计财报后波幅8-10%。",
+      "publishedAt": "2026-05-18",
+      "source": "HeyGoTrade",
+      "url": "https://www.heygotrade.com/en/blog/nvidia-q1-fy27-earnings-preview-may-20-2026/",
+      "subCategory": "公司财报"
+    },
     {
       "id": "finance-20260517-001",
       "title": "马斯克为 SpaceX 超级控制权辩护：我必须确保让人类成为多行星物种",
