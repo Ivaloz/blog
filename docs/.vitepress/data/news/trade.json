@@ -3,8 +3,17 @@
   "slug": "trade",
   "title": "外贸资讯",
   "description": "亚马逊、TikTok Shop、阿里国际站、Shopify 等平台政策与跨境电商市场、独立站、物流支付、关税法规、选品趋势。",
-  "updatedAt": "2026-05-20T09:30:00+08:00",
+  "updatedAt": "2026-05-20T14:30:00+08:00",
   "items": [
+    {
+      "id": "trade-20260519-001",
+      "title": "Create SMS marketing automations in Shopify Messaging",
+      "summary": "Shopify Messaging推出SMS营销自动化功能，支持购物车放弃、浏览页面放弃等预设场景自动触发短信，商家可在后台设置短信支出阈值并管理自动化流程，进一步丰富独立站商家的客户触达与转化手段。",
+      "publishedAt": "2026-05-19",
+      "source": "Shopify",
+      "url": "https://changelog.shopify.com/posts/create-sms-marketing-automations-in-shopify-messaging",
+      "subCategory": "独立站"
+    },
     {
       "id": "trade-20260513-002",
       "title": "中美关税互降至历史低位，跨境卖家获90天备货窗口，出海成本压力短期缓解",
