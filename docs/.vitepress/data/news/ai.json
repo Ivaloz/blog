@@ -3,8 +3,62 @@
   "slug": "ai",
   "title": "AI 与大模型",
   "description": "大模型、Agent、AI 编程、推理框架、开源模型的发布与落地。",
-  "updatedAt": "2026-05-19T08:45:00+08:00",
+  "updatedAt": "2026-05-20T09:30:00+08:00",
   "items": [
+    {
+      "id": "ai-20260520-004",
+      "title": "OpenAI 联合创始人卡帕西官宣加盟 Anthropic，重返大模型研发前线",
+      "summary": "OpenAI联合创始人、前特斯拉AI总监安德烈·卡帕西官宣正式加盟Anthropic，将加入预训练团队并领导新团队，利用Claude模型能力加速大模型基础研究；此前卡帕西曾创办AI教育公司Eureka Labs，此次重返前沿研究被业界视为顶尖AI人才争夺战的标志性节点，Anthropic预训练团队实力进一步增强。",
+      "publishedAt": "2026-05-20T07:12:50+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/952/553.htm",
+      "subCategory": "大模型"
+    },
+    {
+      "id": "ai-20260520-005",
+      "title": "OpenAI 为应对算力紧缺推出\"保证容量\"服务：客户可锁定 1 至 3 年长期算力，年消费越高折扣越大",
+      "summary": "OpenAI推出\"保证容量\"服务，企业客户可与OpenAI签订1至3年专属算力合同，年消费规模越大折扣越高；服务覆盖OpenAI全产品线，支持生产系统、用户应用及AI智能体场景，客户可在支持的云服务商和模型家族之间灵活调配资源，旨在解决企业AI落地时的算力供给不确定性问题。",
+      "publishedAt": "2026-05-20T06:52:32+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/952/550.htm",
+      "subCategory": "大模型"
+    },
+    {
+      "id": "ai-20260520-006",
+      "title": "谷歌推出科研版 Gemini，能追踪论文、写实验代码",
+      "summary": "谷歌I/O 2026发布\"Gemini for Science\"科研版，支持追踪最新学术论文、将研究目标转化为实验代码，并能生成新科学假说；谷歌同步披露正在免疫疾病和癌症领域推进多个临床前AI项目，目标重塑新药研发流程，AI建模工具的长期规划包括支持虚拟细胞层面的复杂系统模拟。",
+      "publishedAt": "2026-05-20T02:53:00+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/952/534.htm",
+      "subCategory": "AI应用"
+    },
+    {
+      "id": "ai-20260520-001",
+      "title": "谷歌 Gemini Spark 个人智能体发布：一句话让 AI 干几份活，不用担心乱搞数据",
+      "summary": "谷歌I/O 2026发布Gemini Spark个人AI智能体，在专属虚拟环境中24小时自主运行，基于Gemini 3.5模型与Antigravity框架，通过MCP协议集成第三方工具；可代用户处理邮件整理、日程规划等多步骤任务而无需担心数据被误操作，下周面向美国AI Ultra用户开放，月费100美元起，夏季将集成至Chrome浏览器。",
+      "publishedAt": "2026-05-20T01:51:00+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/952/525.htm",
+      "subCategory": "Agent"
+    },
+    {
+      "id": "ai-20260520-003",
+      "title": "谷歌发布 Gemini 3.5 Flash 模型：AI 输出速度 4 倍于 GPT-5.5",
+      "summary": "谷歌I/O 2026发布Gemini 3.5 Flash，在多项基准超越Gemini 3.1 Pro，输出速度达289 tokens/秒、是GPT-5.5和Claude Opus 4.7的4倍；内部测试中Antigravity工具调用93个子智能体并生成26亿tokens，在12小时内从零构建出一个可运行的操作系统核心。",
+      "publishedAt": "2026-05-20T01:38:57+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/952/522.htm",
+      "subCategory": "大模型"
+    },
+    {
+      "id": "ai-20260520-002",
+      "title": "谷歌 Gemini Omni 全能模型发布：可从任意输入生成任意输出，一句话让 AI 修改视频",
+      "summary": "谷歌在I/O 2026发布Gemini Omni全能模型，由DeepMind掌门哈萨比斯主导发布，可从任意输入生成任意输出，支持文本、图像、视频、音频多模态统一交互，用户可通过自然语言一句话修改视频中角色与背景；首款Gemini Omni Flash已上线Gemini App、Google Flow与YouTube Shorts，API服务随后开放。",
+      "publishedAt": "2026-05-20T01:26:55+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/952/519.htm",
+      "subCategory": "多模态"
+    },
     {
       "id": "ai-20260519-002",
       "title": "全国首个：智元 WITA（硅光动语）大模型完成备案",
