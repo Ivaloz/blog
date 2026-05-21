@@ -3,8 +3,17 @@
   "slug": "ai",
   "title": "AI 与大模型",
   "description": "大模型、Agent、AI 编程、推理框架、开源模型的发布与落地。",
-  "updatedAt": "2026-05-20T23:59:00+08:00",
+  "updatedAt": "2026-05-21T08:30:00+08:00",
   "items": [
+    {
+      "id": "ai-20260521-001",
+      "title": "腾讯张军官宣操作系统层级 AI 助手\"马维斯\"正式上工，Windows、Mac、安卓端同步上线",
+      "summary": "腾讯推出操作系统层级AI助手\"马维斯\"，Windows、Mac、安卓三端同步上线，可归类文档、识别图片、修复系统问题；采用路由机制自动将不同重量级任务分配至不同模型，部分模型在本地运行支持离线使用；定位个性化AI助手，涵盖市面Agent常见能力，由腾讯技术委员会主席张军亲自官宣上线。",
+      "publishedAt": "2026-05-21T07:28:17+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/953/096.htm",
+      "subCategory": "Agent"
+    },
     {
       "id": "ai-20260520-009",
       "title": "Stability AI 推出音频模型 Stability Audio 3.0，可生成最长 6 分钟专业级歌曲",
@@ -22,6 +31,15 @@
       "source": "IT之家",
       "url": "https://www.ithome.com/0/952/670.htm",
       "subCategory": "大模型"
+    },
+    {
+      "id": "ai-20260520-010",
+      "title": "曝字节 Seedance 2.1 模型即将发布，系列已狂揽 AI 视频生成 80% 算力消耗",
+      "summary": "字节跳动Seedance 2.1视频生成模型即将上线，生成质量较2.0版本提升约20%，主要源于时间一致性与物理模拟能力改进；Seedance系列按算力消耗已占AI视频生成市场逾80%份额，竞争对手可灵约14%、万相2.7约4%；新版本计划集成至CapCut（剪映）等内容创作工具。",
+      "publishedAt": "2026-05-20T09:23:55+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/952/584.htm",
+      "subCategory": "AI视频"
     },
     {
       "id": "ai-20260520-004",
@@ -132,15 +150,6 @@
       "subCategory": "AI视频"
     },
     {
-      "id": "ai-20260516-002",
-      "title": "OpenAI 大规模重组，总裁 Brockman 夺权挂帅",
-      "summary": "OpenAI将ChatGPT、Codex和API三大产品线整合为统一产品组织，联合创始人兼总裁Greg Brockman正式接管全部产品战略；ChatGPT负责人Nick Turley转任企业客户，公司正开发融合ChatGPT、Codex编程智能及Atlas浏览器的\"超级应用\"，Sora视频生成项目已终止，Kevin Weil等核心高管相继离职。",
-      "publishedAt": "2026-05-16T14:55:45+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/951/258.htm",
-      "subCategory": "大模型"
-    },
-    {
       "id": "ai-20260516-003",
       "title": "蚂蚁集团百灵开源万亿参数思考模型 Ring-2.6-1T",
       "summary": "蚂蚁集团百灵大模型开源Ring-2.6-1T，定位面向复杂任务场景的万亿参数旗舰推理模型，提供High（低消耗、适合Agent多步工作流）和XHigh（深度推理、适合数学与复杂逻辑分析）两种推理强度，已上线Hugging Face和ModelScope平台供开发者下载与适配。",
@@ -148,6 +157,15 @@
       "source": "IT之家",
       "url": "https://www.ithome.com/0/951/255.htm",
       "subCategory": "开源模型"
+    },
+    {
+      "id": "ai-20260516-002",
+      "title": "OpenAI 大规模重组，总裁 Brockman 夺权挂帅",
+      "summary": "OpenAI将ChatGPT、Codex和API三大产品线整合为统一产品组织，联合创始人兼总裁Greg Brockman正式接管全部产品战略；ChatGPT负责人Nick Turley转任企业客户，公司正开发融合ChatGPT、Codex编程智能及Atlas浏览器的\"超级应用\"，Sora视频生成项目已终止，Kevin Weil等核心高管相继离职。",
+      "publishedAt": "2026-05-16T14:55:45+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/951/258.htm",
+      "subCategory": "大模型"
     },
     {
       "id": "ai-20260516-001",
@@ -177,6 +195,51 @@
       "subCategory": "AI应用"
     },
     {
+      "id": "ai-20260514-007",
+      "title": "Google I/O 2026 开幕在即，预计发布 Gemini 4.0 及 Android XR 眼镜",
+      "summary": "谷歌I/O 2026定于5月19日开幕，核心看点预计为Gemini重大版本更新（可能为4.0），另有两款Android XR智能眼镜（无屏版与内置镜片显示版）、视频生成模型Gemini Omni、安卓PC操作系统Aluminium OS、Android 17及主动式智能体AI功能。",
+      "publishedAt": "2026-05-14",
+      "source": "Yahoo Tech",
+      "url": "https://tech.yahoo.com/ai/gemini/articles/expect-google-o-2026-gemini-090000572.html",
+      "subCategory": "大模型"
+    },
+    {
+      "id": "ai-20260514-006",
+      "title": "OpenAI 将 Codex 接入 ChatGPT 移动端，iOS 与 Android 预览上线",
+      "summary": "OpenAI将Codex编程工具集成到ChatGPT移动应用，iOS与Android用户可在手机上远程监控和管理Codex开发工作流；目前处于预览阶段，支持所有付费计划；运行环境（文件、权限、本地配置）仍在Mac端，手机实时同步截图、终端输出及测试结果。",
+      "publishedAt": "2026-05-14",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/05/14/openai-says-codex-is-coming-to-your-phone/",
+      "subCategory": "AI编程"
+    },
+    {
+      "id": "ai-20260514-005",
+      "title": "Anthropic 与普华永道扩大 Claude 合作，将培训认证 3 万名专业人员",
+      "summary": "Anthropic与普华永道宣布扩大战略合作，PwC将对3万名专业人员开展Claude认证培训并向全球数十万员工推广，双方共建卓越中心，落地方向为智能体技术开发、AI原生并购及企业职能重构；现有部署中保险承保周期从10周压缩至10天，部分客户交付效率提升最高70%。",
+      "publishedAt": "2026-05-14",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/news/pwc-expanded-partnership",
+      "subCategory": "AI应用"
+    },
+    {
+      "id": "ai-20260514-004",
+      "title": "Anthropic与盖茨基金会建立2亿美元合作伙伴关系",
+      "summary": "Anthropic与盖茨基金会宣布为期四年、价值2亿美元的合作，涵盖补助金、Claude使用积分及技术支持，重点推进低中收入国家全球卫生（疟疾、结核病等疫苗研发与医疗决策系统）、美国和撒哈拉以南非洲K-12教育辅导，以及发展中国家农业生产力提升，旨在惠及约46亿缺乏基本医疗服务的人口。",
+      "publishedAt": "2026-05-14",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/news/gates-foundation-partnership",
+      "subCategory": "AI应用"
+    },
+    {
+      "id": "ai-20260514-003",
+      "title": "阿里MaaS ARR已破80亿元，年底或将破300亿元，AI迎来\"兑现时刻\"",
+      "summary": "阿里巴巴2026财年Q4财报显示，阿里云外部收入同比增长40%，AI产品收入占比首次突破30%，季度AI收入89.71亿元，年化358亿元，连续11个季度实现三位数增长；CEO吴泳铭表示MaaS年化经常性收入（ARR）已突破80亿元，预计Q2超100亿元并在年底达300亿元。",
+      "publishedAt": "2026-05-14T13:58:00+08:00",
+      "source": "证券时报",
+      "url": "https://www.stcn.com/article/detail/3908911.html",
+      "subCategory": "AI应用"
+    },
+    {
       "id": "ai-20260514-002",
       "title": "千亿美元投资 OpenAI 后，曝微软为强化自研 AI 开发正寻求收购更多初创公司",
       "summary": "据报道，微软在已对OpenAI投入近1000亿美元后，正积极接触部分AI初创公司寻求收购，重点关注2024年成立的Inception等专注大语言模型研发的标的，旨在吸纳AI人才并获取前沿技术，以减少对OpenAI技术的依赖，推进自研大模型能力建设。",
@@ -195,58 +258,13 @@
       "subCategory": "大模型"
     },
     {
-      "id": "ai-20260514-003",
-      "title": "阿里MaaS ARR已破80亿元，年底或将破300亿元，AI迎来\"兑现时刻\"",
-      "summary": "阿里巴巴2026财年Q4财报显示，阿里云外部收入同比增长40%，AI产品收入占比首次突破30%，季度AI收入89.71亿元，年化358亿元，连续11个季度实现三位数增长；CEO吴泳铭表示MaaS年化经常性收入（ARR）已突破80亿元，预计Q2超100亿元并在年底达300亿元。",
-      "publishedAt": "2026-05-14T13:58:00+08:00",
-      "source": "证券时报",
-      "url": "https://www.stcn.com/article/detail/3908911.html",
-      "subCategory": "AI应用"
-    },
-    {
-      "id": "ai-20260514-004",
-      "title": "Anthropic与盖茨基金会建立2亿美元合作伙伴关系",
-      "summary": "Anthropic与盖茨基金会宣布为期四年、价值2亿美元的合作，涵盖补助金、Claude使用积分及技术支持，重点推进低中收入国家全球卫生（疟疾、结核病等疫苗研发与医疗决策系统）、美国和撒哈拉以南非洲K-12教育辅导，以及发展中国家农业生产力提升，旨在惠及约46亿缺乏基本医疗服务的人口。",
-      "publishedAt": "2026-05-14",
-      "source": "Anthropic",
-      "url": "https://www.anthropic.com/news/gates-foundation-partnership",
-      "subCategory": "AI应用"
-    },
-    {
-      "id": "ai-20260514-005",
-      "title": "Anthropic 与普华永道扩大 Claude 合作，将培训认证 3 万名专业人员",
-      "summary": "Anthropic与普华永道宣布扩大战略合作，PwC将对3万名专业人员开展Claude认证培训并向全球数十万员工推广，双方共建卓越中心，落地方向为智能体技术开发、AI原生并购及企业职能重构；现有部署中保险承保周期从10周压缩至10天，部分客户交付效率提升最高70%。",
-      "publishedAt": "2026-05-14",
-      "source": "Anthropic",
-      "url": "https://www.anthropic.com/news/pwc-expanded-partnership",
-      "subCategory": "AI应用"
-    },
-    {
-      "id": "ai-20260514-006",
-      "title": "OpenAI 将 Codex 接入 ChatGPT 移动端，iOS 与 Android 预览上线",
-      "summary": "OpenAI将Codex编程工具集成到ChatGPT移动应用，iOS与Android用户可在手机上远程监控和管理Codex开发工作流；目前处于预览阶段，支持所有付费计划；运行环境（文件、权限、本地配置）仍在Mac端，手机实时同步截图、终端输出及测试结果。",
-      "publishedAt": "2026-05-14",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/05/14/openai-says-codex-is-coming-to-your-phone/",
-      "subCategory": "AI编程"
-    },
-    {
-      "id": "ai-20260514-007",
-      "title": "Google I/O 2026 开幕在即，预计发布 Gemini 4.0 及 Android XR 眼镜",
-      "summary": "谷歌I/O 2026定于5月19日开幕，核心看点预计为Gemini重大版本更新（可能为4.0），另有两款Android XR智能眼镜（无屏版与内置镜片显示版）、视频生成模型Gemini Omni、安卓PC操作系统Aluminium OS、Android 17及主动式智能体AI功能。",
-      "publishedAt": "2026-05-14",
-      "source": "Yahoo Tech",
-      "url": "https://tech.yahoo.com/ai/gemini/articles/expect-google-o-2026-gemini-090000572.html",
-      "subCategory": "大模型"
-    },
-    {
-      "id": "ai-20260513-001",
-      "title": "Google Android Show 展示 Gemini Intelligence 代理体系：跨应用自动任务、Chrome 获代理浏览功能",
-      "summary": "谷歌在5月13日Android Show上正式展示Gemini Intelligence体系，宣布将安卓从操作系统重构为智能系统：Gemini可跨应用读取屏幕并自动完成多步任务，Chrome Android新增Auto Browse代理浏览功能，Android Auto围绕Gemini重新设计，新功能夏季首发三星Galaxy及Pixel旗舰机型，年内扩展至手表、车载与智能眼镜端。",
+      "id": "ai-20260513-003",
+      "title": "AnyFlow: Any-Step Video Diffusion Model with On-Policy Flow Map Distillation",
+      "summary": "提出AnyFlow视频扩散生成框架，以流映射过渡学习取代固定步长端点一致性映射，使模型在任意采样步数下维持生成质量并降低离散化误差与生成偏差，为视频扩散模型高效蒸馏提供新方向；5月14日在HuggingFace Daily Papers以78票获当日最高关注。",
       "publishedAt": "2026-05-13",
-      "source": "Google Blog",
-      "url": "https://blog.google/products-and-platforms/platforms/android/android-show-io-edition-2026/",
-      "subCategory": "Agent"
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2605.13724",
+      "subCategory": "论文进展"
     },
     {
       "id": "ai-20260513-002",
@@ -258,13 +276,13 @@
       "subCategory": "AI应用"
     },
     {
-      "id": "ai-20260513-003",
-      "title": "AnyFlow: Any-Step Video Diffusion Model with On-Policy Flow Map Distillation",
-      "summary": "提出AnyFlow视频扩散生成框架，以流映射过渡学习取代固定步长端点一致性映射，使模型在任意采样步数下维持生成质量并降低离散化误差与生成偏差，为视频扩散模型高效蒸馏提供新方向；5月14日在HuggingFace Daily Papers以78票获当日最高关注。",
+      "id": "ai-20260513-001",
+      "title": "Google Android Show 展示 Gemini Intelligence 代理体系：跨应用自动任务、Chrome 获代理浏览功能",
+      "summary": "谷歌在5月13日Android Show上正式展示Gemini Intelligence体系，宣布将安卓从操作系统重构为智能系统：Gemini可跨应用读取屏幕并自动完成多步任务，Chrome Android新增Auto Browse代理浏览功能，Android Auto围绕Gemini重新设计，新功能夏季首发三星Galaxy及Pixel旗舰机型，年内扩展至手表、车载与智能眼镜端。",
       "publishedAt": "2026-05-13",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2605.13724",
-      "subCategory": "论文进展"
+      "source": "Google Blog",
+      "url": "https://blog.google/products-and-platforms/platforms/android/android-show-io-edition-2026/",
+      "subCategory": "Agent"
     },
     {
       "id": "ai-20260508-001",
@@ -273,6 +291,15 @@
       "publishedAt": "2026-05-08T20:11:00+08:00",
       "source": "IT之家",
       "url": "https://www.ithome.com/0/947/947.htm",
+      "subCategory": "大模型"
+    },
+    {
+      "id": "ai-20260506-003",
+      "title": "Anthropic 宣布 Claude 用量上限翻倍，同步敲定与 SpaceX 算力合作协议",
+      "summary": "Anthropic将Claude Code在Pro、Max、Team及Enterprise各计划的5小时速率限制翻倍，移除高峰时段限制；同步与SpaceX签署算力协议，可访问逾300兆瓦新容量（220,000余块英伟达GPU），与亚马逊5GW、谷歌/Broadcom 5GW及微软/英伟达300亿美元Azure协议共同构成算力生态布局。",
+      "publishedAt": "2026-05-06",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/news/higher-limits-spacex",
       "subCategory": "大模型"
     },
     {
@@ -291,15 +318,6 @@
       "publishedAt": "2026-05-06T15:00:00+08:00",
       "source": "OpenAI",
       "url": "https://openai.com/index/gpt-5-5-instant/",
-      "subCategory": "大模型"
-    },
-    {
-      "id": "ai-20260506-003",
-      "title": "Anthropic 宣布 Claude 用量上限翻倍，同步敲定与 SpaceX 算力合作协议",
-      "summary": "Anthropic将Claude Code在Pro、Max、Team及Enterprise各计划的5小时速率限制翻倍，移除高峰时段限制；同步与SpaceX签署算力协议，可访问逾300兆瓦新容量（220,000余块英伟达GPU），与亚马逊5GW、谷歌/Broadcom 5GW及微软/英伟达300亿美元Azure协议共同构成算力生态布局。",
-      "publishedAt": "2026-05-06",
-      "source": "Anthropic",
-      "url": "https://www.anthropic.com/news/higher-limits-spacex",
       "subCategory": "大模型"
     },
     {
