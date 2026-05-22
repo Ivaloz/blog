@@ -3,7 +3,7 @@
   "slug": "finance",
   "title": "投资与财经",
   "description": "宏观经济、A 股 / 港股 / 美股、一级市场融资、行业研报观点。",
-  "updatedAt": "2026-05-22T17:00:00+08:00",
+  "updatedAt": "2026-05-22T21:30:00+08:00",
   "items": [
     {
       "id": "finance-20260522-002",
@@ -31,6 +31,15 @@
       "source": "IT之家",
       "url": "https://www.ithome.com/0/953/680.htm",
       "subCategory": "公司财报"
+    },
+    {
+      "id": "finance-20260521-004",
+      "title": "Anthropic Eyes First Profitable Quarter on $10.9 Billion Q2 Revenue Projection",
+      "summary": "Anthropic向投资者披露，预计2026年Q2营收约109亿美元（较Q1的48亿美元增长逾一倍），营业利润约5.59亿美元，有望实现成立以来首次季度盈利；年消费超百万美元的企业客户从2月约500家增至4月逾1000家；本轮融资估值或超900亿美元，Anthropic计划最早今年10月赴美上市。",
+      "publishedAt": "2026-05-21T12:57:00+08:00",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/sectors/technology/articles/anthropic-eyes-first-profitable-quarter-045748261.html",
+      "subCategory": "一级市场"
     },
     {
       "id": "finance-20260521-003",
