@@ -26,19 +26,19 @@
     {
       "id": "finance-20260521-001",
       "title": "英伟达 2027 财年第一财季归母净利润 583.21 亿美元，同比增长 211%",
-      "summary": "英伟达FY2027第一财季营业总收入816.15亿美元（同比+85%），数据中心收入752亿美元（同比+92%），归母净利润583.21亿美元（同比+211%），EPS 2.40美元；Q2指引约910亿美元（±2%）；同步宣布新增800亿美元回购授权并将季度股息从0.01美元提升至0.25美元，向股东返还约200亿美元，CEO黄仁勋称\"需求已进入抛物线增长\"。",
-      "publishedAt": "2026-05-21T04:25:27+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/953/088.htm",
+      "summary": "英伟达FY2027第一财季营业总收入816.15亿美元（同比+85%），数据中心收入752亿美元（同比+92%），归母净利润583.21亿美元（同比+211%），摊薄EPS 2.39美元；Q2指引约910亿美元（±2%）；同步宣布新增800亿美元回购授权并将季度股息从0.01美元提升至0.25美元，向股东返还约200亿美元。",
+      "publishedAt": "2026-05-20",
+      "source": "NVIDIA",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-first-quarter-fiscal-2027",
       "subCategory": "公司财报"
     },
     {
       "id": "finance-20260520-004",
-      "title": "BOSS 直聘 2026 财年第一财季归母净利润 11.57 亿元，同比增长 123.24%",
-      "summary": "BOSS直聘发布2026财年一季度业绩，营业收入20.69亿元同比增长7.6%，归母净利润11.57亿元同比增长123.24%，经营现金流11.90亿元同比增18.6%；招聘需求复苏与AI工具提效驱动盈利能力大幅提升。",
+      "title": "BOSS 直聘 2026 财年第一财季归母净利润 11.57 亿元，同比增长 123.1%",
+      "summary": "BOSS直聘发布2026财年一季度业绩，营业收入20.69亿元同比增长7.6%，归母净利润11.57亿元同比增长123.1%，经营现金流11.90亿元同比增18.6%；招聘需求复苏与AI工具提效驱动盈利能力大幅提升。",
       "publishedAt": "2026-05-20",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/953/036.htm",
+      "source": "GlobeNewswire",
+      "url": "https://www.globenewswire.com/news-release/2026/05/20/3298353/0/en/KANZHUN-LIMITED-Announces-First-Quarter-2026-Financial-Results.html",
       "subCategory": "公司财报"
     },
     {
@@ -54,9 +54,9 @@
       "id": "finance-20260520-002",
       "title": "投资超 600 亿美元，孙正义豪赌 OpenAI 引发内部质疑\"迷信奥尔特曼如追星\"",
       "summary": "软银对OpenAI投资承诺超600亿美元，引发内部担忧，批评孙正义对奥尔特曼的信任过于依赖被喻为\"追星\"；软银已出售英伟达股份集中投入、缺乏董事会实质影响力，竞争对手Anthropic持续蚕食OpenAI市场份额。",
-      "publishedAt": "2026-05-20T18:15:47+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/953/021.htm",
+      "publishedAt": "2026-05-20T03:22:00+00:00",
+      "source": "Bloomberg",
+      "url": "https://news.bloomberglaw.com/securities-law/softbank-founders-starstruck-bet-on-openai-raises-concern",
       "subCategory": "一级市场"
     },
     {

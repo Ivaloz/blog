@@ -9,18 +9,18 @@
       "id": "tech-20260521-003",
       "title": "苹果 Apple Music 称 AI 音乐播放占比不到 1%，不封杀但要求清晰标注",
       "summary": "Apple Music发布公开信阐述AI音乐管理政策，当前AI音乐在总播放量中占比低于1%；苹果明确不封杀AI生成内容，但要求全部AI音乐须清晰标注并提交相关元数据，已在今年3月上线AI内容标签工具并部署识别机制；自动下架播放量主要来自流量操纵的AI歌曲，旨在维护创作透明度并防范滥用。",
-      "publishedAt": "2026-05-21T08:16:59+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/953/106.htm",
+      "publishedAt": "2026-05-20",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/05/20/apple-music-shares-what-it-is-doing-to-keep-music-fair-in-an-ai-world/",
       "subCategory": "互联网产品"
     },
     {
       "id": "tech-20260521-002",
       "title": "富士康遭入侵后续：超 30 份苹果服务器文档样本流出",
       "summary": "勒索组织Nitrogen此前入侵富士康威斯康星州工厂，已向外流出超30份苹果机密文件样本，声称总量达1100万份、约8TB；泄露文件涵盖苹果2020至2026年服务器架构规格、Matterhorn项目服务器配置（含英特尔处理器与NVIDIA T4 GPU），被盗数据同时波及AMD、谷歌、英特尔、英伟达等多家科技公司相关文件。",
-      "publishedAt": "2026-05-21T08:00:15+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/953/103.htm",
+      "publishedAt": "2026-05-20T14:47:00-04:00",
+      "source": "AppleInsider",
+      "url": "https://appleinsider.com/articles/26/05/20/apple-servers-schematics-stolen-in-may-2026-foxconn-cyberattack-appleinsider-confirms",
       "subCategory": "安全漏洞"
     },
     {
@@ -36,27 +36,27 @@
       "id": "tech-20260520-006",
       "title": "小鹏 GX 旗舰 SUV 正式上市，限时折扣后 26.98 万-34.98 万元",
       "summary": "小鹏首款全尺寸旗舰SUV GX正式上市，推出纯电与超级增程双动力版本，6月30日前下定限时权益价26.98至34.98万元；车身5265×1999×1800mm、轴距3115mm，搭载3000TOPS有效算力，纯电续航最高750km（CLTC），增程综合续航超1585km，支持5C超充，配备2+2+2六座及21.4英寸吸顶屏等旗舰配置，面向L4自动驾驶时代设计。",
-      "publishedAt": "2026-05-20T21:30:08+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/953/053.htm",
+      "publishedAt": "2026-05-21",
+      "source": "小鹏汽车",
+      "url": "https://www.xiaopeng.com/news/company_news/5563.html",
       "subCategory": "智能汽车"
     },
     {
       "id": "tech-20260520-008",
       "title": "iQOO Pad6 Pro 平板发布：第五代骁龙 8 至尊版 +4K 电竞屏，国补到手价 3799 元起",
       "summary": "iQOO Pad6 Pro平板发布，搭载第五代骁龙8至尊版，配备13.2英寸4K分辨率144Hz Dolby Vision屏幕，电池容量13000mAh，采用VC立体散热；支持13款原生4K游戏及游戏超分超帧功能，国补后到手价3799元起（8GB+256GB），顶配16GB+512GB售5999元。",
-      "publishedAt": "2026-05-20T19:56:30+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/953/035.htm",
+      "publishedAt": "2026-05-20",
+      "source": "iQOO",
+      "url": "https://www.vivo.com.cn/vivo/iqoopad6pro/",
       "subCategory": "消费电子"
     },
     {
       "id": "tech-20260520-007",
       "title": "iQOO 15T 手机发布：天玑 9500 Monster 芯 +8000mAh 电池，国补到手价 3299 元起",
       "summary": "iQOO发布15T旗舰手机，搭载天玑9500 Monster芯片与新一代Monster超核引擎（稳帧性能提升34%），配备8000mAh超薄蓝海电池与100W超快闪充；屏幕为6.82英寸2K珠峰屏，局部峰值亮度4500nit，支持1至144Hz LTPO自适应刷新率；12GB+256GB首销价3799元，国补后到手价3299元起。",
-      "publishedAt": "2026-05-20T19:44:57+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/953/033.htm",
+      "publishedAt": "2026-05-20",
+      "source": "iQOO",
+      "url": "https://www.vivo.com.cn/vivo/iqoo15t/",
       "subCategory": "消费电子"
     },
     {
@@ -72,9 +72,9 @@
       "id": "tech-20260520-004",
       "title": "华为 MatePad Pro Max 旗舰平板官宣今日 16:08 开启预售，搭载鸿蒙 HarmonyOS 6 系统",
       "summary": "华为宣布旗舰平板MatePad Pro Max当日16:08开启预售、6月1日正式开售，搭载鸿蒙HarmonyOS 6系统，配备13.2英寸柔性OLED屏幕，支持手写笔和键盘配件（需单独购买），海外起售价999.99英镑。",
-      "publishedAt": "2026-05-20T09:20:23+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/952/582.htm",
+      "publishedAt": "2026-05-20",
+      "source": "华为",
+      "url": "https://consumer.huawei.com/en/tablets/matepad-pro-max/",
       "subCategory": "消费电子"
     },
     {
@@ -99,9 +99,9 @@
       "id": "tech-20260520-001",
       "title": "谷歌携手三星展示 2 款智能眼镜：整合 Gemini AI，支持语音导航、实时翻译",
       "summary": "谷歌与三星在I/O 2026展示两款Android XR智能眼镜，由Gentle Monster和Warby Parker参与外形设计，搭载Gemini AI，可实现语音导航、视野内实时文字翻译（菜单/路牌）及通知摘要，同时兼容iOS手机；无屏音频版于2026年秋季首发，预估售价379至499美元，双目显示版预计2027年推出。",
-      "publishedAt": "2026-05-20T02:27:24+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/952/530.htm",
+      "publishedAt": "2026-05-19",
+      "source": "Google",
+      "url": "https://blog.google/products-and-platforms/platforms/android/android-xr-io-2026/",
       "subCategory": "XR-AR-VR"
     },
     {
