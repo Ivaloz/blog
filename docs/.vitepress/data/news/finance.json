@@ -3,8 +3,26 @@
   "slug": "finance",
   "title": "投资与财经",
   "description": "宏观经济、A 股 / 港股 / 美股、一级市场融资、行业研报观点。",
-  "updatedAt": "2026-05-22T08:30:00+08:00",
+  "updatedAt": "2026-05-22T17:00:00+08:00",
   "items": [
+    {
+      "id": "finance-20260522-002",
+      "title": "消息称 OpenAI 公司 2026Q1 营收 57 亿美元，比 Anthropic 高约 10 亿美元",
+      "summary": "据 The Information 报道，OpenAI 2026 年第一季度营收达 57 亿美元，超过 Anthropic 同期 48 亿美元约 10 亿美元；ChatGPT 付费订阅用户增至 5500 万，周活跃用户约 9.2 亿；公司调整后营业利润率为负 122%，即每获 1 美元营收亏损 1.22 美元，正加快上市准备。",
+      "publishedAt": "2026-05-22T15:30:43+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/953/935.htm",
+      "subCategory": "公司财报"
+    },
+    {
+      "id": "finance-20260522-003",
+      "title": "OpenAI IPO 再生变数：刚传本周递表，奥特曼就暗示上市时间可能延后",
+      "summary": "OpenAI 计划最快本周向 SEC 秘密递表，目标秋季上市，但创始人阿尔特曼随即暗示即使提交申请也可能推迟上市；公司估值 8520 亿美元对应 34 倍市销率；面临挑战包括 2025 年亏损 80 亿美元、毛利率下滑至 33%、CFO 主张推迟至 2027 年及竞争对手 Anthropic 增速超越。",
+      "publishedAt": "2026-05-22T14:58:22+08:00",
+      "source": "网易财经",
+      "url": "https://www.163.com/dy/article/KTHS149I05118O92.html",
+      "subCategory": "一级市场"
+    },
     {
       "id": "finance-20260522-001",
       "title": "联想集团 2025/26 财年归母净利润 19.12 亿美元同比增长 38%，第四财季 5.21 亿美元同比增长 479%",
