@@ -5,11 +5,14 @@ on:
     branches: [main]
     paths:
       - 'docs/.vitepress/data/news/**.json'
+      - 'scripts/news-source-cap.mjs'
       - '.github/workflows/validate-news.yml'
   pull_request:
     paths:
       - 'docs/.vitepress/data/news/**.json'
       - 'docs/.vitepress/data/news/schema.json'
+      - 'scripts/news-source-cap.mjs'
+      - '.github/workflows/validate-news.yml'
   workflow_dispatch:
 
 permissions:
@@ -116,3 +119,9 @@ jobs:
             fi
           done
           exit $fail
+
+      - name: Check news source concentration (recent days)
+        # 防来源偏置:最近若干个有数据的日期里,同一来源(如 IT之家)在某一大类当天
+        # 占比不得超过阈值。违反 → 失败,逼 routine 回溯一手信源 / 补充其它来源。
+        # 阈值与窗口见 scripts/news-source-cap.mjs 顶部常量。
+        run: node scripts/news-source-cap.mjs

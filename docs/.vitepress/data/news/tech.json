@@ -26,37 +26,37 @@
     {
       "id": "tech-20260521-010",
       "title": "科学家发现隐秘地月航线，能省不少燃料",
-      "summary": "国际科研团队利用功能连接理论与计算机建模发现新地月航线，相比现有最节能路线可节省约58.80米/秒燃料消耗，且能全程保持地月通信畅通，有望降低未来登月及月球轨道任务的整体推进成本。",
-      "publishedAt": "2026-05-21T23:10:37+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/953/666.htm",
+      "summary": "国际研究团队基于功能连接理论与计算机建模，发现新的地月低能耗转移轨道，较此前已知最优路线节省约58.80 m/s速度增量，可保持与地球的持续通信；研究分析了约3000万条候选轨道，相关成果发表于《Astrodynamics》期刊（DOI: 10.1007/s42064-025-0297-x）。",
+      "publishedAt": "2026-05-15",
+      "source": "Phys.org",
+      "url": "https://phys.org/news/2026-05-mathematical-method-efficient-earth-moon.html",
       "subCategory": "航空航天"
     },
     {
       "id": "tech-20260521-009",
-      "title": "第三代元 PLUS 11.99 万元起正式上市，全系搞载第二代刀片电池及闪充技术",
-      "summary": "比亚迪第三代元PLUS正式上市，官方指导价11.99万至14.99万元；全系搞载第二代刀片电池与闪充技术，提供540km和630km两档续航版本，支持分钟快充；配备天神之眼5.0辅助驾驶系统、240kW后置电机及云辇-C智能车身控制系统。",
-      "publishedAt": "2026-05-21T20:38:54+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/953/625.htm",
+      "title": "第三代元 PLUS 11.99 万元起正式上市，全系搭载第二代刀片电池及闪充技术",
+      "summary": "比亚迪第三代元PLUS正式上市，官方指导价11.99万至14.99万元，全系搭载第二代刀片电池，提供540km和630km两种续航版本，标配闪充技术（10%至70%约五分钟），采用后驱布局，可选200kW或240kW电机，配备云辇-C智能阻尼车身控制系统及可升级的天神之眼B辅助驾驶系统。",
+      "publishedAt": "2026-05-21",
+      "source": "CnEVPost",
+      "url": "https://cnevpost.com/2026/05/21/byd-launches-third-gen-yuan-plus-suv/",
       "subCategory": "智能汽车"
     },
     {
       "id": "tech-20260521-008",
       "title": "小米 YU7 GT 正式发布：38.99 万元起，\"大满配\"42.99 万元",
-      "summary": "小米YU7 GT正式发布，标准版起价38.99万元、\"大满配\"42.99万元；搞载V8s EVO超级电机（最高转速28000rpm）和蛛龙底盘大师版，最大马力1003匹，零百加速2.92秒，CLTC续航705km，配101.7kWh电池，当晙21时开启大定、3天内可无理由退款。",
-      "publishedAt": "2026-05-21T20:21:37+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/953/623.htm",
+      "summary": "小米YU7 GT正式发布，售价38.99万元起，“大满配”版42.99万元；搭载V8s EVO双电机（最高转速28000rpm），综合最大马力1003PS，零百加速2.92秒，最高时速300km/h；CLTC续航705km，101.7kWh三元锂电池；当晚21时开启大定。",
+      "publishedAt": "2026-05-21",
+      "source": "CnEVPost",
+      "url": "https://cnevpost.com/2026/05/21/xiaomi-launches-yu7-gt-for-elite-drivers/",
       "subCategory": "智能汽车"
     },
     {
       "id": "tech-20260521-007",
-      "title": "小米 17 Max 手机发布：8000mAh 电池、2 亿像素徐卡主摄，国补到手价 4299 元起",
-      "summary": "小米17 Max正式发布，搞载第五代骨龙8至尊平台8000mAh金沙江电池，支持100W有线、50W无线秒充；首款徐卡2亿像素主摄，1/1.4英寸大底传感器，6倍光学级无损变焦长焦；国补到手价4299元起，5月25日正式开售。",
-      "publishedAt": "2026-05-21T19:18:30+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/953/605.htm",
+      "title": "小米 17 Max 手机发布：8000mAh 电池、2 亿像素徕卡主摄，国补到手价 4299 元起",
+      "summary": "小米17 Max正式发布，搭载第五代骁龙8至尊平台，8000mAh电池，支持100W有线及50W无线快充；徕卡2亿像素主摄，1/1.4英寸传感器，配备6倍光学级长焦；官方售价4799元起，国补到手价4299元起，5月25日正式开售。",
+      "publishedAt": "2026-05-21",
+      "source": "CNMO",
+      "url": "https://phone.cnmo.com/news/809502.html",
       "subCategory": "消费电子"
     },
     {
@@ -80,28 +80,28 @@
     {
       "id": "tech-20260521-004",
       "title": "特斯拉监督版 FSD 官宣登陆中国",
-      "summary": "特斯拉官方宣布监督版FSD登陆中国，目前已覆盖美国、加拿大、墨西哥、波多黎各及中国在内的10个地区；该系统属L2级驾驶辅助，驾驶员须全程专注并承担法律责任；特斯拉同步在国内9座城市招聘智驾测试技师，推进本地化运营部署。",
-      "publishedAt": "2026-05-21T09:11:15+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/953/120.htm",
+      "summary": "特斯拉官方宣布监督版FSD正式支持中国市场，包括中国在内共10个国家和地区开放使用；该系统属L2级辅助驾驶，仍需驾驶员监督；特斯拉同步在国内北京、上海等9个城市招募智驾测试技师，推进本土化测试工作。",
+      "publishedAt": "2026-05-21T09:24:00Z",
+      "source": "CnEVPost",
+      "url": "https://cnevpost.com/2026/05/21/tesla-says-fsd-supervised-available-in-china/",
       "subCategory": "智能汽车"
     },
     {
       "id": "tech-20260521-003",
       "title": "苹果 Apple Music 称 AI 音乐播放占比不到1%，不封杀但要求清晰标注",
       "summary": "Apple Music发布公开信阐述AI音乐管理政策，当前AI音乐在总播放量中占比低于1%；苹果明确不封杀AI生成内容，但要求全部AI音乐须清晰标注并提交相关元数据，已在今年3月上线AI内容标签工具并部署识别机制；自动下架播放量主要来自流量操纵的AI歌曲，旨在维护创作透明度并防范滥用。",
-      "publishedAt": "2026-05-21T08:16:59+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/953/106.htm",
+      "publishedAt": "2026-05-20",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/05/20/apple-music-shares-what-it-is-doing-to-keep-music-fair-in-an-ai-world/",
       "subCategory": "互联网产品"
     },
     {
       "id": "tech-20260521-002",
       "title": "富士康遭入侵后续：趀30 份苹果服务器文档样本流出",
       "summary": "勒索组织Nitrogen此前入侵富士康威斯康星州工厂，已向外流出趀30份苹果机密文件样本，声称总量达1100万份、8TB；泄露文件涵盖苹果2020至2026年服务器架构规格、Matterhorn项目服务器配置（含英特尔处理器与NVIDIA T4 GPU），被盗数据同时波及AMD、谷歌、英特尔、英伟达等多家科技公司相关文件。",
-      "publishedAt": "2026-05-21T08:00:15+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/953/103.htm",
+      "publishedAt": "2026-05-20T14:47:00-04:00",
+      "source": "AppleInsider",
+      "url": "https://appleinsider.com/articles/26/05/20/apple-servers-schematics-stolen-in-may-2026-foxconn-cyberattack-appleinsider-confirms",
       "subCategory": "安全漏洞"
     },
     {
@@ -117,27 +117,27 @@
       "id": "tech-20260520-006",
       "title": "小鹏 GX 旗舰 SUV 正式上市，限时折扣后 26.98 万-34.98 万元",
       "summary": "小鹏首款全尺寸旗舰SUV GX正式上市，推出纯电与超级增程双动力版本，6月30日前下定限时权益价26.98至34.98万元；车身5265×1999×1800mm、轴距3115mm，搞载3000TOPS有效算力，纯电续航最高750km（CLTC），增程综合续航超1585km，支持5C超充，配切2+2+2六座及21.4英寸吸顶屏等旗舰配置。",
-      "publishedAt": "2026-05-20T21:30:08+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/953/053.htm",
+      "publishedAt": "2026-05-21",
+      "source": "小鹏汽车",
+      "url": "https://www.xiaopeng.com/news/company_news/5563.html",
       "subCategory": "智能汽车"
     },
     {
       "id": "tech-20260520-008",
       "title": "iQOO Pad6 Pro 平板发布：第五代骨龙8 至尊版 +4K 电竞屏，国补到手价 3799 元起",
       "summary": "iQOO Pad6 Pro平板发布，搞载第五代骨龙8至尊版，配制13.2英寸4K分辨率144Hz Dolby Vision屏幕，电池容量13000mAh，采用VC立体散热；支持13款原生4K游戏及游戏超分超帧功能，国补后到手价3799元起（8GB+256GB），顶配16GB+512GB售5999元。",
-      "publishedAt": "2026-05-20T19:56:30+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/953/035.htm",
+      "publishedAt": "2026-05-20",
+      "source": "iQOO",
+      "url": "https://www.vivo.com.cn/vivo/iqoopad6pro/",
       "subCategory": "消费电子"
     },
     {
       "id": "tech-20260520-007",
       "title": "iQOO 15T 手机发布：天玛 9500 Monster 芯 +8000mAh 电池，国补到手价 3299 元起",
       "summary": "iQOO发布15T旗舰手机，搞载天玛9500 Monster芯片与新一代Monster超核引擎（稳帧性能提升34%），配切8000mAh超薄蓝海电池与100W超快闪充；屏幕为6.82英寸2K珠峰屏，局部峰値亮度4500nit，支持1至144Hz LTPO自适应刷新率；12GB+256GB首售价3799元，国补后到手价3299元起。",
-      "publishedAt": "2026-05-20T19:44:57+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/953/033.htm",
+      "publishedAt": "2026-05-20",
+      "source": "iQOO",
+      "url": "https://www.vivo.com.cn/vivo/iqoo15t/",
       "subCategory": "消费电子"
     },
     {
@@ -153,9 +153,9 @@
       "id": "tech-20260520-004",
       "title": "华为 MatePad Pro Max 旗舰平板官宣今日 16:08 开启预售，搞载鸿蒙 HarmonyOS 6 系统",
       "summary": "华为宣布旗舰平板MatePad Pro Max当日16:08开启预售、6月1日正式开售，搞载鸿蒙HarmonyOS 6系统，配制13.2英寸柔性OLED屏幕，支持手写笔和键盘配件（需单独购买），海外起售价999.99英镑。",
-      "publishedAt": "2026-05-20T09:20:23+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/952/582.htm",
+      "publishedAt": "2026-05-20",
+      "source": "华为",
+      "url": "https://consumer.huawei.com/en/tablets/matepad-pro-max/",
       "subCategory": "消费电子"
     },
     {
@@ -180,9 +180,9 @@
       "id": "tech-20260520-001",
       "title": "谷歌携手三星展示 2 款智能眼镜：整合 Gemini AI，支持语音导航、实时翻译",
       "summary": "谷歌与三星在I/O 2026展示两款Android XR智能眼镜，由Gentle Monster和Warby Parker参与外形设计，搞载Gemini AI，可实现语音导航、视野内实时文字翻译（菜单/路牌）及通知摘要，同时兼容iOS手机；无屏音频版于2026年秋季首发，预估售价379至499美元，双目显示版预计2027年推出。",
-      "publishedAt": "2026-05-20T02:27:24+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/952/530.htm",
+      "publishedAt": "2026-05-19",
+      "source": "Google",
+      "url": "https://blog.google/products-and-platforms/platforms/android/android-xr-io-2026/",
       "subCategory": "XR-AR-VR"
     },
     {
@@ -269,7 +269,7 @@
     {
       "id": "tech-20260519-001",
       "title": "苹果官宣北京时间 6 月 9 日凌晨 1 点举办 WWDC26 活动，公布 iOS 27 等动向",
-      "summary": "苹果正式宣布2026全球开发者大会（WWDC26）将于北京时6月91日凌晨1点举行，核心内容包括iOS 27、macOS及其他系统平台新版本与新品动向；大会面向全球开发者开放技术研讨、API更新与设计奖评选，同步提供在线直播，是苹果年度最重要的软件生态发布节点。",
+      "summary": "苹果正式宣布2026全球开发者大会（WWDC26）将于北京时间 6 月 9 日凌晨 1 点举行，核心内容包括iOS 27、macOS及其他系统平台新版本与新品动向；大会面向全球开发者开放技术研讨、API更新与设计奖评选，同步提供在线直播，是苹果年度最重要的软件生态发布节点。",
       "publishedAt": "2026-05-19T06:36:55+08:00",
       "source": "IT之家",
       "url": "https://www.ithome.com/0/952/040.htm",
