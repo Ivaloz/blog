@@ -3,7 +3,7 @@
   "slug": "finance",
   "title": "投资与财经",
   "description": "宏观经济、A 股 / 港股 / 美股、一级市场融资、行业研报观点。",
-  "updatedAt": "2026-05-23T08:30:00+08:00",
+  "updatedAt": "2026-05-23T15:00:00+08:00",
   "items": [
     {
       "id": "finance-20260522-005",
@@ -13,6 +13,15 @@
       "source": "IT之家",
       "url": "https://www.ithome.com/0/954/218.htm",
       "subCategory": "美股"
+    },
+    {
+      "id": "finance-20260522-007",
+      "title": "消息称宁德时代计划投资 DeepSeek，京东、网易也在洽谈入股事宜",
+      "summary": "消息人士透露，宁德时代计划参与DeepSeek新一轮融资，成为其战略投资者之一；京东和网易也在就入股DeepSeek事宜进行洽谈；DeepSeek正推进700亿元融资，估值约450亿美元，本轮融资吸引多家国内头部企业及机构参与，将创中国AI公司融资规模历史纪录。",
+      "publishedAt": "2026-05-22T20:21:20+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/954/175.htm",
+      "subCategory": "一级市场"
     },
     {
       "id": "finance-20260522-004",
@@ -39,6 +48,15 @@
       "publishedAt": "2026-05-22T14:58:22+08:00",
       "source": "网易财经",
       "url": "https://www.163.com/dy/article/KTHS149I05118O92.html",
+      "subCategory": "一级市场"
+    },
+    {
+      "id": "finance-20260522-006",
+      "title": "消息称 Manus 创始人肖弘、季逸超、张涛考虑融资 10 亿美元回购公司，后续或赴港 IPO",
+      "summary": "消息称AI应用公司Manus创始团队正在考虑通过融资约10亿美元的方式从现有股东处回购公司控制权，后续计划赴香港上市；Manus于2025年3月发布后迅速走红，此次若成功MBO将是AI应用层公司赴港上市的重要案例。",
+      "publishedAt": "2026-05-22T10:15:25+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/953/725.htm",
       "subCategory": "一级市场"
     },
     {

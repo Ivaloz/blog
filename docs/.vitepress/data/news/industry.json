@@ -3,7 +3,7 @@
   "slug": "industry",
   "title": "行业新闻",
   "description": "企业服务、SaaS、云计算、制造业、消费互联网的产业动态。",
-  "updatedAt": "2026-05-23T08:30:00+08:00",
+  "updatedAt": "2026-05-23T15:00:00+08:00",
   "items": [
     {
       "id": "industry-20260523-001",
@@ -12,6 +12,33 @@
       "publishedAt": "2026-05-23T08:05:55+08:00",
       "source": "IT之家",
       "url": "https://www.ithome.com/0/954/235.htm",
+      "subCategory": "公司动态"
+    },
+    {
+      "id": "industry-20260523-002",
+      "title": "黄仁勋：AI 基建年度开支要冲到 4 万亿美元！",
+      "summary": "英伟达CEO黄仁勋在2026年台北国际电脑展（COMPUTEX）演讲中预测，全球AI基础设施年度资本开支将在未来几年冲击4万亿美元；他指出算力需求正以指数级增长，全球数据中心正经历由传统CPU向加速计算的根本性转变，英伟达Blackwell超级芯片已供不应求。",
+      "publishedAt": "2026-05-23T06:30:03+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/954/223.htm",
+      "subCategory": "行业研报"
+    },
+    {
+      "id": "industry-20260522-005",
+      "title": "全系降价后销量回升，消息称苹果 iPhone 17 系列手机中国区累积激活超 3 千万台",
+      "summary": "消息称苹果iPhone 17系列在中国市场全系降价后销量明显回升，截至2026年5月中国区累积激活量突破3000万台；相关数据显示iPhone 17系列整体销售表现优于前代iPhone 16，降价与国补政策叠加效应推动需求释放。",
+      "publishedAt": "2026-05-22T22:18:45+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/954/212.htm",
+      "subCategory": "消费零售"
+    },
+    {
+      "id": "industry-20260522-006",
+      "title": "AMD CEO 苏姿丰：中国内地占公司营收 20%，是非常重要的市场",
+      "summary": "AMD首席执行官苏姿丰在COMPUTEX 2026期间表示，中国内地市场占AMD总营收约20%，是公司全球最重要的市场之一；她同时表示AMD将持续服务中国客户，并在中美贸易关系改善背景下加大对中国市场的产品供应力度。",
+      "publishedAt": "2026-05-22T17:29:38+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/954/107.htm",
       "subCategory": "公司动态"
     },
     {
