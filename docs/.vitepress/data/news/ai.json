@@ -9,9 +9,9 @@
       "id": "ai-20260522-007",
       "title": "DeepSeek-V4-Pro API 宣布永久降价，调整为原定价的 1/4",
       "summary": "DeepSeek官方宣布DeepSeek-V4-Pro API于5月31日起永久降价，调整为原定价的1/4；原价输入缓存命中0.1元/百万Tokens、缓存未命中12元/百万Tokens、输出24元/百万Tokens，此前2.5折促销期结束后将正式固化为永久定价，进一步降低国产顶级大模型的API使用成本。",
-      "publishedAt": "2026-05-22T20:58:06+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/954/188.htm",
+      "publishedAt": "2026-05-22",
+      "source": "AndroidHeadlines",
+      "url": "https://www.androidheadlines.com/2026/05/deepseek-v4-pro-api-price-cut-permanent-ai-rate-limits.html",
       "subCategory": "大模型"
     },
     {
@@ -19,8 +19,8 @@
       "title": "效率、成本、精度三重突破，灵御智能拿下近亿元融资",
       "summary": "清华系企业灵御智能研发的TA机器人在具身智能数据采集领域实现三大突破：执行速度为竞品的30%、单任务数据成本降至0.6元、重复定位精度达0.1毫米；公司定位为具身智能基础设施提供商，通过为行业提供高质量本体和真机数据服务，获得近亿元融资。",
       "publishedAt": "2026-05-22T16:55:34+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/954/055.htm",
+      "source": "36氪",
+      "url": "https://36kr.com/p/3441898308327046",
       "subCategory": "具身智能"
     },
     {
@@ -54,18 +54,18 @@
       "id": "ai-20260522-002",
       "title": "允许订阅用户创作 AI 翻唱、Remix 音乐，Spotify 与环球音乐达成合作",
       "summary": "Spotify与环球音乐集团达成授权协议，允许Premium订阅用户利用AI创作翻唱歌曲和混音作品，功能通过付费服务推出，为音乐人开辟版税外新收入来源；协议达成后Spotify股价上涨16%，是AI生成内容与传统版权体系规模化合作的标志性案例。",
-      "publishedAt": "2026-05-22T07:27:27+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/953/677.htm",
+      "publishedAt": "2026-05-21",
+      "source": "Spotify Newsroom",
+      "url": "https://newsroom.spotify.com/2026-05-21/universal-music-group-spotify-licensing-agreements-fan-made-covers-remixes/",
       "subCategory": "AI音频"
     },
     {
       "id": "ai-20260522-001",
       "title": "Mac 版 Codex 更新 Appshots 功能，窗口可直接\"喂\"给 AI",
       "summary": "OpenAI更新Mac版Codex应用，新增Appshots功能允许用户通过快捷键截取任意窗口内容直接发送给AI识别处理；\"/goal\"功能结束实验阶段转正，支持设定长期任务目标；同时优化浏览器功能并新增付费用户数据分析维度。",
-      "publishedAt": "2026-05-22T07:11:00+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/953/675.htm",
+      "publishedAt": "2026-05-22",
+      "source": "OpenAI Developers",
+      "url": "https://developers.openai.com/codex/appshots",
       "subCategory": "AI编程"
     },
     {

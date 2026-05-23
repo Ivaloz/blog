@@ -10,8 +10,8 @@
       "title": "消息称华为 nova 16 系列 6 月初发布，影像、性能、电池「都加料了」",
       "summary": "据博主爆料，华为nova 16系列将于6月初发布，大杯版主摄传感器升级至1/1.3英寸超大底，支持前后多光谱、潜望镜头及无线充电，中杯屏幕升至6.68英寸；华为同期计划发布MatePad Pro Max平板和超新星X1手表等新品。",
       "publishedAt": "2026-05-22T17:24:34+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/954/096.htm",
+      "source": "CNMO",
+      "url": "https://phone.cnmo.com/news/808627.html",
       "subCategory": "消费电子"
     },
     {
@@ -45,9 +45,9 @@
       "id": "tech-20260522-006",
       "title": "Lightmatter 公布业界首款液冷激光网卡 Guide DR，可节省 75% 机架占用",
       "summary": "Lightmatter 推出业界首款液冷激光网卡 Guide DR，较传统外部激光小型可插拔模块节省 75% 机架占用，预计 2026 年 Q4 出样；集成数十个激光器，支持 64 根光纤驱动 256 条 200Gbps 通道；四个模块在 1RU 高度内可实现 204.8Tbps 交换带宽，传统方案需 4RU 空间。",
-      "publishedAt": "2026-05-22T15:51:28+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/953/948.htm",
+      "publishedAt": "2026-05-22",
+      "source": "The AI Journal",
+      "url": "https://aijourn.com/lightmatter-unveils-guide-dr-industry-first-liquid-cooled-laser-nic-that-quadruples-rack-density/",
       "subCategory": "网络基础设施"
     },
     {
@@ -63,54 +63,54 @@
       "id": "tech-20260522-008",
       "title": "安克 Liberty 5 Pro / Max 发布：搭自主研发 Thus AI 芯片，1399 元起",
       "summary": "安克发布 Liberty 5 Pro 和 Pro Max 两款降噪耳机，均搭载自主研发 Thus AI 芯片；Pro 版配 0.96 英寸屏幕，支持 AI 实时翻译，国补后 1070.23 元；Pro Max 版配 1.78 英寸 AMOLED 屏，具备 AI 会议助手，国补后 1376.23 元；两款均具备 6.5 小时单次续航（开启 ANC）、28 小时总续航、蓝牙 6.1 及 IP55 防水。",
-      "publishedAt": "2026-05-22T15:37:02+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/953/939.htm",
+      "publishedAt": "2026-05-22T23:32:00+08:00",
+      "source": "Anker (PR Newswire)",
+      "url": "https://www.prnewswire.com/apac/news-releases/earbuds-that-think-anker-unveils-soundcore-liberty-5-pro-and-liberty-5-pro-max-with-ankers-first-neural-net-chip-302780254.html",
       "subCategory": "消费电子"
     },
     {
       "id": "tech-20260522-009",
       "title": "AMD 向中国台湾地区投资 100 亿美元，加速建设 AI 基础设施",
       "summary": "AMD 宣布向中国台湾地区投资超 100 亿美元，与日月光半导体、矽品精密工业等合作伙伴推进先进封装技术；将开发 2.5D 桥接互联技术实现高带宽互联，下半年部署 Helios 机架级平台，搭载 Instinct MI450X GPU 和第六代 EPYC 处理器，以提升 AI 系统性能和能效。",
-      "publishedAt": "2026-05-22T15:31:56+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/953/937.htm",
+      "publishedAt": "2026-05-21T01:35:00-04:00",
+      "source": "AMD",
+      "url": "https://ir.amd.com/news-events/press-releases/detail/1286/amd-announces-more-than-10-billion-in-taiwan-ecosystem-investments-to-accelerate-ai-infrastructure",
       "subCategory": "芯片硬件"
     },
     {
       "id": "tech-20260522-010",
       "title": "特斯拉因缺少认证标签宣布在美召回 14575 辆 2025-2026 款 Model Y",
       "summary": "特斯拉在美召回 14,575 辆 2025-2026 款 Model Y，原因是缺少联邦法规 49 C.F.R. Part 567 要求的认证标签，其缺失可能导致车主无意超载并增加碰撞风险；特斯拉将免费检查并安装认证标签，不涉及软件缺陷。",
-      "publishedAt": "2026-05-22T15:31:24+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/953/936.htm",
+      "publishedAt": "2026-05-22",
+      "source": "Electrek",
+      "url": "https://electrek.co/2026/05/22/tesla-is-recalling-14575-model-ys-because-they-may-be-missing-a-sticker/",
       "subCategory": "智能汽车"
     },
     {
       "id": "tech-20260522-011",
       "title": "中科宇航力鸿三号可复用航天器计划 2028 年首飞，具备长期留轨能力",
       "summary": "中科宇航正研制可重复使用轨道级航天器力鸿三号，计划 2028 年首飞，具备长期留轨能力，可为至少 300 公斤有效载荷提供微重力环境，面向科学试验与太空制造场景；力鸿二号可复用运载器同步处于工程研制阶段，计划今年年底首飞并实现百公里级回收。",
-      "publishedAt": "2026-05-22T15:06:09+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/953/903.htm",
+      "publishedAt": "2026-05-22",
+      "source": "科技日报",
+      "url": "https://www.stdaily.com/web/gdxw/2026-05/22/content_520810.html",
       "subCategory": "航空航天"
     },
     {
       "id": "tech-20260522-002",
       "title": "Epic 指责苹果\"藐視法庭\"，苹果向最高法院请求复审",
       "summary": "苹果向最高法院提交34页请愿书，要求审查与Epic Games反垄断诉讼中的藐視法庭裁定；苹果主张民事藐視应基于禁令\"明确文本\"而非\"精神\"认定，且禁令适用范围不应超出Epic一案本身，Epic指控苹果持续抗拒法院命令强制开放应用内支付链接。",
-      "publishedAt": "2026-05-22T08:09:52+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/953/687.htm",
+      "publishedAt": "2026-05-21",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/05/21/apple-seeks-supreme-court-review-of-contempt-finding-and-injunction-scope-in-epic-games-case/",
       "subCategory": "互联网产品"
     },
     {
       "id": "tech-20260522-001",
       "title": "WordPress 7.0 发布：AI 建站新起点，超 420 项增强与修复",
       "summary": "WordPress 7.0正式版发布，875名以上贡献者参与，带来420多项功能增强与修复；版本原生集成AI能力，新增AI客户端与接口，支持图片生成和文本编辑；同时优化后台界面、响应式编辑体验、移动端导航自定义及设计工具，是AI时代CMS建站的重要里程碑。",
-      "publishedAt": "2026-05-22T07:47:41+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/953/683.htm",
+      "publishedAt": "2026-05-20",
+      "source": "WordPress.org",
+      "url": "https://wordpress.org/news/2026/05/armstrong/",
       "subCategory": "开发者工具"
     },
     {
