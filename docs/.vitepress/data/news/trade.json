@@ -3,8 +3,44 @@
   "slug": "trade",
   "title": "外贸资讯",
   "description": "亚马逊、TikTok Shop、阿里国际站、Shopify 等平台政策与跨境电商市场、独立站、物流支付、关税法规、选品趋势。",
-  "updatedAt": "2026-05-23T15:00:00+08:00",
+  "updatedAt": "2026-05-24T08:30:00+08:00",
   "items": [
+    {
+      "id": "trade-20260522-005",
+      "title": "Shopee新加坡本土店自5月18日起预购商品将收取服务费",
+      "summary": "Shopee新加坡本土店自2026年5月18日起对预购商品征收3.27%服务费，按商品标价扣除卖家折扣后计算；平台同时提供两项豁免政策：采用自定义预购模式的卖家可申请永久免费，季节性调整需要临时预购的卖家可申请审批豁免。",
+      "publishedAt": "2026-05-22",
+      "source": "AMZ123",
+      "url": "https://www.amz123.com/kx/X1QNUR60",
+      "subCategory": "平台政策"
+    },
+    {
+      "id": "trade-20260522-004",
+      "title": "Shopee越南本土店自5月23日起调整促销码共同融资政策",
+      "summary": "Shopee越南本土店自2026年5月23日起调整促销码共同融资政策，卖家共同融资金额调整为联合促销券面值的40%，单件商品融资上限5万越南盾；剩余部分由Shopee平台承担，建立更清晰的成本分担机制，卖家参与平台大促的成本比例更加透明可预期。",
+      "publishedAt": "2026-05-22",
+      "source": "AMZ123",
+      "url": "https://www.amz123.com/kx/PBOwyGHA",
+      "subCategory": "平台政策"
+    },
+    {
+      "id": "trade-20260521-007",
+      "title": "Shopee新加坡站加大大促资源投入，6月1日起新增订单服务费",
+      "summary": "Shopee新加坡宣布自6月1日起在Spike Days促销期间新增订单服务费，费率因促销类型而异，以支撑平台同步提升的大促资源投入，包括更高面额Shopee币回赠和更大额平台优惠券；卖家可申请Spike Days永久或临时豁免资格。",
+      "publishedAt": "2026-05-21T17:50:00+08:00",
+      "source": "AMZ123",
+      "url": "https://www.amz123.com/kx/fw775b3j",
+      "subCategory": "平台政策"
+    },
+    {
+      "id": "trade-20260521-006",
+      "title": "越南三大电商平台同步提高费率，卖家成本接近售价一半",
+      "summary": "越南三大电商平台Lazada、Shopee与TikTok Shop自2026年5月下旬起同步上调费率，包括佣金提高与新增基础设施费；叠加计算后卖家综合运营成本接近售价的40%至50%，迫使部分商家上调定价，东南亚市场卖家盈利压力进一步加大。",
+      "publishedAt": "2026-05-21T17:22:00+08:00",
+      "source": "AMZ123",
+      "url": "https://www.amz123.com/kx/h0iNmb0r",
+      "subCategory": "平台政策"
+    },
     {
       "id": "trade-20260522-001",
       "title": "TikTok Shop 全面开放爱尔兰企业入驻",
