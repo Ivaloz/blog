@@ -3,8 +3,44 @@
   "slug": "ai",
   "title": "AI 与大模型",
   "description": "大模型、Agent、AI 编程、推理框架、开源模型的发布与落地。",
-  "updatedAt": "2026-05-23T15:00:00+08:00",
+  "updatedAt": "2026-05-24T08:30:00+08:00",
   "items": [
+    {
+      "id": "ai-20260523-003",
+      "title": "OpenAI 开出最高 44.5 万美元年薪招聘研究员，要求有品位、有策略性",
+      "summary": "OpenAI公开招聘AI安全研究员，年薪区间29.5万至44.5万美元，负责研究AI系统自我改进时可能出现的安全挑战；职位要求候选人具备品位与策略性思维，核心方向包括数据投毒防御、模型可解释性工具开发及技术自动化进程监测。",
+      "publishedAt": "2026-05-23T23:49:19+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/954/455.htm",
+      "subCategory": "大模型"
+    },
+    {
+      "id": "ai-20260523-002",
+      "title": "消息称 Anthropic 最快下周完成逾 300 亿美元融资，有望推动估值反超 OpenAI",
+      "summary": "消息称Anthropic正推进逾300亿美元新一轮融资，最快下周完成，有望将估值推至900亿美元以上并超越OpenAI；本轮由红杉、Dragoneer等机构领投，各家计划出资约20亿美元；Anthropic Q2营收预计超109亿美元同比增速超500%，正加速IPO准备工作。",
+      "publishedAt": "2026-05-23T23:12:40+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/954/452.htm",
+      "subCategory": "大模型"
+    },
+    {
+      "id": "ai-20260523-001",
+      "title": "DeepSeek API 完成输出提速与服务扩容，默认支持 500 并发同时在线",
+      "summary": "DeepSeek官方宣布完成API输出提速与服务扩容，默认并发上限提升至500路同时在线；同步宣布DeepSeek-V4-Pro API于5月31日起永久降价至原定价1/4，输入缓存命中大幅降低；高需求企业可提交申请获取更高并发配额，是国产顶尖大模型降价同时持续优化服务质量的最新进展。",
+      "publishedAt": "2026-05-23T19:33:38+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/954/427.htm",
+      "subCategory": "大模型"
+    },
+    {
+      "id": "ai-20260522-009",
+      "title": "Anthropic Project Glasswing：AI 一个月发现超 1 万个高危漏洞，修补速度已成瓶颈",
+      "summary": "Anthropic公布Project Glasswing首月进展：基于Claude Mythos Preview协助约50家合作伙伴扫描代码库，一个月内在关键软件中发现逾1万个高危和严重级安全漏洞；研究表明AI发现漏洞速度已超过人工修补能力，形成新安全瓶颈；Anthropic同步开放代码库扫描工具并支持开源安全基金会，协助防御方主动应对漏洞风险。",
+      "publishedAt": "2026-05-22",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/research/glasswing-initial-update",
+      "subCategory": "AI应用"
+    },
     {
       "id": "ai-20260522-007",
       "title": "DeepSeek-V4-Pro API 宣布永久降价，调整为原定价的 1/4",
