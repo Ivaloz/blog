@@ -3,8 +3,89 @@
   "slug": "tech",
   "title": "科技新闻",
   "description": "前沿科技、互联网产品、芯片硬件、开源生态。",
-  "updatedAt": "2026-05-31T08:30:00+08:00",
+  "updatedAt": "2026-05-31T16:35:00+08:00",
   "items": [
+    {
+      "id": "tech-20260531-016",
+      "title": "历经 22 年，图像编辑软件 Paint.NET 终于拿到 paint.net 域名",
+      "summary": "图像编辑软件Paint.NET创始人Rick Brewster历经22年通过商标侵权和域名抢注诉讼赢得paint.net域名；此前该域名持有者长期拒绝出售并托管误导性内容，软件自2004年发布以来一直使用getpaint.net域名；目前正在迁移内容并设置重定向，用户暂时尚无法直接从paint.net下载。",
+      "publishedAt": "2026-05-31T16:29:37+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/957/809.htm",
+      "subCategory": "开发者工具"
+    },
+    {
+      "id": "tech-20260531-015",
+      "title": "华硕 ROG 预热\"全球首款电竞 OLED 显示器\"：24.5\" 小尺寸 + 540Hz 超高刷",
+      "summary": "华硕ROG官方宣布将在COMPUTEX 2026展示全球首款电竞级OLED显示器ROG Strix OLED XG259QWPG Ace，采用24.5英寸小尺寸OLED面板，支持540Hz超高刷新率；目前市面尚无24.5英寸IT OLED显示器面板商用，该产品开创了电竞OLED小尺寸高刷新的新品类，具体规格将于展会正式公布。",
+      "publishedAt": "2026-05-31T16:13:33+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/957/807.htm",
+      "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260531-013",
+      "title": "比亚迪城市领航兜底首例赔付落地：24 小时内完成技术判定",
+      "summary": "比亚迪宣布城市领航安全兜底政策次日即落地首例赔付案例，腾势Z9GT车主在启用城市领航功能期间发生刮蹭事故，比亚迪官方在24小时内完成技术勘察并确认全额赔付；该政策涵盖合规使用CNOA城市领航功能期间有责交通事故的车辆维修和第三方财产损失，赔付无上限，新老车主均享受一年保障。",
+      "publishedAt": "2026-05-31T15:45:04+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/957/802.htm",
+      "subCategory": "智能汽车"
+    },
+    {
+      "id": "tech-20260531-014",
+      "title": "验证载人登月系统交会对接能力，NASA 将于 6 月 9 日公布\"阿尔忒弥斯 3 号\"任务乘组名单",
+      "summary": "NASA宣布将于6月9日上午11时（美东）在约翰逊航天中心公布阿尔忒弥斯3号任务乘组名单，4名宇航员将乘猎户座飞船借SLS火箭升空；本次任务重点验证猎户座飞船与商业载人登月系统的交会对接能力及轨道转移程序，为后续持续驻留月球基地建设奠定技术基础。",
+      "publishedAt": "2026-05-31T15:41:04+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/957/801.htm",
+      "subCategory": "航空航天"
+    },
+    {
+      "id": "tech-20260531-012",
+      "title": "十年来首次涨价：.org 域名批发价 6 月 1 日起上调",
+      "summary": "公共利益注册局宣布自2026年6月1日起将.org域名批发价从9.93美元上调至11美元，是自2016年以来首次调价；多数域名注册商将转嫁成本，零售价预计涨至13至14美元；用户可在调价前按现行价格续费最多十年；涨价根源在于2019年ICANN取消每年10%的价格上限政策。",
+      "publishedAt": "2026-05-31T14:52:57+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/957/786.htm",
+      "subCategory": "开发者工具"
+    },
+    {
+      "id": "tech-20260531-011",
+      "title": "Win11 成新门槛，CDPR 更新《赛博朋克 2077》PC 版系统要求",
+      "summary": "CD Projekt RED将《赛博朋克2077》PC版最低系统要求从Windows 10升级至Windows 11，官方表示将不再在Windows 10上进行测试，原因是微软已于2025年10月停止对Win 10的安全更新与官方支持；这是该游戏自2020年首发以来第三次系统要求调整，标志Win 11加速成为PC游戏标配门槛。",
+      "publishedAt": "2026-05-31T14:45:41+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/957/783.htm",
+      "subCategory": "操作系统"
+    },
+    {
+      "id": "tech-20260531-010",
+      "title": "特斯拉中国为 Model Y 推出手动伸缩遮阳帘，售价 1499 元",
+      "summary": "特斯拉中国推出针对Model Y的原厂手动伸缩遮阳帘，售价1499元，6月4日上午10时开售；采用原车顶棚同款织物面料，具备两段式独立调节功能，可通过插销固定于天幕缝隙，经过气囊点爆试验和多重道路测试；适用于2025年2月及之后生产的Model Y，专为解决全景天窗夏季车内高温问题。",
+      "publishedAt": "2026-05-31T14:33:47+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/957/781.htm",
+      "subCategory": "智能汽车"
+    },
+    {
+      "id": "tech-20260531-009",
+      "title": "吉利熊猫勇士明日上市，纯电小车市场再添新选择",
+      "summary": "吉利银河宣布将于6月1日15时举办熊猫勇士上市发布会；现售吉利熊猫市场指导价4.69至5.39万元，搭载最大功率30千瓦电机，配备17.03kWh电池，续航210公里（CLTC）；熊猫勇士作为新产品线的一部分，将进一步丰富A00级纯电小车市场选择，具体价格将于明日揭晓。",
+      "publishedAt": "2026-05-31T14:27:30+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/957/780.htm",
+      "subCategory": "智能汽车"
+    },
+    {
+      "id": "tech-20260531-008",
+      "title": "《华为应用市场 2025 年度安全与隐私治理报告》发布，防护恶意应用安装 4928 万次",
+      "summary": "华为应用市场发布2025年度安全隐私报告：全年审核应用139万款次，通过率64.4%，驳回49.8万款次；下架违规应用6万款次，封禁恶意开发者账号1828个，全年防护恶意应用安装4928万次；通过AI技术识别并拦截仿冒个人所得税等高危诈骗应用，为版权方开设24小时快速处置通道。",
+      "publishedAt": "2026-05-31T14:07:06+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/957/777.htm",
+      "subCategory": "互联网产品"
+    },
     {
       "id": "tech-20260531-001",
       "title": "华为 Mate 80 单品激活量逼近 400 万，断层领先其他去年底发布的旗舰手机",
@@ -643,88 +724,6 @@
       "source": "CnEVPost",
       "url": "https://cnevpost.com/2026/05/21/xiaomi-launches-yu7-gt-for-elite-drivers/",
       "subCategory": "智能汽车"
-    },
-    {
-      "id": "tech-20260521-007",
-      "title": "小米 17 Max 手机发布：8000mAh 电池、2 亿像素徕卡主摄，国补到手价 4299 元起",
-      "summary": "小米17 Max正式发布，搭载第五代骁龙8至尊平台，8000mAh电池，支持100W有线及50W无线快充；徕卡2亿像素主摄，1/1.4英寸传感器，配备6倍光学级长焦；官方售价4799元起，国补到手价4299元起，5月25日正式开售。",
-      "publishedAt": "2026-05-21",
-      "source": "CNMO",
-      "url": "https://phone.cnmo.com/news/809502.html",
-      "subCategory": "消费电子"
-    },
-    {
-      "id": "tech-20260521-006",
-      "title": "为鸿蒙 7.0 铺路：OpenHarmony 7.0 Beta1 现身，华为 HarmonyOS API26 版本已启开发者体验官招募",
-      "summary": "OpenHarmony 7.0 Beta1在GitCode上线，API版本迭代至26；华为同步启动HarmonyOS API26开发者体验官招募，预计在6月12至14日HDC 2026大会上正式发布鸿衉7.0，标志开源生态与华为商业系统同步推进。",
-      "publishedAt": "2026-05-21T11:39:35+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/953/274.htm",
-      "subCategory": "操作系统"
-    },
-    {
-      "id": "tech-20260521-005",
-      "title": "何小鹏：激光雷达是个好东西，但在汽车领域已不是必需",
-      "summary": "小鹏集团CEO何小鹏在GX上市后公开表示激光雷达在汽车领域已不是必需，小鹏将坚持纯视觉路线；技术负责人补充称自动驾驶核心在于实际效果而非传感器数量，第二代VLA在极端天气下亦能良好表现，契合小鹏已搞载的纯视觉智驾方案。",
-      "publishedAt": "2026-05-21T11:07:34+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/953/222.htm",
-      "subCategory": "智能汽车"
-    },
-    {
-      "id": "tech-20260521-004",
-      "title": "特斯拉监督版 FSD 官宣登陆中国",
-      "summary": "特斯拉官方宣布监督版FSD正式支持中国市场，包括中国在内共10个国家和地区开放使用；该系统属L2级辅助驾驶，仍需驾驶员监督；特斯拉同步在国内北京、上海等9个城市招募智驾测试技师，推进本土化测试工作。",
-      "publishedAt": "2026-05-21T09:24:00Z",
-      "source": "CnEVPost",
-      "url": "https://cnevpost.com/2026/05/21/tesla-says-fsd-supervised-available-in-china/",
-      "subCategory": "智能汽车"
-    },
-    {
-      "id": "tech-20260521-003",
-      "title": "苹果 Apple Music 称 AI 音乐播放占比不到1%，不封杀但要求清晰标注",
-      "summary": "Apple Music发布公开信阐述AI音乐管理政策，当前AI音乐在总播放量中占比低于1%；苹果明确不封杀AI生成内容，但要求全部AI音乐须清晰标注并提交相关元数据，已在今年3月上线AI内容标签工具并部署识别机制；自动下架播放量主要来自流量操纵的AI歌曲，旨在维护创作透明度并防范滥用。",
-      "publishedAt": "2026-05-20",
-      "source": "9to5Mac",
-      "url": "https://9to5mac.com/2026/05/20/apple-music-shares-what-it-is-doing-to-keep-music-fair-in-an-ai-world/",
-      "subCategory": "互联网产品"
-    },
-    {
-      "id": "tech-20260521-002",
-      "title": "富士康遭入侵后续：趀30 份苹果服务器文档样本流出",
-      "summary": "勒索组织Nitrogen此前入侵富士康威斯康星州工厂，已向外流出趀30份苹果机密文件样本，声称总量达1100万份、8TB；泄露文件涵盖苹果2020至2026年服务器架构规格、Matterhorn项目服务器配置（含英特尔处理器与NVIDIA T4 GPU），被盗数据同时波及AMD、谷歌、英特尔、英伟达等多家科技公司相关文件。",
-      "publishedAt": "2026-05-20T14:47:00-04:00",
-      "source": "AppleInsider",
-      "url": "https://appleinsider.com/articles/26/05/20/apple-servers-schematics-stolen-in-may-2026-foxconn-cyberattack-appleinsider-confirms",
-      "subCategory": "安全漏洞"
-    },
-    {
-      "id": "tech-20260521-001",
-      "title": "小米汽车 OTA 1.16 开启全量推送，新增自定义萌宠上车、小爱陪伴等功能",
-      "summary": "小米汽车推送OTA 1.16全量更新，新增可自定义外观的萌宠上车功能，扩展小爱陪伴能力并优化模糊语义理解；导航层面实现商圈地下停车场车位级精准引导；小米产品经理发布视频详解更新亮点，车主可留意系统提示进行升级。",
-      "publishedAt": "2026-05-21",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/953/100.htm",
-      "subCategory": "智能汽车"
-    },
-    {
-      "id": "tech-20260520-006",
-      "title": "小鹏 GX 旗舰 SUV 正式上市，限时折扣后 26.98 万-34.98 万元",
-      "summary": "小鹏首款全尺寸旗舰SUV GX正式上市，推出纯电与超级增程双动力版本，6月30日前下定限时权益价26.98至34.98万元；车身5265×1999×1800mm、轴距3115mm，搞载3000TOPS有效算力，纯电续航最高750km（CLTC），增程综合续航超1585km，支持5C超充，配切2+2+2六座及21.4英寸吸顶屏等旗舰配置。",
-      "publishedAt": "2026-05-21",
-      "source": "小鹏汽车",
-      "url": "https://www.xiaopeng.com/news/company_news/5563.html",
-      "subCategory": "智能汽车"
-    },
-    {
-      "id": "tech-20260520-008",
-      "title": "iQOO Pad6 Pro 平板发布：第五代骨龙8 至尊版 +4K 电竞屏，国补到手价 3799 元起",
-      "summary": "iQOO Pad6 Pro平板发布，搞载第五代骨龙8至尊版，配制13.2英寸4K分辨率144Hz Dolby Vision屏幕，电池容量13000mAh，采用VC立体散热；支持13款原生4K游戏及游戏超分超帧功能，国补后到手价3799元起（8GB+256GB），顶配16GB+512GB售5999元。",
-      "publishedAt": "2026-05-20",
-      "source": "iQOO",
-      "url": "https://www.vivo.com.cn/vivo/iqoopad6pro/",
-      "subCategory": "消费电子"
-    
     }
   ]
 }

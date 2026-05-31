@@ -3,7 +3,7 @@
   "slug": "trade",
   "title": "外贸资讯",
   "description": "亚马逊、TikTok Shop、阿里国际站、Shopify 等平台政策与跨境电商市场、独立站、物流支付、关税法规、选品趋势。",
-  "updatedAt": "2026-05-31T08:30:00+08:00",
+  "updatedAt": "2026-05-31T16:35:00+08:00",
   "items": [
     {
       "id": "trade-20260529-001",
@@ -22,6 +22,15 @@
       "source": "AMZ123",
       "url": "https://www.amz123.com/t/MglqmOZE",
       "subCategory": "平台动态"
+    },
+    {
+      "id": "trade-20260529-003",
+      "title": "亚马逊更新 CSBA 客服服务，上线 AI 分类与自动赔付等功能",
+      "summary": "亚马逊对卖家客服代理（CSBA）服务完成升级，新增生成式AI功能用于自动分类客户咨询和监控日常接触量；优化退款政策，使用Buy Shipping标签的卖家可自动获得运费赔付，无需手动提交SAFE-T申诉；季度订单不足30单的卖家可永久免费使用CSBA，取消了此前95%的跟踪率要求，旨在降低FBM卖家客服运营成本。",
+      "publishedAt": "2026-05-29",
+      "source": "AMZ123",
+      "url": "https://www.amz123.com/t/XVd7MkBl",
+      "subCategory": "平台政策"
     },
     {
       "id": "trade-20260528-001",

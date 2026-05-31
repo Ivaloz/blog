@@ -3,7 +3,7 @@
   "slug": "ai",
   "title": "AI 与大模型",
   "description": "大模型、Agent、AI 编程、推理框架、开源模型的发布与落地。",
-  "updatedAt": "2026-05-31T08:30:00+08:00",
+  "updatedAt": "2026-05-31T16:35:00+08:00",
   "items": [
     {
       "id": "ai-20260531-001",
@@ -40,6 +40,15 @@
       "source": "IT之家",
       "url": "https://www.ithome.com/0/956/836.htm",
       "subCategory": "AI应用"
+    },
+    {
+      "id": "ai-20260528-001",
+      "title": "Anthropic 发布 Claude Opus 4.8，代理编程与诚实性大幅提升",
+      "summary": "Anthropic发布Claude Opus 4.8，在代理编程（SWE-bench 69.2%）、多学科推理（57.9%）和浏览器控制（Online-Mind2Web 84%）等基准上较Opus 4.7均有提升；代码审查诚实性约为前代4倍；新增动态工作流功能支持超大规模代理任务，Fast模式速度2.5倍且较上代降价3倍；API标识为claude-opus-4-8，定价与前代一致。",
+      "publishedAt": "2026-05-28",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/news/claude-opus-4-8",
+      "subCategory": "大模型"
     },
     {
       "id": "ai-20260527-001",
