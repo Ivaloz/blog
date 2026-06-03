@@ -3,8 +3,17 @@
   "slug": "trade",
   "title": "外贸资讯",
   "description": "亚马逊、TikTok Shop、阿里国际站、Shopify 等平台政策与跨境电商市场、独立站、物流支付、关税法规、选品趋势。",
-  "updatedAt": "2026-05-31T16:35:00+08:00",
+  "updatedAt": "2026-06-03T08:30:00+08:00",
   "items": [
+    {
+      "id": "trade-20260602-001",
+      "title": "亚马逊 Prime Day 2026 正式确认：6 月 23-26 日举办，聚焦日用杂货与家居必需品",
+      "summary": "亚马逊官方正式确认2026年Prime Day于6月23-26日举办，较传统7月提前，为期四天覆盖22个国家；本届大促将聚焦日用杂货与家居必需品，反映消费者在经济压力下的实用消费取向；早于6月23日的提前促销活动已陆续上线。",
+      "publishedAt": "2026-06-02T06:47:00-07:00",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/02/amazon-prime-day-2026-takes-place-june-23-26/",
+      "subCategory": "平台动态"
+    },
     {
       "id": "trade-20260529-001",
       "title": "USPS 与 DHL 达成超 100 亿美元合作，加强美国包裹末端配送",

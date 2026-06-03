@@ -3,8 +3,53 @@
   "slug": "tech",
   "title": "科技新闻",
   "description": "前沿科技、互联网产品、芯片硬件、开源生态。",
-  "updatedAt": "2026-05-31T16:35:00+08:00",
+  "updatedAt": "2026-06-03T08:30:00+08:00",
   "items": [
+    {
+      "id": "tech-20260602-001",
+      "title": "COMPUTEX 2026｜高通CEO安蒙定义智能体之年，以计算连续体重构AI规模化",
+      "summary": "高通CEO安蒙在COMPUTEX 2026主题演讲中将2026年定义为“智能体之年”，提出以“计算连续体”架构重构AI规模化部署，强调端侧、边缘与云端统一协同计算是支撑自主智能体持续运行的核心基础。",
+      "publishedAt": "2026-06-02T14:05:50+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/958/693.htm",
+      "subCategory": "芯片硬件"
+    },
+    {
+      "id": "tech-20260601-004",
+      "title": "nova 史上最强数字版发布，华为 nova 16 手机售价 2999 元起",
+      "summary": "华为nova 16正式发布，售价2999元起；搭载麒麟9010S、全5000万红枫影像系统（主摄+RYYB潜望长焦+人像三摄）、nova史上最大7000mAh电池及100W快充；运行HarmonyOS 6.1并支持AI圆圈解题，6月5日开售。",
+      "publishedAt": "2026-06-01T15:30:14+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/958/190.htm",
+      "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260601-003",
+      "title": "首台英伟达 RTX Spark 处理器笔记本：Surface Laptop Ultra 亮相，微软顶级配置",
+      "summary": "微软发布首台搭载英伟达RTX Spark处理器的Surface Laptop Ultra，配备15英寸mini-LED PixelSense Ultra触控屏、峰值亮度2000尼特为Surface系列历史最高；搭配史上最大尺寸触控板，支持Blender、DaVinci Resolve等创作软件原生ARM优化，2026年晚些时候上市。",
+      "publishedAt": "2026-06-01T13:33:12+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/958/097.htm",
+      "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260601-002",
+      "title": "英伟达 RTX Spark PC 处理器正式发布：联发科合作 20 核 CPU + 英伟达 RTX GPU，首批电脑秋季推出",
+      "summary": "英伟达联合联发科发布RTX Spark PC处理器，集成20核Grace CPU与Blackwell RTX GPU（6144 CUDA核心），基于台积电3nm制程、128GB统一内存，实现1 petaFLOP AI算力；首批由华硕、戴尔、惠普、联想、微软等品牌推出的笔记本与迷你桌面产品今年秋季上市。",
+      "publishedAt": "2026-06-01T12:39:21+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/958/088.htm",
+      "subCategory": "芯片硬件"
+    },
+    {
+      "id": "tech-20260601-001",
+      "title": "黄仁勋：英伟达下一代 AI 超级芯片平台 Vera Rubin 全面投产",
+      "summary": "英伟达CEO黄仁勋在GTC Taipei 2026宣布Vera Rubin AI超级芯片平台全面投产，相比Grace Blackwell大规模智能体吞吐量提升10倍，生产分布于全球30余国350余座工厂。",
+      "publishedAt": "2026-06-01T11:55:26+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/958/074.htm",
+      "subCategory": "芯片硬件"
+    },
     {
       "id": "tech-20260531-016",
       "title": "历经 22 年，图像编辑软件 Paint.NET 终于拿到 paint.net 域名",
@@ -205,7 +250,7 @@
     },
     {
       "id": "tech-20260529-003",
-      "title": ""全球最小的智能戒指"：Oura Ring 5 发布，尺寸较前代小 40%",
+      "title": "“全球最小的智能戒指”：Oura Ring 5 发布，尺寸较前代小 40%",
       "summary": "Oura公司推出新款智能戒指Ring 5，相比Ring 4尺寸缩小40%，宽度仅6.09毫米。产品采用重构的传感系统和电池方案，在更小体积下保留现有追踪功能。新增Health Radar、AI健康建议、医疗记录导入和GLP-1追踪工具，支持血压和呼吸监测。售价399美元起，需订阅服务。",
       "publishedAt": "2026-05-29T08:05:14+08:00",
       "source": "IT之家",
@@ -215,7 +260,7 @@
     {
       "id": "tech-20260528-001",
       "title": "中国首款：比亚迪自研 4nm 智驾芯片璇玑 A3 发布，支持 L3、L4 自动驾驶",
-      "summary": "比亚迪正式推出自主研发的"璇玑A3"智驾芯片，采用4nm工艺，已启动规模量产。该芯片支持L3和L4级自动驾驶，三颗芯片总算力超过2100TOPS，通过深度算法优化使算力利用率提升一倍。比亚迪拥有从设计到制造的完整芯片产业链，已推出2000多款芯片产品，现有7000余人的研发团队。",
+      "summary": "比亚迪正式推出自主研发的“璇玑A3”智驾芯片，采用4nm工艺，已启动规模量产。该芯片支持L3和L4级自动驾驶，三颗芯片总算力超过2100TOPS，通过深度算法优化使算力利用率提升一倍。比亚迪拥有从设计到制造的完整芯片产业链，已推出2000多款芯片产品，现有7000余人的研发团队。",
       "publishedAt": "2026-05-28T20:21:28+08:00",
       "source": "IT之家",
       "url": "https://www.ithome.com/0/956/780.htm",
@@ -224,7 +269,7 @@
     {
       "id": "tech-20260528-004",
       "title": "蔚来ES9正式上市：49.8万元起，租电购买39万元起，姚明现身发布会！李斌强势喊话：跟别的\"9\"不是一回事",
-      "summary": "蔚来旗舰SUV产品ES9正式上市，推出三个版本，租电购买方案从39万元起，整车购买方案从49.8万元起。篮球巨星姚明出任首席体验官。李斌强调ES9是"智能电动行政SUV品类的开创者"，车长5365mm、轴距3250mm，具有同级最大装载能力。",
+      "summary": "蔚来旗舰SUV产品ES9正式上市，推出三个版本，租电购买方案从39万元起，整车购买方案从49.8万元起。篮球巨星姚明出任首席体验官。李斌强调ES9是“智能电动行政SUV品类的开创者”，车长5365mm、轴距3250mm，具有同级最大装载能力。",
       "publishedAt": "2026-05-28T15:06:38+08:00",
       "source": "每日经济新闻",
       "url": "https://www.nbd.com.cn/articles/2026-05-28/4411051.html",
@@ -679,51 +724,6 @@
       "source": "科技日报",
       "url": "https://www.stdaily.com/web/gdxw/2026-05/22/content_520810.html",
       "subCategory": "航空航天"
-    },
-    {
-      "id": "tech-20260522-002",
-      "title": "Epic 指责苹果\"藐視法庭\"，苹果向最高法院请求复审",
-      "summary": "苹果向最高法院提交34页请愿书，要求审查与Epic Games反垄断诉讼中的藐視法庭裁定；苹果主张民事藐視应基于禁令\"明确文本\"而非\"精神\"认定，且禁令适用范围不应超出Epic一案本身，Epic指控苹果持续抗拒法院命令强制开放应用内支付链接。",
-      "publishedAt": "2026-05-21",
-      "source": "9to5Mac",
-      "url": "https://9to5mac.com/2026/05/21/apple-seeks-supreme-court-review-of-contempt-finding-and-injunction-scope-in-epic-games-case/",
-      "subCategory": "互联网产品"
-    },
-    {
-      "id": "tech-20260522-001",
-      "title": "WordPress 7.0 发布：AI 建站新起点，超 420 项增强与修复",
-      "summary": "WordPress 7.0正式版发布，875名以上贡献者参与，带来420多项功能增强与修复；版本原生集成AI能力，新增AI客户端与接口，支持图片生成和文本编辑；同时优化后台界面、响应式编辑体验、移动端导航自定义及设计工具，是AI时代CMS建站的重要里程碑。",
-      "publishedAt": "2026-05-20",
-      "source": "WordPress.org",
-      "url": "https://wordpress.org/news/2026/05/armstrong/",
-      "subCategory": "开发者工具"
-    },
-    {
-      "id": "tech-20260522-013",
-      "title": "Deno 2.8",
-      "summary": "Deno 2.8发布，新增7个子命令：deno audit fix（自动修复漏洞包）、deno ci（可重现安装验证）、deno pack（构建npm包）、deno transpile（剥离TypeScript类型）、deno why（追踪依赖链）等；npm冷安装速度提升3.66倍，node:http吞吐量翻倍，Node.js API兼容性从42%升至76.4%，新增import defer提案支持和Chrome DevTools网络检测。",
-      "publishedAt": "2026-05-22",
-      "source": "Deno",
-      "url": "https://deno.com/blog/v2.8",
-      "subCategory": "开发者工具"
-    },
-    {
-      "id": "tech-20260521-009",
-      "title": "第三代元 PLUS 11.99 万元起正式上市，全系搭载第二代刀片电池及闪充技术",
-      "summary": "比亚迪第三代元PLUS正式上市，官方指导价11.99万至14.99万元，全系搭载第二代刀片电池，提供540km和630km两种续航版本，标配闪充技术（10%至70%约五分钟），采用后驱布局，可选200kW或240kW电机，配备云辇-C智能阻尼车身控制系统及可升级的天神之眼B辅助驾驶系统。",
-      "publishedAt": "2026-05-21",
-      "source": "CnEVPost",
-      "url": "https://cnevpost.com/2026/05/21/byd-launches-third-gen-yuan-plus-suv/",
-      "subCategory": "智能汽车"
-    },
-    {
-      "id": "tech-20260521-008",
-      "title": "小米 YU7 GT 正式发布：38.99 万元起，\"大满配\"42.99 万元",
-      "summary": "小米YU7 GT正式发布，售价38.99万元起，\"大满配\"版42.99万元；搭载V8s EVO双电机（最高转速28000rpm），综合最大马力1003PS，零百加速2.92秒，最高时速300km/h；CLTC续航705km，101.7kWh三元锂电池；当晚21时开启大定。",
-      "publishedAt": "2026-05-21",
-      "source": "CnEVPost",
-      "url": "https://cnevpost.com/2026/05/21/xiaomi-launches-yu7-gt-for-elite-drivers/",
-      "subCategory": "智能汽车"
     }
   ]
 }
