@@ -316,7 +316,7 @@ export default defineConfig({
         ]
       },
       { text: '关于', link: '/pages/about' },
-      { text: '独立站', link: 'https://indie.fanweibin.cn/', target: '_blank' },
+      { text: 'Indie', link: 'https://indie.fanweibin.cn/', target: '_blank' },
       { text: 'RSS', link: '/feed.xml', target: '_blank' }
     ],
 
