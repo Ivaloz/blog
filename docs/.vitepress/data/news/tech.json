@@ -3,8 +3,35 @@
   "slug": "tech",
   "title": "科技新闻",
   "description": "前沿科技、互联网产品、芯片硬件、开源生态。",
-  "updatedAt": "2026-06-03T08:30:00+08:00",
+  "updatedAt": "2026-06-10T08:30:00+08:00",
   "items": [
+    {
+      "id": "tech-20260610-001",
+      "title": "消息称三星电子计划在韩国光州新建先进半导体封装工厂",
+      "summary": "据报道三星电子正研究在韩国光州新建先进半导体封装工厂，重点布局高带宽内存（HBM）及先进封装产能；AI算力持续拉动高端封装需求，三星此举旨在缩小与SK海力士的HBM产能差距，巩固其在AI供应链中的地位。",
+      "publishedAt": "2026-06-10",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/962/153.htm",
+      "subCategory": "芯片硬件"
+    },
+    {
+      "id": "tech-20260609-001",
+      "title": "苹果WWDC26主题演讲要点：iOS 27、macOS Tahoe发布，Siri AI全面升级",
+      "summary": "苹果WWDC26发布iOS 27、macOS Tahoe等系统更新；Siri获重大升级，新增跨应用多步骤操作与屏幕内容理解能力；Apple Intelligence扩展写作工具及图像生成功能；上述新功能秋季推出，中国大陆地区暂不提供AI相关新功能。",
+      "publishedAt": "2026-06-09",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/961/722.htm",
+      "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260609-002",
+      "title": "苹果确认：Siri AI等Apple Intelligence新功能在中国大陆暂不提供",
+      "summary": "苹果在WWDC26后确认，新版Siri AI跨应用操作及多项Apple Intelligence新功能在中国大陆暂不上线，原因为需满足当地法规要求；苹果表示正持续与相关部门沟通，用户可将设备语言切换至繁体中文以体验部分已上线功能。",
+      "publishedAt": "2026-06-09T02:14:17+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/961/679.htm",
+      "subCategory": "消费电子"
+    },
     {
       "id": "tech-20260602-001",
       "title": "COMPUTEX 2026｜高通CEO安蒙定义智能体之年，以计算连续体重构AI规模化",
@@ -697,33 +724,6 @@
       "source": "Anker (PR Newswire)",
       "url": "https://www.prnewswire.com/apac/news-releases/earbuds-that-think-anker-unveils-soundcore-liberty-5-pro-and-liberty-5-pro-max-with-ankers-first-neural-net-chip-302780254.html",
       "subCategory": "消费电子"
-    },
-    {
-      "id": "tech-20260522-009",
-      "title": "AMD 向中国台湾地区投资 100 亿美元，加速建设 AI 基础设施",
-      "summary": "AMD 宣布向中国台湾地区投资超 100 亿美元，与日月光半导体、矽品精密工业等合作伙伴推进先进封装技术；将开发 2.5D 桥接互联技术实现高带宽互联，下半年部署 Helios 机架级平台，搭载 Instinct MI450X GPU 和第六代 EPYC 处理器，以提升 AI 系统性能和能效。",
-      "publishedAt": "2026-05-21T01:35:00-04:00",
-      "source": "AMD",
-      "url": "https://ir.amd.com/news-events/press-releases/detail/1286/amd-announces-more-than-10-billion-in-taiwan-ecosystem-investments-to-accelerate-ai-infrastructure",
-      "subCategory": "芯片硬件"
-    },
-    {
-      "id": "tech-20260522-010",
-      "title": "特斯拉因缺少认证标签宣布在美召回 14575 辆 2025-2026 款 Model Y",
-      "summary": "特斯拉在美召回 14,575 辆 2025-2026 款 Model Y，原因是缺少联邦法规 49 C.F.R. Part 567 要求的认证标签，其缺失可能导致车主无意超载并增加碰撞风险；特斯拉将免费检查并安装认证标签，不涉及软件缺陷。",
-      "publishedAt": "2026-05-22",
-      "source": "Electrek",
-      "url": "https://electrek.co/2026/05/22/tesla-is-recalling-14575-model-ys-because-they-may-be-missing-a-sticker/",
-      "subCategory": "智能汽车"
-    },
-    {
-      "id": "tech-20260522-011",
-      "title": "中科宇航力鸿三号可复用航天器计划 2028 年首飞，具备长期留轨能力",
-      "summary": "中科宇航正研制可重复使用轨道级航天器力鸿三号，计划 2028 年首飞，具备长期留轨能力，可为至少 300 公斤有效载荷提供微重力环境，面向科学试验与太空制造场景；力鸿二号可复用运载器同步处于工程研制阶段，计划今年年底首飞并实现百公里级回收。",
-      "publishedAt": "2026-05-22",
-      "source": "科技日报",
-      "url": "https://www.stdaily.com/web/gdxw/2026-05/22/content_520810.html",
-      "subCategory": "航空航天"
     }
   ]
 }

@@ -3,8 +3,26 @@
   "slug": "finance",
   "title": "投资与财经",
   "description": "宏观经济、A 股 / 港股 / 美股、一级市场融资、行业研报观点。",
-  "updatedAt": "2026-06-03T08:30:00+08:00",
+  "updatedAt": "2026-06-10T08:30:00+08:00",
   "items": [
+    {
+      "id": "finance-20260610-001",
+      "title": "创业板指高开高走涨近4%，半导体、PCB板块集体反弹",
+      "summary": "6月10日A股创业板指高开高走，涨幅接近4%，科创50同步强势上涨；半导体、PCB等AI算力相关板块集体大幅反弹，为当日市场核心主线；前期超跌修复叠加AI算力需求升温是主要驱动因素，成交额在大涨背景下明显放量。",
+      "publishedAt": "2026-06-10T07:53:00+08:00",
+      "source": "证券时报",
+      "url": "https://www.stcn.com/article/detail/3952513.html",
+      "subCategory": "A股"
+    },
+    {
+      "id": "finance-20260609-001",
+      "title": "OpenAI秘密递交IPO招股书，正式启动赴美上市程序",
+      "summary": "据Fortune报道，OpenAI已向美国SEC秘密递交S-1招股书，正式启动IPO进程；公司计划最早秋季登陆美股，当前私募估值逾8500亿美元；此前Anthropic已率先递表，两家顶级AI公司在IPO赛道上形成竞争态势；OpenAI 2026年Q1营收57亿美元。",
+      "publishedAt": "2026-06-09",
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/06/09/openai-files-confidential-s-1-sec-ipo/",
+      "subCategory": "一级市场"
+    },
     {
       "id": "finance-20260602-005",
       "title": "创业板指涨逾2% CPO概念涨幅居前",
