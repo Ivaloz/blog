@@ -3,8 +3,53 @@
   "slug": "tech",
   "title": "科技新闻",
   "description": "前沿科技、互联网产品、芯片硬件、开源生态。",
-  "updatedAt": "2026-06-10T08:30:00+08:00",
+  "updatedAt": "2026-06-11T08:30:00+08:00",
   "items": [
+    {
+      "id": "tech-20260611-001",
+      "title": "外媒体验苹果 iOS 27 全新 Siri AI：回复简洁，不套近乎",
+      "summary": "外媒对苹果iOS 27搭载的全新Siri AI进行上手体验，体验者指出新版Siri对话风格更为专业直接、回复简洁，刻意减少了虚假亲密感和多余客套，应答效率明显提升；测试的跨应用任务完成率较前代有所提高，但部分复杂指令理解仍有局限。",
+      "publishedAt": "2026-06-11T08:31:50+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/962/721.htm",
+      "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260611-004",
+      "title": "比利时正式批准特斯拉 FSD 上路，成欧盟第五个放行国家",
+      "summary": "比利时道路安全主管部门正式批准特斯拉FSD（完全自动驾驶）在本国公共道路上运行，成为欧盟内第五个批准该系统商业使用的国家；特斯拉正加速FSD欧洲区域覆盖，计划年内申请多个欧盟成员国的L3级认证，监管部门要求特斯拉持续上报安全行驶数据。",
+      "publishedAt": "2026-06-11T08:00:26+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/962/714.htm",
+      "subCategory": "智能汽车"
+    },
+    {
+      "id": "tech-20260611-002",
+      "title": "苹果 iOS 27 版 CarPlay 新增路线共享功能，将解决特斯拉 FSD 导航同步难题",
+      "summary": "苹果iOS 27更新CarPlay功能，新增驾驶途中路线实时共享能力，允许iPhone导航目的地与车机屏幕保持状态同步；此举被认为可有效解决特斯拉FSD用户长期反映的CarPlay导航与自动驾驶系统路径不一致问题，适用于所有支持Apple CarPlay的车型。",
+      "publishedAt": "2026-06-11T07:54:59+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/962/712.htm",
+      "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260611-003",
+      "title": "统筹调配车辆芯片算力，中国汽车基础软件技术首次进入全球行业标准",
+      "summary": "由中国车企和软件企业主导开发的车辆跨域芯片算力统筹调度技术方案被纳入国际汽车行业标准，实现多颗域控制器芯片计算资源的动态分配与优化；这是中国汽车基础软件技术首次以主导角色推动标准国际化，标志着我国在车载软件架构领域从跟跑迈向并跑。",
+      "publishedAt": "2026-06-11T07:40:00+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/962/707.htm",
+      "subCategory": "智能汽车"
+    },
+    {
+      "id": "tech-20260610-002",
+      "title": "鸿蒙 7 发布已板上钉钉：华为 HDC 2026 开发者大会议题公布，将带来全新 UI design kit",
+      "summary": "华为HDC 2026开发者大会议题安排正式公布，包含鸿蒙7操作系统主题演讲及全新UI design kit技术分享，确认鸿蒙7即将在大会期间正式亮相；新设计体系预计覆盖更丰富的动效规范和多设备一致性设计语言，并针对HarmonyOS NEXT的AI原生应用开发场景进行全面优化。",
+      "publishedAt": "2026-06-10T23:59:24+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/962/688.htm",
+      "subCategory": "操作系统"
+    },
     {
       "id": "tech-20260610-001",
       "title": "消息称三星电子计划在韩国光州新建先进半导体封装工厂",
@@ -679,51 +724,6 @@
       "source": "IT之家",
       "url": "https://www.ithome.com/0/954/018.htm",
       "subCategory": "智能汽车"
-    },
-    {
-      "id": "tech-20260522-004",
-      "title": "比亚迪 5 月 28 日将举办智能化战略发布会，预计宣布新突破",
-      "summary": "比亚迪宣布将于 5 月 28 日召开智能化战略发布会；已组建超 5000 人辅助驾驶团队，未来智能化投入超 1000 亿元，天神之眼搭载车型累计超 250 万辆，辅助驾驶系统日均行驶数据突破 1.5 亿公里，正推进 AI 智能体+世界模型方案。",
-      "publishedAt": "2026-05-22T16:30:41+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/954/014.htm",
-      "subCategory": "智能汽车"
-    },
-    {
-      "id": "tech-20260522-005",
-      "title": "国家互联网应急中心提示：黑产团伙批量搭建高仿真钓鱼网站大规模传播银狐木马",
-      "summary": "国家互联网应急中心发现黑产团伙利用 AI 工具批量生成高仿真钓鱼网站传播银狐远控木马，439 个钓鱼域名主要仿冒 Chrome、WPS 等软件；恶意样本通过 Shellcode 注入系统进程实现远程控制，2026 年 4 月至 5 月累计感染 18.2 万台设备；建议用户优先使用官方下载渠道，警惕搜索引擎广告链接。",
-      "publishedAt": "2026-05-22T16:24:04+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/954/007.htm",
-      "subCategory": "安全漏洞"
-    },
-    {
-      "id": "tech-20260522-006",
-      "title": "Lightmatter 公布业界首款液冷激光网卡 Guide DR，可节省 75% 机架占用",
-      "summary": "Lightmatter 推出业界首款液冷激光网卡 Guide DR，较传统外部激光小型可插拔模块节省 75% 机架占用，预计 2026 年 Q4 出样；集成数十个激光器，支持 64 根光纤驱动 256 条 200Gbps 通道；四个模块在 1RU 高度内可实现 204.8Tbps 交换带宽，传统方案需 4RU 空间。",
-      "publishedAt": "2026-05-22",
-      "source": "The AI Journal",
-      "url": "https://aijourn.com/lightmatter-unveils-guide-dr-industry-first-liquid-cooled-laser-nic-that-quadruples-rack-density/",
-      "subCategory": "网络基础设施"
-    },
-    {
-      "id": "tech-20260522-007",
-      "title": "AMD 苏姿丰：CPU 目前供应紧张，未来 5 年市场年复增长率超 35%",
-      "summary": "AMD 首席执行官苏姿丰表示，受 AI 基础设施加速建设驱动，CPU 市场未来 5 年年复增长率将超 35%，远超过去 3 至 4 年 3% 至 4% 的增速；当前 CPU 供应紧张超出预期，数据中心内存和电力供应同样存在瓶颈。",
-      "publishedAt": "2026-05-22T15:45:58+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/953/944.htm",
-      "subCategory": "芯片硬件"
-    },
-    {
-      "id": "tech-20260522-008",
-      "title": "安克 Liberty 5 Pro / Max 发布：搭自主研发 Thus AI 芯片，1399 元起",
-      "summary": "安克发布 Liberty 5 Pro 和 Pro Max 两款降噪耳机，均搭载自主研发 Thus AI 芯片；Pro 版配 0.96 英寸屏幕，支持 AI 实时翻译，国补后 1070.23 元；Pro Max 版配 1.78 英寸 AMOLED 屏，具备 AI 会议助手，国补后 1376.23 元；两款均具备 6.5 小时单次续航（开启 ANC）、28 小时总续航、蓝牙 6.1 及 IP55 防水。",
-      "publishedAt": "2026-05-22T23:32:00+08:00",
-      "source": "Anker (PR Newswire)",
-      "url": "https://www.prnewswire.com/apac/news-releases/earbuds-that-think-anker-unveils-soundcore-liberty-5-pro-and-liberty-5-pro-max-with-ankers-first-neural-net-chip-302780254.html",
-      "subCategory": "消费电子"
     }
   ]
 }
