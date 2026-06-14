@@ -3,8 +3,53 @@
   "slug": "tech",
   "title": "科技新闻",
   "description": "前沿科技、互联网产品、芯片硬件、开源生态。",
-  "updatedAt": "2026-06-13T23:30:00+08:00",
+  "updatedAt": "2026-06-14T08:30:00+08:00",
   "items": [
+    {
+      "id": "tech-20260614-005",
+      "title": "微纳星空 6 颗\"东坡\"系列卫星出征：搭乘引力一号 Y4 运载火箭，择机发射",
+      "summary": "微纳星空宣布6颗\"东坡\"系列卫星（13、14、17、18、19、20号）完成总装测试。这些卫星由该公司商业卫星智能化产线自主量产，包括两颗光学卫星和四颗SAR卫星，均为\"环天星座\"组网卫星。计划搭乘\"引力一号Y4运载火箭\"在山东海阳海上发射场择机发射，验证了产线的批量研制能力。",
+      "publishedAt": "2026-06-14T16:36:45+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/964/125.htm",
+      "subCategory": "航空航天"
+    },
+    {
+      "id": "tech-20260614-001",
+      "title": "消息称小米 MIX Fold 5 阔折叠手机首发澎湃 OS4，系统应用实现\"AI 赋能\"",
+      "summary": "据博主透露，小米MIX Fold 5折叠手机将首发澎湃OS4系统，应用获得AI赋能升级。该机预计搭载玄戒O3芯片，性能对标骁龙8E5，同时将是最贵徕卡旗舰与最优AI交互载体。",
+      "publishedAt": "2026-06-14T16:17:04+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/964/113.htm",
+      "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260614-004",
+      "title": "终于来了：华为鸿蒙单框架车机系统出现网易云音乐 App",
+      "summary": "华为HDC2026开发者大会智慧出行分论坛发布鸿蒙NEXT座舱最新进展。网易云音乐应用已适配原生HarmonyOS NEXT系统车机版本。除网易云音乐外，全民K歌、喜马拉雅、华为视频、爱奇艺等应用也获得支持。该系统计划于6月开放开发者Beta版、9月推出实车Beta版、12月发布消费者商用版。",
+      "publishedAt": "2026-06-14T15:50:14+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/964/093.htm",
+      "subCategory": "操作系统"
+    },
+    {
+      "id": "tech-20260614-003",
+      "title": "华为鸿蒙车机海外版曝光：基于 HarmonyOS 4.3，对花瓣地图以及海外 App 进行适配",
+      "summary": "华为鸿蒙车机海外版曝光，系基于HarmonyOS 4.3开发，重点对花瓣地图及多款海外常用App进行深度适配，覆盖导航、娱乐与通信等核心使用场景。该版本面向计划出口海外市场的汽车整车厂，是华为鸿蒙生态国际化布局的重要举措。",
+      "publishedAt": "2026-06-14T13:59:17+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/964/065.htm",
+      "subCategory": "操作系统"
+    },
+    {
+      "id": "tech-20260614-002",
+      "title": "微信 iOS 版 8.0.75 最新官方正式版下载发布",
+      "summary": "微信iOS平台发布8.0.75正式版更新，当前包体积为813.1MB。本次更新主要修复了若干已知问题，并优化了系统稳定性。用户可通过App Store直接升级至最新版本。",
+      "publishedAt": "2026-06-14T12:05:17+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/964/052.htm",
+      "subCategory": "互联网产品"
+    },
     {
       "id": "tech-20260613-006",
       "title": "全球首条百万片级体全息光波导自动化产线在天津投产，消费级AR核心显示技术重大量产突破",
@@ -679,51 +724,6 @@
       "source": "证券时报",
       "url": "https://www.stcn.com/article/detail/3924141.html",
       "subCategory": "芯片硬件"
-    },
-    {
-      "id": "tech-20260524-001",
-      "title": "大疆占据日本摄像机市场 72.5% 份额，创历史新高",
-      "summary": "大疆在日本摄像机市场份额升至72.5%，创历史新高；据BCN Ranking数据，2026年4月日本相机市场销量同比增长158.1%，大疆Osmo Pocket 4蝉联销量榜首，旗下多款产品包揽前四名；大疆在日本的市场优势持续扩大，主要受益于运动相机和口袋相机强劲需求。",
-      "publishedAt": "2026-05-24T07:44:00+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/954/465.htm",
-      "subCategory": "消费电子"
-    },
-    {
-      "id": "tech-20260524-003",
-      "title": "不想使用 Copilot？微软 Win11 现可通过组策略永久屏蔽",
-      "summary": "微软在Windows 11 2026年4月更新中新增组策略选项，允许企业管理员永久移除Copilot应用及Office内集成的Microsoft 365 Copilot；对于无组策略支持的家庭版用户，微软同步提供注册表修改及PowerShell命令作为替代卸载方式。",
-      "publishedAt": "2026-05-24T06:57:00+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/954/459.htm",
-      "subCategory": "操作系统"
-    },
-    {
-      "id": "tech-20260524-002",
-      "title": "WWDC 2026 在即，苹果悄悄启用全新子域名 genai.apple.com",
-      "summary": "苹果在WWDC26（6月9日）开幕前悄然启用新子域名genai.apple.com，域名当前尚未对外开放；外界推测该域名将用于生成式AI服务或开发者工具；本届WWDC预计发布iOS 27、iPadOS 27、macOS 27等重要系统更新以及Siri独立应用化和Apple Intelligence新功能。",
-      "publishedAt": "2026-05-24T06:40:54+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/954/457.htm",
-      "subCategory": "消费电子"
-    },
-    {
-      "id": "tech-20260523-006",
-      "title": "消息称铠侠计划 2027 年量产 BiCS10（332 层）3D NAND 闪存",
-      "summary": "铠侠计划于2027年量产第十代BiCS FLASH（BiCS10）3D NAND闪存，较此前报道的2026年时间表有所推迟；BiCS10堆叠层数达332层，I/O接口速度4.8Gbps，相较BiCS8位密度提升约59%；2026年下半年将进一步明确投资及产能详情。",
-      "publishedAt": "2026-05-23T22:18:58+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/954/446.htm",
-      "subCategory": "芯片硬件"
-    },
-    {
-      "id": "tech-20260523-005",
-      "title": "国产自研 600 公斤推力级涡扇发动机首飞成功，将用于无人机等产品",
-      "summary": "我国自研600公斤推力级涡扇发动机于内蒙古完成首飞测试，搭载于先进气象侦察无人机，发动机工作正常稳定；从点火至首飞历时不足8个月，填补国内通用航空领域高端涡扇发动机自主可控空白，面向1.5至4吨级无人机提供长航时高可靠动力支持。",
-      "publishedAt": "2026-05-23T19:55:45+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/954/429.htm",
-      "subCategory": "航空航天"
     }
   ]
 }
