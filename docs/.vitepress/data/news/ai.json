@@ -3,8 +3,53 @@
   "slug": "ai",
   "title": "AI 与大模型",
   "description": "大模型、Agent、AI 编程、推理框架、开源模型的发布与落地。",
-  "updatedAt": "2026-06-14T08:30:00+08:00",
+  "updatedAt": "2026-06-15T08:30:00+08:00",
   "items": [
+    {
+      "id": "ai-20260615-005",
+      "title": "腾讯 AI 生态进一步打通：ima 知识库作为信源接入元宝",
+      "summary": "腾讯宣布 ima 知识库正式作为外部信源接入元宝 AI 助手，用户在使用元宝进行问答时，ima 平台沉淀的知识内容将参与信源引用；这是腾讯 AI 生态内部\"知识图谱+生成式AI\"融合打通的重要节点。",
+      "publishedAt": "2026-06-15T16:13:40+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/964/468.htm",
+      "subCategory": "AI应用"
+    },
+    {
+      "id": "ai-20260615-004",
+      "title": "微信支付发布 AI 接入工具箱 2.0，Token 消耗少一半",
+      "summary": "微信支付发布 AI 接入工具箱 2.0，提供标准化 AI 能力接入方案，与 1.0 版本相比 Token 消耗降低约 50%，通过精简的提示词工程和模型调度优化，降低开发者将 AI 能力集成至微信支付场景的成本门槛。",
+      "publishedAt": "2026-06-15T16:13:23+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/964/467.htm",
+      "subCategory": "AI应用"
+    },
+    {
+      "id": "ai-20260615-003",
+      "title": "消息称字节跳动正与天数智芯洽谈购买 AI 芯片",
+      "summary": "据路透社消息，字节跳动正与上海天数智芯洽谈采购 AI 推理芯片，若交易达成，天数智芯将成为字节第三家国产 GPU 主要供应商（前两家为华为和寒武纪）；潜在合同规模包括每年至少 5 万颗芯片，用于支撑豆包 AI 助手的扩展需求。",
+      "publishedAt": "2026-06-15T14:45:18+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/964/392.htm",
+      "subCategory": "AI硬件"
+    },
+    {
+      "id": "ai-20260615-002",
+      "title": "科幻作家郝景芳承认新书的 AI 写作比重占到一半，引发网络争议",
+      "summary": "雨果奖得主郝景芳公开承认其新作儿童科幻小说《银河学院》约一半内容借助 AI 辅助创作，此举在网络引发广泛争议；批评者认为作者放弃了创作者本职，支持者则肯定其对 AI 使用的透明态度；相关源文章已被删除。",
+      "publishedAt": "2026-06-15T14:05:08+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/964/369.htm",
+      "subCategory": "AI应用"
+    },
+    {
+      "id": "ai-20260615-001",
+      "title": "Anthropic旗舰模型遭美管制，智谱股价盘中暴涨47%",
+      "summary": "受美国政府向Anthropic发出出口管制指令、强制全球停用Fable 5和Mythos 5的消息影响，6月15日香港上市的智谱股价盘中暴涨，智谱随即宣布GLM-5.2开源模型向全量用户开放，国内AI产业链股票集体大幅拉升。",
+      "publishedAt": "2026-06-15T12:29:00+08:00",
+      "source": "界面新闻",
+      "url": "https://www.jiemian.com/article/14587579.html",
+      "subCategory": "大模型"
+    },
     {
       "id": "ai-20260614-001",
       "title": "AI热潮引发内存芯片需求暴增，消息称 SK 海力士去年新增员工超 2000 人",
@@ -22,6 +67,15 @@
       "source": "IT之家",
       "url": "https://www.ithome.com/0/964/051.htm",
       "subCategory": "AI硬件"
+    },
+    {
+      "id": "ai-20260614-003",
+      "title": "GLM5.2：给国产模型追赶Anthropic 又提了一口气",
+      "summary": "智谱AI在Anthropic旗舰模型遭美国出口管制全球停用后，推出开源的GLM-5.2模型，支持100万token上下文，采用MIT协议无地域限制；实测显示模型可为复杂项目生成数百行功能性代码，包括SVG机械时钟和3D足球游戏，在某些接口美观度与处理速度上仍落后国际顶级模型。",
+      "publishedAt": "2026-06-14T11:22:00+08:00",
+      "source": "虎嗅",
+      "url": "https://www.huxiu.com/article/4867137.html",
+      "subCategory": "大模型"
     },
     {
       "id": "ai-20260613-003",
@@ -643,60 +697,6 @@
       "source": "Google Blog",
       "url": "https://blog.google/products-and-platforms/platforms/android/android-show-io-edition-2026/",
       "subCategory": "Agent"
-    },
-    {
-      "id": "ai-20260508-001",
-      "title": "消息称 DeepSeek 寻求 500 亿元融资，下月将发布 V4.1 更新",
-      "summary": "据 IT 之家报道，DeepSeek 正在寻求 500 亿元规模融资，下月计划发布 V4.1 版本更新。",
-      "publishedAt": "2026-05-08T20:11:00+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/947/947.htm",
-      "subCategory": "大模型"
-    },
-    {
-      "id": "ai-20260506-003",
-      "title": "Anthropic 宣布 Claude 用量上限翻倍，同步敲定与 SpaceX 算力合作协议",
-      "summary": "Anthropic将Claude Code在Pro、Max、Team及Enterprise各计划的5小时速率限制翻倍，移除高峰时段限制；同步与SpaceX签署算力协议，可访问逾300兆瓦新容量（220,000余块英伟达GPU），与亚马逊5GW、谷歌/Broadcom 5GW及微软/英伟达300亿美元Azure协议共同构成算力生态布局。",
-      "publishedAt": "2026-05-06",
-      "source": "Anthropic",
-      "url": "https://www.anthropic.com/news/higher-limits-spacex",
-      "subCategory": "大模型"
-    },
-    {
-      "id": "ai-20260506-002",
-      "title": "字节跳动发布豆包 Doubao-Seed-2.0-lite 全模态理解模型",
-      "summary": "豆包大模型家族首款全模态模型，原生统一理解视频、图像、音频与文本，支持19语种语音转写，在多项音频理解基准上超越Gemini-3.1-Pro，Agent和Coding能力同步升级，支持前端页面与3D场景开发。",
-      "publishedAt": "2026-05-06T22:00:00+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/947/010.htm",
-      "subCategory": "多模态"
-    },
-    {
-      "id": "ai-20260506-001",
-      "title": "OpenAI 将 GPT-5.5 Instant 设为 ChatGPT 默认模型",
-      "summary": "GPT-5.5 Instant 于5月6日成为ChatGPT默认模型，在医学、法律、金融等高风险场景下幻觉率较GPT-5.3 Instant降低52.5%，提供更简洁精准回答；旗舰版GPT-5.5已于4月23日正式发布。",
-      "publishedAt": "2026-05-06T15:00:00+08:00",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/gpt-5-5-instant/",
-      "subCategory": "大模型"
-    },
-    {
-      "id": "ai-20260424-001",
-      "title": "DeepSeek V4 正式开源，首次打通华为昂腾，百万上下文成默认",
-      "summary": "DeepSeek V4采用混合注意力架构（CSA+HCA），首次原生支持华为昂腾与英伟达GPU双平台，百万token上下文为默认配置，推理成本大幅下降，开源后迅速在国产大模型生态内获得广泛适配。",
-      "publishedAt": "2026-04-24",
-      "source": "InfoQ",
-      "url": "https://www.infoq.cn/article/wUUPEzvNajcaVN0k7HPF",
-      "subCategory": "开源模型"
-    },
-    {
-      "id": "ai-20260416-001",
-      "title": "Anthropic 发布 Claude Opus 4.7，编码基准较前代提升 13%",
-      "summary": "Claude Opus 4.7 在软件工程编码基准上较 Opus 4.6 提升13%，视觉支持最高375万像素图像，在Finance Agent与GDPval-AA评测达行业最高，定价与前代一致，新增xhigh推理精度控制等级及任务预算公测功能。",
-      "publishedAt": "2026-04-16",
-      "source": "Anthropic",
-      "url": "https://www.anthropic.com/news/claude-opus-4-7",
-      "subCategory": "大模型"
     }
   ]
 }

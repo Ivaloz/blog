@@ -3,8 +3,53 @@
   "slug": "finance",
   "title": "投资与财经",
   "description": "宏观经济、A 股 / 港股 / 美股、一级市场融资、行业研报观点。",
-  "updatedAt": "2026-06-14T08:30:00+08:00",
+  "updatedAt": "2026-06-15T08:30:00+08:00",
   "items": [
+    {
+      "id": "finance-20260615-003",
+      "title": "马斯克：到 2030 年 SpaceX 或实现近 1 万亿美元营收",
+      "summary": "马斯克在社交平台表示，若 Starlink、SpaceXAI 等业务按计划推进，SpaceX 到 2030 年有望实现接近 1 万亿美元营收，较 2025 年全年 186.7 亿美元营收将增长逾 50 倍；SpaceX 已于 6 月 12 日在纳斯达克上市，IPO 当日市值达 1.77 万亿美元。",
+      "publishedAt": "2026-06-15T16:13:00+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/964/465.htm",
+      "subCategory": "公司财报"
+    },
+    {
+      "id": "finance-20260615-005",
+      "title": "盘中，大涨近48%！AI产业链，突然异动！",
+      "summary": "受美国出口管制强制停用Anthropic旗舰模型消息刺激，香港上市的智谱AI股价盘中大涨近48%；国产AI替代预期升温，带动国内AI产业链相关个股集体异动，多只A股AI标的触及涨停板，智谱同步宣布GLM-5.2全量开放助力多平台估值重估。",
+      "publishedAt": "2026-06-15T15:45:00+08:00",
+      "source": "证券时报",
+      "url": "https://www.stcn.com/article/detail/3961891.html",
+      "subCategory": "A股"
+    },
+    {
+      "id": "finance-20260615-004",
+      "title": "收评：创业板指大涨超5%，CPO、PCB概念集体爆发，有色、券商等板块拉升",
+      "summary": "6月15日A股市场全面上涨，创业板指大涨超5%，超过3900只个股收涨；上证综合指数涨1.61%收4096.47点，CPO和PCB光通信相关概念集体爆发，半导体、有色金属与券商板块均大幅拉升，科技成长风格主导全天行情。",
+      "publishedAt": "2026-06-15T15:21:00+08:00",
+      "source": "证券时报",
+      "url": "https://www.stcn.com/article/detail/3961826.html",
+      "subCategory": "A股"
+    },
+    {
+      "id": "finance-20260615-002",
+      "title": "增量资金进驻？\"牛市旗手\"突然爆发！券商ETF一度涨超4%",
+      "summary": "6月15日A股券商板块大幅走强，券商ETF一度涨超4%，中证证券指数涨超5%；行情驱动因素包括\"券商出海\"叙事、机构增仓及监管政策改善（外资衍生品交易权限扩大），分析师认为增量资金进场信号明显。",
+      "publishedAt": "2026-06-15T12:49:00+08:00",
+      "source": "证券时报",
+      "url": "https://www.stcn.com/article/detail/3961521.html",
+      "subCategory": "A股"
+    },
+    {
+      "id": "finance-20260615-001",
+      "title": "热门科技主线波动 市场风格或阶段性再平衡",
+      "summary": "A股市场上周呈现指数分化，主要价值股领涨而科技板块出现回调；多家券商研报认为近期调整缺乏明确利空因素，属上升通道中的正常回调，\"短期市场底部似已企稳\"，科技板块中期仍是主要产业配置方向。",
+      "publishedAt": "2026-06-15T08:24:00+08:00",
+      "source": "证券时报",
+      "url": "https://www.stcn.com/article/detail/3960767.html",
+      "subCategory": "A股"
+    },
     {
       "id": "finance-20260614-003",
       "title": "\"央行超级周\"来袭！日本央行加息预期高达88%",
@@ -678,51 +723,6 @@
       "publishedAt": "2026-05-14",
       "source": "上海证券报",
       "url": "https://paper.cnstock.com/html/2026-05/14/content_2216455.htm",
-      "subCategory": "A股"
-    },
-    {
-      "id": "finance-20260513-004",
-      "title": "阿里巴巴2026财年Q4营收2433.8亿元 同比增长3%",
-      "summary": "阿里巴巴2026财年Q4营收2433.8亿元，同比增长3%，净利润254.76亿元；全年营收10236.7亿元，净利润1059.04亿元。阿里云外部收入增速加速至40%，AI相关产品收入占外部云收入比例首次突破30%，季度收入89.71亿元，年化收入突破358亿元，成为新增长引擎。",
-      "publishedAt": "2026-05-13T19:12:00+08:00",
-      "source": "新浪科技",
-      "url": "https://finance.sina.com.cn/tech/roll/2026-05-13/doc-inhxtzpf7513752.shtml",
-      "subCategory": "公司财报"
-    },
-    {
-      "id": "finance-20260513-003",
-      "title": "英伟达 FY2027 Q1 财报5月20日见真章，华尔街预期营收780亿美元同比增77%",
-      "summary": "英伟达将于5月20日发布FY2027第一财季业绩，公司指引约780亿美元（同比+77%），高盛预计实际将超出指引约20亿美元；CEO黄仁勋随特朗普访华被市场解读为H200出口许可松绑信号，此前英伟达已将中国数据中心营收从指引中剔除，黄仁勋估计中国市场规模约500亿美元。",
-      "publishedAt": "2026-05-13",
-      "source": "The Motley Fool",
-      "url": "https://www.fool.com/investing/2026/05/13/nvidia-reports-its-fiscal-2027-q1-earnings-may-20/",
-      "subCategory": "公司财报"
-    },
-    {
-      "id": "finance-20260513-002",
-      "title": "纳指标普5月13日双创历史新高，芯片股主导，热通胀数据压制降息预期",
-      "summary": "美股5月13日收盘：纳斯达克综合指数涨至26,402点历史高位，标普500升至7,444点创纪录，芯片股领涨（英伟达+2.1%至$225.40、AMD与美光同步走强）；4月PPI环比+1.4%为2022年3月以来最大单月涨幅，批发通胀同比+6%远超预期，波士顿联储主席柯林斯表示若通胀未能回落、加息重回桌面。",
-      "publishedAt": "2026-05-13",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-slides-sp-500-and-nasdaq-rise-as-ppi-inflation-data-comes-in-hot-223045547.html",
-      "subCategory": "美股"
-    },
-    {
-      "id": "finance-20260513-001",
-      "title": "美 4 月 CPI 同比 +3.8% 创近 3 年新高，纳指跌 0.71%，加息预期升温",
-      "summary": "美国4月CPI同比上涨3.8%创2023年5月以来新高，市场对美联储年底前加息预期升温；道指微涨0.11%，纳指跌0.71%，高通大跌11.46%创近年最大单日跌幅，英伟达微涨0.61%，中概股纳斯达克中国金龙指数跌0.82%。",
-      "publishedAt": "2026-05-13",
-      "source": "新浪财经",
-      "url": "https://cj.sina.com.cn/articles/view/1656954260/62c31d94001018ufo",
-      "subCategory": "宏观经济"
-    },
-    {
-      "id": "finance-20260512-001",
-      "title": "A 股 5 月 12 日三大指数震荡，沪指逼近 4200 点刷新近 11 年高位",
-      "summary": "5月12日沪指围绕4200点震荡，三大指数收跌但维持近11年高位区间，全市场超4000只个股下跌，赚钱效应偏弱；两市成交额连续5日维持3.27万亿天量，增量资金分歧加剧，科技与高股息板块分化明显。",
-      "publishedAt": "2026-05-12T15:30:00+08:00",
-      "source": "中国新闻网",
-      "url": "https://www.chinanews.com.cn/cj/2026/05-12/10619713.shtml",
       "subCategory": "A股"
     }
   ]

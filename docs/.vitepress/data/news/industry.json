@@ -3,8 +3,35 @@
   "slug": "industry",
   "title": "行业新闻",
   "description": "企业服务、SaaS、云计算、制造业、消费互联网的产业动态。",
-  "updatedAt": "2026-06-14T08:30:00+08:00",
+  "updatedAt": "2026-06-15T08:30:00+08:00",
   "items": [
+    {
+      "id": "industry-20260615-001",
+      "title": "Omdia 下调 2026 年显示面板出货数量预测至衰退 6%",
+      "summary": "研调机构 Omdia 将 2026 年全球显示面板市场出货量预测下调至衰退 6%，较此前预计的下降 2% 明显恶化，将此归因于地缘政治不稳定性、零部件成本上升及关税压力，制造商被迫重新评估定价策略。",
+      "publishedAt": "2026-06-15T15:34:31+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/964/444.htm",
+      "subCategory": "半导体产业"
+    },
+    {
+      "id": "industry-20260615-003",
+      "title": "特斯拉：中国智造的 Model Y 成为 2026 年 5 月日本进口车品牌单一车型新车注册量第一",
+      "summary": "特斯拉宣布，上海工厂生产的 Model Y 在 2026 年 5 月登顶日本进口乘用车品牌单一车型新车注册量榜首；该车型超过 95% 的零部件来自中国本土供应商，依托与 400 余家国内供应商的深度合作，中国智造凭借成本与质量优势成功打入日本市场。",
+      "publishedAt": "2026-06-15T15:20:31+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/964/427.htm",
+      "subCategory": "制造业"
+    },
+    {
+      "id": "industry-20260615-002",
+      "title": "全球首个，智元全尺寸人形机器人远征 A3 实现自主打乒乓球",
+      "summary": "智元机器人与北京大学联合宣布，全尺寸双足人形机器人远征 A3 实现自主完成乒乓球对打，采用端到端决策机制与 20kHz 高频脉冲视觉摄像头，视觉响应速度较传统系统快10倍，被称为全球首个完成该任务的全尺寸人形机器人。",
+      "publishedAt": "2026-06-15T14:43:22+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/964/389.htm",
+      "subCategory": "制造业"
+    },
     {
       "id": "industry-20260614-001",
       "title": "中国工业机器人全球出圈，全球每卖 3 台\"码垛机\"1 台出自东莞",
@@ -76,6 +103,15 @@
       "source": "证券时报",
       "url": "https://www.stcn.com/article/detail/3959849.html",
       "subCategory": "半导体产业"
+    },
+    {
+      "id": "industry-20260612-001",
+      "title": "Statement on the US government directive to suspend access to Fable 5 and Mythos 5",
+      "summary": "美国商务部向Anthropic发出出口管制指令，要求其暂停Fable 5和Mythos 5两款旗舰模型对所有用户（含境外用户）的访问权限，理由为国家安全考量；Anthropic表示已发现政府认定的\"越狱方法\"属于行业普遍存在的安全问题，但公司仍选择合规执行该指令，并将努力推动后续访问权限恢复。",
+      "publishedAt": "2026-06-12",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/news/fable-mythos-access",
+      "subCategory": "公司动态"
     },
     {
       "id": "industry-20260611-001",
