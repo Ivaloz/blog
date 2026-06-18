@@ -3,8 +3,17 @@
   "slug": "tech",
   "title": "科技新闻",
   "description": "前沿科技、互联网产品、芯片硬件、开源生态。",
-  "updatedAt": "2026-06-15T08:30:00+08:00",
+  "updatedAt": "2026-06-18T08:30:00+08:00",
   "items": [
+    {
+      "id": "tech-20260617-001",
+      "title": "高通首"至尊版"XR芯片来了！本地跑30亿参数大模型，XREAL首发",
+      "summary": "高通在AWE 2026大会上发布骁龙Reality Elite旗舰XR芯片平台。该芯片GPU性能提升60%、CPU提升30%、NPU提升160%，支持每秒90帧和4.4K单眼分辨率。核心亮点包括48TOPS AI算力、本地运行30亿参数大模型、续航提升20%等。XREAL Project Aura将首批搭载。",
+      "publishedAt": "2026-06-17T13:31:05+08:00",
+      "source": "智东西",
+      "url": "https://www.163.com/dy/article/KVKLBV5G051180F7.html",
+      "subCategory": "XR-AR-VR"
+    },
     {
       "id": "tech-20260615-005",
       "title": "2 Tile + 4 HBM 设计：英特尔未能商业化的 Xe HP 服务器 GPU 现身网络",
@@ -715,15 +724,6 @@
       "source": "IT之家",
       "url": "https://www.ithome.com/0/954/648.htm",
       "subCategory": "智能汽车"
-    },
-    {
-      "id": "tech-20260525-003",
-      "title": "Z Fold 8 → Z Fold 8 Ultra，消息称三星部分 Galaxy Z Fold 折叠屏产品将改名",
-      "summary": "据海外媒体报道，三星计划调整 Galaxy Z Fold 折叠屏产品线命名策略，Galaxy Z Fold 8 将更名为 Galaxy Z Fold 8 Ultra，以呼应三星直板旗舰 Ultra 命名逻辑，强化旗舰品牌识别度；其余折叠屏型号的命名调整细节仍在确认中，相关新品预计今年下半年正式发布。",
-      "publishedAt": "2026-05-25T07:02:15+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/954/647.htm",
-      "subCategory": "消费电子"
     }
   ]
 }

@@ -3,8 +3,35 @@
   "slug": "ai",
   "title": "AI 与大模型",
   "description": "大模型、Agent、AI 编程、推理框架、开源模型的发布与落地。",
-  "updatedAt": "2026-06-15T08:30:00+08:00",
+  "updatedAt": "2026-06-18T08:30:00+08:00",
   "items": [
+    {
+      "id": "ai-20260618-001",
+      "title": "Shopee母公司Sea推出AI聊天机器人Migoo",
+      "summary": "新加坡互联网公司Sea正在美国推出生成式AI聊天机器人Migoo，标志着该公司进入竞争激烈的美国消费级AI市场。Migoo是一款AI陪伴型应用，可集成至苹果iMessage等平台，能记忆用户偏好提供个性化互动体验。",
+      "publishedAt": "2026-06-18T15:41:00+08:00",
+      "source": "AMZ123跨境卖家导航",
+      "url": "https://www.amz123.com/t/XG0sVhEC",
+      "subCategory": "AI应用"
+    },
+    {
+      "id": "ai-20260617-001",
+      "title": "智谱GLM-5.2上线并开源",
+      "summary": "智谱正式上线并开源GLM-5.2模型。该模型主要功能是处理长程任务，可稳定支持100万Token上下文长度。在Code Arena全球评估中位列第一。GLM-5.2已在多个国产算力平台实现推理适配，并在Hugging Face与ModelScope开源，采用MIT License许可证。",
+      "publishedAt": "2026-06-17",
+      "source": "科技日报",
+      "url": "https://www.stdaily.com/web/gdxw/2026-06/17/content_533710.html",
+      "subCategory": "开源模型"
+    },
+    {
+      "id": "ai-20260617-002",
+      "title": "600亿美元，Cursor归马斯克了",
+      "summary": "SpaceX宣布以全股权交易600亿美元收购AI编程工具Cursor母公司Anysphere，预计2026年第三季度完成。Cursor年度B2B收入约26亿美元，此举旨在加速SpaceX企业级AI市场布局，为Grok团队提供稳固的代码编程领域立足点。",
+      "publishedAt": "2026-06-17",
+      "source": "投资界",
+      "url": "https://news.pedaily.cn/202606/565284.shtml",
+      "subCategory": "AI编程"
+    },
     {
       "id": "ai-20260615-005",
       "title": "腾讯 AI 生态进一步打通：ima 知识库作为信源接入元宝",
