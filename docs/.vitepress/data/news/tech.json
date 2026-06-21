@@ -3,8 +3,44 @@
   "slug": "tech",
   "title": "科技新闻",
   "description": "前沿科技、互联网产品、芯片硬件、开源生态。",
-  "updatedAt": "2026-06-21T08:30:00+08:00",
+  "updatedAt": "2026-06-21T23:00:00+08:00",
   "items": [
+    {
+      "id": "tech-20260621-004",
+      "title": "华为官网发布鸿蒙 HarmonyOS 7 (API 26) 新能力一览：空间化设计、新增多形态服务窗口等",
+      "summary": "华为在开发者官网发布HarmonyOS 7（API 26）新能力概览，涵盖空间化设计、Vibe Coding智能开发辅助、多形态服务窗口、星盾风控引擎及分布式数字身份等新特性；HarmonyOS 7已于6月12日发布，消费版本预计秋季推出。",
+      "publishedAt": "2026-06-21T21:23:08+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/966/726.htm",
+      "subCategory": "操作系统"
+    },
+    {
+      "id": "tech-20260621-005",
+      "title": "供应链公司称已向苹果首款折叠屏 iPhone 小批量供货，新机预计 9 月发布",
+      "summary": "苹果供应链厂商确认已向首款折叠屏iPhone启动小批量供货，新机预计9月发布；iOS 27代码已出现「foldState」「angleDegrees」等折叠功能相关字段，多方供应链信息交叉验证产品如期推出。",
+      "publishedAt": "2026-06-21T21:06:05+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/966/724.htm",
+      "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260621-009",
+      "title": "Marvell 总裁 Chris Koopmans：已就导入 A14 制程与台积电洽谈",
+      "summary": "Marvell总裁兼COO Chris Koopmans透露，公司已就导入台积电A14制程展开洽谈；Marvell因DSP等核心产品对功耗极度敏感，历来大幅跨越制程节点，A14预计2028年量产。",
+      "publishedAt": "2026-06-21T20:59:21+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/966/723.htm",
+      "subCategory": "芯片硬件"
+    },
+    {
+      "id": "tech-20260621-007",
+      "title": "消息称华为乾崑智驾 ADS 5 即将推送，鸿蒙智行旗舰车型优先搭载",
+      "summary": "消息称华为乾崑智驾ADS 5系统即将推送OTA更新，鸿蒙智行旗下问界、享界等旗舰车型将优先获得；ADS 5于4月23日发布，搭载WEWA 2.0 AI架构，引入多智能体博弈论与在线强化学习。",
+      "publishedAt": "2026-06-21T19:23:48+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/966/714.htm",
+      "subCategory": "智能汽车"
+    },
     {
       "id": "tech-20260621-001",
       "title": "消息称小米汽车终端推内购优惠，部分现车降价 1 万元",
@@ -30,6 +66,33 @@
       "publishedAt": "2026-06-21T15:24:39+08:00",
       "source": "IT之家",
       "url": "https://www.ithome.com/0/966/650.htm",
+      "subCategory": "芯片硬件"
+    },
+    {
+      "id": "tech-20260621-008",
+      "title": "字节跳动 Pico「Project Swan」头显设计曝光：背面头带类似苹果 Vision Pro、正面酷似三星 Galaxy XR",
+      "summary": "字节跳动Pico下代「Project Swan」头显通过SDK演示视频曝光，后头带类似Vision Pro单环设计，正面外观酷似三星Galaxy XR；搭载4000 PPI微OLED、双芯片架构及Pico OS 6系统，CPU/GPU性能为骁龙XR2 Gen 2两倍。",
+      "publishedAt": "2026-06-21T11:23:32+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/966/627.htm",
+      "subCategory": "XR-AR-VR"
+    },
+    {
+      "id": "tech-20260621-010",
+      "title": "微软将移除 Edge 浏览器文件互传功能 Drop，重心转向 Copilot",
+      "summary": "微软宣布移除Edge浏览器文件互传功能Drop，该功能已随侧边栏和Collections在Edge 149中下线；公司正将Edge战略重心全面转向Copilot AI整合，用户需在服务终止前备份已存储的文本记录。",
+      "publishedAt": "2026-06-21T10:30:38+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/966/613.htm",
+      "subCategory": "操作系统"
+    },
+    {
+      "id": "tech-20260621-006",
+      "title": "台积电加速研发 CoPoS 封装以取代 CoWoS：玻璃核心基板可降低 30% 成本并将晶圆利用率提升至 90% 以上",
+      "summary": "台积电加速研发CoPoS面板级封装技术以取代CoWoS，玻璃核心基板可将晶圆利用率提升至90%以上、单位面积成本降低20%至30%；计划2027年试产、2028年量产，进一步压低AI算力封装成本。",
+      "publishedAt": "2026-06-21T07:32:06+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/966/590.htm",
       "subCategory": "芯片硬件"
     },
     {
@@ -661,69 +724,6 @@
       "source": "IT之家",
       "url": "https://www.ithome.com/0/955/642.htm",
       "subCategory": "航空航天"
-    },
-    {
-      "id": "tech-20260526-001",
-      "title": "托瓦兹再发飙：AI 干扰 Linux 内核节奏，撑大 RC5 体量",
-      "summary": "Linus Torvalds批评开发者借助AI工具在RC5阶段大量提交细碎补丁，导致版本体量异常偏大并增加审查成本；他要求后段周期聚焦Bug修复，开发者重新评估合并请求必要性。",
-      "publishedAt": "2026-05-26T08:25:18+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/955/095.htm",
-      "subCategory": "开源生态"
-    },
-    {
-      "id": "tech-20260526-002",
-      "title": "不换设计直接降温：SK 海力士发布控温散热存储技术\"iHBM\"，降低热阻超 30%",
-      "summary": "SK海力士推出iHBM控温散热技术，在高带宽内存封装内集成ICE冷却元件，于D2D PHY发热集中区域构建专用散热通道，热阻较传统方案降低超30%，采用成熟MR-MUF工艺无需大幅设计改动，计划用于HBM5等下代产品。",
-      "publishedAt": "2026-05-26T08:17:53+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/955/093.htm",
-      "subCategory": "芯片硬件"
-    },
-    {
-      "id": "tech-20260526-003",
-      "title": "爱玛 × 华为达成合作，两轮车有望支持智能行车辅助系统、星闪等技术",
-      "summary": "爱玛科技与华为签署深化合作协议，聚焦两轮出行智能化和鸿蒙生态融合，合作涵盖智能仪表盘、行车辅助系统、星闪技术及端侧AI等领域，爱玛两轮车有望获得智能化功能全面升级。",
-      "publishedAt": "2026-05-26T07:37:57+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/955/085.htm",
-      "subCategory": "消费电子"
-    },
-    {
-      "id": "tech-20260526-004",
-      "title": "首个海外品牌：海盗船 DDR5 内存条被发现采用长鑫 DRAM 芯片",
-      "summary": "博主发现海盗船Vengeance DDR5-6000 CL36内存条使用长鑫存储DRAM颗粒，系首个采用长鑫颗粒的海外品牌，型号带\"CN\"后缀疑似仅限中国市场；DRAM供应趋紧下三大原厂优先保障AI内存产能，国产颗粒受益替代空间扩大。",
-      "publishedAt": "2026-05-26T06:50:17+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/955/076.htm",
-      "subCategory": "芯片硬件"
-    },
-    {
-      "id": "tech-20260525-009",
-      "title": "OPPO Reno16 / Reno16 Pro 系列正式发布：天玑 9500s + 2 亿像素三摄，3499 元起",
-      "summary": "OPPO Reno16 Pro搭载天玑9500s和7000mAh电池，支持80W有线充及50W无线充；标准版配天玑8550 SUPER和6700mAh电池；均搭载2亿像素主摄、5000万像素潜望长焦，售价3499元起，国补后2999元起，5月29日开售。",
-      "publishedAt": "2026-05-25T19:03:36+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/955/007.htm",
-      "subCategory": "消费电子"
-    },
-    {
-      "id": "tech-20260525-008",
-      "title": "华为发表半导体韬定律：预计到 2031 年，基于该定律的高端芯片晶体管密度将达到 1.4 纳米制程的同等水平",
-      "summary": "华为董事何庭波在ISCAS发表\"韬定律\"，以\"时间缩微\"替代\"几何缩微\"，通过逻辑折叠等技术降低信号延迟、提升晶体管密度；华为过去六年量产381款芯片，预计2031年密度达1.4纳米水平，秋季将推出采用逻辑折叠技术的新麒麟芯片。",
-      "publishedAt": "2026-05-25T09:24:16+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/954/677.htm",
-      "subCategory": "芯片硬件"
-    },
-    {
-      "id": "tech-20260525-007",
-      "title": "开启全电驱时代：全球首列\"黑科技\"地铁正式载客运营，时速 120 公里",
-      "summary": "全球首列基于全电驱动架构的地铁列车正式投入商业载客运营，最高时速 120 公里；采用\"储能+再生制动\"全电驱动方案，无需沿线接触网供电，综合能耗较传统地铁降低约 30%，融合多项轻量化与节能\"黑科技\"，是城市轨道交通电气化技术的重大突破，对低空、绿色交通基础设施建设具有示范意义。",
-      "publishedAt": "2026-05-25T08:26:01+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/954/659.htm",
-      "subCategory": "网络基础设施"
     }
   ]
 }
