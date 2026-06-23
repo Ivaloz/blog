@@ -3,8 +3,35 @@
   "slug": "tech",
   "title": "科技新闻",
   "description": "前沿科技、互联网产品、芯片硬件、开源生态。",
-  "updatedAt": "2026-06-22T12:30:00+08:00",
+  "updatedAt": "2026-06-23T17:00:00+08:00",
   "items": [
+    {
+      "id": "tech-20260623-003",
+      "title": "腾讯 QQ 邮箱 Agently Mail 开启内测，让 AI 用自己的身份收发邮件",
+      "summary": "腾讯QQ邮箱推出Agently Mail内测，为AI智能体提供独立数字身份邮箱，可与用户个人账户隔离，支持隐私保护与写操作二次确认机制，兼容多款主流AI平台。",
+      "publishedAt": "2026-06-23T16:37:40+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/967/524.htm",
+      "subCategory": "互联网产品"
+    },
+    {
+      "id": "tech-20260623-002",
+      "title": "曝华为 Mate 80 系列手机销量已破 700 万台，有望冲击千万里程碑",
+      "summary": "华为Mate 80系列截至6月中旬销量突破700万台，断层领先同期旗舰机型；业内人士预测在Mate 90发布前约三个月内，Mate 80系列有望冲击千万台里程碑。",
+      "publishedAt": "2026-06-23T16:30:26+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/967/521.htm",
+      "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260623-001",
+      "title": "AI 转型与成本压力下，甲骨文 2026 财年裁员 2.1 万人",
+      "summary": "甲骨文2026财年员工总数减少13%（约2.1万人），截至2026年5月31日员工总量降至14.1万；公司为重组支出18.4亿美元离职补偿，将资源集中转向AI基础设施建设，已与OpenAI、Meta等签订大规模算力合作协议。",
+      "publishedAt": "2026-06-23T09:01:11+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/967/271.htm",
+      "subCategory": "云计算"
+    },
     {
       "id": "tech-20260622-001",
       "title": "广汽与华为乾崑联合打造：启境 GT7 车型 6 月 26 日上市，预售 21.99 万起",
@@ -697,33 +724,6 @@
       "source": "IT之家",
       "url": "https://www.ithome.com/0/955/654.htm",
       "subCategory": "操作系统"
-    },
-    {
-      "id": "tech-20260527-007",
-      "title": "消息称苹果升级iPhone防盗，解锁状态被抢会立刻锁机",
-      "summary": "苹果据报正为iPhone研发增强防盗机制，手机解锁状态被抢夺时将即时触发自动锁屏，使盗贼无法访问用户数据；该功能结合运动传感器与锁定算法，有望随iOS 27在年底前推出。",
-      "publishedAt": "2026-05-27T08:08:51+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/955/652.htm",
-      "subCategory": "消费电子"
-    },
-    {
-      "id": "tech-20260527-006",
-      "title": "消息称英特尔首批掌机处理器Arc G3系列即将解禁，有望28日发布",
-      "summary": "英特尔首批面向掌机平台的Arc G3系列显卡即将解除保密协议，消息称预计5月28日正式发布；Arc G3基于Battlemage架构，针对手持游戏机低功耗场景优化，或率先搭载于多款第三方掌机。",
-      "publishedAt": "2026-05-27T07:57:45+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/955/650.htm",
-      "subCategory": "芯片硬件"
-    },
-    {
-      "id": "tech-20260527-004",
-      "title": "马斯克SpaceX拿下美军22.9亿美元大单，打造太空数据网络骨干网",
-      "summary": "SpaceX获美国空军22.9亿美元合同，将部署低轨卫星网络构建专用军事数据传输骨干，与Starlink民用系统相互隔离；任务旨在为全球美军部队提供安全、抗干扰的高速数据通信，任务期约五年。",
-      "publishedAt": "2026-05-27T07:01:07+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/955/637.htm",
-      "subCategory": "航空航天"
     }
   ]
 }
