@@ -3,8 +3,26 @@
   "slug": "tech",
   "title": "科技新闻",
   "description": "前沿科技、互联网产品、芯片硬件、开源生态。",
-  "updatedAt": "2026-06-25T16:35:00+08:00",
+  "updatedAt": "2026-06-25T19:35:00+08:00",
   "items": [
+    {
+      "id": "tech-20260625-006",
+      "title": "超级电容行业进入量价齐升周期，AI服务器刚需持续拉动",
+      "summary": "AI服务器刚需持续拉动超级电容需求，行业进入量价齐升阶段；相关企业受益于数据中心扩张与AI推理算力持续增长的产业链机遇。",
+      "publishedAt": "2026-06-25T18:12:06+08:00",
+      "source": "新浪科技",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-06-25/doc-inierpqn0903404.shtml",
+      "subCategory": "云计算"
+    },
+    {
+      "id": "tech-20260625-005",
+      "title": "REDMI K90 至尊版手机外围配置公布：Sound by Bose 游戏调音对称双扬、小米澎湃 T1+ 信号增强芯",
+      "summary": "REDMI K90至尊版手机公布外围配置，搭载Sound by Bose品牌游戏调音认证与对称双扬声器设计，以及小米澎湃T1+信号增强芯片，主打游戏与通信双重旗舰体验。",
+      "publishedAt": "2026-06-25T16:09:25+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/968/525.htm",
+      "subCategory": "消费电子"
+    },
     {
       "id": "tech-20260625-004",
       "title": "索尼宣布 AI 机器狗 aibo ERS-1000 将在日本停售，将继续开发新产品与服务",
@@ -31,15 +49,6 @@
       "source": "IT之家",
       "url": "https://www.ithome.com/0/968/257.htm",
       "subCategory": "芯片硬件"
-    },
-    {
-      "id": "tech-20260625-005",
-      "title": "REDMI K90 至尊版手机外围配置公布：Sound by Bose 游戏调音对称双扬、小米澎湃 T1+ 信号增强芯",
-      "summary": "REDMI K90至尊版手机公布外围配置，搭载Sound by Bose品牌游戏调音认证与对称双扬声器设计，以及小米澎湃T1+信号增强芯片，主打游戏与通信双重旗舰体验。",
-      "publishedAt": "2026-06-25",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/968/525.htm",
-      "subCategory": "消费电子"
     },
     {
       "id": "tech-20260625-003",
@@ -715,15 +724,6 @@
       "source": "IT之家",
       "url": "https://www.ithome.com/0/956/780.htm",
       "subCategory": "芯片硬件"
-    },
-    {
-      "id": "tech-20260528-004",
-      "title": "蔚来ES9正式上市：49.8万元起，租电购买39万元起，姚明现身发布会！李斌强势喊话：跟别的\"9\"不是一回事",
-      "summary": "蔚来旗舰SUV产品ES9正式上市，推出三个版本，租电购买方案从39万元起，整车购买方案从49.8万元起。篮球巨星姚明出任首席体验官。李斌强调ES9是“智能电动行政SUV品类的开创者”，车长5365mm、轴距3250mm，具有同级最大装载能力。",
-      "publishedAt": "2026-05-28T15:06:38+08:00",
-      "source": "每日经济新闻",
-      "url": "https://www.nbd.com.cn/articles/2026-05-28/4411051.html",
-      "subCategory": "智能汽车"
     }
   ]
 }
