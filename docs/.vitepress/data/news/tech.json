@@ -3,8 +3,53 @@
   "slug": "tech",
   "title": "科技新闻",
   "description": "前沿科技、互联网产品、芯片硬件、开源生态。",
-  "updatedAt": "2026-06-23T17:00:00+08:00",
+  "updatedAt": "2026-06-25T16:35:00+08:00",
   "items": [
+    {
+      "id": "tech-20260625-004",
+      "title": "索尼宣布 AI 机器狗 aibo ERS-1000 将在日本停售，将继续开发新产品与服务",
+      "summary": "索尼宣布旗下AI机器狗aibo ERS-1000将于近期在日本市场停售，同时承诺将继续开发新产品与服务；aibo ERS-1000于2018年在日本上市，是索尼重启机器人宠物品牌的标志性产品，停售标志该款产品生命周期结束。",
+      "publishedAt": "2026-06-25T15:57:13+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/968/512.htm",
+      "subCategory": "机器人"
+    },
+    {
+      "id": "tech-20260625-001",
+      "title": "SemiAnalysis：长鑫存储稳居全球第四大 DRAM 制造商，年底产能有望超越美光拿下第三",
+      "summary": "SemiAnalysis报告显示，长鑫存储（CXMT）已稳居全球第四大DRAM制造商地位，在技术追赶与产能扩张驱动下，年底产能有望超越美光升至全球第三，进一步缩小与三星、SK海力士的差距。",
+      "publishedAt": "2026-06-25T14:51:47+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/968/434.htm",
+      "subCategory": "芯片硬件"
+    },
+    {
+      "id": "tech-20260625-002",
+      "title": "高通带来 Dragonfly 数据中心产品组合：HBC 架构、C1000 CPU、AI300 推理加速器",
+      "summary": "高通发布Dragonfly数据中心产品组合，涵盖采用HBC架构的C1000 CPU与AI300推理加速器，正式进军数据中心芯片市场，与英特尔和AMD在服务器处理器领域展开竞争。",
+      "publishedAt": "2026-06-25T09:12:40+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/968/257.htm",
+      "subCategory": "芯片硬件"
+    },
+    {
+      "id": "tech-20260625-005",
+      "title": "REDMI K90 至尊版手机外围配置公布：Sound by Bose 游戏调音对称双扬、小米澎湃 T1+ 信号增强芯",
+      "summary": "REDMI K90至尊版手机公布外围配置，搭载Sound by Bose品牌游戏调音认证与对称双扬声器设计，以及小米澎湃T1+信号增强芯片，主打游戏与通信双重旗舰体验。",
+      "publishedAt": "2026-06-25",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/968/525.htm",
+      "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260625-003",
+      "title": "小米首款 NAS：Xiaomi 智能存储官宣，众筹到手价 2299 元起",
+      "summary": "小米正式官宣首款NAS网络附加存储产品Xiaomi智能存储，众筹到手价2299元起，标志小米生态链向个人存储与家庭NAS市场的重要拓展。",
+      "publishedAt": "2026-06-24T10:14:24+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/967/760.htm",
+      "subCategory": "消费电子"
+    },
     {
       "id": "tech-20260623-003",
       "title": "腾讯 QQ 邮箱 Agently Mail 开启内测，让 AI 用自己的身份收发邮件",
@@ -679,51 +724,6 @@
       "source": "每日经济新闻",
       "url": "https://www.nbd.com.cn/articles/2026-05-28/4411051.html",
       "subCategory": "智能汽车"
-    },
-    {
-      "id": "tech-20260528-003",
-      "title": "47.98万元起，新一代问界M9上市，余承东：就等L3牌照发放了",
-      "summary": "全新一代问界M9系列正式上市，官方建议零售价47.98万元起，问界M9 Ultimate领世加长版64.98万元起。新车搭载华为自研动力平台与巨鲸电池，纯电版续航750km，整车配备ADS 5智驾系统。上市首小时大定超1.1万台，将于6月正式交付。",
-      "publishedAt": "2026-05-28T14:39:40+08:00",
-      "source": "网易",
-      "url": "https://www.163.com/dy/article/KU19B4IH0550WHYR.html",
-      "subCategory": "智能汽车"
-    },
-    {
-      "id": "tech-20260528-002",
-      "title": "免费看：小红书官宣成为 2026 年美加墨世界杯持权转播商",
-      "summary": "中央广播电视总台宣布小红书成为2026年美加墨世界杯持权转播商，获授权在公共互联网领域进行实时转播、延时转播、点播等方式转播赛事。用户可通过小红书App、网页版和手机投屏免费观看世界杯。小红书足球兴趣人群已超1亿，过去一年相关讨论量增长超100%。",
-      "publishedAt": "2026-05-28T09:15:11+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/956/270.htm",
-      "subCategory": "互联网产品"
-    },
-    {
-      "id": "tech-20260527-010",
-      "title": "微软Win11今年AI规划曝光：图片表格转Excel、任务栏Ask Copilot",
-      "summary": "内部文件显示微软Windows 11 2026年AI功能路线图规划了图片/表格内容一键转Excel、任务栏新增Ask Copilot快速入口及通知面板AI摘要等功能，预计随今年秋季大版本更新分批落地。",
-      "publishedAt": "2026-05-27T08:26:46+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/955/658.htm",
-      "subCategory": "互联网产品"
-    },
-    {
-      "id": "tech-20260527-009",
-      "title": "欧洲迄今最复杂CPU Rhea1成功点亮，目标年内在超算服役",
-      "summary": "欧洲芯片初创SiPearl自研ARM高性能计算CPU Rhea1完成首次通电点亮，为欧洲迄今设计最复杂CPU；目标2026年底前部署至欧洲超算集群，推进欧洲在AI和科学计算领域的芯片自主化战略。",
-      "publishedAt": "2026-05-27T08:24:27+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/955/655.htm",
-      "subCategory": "芯片硬件"
-    },
-    {
-      "id": "tech-20260527-008",
-      "title": "微软Win11推送26x00.8524预览版更新KB5089573：加快应用启动速度，优化开始菜单、搜索等核心界面体验",
-      "summary": "微软向Dev频道发布Windows 11 Insider Preview Build 26120.8524，重点改善应用冷热启动速度，优化开始菜单排序、搜索结果质量与任务栏响应延迟，提升核心界面整体流畅度。",
-      "publishedAt": "2026-05-27T08:14:21+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/955/654.htm",
-      "subCategory": "操作系统"
     }
   ]
 }

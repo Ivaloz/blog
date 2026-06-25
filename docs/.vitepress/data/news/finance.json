@@ -3,8 +3,44 @@
   "slug": "finance",
   "title": "投资与财经",
   "description": "宏观经济、A 股 / 港股 / 美股、一级市场融资、行业研报观点。",
-  "updatedAt": "2026-06-23T17:00:00+08:00",
+  "updatedAt": "2026-06-25T16:35:00+08:00",
   "items": [
+    {
+      "id": "finance-20260625-002",
+      "title": "恒指收跌 1.43%，恒生科技指数跌 1.63%",
+      "summary": "2026年6月25日港股收盘，恒生指数下跌1.43%，恒生科技指数跌1.63%，科技权重股普遍承压，市场情绪偏谨慎；投资者对全球宏观环境及美联储利率前景仍持观望态度。",
+      "publishedAt": "2026-06-25T16:10:00+08:00",
+      "source": "36氪",
+      "url": "https://36kr.com/newsflashes/3868311925445636",
+      "subCategory": "港股"
+    },
+    {
+      "id": "finance-20260625-001",
+      "title": "黄仁勋计划回馈股东 50% 自由现金流",
+      "summary": "英伟达CEO黄仁勋表示计划将公司自由现金流的50%回馈给股东，涵盖股票回购与股息分红两种形式；这一表态在AI算力超级周期高峰期强化了市场对英伟达长期盈利能力与股东回报的信心。",
+      "publishedAt": "2026-06-25T15:54:00+08:00",
+      "source": "36氪",
+      "url": "https://36kr.com/newsflashes/3868289071289605",
+      "subCategory": "美股"
+    },
+    {
+      "id": "finance-20260625-003",
+      "title": "2026 全球独角兽榜单出炉：DeepSeek 以 3400 亿元价值跻身前 15 名",
+      "summary": "胡润《2026全球独角兽榜》显示，DeepSeek以约3400亿元人民币估值跻身全球前15名独角兽企业，是中国AI大模型领域首次进入全球独角兽TOP15的企业，彰显中国开源AI在全球市场的快速崛起。",
+      "publishedAt": "2026-06-25T15:13:00+08:00",
+      "source": "36氪",
+      "url": "https://36kr.com/newsflashes/3868256355193860",
+      "subCategory": "一级市场"
+    },
+    {
+      "id": "finance-20260624-001",
+      "title": "A 股重要资讯汇总与点评（2026 年 6 月 24 日）",
+      "summary": "东方财富财富号对2026年6月24日A股市场进行整体盘点与点评，涵盖当日主要指数表现、行业涨跌分化、资金流向分析及重要政策消息，为投资者提供综合信息参考。",
+      "publishedAt": "2026-06-24T21:46:00+08:00",
+      "source": "东方财富",
+      "url": "https://caifuhao.eastmoney.com/news/20260624214602110498810",
+      "subCategory": "A股"
+    },
     {
       "id": "finance-20260623-002",
       "title": "暴跌，熔断！韩国股市崩了，监管发出警告！两大存储巨头重挫",
@@ -687,42 +723,6 @@
       "publishedAt": "2026-05-21T06:45:37+08:00",
       "source": "IT之家",
       "url": "https://www.ithome.com/0/953/090.htm",
-      "subCategory": "一级市场"
-    },
-    {
-      "id": "finance-20260521-001",
-      "title": "英伟达 2027 财年第一财季归母净利润 583.21 亿美元，同比增长 211%",
-      "summary": "英伟达FY2027第一财季营业总收入816.15亿美元（同比+85%），数据中心收入752亿美元（同比+92%），归母净利润583.21亿美元（同比+211%），摊薄EPS 2.39美元；Q2指引约910亿美元（±2%）；同步宣布新增800亿美元回购授权并将季度股息从0.01美元提升至0.25美元，向股东返还约200亿美元。",
-      "publishedAt": "2026-05-20",
-      "source": "NVIDIA",
-      "url": "https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-first-quarter-fiscal-2027",
-      "subCategory": "公司财报"
-    },
-    {
-      "id": "finance-20260520-004",
-      "title": "BOSS 直聘 2026 财年第一财季归母净利润 11.57 亿元，同比增长 123.1%",
-      "summary": "BOSS直聘发布2026财年一季度业绩，营业收入20.69亿元同比增长7.6%，归母净利润11.57亿元同比增长123.1%，经营现金流11.90亿元同比增18.6%；招聘需求复苏与AI工具提效驱动盈利能力大幅提升。",
-      "publishedAt": "2026-05-20",
-      "source": "GlobeNewswire",
-      "url": "https://www.globenewswire.com/news-release/2026/05/20/3298353/0/en/KANZHUN-LIMITED-Announces-First-Quarter-2026-Financial-Results.html",
-      "subCategory": "公司财报"
-    },
-    {
-      "id": "finance-20260520-003",
-      "title": "长鑫科技科创板 IPO 将于 5 月 27 日上会",
-      "summary": "长鑫科技将于5月27日接受科创板上市审核，拟募资295亿元；公司预计2026年上半年营收1100-1200亿元、净利润500-570亿元，拥有三座12英寸晶圆厂，为中国第一、全球第四大DRAM内存厂商。",
-      "publishedAt": "2026-05-20T19:12:59+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/953/029.htm",
-      "subCategory": "一级市场"
-    },
-    {
-      "id": "finance-20260520-002",
-      "title": "投资超 600 亿美元，孙正义豪赌 OpenAI 引发内部质疑\"迷信奥尔特曼如追星\"",
-      "summary": "软银对OpenAI投资承诺超600亿美元，引发内部担忧，批评孙正义对奥尔特曼的信任过于依赖被喻为\"追星\"；软银已出售英伟达股份集中投入、缺乏董事会实质影响力，竞争对手Anthropic持续蚕食OpenAI市场份额。",
-      "publishedAt": "2026-05-20T03:22:00+00:00",
-      "source": "Bloomberg",
-      "url": "https://news.bloomberglaw.com/securities-law/softbank-founders-starstruck-bet-on-openai-raises-concern",
       "subCategory": "一级市场"
     }
   ],

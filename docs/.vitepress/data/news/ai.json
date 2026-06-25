@@ -3,8 +3,53 @@
   "slug": "ai",
   "title": "AI 与大模型",
   "description": "大模型、Agent、AI 编程、推理框架、开源模型的发布与落地。",
-  "updatedAt": "2026-06-23T17:00:00+08:00",
+  "updatedAt": "2026-06-25T16:35:00+08:00",
   "items": [
+    {
+      "id": "ai-20260625-002",
+      "title": "商汤股东大会披露：企业级 Token 单月使用量迅速增长 7 倍",
+      "summary": "商汤科技在年度股东大会上披露，企业级大模型Token单月使用量在短期内迅速增长7倍，体现商汤日新AI平台在企业市场的加速渗透与规模化落地进程。",
+      "publishedAt": "2026-06-25T16:33:00+08:00",
+      "source": "36氪",
+      "url": "https://36kr.com/newsflashes/3868334704464897",
+      "subCategory": "AI应用"
+    },
+    {
+      "id": "ai-20260625-005",
+      "title": "联想发布全球首款 AI 可信一体机",
+      "summary": "联想发布全球首款AI可信一体机，集成数据隔离、模型溯源与隐私保护能力，面向企业级AI本地化部署场景，强调AI应用的安全性与可信度。",
+      "publishedAt": "2026-06-25T16:32:00+08:00",
+      "source": "36氪",
+      "url": "https://36kr.com/newsflashes/3868316392871170",
+      "subCategory": "AI应用"
+    },
+    {
+      "id": "ai-20260625-003",
+      "title": "消息称商汤科技正研发新图像模型：代号 U1 Pro，内部称对标 OpenAI",
+      "summary": "消息称商汤科技正在内部研发代号U1 Pro的新图像生成大模型，内部定标对齐OpenAI图像生成能力，是商汤在多模态AI领域深化布局的最新举措。",
+      "publishedAt": "2026-06-25T16:02:00+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/968/517.htm",
+      "subCategory": "多模态"
+    },
+    {
+      "id": "ai-20260625-004",
+      "title": "千问吴嘉：继续提供好的 AI 产品，帮助考生公平获取信息",
+      "summary": "阿里千问产品负责人吴嘉表示，千问将持续打造优质AI产品，在高考志愿填报等关键场景帮助考生公平获取信息，发挥AI工具在教育领域的普惠价值。",
+      "publishedAt": "2026-06-25T15:45:00+08:00",
+      "source": "36氪",
+      "url": "https://36kr.com/newsflashes/3868287473013769",
+      "subCategory": "AI应用"
+    },
+    {
+      "id": "ai-20260625-001",
+      "title": "GitHub 取消 Copilot Free 与 Student 计划的手动模型选择功能，仅能由系统自动分配",
+      "summary": "GitHub宣布取消Copilot Free与Student计划用户手动选择AI模型的功能，用户将仅能由系统根据任务类型自动分配最合适模型，以提升整体服务质量与成本效率。",
+      "publishedAt": "2026-06-25T15:26:09+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/968/475.htm",
+      "subCategory": "AI编程"
+    },
     {
       "id": "ai-20260623-002",
       "title": "超 Claude Mythos 5 成绩：OpenAI 最强“抓虫 AI”GPT-5.5-Cyber 刷新 CyberGym 纪录",
@@ -679,51 +724,6 @@
       "source": "IT之家",
       "url": "https://www.ithome.com/0/952/059.htm",
       "subCategory": "具身智能"
-    },
-    {
-      "id": "ai-20260519-001",
-      "title": "Anthropic 收购 Stainless，谷歌和 OpenAI 失去关键 AI SDK 工具",
-      "summary": "Anthropic宣布完成对SDK自动生成初创公司Stainless的收购；Stainless此前为OpenAI、谷歌、Cloudflare、Meta等数百家公司自动生成并维护跨语言API开发工具包（SDK）、命令行工具及MCP服务器；收购后Anthropic掌握竞争对手关键开发者工具链节点，Stainless同步宣布下线全部托管SDK生成产品，但现有客户可保留已生成SDK的所有权。",
-      "publishedAt": "2026-05-19T07:53:39+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/952/057.htm",
-      "subCategory": "大模型"
-    },
-    {
-      "id": "ai-20260518-002",
-      "title": "腾讯推出 AI 应用生成平台\"吐司\"：定位\"探索型氛围编程产品\"、支持一键打造 App 原型预览",
-      "summary": "腾讯推出名为\"吐司\"的AI应用生成平台，定位\"探索型氛围编程产品\"，用户仅需自然语言描述想法，AI可自动拆解功能、生成原型并打包为App；提供创造应用、社交分享及灵感广场等功能，安卓版已上线，iOS版稍后推出，公测期间限时免费。",
-      "publishedAt": "2026-05-18T19:55:35+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/952/009.htm",
-      "subCategory": "AI编程"
-    },
-    {
-      "id": "ai-20260518-001",
-      "title": "Netflix 成立 AI 工作室 INKubator，发力生成式动画短片",
-      "summary": "Netflix 成立内部专属 AI 动画工作室 INKubator，专注于使用生成式 AI 创作影院级动画内容，采用生成式 AI 驱动工作流、艺术家工具和可扩展多集制作环境，正在招募制片人、软件工程师和 CG 艺术家；该举措标志 Netflix 将生成式 AI 融入内容制作核心流程。",
-      "publishedAt": "2026-05-18T06:50:02+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/951/584.htm",
-      "subCategory": "AI视频"
-    },
-    {
-      "id": "ai-20260516-003",
-      "title": "蚂蚁集团百灵开源万亿参数思考模型 Ring-2.6-1T",
-      "summary": "蚂蚁集团百灵大模型开源Ring-2.6-1T，定位面向复杂任务场景的万亿参数旗舰推理模型，提供High（低消耗、适合Agent多步工作流）和XHigh（深度推理、适合数学与复杂逻辑分析）两种推理强度，已上线Hugging Face和ModelScope平台供开发者下载与适配。",
-      "publishedAt": "2026-05-16T14:49:25+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/951/255.htm",
-      "subCategory": "开源模型"
-    },
-    {
-      "id": "ai-20260516-002",
-      "title": "OpenAI 大规模重组，总裁 Brockman 夺权挂帅",
-      "summary": "OpenAI将ChatGPT、Codex和API三大产品线整合为统一产品组织，联合创始人兼总裁Greg Brockman正式接管全部产品战略；ChatGPT负责人Nick Turley转任企业客户，公司正开发融合ChatGPT、Codex编程智能及Atlas浏览器的\"超级应用\"，Sora视频生成项目已终止，Kevin Weil等核心高管相继离职。",
-      "publishedAt": "2026-05-16T14:55:45+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/951/258.htm",
-      "subCategory": "大模型"
     }
   ]
 }

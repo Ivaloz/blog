@@ -3,8 +3,35 @@
   "slug": "industry",
   "title": "行业新闻",
   "description": "企业服务、SaaS、云计算、制造业、消费互联网的产业动态。",
-  "updatedAt": "2026-06-23T17:00:00+08:00",
+  "updatedAt": "2026-06-25T16:35:00+08:00",
   "items": [
+    {
+      "id": "industry-20260625-002",
+      "title": "追加 130 亿美元，亚马逊宣布 2030 年前将在印度投资 480 亿美元",
+      "summary": "亚马逊宣布将追加130亿美元投资，2030年前在印度的总投资额将达480亿美元，聚焦云计算、物流基础设施与电商平台扩张，进一步深化在这一全球重要新兴市场的战略布局。",
+      "publishedAt": "2026-06-25T16:19:35+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/968/544.htm",
+      "subCategory": "公司动态"
+    },
+    {
+      "id": "industry-20260625-001",
+      "title": "胡润《2026 全球独角兽榜》发布：1603 家创历史新高，Anthropic、OpenAI、字节跳动前三",
+      "summary": "胡润研究院发布《2026全球独角兽榜》，全球独角兽企业数量达1603家，创历史新高；Anthropic、OpenAI和字节跳动位居前三，中国独角兽企业数量持续稳居全球第二。",
+      "publishedAt": "2026-06-25T14:48:11+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/968/425.htm",
+      "subCategory": "行业研报"
+    },
+    {
+      "id": "industry-20260625-003",
+      "title": "消息称 AI 芯片企业 SambaNova 拟以 100 亿美元估值筹集 8~10 亿美元",
+      "summary": "消息称AI芯片企业SambaNova正计划以100亿美元估值筹集8至10亿美元新一轮融资，用于加速推动专用AI推理加速芯片的规模化商业部署。",
+      "publishedAt": "2026-06-25T14:36:49+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/968/414.htm",
+      "subCategory": "半导体产业"
+    },
     {
       "id": "industry-20260623-001",
       "title": "比亚迪超级智能体“迪迪虾”官宣登陆腾势 N8L 闪充版，新车今晚上市",
@@ -696,33 +723,6 @@
       "publishedAt": "2026-05-16",
       "source": "IT之家",
       "url": "https://www.ithome.com/0/951/164.htm",
-      "subCategory": "行业研报"
-    },
-    {
-      "id": "industry-20260514-002",
-      "title": "JPR 报告 2026Q1 全球消费端 CPU 同比跌 8.6%，服务器 CPU 增 13.6%",
-      "summary": "市场调查机构JPR报告显示，2026年Q1全球消费端CPU市场环比下滞15%、同比下降8.6%，季节性库存调整与2025年高基数共同压制需求；服务器CPU市场持续增长，同比提13.6%，AI算力服务器采购需求强劲是主要驱动力。",
-      "publishedAt": "2026-05-14T06:53:00+08:00",
-      "source": "新浪科技",
-      "url": "https://finance.sina.com.cn/tech/digi/2026-05-14/doc-inhxvihs8797578.shtml",
-      "subCategory": "半导体产业"
-    },
-    {
-      "id": "industry-20260514-001",
-      "title": "Counterpoint：到2027 年，每出货三款智能手机就有一款具备智能体 AI 功能",
-      "summary": "Counterpoint Research预测智能体AI手机渗透率将从2024年1%跃升至2027年32%，高端机型（600美元以上）届时逾80%具备该功能，相关芯片出货量2025至2027年CAGR达281%；增长主要来自600美元以上高端及250至600美元中高端价格带。",
-      "publishedAt": "2026-05-14T16:36:14+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/950/478.htm",
-      "subCategory": "行业研报"
-    },
-    {
-      "id": "industry-20260513-001",
-      "title": "中信建投通信及人工智能中期策略：大模型持续迭代 算力需求强劲增长",
-      "summary": "中信建掕2026年中期策略指出，全球大模型产业进入高质量发展新阶段，北美四大云服务商Q1资本开支同比增长70.25%，全年预计7100亿美元；大模型商业化闭环逐步形成，机构持续GPU、光模块、光芯片等算力产业链核心环节的配置价值。",
-      "publishedAt": "2026-05-13T07:58:00+08:00",
-      "source": "证券时报",
-      "url": "https://www.stcn.com/article/detail/3906103.html",
       "subCategory": "行业研报"
     }
   ]
