@@ -3,7 +3,7 @@
   "slug": "trade",
   "title": "外贸资讯",
   "description": "亚马逊、TikTok Shop、阿里国际站、Shopify 等平台政策与跨境电商市场、独立站、物流支付、关税法规、选品趋势。",
-  "updatedAt": "2026-06-26T16:30:00+08:00",
+  "updatedAt": "2026-06-26T20:00:00+08:00",
   "items": [
     {
       "id": "trade-20260626-001",
@@ -12,6 +12,15 @@
       "publishedAt": "2026-06-25",
       "source": "9to5toys",
       "url": "https://9to5toys.com/2026/06/25/amazon-prime-day-3-live-new-deals/",
+      "subCategory": "平台动态"
+    },
+    {
+      "id": "trade-20260626-002",
+      "title": "亚马逊Prime Day 2026销售额创纪录开局",
+      "summary": "2026年亚马逊Prime Day首日美国线上消费总额达142亿美元，同比增长11.2%；电子产品领涨（+12.5%），服装类次之（+9.8%）；平均折扣力度38%超往年35%；第三方机构预测四日大促全球销售额将突破200亿美元。",
+      "publishedAt": "2026-06-25",
+      "source": "卖家之家",
+      "url": "https://mjzj.com/article/fq5unz2f7oqo",
       "subCategory": "平台动态"
     },
     {

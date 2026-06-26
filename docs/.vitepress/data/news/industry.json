@@ -3,8 +3,26 @@
   "slug": "industry",
   "title": "行业新闻",
   "description": "企业服务、SaaS、云计算、制造业、消费互联网的产业动态。",
-  "updatedAt": "2026-06-26T16:30:00+08:00",
+  "updatedAt": "2026-06-26T20:00:00+08:00",
   "items": [
+    {
+      "id": "industry-20260625-004",
+      "title": "MLCC牛股，明日起停牌！",
+      "summary": "MLCC龙头昀冢科技发布停牌公告，公司股价自5月7日至6月25日累计涨幅达277.95%，多次触发异常波动及严重异常波动预警，将于6月26日开市起停牌，预计不超过3个交易日；公司同时澄清其MLCC产品主要面向消费电子而非AI服务器市场。",
+      "publishedAt": "2026-06-25T22:26:00+08:00",
+      "source": "证券时报",
+      "url": "https://www.stcn.com/article/detail/3980509.html",
+      "subCategory": "半导体产业"
+    },
+    {
+      "id": "industry-20260625-005",
+      "title": "公告精选：中船特气核查完成，明起复牌；恒逸石化上半年净利预增2326.31%—2546.88%",
+      "summary": "中船特气完成停牌核查，将于6月26日起复牌；恒逸石化预告上半年净利同比预增2326%至2547%；艾华集团、太极实业、兆易创新就AI与半导体相关业务发布澄清公告；骄成超声拟收购子公司40%股权；恒瑞医药获两项新药批准。",
+      "publishedAt": "2026-06-25T20:26:00+08:00",
+      "source": "证券时报",
+      "url": "https://www.stcn.com/article/detail/3980459.html",
+      "subCategory": "公司动态"
+    },
     {
       "id": "industry-20260625-002",
       "title": "追加 130 亿美元，亚马逊宣布 2030 年前将在印度投资 480 亿美元",
@@ -706,24 +724,6 @@
       "source": "IT之家",
       "url": "https://www.ithome.com/0/951/415.htm",
       "subCategory": "半导体产业"
-    },
-    {
-      "id": "industry-20260516-002",
-      "title": "消息称奥迪在华战略调整：上汽奥迪专注AUDI品牌，油车回归一汽奥迪",
-      "summary": "据报道奥迪集团计划重组南北合资战略分工：上汽奥迪将专注于AUDI纯电品牌（已推出E5和E7X），一汽奥迪将获得传统燃油车及奥迪四环品牌电动车；双方仍在协商中但三方将于近期官宣，此前4月已签约在上海设立奥迪创新技术中心。",
-      "publishedAt": "2026-05-16T16:12:44+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/951/282.htm",
-      "subCategory": "公司动态"
-    },
-    {
-      "id": "industry-20260516-001",
-      "title": "CounterPoint 称三星 Galaxy S26 系列手机中国市场首发表现弱于 S25 系列",
-      "summary": "Counterpoint Research数据显示，三星Galaxy S26系列上市后6周全球销量同比增长13%，但中国、日本市场表现弱于上一代S25系列；韩国和美国实现两位数增长，Galaxy S26 Ultra在欧洲销售占比创历史新高。",
-      "publishedAt": "2026-05-16",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/951/164.htm",
-      "subCategory": "行业研报"
     }
   ]
 }

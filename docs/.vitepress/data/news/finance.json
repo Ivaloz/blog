@@ -3,7 +3,7 @@
   "slug": "finance",
   "title": "投资与财经",
   "description": "宏观经济、A 股 / 港股 / 美股、一级市场融资、行业研报观点。",
-  "updatedAt": "2026-06-26T16:30:00+08:00",
+  "updatedAt": "2026-06-26T20:00:00+08:00",
   "items": [
     {
       "id": "finance-20260626-002",
@@ -13,6 +13,24 @@
       "source": "新浪财经",
       "url": "https://finance.sina.com.cn/stock/usstock/summary/2026-06-26/doc-inietnfu5215052.shtml",
       "subCategory": "股票市场"
+    },
+    {
+      "id": "finance-20260626-004",
+      "title": "2026年6月26日A股上午收盘股评来了",
+      "summary": "东方财富财富号发布6月26日A股上午收盘股评，韩国综合指数暴跌8.8%引发外溢效应，上证跌2.14%至4032点、创业板大跌3.72%；半导体、PCB、CPO全线走弱；新股惠科股份开盘涨逾212%；光刻设备概念逆势拉升。",
+      "publishedAt": "2026-06-26T11:49:00+08:00",
+      "source": "东方财富",
+      "url": "https://caifuhao.eastmoney.com/news/20260626114955226552540",
+      "subCategory": "A股"
+    },
+    {
+      "id": "finance-20260626-005",
+      "title": "午盘播报 6月26日 周五",
+      "summary": "国内商品期货全线重挫，碳酸锂大跌超5%、橡胶跌超4%、聚硅跌超3%；美国拟于6月30日前启动对铜铝等「AI 金属」301关税调查；中东货轮遭袭致霍尔木兹海峡短暂中断通行，国际运费及能源市场波动加剧。",
+      "publishedAt": "2026-06-26T11:30:00+08:00",
+      "source": "东方财富",
+      "url": "https://finance.eastmoney.com/a/202606263784525030.html",
+      "subCategory": "大宗商品"
     },
     {
       "id": "finance-20260626-001",
@@ -706,24 +724,6 @@
       "source": "IT之家",
       "url": "https://www.ithome.com/0/953/935.htm",
       "subCategory": "公司财报"
-    },
-    {
-      "id": "finance-20260522-003",
-      "title": "OpenAI IPO 再生变数：刚传本周递表，奥特曼就暗示上市时间可能延后",
-      "summary": "OpenAI 计划最快本周向 SEC 秘密递表，目标秋季上市，但创始人阿尔特曼随即暗示即使提交申请也可能推迟上市；公司估值 8520 亿美元对应 34 倍市销率；面临挑战包括 2025 年亏损 80 亿美元、毛利率下滑至 33%、CFO 主张推迟至 2027 年及竞争对手 Anthropic 增速超越。",
-      "publishedAt": "2026-05-22T14:58:22+08:00",
-      "source": "网易财经",
-      "url": "https://www.163.com/dy/article/KTHS149I05118O92.html",
-      "subCategory": "一级市场"
-    },
-    {
-      "id": "finance-20260522-006",
-      "title": "消息称 Manus 创始人肖弘、季逸超、张涛考虑融资 10 亿美元回购公司，后续或赴港 IPO",
-      "summary": "消息称AI应用公司Manus创始团队正在考虑通过融资约10亿美元的方式从现有股东处回购公司控制权，后续计划赴香港上市；Manus于2025年3月发布后迅速走红，此次若成功MBO将是AI应用层公司赴港上市的重要案例。",
-      "publishedAt": "2026-05-22T10:15:25+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/953/725.htm",
-      "subCategory": "一级市场"
     }
   ],
   "disclaimer": "⚠️ 投资类内容仅做信息汇总,非投资建议。"
