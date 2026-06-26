@@ -3,8 +3,17 @@
   "slug": "trade",
   "title": "外贸资讯",
   "description": "亚马逊、TikTok Shop、阿里国际站、Shopify 等平台政策与跨境电商市场、独立站、物流支付、关税法规、选品趋势。",
-  "updatedAt": "2026-06-25T19:35:00+08:00",
+  "updatedAt": "2026-06-26T16:30:00+08:00",
   "items": [
+    {
+      "id": "trade-20260626-001",
+      "title": "Amazon Prime Day 2026 第三日：数百项新品折扣上线，多品类创历史低价",
+      "summary": "Amazon Prime Day 2026第三日如期进行，平台每日美东凌晨3时刷新数百项限时折扣；苹果Watch Series 11全系降至历史最低价279至399美元，谷歌Pixel 10 Pro XL创历史最低，Echo Show系列125至320美元同创低价，MacBook Pro M5亦获折扣；机构预测本届四日大促总销售额将达263亿美元，首日单日销售额即达83亿美元。",
+      "publishedAt": "2026-06-25",
+      "source": "9to5toys",
+      "url": "https://9to5toys.com/2026/06/25/amazon-prime-day-3-live-new-deals/",
+      "subCategory": "平台动态"
+    },
     {
       "id": "trade-20260625-001",
       "title": "Prime Day 首日观察：卖家参报态度分化",

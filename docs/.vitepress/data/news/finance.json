@@ -3,8 +3,35 @@
   "slug": "finance",
   "title": "投资与财经",
   "description": "宏观经济、A 股 / 港股 / 美股、一级市场融资、行业研报观点。",
-  "updatedAt": "2026-06-25T19:35:00+08:00",
+  "updatedAt": "2026-06-26T16:30:00+08:00",
   "items": [
+    {
+      "id": "finance-20260626-002",
+      "title": "韩国芯片出口骤降逾10%，三星SK海力士重挫逾12%",
+      "summary": "韩国6月芯片出口额同比骤降逾10%，KOSPI指数当日自历史高位下挫约10%，三星电子与SK海力士均重挫超12%；外资单日净卖出超25亿美元，成交量较20日均值激增52%；美股方面，纳斯达克100指数跌3.29%，费城半导体指数跌逾10%，市场对全球AI芯片需求增速放缓的担忧明显升温。",
+      "publishedAt": "2026-06-26T15:50:00+08:00",
+      "source": "新浪财经",
+      "url": "https://finance.sina.com.cn/stock/usstock/summary/2026-06-26/doc-inietnfu5215052.shtml",
+      "subCategory": "股票市场"
+    },
+    {
+      "id": "finance-20260626-001",
+      "title": "苹果、微软同日官宣大涨价，机构称存储芯片供需缺口有望持续",
+      "summary": "苹果宣布Mac与iPad全线涨价18%至25%，微软Xbox游戏机及配件涨价约150美元，两家公司均将涨价原因归结为AI数据中心HBM内存需求激增导致存储芯片成本上升；消息推动美光、SK海力士等存储芯片股单日大幅上涨，机构分析认为AI训练与推理算力持续扩张将使供需缺口延续至2027年。",
+      "publishedAt": "2026-06-26T10:16:00+08:00",
+      "source": "新浪财经",
+      "url": "https://finance.sina.com.cn/jjxw/2026-06-26/doc-inieszsa1989234.shtml",
+      "subCategory": "美股"
+    },
+    {
+      "id": "finance-20260626-003",
+      "title": "A股大幅回调，上证跌逾2%报4027点，深证跌3.4%",
+      "summary": "6月26日A股全线大幅调整，上证综合指数收报4027.26点，跌幅2.26%；深证成指收报15782点，跌幅3.44%；下跌主因为科技股外资持续减持与指数成分股调仓形成集中卖压，全天两市成交明显放量，市场情绪整体偏谨慎。",
+      "publishedAt": "2026-06-26",
+      "source": "英为财情",
+      "url": "https://zh.tradingeconomics.com/china/stock-market",
+      "subCategory": "A股"
+    },
     {
       "id": "finance-20260625-002",
       "title": "恒指收跌 1.43%，恒生科技指数跌 1.63%",
@@ -696,33 +723,6 @@
       "publishedAt": "2026-05-22T10:15:25+08:00",
       "source": "IT之家",
       "url": "https://www.ithome.com/0/953/725.htm",
-      "subCategory": "一级市场"
-    },
-    {
-      "id": "finance-20260522-001",
-      "title": "联想集团 2025/26 财年归母净利润 19.12 亿美元同比增长 38%，第四财季 5.21 亿美元同比增长 479%",
-      "summary": "联想集团2025/26财年（2025年4月至2026年3月）营收830.75亿美元同比增长20%，归属股东净利润19.12亿美元增长38%，经营现金流40.24亿美元同比增约74%；AI相关收入第四季度同比增长84%，占集团总收入38%；三大业务均实现双位数增长，末期股息提升至每股33.7港仙。",
-      "publishedAt": "2026-05-22T07:35:39+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/953/680.htm",
-      "subCategory": "公司财报"
-    },
-    {
-      "id": "finance-20260521-004",
-      "title": "Anthropic Eyes First Profitable Quarter on $10.9 Billion Q2 Revenue Projection",
-      "summary": "Anthropic向投资者披露，预计2026年Q2营收约109亿美元（较Q1的48亿美元增长逾一倍），营业利润约5.59亿美元，有望实现成立以来首次季度盈利；年消费超百万美元的企业客户从2月约500家增至4月逾1000家；本轮融资估值或超900亿美元，Anthropic计划最早今年10月赴美上市。",
-      "publishedAt": "2026-05-21T12:57:00+08:00",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/sectors/technology/articles/anthropic-eyes-first-profitable-quarter-045748261.html",
-      "subCategory": "一级市场"
-    },
-    {
-      "id": "finance-20260521-003",
-      "title": "SpaceX IPO 招股书揭示家底：连接业务独撑盈利，航天和 AI 业务亏损",
-      "summary": "SpaceX已向SEC提交S-1招股书，计划以\"SPCX\"代码在纳斯达克上市；2025年全年营收186.74亿美元，整体亏损25.89亿美元；Starlink连接服务为唯一盈利部门（Q1营收32.6亿美元、营业利润11.9亿美元、订阅用户约1030万），航天业务Q1亏损6.62亿美元，SpaceXAI业务亏损高达24.69亿美元；马斯克掌控公司85%投票权。",
-      "publishedAt": "2026-05-21T07:00:01+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/953/093.htm",
       "subCategory": "一级市场"
     }
   ],
