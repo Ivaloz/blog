@@ -3,8 +3,35 @@
   "slug": "ai",
   "title": "AI 与大模型",
   "description": "大模型、Agent、AI 编程、推理框架、开源模型的发布与落地。",
-  "updatedAt": "2026-06-26T20:00:00+08:00",
+  "updatedAt": "2026-06-27T17:00:00+08:00",
   "items": [
+    {
+      "id": "ai-20260627-003",
+      "title": "AI 账单失控后 DeepSeek 成'香饽饽'，部分美国企业已 100% 切换",
+      "summary": "面对AI费用飙升，多家美国企业转向DeepSeek；旧金山创业公司Lindy在月度AI账单\"超过所有员工工资\"后100%切换至DeepSeek，预计节省数百万美元；企业同步采用模型路由策略，将不同任务分配给成本匹配的AI系统。",
+      "publishedAt": "2026-06-27T16:16:09+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/969/400.htm",
+      "subCategory": "AI应用"
+    },
+    {
+      "id": "ai-20260627-002",
+      "title": "北大与 DeepSeek 联合开源 DSpark：破解 AI 大模型高并发推理瓶颈，速度提升 60% 至 85%",
+      "summary": "北京大学与DeepSeek联合发布DSpark推理加速框架，专为大语言模型高并发生产环境设计，已部署至DeepSeek-V4-Flash和V4-Pro预览服务；在等效吞吐量下单用户生成速度提升60%至85%，附论文、训练代码和模型权重已在GitHub开源。",
+      "publishedAt": "2026-06-27T15:47:23+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/969/379.htm",
+      "subCategory": "推理框架"
+    },
+    {
+      "id": "ai-20260627-001",
+      "title": "OpenAI 最强 AI 模型：GPT-5.6 系列登场，编程跑分超 Claude Mythos 5",
+      "summary": "OpenAI发布GPT-5.6系列三款模型：Sol（旗舰）、Terra（均衡）、Luna（高速低成本），仅向美国政府批准的约20家\"可信合作伙伴\"开放灰度预览；Sol在Terminal-Bench 2.1编程测试中以88.8%超越Claude Mythos 5（88.0%），Ultra模式达91.9%。",
+      "publishedAt": "2026-06-27T06:45:56+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/969/272.htm",
+      "subCategory": "大模型"
+    },
     {
       "id": "ai-20260626-002",
       "title": "机构：Jalapeño开启OpenAI自研芯片时代，AI算力迈向全栈协同",
@@ -22,6 +49,15 @@
       "source": "IT之家",
       "url": "https://www.ithome.com/0/968/961.htm",
       "subCategory": "AI编程"
+    },
+    {
+      "id": "ai-20260626-003",
+      "title": "Anthropic Economic Index report: Cadences",
+      "summary": "Anthropic发布最新经济指数报告，分析Claude使用模式中的日周节律：个人任务周末峰值显著，食谱请求在18时达到高峰；新版调查覆盖9700名Claude用户，显示使用Claude最多的用户对未来劳动力市场最为乐观。",
+      "publishedAt": "2026-06-26",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/research/economic-index-june-2026-report",
+      "subCategory": "AI应用"
     },
     {
       "id": "ai-20260625-002",
@@ -79,7 +115,7 @@
     },
     {
       "id": "ai-20260623-002",
-      "title": "超 Claude Mythos 5 成绩：OpenAI 最强“抓虫 AI”GPT-5.5-Cyber 刷新 CyberGym 纪录",
+      "title": "超 Claude Mythos 5 成绩：OpenAI 最强"抓虫 AI"GPT-5.5-Cyber 刷新 CyberGym 纪录",
       "summary": "OpenAI宣布推出专项网络安全模型GPT-5.5-Cyber，在CyberGym基准测试中取得85.6%分数，超越Claude Mythos 5（83.8%）和GPT-5.5（81.8%）；该模型在漏洞发现与利用代码生成方面能力显著增强，是OpenAI Daybreak网络安全计划的一部分。",
       "publishedAt": "2026-06-23T15:17:57+08:00",
       "source": "IT之家",
@@ -107,7 +143,7 @@
     {
       "id": "ai-20260622-002",
       "title": "豆包 App 灰测打车功能，由曹操出行提供服务",
-      "summary": "豆包应用正在北京、杭州两城进行打车功能灰测，与曹操出行合作提供服务。用户可在豆包对话框“口述出行需求”，系统自动识别地点和人数后自动匹配运力。曹操出行同步宣布启动全面AI转型，计划到2030年部署10万辆Robotaxi与10万辆Robovan。",
+      "summary": "豆包应用正在北京、杭州两城进行打车功能灰测，与曹操出行合作提供服务。用户可在豆包对话框"口述出行需求"，系统自动识别地点和人数后自动匹配运力。曹操出行同步宣布启动全面AI转型，计划到2030年部署10万辆Robotaxi与10万辆Robovan。",
       "publishedAt": "2026-06-22T11:17:40+08:00",
       "source": "IT之家",
       "url": "https://www.ithome.com/0/966/840.htm",
@@ -323,7 +359,7 @@
     {
       "id": "ai-20260611-001",
       "title": "因安全顾虑，Anthropic 最强 AI 模型 Claude Fable 5 拒绝回答基础生物问题",
-      "summary": "Anthropic推出Claude Fable 5，因安全考量对生物学问题设置严格限制，拒绝回答细胞膜、线粒体等基础生物问题，公司表示这是防范生物武器研发风险的“偏保守策略”，未来计划为经过资质审核的科研专业人员推出解除部分限制的版本。",
+      "summary": "Anthropic推出Claude Fable 5，因安全考量对生物学问题设置严格限制，拒绝回答细胞膜、线粒体等基础生物问题，公司表示这是防范生物武器研发风险的"偏保守策略"，未来计划为经过资质审核的科研专业人员推出解除部分限制的版本。",
       "publishedAt": "2026-06-11T07:32:00+08:00",
       "source": "IT之家",
       "url": "https://www.ithome.com/0/962/705.htm",
@@ -332,7 +368,7 @@
     {
       "id": "ai-20260611-002",
       "title": "GPT-5.6 最强 AI 模型已在路上，消息称奥尔特曼预估 OpenAI 明年上市",
-      "summary": "OpenAI首席执行官奥尔特曼在内部邮件中表示公司将在“明年内”上市；公司正准备推出代号5.6的新型AI模型，首席科学家称其相比现有旗舰系统GPT-5.5有“显著改进”，递归自我改进等因素可能影响上市时间表。",
+      "summary": "OpenAI首席执行官奥尔特曼在内部邮件中表示公司将在"明年内"上市；公司正准备推出代号5.6的新型AI模型，首席科学家称其相比现有旗舰系统GPT-5.5有"显著改进"，递归自我改进等因素可能影响上市时间表。",
       "publishedAt": "2026-06-11T07:30:12+08:00",
       "source": "IT之家",
       "url": "https://www.ithome.com/0/962/704.htm",
@@ -688,42 +724,6 @@
       "source": "The Register",
       "url": "https://www.theregister.com/ai-ml/2026/05/20/openai-wants-upfront-cash-for-guaranteed-ai-capacity/5243694",
       "subCategory": "大模型"
-    },
-    {
-      "id": "ai-20260520-006",
-      "title": "谷歌推出科研版 Gemini，能追踪论文、写实验代码",
-      "summary": "谷歌I/O 2026发布\"Gemini for Science\"科研版，支持追踪最新学术论文、将研究目标转化为实验代码，并能生成新科学假说；谷歌同步披露正在免疫疾病和癌症领域推进多个临床前AI项目，目标重塑新药研发流程，AI建模工具的长期规划包括支持虚拟细胞层面的复杂系统模拟。",
-      "publishedAt": "2026-05-20",
-      "source": "Google",
-      "url": "https://blog.google/innovation-and-ai/technology/research/gemini-for-science-io-2026/",
-      "subCategory": "AI应用"
-    },
-    {
-      "id": "ai-20260520-001",
-      "title": "谷歌 Gemini Spark 个人智能体发布：一句话让 AI 干几份活，不用担心乱搞数据",
-      "summary": "谷歌I/O 2026发布Gemini Spark个人AI智能体，在专属虚拟环境中24小时自主运行，基于Gemini 3.5模型与Antigravity框架，通过MCP协议集成第三方工具；可代用户处理邮件整理、日程规划等多步骤任务而无需担心数据被误操作，下周面向美国AI Ultra用户开放，月费100美元起，夏季将集成至Chrome浏览器。",
-      "publishedAt": "2026-05-19T10:45:00-07:00",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/05/19/google-introduces-gemini-spark-a-24-7-agentic-assistant-with-gmail-integration/",
-      "subCategory": "Agent"
-    },
-    {
-      "id": "ai-20260520-003",
-      "title": "谷歌发布 Gemini 3.5 Flash 模型：AI 输出速度 4 倍于 GPT-5.5",
-      "summary": "谷歌I/O 2026发布Gemini 3.5 Flash，在多项基准超越Gemini 3.1 Pro，输出速度达289 tokens/秒、是GPT-5.5和Claude Opus 4.7的4倍；内部测试中Antigravity工具调用93个子智能体并生成26亿tokens，在12小时内从零构建出一个可运行的操作系统核心。",
-      "publishedAt": "2026-05-19",
-      "source": "Google",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/",
-      "subCategory": "大模型"
-    },
-    {
-      "id": "ai-20260520-007",
-      "title": "谷歌 Gemini 集成 C2PA 内容凭证：增强判断图片是否经过 AI 编辑",
-      "summary": "谷歌在I/O 2026宣布Gemini集成C2PA内容凭证以对抗深度伪造，SynthID已为十亿张图片和视频添加水印，在谷歌搜索和Chrome浏览器中整合该技术，用户可通过圈选或右键点击图片判断是否经过AI编辑。",
-      "publishedAt": "2026-05-19",
-      "source": "Google",
-      "url": "https://blog.google/innovation-and-ai/products/identifying-ai-generated-media-online/",
-      "subCategory": "AI应用"
     }
   ]
 }
