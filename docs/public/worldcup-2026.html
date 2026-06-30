@@ -63,6 +63,15 @@ h1{margin:.25em 0 .15em;font-size:clamp(28px,5vw,46px);font-weight:800;letter-sp
 .day-head .dot{width:8px;height:8px;border-radius:50%;background:var(--accent);}
 .day-head.today .dot{background:var(--gold);box-shadow:0 0 0 4px #ffcb4533;}
 .day-head .cnt{color:var(--muted);font-weight:600;font-size:13px;}
+.day-parlay{display:flex;align-items:center;flex-wrap:wrap;gap:8px 14px;margin-top:12px;
+  background:linear-gradient(90deg,#13251c,#161f38 60%);border:1px solid #1f4d36;border-left:3px solid var(--green);
+  border-radius:11px;padding:10px 16px;}
+.day-parlay.today{background:linear-gradient(90deg,#2a230e,#161f38 60%);border-color:#5b4a17;border-left-color:var(--gold);}
+.day-parlay .dp-tag{font-size:11.5px;font-weight:800;letter-spacing:.04em;color:var(--green);
+  background:#0e2418;border:1px solid #1f4d36;border-radius:6px;padding:3px 9px;}
+.day-parlay.today .dp-tag{color:var(--gold);background:#2a230e;border-color:#5b4a17;}
+.day-parlay .dp-main{font-size:14.5px;font-weight:700;color:var(--txt);}
+.day-parlay .dp-type{font-size:12px;color:var(--muted);margin-left:auto;}
 .cards{display:grid;grid-template-columns:repeat(auto-fill,minmax(330px,1fr));gap:16px;margin-top:14px;}
 
 /* card */
@@ -98,6 +107,10 @@ h1{margin:.25em 0 .15em;font-size:clamp(28px,5vw,46px);font-weight:800;letter-sp
 .venue-tag{font-size:11.5px;padding:2px 9px;border-radius:999px;background:#0e1730;border:1px solid var(--line);color:var(--muted);}
 .venue-tag.hot{color:#ffb4a8;background:#2a1512;border-color:#5a2b22;}
 .venue-tag.alt{color:#d3b48c;background:#241c10;border-color:#4d3a1c;}
+.scorepred{display:flex;align-items:center;gap:9px;background:#0d1526;border:1px dashed #33407a;border-radius:10px;padding:7px 12px;}
+.scorepred .sp-label{font-size:11px;font-weight:800;color:#9db4ff;}
+.scorepred .sp-val{font-size:18px;font-weight:800;color:var(--txt);letter-spacing:1px;font-variant-numeric:tabular-nums;}
+.scorepred .sp-note{font-size:10.5px;color:var(--muted);margin-left:auto;border:1px solid var(--line);border-radius:5px;padding:1px 6px;}
 .pick{display:flex;align-items:center;gap:9px;border-radius:11px;padding:9px 12px;font-weight:700;font-size:14px;
   background:#0f1830;border:1px solid var(--line);}
 .pick-label{font-size:11px;font-weight:800;padding:2px 7px;border-radius:5px;background:#26324f;color:var(--muted);flex:0 0 auto;}
@@ -173,6 +186,7 @@ footer a:hover{text-decoration:underline;}
     <div class="day-head">
       <span class="dot"></span>6/28 周六<span class="cnt">· 1 场</span>
     </div>
+    
     <div class="cards">
   <article class="card done">
     <div class="card-top">
@@ -190,6 +204,7 @@ footer a:hover{text-decoration:underline;}
       <span>📍 SoFi · 英格尔伍德</span>
       <span class="venue-tag">温和圆顶</span>
     </div>
+    
     <div class="pick p-none"><span class="pick-label">推荐</span><span class="pick-text">无下注（⑩ 教学样本）</span></div>
     
     <div class="logic">加拿大第 90 分钟禁区外凌空绝杀＝低概率事件，别据此追捧；但小组 GF8 攻击力是真的。看过程不看那一脚。</div>
@@ -200,6 +215,7 @@ footer a:hover{text-decoration:underline;}
     <div class="day-head today">
       <span class="dot"></span>6/29 周一<span class="cnt">· 3 场</span>
     </div>
+    <div class="day-parlay today"><span class="dp-tag">每日串关预测 · 今日主串</span><b class="dp-main">巴西不败 ＋ 德国小球(≤2)</b><span class="dp-type">2 串 1 · 锚 + 结构</span></div>
     <div class="cards">
   <article class="card mid">
     <div class="card-top">
@@ -217,6 +233,7 @@ footer a:hover{text-decoration:underline;}
       <span>📍 休斯顿 NRG</span>
       <span class="venue-tag">可闭顶/中性</span>
     </div>
+    <div class="scorepred"><span class="sp-label">比分预测</span><span class="sp-val">2 - 1</span><span class="sp-note">AI 推演</span></div>
     <div class="pick p-default"><span class="pick-label">推荐</span><span class="pick-text">巴西不让球（买主胜）· 单关</span></div>
     <div class="play">备选：日本「平」@+270 小搏 / 双方进球</div>
     <div class="logic">巴西占优但非血洗，日本本届 3 战 2 平、韧性强爱逼平；盘口巴 -145 仅中等热门，别碰巴西让 1。</div>
@@ -238,6 +255,7 @@ footer a:hover{text-decoration:underline;}
       <span>📍 福克斯堡 Gillette</span>
       <span class="venue-tag">温和</span>
     </div>
+    <div class="scorepred"><span class="sp-label">比分预测</span><span class="sp-val">1 - 0</span><span class="sp-note">AI 推演</span></div>
     <div class="pick p-small"><span class="pick-label">推荐</span><span class="pick-text">总进球小球（≤2）＋ 德国小胜</span></div>
     <div class="play">备选：让球（德让 1）买平</div>
     <div class="logic">巴拉圭极端铁桶 GF2；6/29 Gómez 停赛＋Alderete 存疑→大巴被削，闷平概率降、德国小胜更可能。</div>
@@ -259,6 +277,7 @@ footer a:hover{text-decoration:underline;}
       <span>📍 蒙特雷 BBVA</span>
       <span class="venue-tag hot">🔥 真高温·开放</span>
     </div>
+    <div class="scorepred"><span class="sp-label">比分预测</span><span class="sp-val">1 - 1</span><span class="sp-note">AI 推演</span></div>
     <div class="pick p-safe"><span class="pick-label">推荐</span><span class="pick-text">摩洛哥不败 ＋ 双方进球（BTTS）</span></div>
     <div class="play">避免荷兰让 1</div>
     <div class="logic">6/29 确认满血技术型摩洛哥（哈基米/Brahim 全首发）非 2022 铁桶→比赛偏开放；撤硬小球改 BTTS，高温仍利摩。</div>
@@ -269,6 +288,7 @@ footer a:hover{text-decoration:underline;}
     <div class="day-head">
       <span class="dot"></span>6/30 周二<span class="cnt">· 3 场</span>
     </div>
+    <div class="day-parlay"><span class="dp-tag">每日串关预测</span><b class="dp-main">法国不败 ＋ 墨vs厄小球</b><span class="dp-type">2 串 1（候选·临场定）</span></div>
     <div class="cards">
   <article class="card mid">
     <div class="card-top">
@@ -286,6 +306,7 @@ footer a:hover{text-decoration:underline;}
       <span>📍 阿灵顿 AT&amp;T</span>
       <span class="venue-tag">可闭顶/中性</span>
     </div>
+    <div class="scorepred"><span class="sp-label">比分预测</span><span class="sp-val">2 - 2</span><span class="sp-note">AI 推演</span></div>
     <div class="pick p-big"><span class="pick-label">推荐</span><span class="pick-text">总进球大球（≥3）</span></div>
     <div class="play">备选：科特迪瓦不败</div>
     <div class="logic">两队都能攻都漏（挪威 3-2 塞内加尔防线漏），开放对攻、进球多。</div>
@@ -307,6 +328,7 @@ footer a:hover{text-decoration:underline;}
       <span>📍 新泽西 MetLife</span>
       <span class="venue-tag">温和</span>
     </div>
+    <div class="scorepred"><span class="sp-label">比分预测</span><span class="sp-val">2 - 0</span><span class="sp-note">AI 推演</span></div>
     <div class="pick p-hcp"><span class="pick-label">推荐</span><span class="pick-text">法国让 1（让一球主胜）· 单关</span></div>
     <div class="play">备选：法国胜 ＋ 总进球 2-3</div>
     <div class="logic">本届最强（+8，姆巴佩连续梅开二度）vs 瑞典漏勺三档，实力差兑现。</div>
@@ -328,6 +350,7 @@ footer a:hover{text-decoration:underline;}
       <span>📍 墨西哥城 Azteca</span>
       <span class="venue-tag alt">⛰️ 海拔 2240m</span>
     </div>
+    <div class="scorepred"><span class="sp-label">比分预测</span><span class="sp-val">1 - 1</span><span class="sp-note">AI 推演</span></div>
     <div class="pick p-safe"><span class="pick-label">推荐</span><span class="pick-text">厄瓜多尔受让不败 ＋ 小球</span></div>
     <div class="play">避免墨西哥让 1（主场盘虚高）</div>
     <div class="logic">厄瓜多尔掀过德国、主场 Quito 2850m 更高原不怵海拔、善守；低比分，平价值高。</div>
@@ -338,6 +361,7 @@ footer a:hover{text-decoration:underline;}
     <div class="day-head">
       <span class="dot"></span>7/1 周三<span class="cnt">· 3 场</span>
     </div>
+    <div class="day-parlay"><span class="dp-tag">每日串关预测</span><b class="dp-main">英格兰不败 ＋ 美国不败</b><span class="dp-type">2 串 1（候选）</span></div>
     <div class="cards">
   <article class="card mid">
     <div class="card-top">
@@ -355,6 +379,7 @@ footer a:hover{text-decoration:underline;}
       <span>📍 亚特兰大 奔驰</span>
       <span class="venue-tag">圆顶/中性</span>
     </div>
+    <div class="scorepred"><span class="sp-label">比分预测</span><span class="sp-val">1 - 0</span><span class="sp-note">AI 推演</span></div>
     <div class="pick p-small"><span class="pick-label">推荐</span><span class="pick-text">总进球小球（≤2）</span></div>
     <div class="play">备选：英格兰胜（谨慎让 1）</div>
     <div class="logic">英格兰淘汰赛保守基因著名、爱拖加时/点球，可能又踢闷；刚果黑马身体冲击。</div>
@@ -376,6 +401,7 @@ footer a:hover{text-decoration:underline;}
       <span>📍 西雅图 Lumen</span>
       <span class="venue-tag">温和</span>
     </div>
+    <div class="scorepred"><span class="sp-label">比分预测</span><span class="sp-val">2 - 1</span><span class="sp-note">AI 推演</span></div>
     <div class="pick p-big"><span class="pick-label">推荐</span><span class="pick-text">总进球大球（≥3）/ 双方进球</span></div>
     <div class="play">变量多，信心低，可空仓</div>
     <div class="logic">比利时黄金一代老化、塞内加尔两场丢 6 防线漏，势均力敌偏开放。</div>
@@ -397,6 +423,7 @@ footer a:hover{text-decoration:underline;}
       <span>📍 圣克拉拉 Levi's</span>
       <span class="venue-tag">温和偏暖</span>
     </div>
+    <div class="scorepred"><span class="sp-label">比分预测</span><span class="sp-val">1 - 1</span><span class="sp-note">AI 推演</span></div>
     <div class="pick p-safe"><span class="pick-label">推荐</span><span class="pick-text">波黑不败（受让/不让买不输）</span></div>
     <div class="play">谨慎追美国让 1</div>
     <div class="logic">东道主＋大众资金→上盘易虚高（公众无脑买东道主），价值在下盘/平。</div>
@@ -407,6 +434,7 @@ footer a:hover{text-decoration:underline;}
     <div class="day-head">
       <span class="dot"></span>7/2 周四<span class="cnt">· 3 场</span>
     </div>
+    <div class="day-parlay"><span class="dp-tag">每日串关预测</span><b class="dp-main">西班牙不败 ＋ 瑞士不败</b><span class="dp-type">2 串 1（价值版＝西不败 + 葡克平）</span></div>
     <div class="cards">
   <article class="card midhigh">
     <div class="card-top">
@@ -424,6 +452,7 @@ footer a:hover{text-decoration:underline;}
       <span>📍 英格尔伍德 SoFi</span>
       <span class="venue-tag">温和圆顶</span>
     </div>
+    <div class="scorepred"><span class="sp-label">比分预测</span><span class="sp-val">2 - 0</span><span class="sp-note">AI 推演</span></div>
     <div class="pick p-hcp"><span class="pick-label">推荐</span><span class="pick-text">西班牙让 1（让一球主胜）· 单关</span></div>
     <div class="play">备选：西班牙胜 ＋ 总进球 2-3</div>
     <div class="logic">亚马尔惊艳、本届顶级控球；奥地利高压制造麻烦但难翻盘。</div>
@@ -445,6 +474,7 @@ footer a:hover{text-decoration:underline;}
       <span>📍 多伦多 BMO</span>
       <span class="venue-tag">温和</span>
     </div>
+    <div class="scorepred"><span class="sp-label">比分预测</span><span class="sp-val">1 - 1</span><span class="sp-note">AI 推演</span></div>
     <div class="pick p-draw"><span class="pick-label">推荐</span><span class="pick-text">胜平负买「平」（不让球）</span></div>
     <div class="play">备选：总进球 ≤2 / 让球（葡让 1）买平</div>
     <div class="logic">⑦ 平价值招牌：克罗地亚低产 GD0 ＋ 世界杯拖加时/点球之王，两队巨星谢幕都保守；大众买"葡晋级"，但竞彩按 90 分钟计奖，平被系统低估。</div>
@@ -466,6 +496,7 @@ footer a:hover{text-decoration:underline;}
       <span>📍 温哥华 BC Place</span>
       <span class="venue-tag">可闭顶/中性</span>
     </div>
+    <div class="scorepred"><span class="sp-label">比分预测</span><span class="sp-val">1 - 0</span><span class="sp-note">AI 推演</span></div>
     <div class="pick p-safe"><span class="pick-label">推荐</span><span class="pick-text">瑞士不败 ＋ 总进球小球</span></div>
     
     <div class="logic">瑞士淘汰赛老练（2021 点球淘汰法国）善打闷；阿尔及利亚 0-3 输阿根廷暴露上限。</div>
@@ -476,6 +507,7 @@ footer a:hover{text-decoration:underline;}
     <div class="day-head">
       <span class="dot"></span>7/3 周五<span class="cnt">· 3 场</span>
     </div>
+    <div class="day-parlay"><span class="dp-tag">每日串关预测</span><b class="dp-main">阿根廷胜 ＋ 哥伦比亚不败</b><span class="dp-type">2 串 1（候选）</span></div>
     <div class="cards">
   <article class="card mid">
     <div class="card-top">
@@ -493,6 +525,7 @@ footer a:hover{text-decoration:underline;}
       <span>📍 阿灵顿 AT&amp;T</span>
       <span class="venue-tag">可闭顶/中性</span>
     </div>
+    <div class="scorepred"><span class="sp-label">比分预测</span><span class="sp-val">0 - 0</span><span class="sp-note">AI 推演</span></div>
     <div class="pick p-draw"><span class="pick-label">推荐</span><span class="pick-text">总进球小球（≤2）＋ 平</span></div>
     
     <div class="logic">双方超低产（澳 GF2 铁桶），闷战 0-0 进点球概率高；萨拉赫一击定胜负或 0-0。</div>
@@ -514,6 +547,7 @@ footer a:hover{text-decoration:underline;}
       <span>📍 迈阿密 Hard Rock</span>
       <span class="venue-tag hot">🔥 真高温湿·开放</span>
     </div>
+    <div class="scorepred"><span class="sp-label">比分预测</span><span class="sp-val">2 - 0</span><span class="sp-note">AI 推演</span></div>
     <div class="pick p-hcp"><span class="pick-label">推荐</span><span class="pick-text">阿根廷胜（不让球）或 让 1</span></div>
     <div class="play">警惕大众无脑追让 2</div>
     <div class="logic">佛得角必摆大巴 ＋ 迈阿密高温湿拖慢节奏 ＋ 阿根廷可能 1-0/2-0 控制→深让球（-2）难打穿。</div>
@@ -535,6 +569,7 @@ footer a:hover{text-decoration:underline;}
       <span>📍 堪萨斯城 Arrowhead</span>
       <span class="venue-tag">热但晚场→部分中和</span>
     </div>
+    <div class="scorepred"><span class="sp-label">比分预测</span><span class="sp-val">2 - 1</span><span class="sp-note">AI 推演</span></div>
     <div class="pick p-hcp"><span class="pick-label">推荐</span><span class="pick-text">哥伦比亚让 1 / 不让球买胜</span></div>
     <div class="play">总进球 2-3</div>
     <div class="logic">哈梅斯调度、技术质量占优；加纳身体速度型 GD0 偏漏。</div>
@@ -542,13 +577,9 @@ footer a:hover{text-decoration:underline;}
   </article></div>
   </div>
 
-  <h2 class="sec-title"><span class="bar"></span>串关搭配建议</h2>
-  <p class="sub" style="margin-top:-6px">每加一条腿，抽水按复利放大（2 串 1 有效抽水 ~52%，3 串 ~67%）。串关 = 小注搏彩头，不是核心策略。</p>
-  <h3 style="font-size:15px;color:var(--muted);margin:18px 0 10px;">每日推荐串（同日 · ≤3 腿 · 锚扛串 + 结构腿放晚场）</h3>
-  <div class="parlay-daily">
-    <div class="pd today"><div class="pd-d">6/29<span class="tg">今日</span></div><div class="pd-main">巴西不败 ＋ 德国小球(≤2)</div><div class="pd-type">2 串 1 · 锚 + 结构</div></div><div class="pd"><div class="pd-d">6/30</div><div class="pd-main">法国不败 ＋ 墨vs厄小球</div><div class="pd-type">2 串 1（候选·临场定）</div></div><div class="pd"><div class="pd-d">7/1</div><div class="pd-main">英格兰不败 ＋ 美国不败</div><div class="pd-type">2 串 1（候选）</div></div><div class="pd"><div class="pd-d">7/2</div><div class="pd-main">西班牙不败 ＋ 瑞士不败</div><div class="pd-type">2 串 1（价值版＝西不败 + 葡克平）</div></div><div class="pd"><div class="pd-d">7/3</div><div class="pd-main">阿根廷胜 ＋ 哥伦比亚不败</div><div class="pd-type">2 串 1（候选）</div></div>
-  </div>
-  <h3 style="font-size:15px;color:var(--muted);margin:24px 0 4px;">5 套组合（按风格）</h3>
+  <h2 class="sec-title"><span class="bar"></span>串关搭配建议（5 套组合）</h2>
+  <p class="sub" style="margin-top:-6px">每加一条腿，抽水按复利放大（2 串 1 有效抽水 ~52%，3 串 ~67%）。串关 = 小注搏彩头，不是核心策略；当日主串见各比赛日顶部。</p>
+  <h3 style="font-size:15px;color:var(--muted);margin:18px 0 4px;">按风格分类</h3>
   <div class="combos">
     <div class="combo"><div class="ct">① 最稳 · 双锚</div><div class="cb">法国不败 ＋ 西班牙不败</div><div class="cn">两大热门「不败」即过，变量最小、抽水最轻（跨日 6/30+7/2）。</div></div><div class="combo"><div class="ct">② 今日可下 · 同日</div><div class="cb">巴西不败 ＋ 德vs巴拉圭小球</div><div class="cn">一锚 + 一结构腿，两场都在 6/29，下单窗口短。</div></div><div class="combo"><div class="ct">③ 强队串 · 3 串 1（封顶）</div><div class="cb">阿根廷胜 ＋ 法国不败 ＋ 西班牙不败</div><div class="cn">三支最强对弱旅；阿根廷取「胜」不取 -2，到此别再加。</div></div><div class="combo"><div class="ct">④ 结构小球串</div><div class="cb">德vs巴拉圭小球 ＋ 澳vs埃及小球（＋可选 墨vs厄小球）</div><div class="cn">低产铁桶结构，对首发不敏感、相对耐放。</div></div><div class="combo"><div class="ct">⑤ 锚 + 价值</div><div class="cb">阿根廷胜 ＋ 葡vs克平</div><div class="cn">锚住 near-lock，加唯一一条价值腿（克罗地亚平）。</div></div>
   </div>
@@ -569,7 +600,7 @@ footer a:hover{text-decoration:underline;}
       <a href="https://www.nbcsports.com/soccer/news/2026-world-cup-group-stage-table-full-standings-for-all-12-groups" target="_blank" rel="noopener">NBC Sports</a>
       <a href="https://www.aljazeera.com/sports/2026/6/28/which-teams-have-qualified-for-the-world-cup-2026-knockouts-round-of-32" target="_blank" rel="noopener">Al Jazeera</a>
     </div>
-    <p>对阵 / 小组战绩 / 已出赛果 ＝ 真实联网数据；结构读数 / 倾向 ＝ AI 分析判断。下注前以官方与你所见为准。仅供研究记录，非投资 / 博彩建议。</p>
+    <p>对阵 / 小组战绩 / 已出赛果 ＝ 真实联网数据；结构读数 / 倾向 / <b>比分预测</b> / 每日串关 ＝ AI 分析推演（非真实赛果，竞彩按 90 分钟计奖）。下注前以官方与你所见为准。仅供研究记录，非投资 / 博彩建议。</p>
   </footer>
 </div>
 </body>
