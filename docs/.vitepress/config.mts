@@ -315,7 +315,7 @@ export default defineConfig({
           { text: '投资与财经', link: '/news/finance' }
         ]
       },
-      { text: '世界杯竞猜', link: '/lottery/' },
+      { text: '世界杯竞猜', link: '/worldcup-2026.html', target: '_self' },
       { text: '关于', link: '/pages/about' },
       { text: 'Indie', link: 'https://indie.fanweibin.cn/', target: '_blank' },
       { text: 'RSS', link: '/feed.xml', target: '_blank' }
@@ -326,20 +326,6 @@ export default defineConfig({
         {
           text: `全部文章 (${posts.length})`,
           items: posts.map((p) => ({ text: p.title, link: '/posts/' + p.slug }))
-        }
-      ],
-      '/lottery/': [
-        {
-          text: '世界杯竞猜分析',
-          items: [
-            { text: '总览与诚实声明', link: '/lottery/' },
-            { text: '10 维评分系统', link: '/lottery/scoring-framework' },
-            { text: '历史球队画像', link: '/lottery/historical-team-profiles' },
-            { text: '竞彩玩法全解', link: '/lottery/china-sports-lottery-guide' },
-            { text: '1/16 对阵基础数据', link: '/lottery/2026-r32-foundation' },
-            { text: '1/16 逐场推荐卡', link: '/lottery/2026-r32-cards' },
-            { text: '1/16 串关搭配', link: '/lottery/2026-r32-parlays' }
-          ]
         }
       ]
     },
