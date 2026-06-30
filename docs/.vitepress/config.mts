@@ -315,6 +315,7 @@ export default defineConfig({
           { text: '投资与财经', link: '/news/finance' }
         ]
       },
+      { text: '世界杯竞猜', link: '/worldcup-2026.html', target: '_self' },
       { text: '关于', link: '/pages/about' },
       { text: 'Indie', link: 'https://indie.fanweibin.cn/', target: '_blank' },
       { text: 'RSS', link: '/feed.xml', target: '_blank' }
