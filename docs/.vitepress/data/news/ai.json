@@ -3,8 +3,26 @@
   "slug": "ai",
   "title": "AI 与大模型",
   "description": "大模型、Agent、AI 编程、推理框架、开源模型的发布与落地。",
-  "updatedAt": "2026-07-01T16:55:00+08:00",
+  "updatedAt": "2026-07-01T17:10:00+08:00",
   "items": [
+    {
+      "id": "ai-20260701-002",
+      "title": "Anthropic回应Claude Code暗藏代码检测中国用户：将在明日更新中删除",
+      "summary": "开发者发现Claude Code v2.1.196版本内置代码，通过时区检测及147个中国科技与AI实验室域名列表识别中国用户，并借助细微提示词格式变化编码结果。Anthropic确认这是2026年3月的实验性反滥用措施，将在7月2日更新中彻底移除。",
+      "publishedAt": "2026-07-01T15:41:45+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/971/118.htm",
+      "subCategory": "AI编程"
+    },
+    {
+      "id": "ai-20260701-003",
+      "title": "优必选AI伴侣99万，2亿单身狗“爱”不起",
+      "summary": "优必选推出U1人形陪伴机器人系列，售价11.98万至99万元，已获13361份预订单；文章探讨了该产品在价格门槛、社会观感及情感陪伴伦理层面引发的争议，反映国内陪伴型机器人商业化面临的现实约束。",
+      "publishedAt": "2026-07-01T11:12:00+08:00",
+      "source": "36氪",
+      "url": "https://www.36kr.com/p/3875712264974336",
+      "subCategory": "具身智能"
+    },
     {
       "title": "美国放行Fable 5，Anthropic两款顶级模型将恢复访问",
       "summary": "美国商务部解除对Claude Fable 5和Mythos 5的出口管制，两款模型此前因安全漏洞担忧被限制近三周，Anthropic称将于次日起恢复全球访问。",
@@ -13,6 +31,24 @@
       "url": "https://www.163.com/tech/article/L0O813E300097U7T.html",
       "subCategory": "大模型",
       "id": "ai-20260701-001"
+    },
+    {
+      "id": "ai-20260701-004",
+      "title": "Hugging Face与Cerebras联合打造实时语音AI：Gemma 4驱动端到端方案",
+      "summary": "Hugging Face与Cerebras合作构建开放式语音对话管线，整合Parakeet语音识别、经Cerebras推理加速的Gemma 4模型及Qwen3 TTS，强调低延迟自然对话体验，该方案已应用于Reachy Mini机器人。",
+      "publishedAt": "2026-07-01",
+      "source": "Hugging Face",
+      "url": "https://huggingface.co/blog/cerebras-gemma4-voice-ai",
+      "subCategory": "AI音频"
+    },
+    {
+      "id": "ai-20260701-005",
+      "title": "消息称Kimi K3新一代国产大模型确认本月发布",
+      "summary": "月之暗面一名员工在X平台确认Kimi K3将于2026年7月发布，具体日期未定。该模型传闻参数规模约2.5万亿，超过DeepSeek V4 Pro（1.6万亿）与百度文心5.0（2.4万亿），支持百万Token上下文及多模态能力，延续6月发布的Kimi K2.7 Code。",
+      "publishedAt": "2026-07-01",
+      "source": "新浪财经",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-07-01/doc-inifihnu3004697.shtml",
+      "subCategory": "大模型"
     },
     {
       "title": "马斯克发Cursor手机版，撞档OpenClaw，AI编程App入口战打响了",
@@ -42,6 +78,51 @@
       "subCategory": "大模型"
     },
     {
+      "id": "ai-20260630-006",
+      "title": "谷歌Gemini个性化AI生图功能面向全美免费用户开放",
+      "summary": "谷歌将Nano Banana驱动的个性化图像生成功能扩展至美国全体符合条件的免费版Gemini用户（此前仅限Plus/Pro/Ultra付费用户），该功能可结合已连接的Gmail、相册、YouTube及搜索数据自动生成个性化图像。",
+      "publishedAt": "2026-06-30T07:35:52+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/970/251.htm",
+      "subCategory": "多模态"
+    },
+    {
+      "id": "ai-20260630-004",
+      "title": "Anthropic发布Claude Sonnet 5，定位“迄今最具agentic能力的Sonnet模型”",
+      "summary": "Anthropic推出Claude Sonnet 5，官方称其为迄今最具agentic能力的Sonnet系列模型，性能接近Opus 4.8但成本更低；截至8月31日提供每百万Token输入2美元、输出10美元的推介价，此后恢复至3美元/15美元标准定价。",
+      "publishedAt": "2026-06-30",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/news/claude-sonnet-5",
+      "subCategory": "大模型"
+    },
+    {
+      "id": "ai-20260630-005",
+      "title": "Anthropic推出Claude Science：面向科学家的AI工作台",
+      "summary": "Anthropic发布Claude Science测试版，面向Pro/Max/Team/Enterprise用户开放macOS及Linux平台，内置60余项预配置科学技能覆盖基因组学、蛋白质组学与结构生物学，支持可复现产出与弹性算力，并为科研项目提供最高3万美元额度申请（截至7月15日）。",
+      "publishedAt": "2026-06-30",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/news/claude-science-ai-workbench",
+      "subCategory": "AI应用"
+    },
+    {
+      "id": "ai-20260630-008",
+      "title": "IBM研究院发布ScarfBench：评测AI智能体迁移企业级Java框架能力",
+      "summary": "IBM研究院推出开放基准ScarfBench，包含34个应用、204项任务、约15.1万行代码，用于评测AI智能体在Spring、Jakarta EE、Quarkus等企业级Java框架间迁移代码的能力；测试显示当前前沿智能体真实行为成功率不足10%。",
+      "publishedAt": "2026-06-30",
+      "source": "Hugging Face（IBM Research）",
+      "url": "https://huggingface.co/blog/ibm-research/scarfbench",
+      "subCategory": "AI评测"
+    },
+    {
+      "id": "ai-20260630-007",
+      "title": "Hugging Face将“Every Eval Ever”评测结果接入模型页面",
+      "summary": "Hugging Face将EvalEval联盟推出的标准化评测框架“Every Eval Ever”（EEE）与平台社区评测功能集成，通过转换工具统一约22.9万条覆盖逾2.2万个模型的评测结果，并为已验证评测方新增标识。",
+      "publishedAt": "2026-06-30",
+      "source": "Hugging Face",
+      "url": "https://huggingface.co/blog/eee-community-evals",
+      "subCategory": "AI评测"
+    },
+    {
       "id": "ai-20260629-001",
       "title": "马斯克宣布Grok 4.5开启SpaceX与特斯拉内部私测，性能或超越Opus",
       "summary": "马斯克在X平台宣布Grok 4.5已进入SpaceX和特斯拉内部私测阶段，其测试结果显示性能或超越Claude Opus系列；xAI计划在内部测试趋于稳定后优先向SuperGrok Heavy订阅用户推送，Grok 4.5定位于当前Grok 4与更高阶版本之间的过渡升级。",
@@ -49,6 +130,42 @@
       "source": "36氪",
       "url": "https://36kr.com/newsflashes/3873481579746561",
       "subCategory": "大模型"
+    },
+    {
+      "id": "ai-20260629-002",
+      "title": "DiScoFormer：用单一Transformer同时估计数据密度与得分",
+      "summary": "艾伦人工智能研究院（AI2）提出DiScoFormer模型，可在一次前向传播中联合估计数据分布的密度与得分；在百维空间实验中，相较核密度估计方法，得分误差降低6.5倍、密度误差降低37倍。",
+      "publishedAt": "2026-06-29",
+      "source": "Hugging Face（Allen Institute for AI）",
+      "url": "https://huggingface.co/blog/allenai/discoformer",
+      "subCategory": "论文进展"
+    },
+    {
+      "id": "ai-20260629-003",
+      "title": "论文提出Agents-A1：35B参数智能体模型对标万亿参数模型表现",
+      "summary": "研究论文提出“Agents-A1”，一个350亿参数混合专家智能体模型，通过多教师领域路由的在线策略蒸馏及约4.5万Token决策链训练，在智能体基准测试中声称达到与Kimi-K2.6、DeepSeek-V4-pro等更大规模模型相当的表现。",
+      "publishedAt": "2026-06-29",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2606.30616",
+      "subCategory": "论文进展"
+    },
+    {
+      "id": "ai-20260629-004",
+      "title": "NeuWorld：基于神经隐式场景表示的交互式世界探索模型",
+      "summary": "论文提出“神经隐式场景”固定长度可渲染表示，结合名为NeuWorld的扩散Transformer实现摄像机可控的交互式视频与世界探索，在无需预训练视频模型的情况下实现长时程一致性，与具身智能及世界模型研究相关。",
+      "publishedAt": "2026-06-29",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2606.30045",
+      "subCategory": "论文进展"
+    },
+    {
+      "id": "ai-20260628-001",
+      "title": "OSWorld2.0：面向长时程真实计算机使用任务的智能体基准",
+      "summary": "新基准OSWorld2.0包含108项长时程计算机操作任务，平均每项需318次工具调用（对比OSWorld 1.0约30次）；测试发现Claude Opus 4.8等顶尖模型仅能完成20.6%的任务，暴露出流式交互与状态恢复方面的能力差距。",
+      "publishedAt": "2026-06-28",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2606.29537",
+      "subCategory": "AI评测"
     },
     {
       "id": "ai-20260627-003",
@@ -600,7 +717,7 @@
       "subCategory": "大模型"
     },
     {
-      "id": "ai-20260523-002",
+      "id": "ai-20260522-002",
       "title": "消息称 Anthropic 最快下周完成逾 300 亿美元融资，有望推动估值反超 OpenAI",
       "summary": "消息称Anthropic正推进逾300亿美元新一轮融资，最快下周完成，有望将估值推至900亿美元以上并超越OpenAI；本轮由红杉、Dragoneer等机构领投，各家计划出资约20亿美元；Anthropic Q2营收预计超109亿美元同比增速超500%，正加速IPO准备工作。",
       "publishedAt": "2026-05-23T23:12:40+08:00",
