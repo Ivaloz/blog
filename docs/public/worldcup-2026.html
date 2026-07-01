@@ -160,6 +160,29 @@ h1{margin:.25em 0 .15em;font-size:clamp(28px,5vw,46px);font-weight:800;letter-sp
 @keyframes pulse{0%,100%{opacity:1}50%{opacity:.5}}
 .rp-note{font-size:12.5px;color:var(--muted);margin:12px 0 0;}
 .rp-note b{color:var(--txt);}
+.calib{font-size:13px;color:#d7e0f0;margin:14px 0 0;background:#101a30;border:1px solid #2a3a5e;border-left:3px solid var(--accent);border-radius:11px;padding:11px 15px;}
+.calib b{color:#bcd0ff;}
+/* AI 推演依据 */
+.basis{background:#0d1526;border:1px solid var(--line);border-radius:10px;padding:0 12px;}
+.basis summary{cursor:pointer;font-size:12.5px;font-weight:700;color:#9db4ff;padding:8px 0;list-style:none;}
+.basis summary::-webkit-details-marker{display:none}
+.basis summary::before{content:'▸';margin-right:6px;color:#5a6b8c;}
+.basis[open] summary::before{content:'▾';}
+.basis-body{padding:2px 0 10px;display:flex;flex-direction:column;gap:6px;}
+.bz{display:flex;gap:8px;font-size:12px;}
+.bz-k{flex:0 0 62px;font-weight:800;color:#8ea0c4;}
+.bz-v{flex:1;color:#c2cce0;}
+/* 球队数据支撑表 */
+.tsub{font-size:13px;color:var(--muted);font-weight:600;}
+.twrap{overflow-x:auto;border:1px solid var(--line);border-radius:14px;}
+.tt{width:100%;border-collapse:collapse;font-size:13px;min-width:720px;}
+.tt thead th{position:sticky;top:0;background:#101a30;color:var(--muted);font-weight:700;text-align:left;padding:10px 12px;border-bottom:1px solid var(--line);white-space:nowrap;}
+.tt td{padding:9px 12px;border-bottom:1px solid #1a233c;color:#cfd8ea;vertical-align:top;}
+.tt tbody tr:hover{background:#131d34;}
+.tt .tm{font-weight:700;color:var(--txt);white-space:nowrap;}
+.tt .tf{margin-right:7px;font-size:17px;vertical-align:-2px;}
+.tt .tc{text-align:center;font-variant-numeric:tabular-nums;white-space:nowrap;}
+.tt .td-read{color:var(--muted);min-width:220px;}
 
 /* parlays */
 .parlay-daily{display:grid;grid-template-columns:repeat(auto-fill,minmax(220px,1fr));gap:12px;}
@@ -195,7 +218,7 @@ footer a:hover{text-decoration:underline;}
       <span class="chip">赛程 <b>6/28 – 7/3</b></span>
       <span class="chip">共 <b>16 场</b></span>
       <span class="chip">赛果更新 <b>2026-07-01</b></span>
-      <span class="chip">已赛 <b>6</b> · 延期 <b>1</b> · 待赛 <b>9</b></span>
+      <span class="chip">已赛 <b>7</b> · 待赛 <b>9</b></span>
     </div>
     <div class="warn">
       <h3>🛑 诚实声明（下注前必读）</h3>
@@ -217,11 +240,12 @@ footer a:hover{text-decoration:underline;}
 
   <h2 class="sec-title"><span class="bar"></span>战报 · 命中复盘 <span class="live-dot">LIVE</span></h2>
   <div class="report">
-    <div class="rp"><div class="rp-num">3 / 5</div><div class="rp-lb">单关（不让球）命中</div><div class="rp-sub">已赛且有推荐的场次</div></div>
-    <div class="rp"><div class="rp-num">2 <span class="u">精准</span></div><div class="rp-lb">比分预测精准命中</div><div class="rp-sub">另 1 场方向对(近似)、2 场未中</div></div>
-    <div class="rp"><div class="rp-num">6<span class="u">场</span></div><div class="rp-lb">已赛出结果</div><div class="rp-sub">延期 1(墨-厄) · 未赛 9</div></div>
+    <div class="rp"><div class="rp-num">3 / 6</div><div class="rp-lb">单关（不让球）命中</div><div class="rp-sub">已赛且有推荐的场次</div></div>
+    <div class="rp"><div class="rp-num">2 <span class="u">精准</span></div><div class="rp-lb">比分预测精准命中</div><div class="rp-sub">另 1 场方向对(近似)、3 场未中</div></div>
+    <div class="rp"><div class="rp-num">7<span class="u">场</span></div><div class="rp-lb">已赛出结果</div><div class="rp-sub">墨-厄 2-0 补赛完成 · 未赛 9</div></div>
     <div class="rp accent"><div class="rp-num">2026-07-01</div><div class="rp-lb">赛果更新时间</div><div class="rp-sub">已赛为真实赛果 · 未赛为赛前倾向</div></div>
   </div>
+  <p class="calib"><b>🔧 本轮校准（据已赛 7 场）：</b>强队几乎全兑现（法国 3-0、墨西哥 2-0、巴西 2-1）→ 未来锚腿（西班牙、阿根廷）与让球串更可信；「价值平」偏冷（德/科/墨方向的平或不败均未中）→ 葡克「平」仍是全轮最硬的平价值，但按“小注搏价值”对待，别当锁。未赛 9 场暂不改推荐，只需临场刷 ①③。</p>
   <p class="rp-note">命中口径：单关只按「胜平负（不让球）」判定（无大小球；让球只入串）。已赛比分为联网抓取的真实赛果（来源 FIFA / CBS Sports / Yahoo Sports）；竞彩按 <b>90 分钟</b>计奖——点球晋级不影响判定（德国、荷兰 90 分钟平）。<b>让球腿若入串参考：</b>法国让 1（净胜 3）命中、德国让 1 未中。未赛 9 场仍以赛前倾向为准，下注前刷 ①③。</p>
 
   <h2 class="sec-title"><span class="bar"></span>逐场赛程与预测</h2>
@@ -253,6 +277,7 @@ footer a:hover{text-decoration:underline;}
     
     <div class="logic">加拿大第 90 分钟禁区外凌空绝杀＝低概率事件，别据此追捧；但小组 GF8 攻击力是真的。看过程不看那一脚。</div>
     
+    
     <div class="review"><div class="rv-top"><span class="rv-label">实时分析</span><span class="rv-actual">实际 0 - 1</span></div><div class="rv-badges"><span class="rb na">无下注</span></div><div class="rv-text">教学样本，无下注。加拿大 1-0，正是赛前提示的“别据那一脚追捧”。</div></div>
   </article></div>
   </div>
@@ -282,6 +307,7 @@ footer a:hover{text-decoration:underline;}
     <div class="pick p-safe"><span class="pick-label">单关</span><span class="pick-text">巴西胜（不让球）</span></div>
     <div class="play">备选：日本「平」；让球别碰（-145 仅中等热门）</div>
     <div class="logic">巴西占优但非血洗，日本本届 3 战 2 平、韧性强爱逼平；盘口巴 -145 仅中等热门，别碰巴西让 1。</div>
+    <details class="basis"><summary>🧠 AI 推演依据（10 维读数）</summary><div class="basis-body"><div class="bz"><span class="bz-k">②势头</span><span class="bz-v">巴西 7 分 +6（维尼修斯双响）｜日本 5 分 +4 不败，3 战 2 平韧性强</span></div><div class="bz"><span class="bz-k">④风格</span><span class="bz-v">巴西边路爆点 vs 日本紧凑高位快反（2022 掀德/西）</span></div><div class="bz"><span class="bz-k">⑥板凳</span><span class="bz-v">巴西替补更深、末段占优</span></div><div class="bz"><span class="bz-k">③盘口</span><span class="bz-v">巴 -145 仅中等热门 → 别碰让 1</span></div><div class="bz"><span class="bz-k">结论</span><span class="bz-v">巴西胜但非血洗，取不让球胜；日本「平」可小搏</span></div></div></details>
     <div class="refresh"><span class="ref-ic">🔄</span>① 维尼修斯首发（拉菲尼亚腿筋伤缺）　③ 巴西让 1 盘是否走水</div>
     <div class="review"><div class="rv-top"><span class="rv-label">实时分析</span><span class="rv-actual">实际 2 - 1</span></div><div class="rv-badges"><span class="rb hit">✓ 推荐命中</span><span class="rb exact">◎ 比分精准</span></div><div class="rv-text">单关巴西胜命中；比分预测 2-1 精准。</div></div>
   </article>
@@ -305,6 +331,7 @@ footer a:hover{text-decoration:underline;}
     <div class="pick p-safe"><span class="pick-label">单关</span><span class="pick-text">德国胜（不让球）</span></div>
     <div class="play">搏价值可改「平」（铁桶闷平）｜让球腿：德让 1 入串</div>
     <div class="logic">巴拉圭极端铁桶 GF2；6/29 Gómez 停赛＋Alderete 存疑→大巴被削，闷平概率降、德国小胜更可能。</div>
+    <details class="basis"><summary>🧠 AI 推演依据（10 维读数）</summary><div class="basis-body"><div class="bz"><span class="bz-k">②势头</span><span class="bz-v">德国 GF10 含 7-1 库拉索注水，真实防线被厄 2-1 打穿｜巴拉圭 GF2 极端铁桶</span></div><div class="bz"><span class="bz-k">④风格</span><span class="bz-v">德国控球攻 vs 低位铁桶反击 → 让球难打穿</span></div><div class="bz"><span class="bz-k">⑦淘汰赛</span><span class="bz-v">巴拉圭善守能拖、平价值高</span></div><div class="bz"><span class="bz-k">①伤停</span><span class="bz-v">巴拉圭 Gómez 停赛 + 后防存疑 → 大巴变薄，德小胜概率升</span></div><div class="bz"><span class="bz-k">结论</span><span class="bz-v">德国控场小胜或被闷平；让 1 只入串</span></div></div></details>
     <div class="refresh"><span class="ref-ic">🔄</span>① 德国后防伤停（Schlotterbeck 赛季报销）　③ 让球深浅（让 2＝陷阱）</div>
     <div class="review"><div class="rv-top"><span class="rv-label">实时分析</span><span class="rv-actual">实际 1 - 1</span><span class="pens">巴拉圭点球 4-3 晋级</span></div><div class="rv-badges"><span class="rb miss">✗ 推荐未中</span><span class="rb miss">✗ 比分未中</span></div><div class="rv-text">单关德国胜未中——90 分钟 1-1，铁桶拖进点球（若打「平」则中）。</div></div>
   </article>
@@ -328,6 +355,7 @@ footer a:hover{text-decoration:underline;}
     <div class="pick p-draw"><span class="pick-label">单关</span><span class="pick-text">「平」（不让球）</span></div>
     <div class="play">偏开放，搏客可选摩洛哥客胜；避免荷兰让球</div>
     <div class="logic">6/29 确认满血技术型摩洛哥（哈基米/Brahim 全首发）非 2022 铁桶→比赛偏开放；摩洛哥防反不易输，高温仍利摩。</div>
+    <details class="basis"><summary>🧠 AI 推演依据（10 维读数）</summary><div class="basis-body"><div class="bz"><span class="bz-k">②势头</span><span class="bz-v">荷兰 GF10 锋线火热 vs 摩洛哥精英防守（2022 四强）</span></div><div class="bz"><span class="bz-k">④风格</span><span class="bz-v">6/29 满血技术型摩洛哥（哈基米/Brahim 全首发），非 2022 铁桶 → 偏开放</span></div><div class="bz"><span class="bz-k">⑧场地</span><span class="bz-v">蒙特雷真高温、开放球场 → 利摩防反</span></div><div class="bz"><span class="bz-k">⑤历史</span><span class="bz-v">2022 两队未交手，旧「重演」叙事作废</span></div><div class="bz"><span class="bz-k">结论</span><span class="bz-v">摩洛哥不败有价值；避免荷兰让 1</span></div></div></details>
     <div class="refresh"><span class="ref-ic">🔄</span>① 双方主力齐整　③ FIFA 是否高温关顶 ＋ 盘口</div>
     <div class="review"><div class="rv-top"><span class="rv-label">实时分析</span><span class="rv-actual">实际 1 - 1</span><span class="pens">摩洛哥点球 3-2 晋级</span></div><div class="rv-badges"><span class="rb hit">✓ 推荐命中</span><span class="rb exact">◎ 比分精准</span></div><div class="rv-text">单关「平」命中；比分预测 1-1 精准；摩洛哥点球晋级。</div></div>
   </article></div>
@@ -358,6 +386,7 @@ footer a:hover{text-decoration:underline;}
     <div class="pick p-safe"><span class="pick-label">单关</span><span class="pick-text">「平」/ 挪威客胜（不让球）</span></div>
     <div class="play">开放对攻、难判，信心低，可空仓</div>
     <div class="logic">两队都能攻都漏（挪威 3-2 塞内加尔防线漏），开放对攻、进球多。</div>
+    <details class="basis"><summary>🧠 AI 推演依据（10 维读数）</summary><div class="basis-body"><div class="bz"><span class="bz-k">②势头</span><span class="bz-v">挪威哈兰德火力但 3-2 塞内加尔防线漏｜科特迪瓦佩佩身体强硬</span></div><div class="bz"><span class="bz-k">④风格</span><span class="bz-v">两队都能攻都漏 → 开放对攻</span></div><div class="bz"><span class="bz-k">⑧场地</span><span class="bz-v">AT&amp;T 可闭顶 AC、中性，别套高温</span></div><div class="bz"><span class="bz-k">结论</span><span class="bz-v">进球多、胜负难分；单关信心低</span></div></div></details>
     <div class="refresh"><span class="ref-ic">🔄</span>① 哈兰德首发/状态（缺则倾向平、低比分）　③ AT&amp;T 开闭顶</div>
     <div class="review"><div class="rv-top"><span class="rv-label">实时分析</span><span class="rv-actual">实际 1 - 2</span></div><div class="rv-badges"><span class="rb miss">✗ 推荐未中</span><span class="rb miss">✗ 比分未中</span></div><div class="rv-text">两队对攻共 3 球如预期；单关「平」未中，挪威 1-2 客胜。</div></div>
   </article>
@@ -381,6 +410,7 @@ footer a:hover{text-decoration:underline;}
     <div class="pick p-safe"><span class="pick-label">单关</span><span class="pick-text">法国胜（不让球）</span></div>
     <div class="play">让球腿：法国让 1 入串（强强串首选）</div>
     <div class="logic">本届最强（+8，姆巴佩连续梅开二度）vs 瑞典漏勺三档，实力差兑现。</div>
+    <details class="basis"><summary>🧠 AI 推演依据（10 维读数）</summary><div class="basis-body"><div class="bz"><span class="bz-k">②势头</span><span class="bz-v">法国 9 分 +8 数据最强（姆巴佩连续梅开二度）｜瑞典 GF7 含注水、三档进级</span></div><div class="bz"><span class="bz-k">④风格</span><span class="bz-v">法国全面碾压 + 深板凳 vs 瑞典身体有限</span></div><div class="bz"><span class="bz-k">⑦淘汰赛</span><span class="bz-v">实力差大、平价值低</span></div><div class="bz"><span class="bz-k">结论</span><span class="bz-v">法国大胜，让 1（串）兑现实力差</span></div></div></details>
     <div class="refresh"><span class="ref-ic">🔄</span>① 法国是否轮换主力　③ 让球是否被推到让 2</div>
     <div class="review"><div class="rv-top"><span class="rv-label">实时分析</span><span class="rv-actual">实际 3 - 0</span></div><div class="rv-badges"><span class="rb hit">✓ 推荐命中</span><span class="rb near">≈ 比分近似</span></div><div class="rv-text">单关法国胜命中(3-0)；让球腿法国让 1 亦中(净胜 3)；比分预测 2-0 方向对。</div></div>
   </article>
@@ -393,7 +423,7 @@ footer a:hover{text-decoration:underline;}
     </div>
     <div class="teams">
       <div class="team"><span class="flag">🇲🇽</span><span class="tname">墨西哥</span></div>
-      <span class="vs delayed">延期</span>
+      <span class="score">2 - 0</span>
       <div class="team"><span class="flag">🇪🇨</span><span class="tname">厄瓜多尔</span></div>
     </div>
     <div class="venue">
@@ -404,8 +434,9 @@ footer a:hover{text-decoration:underline;}
     <div class="pick p-safe"><span class="pick-label">单关</span><span class="pick-text">厄瓜多尔不败 /「平」（不让球）</span></div>
     <div class="play">避免墨西哥让球（主场盘虚高，且让球只入串）</div>
     <div class="logic">厄瓜多尔掀过德国、主场 Quito 2850m 更高原不怵海拔、善守；低比分，平价值高。</div>
+    <details class="basis"><summary>🧠 AI 推演依据（10 维读数）</summary><div class="basis-body"><div class="bz"><span class="bz-k">②势头</span><span class="bz-v">墨西哥 9 分 +6 完美东道主 vs 厄瓜多尔 2-1 掀德国、善守</span></div><div class="bz"><span class="bz-k">⑧场地</span><span class="bz-v">海拔 2240m，但厄主场 Quito 2850m 更高 → 海拔优势被中和</span></div><div class="bz"><span class="bz-k">⑨心理</span><span class="bz-v">墨东道主主场双刃</span></div><div class="bz"><span class="bz-k">③盘口</span><span class="bz-v">原判主场盘或虚高 → 实际墨完全掌控，盘不虚</span></div></div></details>
     <div class="refresh"><span class="ref-ic">🔄</span>① 厄瓜多尔后防伤停　③ 墨西哥让球盘异动看下盘价值</div>
-    <div class="review delayed"><div class="rv-top"><span class="rv-label">实时分析</span><span class="rb pend">⏳ 延期待定</span></div><div class="rv-text">Azteca 雷暴延期，最终比分待定；推荐(厄瓜多尔不败/平)待验证。</div></div>
+    <div class="review"><div class="rv-top"><span class="rv-label">实时分析</span><span class="rv-actual">实际 2 - 0</span></div><div class="rv-badges"><span class="rb miss">✗ 推荐未中</span><span class="rb miss">✗ 比分未中</span></div><div class="rv-text">雷暴延期后开打，墨西哥主场 2-0 碾压（第 22、31 分钟）；单关厄不败未中——主场盘不虚、厄防线被打穿。</div></div>
   </article></div>
   </div>
   <div class="day">
@@ -434,6 +465,7 @@ footer a:hover{text-decoration:underline;}
     <div class="pick p-safe"><span class="pick-label">单关</span><span class="pick-text">英格兰胜（不让球）</span></div>
     <div class="play">闷战低比分｜让球腿：英让 1 入串（谨慎）</div>
     <div class="logic">英格兰淘汰赛保守基因著名、爱拖加时/点球，可能又踢闷；刚果黑马身体冲击。</div>
+    <details class="basis"><summary>🧠 AI 推演依据（10 维读数）</summary><div class="basis-body"><div class="bz"><span class="bz-k">②势头</span><span class="bz-v">英格兰 7 分 +4 稳但一贯闷｜刚果(金) 队史首次淘汰赛、身体冲击</span></div><div class="bz"><span class="bz-k">⑦淘汰赛</span><span class="bz-v">英格兰保守基因著名、爱拖加时/点球（2018/2022）</span></div><div class="bz"><span class="bz-k">⑧场地</span><span class="bz-v">亚特兰大圆顶 AC、中性</span></div><div class="bz"><span class="bz-k">结论</span><span class="bz-v">英赢面大但闷、低比分</span></div></div></details>
     <div class="refresh"><span class="ref-ic">🔄</span>① 贝林厄姆/凯恩/萨卡首发　③ 英格兰让球深浅</div>
     
   </article>
@@ -457,6 +489,7 @@ footer a:hover{text-decoration:underline;}
     <div class="pick p-safe"><span class="pick-label">单关</span><span class="pick-text">比利时胜 /「平」（不让球·信心低）</span></div>
     <div class="play">势均力敌偏开放，变量多可空仓</div>
     <div class="logic">比利时黄金一代老化、塞内加尔两场丢 6 防线漏，势均力敌偏开放。</div>
+    <details class="basis"><summary>🧠 AI 推演依据（10 维读数）</summary><div class="basis-body"><div class="bz"><span class="bz-k">②势头</span><span class="bz-v">比利时黄金一代老化（5-1 新西兰注水）｜塞内加尔两场丢 6 防线漏</span></div><div class="bz"><span class="bz-k">④风格</span><span class="bz-v">技术老化 vs 身体爆发</span></div><div class="bz"><span class="bz-k">⑦淘汰赛</span><span class="bz-v">两队都漏都想赢 → 偏开放</span></div><div class="bz"><span class="bz-k">结论</span><span class="bz-v">势均力敌、变量多，信心低可空仓</span></div></div></details>
     <div class="refresh"><span class="ref-ic">🔄</span>① 德布劳内/卢卡库状态　③ 盘口</div>
     
   </article>
@@ -480,6 +513,7 @@ footer a:hover{text-decoration:underline;}
     <div class="pick p-safe"><span class="pick-label">单关</span><span class="pick-text">「平」/ 波黑客胜（不让球）</span></div>
     <div class="play">搏东道主盘虚高｜让球腿：波黑受让入串</div>
     <div class="logic">东道主＋大众资金→上盘易虚高（公众无脑买东道主），价值在下盘/平。</div>
+    <details class="basis"><summary>🧠 AI 推演依据（10 维读数）</summary><div class="basis-body"><div class="bz"><span class="bz-k">②势头</span><span class="bz-v">美国东道主 6 分 +4 本届不错｜波黑哲科支点、身体硬</span></div><div class="bz"><span class="bz-k">⑨③</span><span class="bz-v">东道主 + 大众资金 → 上盘易虚高</span></div><div class="bz"><span class="bz-k">④风格</span><span class="bz-v">美主场提速 vs 波黑老练身体</span></div><div class="bz"><span class="bz-k">结论</span><span class="bz-v">价值在下盘/平，波黑受让（串）搏虚高</span></div></div></details>
     <div class="refresh"><span class="ref-ic">🔄</span>① 普利西奇/哲科首发　③ 重点看美国让球是否被大众资金推高</div>
     
   </article></div>
@@ -510,6 +544,7 @@ footer a:hover{text-decoration:underline;}
     <div class="pick p-safe"><span class="pick-label">单关</span><span class="pick-text">西班牙胜（不让球）</span></div>
     <div class="play">让球腿：西班牙让 1 入串</div>
     <div class="logic">亚马尔惊艳、本届顶级控球；奥地利高压制造麻烦但难翻盘。</div>
+    <details class="basis"><summary>🧠 AI 推演依据（10 维读数）</summary><div class="basis-body"><div class="bz"><span class="bz-k">②势头</span><span class="bz-v">西班牙 7 分 +5 亚马尔顶级控球｜奥地利高压逼抢、末轮进级</span></div><div class="bz"><span class="bz-k">④风格</span><span class="bz-v">tiki-taka 控球 vs 高压逼抢（能恶心强队）</span></div><div class="bz"><span class="bz-k">⑦淘汰赛</span><span class="bz-v">西在状态、平价值低</span></div><div class="bz"><span class="bz-k">结论</span><span class="bz-v">西控场赢面大；让 1 入串</span></div></div></details>
     <div class="refresh"><span class="ref-ic">🔄</span>① 亚马尔/佩德里首发　③ 西班牙让球 半/一</div>
     
   </article>
@@ -533,6 +568,7 @@ footer a:hover{text-decoration:underline;}
     <div class="pick p-draw"><span class="pick-label">单关</span><span class="pick-text">「平」（不让球）</span></div>
     <div class="play">全轮金矿，单关可打｜让球腿：葡让 1 买平入串</div>
     <div class="logic">⑦ 平价值招牌：克罗地亚低产 GD0 ＋ 世界杯拖加时/点球之王，两队巨星谢幕都保守；大众买"葡晋级"，但竞彩按 90 分钟计奖，平被系统低估。</div>
+    <details class="basis"><summary>🧠 AI 推演依据（10 维读数）</summary><div class="basis-body"><div class="bz"><span class="bz-k">②势头</span><span class="bz-v">葡萄牙 GD+5 底子强（小组 0-0 平哥伦比亚）｜克罗地亚 GD0 低产</span></div><div class="bz"><span class="bz-k">⑦淘汰赛</span><span class="bz-v">克罗地亚拖加时/点球之王（2018/2022 多次），两队淘汰赛都老练保守</span></div><div class="bz"><span class="bz-k">⑨叙事</span><span class="bz-v">C 罗 + 莫德里奇双谢幕战，都不愿冒进</span></div><div class="bz"><span class="bz-k">⑩校准</span><span class="bz-v">克 GD0 低产真实；葡只拿小组第二</span></div><div class="bz"><span class="bz-k">结论</span><span class="bz-v">90 分钟「平」被系统低估（大众买晋级 ≠ 90 分钟赢）— 全轮金矿</span></div></div></details>
     <div class="refresh"><span class="ref-ic">🔄</span>① C 罗/莫德里奇首发　③ 平赔是否偏高（偏高＝价值更大）</div>
     
   </article>
@@ -556,6 +592,7 @@ footer a:hover{text-decoration:underline;}
     <div class="pick p-safe"><span class="pick-label">单关</span><span class="pick-text">瑞士胜 /「平」（不让球）</span></div>
     <div class="play">瑞士淘汰赛老练、善打闷</div>
     <div class="logic">瑞士淘汰赛老练（2021 点球淘汰法国）善打闷；阿尔及利亚 0-3 输阿根廷暴露上限。</div>
+    <details class="basis"><summary>🧠 AI 推演依据（10 维读数）</summary><div class="basis-body"><div class="bz"><span class="bz-k">②势头</span><span class="bz-v">瑞士 7 分 +4 不败（2-1 胜加拿大）｜阿尔及利亚 0-3 输阿根廷暴露上限</span></div><div class="bz"><span class="bz-k">⑦淘汰赛</span><span class="bz-v">瑞士淘汰赛老练（2021 点球淘汰法国）、善打闷</span></div><div class="bz"><span class="bz-k">⑧场地</span><span class="bz-v">BC Place 圆顶、中性</span></div><div class="bz"><span class="bz-k">结论</span><span class="bz-v">瑞士不败、低比分</span></div></div></details>
     <div class="refresh"><span class="ref-ic">🔄</span>① 扎卡/瑞士主力　③ 盘口</div>
     
   </article></div>
@@ -586,6 +623,7 @@ footer a:hover{text-decoration:underline;}
     <div class="pick p-draw"><span class="pick-label">单关</span><span class="pick-text">「平」（不让球）</span></div>
     <div class="play">闷战，0-0 进点球概率高</div>
     <div class="logic">双方超低产（澳 GF2 铁桶），闷战 0-0 进点球概率高；萨拉赫一击定胜负或 0-0。</div>
+    <details class="basis"><summary>🧠 AI 推演依据（10 维读数）</summary><div class="basis-body"><div class="bz"><span class="bz-k">②势头</span><span class="bz-v">澳大利亚 GF2 超低产铁桶（0-0 巴拉圭）｜埃及萨拉赫 X 因素</span></div><div class="bz"><span class="bz-k">④风格</span><span class="bz-v">体能纪律铁桶 vs 个人能力</span></div><div class="bz"><span class="bz-k">⑦淘汰赛</span><span class="bz-v">平价值高、0-0 进点球概率高</span></div><div class="bz"><span class="bz-k">结论</span><span class="bz-v">低比分闷战、「平」</span></div></div></details>
     <div class="refresh"><span class="ref-ic">🔄</span>① 萨拉赫首发状态（最关键）　③ 盘口</div>
     
   </article>
@@ -609,6 +647,7 @@ footer a:hover{text-decoration:underline;}
     <div class="pick p-safe"><span class="pick-label">单关</span><span class="pick-text">阿根廷胜（不让球）</span></div>
     <div class="play">让球腿：阿让 1 入串，别碰让 2</div>
     <div class="logic">佛得角必摆大巴 ＋ 迈阿密高温湿拖慢节奏 ＋ 阿根廷可能 1-0/2-0 控制→深让球（-2）难打穿。</div>
+    <details class="basis"><summary>🧠 AI 推演依据（10 维读数）</summary><div class="basis-body"><div class="bz"><span class="bz-k">②势头</span><span class="bz-v">阿根廷 9 分 +7 卫冕冠军碾压（梅西帽子戏法）｜佛得角黑马、必摆大巴</span></div><div class="bz"><span class="bz-k">⑦⑧</span><span class="bz-v">佛铁桶 + 迈阿密高温湿拖慢节奏 → 深让球（-2）难打穿</span></div><div class="bz"><span class="bz-k">⑨叙事</span><span class="bz-v">梅西谢幕，可能轮换/控节奏</span></div><div class="bz"><span class="bz-k">结论</span><span class="bz-v">阿必胜但未必大胜，取不让球胜或让 1（串）、别碰让 2</span></div></div></details>
     <div class="refresh"><span class="ref-ic">🔄</span>① 梅西/主力是否轮换　③ 让球深浅，深盘则佛得角受让有价值</div>
     
   </article>
@@ -632,6 +671,7 @@ footer a:hover{text-decoration:underline;}
     <div class="pick p-safe"><span class="pick-label">单关</span><span class="pick-text">哥伦比亚胜（不让球）</span></div>
     <div class="play">让球腿：哥让 1 入串</div>
     <div class="logic">哈梅斯调度、技术质量占优；加纳身体速度型 GD0 偏漏。</div>
+    <details class="basis"><summary>🧠 AI 推演依据（10 维读数）</summary><div class="basis-body"><div class="bz"><span class="bz-k">②势头</span><span class="bz-v">哥伦比亚 6 分 +3 哈梅斯调度、稳｜加纳 GD0 身体速度型、偏漏</span></div><div class="bz"><span class="bz-k">④风格</span><span class="bz-v">技术 + 调度 vs 身体速度</span></div><div class="bz"><span class="bz-k">⑧场地</span><span class="bz-v">KC 高温但 9:30pm 晚场 → 部分中和</span></div><div class="bz"><span class="bz-k">结论</span><span class="bz-v">哥质量占优；让 1 入串</span></div></div></details>
     <div class="refresh"><span class="ref-ic">🔄</span>① 哈梅斯首发状态（关键）　③ 盘口</div>
     
   </article></div>
@@ -642,6 +682,17 @@ footer a:hover{text-decoration:underline;}
   <h3 style="font-size:15px;color:var(--muted);margin:18px 0 4px;">按风格分类</h3>
   <div class="combos">
     <div class="combo"><div class="ct">① 双锚让球串 · 最稳</div><div class="cb">法国让 1 ＋ 西班牙让 1</div><div class="cn">两大热门让 1——让球正好入串；强强对弱旅，变量小（跨日 6/30+7/2）。</div></div><div class="combo"><div class="ct">② 今日可下 · 同日</div><div class="cb">巴西不败 ＋ 摩洛哥不败</div><div class="cn">一锚一价值，两场都在 6/29，下单窗口短。</div></div><div class="combo"><div class="ct">③ 强队让球 · 3 串 1（封顶）</div><div class="cb">阿根廷让 1 ＋ 法国让 1 ＋ 西班牙让 1</div><div class="cn">三支最强对弱旅；阿根廷取让 1、不碰让 2，到此别再加。</div></div><div class="combo"><div class="ct">④ 价值平局串（≤2 平）</div><div class="cb">葡克「平」＋ 澳埃「平」</div><div class="cn">两场闷平价值；平本就 ~28%，最多 2 条，别再加第三条平。</div></div><div class="combo"><div class="ct">⑤ 锚 + 价值</div><div class="cb">阿根廷让 1 ＋ 葡克「平」</div><div class="cn">锚住让 1 near-lock，加唯一一条价值腿（葡克平）。</div></div>
+  </div>
+
+  <h2 class="sec-title"><span class="bar"></span>球队数据支撑表 <span class="tsub">（喂未来再次预测）</span></h2>
+  <p class="sub" style="margin-top:-6px">小组赛最终数据 + 结构标签，按积分/净胜球排序。下次预测某队时，先查这里的底子（②势头 / ④风格 / 关键球员），再叠加当场的 ①伤停 / ③盘口 / ⑧场地。</p>
+  <div class="twrap">
+    <table class="tt">
+      <thead><tr><th>队</th><th>积分</th><th>净胜球</th><th>打法风格 ④</th><th>关键球员</th><th>本届读数 ②/⑩</th></tr></thead>
+      <tbody>
+        <tr><td class="tm"><span class="tf">🇫🇷</span>法国</td><td class="tc">9</td><td class="tc">+8</td><td>全面碾压 + 深板凳</td><td>姆巴佩</td><td class="td-read">数据最强，姆巴佩连续梅开二度</td></tr><tr><td class="tm"><span class="tf">🇦🇷</span>阿根廷</td><td class="tc">9</td><td class="tc">+7</td><td>冠军全面</td><td>梅西</td><td class="td-read">卫冕碾压，梅西队史第一射手(18 球)</td></tr><tr><td class="tm"><span class="tf">🇲🇽</span>墨西哥</td><td class="tc">9</td><td class="tc">+6</td><td>东道主控球</td><td>Jiménez/Quiñones/Mora</td><td class="td-read">完美 3 战全胜 + 主场，R32 2-0 厄</td></tr><tr><td class="tm"><span class="tf">🇪🇸</span>西班牙</td><td class="tc">7</td><td class="tc">+5</td><td>tiki-taka 控球</td><td>亚马尔/佩德里</td><td class="td-read">亚马尔惊艳，本届顶级控球</td></tr><tr><td class="tm"><span class="tf">🇳🇱</span>荷兰</td><td class="tc">7</td><td class="tc">+6</td><td>控球 + 高效锋线</td><td>加克波/德佩</td><td class="td-read">锋线火热 GF10，非“闷”荷兰</td></tr><tr><td class="tm"><span class="tf">🏴</span>英格兰</td><td class="tc">7</td><td class="tc">+4</td><td>球星多但保守</td><td>贝林厄姆/凯恩/萨卡</td><td class="td-read">稳但一贯闷（淘汰赛保守基因）</td></tr><tr><td class="tm"><span class="tf">🇨🇭</span>瑞士</td><td class="tc">7</td><td class="tc">+4</td><td>组织纪律</td><td>扎卡</td><td class="td-read">不败，2-1 力克加拿大</td></tr><tr><td class="tm"><span class="tf">🇧🇷</span>巴西</td><td class="tc">7</td><td class="tc">+6</td><td>边路爆点</td><td>维尼修斯/拉菲尼亚(伤)</td><td class="td-read">维尼修斯双响，R32 2-1 日本</td></tr><tr><td class="tm"><span class="tf">🇲🇦</span>摩洛哥</td><td class="tc">7</td><td class="tc">+3</td><td>精英防守 + 技术</td><td>哈基米/Brahim/拉希米</td><td class="td-read">稳 + 2022 四强底子，点球淘汰荷兰</td></tr><tr><td class="tm"><span class="tf">🇩🇪</span>德国</td><td class="tc">6</td><td class="tc">+6</td><td>控球攻但防线漏</td><td>Wirtz/Musiala/Havertz</td><td class="td-read">GF10 注水(7-1 库拉索)，防线被厄打穿，点球出局</td></tr><tr><td class="tm"><span class="tf">🇺🇸</span>美国</td><td class="tc">6</td><td class="tc">+4</td><td>东道主提速</td><td>普利西奇</td><td class="td-read">本届不错(4-1 巴拉圭)，东道主主场</td></tr><tr><td class="tm"><span class="tf">🇨🇴</span>哥伦比亚</td><td class="tc">6</td><td class="tc">+3</td><td>技术 + 调度</td><td>哈梅斯</td><td class="td-read">哈梅斯调度、稳；小组 0-0 平葡萄牙</td></tr><tr><td class="tm"><span class="tf">🇨🇮</span>科特迪瓦</td><td class="tc">6</td><td class="tc">+2</td><td>身体强硬 + 反击</td><td>佩佩</td><td class="td-read">佩佩双响，身体强硬</td></tr><tr><td class="tm"><span class="tf">🇳🇴</span>挪威</td><td class="tc">6</td><td class="tc">+1</td><td>火力强但防守软</td><td>哈兰德/厄德高尔</td><td class="td-read">哈兰德火力，3-2 塞防线漏；R32 2-1 胜科</td></tr><tr><td class="tm"><span class="tf">🇧🇪</span>比利时</td><td class="tc">5</td><td class="tc">+3</td><td>技术老化</td><td>德布劳内/卢卡库</td><td class="td-read">5-1 新西兰(注水)，黄金一代老化</td></tr><tr><td class="tm"><span class="tf">🇪🇬</span>埃及</td><td class="tc">5</td><td class="tc">+2</td><td>萨拉赫单核</td><td>萨拉赫</td><td class="td-read">队史首次淘汰赛，靠萨拉赫</td></tr><tr><td class="tm"><span class="tf">🇯🇵</span>日本</td><td class="tc">5</td><td class="tc">+4</td><td>紧凑高位快反</td><td>久保/远藤</td><td class="td-read">不败(4-0 突尼斯)，组织好，R32 1-2 负巴西</td></tr><tr><td class="tm"><span class="tf">🇵🇹</span>葡萄牙</td><td class="tc">4</td><td class="tc">+5</td><td>球星攻但低产</td><td>C 罗/B 费</td><td class="td-read">GD+5 底子强，C 罗谢幕，小组 0-0 平哥</td></tr><tr><td class="tm"><span class="tf">🇭🇷</span>克罗地亚</td><td class="tc">6</td><td class="tc">0</td><td>中场控制 + 消耗</td><td>莫德里奇</td><td class="td-read">低产 GD0，莫德里奇谢幕，拖加时/点球之王</td></tr><tr><td class="tm"><span class="tf">🇪🇨</span>厄瓜多尔</td><td class="tc">4</td><td class="tc">0</td><td>结实低位 + 高原</td><td>—</td><td class="td-read">爆冷 2-1 掀德国，防守组织好；R32 0-2 负墨</td></tr><tr><td class="tm"><span class="tf">🇦🇹</span>奥地利</td><td class="tc">4</td><td class="tc">0</td><td>高压逼抢</td><td>—(朗尼克)</td><td class="td-read">朗尼克高压逼抢</td></tr><tr><td class="tm"><span class="tf">🇦🇺</span>澳大利亚</td><td class="tc">4</td><td class="tc">0</td><td>铁桶低产</td><td>—</td><td class="td-read">超低产 GF2，铁桶(0-0 巴拉圭)</td></tr><tr><td class="tm"><span class="tf">🇵🇾</span>巴拉圭</td><td class="tc">4</td><td class="tc">-2</td><td>极端铁桶 + 反击</td><td>—</td><td class="td-read">GF2，10 人仍 1-0 赢土耳其；R32 点球淘汰德</td></tr><tr><td class="tm"><span class="tf">🇸🇪</span>瑞典</td><td class="tc">4</td><td class="tc">0</td><td>身体直接但漏</td><td>—</td><td class="td-read">GF7 但漏(5-1 突尼斯注水)，R32 0-3 负法</td></tr><tr><td class="tm"><span class="tf">🇸🇳</span>塞内加尔</td><td class="tc">4</td><td class="tc">—</td><td>身体爆发但漏</td><td>—</td><td class="td-read">5-0 伊拉克进级，两场丢 6 防线漏</td></tr><tr><td class="tm"><span class="tf">🇩🇿</span>阿尔及利亚</td><td class="tc">4</td><td class="tc">-2</td><td>个人技术 flair</td><td>—</td><td class="td-read">0-3 输阿根廷暴露上限</td></tr><tr><td class="tm"><span class="tf">🇬🇭</span>加纳</td><td class="tc">4</td><td class="tc">0</td><td>身体速度型</td><td>—</td><td class="td-read">身体速度型，偏漏</td></tr><tr><td class="tm"><span class="tf">🇨🇩</span>刚果(金)</td><td class="tc">4</td><td class="tc">+1</td><td>身体冲击</td><td>—</td><td class="td-read">队史首次淘汰赛，身体冲击</td></tr><tr><td class="tm"><span class="tf">🇧🇦</span>波黑</td><td class="tc">4</td><td class="tc">-1</td><td>哲科支点、身体硬</td><td>哲科</td><td class="td-read">3-1 卡塔尔，身体硬</td></tr><tr><td class="tm"><span class="tf">🇨🇻</span>佛得角</td><td class="tc">3</td><td class="tc">0</td><td>摆大巴黑马</td><td>—</td><td class="td-read">奇迹淘汰乌拉圭，首次参赛，必摆大巴</td></tr><tr><td class="tm"><span class="tf">🇨🇦</span>加拿大</td><td class="tc">4</td><td class="tc">+5</td><td>攻击力强(GF8)</td><td>—</td><td class="td-read">6-0 卡塔尔，R32 90 分钟绝杀 1-0 南非</td></tr><tr><td class="tm"><span class="tf">🇿🇦</span>南非</td><td class="tc">4</td><td class="tc">-1</td><td>—</td><td>—</td><td class="td-read">小组第二进级，R32 0-1 负加拿大出局</td></tr>
+      </tbody>
+    </table>
   </div>
 
   <footer>
