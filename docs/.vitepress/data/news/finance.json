@@ -3,8 +3,53 @@
   "slug": "finance",
   "title": "投资与财经",
   "description": "宏观经济、A 股 / 港股 / 美股、一级市场融资、行业研报观点。",
-  "updatedAt": "2026-07-01T09:15:00+08:00",
+  "updatedAt": "2026-07-01T16:55:00+08:00",
   "items": [
+    {
+      "title": "睿心医疗完成亿元级别融资",
+      "summary": "深圳睿心智能医疗科技有限公司宣布完成新一轮战略融资，规模近亿元，由海河产业基金、中丽基金两家市区两级国有产业资本联合投资。",
+      "publishedAt": "2026-07-01T15:35:34+08:00",
+      "source": "投中网",
+      "url": "https://www.chinaventure.com.cn/flash/20260701-89833.html",
+      "subCategory": "一级市场",
+      "id": "finance-20260701-004"
+    },
+    {
+      "title": "天使轮超1亿美元，前大疆高管入局消费级具身机器人",
+      "summary": "求之科技完成超1亿美元天使轮融资，创下消费级具身机器人赛道单笔天使轮融资纪录，投资方包括君联资本、联想创投、普华资本等多家机构。",
+      "publishedAt": "2026-07-01T14:38:36+08:00",
+      "source": "投中网",
+      "url": "https://www.chinaventure.com.cn/flash/20260701-89830.html",
+      "subCategory": "一级市场",
+      "id": "finance-20260701-003"
+    },
+    {
+      "title": "NIKE, Inc. Reports Fiscal 2026 Fourth Quarter and Full Year Results",
+      "summary": "耐克公布2026财年第四季度及全年财报，第四季度营收110亿美元同比降1%，净利润11亿美元同比增407%，主因关税退税收益推高毛利率至49.2%。",
+      "publishedAt": "2026-07-01T07:15:00+08:00",
+      "source": "StockTitan",
+      "url": "https://www.stocktitan.net/news/NKE/nike-inc-reports-fiscal-2026-fourth-quarter-and-full-year-vo6vsgsd31yl.html",
+      "subCategory": "公司财报",
+      "id": "finance-20260701-002"
+    },
+    {
+      "title": "Gold Stays Close to 8-Month Low",
+      "summary": "黄金价格7月1日报3973.84美元/盎司，日内下跌0.85%，受美国就业数据强于预期影响，市场对美联储加息预期升温，金价维持在近八个月低位附近。",
+      "publishedAt": "2026-07-01",
+      "source": "Trading Economics",
+      "url": "https://tradingeconomics.com/commodity/gold",
+      "subCategory": "大宗商品",
+      "id": "finance-20260701-001"
+    },
+    {
+      "title": "市值破万亿后，寒武纪深夜提示风险",
+      "summary": "寒武纪股价突破万亿市值后发布风险提示公告，称当前滚动市盈率368.97倍、市净率77.88倍显著高于行业水平，公司及子公司被列入实体清单对供应链存在影响。",
+      "publishedAt": "2026-06-30T22:21:00+08:00",
+      "source": "东方财富网",
+      "url": "https://finance.eastmoney.com/a/202606303788696971.html",
+      "subCategory": "风险事件",
+      "id": "finance-20260630-005"
+    },
     {
       "id": "finance-20260630-003",
       "title": "紧急预警！三大突发变数袭来！韩国股市，出啥事儿了？",
@@ -22,6 +67,15 @@
       "source": "第一财经",
       "url": "https://finance.eastmoney.com/a/202606303788615552.html",
       "subCategory": "大宗商品"
+    },
+    {
+      "title": "益生股份，上半年净利最多预增超8700%",
+      "summary": "益生股份发布2026年半年度业绩预告，预计归母净利润2.7亿至3亿元，同比增长4286.61%至4774.01%，主因白羽肉鸡行业景气度上行，父母代鸡苗量价齐升。",
+      "publishedAt": "2026-06-30T20:06:00+08:00",
+      "source": "证券时报",
+      "url": "https://www.stcn.com/article/detail/3990037.html",
+      "subCategory": "公司财报",
+      "id": "finance-20260630-004"
     },
     {
       "id": "finance-20260630-001",
@@ -670,60 +724,6 @@
       "source": "IT之家",
       "url": "https://www.ithome.com/0/955/647.htm",
       "subCategory": "风险事件"
-    },
-    {
-      "id": "finance-20260527-003",
-      "title": "消息称字节向 Seed 部门员工开放豆包股认购：每股 13 美元，比授予价提高 30%",
-      "summary": "消息称字节跳动向Seed事业部核心员工开放豆包股权认购窗口，认购价格为每股13美元，较原始授予价溢价约30%；此举被解读为字节借助AI商业化预期稳定核心AI人才队伍，以豆包持续高增长势头支撑内部股权激励，认购窗口仅向符合条件的员工开放。",
-      "publishedAt": "2026-05-27T07:17:09+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/955/640.htm",
-      "subCategory": "一级市场"
-    },
-    {
-      "id": "finance-20260527-006",
-      "title": "拼多多今年Q1营收1062亿元同比增长11%，净利润125亿元同比下降15%",
-      "summary": "拼多多发布截至2026年3月31日的第一季度财报，营收1062亿元同比增长11%，但净利润125亿元同比下降15%；利润承压主要源于千亿扶持及重仓供应链的持续投入；广告收入增速创新低，股价盘前大跌约10%；公司表示继续推动供应链高质量发展，现金储备达4361亿元。",
-      "publishedAt": "2026-05-27",
-      "source": "新浪财经",
-      "url": "https://finance.sina.com.cn/tech/digi/2026-05-27/doc-inhzivfk8405545.shtml",
-      "subCategory": "公司财报"
-    },
-    {
-      "id": "finance-20260526-001",
-      "title": "伊朗发生大规模爆炸！黄金跳水！韩股高开",
-      "summary": "伊朗南部阿巴斯港凌晨传出多声爆炸，国际黄金短线下跌0.47%、白银跌0.75%；韩国综合股指开盘上涨2.8%；美伊就冻结资产问题在卡塔尔斡旋下达成谅解，双方\"很有可能\"于26日宣布协议。",
-      "publishedAt": "2026-05-26T08:29:00+08:00",
-      "source": "证券时报",
-      "url": "https://www.stcn.com/article/detail/3926789.html",
-      "subCategory": "风险事件"
-    },
-    {
-      "id": "finance-20260525-005",
-      "title": "宇树科技科创板 IPO 将于 6 月 1 日上会，2025 年主营业务毛利率达 60.13%",
-      "summary": "上交所科创板上市审核委员会定于2026年6月1日审议宇树科技首次公开发行，公司拟募资42.02亿元；2025年营收约17亿元，主营业务毛利率达60.13%较2023年提升近16个百分点，核心部件自研自产率超90%；2026年一季度营收4.23亿元，同比增68.49%。",
-      "publishedAt": "2026-05-25T20:21:14+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/955/030.htm",
-      "subCategory": "一级市场"
-    },
-    {
-      "id": "finance-20260525-004",
-      "title": "台积电否认削减员工分红：今年涨幅将超去年",
-      "summary": "针对员工分红削减约15%的传言，台积电官方予以明确否认并澄清：公司将进一步增加对社会可持续资源的投入，今年根据绩效评估发放的员工全年分红增长比例将超过去年；此前有报道称台积电Q1净利大增58%但拟削减员工奖金，引发内部关注。",
-      "publishedAt": "2026-05-25T20:08:08+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/955/026.htm",
-      "subCategory": "公司财报"
-    },
-    {
-      "id": "finance-20260525-003",
-      "title": "霍尔木兹大消息！美伊协议草案获多国支持，国际油价闪崩，美股期指集体拉升",
-      "summary": "美国国务卿鲁比奥表示美伊协议草案已获7至8个中东国家支持，特朗普称协议\"尚未完全谈妥\"，白宫称距签署尚需数天；伊朗总统表示不寻求核武器；市场大幅反应：纽约原油期货跌超5%至91.53美元，布伦特原油跌4.9%，国际金价涨超1.5%，美股三大期指集体上扬。",
-      "publishedAt": "2026-05-25T08:05:54+08:00",
-      "source": "每日经济新闻",
-      "url": "https://www.nbd.com.cn/articles/2026-05-25/4406749.html",
-      "subCategory": "大宗商品"
     }
   ],
   "disclaimer": "⚠️ 投资类内容仅做信息汇总,非投资建议。"

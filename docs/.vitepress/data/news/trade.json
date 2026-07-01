@@ -3,8 +3,62 @@
   "slug": "trade",
   "title": "外贸资讯",
   "description": "亚马逊、TikTok Shop、阿里国际站、Shopify 等平台政策与跨境电商市场、独立站、物流支付、关税法规、选品趋势。",
-  "updatedAt": "2026-07-01T09:15:00+08:00",
+  "updatedAt": "2026-07-01T16:55:00+08:00",
   "items": [
+    {
+      "title": "万海航运加强对危险品及货物申报的监管措施",
+      "summary": "万海航运发布通知，要求准确申报危险品CLASS、UN编号及品名，瞒报谎报将面临每柜10万美元罚款，并需预缴同等金额操作保证金，公司保留追偿及移送司法的权利。",
+      "publishedAt": "2026-07-01T16:38:00+08:00",
+      "source": "AMZ123跨境导航",
+      "url": "https://www.amz123.com/kx/JAjCCHdB",
+      "subCategory": "物流仓储",
+      "id": "trade-20260701-004"
+    },
+    {
+      "title": "Yahoo! Shopping升级AI购物备忘录功能 支持手写清单识别与同店智能凑单推荐",
+      "summary": "日本Yahoo! Shopping上线AI购物备忘录升级功能，支持文字、语音及手写清单识别，并优先推荐同店商品以帮助用户集中购买、降低运费。",
+      "publishedAt": "2026-07-01T14:17:00+08:00",
+      "source": "AMZ123跨境导航",
+      "url": "https://www.amz123.com/kx/lahwkjnW",
+      "subCategory": "平台动态",
+      "id": "trade-20260701-003"
+    },
+    {
+      "title": "亚马逊波兰第12座物流中心将于2026年10月启用",
+      "summary": "亚马逊宣布将于2026年10月在波兰下西里西亚省启用第12座物流中心，配备超5000台机器人，预计创造逾1000个全职岗位，起薪为每小时31.5兹罗提。",
+      "publishedAt": "2026-07-01T14:07:00+08:00",
+      "source": "AMZ123跨境导航",
+      "url": "https://www.amz123.com/kx/8qbA3hfj",
+      "subCategory": "物流仓储",
+      "id": "trade-20260701-002"
+    },
+    {
+      "title": "AI伪造图片敲诈卖家事件频发，电商平台面临证据审核挑战",
+      "summary": "国内外电商平台出现买家利用AI合成图片伪造商品损坏、人身伤害等证据向卖家索赔的欺诈案例，涉及跨境3C配件等品类，平台已引入AI图像鉴伪与买家黑名单机制应对。",
+      "publishedAt": "2026-07-01T13:56:00+08:00",
+      "source": "AMZ123跨境导航",
+      "url": "https://www.amz123.com/kx/G9Tm2IT6",
+      "subCategory": "平台动态",
+      "id": "trade-20260701-001"
+    },
+    {
+      "title": "SCFI连续四周上涨 欧线运价逼近一年高位",
+      "summary": "上海出口集装箱运价指数SCFI连续四周上涨，截至6月末报3239.64点，欧线运价维持高位，上海至鹿特丹约4392美元/FEU，红海绕行使有效运力减少8%至10%。",
+      "publishedAt": "2026-06-30T15:48:00+08:00",
+      "source": "AMZ123跨境导航",
+      "url": "https://www.amz123.com/kx/6rKMCpV6",
+      "subCategory": "物流仓储",
+      "id": "trade-20260630-002"
+    },
+    {
+      "title": "Small-parcel tax on Shein and Temu: why is it disappearing on July 1?",
+      "summary": "法国政府宣布自7月1日起暂停针对Shein、Temu等平台小包裹征收的2欧元关税，原因是欧盟统一的3欧元小包关税同日生效，法国税收因平台绕道其他欧盟国家而大幅缩水。",
+      "publishedAt": "2026-06-30T10:46:00+08:00",
+      "source": "Sortiraparis",
+      "url": "https://www.sortiraparis.com/en/news/in-paris/articles/348372-small-package-tax-on-shein-and-temu-why-is-it-being-scrapped-on-july-1",
+      "subCategory": "关税法规",
+      "id": "trade-20260630-001"
+    },
     {
       "id": "trade-20260629-001",
       "title": "SpeedPAK将于7月1日开通香港至欧盟23国物流服务",
