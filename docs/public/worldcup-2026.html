@@ -172,6 +172,23 @@ h1{margin:.25em 0 .15em;font-size:clamp(28px,5vw,46px);font-weight:800;letter-sp
 .bz{display:flex;gap:8px;font-size:12px;}
 .bz-k{flex:0 0 62px;font-weight:800;color:#8ea0c4;}
 .bz-v{flex:1;color:#c2cce0;}
+/* 激进区 */
+.ptag{font-size:12px;font-weight:800;color:#0c1222;background:var(--orange);border-radius:6px;padding:2px 9px;margin-left:6px;}
+.aggr-warn{background:linear-gradient(180deg,#2a1712,#1c1420);border:1px solid #5a3322;border-left:3px solid var(--orange);border-radius:12px;padding:12px 16px;font-size:13px;color:#f0c9b4;margin-bottom:8px;}
+.aggr-warn b{color:#ffd9b8;}
+.aggr-h3{font-size:15px;color:var(--muted);margin:18px 0 10px;}
+.aggr-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(240px,1fr));gap:12px;}
+.aggr{background:linear-gradient(165deg,#1e1712,#161f38);border:1px solid #4a3320;border-radius:13px;padding:13px 15px;}
+.aggr-top{display:flex;align-items:center;gap:8px;margin-bottom:6px;}
+.aggr-tag{font-size:11px;font-weight:800;border-radius:5px;padding:2px 8px;}
+.aggr-tag.score{color:#0c1222;background:var(--orange);}
+.aggr-tag.cold{color:#fff;background:#7a2230;}
+.aggr-m{font-size:13px;color:var(--muted);font-weight:600;}
+.aggr-pick{font-size:18px;font-weight:800;color:#ffb84d;letter-spacing:.5px;}
+.aggr-why{font-size:12.5px;color:#c2cce0;margin-top:4px;}
+.aggr-risk{font-size:12px;color:#ff9db0;margin-top:6px;}
+.aggr-combo{border-color:#4a3320;}
+.aggr-combo .ct{color:var(--orange);}
 /* 球队数据支撑表 */
 .tsub{font-size:13px;color:var(--muted);font-weight:600;}
 .twrap{overflow-x:auto;border:1px solid var(--line);border-radius:14px;}
@@ -683,6 +700,18 @@ footer a:hover{text-decoration:underline;}
   <div class="combos">
     <div class="combo"><div class="ct">① 双锚让球串 · 最稳</div><div class="cb">法国让 1 ＋ 西班牙让 1</div><div class="cn">两大热门让 1——让球正好入串；强强对弱旅，变量小（跨日 6/30+7/2）。</div></div><div class="combo"><div class="ct">② 今日可下 · 同日</div><div class="cb">巴西胜 ＋ 摩洛哥受让 1</div><div class="cn">一锚（巴西胜）+ 一让球价值腿（摩受让），两场都在 6/29，下单窗口短。</div></div><div class="combo"><div class="ct">③ 强队让球 · 3 串 1（封顶）</div><div class="cb">阿根廷让 1 ＋ 法国让 1 ＋ 西班牙让 1</div><div class="cn">三支最强对弱旅；阿根廷取让 1、不碰让 2，到此别再加。</div></div><div class="combo"><div class="ct">④ 价值平局串（≤2 平）</div><div class="cb">葡克「平」＋ 澳埃「平」</div><div class="cn">两场闷平价值；平本就 ~28%，最多 2 条，别再加第三条平。</div></div><div class="combo"><div class="ct">⑤ 锚 + 价值</div><div class="cb">阿根廷让 1 ＋ 葡克「平」</div><div class="cn">锚住让 1 near-lock，加唯一一条价值腿（葡克平）。</div></div>
   </div>
+
+  <h2 class="sec-title"><span class="bar"></span>🔥 激进区 · 搏一搏 <span class="ptag">彩票钱</span></h2>
+  <div class="aggr-warn">高赔低命中的「搏一搏」：深让球 / 精确比分 / 冷门。用<b>单独的小额“彩票钱”</b>，亏了不追；串越长抽水被乘方放大，<b>3 串 1 封顶</b>。这里负期望比稳健区更大，不是主策略。</div>
+  <h3 class="aggr-h3">激进单点（高赔 · 低命中）</h3>
+  <div class="aggr-grid">
+    <div class="aggr"><div class="aggr-top"><span class="aggr-tag score">精确比分</span><span class="aggr-m">阿根廷 vs 佛得角</span></div><div class="aggr-pick">2-0 / 3-0</div><div class="aggr-why">冠军控分碾压大巴，净胜球有限 → 押中等比分</div><div class="aggr-risk">⚠️ 比分玩法命中率天然低</div></div><div class="aggr"><div class="aggr-top"><span class="aggr-tag score">精确比分</span><span class="aggr-m">葡萄牙 vs 克罗地亚</span></div><div class="aggr-pick">1-1 / 0-0</div><div class="aggr-why">双低产 + 点球之王，闷平底色最浓</div><div class="aggr-risk">⚠️ 比分命中低（但赔率高）</div></div><div class="aggr"><div class="aggr-top"><span class="aggr-tag score">精确比分</span><span class="aggr-m">西班牙 vs 奥地利</span></div><div class="aggr-pick">2-0</div><div class="aggr-why">控球碾压、奥高压难破门</div><div class="aggr-risk">⚠️ 比分命中低</div></div><div class="aggr"><div class="aggr-top"><span class="aggr-tag cold">冷门</span><span class="aggr-m">美国 vs 波黑</span></div><div class="aggr-pick">波黑客胜</div><div class="aggr-why">东道主盘虚高极致版，哲科搏一击</div><div class="aggr-risk">⚠️ 逆东道主，风险高</div></div><div class="aggr"><div class="aggr-top"><span class="aggr-tag cold">冷门</span><span class="aggr-m">西班牙 vs 奥地利</span></div><div class="aggr-pick">奥地利「平」</div><div class="aggr-why">朗尼克高压恶心强队的爆冷模板</div><div class="aggr-risk">⚠️ 实力差大，纯搏</div></div>
+  </div>
+  <h3 class="aggr-h3">激进串（≤3 串 1 封顶）</h3>
+  <div class="combos">
+    <div class="combo aggr-combo"><div class="ct">① 深让球串 · 2 串 1</div><div class="cb">阿根廷让 2 ＋ 西班牙让 2</div><div class="cn">两强碾压弱旅搏净胜球；稳健区把它列为“陷阱别追”，这里明确是搏。</div></div><div class="combo aggr-combo"><div class="ct">② 超高赔比分串 · 2 串 1</div><div class="cb">葡克 1-1 ＋ 阿根廷 2-0</div><div class="cn">两个精确比分，赔率极高、命中极低，纯搏彩头。</div></div><div class="combo aggr-combo"><div class="ct">③ 3 串 1（封顶）</div><div class="cb">阿根廷让 2 ＋ 西班牙让 2 ＋ 哥伦比亚让 1</div><div class="cn">三支 favorite 搏大净胜；到此为止，别加第 4 条。</div></div>
+  </div>
+  <p class="rp-note">🧾 <b>激进复盘：</b>以上目标均为 7/1–7/3 未赛场次，赛后回填命中；届时可直接对比「激进 vs 稳健」的实际亏损差。当前激进命中：<b>—/—（待回填）</b>。</p>
 
   <h2 class="sec-title"><span class="bar"></span>球队数据支撑表 <span class="tsub">（喂未来再次预测）</span></h2>
   <p class="sub" style="margin-top:-6px">小组赛最终数据 + 结构标签，按积分/净胜球排序。下次预测某队时，先查这里的底子（②势头 / ④风格 / 关键球员），再叠加当场的 ①伤停 / ③盘口 / ⑧场地。</p>
