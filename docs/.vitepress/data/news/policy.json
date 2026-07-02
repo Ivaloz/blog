@@ -3,35 +3,8 @@
   "slug": "policy",
   "title": "政策信息",
   "description": "国家与地方政策、监管动态、产业扶持与合规要求。",
-  "updatedAt": "2026-07-02T09:15:00+08:00",
+  "updatedAt": "2026-07-02T16:38:59+08:00",
   "items": [
-    {
-      "id": "policy-20260701-004",
-      "title": "中国明确十五五碳达峰行动施工图和路线图",
-      "summary": "国务院近期审议通过十五五碳达峰行动方案，作为实现碳达峰目标的冲刺阶段战略路线图，方案要求将绿色低碳理念融入经济高质量发展，避免运动式减碳，重点优化能源结构、推进产业绿色转型并完善碳核算法律框架。",
-      "publishedAt": "2026-07-01",
-      "source": "中国新闻网（中新社）",
-      "url": "https://www.chinanews.com.cn/cj/2026/07-01/10650947.shtml",
-      "subCategory": "新能源政策"
-    },
-    {
-      "id": "policy-20260701-008",
-      "title": "Welfare reforms saving taxpayer £1 billion come into force",
-      "summary": "英国Motability机动性计划改革于7月1日起实施，对购车附加费征收增值税、对新租赁合同征收保险费税，预计到2030年为纳税人节省10亿英镑，残疾人每周77.05英镑福利额度维持不变。",
-      "publishedAt": "2026-07-01",
-      "source": "GOV.UK",
-      "url": "https://www.gov.uk/government/news/welfare-reforms-saving-taxpayer-1-billion-come-into-force",
-      "subCategory": "海外政策"
-    },
-    {
-      "id": "policy-20260701-009",
-      "title": "FTC Seeks Public Comment on Policy Statement Addressing AI Accuracy",
-      "summary": "美国联邦贸易委员会就一份针对AI系统\"客观性与准确性\"的政策声明征求公众意见，指企业为隐藏意识形态目的操纵AI输出可能构成欺骗消费者，并称科罗拉多州人工智能法案或与联邦监管框架冲突，意见征集截至7月31日。",
-      "publishedAt": "2026-07-01",
-      "source": "Federal Trade Commission",
-      "url": "https://www.ftc.gov/news-events/news/press-releases/2026/07/ftc-seeks-public-comment-policy-statement-addressing-ai-accuracy",
-      "subCategory": "AI监管"
-    },
     {
       "id": "policy-20260701-005",
       "title": "海南提出\"十五五\"期间打造\"全球免税购物中心\"",
@@ -85,6 +58,42 @@
       "source": "中新网（央视新闻客户端）",
       "url": "https://www.chinanews.com.cn/cj/2026/07-01/10650549.shtml",
       "subCategory": "跨境贸易"
+    },
+    {
+      "id": "policy-20260701-004",
+      "title": "中国明确十五五碳达峰行动施工图和路线图",
+      "summary": "国务院近期审议通过十五五碳达峰行动方案，作为实现碳达峰目标的冲刺阶段战略路线图，方案要求将绿色低碳理念融入经济高质量发展，避免运动式减碳，重点优化能源结构、推进产业绿色转型并完善碳核算法律框架。",
+      "publishedAt": "2026-07-01",
+      "source": "中国新闻网（中新社）",
+      "url": "https://www.chinanews.com.cn/cj/2026/07-01/10650947.shtml",
+      "subCategory": "新能源政策"
+    },
+    {
+      "id": "policy-20260701-008",
+      "title": "Welfare reforms saving taxpayer £1 billion come into force",
+      "summary": "英国Motability机动性计划改革于7月1日起实施，对购车附加费征收增值税、对新租赁合同征收保险费税，预计到2030年为纳税人节省10亿英镑，残疾人每周77.05英镑福利额度维持不变。",
+      "publishedAt": "2026-07-01",
+      "source": "GOV.UK",
+      "url": "https://www.gov.uk/government/news/welfare-reforms-saving-taxpayer-1-billion-come-into-force",
+      "subCategory": "海外政策"
+    },
+    {
+      "id": "policy-20260701-009",
+      "title": "FTC Seeks Public Comment on Policy Statement Addressing AI Accuracy",
+      "summary": "美国联邦贸易委员会就一份针对AI系统\"客观性与准确性\"的政策声明征求公众意见，指企业为隐藏意识形态目的操纵AI输出可能构成欺骗消费者，并称科罗拉多州人工智能法案或与联邦监管框架冲突，意见征集截至7月31日。",
+      "publishedAt": "2026-07-01",
+      "source": "Federal Trade Commission",
+      "url": "https://www.ftc.gov/news-events/news/press-releases/2026/07/ftc-seeks-public-comment-policy-statement-addressing-ai-accuracy",
+      "subCategory": "AI监管"
+    },
+    {
+      "title": "SEC Publishes Updated Market Statistics, Highlighting Increase in IPOs and Proceeds Raised",
+      "summary": "美国证券交易委员会发布最新资本市场统计数据及可视化图表，显示2026年第一季度共有99宗IPO，融资超220亿美元，较2025年同期增长约86%，后续发行264宗，融资达442亿美元。",
+      "publishedAt": "2026-07-01",
+      "source": "美国证券交易委员会（SEC）",
+      "url": "https://www.sec.gov/newsroom/press-releases/2026-61-sec-publishes-updated-market-statistics-highlighting-increase-ipos-proceeds-raised",
+      "subCategory": "金融监管",
+      "id": "policy-20260701-010"
     },
     {
       "id": "policy-20260630-003",
@@ -150,6 +159,15 @@
       "subCategory": "数字经济"
     },
     {
+      "id": "policy-20260625-003",
+      "title": "国家发改委与国家能源局联合印发《新型能源体系建设\"十五五\"规划》",
+      "summary": "国家发展改革委和国家能源局联合印发《新型能源体系建设\"十五五\"规划》，提出2030年新能源发电量占比达到30%、可再生能源制氢规模达200万吨，并强化核聚变、太空电站等前沿能源技术研究布局。",
+      "publishedAt": "2026-06-25T19:29:00+08:00",
+      "source": "证券时报",
+      "url": "https://www.stcn.com/article/detail/3980380.html",
+      "subCategory": "新能源政策"
+    },
+    {
       "id": "policy-20260625-002",
       "title": "谷歌前 CEO 施密特批中国 AI 开源：不受我们控制，我很不喜欢",
       "summary": "前谷歌CEO施密特公开批评中国AI开源，称相关AI技术\"不受美国及任何方控制\"；承认美国出口管制效果趋弱，中美AI能力差距已缩短至约六个月。",
@@ -166,15 +184,6 @@
       "source": "IT之家",
       "url": "https://www.ithome.com/0/968/413.htm",
       "subCategory": "产业政策"
-    },
-    {
-      "id": "policy-20260625-003",
-      "title": "国家发改委与国家能源局联合印发《新型能源体系建设\"十五五\"规划》",
-      "summary": "国家发展改革委和国家能源局联合印发《新型能源体系建设\"十五五\"规划》，提出2030年新能源发电量占比达到30%、可再生能源制氢规模达200万吨，并强化核聚变、太空电站等前沿能源技术研究布局。",
-      "publishedAt": "2026-06-25T19:29:00+08:00",
-      "source": "证券时报",
-      "url": "https://www.stcn.com/article/detail/3980380.html",
-      "subCategory": "新能源政策"
     },
     {
       "id": "policy-20260622-003",
