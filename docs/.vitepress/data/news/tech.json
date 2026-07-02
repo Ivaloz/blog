@@ -3,52 +3,124 @@
   "slug": "tech",
   "title": "科技新闻",
   "description": "前沿科技、互联网产品、芯片硬件、开源生态。",
-  "updatedAt": "2026-07-01T17:10:00+08:00",
+  "updatedAt": "2026-07-02T09:15:00+08:00",
   "items": [
     {
-      "title": "中兴小鲜 70 Plus 手机发售：展锐 T8300 + 8G + 128G 售 1999 元",
-      "summary": "中兴小鲜70 Plus手机在京东发售，搭载紫光展锐T8300处理器，8GB内存加128GB存储，配6.8英寸900P屏幕、6050mAh电池及45W快充，售价1999元。",
-      "publishedAt": "2026-07-01T16:33:17+08:00",
+      "id": "tech-20260702-001",
+      "title": "苹果被曝正洽谈采购长鑫、长江存储芯片，供应中国市场设备",
+      "summary": "据彭博社报道，苹果正与长鑫存储、长江存储洽谈采购存储芯片协议，用于在中国销售的设备，以应对AI数据中心扩张导致的全球存储芯片短缺。两家中国厂商均在美国国防部实体清单上，谈判尚未达成最终结果，苹果CEO库克已就此与美国财长沟通。",
+      "publishedAt": "2026-07-02T08:32:36+08:00",
       "source": "IT之家",
-      "url": "https://www.ithome.com/0/971/172.htm",
-      "subCategory": "消费电子",
-      "id": "tech-20260701-004"
+      "url": "https://www.ithome.com/0/971/417.htm",
+      "subCategory": "芯片硬件"
     },
     {
-      "title": "微信鸿蒙版 App 获 8.0.19.35 尝鲜升级，小程序浮窗功能开始灰度",
-      "summary": "微信鸿蒙版通过华为应用市场推送8.0.19.35尝鲜版本，新增小程序浮窗支持多开、视频号功能增强、联系人拼音搜索及平板鼠标滚轮支持等改进，测试持续至7月31日。",
-      "publishedAt": "2026-07-01T16:25:00+08:00",
+      "id": "tech-20260702-002",
+      "title": "菲亚特推出纯电小车Multiplina：复古设计、四座布局",
+      "summary": "菲亚特发布纯电小车Multiplina，参考1956年菲亚特600 Multipla外观设计，配备可折叠车窗与帆布车顶，最高时速89公里，电池容量超过5.4千瓦时，预计起售价约合人民币12.6万元，竞品包括达契亚Spring和零跑T03。",
+      "publishedAt": "2026-07-02T08:32:20+08:00",
       "source": "IT之家",
-      "url": "https://www.ithome.com/0/971/163.htm",
-      "subCategory": "互联网产品",
-      "id": "tech-20260701-003"
+      "url": "https://www.ithome.com/0/971/416.htm",
+      "subCategory": "智能汽车"
     },
     {
-      "title": "Nothing Ear（3a）真无线耳机将于 7 月 7 日发布，消息称首发价 99 欧元",
-      "summary": "Nothing官方宣布将于7月7日发布Ear（3a）真无线耳机及Phone（4b），耳机提供白、黑、黄、粉四种配色，消息称欧洲首发价99欧元，暂未公布具体规格。",
-      "publishedAt": "2026-07-01T16:13:36+08:00",
+      "id": "tech-20260702-003",
+      "title": "外媒初探微软Win11 WSL容器：无需Docker，原生构建、运行和管理Linux容器",
+      "summary": "外媒测试微软Windows 11的WSL容器公开预览功能，可在无需Docker情况下原生构建、运行和管理Linux容器，包含命令行工具wslc.exe和支持C/C++/C#的容器API，每个应用运行在独立虚拟机中，暂不支持编排和图形化面板。",
+      "publishedAt": "2026-07-02T08:27:46+08:00",
       "source": "IT之家",
-      "url": "https://www.ithome.com/0/971/147.htm",
-      "subCategory": "消费电子",
-      "id": "tech-20260701-002"
+      "url": "https://www.ithome.com/0/971/415.htm",
+      "subCategory": "开发者工具"
     },
     {
-      "title": "中昊芯英正式发布新一代高性能TPU AI专用算力芯片“须臾®”",
-      "summary": "中昊芯英发布自研TPU芯片“须臾”，单芯片混合精度浮点算力达896TFLOPS，同时推出“泰则2.0”软硬一体智算平台，已在深圳联通、天津移动等多个大型智算中心部署。",
-      "publishedAt": "2026-07-01T16:01:00+08:00",
-      "source": "36氪",
-      "url": "https://36kr.com/newsflashes/3876796652253442",
-      "subCategory": "芯片硬件",
-      "id": "tech-20260701-001"
+      "id": "tech-20260702-004",
+      "title": "我国成功发射海洋二号E卫星",
+      "summary": "我国在酒泉卫星发射中心用长征四号乙运载火箭成功发射海洋二号E卫星，卫星顺利进入预定轨道，任务发射取得成功，这是长征系列运载火箭第654次飞行。该卫星将加入海洋二号系列星座，用于海洋动力环境监测、灾害预警和全球船舶识别等。",
+      "publishedAt": "2026-07-02T08:16:57+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/971/413.htm",
+      "subCategory": "航空航天"
     },
     {
-      "id": "tech-20260701-017",
-      "title": "苹果打破常规提前发布紧急安全更新，应对AI驱动的黑客威胁",
-      "summary": "苹果周一提前发布iOS 26.5.2、iPadOS 26.5.2及macOS Tahoe 26.5.2安全更新，包含逾25项修复，其中15项涉及WebKit。苹果称AI工具正加速恶意黑客工具开发，目前未发现相关漏洞被实际利用的证据。",
-      "publishedAt": "2026-07-01T11:52:16+08:00",
-      "source": "环球网（网易转载）",
-      "url": "https://www.163.com/dy/article/L0OH93J20514R9OJ.html",
+      "id": "tech-20260702-005",
+      "title": "现代起亚发布车内紫外线消毒技术，30秒消灭99.9%肺炎致病菌",
+      "summary": "现代和起亚发布车内紫外线消毒技术Plasma Care UVC，利用200至230纳米波长远紫外线，据首尔大学测试可在30秒内消灭99.9%肺炎致病菌，30分钟内减少96.8%空气传播病毒，该技术仅对光线直射区域有效，目前仍在测试阶段。",
+      "publishedAt": "2026-07-02T08:07:58+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/971/412.htm",
+      "subCategory": "智能汽车"
+    },
+    {
+      "id": "tech-20260702-006",
+      "title": "苹果Safari技术预览版247引入MCP服务，AI智能体加速网页开发和调试",
+      "summary": "苹果在Safari技术预览版247中引入MCP服务器支持，使兼容的编程类智能体能够连接浏览器信息，用于检查网页、查看控制台日志与网络请求、截图并与页面元素交互，官方称该功能可用于网站调试、兼容性排查、性能评估和无障碍审查等场景。",
+      "publishedAt": "2026-07-02T08:04:23+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/971/411.htm",
+      "subCategory": "开发者工具"
+    },
+    {
+      "id": "tech-20260702-007",
+      "title": "苹果iPad、MacBook涨价后消费者被要求补差价？多家授权店承诺按原预定价结算",
+      "summary": "苹果6月25日起上调Mac和iPad全球售价，理由是AI数据中心扩张带动存储需求激增，中国区涨幅16%至25%。涨价后部分预订用户被授权门店要求补差价，苹果客服称涨价前完成付款订单按原价执行，授权门店定价权独立，部分拒绝按原价发货。",
+      "publishedAt": "2026-07-02T08:03:30+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/971/410.htm",
+      "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260702-008",
+      "title": "华为联合上海电信落地5G-A×AI大上行样板点：实测峰值速率1Gbps",
+      "summary": "华为联合上海电信在西岸美术馆落地5G-A×AI大上行样板点，实测上行峰值速率达1Gbps、下行峰值速率近4Gbps，现场展示AI眼镜高清内容云端处理等应用，计划年底前实现中心城区重点区域20Mbps上行连续覆盖。",
+      "publishedAt": "2026-07-02T07:54:04+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/971/407.htm",
+      "subCategory": "网络基础设施"
+    },
+    {
+      "id": "tech-20260702-009",
+      "title": "微软XBOX新功能曝光：实体游戏光盘可转换为对应数字版授权",
+      "summary": "微软测试名为Disc2Digital的Xbox新功能，允许玩家将实体游戏光盘转换为对应数字版权限，转换后可移除光盘继续游玩，Game Pass订阅者可云串流，权限与光盘绑定并可随光盘转让，暂不支持Xbox 360及初代Xbox游戏。",
+      "publishedAt": "2026-07-02T07:22:36+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/971/399.htm",
+      "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260702-010",
+      "title": "谷歌发布Android 17 QPR1 Beta 6，达成平台稳定性里程碑",
+      "summary": "谷歌向Pixel设备推送Android 17 QPR1 Beta 6，达成平台稳定性里程碑，意味着开发者API已锁定，同时修复拼写检查语言选择、时钟音量按钮、媒体轮播动画等问题，正式版预计9月推出。",
+      "publishedAt": "2026-07-02T07:16:30+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/971/398.htm",
+      "subCategory": "操作系统"
+    },
+    {
+      "id": "tech-20260702-011",
+      "title": "苹果Hide My Email被曝安全漏洞：测试中100%可溯源真实邮箱",
+      "summary": "安全研究员测试发现，苹果iCloud+的Hide My Email隐藏邮件功能存在漏洞，可在约五分钟内以100%成功率将转发地址还原为用户真实Apple ID邮箱。该漏洞2025年6月已报告苹果，苹果曾称已修复，但独立验证显示漏洞依然存在。",
+      "publishedAt": "2026-07-02T06:38:42+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/971/393.htm",
       "subCategory": "安全漏洞"
+    },
+    {
+      "id": "tech-20260702-013",
+      "title": "Enterprise managed-settings.json is generally available",
+      "summary": "GitHub宣布managed-settings.json配置面向企业云客户正式可用，企业可借此为Copilot客户端统一设定AI治理策略，涵盖插件市场限制、权限绕过限制及默认模型等配置项，现于VS Code和Copilot CLI生效。",
+      "publishedAt": "2026-07-02T04:57:26+08:00",
+      "source": "GitHub Changelog",
+      "url": "https://github.blog/changelog/2026-07-01-enterprise-managed-settings-json-is-generally-available",
+      "subCategory": "开发者工具"
+    },
+    {
+      "id": "tech-20260702-012",
+      "title": "Secret scanning adds validators for Asana, IBM, and MessageBird",
+      "summary": "GitHub为密钥扫描功能新增Asana、IBM和MessageBird三家服务商凭据有效性检测，帮助安全团队判断已发现的泄露凭据是否仍然有效，以便更准确评估风险并安排响应优先级，此前该功能已支持多家主流云与SaaS厂商凭据检测。",
+      "publishedAt": "2026-07-02T04:49:41+08:00",
+      "source": "GitHub Changelog",
+      "url": "https://github.blog/changelog/2026-07-01-secret-scanning-adds-validators-for-asana-ibm-and-messagebird",
+      "subCategory": "开发者工具"
     },
     {
       "id": "tech-20260701-005",
@@ -159,9 +231,63 @@
       "subCategory": "智能汽车"
     },
     {
+      "id": "tech-20260701-018",
+      "title": "格科微：2亿像素传感器产品开发顺利，并与部分客户达成初步合作意向",
+      "summary": "格科微在连续停牌后发布公告称，其2亿像素图像传感器产品开发进展顺利，已与部分客户达成初步合作意向，但产品尚未实现商业化出货。公司主要生产CMOS图像传感器和显示驱动芯片，此前已于2026年3月推出两款5000万像素传感器产品。",
+      "publishedAt": "2026-07-01T22:30:32+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/971/378.htm",
+      "subCategory": "芯片硬件"
+    },
+    {
+      "title": "中兴小鲜 70 Plus 手机发售：展锐 T8300 + 8G + 128G 售 1999 元",
+      "summary": "中兴小鲜70 Plus手机在京东发售，搭载紫光展锐T8300处理器，8GB内存加128GB存储，配6.8英寸900P屏幕、6050mAh电池及45W快充，售价1999元。",
+      "publishedAt": "2026-07-01T16:33:17+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/971/172.htm",
+      "subCategory": "消费电子",
+      "id": "tech-20260701-004"
+    },
+    {
+      "title": "微信鸿蒙版 App 获 8.0.19.35 尝鲜升级，小程序浮窗功能开始灰度",
+      "summary": "微信鸿蒙版通过华为应用市场推送8.0.19.35尝鲜版本，新增小程序浮窗支持多开、视频号功能增强、联系人拼音搜索及平板鼠标滚轮支持等改进，测试持续至7月31日。",
+      "publishedAt": "2026-07-01T16:25:00+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/971/163.htm",
+      "subCategory": "互联网产品",
+      "id": "tech-20260701-003"
+    },
+    {
+      "title": "Nothing Ear（3a）真无线耳机将于 7 月 7 日发布，消息称首发价 99 欧元",
+      "summary": "Nothing官方宣布将于7月7日发布Ear（3a）真无线耳机及Phone（4b），耳机提供白、黑、黄、粉四种配色，消息称欧洲首发价99欧元，暂未公布具体规格。",
+      "publishedAt": "2026-07-01T16:13:36+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/971/147.htm",
+      "subCategory": "消费电子",
+      "id": "tech-20260701-002"
+    },
+    {
+      "title": "中昊芯英正式发布新一代高性能TPU AI专用算力芯片“须臾®”",
+      "summary": "中昊芯英发布自研TPU芯片“须臾”，单芯片混合精度浮点算力达896TFLOPS，同时推出“泰则2.0”软硬一体智算平台，已在深圳联通、天津移动等多个大型智算中心部署。",
+      "publishedAt": "2026-07-01T16:01:00+08:00",
+      "source": "36氪",
+      "url": "https://36kr.com/newsflashes/3876796652253442",
+      "subCategory": "芯片硬件",
+      "id": "tech-20260701-001"
+    },
+    {
+      "id": "tech-20260701-017",
+      "title": "苹果打破常规提前发布紧急安全更新，应对AI驱动的黑客威胁",
+      "summary": "苹果周一提前发布iOS 26.5.2、iPadOS 26.5.2及macOS Tahoe 26.5.2安全更新，包含逾25项修复，其中15项涉及WebKit。苹果称AI工具正加速恶意黑客工具开发，目前未发现相关漏洞被实际利用的证据。",
+      "publishedAt": "2026-07-01T11:52:16+08:00",
+      "source": "环球网（网易转载）",
+      "url": "https://www.163.com/dy/article/L0OH93J20514R9OJ.html",
+      "subCategory": "安全漏洞"
+    },
+    {
       "id": "tech-20260630-003",
       "title": "英伟达在华启动机器人人才招聘，聚焦具身智能等四大方向",
-      "summary": "英伟达在中国启动大规模机器人人才招聘，覆盖北京、上海、深圳三地，聚焦具身智能（涉及灵巧操作与全身控制）、仿真（围绕Isaac Sim与Isaac Lab）、部署及解决方案架构四大方向，反映英伟达向"物理AI"战略转型。",
+      "summary": "英伟达在中国启动大规模机器人人才招聘，覆盖北京、上海、深圳三地，聚焦具身智能（涉及灵巧操作与全身控制）、仿真（围绕Isaac Sim与Isaac Lab）、部署及解决方案架构四大方向，反映英伟达向\"物理AI\"战略转型。",
       "publishedAt": "2026-06-30T19:52:57+08:00",
       "source": "IT之家",
       "url": "https://www.ithome.com/0/970/732.htm",
@@ -484,7 +610,7 @@
     },
     {
       "id": "tech-20260617-001",
-      "title": "高通首"至尊版"XR芯片来了！本地跑30亿参数大模型，XREAL首发",
+      "title": "高通首\"至尊版\"XR芯片来了！本地跑30亿参数大模型，XREAL首发",
       "summary": "高通在AWE 2026大会上发布骁龙Reality Elite旗舰XR芯片平台。该芯片GPU性能提升60%、CPU提升30%、NPU提升160%，支持每秒90帧和4.4K单眼分辨率。核心亮点包括48TOPS AI算力、本地运行30亿参数大模型、续航提升20%等。XREAL Project Aura将首批搭载。",
       "publishedAt": "2026-06-17T13:31:05+08:00",
       "source": "智东西",
@@ -502,8 +628,8 @@
     },
     {
       "id": "tech-20260615-004",
-      "title": "鸿蒙智行尊界 V800"超高端 MPV"官图发布：车头大 Logo、全新像素尾灯",
-      "summary": "鸿蒙智行发布尊界 V800 官方图片，该车定位"超高端 MPV"，外观采用大尺寸品牌 Logo 车头设计和全新像素化尾灯造型，具体配置与上市时间尚未公布，是尊界品牌在旗舰 S800 之后的第二款产品。",
+      "title": "鸿蒙智行尊界 V800\"超高端 MPV\"官图发布：车头大 Logo、全新像素尾灯",
+      "summary": "鸿蒙智行发布尊界 V800 官方图片，该车定位\"超高端 MPV\"，外观采用大尺寸品牌 Logo 车头设计和全新像素化尾灯造型，具体配置与上市时间尚未公布，是尊界品牌在旗舰 S800 之后的第二款产品。",
       "publishedAt": "2026-06-15T16:22:31+08:00",
       "source": "IT之家",
       "url": "https://www.ithome.com/0/964/470.htm",
@@ -530,7 +656,7 @@
     {
       "id": "tech-20260615-001",
       "title": "中科宇航：力箭一号今年发射任务基本已经排满",
-      "summary": "中科宇航宣布力箭一号运载火箭2026年发射任务基本排满，6月15日成功完成"一箭八星"任务，累计发射卫星总数已突破105颗，成为国内首款累计发射卫星过百颗的商业运载火箭。",
+      "summary": "中科宇航宣布力箭一号运载火箭2026年发射任务基本排满，6月15日成功完成\"一箭八星\"任务，累计发射卫星总数已突破105颗，成为国内首款累计发射卫星过百颗的商业运载火箭。",
       "publishedAt": "2026-06-15T13:54:01+08:00",
       "source": "IT之家",
       "url": "https://www.ithome.com/0/964/366.htm",
@@ -538,8 +664,8 @@
     },
     {
       "id": "tech-20260614-005",
-      "title": "微纳星空 6 颗"东坡"系列卫星出征：搭乘引力一号 Y4 运载火箭，择机发射",
-      "summary": "微纳星空宣布6颗"东坡"系列卫星（13、14、17、18、19、20号）完成总装测试。这些卫星由该公司商业卫星智能化产线自主量产，包括两颗光学卫星和四颗SAR卫星，均为"环天星座"组网卫星。计划搭乘"引力一号Y4运载火箭"在山东海阳海上发射场择机发射，验证了产线的批量研制能力。",
+      "title": "微纳星空 6 颗\"东坡\"系列卫星出征：搭乘引力一号 Y4 运载火箭，择机发射",
+      "summary": "微纳星空宣布6颗\"东坡\"系列卫星（13、14、17、18、19、20号）完成总装测试。这些卫星由该公司商业卫星智能化产线自主量产，包括两颗光学卫星和四颗SAR卫星，均为\"环天星座\"组网卫星。计划搭乘\"引力一号Y4运载火箭\"在山东海阳海上发射场择机发射，验证了产线的批量研制能力。",
       "publishedAt": "2026-06-14T16:36:45+08:00",
       "source": "IT之家",
       "url": "https://www.ithome.com/0/964/125.htm",
@@ -547,7 +673,7 @@
     },
     {
       "id": "tech-20260614-001",
-      "title": "消息称小米 MIX Fold 5 阔折叠手机首发澎湃 OS4，系统应用实现"AI 赋能"",
+      "title": "消息称小米 MIX Fold 5 阔折叠手机首发澎湃 OS4，系统应用实现\"AI 赋能\"",
       "summary": "据博主透露，小米MIX Fold 5折叠手机将首发澎湃OS4系统，应用获得AI赋能升级。该机预计搭载玄戒O3芯片，性能对标骁龙8E5，同时将是最贵徕卡旗舰与最优AI交互载体。",
       "publishedAt": "2026-06-14T16:17:04+08:00",
       "source": "IT之家",
@@ -598,132 +724,6 @@
       "source": "IT之家",
       "url": "https://www.ithome.com/0/963/977.htm",
       "subCategory": "芯片硬件"
-    },
-    {
-      "id": "tech-20260613-004",
-      "title": "长安汽车发布"天枢领航"自研辅助驾驶系统：长安启源Q06将全系搭载、9月上市",
-      "summary": "长安汽车在重庆车展发布自研"天枢领航"辅助驾驶系统，分Pro/Max/Ultra三版，Pro版激光雷达全系标配，Max版基于超2000万条人驾数据训练提升通勤效率20%，Ultra版搭载视觉语言大模型，长安启源Q06将首款全系搭载，9月上市。",
-      "publishedAt": "2026-06-13T19:07:49+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/963/930.htm",
-      "subCategory": "智能汽车"
-    },
-    {
-      "id": "tech-20260613-003",
-      "title": "荣耀Robot Phone机器人手机上海电影节实拍画面公布，将于三季度上市",
-      "summary": "荣耀Robot Phone在上海国际电影节公布实拍画面，手机顶部配备三轴云台相机，融合阿莱ARRI电影摄影技术，搭载2亿像素传感器，支持AI物体追踪和视频剪辑，计划三季度上市。",
-      "publishedAt": "2026-06-13T18:39:37+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/963/927.htm",
-      "subCategory": "消费电子"
-    },
-    {
-      "id": "tech-20260613-002",
-      "title": "Arch Linux项目用户软件仓库AUR遭恶意攻击，400+项目被投毒",
-      "summary": "Arch Linux用户仓库AUR超400个软件包遭投毒，攻击者使用Rust编写恶意程序，可窃取浏览器Cookie、SSH密钥、GitHub凭证等敏感信息，并可能在获取root权限后加载eBPF Rootkit隐藏踪迹。",
-      "publishedAt": "2026-06-13T17:46:28+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/963/905.htm",
-      "subCategory": "安全漏洞"
-    },
-    {
-      "id": "tech-20260613-001",
-      "title": "全栈自主：龙芯中科联合牡丹电子发布3A6000信创笔记本电脑Peony-L，内置国产WAPI安全芯片政企专供",
-      "summary": "龙芯中科与牡丹电子联合推出Peony-L信创笔记本，搭载龙芯3A6000，内置WAPI安全芯片，采用国密SM4加密，实现从底层CPU、操作系统到无线通信协议的全链条自主可控，面向政务金融等关键领域。",
-      "publishedAt": "2026-06-13T17:41:55+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/963/904.htm",
-      "subCategory": "芯片硬件"
-    },
-    {
-      "id": "tech-20260612-001",
-      "title": "为HDC 2026，HarmonyOS 7 Developer Beta正式发布",
-      "summary": "华为在HDC 2026开发者大会前夕发布HarmonyOS 7 Developer Beta，系统全栈自研并完全移除Android AOSP兼容层，内存占用降低30%、响应速度提升40%；AI Agent全面内置系统底层，新一代开发框架HMAF 2.0可使开发效率提升90%，面向开发者开放内测。",
-      "publishedAt": "2026-06-12T15:12:17+08:00",
-      "source": "中关村在线",
-      "url": "https://mobile.zol.com.cn/1197/11972971.html",
-      "subCategory": "操作系统"
-    },
-    {
-      "id": "tech-20260612-003",
-      "title": "苹果升级 iOS 27 版健康 App：卡片布局、评估食物营养、追踪围绝经期等",
-      "summary": "苹果iOS 27版健康App完成界面与功能升级，采用全新卡片式布局提升信息可读性，新增食物营养评估功能，可分析摄入热量与营养比例；同步加入围绝经期追踪模块，支持激素变化周期记录与症状关联分析，完善女性健康全生命周期管理场景。",
-      "publishedAt": "2026-06-12T10:06:41+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/963/302.htm",
-      "subCategory": "消费电子"
-    },
-    {
-      "id": "tech-20260612-002",
-      "title": "世界杯期间苹果营销发力：AirPods Pro 3 具备全球最佳入耳式主动降噪",
-      "summary": "苹果借助2026 FIFA世界杯在全球多个市场密集推进AirPods Pro 3营销活动，以"全球最佳入耳式主动降噪"为核心诉求突出产品差异化；AirPods Pro 3新增自适应音频模式，可动态调节降噪强度与通透模式，持续深化苹果近场音频生态布局。",
-      "publishedAt": "2026-06-12T07:06:19+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/963/235.htm",
-      "subCategory": "消费电子"
-    },
-    {
-      "id": "tech-20260611-001",
-      "title": "外媒体验苹果 iOS 27 全新 Siri AI：回复简洁，不套近乎",
-      "summary": "外媒对苹果iOS 27搭载的全新Siri AI进行上手体验，体验者指出新版Siri对话风格更为专业直接、回复简洁，刻意减少了虚假亲密感和多余客套，应答效率明显提升；测试的跨应用任务完成率较前代有所提高，但部分复杂指令理解仍有局限。",
-      "publishedAt": "2026-06-11T08:31:50+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/962/721.htm",
-      "subCategory": "消费电子"
-    },
-    {
-      "id": "tech-20260611-004",
-      "title": "比利时正式批准特斯拉 FSD 上路，成欧盟第五个放行国家",
-      "summary": "比利时道路安全主管部门正式批准特斯拉FSD（完全自动驾驶）在本国公共道路上运行，成为欧盟内第五个批准该系统商业使用的国家；特斯拉正加速FSD欧洲区域覆盖，计划年内申请多个欧盟成员国的L3级认证，监管部门要求特斯拉持续上报安全行驶数据。",
-      "publishedAt": "2026-06-11T08:00:26+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/962/714.htm",
-      "subCategory": "智能汽车"
-    },
-    {
-      "id": "tech-20260611-002",
-      "title": "苹果 iOS 27 版 CarPlay 新增路线共享功能，将解决特斯拉 FSD 导航同步难题",
-      "summary": "苹果iOS 27更新CarPlay功能，新增驾驶途中路线实时共享能力，允许iPhone导航目的地与车机屏幕保持状态同步；此举被认为可有效解决特斯拉FSD用户长期反映的CarPlay导航与自动驾驶系统路径不一致问题，适用于所有支持Apple CarPlay的车型。",
-      "publishedAt": "2026-06-11T07:54:59+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/962/712.htm",
-      "subCategory": "消费电子"
-    },
-    {
-      "id": "tech-20260611-003",
-      "title": "统筹调配车辆芯片算力，中国汽车基础软件技术首次进入全球行业标准",
-      "summary": "由中国车企和软件企业主导开发的车辆跨域芯片算力统筹调度技术方案被纳入国际汽车行业标准，实现多颗域控制器芯片计算资源的动态分配与优化；这是中国汽车基础软件技术首次以主导角色推动标准国际化，标志着我国在车载软件架构领域从跟跑迈向并跑。",
-      "publishedAt": "2026-06-11T07:40:00+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/962/707.htm",
-      "subCategory": "智能汽车"
-    },
-    {
-      "id": "tech-20260610-002",
-      "title": "鸿蒙 7 发布已板上钉钉：华为 HDC 2026 开发者大会议题公布，将带来全新 UI design kit",
-      "summary": "华为HDC 2026开发者大会议题安排正式公布，包含鸿蒙7操作系统主题演讲及全新UI design kit技术分享，确认鸿蒙7即将在大会期间正式亮相；新设计体系预计覆盖更丰富的动效规范和多设备一致性设计语言，并针对HarmonyOS NEXT的AI原生应用开发场景进行全面优化。",
-      "publishedAt": "2026-06-10T23:59:24+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/962/688.htm",
-      "subCategory": "操作系统"
-    },
-    {
-      "id": "tech-20260610-001",
-      "title": "消息称三星电子计划在韩国光州新建先进半导体封装工厂",
-      "summary": "据报道三星电子正研究在韩国光州新建先进半导体封装工厂，重点布局高带宽内存（HBM）及先进封装产能；AI算力持续拉动高端封装需求，三星此举旨在缩小与SK海力士的HBM产能差距，巩固其在AI供应链中的地位。",
-      "publishedAt": "2026-06-10",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/962/153.htm",
-      "subCategory": "芯片硬件"
-    },
-    {
-      "id": "tech-20260609-002",
-      "title": "苹果确认：Siri AI等Apple Intelligence新功能在中国大陆暂不提供",
-      "summary": "苹果在WWDC26后确认，新版Siri AI跨应用操作及多项Apple Intelligence新功能在中国大陆暂不上线，原因为需满足当地法规要求；苹果表示正持续与相关部门沟通，用户可将设备语言切换至繁体中文以体验部分已上线功能。",
-      "publishedAt": "2026-06-09T02:14:17+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/961/679.htm",
-      "subCategory": "消费电子"
     }
   ]
 }

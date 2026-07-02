@@ -3,8 +3,107 @@
   "slug": "ai",
   "title": "AI 与大模型",
   "description": "大模型、Agent、AI 编程、推理框架、开源模型的发布与落地。",
-  "updatedAt": "2026-07-01T17:10:00+08:00",
+  "updatedAt": "2026-07-02T09:15:00+08:00",
   "items": [
+    {
+      "id": "ai-20260701-004",
+      "title": "Hugging Face与Cerebras联合打造实时语音AI：Gemma 4驱动端到端方案",
+      "summary": "Hugging Face与Cerebras合作构建开放式语音对话管线，整合Parakeet语音识别、经Cerebras推理加速的Gemma 4模型及Qwen3 TTS，强调低延迟自然对话体验，该方案已应用于Reachy Mini机器人。",
+      "publishedAt": "2026-07-01",
+      "source": "Hugging Face",
+      "url": "https://huggingface.co/blog/cerebras-gemma4-voice-ai",
+      "subCategory": "AI音频"
+    },
+    {
+      "id": "ai-20260701-005",
+      "title": "消息称Kimi K3新一代国产大模型确认本月发布",
+      "summary": "月之暗面一名员工在X平台确认Kimi K3将于2026年7月发布，具体日期未定。该模型传闻参数规模约2.5万亿，超过DeepSeek V4 Pro（1.6万亿）与百度文心5.0（2.4万亿），支持百万Token上下文及多模态能力，延续6月发布的Kimi K2.7 Code。",
+      "publishedAt": "2026-07-01",
+      "source": "新浪财经",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-07-01/doc-inifihnu3004697.shtml",
+      "subCategory": "大模型"
+    },
+    {
+      "id": "ai-20260701-006",
+      "title": "Pulpie: Pareto-Optimal Models for Cleaning the Web",
+      "summary": "Hugging Face博客介绍Pulpie系列高效编码器模型，用于从HTML页面中提取正文内容。最小版本pulpie-orange-small参数量为210M（对比主流系统Dripper的600M），提取质量相当，但计算成本约为其二十分之一，采用单次前向传播而非逐词生成。",
+      "publishedAt": "2026-07-01",
+      "source": "Hugging Face",
+      "url": "https://huggingface.co/blog/feyninc/pulpie",
+      "subCategory": "论文进展"
+    },
+    {
+      "id": "ai-20260701-007",
+      "title": "Does Your LLM Know When It's About to Be Wrong?",
+      "summary": "Hugging Face博客发布一套评估大模型\"元认知\"能力的新框架，衡量模型识别并纠正自身错误的能力。团队公开了含300余道题目的基准测试集、覆盖24个模型的排行榜及专用适配器，结果显示即便表现最好的模型在自由写作任务中也难以察觉自身错误。",
+      "publishedAt": "2026-07-01",
+      "source": "Hugging Face",
+      "url": "https://huggingface.co/blog/ginigen-ai/metacognition",
+      "subCategory": "AI评测"
+    },
+    {
+      "id": "ai-20260701-008",
+      "title": "Kimi K2.7 Code is generally available in GitHub Copilot",
+      "summary": "GitHub 于7月1日宣布开源模型 Kimi K2.7 Code 正式登陆 GitHub Copilot 模型选择器，作为首个可选开源权重模型，率先向 Copilot Pro、Pro+、Max 用户开放，企业版需管理员在设置中手动启用，模型托管于 Microsoft Azure。",
+      "publishedAt": "2026-07-01",
+      "source": "GitHub Changelog",
+      "url": "https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot/",
+      "subCategory": "AI编程"
+    },
+    {
+      "id": "ai-20260701-009",
+      "title": "Browser tools for GitHub Copilot in VS Code are generally available",
+      "summary": "GitHub 于7月1日宣布 VS Code 中 Copilot 代理浏览器工具正式可用，代理可浏览网页、点击输入、读取内容并截图；用户标签页默认保密，摄像头等敏感权限需额外授权，企业可通过设置及网络域控制统一管理。",
+      "publishedAt": "2026-07-01",
+      "source": "GitHub Changelog",
+      "url": "https://github.blog/changelog/2026-07-01-browser-tools-for-github-copilot-in-vs-code-are-generally-available/",
+      "subCategory": "AI编程"
+    },
+    {
+      "id": "ai-20260701-010",
+      "title": "Introducing OpenWiki, an open source agent for repo documentation",
+      "summary": "LangChain 于7月1日发布开源工具 OpenWiki，可为代码仓库自动生成并维护结构化文档 wiki，供 AGENTS.md 等配置文件引用；支持通过 GitHub Action 依据最新提交定期更新，基于 DeepAgents 构建并集成 LangSmith 追踪功能。",
+      "publishedAt": "2026-07-01",
+      "source": "LangChain Blog",
+      "url": "https://www.langchain.com/blog/introducing-openwiki-an-open-source-agent-for-repo-documentation",
+      "subCategory": "Agent"
+    },
+    {
+      "id": "ai-20260701-011",
+      "title": "How to Use RLMs in Deep Agents",
+      "summary": "LangChain 于7月1日发文介绍在 Deep Agents 中使用递归语言模型（RLM）应对上下文膨胀问题，通过代码解释器动态派发子代理处理长文本片段；在 OOLONG 数据集128k token场景下，准确率由标准代理的0.44提升至0.79。",
+      "publishedAt": "2026-07-01",
+      "source": "LangChain Blog",
+      "url": "https://www.langchain.com/blog/how-to-use-rlms-in-deep-agents",
+      "subCategory": "Agent"
+    },
+    {
+      "id": "ai-20260701-012",
+      "title": "Orca: The World is in Your Mind",
+      "summary": "论文提出世界基础模型Orca，通过统一世界隐空间学习多模态状态转移，训练数据含12.5万小时视频及1.6亿条事件标注，可支持文本生成、图像预测与具身动作等下游任务，性能超过同类专用模型。",
+      "publishedAt": "2026-07-01",
+      "source": "Hugging Face Daily Papers",
+      "url": "https://huggingface.co/papers/2606.30534",
+      "subCategory": "论文进展"
+    },
+    {
+      "id": "ai-20260701-013",
+      "title": "Dockerless: Environment-Free Program Verifier for Coding Agents",
+      "summary": "字节跳动提出Dockerless验证系统，无需Docker等执行环境即可评估代码补丁正确性，通过智能体式仓库探索替代单元测试运行，在SWE-bench等基准上优于现有开源验证器，并支持无环境依赖的编码智能体训练流程。",
+      "publishedAt": "2026-07-01",
+      "source": "Hugging Face Daily Papers",
+      "url": "https://huggingface.co/papers/2606.28436",
+      "subCategory": "AI编程"
+    },
+    {
+      "id": "ai-20260701-014",
+      "title": "OpenAI 推出 GeneBench-Pro 基准测试，用于评估 AI 模型生物学计算能力",
+      "summary": "OpenAI于7月1日发布生物计算基准测试GeneBench-Pro，含129道题目，覆盖统计遗传学、群体遗传学等10大领域21个子方向，以合成数据构建避免模型套用捷径，已在Hugging Face开源10道示例题，后续将开放50题供第三方独立评测。",
+      "publishedAt": "2026-07-01T22:53:00+08:00",
+      "source": "新浪科技",
+      "url": "https://finance.sina.com.cn/tech/digi/2026-07-01/doc-inifinuq6128768.shtml",
+      "subCategory": "AI评测"
+    },
     {
       "id": "ai-20260701-002",
       "title": "Anthropic回应Claude Code暗藏代码检测中国用户：将在明日更新中删除",
@@ -31,60 +130,6 @@
       "url": "https://www.163.com/tech/article/L0O813E300097U7T.html",
       "subCategory": "大模型",
       "id": "ai-20260701-001"
-    },
-    {
-      "id": "ai-20260701-004",
-      "title": "Hugging Face与Cerebras联合打造实时语音AI：Gemma 4驱动端到端方案",
-      "summary": "Hugging Face与Cerebras合作构建开放式语音对话管线，整合Parakeet语音识别、经Cerebras推理加速的Gemma 4模型及Qwen3 TTS，强调低延迟自然对话体验，该方案已应用于Reachy Mini机器人。",
-      "publishedAt": "2026-07-01",
-      "source": "Hugging Face",
-      "url": "https://huggingface.co/blog/cerebras-gemma4-voice-ai",
-      "subCategory": "AI音频"
-    },
-    {
-      "id": "ai-20260701-005",
-      "title": "消息称Kimi K3新一代国产大模型确认本月发布",
-      "summary": "月之暗面一名员工在X平台确认Kimi K3将于2026年7月发布，具体日期未定。该模型传闻参数规模约2.5万亿，超过DeepSeek V4 Pro（1.6万亿）与百度文心5.0（2.4万亿），支持百万Token上下文及多模态能力，延续6月发布的Kimi K2.7 Code。",
-      "publishedAt": "2026-07-01",
-      "source": "新浪财经",
-      "url": "https://finance.sina.com.cn/tech/roll/2026-07-01/doc-inifihnu3004697.shtml",
-      "subCategory": "大模型"
-    },
-    {
-      "title": "马斯克发Cursor手机版，撞档OpenClaw，AI编程App入口战打响了",
-      "summary": "Cursor上线iOS公测版，支持语音或斜杠命令启动Agent任务、锁屏实时进度提示及移动端审阅合并代码；同日OpenClaw也发布iOS与Android应用，AI编程工具移动化竞争加剧。",
-      "publishedAt": "2026-06-30T19:16:00+08:00",
-      "source": "36氪",
-      "url": "https://36kr.com/p/3875504164417793",
-      "subCategory": "AI编程",
-      "id": "ai-20260630-003"
-    },
-    {
-      "id": "ai-20260630-002",
-      "title": "AI 老板 500 天模拟经营：多数模型亏惨，Claude Fable 5 独占鳌头",
-      "summary": "普林斯顿大学发布CEO-Bench基准测试，让AI模型以100万美元初始资金模拟经营初创公司500天，涵盖定价、预算、竞争分析等7大类34种工具的调用；测试中多数模型未能保住本金甚至破产，Grok 4.20、DeepSeek V4 Pro、Gemini 3 Flash等在三次测试中全部破产，Claude Fable 5是唯一在多轮测试中保持盈利的模型，最佳一轮现金达4714.8164万美元。",
-      "publishedAt": "2026-06-30T14:06:53+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/970/502.htm",
-      "subCategory": "AI评测"
-    },
-    {
-      "id": "ai-20260630-001",
-      "title": "业界首个：美团 LongCat-2.0 发布，国产芯片上跑出的万亿参数模型",
-      "summary": "美团发布LongCat-2.0大模型，为业界首个依靠国产算力完成训练与推理全流程的万亿参数模型，总参数规模1.6万亿、平均激活参数约480亿，支持100万Token上下文；模型在5万卡国产算力集群上完成全流程训练推理，稳定运行阶段日均吞吐量超1万亿Token，测试版本此前已在OpenRouter平台调用量跻身全球前三。",
-      "publishedAt": "2026-06-30T10:55:25+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/970/320.htm",
-      "subCategory": "大模型"
-    },
-    {
-      "id": "ai-20260630-006",
-      "title": "谷歌Gemini个性化AI生图功能面向全美免费用户开放",
-      "summary": "谷歌将Nano Banana驱动的个性化图像生成功能扩展至美国全体符合条件的免费版Gemini用户（此前仅限Plus/Pro/Ultra付费用户），该功能可结合已连接的Gmail、相册、YouTube及搜索数据自动生成个性化图像。",
-      "publishedAt": "2026-06-30T07:35:52+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/970/251.htm",
-      "subCategory": "多模态"
     },
     {
       "id": "ai-20260630-004",
@@ -123,13 +168,40 @@
       "subCategory": "AI评测"
     },
     {
-      "id": "ai-20260629-001",
-      "title": "马斯克宣布Grok 4.5开启SpaceX与特斯拉内部私测，性能或超越Opus",
-      "summary": "马斯克在X平台宣布Grok 4.5已进入SpaceX和特斯拉内部私测阶段，其测试结果显示性能或超越Claude Opus系列；xAI计划在内部测试趋于稳定后优先向SuperGrok Heavy订阅用户推送，Grok 4.5定位于当前Grok 4与更高阶版本之间的过渡升级。",
-      "publishedAt": "2026-06-29T07:49:00+08:00",
+      "title": "马斯克发Cursor手机版，撞档OpenClaw，AI编程App入口战打响了",
+      "summary": "Cursor上线iOS公测版，支持语音或斜杠命令启动Agent任务、锁屏实时进度提示及移动端审阅合并代码；同日OpenClaw也发布iOS与Android应用，AI编程工具移动化竞争加剧。",
+      "publishedAt": "2026-06-30T19:16:00+08:00",
       "source": "36氪",
-      "url": "https://36kr.com/newsflashes/3873481579746561",
+      "url": "https://36kr.com/p/3875504164417793",
+      "subCategory": "AI编程",
+      "id": "ai-20260630-003"
+    },
+    {
+      "id": "ai-20260630-002",
+      "title": "AI 老板 500 天模拟经营：多数模型亏惨，Claude Fable 5 独占鳌头",
+      "summary": "普林斯顿大学发布CEO-Bench基准测试，让AI模型以100万美元初始资金模拟经营初创公司500天，涵盖定价、预算、竞争分析等7大类34种工具的调用；测试中多数模型未能保住本金甚至破产，Grok 4.20、DeepSeek V4 Pro、Gemini 3 Flash等在三次测试中全部破产，Claude Fable 5是唯一在多轮测试中保持盈利的模型，最佳一轮现金达4714.8164万美元。",
+      "publishedAt": "2026-06-30T14:06:53+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/970/502.htm",
+      "subCategory": "AI评测"
+    },
+    {
+      "id": "ai-20260630-001",
+      "title": "业界首个：美团 LongCat-2.0 发布，国产芯片上跑出的万亿参数模型",
+      "summary": "美团发布LongCat-2.0大模型，为业界首个依靠国产算力完成训练与推理全流程的万亿参数模型，总参数规模1.6万亿、平均激活参数约480亿，支持100万Token上下文；模型在5万卡国产算力集群上完成全流程训练推理，稳定运行阶段日均吞吐量超1万亿Token，测试版本此前已在OpenRouter平台调用量跻身全球前三。",
+      "publishedAt": "2026-06-30T10:55:25+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/970/320.htm",
       "subCategory": "大模型"
+    },
+    {
+      "id": "ai-20260630-006",
+      "title": "谷歌Gemini个性化AI生图功能面向全美免费用户开放",
+      "summary": "谷歌将Nano Banana驱动的个性化图像生成功能扩展至美国全体符合条件的免费版Gemini用户（此前仅限Plus/Pro/Ultra付费用户），该功能可结合已连接的Gmail、相册、YouTube及搜索数据自动生成个性化图像。",
+      "publishedAt": "2026-06-30T07:35:52+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/970/251.htm",
+      "subCategory": "多模态"
     },
     {
       "id": "ai-20260629-002",
@@ -157,6 +229,15 @@
       "source": "arXiv",
       "url": "https://arxiv.org/abs/2606.30045",
       "subCategory": "论文进展"
+    },
+    {
+      "id": "ai-20260629-001",
+      "title": "马斯克宣布Grok 4.5开启SpaceX与特斯拉内部私测，性能或超越Opus",
+      "summary": "马斯克在X平台宣布Grok 4.5已进入SpaceX和特斯拉内部私测阶段，其测试结果显示性能或超越Claude Opus系列；xAI计划在内部测试趋于稳定后优先向SuperGrok Heavy订阅用户推送，Grok 4.5定位于当前Grok 4与更高阶版本之间的过渡升级。",
+      "publishedAt": "2026-06-29T07:49:00+08:00",
+      "source": "36氪",
+      "url": "https://36kr.com/newsflashes/3873481579746561",
+      "subCategory": "大模型"
     },
     {
       "id": "ai-20260628-001",
@@ -195,6 +276,15 @@
       "subCategory": "大模型"
     },
     {
+      "id": "ai-20260626-003",
+      "title": "Anthropic Economic Index report: Cadences",
+      "summary": "Anthropic发布最新经济指数报告，分析Claude使用模式中的日周节律：个人任务周末峰值显著，食谱请求在18时达到高峰；新版调查覆盖9700名Claude用户，显示使用Claude最多的用户对未来劳动力市场最为乐观。",
+      "publishedAt": "2026-06-26",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/research/economic-index-june-2026-report",
+      "subCategory": "AI应用"
+    },
+    {
       "id": "ai-20260626-002",
       "title": "机构：Jalapeño开启OpenAI自研芯片时代，AI算力迈向全栈协同",
       "summary": "OpenAI联合博通推出首款自研AI推理芯片Jalapeño，历时9个月完成从设计到流片，专为LLM推理负载优化，预计2026年底开始初始部署；此举标志OpenAI向模型加芯片垂直整合的全栈AI基础设施方向演进，AI算力生态加速向闭环演化。",
@@ -211,15 +301,6 @@
       "source": "IT之家",
       "url": "https://www.ithome.com/0/968/961.htm",
       "subCategory": "AI编程"
-    },
-    {
-      "id": "ai-20260626-003",
-      "title": "Anthropic Economic Index report: Cadences",
-      "summary": "Anthropic发布最新经济指数报告，分析Claude使用模式中的日周节律：个人任务周末峰值显著，食谱请求在18时达到高峰；新版调查覆盖9700名Claude用户，显示使用Claude最多的用户对未来劳动力市场最为乐观。",
-      "publishedAt": "2026-06-26",
-      "source": "Anthropic",
-      "url": "https://www.anthropic.com/research/economic-index-june-2026-report",
-      "subCategory": "AI应用"
     },
     {
       "id": "ai-20260625-002",
@@ -573,21 +654,21 @@
       "subCategory": "AI应用"
     },
     {
-      "id": "ai-20260609-002",
-      "title": "小米MiMo-V2.5-Pro-UltraSpeed：万亿参数模型推理速度首破1000 tokens/s",
-      "summary": "小米发布MiMo-V2.5-Pro-UltraSpeed推理加速版，在1万亿参数规模下推理速度突破1000 tokens/秒，称为同规模模型全球最快；通过推测解码与专用推理优化实现速度突破，编程与数学基准与标准版相当；模型API向开发者开放，价格同步永久下调。",
-      "publishedAt": "2026-06-09T14:57:37+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/961/953.htm",
-      "subCategory": "大模型"
-    },
-    {
       "id": "ai-20260609-001",
       "title": "Anthropic正式发布Claude Fable 5与Claude Mythos 5",
       "summary": "Anthropic发布Claude Fable 5与Claude Mythos 5两款新模型；Fable 5定位中量级模型，在代码生成、推理和Agent任务上较前代提升；Mythos 5为旗舰安全研究模型，专注复杂科学分析与代码安全场景；两款模型已通过API发布并上线Claude.ai。",
       "publishedAt": "2026-06-09",
       "source": "Anthropic",
       "url": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
+      "subCategory": "大模型"
+    },
+    {
+      "id": "ai-20260609-002",
+      "title": "小米MiMo-V2.5-Pro-UltraSpeed：万亿参数模型推理速度首破1000 tokens/s",
+      "summary": "小米发布MiMo-V2.5-Pro-UltraSpeed推理加速版，在1万亿参数规模下推理速度突破1000 tokens/秒，称为同规模模型全球最快；通过推测解码与专用推理优化实现速度突破，编程与数学基准与标准版相当；模型API向开发者开放，价格同步永久下调。",
+      "publishedAt": "2026-06-09T14:57:37+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/961/953.htm",
       "subCategory": "大模型"
     },
     {
@@ -643,204 +724,6 @@
       "source": "Anthropic",
       "url": "https://www.anthropic.com/news/claude-opus-4-8",
       "subCategory": "大模型"
-    },
-    {
-      "id": "ai-20260527-001",
-      "title": "小米 MiMo-V2.5 系列 API 永久降价：降幅 57%-99%，当前有效 Token Plan 用户额度全量重置",
-      "summary": "小米宣布MiMo-V2.5系列三款模型API永久降价，降幅在57%至99%之间，旗舰MiMo-V2.5-7B-RL输入价格降至0.3元/百万Tokens；所有当前有效Token Plan套餐用户剩余额度全量重置，以补偿此前付费用户，是国内大模型持续降价竞争的最新进展。",
-      "publishedAt": "2026-05-27T06:55:18+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/955/636.htm",
-      "subCategory": "大模型"
-    },
-    {
-      "id": "ai-20260526-004",
-      "title": "昆仑万维天工 AI 发布 SkyClaw-v1.0：面向真实工作流的百万上下文 Agent 模型",
-      "summary": "昆仑万维天工AI发布SkyClaw-v1.0，定位面向真实工作流的Agent专用模型，支持百万token上下文；在工具调用准确性、多步骤任务执行稳定性及长上下文理解能力上较前代显著提升，适用于复杂多轮对话、代码调试与文档分析等企业级Agent场景。",
-      "publishedAt": "2026-05-26T13:07:36+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/955/265.htm",
-      "subCategory": "Agent"
-    },
-    {
-      "id": "ai-20260526-001",
-      "title": "Kimi K2 系列模型 API 官宣下线，将不再维护和支持",
-      "summary": "月之暗面官宣Kimi K2系列五款API模型于5月25日下线，用户须迁移至kimi-k2.6；被下线模型具备代码和Agent任务优势，官方承诺提供迁移支持。",
-      "publishedAt": "2026-05-26T08:16:17+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/955/092.htm",
-      "subCategory": "大模型"
-    },
-    {
-      "id": "ai-20260526-002",
-      "title": "Anthropic 新模型 Claude Mythos 震动金融圈，欧洲央行紧急开会要求升级网络防御",
-      "summary": "欧洲央行召集各行召开临时会议，强调Claude Mythos已发现数千高危漏洞，要求银行大幅加快软件补丁部署速度应对AI安全威胁，认为这是\"足以改变游戏规则的事情\"。",
-      "publishedAt": "2026-05-26T07:53:30+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/955/090.htm",
-      "subCategory": "大模型"
-    },
-    {
-      "id": "ai-20260526-003",
-      "title": "OpenAI GPT-5.6 模型曝下月发布：AI 上下文 150 万 tokens",
-      "summary": "开发者在OpenAI后端日志发现未官宣的GPT-5.6（代号iris-alpha），支持150万token上下文，较GPT-5.5提升43%，预计6月发布，测试显示处理90万tokens以上仍流畅响应，前端UI生成能力同步提升。",
-      "publishedAt": "2026-05-26T06:59:12+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/955/078.htm",
-      "subCategory": "大模型"
-    },
-    {
-      "id": "ai-20260525-002",
-      "title": "马斯克宣布 Grok V9-Medium 1.5T 模型完成训练：加入大量 Cursor 数据，两到三周内发布",
-      "summary": "马斯克宣布Grok V9-Medium模型（参数量1.5万亿）已完成训练，\"评估结果相当不错\"；该模型在补充训练中加入大量Cursor数据，强化学习将于数天后启动，微调进行中；相比现有V8-Small版本，新模型编程能力将有重大提升，预计两到三周内公开发布。",
-      "publishedAt": "2026-05-25T14:49:06+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/954/855.htm",
-      "subCategory": "大模型"
-    },
-    {
-      "id": "ai-20260525-001",
-      "title": "英伟达将在新加坡设立具身智能研发中心，推动 AI 与物理世界交互",
-      "summary": "英伟达宣布将在新加坡建立具身智能研发中心，聚焦机器人感知、运动规划与人机交互技术研究，推动 AI 与物理世界的实时交互能力；中心将深度整合英伟达 Isaac 机器人平台与 Omniverse 数字孪生仿真技术，并与新加坡南洋理工大学等机构开展产学研合作，是英伟达在亚太地区具身智能生态布局的重要节点。",
-      "publishedAt": "2026-05-25T08:02:38+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/954/655.htm",
-      "subCategory": "具身智能"
-    },
-    {
-      "id": "ai-20260523-003",
-      "title": "OpenAI 开出最高 44.5 万美元年薪招聘研究员，要求有品位、有策略性",
-      "summary": "OpenAI公开招聘AI安全研究员，年薪区间29.5万至44.5万美元，负责研究AI系统自我改进时可能出现的安全挑战；职位要求候选人具备品位与策略性思维，核心方向包括数据投毒防御、模型可解释性工具开发及技术自动化进程监测。",
-      "publishedAt": "2026-05-23T23:49:19+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/954/455.htm",
-      "subCategory": "大模型"
-    },
-    {
-      "id": "ai-20260522-002",
-      "title": "消息称 Anthropic 最快下周完成逾 300 亿美元融资，有望推动估值反超 OpenAI",
-      "summary": "消息称Anthropic正推进逾300亿美元新一轮融资，最快下周完成，有望将估值推至900亿美元以上并超越OpenAI；本轮由红杉、Dragoneer等机构领投，各家计划出资约20亿美元；Anthropic Q2营收预计超109亿美元同比增速超500%，正加速IPO准备工作。",
-      "publishedAt": "2026-05-23T23:12:40+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/954/452.htm",
-      "subCategory": "大模型"
-    },
-    {
-      "id": "ai-20260523-001",
-      "title": "DeepSeek API 完成输出提速与服务扩容，默认支持 500 并发同时在线",
-      "summary": "DeepSeek官方宣布完成API输出提速与服务扩容，默认并发上限提升至500路同时在线；同步宣布DeepSeek-V4-Pro API于5月31日起永久降价至原定价1/4，输入缓存命中大幅降低；高需求企业可提交申请获取更高并发配额，是国产顶尖大模型降价同时持续优化服务质量的最新进展。",
-      "publishedAt": "2026-05-23T19:33:38+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/954/427.htm",
-      "subCategory": "大模型"
-    },
-    {
-      "id": "ai-20260523-004",
-      "title": "龙虾 OpenClaw 工程师示警：AI 正批量制造低质量危险代码",
-      "summary": "OpenClaw开发团队两位工程师公开警示AI辅助编程的质量风险：Pi框架创始者Zechner指出基础设施正在崩溃、软件漏洞增多；Ronacher强调部分企业以牺牲长期稳定换取短期效率；《华尔街日报》将此命名为\"vibe slop\"，建议AI生成代码须经人工审查与安全评估后方可投入生产环境。",
-      "publishedAt": "2026-05-23",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/954/301.htm",
-      "subCategory": "AI编程"
-    },
-    {
-      "id": "ai-20260522-006",
-      "title": "效率、成本、精度三重突破，灵御智能拿下近亿元融资",
-      "summary": "清华系企业灵御智能研发的TA机器人在具身智能数据采集领域实现三大突破：执行速度为竞品的30%、单任务数据成本降至0.6元、重复定位精度达0.1毫米；公司定位为具身智能基础设施提供商，通过为行业提供高质量本体和真机数据服务，获得近亿元融资。",
-      "publishedAt": "2026-05-22T16:55:34+08:00",
-      "source": "36氪",
-      "url": "https://36kr.com/p/3441898308327046",
-      "subCategory": "具身智能"
-    },
-    {
-      "id": "ai-20260522-003",
-      "title": "SpaceXAI 大举招聘人才，马斯克将亲自审阅求职申请",
-      "summary": "SpaceX 正为 AI 部门大举招聘工程师和物理学家，马斯克表示将亲自审核通过基本理智筛选的求职申请，要求求职者通过邮件提交三条要点证明自己的卓越能力，不要求 AI 从业经验但需有实际成果；SpaceX 已递交 S-1 上市申请，计划融资 750 至 850 亿美元。",
-      "publishedAt": "2026-05-22T16:21:28+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/954/001.htm",
-      "subCategory": "大模型"
-    },
-    {
-      "id": "ai-20260522-004",
-      "title": "OpenAI 推 Beta 版 ChatGPT for PowerPoint，可生成 / 编辑 / 完善幻灯片",
-      "summary": "OpenAI 推出 ChatGPT for PowerPoint 测试版插件，用户可在 PowerPoint 中通过自然语言指令从零生成新幻灯片或针对已有页面发出修改指令；工具支持分析演示文稿、识别内容缺口，含确认机制保障可控性，已向全球所有 ChatGPT 账户开放，免费用户可用。",
-      "publishedAt": "2026-05-22T15:17:56+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/953/923.htm",
-      "subCategory": "AI应用"
-    },
-    {
-      "id": "ai-20260522-005",
-      "title": "DeepSeek 推进 700 亿元融资，梁文锋承诺坚持开发开源 AI 模型而非追求短期商业化目标",
-      "summary": "DeepSeek推进700亿元融资，融资前估值约450亿美元；腾讯控股、IDG资本和砺思资本接近确定参投，创始人梁文锋个人或注资约200亿元；公司向投资者承诺继续开发开源AI模型、不追求短期商业化，若成功将创中国科技初创公司首轮融资最高纪录。",
-      "publishedAt": "2026-05-22T12:30:38+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/953/832.htm",
-      "subCategory": "大模型"
-    },
-    {
-      "id": "ai-20260522-008",
-      "title": "智谱 GLM-5.1 高速版 AI 模型发布，跑出全球最快速度 400 tokens/s",
-      "summary": "智谱AI发布GLM-5.1高速版大模型，在保持GLM-5推理质量的基础上实现输出速度400 tokens/秒，刷新全球大模型最快输出速度纪录，较上一代模型速度提升数倍；该模型已通过API向开发者开放，适用于需要实时交互的Agent、代码补全等高吞吐量应用场景。",
-      "publishedAt": "2026-05-22T10:02:46+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/953/717.htm",
-      "subCategory": "大模型"
-    },
-    {
-      "id": "ai-20260522-009",
-      "title": "Anthropic Project Glasswing：AI 一个月发现超 1 万个高危漏洞，修补速度已成瓶颈",
-      "summary": "Anthropic公布Project Glasswing首月进展：基于Claude Mythos Preview协助约50家合作伙伴扫描代码库，一个月内在关键软件中发现逾1万个高危和严重级安全漏洞；研究表明AI发现漏洞速度已超过人工修补能力，形成新安全瓶颈；Anthropic同步开放代码库扫描工具并支持开源安全基金会，协助防御方主动应对漏洞风险。",
-      "publishedAt": "2026-05-22",
-      "source": "Anthropic",
-      "url": "https://www.anthropic.com/research/glasswing-initial-update",
-      "subCategory": "AI应用"
-    },
-    {
-      "id": "ai-20260522-007",
-      "title": "DeepSeek-V4-Pro API 宣布永久降价，调整为原定价的 1/4",
-      "summary": "DeepSeek官方宣布DeepSeek-V4-Pro API于5月31日起永久降价，调整为原定价的1/4；原价输入缓存命中0.1元/百万Tokens、缓存未命中12元/百万Tokens、输出24元/百万Tokens，此前2.5折促销期结束后将正式固化为永久定价，进一步降低国产顶级大模型的API使用成本。",
-      "publishedAt": "2026-05-22",
-      "source": "AndroidHeadlines",
-      "url": "https://www.androidheadlines.com/2026/05/deepseek-v4-pro-api-price-cut-permanent-ai-rate-limits.html",
-      "subCategory": "大模型"
-    },
-    {
-      "id": "ai-20260522-001",
-      "title": "Mac 版 Codex 更新 Appshots 功能，窗口可直接\"喂\"给 AI",
-      "summary": "OpenAI更新Mac版Codex应用，新增Appshots功能允许用户通过快捷键截取任意窗口内容直接发送给AI识别处理；\"/goal\"功能结束实验阶段转正，支持设定长期任务目标；同时优化浏览器功能并新增付费用户数据分析维度。",
-      "publishedAt": "2026-05-22",
-      "source": "OpenAI Developers",
-      "url": "https://developers.openai.com/codex/appshots",
-      "subCategory": "AI编程"
-    },
-    {
-      "id": "ai-20260521-002",
-      "title": "消息称 Anthropic 正洽谈使用微软 AI 芯片",
-      "summary": "据报道Anthropic正与微软洽谈租用其自研AI服务器芯片的算力，若合作落地将对微软突破英伟达芯片垄断具有重要意义；目前双方合作仍处于初期阶段，具体细节尚未公开，是AI算力采购多元化趋势的最新进展。",
-      "publishedAt": "2026-05-21T21:47:31+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/953/649.htm",
-      "subCategory": "大模型"
-    },
-    {
-      "id": "ai-20260521-001",
-      "title": "腾讯张军官宣操作系统层级 AI 助手\"马维斯\"正式上工，Windows、Mac、安卓端同步上线",
-      "summary": "腾讯推出操作系统层级AI助手\"马维斯\"，Windows、Mac、安卓三端同步上线，可归类文档、识别图片、修复系统问题；采用路由机制自动将不同重量级任务分配至不同模型，部分模型在本地运行支持离线使用；定位个性化AI助手，涵盖市面Agent常见能力，由腾讯技术委员会主席张军亲自官宣上线。",
-      "publishedAt": "2026-05-21T07:28:17+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/953/096.htm",
-      "subCategory": "Agent"
-    },
-    {
-      "id": "ai-20260522-002",
-      "title": "允许订阅用户创作 AI 翻唱、Remix 音乐，Spotify 与环球音乐达成合作",
-      "summary": "Spotify与环球音乐集团达成授权协议，允许Premium订阅用户利用AI创作翻唱歌曲和混音作品，功能通过付费服务推出，为音乐人开辟版税外新收入来源；协议达成后Spotify股价上涨16%，是AI生成内容与传统版权体系规模化合作的标志性案例。",
-      "publishedAt": "2026-05-21",
-      "source": "Spotify Newsroom",
-      "url": "https://newsroom.spotify.com/2026-05-21/universal-music-group-spotify-licensing-agreements-fan-made-covers-remixes/",
-      "subCategory": "AI音频"
     }
   ]
 }

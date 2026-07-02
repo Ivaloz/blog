@@ -3,8 +3,71 @@
   "slug": "finance",
   "title": "投资与财经",
   "description": "宏观经济、A 股 / 港股 / 美股、一级市场融资、行业研报观点。",
-  "updatedAt": "2026-07-01T17:10:00+08:00",
+  "updatedAt": "2026-07-02T09:15:00+08:00",
   "items": [
+    {
+      "id": "finance-20260702-001",
+      "title": "阿里巴巴同意支付6亿美元与美国司法部就非法药品销售指控达成和解",
+      "summary": "美国司法部宣布，阿里巴巴及美国支付子公司AUS同意支付6亿美元，就未阻止商家经其平台向美国销售非法药品及管制化学品指控达成不起诉协议。司法部称2016至2024年相关平台发生约8万笔涉案交易，金额超2亿美元。",
+      "publishedAt": "2026-07-02T04:23:00+08:00",
+      "source": "英为财情(Investing.com)",
+      "url": "https://cn.investing.com/news/stock-market-news/article-93CH-3443210",
+      "subCategory": "风险事件"
+    },
+    {
+      "id": "finance-20260701-008",
+      "title": "公告精选：比亚迪6月新能源汽车销量40.35万辆；雅克科技、多氟多等提示风险",
+      "summary": "比亚迪公告6月新能源汽车销量40.35万辆，上年同期为38.26万辆。雅克科技提示市场对电子材料业务或存过度解读，多氟多说明半导体级氢氟酸占2025年营收不足2%，另有多家公司发布业绩预告与回购公告。",
+      "publishedAt": "2026-07-01",
+      "source": "证券时报",
+      "url": "https://www.stcn.com/article/detail/3993265.html",
+      "subCategory": "A股"
+    },
+    {
+      "title": "Gold Stays Close to 8-Month Low",
+      "summary": "黄金价格7月1日报3973.84美元/盎司，日内下跌0.85%，受美国就业数据强于预期影响，市场对美联储加息预期升温，金价维持在近八个月低位附近。",
+      "publishedAt": "2026-07-01",
+      "source": "Trading Economics",
+      "url": "https://tradingeconomics.com/commodity/gold",
+      "subCategory": "大宗商品",
+      "id": "finance-20260701-001"
+    },
+    {
+      "id": "finance-20260701-012",
+      "title": "美国6月ISM制造业PMI录得53.3%，连续六个月扩张",
+      "summary": "美国供应管理协会（ISM）公布数据显示，6月制造业PMI为53.3%，较5月的54.0%下降0.7个百分点，为连续第六个月扩张。新订单指数56.0%，生产指数52.2%，物价指数较5月大幅回落9.1个百分点至73.0%。",
+      "publishedAt": "2026-07-01T22:00:00+08:00",
+      "source": "ISM/PR Newswire",
+      "url": "https://www.prnewswire.com/news-releases/manufacturing-pmi-at-53-3-june-2026-ism-manufacturing-pmi-report-302814991.html",
+      "subCategory": "宏观经济"
+    },
+    {
+      "id": "finance-20260701-013",
+      "title": "美股半年收官全线走高，标普、纳指创2020年以来最佳单季表现",
+      "summary": "美股6月30日收盘全线上涨，道指涨0.3%报52319.20点创收盘新高，标普500涨0.8%报7499.36点，纳指涨1.5%报26213.72点。二季度标普及纳指创2020年以来最佳单季表现。",
+      "publishedAt": "2026-07-01T21:34:00+08:00",
+      "source": "Yahoo Finance (Zacks Equity Research)",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-news-july-1-133400519.html",
+      "subCategory": "美股"
+    },
+    {
+      "id": "finance-20260701-011",
+      "title": "布伦特原油跌至72.68美元，创近一个月最大跌幅",
+      "summary": "截至7月1日美东时间上午8时40分，布伦特原油报每桶72.68美元，较前一交易日的75.02美元下跌2.34美元，跌幅3.11%；较一个月前的95.04美元下跌23.52%，较去年同期上涨6.35%。",
+      "publishedAt": "2026-07-01T20:42:00+08:00",
+      "source": "Fortune",
+      "url": "https://fortune.com/article/price-of-oil-07-01-2026/",
+      "subCategory": "大宗商品"
+    },
+    {
+      "id": "finance-20260701-010",
+      "title": "沪指三连阳收复4100点，养殖、保险等板块领涨",
+      "summary": "7月1日A股收盘，上证指数涨0.44%报收4100点上方，深成指跌0.53%，创业板指跌1.89%。全市场超4300只个股上涨，153只个股涨停，沪深两市成交额3.66万亿元，较前一日增加3862亿元。保险、养殖板块领涨，通信设备板块下跌。",
+      "publishedAt": "2026-07-01T17:20:00+08:00",
+      "source": "财联社",
+      "url": "https://www.cls.cn/detail/2414302",
+      "subCategory": "A股"
+    },
     {
       "title": "睿心医疗完成亿元级别融资",
       "summary": "深圳睿心智能医疗科技有限公司宣布完成新一轮战略融资，规模近亿元，由海河产业基金、中丽基金两家市区两级国有产业资本联合投资。",
@@ -22,6 +85,15 @@
       "url": "https://www.chinaventure.com.cn/flash/20260701-89830.html",
       "subCategory": "一级市场",
       "id": "finance-20260701-003"
+    },
+    {
+      "id": "finance-20260701-009",
+      "title": "迈克尔·伯里披露做空特斯拉、英伟达、卡特彼勒等仓位，警示芯片股泡沫风险",
+      "summary": "知名投资人迈克尔·伯里披露新增做空仓位，包括特斯拉（入场价416.22美元）、英伟达（198.09美元）及卡特彼勒、应用材料，并上调半导体ETF看跌期权行权价。伯里称费城半导体指数相对200日均线偏离处于历史高位，存在回调风险。",
+      "publishedAt": "2026-07-01T13:38:00+08:00",
+      "source": "Benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/07/60207524/big-short-investor-michael-burry-reveals-tesla-nvidia-shorts-says-chip-boom-is-beginning-of-the-end",
+      "subCategory": "风险事件"
     },
     {
       "id": "finance-20260701-007",
@@ -51,6 +123,15 @@
       "id": "finance-20260701-002"
     },
     {
+      "id": "finance-20260701-014",
+      "title": "A股35家公司披露半年度业绩预告，预喜比例达74.29%",
+      "summary": "截至6月30日，已有35家A股公司披露2026年半年度业绩预告，预增11家、略增12家、扭亏3家，预喜比例74.29%。长川科技预计净利同比增长超110%，亿纬锂能预计增长95%以上，恒逸石化预计增长约23-25倍。",
+      "publishedAt": "2026-07-01T07:11:00+08:00",
+      "source": "东方财富网",
+      "url": "https://wap.eastmoney.com/a/202607013788807819.html",
+      "subCategory": "公司财报"
+    },
+    {
       "id": "finance-20260701-006",
       "title": "A股上半年13家公司退市 爆出财务造假等问题",
       "summary": "据Wind数据，2026年上半年13家A股公司退市，多起涉及财务造假与内控失效。广道退2018年至2024年上半年累计虚增收入超14亿元；退市岩石成为首只被退市的白酒股，退市观典曾为北交所转科创板首例。",
@@ -58,24 +139,6 @@
       "source": "大纪元",
       "url": "https://www.epochtimes.com/gb/26/6/30/n14800025.htm",
       "subCategory": "风险事件"
-    },
-    {
-      "id": "finance-20260701-008",
-      "title": "公告精选：比亚迪6月新能源汽车销量40.35万辆；雅克科技、多氟多等提示风险",
-      "summary": "比亚迪公告6月新能源汽车销量40.35万辆，上年同期为38.26万辆。雅克科技提示市场对电子材料业务或存过度解读，多氟多说明半导体级氢氟酸占2025年营收不足2%，另有多家公司发布业绩预告与回购公告。",
-      "publishedAt": "2026-07-01",
-      "source": "证券时报",
-      "url": "https://www.stcn.com/article/detail/3993265.html",
-      "subCategory": "A股"
-    },
-    {
-      "title": "Gold Stays Close to 8-Month Low",
-      "summary": "黄金价格7月1日报3973.84美元/盎司，日内下跌0.85%，受美国就业数据强于预期影响，市场对美联储加息预期升温，金价维持在近八个月低位附近。",
-      "publishedAt": "2026-07-01",
-      "source": "Trading Economics",
-      "url": "https://tradingeconomics.com/commodity/gold",
-      "subCategory": "大宗商品",
-      "id": "finance-20260701-001"
     },
     {
       "title": "市值破万亿后，寒武纪深夜提示风险",
@@ -231,6 +294,15 @@
       "subCategory": "A股"
     },
     {
+      "id": "finance-20260626-003",
+      "title": "A股大幅回调，上证跌逾2%报4027点，深证跌3.4%",
+      "summary": "6月26日A股全线大幅调整，上证综合指数收报4027.26点，跌幅2.26%；深证成指收报15782点，跌幅3.44%；下跌主因为科技股外资持续减持与指数成分股调仓形成集中卖压，全天两市成交明显放量，市场情绪整体偏谨慎。",
+      "publishedAt": "2026-06-26",
+      "source": "英为财情",
+      "url": "https://zh.tradingeconomics.com/china/stock-market",
+      "subCategory": "A股"
+    },
+    {
       "id": "finance-20260626-007",
       "title": "中国资产，直线拉升！热门中概股多数上涨",
       "summary": "纳斯达克中国金龙指数早盘涨逾1%，热门中概股多数上涨；涨幅居前的有网易有道、网易（涨超6%）、爱奇艺、叮咚买菜（涨超4%），携程和小鹏汽车跌逾1%。",
@@ -283,15 +355,6 @@
       "source": "新浪财经",
       "url": "https://finance.sina.com.cn/jjxw/2026-06-26/doc-inieszsa1989234.shtml",
       "subCategory": "美股"
-    },
-    {
-      "id": "finance-20260626-003",
-      "title": "A股大幅回调，上证跌逾2%报4027点，深证跌3.4%",
-      "summary": "6月26日A股全线大幅调整，上证综合指数收报4027.26点，跌幅2.26%；深证成指收报15782点，跌幅3.44%；下跌主因为科技股外资持续减持与指数成分股调仓形成集中卖压，全天两市成交明显放量，市场情绪整体偏谨慎。",
-      "publishedAt": "2026-06-26",
-      "source": "英为财情",
-      "url": "https://zh.tradingeconomics.com/china/stock-market",
-      "subCategory": "A股"
     },
     {
       "id": "finance-20260625-002",
@@ -660,159 +723,6 @@
       "publishedAt": "2026-06-11T07:43:00+08:00",
       "source": "证券时报",
       "url": "https://www.stcn.com/article/detail/3954888.html",
-      "subCategory": "风险事件"
-    },
-    {
-      "id": "finance-20260611-003",
-      "title": "百亿私募扩容至139家创新高 年内备案产品激增近五成",
-      "summary": "截至2026年5月，国内管理规模超百亿元的私募基金管理人增至139家，创历史新高；2026年前五个月新备案证券私募产品6530只，同比激增49.15%；多资产策略和指数增强产品受机构追捧，头部机构集中度持续提升。",
-      "publishedAt": "2026-06-11T06:47:00+08:00",
-      "source": "证券时报",
-      "url": "https://www.stcn.com/article/detail/3954733.html",
-      "subCategory": "一级市场"
-    },
-    {
-      "id": "finance-20260611-002",
-      "title": "A股宽基指数样本即将大调整 近9000亿元指数基金同步调仓",
-      "summary": "沪深300、中证500、中证1000等主要宽基指数定期调整将于6月12日生效，涉及跟踪资产规模近9000亿元的指数基金同步调仓；新纳入成分股以半导体、先进制造等科技龙头为主，调出标的以传统行业股为主，调整生效日前后相关标的流动性将出现阶段性波动。",
-      "publishedAt": "2026-06-11T06:45:00+08:00",
-      "source": "证券时报",
-      "url": "https://www.stcn.com/article/detail/3954737.html",
-      "subCategory": "A股"
-    },
-    {
-      "id": "finance-20260610-001",
-      "title": "创业板指高开高走涨近4%，半导体、PCB板块集体反弹",
-      "summary": "6月10日A股创业板指高开高走，涨幅接近4%，科创50同步强势上涨；半导体、PCB等AI算力相关板块集体大幅反弹，为当日市场核心主线；前期超跌修复叠加AI算力需求升温是主要驱动因素，成交额在大涨背景下明显放量。",
-      "publishedAt": "2026-06-10T07:53:00+08:00",
-      "source": "证券时报",
-      "url": "https://www.stcn.com/article/detail/3952513.html",
-      "subCategory": "A股"
-    },
-    {
-      "id": "finance-20260610-002",
-      "title": "消息：SpaceX认购破二千亿美元 超额近四倍",
-      "summary": "消息人士引述彭博及路透报道，SpaceX IPO认购规模突破2500亿美元，较750亿美元目标募资规模超额认购约3.5至4倍；公司计划以每股135美元发行5.556亿股，6月12日在纳斯达克以SPCX代码挂牌，有望超越沙特阿美创史上最大IPO纪录。",
-      "publishedAt": "2026-06-10",
-      "source": "大纪元",
-      "url": "https://www.epochtimes.com/gb/26/6/10/n14785699.htm",
-      "subCategory": "一级市场"
-    },
-    {
-      "id": "finance-20260609-001",
-      "title": "OpenAI秘密递交IPO招股书，正式启动赴美上市程序",
-      "summary": "据Fortune报道，OpenAI已向美国SEC秘密递交S-1招股书，正式启动IPO进程；公司计划最早秋季登陆美股，当前私募估值逾8500亿美元；此前Anthropic已率先递表，两家顶级AI公司在IPO赛道上形成竞争态势；OpenAI 2026年Q1营收57亿美元。",
-      "publishedAt": "2026-06-09",
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/06/09/openai-files-confidential-s-1-sec-ipo/",
-      "subCategory": "一级市场"
-    },
-    {
-      "id": "finance-20260602-005",
-      "title": "创业板指涨逾2% CPO概念涨幅居前",
-      "summary": "6月2日创业板指涨逾2%，沪指涨0.1%，深成指涨约1%；CPO概念及玻璃基板相关半导体板块涨幅居前，市场延续科技成长优于权重蓝筹的分化格局。",
-      "publishedAt": "2026-06-02T11:01:00+08:00",
-      "source": "证券时报",
-      "url": "https://www.stcn.com/article/detail/3938583.html",
-      "subCategory": "A股"
-    },
-    {
-      "id": "finance-20260602-004",
-      "title": "智谱计划在A股科创板二次上市，募集资金150亿元",
-      "summary": "智谱AI启动A股科创板二次上市，拟发行占上市后总股本2%-8%的新股，募资150亿元；其中120亿元用于AI基础大模型研发、20亿元建设MaaS平台，目标2030年前完成从对话系统向具身智能系统的跨越；此前已于2026年1月在港交所完成IPO。",
-      "publishedAt": "2026-06-02T09:48:00+08:00",
-      "source": "证券时报",
-      "url": "https://www.stcn.com/article/detail/3938384.html",
-      "subCategory": "一级市场"
-    },
-    {
-      "id": "finance-20260602-003",
-      "title": "过会的宇树科技，不再只是\"人形机器人第一股\"",
-      "summary": "上交所6月1日审议通过宇树科技科创板IPO申请，从受理到过会仅73天；公司拟募资42.02亿元，近半用于智能机器人大模型研发，采用WMA与VLA双线并行策略，有望成为A股首个通用人形机器人上市公司；2025年营收17.08亿元，毛利率60.13%。",
-      "publishedAt": "2026-06-02T09:02:00+08:00",
-      "source": "证券时报",
-      "url": "https://www.stcn.com/article/detail/3938253.html",
-      "subCategory": "一级市场"
-    },
-    {
-      "id": "finance-20260602-002",
-      "title": "科技股带动指数调整 6月首日A股超3700股上涨",
-      "summary": "6月1日A股三大指数全线调整，沪指跌0.27%、深成指跌1.51%、创业板指跌2.15%；寒武纪、海光信息等大盘科技股跌5%-10%，贡献沪指约80%跌幅；逾3700只个股上涨、160余只涨停，两市成交额约2.9万亿元，主力资金净流出超380亿元。",
-      "publishedAt": "2026-06-02T08:17:00+08:00",
-      "source": "证券时报",
-      "url": "https://www.stcn.com/article/detail/3938169.html",
-      "subCategory": "A股"
-    },
-    {
-      "id": "finance-20260602-001",
-      "title": "抢跑 OpenAI，Anthropic 官宣已秘密递交 IPO 申请",
-      "summary": "Anthropic宣布已秘密向SEC提交IPO招股书，抢先OpenAI正式启动上市程序；此前刚完成650亿美元H轮融资，投后估值9650亿美元，计划最早今年10月登陆美股，有望成为史上估值最高AI公司IPO。",
-      "publishedAt": "2026-06-02T07:10:29+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/958/458.htm",
-      "subCategory": "一级市场"
-    },
-    {
-      "id": "finance-20260531-001",
-      "title": "国家统计局：2026年5月制造业PMI为50.0%，比上月下降0.3个百分点",
-      "summary": "国家统计局发布2026年5月中国采购经理指数，制造业PMI为50.0%，较上月下降0.3个百分点，位于临界点；非制造业商务活动指数50.1%，综合PMI产出指数50.5%；生产指数51.2%维持扩张，新订单指数49.9%小幅回落；大型企业PMI为51.1%，中型企业48.6%、小型企业48.5%，中小企业仍处收缩区间。",
-      "publishedAt": "2026-05-31T09:31:00+08:00",
-      "source": "国家统计局",
-      "url": "https://finance.eastmoney.com/a/202605313755126342.html",
-      "subCategory": "宏观经济"
-    },
-    {
-      "id": "finance-20260530-001",
-      "title": "MiniMax 签署辅导协议，正式启动 A 股 IPO 进程",
-      "summary": "AI公司MiniMax正式与中介机构签署上市辅导协议，启动A股IPO筹备进程；MiniMax是国内头部多模态大模型创业公司，旗下产品包括海螺AI等，已完成多轮融资，估值超250亿元；此次寻求A股上市是国内生成式AI头部公司从私募融资转向公开市场的重要信号。",
-      "publishedAt": "2026-05-30T08:28:56+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/957/415.htm",
-      "subCategory": "一级市场"
-    },
-    {
-      "id": "finance-20260529-001",
-      "title": "Anthropic融资650亿美元，筹备近万亿美元估值IPO",
-      "summary": "AI初创公司Anthropic完成H轮融资，筹集650亿美元，投后估值达9650亿美元，超越OpenAI并跻身全球最高估值科技私有公司之列；本轮融资由亚马逊（追加50亿美元）及红杉等机构参与，新资金将用于AI安全研究和算力扩展，预计为IPO前最后一轮私募融资，最早今年10月登陆美股。",
-      "publishedAt": "2026-05-29T07:42:20+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/956/837.htm",
-      "subCategory": "一级市场"
-    },
-    {
-      "id": "finance-20260527-005",
-      "title": "A股重磅！长鑫科技IPO过会，成2026年最大科创板IPO",
-      "summary": "长鑫科技科创板IPO申请5月27日获上市委审议通过，拟募资295亿元创2026年以来A股最大IPO；公司为中国第一、全球第四大DRAM厂商，用时148天完成受理到过会的全程，创科创速度；Q1营收508亿元、净利247.62亿元，预计2026年上半年归母净利500-570亿元。",
-      "publishedAt": "2026-05-27T18:35:00+08:00",
-      "source": "证券时报",
-      "url": "https://www.stcn.com/article/detail/3930244.html",
-      "subCategory": "一级市场"
-    },
-    {
-      "id": "finance-20260527-004",
-      "title": "易方达基金澳门公司获批设立",
-      "summary": "中国证监会批准易方达基金管理有限公司在澳门设立子公司，是内地资产管理机构布局澳门的重要步骤，有助于推动内地与澳门金融市场互联互通，拓宽内地基金出海渠道与境外资产配置能力。",
-      "publishedAt": "2026-05-27T08:31:00+08:00",
-      "source": "证券时报",
-      "url": "https://www.stcn.com/article/detail/3928963.html",
-      "subCategory": "宏观经济"
-    },
-    {
-      "id": "finance-20260527-001",
-      "title": "SK 海力士股价盘中涨超 11%，市值突破 1 万亿美元",
-      "summary": "受长鑫科技IPO获批与全球DRAM市场景气度持续上升双重利好驱动，SK海力士股价盘中涨逾11%，总市值首次突破1万亿美元大关；公司凭借HBM3E在AI芯片市场的高份额以及Q1营收超预期，成为继三星之后第二家市值破万亿美元的韩国科技企业。",
-      "publishedAt": "2026-05-27T08:30:23+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/955/660.htm",
-      "subCategory": "公司财报"
-    },
-    {
-      "id": "finance-20260527-002",
-      "title": "消息称埃隆·马斯克已与同事讨论过合并 Tesla 与 SpaceX 的可能",
-      "summary": "据报道马斯克近期与SpaceX管理层讨论了将Tesla和SpaceX合并的可能性，潜在交易结构尚未确定；若合并成功将创造全球最大科技企业之一；分析师普遍认为合并面临监管与结构障碍，可行性存在较大不确定性，特斯拉股价在消息面冲击下出现明显波动。",
-      "publishedAt": "2026-05-27T07:48:00+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/955/647.htm",
       "subCategory": "风险事件"
     }
   ],
