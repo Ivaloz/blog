@@ -3,8 +3,98 @@
   "slug": "finance",
   "title": "投资与财经",
   "description": "宏观经济、A 股 / 港股 / 美股、一级市场融资、行业研报观点。",
-  "updatedAt": "2026-07-02T09:15:00+08:00",
+  "updatedAt": "2026-07-02T16:38:59+08:00",
   "items": [
+    {
+      "title": "在岸人民币兑美元16:30官方收报6.7866，涨69点",
+      "summary": "7月2日北京时间16:30，在岸人民币兑美元官方收报6.7866，较上一交易日官方收盘价上涨69个基点，较前一交易日夜盘收盘价上涨14个基点。",
+      "publishedAt": "2026-07-02T16:30:00+08:00",
+      "source": "华尔街见闻",
+      "url": "https://wallstreetcn.com/livenews/3127922",
+      "subCategory": "宏观经济",
+      "id": "finance-20260702-008"
+    },
+    {
+      "title": "国家发改委刘刚带队赴小米集团开展工作调研",
+      "summary": "国家发改委价格监测中心副主任刘刚带队赴小米集团调研，了解新能源汽车与智能手机行业价格走势，并听取企业关于规范行业竞争秩序的意见建议。",
+      "publishedAt": "2026-07-02T16:23:00+08:00",
+      "source": "华尔街见闻",
+      "url": "https://wallstreetcn.com/livenews/3127918",
+      "subCategory": "公司动态",
+      "id": "finance-20260702-007"
+    },
+    {
+      "title": "华峰化学：预计2026年上半年净利润为16.8亿元~20.8亿元，同比增长70.85%~111.53%",
+      "summary": "华峰化学发布2026年半年度业绩预告，预计上半年净利润为16.8亿元至20.8亿元，同比增长70.85%至111.53%，具体准确数据以正式财报为准。",
+      "publishedAt": "2026-07-02T16:21:00+08:00",
+      "source": "华尔街见闻",
+      "url": "https://wallstreetcn.com/livenews/3127917",
+      "subCategory": "公司财报",
+      "id": "finance-20260702-009"
+    },
+    {
+      "title": "礼鼎半导体向港交所提交上市申请书，中信证券为独家保荐人",
+      "summary": "礼鼎半导体科技（深圳）股份有限公司于7月2日向香港交易所提交上市申请书，独家保荐人为中信证券，公司拟发行H股赴港股上市募集资金。",
+      "publishedAt": "2026-07-02T16:20:00+08:00",
+      "source": "华尔街见闻",
+      "url": "https://wallstreetcn.com/livenews/3127916",
+      "subCategory": "新股发行",
+      "id": "finance-20260702-006"
+    },
+    {
+      "title": "港股收盘：恒生指数涨0.76%，恒生科技指数跌0.4%",
+      "summary": "7月2日港股收盘，恒生指数涨0.76%，恒生科技指数跌0.4%。医药生物板块领涨，石药集团涨超8%，信达生物涨超7%；半导体板块下挫，兆易创新跌超18%，中芯国际跌超10%。",
+      "publishedAt": "2026-07-02T16:11:00+08:00",
+      "source": "华尔街见闻",
+      "url": "https://wallstreetcn.com/livenews/3127913",
+      "subCategory": "港股",
+      "id": "finance-20260702-005"
+    },
+    {
+      "title": "7月2日收评：科创50指数跌7.7%，算力硬件、芯片股集体调整",
+      "summary": "7月2日A股三大指数集体下跌，沪指跌2.03%，深成指跌3.85%，创业板指跌5.71%，科创50指数跌7.7%，算力硬件和半导体芯片股大幅调整，贵金属和海南自贸区板块逆势上涨，全市场成交3.47万亿元。",
+      "publishedAt": "2026-07-02T15:00:00+08:00",
+      "source": "华尔街见闻",
+      "url": "https://wallstreetcn.com/livenews/3127880",
+      "subCategory": "A股",
+      "id": "finance-20260702-004"
+    },
+    {
+      "title": "Indian tech tycoon bets $30M of his own money to build AI alternative to Microsoft Office",
+      "summary": "印度企业家Bhavin Turakhia宣布以个人资金3000万美元投资旗下新公司Neo，该公司开发不绑定特定AI模型的企业办公平台，涵盖项目管理、文档与文件存储功能，目前团队规模为45人，其中18人为工程师。",
+      "publishedAt": "2026-07-01T22:30:00-07:00",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/01/indian-tech-tycoon-bets-30m-to-build-an-ai-alternative-to-microsoft-office/",
+      "subCategory": "一级市场",
+      "id": "finance-20260701-016"
+    },
+    {
+      "title": "安克创新今日上市，获近27.57倍认购，每股定价99.32港元，一手中签率30%",
+      "summary": "安克创新于7月2日在港交所主板上市，发行价每股99.32港元，公开发售获约27.57倍认购，一手中签率约30%，净筹资约45.23亿港元。",
+      "publishedAt": "2026-07-02T08:39:00+08:00",
+      "source": "东方财富网",
+      "url": "https://finance.eastmoney.com/a/202607023790908275.html",
+      "subCategory": "港股",
+      "id": "finance-20260702-010"
+    },
+    {
+      "title": "Oil Extends Decline on Rising Supply",
+      "summary": "国际原油价格2026年7月2日跌破每桶68美元，为去年2月以来最低水平。霍尔木兹海峡油轮通行量持续增加，美国与伊朗间接谈判取得进展，市场对供应过剩风险的担忧上升。",
+      "publishedAt": "2026-07-02",
+      "source": "Trading Economics",
+      "url": "https://tradingeconomics.com/commodity/crude-oil",
+      "subCategory": "大宗商品",
+      "id": "finance-20260702-002"
+    },
+    {
+      "title": "Silver Strengthens on Warsh Remarks",
+      "summary": "白银价格2026年7月2日升至每盎司59美元上方，此前一度触及七个月低点。美联储主席沃什称通胀预期有所缓和，加之原油价格走低缓解通胀担忧，共同支撑银价反弹。",
+      "publishedAt": "2026-07-02",
+      "source": "Trading Economics",
+      "url": "https://tradingeconomics.com/commodity/silver",
+      "subCategory": "大宗商品",
+      "id": "finance-20260702-003"
+    },
     {
       "id": "finance-20260702-001",
       "title": "阿里巴巴同意支付6亿美元与美国司法部就非法药品销售指控达成和解",
@@ -15,22 +105,31 @@
       "subCategory": "风险事件"
     },
     {
-      "id": "finance-20260701-008",
-      "title": "公告精选：比亚迪6月新能源汽车销量40.35万辆；雅克科技、多氟多等提示风险",
-      "summary": "比亚迪公告6月新能源汽车销量40.35万辆，上年同期为38.26万辆。雅克科技提示市场对电子材料业务或存过度解读，多氟多说明半导体级氢氟酸占2025年营收不足2%，另有多家公司发布业绩预告与回购公告。",
-      "publishedAt": "2026-07-01",
-      "source": "证券时报",
-      "url": "https://www.stcn.com/article/detail/3993265.html",
-      "subCategory": "A股"
+      "title": "Ashton Kutcher leaving Sound Ventures to launch new VC firm with Morgan Beller",
+      "summary": "好莱坞演员Ashton Kutcher宣布离开其联合创立的Sound Ventures，与前NFX普通合伙人Morgan Beller共同创立新风险投资机构，专注于人工智能基础设施、能源及深科技领域的早期投资。",
+      "publishedAt": "2026-07-01T11:47:00-07:00",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/01/ashton-kutcher-leaving-sound-ventures-to-launch-new-vc-firm-with-morgan-beller/",
+      "subCategory": "一级市场",
+      "id": "finance-20260701-017"
     },
     {
-      "title": "Gold Stays Close to 8-Month Low",
-      "summary": "黄金价格7月1日报3973.84美元/盎司，日内下跌0.85%，受美国就业数据强于预期影响，市场对美联储加息预期升温，金价维持在近八个月低位附近。",
-      "publishedAt": "2026-07-01",
-      "source": "Trading Economics",
-      "url": "https://tradingeconomics.com/commodity/gold",
-      "subCategory": "大宗商品",
-      "id": "finance-20260701-001"
+      "title": "Federal Reserve issues initial findings from its 2025 triennial payments study",
+      "summary": "美联储发布2025年三年度支付研究初步结果：2024年非现金支付总量达2366亿笔，较2000年增长两倍以上，银行卡占支付笔数逾四分之三，ACH支付金额占比首次接近四分之三。",
+      "publishedAt": "2026-07-01T14:30:00-04:00",
+      "source": "Federal Reserve",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20260701a.htm",
+      "subCategory": "宏观经济",
+      "id": "finance-20260701-015"
+    },
+    {
+      "title": "Kevin Warsh: Fed will not be comfortable with inflation above 2%",
+      "summary": "美联储主席沃什在葡萄牙辛特拉举行的欧洲央行论坛上表示，若市场认为美联储会容忍高于2%的通胀，那将是误判，美联储致力于实现物价稳定。他未就本月利率决议给出明确信号，并强调美联储将保持独立性，不受政治压力影响。",
+      "publishedAt": "2026-07-01T12:22:00-05:00",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/economy/policy/article/kevin-warsh-fed-will-not-be-comfortable-with-inflation-above-2-183000837.html",
+      "subCategory": "政策利率",
+      "id": "finance-20260701-022"
     },
     {
       "id": "finance-20260701-012",
@@ -51,6 +150,15 @@
       "subCategory": "美股"
     },
     {
+      "title": "Meta building cloud business to sell excess AI capacity, Bloomberg News reports",
+      "summary": "据彭博社报道，Meta Platforms正筹划设立云计算业务，出售人工智能基础设施的闲置算力，该计划仍在制定中。消息传出后Meta股价上涨超过10%，云服务商CoreWeave和Nebius股价分别下跌10.8%和12.4%，Meta今年预计投入1450亿美元用于AI基础设施建设。",
+      "publishedAt": "2026-07-01T07:52:00-05:00",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/ai/articles/meta-sell-excess-ai-computing-125201412.html",
+      "subCategory": "公司动态",
+      "id": "finance-20260701-021"
+    },
+    {
       "id": "finance-20260701-011",
       "title": "布伦特原油跌至72.68美元，创近一个月最大跌幅",
       "summary": "截至7月1日美东时间上午8时40分，布伦特原油报每桶72.68美元，较前一交易日的75.02美元下跌2.34美元，跌幅3.11%；较一个月前的95.04美元下跌23.52%，较去年同期上涨6.35%。",
@@ -60,6 +168,33 @@
       "subCategory": "大宗商品"
     },
     {
+      "title": "ADP private payrolls data misses expectations as June hiring slows",
+      "summary": "ADP全国就业报告显示，美国6月私营部门新增就业9.8万人，低于5月的12.2万人和市场预期的11万人。教育医疗保健业新增4.8万个岗位，休闲酒店业连续第六个月增长乏力，同期在职员工薪资同比增长4.4%，跳槽者薪资增长6.6%。",
+      "publishedAt": "2026-07-01T07:28:00-05:00",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/economy/articles/adp-june-2026-private-payrolls-122828638.html",
+      "subCategory": "宏观经济",
+      "id": "finance-20260701-023"
+    },
+    {
+      "title": "AOL, Vimeo owner Bending Spoons surges nearly 40% in US market debut",
+      "summary": "意大利科技公司Bending Spoons在美股首次公开发行，发行价每股29美元，募资16.8亿美元。上市首日开盘31美元，收盘40.50美元，较发行价上涨近40%，公司市值达257亿美元，旗下拥有Vimeo、AOL等品牌。",
+      "publishedAt": "2026-07-01T05:12:00-05:00",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/vimeo-owner-bending-spoons-heads-101229041.html",
+      "subCategory": "新股发行",
+      "id": "finance-20260701-020"
+    },
+    {
+      "title": "华宸声探完成500万元天使轮融资",
+      "summary": "杭州华宸声探科技完成500万元人民币天使轮融资，由深圳世纪银龙投资独家投资。公司专注声发射无损探伤及结构健康监测技术，资金将用于核心技术迭代、产品性能升级及市场渠道拓展。",
+      "publishedAt": "2026-07-01T18:02:05+08:00",
+      "source": "投中网",
+      "url": "https://www.chinaventure.com.cn/news/80-20260701-392104.html",
+      "subCategory": "一级市场",
+      "id": "finance-20260701-018"
+    },
+    {
       "id": "finance-20260701-010",
       "title": "沪指三连阳收复4100点，养殖、保险等板块领涨",
       "summary": "7月1日A股收盘，上证指数涨0.44%报收4100点上方，深成指跌0.53%，创业板指跌1.89%。全市场超4300只个股上涨，153只个股涨停，沪深两市成交额3.66万亿元，较前一日增加3862亿元。保险、养殖板块领涨，通信设备板块下跌。",
@@ -67,6 +202,15 @@
       "source": "财联社",
       "url": "https://www.cls.cn/detail/2414302",
       "subCategory": "A股"
+    },
+    {
+      "title": "裴振华的第一笔个人天使，投给了一位投资人",
+      "summary": "宁德时代早期投资人裴振华以个人身份对光互连芯片公司光联芯科进行天使投资，持股2.49%。该公司成立于2024年2月，此前已获得高瓴资本、红杉中国、鼎晖投资等机构多轮投资。",
+      "publishedAt": "2026-07-01T16:54:55+08:00",
+      "source": "投中网",
+      "url": "https://www.chinaventure.com.cn/news/80-20260701-392103.html",
+      "subCategory": "一级市场",
+      "id": "finance-20260701-019"
     },
     {
       "title": "睿心医疗完成亿元级别融资",
@@ -112,6 +256,24 @@
       "source": "证券时报",
       "url": "https://www.stcn.com/article/detail/3991087.html",
       "subCategory": "港股"
+    },
+    {
+      "id": "finance-20260701-008",
+      "title": "公告精选：比亚迪6月新能源汽车销量40.35万辆；雅克科技、多氟多等提示风险",
+      "summary": "比亚迪公告6月新能源汽车销量40.35万辆，上年同期为38.26万辆。雅克科技提示市场对电子材料业务或存过度解读，多氟多说明半导体级氢氟酸占2025年营收不足2%，另有多家公司发布业绩预告与回购公告。",
+      "publishedAt": "2026-07-01",
+      "source": "证券时报",
+      "url": "https://www.stcn.com/article/detail/3993265.html",
+      "subCategory": "A股"
+    },
+    {
+      "title": "Gold Stays Close to 8-Month Low",
+      "summary": "黄金价格7月1日报3973.84美元/盎司，日内下跌0.85%，受美国就业数据强于预期影响，市场对美联储加息预期升温，金价维持在近八个月低位附近。",
+      "publishedAt": "2026-07-01",
+      "source": "Trading Economics",
+      "url": "https://tradingeconomics.com/commodity/gold",
+      "subCategory": "大宗商品",
+      "id": "finance-20260701-001"
     },
     {
       "title": "NIKE, Inc. Reports Fiscal 2026 Fourth Quarter and Full Year Results",
@@ -294,15 +456,6 @@
       "subCategory": "A股"
     },
     {
-      "id": "finance-20260626-003",
-      "title": "A股大幅回调，上证跌逾2%报4027点，深证跌3.4%",
-      "summary": "6月26日A股全线大幅调整，上证综合指数收报4027.26点，跌幅2.26%；深证成指收报15782点，跌幅3.44%；下跌主因为科技股外资持续减持与指数成分股调仓形成集中卖压，全天两市成交明显放量，市场情绪整体偏谨慎。",
-      "publishedAt": "2026-06-26",
-      "source": "英为财情",
-      "url": "https://zh.tradingeconomics.com/china/stock-market",
-      "subCategory": "A股"
-    },
-    {
       "id": "finance-20260626-007",
       "title": "中国资产，直线拉升！热门中概股多数上涨",
       "summary": "纳斯达克中国金龙指数早盘涨逾1%，热门中概股多数上涨；涨幅居前的有网易有道、网易（涨超6%）、爱奇艺、叮咚买菜（涨超4%），携程和小鹏汽车跌逾1%。",
@@ -355,6 +508,15 @@
       "source": "新浪财经",
       "url": "https://finance.sina.com.cn/jjxw/2026-06-26/doc-inieszsa1989234.shtml",
       "subCategory": "美股"
+    },
+    {
+      "id": "finance-20260626-003",
+      "title": "A股大幅回调，上证跌逾2%报4027点，深证跌3.4%",
+      "summary": "6月26日A股全线大幅调整，上证综合指数收报4027.26点，跌幅2.26%；深证成指收报15782点，跌幅3.44%；下跌主因为科技股外资持续减持与指数成分股调仓形成集中卖压，全天两市成交明显放量，市场情绪整体偏谨慎。",
+      "publishedAt": "2026-06-26",
+      "source": "英为财情",
+      "url": "https://zh.tradingeconomics.com/china/stock-market",
+      "subCategory": "A股"
     },
     {
       "id": "finance-20260625-002",
@@ -562,168 +724,6 @@
       "source": "证券时报",
       "url": "https://www.stcn.com/article/detail/3961891.html",
       "subCategory": "A股"
-    },
-    {
-      "id": "finance-20260615-004",
-      "title": "收评：创业板指大涨超5%，CPO、PCB概念集体爆发，有色、券商等板块拉升",
-      "summary": "6月15日A股市场全面上涨，创业板指大涨超5%，超过3900只个股收涨；上证综合指数涨1.61%收4096.47点，CPO和PCB光通信相关概念集体爆发，半导体、有色金属与券商板块均大幅拉升，科技成长风格主导全天行情。",
-      "publishedAt": "2026-06-15T15:21:00+08:00",
-      "source": "证券时报",
-      "url": "https://www.stcn.com/article/detail/3961826.html",
-      "subCategory": "A股"
-    },
-    {
-      "id": "finance-20260615-002",
-      "title": "增量资金进驻？\"牛市旗手\"突然爆发！券商ETF一度涨超4%",
-      "summary": "6月15日A股券商板块大幅走强，券商ETF一度涨超4%，中证证券指数涨超5%；行情驱动因素包括\"券商出海\"叙事、机构增仓及监管政策改善（外资衍生品交易权限扩大），分析师认为增量资金进场信号明显。",
-      "publishedAt": "2026-06-15T12:49:00+08:00",
-      "source": "证券时报",
-      "url": "https://www.stcn.com/article/detail/3961521.html",
-      "subCategory": "A股"
-    },
-    {
-      "id": "finance-20260615-001",
-      "title": "热门科技主线波动 市场风格或阶段性再平衡",
-      "summary": "A股市场上周呈现指数分化，主要价值股领涨而科技板块出现回调；多家券商研报认为近期调整缺乏明确利空因素，属上升通道中的正常回调，\"短期市场底部似已企稳\"，科技板块中期仍是主要产业配置方向。",
-      "publishedAt": "2026-06-15T08:24:00+08:00",
-      "source": "证券时报",
-      "url": "https://www.stcn.com/article/detail/3960767.html",
-      "subCategory": "A股"
-    },
-    {
-      "id": "finance-20260614-003",
-      "title": "\"央行超级周\"来袭！日本央行加息预期高达88%",
-      "summary": "全球金融市场将迎来\"央行超级周\"。美联储新任主席凯文·沃什将于6月18日主持首场议息会议，市场关注其政策沟通与改革计划。日本央行预计将政策利率从0.75%上调至1.00%，创31年新高，市场加息预期达88%。此外，英国央行、澳洲联储等多家央行也将公布利率决议。",
-      "publishedAt": "2026-06-14T16:20:00+08:00",
-      "source": "证券时报",
-      "url": "https://www.stcn.com/article/detail/3960373.html",
-      "subCategory": "宏观经济"
-    },
-    {
-      "id": "finance-20260614-004",
-      "title": "A股，重大调整！明天实施！",
-      "summary": "深交所宣布于6月15日对深证成指、创业板指等指数进行样本调整。深证成指调入安泰科技、佛塑科技等25只股票；创业板指调入香农芯创、光库科技等10只股票。此外，沪深300、中证500等10余只指数的样本调整已于6月12日生效，涉及制造业、新兴产业等重点领域的权重优化。",
-      "publishedAt": "2026-06-14T14:35:00+08:00",
-      "source": "证券时报",
-      "url": "https://www.stcn.com/article/detail/3960329.html",
-      "subCategory": "A股"
-    },
-    {
-      "id": "finance-20260614-001",
-      "title": "SpaceX 上市后市值超 2 万亿美元，美股\"七大巨头\"称谓面临更新",
-      "summary": "SpaceX上市后市值突破2万亿美元，超越特斯拉和Meta，引发\"七大巨头\"称谓是否需要更新的讨论。业界提出\"MANGOS\"等新组合方案，反映了人工智能热潮推动下美股头部企业格局的持续演变。",
-      "publishedAt": "2026-06-14T13:15:22+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/964/057.htm",
-      "subCategory": "美股"
-    },
-    {
-      "id": "finance-20260614-002",
-      "title": "PCB龙头股，再涨价10%—20%！资金大手笔加仓",
-      "summary": "本周南向资金净买入腾讯控股近50亿港元。建滔积层板再度向客户下发涨价通知，板料涨价10%，PP涨价20%，这是年内第四次提价，累计涨幅超40%。AI服务器与数据中心需求暴增，拉动高端PCB材料需求强劲。",
-      "publishedAt": "2026-06-14T12:40:00+08:00",
-      "source": "证券时报",
-      "url": "https://www.stcn.com/article/detail/3960306.html",
-      "subCategory": "A股"
-    },
-    {
-      "id": "finance-20260613-003",
-      "title": "原油现恐慌性抛售，净多头寸却腰斩",
-      "summary": "投机者持有的布伦特原油期货净多头头寸单周减少4.4万手，从3月底峰值回落逾22万手（降幅超50%）至21周新低；尽管油价下跌，全球库存消耗加快、现货供应趋紧，美国战略石油储备快速下降，欧佩克产量创20年来新低。",
-      "publishedAt": "2026-06-13T23:15:00+08:00",
-      "source": "证券时报",
-      "url": "https://www.stcn.com/article/detail/3960224.html",
-      "subCategory": "大宗商品"
-    },
-    {
-      "id": "finance-20260613-002",
-      "title": "资源品ETF涨超5%，半导体ETF领跌，风格切换来了？",
-      "summary": "6月12日A股沪指重回4000点后出现明显风格分化，黄金股ETF涨6.42%等资源品大幅走强，半导体及芯片相关ETF跌逾3%；分析师认为这是\"阶段性再平衡\"而非科技向价值的完整切换，建议科技持仓叠加价值高股息对冲。",
-      "publishedAt": "2026-06-13T17:48:00+08:00",
-      "source": "证券时报",
-      "url": "https://www.stcn.com/article/detail/3960149.html",
-      "subCategory": "A股"
-    },
-    {
-      "id": "finance-20260613-001",
-      "title": "北证50成份股调整下周生效！硬科技权重上升",
-      "summary": "北证50指数将于6月15日执行成份股定期调整，锦华新材、三协电机、科力股份三家专精特新\"小巨人\"企业调入，三家公司调出；调整强化硬科技板块权重，体现指数向新质生产力方向的优化升级。",
-      "publishedAt": "2026-06-13T10:25:00+08:00",
-      "source": "证券时报",
-      "url": "https://www.stcn.com/article/detail/3960029.html",
-      "subCategory": "A股"
-    },
-    {
-      "id": "finance-20260612-007",
-      "title": "证监会同意长鑫科技科创板IPO注册申请",
-      "summary": "中国证监会正式同意长鑫科技科创板首次公开发行股票注册申请，拟募资295亿元；长鑫科技为中国第一、全球第四大DRAM内存厂商，此前于5月27日上市委审议通过，注册批准标志其离A股上市仅一步之遥。",
-      "publishedAt": "2026-06-12T22:42:00+08:00",
-      "source": "证券时报",
-      "url": "https://www.stcn.com/article/detail/3959758.html",
-      "subCategory": "一级市场"
-    },
-    {
-      "id": "finance-20260612-003",
-      "title": "国际油价持续走低 美油、布油均跌逾5%",
-      "summary": "受OPEC+供应政策调整及全球需求预期走弱影响，国际原油价格6月12日持续回落，美国WTI原油单日跌幅逾5%，布伦特原油跌幅相近；油价持续走低压缩通胀预期，为下游化工、物流行业带来成本缓解，同时加大产油国财政压力。",
-      "publishedAt": "2026-06-12T16:34:00+08:00",
-      "source": "证券时报",
-      "url": "https://www.stcn.com/article/detail/3958837.html",
-      "subCategory": "大宗商品"
-    },
-    {
-      "id": "finance-20260612-005",
-      "title": "国内首张Token权益信用卡来了 将AI生产力资源引入权益体系",
-      "summary": "国内某股份制银行联合科技企业推出国内首张Token权益信用卡，将大模型调用额度、算力积分等AI生产力资源纳入信用卡权益体系，持卡人可凭消费积分兑换AI工具使用时长或计算资源；是银行业将AI生态与传统金融权益融合的创新探索，推动金融服务与AI应用场景协同落地。",
-      "publishedAt": "2026-06-12T16:29:00+08:00",
-      "source": "证券时报",
-      "url": "https://www.stcn.com/article/detail/3958821.html",
-      "subCategory": "宏观经济"
-    },
-    {
-      "id": "finance-20260612-002",
-      "title": "港股收评：恒生指数涨1.93% 恒生科技指数涨1.06%",
-      "summary": "6月12日港股全线收涨，恒生指数涨1.93%，恒生科技指数涨1.06%；周大福受世界杯珠宝营销带动单日涨超15%，洛阳钼业受大宗商品波动影响涨超12%；内地资金持续南下，科技板块整体跟随A股情绪回升。",
-      "publishedAt": "2026-06-12T16:13:00+08:00",
-      "source": "证券时报",
-      "url": "https://www.stcn.com/article/detail/3958770.html",
-      "subCategory": "港股"
-    },
-    {
-      "id": "finance-20260612-001",
-      "title": "收评：沪指涨超1%重返4000点上方，券商等板块拉升，商业航天概念等活跃",
-      "summary": "6月12日A股市场收涨，沪指涨超1%收于4031.51点，重返4000点关口上方，超3900只个股上涨；券商板块受益市场情绪改善领涨，商业航天概念受SpaceX上市提振活跃，科创板整体同步向上，两市成交额维持高位。",
-      "publishedAt": "2026-06-12T15:32:00+08:00",
-      "source": "证券时报",
-      "url": "https://www.stcn.com/article/detail/3958610.html",
-      "subCategory": "A股"
-    },
-    {
-      "id": "finance-20260612-004",
-      "title": "全球史上最大IPO，SpaceX今日上市",
-      "summary": "SpaceX以股票代码SPCX于6月12日正式登陆纳斯达克，IPO定价每股135美元，发行约5.56亿股A类股，募资750亿美元，估值1.77万亿美元，超越沙特阿美成为全球史上最大IPO；上市后15个交易日内将纳入纳斯达克100指数，预计为近4400名员工创造百万级财富。",
-      "publishedAt": "2026-06-12T12:11:00+08:00",
-      "source": "界面新闻",
-      "url": "https://www.jiemian.com/article/14567195.html",
-      "subCategory": "一级市场"
-    },
-    {
-      "id": "finance-20260612-006",
-      "title": "\"含科量\"持续提升 沪深300等多个宽基指数样本调整",
-      "summary": "沪深300、中证500、中证1000等主要宽基指数2026年6月定期样本调整于6月12日正式生效，新纳入成分以半导体、先进制造等科技龙头为主；调整涉及近9000亿元指数基金联动调仓，相关标的流动性出现阶段性波动，指数整体科技含量持续提升。",
-      "publishedAt": "2026-06-12T07:30:00+08:00",
-      "source": "证券时报",
-      "url": "https://www.stcn.com/article/detail/3957406.html",
-      "subCategory": "A股"
-    },
-    {
-      "id": "finance-20260611-001",
-      "title": "凌晨，全线跳水，AI服务器巨头暴跌！霍尔木兹海峡，突发！",
-      "summary": "美股6月10日大幅收跌，道指跌953点（1.87%），纳指跌1.98%，标普500跌1.62%；伊朗宣布封锁霍尔木兹海峡推高油价并引发避险情绪，超微电脑（Supermicro）宣布70亿美元AI服务器融资计划后股价暴跌27.98%，英伟达、博通等AI算力股集体重挫。",
-      "publishedAt": "2026-06-11T07:43:00+08:00",
-      "source": "证券时报",
-      "url": "https://www.stcn.com/article/detail/3954888.html",
-      "subCategory": "风险事件"
     }
   ],
   "disclaimer": "⚠️ 投资类内容仅做信息汇总,非投资建议。"
