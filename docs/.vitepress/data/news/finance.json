@@ -3,8 +3,107 @@
   "slug": "finance",
   "title": "投资与财经",
   "description": "宏观经济、A 股 / 港股 / 美股、一级市场融资、行业研报观点。",
-  "updatedAt": "2026-07-02T16:38:59+08:00",
+  "updatedAt": "2026-07-03T08:30:00+08:00",
   "items": [
+    {
+      "title": "SanDisk Sinks 11%, Seagate Falls 7%, Micron Slides 4% on Memory Supply-Glut Fears",
+      "summary": "存储芯片股7月2日大幅下挫，SanDisk跌11%，希捷跌7%，西部数据跌7%，美光跌4%；市场担忧三星、SK海力士扩产将令存储器供应转向宽松，机构对相关估值发出警示。",
+      "publishedAt": "2026-07-02T11:02:00-05:00",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/sandisk-sinks-11-seagate-falls-160250009.html",
+      "subCategory": "美股",
+      "id": "finance-20260702-022"
+    },
+    {
+      "title": "Gold prices today, Thursday, July 2, 2026: Prices break above $4,100 following a disappointing June jobs report",
+      "summary": "受美国6月非农就业数据远低于预期影响，现货黄金7月2日盘中突破每盎司4100美元，早盘一度报4140.90美元；据CME数据，市场预期美联储7月加息概率降至30%以下。",
+      "publishedAt": "2026-07-02T08:50:00-05:00",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-thursday-july-2-2026-prices-break-above-4100-following-a-disappointing-june-jobs-report-120224733.html",
+      "subCategory": "大宗商品",
+      "id": "finance-20260702-019"
+    },
+    {
+      "title": "Stock Market News for July 2, 2026",
+      "summary": "美股7月2日收盘涨跌不一，标普500指数跌0.2%报7483.23点，纳指跌0.7%报26040.03点，道指跌不到0.1%；应用材料跌10%，SanDisk跌10.6%，半导体股领跌。",
+      "publishedAt": "2026-07-02T08:26:00-05:00",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-news-july-2-132600808.html",
+      "subCategory": "美股",
+      "id": "finance-20260702-024"
+    },
+    {
+      "title": "June jobs report: US payrolls rose by 57,000, missing expectations",
+      "summary": "美国劳工部数据显示，6月非农新增就业5.7万人，远低于市场预期的11.3万人；失业率降至4.2%；此前两月数据合计下修7.4万人，休闲酒店业减少6.1万个岗位。",
+      "publishedAt": "2026-07-02T08:18:00-05:00",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/economy/article/june-jobs-report-us-payrolls-rose-by-57000-missing-expectations-190000748.html",
+      "subCategory": "宏观经济",
+      "id": "finance-20260702-020"
+    },
+    {
+      "title": "Tesla Second Quarter 2026 Production, Deliveries & Deployments",
+      "summary": "特斯拉公布第二季度交付480,126辆、生产451,758辆，均超市场预期，同比增长25%；能源存储部署13.5吉瓦时；完整财务业绩将于7月22日盘后公布。",
+      "publishedAt": "2026-07-02T08:17:00-05:00",
+      "source": "Tesla Investor Relations",
+      "url": "https://ir.tesla.com/press-release/tesla-second-quarter-2026-production-deliveries-and-deployments",
+      "subCategory": "公司财报",
+      "id": "finance-20260702-016"
+    },
+    {
+      "title": "US job growth plummets as eurozone unemployment holds at record low",
+      "summary": "美国6月非农新增就业仅5.7万人，大幅不及预期的11.3万人；欧元区5月失业率维持6.2%的历史低位，欧美劳动力市场分化明显，欧央行仍在权衡通胀压力继续加息。",
+      "publishedAt": "2026-07-02T15:06:00+02:00",
+      "source": "Euronews",
+      "url": "https://www.euronews.com/business/2026/07/02/us-job-growth-plummets-as-eurozone-unemployment-holds-at-record-low",
+      "subCategory": "宏观经济",
+      "id": "finance-20260702-021"
+    },
+    {
+      "title": "净利同比最高增超138%！650亿电子特气概念股发布上半年业绩预告",
+      "summary": "广钢气体发布业绩预告，预计上半年归母净利润2.2亿至2.8亿元，同比增长87%至138%，主要受益于电子特种气体项目投产及全球氦气价格上涨、公司加大北美欧洲采购。",
+      "publishedAt": "2026-07-02T20:42:00+08:00",
+      "source": "财联社",
+      "url": "https://www.cls.cn/detail/2415730",
+      "subCategory": "公司财报",
+      "id": "finance-20260702-017"
+    },
+    {
+      "title": "UBS cuts Brent crude price forecasts on improved Hormuz oil flows",
+      "summary": "瑞银因霍尔木兹海峡油轮通行量快速恢复，将2026年布伦特原油均价预测下调9美元至每桶84美元，2027年预测下调10美元至75美元，WTI预测同步下调。",
+      "publishedAt": "2026-07-02T12:06:00+01:00",
+      "source": "Investing.com",
+      "url": "https://uk.investing.com/news/commodities-news/ubs-cuts-202627-oil-price-forecasts-as-hormuz-flows-recover-4754682",
+      "subCategory": "大宗商品",
+      "id": "finance-20260702-018"
+    },
+    {
+      "title": "港股半导体、光通讯大跌，汽车、黄金、创新药板块集体上涨",
+      "summary": "Meta宣布进军云基础设施并出售闲置AI算力，带崩港股芯片股，中芯国际、华虹半导体跌超20%；恒生生物科技指数涨4.85%；香港资产管理规模2025年达42.2万亿港元创历史新高。",
+      "publishedAt": "2026-07-02T18:27:00+08:00",
+      "source": "中国基金报",
+      "url": "https://www.chnfund.com/article/AR7540119a-54ca-6922-e19d-3a223490e248",
+      "subCategory": "港股",
+      "id": "finance-20260702-013"
+    },
+    {
+      "title": "宇树科技，IPO注册获批",
+      "summary": "中国证监会同意宇树科技科创板首次公开发行股票注册，公司拟募资42.02亿元；2023至2025年营业收入从1.59亿元增至16.99亿元，净利润扭亏为盈至2.78亿元。",
+      "publishedAt": "2026-07-02T17:27:00+08:00",
+      "source": "证券时报",
+      "url": "https://www.stcn.com/article/detail/3995220.html",
+      "subCategory": "一级市场",
+      "id": "finance-20260702-014"
+    },
+    {
+      "title": "【每日收评】创业板指跌近6%，机器人概念股逆势活跃，AI硬件、半导体等科技权重批量跌停",
+      "summary": "7月2日A股三大指数低开低走，创业板指跌近6%；机器人概念股逆势走强、多股涨停，AI硬件、半导体等前期强势科技权重股批量跌停，市场呈现明显风格分化。",
+      "publishedAt": "2026-07-02T16:51:00+08:00",
+      "source": "财联社",
+      "url": "https://www.cls.cn/detail/2415416",
+      "subCategory": "A股",
+      "id": "finance-20260702-028"
+    },
     {
       "title": "在岸人民币兑美元16:30官方收报6.7866，涨69点",
       "summary": "7月2日北京时间16:30，在岸人民币兑美元官方收报6.7866，较上一交易日官方收盘价上涨69个基点，较前一交易日夜盘收盘价上涨14个基点。",
@@ -51,6 +150,24 @@
       "id": "finance-20260702-005"
     },
     {
+      "title": "港股收评：恒指涨0.76% 科指跌0.4% 黄金股、汽车股普涨 光通信、半导体板块下挫 长飞光纤光缆跌超22%",
+      "summary": "港股7月2日收盘，恒生指数涨0.76%报23055.03点，恒生科技指数跌0.4%，国企指数涨0.72%。比亚迪等汽车股及黄金股上涨，长飞光纤光缆等光通信、半导体股显著下挫。",
+      "publishedAt": "2026-07-02T16:08:00+08:00",
+      "source": "新浪财经",
+      "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-07-02/doc-inifkywe1019989.shtml",
+      "subCategory": "港股",
+      "id": "finance-20260702-011"
+    },
+    {
+      "title": "收评：沪指跌逾2%，券商、保险板块走低，半导体板块大幅下挫",
+      "summary": "7月2日A股三大指数集体下挫，上证指数跌2.03%报4028.9点，深证成指跌3.85%，创业板指跌5.71%，科创50指数跌5.64%；半导体板块领跌，全市场超3100只个股下跌。",
+      "publishedAt": "2026-07-02T15:35:00+08:00",
+      "source": "证券时报",
+      "url": "https://www.stcn.com/article/detail/3994669.html",
+      "subCategory": "A股",
+      "id": "finance-20260702-027"
+    },
+    {
       "title": "7月2日收评：科创50指数跌7.7%，算力硬件、芯片股集体调整",
       "summary": "7月2日A股三大指数集体下跌，沪指跌2.03%，深成指跌3.85%，创业板指跌5.71%，科创50指数跌7.7%，算力硬件和半导体芯片股大幅调整，贵金属和海南自贸区板块逆势上涨，全市场成交3.47万亿元。",
       "publishedAt": "2026-07-02T15:00:00+08:00",
@@ -69,6 +186,33 @@
       "id": "finance-20260701-016"
     },
     {
+      "title": "可灵AI再传30亿美元融资计划，估值数据持续震荡",
+      "summary": "据报道，快手旗下可灵AI正完成约30亿美元独立融资，投后估值约180亿美元，腾讯等机构参投；该估值较5月市场传出的200亿美元目标有所回落。",
+      "publishedAt": "2026-07-02T10:54:00+08:00",
+      "source": "证券时报",
+      "url": "https://www.stcn.com/article/detail/3994214.html",
+      "subCategory": "一级市场",
+      "id": "finance-20260702-015"
+    },
+    {
+      "title": "央行7月2日公开市场开展2885亿元7天期逆回购操作",
+      "summary": "中国人民银行7月2日以固定利率、数量招标方式开展288.5亿元7天期逆回购操作，中标利率为1.40%，充分满足公开市场业务一级交易商需求。",
+      "publishedAt": "2026-07-02T09:22:00+08:00",
+      "source": "证券时报",
+      "url": "https://www.stcn.com/article/detail/3993876.html",
+      "subCategory": "政策利率",
+      "id": "finance-20260702-025"
+    },
+    {
+      "title": "网易正式纳入港股通，腾讯连续30日回购，美团发布开源大模型LongCat-2.0",
+      "summary": "网易正式调入港股通标的名单；腾讯6月30日回购5.01亿港元，自5月18日以来累计回购金额超142亿港元；美团发布万亿参数开源大模型LongCat-2.0，支持百万token超长上下文。",
+      "publishedAt": "2026-07-02T09:07:00+08:00",
+      "source": "东方财富网",
+      "url": "https://finance.eastmoney.com/a/202607023791082897.html",
+      "subCategory": "港股",
+      "id": "finance-20260702-012"
+    },
+    {
       "title": "安克创新今日上市，获近27.57倍认购，每股定价99.32港元，一手中签率30%",
       "summary": "安克创新于7月2日在港交所主板上市，发行价每股99.32港元，公开发售获约27.57倍认购，一手中签率约30%，净筹资约45.23亿港元。",
       "publishedAt": "2026-07-02T08:39:00+08:00",
@@ -76,24 +220,6 @@
       "url": "https://finance.eastmoney.com/a/202607023790908275.html",
       "subCategory": "港股",
       "id": "finance-20260702-010"
-    },
-    {
-      "title": "Oil Extends Decline on Rising Supply",
-      "summary": "国际原油价格2026年7月2日跌破每桶68美元，为去年2月以来最低水平。霍尔木兹海峡油轮通行量持续增加，美国与伊朗间接谈判取得进展，市场对供应过剩风险的担忧上升。",
-      "publishedAt": "2026-07-02",
-      "source": "Trading Economics",
-      "url": "https://tradingeconomics.com/commodity/crude-oil",
-      "subCategory": "大宗商品",
-      "id": "finance-20260702-002"
-    },
-    {
-      "title": "Silver Strengthens on Warsh Remarks",
-      "summary": "白银价格2026年7月2日升至每盎司59美元上方，此前一度触及七个月低点。美联储主席沃什称通胀预期有所缓和，加之原油价格走低缓解通胀担忧，共同支撑银价反弹。",
-      "publishedAt": "2026-07-02",
-      "source": "Trading Economics",
-      "url": "https://tradingeconomics.com/commodity/silver",
-      "subCategory": "大宗商品",
-      "id": "finance-20260702-003"
     },
     {
       "id": "finance-20260702-001",
@@ -130,6 +256,42 @@
       "url": "https://finance.yahoo.com/economy/policy/article/kevin-warsh-fed-will-not-be-comfortable-with-inflation-above-2-183000837.html",
       "subCategory": "政策利率",
       "id": "finance-20260701-022"
+    },
+    {
+      "title": "Oil Extends Decline on Rising Supply",
+      "summary": "国际原油价格2026年7月2日跌破每桶68美元，为去年2月以来最低水平。霍尔木兹海峡油轮通行量持续增加，美国与伊朗间接谈判取得进展，市场对供应过剩风险的担忧上升。",
+      "publishedAt": "2026-07-02",
+      "source": "Trading Economics",
+      "url": "https://tradingeconomics.com/commodity/crude-oil",
+      "subCategory": "大宗商品",
+      "id": "finance-20260702-002"
+    },
+    {
+      "title": "Silver Strengthens on Warsh Remarks",
+      "summary": "白银价格2026年7月2日升至每盎司59美元上方，此前一度触及七个月低点。美联储主席沃什称通胀预期有所缓和，加之原油价格走低缓解通胀担忧，共同支撑银价反弹。",
+      "publishedAt": "2026-07-02",
+      "source": "Trading Economics",
+      "url": "https://tradingeconomics.com/commodity/silver",
+      "subCategory": "大宗商品",
+      "id": "finance-20260702-003"
+    },
+    {
+      "title": "Meta Cloud Boom: Stock Surges 9% as Zuck Preps AI Compute Empire",
+      "summary": "据报道，Meta计划组建云基础设施业务，向外部客户出售闲置AI计算能力和自研模型，以对标亚马逊AWS等云服务商；消息带动Meta股价当日上涨约9%。",
+      "publishedAt": "2026-07-02",
+      "source": "FX Leaders",
+      "url": "https://www.fxleaders.com/news/2026/07/02/meta-cloud-boom-stock-surges-9-as-zuck-preps-ai-compute-empire/",
+      "subCategory": "美股",
+      "id": "finance-20260702-023"
+    },
+    {
+      "title": "ECB's Lagarde defends rate hike decision amid easing inflation",
+      "summary": "欧洲央行行长拉加德接受法国《回声报》采访时表示，尽管其后美伊达成停火协议，6月加息决定仍属正确；欧元区核心通胀已从2.2%升至2.5%，服务业通胀达3.5%。",
+      "publishedAt": "2026-07-02",
+      "source": "Investing.com",
+      "url": "https://ca.investing.com/news/stock-market-news/ecbs-lagarde-defends-rate-hike-decision-amid-easing-inflation-93CH-4718744",
+      "subCategory": "政策利率",
+      "id": "finance-20260702-026"
     },
     {
       "id": "finance-20260701-012",
@@ -258,24 +420,6 @@
       "subCategory": "港股"
     },
     {
-      "id": "finance-20260701-008",
-      "title": "公告精选：比亚迪6月新能源汽车销量40.35万辆；雅克科技、多氟多等提示风险",
-      "summary": "比亚迪公告6月新能源汽车销量40.35万辆，上年同期为38.26万辆。雅克科技提示市场对电子材料业务或存过度解读，多氟多说明半导体级氢氟酸占2025年营收不足2%，另有多家公司发布业绩预告与回购公告。",
-      "publishedAt": "2026-07-01",
-      "source": "证券时报",
-      "url": "https://www.stcn.com/article/detail/3993265.html",
-      "subCategory": "A股"
-    },
-    {
-      "title": "Gold Stays Close to 8-Month Low",
-      "summary": "黄金价格7月1日报3973.84美元/盎司，日内下跌0.85%，受美国就业数据强于预期影响，市场对美联储加息预期升温，金价维持在近八个月低位附近。",
-      "publishedAt": "2026-07-01",
-      "source": "Trading Economics",
-      "url": "https://tradingeconomics.com/commodity/gold",
-      "subCategory": "大宗商品",
-      "id": "finance-20260701-001"
-    },
-    {
       "title": "NIKE, Inc. Reports Fiscal 2026 Fourth Quarter and Full Year Results",
       "summary": "耐克公布2026财年第四季度及全年财报，第四季度营收110亿美元同比降1%，净利润11亿美元同比增407%，主因关税退税收益推高毛利率至49.2%。",
       "publishedAt": "2026-07-01T07:15:00+08:00",
@@ -301,6 +445,24 @@
       "source": "大纪元",
       "url": "https://www.epochtimes.com/gb/26/6/30/n14800025.htm",
       "subCategory": "风险事件"
+    },
+    {
+      "id": "finance-20260701-008",
+      "title": "公告精选：比亚迪6月新能源汽车销量40.35万辆；雅克科技、多氟多等提示风险",
+      "summary": "比亚迪公告6月新能源汽车销量40.35万辆，上年同期为38.26万辆。雅克科技提示市场对电子材料业务或存过度解读，多氟多说明半导体级氢氟酸占2025年营收不足2%，另有多家公司发布业绩预告与回购公告。",
+      "publishedAt": "2026-07-01",
+      "source": "证券时报",
+      "url": "https://www.stcn.com/article/detail/3993265.html",
+      "subCategory": "A股"
+    },
+    {
+      "title": "Gold Stays Close to 8-Month Low",
+      "summary": "黄金价格7月1日报3973.84美元/盎司，日内下跌0.85%，受美国就业数据强于预期影响，市场对美联储加息预期升温，金价维持在近八个月低位附近。",
+      "publishedAt": "2026-07-01",
+      "source": "Trading Economics",
+      "url": "https://tradingeconomics.com/commodity/gold",
+      "subCategory": "大宗商品",
+      "id": "finance-20260701-001"
     },
     {
       "title": "市值破万亿后，寒武纪深夜提示风险",
@@ -561,168 +723,6 @@
       "publishedAt": "2026-06-24T21:46:00+08:00",
       "source": "东方财富",
       "url": "https://caifuhao.eastmoney.com/news/20260624214602110498810",
-      "subCategory": "A股"
-    },
-    {
-      "id": "finance-20260623-002",
-      "title": "暴跌，熔断！韩国股市崩了，监管发出警告！两大存储巨头重挫",
-      "summary": "韩国KOSPI指数6月23日暴跌逾8%，触发20分钟熔断机制；SK海力士和三星电子股价大幅重挫，监管机构对跟踪两大存储巨头的杠杆ETF发出警告，估算相关佣金在300至640亿美元之间，并考虑限制措施以防止市场失真。",
-      "publishedAt": "2026-06-23T14:04:00+08:00",
-      "source": "证券时报",
-      "url": "https://www.stcn.com/article/detail/3974242.html",
-      "subCategory": "股票市场"
-    },
-    {
-      "id": "finance-20260623-001",
-      "title": "SpaceX 股价大跌近 17%，已跌破 IPO 首日收盘价",
-      "summary": "SpaceX股价单日暴跌近17%，报收154.60美元，跌破IPO首日收盘价160.95美元，市值蒸发约4000亿美元；下跌主因为美联储政策转向预期、公司计划发行最高200亿美元债券偿还过桥贷款，以及当前超百倍市销率引发估值担忧。",
-      "publishedAt": "2026-06-23T07:12:47+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/967/248.htm",
-      "subCategory": "美股"
-    },
-    {
-      "id": "finance-20260622-001",
-      "title": "AI 热潮重塑韩国股市格局：SK 海力士市值一度超越三星电子成韩国最具价值企业",
-      "summary": "受AI芯片需求爆发驱动，SK海力士股价持续走强，盘中市值一度超越三星电子，成为韩国最具价值的企业；这一历史性时刻标志着AI产业重塑韩国资本市场格局，HBM供不应求推动SK海力士估值快速扩张。",
-      "publishedAt": "2026-06-22T12:01:22+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/966/878.htm",
-      "subCategory": "股票市场"
-    },
-    {
-      "id": "finance-20260622-002",
-      "title": "蚂蚁集团新一届董事会完成换届，何小鹏出任独立董事",
-      "summary": "蚂蚁集团完成新一届董事会换届，小鹏汽车创始人何小鹏出任独立董事；本次换届是蚂蚁集团完成股权和治理架构调整后的重要人事变化，何小鹏的加入引入了新能源汽车与AI领域的战略视角。",
-      "publishedAt": "2026-06-22T10:32:34+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/966/806.htm",
-      "subCategory": "公司动态"
-    },
-    {
-      "id": "finance-20260622-003",
-      "title": "超200亿IPO来了！华润新能源启动申购",
-      "summary": "华润新能源深交所IPO于6月22日正式启动申购，发行价10.11元/股，拟募资超200亿元，刷新深交所最大IPO纪录；公司为中国领先的新能源发电企业，总装机容量超4000万千瓦，募资将全部用于风力和太阳能发电项目建设。",
-      "publishedAt": "2026-06-22T00:14:04+08:00",
-      "source": "网易财经",
-      "url": "https://www.163.com/dy/article/L003O6EU0519DFFO.html",
-      "subCategory": "新股发行"
-    },
-    {
-      "id": "finance-20260621-002",
-      "title": "贵州茅台拟分红逾350亿元",
-      "summary": "贵州茅台公告2025年度现金分红方案，拟分红总额350.33亿元，每股派现28.02423元；以12.5亿股为基数计算，股权登记日6月24日、除权除息日6月26日；2025年公司营收1721亿元、净利润823.2亿元。",
-      "publishedAt": "2026-06-21T20:52:00+08:00",
-      "source": "证券时报",
-      "url": "https://www.stcn.com/article/detail/3970612.html",
-      "subCategory": "A股"
-    },
-    {
-      "id": "finance-20260621-003",
-      "title": "深交所史上最大规模 IPO：华润新能源明日申购，预计募集资金 245 亿元用于风力发电、太阳能发电项目建设",
-      "summary": "华润新能源将于6月22日在深交所申购，预计募资245亿元，刷新深交所史上最大IPO纪录；发行价10.11元/股，发行21.07亿股，募资全部用于风力和太阳能发电项目，截至2025年底总装机容量4159万千瓦。",
-      "publishedAt": "2026-06-21T20:46:35+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/966/722.htm",
-      "subCategory": "一级市场"
-    },
-    {
-      "id": "finance-20260621-006",
-      "title": "传音控股再次递交H股上市申请",
-      "summary": "传音控股于6月18日向港交所重新递交H股上市申请，距首次申请失效仅16天；公司2023-2025年营收分别为622.95亿元、687.15亿元、655.91亿元；募资将用于AI终端研发、品牌全球化及IoT生态建设，拟构建「A+H」两地上市格局。",
-      "publishedAt": "2026-06-21T20:04:00+08:00",
-      "source": "证券时报",
-      "url": "https://www.stcn.com/article/detail/3970596.html",
-      "subCategory": "一级市场"
-    },
-    {
-      "id": "finance-20260621-001",
-      "title": "A股融资余额再创历史新高，融资客持续投入两大方向，这些股获青睐",
-      "summary": "A股融资余额截至6月17日升至29309.66亿元创历史新高，近一周融资净买入769.57亿元；主力方向聚焦光模块产业链（中际旭创、东山精密等）和存储芯片（兆易创新、寒武纪等），71%投资者本周获利，45%看好下周继续上冲4100点。",
-      "publishedAt": "2026-06-21T19:28:00+08:00",
-      "source": "证券时报",
-      "url": "https://www.stcn.com/article/detail/3970577.html",
-      "subCategory": "A股"
-    },
-    {
-      "id": "finance-20260621-005",
-      "title": "手握超 400 亿美元现金、零负债，马斯克称穆迪对特斯拉的评级低得离谱",
-      "summary": "马斯克公开批评穆迪对特斯拉Baa3评级偏低，指出特斯拉持有现金超400亿美元、零负债且持续盈利，与SpaceX所获Baa1评级相比逻辑不一；特斯拉Q1经营现金流39亿美元，财务基本面持续稳健。",
-      "publishedAt": "2026-06-21T14:30:52+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/966/639.htm",
-      "subCategory": "美股"
-    },
-    {
-      "id": "finance-20260621-004",
-      "title": "马斯克行权特斯拉 2018 年薪酬方案，账面收益高达 1160 亿美元",
-      "summary": "马斯克于6月16日完成特斯拉2018年薪酬激励方案全部行权，以23.34美元/股行使约3.04亿份期权，账面收益约1160亿美元；采用净额结算方式，特斯拉扣留约1750万股用于支付行权成本，剩余股份锁定至2028年1月。",
-      "publishedAt": "2026-06-21T08:01:53+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/966/595.htm",
-      "subCategory": "美股"
-    },
-    {
-      "id": "finance-20260620-001",
-      "title": "高盛下调黄金年末目标价至4900美元：推迟降息与沃什鹰派信号是主因",
-      "summary": "高盛发布研报将2026年黄金年末目标价从5000美元下调至4900美元，主因美联储新主席沃什在首次议息会议上释放鹰派信号，推迟降息预期升温；高盛分析师指出若美联储今年真实施加息，金价将面临进一步下行压力，但中长期仍维持对黄金看多立场。",
-      "publishedAt": "2026-06-20T11:58:00+08:00",
-      "source": "上海有色网SMM",
-      "url": "https://news.smm.cn/news/103963244",
-      "subCategory": "大宗商品"
-    },
-    {
-      "id": "finance-20260618-001",
-      "title": "沃什\"首秀\"释放鹰派信号！9人预测年内加息，9月加息概率超56%！美联储声明仅130字为19年来最短，取消前瞻指引，成立五大工作组",
-      "summary": "美联储新主席凯文·沃什首次议息会议展现鹰派立场。政策声明仅130字，取消前瞻指引，不提点阵图。点阵图显示9人预测年内加息，市场预期9月加息概率超56%。沃什宣布成立五大工作组改革美联储，压缩信息披露，寻求切割与市场过度绑定关系。",
-      "publishedAt": "2026-06-18T15:32:35+08:00",
-      "source": "每日经济新闻",
-      "url": "https://www.nbd.com.cn/articles/2026-06-18/4430102.html",
-      "subCategory": "政策利率"
-    },
-    {
-      "id": "finance-20260618-002",
-      "title": "OpenAI Q1支出37亿美元，亏损规模持续扩大",
-      "summary": "OpenAI第一季度支出达37亿美元，营收57亿美元，难以覆盖成本。2025年收入130.7亿美元增长253%，但总成本340亿美元导致亏损209.2亿美元。研发支出191.8亿美元，预计需至2030年才能实现盈利，拟投资6000亿美元建设数据中心。",
-      "publishedAt": "2026-06-18T15:09:00+08:00",
-      "source": "AMZ123跨境导航",
-      "url": "https://www.amz123.com/t/z98jIhI3",
-      "subCategory": "公司财报"
-    },
-    {
-      "id": "finance-20260617-001",
-      "title": "新浪股票热点小时报丨2026年06月17日17时",
-      "summary": "A股市场低开高走，科创50指数大涨4.69%。PCB概念爆发十余只成分股涨停，半导体产业链表现活跃，存储芯片领涨。沪深两市成交额3.09万亿，超3700只个股下跌。陆家嘴论坛上，证监会主席吴清宣布科创板将扩大第五套标准至人工智能领域，支持更多硬科技企业上市。",
-      "publishedAt": "2026-06-17T17:00:00+08:00",
-      "source": "新浪网",
-      "url": "https://k.sina.com.cn/article_7857201856_1d45362c001906yex4.html",
-      "subCategory": "A股"
-    },
-    {
-      "id": "finance-20260616-001",
-      "title": "日本央行加息 利率升至31年来新高",
-      "summary": "日本央行宣布将政策利率从0.75%上调至1.0%，创31年新高。此次加息主要受物价加速上涨风险上升驱动，原油价格上涨推动企业端价格传导加快，可能导致消费端商品价格上升。央行担忧物价涨幅或超2%目标。",
-      "publishedAt": "2026-06-16T13:02:27+08:00",
-      "source": "新华网",
-      "url": "https://www.news.cn/world/20260616/d7944ff3bcba4977bb9ccf8c50f64d8b/c.html",
-      "subCategory": "政策利率"
-    },
-    {
-      "id": "finance-20260615-003",
-      "title": "马斯克：到 2030 年 SpaceX 或实现近 1 万亿美元营收",
-      "summary": "马斯克在社交平台表示，若 Starlink、SpaceXAI 等业务按计划推进，SpaceX 到 2030 年有望实现接近 1 万亿美元营收，较 2025 年全年 186.7 亿美元营收将增长逾 50 倍；SpaceX 已于 6 月 12 日在纳斯达克上市，IPO 当日市值达 1.77 万亿美元。",
-      "publishedAt": "2026-06-15T16:13:00+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/964/465.htm",
-      "subCategory": "公司财报"
-    },
-    {
-      "id": "finance-20260615-005",
-      "title": "盘中，大涨近48%！AI产业链，突然异动！",
-      "summary": "受美国出口管制强制停用Anthropic旗舰模型消息刺激，香港上市的智谱AI股价盘中大涨近48%；国产AI替代预期升温，带动国内AI产业链相关个股集体异动，多只A股AI标的触及涨停板，智谱同步宣布GLM-5.2全量开放助力多平台估值重估。",
-      "publishedAt": "2026-06-15T15:45:00+08:00",
-      "source": "证券时报",
-      "url": "https://www.stcn.com/article/detail/3961891.html",
       "subCategory": "A股"
     }
   ],

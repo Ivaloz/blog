@@ -3,8 +3,143 @@
   "slug": "tech",
   "title": "科技新闻",
   "description": "前沿科技、互联网产品、芯片硬件、开源生态。",
-  "updatedAt": "2026-07-02T16:38:59+08:00",
+  "updatedAt": "2026-07-03T08:30:00+08:00",
   "items": [
+    {
+      "title": "索尼 FX5 电影摄影机实拍图首曝：威尼斯风格菜单，16MP 全堆栈传感器支持 5K 全开片门",
+      "summary": "索尼FX5电影摄影机实拍图首次曝光，采用16MP全堆栈传感器，支持5K 3:2全开片门录制及三档原生ISO，机身可录制X-OCN LT RAW格式，菜单界面参考Venice摄影机设计，预计7月下旬发布。",
+      "publishedAt": "2026-07-03T08:27:39+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/971/980.htm",
+      "subCategory": "消费电子",
+      "id": "tech-20260703-002"
+    },
+    {
+      "title": "铠侠-闪迪 BiCS10（332层）3D NAND闪存进入出样阶段，首款产品为1Tb TLC",
+      "summary": "铠侠与闪迪联合研发的BiCS10三维闪存已进入出样阶段，首款产品为332层1Tb TLC，采用Toggle DDR6.0接口，I/O速度达4800MT/s，存储密度较BiCS8提升59%，功耗降低34%，在日本岩手北上工厂Fab2生产。",
+      "publishedAt": "2026-07-03T07:55:30+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/971/973.htm",
+      "subCategory": "芯片硬件",
+      "id": "tech-20260703-001"
+    },
+    {
+      "title": "得克萨斯州特斯拉致命车祸肇事司机被控过失杀人，警方发现其曾嫌 FSD\"太保守\"",
+      "summary": "得克萨斯州一名44岁男子驾驶特斯拉Model 3开启FSD时撞入民宅致76岁女性死亡，已被控过失杀人。警方查出其手机曾多次搜索FSD太保守，车辆数据显示其踩下加速踏板致系统限速被覆盖，家属已起诉特斯拉。",
+      "publishedAt": "2026-07-03T07:43:15+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/971/971.htm",
+      "subCategory": "智能汽车",
+      "id": "tech-20260703-005"
+    },
+    {
+      "title": "苹果 iOS 27 系统将推 Trust Insights 框架，帮助用户抵御电诈",
+      "summary": "苹果计划在iOS 27系统中引入Trust Insights框架，通过本地分析用户操作模式、时序及传感器数据识别电信诈骗风险，对可疑操作标记中高风险并触发弹窗警示、延迟执行或身份验证，数据分析后即时丢弃，用户可在设置中关闭该功能。",
+      "publishedAt": "2026-07-03T07:37:17+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/971/969.htm",
+      "subCategory": "操作系统",
+      "id": "tech-20260703-003"
+    },
+    {
+      "title": "让你的代码永存于世，微软 GitHub 推出代码仓库刻录 CD-ROM 实体光盘服务",
+      "summary": "微软旗下GitHub推出代码仓库刻录CD-ROM实体光盘服务，用户可将公开仓库刻录成实体光盘保存或转赠，该服务限量提供、需预先登记，配送范围因地区而异，用户可能需等待数周才能收到光盘。",
+      "publishedAt": "2026-07-03T07:01:48+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/971/961.htm",
+      "subCategory": "互联网产品",
+      "id": "tech-20260703-004"
+    },
+    {
+      "title": "FBI Seizes NetNut Proxy Platform, Popa Botnet",
+      "summary": "美国联邦调查局联合谷歌、Lumen等机构查封了以色列Alarum Technologies旗下住宅代理服务NetNut相关的数百个域名。该服务此前被曝将智能电视、机顶盒等约两百万台设备转为代理节点，支撑Popa僵尸网络从事内容爬取、广告欺诈及账户盗用等黑产活动。",
+      "publishedAt": "2026-07-03T03:27:00+08:00",
+      "source": "Krebs on Security",
+      "url": "https://krebsonsecurity.com/2026/07/fbi-seizes-netnut-proxy-platform-popa-botnet/",
+      "subCategory": "安全漏洞",
+      "id": "tech-20260703-007"
+    },
+    {
+      "title": "小雨智造发布工业具身智能焊接机器人，起售价16.98万已落地十余家工厂",
+      "summary": "小雨智造在2026全球数字经济大会上发布工业具身智能焊接机器人小雨未来机器人，标准版起售价16.98万元，已落地十余家工厂，应用于建筑钢构、船舶制造等场景，集成自研4D世界模型、硬件平台与定位笔三项底层技术。",
+      "publishedAt": "2026-07-03T02:27:27+08:00",
+      "source": "itbear科技资讯",
+      "url": "https://www.itbear.com.cn/html/2026-07/1425705.html",
+      "subCategory": "机器人",
+      "id": "tech-20260703-006"
+    },
+    {
+      "title": "华为鸿蒙 HarmonyOS API 设备量占比数据更新：7.0.0 Beta1 突破 0.17%，5.0 多个版本归零",
+      "summary": "华为鸿蒙HarmonyOS API设备量占比数据更新，新版26.0.0 Beta1（对应HarmonyOS 7.0.0 Beta1）占比达0.17%，6.1.0及以上版本设备占比合计94.77%，多个5.0版本占比已归零。",
+      "publishedAt": "2026-07-02T23:52:17+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/971/956.htm",
+      "subCategory": "操作系统",
+      "id": "tech-20260702-027"
+    },
+    {
+      "title": "Since Linux 6.9, LUKS suspend stopped wiping disk-encryption keys from memory",
+      "summary": "安全研究者Ingo Blechschmidt排查发现，自Linux 6.9内核起，LUKS磁盘加密在系统挂起（suspend）时不再从内存中清除密钥，该回归问题存在超过两年，直到被NixOS集成测试意外发现，期间挂起状态下的设备面临冷启动攻击风险。(估算)",
+      "publishedAt": "2026-07-02T23:30:00+08:00",
+      "source": "Hacker News",
+      "url": "https://news.ycombinator.com/item?id=48763035",
+      "subCategory": "安全漏洞",
+      "id": "tech-20260702-037"
+    },
+    {
+      "title": "比亚迪累计建成超 7000 座闪充站：遍布 325 个城市，目标年底建成 2 万座",
+      "summary": "比亚迪在海豹08上市发布会上宣布，已累计建成超7000座闪充站，覆盖325个城市，年底前目标建成2万座，含1.8万座城市站与2000座高速站。配合第二代刀片电池，单枪最大功率1500千瓦，5分钟可充至70%。",
+      "publishedAt": "2026-07-02T23:28:57+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/971/953.htm",
+      "subCategory": "智能汽车",
+      "id": "tech-20260702-030"
+    },
+    {
+      "title": "消息称某厂测试2nm骁龙8E6处理器、排期明年上半年，预计为小米REDMI旗下",
+      "summary": "据数码博主爆料，某手机厂商正测试采用2纳米工艺的骁龙8E6处理器，定位性能旗舰，排期为明年上半年发布，机型预计为小米REDMI旗下产品，具体型号尚未确认，该爆料者此前曾暗示K系列将有较大调整。",
+      "publishedAt": "2026-07-02T22:32:49+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/971/941.htm",
+      "subCategory": "芯片硬件",
+      "id": "tech-20260702-026"
+    },
+    {
+      "title": "华为：乾崑智驾 ADS 4 升级至 ADS 5 不存在硬件限制",
+      "summary": "华为乾崑智驾发布ADS 5升级常见问题解答，称ADS 5现分Max/Pro/SE三个版本，用户可在车机ADS App设置辅助驾驶关于中查看版本。华为表示从ADS 4升级至ADS 5不存在硬件限制，无需更换或改装硬件即可升级。",
+      "publishedAt": "2026-07-02T22:29:50+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/971/939.htm",
+      "subCategory": "智能汽车",
+      "id": "tech-20260702-029"
+    },
+    {
+      "title": "消息称Anthropic启动自研AI芯片早期开发，拟采用三星2纳米工艺",
+      "summary": "据The Information报道，Anthropic正与三星洽谈定制AI芯片，已启动早期开发工作，计划采用三星2纳米工艺及先进封装技术，但尚未确定芯片的功能定位、算力规格及部署方案，公司近期还挖来了原OpenAI芯片团队核心成员。",
+      "publishedAt": "2026-07-02T21:59:49+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/971/921.htm",
+      "subCategory": "芯片硬件",
+      "id": "tech-20260702-025"
+    },
+    {
+      "title": "\"史上最严电池安全令\"落地，长安汽车金钟罩电池达成新国标测试",
+      "summary": "7月1日电动汽车电池强制性新国标GB 38031-2025正式实施，长安汽车宣布其金钟罩电池系统已完成新国标全部测试，成为行业首批完成认证的车企之一，支持6C快充，9分钟可充至30%到80%电量。",
+      "publishedAt": "2026-07-02T21:58:46+08:00",
+      "source": "IT之家",
+      "url": "https://m.ithome.com/html/971919.htm",
+      "subCategory": "智能汽车",
+      "id": "tech-20260702-031"
+    },
+    {
+      "title": "小鹏 MONA L03 预售价 14.38 万元起，7 月 16 日正式上市",
+      "summary": "小鹏MONA L03中国首秀公布预售价，14.38万元起，7月16日正式上市。新车提供纯电与增程双动力，纯电版续航最高625公里，搭载1500TOPS算力芯片及第二代VLA智驾系统，零百加速最快6.6秒。",
+      "publishedAt": "2026-07-02T20:37:06+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/971/898.htm",
+      "subCategory": "智能汽车",
+      "id": "tech-20260702-028"
+    },
     {
       "title": "微星星影 15 Max 笔记本新增“酷睿 7 240H + RTX5060”版本，9999 元起",
       "summary": "微星星影15 Max笔记本新增酷睿7 240H+RTX5060配置，16GB内存512GB硬盘版9999元起，1TB版10599元，屏幕为1080P 144Hz，支持100W PD快充。",
@@ -247,6 +382,51 @@
       "source": "GitHub Changelog",
       "url": "https://github.blog/changelog/2026-07-01-secret-scanning-adds-validators-for-asana-ibm-and-messagebird",
       "subCategory": "开发者工具"
+    },
+    {
+      "title": "Meet Brain: The AI system behind Azure reliability",
+      "summary": "微软发布内部AIOps系统Brain，作为Azure Resource Graph之上的智能层，整合平台遥测数据、机器学习模型与服务依赖关系，构建实时云健康数字孪生，可自动触发部署暂停和客户通知等操作。",
+      "publishedAt": "2026-07-02",
+      "source": "Microsoft Azure Blog",
+      "url": "https://azure.microsoft.com/en-us/blog/meet-brain-the-ai-system-behind-azure-reliability/",
+      "subCategory": "云计算",
+      "id": "tech-20260702-032"
+    },
+    {
+      "title": "Amazon EC2 Dedicated Hosts now support AMD SEV-SNP",
+      "summary": "AWS宣布Amazon EC2 Dedicated Hosts支持AMD SEV-SNP机密计算技术，客户可在专属物理服务器上运行机密计算工作负载，该功能已覆盖所有提供AMD实例的AWS商业区域。",
+      "publishedAt": "2026-07-02",
+      "source": "AWS What's New",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/ec2-amd-sev-snp-dedicated-hosts",
+      "subCategory": "云计算",
+      "id": "tech-20260702-033"
+    },
+    {
+      "title": "Amazon EC2 X8i instances are now available in additional regions",
+      "summary": "AWS宣布Amazon EC2 X8i实例扩展至亚太首尔、马来西亚和东京三个新区域，该实例采用定制英特尔至强6处理器，面向SAP HANA等内存密集型应用，共提供14种规格及多种购买方式。",
+      "publishedAt": "2026-07-02",
+      "source": "AWS What's New",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-x8i-instances-ICN-KUL-NRT-region/",
+      "subCategory": "云计算",
+      "id": "tech-20260702-034"
+    },
+    {
+      "title": "Issue fields are now generally available",
+      "summary": "GitHub的issue fields功能现已面向Free、Team、Enterprise等所有计划组织正式开放，后续将随Enterprise Server 3.23发布。该功能自五月公开预览以来已被超过四万个组织采用，可为issue添加优先级、工作量等结构化字段，并支持在列表中直接查看字段值。",
+      "publishedAt": "2026-07-02",
+      "source": "GitHub Changelog",
+      "url": "https://github.blog/changelog/2026-07-02-issue-fields-are-now-generally-available/",
+      "subCategory": "开发者工具",
+      "id": "tech-20260702-035"
+    },
+    {
+      "title": "How GitHub used secret scanning to reach inbox zero",
+      "summary": "GitHub安全团队披露，其在旗下超过一万五千个仓库中曾发现两万余条密钥泄露告警，随后通过分阶段启用密钥扫描、优先级排查、验证凭据有效性并明确责任归属，历时九个月将未处理告警清零，并分享了具体实践方法。",
+      "publishedAt": "2026-07-02",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/security/application-security/how-github-used-secret-scanning-to-reach-inbox-zero/",
+      "subCategory": "安全漏洞",
+      "id": "tech-20260702-036"
     },
     {
       "id": "tech-20260701-018",
@@ -544,186 +724,6 @@
       "source": "IT之家",
       "url": "https://www.ithome.com/0/968/525.htm",
       "subCategory": "消费电子"
-    },
-    {
-      "id": "tech-20260625-004",
-      "title": "索尼宣布 AI 机器狗 aibo ERS-1000 将在日本停售，将继续开发新产品与服务",
-      "summary": "索尼宣布旗下AI机器狗aibo ERS-1000将于近期在日本市场停售，同时承诺将继续开发新产品与服务；aibo ERS-1000于2018年在日本上市，是索尼重启机器人宠物品牌的标志性产品，停售标志该款产品生命周期结束。",
-      "publishedAt": "2026-06-25T15:57:13+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/968/512.htm",
-      "subCategory": "机器人"
-    },
-    {
-      "id": "tech-20260625-001",
-      "title": "SemiAnalysis：长鑫存储稳居全球第四大 DRAM 制造商，年底产能有望超越美光拿下第三",
-      "summary": "SemiAnalysis报告显示，长鑫存储（CXMT）已稳居全球第四大DRAM制造商地位，在技术追赶与产能扩张驱动下，年底产能有望超越美光升至全球第三，进一步缩小与三星、SK海力士的差距。",
-      "publishedAt": "2026-06-25T14:51:47+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/968/434.htm",
-      "subCategory": "芯片硬件"
-    },
-    {
-      "id": "tech-20260625-002",
-      "title": "高通带来 Dragonfly 数据中心产品组合：HBC 架构、C1000 CPU、AI300 推理加速器",
-      "summary": "高通发布Dragonfly数据中心产品组合，涵盖采用HBC架构的C1000 CPU与AI300推理加速器，正式进军数据中心芯片市场，与英特尔和AMD在服务器处理器领域展开竞争。",
-      "publishedAt": "2026-06-25T09:12:40+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/968/257.htm",
-      "subCategory": "芯片硬件"
-    },
-    {
-      "id": "tech-20260625-003",
-      "title": "小米首款 NAS：Xiaomi 智能存储官宣，众筹到手价 2299 元起",
-      "summary": "小米正式官宣首款NAS网络附加存储产品Xiaomi智能存储，众筹到手价2299元起，标志小米生态链向个人存储与家庭NAS市场的重要拓展。",
-      "publishedAt": "2026-06-24T10:14:24+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/967/760.htm",
-      "subCategory": "消费电子"
-    },
-    {
-      "id": "tech-20260623-003",
-      "title": "腾讯 QQ 邮箱 Agently Mail 开启内测，让 AI 用自己的身份收发邮件",
-      "summary": "腾讯QQ邮箱推出Agently Mail内测，为AI智能体提供独立数字身份邮箱，可与用户个人账户隔离，支持隐私保护与写操作二次确认机制，兼容多款主流AI平台。",
-      "publishedAt": "2026-06-23T16:37:40+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/967/524.htm",
-      "subCategory": "互联网产品"
-    },
-    {
-      "id": "tech-20260623-002",
-      "title": "曝华为 Mate 80 系列手机销量已破 700 万台，有望冲击千万里程碑",
-      "summary": "华为Mate 80系列截至6月中旬销量突破700万台，断层领先同期旗舰机型；业内人士预测在Mate 90发布前约三个月内，Mate 80系列有望冲击千万台里程碑。",
-      "publishedAt": "2026-06-23T16:30:26+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/967/521.htm",
-      "subCategory": "消费电子"
-    },
-    {
-      "id": "tech-20260623-001",
-      "title": "AI 转型与成本压力下，甲骨文 2026 财年裁员 2.1 万人",
-      "summary": "甲骨文2026财年员工总数减少13%（约2.1万人），截至2026年5月31日员工总量降至14.1万；公司为重组支出18.4亿美元离职补偿，将资源集中转向AI基础设施建设，已与OpenAI、Meta等签订大规模算力合作协议。",
-      "publishedAt": "2026-06-23T09:01:11+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/967/271.htm",
-      "subCategory": "云计算"
-    },
-    {
-      "id": "tech-20260622-001",
-      "title": "广汽与华为乾崑联合打造：启境 GT7 车型 6 月 26 日上市，预售 21.99 万起",
-      "summary": "广汽与华为乾崑智能汽车技术联合打造的启境GT7正式公布上市时间，定于6月26日上市，预售价21.99万元起；该车搭载华为ADS 5自动驾驶系统、乾崑智驾及智联全套解决方案，是双方深度合作的最新量产车型。",
-      "publishedAt": "2026-06-22T11:43:47+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/966/864.htm",
-      "subCategory": "智能汽车"
-    },
-    {
-      "id": "tech-20260622-003",
-      "title": "红魔游戏平板 5 Pro 外观细节公布：透明水冷设计，6 月 30 日发布",
-      "summary": "红魔游戏平板5 Pro公布外观细节，搭载透明背板水冷散热设计，内部冷却结构清晰可见；定于6月30日正式发布，面向游戏玩家市场，是红魔游戏硬件产品线在平板领域的重要扩张。",
-      "publishedAt": "2026-06-22T11:34:08+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/966/856.htm",
-      "subCategory": "消费电子"
-    },
-    {
-      "id": "tech-20260622-002",
-      "title": "小米 YU7 GT 第一视角：见证全球首个纽北自动驾驶圈速纪录诞生",
-      "summary": "小米发布YU7 GT纽北自动驾驶挑战第一视角视频，记录全球首个电动车纽北赛道自动驾驶圈速纪录诞生过程；YU7 GT搭载小米自研自动驾驶系统，挑战纽北赛道代表小米汽车在智能驾驶技术上追求极限性能的战略方向。",
-      "publishedAt": "2026-06-22T11:19:41+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/966/844.htm",
-      "subCategory": "智能汽车"
-    },
-    {
-      "id": "tech-20260622-004",
-      "title": "英伟达黄仁勋链博会致辞：中国是世界重要科技产业中心之一，工程师表现卓越",
-      "summary": "英伟达CEO黄仁勋在第四届中国国际供应链促进博览会（链博会）上发表视频致辞，称中国是世界上最重要的科技产业中心之一，中国工程师表现卓越，表达对中国科技产业的积极评价。",
-      "publishedAt": "2026-06-22T10:58:02+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/966/823.htm",
-      "subCategory": "芯片硬件"
-    },
-    {
-      "id": "tech-20260621-004",
-      "title": "华为官网发布鸿蒙 HarmonyOS 7 (API 26) 新能力一览：空间化设计、新增多形态服务窗口等",
-      "summary": "华为在开发者官网发布HarmonyOS 7（API 26）新能力概览，涵盖空间化设计、Vibe Coding智能开发辅助、多形态服务窗口、星盾风控引擎及分布式数字身份等新特性；HarmonyOS 7已于6月12日发布，消费版本预计秋季推出。",
-      "publishedAt": "2026-06-21T21:23:08+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/966/726.htm",
-      "subCategory": "操作系统"
-    },
-    {
-      "id": "tech-20260621-005",
-      "title": "供应链公司称已向苹果首款折叠屏 iPhone 小批量供货，新机预计 9 月发布",
-      "summary": "苹果供应链厂商确认已向首款折叠屏iPhone启动小批量供货，新机预计9月发布；iOS 27代码已出现「foldState」「angleDegrees」等折叠功能相关字段，多方供应链信息交叉验证产品如期推出。",
-      "publishedAt": "2026-06-21T21:06:05+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/966/724.htm",
-      "subCategory": "消费电子"
-    },
-    {
-      "id": "tech-20260621-009",
-      "title": "Marvell 总裁 Chris Koopmans：已就导入 A14 制程与台积电洽谈",
-      "summary": "Marvell总裁兼COO Chris Koopmans透露，公司已就导入台积电A14制程展开洽谈；Marvell因DSP等核心产品对功耗极度敏感，历来大幅跨越制程节点，A14预计2028年量产。",
-      "publishedAt": "2026-06-21T20:59:21+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/966/723.htm",
-      "subCategory": "芯片硬件"
-    },
-    {
-      "id": "tech-20260621-007",
-      "title": "消息称华为乾崑智驾 ADS 5 即将推送，鸿蒙智行旗舰车型优先搭载",
-      "summary": "消息称华为乾崑智驾ADS 5系统即将推送OTA更新，鸿蒙智行旗下问界、享界等旗舰车型将优先获得；ADS 5于4月23日发布，搭载WEWA 2.0 AI架构，引入多智能体博弈论与在线强化学习。",
-      "publishedAt": "2026-06-21T19:23:48+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/966/714.htm",
-      "subCategory": "智能汽车"
-    },
-    {
-      "id": "tech-20260621-001",
-      "title": "消息称小米汽车终端推内购优惠，部分现车降价 1 万元",
-      "summary": "消息称小米汽车面向员工和内部渠道推出内购优惠政策，部分现车型号降价约1万元；此举被外界解读为小米汽车在交付量持续攀升背景下加速去库存、提升终端渗透率的市场策略，具体机型和优惠细节尚未对外公布。",
-      "publishedAt": "2026-06-21T15:42:28+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/966/652.htm",
-      "subCategory": "智能汽车"
-    },
-    {
-      "id": "tech-20260621-002",
-      "title": "黑鲨社区关闭访问，小米商城下架黑鲨所有产品",
-      "summary": "黑鲨游戏手机官方社区宣布关闭访问，小米商城同步下架全线黑鲨产品；黑鲨此前已停止发布新机，此次社区关闭与商城下架标志着这一游戏手机品牌的全面退出，用户售后服务保障方案暂未公布。",
-      "publishedAt": "2026-06-21T15:35:41+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/966/651.htm",
-      "subCategory": "消费电子"
-    },
-    {
-      "id": "tech-20260621-003",
-      "title": "存储芯片公司英韧科技完成 IPO 辅导：主营 SSD 主控芯片设计与供应",
-      "summary": "英韧科技宣布完成A股IPO上市辅导，公司主营SSD固态硬盘主控芯片的设计与供应，是国内少数具备高性能企业级SSD主控芯片量产能力的本土芯片设计企业；完成辅导是正式向监管机构提交上市申请前的关键步骤，有望成为国产存储芯片设计领域重要上市案例。",
-      "publishedAt": "2026-06-21T15:24:39+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/966/650.htm",
-      "subCategory": "芯片硬件"
-    },
-    {
-      "id": "tech-20260621-008",
-      "title": "字节跳动 Pico「Project Swan」头显设计曝光：背面头带类似苹果 Vision Pro、正面酷似三星 Galaxy XR",
-      "summary": "字节跳动Pico下代「Project Swan」头显通过SDK演示视频曝光，后头带类似Vision Pro单环设计，正面外观酷似三星Galaxy XR；搭载4000 PPI微OLED、双芯片架构及Pico OS 6系统，CPU/GPU性能为骁龙XR2 Gen 2两倍。",
-      "publishedAt": "2026-06-21T11:23:32+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/966/627.htm",
-      "subCategory": "XR-AR-VR"
-    },
-    {
-      "id": "tech-20260621-010",
-      "title": "微软将移除 Edge 浏览器文件互传功能 Drop，重心转向 Copilot",
-      "summary": "微软宣布移除Edge浏览器文件互传功能Drop，该功能已随侧边栏和Collections在Edge 149中下线；公司正将Edge战略重心全面转向Copilot AI整合，用户需在服务终止前备份已存储的文本记录。",
-      "publishedAt": "2026-06-21T10:30:38+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/966/613.htm",
-      "subCategory": "操作系统"
     }
   ]
 }

@@ -3,8 +3,62 @@
   "slug": "ai",
   "title": "AI 与大模型",
   "description": "大模型、Agent、AI 编程、推理框架、开源模型的发布与落地。",
-  "updatedAt": "2026-07-02T16:38:59+08:00",
+  "updatedAt": "2026-07-03T08:30:00+08:00",
   "items": [
+    {
+      "title": "让Agent越用越强：AReaL 2.0开源，打造面向自演进智能体的RL基础设施",
+      "summary": "开源强化学习基础设施项目AReaL发布2.0版本，使已部署的Agent能记录真实任务交互数据并接入训练流程持续优化。项目由蚂蚁集团、清华大学、香港科技大学发起，现属PyTorch基金会开源生态。",
+      "publishedAt": "2026-07-02T19:28:36+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/07/442134.html",
+      "subCategory": "Agent",
+      "id": "ai-20260702-007"
+    },
+    {
+      "title": "全球首个英伟达含量为0的万亿模型，成了海外开发者的抢手货",
+      "summary": "美团发布LongCat-2.0，总参数1.6万亿、单token激活约480亿参数，训练与推理全程基于国产芯片完成。该模型以Owl Alpha代号在OpenRouter上跻身全球调用量前三的开源模型之列。",
+      "publishedAt": "2026-07-02T18:56:23+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/07/442047.html",
+      "subCategory": "开源模型",
+      "id": "ai-20260702-014"
+    },
+    {
+      "title": "科大讯飞举办智能交互生态发布会，三大平台同步升级",
+      "summary": "科大讯飞在深圳举办智能交互生态发布会，AIUI平台从语音交互升级为融合图像理解与生成的多模态交互平台，机器人超脑完成新一轮升级并强化多模态感知能力，同时发布十大场景化解决方案。",
+      "publishedAt": "2026-07-02T18:45:31+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/07/442048.html",
+      "subCategory": "多模态",
+      "id": "ai-20260702-011"
+    },
+    {
+      "title": "天工 3.2 重磅升级：Skywork Tags 上线，给 Agent 一张工牌，邀其加入你的工作群聊",
+      "summary": "昆仑万维天工3.2推出Skywork Tags，支持Agent直接接入Slack、飞书、钉钉、Discord、Telegram等团队沟通工具，作为团队共享的AI成员参与工作群协作，无需迁移聊天记录与项目资料。",
+      "publishedAt": "2026-07-02T18:24:32+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/07/442030.html",
+      "subCategory": "Agent",
+      "id": "ai-20260702-008"
+    },
+    {
+      "title": "OpenAI reportedly wants all AI companies to give the US government a stake in their businesses",
+      "summary": "据英国《金融时报》报道，OpenAI首席执行官奥特曼提议由美国政府持有包括OpenAI在内的主要美国AI公司各5%股权，谷歌、Meta、Anthropic等是否同意尚不明确，方案仍需国会批准，目前处于初步磋商阶段。",
+      "publishedAt": "2026-07-02T05:27:00-04:00",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2206552/openai-ai-companies-give-us-government-stake-businesses-proposal/",
+      "subCategory": "大模型",
+      "id": "ai-20260702-015"
+    },
+    {
+      "title": "3年估值3400亿AI独角兽DeepSeek宕机超12小时，用户依赖下为何稳定性成致命短板？",
+      "summary": "DeepSeek网页及API服务7月2日出现大范围异常，持续超12小时至次日凌晨5点才完全恢复，累计影响超1.1亿用户，报道分析原因涉及用户增长过快、算力扩容滞后与商业化加速三方面因素叠加。",
+      "publishedAt": "2026-07-02T17:17:00+08:00",
+      "source": "新浪科技",
+      "url": "https://k.sina.com.cn/article_7880068204_1d5b04c6c06801amhm.html",
+      "subCategory": "大模型",
+      "id": "ai-20260702-013"
+    },
     {
       "title": "钉钉A1录音卡入选Gartner AI可穿戴设备报告",
       "summary": "Gartner在AI可穿戴设备报告中提及钉钉A1录音卡，指出其核心竞争力在于所连接的应用与AI模型，产品通过与钉钉协作平台集成提供实时转写和摘要功能，并支持企业级授权、设备管理与数据加密存储。",
@@ -13,6 +67,15 @@
       "url": "https://www.qbitai.com/2026/07/442024.html",
       "subCategory": "AI硬件",
       "id": "ai-20260702-005"
+    },
+    {
+      "title": "昆仑万维：天工AI业务ARR突破8亿美元",
+      "summary": "昆仑万维公布天工AI二季度AI原生业务年化经常性收入突破8亿美元，其中短剧平台DramaWave贡献超7亿美元、AI工具业务破1亿美元，平台超80%新增内容已由AI生成。",
+      "publishedAt": "2026-07-02T14:53:00+08:00",
+      "source": "证券时报",
+      "url": "https://www.stcn.com/article/detail/3994560.html",
+      "subCategory": "AI应用",
+      "id": "ai-20260702-012"
     },
     {
       "title": "天工AI业务ARR突破8亿美元",
@@ -58,6 +121,33 @@
       "url": "https://github.blog/changelog/2026-07-01-copilot-vision-is-generally-available/",
       "subCategory": "AI编程",
       "id": "ai-20260701-015"
+    },
+    {
+      "title": "More details on Fable 5's cyber safeguards and our jailbreak framework",
+      "summary": "Anthropic公布Claude Fable 5网络安全防护细节，将使用场景分为禁止、高风险双用、低风险双用与良性四级，并联合亚马逊、微软、谷歌等提出CJS-0至CJS-4越狱严重程度评分框架，用于统一评估风险。",
+      "publishedAt": "2026-07-02",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/news/fable-safeguards-jailbreak-framework",
+      "subCategory": "大模型",
+      "id": "ai-20260702-006"
+    },
+    {
+      "title": "Copilot agent session streaming is now in public preview",
+      "summary": "GitHub为使用企业托管用户的Copilot客户提供智能体会话数据流式接口及REST API，可实时或按需获取过去48小时内的提示词、回复与工具调用记录，供接入SIEM工具进行安全监控。",
+      "publishedAt": "2026-07-02",
+      "source": "GitHub Changelog",
+      "url": "https://github.blog/changelog/2026-07-02-copilot-agent-session-streaming-is-now-in-public-preview/",
+      "subCategory": "AI编程",
+      "id": "ai-20260702-009"
+    },
+    {
+      "title": "Cost centers now support AI credit pools",
+      "summary": "GitHub新增成本中心AI额度池功能，可根据分配的Copilot许可证自动计算并设置各成本中心每月可消耗的AI额度上限，防止单个成本中心透支共享额度，目前通过REST API管理，界面管理即将推出。",
+      "publishedAt": "2026-07-02",
+      "source": "GitHub Changelog",
+      "url": "https://github.blog/changelog/2026-07-02-cost-centers-now-support-included-usage-caps",
+      "subCategory": "AI编程",
+      "id": "ai-20260702-010"
     },
     {
       "id": "ai-20260701-014",
@@ -222,6 +312,15 @@
       "subCategory": "大模型"
     },
     {
+      "id": "ai-20260630-006",
+      "title": "谷歌Gemini个性化AI生图功能面向全美免费用户开放",
+      "summary": "谷歌将Nano Banana驱动的个性化图像生成功能扩展至美国全体符合条件的免费版Gemini用户（此前仅限Plus/Pro/Ultra付费用户），该功能可结合已连接的Gmail、相册、YouTube及搜索数据自动生成个性化图像。",
+      "publishedAt": "2026-06-30T07:35:52+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/970/251.htm",
+      "subCategory": "多模态"
+    },
+    {
       "id": "ai-20260630-004",
       "title": "Anthropic发布Claude Sonnet 5，定位“迄今最具agentic能力的Sonnet模型”",
       "summary": "Anthropic推出Claude Sonnet 5，官方称其为迄今最具agentic能力的Sonnet系列模型，性能接近Opus 4.8但成本更低；截至8月31日提供每百万Token输入2美元、输出10美元的推介价，此后恢复至3美元/15美元标准定价。",
@@ -258,13 +357,13 @@
       "subCategory": "AI评测"
     },
     {
-      "id": "ai-20260630-006",
-      "title": "谷歌Gemini个性化AI生图功能面向全美免费用户开放",
-      "summary": "谷歌将Nano Banana驱动的个性化图像生成功能扩展至美国全体符合条件的免费版Gemini用户（此前仅限Plus/Pro/Ultra付费用户），该功能可结合已连接的Gmail、相册、YouTube及搜索数据自动生成个性化图像。",
-      "publishedAt": "2026-06-30T07:35:52+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/970/251.htm",
-      "subCategory": "多模态"
+      "id": "ai-20260629-001",
+      "title": "马斯克宣布Grok 4.5开启SpaceX与特斯拉内部私测，性能或超越Opus",
+      "summary": "马斯克在X平台宣布Grok 4.5已进入SpaceX和特斯拉内部私测阶段，其测试结果显示性能或超越Claude Opus系列；xAI计划在内部测试趋于稳定后优先向SuperGrok Heavy订阅用户推送，Grok 4.5定位于当前Grok 4与更高阶版本之间的过渡升级。",
+      "publishedAt": "2026-06-29T07:49:00+08:00",
+      "source": "36氪",
+      "url": "https://36kr.com/newsflashes/3873481579746561",
+      "subCategory": "大模型"
     },
     {
       "id": "ai-20260629-002",
@@ -292,15 +391,6 @@
       "source": "arXiv",
       "url": "https://arxiv.org/abs/2606.30045",
       "subCategory": "论文进展"
-    },
-    {
-      "id": "ai-20260629-001",
-      "title": "马斯克宣布Grok 4.5开启SpaceX与特斯拉内部私测，性能或超越Opus",
-      "summary": "马斯克在X平台宣布Grok 4.5已进入SpaceX和特斯拉内部私测阶段，其测试结果显示性能或超越Claude Opus系列；xAI计划在内部测试趋于稳定后优先向SuperGrok Heavy订阅用户推送，Grok 4.5定位于当前Grok 4与更高阶版本之间的过渡升级。",
-      "publishedAt": "2026-06-29T07:49:00+08:00",
-      "source": "36氪",
-      "url": "https://36kr.com/newsflashes/3873481579746561",
-      "subCategory": "大模型"
     },
     {
       "id": "ai-20260628-001",
@@ -633,96 +723,6 @@
       "publishedAt": "2026-06-14T11:22:00+08:00",
       "source": "虎嗅",
       "url": "https://www.huxiu.com/article/4867137.html",
-      "subCategory": "大模型"
-    },
-    {
-      "id": "ai-20260613-003",
-      "title": "智谱AI编程工具ZCode 3.0版本发布：切换自研ZCode Agent内核，深度适配GLM-5.2",
-      "summary": "智谱发布ZCode 3.0，全面切换自研ZCode Agent内核并针对GLM-5.2深度优化；新增分组式任务工作区、智能项目知识库、可视化Git分支图谱；GLM-5.2作为迄今最强开源模型支持1M上下文，将向全量用户开放。",
-      "publishedAt": "2026-06-13T22:56:15+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/963/985.htm",
-      "subCategory": "AI编程"
-    },
-    {
-      "id": "ai-20260613-002",
-      "title": "华为发布DevEco Code鸿蒙开发AI Agent工具，支持代码编写、编译构建、设备运行等能力",
-      "summary": "华为在HDC 2026期间推出DevEco Code，这是专为HarmonyOS开发的AI Agent工具，基于开源OpenCode项目扩展开发，集成编译构建、应用运行、设备调试、ArkTS检查等功能，可支持从零创建工程、增量开发页面和真机调试等场景。",
-      "publishedAt": "2026-06-13T20:41:30+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/963/943.htm",
-      "subCategory": "AI编程"
-    },
-    {
-      "id": "ai-20260613-001",
-      "title": "科大讯飞发布星火多模态大模型X2-VL，当前唯一基于全国产算力训练的主流大模型",
-      "summary": "科大讯飞在长三角机器人展发布星火X2-VL，采用专属MoE架构，全程在无锡太湖星跃国产算力平台训练；高中图文题准确率接近95%，2026年高考数学全国I卷获148分，在多项主流评测中超越同量级对标模型。",
-      "publishedAt": "2026-06-13T17:47:47+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/963/907.htm",
-      "subCategory": "大模型"
-    },
-    {
-      "id": "ai-20260611-001",
-      "title": "因安全顾虑，Anthropic 最强 AI 模型 Claude Fable 5 拒绝回答基础生物问题",
-      "summary": "Anthropic推出Claude Fable 5，因安全考量对生物学问题设置严格限制，拒绝回答细胞膜、线粒体等基础生物问题，公司表示这是防范生物武器研发风险的\"偏保守策略\"，未来计划为经过资质审核的科研专业人员推出解除部分限制的版本。",
-      "publishedAt": "2026-06-11T07:32:00+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/962/705.htm",
-      "subCategory": "大模型"
-    },
-    {
-      "id": "ai-20260611-002",
-      "title": "GPT-5.6 最强 AI 模型已在路上，消息称奥尔特曼预估 OpenAI 明年上市",
-      "summary": "OpenAI首席执行官奥尔特曼在内部邮件中表示公司将在\"明年内\"上市；公司正准备推出代号5.6的新型AI模型，首席科学家称其相比现有旗舰系统GPT-5.5有\"显著改进\"，递归自我改进等因素可能影响上市时间表。",
-      "publishedAt": "2026-06-11T07:30:12+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/962/704.htm",
-      "subCategory": "大模型"
-    },
-    {
-      "id": "ai-20260611-003",
-      "title": "谷歌推出 DiffusionGemma 文本扩散模型：本地 AI 推理速度提升 4 倍",
-      "summary": "谷歌发布基于文本扩散机制的开放AI模型DiffusionGemma，相比自回归模型本地推理速度提升4倍，采用Apache 2.0许可证开源，采样速度达1479个令牌/秒，代码生成和数学能力表现出色。",
-      "publishedAt": "2026-06-11T06:53:45+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/962/696.htm",
-      "subCategory": "开源模型"
-    },
-    {
-      "id": "ai-20260611-004",
-      "title": "小米 MiMo Code V0.1.0 探索性 AI 编程助手发布并开源：基于 OpenCode 二次开发，采用 MIT 协议",
-      "summary": "小米发布开源MiMo Code V0.1.0 AI编程助手，基于OpenCode二次开发，内置免费多模态模型MiMo-V2.5，支持接入DeepSeek、Kimi等主流模型，具备持久记忆系统、全流程自动化编码能力和语音交互功能。",
-      "publishedAt": "2026-06-11T04:10:27+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/962/693.htm",
-      "subCategory": "AI编程"
-    },
-    {
-      "id": "ai-20260610-002",
-      "title": "摩尔线程开源MusaCoder：首个基于国产全功能GPU全栈训练的代码大模型",
-      "summary": "摩尔线程发布并开源代码大模型MusaCoder，是国内首个全程在自研MUSA架构GPU上完成训练的开源代码专用模型；支持多种编程语言的代码生成、补全与调试；模型权重已上线Hugging Face和ModelScope，助力国产AI芯片在软件开发场景的规模化应用验证。",
-      "publishedAt": "2026-06-10T16:21:45+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/962/509.htm",
-      "subCategory": "开源模型"
-    },
-    {
-      "id": "ai-20260610-001",
-      "title": "阿里千问推出高考志愿填报Agent，覆盖选校选专业至报考方案全流程",
-      "summary": "阿里千问上线高考志愿填报AI Agent，基于历年录取数据和院校信息库，覆盖选专业、选学校、预测录取概率至生成报考方案的全流程；支持多轮对话式追问与方案调整，面向2026届考生开放；阿里称其为国内首个覆盖报考全生命周期的智能体产品。",
-      "publishedAt": "2026-06-10T16:13:11+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/962/506.htm",
-      "subCategory": "AI应用"
-    },
-    {
-      "id": "ai-20260609-002",
-      "title": "小米MiMo-V2.5-Pro-UltraSpeed：万亿参数模型推理速度首破1000 tokens/s",
-      "summary": "小米发布MiMo-V2.5-Pro-UltraSpeed推理加速版，在1万亿参数规模下推理速度突破1000 tokens/秒，称为同规模模型全球最快；通过推测解码与专用推理优化实现速度突破，编程与数学基准与标准版相当；模型API向开发者开放，价格同步永久下调。",
-      "publishedAt": "2026-06-09T14:57:37+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/961/953.htm",
       "subCategory": "大模型"
     }
   ]
