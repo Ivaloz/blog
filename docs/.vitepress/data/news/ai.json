@@ -1,1 +1,729 @@
-PLACEHOLDER
+{
+  "$schema": "./schema.json",
+  "slug": "ai",
+  "title": "AI 与大模型",
+  "description": "大模型、Agent、AI 编程、推理框架、开源模型的发布与落地。",
+  "updatedAt": "2026-07-04T00:52:48+08:00",
+  "items": [
+    {
+      "id": "ai-20260703-018",
+      "title": "消息称字节豆包视频生成模型 Seedance 2.5 预计 7 月 6 日上线体验中心，一周后开放 API",
+      "summary": "消息称字节跳动豆包旗下视频生成模型Seedance 2.5将于7月6日上线体验中心，一周后开放API；该模型此前于6月23日启动全球企业内测，支持30秒单段原生直出及视频延长，可统一理解最多50个多模态素材。",
+      "publishedAt": "2026-07-03T23:27:55+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/972/458.htm",
+      "subCategory": "AI视频"
+    },
+    {
+      "id": "ai-20260703-017",
+      "title": "从LLM到JEPA，中国团队正在把“世界模型”搬进细胞内部",
+      "summary": "百曜科技发布基于LLM-JEPA架构的AI虚拟细胞世界模型AURA CellOS，参数规模12B，基于3.905亿个人类单细胞转录组训练，覆盖40余种组织及260余种细胞类型，在细胞状态预测指标上超越开源模型TranscriptFormer约66%。",
+      "publishedAt": "2026-07-03T22:28:38+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/07/442746.html",
+      "subCategory": "论文进展"
+    },
+    {
+      "id": "ai-20260703-016",
+      "title": "豆包智能体功能将于 7 月 15 日下线，官方建议提前完成备份",
+      "summary": "字节豆包宣布智能体功能将于7月15日下线，用户可在此前查看并保存智能体信息与聊天记录，10月15日后相关数据将按隐私政策删除，官方建议提前截图或导出内容备份，并可转至猫箱应用继续使用。",
+      "publishedAt": "2026-07-03T22:16:29+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/972/448.htm",
+      "subCategory": "AI应用"
+    },
+    {
+      "id": "ai-20260703-015",
+      "title": "桥水基金最新研究：前沿 AI 模型金融判断准确率未达 80% 可信门槛，GPT 和 Claude 仅有 50~70%",
+      "summary": "桥水基金AIA Labs与Thinking Machines Lab测试显示，GPT、Claude等前沿模型在金融基本面分析任务中准确率仅50%至70%，未达80%可信门槛；经微调的开源Qwen3-235B模型准确率达84.7%，推理成本约为前者十四分之一。",
+      "publishedAt": "2026-07-03T21:51:20+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/972/445.htm",
+      "subCategory": "AI评测"
+    },
+    {
+      "id": "ai-20260703-013",
+      "title": "DeepSeek-V4 原厂直供模型 7 月中旬登陆腾讯云，同步引入峰谷定价机制",
+      "summary": "腾讯云宣布DeepSeek-V4原厂直供模型将于7月中旬上线TokenHub及智能体开发平台，并引入与官方一致的峰谷定价机制，工作日9点至12点、14点至18点为高峰时段，推理输入输出价格在高峰时段翻倍。",
+      "publishedAt": "2026-07-03T21:01:08+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/972/437.htm",
+      "subCategory": "大模型"
+    },
+    {
+      "id": "ai-20260703-014",
+      "title": "支持实时视频通话和语音控制视频走向，生数科技发布 Vidu S1 实时交互模型",
+      "summary": "生数科技发布实时交互视频模型Vidu S1，支持通过语音指令实时控制数字人表情、动作与后续画面走向，可连续交互不限时长，分辨率540P、帧率最高42FPS，采用自回归扩散架构逐段生成内容。",
+      "publishedAt": "2026-07-03T21:00:49+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/972/436.htm",
+      "subCategory": "AI视频"
+    },
+    {
+      "id": "ai-20260703-012",
+      "title": "全球首例 AI Agent 勒索攻击曝光，从漏洞利用到数据库加密全程自主完成",
+      "summary": "安全公司Sysdig披露首例由AI Agent自主完成的勒索攻击，攻击者JADEPUFFER利用Langflow服务漏洞CVE-2025-3248获取初始访问，随后独立完成侦察、窃取凭证、横向移动及数据库加密，共加密1342条配置项。",
+      "publishedAt": "2026-07-03T19:57:00+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/972/424.htm",
+      "subCategory": "Agent"
+    },
+    {
+      "id": "ai-20260703-011",
+      "title": "研究称AI生成小说角色刻画单调，结局多缺乏悬念",
+      "summary": "北卡罗来纳大学教堂山分校团队用CASPER框架分析大量AI生成小说，发现角色形象趋于模式化、故事结局多圆满完整，缺少留白与悬念，与人类创作存在明显差异。",
+      "publishedAt": "2026-07-03T15:56:06+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/972/313.htm",
+      "subCategory": "论文进展"
+    },
+    {
+      "id": "ai-20260703-010",
+      "title": "阿里达摩院AI智能体28个GPU时找到4种新超导体",
+      "summary": "阿里达摩院联合中国人民大学等机构推出超导材料发现智能体ElementsClaw，28个GPU时内扫描240万种晶体结构并预测约6.8万种潜在超导体，实验验证出4种此前未知的超导材料。",
+      "publishedAt": "2026-07-03T15:35:58+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/07/442452.html",
+      "subCategory": "论文进展"
+    },
+    {
+      "id": "ai-20260703-009",
+      "title": "WorldClaw与百度智能云达成合作，文心5.0系列接入WorldRouter",
+      "summary": "WorldClaw与百度智能云宣布战略合作，百度文心5.0系列模型通过网关协议适配接入WorldRouter模型聚合平台，双方还将在技能开发、Agent协作及AgentOS方面展开合作。",
+      "publishedAt": "2026-07-03T15:12:27+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/07/442447.html",
+      "subCategory": "Agent"
+    },
+    {
+      "id": "ai-20260703-008",
+      "title": "GitHub Copilot首次接入开源模型，Kimi K2.7 Code上线",
+      "summary": "微软GitHub Copilot正式接入开源模型Kimi K2.7 Code，为其首次接入开源模型，模型托管于Azure按量计费，已向Pro、Pro+、Max用户逐步开放，后续将扩展至企业版。",
+      "publishedAt": "2026-07-03T15:10:44+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/972/269.htm",
+      "subCategory": "AI编程"
+    },
+    {
+      "id": "ai-20260703-007",
+      "title": "谷歌Gemini Omni Flash登顶Video Arena盲测榜",
+      "summary": "谷歌DeepMind文生视频模型Gemini Omni Flash以1404 Elo登顶Video Arena盲测排行榜，领先字节跳动Seedance 2.0 Mini模型101 Elo，此前该榜单长期由Seedance系列占据前列。",
+      "publishedAt": "2026-07-03T14:41:56+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/972/253.htm",
+      "subCategory": "AI视频"
+    },
+    {
+      "id": "ai-20260703-006",
+      "title": "华大系团队联合上海AI Lab推出生命科学Physical AI系统ProtoPilot",
+      "summary": "涌生智能与上海人工智能实验室发布多智能体系统ProtoPilot及评测集BioLab Bench，可将自然语言实验意图转化为可执行实验方案与设备代码，并在湿实验中完成分子克隆等任务验证。",
+      "publishedAt": "2026-07-03T13:24:06+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/07/442311.html",
+      "subCategory": "具身智能"
+    },
+    {
+      "id": "ai-20260703-005",
+      "title": "大模型安全体检报告发布，38款模型接受全景式测评",
+      "summary": "东壁科技数据与上海财经大学联合发布大语言模型安全评估报告，构建313条问题测试集，覆盖生物化学、网络安全等领域，对全球38个大模型测评，为AI治理提供参考。",
+      "publishedAt": "2026-07-03T09:31:56+08:00",
+      "source": "新华网",
+      "url": "http://www.news.cn/tech/20260703/1d7e1e54b6454960800c40b1057404bd/c.html",
+      "subCategory": "AI评测"
+    },
+    {
+      "id": "ai-20260703-004",
+      "title": "具身世界模型Uranus转型充当VLA模型评测方",
+      "summary": "地平线孵化的逛逛机器人推出世界模型Uranus，用于客观评测VLA与世界模型能力并生成训练数据，可逐帧生成环境反馈、支持跨本体零样本泛化，目前仅支持操作类任务。",
+      "publishedAt": "2026-07-03T09:19:18+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/07/442138.html",
+      "subCategory": "具身智能"
+    },
+    {
+      "id": "ai-20260703-002",
+      "title": "Arena将Code Arena升级为全栈开发评测平台",
+      "summary": "Arena把Code Arena从前端原型工具扩展为全栈开发平台，新增数据库、用户鉴权、第三方API接入及一键部署至Vercel等功能，用于评测AI编程模型构建完整应用的能力。",
+      "publishedAt": "2026-07-03T00:04:14+08:00",
+      "source": "Arena",
+      "url": "https://arena.ai/blog/fullstack-code-arena/",
+      "subCategory": "AI评测"
+    },
+    {
+      "title": "让Agent越用越强：AReaL 2.0开源，打造面向自演进智能体的RL基础设施",
+      "summary": "开源强化学习基础设施项目AReaL发布2.0版本，使已部署的Agent能记录真实任务交互数据并接入训练流程持续优化。项目由蚂蚁集团、清华大学、香港科技大学发起，现属PyTorch基金会开源生态。",
+      "publishedAt": "2026-07-02T19:28:36+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/07/442134.html",
+      "subCategory": "Agent",
+      "id": "ai-20260702-007"
+    },
+    {
+      "title": "全球首个英伟达含量为0的万亿模型，成了海外开发者的抢手货",
+      "summary": "美团发布LongCat-2.0，总参数1.6万亿、单token激活约480亿参数，训练与推理全程基于国产芯片完成。该模型以Owl Alpha代号在OpenRouter上跻身全球调用量前三的开源模型之列。",
+      "publishedAt": "2026-07-02T18:56:23+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/07/442047.html",
+      "subCategory": "开源模型",
+      "id": "ai-20260702-014"
+    },
+    {
+      "title": "科大讯飞举办智能交互生态发布会，三大平台同步升级",
+      "summary": "科大讯飞在深圳举办智能交互生态发布会，AIUI平台从语音交互升级为融合图像理解与生成的多模态交互平台，机器人超脑完成新一轮升级并强化多模态感知能力，同时发布十大场景化解决方案。",
+      "publishedAt": "2026-07-02T18:45:31+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/07/442048.html",
+      "subCategory": "多模态",
+      "id": "ai-20260702-011"
+    },
+    {
+      "title": "天工 3.2 重磅升级：Skywork Tags 上线，给 Agent 一张工牌，邀其加入你的工作群聊",
+      "summary": "昆仑万维天工3.2推出Skywork Tags，支持Agent直接接入Slack、飞书、钉钉、Discord、Telegram等团队沟通工具，作为团队共享的AI成员参与工作群协作，无需迁移聊天记录与项目资料。",
+      "publishedAt": "2026-07-02T18:24:32+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/07/442030.html",
+      "subCategory": "Agent",
+      "id": "ai-20260702-008"
+    },
+    {
+      "title": "OpenAI reportedly wants all AI companies to give the US government a stake in their businesses",
+      "summary": "据英国《金融时报》报道，OpenAI首席执行官奥特曼提议由美国政府持有包括OpenAI在内的主要美国AI公司各5%股权，谷歌、Meta、Anthropic等是否同意尚不明确，方案仍需国会批准，目前处于初步磋商阶段。",
+      "publishedAt": "2026-07-02T05:27:00-04:00",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2206552/openai-ai-companies-give-us-government-stake-businesses-proposal/",
+      "subCategory": "大模型",
+      "id": "ai-20260702-015"
+    },
+    {
+      "title": "3年估值3400亿AI独角兽DeepSeek宕机超12小时，用户依赖下为何稳定性成致命短板？",
+      "summary": "DeepSeek网页及API服务7月2日出现大范围异常，持续超12小时至次日凌晨5点才完全恢复，累计影响超1.1亿用户，报道分析原因涉及用户增长过快、算力扩容滞后与商业化加速三方面因素叠加。",
+      "publishedAt": "2026-07-02T17:17:00+08:00",
+      "source": "新浪科技",
+      "url": "https://k.sina.com.cn/article_7880068204_1d5b04c6c06801amhm.html",
+      "subCategory": "大模型",
+      "id": "ai-20260702-013"
+    },
+    {
+      "title": "钉钉A1录音卡入选Gartner AI可穿戴设备报告",
+      "summary": "Gartner在AI可穿戴设备报告中提及钉钉A1录音卡，指出其核心竞争力在于所连接的应用与AI模型，产品通过与钉钉协作平台集成提供实时转写和摘要功能，并支持企业级授权、设备管理与数据加密存储。",
+      "publishedAt": "2026-07-02T16:03:00+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/07/442024.html",
+      "subCategory": "AI硬件",
+      "id": "ai-20260702-005"
+    },
+    {
+      "title": "昆仑万维：天工AI业务ARR突破8亿美元",
+      "summary": "昆仑万维公布天工AI二季度AI原生业务年化经常性收入突破8亿美元，其中短剧平台DramaWave贡献超7亿美元、AI工具业务破1亿美元，平台超80%新增内容已由AI生成。",
+      "publishedAt": "2026-07-02T14:53:00+08:00",
+      "source": "证券时报",
+      "url": "https://www.stcn.com/article/detail/3994560.html",
+      "subCategory": "AI应用",
+      "id": "ai-20260702-012"
+    },
+    {
+      "title": "天工AI业务ARR突破8亿美元",
+      "summary": "昆仑万维旗下天工AI披露2026年第二季度AI原生模型业务年度经常性收入超过8亿美元，其中AI短剧平台ARR超7亿美元，AI工具业务ARR突破1亿美元，其短剧平台DramaWave已有超80%新增内容由AI生成。",
+      "publishedAt": "2026-07-02T14:23:10+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/07/441786.html",
+      "subCategory": "AI应用",
+      "id": "ai-20260702-004"
+    },
+    {
+      "title": "训练世界模型开始从人类肌肉和脑电信号中取经",
+      "summary": "脸谱心智公司推出Ego-NeuroLoop数据采集范式，同步采集视觉、眼动、脑电和肌电四类信号，记录人类完成任务的完整闭环过程，配合硬件NeuroMatrix和处理模型NeuroBooster，为机器人世界模型训练提供动作预测与反馈数据。",
+      "publishedAt": "2026-07-02T13:44:25+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/07/441725.html",
+      "subCategory": "具身智能",
+      "id": "ai-20260702-001"
+    },
+    {
+      "title": "世界模型迎来因果技术路线",
+      "summary": "初创公司Aether AI完成2000万美元种子轮融资，推出因果世界模型技术路线，通过显式学习因果变量与物理规律使机器人理解动作原因。据介绍该方案使操作任务成功率提升25%至50%，样本效率提升5至10倍。",
+      "publishedAt": "2026-07-02T12:36:47+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/07/441490.html",
+      "subCategory": "具身智能",
+      "id": "ai-20260702-002"
+    },
+    {
+      "title": "AI眼镜不再依赖手机",
+      "summary": "乐奇Rokid在Open Day发布会推出AI原生智能眼镜操作系统AIOS及生成式界面AIUI标准，底层系统YodaOS具备主动管理意图能力，并上线智能体应用商店，已有440多个智能体上架、5000多个开发中。",
+      "publishedAt": "2026-07-02T12:20:47+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/07/441491.html",
+      "subCategory": "AI硬件",
+      "id": "ai-20260702-003"
+    },
+    {
+      "title": "Copilot vision is generally available",
+      "summary": "GitHub Copilot视觉功能正式面向所有订阅层级开放，用户可在聊天中直接上传图片和PDF文件，让Copilot结合代码理解视觉内容，功能覆盖VS Code、github.com和CLI，无需管理员开启策略。",
+      "publishedAt": "2026-07-01T11:39:17-07:00",
+      "source": "GitHub Changelog",
+      "url": "https://github.blog/changelog/2026-07-01-copilot-vision-is-generally-available/",
+      "subCategory": "AI编程",
+      "id": "ai-20260701-015"
+    },
+    {
+      "title": "More details on Fable 5's cyber safeguards and our jailbreak framework",
+      "summary": "Anthropic公布Claude Fable 5网络安全防护细节，将使用场景分为禁止、高风险双用、低风险双用与良性四级，并联合亚马逊、微软、谷歌等提出CJS-0至CJS-4越狱严重程度评分框架，用于统一评估风险。",
+      "publishedAt": "2026-07-02",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/news/fable-safeguards-jailbreak-framework",
+      "subCategory": "大模型",
+      "id": "ai-20260702-006"
+    },
+    {
+      "title": "Copilot agent session streaming is now in public preview",
+      "summary": "GitHub为使用企业托管用户的Copilot客户提供智能体会话数据流式接口及REST API，可实时或按需获取过去48小时内的提示词、回复与工具调用记录，供接入SIEM工具进行安全监控。",
+      "publishedAt": "2026-07-02",
+      "source": "GitHub Changelog",
+      "url": "https://github.blog/changelog/2026-07-02-copilot-agent-session-streaming-is-now-in-public-preview/",
+      "subCategory": "AI编程",
+      "id": "ai-20260702-009"
+    },
+    {
+      "title": "Cost centers now support AI credit pools",
+      "summary": "GitHub新增成本中心AI额度池功能，可根据分配的Copilot许可证自动计算并设置各成本中心每月可消耗的AI额度上限，防止单个成本中心透支共享额度，目前通过REST API管理，界面管理即将推出。",
+      "publishedAt": "2026-07-02",
+      "source": "GitHub Changelog",
+      "url": "https://github.blog/changelog/2026-07-02-cost-centers-now-support-included-usage-caps",
+      "subCategory": "AI编程",
+      "id": "ai-20260702-010"
+    },
+    {
+      "id": "ai-20260701-014",
+      "title": "OpenAI 推出 GeneBench-Pro 基准测试，用于评估 AI 模型生物学计算能力",
+      "summary": "OpenAI于7月1日发布生物计算基准测试GeneBench-Pro，含129道题目，覆盖统计遗传学、群体遗传学等10大领域21个子方向，以合成数据构建避免模型套用捷径，已在Hugging Face开源10道示例题，后续将开放50题供第三方独立评测。",
+      "publishedAt": "2026-07-01T22:53:00+08:00",
+      "source": "新浪科技",
+      "url": "https://finance.sina.com.cn/tech/digi/2026-07-01/doc-inifinuq6128768.shtml",
+      "subCategory": "AI评测"
+    },
+    {
+      "title": "英伟达开源机器人技能库ASPIRE",
+      "summary": "英伟达发布机器人技能库系统ASPIRE，机器人可通过编写代码、观察执行、修复程序并沉淀经验持续学习，训练范式从梯度下降转向技能优化。团队称在双臂物体交接任务中成功率从20%提升到92%。",
+      "publishedAt": "2026-07-01T17:33:05+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/07/441396.html",
+      "subCategory": "具身智能",
+      "id": "ai-20260701-016"
+    },
+    {
+      "id": "ai-20260701-002",
+      "title": "Anthropic回应Claude Code暗藏代码检测中国用户：将在明日更新中删除",
+      "summary": "开发者发现Claude Code v2.1.196版本内置代码，通过时区检测及147个中国科技与AI实验室域名列表识别中国用户，并借助细微提示词格式变化编码结果。Anthropic确认这是2026年3月的实验性反滥用措施，将在7月2日更新中彻底移除。",
+      "publishedAt": "2026-07-01T15:41:45+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/971/118.htm",
+      "subCategory": "AI编程"
+    },
+    {
+      "id": "ai-20260701-003",
+      "title": "优必选AI伴侣99万，2亿单身狗“爱”不起",
+      "summary": "优必选推出U1人形陪伴机器人系列，售价11.98万至99万元，已获13361份预订单；文章探讨了该产品在价格门槛、社会观感及情感陪伴伦理层面引发的争议，反映国内陪伴型机器人商业化面临的现实约束。",
+      "publishedAt": "2026-07-01T11:12:00+08:00",
+      "source": "36氪",
+      "url": "https://www.36kr.com/p/3875712264974336",
+      "subCategory": "具身智能"
+    },
+    {
+      "title": "美国放行Fable 5，Anthropic两款顶级模型将恢复访问",
+      "summary": "美国商务部解除对Claude Fable 5和Mythos 5的出口管制，两款模型此前因安全漏洞担忧被限制近三周，Anthropic称将于次日起恢复全球访问。",
+      "publishedAt": "2026-07-01T09:10:36+08:00",
+      "source": "网易科技",
+      "url": "https://www.163.com/tech/article/L0O813E300097U7T.html",
+      "subCategory": "大模型",
+      "id": "ai-20260701-001"
+    },
+    {
+      "id": "ai-20260701-004",
+      "title": "Hugging Face与Cerebras联合打造实时语音AI：Gemma 4驱动端到端方案",
+      "summary": "Hugging Face与Cerebras合作构建开放式语音对话管线，整合Parakeet语音识别、经Cerebras推理加速的Gemma 4模型及Qwen3 TTS，强调低延迟自然对话体验，该方案已应用于Reachy Mini机器人。",
+      "publishedAt": "2026-07-01",
+      "source": "Hugging Face",
+      "url": "https://huggingface.co/blog/cerebras-gemma4-voice-ai",
+      "subCategory": "AI音频"
+    },
+    {
+      "id": "ai-20260701-005",
+      "title": "消息称Kimi K3新一代国产大模型确认本月发布",
+      "summary": "月之暗面一名员工在X平台确认Kimi K3将于2026年7月发布，具体日期未定。该模型传闻参数规模约2.5万亿，超过DeepSeek V4 Pro（1.6万亿）与百度文心5.0（2.4万亿），支持百万Token上下文及多模态能力，延续6月发布的Kimi K2.7 Code。",
+      "publishedAt": "2026-07-01",
+      "source": "新浪财经",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-07-01/doc-inifihnu3004697.shtml",
+      "subCategory": "大模型"
+    },
+    {
+      "id": "ai-20260701-006",
+      "title": "Pulpie: Pareto-Optimal Models for Cleaning the Web",
+      "summary": "Hugging Face博客介绍Pulpie系列高效编码器模型，用于从HTML页面中提取正文内容。最小版本pulpie-orange-small参数量为210M（对比主流系统Dripper的600M），提取质量相当，但计算成本约为其二十分之一，采用单次前向传播而非逐词生成。",
+      "publishedAt": "2026-07-01",
+      "source": "Hugging Face",
+      "url": "https://huggingface.co/blog/feyninc/pulpie",
+      "subCategory": "论文进展"
+    },
+    {
+      "id": "ai-20260701-007",
+      "title": "Does Your LLM Know When It's About to Be Wrong?",
+      "summary": "Hugging Face博客发布一套评估大模型\"元认知\"能力的新框架，衡量模型识别并纠正自身错误的能力。团队公开了含300余道题目的基准测试集、覆盖24个模型的排行榜及专用适配器，结果显示即便表现最好的模型在自由写作任务中也难以察觉自身错误。",
+      "publishedAt": "2026-07-01",
+      "source": "Hugging Face",
+      "url": "https://huggingface.co/blog/ginigen-ai/metacognition",
+      "subCategory": "AI评测"
+    },
+    {
+      "id": "ai-20260701-008",
+      "title": "Kimi K2.7 Code is generally available in GitHub Copilot",
+      "summary": "GitHub 于7月1日宣布开源模型 Kimi K2.7 Code 正式登陆 GitHub Copilot 模型选择器，作为首个可选开源权重模型，率先向 Copilot Pro、Pro+、Max 用户开放，企业版需管理员在设置中手动启用，模型托管于 Microsoft Azure。",
+      "publishedAt": "2026-07-01",
+      "source": "GitHub Changelog",
+      "url": "https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot/",
+      "subCategory": "AI编程"
+    },
+    {
+      "id": "ai-20260701-009",
+      "title": "Browser tools for GitHub Copilot in VS Code are generally available",
+      "summary": "GitHub 于7月1日宣布 VS Code 中 Copilot 代理浏览器工具正式可用，代理可浏览网页、点击输入、读取内容并截图；用户标签页默认保密，摄像头等敏感权限需额外授权，企业可通过设置及网络域控制统一管理。",
+      "publishedAt": "2026-07-01",
+      "source": "GitHub Changelog",
+      "url": "https://github.blog/changelog/2026-07-01-browser-tools-for-github-copilot-in-vs-code-are-generally-available/",
+      "subCategory": "AI编程"
+    },
+    {
+      "id": "ai-20260701-010",
+      "title": "Introducing OpenWiki, an open source agent for repo documentation",
+      "summary": "LangChain 于7月1日发布开源工具 OpenWiki，可为代码仓库自动生成并维护结构化文档 wiki，供 AGENTS.md 等配置文件引用；支持通过 GitHub Action 依据最新提交定期更新，基于 DeepAgents 构建并集成 LangSmith 追踪功能。",
+      "publishedAt": "2026-07-01",
+      "source": "LangChain Blog",
+      "url": "https://www.langchain.com/blog/introducing-openwiki-an-open-source-agent-for-repo-documentation",
+      "subCategory": "Agent"
+    },
+    {
+      "id": "ai-20260701-011",
+      "title": "How to Use RLMs in Deep Agents",
+      "summary": "LangChain 于7月1日发文介绍在 Deep Agents 中使用递归语言模型（RLM）应对上下文膨胀问题，通过代码解释器动态派发子代理处理长文本片段；在 OOLONG 数据集128k token场景下，准确率由标准代理的0.44提升至0.79。",
+      "publishedAt": "2026-07-01",
+      "source": "LangChain Blog",
+      "url": "https://www.langchain.com/blog/how-to-use-rlms-in-deep-agents",
+      "subCategory": "Agent"
+    },
+    {
+      "id": "ai-20260701-012",
+      "title": "Orca: The World is in Your Mind",
+      "summary": "论文提出世界基础模型Orca，通过统一世界隐空间学习多模态状态转移，训练数据含12.5万小时视频及1.6亿条事件标注，可支持文本生成、图像预测与具身动作等下游任务，性能超过同类专用模型。",
+      "publishedAt": "2026-07-01",
+      "source": "Hugging Face Daily Papers",
+      "url": "https://huggingface.co/papers/2606.30534",
+      "subCategory": "论文进展"
+    },
+    {
+      "id": "ai-20260701-013",
+      "title": "Dockerless: Environment-Free Program Verifier for Coding Agents",
+      "summary": "字节跳动提出Dockerless验证系统，无需Docker等执行环境即可评估代码补丁正确性，通过智能体式仓库探索替代单元测试运行，在SWE-bench等基准上优于现有开源验证器，并支持无环境依赖的编码智能体训练流程。",
+      "publishedAt": "2026-07-01",
+      "source": "Hugging Face Daily Papers",
+      "url": "https://huggingface.co/papers/2606.28436",
+      "subCategory": "AI编程"
+    },
+    {
+      "title": "马斯克发Cursor手机版，撞档OpenClaw，AI编程App入口战打响了",
+      "summary": "Cursor上线iOS公测版，支持语音或斜杠命令启动Agent任务、锁屏实时进度提示及移动端审阅合并代码；同日OpenClaw也发布iOS与Android应用，AI编程工具移动化竞争加剧。",
+      "publishedAt": "2026-06-30T19:16:00+08:00",
+      "source": "36氪",
+      "url": "https://36kr.com/p/3875504164417793",
+      "subCategory": "AI编程",
+      "id": "ai-20260630-003"
+    },
+    {
+      "id": "ai-20260630-002",
+      "title": "AI 老板 500 天模拟经营：多数模型亏惨，Claude Fable 5 独占鳌头",
+      "summary": "普林斯顿大学发布CEO-Bench基准测试，让AI模型以100万美元初始资金模拟经营初创公司500天，涵盖定价、预算、竞争分析等7大类34种工具的调用；测试中多数模型未能保住本金甚至破产，Grok 4.20、DeepSeek V4 Pro、Gemini 3 Flash等在三次测试中全部破产，Claude Fable 5是唯一在多轮测试中保持盈利的模型，最佳一轮现金达4714.8164万美元。",
+      "publishedAt": "2026-06-30T14:06:53+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/970/502.htm",
+      "subCategory": "AI评测"
+    },
+    {
+      "id": "ai-20260630-001",
+      "title": "业界首个：美团 LongCat-2.0 发布，国产芯片上跑出的万亿参数模型",
+      "summary": "美团发布LongCat-2.0大模型，为业界首个依靠国产算力完成训练与推理全流程的万亿参数模型，总参数规模1.6万亿、平均激活参数约480亿，支持100万Token上下文；模型在5万卡国产算力集群上完成全流程训练推理，稳定运行阶段日均吞吐量超1万亿Token，测试版本此前已在OpenRouter平台调用量跻身全球前三。",
+      "publishedAt": "2026-06-30T10:55:25+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/970/320.htm",
+      "subCategory": "大模型"
+    },
+    {
+      "id": "ai-20260630-006",
+      "title": "谷歌Gemini个性化AI生图功能面向全美免费用户开放",
+      "summary": "谷歌将Nano Banana驱动的个性化图像生成功能扩展至美国全体符合条件的免费版Gemini用户（此前仅限Plus/Pro/Ultra付费用户），该功能可结合已连接的Gmail、相册、YouTube及搜索数据自动生成个性化图像。",
+      "publishedAt": "2026-06-30T07:35:52+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/970/251.htm",
+      "subCategory": "多模态"
+    },
+    {
+      "id": "ai-20260630-004",
+      "title": "Anthropic发布Claude Sonnet 5，定位“迄今最具agentic能力的Sonnet模型”",
+      "summary": "Anthropic推出Claude Sonnet 5，官方称其为迄今最具agentic能力的Sonnet系列模型，性能接近Opus 4.8但成本更低；截至8月31日提供每百万Token输入2美元、输出10美元的推介价，此后恢复至3美元/15美元标准定价。",
+      "publishedAt": "2026-06-30",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/news/claude-sonnet-5",
+      "subCategory": "大模型"
+    },
+    {
+      "id": "ai-20260630-005",
+      "title": "Anthropic推出Claude Science：面向科学家的AI工作台",
+      "summary": "Anthropic发布Claude Science测试版，面向Pro/Max/Team/Enterprise用户开放macOS及Linux平台，内置60余项预配置科学技能覆盖基因组学、蛋白质组学与结构生物学，支持可复现产出与弹性算力，并为科研项目提供最高3万美元额度申请（截至7月15日）。",
+      "publishedAt": "2026-06-30",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/news/claude-science-ai-workbench",
+      "subCategory": "AI应用"
+    },
+    {
+      "id": "ai-20260630-008",
+      "title": "IBM研究院发布ScarfBench：评测AI智能体迁移企业级Java框架能力",
+      "summary": "IBM研究院推出开放基准ScarfBench，包含34个应用、204项任务、约15.1万行代码，用于评测AI智能体在Spring、Jakarta EE、Quarkus等企业级Java框架间迁移代码的能力；测试显示当前前沿智能体真实行为成功率不足10%。",
+      "publishedAt": "2026-06-30",
+      "source": "Hugging Face（IBM Research）",
+      "url": "https://huggingface.co/blog/ibm-research/scarfbench",
+      "subCategory": "AI评测"
+    },
+    {
+      "id": "ai-20260630-007",
+      "title": "Hugging Face将“Every Eval Ever”评测结果接入模型页面",
+      "summary": "Hugging Face将EvalEval联盟推出的标准化评测框架“Every Eval Ever”（EEE）与平台社区评测功能集成，通过转换工具统一约22.9万条覆盖逾2.2万个模型的评测结果，并为已验证评测方新增标识。",
+      "publishedAt": "2026-06-30",
+      "source": "Hugging Face",
+      "url": "https://huggingface.co/blog/eee-community-evals",
+      "subCategory": "AI评测"
+    },
+    {
+      "id": "ai-20260629-001",
+      "title": "马斯克宣布Grok 4.5开启SpaceX与特斯拉内部私测，性能或超越Opus",
+      "summary": "马斯克在X平台宣布Grok 4.5已进入SpaceX和特斯拉内部私测阶段，其测试结果显示性能或超越Claude Opus系列；xAI计划在内部测试趋于稳定后优先向SuperGrok Heavy订阅用户推送，Grok 4.5定位于当前Grok 4与更高阶版本之间的过渡升级。",
+      "publishedAt": "2026-06-29T07:49:00+08:00",
+      "source": "36氪",
+      "url": "https://36kr.com/newsflashes/3873481579746561",
+      "subCategory": "大模型"
+    },
+    {
+      "id": "ai-20260629-002",
+      "title": "DiScoFormer：用单一Transformer同时估计数据密度与得分",
+      "summary": "艾伦人工智能研究院（AI2）提出DiScoFormer模型，可在一次前向传播中联合估计数据分布的密度与得分；在百维空间实验中，相较核密度估计方法，得分误差降低6.5倍、密度误差降低37倍。",
+      "publishedAt": "2026-06-29",
+      "source": "Hugging Face（Allen Institute for AI）",
+      "url": "https://huggingface.co/blog/allenai/discoformer",
+      "subCategory": "论文进展"
+    },
+    {
+      "id": "ai-20260629-003",
+      "title": "论文提出Agents-A1：35B参数智能体模型对标万亿参数模型表现",
+      "summary": "研究论文提出“Agents-A1”，一个350亿参数混合专家智能体模型，通过多教师领域路由的在线策略蒸馏及约4.5万Token决策链训练，在智能体基准测试中声称达到与Kimi-K2.6、DeepSeek-V4-pro等更大规模模型相当的表现。",
+      "publishedAt": "2026-06-29",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2606.30616",
+      "subCategory": "论文进展"
+    },
+    {
+      "id": "ai-20260629-004",
+      "title": "NeuWorld：基于神经隐式场景表示的交互式世界探索模型",
+      "summary": "论文提出“神经隐式场景”固定长度可渲染表示，结合名为NeuWorld的扩散Transformer实现摄像机可控的交互式视频与世界探索，在无需预训练视频模型的情况下实现长时程一致性，与具身智能及世界模型研究相关。",
+      "publishedAt": "2026-06-29",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2606.30045",
+      "subCategory": "论文进展"
+    },
+    {
+      "id": "ai-20260628-001",
+      "title": "OSWorld2.0：面向长时程真实计算机使用任务的智能体基准",
+      "summary": "新基准OSWorld2.0包含108项长时程计算机操作任务，平均每项需318次工具调用（对比OSWorld 1.0约30次）；测试发现Claude Opus 4.8等顶尖模型仅能完成20.6%的任务，暴露出流式交互与状态恢复方面的能力差距。",
+      "publishedAt": "2026-06-28",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2606.29537",
+      "subCategory": "AI评测"
+    },
+    {
+      "id": "ai-20260627-003",
+      "title": "AI 账单失控后 DeepSeek 成'香饽饽'，部分美国企业已 100% 切换",
+      "summary": "面对AI费用飙升，多家美国企业转向DeepSeek；旧金山创业公司Lindy在月度AI账单\"超过所有员工工资\"后100%切换至DeepSeek，预计节省数百万美元；企业同步采用模型路由策略，将不同任务分配给成本匹配的AI系统。",
+      "publishedAt": "2026-06-27T16:16:09+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/969/400.htm",
+      "subCategory": "AI应用"
+    },
+    {
+      "id": "ai-20260627-002",
+      "title": "北大与 DeepSeek 联合开源 DSpark：破解 AI 大模型高并发推理瓶颈，速度提升 60% 至 85%",
+      "summary": "北京大学与DeepSeek联合发布DSpark推理加速框架，专为大语言模型高并发生产环境设计，已部署至DeepSeek-V4-Flash和V4-Pro预览服务；在等效吞吐量下单用户生成速度提升60%至85%，附论文、训练代码和模型权重已在GitHub开源。",
+      "publishedAt": "2026-06-27T15:47:23+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/969/379.htm",
+      "subCategory": "推理框架"
+    },
+    {
+      "id": "ai-20260627-001",
+      "title": "OpenAI 最强 AI 模型：GPT-5.6 系列登场，编程跑分超 Claude Mythos 5",
+      "summary": "OpenAI发布GPT-5.6系列三款模型：Sol（旗舰）、Terra（均衡）、Luna（高速低成本），仅向美国政府批准的约20家\"可信合作伙伴\"开放灰度预览；Sol在Terminal-Bench 2.1编程测试中以88.8%超越Claude Mythos 5（88.0%），Ultra模式达91.9%。",
+      "publishedAt": "2026-06-27T06:45:56+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/969/272.htm",
+      "subCategory": "大模型"
+    },
+    {
+      "id": "ai-20260626-002",
+      "title": "机构：Jalapeño开启OpenAI自研芯片时代，AI算力迈向全栈协同",
+      "summary": "OpenAI联合博通推出首款自研AI推理芯片Jalapeño，历时9个月完成从设计到流片，专为LLM推理负载优化，预计2026年底开始初始部署；此举标志OpenAI向模型加芯片垂直整合的全栈AI基础设施方向演进，AI算力生态加速向闭环演化。",
+      "publishedAt": "2026-06-26T14:26:00+08:00",
+      "source": "新浪财经",
+      "url": "https://finance.sina.com.cn/jjxw/2026-06-26/doc-inietfxy2044047.shtml",
+      "subCategory": "AI硬件"
+    },
+    {
+      "id": "ai-20260626-001",
+      "title": "不只服务程序员，OpenAI 称 2025 年 8 月以来个人用户 Codex 用量增长 137 倍",
+      "summary": "OpenAI披露Codex AI编程工具用量激增：2025年8月至今个人用户增长137倍、组织用户增长189倍，OpenAI内部使用率达97.9%；提交8小时以上长时任务的个人用户量自2026年初增长近10倍。",
+      "publishedAt": "2026-06-26T14:03:46+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/968/961.htm",
+      "subCategory": "AI编程"
+    },
+    {
+      "id": "ai-20260626-003",
+      "title": "Anthropic Economic Index report: Cadences",
+      "summary": "Anthropic发布最新经济指数报告，分析Claude使用模式中的日周节律：个人任务周末峰值显著，食谱请求在18时达到高峰；新版调查覆盖9700名Claude用户，显示使用Claude最多的用户对未来劳动力市场最为乐观。",
+      "publishedAt": "2026-06-26",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/research/economic-index-june-2026-report",
+      "subCategory": "AI应用"
+    },
+    {
+      "id": "ai-20260625-002",
+      "title": "商汤股东大会披露：企业级 Token 单月使用量迅速增长 7 倍",
+      "summary": "商汤科技在年度股东大会上披露，企业级大模型Token单月使用量在短期内迅速增长7倍，体现商汤日新AI平台在企业市场的加速渗透与规模化落地进程。",
+      "publishedAt": "2026-06-25T16:33:00+08:00",
+      "source": "36氪",
+      "url": "https://36kr.com/newsflashes/3868334704464897",
+      "subCategory": "AI应用"
+    },
+    {
+      "id": "ai-20260625-005",
+      "title": "联想发布全球首款 AI 可信一体机",
+      "summary": "联想发布全球首款AI可信一体机，集成数据隔离、模型溯源与隐私保护能力，面向企业级AI本地化部署场景，强调AI应用的安全性与可信度。",
+      "publishedAt": "2026-06-25T16:32:00+08:00",
+      "source": "36氪",
+      "url": "https://36kr.com/newsflashes/3868316392871170",
+      "subCategory": "AI应用"
+    },
+    {
+      "id": "ai-20260625-003",
+      "title": "消息称商汤科技正研发新图像模型：代号 U1 Pro，内部称对标 OpenAI",
+      "summary": "消息称商汤科技正在内部研发代号U1 Pro的新图像生成大模型，内部定标对齐OpenAI图像生成能力，是商汤在多模态AI领域深化布局的最新举措。",
+      "publishedAt": "2026-06-25T16:02:00+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/968/517.htm",
+      "subCategory": "多模态"
+    },
+    {
+      "id": "ai-20260625-004",
+      "title": "千问吴嘉：继续提供好的 AI 产品，帮助考生公平获取信息",
+      "summary": "阿里千问产品负责人吴嘉表示，千问将持续打造优质AI产品，在高考志愿填报等关键场景帮助考生公平获取信息，发挥AI工具在教育领域的普惠价值。",
+      "publishedAt": "2026-06-25T15:45:00+08:00",
+      "source": "36氪",
+      "url": "https://36kr.com/newsflashes/3868287473013769",
+      "subCategory": "AI应用"
+    },
+    {
+      "id": "ai-20260625-001",
+      "title": "GitHub 取消 Copilot Free 与 Student 计划的手动模型选择功能，仅能由系统自动分配",
+      "summary": "GitHub宣布取消Copilot Free与Student计划用户手动选择AI模型的功能，用户将仅能由系统根据任务类型自动分配最合适模型，以提升整体服务质量与成本效率。",
+      "publishedAt": "2026-06-25T15:26:09+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/968/475.htm",
+      "subCategory": "AI编程"
+    },
+    {
+      "id": "ai-20260625-006",
+      "title": "消息称谷歌 Gemini 3.5 Pro 发布时间推迟至 7 月，旨在优化模型性能",
+      "summary": "谷歌已将下一代前沿人工智能模型Gemini 3.5 Pro的发布时间从原定6月推迟至7月，以便收集早期测试用户反馈并优化模型性能，该模型预计在长文本任务和智能体应用方面实现显著提升。",
+      "publishedAt": "2026-06-25T06:45:09+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/968/222.htm",
+      "subCategory": "大模型"
+    },
+    {
+      "id": "ai-20260623-002",
+      "title": "超 Claude Mythos 5 成绩：OpenAI 最强\"抓虫 AI\"GPT-5.5-Cyber 刷新 CyberGym 纪录",
+      "summary": "OpenAI宣布推出专项网络安全模型GPT-5.5-Cyber，在CyberGym基准测试中取得85.6%分数，超越Claude Mythos 5（83.8%）和GPT-5.5（81.8%）；该模型在漏洞发现与利用代码生成方面能力显著增强，是OpenAI Daybreak网络安全计划的一部分。",
+      "publishedAt": "2026-06-23T15:17:57+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/967/463.htm",
+      "subCategory": "大模型"
+    },
+    {
+      "id": "ai-20260623-001",
+      "title": "字节豆包 Seed 2.1 Pro 和 Turbo 深度思考模型发布，三大能力比肩 GPT-5.5",
+      "summary": "字节跳动发布豆包Seed 2.1 Pro和Turbo深度思考模型，围绕代码工程、智能体任务执行、多模态理解三大方向全面升级，在全球权威评测中可与GPT-5.5、Claude Opus 4.7等顶尖模型媲美；火山引擎同步预告视频生成模型Seedance 2.5将于7月推出。",
+      "publishedAt": "2026-06-23T09:57:41+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/967/314.htm",
+      "subCategory": "大模型"
+    },
+    {
+      "id": "ai-20260622-001",
+      "title": "OpenAI 史上最大规模企业部署之一：三星向员工开放 ChatGPT 和 Codex",
+      "summary": "OpenAI宣布三星电子在全球范围内向员工部署ChatGPT Enterprise和Codex，这是OpenAI迄今最大规模的企业应用之一。三星计划在软件开发、市场营销、产品开发等多个部门使用这些工具提升员工生产力，同时两家公司的合作也从AI基础设施扩展到劳动力转型和全公司AI应用。",
+      "publishedAt": "2026-06-22T12:00:11+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/966/876.htm",
+      "subCategory": "AI应用"
+    },
+    {
+      "id": "ai-20260622-002",
+      "title": "豆包 App 灰测打车功能，由曹操出行提供服务",
+      "summary": "豆包应用正在北京、杭州两城进行打车功能灰测，与曹操出行合作提供服务。用户可在豆包对话框\"口述出行需求\"，系统自动识别地点和人数后自动匹配运力。曹操出行同步宣布启动全面AI转型，计划到2030年部署10万辆Robotaxi与10万辆Robovan。",
+      "publishedAt": "2026-06-22T11:17:40+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/966/840.htm",
+      "subCategory": "AI应用"
+    },
+    {
+      "id": "ai-20260621-007",
+      "title": "Anthropic迎利好消息！特朗普：不构成国家安全威胁",
+      "summary": "美国总统特朗普表示不再将Anthropic视为国家安全威胁，称CEO达里奥·阿莫代伊「做法非常负责任」；此前商务部曾对其最先进模型实施出口管制，此番表态标志政策态度明显转变，Anthropic近日完成650亿美元H轮融资。",
+      "publishedAt": "2026-06-21T22:59:00+08:00",
+      "source": "证券时报",
+      "url": "https://www.stcn.com/article/detail/3970644.html",
+      "subCategory": "大模型"
+    },
+    {
+      "id": "ai-20260621-006",
+      "title": "华为发布乾崑智驾主动避险视频，截至 5 月 31 日已达成 114.7 亿公里真实行车里程",
+      "summary": "华为发布乾崑智驾主动避险实测视频，截至5月31日系统已累计114.7亿公里真实行车里程；辅助驾驶总里程突破120亿公里、全部行车里程达354亿公里，并强调辅助驾驶不等于自动驾驶。",
+      "publishedAt": "2026-06-21T18:54:30+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/966/712.htm",
+      "subCategory": "智能驾驶"
+    },
+    {
+      "id": "ai-20260621-005",
+      "title": "刘强东称京东所有 AI 技术都会向海外各个国家所有伙伴开放：不希望任何企业或国家形成技术壁垒，这本质上是「剥削」",
+      "summary": "在2026年APEC工商领导人中国论坛上，刘强东宣布京东将向全球合作伙伴开放全部AI技术，明确反对技术壁垒；并披露「涅槃计划」，将为70万蓝领物流工人提供职业再培训以应对AI自动化冲击。",
+      "publishedAt": "2026-06-21T18:15:24+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/966/690.htm",
+      "subCategory": "AI应用"
+    },
+    {
+      "id": "ai-20260621-003",
+      "title": "京东刘强东称将来根本不需要快递员：希望送 70 万蓝领兄弟去培训，以应对 AI 和技术发展带来的冲击",
+      "summary": "京东创始人刘强东在内部讲话中表示，随着AI和技术发展，将来根本不需要快递员；他希望公司能送70万蓝领员工去接受职业培训，以应对技术变革带来的就业冲击，体现了企业在自动化转型过程中对员工再培训的责任担当。",
+      "publishedAt": "2026-06-21T16:11:15+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/966/657.htm",
+      "subCategory": "AI应用"
+    }
+  ]
+}
