@@ -3,8 +3,71 @@
   "slug": "tech",
   "title": "科技新闻",
   "description": "前沿科技、互联网产品、芯片硬件、开源生态。",
-  "updatedAt": "2026-07-03T08:30:00+08:00",
+  "updatedAt": "2026-07-03T16:53:09+08:00",
   "items": [
+    {
+      "id": "tech-20260703-001",
+      "title": "消息称Meta后续MTIA芯片将导入三星晶圆代工2nm制程工艺",
+      "summary": "据报道，Meta正将部分AI芯片代工从台积电转向三星，未来MTIA芯片将采用2nm工艺，相关订单金额超过4378亿元，双方还将共同参与芯片架构设计以缩短研发周期。",
+      "publishedAt": "2026-07-03T16:29:49+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/972/328.htm",
+      "subCategory": "芯片硬件"
+    },
+    {
+      "id": "tech-20260703-004",
+      "title": "荣耀手表6 Plus张雪机车联名款官宣：支持机车模式、增加定制表盘等",
+      "summary": "荣耀手表6 Plus与张雪机车联名款官宣，新增机车模式可记录骑行速度、心率与路线，并提供超速震动提醒、骑行报告及定制表盘等功能。",
+      "publishedAt": "2026-07-03T15:40:06+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/972/291.htm",
+      "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260703-006",
+      "title": "华为：燃气行业鸿蒙生态共建正式启动",
+      "summary": "华为与深圳燃气联合启动燃气行业鸿蒙生态共建，计划通过统一操作系统和协议连接燃气表、传感器与控制设备，已有30余家产业伙伴签约共建覆盖生产、安全管理和客户服务的开放生态。",
+      "publishedAt": "2026-07-03T15:14:17+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/972/273.htm",
+      "subCategory": "操作系统"
+    },
+    {
+      "id": "tech-20260703-014",
+      "title": "开源电子书工具Calibre 9.11发布，支持HTML格式导出注释",
+      "summary": "开源电子书管理工具Calibre更新至9.11版本，新增将电子书批注导出为独立HTML网页的功能，支持深色浅色主题与搜索过滤，并修复了新闻下载模块的相关问题。",
+      "publishedAt": "2026-07-03T15:10:21+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/972/270.htm",
+      "subCategory": "开源生态"
+    },
+    {
+      "id": "tech-20260703-003",
+      "title": "华硕ROG NUC 20周年版迷你主机开售：Ultra 9 290HX Plus、RTX 5090移动版，43999元",
+      "summary": "华硕推出ROG NUC 20周年纪念版迷你主机并开售，售价43999元，补贴后42499元，搭载酷睿Ultra 9 290HX Plus处理器与RTX 5090移动版显卡，配64GB内存、2TB硬盘。",
+      "publishedAt": "2026-07-03T14:50:11+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/972/256.htm",
+      "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260703-007",
+      "title": "家用机器人Isaac 1发布：可叠衣收拾房间，续航8小时",
+      "summary": "Weave Robotics发布家用机器人Isaac 1，可完成叠衣服、整理房间和铺床等任务，配备可伸缩至0.9至1.75米的机械臂，充电2小时续航8小时，预计2026年秋季上市，售价7999美元。",
+      "publishedAt": "2026-07-03T14:32:52+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/972/251.htm",
+      "subCategory": "机器人"
+    },
+    {
+      "id": "tech-20260703-002",
+      "title": "铠侠第10代BiCS FLASH闪存开始送样，332层堆叠、1Tb TLC",
+      "summary": "铠侠宣布其第10代BiCS FLASH闪存开始送样，产品为1Tb TLC规格，采用332层堆叠工艺，NAND接口传输速度提升33%至4.8Gb/秒，主要面向企业级和数据中心SSD。",
+      "publishedAt": "2026-07-03T12:40:00+08:00",
+      "source": "TechNews",
+      "url": "https://technews.tw/2026/07/03/kioxia-commences-sample-shipments-of-10th-generation-bics-flash-devices/",
+      "subCategory": "芯片硬件"
+    },
     {
       "title": "索尼 FX5 电影摄影机实拍图首曝：威尼斯风格菜单，16MP 全堆栈传感器支持 5K 全开片门",
       "summary": "索尼FX5电影摄影机实拍图首次曝光，采用16MP全堆栈传感器，支持5K 3:2全开片门录制及三档原生ISO，机身可录制X-OCN LT RAW格式，菜单界面参考Venice摄影机设计，预计7月下旬发布。",
@@ -139,6 +202,42 @@
       "url": "https://www.ithome.com/0/971/898.htm",
       "subCategory": "智能汽车",
       "id": "tech-20260702-028"
+    },
+    {
+      "id": "tech-20260703-009",
+      "title": "比亚迪海洋网旗舰海豹08上市：插混、纯电标配闪充，19.69万元起",
+      "summary": "比亚迪海洋网旗舰轿车海豹08正式上市，提供插混与纯电动力版本，售价19.69万元起，全系标配快充与云辇-A、后轮转向配置，纯电版CLTC续航最高905公里。",
+      "publishedAt": "2026-07-02T20:33:27+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/971/897.htm",
+      "subCategory": "智能汽车"
+    },
+    {
+      "id": "tech-20260703-018",
+      "title": "思科确认Unified CM漏洞遭攻击者利用",
+      "summary": "思科正式确认攻击者正利用Unified CM系统中的CVE-2026-20230漏洞发起未经身份验证的请求伪造攻击，建议用户尽快升级或禁用WebDialer服务，安全公司称全球逾200台设备暴露在公网。",
+      "publishedAt": "2026-07-02T07:35:25-04:00",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/cisco-finally-confirms-attackers-exploiting-unified-cm-flaw/",
+      "subCategory": "安全漏洞"
+    },
+    {
+      "id": "tech-20260703-011",
+      "title": "NASA Swift Boost任务因火箭故障推迟发射",
+      "summary": "NASA一枚搭载Katalyst公司LINK飞行器的飞马座XL火箭在7月2日发射尝试中因运载器故障未能部署，团队正分析数据以确定下一次发射时间，该任务旨在为斯威夫特天文台延寿。",
+      "publishedAt": "2026-07-02T07:03:00-04:00",
+      "source": "NASA",
+      "url": "https://science.nasa.gov/blogs/swift/2026/07/02/launch-of-swift-boost-mission-delayed-teams-reviewing-data/",
+      "subCategory": "航空航天"
+    },
+    {
+      "id": "tech-20260703-017",
+      "title": "CISA警告微软SharePoint RCE漏洞已遭活跃利用",
+      "summary": "美国CISA警告，微软SharePoint反序列化漏洞CVE-2026-45659正被黑客用于远程代码执行攻击，已列入已知被利用漏洞目录并要求联邦机构限期修复，目前逾万台服务器仍暴露在公网。",
+      "publishedAt": "2026-07-02T06:52:43-04:00",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-microsoft-sharepoint-rce-flaw-now-actively-exploited/",
+      "subCategory": "安全漏洞"
     },
     {
       "title": "微星星影 15 Max 笔记本新增“酷睿 7 240H + RTX5060”版本，9999 元起",
@@ -312,6 +411,51 @@
       "subCategory": "消费电子"
     },
     {
+      "title": "Meet Brain: The AI system behind Azure reliability",
+      "summary": "微软发布内部AIOps系统Brain，作为Azure Resource Graph之上的智能层，整合平台遥测数据、机器学习模型与服务依赖关系，构建实时云健康数字孪生，可自动触发部署暂停和客户通知等操作。",
+      "publishedAt": "2026-07-02",
+      "source": "Microsoft Azure Blog",
+      "url": "https://azure.microsoft.com/en-us/blog/meet-brain-the-ai-system-behind-azure-reliability/",
+      "subCategory": "云计算",
+      "id": "tech-20260702-032"
+    },
+    {
+      "title": "Amazon EC2 Dedicated Hosts now support AMD SEV-SNP",
+      "summary": "AWS宣布Amazon EC2 Dedicated Hosts支持AMD SEV-SNP机密计算技术，客户可在专属物理服务器上运行机密计算工作负载，该功能已覆盖所有提供AMD实例的AWS商业区域。",
+      "publishedAt": "2026-07-02",
+      "source": "AWS What's New",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/ec2-amd-sev-snp-dedicated-hosts",
+      "subCategory": "云计算",
+      "id": "tech-20260702-033"
+    },
+    {
+      "title": "Amazon EC2 X8i instances are now available in additional regions",
+      "summary": "AWS宣布Amazon EC2 X8i实例扩展至亚太首尔、马来西亚和东京三个新区域，该实例采用定制英特尔至强6处理器，面向SAP HANA等内存密集型应用，共提供14种规格及多种购买方式。",
+      "publishedAt": "2026-07-02",
+      "source": "AWS What's New",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-x8i-instances-ICN-KUL-NRT-region/",
+      "subCategory": "云计算",
+      "id": "tech-20260702-034"
+    },
+    {
+      "title": "Issue fields are now generally available",
+      "summary": "GitHub的issue fields功能现已面向Free、Team、Enterprise等所有计划组织正式开放，后续将随Enterprise Server 3.23发布。该功能自五月公开预览以来已被超过四万个组织采用，可为issue添加优先级、工作量等结构化字段，并支持在列表中直接查看字段值。",
+      "publishedAt": "2026-07-02",
+      "source": "GitHub Changelog",
+      "url": "https://github.blog/changelog/2026-07-02-issue-fields-are-now-generally-available/",
+      "subCategory": "开发者工具",
+      "id": "tech-20260702-035"
+    },
+    {
+      "title": "How GitHub used secret scanning to reach inbox zero",
+      "summary": "GitHub安全团队披露，其在旗下超过一万五千个仓库中曾发现两万余条密钥泄露告警，随后通过分阶段启用密钥扫描、优先级排查、验证凭据有效性并明确责任归属，历时九个月将未处理告警清零，并分享了具体实践方法。",
+      "publishedAt": "2026-07-02",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/security/application-security/how-github-used-secret-scanning-to-reach-inbox-zero/",
+      "subCategory": "安全漏洞",
+      "id": "tech-20260702-036"
+    },
+    {
       "id": "tech-20260702-008",
       "title": "华为联合上海电信落地5G-A×AI大上行样板点：实测峰值速率1Gbps",
       "summary": "华为联合上海电信在西岸美术馆落地5G-A×AI大上行样板点，实测上行峰值速率达1Gbps、下行峰值速率近4Gbps，现场展示AI眼镜高清内容云端处理等应用，计划年底前实现中心城区重点区域20Mbps上行连续覆盖。",
@@ -382,51 +526,6 @@
       "source": "GitHub Changelog",
       "url": "https://github.blog/changelog/2026-07-01-secret-scanning-adds-validators-for-asana-ibm-and-messagebird",
       "subCategory": "开发者工具"
-    },
-    {
-      "title": "Meet Brain: The AI system behind Azure reliability",
-      "summary": "微软发布内部AIOps系统Brain，作为Azure Resource Graph之上的智能层，整合平台遥测数据、机器学习模型与服务依赖关系，构建实时云健康数字孪生，可自动触发部署暂停和客户通知等操作。",
-      "publishedAt": "2026-07-02",
-      "source": "Microsoft Azure Blog",
-      "url": "https://azure.microsoft.com/en-us/blog/meet-brain-the-ai-system-behind-azure-reliability/",
-      "subCategory": "云计算",
-      "id": "tech-20260702-032"
-    },
-    {
-      "title": "Amazon EC2 Dedicated Hosts now support AMD SEV-SNP",
-      "summary": "AWS宣布Amazon EC2 Dedicated Hosts支持AMD SEV-SNP机密计算技术，客户可在专属物理服务器上运行机密计算工作负载，该功能已覆盖所有提供AMD实例的AWS商业区域。",
-      "publishedAt": "2026-07-02",
-      "source": "AWS What's New",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/ec2-amd-sev-snp-dedicated-hosts",
-      "subCategory": "云计算",
-      "id": "tech-20260702-033"
-    },
-    {
-      "title": "Amazon EC2 X8i instances are now available in additional regions",
-      "summary": "AWS宣布Amazon EC2 X8i实例扩展至亚太首尔、马来西亚和东京三个新区域，该实例采用定制英特尔至强6处理器，面向SAP HANA等内存密集型应用，共提供14种规格及多种购买方式。",
-      "publishedAt": "2026-07-02",
-      "source": "AWS What's New",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-x8i-instances-ICN-KUL-NRT-region/",
-      "subCategory": "云计算",
-      "id": "tech-20260702-034"
-    },
-    {
-      "title": "Issue fields are now generally available",
-      "summary": "GitHub的issue fields功能现已面向Free、Team、Enterprise等所有计划组织正式开放，后续将随Enterprise Server 3.23发布。该功能自五月公开预览以来已被超过四万个组织采用，可为issue添加优先级、工作量等结构化字段，并支持在列表中直接查看字段值。",
-      "publishedAt": "2026-07-02",
-      "source": "GitHub Changelog",
-      "url": "https://github.blog/changelog/2026-07-02-issue-fields-are-now-generally-available/",
-      "subCategory": "开发者工具",
-      "id": "tech-20260702-035"
-    },
-    {
-      "title": "How GitHub used secret scanning to reach inbox zero",
-      "summary": "GitHub安全团队披露，其在旗下超过一万五千个仓库中曾发现两万余条密钥泄露告警，随后通过分阶段启用密钥扫描、优先级排查、验证凭据有效性并明确责任归属，历时九个月将未处理告警清零，并分享了具体实践方法。",
-      "publishedAt": "2026-07-02",
-      "source": "GitHub Blog",
-      "url": "https://github.blog/security/application-security/how-github-used-secret-scanning-to-reach-inbox-zero/",
-      "subCategory": "安全漏洞",
-      "id": "tech-20260702-036"
     },
     {
       "id": "tech-20260701-018",
@@ -591,6 +690,15 @@
       "subCategory": "智能汽车"
     },
     {
+      "id": "tech-20260703-015",
+      "title": "Proving application resilience on Azure with Chaos Studio",
+      "summary": "微软Azure Chaos Studio Workspaces进入公开预览，可模拟可用区故障、DNS中断、数据库切换等真实场景，并提供基于历史故障案例的预置测试方案，帮助团队提前发现薄弱点。",
+      "publishedAt": "2026-07-01",
+      "source": "Azure Blog",
+      "url": "https://azure.microsoft.com/en-us/blog/proving-application-resilience-on-azure-with-chaos-studio/",
+      "subCategory": "云计算"
+    },
+    {
       "id": "tech-20260630-003",
       "title": "英伟达在华启动机器人人才招聘，聚焦具身智能等四大方向",
       "summary": "英伟达在中国启动大规模机器人人才招聘，覆盖北京、上海、深圳三地，聚焦具身智能（涉及灵巧操作与全身控制）、仿真（围绕Isaac Sim与Isaac Lab）、部署及解决方案架构四大方向，反映英伟达向\"物理AI\"战略转型。",
@@ -616,114 +724,6 @@
       "source": "IT之家",
       "url": "https://www.ithome.com/0/970/590.htm",
       "subCategory": "芯片硬件"
-    },
-    {
-      "id": "tech-20260629-001",
-      "title": "三星正式宣布2655万亿韩元投资计划",
-      "summary": "三星电子正式宣布未来五年2655万亿韩元（约合1.97万亿美元）投资计划，重点押注AI芯片、半导体先进制程及智能手机研发，是韩国史上最大企业投资承诺之一。",
-      "publishedAt": "2026-06-29T15:46:00+08:00",
-      "source": "36氪",
-      "url": "https://36kr.com/newsflashes/3873950707733767",
-      "subCategory": "半导体"
-    },
-    {
-      "id": "tech-20260628-001",
-      "title": "小厂商太难了，一颗8GB DRAM从35美元涨到300美元",
-      "summary": "全球存储芯片持续短缺，8GB DRAM价格从年初35美元暴涨至300美元，涨幅超750%；中小厂商因无法提前锁货或签订长期采购协议，正面临原料短缺与成本剧增的双重压力，部分硬件产品开发计划被迫延期。",
-      "publishedAt": "2026-06-28T15:18:48+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/969/650.htm",
-      "subCategory": "芯片硬件"
-    },
-    {
-      "id": "tech-20260627-002",
-      "title": "马克·古尔曼：触屏MacBook将搭载M5芯片发布，苹果计划跳过M6 Pro及M6 Max",
-      "summary": "彭博记者马克·古尔曼报道，苹果计划推出搭载M5芯片的触屏MacBook，并确认苹果将跳过M6 Pro及M6 Max芯片，直接迈向AI导向的M7系列；触屏MacBook将成为苹果PC产品线的重大形态革新，具体发布时间及规格暂未披露。",
-      "publishedAt": "2026-06-27T16:02:00+08:00",
-      "source": "36氪",
-      "url": "https://36kr.com/newsflashes/3871135669048322",
-      "subCategory": "消费电子"
-    },
-    {
-      "id": "tech-20260627-003",
-      "title": "外媒：苹果寻求获准从长鑫存储购买内存芯片",
-      "summary": "据外媒报道，苹果公司正寻求获得美国商务部许可，以便从中国长鑫存储采购DRAM内存芯片；若获批，此举将有助于苹果在全球存储芯片供应紧缺背景下多元化采购来源，同时对长鑫存储拓展国际客户具有重要标志性意义。",
-      "publishedAt": "2026-06-27T15:58:00+08:00",
-      "source": "36氪",
-      "url": "https://36kr.com/newsflashes/3871131045876995",
-      "subCategory": "芯片硬件"
-    },
-    {
-      "id": "tech-20260627-001",
-      "title": "高通拟将数据中心芯片堆叠架构引入手机 SoC，提升端侧 AI 能力",
-      "summary": "高通计划将其Dragonfly数据中心芯片采用的HBC堆叠架构技术引入智能手机SoC，通过在单封装内堆叠高性能计算芯粒与内存，大幅提升端侧AI推理能力与内存带宽，预计该技术将率先应用于下一代骁龙旗舰平台。",
-      "publishedAt": "2026-06-27T15:27:07+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/969/371.htm",
-      "subCategory": "芯片硬件"
-    },
-    {
-      "id": "tech-20260627-004",
-      "title": "阿里千问输入法上线 macOS 版：最快 300 字 / 分，AI 自动润色",
-      "summary": "阿里千问输入法正式推出macOS版本，输入速度最快可达每分钟300字，支持AI自动润色与语义补全功能，可根据上下文智能优化文本表达；目前已上架Mac App Store供用户下载体验，是千问AI生态向桌面端进一步延伸的重要布局。",
-      "publishedAt": "2026-06-27T11:39:06+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/969/334.htm",
-      "subCategory": "互联网产品"
-    },
-    {
-      "id": "tech-20260626-004",
-      "title": "工信部：前5个月电信业务收入累计完成7355亿元，同比下降1.9%",
-      "summary": "工业和信息化部公布前5个月电信运营数据：电信业务收入7355亿元，同比下降1.9%；移动互联网累计流量1812亿GB，同比增长17.9%；5G用户突破12.75亿户，占移动用户总数69.3%，户均月流量达24.01GB。",
-      "publishedAt": "2026-06-26T10:13:34+08:00",
-      "source": "工业和信息化部",
-      "url": "https://www.163.com/dy/article/L0BFKOOQ0534A4SC.html",
-      "subCategory": "互联网产品"
-    },
-    {
-      "id": "tech-20260626-001",
-      "title": "苹果回应 Mac / iPad 等 14 款产品涨价：消费电子行业正面临前所未有的挑战",
-      "summary": "苹果就Mac及iPad等14款产品涨价作出回应，将涨价原因归结为AI数据中心扩张推高HBM内存与存储芯片需求，导致采购成本大幅攀升；公司表示此前已吸收部分成本压力，但目前面临的涨幅规模前所未有，不排除未来继续调价可能。",
-      "publishedAt": "2026-06-26T09:12:45+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/968/757.htm",
-      "subCategory": "消费电子"
-    },
-    {
-      "id": "tech-20260626-002",
-      "title": "古尔曼：苹果罕见调整 Mac 芯片规划，跳过 M6 Pro / Max、押注 AI 导向的 M7 系列",
-      "summary": "据彭博记者古尔曼报道，苹果将跳过M6 Pro和M6 Max芯片，2026年底仅发布基础版M6，内存带宽200GB/s、新12核GPU设计；研发重心已转向2027至2028年的M7系列，该系列主打本地AI处理，内存带宽将达约240GB/s。",
-      "publishedAt": "2026-06-26T06:56:00+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/968/729.htm",
-      "subCategory": "消费电子"
-    },
-    {
-      "id": "tech-20260626-003",
-      "title": "Mac 和 iPad 涨价后，古尔曼预测苹果下周开启返校季促销活动",
-      "summary": "彭博记者古尔曼预测苹果将在Mac及iPad等产品涨价后的下周启动年度返校季促销活动，面向学生和教育工作者提供教育优惠及免费配件，此举或作为缓冲消费者因近期大幅涨价带来购机压力的市场策略。",
-      "publishedAt": "2026-06-26T00:42:39+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/968/725.htm",
-      "subCategory": "消费电子"
-    },
-    {
-      "id": "tech-20260625-006",
-      "title": "超级电容行业进入量价齐升周期，AI服务器刚需持续拉动",
-      "summary": "AI服务器刚需持续拉动超级电容需求，行业进入量价齐升阶段；相关企业受益于数据中心扩张与AI推理算力持续增长的产业链机遇。",
-      "publishedAt": "2026-06-25T18:12:06+08:00",
-      "source": "新浪科技",
-      "url": "https://finance.sina.com.cn/tech/roll/2026-06-25/doc-inierpqn0903404.shtml",
-      "subCategory": "云计算"
-    },
-    {
-      "id": "tech-20260625-005",
-      "title": "REDMI K90 至尊版手机外围配置公布：Sound by Bose 游戏调音对称双扬、小米澎湃 T1+ 信号增强芯",
-      "summary": "REDMI K90至尊版手机公布外围配置，搭载Sound by Bose品牌游戏调音认证与对称双扬声器设计，以及小米澎湃T1+信号增强芯片，主打游戏与通信双重旗舰体验。",
-      "publishedAt": "2026-06-25T16:09:25+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/968/525.htm",
-      "subCategory": "消费电子"
     }
   ]
 }

@@ -3,8 +3,89 @@
   "slug": "ai",
   "title": "AI 与大模型",
   "description": "大模型、Agent、AI 编程、推理框架、开源模型的发布与落地。",
-  "updatedAt": "2026-07-03T08:30:00+08:00",
+  "updatedAt": "2026-07-03T16:53:09+08:00",
   "items": [
+    {
+      "id": "ai-20260703-011",
+      "title": "研究称AI生成小说角色刻画单调，结局多缺乏悬念",
+      "summary": "北卡罗来纳大学教堂山分校团队用CASPER框架分析大量AI生成小说，发现角色形象趋于模式化、故事结局多圆满完整，缺少留白与悬念，与人类创作存在明显差异。",
+      "publishedAt": "2026-07-03T15:56:06+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/972/313.htm",
+      "subCategory": "论文进展"
+    },
+    {
+      "id": "ai-20260703-010",
+      "title": "阿里达摩院AI智能体28个GPU时找到4种新超导体",
+      "summary": "阿里达摩院联合中国人民大学等机构推出超导材料发现智能体ElementsClaw，28个GPU时内扫描240万种晶体结构并预测约6.8万种潜在超导体，实验验证出4种此前未知的超导材料。",
+      "publishedAt": "2026-07-03T15:35:58+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/07/442452.html",
+      "subCategory": "论文进展"
+    },
+    {
+      "id": "ai-20260703-009",
+      "title": "WorldClaw与百度智能云达成合作，文心5.0系列接入WorldRouter",
+      "summary": "WorldClaw与百度智能云宣布战略合作，百度文心5.0系列模型通过网关协议适配接入WorldRouter模型聚合平台，双方还将在技能开发、Agent协作及AgentOS方面展开合作。",
+      "publishedAt": "2026-07-03T15:12:27+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/07/442447.html",
+      "subCategory": "Agent"
+    },
+    {
+      "id": "ai-20260703-008",
+      "title": "GitHub Copilot首次接入开源模型，Kimi K2.7 Code上线",
+      "summary": "微软GitHub Copilot正式接入开源模型Kimi K2.7 Code，为其首次接入开源模型，模型托管于Azure按量计费，已向Pro、Pro+、Max用户逐步开放，后续将扩展至企业版。",
+      "publishedAt": "2026-07-03T15:10:44+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/972/269.htm",
+      "subCategory": "AI编程"
+    },
+    {
+      "id": "ai-20260703-007",
+      "title": "谷歌Gemini Omni Flash登顶Video Arena盲测榜",
+      "summary": "谷歌DeepMind文生视频模型Gemini Omni Flash以1404 Elo登顶Video Arena盲测排行榜，领先字节跳动Seedance 2.0 Mini模型101 Elo，此前该榜单长期由Seedance系列占据前列。",
+      "publishedAt": "2026-07-03T14:41:56+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/972/253.htm",
+      "subCategory": "AI视频"
+    },
+    {
+      "id": "ai-20260703-006",
+      "title": "华大系团队联合上海AI Lab推出生命科学Physical AI系统ProtoPilot",
+      "summary": "涌生智能与上海人工智能实验室发布多智能体系统ProtoPilot及评测集BioLab Bench，可将自然语言实验意图转化为可执行实验方案与设备代码，并在湿实验中完成分子克隆等任务验证。",
+      "publishedAt": "2026-07-03T13:24:06+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/07/442311.html",
+      "subCategory": "具身智能"
+    },
+    {
+      "id": "ai-20260703-005",
+      "title": "大模型安全体检报告发布，38款模型接受全景式测评",
+      "summary": "东壁科技数据与上海财经大学联合发布大语言模型安全评估报告，构建313条问题测试集，覆盖生物化学、网络安全等领域，对全球38个大模型测评，为AI治理提供参考。",
+      "publishedAt": "2026-07-03T09:31:56+08:00",
+      "source": "新华网",
+      "url": "http://www.news.cn/tech/20260703/1d7e1e54b6454960800c40b1057404bd/c.html",
+      "subCategory": "AI评测"
+    },
+    {
+      "id": "ai-20260703-004",
+      "title": "具身世界模型Uranus转型充当VLA模型评测方",
+      "summary": "地平线孵化的逛逛机器人推出世界模型Uranus，用于客观评测VLA与世界模型能力并生成训练数据，可逐帧生成环境反馈、支持跨本体零样本泛化，目前仅支持操作类任务。",
+      "publishedAt": "2026-07-03T09:19:18+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/07/442138.html",
+      "subCategory": "具身智能"
+    },
+    {
+      "id": "ai-20260703-002",
+      "title": "Arena将Code Arena升级为全栈开发评测平台",
+      "summary": "Arena把Code Arena从前端原型工具扩展为全栈开发平台，新增数据库、用户鉴权、第三方API接入及一键部署至Vercel等功能，用于评测AI编程模型构建完整应用的能力。",
+      "publishedAt": "2026-07-03T00:04:14+08:00",
+      "source": "Arena",
+      "url": "https://arena.ai/blog/fullstack-code-arena/",
+      "subCategory": "AI评测"
+    },
     {
       "title": "让Agent越用越强：AReaL 2.0开源，打造面向自演进智能体的RL基础设施",
       "summary": "开源强化学习基础设施项目AReaL发布2.0版本，使已部署的Agent能记录真实任务交互数据并接入训练流程持续优化。项目由蚂蚁集团、清华大学、香港科技大学发起，现属PyTorch基金会开源生态。",
@@ -114,15 +195,6 @@
       "id": "ai-20260702-003"
     },
     {
-      "title": "Copilot vision is generally available",
-      "summary": "GitHub Copilot视觉功能正式面向所有订阅层级开放，用户可在聊天中直接上传图片和PDF文件，让Copilot结合代码理解视觉内容，功能覆盖VS Code、github.com和CLI，无需管理员开启策略。",
-      "publishedAt": "2026-07-01T11:39:17-07:00",
-      "source": "GitHub Changelog",
-      "url": "https://github.blog/changelog/2026-07-01-copilot-vision-is-generally-available/",
-      "subCategory": "AI编程",
-      "id": "ai-20260701-015"
-    },
-    {
       "title": "More details on Fable 5's cyber safeguards and our jailbreak framework",
       "summary": "Anthropic公布Claude Fable 5网络安全防护细节，将使用场景分为禁止、高风险双用、低风险双用与良性四级，并联合亚马逊、微软、谷歌等提出CJS-0至CJS-4越狱严重程度评分框架，用于统一评估风险。",
       "publishedAt": "2026-07-02",
@@ -148,6 +220,15 @@
       "url": "https://github.blog/changelog/2026-07-02-cost-centers-now-support-included-usage-caps",
       "subCategory": "AI编程",
       "id": "ai-20260702-010"
+    },
+    {
+      "title": "Copilot vision is generally available",
+      "summary": "GitHub Copilot视觉功能正式面向所有订阅层级开放，用户可在聊天中直接上传图片和PDF文件，让Copilot结合代码理解视觉内容，功能覆盖VS Code、github.com和CLI，无需管理员开启策略。",
+      "publishedAt": "2026-07-01T11:39:17-07:00",
+      "source": "GitHub Changelog",
+      "url": "https://github.blog/changelog/2026-07-01-copilot-vision-is-generally-available/",
+      "subCategory": "AI编程",
+      "id": "ai-20260701-015"
     },
     {
       "id": "ai-20260701-014",
@@ -312,15 +393,6 @@
       "subCategory": "大模型"
     },
     {
-      "id": "ai-20260630-006",
-      "title": "谷歌Gemini个性化AI生图功能面向全美免费用户开放",
-      "summary": "谷歌将Nano Banana驱动的个性化图像生成功能扩展至美国全体符合条件的免费版Gemini用户（此前仅限Plus/Pro/Ultra付费用户），该功能可结合已连接的Gmail、相册、YouTube及搜索数据自动生成个性化图像。",
-      "publishedAt": "2026-06-30T07:35:52+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/970/251.htm",
-      "subCategory": "多模态"
-    },
-    {
       "id": "ai-20260630-004",
       "title": "Anthropic发布Claude Sonnet 5，定位“迄今最具agentic能力的Sonnet模型”",
       "summary": "Anthropic推出Claude Sonnet 5，官方称其为迄今最具agentic能力的Sonnet系列模型，性能接近Opus 4.8但成本更低；截至8月31日提供每百万Token输入2美元、输出10美元的推介价，此后恢复至3美元/15美元标准定价。",
@@ -357,13 +429,13 @@
       "subCategory": "AI评测"
     },
     {
-      "id": "ai-20260629-001",
-      "title": "马斯克宣布Grok 4.5开启SpaceX与特斯拉内部私测，性能或超越Opus",
-      "summary": "马斯克在X平台宣布Grok 4.5已进入SpaceX和特斯拉内部私测阶段，其测试结果显示性能或超越Claude Opus系列；xAI计划在内部测试趋于稳定后优先向SuperGrok Heavy订阅用户推送，Grok 4.5定位于当前Grok 4与更高阶版本之间的过渡升级。",
-      "publishedAt": "2026-06-29T07:49:00+08:00",
-      "source": "36氪",
-      "url": "https://36kr.com/newsflashes/3873481579746561",
-      "subCategory": "大模型"
+      "id": "ai-20260630-006",
+      "title": "谷歌Gemini个性化AI生图功能面向全美免费用户开放",
+      "summary": "谷歌将Nano Banana驱动的个性化图像生成功能扩展至美国全体符合条件的免费版Gemini用户（此前仅限Plus/Pro/Ultra付费用户），该功能可结合已连接的Gmail、相册、YouTube及搜索数据自动生成个性化图像。",
+      "publishedAt": "2026-06-30T07:35:52+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/970/251.htm",
+      "subCategory": "多模态"
     },
     {
       "id": "ai-20260629-002",
@@ -391,6 +463,15 @@
       "source": "arXiv",
       "url": "https://arxiv.org/abs/2606.30045",
       "subCategory": "论文进展"
+    },
+    {
+      "id": "ai-20260629-001",
+      "title": "马斯克宣布Grok 4.5开启SpaceX与特斯拉内部私测，性能或超越Opus",
+      "summary": "马斯克在X平台宣布Grok 4.5已进入SpaceX和特斯拉内部私测阶段，其测试结果显示性能或超越Claude Opus系列；xAI计划在内部测试趋于稳定后优先向SuperGrok Heavy订阅用户推送，Grok 4.5定位于当前Grok 4与更高阶版本之间的过渡升级。",
+      "publishedAt": "2026-06-29T07:49:00+08:00",
+      "source": "36氪",
+      "url": "https://36kr.com/newsflashes/3873481579746561",
+      "subCategory": "大模型"
     },
     {
       "id": "ai-20260628-001",
@@ -643,87 +724,6 @@
       "source": "科技日报",
       "url": "https://www.stdaily.com/web/gdxw/2026-06/17/content_533710.html",
       "subCategory": "开源模型"
-    },
-    {
-      "id": "ai-20260617-002",
-      "title": "600亿美元，Cursor归马斯克了",
-      "summary": "SpaceX宣布以全股权交易600亿美元收购AI编程工具Cursor母公司Anysphere，预计2026年第三季度完成。Cursor年度B2B收入约26亿美元，此举旨在加速SpaceX企业级AI市场布局，为Grok团队提供稳固的代码编程领域立足点。",
-      "publishedAt": "2026-06-17",
-      "source": "投资界",
-      "url": "https://news.pedaily.cn/202606/565284.shtml",
-      "subCategory": "AI编程"
-    },
-    {
-      "id": "ai-20260615-005",
-      "title": "腾讯 AI 生态进一步打通：ima 知识库作为信源接入元宝",
-      "summary": "腾讯宣布 ima 知识库正式作为外部信源接入元宝 AI 助手，用户在使用元宝进行问答时，ima 平台沉淀的知识内容将参与信源引用；这是腾讯 AI 生态内部\"知识图谱+生成式AI\"融合打通的重要节点。",
-      "publishedAt": "2026-06-15T16:13:40+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/964/468.htm",
-      "subCategory": "AI应用"
-    },
-    {
-      "id": "ai-20260615-004",
-      "title": "微信支付发布 AI 接入工具箱 2.0，Token 消耗少一半",
-      "summary": "微信支付发布 AI 接入工具箱 2.0，提供标准化 AI 能力接入方案，与 1.0 版本相比 Token 消耗降低约 50%，通过精简的提示词工程和模型调度优化，降低开发者将 AI 能力集成至微信支付场景的成本门槛。",
-      "publishedAt": "2026-06-15T16:13:23+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/964/467.htm",
-      "subCategory": "AI应用"
-    },
-    {
-      "id": "ai-20260615-003",
-      "title": "消息称字节跳动正与天数智芯洽谈购买 AI 芯片",
-      "summary": "据路透社消息，字节跳动正与上海天数智芯洽谈采购 AI 推理芯片，若交易达成，天数智芯将成为字节第三家国产 GPU 主要供应商（前两家为华为和寒武纪）；潜在合同规模包括每年至少 5 万颗芯片，用于支撑豆包 AI 助手的扩展需求。",
-      "publishedAt": "2026-06-15T14:45:18+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/964/392.htm",
-      "subCategory": "AI硬件"
-    },
-    {
-      "id": "ai-20260615-002",
-      "title": "科幻作家郝景芳承认新书的 AI 写作比重占到一半，引发网络争议",
-      "summary": "雨果奖得主郝景芳公开承认其新作儿童科幻小说《银河学院》约一半内容借助 AI 辅助创作，此举在网络引发广泛争议；批评者认为作者放弃了创作者本职，支持者则肯定其对 AI 使用的透明态度；相关源文章已被删除。",
-      "publishedAt": "2026-06-15T14:05:08+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/964/369.htm",
-      "subCategory": "AI应用"
-    },
-    {
-      "id": "ai-20260615-001",
-      "title": "Anthropic旗舰模型遭美管制，智谱股价盘中暴涨47%",
-      "summary": "受美国政府向Anthropic发出出口管制指令、强制全球停用Fable 5和Mythos 5的消息影响，6月15日香港上市的智谱股价盘中暴涨，智谱随即宣布GLM-5.2开源模型向全量用户开放，国内AI产业链股票集体大幅拉升。",
-      "publishedAt": "2026-06-15T12:29:00+08:00",
-      "source": "界面新闻",
-      "url": "https://www.jiemian.com/article/14587579.html",
-      "subCategory": "大模型"
-    },
-    {
-      "id": "ai-20260614-001",
-      "title": "AI热潮引发内存芯片需求暴增，消息称 SK 海力士去年新增员工超 2000 人",
-      "summary": "在全球AI热潮驱动下，SK海力士去年新增员工2159人，截至2025年底员工总数达34549人。这一招聘规模在韩国整体就业放缓背景下尤为引人注目，反映出芯片制造商因内存需求急剧上升而扩张的态势。",
-      "publishedAt": "2026-06-14T15:58:17+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/964/100.htm",
-      "subCategory": "AI硬件"
-    },
-    {
-      "id": "ai-20260614-002",
-      "title": "马斯克：特斯拉 AI6 芯片有望创下单块晶圆可用算力的纪录",
-      "summary": "马斯克在社交平台分享了特斯拉AI6芯片工程评审进展，表示该芯片有望创下单块晶圆可用算力的新纪录。AI6预计2028年下半年投产，性能将在AI5基础上再翻一番。特斯拉与三星合作代工，合作金额达165亿美元。新芯片计划先应用于机器人和超级计算机，后续才装车使用。",
-      "publishedAt": "2026-06-14T11:55:58+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/964/051.htm",
-      "subCategory": "AI硬件"
-    },
-    {
-      "id": "ai-20260614-003",
-      "title": "GLM5.2：给国产模型追赶Anthropic 又提了一口气",
-      "summary": "智谱AI在Anthropic旗舰模型遭美国出口管制全球停用后，推出开源的GLM-5.2模型，支持100万token上下文，采用MIT协议无地域限制；实测显示模型可为复杂项目生成数百行功能性代码，包括SVG机械时钟和3D足球游戏，在某些接口美观度与处理速度上仍落后国际顶级模型。",
-      "publishedAt": "2026-06-14T11:22:00+08:00",
-      "source": "虎嗅",
-      "url": "https://www.huxiu.com/article/4867137.html",
-      "subCategory": "大模型"
     }
   ]
 }

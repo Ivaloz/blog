@@ -3,8 +3,35 @@
   "slug": "finance",
   "title": "投资与财经",
   "description": "宏观经济、A 股 / 港股 / 美股、一级市场融资、行业研报观点。",
-  "updatedAt": "2026-07-03T08:30:00+08:00",
+  "updatedAt": "2026-07-03T16:53:09+08:00",
   "items": [
+    {
+      "id": "finance-20260703-016",
+      "title": "Brent Crude Oil - Price - Chart - Historical Data - News",
+      "summary": "布伦特原油7月3日报每桶71.64美元，较前一交易日下跌0.23%，市场反映霍尔木兹海峡通行秩序持续恢复及区域原油供应正常化。",
+      "publishedAt": "2026-07-03",
+      "source": "TradingEconomics",
+      "url": "https://tradingeconomics.com/commodity/brent-crude-oil",
+      "subCategory": "大宗商品"
+    },
+    {
+      "id": "finance-20260703-006",
+      "title": "Selected Interest Rates (Daily) - H.15",
+      "summary": "美联储H.15利率数据显示，7月1日联邦基金有效利率报3.63%，10年期美债收益率4.48%，30年期国债收益率4.97%，利率维持高位。",
+      "publishedAt": "2026-07-02T16:15:00-04:00",
+      "source": "Federal Reserve Board",
+      "url": "https://www.federalreserve.gov/releases/h15/",
+      "subCategory": "政策利率"
+    },
+    {
+      "id": "finance-20260703-001",
+      "title": "Stock market today: Dow notches fresh record, Nasdaq slides as Tesla sinks, semiconductors extend decline",
+      "summary": "道琼斯指数7月2日收盘创历史新高，报52900.07点，涨1.14%；标普500指数收平，纳斯达克指数受芯片股走弱拖累下跌0.80%。",
+      "publishedAt": "2026-07-02T15:03:00-05:00",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-july-2-223136955.html",
+      "subCategory": "美股"
+    },
     {
       "title": "SanDisk Sinks 11%, Seagate Falls 7%, Micron Slides 4% on Memory Supply-Glut Fears",
       "summary": "存储芯片股7月2日大幅下挫，SanDisk跌11%，希捷跌7%，西部数据跌7%，美光跌4%；市场担忧三星、SK海力士扩产将令存储器供应转向宽松，机构对相关估值发出警示。",
@@ -49,6 +76,15 @@
       "url": "https://ir.tesla.com/press-release/tesla-second-quarter-2026-production-deliveries-and-deployments",
       "subCategory": "公司财报",
       "id": "finance-20260702-016"
+    },
+    {
+      "id": "finance-20260703-002",
+      "title": "Tesla Q2 deliveries crush forecasts at 480,126, erasing backlog concerns",
+      "summary": "特斯拉公布2026年二季度交付48.0126万辆，同比增长25%，超市场预期，但股价当日重挫7.49%，收于393.45美元，创近一年最大单日跌幅。",
+      "publishedAt": "2026-07-02T09:12:00-04:00",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/tesla-q2-deliveries-crush-forecasts-at-480126-erasing-backlog-concerns-4773249",
+      "subCategory": "美股"
     },
     {
       "title": "US job growth plummets as eurozone unemployment holds at record low",
@@ -150,6 +186,15 @@
       "id": "finance-20260702-005"
     },
     {
+      "id": "finance-20260703-012",
+      "title": "港股收评：恒生指数涨0.76%，恒生科技指数跌0.4%",
+      "summary": "港股7月2日收盘：恒生指数上涨0.76%，报23055.03点；恒生科技指数下跌0.4%，机器人概念股及汽车板块表现活跃。",
+      "publishedAt": "2026-07-02T16:11:00+08:00",
+      "source": "网易财经",
+      "url": "https://www.163.com/dy/article/L0RIH30A0534A4SC.html",
+      "subCategory": "港股"
+    },
+    {
       "title": "港股收评：恒指涨0.76% 科指跌0.4% 黄金股、汽车股普涨 光通信、半导体板块下挫 长飞光纤光缆跌超22%",
       "summary": "港股7月2日收盘，恒生指数涨0.76%报23055.03点，恒生科技指数跌0.4%，国企指数涨0.72%。比亚迪等汽车股及黄金股上涨，长飞光纤光缆等光通信、半导体股显著下挫。",
       "publishedAt": "2026-07-02T16:08:00+08:00",
@@ -159,6 +204,15 @@
       "id": "finance-20260702-011"
     },
     {
+      "id": "finance-20260703-011",
+      "title": "Clogged pipeline: Many Hong Kong IPO hopefuls near application expiration",
+      "summary": "逾30家内地企业港股IPO申请材料面临六个月有效期届满风险，港交所IPO排队企业超430家，证监会备案审核积压程度为2023年新规以来最严重。",
+      "publishedAt": "2026-07-02T16:00:00+08:00",
+      "source": "South China Morning Post",
+      "url": "https://www.scmp.com/business/banking-finance/article/3359108/clogged-pipeline-many-hong-kong-ipo-hopefuls-near-application-expiration",
+      "subCategory": "港股"
+    },
+    {
       "title": "收评：沪指跌逾2%，券商、保险板块走低，半导体板块大幅下挫",
       "summary": "7月2日A股三大指数集体下挫，上证指数跌2.03%报4028.9点，深证成指跌3.85%，创业板指跌5.71%，科创50指数跌5.64%；半导体板块领跌，全市场超3100只个股下跌。",
       "publishedAt": "2026-07-02T15:35:00+08:00",
@@ -166,6 +220,15 @@
       "url": "https://www.stcn.com/article/detail/3994669.html",
       "subCategory": "A股",
       "id": "finance-20260702-027"
+    },
+    {
+      "id": "finance-20260703-013",
+      "title": "收盘｜科创50指数跌7.7% 半导体、算力硬件产业链大幅回调",
+      "summary": "7月2日A股全线下跌，上证指数跌2.03%报4028.90点，科创50指数暴跌7.7%，半导体、算力硬件产业链领跌，全市场超3100只个股下跌。",
+      "publishedAt": "2026-07-02T15:22:21+08:00",
+      "source": "第一财经",
+      "url": "https://www.yicai.com/news/103257469.html",
+      "subCategory": "A股"
     },
     {
       "title": "7月2日收评：科创50指数跌7.7%，算力硬件、芯片股集体调整",
@@ -195,6 +258,15 @@
       "id": "finance-20260702-015"
     },
     {
+      "id": "finance-20260703-007",
+      "title": "2026年7月2日人民币汇率中间价查询",
+      "summary": "中国外汇交易中心公布7月2日人民币兑美元中间价报6.8088，较前一交易日6.8067走弱21个基点，人民币汇率小幅贬值。",
+      "publishedAt": "2026-07-02T09:30:06+08:00",
+      "source": "金投网",
+      "url": "https://forex.cngold.org/c/2026-07-02/c10596938.html",
+      "subCategory": "政策利率"
+    },
+    {
       "title": "央行7月2日公开市场开展2885亿元7天期逆回购操作",
       "summary": "中国人民银行7月2日以固定利率、数量招标方式开展288.5亿元7天期逆回购操作，中标利率为1.40%，充分满足公开市场业务一级交易商需求。",
       "publishedAt": "2026-07-02T09:22:00+08:00",
@@ -220,42 +292,6 @@
       "url": "https://finance.eastmoney.com/a/202607023790908275.html",
       "subCategory": "港股",
       "id": "finance-20260702-010"
-    },
-    {
-      "id": "finance-20260702-001",
-      "title": "阿里巴巴同意支付6亿美元与美国司法部就非法药品销售指控达成和解",
-      "summary": "美国司法部宣布，阿里巴巴及美国支付子公司AUS同意支付6亿美元，就未阻止商家经其平台向美国销售非法药品及管制化学品指控达成不起诉协议。司法部称2016至2024年相关平台发生约8万笔涉案交易，金额超2亿美元。",
-      "publishedAt": "2026-07-02T04:23:00+08:00",
-      "source": "英为财情(Investing.com)",
-      "url": "https://cn.investing.com/news/stock-market-news/article-93CH-3443210",
-      "subCategory": "风险事件"
-    },
-    {
-      "title": "Ashton Kutcher leaving Sound Ventures to launch new VC firm with Morgan Beller",
-      "summary": "好莱坞演员Ashton Kutcher宣布离开其联合创立的Sound Ventures，与前NFX普通合伙人Morgan Beller共同创立新风险投资机构，专注于人工智能基础设施、能源及深科技领域的早期投资。",
-      "publishedAt": "2026-07-01T11:47:00-07:00",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/01/ashton-kutcher-leaving-sound-ventures-to-launch-new-vc-firm-with-morgan-beller/",
-      "subCategory": "一级市场",
-      "id": "finance-20260701-017"
-    },
-    {
-      "title": "Federal Reserve issues initial findings from its 2025 triennial payments study",
-      "summary": "美联储发布2025年三年度支付研究初步结果：2024年非现金支付总量达2366亿笔，较2000年增长两倍以上，银行卡占支付笔数逾四分之三，ACH支付金额占比首次接近四分之三。",
-      "publishedAt": "2026-07-01T14:30:00-04:00",
-      "source": "Federal Reserve",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20260701a.htm",
-      "subCategory": "宏观经济",
-      "id": "finance-20260701-015"
-    },
-    {
-      "title": "Kevin Warsh: Fed will not be comfortable with inflation above 2%",
-      "summary": "美联储主席沃什在葡萄牙辛特拉举行的欧洲央行论坛上表示，若市场认为美联储会容忍高于2%的通胀，那将是误判，美联储致力于实现物价稳定。他未就本月利率决议给出明确信号，并强调美联储将保持独立性，不受政治压力影响。",
-      "publishedAt": "2026-07-01T12:22:00-05:00",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/economy/policy/article/kevin-warsh-fed-will-not-be-comfortable-with-inflation-above-2-183000837.html",
-      "subCategory": "政策利率",
-      "id": "finance-20260701-022"
     },
     {
       "title": "Oil Extends Decline on Rising Supply",
@@ -292,6 +328,105 @@
       "url": "https://ca.investing.com/news/stock-market-news/ecbs-lagarde-defends-rate-hike-decision-amid-easing-inflation-93CH-4718744",
       "subCategory": "政策利率",
       "id": "finance-20260702-026"
+    },
+    {
+      "id": "finance-20260703-004",
+      "title": "THE EMPLOYMENT SITUATION — JUNE 2026",
+      "summary": "美国劳工部数据显示6月非农就业新增5.7万人，远低于预期，失业率降至4.2%但主因劳动参与率降至61.5%，4至5月数据合计下修7.4万人。",
+      "publishedAt": "2026-07-02",
+      "source": "U.S. Bureau of Labor Statistics",
+      "url": "https://www.bls.gov/news.release/empsit.nr0.htm",
+      "subCategory": "宏观经济"
+    },
+    {
+      "id": "finance-20260703-014",
+      "title": "36家A股公司预披露半年报 29家预喜",
+      "summary": "截至7月1日中午，36家A股公司披露2026年半年度业绩预告，其中29家预喜占比80.56%，通信电子、化工等行业增长明显，最高预增超47倍。",
+      "publishedAt": "2026-07-02T05:47:14+08:00",
+      "source": "新浪财经",
+      "url": "https://www.163.com/dy/article/L0QEPDJF05568W0A.html",
+      "subCategory": "公司财报"
+    },
+    {
+      "id": "finance-20260702-001",
+      "title": "阿里巴巴同意支付6亿美元与美国司法部就非法药品销售指控达成和解",
+      "summary": "美国司法部宣布，阿里巴巴及美国支付子公司AUS同意支付6亿美元，就未阻止商家经其平台向美国销售非法药品及管制化学品指控达成不起诉协议。司法部称2016至2024年相关平台发生约8万笔涉案交易，金额超2亿美元。",
+      "publishedAt": "2026-07-02T04:23:00+08:00",
+      "source": "英为财情(Investing.com)",
+      "url": "https://cn.investing.com/news/stock-market-news/article-93CH-3443210",
+      "subCategory": "风险事件"
+    },
+    {
+      "title": "Ashton Kutcher leaving Sound Ventures to launch new VC firm with Morgan Beller",
+      "summary": "好莱坞演员Ashton Kutcher宣布离开其联合创立的Sound Ventures，与前NFX普通合伙人Morgan Beller共同创立新风险投资机构，专注于人工智能基础设施、能源及深科技领域的早期投资。",
+      "publishedAt": "2026-07-01T11:47:00-07:00",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/01/ashton-kutcher-leaving-sound-ventures-to-launch-new-vc-firm-with-morgan-beller/",
+      "subCategory": "一级市场",
+      "id": "finance-20260701-017"
+    },
+    {
+      "id": "finance-20260703-003",
+      "title": "US Stock Market Today: Why Are Chip Stocks Down Today? Semiconductor Stocks Fall on Profit Booking After Massive AI Rally",
+      "summary": "7月1日美股半导体板块因AI概念获利了结全线下挫，费城半导体ETF（SMH）、SOXX均跌超5%，美光、AMD、英特尔跟跌，纳斯达克100指数跌超1%。",
+      "publishedAt": "2026-07-02T00:07:10+05:30",
+      "source": "Sunday Guardian Live",
+      "url": "https://sundayguardianlive.com/business/us-stock-market-today-why-are-chip-stocks-down-today-semiconductor-stocks-fall-on-profit-booking-after-massive-ai-rally-as-micron-amd-intel-decline-amid-nasdaq-weakness-223040/",
+      "subCategory": "美股"
+    },
+    {
+      "title": "Federal Reserve issues initial findings from its 2025 triennial payments study",
+      "summary": "美联储发布2025年三年度支付研究初步结果：2024年非现金支付总量达2366亿笔，较2000年增长两倍以上，银行卡占支付笔数逾四分之三，ACH支付金额占比首次接近四分之三。",
+      "publishedAt": "2026-07-01T14:30:00-04:00",
+      "source": "Federal Reserve",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20260701a.htm",
+      "subCategory": "宏观经济",
+      "id": "finance-20260701-015"
+    },
+    {
+      "id": "finance-20260703-008",
+      "title": "Neocloud Together AI raises $800M, leaps to $8.3B valuation",
+      "summary": "AI云服务商Together AI完成8亿美元C轮融资，估值升至83亿美元，由沙特阿美旗下Aramco Ventures领投，英伟达、General Catalyst等跟投。",
+      "publishedAt": "2026-07-01T11:29:00-07:00",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/01/neocloud-together-ai-raises-800m-leaps-to-8-3b-valuation/",
+      "subCategory": "一级市场"
+    },
+    {
+      "id": "finance-20260703-010",
+      "title": "Lime begins life as a public company after years of uncertainty",
+      "summary": "共享单车企业Lime登陆纳斯达克，以每股25美元定价发行668万股，募资1.67亿美元，估值约16.6亿美元，首日股价一度上涨约9%。",
+      "publishedAt": "2026-07-01T11:24:00-07:00",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/01/lime-raises-167m-in-ipo-after-years-of-teasing-a-public-debut/",
+      "subCategory": "一级市场"
+    },
+    {
+      "id": "finance-20260703-017",
+      "title": "Tesla Semi involved in first fatal crash, killing 2 in Nevada",
+      "summary": "一辆特斯拉Semi电动卡车6月28日在内华达州追尾两辆停驶车辆致2人死亡、1人重伤，系该车型首例致命事故，初步调查显示司机可能疲劳驾驶。",
+      "publishedAt": "2026-07-01T11:02:00-07:00",
+      "source": "Electrek",
+      "url": "https://electrek.co/2026/07/01/tesla-semi-first-fatal-crash-nevada/",
+      "subCategory": "风险事件"
+    },
+    {
+      "title": "Kevin Warsh: Fed will not be comfortable with inflation above 2%",
+      "summary": "美联储主席沃什在葡萄牙辛特拉举行的欧洲央行论坛上表示，若市场认为美联储会容忍高于2%的通胀，那将是误判，美联储致力于实现物价稳定。他未就本月利率决议给出明确信号，并强调美联储将保持独立性，不受政治压力影响。",
+      "publishedAt": "2026-07-01T12:22:00-05:00",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/economy/policy/article/kevin-warsh-fed-will-not-be-comfortable-with-inflation-above-2-183000837.html",
+      "subCategory": "政策利率",
+      "id": "finance-20260701-022"
+    },
+    {
+      "id": "finance-20260703-009",
+      "title": "Venice AI becomes a unicorn with $65M Series A as its privacy-first AI platform takes off",
+      "summary": "隐私优先AI平台Venice AI完成6500万美元A轮融资，估值达10亿美元跻身独角兽，由加密风投Dragonfly领投，Coinbase Ventures等参投。",
+      "publishedAt": "2026-07-01T07:25:00-07:00",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/01/venice-ai-becomes-a-unicorn-with-65m-series-a-as-its-privacy-first-ai-platform-takes-off/",
+      "subCategory": "一级市场"
     },
     {
       "id": "finance-20260701-012",
@@ -420,6 +555,33 @@
       "subCategory": "港股"
     },
     {
+      "id": "finance-20260701-008",
+      "title": "公告精选：比亚迪6月新能源汽车销量40.35万辆；雅克科技、多氟多等提示风险",
+      "summary": "比亚迪公告6月新能源汽车销量40.35万辆，上年同期为38.26万辆。雅克科技提示市场对电子材料业务或存过度解读，多氟多说明半导体级氢氟酸占2025年营收不足2%，另有多家公司发布业绩预告与回购公告。",
+      "publishedAt": "2026-07-01",
+      "source": "证券时报",
+      "url": "https://www.stcn.com/article/detail/3993265.html",
+      "subCategory": "A股"
+    },
+    {
+      "title": "Gold Stays Close to 8-Month Low",
+      "summary": "黄金价格7月1日报3973.84美元/盎司，日内下跌0.85%，受美国就业数据强于预期影响，市场对美联储加息预期升温，金价维持在近八个月低位附近。",
+      "publishedAt": "2026-07-01",
+      "source": "Trading Economics",
+      "url": "https://tradingeconomics.com/commodity/gold",
+      "subCategory": "大宗商品",
+      "id": "finance-20260701-001"
+    },
+    {
+      "id": "finance-20260703-005",
+      "title": "China's Caixin Manufacturing PMI Holds at 51.7 in June, Matching Forecasts",
+      "summary": "财新中国6月制造业PMI报51.7，与市场预期及5月读数持平，连续第七个月处于扩张区间，反映中小型出口导向制造业保持温和增长。",
+      "publishedAt": "2026-07-01",
+      "source": "MEXC News",
+      "url": "https://www.mexc.com/news/1186231",
+      "subCategory": "宏观经济"
+    },
+    {
       "title": "NIKE, Inc. Reports Fiscal 2026 Fourth Quarter and Full Year Results",
       "summary": "耐克公布2026财年第四季度及全年财报，第四季度营收110亿美元同比降1%，净利润11亿美元同比增407%，主因关税退税收益推高毛利率至49.2%。",
       "publishedAt": "2026-07-01T07:15:00+08:00",
@@ -445,24 +607,6 @@
       "source": "大纪元",
       "url": "https://www.epochtimes.com/gb/26/6/30/n14800025.htm",
       "subCategory": "风险事件"
-    },
-    {
-      "id": "finance-20260701-008",
-      "title": "公告精选：比亚迪6月新能源汽车销量40.35万辆；雅克科技、多氟多等提示风险",
-      "summary": "比亚迪公告6月新能源汽车销量40.35万辆，上年同期为38.26万辆。雅克科技提示市场对电子材料业务或存过度解读，多氟多说明半导体级氢氟酸占2025年营收不足2%，另有多家公司发布业绩预告与回购公告。",
-      "publishedAt": "2026-07-01",
-      "source": "证券时报",
-      "url": "https://www.stcn.com/article/detail/3993265.html",
-      "subCategory": "A股"
-    },
-    {
-      "title": "Gold Stays Close to 8-Month Low",
-      "summary": "黄金价格7月1日报3973.84美元/盎司，日内下跌0.85%，受美国就业数据强于预期影响，市场对美联储加息预期升温，金价维持在近八个月低位附近。",
-      "publishedAt": "2026-07-01",
-      "source": "Trading Economics",
-      "url": "https://tradingeconomics.com/commodity/gold",
-      "subCategory": "大宗商品",
-      "id": "finance-20260701-001"
     },
     {
       "title": "市值破万亿后，寒武纪深夜提示风险",
@@ -579,150 +723,6 @@
       "publishedAt": "2026-06-29T10:31:00+08:00",
       "source": "证券时报",
       "url": "https://www.stcn.com/article/detail/3984688.html",
-      "subCategory": "A股"
-    },
-    {
-      "id": "finance-20260629-002",
-      "title": "科创50指数涨超4%刷新历史新高",
-      "summary": "科创50指数今日涨超4%，盘中再度刷新历史新高，半导体、AI算力产业链个股集体走强，成交额大幅放量，市场人气明显提振。",
-      "publishedAt": "2026-06-29T09:50:00+08:00",
-      "source": "36氪",
-      "url": "https://36kr.com/newsflashes/3873600773919749",
-      "subCategory": "A股"
-    },
-    {
-      "id": "finance-20260627-003",
-      "title": "国家统计局：1—5月份全国规模以上工业企业利润增长18.8%",
-      "summary": "国家统计局公布，2026年1至5月全国规模以上工业企业实现利润总额31439.6亿元，同比增长18.8%；国有企业增长19.6%，股份制企业增长24.1%，私营企业增长10.7%；采矿业利润增长33.5%，制造业增长20.0%，电力、热力、燃气及水生产供应业下降2.7%。",
-      "publishedAt": "2026-06-27T10:39:00+08:00",
-      "source": "36氪",
-      "url": "https://36kr.com/newsflashes/3870818137969925",
-      "subCategory": "宏观经济"
-    },
-    {
-      "id": "finance-20260627-002",
-      "title": "算力、存储芯片需求爆发！国家统计局：前五个月电子行业利润增长103.9%",
-      "summary": "国家统计局公布1-5月工业企业利润数据：全国规模以上工业企业利润总额31439.6亿元，同比增长18.8%；电子行业利润同比增长103.9%，贡献工业企业利润总增量的43.1%，全球AI技术突破引发的算力及存储芯片需求爆发是核心驱动力。",
-      "publishedAt": "2026-06-27T10:36:00+08:00",
-      "source": "证券时报",
-      "url": "https://www.stcn.com/article/detail/3983486.html",
-      "subCategory": "宏观经济"
-    },
-    {
-      "id": "finance-20260627-001",
-      "title": "两创指数创新高！沪深周成交额创新高！A股融资余额首破3万亿元",
-      "summary": "本周A股两大创新类指数再创历史新高，沪深合计周成交额达17.73万亿元刷新纪录，A股融资余额首次突破3万亿元门槛；电子板块为融资净买入最主要去向；但韩国监管机构对半导体股杠杆ETF发出警示后，芯片股经历大幅波动。",
-      "publishedAt": "2026-06-27T07:42:00+08:00",
-      "source": "证券时报",
-      "url": "https://www.stcn.com/article/detail/3983245.html",
-      "subCategory": "A股"
-    },
-    {
-      "id": "finance-20260626-007",
-      "title": "中国资产，直线拉升！热门中概股多数上涨",
-      "summary": "纳斯达克中国金龙指数早盘涨逾1%，热门中概股多数上涨；涨幅居前的有网易有道、网易（涨超6%）、爱奇艺、叮咚买菜（涨超4%），携程和小鹏汽车跌逾1%。",
-      "publishedAt": "2026-06-26T22:43:00+08:00",
-      "source": "证券时报",
-      "url": "https://www.stcn.com/article/detail/3983199.html",
-      "subCategory": "美股"
-    },
-    {
-      "id": "finance-20260626-006",
-      "title": "亚股遭遇'黑色星期五'！华尔街热议背后推手 苹果涨价是多重利空之一",
-      "summary": "亚洲股市6月26日(周五)遭遇急剧抛售，韩国KOSPI指数收跌5.81%报8411.20点，日经225指数收跌4.15%报69360.88点；苹果iPad及MacBook涨价与OpenAI IPO可能推迟消息叠加，动摇了投资者对AI科技成长轨道的信心，三星跌逾5%，SK海力士跌逾8%。",
-      "publishedAt": "2026-06-26T17:05:00+08:00",
-      "source": "财联社",
-      "url": "https://www.cls.cn/detail/2410279",
-      "subCategory": "股票市场"
-    },
-    {
-      "id": "finance-20260626-002",
-      "title": "韩国芯片出口骤降逾10%，三星SK海力士重挫逾12%",
-      "summary": "韩国6月芯片出口额同比骤降逾10%，KOSPI指数当日自历史高位下挫约10%，三星电子与SK海力士均重挫超12%；外资单日净卖出超25亿美元，成交量较20日均值激增52%；美股方面，纳斯达克100指数跌3.29%，费城半导体指数跌逾10%，市场对全球AI芯片需求增速放缓的担忧明显升温。",
-      "publishedAt": "2026-06-26T15:50:00+08:00",
-      "source": "新浪财经",
-      "url": "https://finance.sina.com.cn/stock/usstock/summary/2026-06-26/doc-inietnfu5215052.shtml",
-      "subCategory": "股票市场"
-    },
-    {
-      "id": "finance-20260626-004",
-      "title": "2026年6月26日A股上午收盘股评来了",
-      "summary": "东方财富财富号发布6月26日A股上午收盘股评，韩国综合指数暴跌8.8%引发外溢效应，上证跌2.14%至4032点、创业板大跌3.72%；半导体、PCB、CPO全线走弱；新股惠科股份开盘涨逾212%；光刻设备概念逆势拉升。",
-      "publishedAt": "2026-06-26T11:49:00+08:00",
-      "source": "东方财富",
-      "url": "https://caifuhao.eastmoney.com/news/20260626114955226552540",
-      "subCategory": "A股"
-    },
-    {
-      "id": "finance-20260626-005",
-      "title": "午盘播报 6月26日 周五",
-      "summary": "国内商品期货全线重挫，碳酸锂大跌超5%、橡胶跌超4%、聚硅跌超3%；美国拟于6月30日前启动对铜铝等「AI 金属」301关税调查；中东货轮遭袭致霍尔木兹海峡短暂中断通行，国际运费及能源市场波动加剧。",
-      "publishedAt": "2026-06-26T11:30:00+08:00",
-      "source": "东方财富",
-      "url": "https://finance.eastmoney.com/a/202606263784525030.html",
-      "subCategory": "大宗商品"
-    },
-    {
-      "id": "finance-20260626-001",
-      "title": "苹果、微软同日官宣大涨价，机构称存储芯片供需缺口有望持续",
-      "summary": "苹果宣布Mac与iPad全线涨价18%至25%，微软Xbox游戏机及配件涨价约150美元，两家公司均将涨价原因归结为AI数据中心HBM内存需求激增导致存储芯片成本上升；消息推动美光、SK海力士等存储芯片股单日大幅上涨，机构分析认为AI训练与推理算力持续扩张将使供需缺口延续至2027年。",
-      "publishedAt": "2026-06-26T10:16:00+08:00",
-      "source": "新浪财经",
-      "url": "https://finance.sina.com.cn/jjxw/2026-06-26/doc-inieszsa1989234.shtml",
-      "subCategory": "美股"
-    },
-    {
-      "id": "finance-20260626-003",
-      "title": "A股大幅回调，上证跌逾2%报4027点，深证跌3.4%",
-      "summary": "6月26日A股全线大幅调整，上证综合指数收报4027.26点，跌幅2.26%；深证成指收报15782点，跌幅3.44%；下跌主因为科技股外资持续减持与指数成分股调仓形成集中卖压，全天两市成交明显放量，市场情绪整体偏谨慎。",
-      "publishedAt": "2026-06-26",
-      "source": "英为财情",
-      "url": "https://zh.tradingeconomics.com/china/stock-market",
-      "subCategory": "A股"
-    },
-    {
-      "id": "finance-20260625-002",
-      "title": "恒指收跌 1.43%，恒生科技指数跌 1.63%",
-      "summary": "2026年6月25日港股收盘，恒生指数下跌1.43%，恒生科技指数跌1.63%，科技权重股普遍承压，市场情绪偏谨慎；投资者对全球宏观环境及美联储利率前景仍持观望态度。",
-      "publishedAt": "2026-06-25T16:10:00+08:00",
-      "source": "36氪",
-      "url": "https://36kr.com/newsflashes/3868311925445636",
-      "subCategory": "港股"
-    },
-    {
-      "id": "finance-20260625-001",
-      "title": "黄仁勋计划回馈股东 50% 自由现金流",
-      "summary": "英伟达CEO黄仁勋表示计划将公司自由现金流的50%回馈给股东，涵盖股票回购与股息分红两种形式；这一表态在AI算力超级周期高峰期强化了市场对英伟达长期盈利能力与股东回报的信心。",
-      "publishedAt": "2026-06-25T15:54:00+08:00",
-      "source": "36氪",
-      "url": "https://36kr.com/newsflashes/3868289071289605",
-      "subCategory": "美股"
-    },
-    {
-      "id": "finance-20260625-003",
-      "title": "2026 全球独角兽榜单出炉：DeepSeek 以 3400 亿元价值跻身前 15 名",
-      "summary": "胡润《2026全球独角兽榜》显示，DeepSeek以约3400亿元人民币估值跻身全球前15名独角兽企业，是中国AI大模型领域首次进入全球独角兽TOP15的企业，彰显中国开源AI在全球市场的快速崛起。",
-      "publishedAt": "2026-06-25T15:13:00+08:00",
-      "source": "36氪",
-      "url": "https://36kr.com/newsflashes/3868256355193860",
-      "subCategory": "一级市场"
-    },
-    {
-      "id": "finance-20260625-004",
-      "title": "美光、高通业绩展望超预期，AI 芯片板块市值单日暴涨 4000 亿美元",
-      "summary": "美光科技和高通发布超预期业绩展望，带动AI芯片板块单日市值增长超4000亿美元；美光盘后大幅飙升，高通宣布向人工智能赛道转型，预计2029年数据中心营收将达150亿美元。",
-      "publishedAt": "2026-06-25T08:48:52+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/968/246.htm",
-      "subCategory": "美股"
-    },
-    {
-      "id": "finance-20260624-001",
-      "title": "A 股重要资讯汇总与点评（2026 年 6 月 24 日）",
-      "summary": "东方财富财富号对2026年6月24日A股市场进行整体盘点与点评，涵盖当日主要指数表现、行业涨跌分化、资金流向分析及重要政策消息，为投资者提供综合信息参考。",
-      "publishedAt": "2026-06-24T21:46:00+08:00",
-      "source": "东方财富",
-      "url": "https://caifuhao.eastmoney.com/news/20260624214602110498810",
       "subCategory": "A股"
     }
   ],
