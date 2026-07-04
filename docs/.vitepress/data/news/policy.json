@@ -3,8 +3,17 @@
   "slug": "policy",
   "title": "政策信息",
   "description": "国家与地方政策、监管动态、产业扶持与合规要求。",
-  "updatedAt": "2026-07-04T00:52:48+08:00",
+  "updatedAt": "2026-07-05T00:58:00+08:00",
   "items": [
+    {
+      "title": "市场监管总局、商务部就电子商务法修正草案征求意见稿公开征求意见",
+      "summary": "市场监管总局与商务部就《中华人民共和国电子商务法（修正草案征求意见稿）》公开征求意见，草案共二十条，涉及扩大调整范围、完善平台责任体系等内容，反馈截止8月4日。",
+      "publishedAt": "2026-07-04",
+      "source": "国家市场监督管理总局",
+      "url": "https://www.samr.gov.cn/hd/zjdc/art/2026/art_41b16f1123ee4cd7acf892bb8bed5fe0.html",
+      "subCategory": "数字经济",
+      "id": "policy-20260704-001"
+    },
     {
       "id": "policy-20260703-011",
       "title": "中国证监会就完善上市公司再融资规则公开征求意见",
@@ -24,13 +33,40 @@
       "subCategory": "数字经济"
     },
     {
-      "title": "民生直通车｜支持企业稳岗扩岗 政策\"两延续一优化\"",
-      "summary": "四部门联合发布通知，延续失业保险稳岗返还政策（大型企业返还比例上限30%、中小微企业60%）和扩岗补助政策，并优化技能提升补贴，扩大适用范围至社会组织、个体工商户等。",
-      "publishedAt": "2026-07-03T00:48:37+08:00",
-      "source": "新华网",
-      "url": "https://www.news.cn/politics/20260703/b7b5e7a9793f42eda13bd53c10fbc683/c.html",
+      "title": "国家发展改革委印发《循环经济发展\"十五五\"规划》",
+      "summary": "国家发展改革委印发《循环经济发展\"十五五\"规划》，提出到2030年主要资源产出率较2025年提高约16%，大宗固废综合利用量达到约45亿吨，资源循环利用产业产值达到8万亿元。",
+      "publishedAt": "2026-07-03",
+      "source": "国家发展和改革委员会",
+      "url": "https://www.ndrc.gov.cn/xxgk/jd/jd/202607/t20260702_1406253.html",
       "subCategory": "产业政策",
-      "id": "policy-20260703-001"
+      "id": "policy-20260703-013"
+    },
+    {
+      "title": "2026年7月3日国内成品油价格调整",
+      "summary": "国家发展改革委发布通知，自7月3日24时起国内汽油、柴油（标准品）价格每吨分别下调950元和915元，原因是国际原油价格自上次调价以来出现下行，并要求相关企业保障市场供应。",
+      "publishedAt": "2026-07-03",
+      "source": "国家发展和改革委员会",
+      "url": "https://www.ndrc.gov.cn/xwdt/xwfb/202607/t20260703_1406245.html",
+      "subCategory": "产业政策",
+      "id": "policy-20260703-014"
+    },
+    {
+      "title": "中国证监会就修改北交所上市公司证券发行注册管理办法公开征求意见",
+      "summary": "中国证监会就修改《北京证券交易所上市公司证券发行注册管理办法》的决定及相关配套规则公开征求意见，涉及信息披露等五项规则修订，反馈截止日期为8月2日。",
+      "publishedAt": "2026-07-03",
+      "source": "中国证券监督管理委员会",
+      "url": "https://www.csrc.gov.cn/csrc/c101981/c7643353/content.shtml",
+      "subCategory": "金融监管",
+      "id": "policy-20260703-015"
+    },
+    {
+      "title": "欧盟委员会提出五个共同利益欧洲防务项目",
+      "summary": "欧盟委员会提出五个\"共同利益欧洲防务项目\"，涵盖无人机与反无人机系统、海事与海底防御、太空、空天导弹防御及东翼安全，计划到2036年撬动约1900亿欧元投资，已安排3.25亿欧元支持落地。",
+      "publishedAt": "2026-07-03",
+      "source": "European Commission",
+      "url": "https://defence-industry-space.ec.europa.eu/commission-proposes-five-joint-defence-projects-strengthen-europes-industrial-capabilities-2026-07-03_en",
+      "subCategory": "海外政策",
+      "id": "policy-20260703-016"
     },
     {
       "id": "policy-20260703-002",
@@ -58,6 +94,15 @@
       "source": "European Commission",
       "url": "https://finance.ec.europa.eu/news/commission-adopts-revised-sustainability-reporting-standards-2026-07-03_en",
       "subCategory": "海外政策"
+    },
+    {
+      "title": "民生直通车｜支持企业稳岗扩岗 政策\"两延续一优化\"",
+      "summary": "四部门联合发布通知，延续失业保险稳岗返还政策（大型企业返还比例上限30%、中小微企业60%）和扩岗补助政策，并优化技能提升补贴，扩大适用范围至社会组织、个体工商户等。",
+      "publishedAt": "2026-07-03T00:48:37+08:00",
+      "source": "新华网",
+      "url": "https://www.news.cn/politics/20260703/b7b5e7a9793f42eda13bd53c10fbc683/c.html",
+      "subCategory": "产业政策",
+      "id": "policy-20260703-001"
     },
     {
       "title": "三项光伏领域强制性国标出炉！标准立门槛，能效定去留",
@@ -123,15 +168,6 @@
       "id": "policy-20260702-006"
     },
     {
-      "title": "市场监管总局对火炬集团和鼎晖百孚各罚款175万元",
-      "summary": "市场监管总局对中山火炬集团和上海鼎晖百孚在未获批准前即实施取得中炬高新控制权的经营者集中行为作出行政处罚，鉴于无排除竞争效果且配合调查，两家企业各被罚175万元。",
-      "publishedAt": "2026-07-02T06:40:00+08:00",
-      "source": "新浪财经",
-      "url": "https://finance.sina.com.cn/roll/2026-07-02/doc-inifkcry3722165.shtml",
-      "subCategory": "反垄断",
-      "id": "policy-20260702-003"
-    },
-    {
       "id": "policy-20260703-004",
       "title": "商务部例行新闻发布会通报中欧、中德经贸磋商机制最新进展",
       "summary": "商务部例行新闻发布会介绍，中欧经贸投资磋商机制首场部长级会议已于6月29日举行，双方拟每年召开1至2次；中德经济合作联委会同步重启，双方新设贸易投资和产业合作两个工作组。",
@@ -157,6 +193,15 @@
       "source": "国家市场监督管理总局",
       "url": "https://www.samr.gov.cn/xw/sj/art/2026/art_be8c39da9e284d368b40e073e9be6009.html",
       "subCategory": "数字经济"
+    },
+    {
+      "title": "市场监管总局对火炬集团和鼎晖百孚各罚款175万元",
+      "summary": "市场监管总局对中山火炬集团和上海鼎晖百孚在未获批准前即实施取得中炬高新控制权的经营者集中行为作出行政处罚，鉴于无排除竞争效果且配合调查，两家企业各被罚175万元。",
+      "publishedAt": "2026-07-02T06:40:00+08:00",
+      "source": "新浪财经",
+      "url": "https://finance.sina.com.cn/roll/2026-07-02/doc-inifkcry3722165.shtml",
+      "subCategory": "反垄断",
+      "id": "policy-20260702-003"
     },
     {
       "id": "policy-20260701-005",
@@ -679,51 +724,6 @@
       "source": "证券时报",
       "url": "https://www.stcn.com/article/detail/3922719.html",
       "subCategory": "金融监管"
-    },
-    {
-      "id": "policy-20260522-002",
-      "title": "深圳：2026 年智能家居和其他智能产品给予 15% 补贴，最高补贴不超 1500 元",
-      "summary": "深圳市商务局发布 2026 年智能家居和智能产品补贴公告，消费者购买符合条件的产品（含智能床、适老化辅助器械、扫地机器人等）可按最终销售价格的 15% 获得补贴，每人每类产品限补 1 件、单件上限 1500 元，补贴实行即买即享，通过电商平台或线下门店实名认证后直接抵扣现金。",
-      "publishedAt": "2026-05-22T15:19:06+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/953/927.htm",
-      "subCategory": "产业政策"
-    },
-    {
-      "id": "policy-20260522-003",
-      "title": "上亿组个人信息被明码标价：央视首次揭露'开盒'黑产链条细节",
-      "summary": "央视曝光开盒黑产，不法分子非法获取超 9 亿条个人数据，建立查询网站供 10 万余人付费访问；泄露途径包括黑客入侵和内部人员监守自盗；2025 年起诉相关犯罪 6142 人，中国已推出网络身份证保护隐私，形成完整法律保护体系。",
-      "publishedAt": "2026-05-22T15:03:11+08:00",
-      "source": "光明网",
-      "url": "https://legal.gmw.cn/2026-05/22/content_38782719.htm",
-      "subCategory": "数据安全"
-    },
-    {
-      "id": "policy-20260522-001",
-      "title": "美国政府投资 20 亿美元入股九家量子计算公司，IBM 独获 10 亿美元并成立量子芯片制造公司",
-      "summary": "美国政府将以入股方式向九家量子计算公司投资20亿美元，其中IBM独获10亿美元，在纽约州成立量子芯片制造公司Anderson；GlobalFoundries获3.75亿美元建设量子部件工厂，D-Wave、Rigetti等各获约1亿美元，标志美国将量子计算纳入国家战略投资体系。",
-      "publishedAt": "2026-05-22T07:02:57+08:00",
-      "source": "IBM Newsroom",
-      "url": "https://newsroom.ibm.com/ibm-and-u-s-department-of-commerce-announce-americas-first-purpose-built-quantum-foundry",
-      "subCategory": "海外政策"
-    },
-    {
-      "id": "policy-20260520-001",
-      "title": "运营商网上营业厅服务新国标发布，要求明示业务退订方式、限制性条件等",
-      "summary": "工信部发布运营商网上营业厅服务国家标准，要求在同一页面明示业务资费、退订方式与限制性条件，禁止误导性表述；规范咨询入口位置并提供关键字搜索与菜单导航；推动适老化与多语言无障碍设计，收集个人信息须获授权并采用加密、脱敏等技术手段保护数据安全，旨在提升电信服务透明度与用户权益保障水平。",
-      "publishedAt": "2026-05-20T10:07:11+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/952/614.htm",
-      "subCategory": "产业政策"
-    },
-    {
-      "id": "policy-20260518-001",
-      "title": "全国首个遥感卫星数据出境安全评估在海南完成，实现\"零的突破\"",
-      "summary": "海南完成全国首个遥感卫星数据出境安全评估，填补商业遥感数据出境合规空白；此前该类数据因兼具数字经济价值与战略敏感性，出境合规路径缺失，此次评估为同类企业提供可复制的实践模板，对商业航天数据合规出海具有示范意义。",
-      "publishedAt": "2026-05-18T22:53:04+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/952/035.htm",
-      "subCategory": "数据安全"
     }
   ]
 }

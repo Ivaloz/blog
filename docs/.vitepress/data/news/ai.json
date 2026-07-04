@@ -3,8 +3,35 @@
   "slug": "ai",
   "title": "AI 与大模型",
   "description": "大模型、Agent、AI 编程、推理框架、开源模型的发布与落地。",
-  "updatedAt": "2026-07-04T00:52:48+08:00",
+  "updatedAt": "2026-07-05T00:58:00+08:00",
   "items": [
+    {
+      "title": "光象科技累计完成数亿元天使轮融资，布局物理原生基座模型",
+      "summary": "光象科技完成累计数亿元天使轮融资，将聚焦物理原生基座模型研发与具身智能机器人商业化。其工业级机器人Phi-Bot X1已在2026 ATC展会上连续运行21.5小时无故障，应用于汽车产线焊接与上下料任务。",
+      "publishedAt": "2026-07-04T13:52:21+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/07/442958.html",
+      "subCategory": "具身智能",
+      "id": "ai-20260704-001"
+    },
+    {
+      "title": "继豆包后，阿里千问宣布拟人化互动类智能体、用户自建智能体7月10日下线",
+      "summary": "阿里千问平台公告称，因功能升级与维护，拟人化互动类智能体及用户自建智能体功能将于7月10日（App端7月15日）正式下线，下线后用户将无法访问相关配置与历史对话，需提前导出备份。",
+      "publishedAt": "2026-07-04T12:18:12+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/972/525.htm",
+      "subCategory": "Agent",
+      "id": "ai-20260704-003"
+    },
+    {
+      "title": "当一千五百条漏洞一夜曝光：AI既是矛也是盾",
+      "summary": "报道援引Epoch AI数据称，6月21家主要软硬件厂商公开披露约1500个高危漏洞，为Claude Mythos模型发布前月度纪录的3.5倍，其中逾72%漏洞被自动转化为可执行攻击代码，OpenAI同期推出Daybreak用于防御性漏洞扫描。",
+      "publishedAt": "2026-07-04",
+      "source": "ALENG",
+      "url": "https://www.aleng.net/archives/20260704061445.html",
+      "subCategory": "AI应用",
+      "id": "ai-20260704-002"
+    },
     {
       "id": "ai-20260703-018",
       "title": "消息称字节豆包视频生成模型 Seedance 2.5 预计 7 月 6 日上线体验中心，一周后开放 API",
@@ -258,15 +285,6 @@
       "id": "ai-20260702-003"
     },
     {
-      "title": "Copilot vision is generally available",
-      "summary": "GitHub Copilot视觉功能正式面向所有订阅层级开放，用户可在聊天中直接上传图片和PDF文件，让Copilot结合代码理解视觉内容，功能覆盖VS Code、github.com和CLI，无需管理员开启策略。",
-      "publishedAt": "2026-07-01T11:39:17-07:00",
-      "source": "GitHub Changelog",
-      "url": "https://github.blog/changelog/2026-07-01-copilot-vision-is-generally-available/",
-      "subCategory": "AI编程",
-      "id": "ai-20260701-015"
-    },
-    {
       "title": "More details on Fable 5's cyber safeguards and our jailbreak framework",
       "summary": "Anthropic公布Claude Fable 5网络安全防护细节，将使用场景分为禁止、高风险双用、低风险双用与良性四级，并联合亚马逊、微软、谷歌等提出CJS-0至CJS-4越狱严重程度评分框架，用于统一评估风险。",
       "publishedAt": "2026-07-02",
@@ -292,6 +310,15 @@
       "url": "https://github.blog/changelog/2026-07-02-cost-centers-now-support-included-usage-caps",
       "subCategory": "AI编程",
       "id": "ai-20260702-010"
+    },
+    {
+      "title": "Copilot vision is generally available",
+      "summary": "GitHub Copilot视觉功能正式面向所有订阅层级开放，用户可在聊天中直接上传图片和PDF文件，让Copilot结合代码理解视觉内容，功能覆盖VS Code、github.com和CLI，无需管理员开启策略。",
+      "publishedAt": "2026-07-01T11:39:17-07:00",
+      "source": "GitHub Changelog",
+      "url": "https://github.blog/changelog/2026-07-01-copilot-vision-is-generally-available/",
+      "subCategory": "AI编程",
+      "id": "ai-20260701-015"
     },
     {
       "id": "ai-20260701-014",
@@ -456,15 +483,6 @@
       "subCategory": "大模型"
     },
     {
-      "id": "ai-20260630-006",
-      "title": "谷歌Gemini个性化AI生图功能面向全美免费用户开放",
-      "summary": "谷歌将Nano Banana驱动的个性化图像生成功能扩展至美国全体符合条件的免费版Gemini用户（此前仅限Plus/Pro/Ultra付费用户），该功能可结合已连接的Gmail、相册、YouTube及搜索数据自动生成个性化图像。",
-      "publishedAt": "2026-06-30T07:35:52+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/970/251.htm",
-      "subCategory": "多模态"
-    },
-    {
       "id": "ai-20260630-004",
       "title": "Anthropic发布Claude Sonnet 5，定位“迄今最具agentic能力的Sonnet模型”",
       "summary": "Anthropic推出Claude Sonnet 5，官方称其为迄今最具agentic能力的Sonnet系列模型，性能接近Opus 4.8但成本更低；截至8月31日提供每百万Token输入2美元、输出10美元的推介价，此后恢复至3美元/15美元标准定价。",
@@ -501,13 +519,13 @@
       "subCategory": "AI评测"
     },
     {
-      "id": "ai-20260629-001",
-      "title": "马斯克宣布Grok 4.5开启SpaceX与特斯拉内部私测，性能或超越Opus",
-      "summary": "马斯克在X平台宣布Grok 4.5已进入SpaceX和特斯拉内部私测阶段，其测试结果显示性能或超越Claude Opus系列；xAI计划在内部测试趋于稳定后优先向SuperGrok Heavy订阅用户推送，Grok 4.5定位于当前Grok 4与更高阶版本之间的过渡升级。",
-      "publishedAt": "2026-06-29T07:49:00+08:00",
-      "source": "36氪",
-      "url": "https://36kr.com/newsflashes/3873481579746561",
-      "subCategory": "大模型"
+      "id": "ai-20260630-006",
+      "title": "谷歌Gemini个性化AI生图功能面向全美免费用户开放",
+      "summary": "谷歌将Nano Banana驱动的个性化图像生成功能扩展至美国全体符合条件的免费版Gemini用户（此前仅限Plus/Pro/Ultra付费用户），该功能可结合已连接的Gmail、相册、YouTube及搜索数据自动生成个性化图像。",
+      "publishedAt": "2026-06-30T07:35:52+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/970/251.htm",
+      "subCategory": "多模态"
     },
     {
       "id": "ai-20260629-002",
@@ -535,6 +553,15 @@
       "source": "arXiv",
       "url": "https://arxiv.org/abs/2606.30045",
       "subCategory": "论文进展"
+    },
+    {
+      "id": "ai-20260629-001",
+      "title": "马斯克宣布Grok 4.5开启SpaceX与特斯拉内部私测，性能或超越Opus",
+      "summary": "马斯克在X平台宣布Grok 4.5已进入SpaceX和特斯拉内部私测阶段，其测试结果显示性能或超越Claude Opus系列；xAI计划在内部测试趋于稳定后优先向SuperGrok Heavy订阅用户推送，Grok 4.5定位于当前Grok 4与更高阶版本之间的过渡升级。",
+      "publishedAt": "2026-06-29T07:49:00+08:00",
+      "source": "36氪",
+      "url": "https://36kr.com/newsflashes/3873481579746561",
+      "subCategory": "大模型"
     },
     {
       "id": "ai-20260628-001",
@@ -697,33 +724,6 @@
       "source": "证券时报",
       "url": "https://www.stcn.com/article/detail/3970644.html",
       "subCategory": "大模型"
-    },
-    {
-      "id": "ai-20260621-006",
-      "title": "华为发布乾崑智驾主动避险视频，截至 5 月 31 日已达成 114.7 亿公里真实行车里程",
-      "summary": "华为发布乾崑智驾主动避险实测视频，截至5月31日系统已累计114.7亿公里真实行车里程；辅助驾驶总里程突破120亿公里、全部行车里程达354亿公里，并强调辅助驾驶不等于自动驾驶。",
-      "publishedAt": "2026-06-21T18:54:30+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/966/712.htm",
-      "subCategory": "智能驾驶"
-    },
-    {
-      "id": "ai-20260621-005",
-      "title": "刘强东称京东所有 AI 技术都会向海外各个国家所有伙伴开放：不希望任何企业或国家形成技术壁垒，这本质上是「剥削」",
-      "summary": "在2026年APEC工商领导人中国论坛上，刘强东宣布京东将向全球合作伙伴开放全部AI技术，明确反对技术壁垒；并披露「涅槃计划」，将为70万蓝领物流工人提供职业再培训以应对AI自动化冲击。",
-      "publishedAt": "2026-06-21T18:15:24+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/966/690.htm",
-      "subCategory": "AI应用"
-    },
-    {
-      "id": "ai-20260621-003",
-      "title": "京东刘强东称将来根本不需要快递员：希望送 70 万蓝领兄弟去培训，以应对 AI 和技术发展带来的冲击",
-      "summary": "京东创始人刘强东在内部讲话中表示，随着AI和技术发展，将来根本不需要快递员；他希望公司能送70万蓝领员工去接受职业培训，以应对技术变革带来的就业冲击，体现了企业在自动化转型过程中对员工再培训的责任担当。",
-      "publishedAt": "2026-06-21T16:11:15+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/966/657.htm",
-      "subCategory": "AI应用"
     }
   ]
 }

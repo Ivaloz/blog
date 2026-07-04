@@ -3,8 +3,143 @@
   "slug": "tech",
   "title": "科技新闻",
   "description": "前沿科技、互联网产品、芯片硬件、开源生态。",
-  "updatedAt": "2026-07-04T00:52:48+08:00",
+  "updatedAt": "2026-07-05T00:58:00+08:00",
   "items": [
+    {
+      "title": "传输速率12800MT/s，澜起科技MRDIMM处于第二子代产品规模试用阶段",
+      "summary": "澜起科技在投资者活动中透露，第二代MRDIMM内存模组传输速率达12800MT/s，较第一代8800MT/s提升约45%，目前处于规模试用阶段，预计2026年下半年至2027年获更多CPU平台支持，第三代速率将达16000MT/s。",
+      "publishedAt": "2026-07-04T22:57:21+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/972/671.htm",
+      "subCategory": "芯片硬件",
+      "id": "tech-20260704-003"
+    },
+    {
+      "title": "Meta数据中心施工废水含罕见细菌：污染城市用水，引发数月清理",
+      "summary": "美国怀俄明州夏延市公用事业委员会确认，Meta数据中心施工承包商Goat Systems排放的废水含有耐金属细菌Cupriavidus gilardii，污染当地再生水系统，导致两座水处理厂停摆数月，今年6月才恢复正常运行。",
+      "publishedAt": "2026-07-04T22:16:30+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/972/667.htm",
+      "subCategory": "网络基础设施",
+      "id": "tech-20260704-016"
+    },
+    {
+      "title": "小米推送新规2026年8月1日生效：消息类型扩至75类，新增订阅消息功能",
+      "summary": "小米推送团队宣布新版消息推送规范将于2026年8月1日生效，消息类型由16类扩展至75类，新增需用户主动订阅的\"订阅消息\"功能，单应用可申请推送通道数由8个增至30个，现有开发者需在年底前完成模板迁移。",
+      "publishedAt": "2026-07-04T21:55:04+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/972/662.htm",
+      "subCategory": "互联网产品",
+      "id": "tech-20260704-015"
+    },
+    {
+      "title": "小鹏CEO何小鹏：辅助驾驶中国走在全球前面，L2级将加速出海",
+      "summary": "小鹏汽车CEO何小鹏表示中国辅助驾驶技术与法规全球领先，目前仅中美实现L2级大规模落地，欧盟等地区仍滞后。联合国相关自动驾驶法规今年获批后，NOA等L2功能预计12月前可在全球范围使用，但欧洲复杂路况仍是出海挑战。",
+      "publishedAt": "2026-07-04T21:47:54+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/972/660.htm",
+      "subCategory": "智能汽车",
+      "id": "tech-20260704-007"
+    },
+    {
+      "title": "美光投资1.5万亿日元扩建广岛工厂，日本政府出资三分之一",
+      "summary": "美光科技在日本广岛举行工厂扩建奠基仪式，总投资约1.5万亿日元，用于生产供英伟达等AI处理器使用的HBM等先进存储芯片，日本经济产业省提供最高5000亿日元补贴，新产线预计2028年夏前投产。",
+      "publishedAt": "2026-07-04T21:30:00+08:00",
+      "source": "新浪财经",
+      "url": "https://finance.sina.com.cn/tech/digi/2026-07-04/doc-inifscxs3161786.shtml",
+      "subCategory": "芯片硬件",
+      "id": "tech-20260704-005"
+    },
+    {
+      "title": "零刻EQi 304迷你主机海外上市：行业首发Wildcat Lake+UFS 3.1闪存，双雷电4+双网口",
+      "summary": "零刻正式在海外上市EQi 304迷你主机，是行业首款搭载英特尔Wildcat Lake平台Core 3 304处理器的产品，集成Xe3-LPG核显，内置512GB UFS 3.1闪存，配双雷电4接口及双网口，美国售价509美元起。",
+      "publishedAt": "2026-07-04T19:57:31+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/972/646.htm",
+      "subCategory": "消费电子",
+      "id": "tech-20260704-014"
+    },
+    {
+      "title": "我国成功发射千帆极轨13组卫星，长征火箭完成第655次飞行",
+      "summary": "我国在太原卫星发射中心用长征六号甲运载火箭成功发射千帆极轨13组卫星，卫星顺利进入预定轨道，此次任务是长征系列运载火箭第655次飞行。千帆星座由上海垣信卫星运营，一期计划部署648颗卫星实现区域覆盖。",
+      "publishedAt": "2026-07-04T19:24:22+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/972/638.htm",
+      "subCategory": "航空航天",
+      "id": "tech-20260704-011"
+    },
+    {
+      "title": "宇树科技陈立：关节电机上游只有铜线、磁铁等原材料供应商，完全自主可控",
+      "summary": "宇树科技联合创始人陈立在2026夏季达沃斯论坛上表示，公司四足、人形机器人及机械臂核心零部件已实现完全自研自产，上游仅依赖铜线、磁铁等原材料供应商，供应链完全自主可控，目前四足机器人出货量全球市占约70%。",
+      "publishedAt": "2026-07-04T18:44:49+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/972/625.htm",
+      "subCategory": "机器人",
+      "id": "tech-20260704-006"
+    },
+    {
+      "title": "Linux 7.2-rc2合入RISC-V关键调整：默认CPU核心数从64提升至256",
+      "summary": "Linux内核7.2-rc2合入RISC-V架构关键调整，默认最大CPU核心数从64提升至256，以适配SpacemiT 80核、算能128核双路等新款RISC-V服务器硬件。新数值仍低于x86_64的8192与ARM64的512，反映RISC-V正从嵌入式向服务器市场扩展。",
+      "publishedAt": "2026-07-04T18:36:39+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/972/623.htm",
+      "subCategory": "开源生态",
+      "id": "tech-20260704-010"
+    },
+    {
+      "title": "比亚迪熊甜波：方程豹钛7 EV闪充版四驱车型本周已全面开启交付",
+      "summary": "比亚迪方程豹品牌总经理熊甜波表示，钛7 EV闪充版四驱车型本周已全面开启交付，全产业链正全力冲刺提升产能。该车型4月底上市，基础版19.98万元，四驱升级包加价3万元，交付延迟超30天可获等额免费快充天数补偿。",
+      "publishedAt": "2026-07-04T18:27:54+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/972/621.htm",
+      "subCategory": "智能汽车",
+      "id": "tech-20260704-008"
+    },
+    {
+      "title": "三星第三季度DRAM拟提价20%，终端厂家称已接到口头通知",
+      "summary": "三星电子拟将第三季度DRAM平均售价环比上调约20%，多家终端厂商称已收到口头通知。TrendForce预测行业合约价环比涨13%-18%，LPDRAM供应因AI需求挤占产能持续紧张，终端厂商或被迫上调整机价格。",
+      "publishedAt": "2026-07-04T17:46:40+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/972/616.htm",
+      "subCategory": "芯片硬件",
+      "id": "tech-20260704-002"
+    },
+    {
+      "title": "零跑全新B01/B10座舱公布：前排双零重力座椅、17.3英寸3K中控屏等",
+      "summary": "零跑汽车公布全新B01/B10座舱细节，两款车型均配备前排双零重力座椅及17.3英寸3K中控屏，B10还提供可放平床型设计与1.83平方米全景星空顶。现款B01今年7月上市起售8.98万元，B10搭载8650芯片智驾方案。",
+      "publishedAt": "2026-07-04T17:24:22+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/972/614.htm",
+      "subCategory": "智能汽车",
+      "id": "tech-20260704-009"
+    },
+    {
+      "title": "消息称微软Xbox硬件亏损加剧：每卖一台最高亏200美元，次世代主机Helix将取消光驱",
+      "summary": "据Xbox业内人士Jez Corden透露，微软出售每台Xbox Series X|S主机最高亏损200美元，源于内存等元器件成本上涨及关税影响。消息称次世代主机代号Helix将取消光驱，因光盘制造商业模式已难以为继，或考虑外置USB光驱作为折中方案。",
+      "publishedAt": "2026-07-04T17:04:13+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/972/609.htm",
+      "subCategory": "消费电子",
+      "id": "tech-20260704-012"
+    },
+    {
+      "title": "消息称一加迭代新机测试2亿主摄、5000万潜望长焦，预计为一加16",
+      "summary": "数码博主@数码闲聊站爆料，一加下一代新机（预计为一加16）正测试2亿像素大底主摄搭配5000万像素潜望长焦的三摄方案，与此前5月曝光的2亿像素长焦方案存在冲突，最终定型仍需在主摄与长焦规格间做出取舍。",
+      "publishedAt": "2026-07-04T16:59:28+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/972/608.htm",
+      "subCategory": "消费电子",
+      "id": "tech-20260704-013"
+    },
+    {
+      "title": "首款神经动力学芯片问世，有助于脑机接口等技术发展",
+      "summary": "北京大学集成电路学院与中科院上海微系统所联合研制出全球首款基于相变忆阻器的神经动力学系统芯片，单步延迟压缩至2.12毫秒，在皮层重建任务中比现有GPU快50至478倍，相关成果7月3日发表于《科学》杂志。",
+      "publishedAt": "2026-07-04T13:20:00+08:00",
+      "source": "36氪",
+      "url": "https://36kr.com/newsflashes/3880779651248391",
+      "subCategory": "芯片硬件",
+      "id": "tech-20260704-004"
+    },
     {
       "id": "tech-20260704-001",
       "title": "苹果内部正测试 iOS 27.4，预计明年春季发布",
@@ -492,6 +627,51 @@
       "subCategory": "消费电子"
     },
     {
+      "title": "Meet Brain: The AI system behind Azure reliability",
+      "summary": "微软发布内部AIOps系统Brain，作为Azure Resource Graph之上的智能层，整合平台遥测数据、机器学习模型与服务依赖关系，构建实时云健康数字孪生，可自动触发部署暂停和客户通知等操作。",
+      "publishedAt": "2026-07-02",
+      "source": "Microsoft Azure Blog",
+      "url": "https://azure.microsoft.com/en-us/blog/meet-brain-the-ai-system-behind-azure-reliability/",
+      "subCategory": "云计算",
+      "id": "tech-20260702-032"
+    },
+    {
+      "title": "Amazon EC2 Dedicated Hosts now support AMD SEV-SNP",
+      "summary": "AWS宣布Amazon EC2 Dedicated Hosts支持AMD SEV-SNP机密计算技术，客户可在专属物理服务器上运行机密计算工作负载，该功能已覆盖所有提供AMD实例的AWS商业区域。",
+      "publishedAt": "2026-07-02",
+      "source": "AWS What's New",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/ec2-amd-sev-snp-dedicated-hosts",
+      "subCategory": "云计算",
+      "id": "tech-20260702-033"
+    },
+    {
+      "title": "Amazon EC2 X8i instances are now available in additional regions",
+      "summary": "AWS宣布Amazon EC2 X8i实例扩展至亚太首尔、马来西亚和东京三个新区域，该实例采用定制英特尔至强6处理器，面向SAP HANA等内存密集型应用，共提供14种规格及多种购买方式。",
+      "publishedAt": "2026-07-02",
+      "source": "AWS What's New",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-x8i-instances-ICN-KUL-NRT-region/",
+      "subCategory": "云计算",
+      "id": "tech-20260702-034"
+    },
+    {
+      "title": "Issue fields are now generally available",
+      "summary": "GitHub的issue fields功能现已面向Free、Team、Enterprise等所有计划组织正式开放，后续将随Enterprise Server 3.23发布。该功能自五月公开预览以来已被超过四万个组织采用，可为issue添加优先级、工作量等结构化字段，并支持在列表中直接查看字段值。",
+      "publishedAt": "2026-07-02",
+      "source": "GitHub Changelog",
+      "url": "https://github.blog/changelog/2026-07-02-issue-fields-are-now-generally-available/",
+      "subCategory": "开发者工具",
+      "id": "tech-20260702-035"
+    },
+    {
+      "title": "How GitHub used secret scanning to reach inbox zero",
+      "summary": "GitHub安全团队披露，其在旗下超过一万五千个仓库中曾发现两万余条密钥泄露告警，随后通过分阶段启用密钥扫描、优先级排查、验证凭据有效性并明确责任归属，历时九个月将未处理告警清零，并分享了具体实践方法。",
+      "publishedAt": "2026-07-02",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/security/application-security/how-github-used-secret-scanning-to-reach-inbox-zero/",
+      "subCategory": "安全漏洞",
+      "id": "tech-20260702-036"
+    },
+    {
       "id": "tech-20260702-008",
       "title": "华为联合上海电信落地5G-A×AI大上行样板点：实测峰值速率1Gbps",
       "summary": "华为联合上海电信在西岸美术馆落地5G-A×AI大上行样板点，实测上行峰值速率达1Gbps、下行峰值速率近4Gbps，现场展示AI眼镜高清内容云端处理等应用，计划年底前实现中心城区重点区域20Mbps上行连续覆盖。",
@@ -544,186 +724,6 @@
       "url": "https://www.bleepingcomputer.com/news/security/kubota-says-hackers-had-month-long-access-to-network-systems/",
       "subCategory": "安全漏洞",
       "id": "tech-20260701-020"
-    },
-    {
-      "id": "tech-20260702-013",
-      "title": "Enterprise managed-settings.json is generally available",
-      "summary": "GitHub宣布managed-settings.json配置面向企业云客户正式可用，企业可借此为Copilot客户端统一设定AI治理策略，涵盖插件市场限制、权限绕过限制及默认模型等配置项，现于VS Code和Copilot CLI生效。",
-      "publishedAt": "2026-07-02T04:57:26+08:00",
-      "source": "GitHub Changelog",
-      "url": "https://github.blog/changelog/2026-07-01-enterprise-managed-settings-json-is-generally-available",
-      "subCategory": "开发者工具"
-    },
-    {
-      "id": "tech-20260702-012",
-      "title": "Secret scanning adds validators for Asana, IBM, and MessageBird",
-      "summary": "GitHub为密钥扫描功能新增Asana、IBM和MessageBird三家服务商凭据有效性检测，帮助安全团队判断已发现的泄露凭据是否仍然有效，以便更准确评估风险并安排响应优先级，此前该功能已支持多家主流云与SaaS厂商凭据检测。",
-      "publishedAt": "2026-07-02T04:49:41+08:00",
-      "source": "GitHub Changelog",
-      "url": "https://github.blog/changelog/2026-07-01-secret-scanning-adds-validators-for-asana-ibm-and-messagebird",
-      "subCategory": "开发者工具"
-    },
-    {
-      "title": "Meet Brain: The AI system behind Azure reliability",
-      "summary": "微软发布内部AIOps系统Brain，作为Azure Resource Graph之上的智能层，整合平台遥测数据、机器学习模型与服务依赖关系，构建实时云健康数字孪生，可自动触发部署暂停和客户通知等操作。",
-      "publishedAt": "2026-07-02",
-      "source": "Microsoft Azure Blog",
-      "url": "https://azure.microsoft.com/en-us/blog/meet-brain-the-ai-system-behind-azure-reliability/",
-      "subCategory": "云计算",
-      "id": "tech-20260702-032"
-    },
-    {
-      "title": "Amazon EC2 Dedicated Hosts now support AMD SEV-SNP",
-      "summary": "AWS宣布Amazon EC2 Dedicated Hosts支持AMD SEV-SNP机密计算技术，客户可在专属物理服务器上运行机密计算工作负载，该功能已覆盖所有提供AMD实例的AWS商业区域。",
-      "publishedAt": "2026-07-02",
-      "source": "AWS What's New",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/ec2-amd-sev-snp-dedicated-hosts",
-      "subCategory": "云计算",
-      "id": "tech-20260702-033"
-    },
-    {
-      "title": "Amazon EC2 X8i instances are now available in additional regions",
-      "summary": "AWS宣布Amazon EC2 X8i实例扩展至亚太首尔、马来西亚和东京三个新区域，该实例采用定制英特尔至强6处理器，面向SAP HANA等内存密集型应用，共提供14种规格及多种购买方式。",
-      "publishedAt": "2026-07-02",
-      "source": "AWS What's New",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-x8i-instances-ICN-KUL-NRT-region/",
-      "subCategory": "云计算",
-      "id": "tech-20260702-034"
-    },
-    {
-      "title": "Issue fields are now generally available",
-      "summary": "GitHub的issue fields功能现已面向Free、Team、Enterprise等所有计划组织正式开放，后续将随Enterprise Server 3.23发布。该功能自五月公开预览以来已被超过四万个组织采用，可为issue添加优先级、工作量等结构化字段，并支持在列表中直接查看字段值。",
-      "publishedAt": "2026-07-02",
-      "source": "GitHub Changelog",
-      "url": "https://github.blog/changelog/2026-07-02-issue-fields-are-now-generally-available/",
-      "subCategory": "开发者工具",
-      "id": "tech-20260702-035"
-    },
-    {
-      "title": "How GitHub used secret scanning to reach inbox zero",
-      "summary": "GitHub安全团队披露，其在旗下超过一万五千个仓库中曾发现两万余条密钥泄露告警，随后通过分阶段启用密钥扫描、优先级排查、验证凭据有效性并明确责任归属，历时九个月将未处理告警清零，并分享了具体实践方法。",
-      "publishedAt": "2026-07-02",
-      "source": "GitHub Blog",
-      "url": "https://github.blog/security/application-security/how-github-used-secret-scanning-to-reach-inbox-zero/",
-      "subCategory": "安全漏洞",
-      "id": "tech-20260702-036"
-    },
-    {
-      "id": "tech-20260701-018",
-      "title": "格科微：2亿像素传感器产品开发顺利，并与部分客户达成初步合作意向",
-      "summary": "格科微在连续停牌后发布公告称，其2亿像素图像传感器产品开发进展顺利，已与部分客户达成初步合作意向，但产品尚未实现商业化出货。公司主要生产CMOS图像传感器和显示驱动芯片，此前已于2026年3月推出两款5000万像素传感器产品。",
-      "publishedAt": "2026-07-01T22:30:32+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/971/378.htm",
-      "subCategory": "芯片硬件"
-    },
-    {
-      "title": "中兴小鲜 70 Plus 手机发售：展锐 T8300 + 8G + 128G 售 1999 元",
-      "summary": "中兴小鲜70 Plus手机在京东发售，搭载紫光展锐T8300处理器，8GB内存加128GB存储，配6.8英寸900P屏幕、6050mAh电池及45W快充，售价1999元。",
-      "publishedAt": "2026-07-01T16:33:17+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/971/172.htm",
-      "subCategory": "消费电子",
-      "id": "tech-20260701-004"
-    },
-    {
-      "title": "微信鸿蒙版 App 获 8.0.19.35 尝鲜升级，小程序浮窗功能开始灰度",
-      "summary": "微信鸿蒙版通过华为应用市场推送8.0.19.35尝鲜版本，新增小程序浮窗支持多开、视频号功能增强、联系人拼音搜索及平板鼠标滚轮支持等改进，测试持续至7月31日。",
-      "publishedAt": "2026-07-01T16:25:00+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/971/163.htm",
-      "subCategory": "互联网产品",
-      "id": "tech-20260701-003"
-    },
-    {
-      "title": "Nothing Ear（3a）真无线耳机将于 7 月 7 日发布，消息称首发价 99 欧元",
-      "summary": "Nothing官方宣布将于7月7日发布Ear（3a）真无线耳机及Phone（4b），耳机提供白、黑、黄、粉四种配色，消息称欧洲首发价99欧元，暂未公布具体规格。",
-      "publishedAt": "2026-07-01T16:13:36+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/971/147.htm",
-      "subCategory": "消费电子",
-      "id": "tech-20260701-002"
-    },
-    {
-      "title": "中昊芯英正式发布新一代高性能TPU AI专用算力芯片“须臾®”",
-      "summary": "中昊芯英发布自研TPU芯片“须臾”，单芯片混合精度浮点算力达896TFLOPS，同时推出“泰则2.0”软硬一体智算平台，已在深圳联通、天津移动等多个大型智算中心部署。",
-      "publishedAt": "2026-07-01T16:01:00+08:00",
-      "source": "36氪",
-      "url": "https://36kr.com/newsflashes/3876796652253442",
-      "subCategory": "芯片硬件",
-      "id": "tech-20260701-001"
-    },
-    {
-      "id": "tech-20260701-017",
-      "title": "苹果打破常规提前发布紧急安全更新，应对AI驱动的黑客威胁",
-      "summary": "苹果周一提前发布iOS 26.5.2、iPadOS 26.5.2及macOS Tahoe 26.5.2安全更新，包含逾25项修复，其中15项涉及WebKit。苹果称AI工具正加速恶意黑客工具开发，目前未发现相关漏洞被实际利用的证据。",
-      "publishedAt": "2026-07-01T11:52:16+08:00",
-      "source": "环球网（网易转载）",
-      "url": "https://www.163.com/dy/article/L0OH93J20514R9OJ.html",
-      "subCategory": "安全漏洞"
-    },
-    {
-      "id": "tech-20260701-005",
-      "title": "奇瑞发布“犀牛电池”安全保障计划，承诺在售车型均符合最新国标",
-      "summary": "奇瑞汽车推出犀牛电池安全保障计划，承诺已售及在售搭载犀牛电池的车型均符合最新国家标准，若电池热失控导致整车报废将免费换车，并为原车主提供电池、电机及控制系统终身质保。",
-      "publishedAt": "2026-07-01",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/971/391.htm",
-      "subCategory": "智能汽车"
-    },
-    {
-      "id": "tech-20260701-006",
-      "title": "TCL华星官宣独家供屏小米REDMI K90至尊版，最高165Hz刷新率",
-      "summary": "TCL华星宣布独家供应小米REDMI K90至尊版手机屏幕，该屏幕最高支持165Hz刷新率，逾40款主流游戏可实现原生165fps运行，峰值亮度达3500尼特，并支持杜比视界等HDR标准。",
-      "publishedAt": "2026-07-01",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/971/390.htm",
-      "subCategory": "消费电子"
-    },
-    {
-      "id": "tech-20260701-007",
-      "title": "华为MateBook 14鸿蒙版获HarmonyOS 6.1.0.130 SP15升级，新增用户分级管理",
-      "summary": "华为为MateBook 14鸿蒙版笔记本推送HarmonyOS 6.1.0.130 SP15更新，新增用户分级管理能力，支持相机照片视频读取、打印机连接优化、锁屏与桌面壁纸分离设置，更新采取分批推送方式。",
-      "publishedAt": "2026-07-01",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/971/388.htm",
-      "subCategory": "操作系统"
-    },
-    {
-      "id": "tech-20260701-008",
-      "title": "华为鸿蒙HarmonyOS 7花粉Beta适配机型公布，含Mate 60、Pura 70等",
-      "summary": "华为公布HarmonyOS 7开发者Beta 1测试适配机型名单，招募时间为6月12日至7月5日，覆盖Mate、Pura、畅享及部分平板产品线，华为终端业务负责人表示正式版将于秋季面向消费者推送。",
-      "publishedAt": "2026-07-01",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/971/387.htm",
-      "subCategory": "操作系统"
-    },
-    {
-      "id": "tech-20260701-009",
-      "title": "实测：Steam Machine加装一条内存，性能最高提升20%",
-      "summary": "Valve的Steam Machine原装仅单条16GB DDR5内存，运行于单通道模式。硬件媒体Gamers Nexus测试发现加装第二条内存启用双通道后，部分应用性能提升可达20%，游戏表现因作品而异。",
-      "publishedAt": "2026-07-01",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/971/386.htm",
-      "subCategory": "消费电子"
-    },
-    {
-      "id": "tech-20260701-010",
-      "title": "全新坦克300官图发布：配备激光雷达，7月6日开启预售",
-      "summary": "长城汽车发布全新坦克300官图，车身尺寸增大至4886×1984×1927mm，轴距3010mm，配备激光雷达并全面转向新能源动力，提供Hi4-T与Hi4-Z版本，官方宣布将于7月6日开启预售。",
-      "publishedAt": "2026-07-01",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/971/385.htm",
-      "subCategory": "智能汽车"
-    },
-    {
-      "id": "tech-20260701-011",
-      "title": "水月雨羽翼Edge2头戴式耳机首销：自适应深感降噪，499元",
-      "summary": "水月雨推出羽翼Edge2头戴式无线耳机，京东首销价499元，搭载40mm动圈单元，支持LHDC-V5无损音频传输，自适应混合降噪对1kHz以下噪声削减达95.5%，续航约50小时。",
-      "publishedAt": "2026-07-01",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/971/384.htm",
-      "subCategory": "消费电子"
     }
   ]
 }
