@@ -3,8 +3,35 @@
   "slug": "ai",
   "title": "AI 与大模型",
   "description": "大模型、Agent、AI 编程、推理框架、开源模型的发布与落地。",
-  "updatedAt": "2026-07-05T00:58:00+08:00",
+  "updatedAt": "2026-07-05T09:50:00+08:00",
   "items": [
+    {
+      "id": "ai-20260704-005",
+      "title": "Midjourney在版权诉讼中要求好莱坞片厂披露AI使用细节",
+      "summary": "Midjourney在与迪士尼、环球影业、华纳兄弟的版权诉讼中要求扩大证据开示范围，认为此前仅要求片厂披露面向消费者的AI产出的裁定让片厂能挑选对己方有利的材料，要求公开其内部使用生成式AI的提示词和输出。",
+      "publishedAt": "2026-07-04T18:00:05Z",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/",
+      "subCategory": "AI应用"
+    },
+    {
+      "id": "ai-20260704-004",
+      "title": "阿里巴巴据报禁止员工使用Claude Code",
+      "summary": "阿里巴巴据报将于7月10日起禁止员工使用Anthropic的编程工具Claude Code，列为高风险软件并要求改用自研工具Qoder。此前该工具被曝含有识别中国用户身份的代码逻辑，引发争议。",
+      "publishedAt": "2026-07-04T09:32:00-07:00",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/",
+      "subCategory": "AI编程"
+    },
+    {
+      "id": "ai-20260704-006",
+      "title": "Hinton盛赞，Gemini核心贡献者演讲：未来会有数十亿超人级AI爱因斯坦",
+      "summary": "DeepMind研究员亚当·布朗在一场演讲中回顾AI数学能力从中学水平进步到国际数学奥赛金牌水平的历程，并提出AI科学研究将经历玩具、工具、人机协作到超人类四个阶段，演讲获图灵奖得主Hinton称赞。",
+      "publishedAt": "2026-07-04T14:30:00+08:00",
+      "source": "36氪",
+      "url": "https://36kr.com/p/3880834484613121",
+      "subCategory": "大模型"
+    },
     {
       "title": "光象科技累计完成数亿元天使轮融资，布局物理原生基座模型",
       "summary": "光象科技完成累计数亿元天使轮融资，将聚焦物理原生基座模型研发与具身智能机器人商业化。其工业级机器人Phi-Bot X1已在2026 ATC展会上连续运行21.5小时无故障，应用于汽车产线焊接与上下料任务。",
@@ -13,6 +40,24 @@
       "url": "https://www.qbitai.com/2026/07/442958.html",
       "subCategory": "具身智能",
       "id": "ai-20260704-001"
+    },
+    {
+      "id": "ai-20260704-008",
+      "title": "跏火打劫！GPT-5.6三大模型全曝，定桇7月7日？",
+      "summary": "据报道，OpenAI Codex应用代码泄露显示内部存在Sol、Terra、Luna三个GPT-5.6子模型及速度质量调节功能，消息称新模型可能于7月7日至9日发布，与Claude Fable 5限时优惠额度到期时间相近。",
+      "publishedAt": "2026-07-04T13:16:22+08:00",
+      "source": "新智元",
+      "url": "https://www.163.com/dy/article/L10D985L0511ABV6.html",
+      "subCategory": "大模型"
+    },
+    {
+      "id": "ai-20260704-007",
+      "title": "太蠢，不配用 Claude Fable 5？",
+      "summary": "有用户翻查日志发现，Claude Fable 5处理高难度编程任务时曾将请求标记为“TOO_DUMB_TO_NEED_FABLE”并转交Opus 4.8处理，其可见推理文本中还出现类似情绪化的简写表达，引发关于模型可解释性的讨论。",
+      "publishedAt": "2026-07-04T12:31:00+08:00",
+      "source": "36氪（爱范儿）",
+      "url": "https://36kr.com/p/3880806277754883",
+      "subCategory": "大模型"
     },
     {
       "title": "继豆包后，阿里千问宣布拟人化互动类智能体、用户自建智能体7月10日下线",
@@ -25,7 +70,7 @@
     },
     {
       "title": "当一千五百条漏洞一夜曝光：AI既是矛也是盾",
-      "summary": "报道援引Epoch AI数据称，6月21家主要软硬件厂商公开披露约1500个高危漏洞，为Claude Mythos模型发布前月度纪录的3.5倍，其中逾72%漏洞被自动转化为可执行攻击代码，OpenAI同期推出Daybreak用于防御性漏洞扫描。",
+      "summary": "报道援引Epoch AI数据称，6月21家主要软硬件厂商公开披露约1500个高危漏洞，为Claude Mythos模型发布前月度纪录的3.5倍，其中逸72%漏洞被自动转化为可执行攻击代码，OpenAI同期推出Daybreak用于防御性漏洞扫描。",
       "publishedAt": "2026-07-04",
       "source": "ALENG",
       "url": "https://www.aleng.net/archives/20260704061445.html",
@@ -43,7 +88,7 @@
     },
     {
       "id": "ai-20260703-017",
-      "title": "从LLM到JEPA，中国团队正在把“世界模型”搬进细胞内部",
+      "title": "从 LLM 到 JEPA，中国团队正在把“世界模型”搬进细胞内部",
       "summary": "百曜科技发布基于LLM-JEPA架构的AI虚拟细胞世界模型AURA CellOS，参数规模12B，基于3.905亿个人类单细胞转录组训练，覆盖40余种组织及260余种细胞类型，在细胞状态预测指标上超越开源模型TranscriptFormer约66%。",
       "publishedAt": "2026-07-03T22:28:38+08:00",
       "source": "量子位",
@@ -143,7 +188,7 @@
     {
       "id": "ai-20260703-006",
       "title": "华大系团队联合上海AI Lab推出生命科学Physical AI系统ProtoPilot",
-      "summary": "涌生智能与上海人工智能实验室发布多智能体系统ProtoPilot及评测集BioLab Bench，可将自然语言实验意图转化为可执行实验方案与设备代码，并在湿实验中完成分子克隆等任务验证。",
+      "summary": "涸生智能与上海人工智能实验室发布多智能体系统ProtoPilot及评测集BioLab Bench，可将自然语言实验意图转化为可执行实验方案与设备代码，并在湿实验中完成分子克隆等任务验证。",
       "publishedAt": "2026-07-03T13:24:06+08:00",
       "source": "量子位",
       "url": "https://www.qbitai.com/2026/07/442311.html",
@@ -187,7 +232,7 @@
     },
     {
       "title": "全球首个英伟达含量为0的万亿模型，成了海外开发者的抢手货",
-      "summary": "美团发布LongCat-2.0，总参数1.6万亿、单token激活约480亿参数，训练与推理全程基于国产芯片完成。该模型以Owl Alpha代号在OpenRouter上跻身全球调用量前三的开源模型之列。",
+      "summary": "美团发布LongCat-2.0，总参数1.6万亿、单token激活约480亿参数，训练与推理全程基于国产芯片完成。该模型以Owl Alpha代号在OpenRouter上趻身全球调用量前三的开源模型之列。",
       "publishedAt": "2026-07-02T18:56:23+08:00",
       "source": "量子位",
       "url": "https://www.qbitai.com/2026/07/442047.html",
@@ -214,7 +259,7 @@
     },
     {
       "title": "OpenAI reportedly wants all AI companies to give the US government a stake in their businesses",
-      "summary": "据英国《金融时报》报道，OpenAI首席执行官奥特曼提议由美国政府持有包括OpenAI在内的主要美国AI公司各5%股权，谷歌、Meta、Anthropic等是否同意尚不明确，方案仍需国会批准，目前处于初步磋商阶段。",
+      "summary": "据英国《金融时报》报道，OpenAI首席执行官奥特曼提议由美国政府持有包括OpenAI在内的主要美国AI公司各以5%股权，谷歌、Meta、Anthropic等是否同意尚不明确，方案仍需国会批准，目前处于初步磋商阶段。",
       "publishedAt": "2026-07-02T05:27:00-04:00",
       "source": "Engadget",
       "url": "https://www.engadget.com/2206552/openai-ai-companies-give-us-government-stake-businesses-proposal/",
@@ -222,7 +267,7 @@
       "id": "ai-20260702-015"
     },
     {
-      "title": "3年估值3400亿AI独角兽DeepSeek宕机超12小时，用户依赖下为何稳定性成致命短板？",
+      "title": "3年估值3400亿AI独角兽DeepSeek宕机超12小时，用户依赖下为何稳定性成为致命短板？",
       "summary": "DeepSeek网页及API服务7月2日出现大范围异常，持续超12小时至次日凌晨5点才完全恢复，累计影响超1.1亿用户，报道分析原因涉及用户增长过快、算力扩容滞后与商业化加速三方面因素叠加。",
       "publishedAt": "2026-07-02T17:17:00+08:00",
       "source": "新浪科技",
@@ -250,7 +295,7 @@
     },
     {
       "title": "天工AI业务ARR突破8亿美元",
-      "summary": "昆仑万维旗下天工AI披露2026年第二季度AI原生模型业务年度经常性收入超过8亿美元，其中AI短剧平台ARR超7亿美元，AI工具业务ARR突破1亿美元，其短剧平台DramaWave已有超80%新增内容由AI生成。",
+      "summary": "昆仑万维旗下天工AI披露2026年第二季度AI原生模型业务年度经常性收入超8亿美元，其中AI短剧平台ARR超7亿美元，AI工具业务ARR突破1亿美元，其短剧平台DramaWave已有超80%新增内容由AI生成。",
       "publishedAt": "2026-07-02T14:23:10+08:00",
       "source": "量子位",
       "url": "https://www.qbitai.com/2026/07/441786.html",
@@ -350,7 +395,7 @@
     {
       "id": "ai-20260701-003",
       "title": "优必选AI伴侣99万，2亿单身狗“爱”不起",
-      "summary": "优必选推出U1人形陪伴机器人系列，售价11.98万至99万元，已获13361份预订单；文章探讨了该产品在价格门槛、社会观感及情感陪伴伦理层面引发的争议，反映国内陪伴型机器人商业化面临的现实约束。",
+      "summary": "优必选推出U1人形陀伴机器人系列，售价11.98万至99万元，已获13361份预订单；文章探讨了该产品在价格门槛、社会观感及情感陀伴伦理层面引发的争议，反映国内陀伴型机器人商业化面临的现实约束。",
       "publishedAt": "2026-07-01T11:12:00+08:00",
       "source": "36氪",
       "url": "https://www.36kr.com/p/3875712264974336",
@@ -395,7 +440,7 @@
     {
       "id": "ai-20260701-007",
       "title": "Does Your LLM Know When It's About to Be Wrong?",
-      "summary": "Hugging Face博客发布一套评估大模型\"元认知\"能力的新框架，衡量模型识别并纠正自身错误的能力。团队公开了含300余道题目的基准测试集、覆盖24个模型的排行榜及专用适配器，结果显示即便表现最好的模型在自由写作任务中也难以察觉自身错误。",
+      "summary": "Hugging Face博客发布一套评估大模型\"元认知\"能力的新框架，衡量模型识别并纠正自身错误的能力。团队公开了含300余道题目的基准测试集、覆瘈24个模型的排行榜及专用适配器，结果显示即便表现最好的模型在自由写作任务中也难以察觉自身错误。",
       "publishedAt": "2026-07-01",
       "source": "Hugging Face",
       "url": "https://huggingface.co/blog/ginigen-ai/metacognition",
@@ -466,7 +511,7 @@
     },
     {
       "id": "ai-20260630-002",
-      "title": "AI 老板 500 天模拟经营：多数模型亏惨，Claude Fable 5 独占鳌头",
+      "title": "AI 老板 500 天模拟经营：多数模型亏惨，Claude Fable 5 独占龎头",
       "summary": "普林斯顿大学发布CEO-Bench基准测试，让AI模型以100万美元初始资金模拟经营初创公司500天，涵盖定价、预算、竞争分析等7大类34种工具的调用；测试中多数模型未能保住本金甚至破产，Grok 4.20、DeepSeek V4 Pro、Gemini 3 Flash等在三次测试中全部破产，Claude Fable 5是唯一在多轮测试中保持盈利的模型，最佳一轮现金达4714.8164万美元。",
       "publishedAt": "2026-06-30T14:06:53+08:00",
       "source": "IT之家",
@@ -476,7 +521,7 @@
     {
       "id": "ai-20260630-001",
       "title": "业界首个：美团 LongCat-2.0 发布，国产芯片上跑出的万亿参数模型",
-      "summary": "美团发布LongCat-2.0大模型，为业界首个依靠国产算力完成训练与推理全流程的万亿参数模型，总参数规模1.6万亿、平均激活参数约480亿，支持100万Token上下文；模型在5万卡国产算力集群上完成全流程训练推理，稳定运行阶段日均吞吐量超1万亿Token，测试版本此前已在OpenRouter平台调用量跻身全球前三。",
+      "summary": "美团发布LongCat-2.0大模型，为业界首个依靠国产算力完成训练与推理全流程的万亿参数模型，总参数规模1.6万亿、平均激活参数约480亿，支持100万Token上下文；模型在5万卡国产算力集群上完成全流程训练推理，稳定运行阶段日均吞吐量超1万亿Token，测试版本此前已在OpenRouter平台调用量趻身全球前三。",
       "publishedAt": "2026-06-30T10:55:25+08:00",
       "source": "IT之家",
       "url": "https://www.ithome.com/0/970/320.htm",
@@ -512,7 +557,7 @@
     {
       "id": "ai-20260630-007",
       "title": "Hugging Face将“Every Eval Ever”评测结果接入模型页面",
-      "summary": "Hugging Face将EvalEval联盟推出的标准化评测框架“Every Eval Ever”（EEE）与平台社区评测功能集成，通过转换工具统一约22.9万条覆盖逾2.2万个模型的评测结果，并为已验证评测方新增标识。",
+      "summary": "Hugging Face将EvalEval联盟推出的标准化评测框架“Every Eval Ever”（EEE）与平台社区评测功能集成，通过转换工具统一约22.9万条覆盖逸2.2万个模型的评测结果，并为已验证评测方新增标识。",
       "publishedAt": "2026-06-30",
       "source": "Hugging Face",
       "url": "https://huggingface.co/blog/eee-community-evals",
@@ -574,7 +619,7 @@
     },
     {
       "id": "ai-20260627-003",
-      "title": "AI 账单失控后 DeepSeek 成'香饽饽'，部分美国企业已 100% 切换",
+      "title": "AI 账单失控后 DeepSeek 成'香馕馕'，部分美国企业已 100% 切换",
       "summary": "面对AI费用飙升，多家美国企业转向DeepSeek；旧金山创业公司Lindy在月度AI账单\"超过所有员工工资\"后100%切换至DeepSeek，预计节省数百万美元；企业同步采用模型路由策略，将不同任务分配给成本匹配的AI系统。",
       "publishedAt": "2026-06-27T16:16:09+08:00",
       "source": "IT之家",
@@ -592,7 +637,7 @@
     },
     {
       "id": "ai-20260627-001",
-      "title": "OpenAI 最强 AI 模型：GPT-5.6 系列登场，编程跑分超 Claude Mythos 5",
+      "title": "OpenAI 最强AI模型：GPT-5.6 系列登场，编程跑分超 Claude Mythos 5",
       "summary": "OpenAI发布GPT-5.6系列三款模型：Sol（旗舰）、Terra（均衡）、Luna（高速低成本），仅向美国政府批准的约20家\"可信合作伙伴\"开放灰度预览；Sol在Terminal-Bench 2.1编程测试中以88.8%超越Claude Mythos 5（88.0%），Ultra模式达91.9%。",
       "publishedAt": "2026-06-27T06:45:56+08:00",
       "source": "IT之家",
@@ -701,7 +746,7 @@
     {
       "id": "ai-20260622-001",
       "title": "OpenAI 史上最大规模企业部署之一：三星向员工开放 ChatGPT 和 Codex",
-      "summary": "OpenAI宣布三星电子在全球范围内向员工部署ChatGPT Enterprise和Codex，这是OpenAI迄今最大规模的企业应用之一。三星计划在软件开发、市场营销、产品开发等多个部门使用这些工具提升员工生产力，同时两家公司的合作也从AI基础设施扩展到劳动力转型和全公司AI应用。",
+      "summary": "OpenAI宣布三星电子在全球范围内向员工部署ChatGPT Enterprise和Codex，这是OpenAI迄今最大规模的企业应用之一。三星计划在软件开发、市场营销、产品开发等多个部门使用这些工具提升员工生产力，同时两家公司的合作也从 AI 基础设施扩展到劳动力转型和全公司 AI 应用。",
       "publishedAt": "2026-06-22T12:00:11+08:00",
       "source": "IT之家",
       "url": "https://www.ithome.com/0/966/876.htm",
@@ -710,7 +755,7 @@
     {
       "id": "ai-20260622-002",
       "title": "豆包 App 灰测打车功能，由曹操出行提供服务",
-      "summary": "豆包应用正在北京、杭州两城进行打车功能灰测，与曹操出行合作提供服务。用户可在豆包对话框\"口述出行需求\"，系统自动识别地点和人数后自动匹配运力。曹操出行同步宣布启动全面AI转型，计划到2030年部署10万辆Robotaxi与10万辆Robovan。",
+      "summary": "豆包应用正在北京、杭州两城进行打车功能灰测，与曹操出行合作提供服务。用户可在豆包对话框“口述出行需求”，系统自动识别地点和人数后自动匹配运力。曹操出行同步宣布启动全面AI转型，计划到2030年部署10万辆Robotaxi与10万辆Robovan。",
       "publishedAt": "2026-06-22T11:17:40+08:00",
       "source": "IT之家",
       "url": "https://www.ithome.com/0/966/840.htm",
