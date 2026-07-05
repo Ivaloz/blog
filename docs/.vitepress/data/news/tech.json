@@ -3,8 +3,44 @@
   "slug": "tech",
   "title": "科技新闻",
   "description": "前沿科技、互联网产品、芯片硬件、开源生态。",
-  "updatedAt": "2026-07-05T09:50:00+08:00",
+  "updatedAt": "2026-07-05T17:00:00+08:00",
   "items": [
+    {
+      "id": "tech-20260705-012",
+      "title": "索尼 PlayStation 放弃实体光盘，游戏零售与二手市场迎来巨变",
+      "summary": "索尼宣布PlayStation实体游戏光盘将于2028年1月起逐步停产，全部新作转为数字发行，目前实体光盘销量仅占PS游戏软件总销量的5%，二手交易与线下零售将受影响。",
+      "publishedAt": "2026-07-05T09:32:14+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/972/706.htm",
+      "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260705-011",
+      "title": "荣耀手表 5 Pro 新版本计划月底前推送，官方产品维护称表端 MagicOS 升级正在规划中",
+      "summary": "荣耀官方产品维护团队透露，荣耀手表5 Pro新版本固件计划于7月底前推送，同时手表端MagicOS系统升级也在规划中，具体新增功能暂未公布。",
+      "publishedAt": "2026-07-05T09:29:14+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/972/705.htm",
+      "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260705-010",
+      "title": "全新一代问界 M9 开启交付 3 周突破 1 万台，华为余承东称创 50 万级交付最快破万纪录",
+      "summary": "华为鸿蒙智行方面表示，全新问界M9开启交付三周内突破1万台，创下50万元级车型交付破万速度纪录，该车起售价47.98万元，搭载华为ADS 5智能驾驶系统。",
+      "publishedAt": "2026-07-05T09:03:46+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/972/700.htm",
+      "subCategory": "智能汽车"
+    },
+    {
+      "id": "tech-20260705-009",
+      "title": "Linux 基金会承认 Linux Kernel 官网内核文件曾被删除，主要原因是添加主镜像站时出现配置错误",
+      "summary": "Linux基金会证实，因新增主镜像站时出现配置错误，Linux Kernel官网自7月2日起部分内核文件曾返回404/403错误无法下载，目前已完成修复并恢复正常下载。",
+      "publishedAt": "2026-07-05T08:49:50+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/972/699.htm",
+      "subCategory": "开源生态"
+    },
     {
       "id": "tech-20260705-008",
       "title": "《CINDER CITY》更正初步推荐配置内存要求，然最低仍需 32GB RAM",
@@ -94,6 +130,15 @@
       "source": "The Verge",
       "url": "https://www.theverge.com/science/961459/nasa-emergency-save-swift-observatory-katalyst-space-technologies",
       "subCategory": "航空航天"
+    },
+    {
+      "id": "tech-20260704-022",
+      "title": "Tesla expands robotaxi service to small section of Miami",
+      "summary": "特斯拉Robotaxi无人驾驶出租车服务已扩展至迈阿密西区一小片区域，车辆不配备安全员，此前已在得克萨斯州达拉斯、休斯顿等地推出类似服务。",
+      "publishedAt": "2026-07-04T13:30:00-04:00",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2207974/tesla-expands-robotaxi-service-to-small-section-of-miami/",
+      "subCategory": "智能汽车"
     },
     {
       "id": "tech-20260704-019",
@@ -679,168 +724,6 @@
       "url": "https://github.blog/changelog/2026-07-01-secret-scanning-public-monitoring-for-enterprises/",
       "subCategory": "开发者工具",
       "id": "tech-20260701-021"
-    },
-    {
-      "id": "tech-20260702-001",
-      "title": "苹果被曝正洽谈采购长鑫、长江存储芯片，供应中国市场设备",
-      "summary": "据彭博社报道，苹果正与长鑫存储、长江存储洽谈采购存储芯片协议，用于在中国销售的设备，以应对AI数据中心扩张导致的全球存储芯片短缺。两家中国厂商均在美国国防部实体清单上，谈判尚未达成最终结果，苹果CEO库克已就此与美国财长沟通。",
-      "publishedAt": "2026-07-02T08:32:36+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/971/417.htm",
-      "subCategory": "芯片硬件"
-    },
-    {
-      "id": "tech-20260702-002",
-      "title": "菲亚特推出纯电小车Multiplina：复古设计、四座布局",
-      "summary": "菲亚特发布纯电小车Multiplina，参考1956年菲亚特600 Multipla外观设计，配备可折叠车窗与帆布车顶，最高时速89公里，电池容量超过5.4千瓦时，预计起售价约合人民币12.6万元，竞品包括达契亚Spring和零跑T03。",
-      "publishedAt": "2026-07-02T08:32:20+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/971/416.htm",
-      "subCategory": "智能汽车"
-    },
-    {
-      "id": "tech-20260702-003",
-      "title": "外媒初探微软Win11 WSL容器：无需Docker，原生构建、运行和管理Linux容器",
-      "summary": "外媒测试微软Windows 11的WSL容器公开预览功能，可在无需Docker情况下原生构建、运行和管理Linux容器，包含命令行工具wslc.exe和支持C/C++/C#的容器API，每个应用运行在独立虚拟机中，暂不支持编排和图形化面板。",
-      "publishedAt": "2026-07-02T08:27:46+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/971/415.htm",
-      "subCategory": "开发者工具"
-    },
-    {
-      "id": "tech-20260702-004",
-      "title": "我国成功发射海洋二号E卫星",
-      "summary": "我国在酒泉卫星发射中心用长征四号乙运载火箭成功发射海洋二号E卫星，卫星顺利进入预定轨道，任务发射取得成功，这是长征系列运载火箭第654次飞行。该卫星将加入海洋二号系列星座，用于海洋动力环境监测、灾害预警和全球船舶识别等。",
-      "publishedAt": "2026-07-02T08:16:57+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/971/413.htm",
-      "subCategory": "航空航天"
-    },
-    {
-      "id": "tech-20260702-005",
-      "title": "现代起亚发布车内紫外线消毒技术，30秒消灧99.9%肺炎致病菌",
-      "summary": "现代和起亚发布车内紫外线消毒技术Plasma Care UVC，利用200至230纳米波长远紫外线，据首尔大学测试可在30秒内消灧99.9%肺炎致病菌，30分钟内减少96.8%空气传播病毒，该技术仅对光线直射区域有效，目前仍在测试阶段。",
-      "publishedAt": "2026-07-02T08:07:58+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/971/412.htm",
-      "subCategory": "智能汽车"
-    },
-    {
-      "id": "tech-20260702-006",
-      "title": "苹果Safari技术预览版247引入MCP服务，AI智能体加速网页开发和调试",
-      "summary": "苹果在Safari技术预览版247中引入MCP服务器支持，使兼容的编程类智能体能够连接浏览器信息，用于检查网页、查看控制台日志与网络请求、截图并与页面元素交互，官方称该功能可用于网站调试、兼容性排查、性能评估和无障碍审查等场景。",
-      "publishedAt": "2026-07-02T08:04:23+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/971/411.htm",
-      "subCategory": "开发者工具"
-    },
-    {
-      "id": "tech-20260702-007",
-      "title": "苹果iPad、MacBook涨价后消费者被要求补差价？多家授权店承诺按原预定价结算",
-      "summary": "苹果6月25日起上调Mac和iPad全球售价，理由是AI数据中心扩张带动存储需求激增，中国区涨幅16%至25%。涨价后部分预订用户被授权门店要求补差价，苹果客服称涨价前完成付款订单按原价执行，授权门店定价权独立，部分拒绝按原价发货。",
-      "publishedAt": "2026-07-02T08:03:30+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/971/410.htm",
-      "subCategory": "消费电子"
-    },
-    {
-      "title": "Meet Brain: The AI system behind Azure reliability",
-      "summary": "微软发布内部AIOps系统Brain，作为Azure Resource Graph之上的智能层，整合平台遥测数据、机器学习模型与服务依赖关系，构建实时云健康数字孪生，可自动触发部署暂停和客户通知等操作。",
-      "publishedAt": "2026-07-02",
-      "source": "Microsoft Azure Blog",
-      "url": "https://azure.microsoft.com/en-us/blog/meet-brain-the-ai-system-behind-azure-reliability/",
-      "subCategory": "云计算",
-      "id": "tech-20260702-032"
-    },
-    {
-      "title": "Amazon EC2 Dedicated Hosts now support AMD SEV-SNP",
-      "summary": "AWS宣布Amazon EC2 Dedicated Hosts支持AMD SEV-SNP机密计算技术，客户可在专属物理服务器上运行机密计算工作负载，该功能已覆盖所有提供AMD实例的AWS商业区域。",
-      "publishedAt": "2026-07-02",
-      "source": "AWS What's New",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/ec2-amd-sev-snp-dedicated-hosts",
-      "subCategory": "云计算",
-      "id": "tech-20260702-033"
-    },
-    {
-      "title": "Amazon EC2 X8i instances are now available in additional regions",
-      "summary": "AWS宣布Amazon EC2 X8i实例扩展至亚太首尔、马来西亚和东京三个新区域，该实例采用定制英特尔至强6处理器，面向SAP HANA等内存密集型应用，共提供14种规格及多种购买方式。",
-      "publishedAt": "2026-07-02",
-      "source": "AWS What's New",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-x8i-instances-ICN-KUL-NRT-region/",
-      "subCategory": "云计算",
-      "id": "tech-20260702-034"
-    },
-    {
-      "title": "Issue fields are now generally available",
-      "summary": "GitHub的issue fields功能现已面向Free、Team、Enterprise等所有计划组织正式开放，后续将随Enterprise Server 3.23发布。该功能自五月公开预览以来已被超过四万个组织采用，可为issue添加优先级、工作量等结构化字段，并支持在列表中直接查看字段值。",
-      "publishedAt": "2026-07-02",
-      "source": "GitHub Changelog",
-      "url": "https://github.blog/changelog/2026-07-02-issue-fields-are-now-generally-available/",
-      "subCategory": "开发者工具",
-      "id": "tech-20260702-035"
-    },
-    {
-      "title": "How GitHub used secret scanning to reach inbox zero",
-      "summary": "GitHub安全团队披露，其在旗下超过一万五千个仓库中曾发现两万余条密钥泄露告警，随后通过分阶段启用密钥扫描、优先级排查、验证凭据有效性并明确责任归属，历时九个月将未处理告警清零，并分享了具体实践方法。",
-      "publishedAt": "2026-07-02",
-      "source": "GitHub Blog",
-      "url": "https://github.blog/security/application-security/how-github-used-secret-scanning-to-reach-inbox-zero/",
-      "subCategory": "安全漏洞",
-      "id": "tech-20260702-036"
-    },
-    {
-      "id": "tech-20260702-008",
-      "title": "华为联合上海电信落地5G-A×AI大上行样板点：实测峰值速率1Gbps",
-      "summary": "华为联合上海电信在西岸美术馆落地5G-A×AI大上行样板点，实测上行峰值速率达1Gbps、下行峰值速率近4Gbps，现场展示AI眼镜高清内容云端处理等应用，计划年底前实现中心城区重点区域20Mbps上行连续覆盖。",
-      "publishedAt": "2026-07-02T07:54:04+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/971/407.htm",
-      "subCategory": "网络基础设施"
-    },
-    {
-      "id": "tech-20260702-009",
-      "title": "微软XBOX新功能曝光：实体游戏光盘可转换为对应数字版授权",
-      "summary": "微软测试名为Disc2Digital的Xbox新功能，允许玩家将实体游戏光盘转换为对应数字版权限，转换后可移除光盘继续游玩，Game Pass订阅者可云串流，权限与光盘绑定并可随光盘转让，暂不支持Xbox 360及初代Xbox游戏。",
-      "publishedAt": "2026-07-02T07:22:36+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/971/399.htm",
-      "subCategory": "消费电子"
-    },
-    {
-      "id": "tech-20260702-010",
-      "title": "谷歌发布Android 17 QPR1 Beta 6，达成平台稳定性里程碑",
-      "summary": "谷歌向Pixel设备推送Android 17 QPR1 Beta 6，达成平台稳定性里程碑，意味着开发者API已锁定，同时修复拼写检查语言选择、时钟音量按钮、媒体轮播动画等问题，正式版预计9月推出。",
-      "publishedAt": "2026-07-02T07:16:30+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/971/398.htm",
-      "subCategory": "操作系统"
-    },
-    {
-      "id": "tech-20260702-011",
-      "title": "苹果Hide My Email被曝安全漏洞：测试中100%可溯源真实邮箱",
-      "summary": "安全研究员测试发现，苹果iCloud+的Hide My Email隐藏邮件功能存在漏洞，可在约五分钟内以100%成功率将转发地址还原为用户真实Apple ID邮箱。该漏洞2025年6月已报告苹果，苹果曾称已修复，但独立验证显示漏洞依然存在。",
-      "publishedAt": "2026-07-02T06:38:42+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/971/393.htm",
-      "subCategory": "安全漏洞"
-    },
-    {
-      "title": "FortiBleed credential-theft campaign linked to Lynx ransomware",
-      "summary": "安全机构SOCRadar发现FortiBleed窃密行动与INC、Lynx勒索软件团伙存在关联，该行动实际波及超43万台FortiGate防火墙，约1.9万台被植入嗅探工具窃取VPN凭证。",
-      "publishedAt": "2026-07-01T17:37:00-04:00",
-      "source": "Bleeping Computer",
-      "url": "https://www.bleepingcomputer.com/news/security/fortibleed-credential-theft-campaign-linked-to-lynx-ransomware/",
-      "subCategory": "安全漏洞",
-      "id": "tech-20260701-019"
-    },
-    {
-      "title": "Kubota says hackers had month-long access to network systems",
-      "summary": "日本久保田北美公司披露黑客曾对其网络系统进行长达一个月的未授权访问，时间为3月16日至4月20日，涉及员工及家属姓名、社保号、出生日期等信息，公司自6月30日起通知受影响人员。",
-      "publishedAt": "2026-07-01T17:09:00-04:00",
-      "source": "Bleeping Computer",
-      "url": "https://www.bleepingcomputer.com/news/security/kubota-says-hackers-had-month-long-access-to-network-systems/",
-      "subCategory": "安全漏洞",
-      "id": "tech-20260701-020"
     }
   ]
 }

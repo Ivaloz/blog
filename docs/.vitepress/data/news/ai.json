@@ -3,8 +3,26 @@
   "slug": "ai",
   "title": "AI 与大模型",
   "description": "大模型、Agent、AI 编程、推理框架、开源模型的发布与落地。",
-  "updatedAt": "2026-07-05T09:50:00+08:00",
+  "updatedAt": "2026-07-05T17:00:00+08:00",
   "items": [
+    {
+      "id": "ai-20260705-001",
+      "title": "李飞飞团队发布SimFoundry：单段真实视频生成可训练机器人仿真环境",
+      "summary": "李飞飞团队联合英伟达GEAR、佐治亚理工推出Real2Sim系统SimFoundry，仅需一段真实视频即可生成可交互仿真环境，仿真与真实机器人表现相关系数达0.911，结合数字表亲变体可将真实任务成功率提升17%至40%。",
+      "publishedAt": "2026-07-05T14:59:11+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/07/443066.html",
+      "subCategory": "论文进展"
+    },
+    {
+      "id": "ai-20260705-002",
+      "title": "LeCun团队发布AdaJEPA：让世界模型具备持续学习能力",
+      "summary": "纽约大学与LeCun初创公司AMI提出AdaJEPA框架，通过测试时自适应让世界模型在环境交互中实时更新编码器与预测器参数，在PushObj和PointMaze基准上显著提升未见场景规划成功率，在线更新仅增加0.01至0.03秒延迟。",
+      "publishedAt": "2026-07-05T14:52:17+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/07/442964.html",
+      "subCategory": "论文进展"
+    },
     {
       "id": "ai-20260704-005",
       "title": "Midjourney在版权诉讼中要求好莱坞片厂披露AI使用细节",
@@ -22,6 +40,24 @@
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/",
       "subCategory": "AI编程"
+    },
+    {
+      "id": "ai-20260704-010",
+      "title": "宇树科技陈立：具身智能\"ChatGPT时刻\"需达成\"两个80%\"",
+      "summary": "在亚布力企业家论坛上，宇树科技联合创始人陈立提出具身智能突破的核心标准——在80%陌生场景中完成约80%任务，预计B2B场景2至5年内实现，消费级场景需8至10年以上。",
+      "publishedAt": "2026-07-04T16:42:00+08:00",
+      "source": "财联社",
+      "url": "https://www.cls.cn/detail/2417131",
+      "subCategory": "具身智能"
+    },
+    {
+      "id": "ai-20260704-009",
+      "title": "微软计划8月将消费级与企业级Copilot合并为统一应用",
+      "summary": "微软内部备忘录显示，公司计划8月将消费者与企业版Copilot整合为统一应用，砍掉Podcasts和Labs等功能，新增付费Autopilot智能体层，以应对目前仅约4.5%付费转化率的困境。",
+      "publishedAt": "2026-07-04T10:22:00+02:00",
+      "source": "Winbuzzer",
+      "url": "https://winbuzzer.com/2026/07/04/microsoft-plans-copilot-app-merge-to-prove-its-value-xcxwbn/",
+      "subCategory": "Agent"
     },
     {
       "id": "ai-20260704-006",
@@ -330,6 +366,15 @@
       "id": "ai-20260702-003"
     },
     {
+      "title": "Copilot vision is generally available",
+      "summary": "GitHub Copilot视觉功能正式面向所有订阅层级开放，用户可在聊天中直接上传图片和PDF文件，让Copilot结合代码理解视觉内容，功能覆盖VS Code、github.com和CLI，无需管理员开启策略。",
+      "publishedAt": "2026-07-01T11:39:17-07:00",
+      "source": "GitHub Changelog",
+      "url": "https://github.blog/changelog/2026-07-01-copilot-vision-is-generally-available/",
+      "subCategory": "AI编程",
+      "id": "ai-20260701-015"
+    },
+    {
       "title": "More details on Fable 5's cyber safeguards and our jailbreak framework",
       "summary": "Anthropic公布Claude Fable 5网络安全防护细节，将使用场景分为禁止、高风险双用、低风险双用与良性四级，并联合亚马逊、微软、谷歌等提出CJS-0至CJS-4越狱严重程度评分框架，用于统一评估风险。",
       "publishedAt": "2026-07-02",
@@ -355,15 +400,6 @@
       "url": "https://github.blog/changelog/2026-07-02-cost-centers-now-support-included-usage-caps",
       "subCategory": "AI编程",
       "id": "ai-20260702-010"
-    },
-    {
-      "title": "Copilot vision is generally available",
-      "summary": "GitHub Copilot视觉功能正式面向所有订阅层级开放，用户可在聊天中直接上传图片和PDF文件，让Copilot结合代码理解视觉内容，功能覆盖VS Code、github.com和CLI，无需管理员开启策略。",
-      "publishedAt": "2026-07-01T11:39:17-07:00",
-      "source": "GitHub Changelog",
-      "url": "https://github.blog/changelog/2026-07-01-copilot-vision-is-generally-available/",
-      "subCategory": "AI编程",
-      "id": "ai-20260701-015"
     },
     {
       "id": "ai-20260701-014",
@@ -528,6 +564,15 @@
       "subCategory": "大模型"
     },
     {
+      "id": "ai-20260630-006",
+      "title": "谷歌Gemini个性化AI生图功能面向全美免费用户开放",
+      "summary": "谷歌将Nano Banana驱动的个性化图像生成功能扩展至美国全体符合条件的免费版Gemini用户（此前仅限Plus/Pro/Ultra付费用户），该功能可结合已连接的Gmail、相册、YouTube及搜索数据自动生成个性化图像。",
+      "publishedAt": "2026-06-30T07:35:52+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/970/251.htm",
+      "subCategory": "多模态"
+    },
+    {
       "id": "ai-20260630-004",
       "title": "Anthropic发布Claude Sonnet 5，定位“迄今最具agentic能力的Sonnet模型”",
       "summary": "Anthropic推出Claude Sonnet 5，官方称其为迄今最具agentic能力的Sonnet系列模型，性能接近Opus 4.8但成本更低；截至8月31日提供每百万Token输入2美元、输出10美元的推介价，此后恢复至3美元/15美元标准定价。",
@@ -564,13 +609,13 @@
       "subCategory": "AI评测"
     },
     {
-      "id": "ai-20260630-006",
-      "title": "谷歌Gemini个性化AI生图功能面向全美免费用户开放",
-      "summary": "谷歌将Nano Banana驱动的个性化图像生成功能扩展至美国全体符合条件的免费版Gemini用户（此前仅限Plus/Pro/Ultra付费用户），该功能可结合已连接的Gmail、相册、YouTube及搜索数据自动生成个性化图像。",
-      "publishedAt": "2026-06-30T07:35:52+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/970/251.htm",
-      "subCategory": "多模态"
+      "id": "ai-20260629-001",
+      "title": "马斯克宣布Grok 4.5开启SpaceX与特斯拉内部私测，性能或超越Opus",
+      "summary": "马斯克在X平台宣布Grok 4.5已进入SpaceX和特斯拉内部私测阶段，其测试结果显示性能或超越Claude Opus系列；xAI计划在内部测试趋于稳定后优先向SuperGrok Heavy订阅用户推送，Grok 4.5定位于当前Grok 4与更高阶版本之间的过渡升级。",
+      "publishedAt": "2026-06-29T07:49:00+08:00",
+      "source": "36氪",
+      "url": "https://36kr.com/newsflashes/3873481579746561",
+      "subCategory": "大模型"
     },
     {
       "id": "ai-20260629-002",
@@ -598,15 +643,6 @@
       "source": "arXiv",
       "url": "https://arxiv.org/abs/2606.30045",
       "subCategory": "论文进展"
-    },
-    {
-      "id": "ai-20260629-001",
-      "title": "马斯克宣布Grok 4.5开启SpaceX与特斯拉内部私测，性能或超越Opus",
-      "summary": "马斯克在X平台宣布Grok 4.5已进入SpaceX和特斯拉内部私测阶段，其测试结果显示性能或超越Claude Opus系列；xAI计划在内部测试趋于稳定后优先向SuperGrok Heavy订阅用户推送，Grok 4.5定位于当前Grok 4与更高阶版本之间的过渡升级。",
-      "publishedAt": "2026-06-29T07:49:00+08:00",
-      "source": "36氪",
-      "url": "https://36kr.com/newsflashes/3873481579746561",
-      "subCategory": "大模型"
     },
     {
       "id": "ai-20260628-001",
@@ -688,87 +724,6 @@
       "source": "36氪",
       "url": "https://36kr.com/newsflashes/3868316392871170",
       "subCategory": "AI应用"
-    },
-    {
-      "id": "ai-20260625-003",
-      "title": "消息称商汤科技正研发新图像模型：代号 U1 Pro，内部称对标 OpenAI",
-      "summary": "消息称商汤科技正在内部研发代号U1 Pro的新图像生成大模型，内部定标对齐OpenAI图像生成能力，是商汤在多模态AI领域深化布局的最新举措。",
-      "publishedAt": "2026-06-25T16:02:00+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/968/517.htm",
-      "subCategory": "多模态"
-    },
-    {
-      "id": "ai-20260625-004",
-      "title": "千问吴嘉：继续提供好的 AI 产品，帮助考生公平获取信息",
-      "summary": "阿里千问产品负责人吴嘉表示，千问将持续打造优质AI产品，在高考志愿填报等关键场景帮助考生公平获取信息，发挥AI工具在教育领域的普惠价值。",
-      "publishedAt": "2026-06-25T15:45:00+08:00",
-      "source": "36氪",
-      "url": "https://36kr.com/newsflashes/3868287473013769",
-      "subCategory": "AI应用"
-    },
-    {
-      "id": "ai-20260625-001",
-      "title": "GitHub 取消 Copilot Free 与 Student 计划的手动模型选择功能，仅能由系统自动分配",
-      "summary": "GitHub宣布取消Copilot Free与Student计划用户手动选择AI模型的功能，用户将仅能由系统根据任务类型自动分配最合适模型，以提升整体服务质量与成本效率。",
-      "publishedAt": "2026-06-25T15:26:09+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/968/475.htm",
-      "subCategory": "AI编程"
-    },
-    {
-      "id": "ai-20260625-006",
-      "title": "消息称谷歌 Gemini 3.5 Pro 发布时间推迟至 7 月，旨在优化模型性能",
-      "summary": "谷歌已将下一代前沿人工智能模型Gemini 3.5 Pro的发布时间从原定6月推迟至7月，以便收集早期测试用户反馈并优化模型性能，该模型预计在长文本任务和智能体应用方面实现显著提升。",
-      "publishedAt": "2026-06-25T06:45:09+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/968/222.htm",
-      "subCategory": "大模型"
-    },
-    {
-      "id": "ai-20260623-002",
-      "title": "超 Claude Mythos 5 成绩：OpenAI 最强\"抓虫 AI\"GPT-5.5-Cyber 刷新 CyberGym 纪录",
-      "summary": "OpenAI宣布推出专项网络安全模型GPT-5.5-Cyber，在CyberGym基准测试中取得85.6%分数，超越Claude Mythos 5（83.8%）和GPT-5.5（81.8%）；该模型在漏洞发现与利用代码生成方面能力显著增强，是OpenAI Daybreak网络安全计划的一部分。",
-      "publishedAt": "2026-06-23T15:17:57+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/967/463.htm",
-      "subCategory": "大模型"
-    },
-    {
-      "id": "ai-20260623-001",
-      "title": "字节豆包 Seed 2.1 Pro 和 Turbo 深度思考模型发布，三大能力比肩 GPT-5.5",
-      "summary": "字节跳动发布豆包Seed 2.1 Pro和Turbo深度思考模型，围绕代码工程、智能体任务执行、多模态理解三大方向全面升级，在全球权威评测中可与GPT-5.5、Claude Opus 4.7等顶尖模型媲美；火山引擎同步预告视频生成模型Seedance 2.5将于7月推出。",
-      "publishedAt": "2026-06-23T09:57:41+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/967/314.htm",
-      "subCategory": "大模型"
-    },
-    {
-      "id": "ai-20260622-001",
-      "title": "OpenAI 史上最大规模企业部署之一：三星向员工开放 ChatGPT 和 Codex",
-      "summary": "OpenAI宣布三星电子在全球范围内向员工部署ChatGPT Enterprise和Codex，这是OpenAI迄今最大规模的企业应用之一。三星计划在软件开发、市场营销、产品开发等多个部门使用这些工具提升员工生产力，同时两家公司的合作也从 AI 基础设施扩展到劳动力转型和全公司 AI 应用。",
-      "publishedAt": "2026-06-22T12:00:11+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/966/876.htm",
-      "subCategory": "AI应用"
-    },
-    {
-      "id": "ai-20260622-002",
-      "title": "豆包 App 灰测打车功能，由曹操出行提供服务",
-      "summary": "豆包应用正在北京、杭州两城进行打车功能灰测，与曹操出行合作提供服务。用户可在豆包对话框“口述出行需求”，系统自动识别地点和人数后自动匹配运力。曹操出行同步宣布启动全面AI转型，计划到2030年部署10万辆Robotaxi与10万辆Robovan。",
-      "publishedAt": "2026-06-22T11:17:40+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/966/840.htm",
-      "subCategory": "AI应用"
-    },
-    {
-      "id": "ai-20260621-007",
-      "title": "Anthropic迎利好消息！特朗普：不构成国家安全威胁",
-      "summary": "美国总统特朗普表示不再将Anthropic视为国家安全威胁，称CEO达里奥·阿莫代伊「做法非常负责任」；此前商务部曾对其最先进模型实施出口管制，此番表态标志政策态度明显转变，Anthropic近日完成650亿美元H轮融资。",
-      "publishedAt": "2026-06-21T22:59:00+08:00",
-      "source": "证券时报",
-      "url": "https://www.stcn.com/article/detail/3970644.html",
-      "subCategory": "大模型"
     }
   ]
 }

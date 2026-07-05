@@ -3,8 +3,44 @@
   "slug": "finance",
   "title": "投资与财经",
   "description": "宏观经济、A 股 / 港股 / 美股、一级市场融资、行业研报观点。",
-  "updatedAt": "2026-07-05T09:50:00+08:00",
+  "updatedAt": "2026-07-05T17:00:00+08:00",
   "items": [
+    {
+      "id": "finance-20260705-003",
+      "title": "独家｜Taycan、Macan EV停止接收新订单，纯电卡宴年底到店，保时捷电车面临\"空窗期\"",
+      "summary": "保时捷自7月5日起在中国内地停止Taycan、Macan EV个性化选装新订单，仅可购买现车及在途车辆；两款车型将于9月停产，全新纯电卡宴要到10月才向门店下达配额，年底前后才开启交付。",
+      "publishedAt": "2026-07-05T15:55:23+08:00",
+      "source": "新浪财经",
+      "url": "https://k.sina.com.cn/article_5953740931_162dee08306703k3pe.html",
+      "subCategory": "风险事件"
+    },
+    {
+      "id": "finance-20260705-002",
+      "title": "600458，签超30亿元销售合同！互联网龙头股获南向资金爆买",
+      "summary": "南向资金当日净买入腾讯控股超20亿港元，阿里巴巴、美团遭净卖出，小米集团获资金净流入；时代新材(600458)公告今年二季度与风电整机厂商签订销售合同约30.34亿元，涵盖境内外陆上及海上风电项目。",
+      "publishedAt": "2026-07-05T13:39:00+08:00",
+      "source": "新浪财经",
+      "url": "https://finance.sina.com.cn/wm/2026-07-05/doc-iniftrze8999322.shtml",
+      "subCategory": "港股"
+    },
+    {
+      "id": "finance-20260705-001",
+      "title": "重要调整！明起，A股交易规则变了",
+      "summary": "7月6日起沪深北三大交易所修订交易规则，主板ST、*ST股涨跌幅限制由5%调整至10%，盘后固定价格交易扩展至全部A股及ETF，深交所创业板引入做市商制度，规则修订对投资者交易影响有限。",
+      "publishedAt": "2026-07-05T08:27:00+08:00",
+      "source": "北京日报",
+      "url": "https://news.bjd.com.cn/2026/07/05/11845117.shtml",
+      "subCategory": "A股"
+    },
+    {
+      "id": "finance-20260704-017",
+      "title": "\"60岁后按月领取50万\"，男子缴30年保费仅领一个月便遭拒",
+      "summary": "深圳陈先生1995年投保养老保险并连续缴费30年，保单载明60岁后按月领取50万元，仅收到首月给付后遭保险公司以员工录入错误为由拒绝续付，案件定于7月13日在宝安区法院开庭审理。",
+      "publishedAt": "2026-07-04T23:09:08+08:00",
+      "source": "网易新闻",
+      "url": "https://www.163.com/dy/article/L11F6L18051481US.html",
+      "subCategory": "风险事件"
+    },
     {
       "id": "finance-20260704-010",
       "title": "中融信托获批进入破产程序，中植系破产案中23款产品申报债权超1700亿元",
@@ -58,6 +94,15 @@
       "url": "https://www.cls.cn/detail/2417116",
       "subCategory": "A股",
       "id": "finance-20260704-007"
+    },
+    {
+      "id": "finance-20260704-016",
+      "title": "你恐慌我贪婪！超600亿元资金疯抢行业主题ETF，这些板块正被爆买",
+      "summary": "本周沪深股票型ETF中，行业主题ETF净流入约661亿元，宽基指数ETF净流出约473亿元；半导体、卫星等主题ETF资金净流入居前，电网设备、金融类ETF遭资金净卖出。",
+      "publishedAt": "2026-07-04T12:30:06+08:00",
+      "source": "每日经济新闻",
+      "url": "https://www.nbd.com.cn/articles/2026-07-04/4452186.html",
+      "subCategory": "A股"
     },
     {
       "title": "三星第三季DRAM拟提价20%",
@@ -186,15 +231,6 @@
       "subCategory": "宏观经济"
     },
     {
-      "id": "finance-20260703-016",
-      "title": "Brent Crude Oil - Price - Chart - Historical Data - News",
-      "summary": "布伦特原有7月3日报每桗71.64美元，较前一交易日下跌0.23%，市场反映霍尔木兹海峡通行秩序持续恢复及区域原油供应正常化。",
-      "publishedAt": "2026-07-03",
-      "source": "TradingEconomics",
-      "url": "https://tradingeconomics.com/commodity/brent-crude-oil",
-      "subCategory": "大宗商品"
-    },
-    {
       "id": "finance-20260703-006",
       "title": "Selected Interest Rates (Daily) - H.15",
       "summary": "美联储H.15利率数据显示，7月1日联邦基金有效利率报3.63%，10年期美债收益率4.48%，30年期国债收益率4.97%，利率维持高位。",
@@ -220,6 +256,15 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/sandisk-sinks-11-seagate-falls-160250009.html",
       "subCategory": "美股",
       "id": "finance-20260702-022"
+    },
+    {
+      "id": "finance-20260703-016",
+      "title": "Brent Crude Oil - Price - Chart - Historical Data - News",
+      "summary": "布伦特原有7月3日报每桗71.64美元，较前一交易日下跌0.23%，市场反映霍尔木兹海峡通行秩序持续恢复及区域原油供应正常化。",
+      "publishedAt": "2026-07-03",
+      "source": "TradingEconomics",
+      "url": "https://tradingeconomics.com/commodity/brent-crude-oil",
+      "subCategory": "大宗商品"
     },
     {
       "title": "Gold prices today, Thursday, July 2, 2026: Prices break above $4,100 following a disappointing June jobs report",
@@ -474,51 +519,6 @@
       "id": "finance-20260702-010"
     },
     {
-      "title": "Oil Extends Decline on Rising Supply",
-      "summary": "国际原油价格2026年7月2日跌破每桗68美元，为去年2月以来最低水平。霍尔木兹海峡油轮通行量持续增加，美国与伊朗间接谈判取得进展，市场对供应过剩风险的担忧上升。",
-      "publishedAt": "2026-07-02",
-      "source": "Trading Economics",
-      "url": "https://tradingeconomics.com/commodity/crude-oil",
-      "subCategory": "大宗商品",
-      "id": "finance-20260702-002"
-    },
-    {
-      "title": "Silver Strengthens on Warsh Remarks",
-      "summary": "白银价格2026年7月2日升至每盎司59美元上方，此前一度触及七个月低点。美联储主席沃什称通胀预期有所缓和，加之原油价格走低缓解通胀担忧，共同支撑银价反弹。",
-      "publishedAt": "2026-07-02",
-      "source": "Trading Economics",
-      "url": "https://tradingeconomics.com/commodity/silver",
-      "subCategory": "大宗商品",
-      "id": "finance-20260702-003"
-    },
-    {
-      "title": "Meta Cloud Boom: Stock Surges 9% as Zuck Preps AI Compute Empire",
-      "summary": "据报道，Meta计划组建云基础设施业务，向外部客户出售闲置AI计算能力和自研模型，以对标亚马逊AWS等云服务商；消息带动Meta股价当日上涨约9%。",
-      "publishedAt": "2026-07-02",
-      "source": "FX Leaders",
-      "url": "https://www.fxleaders.com/news/2026/07/02/meta-cloud-boom-stock-surges-9-as-zuck-preps-ai-compute-empire/",
-      "subCategory": "美股",
-      "id": "finance-20260702-023"
-    },
-    {
-      "title": "ECB's Lagarde defends rate hike decision amid easing inflation",
-      "summary": "欧洲央行行长拉加德接受法国《回声报》采访时表示，尽管其后美伊达成停火协议，6月加息决定仍属正确；欧元区核心通胀已从2.2%升至2.5%，服务业通胀达3.5%。",
-      "publishedAt": "2026-07-02",
-      "source": "Investing.com",
-      "url": "https://ca.investing.com/news/stock-market-news/ecbs-lagarde-defends-rate-hike-decision-amid-easing-inflation-93CH-4718744",
-      "subCategory": "政策利率",
-      "id": "finance-20260702-026"
-    },
-    {
-      "id": "finance-20260703-004",
-      "title": "THE EMPLOYMENT SITUATION — JUNE 2026",
-      "summary": "美国劳工部数据显示6月非农就业新增5.7万人，远低于预期，失业率降至4.2%但主因劳动参与率降至61.5%，4至5月数据合计下修7.4万人。",
-      "publishedAt": "2026-07-02",
-      "source": "U.S. Bureau of Labor Statistics",
-      "url": "https://www.bls.gov/news.release/empsit.nr0.htm",
-      "subCategory": "宏观经济"
-    },
-    {
       "id": "finance-20260703-014",
       "title": "36家A股公司预披露半年报 29家预喜",
       "summary": "截至7月1日中午，36家A股公司披露2026年半年度业绩预告，其中29家预喜占比80.56%，通信电子、化工等行业增长明显，最高预增超47倍。",
@@ -600,6 +600,51 @@
       "id": "finance-20260701-022"
     },
     {
+      "title": "Oil Extends Decline on Rising Supply",
+      "summary": "国际原油价格2026年7月2日跌破每桗68美元，为去年2月以来最低水平。霍尔木兹海峡油轮通行量持续增加，美国与伊朗间接谈判取得进展，市场对供应过剩风险的担忧上升。",
+      "publishedAt": "2026-07-02",
+      "source": "Trading Economics",
+      "url": "https://tradingeconomics.com/commodity/crude-oil",
+      "subCategory": "大宗商品",
+      "id": "finance-20260702-002"
+    },
+    {
+      "title": "Silver Strengthens on Warsh Remarks",
+      "summary": "白银价格2026年7月2日升至每盎司59美元上方，此前一度触及七个月低点。美联储主席沃什称通胀预期有所缓和，加之原油价格走低缓解通胀担忧，共同支撑银价反弹。",
+      "publishedAt": "2026-07-02",
+      "source": "Trading Economics",
+      "url": "https://tradingeconomics.com/commodity/silver",
+      "subCategory": "大宗商品",
+      "id": "finance-20260702-003"
+    },
+    {
+      "title": "Meta Cloud Boom: Stock Surges 9% as Zuck Preps AI Compute Empire",
+      "summary": "据报道，Meta计划组建云基础设施业务，向外部客户出售闲置AI计算能力和自研模型，以对标亚马逊AWS等云服务商；消息带动Meta股价当日上涨约9%。",
+      "publishedAt": "2026-07-02",
+      "source": "FX Leaders",
+      "url": "https://www.fxleaders.com/news/2026/07/02/meta-cloud-boom-stock-surges-9-as-zuck-preps-ai-compute-empire/",
+      "subCategory": "美股",
+      "id": "finance-20260702-023"
+    },
+    {
+      "title": "ECB's Lagarde defends rate hike decision amid easing inflation",
+      "summary": "欧洲央行行长拉加德接受法国《回声报》采访时表示，尽管其后美伊达成停火协议，6月加息决定仍属正确；欧元区核心通胀已从2.2%升至2.5%，服务业通胀达3.5%。",
+      "publishedAt": "2026-07-02",
+      "source": "Investing.com",
+      "url": "https://ca.investing.com/news/stock-market-news/ecbs-lagarde-defends-rate-hike-decision-amid-easing-inflation-93CH-4718744",
+      "subCategory": "政策利率",
+      "id": "finance-20260702-026"
+    },
+    {
+      "id": "finance-20260703-004",
+      "title": "THE EMPLOYMENT SITUATION — JUNE 2026",
+      "summary": "美国劳工部数据显示6月非农就业新增5.7万人，远低于预期，失业率降至4.2%但主因劳动参与率降至61.5%，4至5月数据合计下修7.4万人。",
+      "publishedAt": "2026-07-02",
+      "source": "U.S. Bureau of Labor Statistics",
+      "url": "https://www.bls.gov/news.release/empsit.nr0.htm",
+      "subCategory": "宏观经济"
+    },
+    {
       "id": "finance-20260703-009",
       "title": "Venice AI becomes a unicorn with $65M Series A as its privacy-first AI platform takes off",
       "summary": "隐私优先AI平台Venice AI完成6500万美元A轮融资，估值达10亿美元趻身独角兽，由加密风投Dragonfly领投，Coinbase Ventures等参投。",
@@ -679,123 +724,6 @@
       "source": "财联社",
       "url": "https://www.cls.cn/detail/2414302",
       "subCategory": "A股"
-    },
-    {
-      "title": "裴振华的第一笔个人天使，投给了一位投资人",
-      "summary": "宁德时代早期投资人裴振华以个人身份对光互连芯片公司光联芯科进行天使投资，持股2.49%。该公司成立于2024年2月，此前已获得高瑞资本、红杉中国、鼎晖投资等机构多轮投资。",
-      "publishedAt": "2026-07-01T16:54:55+08:00",
-      "source": "投中网",
-      "url": "https://www.chinaventure.com.cn/news/80-20260701-392103.html",
-      "subCategory": "一级市场",
-      "id": "finance-20260701-019"
-    },
-    {
-      "title": "睹心医疗完成亿元级别融资",
-      "summary": "深圳睹心智能医疗科技有限公司宣布完成新一轮战略融资，规模近亿元，由海河产业基金、中丽基金两家市区两级国有产业资本联合投资。",
-      "publishedAt": "2026-07-01T15:35:34+08:00",
-      "source": "投中网",
-      "url": "https://www.chinaventure.com.cn/flash/20260701-89833.html",
-      "subCategory": "一级市场",
-      "id": "finance-20260701-004"
-    },
-    {
-      "title": "天使轮超1亿美元，前大疆高管入局消费级具身机器人",
-      "summary": "求之科技完成超1亿美元天使轮融资，创下消费级具身机器人赛道单笔天使轮融资纪录，投资方包括君联资本、联想创投、普华资本等多家机构。",
-      "publishedAt": "2026-07-01T14:38:36+08:00",
-      "source": "投中网",
-      "url": "https://www.chinaventure.com.cn/flash/20260701-89830.html",
-      "subCategory": "一级市场",
-      "id": "finance-20260701-003"
-    },
-    {
-      "id": "finance-20260701-009",
-      "title": "迈克尔·伯里披露做空特斯拉、英伟达、卡特彼勒等仓位，警示芯片股泡沫风险",
-      "summary": "知名投资人迈克尔·伯里披露新增做空仓位，包括特斯拉（入场价416.22美元）、英伟达（198.09美元）及卡特彼勒、应用材料，并上调半导体ETF看跌期权行权价。伯里称费城半导体指数相对200日均线偏离处于历史高位，存在回调风险。",
-      "publishedAt": "2026-07-01T13:38:00+08:00",
-      "source": "Benzinga",
-      "url": "https://www.benzinga.com/markets/tech/26/07/60207524/big-short-investor-michael-burry-reveals-tesla-nvidia-shorts-says-chip-boom-is-beginning-of-the-end",
-      "subCategory": "风险事件"
-    },
-    {
-      "id": "finance-20260701-007",
-      "title": "刚刚，集运指数（欧线）期货大跌近10%，发生了什么？",
-      "summary": "集运指数（欧线）期货7月1日大跌近10%，海通期货航运研究团队称交易逻辑已从拐点预期转向拐点确认。马士在29周报价低于预期，安特卫普鹿特丹港报5500美元/FEU，汉堡港下调200美元/FEU，低于此前7月中旬目标。",
-      "publishedAt": "2026-07-01T12:33:00+08:00",
-      "source": "证券时报",
-      "url": "https://www.stcn.com/article/detail/3992011.html",
-      "subCategory": "大宗商品"
-    },
-    {
-      "id": "finance-20260701-005",
-      "title": "港股上半年IPO火热 券商加码在港业务",
-      "summary": "2026年上半年港股共85家公司上市，据Wind数据，中金公司以460.5亿港元承销规模居首，中信证券次之。生物科技、专精特新科技公司上市活跃，24家企业推进A+H两地上市，超过去年全年总量。",
-      "publishedAt": "2026-07-01T08:03:00+08:00",
-      "source": "证券时报",
-      "url": "https://www.stcn.com/article/detail/3991087.html",
-      "subCategory": "港股"
-    },
-    {
-      "id": "finance-20260701-008",
-      "title": "公告精选：比亚迪6月新能源汽车销量40.35万辆；雅克科技、多氟多等提示风险",
-      "summary": "比亚迪公告6月新能源汽车销量40.35万辆，上年同期为38.26万辆。雅克科技提示市场对电子材料业务或存过度解读，多氟多说明半导体级氢氟酸占2025年营收不足2%，另有多家公司发布业绩预告与回购公告。",
-      "publishedAt": "2026-07-01",
-      "source": "证券时报",
-      "url": "https://www.stcn.com/article/detail/3993265.html",
-      "subCategory": "A股"
-    },
-    {
-      "title": "Gold Stays Close to 8-Month Low",
-      "summary": "黄金价格7月1日报3973.84美元/盎司，日内下跌0.85%，受美国就业数据强于预期影响，市场对美联储加息预期升温，金价维持在近八个月低位附近。",
-      "publishedAt": "2026-07-01",
-      "source": "Trading Economics",
-      "url": "https://tradingeconomics.com/commodity/gold",
-      "subCategory": "大宗商品",
-      "id": "finance-20260701-001"
-    },
-    {
-      "id": "finance-20260703-005",
-      "title": "China's Caixin Manufacturing PMI Holds at 51.7 in June, Matching Forecasts",
-      "summary": "财新中国6月制造业PMI报51.7，与市场预期及5月读数持平，连续第七个月处于扩张区间，反映中小型出口导向制造业保持温和增长。",
-      "publishedAt": "2026-07-01",
-      "source": "MEXC News",
-      "url": "https://www.mexc.com/news/1186231",
-      "subCategory": "宏观经济"
-    },
-    {
-      "title": "NIKE, Inc. Reports Fiscal 2026 Fourth Quarter and Full Year Results",
-      "summary": "耐克公布2026财年第四季度及全年财报，第四季度营收110亿美元同比降1%，净利润11亿美元同比增407%，主因关税退税收益推高毛利率至49.2%。",
-      "publishedAt": "2026-07-01T07:15:00+08:00",
-      "source": "StockTitan",
-      "url": "https://www.stocktitan.net/news/NKE/nike-inc-reports-fiscal-2026-fourth-quarter-and-full-year-vo6vsgsd31yl.html",
-      "subCategory": "公司财报",
-      "id": "finance-20260701-002"
-    },
-    {
-      "id": "finance-20260701-014",
-      "title": "A股35家公司披露半年度业绩预告，预喜比例达74.29%",
-      "summary": "截至6月30日，已有35家A股公司披露2026年半年度业绩预告，预增11家、略增12家、扇亏3家，预喜比例74.29%。长川科技预计净利同比增长超110%，亿纬锂能预计增长95%以上，恒逸石化预计增长约23-25倍。",
-      "publishedAt": "2026-07-01T07:11:00+08:00",
-      "source": "东方财富网",
-      "url": "https://wap.eastmoney.com/a/202607013788807819.html",
-      "subCategory": "公司财报"
-    },
-    {
-      "id": "finance-20260701-006",
-      "title": "A股上半年13家公司退市 爆出财务造假等问题",
-      "summary": "据Wind数据，2026年上半年13家A股公司退市，多起涉及财务造假与内控失效。广道退2018年至2024年上半年累计虚增收入超14亿元；退市岩石成为首只被退市的白酒股，退市观典曾为北交所转科创板首例。",
-      "publishedAt": "2026-07-01T02:45:00+08:00",
-      "source": "大纪元",
-      "url": "https://www.epochtimes.com/gb/26/6/30/n14800025.htm",
-      "subCategory": "风险事件"
-    },
-    {
-      "title": "市值破万亿后，寒武纪深夜提示风险",
-      "summary": "寒武纪股价突破万亿市值后发布风险提示公告，称当前滚动市盈率368.97倍、市净率77.88倍显著高于行业水平，公司及子公司被列入实体清单对供应链存在影响。",
-      "publishedAt": "2026-06-30T22:21:00+08:00",
-      "source": "东方财富网",
-      "url": "https://finance.eastmoney.com/a/202606303788696971.html",
-      "subCategory": "风险事件",
-      "id": "finance-20260630-005"
     }
   ]
 }

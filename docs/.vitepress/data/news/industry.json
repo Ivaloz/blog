@@ -3,8 +3,17 @@
   "slug": "industry",
   "title": "行业新闻",
   "description": "企业服务、SaaS、云计算、制造业、消费互联网的产业动态。",
-  "updatedAt": "2026-07-05T09:50:00+08:00",
+  "updatedAt": "2026-07-05T17:00:00+08:00",
   "items": [
+    {
+      "id": "industry-20260705-001",
+      "title": "5 semiconductor plants likely to be operational in India by 2026 end",
+      "summary": "印度电子信息技术部长瓦伊什纳夫表示，到2026年底印度将有5座半导体工厂投产，已获批的12个项目中3个已实现商业化生产，另有2座工厂即将投产，芯片将用于汽车及工业设备并计划出口。",
+      "publishedAt": "2026-07-05T09:10:00+05:30",
+      "source": "IANS",
+      "url": "https://ianslive.in/5-semiconductor-plants-likely-to-be-operational-in-india-by-2026-end--20260705090841",
+      "subCategory": "半导体产业"
+    },
     {
       "id": "industry-20260703-202",
       "title": "消息称苹果今明两年拟推出至少5款新机",
@@ -186,24 +195,6 @@
       "subCategory": "公司动态"
     },
     {
-      "title": "Gartner Says $234 Billion in Enterprise Application Software Spend Is at Risk from Agentic AI",
-      "summary": "Gartner预测，到2030年将有多达2340亿美元的企业应用软件支出面临\"智能体套利\"风险，约占企业应用SaaS支出的20%；AI智能体绕过传统用户界面直接调用系统功能，促使软件厂商从按用户收费转向按结果收费。",
-      "publishedAt": "2026-07-02",
-      "source": "CIO.com",
-      "url": "https://www.cio.com/article/4192242/agentic-ai-puts-234b-in-enterprise-saas-spending-at-risk-gartner-says.html",
-      "subCategory": "SaaS",
-      "id": "industry-20260702-203"
-    },
-    {
-      "id": "industry-20260702-205",
-      "title": "Halfway into the year, biotech is booming",
-      "summary": "STAT报道称，2026年上半年美国生物科技板块表现强劲，行业风向标XBI指数近一个月上涨19%，年内涨幅达30%，报158点，创五年新高，接近2021年2月175点的历史峰值。",
-      "publishedAt": "2026-07-02",
-      "source": "STAT News",
-      "url": "https://www.statnews.com/2026/07/02/biotech-sector-booms-capricor-fda-meeting/",
-      "subCategory": "医疗健康"
-    },
-    {
       "title": "Harvey Nash：2026全球科技人才与薪酬报告",
       "summary": "Harvey Nash发布的2026全球科技人才与薪酬报告显示，45%的科技从业者过去一年获得加薪，75%的受访者已在使用AI工具，但仅17%的企业实现AI深度落地，40%的科技从业者并非科班出身转行而来。",
       "publishedAt": "2026-07-02T06:25:00+08:00",
@@ -220,6 +211,24 @@
       "source": "上海证券报（新浪财经）",
       "url": "https://finance.sina.com.cn/stock/2026-07-02/doc-inifixke0579074.shtml",
       "subCategory": "半导体产业"
+    },
+    {
+      "title": "Gartner Says $234 Billion in Enterprise Application Software Spend Is at Risk from Agentic AI",
+      "summary": "Gartner预测，到2030年将有多达2340亿美元的企业应用软件支出面临\"智能体套利\"风险，约占企业应用SaaS支出的20%；AI智能体绕过传统用户界面直接调用系统功能，促使软件厂商从按用户收费转向按结果收费。",
+      "publishedAt": "2026-07-02",
+      "source": "CIO.com",
+      "url": "https://www.cio.com/article/4192242/agentic-ai-puts-234b-in-enterprise-saas-spending-at-risk-gartner-says.html",
+      "subCategory": "SaaS",
+      "id": "industry-20260702-203"
+    },
+    {
+      "id": "industry-20260702-205",
+      "title": "Halfway into the year, biotech is booming",
+      "summary": "STAT报道称，2026年上半年美国生物科技板块表现强劲，行业风向标XBI指数近一个月上涨19%，年内涨幅达30%，报158点，创五年新高，接近2021年2月175点的历史峰值。",
+      "publishedAt": "2026-07-02",
+      "source": "STAT News",
+      "url": "https://www.statnews.com/2026/07/02/biotech-sector-booms-capricor-fda-meeting/",
+      "subCategory": "医疗健康"
     },
     {
       "title": "2026年6月汽车销量/交付榜出炉：比亚迪销售超40万辆位居榜首",
@@ -339,6 +348,15 @@
       "subCategory": "新能源汽车"
     },
     {
+      "id": "industry-20260701-100",
+      "title": "极氪 6 月交付 35169 台汽车，同比增长 111%",
+      "summary": "极氪公布6月交付新车35169辆，同比增长111%；上半年累计交付178370辆，同比增长97%，旗下极氪9系列累计交付近15万辆，品牌已进入全球50多个国家和地区。",
+      "publishedAt": "2026-07-01T12:19:00+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/971/015.htm",
+      "subCategory": "新能源汽车"
+    },
+    {
       "title": "芯联集成：第三季度起产品价格上涨15%—25%",
       "summary": "芯联集成公告称，受半导体产业链结构性成本上涨及AI、新能源需求带动产能持续紧张影响，公司将自2026年第三季度起对相关产品价格上调15%至25%。",
       "publishedAt": "2026-07-01T10:39:00+08:00",
@@ -346,6 +364,15 @@
       "url": "https://www.stcn.com/article/detail/3991735.html",
       "subCategory": "半导体产业",
       "id": "industry-20260701-009"
+    },
+    {
+      "id": "industry-20260701-101",
+      "title": "鸿蒙智行6月交付50624台，累计交付143万台",
+      "summary": "鸿蒙智行公布6月交付新车50624辆，环比增长9.7%，累计交付突破143万辆；新款问界M6上市54天交付破3万辆，尚界Z7系列月销破万，问界M9改款首两周交付超8000辆。",
+      "publishedAt": "2026-07-01T10:16:30+08:00",
+      "source": "盖世汽车",
+      "url": "https://i.gasgoo.com/news/70463881.html",
+      "subCategory": "新能源汽车"
     },
     {
       "id": "industry-20260701-002",
@@ -364,6 +391,15 @@
       "source": "证券时报",
       "url": "https://www.stcn.com/article/detail/3991172.html",
       "subCategory": "医疗健康"
+    },
+    {
+      "id": "industry-20260701-098",
+      "title": "IDC：2026年全球智能手机出货量预计将下降近13%",
+      "summary": "IDC预测2026年全球智能手机出货量将同比下降12.9%，至11亿部，创十余年新低。内存短缺推高成本，平均售价预计上涨14%至523美元，中东非洲跌幅最大达20.6%，中国跌10.5%。",
+      "publishedAt": "2026-07-01T02:40:00+08:00",
+      "source": "新浪科技（援引IDC）",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-07-01/doc-iniffqce4493442.shtml",
+      "subCategory": "行业研报"
     },
     {
       "id": "industry-20260701-003",
@@ -400,15 +436,6 @@
       "source": "STAT News",
       "url": "https://www.statnews.com/2026/07/01/q3-biotech-scorecard-readouts-approval-decisions/",
       "subCategory": "医疗健康"
-    },
-    {
-      "id": "industry-20260701-098",
-      "title": "IDC：2026年全球智能手机出货量预计将下降近13%",
-      "summary": "IDC预测2026年全球智能手机出货量将同比下降12.9%，至11亿部，创十余年新低。内存短缺推高成本，平均售价预计上涨14%至523美元，中东非洲跌幅最大达20.6%，中国跌10.5%。",
-      "publishedAt": "2026-07-01T02:40:00+08:00",
-      "source": "新浪科技（援引IDC）",
-      "url": "https://finance.sina.com.cn/tech/roll/2026-07-01/doc-iniffqce4493442.shtml",
-      "subCategory": "行业研报"
     },
     {
       "title": "港股买卖单位改顸7月落地！港交所拟每手价值下限降至1000港元、增设5万港元上限、计划优化碎股交易机制",
@@ -474,6 +501,15 @@
       "subCategory": "半导体产业"
     },
     {
+      "id": "industry-20260630-004",
+      "title": "7月1日起集中调价，近20家半导体企业开启新一轮涨价潮",
+      "summary": "全球近20家模拟及功率半导体企业将于7月1日起涨价，扬杰科技全系列产品调价10%-15%，AI服务器及数据中心电源芯片涨幅达15%-25%，涨价源于晶圆及原材料成本上升与AI需求激增。",
+      "publishedAt": "2026-06-30T07:36:00+08:00",
+      "source": "证券时报",
+      "url": "https://www.stcn.com/article/detail/3987731.html",
+      "subCategory": "半导体产业"
+    },
+    {
       "title": "QuestMobile：2026年5月深夜活跃用扷4.4亿，同比增长16.9%",
       "summary": "QuestMobile数据显示，2026年5月每日0点至2点的深夜活跃用户规模达4.4亿，同比增长16.9%；18点至次日6点的泛夜间活跃用户规模从去年同期8.96亿增至9.37亿，同比增长4.6%，凌晨2点至4点在线用户数量也高于往年同期。",
       "publishedAt": "2026-06-30",
@@ -483,12 +519,12 @@
       "id": "industry-20260630-001"
     },
     {
-      "id": "industry-20260630-004",
-      "title": "7月1日起集中调价，近20家半导体企业开启新一轮涨价潮",
-      "summary": "全球近20家模拟及功率半导体企业将于7月1日起涨价，扬杰科技全系列产品调价10%-15%，AI服务器及数据中心电源芯片涨幅达15%-25%，涨价源于晶圆及原材料成本上升与AI需求激增。",
-      "publishedAt": "2026-06-30T07:36:00+08:00",
-      "source": "证券时报",
-      "url": "https://www.stcn.com/article/detail/3987731.html",
+      "id": "industry-20260630-010",
+      "title": "Omdia: AR display growth drives near-eye display market to $675 million in 2026",
+      "summary": "Omdia预测，在AR眼镜带动下，2026年全球近眼显示市场规模将达6.75亿美元，同比增长12%，出货量增长16%至1453万台；AR显示出货量预计同比大增154%，VR显示市场则持续下滑。",
+      "publishedAt": "2026-06-30",
+      "source": "Omdia",
+      "url": "https://omdia.tech.informa.com/pr/2026/june/ar-display-growth-drives-near-eye-display-market-to-675-million-dollars-in-2026",
       "subCategory": "半导体产业"
     },
     {
@@ -681,15 +717,6 @@
       "subCategory": "半导体产业"
     },
     {
-      "title": "2026年“618”大促全周期观察报告：经营持续回归本质，消费韧性重塑增长质量",
-      "summary": "易观分析发布报告显示，2026年618大促期间主流电商平台整体成交额同比增长6.4%，快递包裹揈收量峰值同比提升5.9%。平台普遍取消跨店满减、简化促销规则，消费决策从冲动转向理性，AI工具在购物场景中的应用进一步扩大。",
-      "publishedAt": "2026-06-25",
-      "source": "易观分析",
-      "url": "https://www.fxbaogao.com/detail/5495801",
-      "subCategory": "行业研报",
-      "id": "industry-20260625-006"
-    },
-    {
       "id": "industry-20260625-007",
       "title": "6月前三周全国乘用车市场新能源零售渗透率63.8%",
       "summary": "乘联分会数据显示，6月1日至21日全国乘用车零售91.3万辆，同比下降23%；其中新能源零售58.3万辆，渗透率63.8%，批发口径新能源渗透率达67.3%，世界杯及油价上涨等因素抑制了促销效果。",
@@ -697,33 +724,6 @@
       "source": "证券时报",
       "url": "https://www.stcn.com/article/detail/3978093.html",
       "subCategory": "新能源汽车"
-    },
-    {
-      "id": "industry-20260623-001",
-      "title": "比亚迪超级智能体\"迪迪虾\"官宣登陆腾势 N8L 闪充版，新车今晚上市",
-      "summary": "比亚迪宣布旗下超级智能体\"迪迪虾\"将随腾势N8L闪充版首发亮相，支持自然语言多步指令执行与智能手机生态联动；腾势N8L闪充版当晙19:30正式发布，预售价35-40万元，搭载第二代刀片电池、430km纯电续航及天神之眼5.0辅助驾驶系统。",
-      "publishedAt": "2026-06-23T15:54:29+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/967/506.htm",
-      "subCategory": "新能源汽车"
-    },
-    {
-      "id": "industry-20260622-001",
-      "title": "全球首架国产公务机：CBJ 公务机投入商业运营",
-      "summary": "全球首架完全国产化的公务机CBJ（China Business Jet）正式投入商业运营，标志着中国在高端商用航空制造领域实现重大突破；该机型各项关键系统及部件均实现国产化，打破了国产公务机商业运营的历史空白。",
-      "publishedAt": "2026-06-22T11:49:26+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/966/868.htm",
-      "subCategory": "制造业"
-    },
-    {
-      "id": "industry-20260622-002",
-      "title": "平泽园区收尾之作：消息称三星电子提前筹划 P5 Fab 2 晶圆厂动工事宜",
-      "summary": "消息称三星电子正在提前筹划平泽（Pyeongtaek）园区P5 Fab 2晶圆厂的建设动工事宜，该项目将成为平泽园区的收尾之作；三星加快推进新建晶圆厂以扩大先进制程及HBM产能，应对AI算力需求带来的持续订单增长。",
-      "publishedAt": "2026-06-22T11:09:13+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/966/835.htm",
-      "subCategory": "半导体产业"
     }
   ]
 }
