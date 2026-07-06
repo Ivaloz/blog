@@ -3,7 +3,7 @@
   "slug": "policy",
   "title": "政策信息",
   "description": "国家与地方政策、监管动态、产业扶持与合规要求。",
-  "updatedAt": "2026-07-05T17:00:00+08:00",
+  "updatedAt": "2026-07-06T09:15:00+08:00",
   "items": [
     {
       "id": "policy-20260705-001",
@@ -30,6 +30,15 @@
       "publishedAt": "2026-07-03T20:13:54+08:00",
       "source": "中国新闻网",
       "url": "https://www.chinanews.com.cn/cj/2026/07-03/10652327.shtml",
+      "subCategory": "金融监管"
+    },
+    {
+      "id": "policy-20260706-301",
+      "title": "公开市场买断式逆回购招标公告 [2026]第13号",
+      "summary": "中国人民银行公告，为保持银行体系流动性充裕，将于7月6日以固定数量、利率招标、多重价位中标方式开展10000亿元买断式逆回购操作，期限3个月（91天），到期日为2026年10月5日（遇节假日顺延）。",
+      "publishedAt": "2026-07-03T17:00:00+08:00",
+      "source": "中国人民银行",
+      "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/5492845/2026070316443285965/index.html",
       "subCategory": "金融监管"
     },
     {
@@ -184,6 +193,15 @@
       "url": "https://finance.sina.com.cn/roll/2026-07-02/doc-inifkcry3722165.shtml",
       "subCategory": "反垄断",
       "id": "policy-20260702-003"
+    },
+    {
+      "id": "policy-20260706-302",
+      "title": "Google Android: the Court of Justice upholds Google's fine of around €4.1 billion",
+      "summary": "欧盟法院驳回谷歌及母公司Alphabet对安卓反垄断案裁决提出的上诉，维持普通法院此前裁定的约41.25亿欧元罚款，认定谷歌通过预装协议、反碎片化协议及收入分成协议滥用市场支配地位、限制竞争。",
+      "publishedAt": "2026-07-02",
+      "source": "欧盟法院（Court of Justice of the European Union）",
+      "url": "https://curia.europa.eu/site/upload/docs/application/pdf/2026-07/cp260093en.pdf",
+      "subCategory": "反垄断"
     },
     {
       "id": "policy-20260703-004",
@@ -705,24 +723,6 @@
       "publishedAt": "2026-05-23T07:20:21+08:00",
       "source": "IT之家",
       "url": "https://www.ithome.com/0/954/229.htm",
-      "subCategory": "海外政策"
-    },
-    {
-      "id": "policy-20260523-002",
-      "title": "王文涛部长会见美国副贸易代表斯威策",
-      "summary": "商务部部长王文涛于5月23日在北京会见美国贸易代表办公室副代表斯威策，双方就中美经贸关系、市场准入及重点领域合作等议题进行深入沟通；是中美贸易休战90天期内双边高层经贸对话的重要组成部分，有助于推动中美经贸关系稳定发展。",
-      "publishedAt": "2026-05-23T00:40:00+08:00",
-      "source": "商务部",
-      "url": "https://www.mofcom.gov.cn/xwfb/bldhd/art/2026/art_47740911e4834dc79f99b146c1c0f2aa.html",
-      "subCategory": "跨境贸易"
-    },
-    {
-      "id": "policy-20260522-004",
-      "title": "强制技术转让、本地员工比例不低于 50%，中国汽车工业协会对欧盟《工业加速器法案》表示严重关切",
-      "summary": "中国汽车工业协会就欧盟《工业加速器法案》发表声明，认为该法案对电动汽车、电池等行业设置外资持股不超49%、强制技术转让、本地员工比例不低于50%等限制性条款，并在公共采购中设立排他性优先，属制度性歧视；协会呼吁欧方遵守WTO规则，停止保护主义做法。",
-      "publishedAt": "2026-05-22T19:36:35+08:00",
-      "source": "证券时报",
-      "url": "https://www.stcn.com/article/detail/3923399.html",
       "subCategory": "海外政策"
     }
   ]
