@@ -3,8 +3,71 @@
   "slug": "ai",
   "title": "AI 与大模型",
   "description": "大模型、Agent、AI 编程、推理框架、开源模型的发布与落地。",
-  "updatedAt": "2026-07-05T17:00:00+08:00",
+  "updatedAt": "2026-07-06T09:15:00+08:00",
   "items": [
+    {
+      "id": "ai-20260706-307",
+      "title": "HBM 之父金正浩：AI 的本质是内存，GPU 真正工作的时间只有 10%-30%",
+      "summary": "HBM之父、韩国科学家金正浩接受采访称AI竞争力正从GPU转向内存，指出GPU在AI推理中利用率仅10%-30%，随着AI向推理和多模态发展，HBM、HBF乃至未来HBS等高带宽内存将成为决定性能的关键瓶颈。",
+      "publishedAt": "2026-07-06T07:22:04+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/972/872.htm",
+      "subCategory": "AI硬件"
+    },
+    {
+      "id": "ai-20260706-308",
+      "title": "美国部分富人放弃传统学校，年费 7.5 万美元送孩子上 AI 私塾",
+      "summary": "美国部分硅谷富裕家庭放弃传统学校，转而花费每年7.5万美元将孩子送入Forge Prep、Alpha School等AI私塾，让孩子成为AI辅导工具的测试用户，有联合创始人表示计划在课程中排除敏感社会议题讨论。",
+      "publishedAt": "2026-07-06T07:00:22+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/972/868.htm",
+      "subCategory": "AI应用"
+    },
+    {
+      "id": "ai-20260706-301",
+      "title": "Meta也来卖铲子了！小扎：模型可以慢，GPU必须赚",
+      "summary": "Meta拟推出Meta Compute业务，通过出租GPU算力并托管Claude等第三方模型实现基础设施变现，此前已签约近10GW数据中心容量，外部出租200MW或带来千亿美元级年收入，同时仍在研发自研模型Watermelon。",
+      "publishedAt": "2026-07-05T22:30:31+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/07/443339.html",
+      "subCategory": "AI硬件"
+    },
+    {
+      "id": "ai-20260706-302",
+      "title": "华为更新韬定律论文！",
+      "summary": "华为发布“韬定律”论文更新版，提出以τ标度取代摩尔定律，聚焦晶体管、电路、芯片、系统四层响应时间优化，公开LogicFolding移动芯片方案（功耗降41%、频率升13%）及Unified Bus、Hi-ONE光互连、3D Folding数据中心方案细节。",
+      "publishedAt": "2026-07-05T21:38:45+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/07/443186.html",
+      "subCategory": "AI硬件"
+    },
+    {
+      "id": "ai-20260706-303",
+      "title": "Meta 悄悄推出全新社交 AI 应用 Pocket，用 Vibe Coding 生成小程序 / 小游戏分享给他人",
+      "summary": "Meta低调上线社交AI应用Pocket，用户可通过自然语言以Vibe Coding方式生成小程序、小游戏并分享给他人，经编辑器修改后保存至播放列表，该产品源自Meta收购Atma Sciences此前开发的Gizmo项目。",
+      "publishedAt": "2026-07-05T19:58:57+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/972/832.htm",
+      "subCategory": "AI应用"
+    },
+    {
+      "id": "ai-20260706-304",
+      "title": "复旦大学一课程考试改为“人考 AI”，4 名大学生出题让 AI 拿 0 分",
+      "summary": "复旦大学“数据挖掘技术”课程期末考试改为学生出题考AI，51名学生各设计10道计算题让DeepSeek V4-Flash、MiniMax M2.7、Claude Sonnet作答，仅4人让三款模型全部出错，Claude全程未被难倒。",
+      "publishedAt": "2026-07-05T17:42:03+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/972/809.htm",
+      "subCategory": "AI评测"
+    },
+    {
+      "id": "ai-20260706-305",
+      "title": "消息称 Anthropic 拟在澳大利亚布局 1.4GW 数据中心算力，建设成本达 150 亿美元",
+      "summary": "据澳大利亚财经媒体获得的招标文件，Anthropic计划在澳大利亚部署至少1.4吉瓦数据中心算力，建设成本约150亿美元，目标明年底前投入使用至少1吉瓦，此前公司已在澳设立办公室并与澳政府签署合作备忘录。",
+      "publishedAt": "2026-07-05T15:10:04+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/972/774.htm",
+      "subCategory": "AI硬件"
+    },
     {
       "id": "ai-20260705-001",
       "title": "李飞飞团队发布SimFoundry：单段真实视频生成可训练机器人仿真环境",
@@ -24,6 +87,15 @@
       "subCategory": "论文进展"
     },
     {
+      "id": "ai-20260706-306",
+      "title": "别争了！香农老婆，才是世界上第一个大语言模型",
+      "summary": "文章回顾20世纪50年代香农与其妻子贝蒂进行的字符预测实验——贝蒂尝试猜测文本下一字符，被认为是人类最早的“下一词元预测”实践，借此说明预测与压缩的关系正是现代语言模型智能的核心机制之一。",
+      "publishedAt": "2026-07-05T11:51:37+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/07/443241.html",
+      "subCategory": "论文进展"
+    },
+    {
       "id": "ai-20260704-005",
       "title": "Midjourney在版权诉讼中要求好莱坞片厂披露AI使用细节",
       "summary": "Midjourney在与迪士尼、环球影业、华纳兄弟的版权诉讼中要求扩大证据开示范围，认为此前仅要求片厂披露面向消费者的AI产出的裁定让片厂能挑选对己方有利的材料，要求公开其内部使用生成式AI的提示词和输出。",
@@ -33,15 +105,6 @@
       "subCategory": "AI应用"
     },
     {
-      "id": "ai-20260704-004",
-      "title": "阿里巴巴据报禁止员工使用Claude Code",
-      "summary": "阿里巴巴据报将于7月10日起禁止员工使用Anthropic的编程工具Claude Code，列为高风险软件并要求改用自研工具Qoder。此前该工具被曝含有识别中国用户身份的代码逻辑，引发争议。",
-      "publishedAt": "2026-07-04T09:32:00-07:00",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/",
-      "subCategory": "AI编程"
-    },
-    {
       "id": "ai-20260704-010",
       "title": "宇树科技陈立：具身智能\"ChatGPT时刻\"需达成\"两个80%\"",
       "summary": "在亚布力企业家论坛上，宇树科技联合创始人陈立提出具身智能突破的核心标准——在80%陌生场景中完成约80%任务，预计B2B场景2至5年内实现，消费级场景需8至10年以上。",
@@ -49,15 +112,6 @@
       "source": "财联社",
       "url": "https://www.cls.cn/detail/2417131",
       "subCategory": "具身智能"
-    },
-    {
-      "id": "ai-20260704-009",
-      "title": "微软计划8月将消费级与企业级Copilot合并为统一应用",
-      "summary": "微软内部备忘录显示，公司计划8月将消费者与企业版Copilot整合为统一应用，砍掉Podcasts和Labs等功能，新增付费Autopilot智能体层，以应对目前仅约4.5%付费转化率的困境。",
-      "publishedAt": "2026-07-04T10:22:00+02:00",
-      "source": "Winbuzzer",
-      "url": "https://winbuzzer.com/2026/07/04/microsoft-plans-copilot-app-merge-to-prove-its-value-xcxwbn/",
-      "subCategory": "Agent"
     },
     {
       "id": "ai-20260704-006",
@@ -103,6 +157,24 @@
       "url": "https://www.ithome.com/0/972/525.htm",
       "subCategory": "Agent",
       "id": "ai-20260704-003"
+    },
+    {
+      "id": "ai-20260704-009",
+      "title": "微软计划8月将消费级与企业级Copilot合并为统一应用",
+      "summary": "微软内部备忘录显示，公司计划8月将消费者与企业版Copilot整合为统一应用，砍掉Podcasts和Labs等功能，新增付费Autopilot智能体层，以应对目前仅约4.5%付费转化率的困境。",
+      "publishedAt": "2026-07-04T10:22:00+02:00",
+      "source": "Winbuzzer",
+      "url": "https://winbuzzer.com/2026/07/04/microsoft-plans-copilot-app-merge-to-prove-its-value-xcxwbn/",
+      "subCategory": "Agent"
+    },
+    {
+      "id": "ai-20260704-004",
+      "title": "阿里巴巴据报禁止员工使用Claude Code",
+      "summary": "阿里巴巴据报将于7月10日起禁止员工使用Anthropic的编程工具Claude Code，列为高风险软件并要求改用自研工具Qoder。此前该工具被曝含有识别中国用户身份的代码逻辑，引发争议。",
+      "publishedAt": "2026-07-04T09:32:00-07:00",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/",
+      "subCategory": "AI编程"
     },
     {
       "title": "当一千五百条漏洞一夜曝光：AI既是矛也是盾",
@@ -294,15 +366,6 @@
       "id": "ai-20260702-008"
     },
     {
-      "title": "OpenAI reportedly wants all AI companies to give the US government a stake in their businesses",
-      "summary": "据英国《金融时报》报道，OpenAI首席执行官奥特曼提议由美国政府持有包括OpenAI在内的主要美国AI公司各以5%股权，谷歌、Meta、Anthropic等是否同意尚不明确，方案仍需国会批准，目前处于初步磋商阶段。",
-      "publishedAt": "2026-07-02T05:27:00-04:00",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2206552/openai-ai-companies-give-us-government-stake-businesses-proposal/",
-      "subCategory": "大模型",
-      "id": "ai-20260702-015"
-    },
-    {
       "title": "3年估值3400亿AI独角兽DeepSeek宕机超12小时，用户依赖下为何稳定性成为致命短板？",
       "summary": "DeepSeek网页及API服务7月2日出现大范围异常，持续超12小时至次日凌晨5点才完全恢复，累计影响超1.1亿用户，报道分析原因涉及用户增长过快、算力扩容滞后与商业化加速三方面因素叠加。",
       "publishedAt": "2026-07-02T17:17:00+08:00",
@@ -366,13 +429,13 @@
       "id": "ai-20260702-003"
     },
     {
-      "title": "Copilot vision is generally available",
-      "summary": "GitHub Copilot视觉功能正式面向所有订阅层级开放，用户可在聊天中直接上传图片和PDF文件，让Copilot结合代码理解视觉内容，功能覆盖VS Code、github.com和CLI，无需管理员开启策略。",
-      "publishedAt": "2026-07-01T11:39:17-07:00",
-      "source": "GitHub Changelog",
-      "url": "https://github.blog/changelog/2026-07-01-copilot-vision-is-generally-available/",
-      "subCategory": "AI编程",
-      "id": "ai-20260701-015"
+      "title": "OpenAI reportedly wants all AI companies to give the US government a stake in their businesses",
+      "summary": "据英国《金融时报》报道，OpenAI首席执行官奥特曼提议由美国政府持有包括OpenAI在内的主要美国AI公司各以5%股权，谷歌、Meta、Anthropic等是否同意尚不明确，方案仍需国会批准，目前处于初步磋商阶段。",
+      "publishedAt": "2026-07-02T05:27:00-04:00",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2206552/openai-ai-companies-give-us-government-stake-businesses-proposal/",
+      "subCategory": "大模型",
+      "id": "ai-20260702-015"
     },
     {
       "title": "More details on Fable 5's cyber safeguards and our jailbreak framework",
@@ -427,6 +490,15 @@
       "source": "IT之家",
       "url": "https://www.ithome.com/0/971/118.htm",
       "subCategory": "AI编程"
+    },
+    {
+      "title": "Copilot vision is generally available",
+      "summary": "GitHub Copilot视觉功能正式面向所有订阅层级开放，用户可在聊天中直接上传图片和PDF文件，让Copilot结合代码理解视觉内容，功能覆盖VS Code、github.com和CLI，无需管理员开启策略。",
+      "publishedAt": "2026-07-01T11:39:17-07:00",
+      "source": "GitHub Changelog",
+      "url": "https://github.blog/changelog/2026-07-01-copilot-vision-is-generally-available/",
+      "subCategory": "AI编程",
+      "id": "ai-20260701-015"
     },
     {
       "id": "ai-20260701-003",
@@ -652,78 +724,6 @@
       "source": "arXiv",
       "url": "https://arxiv.org/abs/2606.29537",
       "subCategory": "AI评测"
-    },
-    {
-      "id": "ai-20260627-003",
-      "title": "AI 账单失控后 DeepSeek 成'香馕馕'，部分美国企业已 100% 切换",
-      "summary": "面对AI费用飙升，多家美国企业转向DeepSeek；旧金山创业公司Lindy在月度AI账单\"超过所有员工工资\"后100%切换至DeepSeek，预计节省数百万美元；企业同步采用模型路由策略，将不同任务分配给成本匹配的AI系统。",
-      "publishedAt": "2026-06-27T16:16:09+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/969/400.htm",
-      "subCategory": "AI应用"
-    },
-    {
-      "id": "ai-20260627-002",
-      "title": "北大与 DeepSeek 联合开源 DSpark：破解 AI 大模型高并发推理瓶颈，速度提升 60% 至 85%",
-      "summary": "北京大学与DeepSeek联合发布DSpark推理加速框架，专为大语言模型高并发生产环境设计，已部署至DeepSeek-V4-Flash和V4-Pro预览服务；在等效吞吐量下单用户生成速度提升60%至85%，附论文、训练代码和模型权重已在GitHub开源。",
-      "publishedAt": "2026-06-27T15:47:23+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/969/379.htm",
-      "subCategory": "推理框架"
-    },
-    {
-      "id": "ai-20260627-001",
-      "title": "OpenAI 最强AI模型：GPT-5.6 系列登场，编程跑分超 Claude Mythos 5",
-      "summary": "OpenAI发布GPT-5.6系列三款模型：Sol（旗舰）、Terra（均衡）、Luna（高速低成本），仅向美国政府批准的约20家\"可信合作伙伴\"开放灰度预览；Sol在Terminal-Bench 2.1编程测试中以88.8%超越Claude Mythos 5（88.0%），Ultra模式达91.9%。",
-      "publishedAt": "2026-06-27T06:45:56+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/969/272.htm",
-      "subCategory": "大模型"
-    },
-    {
-      "id": "ai-20260626-002",
-      "title": "机构：Jalapeño开启OpenAI自研芯片时代，AI算力迈向全栈协同",
-      "summary": "OpenAI联合博通推出首款自研AI推理芯片Jalapeño，历时9个月完成从设计到流片，专为LLM推理负载优化，预计2026年底开始初始部署；此举标志OpenAI向模型加芯片垂直整合的全栈AI基础设施方向演进，AI算力生态加速向闭环演化。",
-      "publishedAt": "2026-06-26T14:26:00+08:00",
-      "source": "新浪财经",
-      "url": "https://finance.sina.com.cn/jjxw/2026-06-26/doc-inietfxy2044047.shtml",
-      "subCategory": "AI硬件"
-    },
-    {
-      "id": "ai-20260626-001",
-      "title": "不只服务程序员，OpenAI 称 2025 年 8 月以来个人用户 Codex 用量增长 137 倍",
-      "summary": "OpenAI披露Codex AI编程工具用量激增：2025年8月至今个人用户增长137倍、组织用户增长189倍，OpenAI内部使用率达97.9%；提交8小时以上长时任务的个人用户量自2026年初增长近10倍。",
-      "publishedAt": "2026-06-26T14:03:46+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/968/961.htm",
-      "subCategory": "AI编程"
-    },
-    {
-      "id": "ai-20260626-003",
-      "title": "Anthropic Economic Index report: Cadences",
-      "summary": "Anthropic发布最新经济指数报告，分析Claude使用模式中的日周节律：个人任务周末峰值显著，食谱请求在18时达到高峰；新版调查覆盖9700名Claude用户，显示使用Claude最多的用户对未来劳动力市场最为乐观。",
-      "publishedAt": "2026-06-26",
-      "source": "Anthropic",
-      "url": "https://www.anthropic.com/research/economic-index-june-2026-report",
-      "subCategory": "AI应用"
-    },
-    {
-      "id": "ai-20260625-002",
-      "title": "商汤股东大会披露：企业级 Token 单月使用量迅速增长 7 倍",
-      "summary": "商汤科技在年度股东大会上披露，企业级大模型Token单月使用量在短期内迅速增长7倍，体现商汤日新AI平台在企业市场的加速渗透与规模化落地进程。",
-      "publishedAt": "2026-06-25T16:33:00+08:00",
-      "source": "36氪",
-      "url": "https://36kr.com/newsflashes/3868334704464897",
-      "subCategory": "AI应用"
-    },
-    {
-      "id": "ai-20260625-005",
-      "title": "联想发布全球首款 AI 可信一体机",
-      "summary": "联想发布全球首款AI可信一体机，集成数据隔离、模型溯源与隐私保护能力，面向企业级AI本地化部署场景，强调AI应用的安全性与可信度。",
-      "publishedAt": "2026-06-25T16:32:00+08:00",
-      "source": "36氪",
-      "url": "https://36kr.com/newsflashes/3868316392871170",
-      "subCategory": "AI应用"
     }
   ]
 }
