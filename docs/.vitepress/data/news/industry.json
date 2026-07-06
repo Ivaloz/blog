@@ -3,8 +3,17 @@
   "slug": "industry",
   "title": "行业新闻",
   "description": "企业服务、SaaS、云计算、制造业、消费互联网的产业动态。",
-  "updatedAt": "2026-07-06T09:15:00+08:00",
+  "updatedAt": "2026-07-06T23:59:00+08:00",
   "items": [
+    {
+      "id": "industry-20260706-402",
+      "title": "中汽协:2026年中国新能源乘用车平均车龄1.8年,燃油车8.2年",
+      "summary": "中汽协相关数据显示,国内新能源乘用车平均车龄仅1.8年,九成车辆集中在1至3年区间;燃油乘用车平均车龄则达8.2年,二手燃油车平均车龄8.6年,新能源二手车仅3.4年。",
+      "publishedAt": "2026-07-06T22:10:00+08:00",
+      "source": "新浪科技",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-07-06/doc-inifwscq1847078.shtml",
+      "subCategory": "新能源汽车"
+    },
     {
       "id": "industry-20260706-305",
       "title": "国内充电宝线上排名出炉：小米夺冠！倍思第二",
@@ -112,6 +121,15 @@
       "source": "家电网（新浪科技）",
       "url": "https://finance.sina.com.cn/tech/roll/2026-07-03/doc-inifpyyu0306125.shtml",
       "subCategory": "消费零售"
+    },
+    {
+      "id": "industry-20260706-401",
+      "title": "乘联分会:预计6月全国新能源乘用车零售103.7万辆,同比下降7%",
+      "summary": "乘联分会数据显示,6月全国新能源乘用车零售约103.7万辆,同比下降7%但环比增长9%;批发150.6万辆,同比增长22%;上半年累计零售473.4万辆,同比下降13%。",
+      "publishedAt": "2026-07-03T16:48:00+08:00",
+      "source": "证券时报网",
+      "url": "https://www.stcn.com/article/detail/3997463.html",
+      "subCategory": "新能源汽车"
     },
     {
       "id": "industry-20260703-203",
@@ -285,24 +303,6 @@
       "subCategory": "公司动态"
     },
     {
-      "title": "Harvey Nash：2026全球科技人才与薪酬报告",
-      "summary": "Harvey Nash发布的2026全球科技人才与薪酬报告显示，45%的科技从业者过去一年获得加薪，75%的受访者已在使用AI工具，但仅17%的企业实现AI深度落地，40%的科技从业者并非科班出身转行而来。",
-      "publishedAt": "2026-07-02T06:25:00+08:00",
-      "source": "199IT/新浪科技",
-      "url": "https://finance.sina.com.cn/tech/roll/2026-07-02/doc-inifkcsh5972492.shtml",
-      "subCategory": "行业研报",
-      "id": "industry-20260702-006"
-    },
-    {
-      "id": "industry-20260702-001",
-      "title": "成本上涨与市场需求双轮驱动 半导体开启年内第二轮涨价",
-      "summary": "芯联集成、扬杰科技、聚辰股份、斯达半导等国内厂商及英飞凌、德州仪器、意法半导体等国际厂商近期相继宣布涨价，涨幅10%至25%，涉及IGBT、SiC MOSFET、Nor Flash等产品，晶圆及材料成本上涨叠加AI需求增长是主因。",
-      "publishedAt": "2026-07-02T04:15:00+08:00",
-      "source": "上海证券报（新浪财经）",
-      "url": "https://finance.sina.com.cn/stock/2026-07-02/doc-inifixke0579074.shtml",
-      "subCategory": "半导体产业"
-    },
-    {
       "title": "Gartner Says $234 Billion in Enterprise Application Software Spend Is at Risk from Agentic AI",
       "summary": "Gartner预测，到2030年将有多达2340亿美元的企业应用软件支出面临\"智能体套利\"风险，约占企业应用SaaS支出的20%；AI智能体绕过传统用户界面直接调用系统功能，促使软件厂商从按用户收费转向按结果收费。",
       "publishedAt": "2026-07-02",
@@ -319,6 +319,24 @@
       "source": "STAT News",
       "url": "https://www.statnews.com/2026/07/02/biotech-sector-booms-capricor-fda-meeting/",
       "subCategory": "医疗健康"
+    },
+    {
+      "title": "Harvey Nash：2026全球科技人才与薪酬报告",
+      "summary": "Harvey Nash发布的2026全球科技人才与薪酬报告显示，45%的科技从业者过去一年获得加薪，75%的受访者已在使用AI工具，但仅17%的企业实现AI深度落地，40%的科技从业者并非科班出身转行而来。",
+      "publishedAt": "2026-07-02T06:25:00+08:00",
+      "source": "199IT/新浪科技",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-07-02/doc-inifkcsh5972492.shtml",
+      "subCategory": "行业研报",
+      "id": "industry-20260702-006"
+    },
+    {
+      "id": "industry-20260702-001",
+      "title": "成本上涨与市场需求双轮驱动 半导体开启年内第二轮涨价",
+      "summary": "芯联集成、扬杰科技、聚辰股份、斯达半导等国内厂商及英飞凌、德州仪器、意法半导体等国际厂商近期相继宣布涨价，涨幅10%至25%，涉及IGBT、SiC MOSFET、Nor Flash等产品，晶圆及材料成本上涨叠加AI需求增长是主因。",
+      "publishedAt": "2026-07-02T04:15:00+08:00",
+      "source": "上海证券报（新浪财经）",
+      "url": "https://finance.sina.com.cn/stock/2026-07-02/doc-inifixke0579074.shtml",
+      "subCategory": "半导体产业"
     },
     {
       "title": "2026年6月汽车销量/交付榜出炉：比亚迪销售超40万辆位居榜首",
@@ -483,15 +501,6 @@
       "subCategory": "医疗健康"
     },
     {
-      "id": "industry-20260701-098",
-      "title": "IDC：2026年全球智能手机出货量预计将下降近13%",
-      "summary": "IDC预测2026年全球智能手机出货量将同比下降12.9%，至11亿部，创十余年新低。内存短缺推高成本，平均售价预计上涨14%至523美元，中东非洲跌幅最大达20.6%，中国行跌10.5%。",
-      "publishedAt": "2026-07-01T02:40:00+08:00",
-      "source": "新浪科技（援引IDC）",
-      "url": "https://finance.sina.com.cn/tech/roll/2026-07-01/doc-iniffqce4493442.shtml",
-      "subCategory": "行业研报"
-    },
-    {
       "id": "industry-20260701-003",
       "title": "比亚蜈2026年6月汽车销量403472辆，同比增长5.46%",
       "summary": "比亚迪公告6月新能源汽车销量403472辆，同比增长5.46%；其中乘用车销量397292辆，出口新能源汽车17.5万辆，插电混动车型销售19.58万辆。1-6月累计销量180.8万辆，同比下降15.72%。",
@@ -526,6 +535,15 @@
       "source": "STAT News",
       "url": "https://www.statnews.com/2026/07/01/q3-biotech-scorecard-readouts-approval-decisions/",
       "subCategory": "医疗健康"
+    },
+    {
+      "id": "industry-20260701-098",
+      "title": "IDC：2026年全球智能手机出货量预计将下降近13%",
+      "summary": "IDC预测2026年全球智能手机出货量将同比下降12.9%，至11亿部，创十余年新低。内存短缺推高成本，平均售价预计上涨14%至523美元，中东非洲跌幅最大达20.6%，中国行跌10.5%。",
+      "publishedAt": "2026-07-01T02:40:00+08:00",
+      "source": "新浪科技（援引IDC）",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-07-01/doc-iniffqce4493442.shtml",
+      "subCategory": "行业研报"
     },
     {
       "title": "港股买卖单位改颙7月落地！港交所拟每手价值下限降至1000港元、增设5万港元上限、计划优化碎股交易机制",
@@ -591,15 +609,6 @@
       "subCategory": "半导体产业"
     },
     {
-      "id": "industry-20260630-004",
-      "title": "7月1日起集中调价，近20家半导体企业开启新一轮涨价潮",
-      "summary": "全球近20家模拟及功率半导体企业将于7月1日起涨价，扬杰科技全系列产品调价10%-15%，AI服务器及数据中心电源芯片涨幅15%-25%，涨价源于晶圆及原材料成本上升与AI需求激增。",
-      "publishedAt": "2026-06-30T07:36:00+08:00",
-      "source": "证券时报",
-      "url": "https://www.stcn.com/article/detail/3987731.html",
-      "subCategory": "半导体产业"
-    },
-    {
       "title": "QuestMobile：2026年5月深夜活跃用扇4.4亿，同比增长16.9%",
       "summary": "QuestMobile数据显示，2026年5月每日0点至2点的深夜活跃用户规模达4.4亿，同比增长16.9%；18点至次日6点的泛夜间活跃用户规模从去年同期8.96亿增至9.37亿，同比增长4.6%，凌晨2点至4点在线用户数量也高于往年同期。",
       "publishedAt": "2026-06-30",
@@ -615,6 +624,15 @@
       "publishedAt": "2026-06-30",
       "source": "Omdia",
       "url": "https://omdia.tech.informa.com/pr/2026/june/ar-display-growth-drives-near-eye-display-market-to-675-million-dollars-in-2026",
+      "subCategory": "半导体产业"
+    },
+    {
+      "id": "industry-20260630-004",
+      "title": "7月1日起集中调价，近20家半导体企业开启新一轮涨价潮",
+      "summary": "全球近20家模拟及功率半导体企业将于7月1日起涨价，扬杰科技全系列产品调价10%-15%，AI服务器及数据中心电源芯片涨幅15%-25%，涨价源于晶圆及原材料成本上升与AI需求激增。",
+      "publishedAt": "2026-06-30T07:36:00+08:00",
+      "source": "证券时报",
+      "url": "https://www.stcn.com/article/detail/3987731.html",
       "subCategory": "半导体产业"
     },
     {
@@ -706,24 +724,6 @@
       "source": "IT之家",
       "url": "https://www.ithome.com/0/969/576.htm",
       "subCategory": "新能源汽车"
-    },
-    {
-      "id": "industry-20260627-004",
-      "title": "本田 CEO 三部敏宏为公司近 70 年首亏道歉，赢得投资者支持",
-      "summary": "本田CEO三部敏宏就公司近70年来首次年度亏损向股东致歉，亏损超90亿美元，主因为电动化转型重组成本激增及中国车企竞争加剧；尽管前高管要求其辞职，三部仍获股东支持连任董事，公司正探索与日产、三菱协同开发下一代汽车技术。",
-      "publishedAt": "2026-06-27T16:32:17+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/969/409.htm",
-      "subCategory": "公司动态"
-    },
-    {
-      "id": "industry-20260627-002",
-      "title": "超16亿元，烽火通信旗下长江计算中标中国电信高性能服务器集中采购项目",
-      "summary": "长江计算成功入围中国电信2026-2027年高性能服务器集中采购标包１（ARM-A服务器G系列），斘获20%份额，中标金额超16亿元；2026年以来已在电信运营商领域累计斘获逾40亿元合同。",
-      "publishedAt": "2026-06-27T16:09:00+08:00",
-      "source": "36氪",
-      "url": "https://36kr.com/newsflashes/3871141940892932",
-      "subCategory": "企业服务"
     }
   ]
 }

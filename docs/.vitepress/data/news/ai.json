@@ -3,8 +3,71 @@
   "slug": "ai",
   "title": "AI 与大模型",
   "description": "大模型、Agent、AI 编程、推理框架、开源模型的发布与落地。",
-  "updatedAt": "2026-07-06T09:15:00+08:00",
+  "updatedAt": "2026-07-06T23:59:00+08:00",
   "items": [
+    {
+      "id": "ai-20260706-402",
+      "title": "美团LongCat-2.0正式开源",
+      "summary": "美团宣布正式开源LongCat-2.0全部模型权重、推理引擎及核心技术文档,该模型总参数1.6万亿、平均激活约480亿,为业界首个完成国产算力全流程训练推理的万亿参数模型,多家国产芯片厂商已完成推理适配。",
+      "publishedAt": "2026-07-06T23:42:14+08:00",
+      "source": "新浪财经",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-07-06/doc-inifwwmr1771008.shtml",
+      "subCategory": "开源模型"
+    },
+    {
+      "id": "ai-20260706-407",
+      "title": "智平方在联合国展示类脑具身模型NeuroVLA",
+      "summary": "大湾区企业智平方在联合国开源周展示类脑大模型NeuroVLA,模拟大脑皮层、小脑与脊髓三层机制以降低数据依赖,称机器人运动抖动降低超75%、脊髓层功耗低至0.4瓦,并计划全球开源。",
+      "publishedAt": "2026-07-06T18:40:27+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/07/444733.html",
+      "subCategory": "具身智能"
+    },
+    {
+      "id": "ai-20260706-404",
+      "title": "极简方案刷新扩散模型推理纪录,阿里清华论文入选ICML杰出论文",
+      "summary": "阿里巴巴与清华大学合作论文获ICML 2026杰出论文奖,研究发现扩散语言模型任意生成顺序会导致熵退化问题,并提出简化训练方法JustGRPO,在GSM8K基准上取得89.1%准确率。",
+      "publishedAt": "2026-07-06T18:33:45+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/07/444721.html",
+      "subCategory": "论文进展"
+    },
+    {
+      "id": "ai-20260706-405",
+      "title": "蔚来世界模型OTA,70万用户没人被留在旧版本",
+      "summary": "蔚来向超70万辆在售车型同步推送世界模型OTA更新,覆盖四个平台、两种芯片架构车辆,未针对老旧硬件推出阉割版本,依托自研AI编译器与算力校验体系实现全系车型同步升级。",
+      "publishedAt": "2026-07-06T17:41:04+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/07/443868.html",
+      "subCategory": "AI应用"
+    },
+    {
+      "id": "ai-20260706-406",
+      "title": "电动方程式锦标赛上海站接入Gemini实时解说",
+      "summary": "谷歌Gemini成为电动方程式锦标赛官方AI合作伙伴,在上海站比赛中提供实时数据解说、车手问答助手及模拟器训练反馈等功能,是生成式AI在体育赛事场景的最新应用。",
+      "publishedAt": "2026-07-06T17:35:00+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/07/443867.html",
+      "subCategory": "AI应用"
+    },
+    {
+      "id": "ai-20260706-401",
+      "title": "腾讯混元Hy3正式发布",
+      "summary": "腾讯正式发布混合专家架构模型混元Hy3,总参数295B、激活21B,在编程与办公自动化等任务上性能提升明显,已接入WorkBuddy、元宝等业务,并计划扩展至约50个产品线。",
+      "publishedAt": "2026-07-06T16:26:48+08:00",
+      "source": "53AI",
+      "url": "https://www.53ai.com/news/LargeLanguageModel/2026070678934.html",
+      "subCategory": "大模型"
+    },
+    {
+      "id": "ai-20260706-403",
+      "title": "单模型支持30种语言+16种方言,阿里千问升级Fun-ASR-Realtime语音识别模型",
+      "summary": "阿里通义千问升级实时语音识别模型Fun-ASR-Realtime,单模型支持16种方言与30种语言,首字延迟为百毫秒级,方言识别准确率在多项测试中领先同类产品,并针对泰语等东南亚语言进行专项优化。",
+      "publishedAt": "2026-07-06T14:39:48+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/973/062.htm",
+      "subCategory": "AI音频"
+    },
     {
       "id": "ai-20260706-307",
       "title": "HBM 之父金正浩：AI 的本质是内存，GPU 真正工作的时间只有 10%-30%",
@@ -105,6 +168,15 @@
       "subCategory": "AI应用"
     },
     {
+      "id": "ai-20260704-004",
+      "title": "阿里巴巴据报禁止员工使用Claude Code",
+      "summary": "阿里巴巴据报将于7月10日起禁止员工使用Anthropic的编程工具Claude Code，列为高风险软件并要求改用自研工具Qoder。此前该工具被曝含有识别中国用户身份的代码逻辑，引发争议。",
+      "publishedAt": "2026-07-04T09:32:00-07:00",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/",
+      "subCategory": "AI编程"
+    },
+    {
       "id": "ai-20260704-010",
       "title": "宇树科技陈立：具身智能\"ChatGPT时刻\"需达成\"两个80%\"",
       "summary": "在亚布力企业家论坛上，宇树科技联合创始人陈立提出具身智能突破的核心标准——在80%陌生场景中完成约80%任务，预计B2B场景2至5年内实现，消费级场景需8至10年以上。",
@@ -112,6 +184,15 @@
       "source": "财联社",
       "url": "https://www.cls.cn/detail/2417131",
       "subCategory": "具身智能"
+    },
+    {
+      "id": "ai-20260704-009",
+      "title": "微软计划8月将消费级与企业级Copilot合并为统一应用",
+      "summary": "微软内部备忘录显示，公司计划8月将消费者与企业版Copilot整合为统一应用，砍掉Podcasts和Labs等功能，新增付费Autopilot智能体层，以应对目前仅约4.5%付费转化率的困境。",
+      "publishedAt": "2026-07-04T10:22:00+02:00",
+      "source": "Winbuzzer",
+      "url": "https://winbuzzer.com/2026/07/04/microsoft-plans-copilot-app-merge-to-prove-its-value-xcxwbn/",
+      "subCategory": "Agent"
     },
     {
       "id": "ai-20260704-006",
@@ -157,24 +238,6 @@
       "url": "https://www.ithome.com/0/972/525.htm",
       "subCategory": "Agent",
       "id": "ai-20260704-003"
-    },
-    {
-      "id": "ai-20260704-009",
-      "title": "微软计划8月将消费级与企业级Copilot合并为统一应用",
-      "summary": "微软内部备忘录显示，公司计划8月将消费者与企业版Copilot整合为统一应用，砍掉Podcasts和Labs等功能，新增付费Autopilot智能体层，以应对目前仅约4.5%付费转化率的困境。",
-      "publishedAt": "2026-07-04T10:22:00+02:00",
-      "source": "Winbuzzer",
-      "url": "https://winbuzzer.com/2026/07/04/microsoft-plans-copilot-app-merge-to-prove-its-value-xcxwbn/",
-      "subCategory": "Agent"
-    },
-    {
-      "id": "ai-20260704-004",
-      "title": "阿里巴巴据报禁止员工使用Claude Code",
-      "summary": "阿里巴巴据报将于7月10日起禁止员工使用Anthropic的编程工具Claude Code，列为高风险软件并要求改用自研工具Qoder。此前该工具被曝含有识别中国用户身份的代码逻辑，引发争议。",
-      "publishedAt": "2026-07-04T09:32:00-07:00",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/",
-      "subCategory": "AI编程"
     },
     {
       "title": "当一千五百条漏洞一夜曝光：AI既是矛也是盾",
@@ -366,6 +429,15 @@
       "id": "ai-20260702-008"
     },
     {
+      "title": "OpenAI reportedly wants all AI companies to give the US government a stake in their businesses",
+      "summary": "据英国《金融时报》报道，OpenAI首席执行官奥特曼提议由美国政府持有包括OpenAI在内的主要美国AI公司各以5%股权，谷歌、Meta、Anthropic等是否同意尚不明确，方案仍需国会批准，目前处于初步磋商阶段。",
+      "publishedAt": "2026-07-02T05:27:00-04:00",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2206552/openai-ai-companies-give-us-government-stake-businesses-proposal/",
+      "subCategory": "大模型",
+      "id": "ai-20260702-015"
+    },
+    {
       "title": "3年估值3400亿AI独角兽DeepSeek宕机超12小时，用户依赖下为何稳定性成为致命短板？",
       "summary": "DeepSeek网页及API服务7月2日出现大范围异常，持续超12小时至次日凌晨5点才完全恢复，累计影响超1.1亿用户，报道分析原因涉及用户增长过快、算力扩容滞后与商业化加速三方面因素叠加。",
       "publishedAt": "2026-07-02T17:17:00+08:00",
@@ -429,15 +501,6 @@
       "id": "ai-20260702-003"
     },
     {
-      "title": "OpenAI reportedly wants all AI companies to give the US government a stake in their businesses",
-      "summary": "据英国《金融时报》报道，OpenAI首席执行官奥特曼提议由美国政府持有包括OpenAI在内的主要美国AI公司各以5%股权，谷歌、Meta、Anthropic等是否同意尚不明确，方案仍需国会批准，目前处于初步磋商阶段。",
-      "publishedAt": "2026-07-02T05:27:00-04:00",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2206552/openai-ai-companies-give-us-government-stake-businesses-proposal/",
-      "subCategory": "大模型",
-      "id": "ai-20260702-015"
-    },
-    {
       "title": "More details on Fable 5's cyber safeguards and our jailbreak framework",
       "summary": "Anthropic公布Claude Fable 5网络安全防护细节，将使用场景分为禁止、高风险双用、低风险双用与良性四级，并联合亚马逊、微软、谷歌等提出CJS-0至CJS-4越狱严重程度评分框架，用于统一评估风险。",
       "publishedAt": "2026-07-02",
@@ -465,6 +528,15 @@
       "id": "ai-20260702-010"
     },
     {
+      "title": "Copilot vision is generally available",
+      "summary": "GitHub Copilot视觉功能正式面向所有订阅层级开放，用户可在聊天中直接上传图片和PDF文件，让Copilot结合代码理解视觉内容，功能覆盖VS Code、github.com和CLI，无需管理员开启策略。",
+      "publishedAt": "2026-07-01T11:39:17-07:00",
+      "source": "GitHub Changelog",
+      "url": "https://github.blog/changelog/2026-07-01-copilot-vision-is-generally-available/",
+      "subCategory": "AI编程",
+      "id": "ai-20260701-015"
+    },
+    {
       "id": "ai-20260701-014",
       "title": "OpenAI 推出 GeneBench-Pro 基准测试，用于评估 AI 模型生物学计算能力",
       "summary": "OpenAI于7月1日发布生物计算基准测试GeneBench-Pro，含129道题目，覆盖统计遗传学、群体遗传学等10大领域21个子方向，以合成数据构建避免模型套用捷径，已在Hugging Face开源10道示例题，后续将开放50题供第三方独立评测。",
@@ -490,15 +562,6 @@
       "source": "IT之家",
       "url": "https://www.ithome.com/0/971/118.htm",
       "subCategory": "AI编程"
-    },
-    {
-      "title": "Copilot vision is generally available",
-      "summary": "GitHub Copilot视觉功能正式面向所有订阅层级开放，用户可在聊天中直接上传图片和PDF文件，让Copilot结合代码理解视觉内容，功能覆盖VS Code、github.com和CLI，无需管理员开启策略。",
-      "publishedAt": "2026-07-01T11:39:17-07:00",
-      "source": "GitHub Changelog",
-      "url": "https://github.blog/changelog/2026-07-01-copilot-vision-is-generally-available/",
-      "subCategory": "AI编程",
-      "id": "ai-20260701-015"
     },
     {
       "id": "ai-20260701-003",
@@ -636,15 +699,6 @@
       "subCategory": "大模型"
     },
     {
-      "id": "ai-20260630-006",
-      "title": "谷歌Gemini个性化AI生图功能面向全美免费用户开放",
-      "summary": "谷歌将Nano Banana驱动的个性化图像生成功能扩展至美国全体符合条件的免费版Gemini用户（此前仅限Plus/Pro/Ultra付费用户），该功能可结合已连接的Gmail、相册、YouTube及搜索数据自动生成个性化图像。",
-      "publishedAt": "2026-06-30T07:35:52+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/970/251.htm",
-      "subCategory": "多模态"
-    },
-    {
       "id": "ai-20260630-004",
       "title": "Anthropic发布Claude Sonnet 5，定位“迄今最具agentic能力的Sonnet模型”",
       "summary": "Anthropic推出Claude Sonnet 5，官方称其为迄今最具agentic能力的Sonnet系列模型，性能接近Opus 4.8但成本更低；截至8月31日提供每百万Token输入2美元、输出10美元的推介价，此后恢复至3美元/15美元标准定价。",
@@ -669,60 +723,6 @@
       "publishedAt": "2026-06-30",
       "source": "Hugging Face（IBM Research）",
       "url": "https://huggingface.co/blog/ibm-research/scarfbench",
-      "subCategory": "AI评测"
-    },
-    {
-      "id": "ai-20260630-007",
-      "title": "Hugging Face将“Every Eval Ever”评测结果接入模型页面",
-      "summary": "Hugging Face将EvalEval联盟推出的标准化评测框架“Every Eval Ever”（EEE）与平台社区评测功能集成，通过转换工具统一约22.9万条覆盖逸2.2万个模型的评测结果，并为已验证评测方新增标识。",
-      "publishedAt": "2026-06-30",
-      "source": "Hugging Face",
-      "url": "https://huggingface.co/blog/eee-community-evals",
-      "subCategory": "AI评测"
-    },
-    {
-      "id": "ai-20260629-001",
-      "title": "马斯克宣布Grok 4.5开启SpaceX与特斯拉内部私测，性能或超越Opus",
-      "summary": "马斯克在X平台宣布Grok 4.5已进入SpaceX和特斯拉内部私测阶段，其测试结果显示性能或超越Claude Opus系列；xAI计划在内部测试趋于稳定后优先向SuperGrok Heavy订阅用户推送，Grok 4.5定位于当前Grok 4与更高阶版本之间的过渡升级。",
-      "publishedAt": "2026-06-29T07:49:00+08:00",
-      "source": "36氪",
-      "url": "https://36kr.com/newsflashes/3873481579746561",
-      "subCategory": "大模型"
-    },
-    {
-      "id": "ai-20260629-002",
-      "title": "DiScoFormer：用单一Transformer同时估计数据密度与得分",
-      "summary": "艾伦人工智能研究院（AI2）提出DiScoFormer模型，可在一次前向传播中联合估计数据分布的密度与得分；在百维空间实验中，相较核密度估计方法，得分误差降低6.5倍、密度误差降低37倍。",
-      "publishedAt": "2026-06-29",
-      "source": "Hugging Face（Allen Institute for AI）",
-      "url": "https://huggingface.co/blog/allenai/discoformer",
-      "subCategory": "论文进展"
-    },
-    {
-      "id": "ai-20260629-003",
-      "title": "论文提出Agents-A1：35B参数智能体模型对标万亿参数模型表现",
-      "summary": "研究论文提出“Agents-A1”，一个350亿参数混合专家智能体模型，通过多教师领域路由的在线策略蒸馏及约4.5万Token决策链训练，在智能体基准测试中声称达到与Kimi-K2.6、DeepSeek-V4-pro等更大规模模型相当的表现。",
-      "publishedAt": "2026-06-29",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2606.30616",
-      "subCategory": "论文进展"
-    },
-    {
-      "id": "ai-20260629-004",
-      "title": "NeuWorld：基于神经隐式场景表示的交互式世界探索模型",
-      "summary": "论文提出“神经隐式场景”固定长度可渲染表示，结合名为NeuWorld的扩散Transformer实现摄像机可控的交互式视频与世界探索，在无需预训练视频模型的情况下实现长时程一致性，与具身智能及世界模型研究相关。",
-      "publishedAt": "2026-06-29",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2606.30045",
-      "subCategory": "论文进展"
-    },
-    {
-      "id": "ai-20260628-001",
-      "title": "OSWorld2.0：面向长时程真实计算机使用任务的智能体基准",
-      "summary": "新基准OSWorld2.0包含108项长时程计算机操作任务，平均每项需318次工具调用（对比OSWorld 1.0约30次）；测试发现Claude Opus 4.8等顶尖模型仅能完成20.6%的任务，暴露出流式交互与状态恢复方面的能力差距。",
-      "publishedAt": "2026-06-28",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2606.29537",
       "subCategory": "AI评测"
     }
   ]

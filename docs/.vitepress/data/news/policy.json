@@ -3,8 +3,35 @@
   "slug": "policy",
   "title": "政策信息",
   "description": "国家与地方政策、监管动态、产业扶持与合规要求。",
-  "updatedAt": "2026-07-06T09:15:00+08:00",
+  "updatedAt": "2026-07-06T23:59:00+08:00",
   "items": [
+    {
+      "id": "policy-20260706-401",
+      "title": "中央网信办通报\"清朗·整治AI应用乱象\"专项行动第一阶段成果",
+      "summary": "中央网信办通报,自4月启动的清朗·整治AI应用乱象专项行动第一阶段累计处置违规AI产品1.4万余款,清理违法违规信息600余万条,处置账号2.6万余个,下架违规AI商品1300余个及违规开源数据集9个。",
+      "publishedAt": "2026-07-06T17:06:39+08:00",
+      "source": "新华网",
+      "url": "https://www.news.cn/politics/20260706/4ce1356eb1b34e878c3fa1e2d9e5da1f/c.html",
+      "subCategory": "AI监管"
+    },
+    {
+      "id": "policy-20260706-402",
+      "title": "英国政府就AI玩具安全发起证据征集,加强儿童保护",
+      "summary": "英国商业与贸易部及产品安全标准办公室发起玩具安全证据征集,截止至10月6日,重点关注新技术带来的风险,包括化学安全与AI互动玩具,旨在推动玩具安全监管框架现代化并加强对消费者的保护。",
+      "publishedAt": "2026-07-06",
+      "source": "GOV.UK",
+      "url": "https://www.gov.uk/government/news/government-steps-up-action-to-protect-children-as-ai-enabled-toys-emerge",
+      "subCategory": "AI监管"
+    },
+    {
+      "id": "policy-20260706-403",
+      "title": "英国科学创新技术部发布数字经济平等机会经济影响报告",
+      "summary": "英国科学创新技术部发布研究报告,测算消除数字经济领域代表性不足群体的就业壁垒可带来的经济收益,其中女性群体相关壁垒消除后每年可创造160亿英镑收益,50至69岁劳动者相关壁垒消除后每年可创造150亿英镑收益。",
+      "publishedAt": "2026-07-06",
+      "source": "GOV.UK",
+      "url": "https://www.gov.uk/government/publications/the-economic-impact-of-equal-opportunities-in-the-digital-economy/the-economic-impact-of-equal-opportunities-in-the-digital-economy",
+      "subCategory": "海外政策"
+    },
     {
       "id": "policy-20260705-001",
       "title": "中英服务贸易协定联合可行性研究技术磋商在伦敦举行",
@@ -49,15 +76,6 @@
       "source": "新华网",
       "url": "https://www.news.cn/politics/20260703/a7441996058a4097920b2127fd3a88b6/c.html",
       "subCategory": "数字经济"
-    },
-    {
-      "title": "民生直通车｜支持企业稳岗扩岗 政策\"两延续一优化\"",
-      "summary": "四部门联合发布通知，延续失业保险稳岗返还政策（大型企业返还比例上限30%、中小微企业60%）和扩岗补助政策，并优化技能提升补贴，扩大适用范围至社会组织、个体工商户等。",
-      "publishedAt": "2026-07-03T00:48:37+08:00",
-      "source": "新华网",
-      "url": "https://www.news.cn/politics/20260703/b7b5e7a9793f42eda13bd53c10fbc683/c.html",
-      "subCategory": "产业政策",
-      "id": "policy-20260703-017"
     },
     {
       "title": "国家发展改革委印发《循环经济发展\"十五五\"规划》",
@@ -123,6 +141,15 @@
       "subCategory": "海外政策"
     },
     {
+      "title": "民生直通车｜支持企业稳岗扩岗 政策\"两延续一优化\"",
+      "summary": "四部门联合发布通知，延续失业保险稳岗返还政策（大型企业返还比例上限30%、中小微企业60%）和扩岗补助政策，并优化技能提升补贴，扩大适用范围至社会组织、个体工商户等。",
+      "publishedAt": "2026-07-03T00:48:37+08:00",
+      "source": "新华网",
+      "url": "https://www.news.cn/politics/20260703/b7b5e7a9793f42eda13bd53c10fbc683/c.html",
+      "subCategory": "产业政策",
+      "id": "policy-20260703-017"
+    },
+    {
       "title": "三项光伏领域强制性国标出炉！标准立门槛，能效定去留",
       "summary": "工信部会同发改委、市场监管总局发布多晶硅锗单位产品能耗限额、晶硅光伏组件与逆变器能效限定值等三项强制性国家标准，2027年1月1日起实施，或将淘汰约327.6吉瓦不达标产能。",
       "publishedAt": "2026-07-02T22:50:33+08:00",
@@ -186,15 +213,6 @@
       "id": "policy-20260702-006"
     },
     {
-      "title": "市场监管总局对火炬集团和鼎晖百孚各罚款175万元",
-      "summary": "市场监管总局对中山火炬集团和上海鼎晖百孚在未获批准前即实施取得中炬高新控制权的经营者集中行为作出行政处罚，鉴于无排除竞争效果且配合调查，两家企业各被罚175万元。",
-      "publishedAt": "2026-07-02T06:40:00+08:00",
-      "source": "新浪财经",
-      "url": "https://finance.sina.com.cn/roll/2026-07-02/doc-inifkcry3722165.shtml",
-      "subCategory": "反垄断",
-      "id": "policy-20260702-003"
-    },
-    {
       "id": "policy-20260706-302",
       "title": "Google Android: the Court of Justice upholds Google's fine of around €4.1 billion",
       "summary": "欧盟法院驳回谷歌及母公司Alphabet对安卓反垄断案裁决提出的上诉，维持普通法院此前裁定的约41.25亿欧元罚款，认定谷歌通过预装协议、反碎片化协议及收入分成协议滥用市场支配地位、限制竞争。",
@@ -229,6 +247,15 @@
       "source": "国家市场监督管理总局",
       "url": "https://www.samr.gov.cn/xw/sj/art/2026/art_be8c39da9e284d368b40e073e9be6009.html",
       "subCategory": "数字经济"
+    },
+    {
+      "title": "市场监管总局对火炬集团和鼎晖百孚各罚款175万元",
+      "summary": "市场监管总局对中山火炬集团和上海鼎晖百孚在未获批准前即实施取得中炬高新控制权的经营者集中行为作出行政处罚，鉴于无排除竞争效果且配合调查，两家企业各被罚175万元。",
+      "publishedAt": "2026-07-02T06:40:00+08:00",
+      "source": "新浪财经",
+      "url": "https://finance.sina.com.cn/roll/2026-07-02/doc-inifkcry3722165.shtml",
+      "subCategory": "反垄断",
+      "id": "policy-20260702-003"
     },
     {
       "id": "policy-20260701-005",
@@ -697,33 +724,6 @@
       "source": "IT之家",
       "url": "https://www.ithome.com/0/954/989.htm",
       "subCategory": "数字经济"
-    },
-    {
-      "id": "policy-20260523-004",
-      "title": "国家数据局召开词元经济座谈会，阿里云、腾讯、月之暗面等参会",
-      "summary": "国家数据局召开词元经济座谈会，阿里云、腾讯、月之暗面等主要科技企业参会；会议明确词元（Token）正成为AI服务核心计算单位与结算指标，国家数据局承诺将词元经济纳入工作框架，推进高质量数据集建设与全国一体化算力网络协同；是国家层面推进AI服务计量规范化的重要信号。",
-      "publishedAt": "2026-05-23T21:38:59+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/954/441.htm",
-      "subCategory": "数字经济"
-    },
-    {
-      "id": "policy-20260523-003",
-      "title": "2026年1-4月全国吸收外资2876.9亿元人民币",
-      "summary": "商务部发布2026年1-4月全国实际使用外资数据，合计吸收外资2876.9亿元人民币；新闻发言人表示外资结构持续优化，高技术产业吸引外资规模保持较快增速，中国将继续扩大开放、优化营商环境，稳定外商投资预期与规模。",
-      "publishedAt": "2026-05-23T11:38:00+08:00",
-      "source": "商务部",
-      "url": "https://www.mofcom.gov.cn/xwfb/rcxwfb/art/2026/art_21245f836d4e435fbe30701c54cca7fc.html",
-      "subCategory": "产业政策"
-    },
-    {
-      "id": "policy-20260523-001",
-      "title": "谷歌上诉反垄断裁决，辩称其搜索成功全靠产品创新而非排他协议",
-      "summary": "谷歌向美国联邦巡回上诉法院提起上诉，挑战2024年认定其为搜索市场垄断者的反垄断裁决，主张苹果选择其为默认搜索引擎系商业自主决策而非排他协议结果；要求撤销法院责令向竞争对手开放搜索数据的整改措施，该措施已于今年2月生效。",
-      "publishedAt": "2026-05-23T07:20:21+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/954/229.htm",
-      "subCategory": "海外政策"
     }
   ]
 }

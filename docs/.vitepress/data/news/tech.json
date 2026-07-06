@@ -3,8 +3,53 @@
   "slug": "tech",
   "title": "科技新闻",
   "description": "前沿科技、互联网产品、芯片硬件、开源生态。",
-  "updatedAt": "2026-07-06T09:15:00+08:00",
+  "updatedAt": "2026-07-06T23:59:00+08:00",
   "items": [
+    {
+      "id": "tech-20260706-403",
+      "title": "Microsoft lays off nearly 5,000 employees across Xbox, commercial sales",
+      "summary": "微软对Xbox及商业销售部门实施裁员,涉及约4800个岗位,占全球员工总数2.1%,其中Xbox部门裁减约1600人,管理层级将从14层压缩至三层,部分游戏工作室将转由其他公司运营。",
+      "publishedAt": "2026-07-06T08:08:00-07:00",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/06/microsoft-lays-off-nearly-5000-employees-across-xbox-commercial-sales/",
+      "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260706-405",
+      "title": "爱仕达与智元机器人签署战略合作协议",
+      "summary": "爱仕达旗下人形机器人子公司与智元机器人正式签署战略合作协议,双方将在采购订单交付、具身智能机器人代工、供应链协同、技术支持及股权投资等五个方向展开合作。",
+      "publishedAt": "2026-07-06T15:07:00+08:00",
+      "source": "36氪",
+      "url": "https://36kr.com/newsflashes/3883821411545091",
+      "subCategory": "机器人"
+    },
+    {
+      "id": "tech-20260706-402",
+      "title": "中国航天科技集团商业火箭公司增资至41.7亿元,增幅约199%",
+      "summary": "中国航天科技集团旗下商业火箭公司发生工商变更,注册资本由约13.96亿元增至约41.7亿元,增幅约199%,公司成立于2024年9月,法定代表人为侯正泉,业务涵盖运载火箭研制及发射服务。",
+      "publishedAt": "2026-07-06T14:31:00+08:00",
+      "source": "36氪",
+      "url": "https://36kr.com/newsflashes/3883786031820804",
+      "subCategory": "航空航天"
+    },
+    {
+      "id": "tech-20260706-401",
+      "title": "华为Mate 90系列有望搭载基于\"韬定律\"的新款麒麟芯片",
+      "summary": "有消息称,华为Mate 90系列预计今年秋季发布,将搭载基于\"韬定律\"的新款麒麟芯片,采用逻辑折叠工艺压缩芯片内部信号传播延迟,为该工艺首次用于商用处理器,性能较现有型号提升。",
+      "publishedAt": "2026-07-06T13:15:00+08:00",
+      "source": "36氪",
+      "url": "https://36kr.com/newsflashes/3883711499137283",
+      "subCategory": "芯片硬件"
+    },
+    {
+      "id": "tech-20260706-404",
+      "title": "佑驾创新发布Combo末端物流方案,四轮足机器人同步亮相",
+      "summary": "港股上市公司佑驾创新发布\"Combo\"无人物流方案,旗下四轮足式机器人同步亮相,可负载30公斤、跨越30厘米台阶,用于末端配送场景的自主上门与卸货,解决城市物流最后一公里难题。",
+      "publishedAt": "2026-07-06T09:40:55+08:00",
+      "source": "腾讯新闻",
+      "url": "https://news.qq.com/rain/a/20260706A037KK00",
+      "subCategory": "机器人"
+    },
     {
       "id": "tech-20260706-301",
       "title": "宏碁 Swift 16 笔记本海外发售：1899 美元起，酷睿 Ultra X9 388H 处理器",
@@ -240,6 +285,42 @@
       "subCategory": "芯片硬件"
     },
     {
+      "id": "tech-20260704-017",
+      "title": "谷歌新广告想象用AI协助起草《独立宣言》",
+      "summary": "谷歌发布广告《Group project, but make it 1776》，想象开国元勋借助Google文档、日历和Gemini协作起草《独立宣言》。广告在社交媒体反响不一，有历史学家指出片中实际展示的AI应用其实很少。",
+      "publishedAt": "2026-07-04T20:55:25Z",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/",
+      "subCategory": "互联网产品"
+    },
+    {
+      "id": "tech-20260704-018",
+      "title": "NASA紧急启动任务营救即将坦毁的雨燕天文台",
+      "summary": "2004年发射的雨燕天文台因太阳风暴导致轨道下降，最快今年可能坦入大气层烧毁。NASA委托Katalyst Space Technologies实施营救，其Link飞船已于周五发射，计划对接雨燕天文台以延长寿命，任务筹备仅耗时九个月。",
+      "publishedAt": "2026-07-04T19:06:27Z",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/science/961459/nasa-emergency-save-swift-observatory-katalyst-space-technologies",
+      "subCategory": "航空航天"
+    },
+    {
+      "id": "tech-20260704-022",
+      "title": "Tesla expands robotaxi service to small section of Miami",
+      "summary": "特斯拉Robotaxi无人驾驶出租车服务已扩展至迈阿密西区一小片区域，车辆不配备安全员，此前已在得克萨斯州达拉斯、休斯顿等地推出类似服务。",
+      "publishedAt": "2026-07-04T13:30:00-04:00",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2207974/tesla-expands-robotaxi-service-to-small-section-of-miami/",
+      "subCategory": "智能汽车"
+    },
+    {
+      "id": "tech-20260704-019",
+      "title": "扫地机器人品牌Matic将于9月起提价250美元",
+      "summary": "广受好评的扫地机器人厂商Matic宣布，将于9月9日起把产品价格从1245美元上调至1495美元，涨幅250美元。公司表示新定价反映了成本变化，并称将为提价前购买的用户提供一年免费替换尘袋及更长退货期作为补偿。",
+      "publishedAt": "2026-07-04T16:00:00Z",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/gadgets/960753/matic-robot-vacuum-mop-price-increase-cost-buy",
+      "subCategory": "消费电子"
+    },
+    {
       "title": "传输速率12800MT/s，澜起科技MRDIMM处于第二子代产品规模试用阶段",
       "summary": "澜起科技在投资者活动中透露，第二代MRDIMM内存模组传输速率14达12800MT/s，较第一代8800MT/s提升约45%，目前处于规模试用阶段，预计2026年下半年至2027年获更多CPU平台支持，第三代速率将达16000MT/s。",
       "publishedAt": "2026-07-04T22:57:21+08:00",
@@ -256,6 +337,15 @@
       "url": "https://www.ithome.com/0/972/667.htm",
       "subCategory": "网络基础设施",
       "id": "tech-20260704-016"
+    },
+    {
+      "id": "tech-20260704-020",
+      "title": "Epomaker RT98评测：数字键盘可换手位的复古机械键盘",
+      "summary": "The Verge评测了Epomaker众筹机械键盘RT98，起售价119美元，配备复古CRT风格屏幕，支持VIA自定义，数字键盘可拆卸并装到左侧或右侧。评测认为打字手感和音效不错，但键帽塑料感明显、字符不够清晰，换键盘过程略显繁琐。",
+      "publishedAt": "2026-07-04T14:00:00Z",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/960837/epomaker-rt98-mechanical-keyboard-modular-numpad-review",
+      "subCategory": "消费电子"
     },
     {
       "title": "小米推送新规2026年8月1日生效：消息类型扩至75类，新增订阅消息功能",
@@ -285,13 +375,13 @@
       "id": "tech-20260704-005"
     },
     {
-      "id": "tech-20260704-017",
-      "title": "谷歌新广告想象用AI协助起草《独立宣言》",
-      "summary": "谷歌发布广告《Group project, but make it 1776》，想象开国元勋借助Google文档、日历和Gemini协作起草《独立宣言》。广告在社交媒体反响不一，有历史学家指出片中实际展示的AI应用其实很少。",
-      "publishedAt": "2026-07-04T20:55:25Z",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/",
-      "subCategory": "互联网产品"
+      "id": "tech-20260704-021",
+      "title": "Ikko MindOne Pro上手体验：方形屏幕小尺寸手机概念难达预期",
+      "summary": "深圳耳机厂商Ikko推出499美元小尺寸智能手机MindOne Pro，采用方形屏幕设计，摄像头可翻转用于自拍。The Verge实测发现该机初次设置时明显发热、续航表现不佳，一个半小时电量从九十多降至六十多，相机成色处理也不理想。",
+      "publishedAt": "2026-07-04T13:00:00Z",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/960509/ikko-mindone-pro-hands-on",
+      "subCategory": "消费电子"
     },
     {
       "title": "零刻EQi 304迷你主机海外上市：行业首发Wildcat Lake+UFS 3.1闪存，双雷电4+双网口",
@@ -310,15 +400,6 @@
       "url": "https://www.ithome.com/0/972/638.htm",
       "subCategory": "航空航天",
       "id": "tech-20260704-011"
-    },
-    {
-      "id": "tech-20260704-018",
-      "title": "NASA紧急启动任务营救即将坦毁的雨燕天文台",
-      "summary": "2004年发射的雨燕天文台因太阳风暴导致轨道下降，最快今年可能坦入大气层烧毁。NASA委托Katalyst Space Technologies实施营救，其Link飞船已于周五发射，计划对接雨燕天文台以延长寿命，任务筹备仅耗时九个月。",
-      "publishedAt": "2026-07-04T19:06:27Z",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/science/961459/nasa-emergency-save-swift-observatory-katalyst-space-technologies",
-      "subCategory": "航空航天"
     },
     {
       "title": "宇树科技陈立：关节电机上游只有铜线、磁铁等原材料供应商，完全自主可控",
@@ -384,33 +465,6 @@
       "id": "tech-20260704-013"
     },
     {
-      "id": "tech-20260704-019",
-      "title": "扫地机器人品牌Matic将于9月起提价250美元",
-      "summary": "广受好评的扫地机器人厂商Matic宣布，将于9月9日起把产品价格从1245美元上调至1495美元，涨幅250美元。公司表示新定价反映了成本变化，并称将为提价前购买的用户提供一年免费替换尘袋及更长退货期作为补偿。",
-      "publishedAt": "2026-07-04T16:00:00Z",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/gadgets/960753/matic-robot-vacuum-mop-price-increase-cost-buy",
-      "subCategory": "消费电子"
-    },
-    {
-      "id": "tech-20260704-020",
-      "title": "Epomaker RT98评测：数字键盘可换手位的复古机械键盘",
-      "summary": "The Verge评测了Epomaker众筹机械键盘RT98，起售价119美元，配备复古CRT风格屏幕，支持VIA自定义，数字键盘可拆卸并装到左侧或右侧。评测认为打字手感和音效不错，但键帽塑料感明显、字符不够清晰，换键盘过程略显繁琐。",
-      "publishedAt": "2026-07-04T14:00:00Z",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/960837/epomaker-rt98-mechanical-keyboard-modular-numpad-review",
-      "subCategory": "消费电子"
-    },
-    {
-      "id": "tech-20260704-022",
-      "title": "Tesla expands robotaxi service to small section of Miami",
-      "summary": "特斯拉Robotaxi无人驾驶出租车服务已扩展至迈阿密西区一小片区域，车辆不配备安全员，此前已在得克萨斯州达拉斯、休斯顿等地推出类似服务。",
-      "publishedAt": "2026-07-04T13:30:00-04:00",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2207974/tesla-expands-robotaxi-service-to-small-section-of-miami/",
-      "subCategory": "智能汽车"
-    },
-    {
       "title": "首款神经动力学芯片问世，有助于脑机接口等技术发展",
       "summary": "北京大学集成电路学院与中科院上海微系统所联合研制出全球首款基于相变忆阱器的神经动力学系统芯片，单步延迟压缩至2.12毫秒，在皮层重建任务中比现有GPU快50至478倍，相关成果7月3日发表于《科学》杂志。",
       "publishedAt": "2026-07-04T13:20:00+08:00",
@@ -418,15 +472,6 @@
       "url": "https://36kr.com/newsflashes/3880779651248391",
       "subCategory": "芯片硬件",
       "id": "tech-20260704-004"
-    },
-    {
-      "id": "tech-20260704-021",
-      "title": "Ikko MindOne Pro上手体验：方形屏幕小尺寸手机概念难达预期",
-      "summary": "深圳耳机厂商Ikko推出499美元小尺寸智能手机MindOne Pro，采用方形屏幕设计，摄像头可翻转用于自拍。The Verge实测发现该机初次设置时明显发热、续航表现不佳，一个半小时电量从九十多降至六十多，相机成色处理也不理想。",
-      "publishedAt": "2026-07-04T13:00:00Z",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/960509/ikko-mindone-pro-hands-on",
-      "subCategory": "消费电子"
     },
     {
       "id": "tech-20260704-001",
@@ -679,51 +724,6 @@
       "url": "https://www.ithome.com/0/971/939.htm",
       "subCategory": "智能汽车",
       "id": "tech-20260702-029"
-    },
-    {
-      "title": "消息称Anthropic启动自研AI芯片早期开发，拟采用三星2纳米工艺",
-      "summary": "据The Information报道，Anthropic正与三星洽谈定制AI芯片，已启动早期开发工作，计划采用三星2纳米工艺及先进封装技术，但尚未确定芯片的功能定位、算力规格及部署方案，公司近期还挖来了原OpenAI芯片团队核心成员。",
-      "publishedAt": "2026-07-02T21:59:49+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/971/921.htm",
-      "subCategory": "芯片硬件",
-      "id": "tech-20260702-025"
-    },
-    {
-      "title": "\"史上最严电池安全令\"落地，长安汽车金钟罩电池达成新国标测试",
-      "summary": "7月1日电动汽车电池强制性新国标GB 38031-2025正式实施，长安汽车宣布其金钟罩电池系统已完成新国标全部测试，成为行业首批完成认证的车企之一，支持6C快充，9分钟可充至30%到80%电量。",
-      "publishedAt": "2026-07-02T21:58:46+08:00",
-      "source": "IT之家",
-      "url": "https://m.ithome.com/html/971919.htm",
-      "subCategory": "智能汽车",
-      "id": "tech-20260702-031"
-    },
-    {
-      "title": "小鹏 MONA L03 预售价 14.38 万元起，7 月 16 日正式上市",
-      "summary": "小鹏MONA L03中国首秀公布预售价，14.38万元起，7月16日正式上市。新车提供纯电与增程双动力，纯电版续航最高625公里，搭载1500TOPS算力芯片及第二代VLA智驾系统，零百加速最快6.6秒。",
-      "publishedAt": "2026-07-02T20:37:06+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/971/898.htm",
-      "subCategory": "智能汽车",
-      "id": "tech-20260702-028"
-    },
-    {
-      "id": "tech-20260703-009",
-      "title": "比亚迪海洋网旗舰海豹08上市：插混、纯电标配闪充，19.69万元起",
-      "summary": "比亚迪海洋网旗舰轿车海豹08正式上市，提供插混与纯电动力版本，售价19.69万元起，全系标配快充与云过-A、后轮转向配置，纯电版CLTC续航最高905公里。",
-      "publishedAt": "2026-07-02T20:33:27+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/971/897.htm",
-      "subCategory": "智能汽车"
-    },
-    {
-      "title": "微星星影 15 Max 笔记本新增“酷睚 7 240H + RTX5060”版本，9999 元起",
-      "summary": "微星星影15 Max笔记本新增酷睚7 240H+RTX5060配置，16GB内存512GB硬盘犗9999元起，1TB版10599元，屏幕为1080P 144Hz，支持100W PD快充。",
-      "publishedAt": "2026-07-02T16:35:28+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/971/662.htm",
-      "subCategory": "消费电子",
-      "id": "tech-20260702-014"
     }
   ]
 }

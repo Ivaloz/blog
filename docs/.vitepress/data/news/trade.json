@@ -3,8 +3,80 @@
   "slug": "trade",
   "title": "外贸资讯",
   "description": "亚马逊、TikTok Shop、阿里国际站、Shopify 等平台政策与跨境电商市场、独立站、物流支付、关税法规、选品趋势。",
-  "updatedAt": "2026-07-06T09:15:00+08:00",
+  "updatedAt": "2026-07-06T23:59:00+08:00",
   "items": [
+    {
+      "id": "trade-20260706-403",
+      "title": "广东首条\"东莞—塔城—喀山\"跨境电商陆路专线开通",
+      "summary": "广东首条\"东莞—塔城—喀山\"跨境电商陆路专线开通,首批货物含超9万件跨境电商包裹,经塔城巴克图口岸直达喀山,采用属地申报口岸验放模式,为珠三角3C及轻工产品拓展俄罗斯及中亚市场提供新通道。",
+      "publishedAt": "2026-07-06T10:51:00+08:00",
+      "source": "AMZ123跨境导航",
+      "url": "https://www.amz123.com/kx/vHCv3wMy",
+      "subCategory": "物流仓储"
+    },
+    {
+      "id": "trade-20260706-404",
+      "title": "东莞仓134台机器人验证成熟,菜鸟加速海外仓储机器人布局",
+      "summary": "菜鸟与竞星仓储设备工程(香港)合作推进爬楼机器人仓储方案全球复制,东莞仓134台机器人完成验证,未来四个月内将在广州、香港、荷兰、西班牙落地机器人仓库,用于降低海外仓人力成本、提升履约效率。",
+      "publishedAt": "2026-07-06T10:51:00+08:00",
+      "source": "AMZ123跨境导航",
+      "url": "https://www.amz123.com/kx/tW3oi3Ad",
+      "subCategory": "物流仓储"
+    },
+    {
+      "id": "trade-20260706-406",
+      "title": "2026年Q1马来西亚电商诈骗损失超4.3亿令吉",
+      "summary": "马来西亚国内贸易部通报,2026年第一季度电商诈骗造成超4.3亿令吉经济损失,2025年全年诈骗案件超6万宗、损失29.7亿令吉,当局已采取账户冻结、网站封锁等措施并呼吁提升消费者防诈意识。",
+      "publishedAt": "2026-07-06T10:30:00+08:00",
+      "source": "AMZ123跨境导航",
+      "url": "https://www.amz123.com/kx/1QwRl656",
+      "subCategory": "新兴市场"
+    },
+    {
+      "id": "trade-20260706-402",
+      "title": "印尼四大电商平台将于8月1日起代扣卖家所得税",
+      "summary": "印尼税务部门要求Tokopedia、Shopee、Lazada、Blibli四大电商平台自8月1日起按卖家毛收入0.5%代扣所得税,7月为系统测试与通知过渡期,年营收低于50亿印尼盾或持有免税凭证的卖家可申请豁免。",
+      "publishedAt": "2026-07-06T10:10:00+08:00",
+      "source": "AMZ123跨境导航",
+      "url": "https://www.amz123.com/kx/8PDGi37p",
+      "subCategory": "关税法规"
+    },
+    {
+      "id": "trade-20260706-408",
+      "title": "Lazada泰国本土店将于7月1日起调整Premium Package费率",
+      "summary": "Lazada泰国本土店自7月1日起调整Premium Package服务费率,按站内成交订单以商品原价扣除卖家自设优惠后计费,佣金比例按类目在7%至8%区间浮动,建议已入驻或计划升级的卖家重新核算SKU毛利。",
+      "publishedAt": "2026-07-06T09:59:00+08:00",
+      "source": "AMZ123跨境导航",
+      "url": "https://www.amz123.com/kx/JrJ0TDAR",
+      "subCategory": "平台政策"
+    },
+    {
+      "id": "trade-20260706-405",
+      "title": "越南电商格局重构:Shopee以42%领先,TikTok Shop占24%高速增长",
+      "summary": "2026年越南电商市场呈现三层竞争格局,Shopee以42%市场份额保持领先,TikTok Shop以24%份额位居第二并实现同比60%增长,Lazada份额为18%,两大平台客单价分别为8.5美元与12美元。",
+      "publishedAt": "2026-07-06T09:48:00+08:00",
+      "source": "AMZ123跨境导航",
+      "url": "https://www.amz123.com/kx/IKHwjgKx",
+      "subCategory": "新兴市场"
+    },
+    {
+      "id": "trade-20260706-401",
+      "title": "亚马逊向中国税务部门二次报送2025Q4及2026Q1卖家交易数据",
+      "summary": "亚马逊因此前申报数据存在偏差,已向中国税务部门重新报送2025年第四季度及2026年第一季度卖家交易数据,并通知卖家下载更新报告,核对差异以规避补税与稽查风险。",
+      "publishedAt": "2026-07-06T09:38:00+08:00",
+      "source": "AMZ123跨境导航",
+      "url": "https://www.amz123.com/kx/eYPp1Nfl",
+      "subCategory": "关税法规"
+    },
+    {
+      "id": "trade-20260706-407",
+      "title": "澄海潜水玩具借TikTok在美区走红,多款产品月销破百万",
+      "summary": "广东澄海潜水玩具借助TikTok短视频内容营销在美区走红,美人鱼贝壳款亚马逊美区售价20.99美元、月销超5000件,仿真救援鱼款售价23.99美元、月销超9000件、GMV超百万元人民币。",
+      "publishedAt": "2026-07-06T09:38:00+08:00",
+      "source": "AMZ123跨境导航",
+      "url": "https://www.amz123.com/kx/XBt6qVzF",
+      "subCategory": "选品趋势"
+    },
     {
       "id": "trade-20260706-307",
       "title": "Shopee菲律宾南部商家订单量三年增长51%，视频带货销售额增长209%",
@@ -652,78 +724,6 @@
       "source": "AMZ123跨境导航",
       "url": "https://www.amz123.com/kx/3YP9Ts1y",
       "subCategory": "物流仓储"
-    },
-    {
-      "title": "SCFI连续四周上涨 欧线运价逼近一年高位",
-      "summary": "上海出口集装箱运价指数SCFI连续四周上涨，截至6月末扉手扢时掐3239.64点，欧线运价维持高位，上海至鹿特丹的4392美元/FEU，红海绕行使有效运力减少8%至10%。",
-      "publishedAt": "2026-06-30T15:48:00+08:00",
-      "source": "AMZ123跨境导航",
-      "url": "https://www.amz123.com/kx/6rKMCpV6",
-      "subCategory": "物流仓储",
-      "id": "trade-20260630-002"
-    },
-    {
-      "title": "Small-parcel tax on Shein and Temu: why is it disappearing on July 1?",
-      "summary": "法国政府宣布自7月1日起暂停针对Shein、Temu等平台小包裹征收的2欧元关税，原因是欧盟统一的3欧元小包关税同日生效，法国税收因平台绕道其他欧盟国家而大幅缩水。",
-      "publishedAt": "2026-06-30T10:46:00+08:00",
-      "source": "Sortiraparis",
-      "url": "https://www.sortiraparis.com/en/news/in-paris/articles/348372-small-package-tax-on-shein-and-temu-why-is-it-being-scrapped-on-july-1",
-      "subCategory": "关税法规",
-      "id": "trade-20260630-001"
-    },
-    {
-      "id": "trade-20260630-003",
-      "title": "亚马逊企业购卖家注意了！这个配送效率指标 9 月 30 日起会影响你的业绩",
-      "summary": "亚马逊宣布美国企业购店铺自9月30日起对自配送卖家启用「营业时间配送达成率」指标，要求14天滚动周期内90%以上订单在客户营业时间内送达，未达标将收到提示，10月30日仍未改善或被暂停企业购自配送资格。",
-      "publishedAt": "2026-06-30",
-      "source": "雨果网",
-      "url": "https://www.cifnews.com/article/187174",
-      "subCategory": "平台政策"
-    },
-    {
-      "id": "trade-20260629-001",
-      "title": "SpeedPAK将于7月1日开通香港至欧盟23国物流服务",
-      "summary": "eBay旗下物流品牌SpeedPAK宣布将于2026年7月1日开通香港至欧盟23个国家的物流服务，覆盖法国、德国、意大利、西班牙等主要市场；新航线提供全程跟踪与关税预付选项，有助于香港及内地跨境卖家降低欧盟市场配送成本与清关复杂度。",
-      "publishedAt": "2026-06-29T16:29:00+08:00",
-      "source": "AMZ123",
-      "url": "https://www.amz123.com/kx/ADsVYFTl",
-      "subCategory": "物流仓储"
-    },
-    {
-      "id": "trade-20260629-003",
-      "title": "Temu加入ACCC澳大利亚产品安全承诺",
-      "summary": "Temu正式签署澳大利亚竞争和消费者委员会（ACCC）产品安全承诺，承诺加强平台商品安全审核、及时下架不合规产品，并向消费者提供更便捷的投诉渠道；这是继亚马逊、eBay之后又一主要跨境平台加入ACCC产品安全框架。",
-      "publishedAt": "2026-06-29T13:58:00+08:00",
-      "source": "AMZ123",
-      "url": "https://www.amz123.com/kx/v84XYkrJ",
-      "subCategory": "平台政策"
-    },
-    {
-      "id": "trade-20260629-002",
-      "title": "英国7月1日起削减钢铁免税配额51%",
-      "summary": "英国贸易救济局宣布自2026年7月1日起将钢铁进口免税配额削减51%，适用于多个国家来源的钢铁产品；削减幅度超出业界预期，中国钢铁出口商及相关贸易商需尽快评估配额影响，调整欧洲市场出口布局与报关策略。",
-      "publishedAt": "2026-06-29T11:56:00+08:00",
-      "source": "AMZ123",
-      "url": "https://www.amz123.com/kx/xxZ94pxJ",
-      "subCategory": "关税法规"
-    },
-    {
-      "id": "trade-20260629-004",
-      "title": "SCFI连续九周上涨，欧美四大航线运价全面上行",
-      "summary": "上海出口集装箱运价指数（SCFI）本周再度上涨，连续九周录得上涨，欧洲、地中海、美西、美东四大主力航线运价全面走高；旺季备货需求叠加舱位偏紧，业界预计7月运价将继续高位运行，跨境卖家宜尽早锁定舱位。",
-      "publishedAt": "2026-06-29T11:46:00+08:00",
-      "source": "AMZ123",
-      "url": "https://www.amz123.com/kx/QFF8n2gt",
-      "subCategory": "物流仓储"
-    },
-    {
-      "id": "trade-20260626-003",
-      "title": "亚马逊全球开店推出'拉美速通计划'助力中国品牌拓展巴西与墨西哥市场",
-      "summary": "亚马逊全球开店推出\"拉美速通计划\"，开敌3000个席位，为中国品牌提供巴西本地公司注册支持（最高补贴1.2万美元）及墨西哥RFC税务解决方案（最高补贴6000美元），附带物流权益和专属客服；Q1中国卖家拉美销售额同比翻番，墨西哥Hot Sale成交量同比堂4倍。",
-      "publishedAt": "2026-06-26T17:46:00+08:00",
-      "source": "AMZ123",
-      "url": "https://www.amz123.com/kx/TzuRAIMy",
-      "subCategory": "平台政策"
     }
   ]
 }
