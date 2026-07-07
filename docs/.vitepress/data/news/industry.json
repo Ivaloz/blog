@@ -3,8 +3,26 @@
   "slug": "industry",
   "title": "行业新闻",
   "description": "企业服务、SaaS、云计算、制造业、消费互联网的产业动态。",
-  "updatedAt": "2026-07-06T23:59:00+08:00",
+  "updatedAt": "2026-07-07T09:15:00+08:00",
   "items": [
+    {
+      "id": "industry-20260707-602",
+      "title": "2026商业相关性报告：对话式商业正在改变消费者决策方式",
+      "summary": "199IT发布的商业相关性报告指出，67%消费者期待网购具备对话式导购能力，59%表示平台若能精准荐品会更愿下单；但82%消费者曾遇搜索发现难题，71%搜索失败即离开网站，凸显对话式AI导购的增长空间。",
+      "publishedAt": "2026-07-07T05:53:00+08:00",
+      "source": "199IT（新浪科技转载）",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-07-07/doc-inifxpif8270775.shtml",
+      "subCategory": "消费零售"
+    },
+    {
+      "id": "industry-20260707-601",
+      "title": "2026年AI招聘蓝图：构建、扩张与留住未来AI领导者的数据驱动指南",
+      "summary": "199IT编译报告显示，仅2%企业真正具备AI组织准备度，但96%科技管理者认为AI能力已成关键；72%高成熟度企业已设首席AI官（CAIO），是低成熟度企业的三倍，AI高管薪酬平均高出传统技术管理岗位一成。",
+      "publishedAt": "2026-07-07T04:42:00+08:00",
+      "source": "199IT（新浪科技转载）",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-07-07/doc-inifxhzh1597436.shtml",
+      "subCategory": "行业研报"
+    },
     {
       "id": "industry-20260706-402",
       "title": "中汽协:2026年中国新能源乘用车平均车龄1.8年,燃油车8.2年",
@@ -13,6 +31,24 @@
       "source": "新浪科技",
       "url": "https://finance.sina.com.cn/tech/roll/2026-07-06/doc-inifwscq1847078.shtml",
       "subCategory": "新能源汽车"
+    },
+    {
+      "id": "industry-20260706-601",
+      "title": "Agentic AI to disrupt $234B in SaaS spending: Gartner",
+      "summary": "Gartner预测，到2030年，全球超2340亿美元企业应用软件支出将因Agentic AI面临颠覆，约占企业SaaS支出两成。AI智能体可跨系统直接完成任务、绕开传统界面，打破用户增长与收入增长的传统关联，倒逼SaaS厂商转向按结果收费。",
+      "publishedAt": "2026-07-06",
+      "source": "Gartner（CIODive报道）",
+      "url": "https://www.ciodive.com/news/agentic-ai-disrupt-234-billion-saas-spending/824530/",
+      "subCategory": "SaaS"
+    },
+    {
+      "id": "industry-20260706-602",
+      "title": "Sustainability Reporting in Europe: From Compliance to Strategy",
+      "summary": "BCG发文指出，欧盟ESRS Set 2新规将强制披露数据点减少六到七成，但大型企业年度可持续报告成本仍超百万欧元；多数企业仍将披露视为合规任务而非战略工具，BCG建议企业在2026财年前强化AI与治理能力，实现智能合规。",
+      "publishedAt": "2026-07-06",
+      "source": "BCG",
+      "url": "https://www.bcg.com/publications/2026/smart-compliance-esrs-sustainability-reporting",
+      "subCategory": "企业服务"
     },
     {
       "id": "industry-20260706-305",
@@ -75,6 +111,15 @@
       "publishedAt": "2026-07-06T02:41:00+08:00",
       "source": "199IT（新浪科技）",
       "url": "https://finance.sina.com.cn/tech/roll/2026-07-06/doc-inifuxuq8678504.shtml",
+      "subCategory": "半导体产业"
+    },
+    {
+      "id": "industry-20260705-601",
+      "title": "江波龙：2026上半年净利暴涨超700倍",
+      "summary": "存储模组厂江波龙7月3日晚公告，预计2026年上半年净利润9.2亿至11亿元，同比暴增622至744倍；营收预计220亿至250亿元。公司称受益于全球存储晶圆产能有限、下游需求增加，并与主要晶圆厂续签长期供应协议。",
+      "publishedAt": "2026-07-05T19:27:00+08:00",
+      "source": "新浪财经",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-07-05/doc-inifuaqx2172135.shtml",
       "subCategory": "半导体产业"
     },
     {
@@ -535,6 +580,24 @@
       "source": "STAT News",
       "url": "https://www.statnews.com/2026/07/01/q3-biotech-scorecard-readouts-approval-decisions/",
       "subCategory": "医疗健康"
+    },
+    {
+      "id": "industry-20260701-601",
+      "title": "从跟跑到领跑，中国创新药的2026年中答卷（附创新药清单）",
+      "summary": "据医药魔方梳理，2026年上半年中国药监局累计批准55款创新药首次在华上市，其中全球首创占比从不足2%升至13%；6月22日更集中批准全球首款双抗ADC、实体瘤CAR-T、狂犬病双抗等四款\"中国籍\"全球首创药物。",
+      "publishedAt": "2026-07-01",
+      "source": "医药魔方（ByDrug）",
+      "url": "https://bydrug.pharmcube.com/news/detail/6db9aec67296a6af03d0d22f50ca45eb",
+      "subCategory": "医疗健康"
+    },
+    {
+      "id": "industry-20260701-602",
+      "title": "S&P Global Inc. Completes Separation of Mobility Global Inc.",
+      "summary": "标普全球7月1日宣布完成Mobility业务分拆，独立后的Mobility Global Inc.在纽交所挂牌交易，代码MBGL，旗下拥有CARFAX等汽车数据品牌，标普股东按1比1比例获得新公司股份。",
+      "publishedAt": "2026-07-01",
+      "source": "PR Newswire（S&P Global）",
+      "url": "https://www.prnewswire.com/news-releases/sp-global-inc-completes-separation-of-mobility-global-inc-302815760.html",
+      "subCategory": "公司动态"
     },
     {
       "id": "industry-20260701-098",
