@@ -3,8 +3,89 @@
   "slug": "tech",
   "title": "科技新闻",
   "description": "前沿科技、互联网产品、芯片硬件、开源生态。",
-  "updatedAt": "2026-07-07T09:15:00+08:00",
+  "updatedAt": "2026-07-07T20:30:00+08:00",
   "items": [
+    {
+      "id": "tech-20260707-709",
+      "title": "vivo Y500 4G 手机海外发布，配 8100mAh 大电池、紫光展锐 T7300 芯片",
+      "summary": "vivo在尼泊尔、巴基斯坦市场发布Y500 4G手机，搭载紫光展锐T7300芯片，配备6.83英寸2800×1260分辨率120Hz AMOLED屏幕，内置8100mAh电池支持44W有线快充，标准版尼泊尔起售价约合人民币2455元。",
+      "publishedAt": "2026-07-07T16:39:25+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/973/628.htm",
+      "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260707-708",
+      "title": "TIOBE 指数 2026 年 7 月排行榜公布：Rust 编程语言首次进入全球第 10 名",
+      "summary": "TIOBE发布2026年7月编程语言排行榜，Rust首次进入全球前10，市场占有率为1.34%，Python以18.94%份额继续领跑，C与C++分列其后。该指数已发布25周年，Python约十年前进入前五。",
+      "publishedAt": "2026-07-07T16:33:42+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/973/622.htm",
+      "subCategory": "开发者工具"
+    },
+    {
+      "id": "tech-20260707-707",
+      "title": "研究人员揭露 Linux KVM 16 年历史漏洞，可允许恶意虚拟机逃逸至宿主机内核",
+      "summary": "研究员披露Linux KVM x86 Shadow MMU存在自2010年以来的释放后使用漏洞CVE-2026-53359，恶意虚拟机可致宿主机内核崩溃，波及同机所有虚拟机，5.x/6.x/7.x分支已于7月4日修复。",
+      "publishedAt": "2026-07-07T16:27:08+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/973/621.htm",
+      "subCategory": "安全漏洞"
+    },
+    {
+      "id": "tech-20260707-706",
+      "title": "荣耀 MagicOS 推出《王者荣耀》游戏资源近场快速传输功能，速率可达 100MB/s",
+      "summary": "荣耀MagicOS联合《王者荣耀》推出游戏资源近场快速传输功能，传输速率最高可达100MB/s，方便附近用户快速完成游戏更新，但传输期间会占用数据通道，无法同时使用投屏等功能。该功能随荣耀7月系统更新一同上线。",
+      "publishedAt": "2026-07-07T16:26:18+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/973/620.htm",
+      "subCategory": "操作系统"
+    },
+    {
+      "id": "tech-20260707-705",
+      "title": "宏碁预热：暗影骑士·龙 8 Pro 游戏本 BW2026 正式亮相",
+      "summary": "宏碁预热新款暗影骑士·龙8 Pro游戏本，将于本周五在上海举行的BW2026哔哩哔哩世界数码娱乐展上正式亮相，官方预告将带来神秘IP联动，但具体配置参数尚未公布。",
+      "publishedAt": "2026-07-07T16:25:28+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/973/619.htm",
+      "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260707-704",
+      "title": "联想 AI 平板拯救者 Y700 无极预热：内置流量卡 + 实体 SIM 卡双 5G 双通，8 月发布",
+      "summary": "联想预热拯救者Y700无极平板，将支持内置流量卡与实体SIM卡双5G双通，采用分布式多天线设计，产品定于8月发布。机身背部保留军团标志与50兆像素摄像头模组的RGB光环设计，区别于此前搭载8.8英寸165Hz屏幕的Y700 Gen 5。",
+      "publishedAt": "2026-07-07T10:18:59+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/973/385.htm",
+      "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260707-703",
+      "title": "大的要来了：蓝厂神秘新机入网，爆料为 vivo X500 或 iQOO 16",
+      "summary": "vivo型号V2606A新机于7月1日通过入网许可，博主爆料称或为vivo X500系列或iQOO 16，支持N79 5G频段。标准版预计配备5000万主摄、超广角及6400万潜望长焦，Pro Max版传闻搭载2亿像素长焦镜头。",
+      "publishedAt": "2026-07-07T09:30:58+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/973/351.htm",
+      "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260707-702",
+      "title": "填补国内空白：我国建成首套高精度圆度基准装置，圆度测量不确定度从 20nm 降至 6nm",
+      "summary": "中国计量科学研究院建成国内首套高精度圆度基准装置，填补国内相关计量空白，将圆度测量不确定度从20纳米降至6纳米，可为航空航天、精密机床、光学及半导体制造等行业提供计量溯源支持。",
+      "publishedAt": "2026-07-07T07:59:45+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/973/328.htm",
+      "subCategory": "芯片硬件"
+    },
+    {
+      "id": "tech-20260707-701",
+      "title": "苹果 iOS / iPadOS 27 Beta 3 更新汇总：增强 Siri AI，优化液态玻璃视觉",
+      "summary": "苹果发布iOS/iPadOS 27开发者预览版Beta 3，新增AirPods自适应模式强度调节滑块，优化液态玻璃视觉效果并强化Siri功能索引能力，开发者可通过开发者计划或公测计划获取更新。",
+      "publishedAt": "2026-07-07T07:33:16+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/973/323.htm",
+      "subCategory": "操作系统"
+    },
     {
       "id": "tech-20260707-602",
       "title": "苹果为iOS 27带来RAW 9图像处理引擎，十年来最大升级",
@@ -31,15 +112,6 @@
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/07/06/reddit-is-using-llms-to-solve-a-problem-llms-largely-created/",
       "subCategory": "互联网产品"
-    },
-    {
-      "id": "tech-20260706-403",
-      "title": "Microsoft lays off nearly 5,000 employees across Xbox, commercial sales",
-      "summary": "微软对Xbox及商业销售部门实施裁员,涉及约4800个岗位,占全球员工总数2.1%,其中Xbox部门裁减约1600人,管理层级将从14层压缩至三层,部分游戏工作室将转由其他公司运营。",
-      "publishedAt": "2026-07-06T08:08:00-07:00",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/06/microsoft-lays-off-nearly-5000-employees-across-xbox-commercial-sales/",
-      "subCategory": "消费电子"
     },
     {
       "id": "tech-20260706-609",
@@ -159,22 +231,13 @@
       "subCategory": "航空航天"
     },
     {
-      "id": "tech-20260706-602",
-      "title": "英伟达Kyber NVL144机架系统据报延期超一年至2028年",
-      "summary": "据SemiAnalysis报告，英伟达新一代Kyber NVL144机架因78层PCB中板制造困难，交付推迟超12个月至2028年；采用背靠背设计的NVL72x2方案已被云厂商否决，更大规模的NVL576量产也可能受限，消息传出后亚洲PCB供应商股价应声下跌。",
-      "publishedAt": "2026-07-06",
-      "source": "The Decoder",
-      "url": "https://the-decoder.com/nvidias-kyber-nvl144-reportedly-pushed-back-more-than-a-year-asian-suppliers-drop/",
-      "subCategory": "芯片硬件"
-    },
-    {
-      "id": "tech-20260706-604",
-      "title": "Apache Camel Undertow组件曝信息泄露漏洞CVE-2026-56139",
-      "summary": "Apache Camel的camel-undertow组件muteException选项默认关闭，导致路由处理出错时会把完整异常堆栈以纯文本返回客户端，可能泄露凭证、内网主机名与文件路径等敏感信息；官方建议升级至4.21.0、4.18.3或4.14.8版本修复。",
-      "publishedAt": "2026-07-06",
-      "source": "ThreatInt",
-      "url": "https://cve.threatint.eu/CVE/CVE-2026-56139",
-      "subCategory": "安全漏洞"
+      "id": "tech-20260706-403",
+      "title": "Microsoft lays off nearly 5,000 employees across Xbox, commercial sales",
+      "summary": "微软对Xbox及商业销售部门实施裁员,涉及约4800个岗位,占全球员工总数2.1%,其中Xbox部门裁减约1600人,管理层级将从14层压缩至三层,部分游戏工作室将转由其他公司运营。",
+      "publishedAt": "2026-07-06T08:08:00-07:00",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/06/microsoft-lays-off-nearly-5000-employees-across-xbox-commercial-sales/",
+      "subCategory": "消费电子"
     },
     {
       "id": "tech-20260706-307",
@@ -314,7 +377,7 @@
     {
       "id": "tech-20260705-008",
       "title": "《CINDER CITY》更正初步推荐配置内存要求，然最低仍需 32GB RAM",
-      "summary": "游戏《CINDER CITY》开发团队回应玩家对配置要求过高的质疑，将推荐配置内存需求从64GB降至32GB，显卡从RTX 4060提升到RTX 4070，但最低配置仍需㈂㈂GB内存。",
+      "summary": "游戏《CINDER CITY》开发团队回应玩家对配置要求过高的质疑，将推荐配置内存需求从64GB降至32GB，显卡从RTX 4060提升到RTX 4070，但最低配置仍需32GB内存。",
       "publishedAt": "2026-07-05T08:19:10+08:00",
       "source": "IT之家",
       "url": "https://www.ithome.com/0/972/696.htm",
@@ -384,6 +447,51 @@
       "subCategory": "芯片硬件"
     },
     {
+      "id": "tech-20260704-003",
+      "title": "传输速率12800MT/s，澜起科技MRDIMM处于第二子代产品规模试用阶段",
+      "summary": "澜起科技在投资者活动中透露，第二代MRDIMM内存模组传输速率达12800MT/s，较第一代8800MT/s提升约45%，目前处于规模试用阶段，预计2026年下半年至2027年获更多CPU平台支持，第三代速率将达16000MT/s。",
+      "publishedAt": "2026-07-04T22:57:21+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/972/671.htm",
+      "subCategory": "芯片硬件"
+    },
+    {
+      "id": "tech-20260704-016",
+      "title": "Meta数据中心施工废水含罕见细菌：污染城市用水，引发数月清理",
+      "summary": "美国怀俄明州夏迫市公用事业委员会确认，Meta数据中心施工承包商Goat Systems排放的废水含有耐金属细菌Cupriavidus gilardii，污染当地再生水系统，导致两座水处理厂停摆数月，今年6月才恢复正常运行。",
+      "publishedAt": "2026-07-04T22:16:30+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/972/667.htm",
+      "subCategory": "网络基础设施"
+    },
+    {
+      "id": "tech-20260704-015",
+      "title": "小米推送新规2026年8月1日生效：消息类型扩至75类，新增订阅消息功能",
+      "summary": "小米推送团队宣布新版消息推送规范将于2026年8月1日生效，消息类型由16类扩展至75类，新增需用户主动订阅的\"订阅消息\"功能，单应用可申请推送通道数由8个增至30个，现有开发者需在年底前完成模板迁移。",
+      "publishedAt": "2026-07-04T21:55:04+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/972/662.htm",
+      "subCategory": "互联网产品"
+    },
+    {
+      "id": "tech-20260704-007",
+      "title": "小鹏CEO何小鹏：辅助驾驶中国走在全球前面，L2级将加速出海",
+      "summary": "小鹏汽车CEO何小鹏表示中国辅助驾驶技术与法规全球领先，目前仅中美实现L2级大规模落地，欧盟等地区仍滞后。联合国相关自动驾驶法规今年获批后，NOA等L2功能预计12月前可在全球范围使用，但欧洲复杂路况仍是出海挑战。",
+      "publishedAt": "2026-07-04T21:47:54+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/972/660.htm",
+      "subCategory": "智能汽车"
+    },
+    {
+      "id": "tech-20260704-005",
+      "title": "美光投资1.5万亿日元扩建广岛工厂，日本政府出资三分之一",
+      "summary": "美光科技在日本广岛举行工厂扩建奠基仪式，总投资约1.5万亿日元，用于生产供英伟达等AI处理器使用的HBM等先进存储芯片，日本经济产业省提供最高5000亿日元补贴，新产线预计2028年夏前投产。",
+      "publishedAt": "2026-07-04T21:30:00+08:00",
+      "source": "新浪财经",
+      "url": "https://finance.sina.com.cn/tech/digi/2026-07-04/doc-inifscxs3161786.shtml",
+      "subCategory": "芯片硬件"
+    },
+    {
       "id": "tech-20260704-017",
       "title": "谷歌新广告想象用AI协助起草《独立宣言》",
       "summary": "谷歌发布广告《Group project, but make it 1776》，想象开国元勋借助Google文档、日历和Gemini协作起草《独立宣言》。广告在社交媒体反响不一，有历史学家指出片中实际展示的AI应用其实很少。",
@@ -391,6 +499,24 @@
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/",
       "subCategory": "互联网产品"
+    },
+    {
+      "id": "tech-20260704-014",
+      "title": "零刻EQi 304迷你主机海外上市：行业首发Wildcat Lake+UFS 3.1闪存，双雷电4+双网口",
+      "summary": "零刻正式在海外上市EQi 304迷你主机，是行业首款搭载英特尔Wildcat Lake平台Core 3 304处理器的产品，集成Xe3-LPG核显，内置512GB UFS 3.1闪存，配双雷电4接口及双网口，美国售价509美元起。",
+      "publishedAt": "2026-07-04T19:57:31+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/972/646.htm",
+      "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260704-011",
+      "title": "我国成功发射千帆极轨13组卫星，长征火箭完成第655次飞行",
+      "summary": "我国在太原卫星发射中心用长征六号甲运载火箭成功发射千帆极轨13组卫星，卫星顺利进入预定轨道，此次任务是长征系列运载火箭第655次飞行。千帆星座由上海垒信卫星运营，一期计划部署648颗卫星实现区域覆盖。",
+      "publishedAt": "2026-07-04T19:24:22+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/972/638.htm",
+      "subCategory": "航空航天"
     },
     {
       "id": "tech-20260704-018",
@@ -402,13 +528,67 @@
       "subCategory": "航空航天"
     },
     {
-      "id": "tech-20260704-022",
-      "title": "Tesla expands robotaxi service to small section of Miami",
-      "summary": "特斯拉Robotaxi无人驾驶出租车服务已扩展至迈阿密西区一小片区域，车辆不配备安全员，此前已在得克萨斯州达拉斯、休斯顿等地推出类似服务。",
-      "publishedAt": "2026-07-04T13:30:00-04:00",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2207974/tesla-expands-robotaxi-service-to-small-section-of-miami/",
+      "id": "tech-20260704-006",
+      "title": "宇树科技陈立：关节电机上游只有铜线、磁铁等原材料供应商，完全自主可控",
+      "summary": "宇树科技联合创始人陈立在2026夏季达沃斯论坛上表示，公司四足、人形机器人及机械臂核心零部件已实现完全自研自产，上游仅依赖铜线、磁铁等原材料供应商，供应链完全自主可控，目前四足机器人出货量全球市占约70%。",
+      "publishedAt": "2026-07-04T18:44:49+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/972/625.htm",
+      "subCategory": "机器人"
+    },
+    {
+      "id": "tech-20260704-010",
+      "title": "Linux 7.2-rc2合入RISC-V关键调整：默认CPU核心数从64提升至256",
+      "summary": "Linux内核7.2-rc2合入RISC-V架构关键调整，默认最大CPU核心数从64提升至256，以适配SpacemiT 80核、算能128核双路等新款RISC-V服务器硬件。新数值仍低于x86_64的8192与ARM64的512，反映RISC-V正从嵌入式向服务器市场扩展。",
+      "publishedAt": "2026-07-04T18:36:39+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/972/623.htm",
+      "subCategory": "开源生态"
+    },
+    {
+      "id": "tech-20260704-008",
+      "title": "比亚迪熊甸波：方程豹铛7 EV闪充版四驱车型本周已全面开启交付",
+      "summary": "比亚迪方程豹品牌总经理熊甸波表示，铛7 EV闪充版四驱车型本周已全面开启交付，全产业链正全力冲刺提升产能。该车型4月底上市，基础版19.98万元，四驱升级包加价3万元，交付延迟超30天可获等额免费快充天数补偿。",
+      "publishedAt": "2026-07-04T18:27:54+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/972/621.htm",
       "subCategory": "智能汽车"
+    },
+    {
+      "id": "tech-20260704-002",
+      "title": "三星第三季度DRAM拟提价20%，终端厂家称已接到口头通知",
+      "summary": "三星电子拟将第三季度DRAM平均售价环比上调约20%，多家终端厂商称已收到口头通知。TrendForce预测行业合约价环比涨13%-18%，LPDRAM供应因AI需求挤占产能持续紧张，终端厂商或被迫上调整机价格。",
+      "publishedAt": "2026-07-04T17:46:40+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/972/616.htm",
+      "subCategory": "芯片硬件"
+    },
+    {
+      "id": "tech-20260704-009",
+      "title": "零跑全新B01/B10座舱公布：前排双零重力座椅、17.3英寸3K中控屏等",
+      "summary": "零跑汽车公布全新B01/B10座舱细节，两款车型均配备前排双零重力座椅及17.3英寸3K中控屏，B10还提供可放平床型设计与1.83平方米全景星空顶。现款B01今年7月上市起售8.98万元，B10搭载8650芯片智驾方案。",
+      "publishedAt": "2026-07-04T17:24:22+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/972/614.htm",
+      "subCategory": "智能汽车"
+    },
+    {
+      "id": "tech-20260704-012",
+      "title": "消息称微软Xbox硬件亏损加剧：每卖一台最高亏200美元，次世代主机Helix将取消光驱",
+      "summary": "据Xbox业内人士Jez Corden透露，微软出售每台Xbox Series X|S主机最高亏损200美元，源于内存等元器件成本上涨及关税影响。消息称次世代主机代号Helix将取消光驱，因光盘制造商业模式已难以为继，或考虑外置USB光驱作为折中方案。",
+      "publishedAt": "2026-07-04T17:04:13+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/972/609.htm",
+      "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260704-013",
+      "title": "消息称一加迭代新机测试2亿主摄、5000万潜望长焦，预计为一加16",
+      "summary": "数码博主@数码闲聊站爆料，一加下一代新机（预计为一加16）正测试2亿像素大底主摄搭配5000万像素潜望长焦的三摄方案，与此前5月曝光的2亿像素长焦方案存在冲突，最终定型仍需在主摄与长焦规格间做出取舍。",
+      "publishedAt": "2026-07-04T16:59:28+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/972/608.htm",
+      "subCategory": "消费电子"
     },
     {
       "id": "tech-20260704-019",
@@ -420,24 +600,6 @@
       "subCategory": "消费电子"
     },
     {
-      "title": "传输速率12800MT/s，澜起科技MRDIMM处于第二子代产品规模试用阶段",
-      "summary": "澜起科技在投资者活动中透露，第二代MRDIMM内存模组传输速率14达12800MT/s，较第一代8800MT/s提升约45%，目前处于规模试用阶段，预计2026年下半年至2027年获更多CPU平台支持，第三代速率将达16000MT/s。",
-      "publishedAt": "2026-07-04T22:57:21+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/972/671.htm",
-      "subCategory": "芯片硬件",
-      "id": "tech-20260704-003"
-    },
-    {
-      "title": "Meta数据中心施工废水含罕见细菌：污染城市用水，引发数月清理",
-      "summary": "美国怀俄明州夏迫市公用事业委员会确认，Meta数据中心施工承包商Goat Systems排放的废水含有耐金属细菌Cupriavidus gilardii，污染当地再生水系统，导致两座水处理厂停摆数月，今年6月才恢复正常运行。",
-      "publishedAt": "2026-07-04T22:16:30+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/972/667.htm",
-      "subCategory": "网络基础设施",
-      "id": "tech-20260704-016"
-    },
-    {
       "id": "tech-20260704-020",
       "title": "Epomaker RT98评测：数字键盘可换手位的复古机械键盘",
       "summary": "The Verge评测了Epomaker众筹机械键盘RT98，起售价119美元，配备复古CRT风格屏幕，支持VIA自定义，数字键盘可拆卸并装到左侧或右侧。评测认为打字手感和音效不错，但键帽塑料感明显、字符不够清晰，换键盘过程略显繁琐。",
@@ -447,31 +609,22 @@
       "subCategory": "消费电子"
     },
     {
-      "title": "小米推送新规2026年8月1日生效：消息类型扩至75类，新增订阅消息功能",
-      "summary": "小米推送团队宣布新版消息推送规范将于2026年8月1日生效，消息类型由16类扩展至75类，新增需用户主动订阅的\"订阅消息\"功能，单应用可申请推送通道数由8个增至30个，现有开发者需在年底前完成模板迁移。",
-      "publishedAt": "2026-07-04T21:55:04+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/972/662.htm",
-      "subCategory": "互联网产品",
-      "id": "tech-20260704-015"
+      "id": "tech-20260704-022",
+      "title": "Tesla expands robotaxi service to small section of Miami",
+      "summary": "特斯拉Robotaxi无人驾驶出租车服务已扩展至迈阿密西区一小片区域，车辆不配备安全员，此前已在得克萨斯州达拉斯、休斯顿等地推出类似服务。",
+      "publishedAt": "2026-07-04T13:30:00-04:00",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2207974/tesla-expands-robotaxi-service-to-small-section-of-miami/",
+      "subCategory": "智能汽车"
     },
     {
-      "title": "小鹏CEO何小鹏：辅助驾驶中国走在全球前面，L2级将加速出海",
-      "summary": "小鹏汽车CEO何小鹏表示中国辅助驾驶技术与法规全球领先，目前仅中美实现L2级大规模落地，欧盟等地区仍滞后。联合国相关自动驾驶法规今年获批后，NOA等L2功能预计12月前可在全球范围使用，但欧洲复杂路况仍是出海挑战。",
-      "publishedAt": "2026-07-04T21:47:54+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/972/660.htm",
-      "subCategory": "智能汽车",
-      "id": "tech-20260704-007"
-    },
-    {
-      "title": "美光投资1.5万亿日元扩建广岛工厂，日本政府出资三分之一",
-      "summary": "美光科技在日本广岛举行工厂扩建奠基仪式，总投资约1.5万亿日元，用于生产供英伟达等AI处理器使用的HBM等先进存储芯片，日本经济产业省提供最高5000亿日元补贴，新产线预计2028年夏前投产。",
-      "publishedAt": "2026-07-04T21:30:00+08:00",
-      "source": "新浪财经",
-      "url": "https://finance.sina.com.cn/tech/digi/2026-07-04/doc-inifscxs3161786.shtml",
-      "subCategory": "芯片硬件",
-      "id": "tech-20260704-005"
+      "id": "tech-20260704-004",
+      "title": "首款神经动力学芯片问世，有助于脑机接口等技术发展",
+      "summary": "北京大学集成电路学院与中科院上海微系统所联合研制出全球首款基于相变忆阱器的神经动力学系统芯片，单步延迟压缩至2.12毫秒，在皮层重建任务中比现有GPU快50至478倍，相关成果7月3日发表于《科学》杂志。",
+      "publishedAt": "2026-07-04T13:20:00+08:00",
+      "source": "36氪",
+      "url": "https://36kr.com/newsflashes/3880779651248391",
+      "subCategory": "芯片硬件"
     },
     {
       "id": "tech-20260704-021",
@@ -481,96 +634,6 @@
       "source": "The Verge",
       "url": "https://www.theverge.com/tech/960509/ikko-mindone-pro-hands-on",
       "subCategory": "消费电子"
-    },
-    {
-      "title": "零刻EQi 304迷你主机海外上市：行业首发Wildcat Lake+UFS 3.1闪存，双雷电4+双网口",
-      "summary": "零刻正式在海外上市EQi 304迷你主机，是行业首款搭载英特尔Wildcat Lake平台Core 3 304处理器的产品，集成Xe3-LPG核显，内置512GB UFS 3.1闪存，配双雷电4接口及双网口，美国售价509美元起。",
-      "publishedAt": "2026-07-04T19:57:31+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/972/646.htm",
-      "subCategory": "消费电子",
-      "id": "tech-20260704-014"
-    },
-    {
-      "title": "我国成功发射千帆极轨13组卫星，长征火箭完成第655次飞行",
-      "summary": "我国在太原卫星发射中心用长征六号甲运载火箭成功发射千帆极轨13组卫星，卫星顺利进入预定轨道，此次任务是长征系列运载火箭第655次飞行。千帆星座由上海垒信卫星运营，一期计划部署648颗卫星实现区域覆盖。",
-      "publishedAt": "2026-07-04T19:24:22+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/972/638.htm",
-      "subCategory": "航空航天",
-      "id": "tech-20260704-011"
-    },
-    {
-      "title": "宇树科技陈立：关节电机上游只有铜线、磁铁等原材料供应商，完全自主可控",
-      "summary": "宇树科技联合创始人陈立在2026夏季达沃斯论坛上表示，公司四足、人形机器人及机械臂核心零部件已实现完全自研自产，上游仅依赖铜线、磁铁等原材料供应商，供应链完全自主可控，目前四足机器人出货量全球市占约70%。",
-      "publishedAt": "2026-07-04T18:44:49+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/972/625.htm",
-      "subCategory": "机器人",
-      "id": "tech-20260704-006"
-    },
-    {
-      "title": "Linux 7.2-rc2合入RISC-V关键调整：默认CPU核心数从64提升至256",
-      "summary": "Linux内核7.2-rc2合入RISC-V架构关键调整，默认最大CPU核心数从64提升至256，以适配SpacemiT 80核、算能128核双路等新款RISC-V服务器硬件。新数值仍低于x86_64的8192与ARM64的512，反映RISC-V正从嵌入式向服务器市场扩展。",
-      "publishedAt": "2026-07-04T18:36:39+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/972/623.htm",
-      "subCategory": "开源生态",
-      "id": "tech-20260704-010"
-    },
-    {
-      "title": "比亚迪熊甸波：方程豹铛7 EV闪充版四驱车型本周已全面开启交付",
-      "summary": "比亚迪方程豹品牌总经理熊甸波表示，铛7 EV闪充版四驱车型本周已全面开启交付，全产业链正全力冲刺提升产能。该车型4月底上市，基础版19.98万元，四驱升级包加价3万元，交付延迟超30天可获等额免费快充天数补偿。",
-      "publishedAt": "2026-07-04T18:27:54+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/972/621.htm",
-      "subCategory": "智能汽车",
-      "id": "tech-20260704-008"
-    },
-    {
-      "title": "三星第三季度DRAM拟提价20%，终端厂家称已接到口头通知",
-      "summary": "三星电子拟将第三季度DRAM平均售价环比上调约20%，多家终端厂商称已收到口头通知。TrendForce预测行业合约价环比涠13%-18%，LPDRAM供应因AI需求挤占产能持续紧张，终端厂商或被迫上调整机价格。",
-      "publishedAt": "2026-07-04T17:46:40+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/972/616.htm",
-      "subCategory": "芯片硬件",
-      "id": "tech-20260704-002"
-    },
-    {
-      "title": "零跑全新B01/B10座舱公布：前排双零重力座椅、17.3英寸3K中控屏等",
-      "summary": "零跑汽车公布全新B01/B10座舱细节，两款车型均配备前排双零重力座椅及17.3英寸3K中控屏，B10还提供可放平床型设计与1.83平方米全景星空顶。现款B01今年7月上市起售8.98万元，B10搭载8650芯片智驾方案。",
-      "publishedAt": "2026-07-04T17:24:22+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/972/614.htm",
-      "subCategory": "智能汽车",
-      "id": "tech-20260704-009"
-    },
-    {
-      "title": "消息称微软Xbox硬件亏损加剧：每卖一台最高亏200美元，次世代主机Helix将取消光驱",
-      "summary": "据Xbox业内人士Jez Corden透露，微软出售每台Xbox Series X|S主机最高亏损200美元，源于内存等元器件成本上涨及关税影响。消息称次世代主机代号Helix将取消光驱，因光盘制造商业模式已难以为继，或考虑外置USB光驱作为折中方案。",
-      "publishedAt": "2026-07-04T17:04:13+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/972/609.htm",
-      "subCategory": "消费电子",
-      "id": "tech-20260704-012"
-    },
-    {
-      "title": "消息称一加迭代新机测试2亿主摄、5000万潜望长焦，预计为一加16",
-      "summary": "数码博主@数码闲聊站爆料，一加下一代新机（预计为一加16）正测试2亿像素大底主摄搭配5000万像素潜望长焦的三摄方案，与此前5月曝光的2亿像素长焦方案存在冲突，最终定型仍需在主摄与长焦规格间做出取舍。",
-      "publishedAt": "2026-07-04T16:59:28+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/972/608.htm",
-      "subCategory": "消费电子",
-      "id": "tech-20260704-013"
-    },
-    {
-      "title": "首款神经动力学芯片问世，有助于脑机接口等技术发展",
-      "summary": "北京大学集成电路学院与中科院上海微系统所联合研制出全球首款基于相变忆阱器的神经动力学系统芯片，单步延迟压缩至2.12毫秒，在皮层重建任务中比现有GPU快50至478倍，相关成果7月3日发表于《科学》杂志。",
-      "publishedAt": "2026-07-04T13:20:00+08:00",
-      "source": "36氪",
-      "url": "https://36kr.com/newsflashes/3880779651248391",
-      "subCategory": "芯片硬件",
-      "id": "tech-20260704-004"
     },
     {
       "id": "tech-20260704-001",
@@ -602,7 +665,7 @@
     {
       "id": "tech-20260703-104",
       "title": "华为 Mate 80 Pro 性能解禁：麒麻 9030 Pro GPU 相比 9020 提升 76%",
-      "summary": "华为Mate 80 Pro所搭载麒麻9030 Pro芯片性能解禁，采用9會14线程CPU架构与6核Mali 935 GPU，3DMark测试显示GPU性能较麒麻9020提升76%，运行《原神》804P分辨率60帧时功耗仅4.9瓦。",
+      "summary": "华为Mate 80 Pro所搭载麒麻9030 Pro芯片性能解禁，采用9会14线程CPU架构与6核Mali 935 GPU，3DMark测试显示GPU性能较麒麻9020提升76%，运行《原神》804P分辨率60帧时功耗仅4.9瓦。",
       "publishedAt": "2026-07-03T23:10:03+08:00",
       "source": "IT之家",
       "url": "https://www.ithome.com/0/972/456.htm",
@@ -611,7 +674,7 @@
     {
       "id": "tech-20260703-105",
       "title": "我国运 12F 大气综合航测飞机首飞成功，大气污染监测技术达国际先进水平",
-      "summary": "中国航空工业集团宣布运12F大气综合航测飞机7月2日在哈尔滨完成首飞，为国内首款大气综合航测飞机，配备逖醒陖0套任务系统，可对大气颗粒物、气态污染物及温室气体等开展一体化航空探测，检测精度达国际先进水平。",
+      "summary": "中国航空工业集团宣布运12F大气综合航测飞机7月2日在哈尔滨完成首飞，为国内首款大气综合航测飞机，配备多套任务系统，可对大气颗粒物、气态污染物及温室气体等开展一体化航空探测，检测精度达国际先进水平。",
       "publishedAt": "2026-07-03T23:01:46+08:00",
       "source": "IT之家",
       "url": "https://www.ithome.com/0/972/454.htm",
@@ -620,7 +683,7 @@
     {
       "id": "tech-20260703-106",
       "title": "索尼官宣 7 月 9 日发布新款 RX10 系列黑卡相机，预计为 RX10 V",
-      "summary": "索尼官方宣布将于7月9日22点发布新款RX10系列相机，主题为经典煊新，据此前报道预计为RX10 V，延续现款RX10 IV的2010万像素一英寸传感器与蔡司24-600mm镜头，仅升级处理芯片以提升处理速度与自动对焦表现。",
+      "summary": "索尼官方宣布将于7月9日22点发布新款RX10系列相机，主题为经典焕新，据此前报道预计为RX10 V，延续现款RX10 IV的2010万像素一英寸传感器与蔡司24-600mm镜头，仅升级处理芯片以提升处理速度与自动对焦表现。",
       "publishedAt": "2026-07-03T22:30:09+08:00",
       "source": "IT之家",
       "url": "https://www.ithome.com/0/972/451.htm",
@@ -643,87 +706,6 @@
       "source": "IT之家",
       "url": "https://www.ithome.com/0/972/442.htm",
       "subCategory": "航空航天"
-    },
-    {
-      "id": "tech-20260703-109",
-      "title": "小鹏集团与神州租车达成全场景合作，批量交付1300台新能源车",
-      "summary": "小鹏汽车与神州租车7月3日在北京举行合作签约及交车仪式，双方签署全场景合作协议并交付1300台新能源车，神州租车此前累计采购小鹏新能源车超5000台，未来一年内还将至少追加采购5000台。",
-      "publishedAt": "2026-07-03T20:49:00+08:00",
-      "source": "36氪",
-      "url": "https://36kr.com/newsflashes/3879911238463493",
-      "subCategory": "智能汽车"
-    },
-    {
-      "id": "tech-20260703-001",
-      "title": "消息称Meta后续MTIA芯片将导入三星晶圆代工2nm制程工艺",
-      "summary": "据报道，Meta正将部分AI芯片代工从台积电转向三星，未来MTIA芯片将采用2nm工艺，相关订单金额超过4378亿元，双方还将共同参与芯片架构设计以缩短研发周期。",
-      "publishedAt": "2026-07-03T16:29:49+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/972/328.htm",
-      "subCategory": "芯片硬件"
-    },
-    {
-      "id": "tech-20260703-004",
-      "title": "荣耀手表6 Plus张雪机车联名款官宣：支持机车模式、增加定制表盘等",
-      "summary": "荣耀手表6 Plus与张雪机车联名款官宣，新增机车模式可记录骑行速度、心率与路线，并提供超速震动提醒、骑行报告及定制表盘等功能。",
-      "publishedAt": "2026-07-03T15:40:06+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/972/291.htm",
-      "subCategory": "消费电子"
-    },
-    {
-      "id": "tech-20260703-006",
-      "title": "华为：燃气行业鸿蒙生态共建正式启动",
-      "summary": "华为与深圳燃气联合启动燃气行业鸿蒙生态共建，计划通过统一操作系统和协议连接燃气表、传感器与控制设备，已有30余家产业伙伴签约共建覆盖生产、安全管理和客户服务的开放生态。",
-      "publishedAt": "2026-07-03T15:14:17+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/972/273.htm",
-      "subCategory": "操作系统"
-    },
-    {
-      "id": "tech-20260703-014",
-      "title": "开源电子书工具Calibre 9.11发布，支持HTML格式导出注释",
-      "summary": "开源电子书管理工具Calibre更新至9.11版本，新增将电子书批注导出为独立HTML网页的功能，支持深色浅色主题与搜索过滤，并修复了新闻下载模块的相关问题。",
-      "publishedAt": "2026-07-03T15:10:21+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/972/270.htm",
-      "subCategory": "开源生态"
-    },
-    {
-      "id": "tech-20260703-003",
-      "title": "华硕ROG NUC 20周年版迷你主机开售：Ultra 9 290HX Plus、RTX 5090移动版，43999元",
-      "summary": "华硕推出ROG NUC 20周年纪念版迷你主机并开售，售价43999元，补贴同42499元，搭载酷睚Ultra 9 290HX Plus处理器与RTX 5090移动版显卡，配64GB内存、2TB硬盘。",
-      "publishedAt": "2026-07-03T14:50:11+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/972/256.htm",
-      "subCategory": "消费电子"
-    },
-    {
-      "id": "tech-20260703-007",
-      "title": "家用机器人Isaac 1发布：可叠衣收拾房间，续航8小时",
-      "summary": "Weave Robotics发布家用机器人Isaac 1，可完成叠衣服、整理房间和铺床等任务，配备可伸缩至0.9至1.75米的机械臂，充电2小时续航8小时，预计2026年秋季上市，售价7999美元。",
-      "publishedAt": "2026-07-03T14:32:52+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/972/251.htm",
-      "subCategory": "机器人"
-    },
-    {
-      "id": "tech-20260703-002",
-      "title": "铠侠第10代BiCS FLASH闪存开始送样，332层堆叠、1Tb TLC",
-      "summary": "铠侠宣布其第10代BiCS FLASH闪存开始送样，产品为1Tb TLC规格，采用332层堆叠工艺，NAND接口传输速度提升33%至4.8Gb/秒，主要面向企业级和数据中心SSD。",
-      "publishedAt": "2026-07-03T12:40:00+08:00",
-      "source": "TechNews",
-      "url": "https://technews.tw/2026/07/03/kioxia-commences-sample-shipments-of-10th-generation-bics-flash-devices/",
-      "subCategory": "芯片硬件"
-    },
-    {
-      "title": "索尼 FX5 电影摄影机实拍图首曝：威尼斯风格菜单，16MP 全堆栈传感器支持 5K 全开片门",
-      "summary": "索尼FX5电影摄影机实拍图首次曝光，采用16MP全堆栈传感器，支持5K 3:2全开片门录制及三档原生ISO，机身可录制X-OCN LT RAW格式，菜单界面参考Venice摄影机设计，预计7月下旬发布。",
-      "publishedAt": "2026-07-03T08:27:39+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/971/980.htm",
-      "subCategory": "消费电子",
-      "id": "tech-20260703-110"
     }
   ]
 }
