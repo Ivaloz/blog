@@ -3,8 +3,35 @@
   "slug": "tech",
   "title": "科技新闻",
   "description": "前沿科技、互联网产品、芯片硬件、开源生态。",
-  "updatedAt": "2026-07-06T23:59:00+08:00",
+  "updatedAt": "2026-07-07T09:15:00+08:00",
   "items": [
+    {
+      "id": "tech-20260707-602",
+      "title": "苹果为iOS 27带来RAW 9图像处理引擎，十年来最大升级",
+      "summary": "苹果发布RAW 9图像处理引擎，通过在设备端神经网络引擎上运行的分块CoreML模型将去马赛克与降噪合并处理，在低噪点与ISO 51200强噪点场景下均显著提升细节与色彩还原；目前已适配近800款相机型号，将随iOS/iPadOS/visionOS/macOS 27正式版上线。",
+      "publishedAt": "2026-07-07T06:52:00+08:00",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/07/06/apple-overhauls-raw-photo-processing-with-ios-27-showcases-impressive-results/",
+      "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260707-601",
+      "title": "苹果发布visionOS 27开发者预览版Beta 3",
+      "summary": "苹果向开发者推送visionOS 27第三个测试版，新增Siri AI可回答佩戴者视线所及内容的问题、应用窗口边缘改为曲面设计、全景照片可转为空间环境，并加入冰岛峡谷新环境及Safari浏览器360度网页环境支持。",
+      "publishedAt": "2026-07-07T01:23:00+08:00",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/07/06/apple-seeds-visionos-27-beta-3/",
+      "subCategory": "XR-AR-VR"
+    },
+    {
+      "id": "tech-20260706-601",
+      "title": "Reddit使用大语言模型打击由AI生成的垃圾内容",
+      "summary": "Reddit称其升级后的系统利用大语言模型识别高度隐蔽的协同虚假行为模式，弥补传统检测手段的不足。平台目前每日拦截约2300万次垃圾内容曝光、发现约2.5万条新垃圾帖子和评论，2026年一季度用户遭遇垃圾内容比例环比下降20%。",
+      "publishedAt": "2026-07-06T23:22:00+08:00",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/06/reddit-is-using-llms-to-solve-a-problem-llms-largely-created/",
+      "subCategory": "互联网产品"
+    },
     {
       "id": "tech-20260706-403",
       "title": "Microsoft lays off nearly 5,000 employees across Xbox, commercial sales",
@@ -12,6 +39,42 @@
       "publishedAt": "2026-07-06T08:08:00-07:00",
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/07/06/microsoft-lays-off-nearly-5000-employees-across-xbox-commercial-sales/",
+      "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260706-609",
+      "title": "特斯拉车主戴墨镜启用FSD后车内熟睡，车辆以时速100公里行驶",
+      "summary": "加拿大不列颠哥伦比亚省1号公路上，一名特斯拉车主开启FSD后在时速约100公里下睡着，车内还有两名儿童；因其佩戴大墨镜使摄像头无法确认眼部状态，系统退回仅检测方向盘扭矩的老旧监控方式。目击者已报警，警方正追查车主。",
+      "publishedAt": "2026-07-06T22:03:00+08:00",
+      "source": "Electrek",
+      "url": "https://electrek.co/2026/07/06/tesla-driver-asleep-monitoring-gap/",
+      "subCategory": "智能汽车"
+    },
+    {
+      "id": "tech-20260706-606",
+      "title": "特斯拉对员工AI工具支出设每周200美元上限",
+      "summary": "特斯拉自7月6日起将员工AI工具使用费限制为每人每周200美元，内部备忘录称部分工程师AI账单已达每周数千美元，且高用量未必对应高产出，大量token消耗在低价值任务上；公司2026年AI基建资本开支计划仍超2500亿美元。",
+      "publishedAt": "2026-07-06T17:11:00+08:00",
+      "source": "虎嗅",
+      "url": "https://www.huxiu.com/article/4872969.html",
+      "subCategory": "智能汽车"
+    },
+    {
+      "id": "tech-20260706-603",
+      "title": "腾讯混元Hy3正式发布，Agent与代码能力大幅提升",
+      "summary": "腾讯混元Hy3于7月6日正式发布，采用MoE架构，总参数295B、激活参数21B，支持256K上下文；相比preview版专家盲测得分从2.51升至2.67，Agent与代码核心能力提升20%至30%，幻觉率下降一半，已接入元宝、CodeBuddy等多个产品。",
+      "publishedAt": "2026-07-06T17:03:00+08:00",
+      "source": "新浪财经",
+      "url": "https://finance.sina.com.cn/roll/2026-07-06/doc-inifwfpv8696839.shtml",
+      "subCategory": "互联网产品"
+    },
+    {
+      "id": "tech-20260706-607",
+      "title": "深圳AR眼镜公司逸文科技获美团腾讯领投1.5亿美元融资，估值达10亿美元",
+      "summary": "无摄像头智能眼镜厂商逸文科技完成1.5亿美元Pre-B轮融资，由美团与老股东腾讯领投，公司估值升至10亿美元；旗下G2眼镜售价599美元起，累计销量已突破1万副，员工规模由2024年三四十人增至目前三四百人。",
+      "publishedAt": "2026-07-06T17:00:00+08:00",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/06/smart-glasses-maker-even-realities-hits-1b-valuation-with-150m-funding-led-by-meituan-tencent/",
       "subCategory": "消费电子"
     },
     {
@@ -51,6 +114,15 @@
       "subCategory": "机器人"
     },
     {
+      "id": "tech-20260706-608",
+      "title": "三星电子预告Q2营业利润同比暴增约18倍",
+      "summary": "三星电子公布2026年二季度业绩指引，预计营业利润约89.4万亿韩元，较去年同期4.7万亿韩元暴增约18倍，受AI基础设施需求拉动，二季度DRAM均价环比上涨44%，NAND闪存均价上涨53%，公司稳居全球存储芯片营收第一。",
+      "publishedAt": "2026-07-06T08:57:00+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/972/890.htm",
+      "subCategory": "芯片硬件"
+    },
+    {
       "id": "tech-20260706-301",
       "title": "宏碁 Swift 16 笔记本海外发售：1899 美元起，酷睿 Ultra X9 388H 处理器",
       "summary": "宏碁 Swift 16（SF16-71T）在海外市场发售，起售价1899美元，配16英寸2.8K OLED屏、120Hz刷新率；顶配版搭载酷睿Ultra X9 388H处理器、32GB内存、1TB存储及70Wh电池，机身约重1.5kg。",
@@ -87,6 +159,24 @@
       "subCategory": "航空航天"
     },
     {
+      "id": "tech-20260706-602",
+      "title": "英伟达Kyber NVL144机架系统据报延期超一年至2028年",
+      "summary": "据SemiAnalysis报告，英伟达新一代Kyber NVL144机架因78层PCB中板制造困难，交付推迟超12个月至2028年；采用背靠背设计的NVL72x2方案已被云厂商否决，更大规模的NVL576量产也可能受限，消息传出后亚洲PCB供应商股价应声下跌。",
+      "publishedAt": "2026-07-06",
+      "source": "The Decoder",
+      "url": "https://the-decoder.com/nvidias-kyber-nvl144-reportedly-pushed-back-more-than-a-year-asian-suppliers-drop/",
+      "subCategory": "芯片硬件"
+    },
+    {
+      "id": "tech-20260706-604",
+      "title": "Apache Camel Undertow组件曝信息泄露漏洞CVE-2026-56139",
+      "summary": "Apache Camel的camel-undertow组件muteException选项默认关闭，导致路由处理出错时会把完整异常堆栈以纯文本返回客户端，可能泄露凭证、内网主机名与文件路径等敏感信息；官方建议升级至4.21.0、4.18.3或4.14.8版本修复。",
+      "publishedAt": "2026-07-06",
+      "source": "ThreatInt",
+      "url": "https://cve.threatint.eu/CVE/CVE-2026-56139",
+      "subCategory": "安全漏洞"
+    },
+    {
       "id": "tech-20260706-307",
       "title": "证监会同意宇树科技科创板IPO注册申请，人形机器人板块获催化",
       "summary": "中国证监会正式同意宇树科技首次公开发行股票并在科创板上市的注册申请。消息带动逾十只机器人主题ETF近一周持续获资金净流入，相关产品均取得正收益，机构建议关注板块中长期配置机会。",
@@ -103,6 +193,15 @@
       "source": "IT之家",
       "url": "https://www.ithome.com/0/972/871.htm",
       "subCategory": "智能汽车"
+    },
+    {
+      "id": "tech-20260706-605",
+      "title": "Boston Dynamics人形机器人Atlas在FIFA世界杯半场传递比赛用球",
+      "summary": "第五代全电动人形机器人Atlas在纽约新泽西体育场巴西对挪威的16强赛中场亮相，模仿凯恩、哈兰德等球星庆祝动作后将比赛用球交给裁判。该机器人拥有56个自由度，可通过云端GPU仿真在24小时内完成动作训练，母公司现代计划年产3万台。",
+      "publishedAt": "2026-07-06T05:06:00+08:00",
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/07/05/humanoid-robot-delivered-game-ball-brazil-norway-world-cup-match-fifa-boston-dynamics-hyundai/",
+      "subCategory": "机器人"
     },
     {
       "id": "tech-20260706-303",
@@ -625,105 +724,6 @@
       "url": "https://www.ithome.com/0/971/980.htm",
       "subCategory": "消费电子",
       "id": "tech-20260703-110"
-    },
-    {
-      "title": "铠侠-闪盘 BiCS10（332层）3D NAND闪存进入出样阶段，首款产品为1Tb TLC",
-      "summary": "铠侠与闪盘联合研发的BiCS10三维闪存已进入出样阶段，首款产品为332层1Tb TLC，采用Toggle DDR6.0接口，I/O速度达4800MT/s，存储密度较BiCS8提升59%，功耗降低34%，在日本岩手北上工厂Fab2生产。",
-      "publishedAt": "2026-07-03T07:55:30+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/971/973.htm",
-      "subCategory": "芯片硬件",
-      "id": "tech-20260703-111"
-    },
-    {
-      "title": "得克萨斯州特斯拉致命车禍肌事司机被控过失杀人，警方发现其曾嫌 FSD\"太保守\"",
-      "summary": "得克萨斯州一名44岁男子驾驶特斯拉Model 3开启FSD时撞入民宅致76岁女性死亡，已被控过失杀人。警方查出其手机曾多次搜索FSD太保守，车辆数据显示其踩下加速踏板致系统限速被覆盖，家属已起诉特斯拉。",
-      "publishedAt": "2026-07-03T07:43:15+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/971/971.htm",
-      "subCategory": "智能汽车",
-      "id": "tech-20260703-005"
-    },
-    {
-      "title": "苹果 iOS 27 系统将推 Trust Insights 框架，帮助用户抵御电诈",
-      "summary": "苹果计划在iOS 27系统中引入Trust Insights框架，通过本地分析用户操作模式、时序及传感器数据识别电信诈骗风险，对可疑操作标记中高风险并触发弹窗警示、延迟执行或身份验证，数据分析后即时丢弃，用户可在设置中关闭该功能。",
-      "publishedAt": "2026-07-03T07:37:17+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/971/969.htm",
-      "subCategory": "操作系统",
-      "id": "tech-20260703-112"
-    },
-    {
-      "title": "让你的代码永存于世，微软 GitHub 推出代码仓库刻录 CD-ROM 实体光盘服务",
-      "summary": "微软旗下GitHub推出代码仓库刻录CD-ROM实体光盘服务，用户可将公开仓库刻录成实体光盘保存或转赠，该服务限量提供、需预先登记，配送范围因地区而异，用户可能需等待数周才能收到光盘。",
-      "publishedAt": "2026-07-03T07:01:48+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/971/961.htm",
-      "subCategory": "互联网产品",
-      "id": "tech-20260703-113"
-    },
-    {
-      "title": "FBI Seizes NetNut Proxy Platform, Popa Botnet",
-      "summary": "美国联邦调查局联合谷歌、Lumen等机构查封了以色列Alarum Technologies旗下住宅代理服务NetNut相关的数百个域名。该服务此前被曝将智能电视、机顶盒等约两百万台设备转为代理节点，支撑Popa僵尸网络从事内容爬取、广告欺诈及账户盗用等黑产活动。",
-      "publishedAt": "2026-07-03T03:27:00+08:00",
-      "source": "Krebs on Security",
-      "url": "https://krebsonsecurity.com/2026/07/fbi-seizes-netnut-proxy-platform-popa-botnet/",
-      "subCategory": "安全漏洞",
-      "id": "tech-20260703-114"
-    },
-    {
-      "title": "小雨智造发布工业具身智能焊接机器人，起售价16.98万已落地十余家工厂",
-      "summary": "小雨智造在2026全球数字经济大会上发布工业具身智能焊接机器人小雨未来机器人，标准版起售价16.98万元，已落地十余家工厂，应用于建筑钢构、船舶制造等场景，集成自研㈄D世界模型、硬件平台与定位笔三项底层技术。",
-      "publishedAt": "2026-07-03T02:27:27+08:00",
-      "source": "itbear科技资讯",
-      "url": "https://www.itbear.com.cn/html/2026-07/1425705.html",
-      "subCategory": "机器人",
-      "id": "tech-20260703-115"
-    },
-    {
-      "title": "华为鸿蒙 HarmonyOS API 设备量占比数据更新：7.0.0 Beta1 突破 0.17%，5.0 多个版本归零",
-      "summary": "华为鸿蒙HarmonyOS API设备量占比数据更新，新版26.0.0 Beta1（对应HarmonyOS 7.0.0 Beta1）占比达0.17%，6.1.0及以上版本设备占比合讨94.77%，多个5.0版本占比已归零。",
-      "publishedAt": "2026-07-02T23:52:17+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/971/956.htm",
-      "subCategory": "操作系统",
-      "id": "tech-20260702-027"
-    },
-    {
-      "title": "Since Linux 6.9, LUKS suspend stopped wiping disk-encryption keys from memory",
-      "summary": "安全研究者Ingo Blechschmidt排查发现，自Linux 6.9内核起，LUKS磁盘加密在系统挂起（suspend）时不再从内存中清除密钥，该回归问题存在超过两年，直到被NixOS集成测试意外发现，期间挂起状态下的设备面临冷启动攻击风险。(估算)",
-      "publishedAt": "2026-07-02T23:30:00+08:00",
-      "source": "Hacker News",
-      "url": "https://news.ycombinator.com/item?id=48763035",
-      "subCategory": "安全漏洞",
-      "id": "tech-20260702-037"
-    },
-    {
-      "title": "比亚迪累计建成超 7000 座闪充站：遍布 325 个城市，目标年底建成 2 万座",
-      "summary": "比亚迪在海豹08上市发布会上宣布，已累计建成超7000座闪充站，覆盖325个城市，年底前目标建成2万座，含1.8万座城市站与2000座高速站。配合第二代刀片电池，单枪最大功率1500千瓦，5分钟可充至70%。",
-      "publishedAt": "2026-07-02T23:28:57+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/971/953.htm",
-      "subCategory": "智能汽车",
-      "id": "tech-20260702-030"
-    },
-    {
-      "title": "消息称某厂测试2nm龍須9E6处理器、排期明年上半年，预计为小米REDMI旗下",
-      "summary": "据数码博主爆料，某手机厂商正测试采用2纳米工艺的龍須9E6处理器，定位性能旗舰，排期为明年上半年发布，机型预计为小米REDMI旗下产品，具体型号尚未确认，该爆料者此前曾暗示K系列将有较大调整。",
-      "publishedAt": "2026-07-02T22:32:49+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/971/941.htm",
-      "subCategory": "芯片硬件",
-      "id": "tech-20260702-026"
-    },
-    {
-      "title": "华为：乾坤智驾 ADS 4 升级至 ADS 5 不存在硬件限制",
-      "summary": "华为乾坤智驾发布ADS 5升级常见问题解答，称ADS 5现分Max/Pro/SE三个版本，用户可在车机ADS App设置辅助驾驶关于中查看版本。华为表示从ADS 4升级至ADS 5不存在硬件限制，无需更换或改装硬件即可升级。",
-      "publishedAt": "2026-07-02T22:29:50+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/971/939.htm",
-      "subCategory": "智能汽车",
-      "id": "tech-20260702-029"
     }
   ]
 }
