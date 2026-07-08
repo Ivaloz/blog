@@ -3,8 +3,26 @@
   "slug": "industry",
   "title": "行业新闻",
   "description": "企业服务、SaaS、云计算、制造业、消费互联网的产业动态。",
-  "updatedAt": "2026-07-08T00:55:00+08:00",
+  "updatedAt": "2026-07-08T08:35:00+08:00",
   "items": [
+    {
+      "id": "industry-20260708-001",
+      "title": "波士顿咨询：2026年时尚业首席财务官报告",
+      "summary": "报告指出，尽管高管层对可持续发展的公开讨论较2022年减少约三分之一，但财务影响持续加深：极端天气推高棉花、羊毛等原材料成本最高200%，到2030年生产者延伸责任法规或使大众时尚企业净利润侵蚀约4%。",
+      "publishedAt": "2026-07-08",
+      "source": "199IT",
+      "url": "https://www.199it.com/archives/1829007.html",
+      "subCategory": "行业研报"
+    },
+    {
+      "id": "industry-20260708-002",
+      "title": "APADMI：2026年移动客户忠诚度报告",
+      "summary": "报告调研英德荷波四国逾千名消费者及50个国际品牌发现，34%消费者最看重专属折扣，但78%品牌仍以个性化为首要策略；仅11%企业实现移动会员系统与CRM平台完全打通，仅9%消费者因推送打开忠诚度App。",
+      "publishedAt": "2026-07-08",
+      "source": "199IT",
+      "url": "https://www.199it.com/archives/1833153.html",
+      "subCategory": "消费零售"
+    },
     {
       "id": "industry-20260707-804",
       "title": "微软：2026年新财年裁员约4800人 占全球员工2.1%",
@@ -13,6 +31,15 @@
       "source": "新浪科技",
       "url": "https://finance.sina.com.cn/tech/roll/2026-07-07/doc-inifyzkw5112936.shtml",
       "subCategory": "公司动态"
+    },
+    {
+      "id": "industry-20260707-806",
+      "title": "中汽协：2026年前5月整车进口额降19.2%",
+      "summary": "中汽协数据显示，2026年1-5月中国整车进口16.3万辆，同比下降10.6%，进口金额75.4亿美元，同比下降19.2%；同期汽车出口423.8万辆，同比增长48.7%，自主品牌市场份额达69.6%。",
+      "publishedAt": "2026-07-07T20:53:00+08:00",
+      "source": "新浪科技",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-07-07/doc-inifzfss8294577.shtml",
+      "subCategory": "新能源汽车"
     },
     {
       "id": "industry-20260707-803",
@@ -24,22 +51,13 @@
       "subCategory": "新能源汽车"
     },
     {
-      "id": "industry-20260707-802",
-      "title": "Counterpoint报告：2026年一季度端侧AI智能手表出货涨70% 渗透率达25%",
-      "summary": "Counterpoint报告显示，2026年第一季度全球支持端侧AI的智能手表出货量同比增长70%，渗透率达25%，低功耗神经网络加速器推动跌落检测、睡眠分析等本地化功能普及。",
-      "publishedAt": "2026-07-07T10:15:33+08:00",
-      "source": "ITBear科技资讯",
-      "url": "https://www.itbear.com.cn/html/2026-07/1431706.html",
-      "subCategory": "消费零售"
-    },
-    {
-      "id": "industry-20260707-701",
-      "title": "QuestMobile 2026年下沉市场用户洞察报告：\"老+少\"成核心主力",
-      "summary": "QuestMobile报告显示，截至2026年5月中国下沉市场月活用户规模达6.53亿，同比增长2.9%，24岁以下用户占19.6%、46岁以上占46.3%，短视频与AIGC使用活跃度明显提升。",
-      "publishedAt": "2026-07-07T10:06:51+08:00",
-      "source": "QuestMobile",
-      "url": "https://www.donews.com/news/detail/1/6623252.html",
-      "subCategory": "行业研报"
+      "id": "industry-20260707-807",
+      "title": "Omdia：预计2026年中国半导体市场规模达8120亿美元 同比增长92.9%",
+      "summary": "Omdia二季度预测上修，预计2026年中国半导体整体市场规模达8120.8亿美元，同比增速上修至92.9%；AI基础设施投资驱动计算和存储芯片板块增长126%，存储芯片规模预计激增262.9%至4496亿美元。",
+      "publishedAt": "2026-07-07T20:25:00+08:00",
+      "source": "新浪科技",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-07-07/doc-inifyzkr1543854.shtml",
+      "subCategory": "半导体产业"
     },
     {
       "id": "industry-20260707-801",
@@ -58,6 +76,24 @@
       "source": "Archyde (转载自Gartner新闻室)",
       "url": "https://www.archyde.com/gartner-predicts-60-of-organizations-will-adopt-smaller-software-engineering-teams-by-2029/",
       "subCategory": "企业服务"
+    },
+    {
+      "id": "industry-20260707-802",
+      "title": "Counterpoint报告：2026年一季度端侧AI智能手表出货涨70% 渗透率达25%",
+      "summary": "Counterpoint报告显示，2026年第一季度全球支持端侧AI的智能手表出货量同比增长70%，渗透率达25%，低功耗神经网络加速器推动跌落检测、睡眠分析等本地化功能普及。",
+      "publishedAt": "2026-07-07T10:15:33+08:00",
+      "source": "ITBear科技资讯",
+      "url": "https://www.itbear.com.cn/html/2026-07/1431706.html",
+      "subCategory": "消费零售"
+    },
+    {
+      "id": "industry-20260707-701",
+      "title": "QuestMobile 2026年下沉市场用户洞察报告：\"老+少\"成核心主力",
+      "summary": "QuestMobile报告显示，截至2026年5月中国下沉市场月活用户规模达6.53亿，同比增长2.9%，24岁以下用户占19.6%、46岁以上占46.3%，短视频与AIGC使用活跃度明显提升。",
+      "publishedAt": "2026-07-07T10:06:51+08:00",
+      "source": "QuestMobile",
+      "url": "https://www.donews.com/news/detail/1/6623252.html",
+      "subCategory": "行业研报"
     },
     {
       "id": "industry-20260707-602",
@@ -688,42 +724,6 @@
       "source": "每经网",
       "url": "https://www.nbd.com.cn/articles/2026-06-30/4441322.html",
       "subCategory": "半导体产业"
-    },
-    {
-      "id": "industry-20260630-004",
-      "title": "7月1日起集中调价，近20家半导体企业开启新一轮涨价潮",
-      "summary": "全球近20家模拟及功率半导体企业将于7月1日起涨价，扬杰科技全系列产品调价10%-15%，AI服务器及数据中心电源芯片涨幅15%-25%，涨价源于晶圆及原材料成本上升与AI需求激增。",
-      "publishedAt": "2026-06-30T07:36:00+08:00",
-      "source": "证券时报",
-      "url": "https://www.stcn.com/article/detail/3987731.html",
-      "subCategory": "半导体产业"
-    },
-    {
-      "id": "industry-20260629-003",
-      "title": "Yole：2025年半导体设备国产率23.2%",
-      "summary": "Yole Group报告显示，中国半导体设备本土化比例从2021年8%提升到2025年23.2%，预计2030年莉39%；长银存储、长江存储扩产带动需求，刻蚀、薄膜沉积等设备国产化推进较快，光刻仍是瑜颈。",
-      "publishedAt": "2026-06-29T20:27:00+08:00",
-      "source": "新浪科技",
-      "url": "https://finance.sina.com.cn/tech/roll/2026-06-29/doc-inifauhn5291116.shtml",
-      "subCategory": "半导体产业"
-    },
-    {
-      "id": "industry-20260629-001",
-      "title": "韩国启动\"三大超级项目\"，DRAM 生产能力预计五年内翻倍",
-      "summary": "韩国政府启动聚焦半导体、物理AI与AI数据中心的\"三大超级项目\"，计划将首都圈半导体产能建设提前到2030年代、较原计划最多提前12年；投入800万亿韩元（约合3520亿元人民币）在西南部建设四座存储芯片工厂，另投入300万亿韩元用于15年期芯片研发与产能支持，预计五年内DRAM产能翻倍。",
-      "publishedAt": "2026-06-29T14:17:44+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/969/917.htm",
-      "subCategory": "半导体产业"
-    },
-    {
-      "id": "industry-20260629-006",
-      "title": "QuestMobile 2026年618洞察报告",
-      "summary": "QuestMobile发布2026年618洞察报告显示，大促全周期日均活跃用户约7亿，6月16日至18日峰值期日活均值达7.14亿，均超去年同期，网购渗透率达87.8%，快递揈收投递量同比增长约8%。",
-      "publishedAt": "2026-06-29T12:35:00+08:00",
-      "source": "澎湃新闻(转QuestMobile)",
-      "url": "https://m.thepaper.cn/newsDetail_forward_33450016",
-      "subCategory": "消费零售"
     }
   ]
 }

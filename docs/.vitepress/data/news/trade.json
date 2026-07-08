@@ -3,7 +3,7 @@
   "slug": "trade",
   "title": "外贸资讯",
   "description": "亚马逊、TikTok Shop、阵里国际站、Shopify 等平台政策与跨境电商市场、独立站、物流支付、关税法规、选品趋势。",
-  "updatedAt": "2026-07-08T00:55:00+08:00",
+  "updatedAt": "2026-07-08T08:35:00+08:00",
   "items": [
     {
       "id": "trade-20260707-812",
@@ -67,24 +67,6 @@
       "source": "AMZ123跨境导航",
       "url": "https://www.amz123.com/kx/DnixBH2L",
       "subCategory": "新兴市场"
-    },
-    {
-      "id": "trade-20260707-706",
-      "title": "TikTok Shop Tokopedia 否认大规模裁员传闻",
-      "summary": "TikTok Shop Tokopedia否认裁减约90%研发、信任安全及财务部门员工的传闻，公司总裁称此举为组织架构调整与内部人员重新配置，并强调将持续投资印尼电商业务。",
-      "publishedAt": "2026-07-07T11:49:00+08:00",
-      "source": "AMZ123跨境导航",
-      "url": "https://www.amz123.com/kx/v3ytak4C",
-      "subCategory": "平台动态"
-    },
-    {
-      "id": "trade-20260707-707",
-      "title": "TikTok Shop东南亚7.7大促开启 多市场推出优惠活动",
-      "summary": "TikTok Shop在东南亚多国启动7.7大促，推出直降、阶梯折扣及组合券等优惠机制，马来西亚同步开展世界杯狂欢促销，菲律宾开启超级特卖，泰国自7月5日起调整佣金费率。",
-      "publishedAt": "2026-07-07T10:45:00+08:00",
-      "source": "AMZ123跨境导航",
-      "url": "https://www.amz123.com/kx/avudrzpr",
-      "subCategory": "平台动态"
     },
     {
       "id": "trade-20260707-705",
@@ -204,6 +186,42 @@
       "subCategory": "选品趋势"
     },
     {
+      "id": "trade-20260707-816",
+      "title": "Amazon Buy Box Featured Offer Eligibility Change",
+      "summary": "亚马逊宣布自2026年7月20日起取消欧盟及英国站Featured Offer（黄金购物车）的卖家资格门槛审核环节，卖家无需额外操作即可自动纳入评选，选中标准仍基于价格、配送速度与客户体验等因素，Buy Box整体评选机制未发生变化。",
+      "publishedAt": "2026-07-07",
+      "source": "ChannelX",
+      "url": "https://channelx.world/2026/07/amazon-buy-box-featured-offer-eligibility-change/",
+      "subCategory": "平台政策"
+    },
+    {
+      "id": "trade-20260707-706",
+      "title": "TikTok Shop Tokopedia 否认大规模裁员传闻",
+      "summary": "TikTok Shop Tokopedia否认裁减约90%研发、信任安全及财务部门员工的传闻，公司总裁称此举为组织架构调整与内部人员重新配置，并强调将持续投资印尼电商业务。",
+      "publishedAt": "2026-07-07T11:49:00+08:00",
+      "source": "AMZ123跨境导航",
+      "url": "https://www.amz123.com/kx/v3ytak4C",
+      "subCategory": "平台动态"
+    },
+    {
+      "id": "trade-20260707-707",
+      "title": "TikTok Shop东南亚7.7大促开启 多市场推出优惠活动",
+      "summary": "TikTok Shop在东南亚多国启动7.7大促，推出直降、阶梯折扣及组合券等优惠机制，马来西亚同步开展世界杯狂欢促销，菲律宾开启超级特卖，泰国自7月5日起调整佣金费率。",
+      "publishedAt": "2026-07-07T10:45:00+08:00",
+      "source": "AMZ123跨境导航",
+      "url": "https://www.amz123.com/kx/avudrzpr",
+      "subCategory": "平台动态"
+    },
+    {
+      "id": "trade-20260707-817",
+      "title": "亚马逊Prime Day后美站销量下滑七成，多重因素延长大促后低谷期",
+      "summary": "亚马逊Prime Day期间美国线上消费规模达264亿美元，同比增长9.3%，但大促结束后不少中小卖家反馈订单量下滑最高达七成，独立日假期出行、世界杯赛事分流及广告点击成本上涨约六成被认为是主要原因。",
+      "publishedAt": "2026-07-07T09:50:00+08:00",
+      "source": "AMZ123跨境导航",
+      "url": "https://www.amz123.com/kx/g4UxMZlo",
+      "subCategory": "平台动态"
+    },
+    {
       "id": "trade-20260706-606",
       "title": "Shopee越南达人推广双模式上线规则更新",
       "summary": "Shopee越南站更新达人推广规则，商品同时参与定向推广与拓展推广时系统优先执行定向活动佣金费率，新规提供快捷版与标准版两种设置模式，活动一旦生效只能上调预算或佣金，不可下调。",
@@ -238,6 +256,15 @@
       "source": "AMZ123跨境导航",
       "url": "https://www.amz123.com/kx/YNXVtfo5",
       "subCategory": "物流仓储"
+    },
+    {
+      "id": "trade-20260706-307",
+      "title": "Shopee菲律宾南部商家订单量三年增长51%，视频带货销售额增长209%",
+      "summary": "Shopee最新报告显示，2023至2025年间菲律宾维萨亚斯及棠兰老岛地区中小商家平均订单量增长51%，2024至2025年间通过视频功能带动的销售额增长209%，直播与短视频成为当地商家拓展全国市场的核心渠道。",
+      "publishedAt": "2026-07-06",
+      "source": "AMZ123",
+      "url": "https://www.amz123.com/zb/20260706",
+      "subCategory": "新兴市场"
     },
     {
       "id": "trade-20260706-603",
@@ -355,15 +382,6 @@
       "source": "AMZ123跨境导航",
       "url": "https://www.amz123.com/kx/XxCHUTvh",
       "subCategory": "平台动态"
-    },
-    {
-      "id": "trade-20260706-307",
-      "title": "Shopee菲律宾南部商家订单量三年增长51%，视频带货销售额增长209%",
-      "summary": "Shopee最新报告显示，2023至2025年间菲律宾维萨亚斯及棠兰老岛地区中小商家平均订单量增长51%，2024至2025年间通过视频功能带动的销售额增长209%，直播与短视频成为当地商家拓展全国市场的核心渠道。",
-      "publishedAt": "2026-07-06",
-      "source": "AMZ123",
-      "url": "https://www.amz123.com/zb/20260706",
-      "subCategory": "新兴市场"
     },
     {
       "id": "trade-20260706-302",
@@ -537,15 +555,6 @@
       "subCategory": "平台政策"
     },
     {
-      "id": "trade-20260703-011",
-      "title": "美众议院委员会指控韩国监管歧视Coupang，建议USTR启动301调查",
-      "summary": "美国国会众议院中国问题特别委员会发布报告，指控韩国政府对Naver与Coupang监管待遇不对等，称Naver搜索结果偏袒自家Smart Store并限制Coupang链接曝光，建议美贸易代表办公室评估依据301条款启动调查。",
-      "publishedAt": "2026-07-03T10:56:00+08:00",
-      "source": "AMZ123跨境导航",
-      "url": "https://www.amz123.com/kx/9TbWwBFO",
-      "subCategory": "关税法规"
-    },
-    {
       "id": "trade-20260703-005",
       "title": "中国乘用车5月在欧洲市占率首次超过日系品牌，销量同比增长65%",
       "summary": "据欧洲汽车制造商协会与日本经济新闻数据，5月中国车企在欧洲31国合计销售新车13.84万辆，同比增长65%，首次超过六家日系车企合计的13.04万辆（同比降3%）。欧洲消费者购买纯电车型更倾向比亚迪、MG等中国品牌。",
@@ -616,6 +625,15 @@
       "source": "AMZ123跨境导航",
       "url": "https://www.amz123.com/kx/1Pp84BpZ",
       "subCategory": "新兴市场"
+    },
+    {
+      "id": "trade-20260703-011",
+      "title": "美众议院委员会指控韩国监管歧视Coupang，建议USTR启动301调查",
+      "summary": "美国国会众议院中国问题特别委员会发布报告，指控韩国政府对Naver与Coupang监管待遇不对等，称Naver搜索结果偏袒自家Smart Store并限制Coupang链接曝光，建议美贸易代表办公室评估依据301条款启动调查。",
+      "publishedAt": "2026-07-03T10:56:00+08:00",
+      "source": "AMZ123跨境导航",
+      "url": "https://www.amz123.com/kx/9TbWwBFO",
+      "subCategory": "关税法规"
     },
     {
       "id": "trade-20260702-012",
@@ -706,24 +724,6 @@
       "source": "AMZ123跨境导航",
       "url": "https://www.amz123.com/t/c7EgOpRj",
       "subCategory": "供应链"
-    },
-    {
-      "id": "trade-20260702-013",
-      "title": "PayKKa在越南上线本地收单服务 支持ZaloPay与VietQR双币结算",
-      "summary": "跨境支付服务商PayKKa在河内、胡志明市率先上线越南本地收单服务，解决境外主体难以直接接入ZaloPay、VietQR等本地支付渠道的问题，支持人民币与越南盾双币结算，服务Shopee、Lazada、TikTok Shop卖家。",
-      "publishedAt": "2026-07-02T14:25:00+08:00",
-      "source": "AMZ123跨境导航",
-      "url": "https://www.amz123.com/kx/sdnCcUJo",
-      "subCategory": "跨境支付"
-    },
-    {
-      "id": "trade-20260703-001",
-      "title": "亚马逊7月起在全球站点上线Passkeys免密登录，年底分批停用传统密码",
-      "summary": "亚马逊将于7月在全球卖家平台上线Passkeys免密登录，卖家绑定设备后可用指纹、面容或PIN登录，账号及生物信息仅存本地设备。年底起将对高风险账号分批强制迁移，未设置者可能无法登录后台。",
-      "publishedAt": "2026-07-02T14:14:00+08:00",
-      "source": "AMZ123跨境导航",
-      "url": "https://www.amz123.com/kx/6lTJsgyX",
-      "subCategory": "平台政策"
     }
   ]
 }

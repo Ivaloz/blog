@@ -3,8 +3,89 @@
   "slug": "tech",
   "title": "科技新闻",
   "description": "前沿科技、互联网产品、芯片硬件、开源生态。",
-  "updatedAt": "2026-07-08T00:55:00+08:00",
+  "updatedAt": "2026-07-08T08:35:00+08:00",
   "items": [
+    {
+      "id": "tech-20260708-007",
+      "title": "Meta 出新招：若智能眼镜隐私指示灯被人为破坏，就自动关闭摄像头",
+      "summary": "Meta宣布为智能眼镜新增反破解机制，若隐私指示灯被人为损坏或遮挡，设备将自动关闭摄像头；此前有用户曾找到绕过指示灯检测的方法，促使公司加强防护。",
+      "publishedAt": "2026-07-08T08:08:54+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/973/834.htm",
+      "subCategory": "XR-AR-VR"
+    },
+    {
+      "id": "tech-20260708-006",
+      "title": "不再强制使用微软账号，必应 Bing 现已开放谷歌、苹果账户登录",
+      "summary": "微软静默更新必应Bing登录方式，现允许用户使用谷歌或苹果账户直接登录，无需强制注册微软账号；采用第三方账户登录后不再自动将邮箱地址在后台注册为微软账号。",
+      "publishedAt": "2026-07-08T07:56:23+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/973/831.htm",
+      "subCategory": "互联网产品"
+    },
+    {
+      "id": "tech-20260708-005",
+      "title": "苹果推送 iOS / iPadOS 26.6 第四个公测版，修复 Bug / 改进安全",
+      "summary": "苹果推送iOS/iPadOS/macOS Tahoe/watchOS/tvOS 26.6第四个公测版，新增屏蔽联系人数量达2万时的提示，并为地图应用引入Blastdoor安全框架以防御零点击攻击、提升数据隐私保护。",
+      "publishedAt": "2026-07-08T07:47:10+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/973/830.htm",
+      "subCategory": "操作系统"
+    },
+    {
+      "id": "tech-20260708-004",
+      "title": "海韵官网已录入英伟达 RTX 50 SUPER 系列显卡，TDP 数据曝光",
+      "summary": "电源厂商海韵官网功率计算器新增未发布的GeForce RTX 5080 SUPER，显示其TDP为415W，较现款RTX 5080的360W高出55W，传闻该卡及5070 Ti SUPER将配备24GB GDDR7显存。",
+      "publishedAt": "2026-07-08T07:41:11+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/973/829.htm",
+      "subCategory": "芯片硬件"
+    },
+    {
+      "id": "tech-20260708-009",
+      "title": "为增程 SUV 铺路，小米汽车官宣“一个关于空间和生活的新名字”SkyNomad",
+      "summary": "小米汽车官宣旗下增程SUV子品牌命名为SkyNomad（中文名小米澎程），计划2026年下半年推出五座和七座版本，七座版配备可伸缩车顶装置，可用于露营场景。",
+      "publishedAt": "2026-07-08T07:35:32+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/973/827.htm",
+      "subCategory": "智能汽车"
+    },
+    {
+      "id": "tech-20260708-002",
+      "title": "谷歌官宣 8 月 12 日发布 Pixel 11 系列手机",
+      "summary": "谷歌宣布将于8月12日纽约当地时间18点（北京时间13日6点）发布Pixel 11系列手机，取消128GB版本，全系起售容量升至256GB，标准版起售价约合999欧元，另有折叠版Pro Fold机型。",
+      "publishedAt": "2026-07-08T07:22:52+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/973/821.htm",
+      "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260708-001",
+      "title": "三星 Galaxy Unpacked 2026 夏季新品发布会定档 7 月 22 日在伦敦举行，将推三款折叠屏新机",
+      "summary": "三星宣布将于7月22日伦敦当地时间下午2点（北京时间21点）举行夏季Unpacked发布会，推出Galaxy Z Fold8、Z Fold8 Ultra和Z Flip8三款折叠屏新机，Ultra版将重新支持S Pen并配备5000mAh电池。",
+      "publishedAt": "2026-07-08T07:20:59+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/973/823.htm",
+      "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260708-003",
+      "title": "三星量产 PM1763 企业级 SSD：最高 16TB，能效提升 1.8 倍、顺序读取 28400 MB/s",
+      "summary": "三星宣布量产基于PCIe 6.0的企业级SSD PM1763，面向AI与HPC服务器场景，最高容量16TB，顺序读取速度达28400MB/s，写入21900MB/s，能效较上代PM1753提升1.8倍，并支持后量子加密。",
+      "publishedAt": "2026-07-08T07:01:33+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/973/817.htm",
+      "subCategory": "芯片硬件"
+    },
+    {
+      "id": "tech-20260708-008",
+      "title": "兰博基尼发布 Vision Pro 应用：Urus SE 等 4 款车型，支持 1:1 实车投放",
+      "summary": "兰博基尼上线Apple Vision Pro官方应用，收录Temerario、Revuelto、Urus SE等4款车型，支持共享空间模式下1:1数字实车摆放，以及沉浸模式浏览车辆外观、内饰与混动系统。",
+      "publishedAt": "2026-07-08T06:42:00+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/973/814.htm",
+      "subCategory": "XR-AR-VR"
+    },
     {
       "id": "tech-20260707-726",
       "title": "微信鸿蒙版获8.0.19.37邀测更新，支持键盘快捷键发消息",
@@ -105,6 +186,15 @@
       "subCategory": "安全漏洞"
     },
     {
+      "id": "tech-20260707-735",
+      "title": "华为智选车产品总监彭磊：享界 G9 全系搭载华为全新自研电机，综合续航里程 CLTC 达 1300 多公里",
+      "summary": "华为智选车产品总监彭磊透露，享界G9全系将搭载华为自研电机及800V高压增程技术，综合CLTC续航超1300公里，标配四驱，搭载鸿蒙车机与三联屏，预计三季度上市。",
+      "publishedAt": "2026-07-07T21:59:55+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/973/789.htm",
+      "subCategory": "智能汽车"
+    },
+    {
       "id": "tech-20260707-731",
       "title": "英伟达发布610.74驱动，支持《毁灭战士》《刺客信条》新内容",
       "summary": "英伟达发布GeForce Game Ready 610.74驱动，为《毁灭战士：黑暗时代》新DLC及《刺客信条：黑旗-记忆重制版》提供优化，支持DLSS多帧生成与光线重建等功能。",
@@ -177,6 +267,15 @@
       "subCategory": "消费电子"
     },
     {
+      "id": "tech-20260707-734",
+      "title": "IBM推出紧凑型z17及LinuxONE 5系统",
+      "summary": "IBM发布采用单机架与机柜安装两种形态的紧凑型z17及LinuxONE 5系统，最多支持82核与18TB内存，新增后量子密码安全特性，将于8月12日全面上市。",
+      "publishedAt": "2026-07-07",
+      "source": "IBM Newsroom",
+      "url": "https://newsroom.ibm.com/z17-linuxone-single-frame-and-rack-mount",
+      "subCategory": "云计算"
+    },
+    {
       "id": "tech-20260707-704",
       "title": "联想 AI 平板拯救者 Y700 无极预热：内置流量卡 + 实体 SIM 卡双 5G 双通，8 月发布",
       "summary": "联想预热拯救者Y700无极平板，将支持内置流量卡与实体SIM卡双5G双通，采用分布式多天线设计，产品定于8月发布。机身背部保留军团标志与50兆像素摄像头模组的RGB光环设计，区别于此前搭载8.8英寸165Hz屏幕的Y700 Gen 5。",
@@ -193,15 +292,6 @@
       "source": "IT之家",
       "url": "https://www.ithome.com/0/973/351.htm",
       "subCategory": "消费电子"
-    },
-    {
-      "id": "tech-20260707-734",
-      "title": "IBM推出紧凑型z17及LinuxONE 5系统",
-      "summary": "IBM发布采用单机架与机柜安装两种形态的紧凑型z17及LinuxONE 5系统，最多支持82核与18TB内存，新增后量子密码安全特性，将于8月12日全面上市。",
-      "publishedAt": "2026-07-07",
-      "source": "IBM Newsroom",
-      "url": "https://newsroom.ibm.com/z17-linuxone-single-frame-and-rack-mount",
-      "subCategory": "云计算"
     },
     {
       "id": "tech-20260707-702",
@@ -634,96 +724,6 @@
       "source": "IT之家",
       "url": "https://www.ithome.com/0/972/667.htm",
       "subCategory": "网络基础设施"
-    },
-    {
-      "id": "tech-20260704-020",
-      "title": "Epomaker RT98评测：数字键盘可换手位的复古机械键盘",
-      "summary": "The Verge评测了Epomaker众筹机械键盘RT98，起售价119美元，配备复古CRT风格屏幕，支持VIA自定义，数字键盘可拆卸并装到左侧或右侧。评测认为打字手感和音效不错，但键帽塑料感明显、字符不够清晰，换键盘过程略显繁琐。",
-      "publishedAt": "2026-07-04T14:00:00Z",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/960837/epomaker-rt98-mechanical-keyboard-modular-numpad-review",
-      "subCategory": "消费电子"
-    },
-    {
-      "id": "tech-20260704-015",
-      "title": "小米推送新规2026年8月1日生效：消息类型扩至75类，新增订阅消息功能",
-      "summary": "小米推送团队宣布新版消息推送规范将于2026年8月1日生效，消息类型由16类扩展至75类，新增需用户主动订阅的\"订阅消息\"功能，单应用可申请推送通道数由8个增至30个，现有开发者需在年底前完成模板迁移。",
-      "publishedAt": "2026-07-04T21:55:04+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/972/662.htm",
-      "subCategory": "互联网产品"
-    },
-    {
-      "id": "tech-20260704-007",
-      "title": "小鹏CEO何小鹏：辅助驾驶中国走在全球前面，L2级将加速出海",
-      "summary": "小鹏汽车CEO何小鹏表示中国辅助驾驶技术与法规全球领先，目前仅中美实现L2级大规模落地，欧盟等地区仍滞后。联合国相关自动驾驶法规今年获批后，NOA等L2功能预计12月前可在全球范围使用，但欧洲复杂路况仍是出海挑战。",
-      "publishedAt": "2026-07-04T21:47:54+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/972/660.htm",
-      "subCategory": "智能汽车"
-    },
-    {
-      "id": "tech-20260704-005",
-      "title": "美光投资1.5万亿日元扩建广岛工厂，日本政府出资三分之一",
-      "summary": "美光科技在日本广岛举行工厂扩建奠基仪式，总投资约1.5万亿日元，用于生产供英伟达等AI处理器使用的HBM等先进存储芯片，日本经济产业省提供最高5000亿日元补贴，新产线预计2028年夏前投产。",
-      "publishedAt": "2026-07-04T21:30:00+08:00",
-      "source": "新浪财经",
-      "url": "https://finance.sina.com.cn/tech/digi/2026-07-04/doc-inifscxs3161786.shtml",
-      "subCategory": "芯片硬件"
-    },
-    {
-      "id": "tech-20260704-021",
-      "title": "Ikko MindOne Pro上手体验：方形屏幕小尺寸手机概念难达预期",
-      "summary": "深圳耳机厂商Ikko推出499美元小尺寸智能手机MindOne Pro，采用方形屏幕设计，摄像头可翻转用于自拍。The Verge实测发现该机初次设置时明显发热、续航表现不佳，一个半小时电量从九十多降至六十多，相机成色处理也不理想。",
-      "publishedAt": "2026-07-04T13:00:00Z",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/960509/ikko-mindone-pro-hands-on",
-      "subCategory": "消费电子"
-    },
-    {
-      "id": "tech-20260704-014",
-      "title": "零刻EQi 304迷你主机海外上市：行业首发Wildcat Lake+UFS 3.1闪存，双雷电4+双网口",
-      "summary": "零刻正式在海外上市EQi 304迷你主机，是行业首款搭载英特尔Wildcat Lake平台Core 3 304处理器的产品，集成Xe3-LPG核显，内置512GB UFS 3.1闪存，配双雷电4接口及双网口，美国售价509美元起。",
-      "publishedAt": "2026-07-04T19:57:31+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/972/646.htm",
-      "subCategory": "消费电子"
-    },
-    {
-      "id": "tech-20260704-011",
-      "title": "我国成功发射千帆极轨13组卫星，长征火箭完成第655次飞行",
-      "summary": "我国在太原卫星发射中心用长征六号甲运载火箭成功发射千帆极轨13组卫星，卫星顺利进入预定轨道，此次任务是长征系列运载火箭第655次飞行。千帆星座由上海垒信卫星运营，一期计划部署648颗卫星实现区域覆盖。",
-      "publishedAt": "2026-07-04T19:24:22+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/972/638.htm",
-      "subCategory": "航空航天"
-    },
-    {
-      "id": "tech-20260704-006",
-      "title": "宇树科技陈立：关节电机上游只有铜线、磁铁等原材料供应商，完全自主可控",
-      "summary": "宇树科技联合创始人陈立在2026夏季达沃斯论坛上表示，公司四足、人形机器人及机械臂核心零部件已实现完全自研自产，上游仅依赖铜线、磁铁等原材料供应商，供应链完全自主可控，目前四足机器人出货量全球市占约70%。",
-      "publishedAt": "2026-07-04T18:44:49+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/972/625.htm",
-      "subCategory": "机器人"
-    },
-    {
-      "id": "tech-20260704-010",
-      "title": "Linux 7.2-rc2合入RISC-V关键调整：默认CPU核心数从64提升至256",
-      "summary": "Linux内核7.2-rc2合入RISC-V架构关键调整，默认最大CPU核心数从64提升至256，以适配SpacemiT 80核、算能128核双路等新款RISC-V服务器硬件。新数值仍低于x86_64的8192与ARM64的512，反映RISC-V正从嵌入式向服务器市场扩展。",
-      "publishedAt": "2026-07-04T18:36:39+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/972/623.htm",
-      "subCategory": "开源生态"
-    },
-    {
-      "id": "tech-20260704-008",
-      "title": "比亚迪熊甸波：方程豹铛7 EV闪充版四驱车型本周已全面开启交付",
-      "summary": "比亚迪方程豹品牌总经理熊甸波表示，铛7 EV闪充版四驱车型本周已全面开启交付，全产业链正全力冲刺提升产能。该车型4月底上市，基础版19.98万元，四驱升级包加价3万元，交付延迟超30天可获等额免费快充天数补偿。",
-      "publishedAt": "2026-07-04T18:27:54+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/972/621.htm",
-      "subCategory": "智能汽车"
     }
   ]
 }
