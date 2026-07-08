@@ -3,8 +3,26 @@
   "slug": "trade",
   "title": "外贸资讯",
   "description": "亚马逊、TikTok Shop、阵里国际站、Shopify 等平台政策与跨境电商市场、独立站、物流支付、关税法规、选品趋势。",
-  "updatedAt": "2026-07-08T08:35:00+08:00",
+  "updatedAt": "2026-07-08T16:45:00+08:00",
   "items": [
+    {
+      "id": "trade-20260708-002",
+      "title": "Allegro Days大促7月13日截止 参与活动可返额外佣金",
+      "summary": "波兰Allegro Days大促持续至7月13日，捷克、斯洛伐克及匈牙利站延至7月19日，参与商品须比30天最低价再降5%以上，平台收取60%常规佣金作为活动费，可通过成交返点抵扣。",
+      "publishedAt": "2026-07-08T15:13:00+08:00",
+      "source": "AMZ123",
+      "url": "https://www.amz123.com/kx/m0QrhMjd",
+      "subCategory": "平台动态"
+    },
+    {
+      "id": "trade-20260708-001",
+      "title": "2026亚马逊Prime Day平均折扣收窄至14.6%",
+      "summary": "2026年亚马逊Prime Day平均折扣较去年17.7%收窄至14.6%，但品牌参与度仍达100%覆盖，行业建议卖家转向优化广告投放效率与FBA库存管理，而非单纯依赖低价促销。",
+      "publishedAt": "2026-07-08T11:37:00+08:00",
+      "source": "AMZ123",
+      "url": "https://www.amz123.com/kx/atvnBBTO",
+      "subCategory": "平台动态"
+    },
     {
       "id": "trade-20260707-812",
       "title": "“美国关税退款”即将到账！三大物流商启动退款程序、总额或高达数十亿美元",
@@ -15,6 +33,15 @@
       "subCategory": "关税法规"
     },
     {
+      "id": "trade-20260707-822",
+      "title": "停电是家常便饭，2000元的电池成了东南亚年轻家庭的三大件",
+      "summary": "东南亚电网不稳定催生家庭储能需求，卖家在Lazada菲律宾站销售1至3千瓦时电池系统，主力2度电型号售价约2000元人民币，主打30岁以下新组建家庭客群。",
+      "publishedAt": "2026-07-07T18:00:00+08:00",
+      "source": "AMZ123",
+      "url": "https://www.amz123.com/t/oTp18mWi",
+      "subCategory": "选品趋势"
+    },
+    {
       "id": "trade-20260707-813",
       "title": "加强品牌知识产权保护：Temu与韩国知识产权保护院签署谅解备忘录",
       "summary": "跨境电商平台Temu与韩国知识产权保护院签署谅解备忘录，双方将设立专属沟通渠道打击侵权，Temu负责识别下架侵权商品，该机构负责验证韩国品牌知识产权真实性。",
@@ -22,6 +49,24 @@
       "source": "亿邦动力",
       "url": "https://m.ebrun.com/686086.html",
       "subCategory": "平台动态"
+    },
+    {
+      "id": "trade-20260707-819",
+      "title": "TikTok Shop美区FBT推出三重降本措施 增量单履约费返10%",
+      "summary": "TikTok Shop美区FBT推出三项降本措施：4至9月增量订单满600件可返10%标准履约费（每单封顶1美元）；新增自有包装SIOC选项；7月起放开50磅以上大件商品履约能力。",
+      "publishedAt": "2026-07-07T17:09:00+08:00",
+      "source": "AMZ123",
+      "url": "https://www.amz123.com/kx/zAQxBnp6",
+      "subCategory": "物流仓储"
+    },
+    {
+      "id": "trade-20260707-821",
+      "title": "一批本土店无法提现！新规已渗透Shopee等平台风控",
+      "summary": "印尼自7月1日、越南自7月8日起要求Shopee店铺注册人姓名与银行账户持有人姓名一致，否则系统自动拦截提现及绑卡，涉及印尼贸易部新条例及越南新电子商务法合规要求。",
+      "publishedAt": "2026-07-07T17:02:00+08:00",
+      "source": "AMZ123",
+      "url": "https://www.amz123.com/t/1Swt5VGb",
+      "subCategory": "平台政策"
     },
     {
       "id": "trade-20260707-814",
@@ -67,6 +112,51 @@
       "source": "AMZ123跨境导航",
       "url": "https://www.amz123.com/kx/DnixBH2L",
       "subCategory": "新兴市场"
+    },
+    {
+      "id": "trade-20260707-706",
+      "title": "TikTok Shop Tokopedia 否认大规模裁员传闻",
+      "summary": "TikTok Shop Tokopedia否认裁减约90%研发、信任安全及财务部门员工的传闻，公司总裁称此举为组织架构调整与内部人员重新配置，并强调将持续投资印尼电商业务。",
+      "publishedAt": "2026-07-07T11:49:00+08:00",
+      "source": "AMZ123跨境导航",
+      "url": "https://www.amz123.com/kx/v3ytak4C",
+      "subCategory": "平台动态"
+    },
+    {
+      "id": "trade-20260707-707",
+      "title": "TikTok Shop东南亚7.7大促开启 多市场推出优惠活动",
+      "summary": "TikTok Shop在东南亚多国启动7.7大促，推出直降、阶梯折扣及组合券等优惠机制，马来西亚同步开展世界杯狂欢促销，菲律宾开启超级特卖，泰国自7月5日起调整佣金费率。",
+      "publishedAt": "2026-07-07T10:45:00+08:00",
+      "source": "AMZ123跨境导航",
+      "url": "https://www.amz123.com/kx/avudrzpr",
+      "subCategory": "平台动态"
+    },
+    {
+      "id": "trade-20260707-818",
+      "title": "老龄化趋势推动需求增长！亚马逊美站防水药袋活页夹受到关注",
+      "summary": "亚马逊美国站防水药盒活页夹产品受到关注，主要面向55至75岁人群，pill organizer关键词月搜索量超122万，现有售价17.99至23.99美元，建议从防水材质及看护版本差异化竞争。",
+      "publishedAt": "2026-07-07T10:24:00+08:00",
+      "source": "AMZ123",
+      "url": "https://www.amz123.com/kx/eVPbczmF",
+      "subCategory": "选品趋势"
+    },
+    {
+      "id": "trade-20260707-817",
+      "title": "亚马逊Prime Day后美站销量下滑七成，多重因素延长大促后低谷期",
+      "summary": "亚马逊Prime Day期间美国线上消费规模达264亿美元，同比增长9.3%，但大促结束后不少中小卖家反馈订单量下滑最高达七成，独立日假期出行、世界杯赛事分流及广告点击成本上涨约六成被认为是主要原因。",
+      "publishedAt": "2026-07-07T09:50:00+08:00",
+      "source": "AMZ123跨境导航",
+      "url": "https://www.amz123.com/kx/g4UxMZlo",
+      "subCategory": "平台动态"
+    },
+    {
+      "id": "trade-20260707-820",
+      "title": "Wildberries今日起上调卖家佣金，自发货模式最高增加20个百分点",
+      "summary": "俄罗斯电商平台Wildberries自2026年7月7日起实施差异化佣金调整，平台仓配FBO卖家佣金上调5个百分点，自主备货发货FBS卖家佣金最高上调20个百分点，原因为燃油价格上涨推高物流成本。",
+      "publishedAt": "2026-07-07T09:30:00+08:00",
+      "source": "AMZ123",
+      "url": "https://www.amz123.com/kx/dDsDt0Gv",
+      "subCategory": "平台政策"
     },
     {
       "id": "trade-20260707-705",
@@ -195,33 +285,6 @@
       "subCategory": "平台政策"
     },
     {
-      "id": "trade-20260707-706",
-      "title": "TikTok Shop Tokopedia 否认大规模裁员传闻",
-      "summary": "TikTok Shop Tokopedia否认裁减约90%研发、信任安全及财务部门员工的传闻，公司总裁称此举为组织架构调整与内部人员重新配置，并强调将持续投资印尼电商业务。",
-      "publishedAt": "2026-07-07T11:49:00+08:00",
-      "source": "AMZ123跨境导航",
-      "url": "https://www.amz123.com/kx/v3ytak4C",
-      "subCategory": "平台动态"
-    },
-    {
-      "id": "trade-20260707-707",
-      "title": "TikTok Shop东南亚7.7大促开启 多市场推出优惠活动",
-      "summary": "TikTok Shop在东南亚多国启动7.7大促，推出直降、阶梯折扣及组合券等优惠机制，马来西亚同步开展世界杯狂欢促销，菲律宾开启超级特卖，泰国自7月5日起调整佣金费率。",
-      "publishedAt": "2026-07-07T10:45:00+08:00",
-      "source": "AMZ123跨境导航",
-      "url": "https://www.amz123.com/kx/avudrzpr",
-      "subCategory": "平台动态"
-    },
-    {
-      "id": "trade-20260707-817",
-      "title": "亚马逊Prime Day后美站销量下滑七成，多重因素延长大促后低谷期",
-      "summary": "亚马逊Prime Day期间美国线上消费规模达264亿美元，同比增长9.3%，但大促结束后不少中小卖家反馈订单量下滑最高达七成，独立日假期出行、世界杯赛事分流及广告点击成本上涨约六成被认为是主要原因。",
-      "publishedAt": "2026-07-07T09:50:00+08:00",
-      "source": "AMZ123跨境导航",
-      "url": "https://www.amz123.com/kx/g4UxMZlo",
-      "subCategory": "平台动态"
-    },
-    {
       "id": "trade-20260706-606",
       "title": "Shopee越南达人推广双模式上线规则更新",
       "summary": "Shopee越南站更新达人推广规则，商品同时参与定向推广与拓展推广时系统优先执行定向活动佣金费率，新规提供快捷版与标准版两种设置模式，活动一旦生效只能上调预算或佣金，不可下调。",
@@ -256,15 +319,6 @@
       "source": "AMZ123跨境导航",
       "url": "https://www.amz123.com/kx/YNXVtfo5",
       "subCategory": "物流仓储"
-    },
-    {
-      "id": "trade-20260706-307",
-      "title": "Shopee菲律宾南部商家订单量三年增长51%，视频带货销售额增长209%",
-      "summary": "Shopee最新报告显示，2023至2025年间菲律宾维萨亚斯及棠兰老岛地区中小商家平均订单量增长51%，2024至2025年间通过视频功能带动的销售额增长209%，直播与短视频成为当地商家拓展全国市场的核心渠道。",
-      "publishedAt": "2026-07-06",
-      "source": "AMZ123",
-      "url": "https://www.amz123.com/zb/20260706",
-      "subCategory": "新兴市场"
     },
     {
       "id": "trade-20260706-603",
@@ -382,6 +436,15 @@
       "source": "AMZ123跨境导航",
       "url": "https://www.amz123.com/kx/XxCHUTvh",
       "subCategory": "平台动态"
+    },
+    {
+      "id": "trade-20260706-307",
+      "title": "Shopee菲律宾南部商家订单量三年增长51%，视频带货销售额增长209%",
+      "summary": "Shopee最新报告显示，2023至2025年间菲律宾维萨亚斯及棠兰老岛地区中小商家平均订单量增长51%，2024至2025年间通过视频功能带动的销售额增长209%，直播与短视频成为当地商家拓展全国市场的核心渠道。",
+      "publishedAt": "2026-07-06",
+      "source": "AMZ123",
+      "url": "https://www.amz123.com/zb/20260706",
+      "subCategory": "新兴市场"
     },
     {
       "id": "trade-20260706-302",
@@ -555,6 +618,15 @@
       "subCategory": "平台政策"
     },
     {
+      "id": "trade-20260703-011",
+      "title": "美众议院委员会指控韩国监管歧视Coupang，建议USTR启动301调查",
+      "summary": "美国国会众议院中国问题特别委员会发布报告，指控韩国政府对Naver与Coupang监管待遇不对等，称Naver搜索结果偏袒自家Smart Store并限制Coupang链接曝光，建议美贸易代表办公室评估依据301条款启动调查。",
+      "publishedAt": "2026-07-03T10:56:00+08:00",
+      "source": "AMZ123跨境导航",
+      "url": "https://www.amz123.com/kx/9TbWwBFO",
+      "subCategory": "关税法规"
+    },
+    {
       "id": "trade-20260703-005",
       "title": "中国乘用车5月在欧洲市占率首次超过日系品牌，销量同比增长65%",
       "summary": "据欧洲汽车制造商协会与日本经济新闻数据，5月中国车企在欧洲31国合计销售新车13.84万辆，同比增长65%，首次超过六家日系车企合计的13.04万辆（同比降3%）。欧洲消费者购买纯电车型更倾向比亚迪、MG等中国品牌。",
@@ -627,15 +699,6 @@
       "subCategory": "新兴市场"
     },
     {
-      "id": "trade-20260703-011",
-      "title": "美众议院委员会指控韩国监管歧视Coupang，建议USTR启动301调查",
-      "summary": "美国国会众议院中国问题特别委员会发布报告，指控韩国政府对Naver与Coupang监管待遇不对等，称Naver搜索结果偏袒自家Smart Store并限制Coupang链接曝光，建议美贸易代表办公室评估依据301条款启动调查。",
-      "publishedAt": "2026-07-03T10:56:00+08:00",
-      "source": "AMZ123跨境导航",
-      "url": "https://www.amz123.com/kx/9TbWwBFO",
-      "subCategory": "关税法规"
-    },
-    {
       "id": "trade-20260702-012",
       "title": "Shopee 7月起三大变动落地；3名卖家因在Shopee等平台售假被起诉；TikTok Shop严禁违规内容宣传",
       "summary": "Shopee泰国本土店联盟自7月1日起拓宽佣金渠道并加快每周佣金结算；3名越南卖家因通过TikTok Shop和Shopee制售假冒食品被刑事起诉；TikTok Shop禁止\"天然版Ozempic\"等减重相关违规宣传内容。",
@@ -661,69 +724,6 @@
       "source": "雨果网",
       "url": "https://www.cifnews.com/article/187228",
       "subCategory": "选品趋势"
-    },
-    {
-      "id": "trade-20260702-019",
-      "title": "韩国2026年上半年化妆品出口同比增长27.3%至70亿美元 创同期新高",
-      "summary": "韩国2026年上半年化妆品出口额达70亿美元，同比增长27.3%，创历史同期新高，其中第二季度出口额达39亿美元，在亚洲及北美市场保持较强增长势头。",
-      "publishedAt": "2026-07-02T17:32:00+08:00",
-      "source": "AMZ123跨境导航",
-      "url": "https://www.amz123.com/kx/lM9ke4gc",
-      "subCategory": "海关数据"
-    },
-    {
-      "id": "trade-20260702-022",
-      "title": "新加坡推进电子发票系统分阶段接入，企业合规升级时间明确",
-      "summary": "新加坡税务局要求所有登记GST的企业根据年营业额分阶段接入全国电子发票系统InvoiceNow，接入时间从2028年4月持续至2031年4月，系统采用国际Peppol标准并提供分级补贴与免费轻量化方案协助企业合规。",
-      "publishedAt": "2026-07-02T17:21:00+08:00",
-      "source": "AMZ123跨境导航",
-      "url": "https://www.amz123.com/kx/37WNGlyN",
-      "subCategory": "关税法规"
-    },
-    {
-      "id": "trade-20260702-009",
-      "title": "低价红利退潮，中国跨境进入定价权之争！",
-      "summary": "中国低价跨境出口连续五个月下滑，涨价掉单、不涨价则亏本的困境凸显极致低价模式难以为继，文章指出安克、大疆等企业通过技术产品与长期品牌投入建立用户认知，是可持续增长的替代路径。",
-      "publishedAt": "2026-07-02T16:52:00+08:00",
-      "source": "雨果网",
-      "url": "https://www.cifnews.com/article/187220",
-      "subCategory": "选品趋势"
-    },
-    {
-      "id": "trade-20260702-008",
-      "title": "亚马逊会员日促销集体报错，近30天成交价再降5%！(附促销规则最全汇总)",
-      "summary": "亚马逊多个会员日促销自6月中旬起出现系统性报错，要求参与促销商品在近30天最低成交价基础上再降价5%，该规则涵盖秒杀、优惠券等多种促销形式，卖家需核实价格设置以避免促销被驳回。",
-      "publishedAt": "2026-07-02T16:45:00+08:00",
-      "source": "雨果网",
-      "url": "https://www.cifnews.com/article/187216",
-      "subCategory": "平台动态"
-    },
-    {
-      "id": "trade-20260702-016",
-      "title": "美客多发布2026年下半年拉美大促日历 覆盖世界杯与年末旺季节点",
-      "summary": "美客多公布2026年下半年拉美促销日历，除每月\"双日\"及品牌周活动外，还结合巴西父亲节、阿根廷母亲节、返校季及黑五、网络星期一、圣诞等年末旺季节点，并指出世界杯期间将带动体育相关消费需求上升。",
-      "publishedAt": "2026-07-02T16:45:00+08:00",
-      "source": "AMZ123跨境导航",
-      "url": "https://www.amz123.com/kx/jml6JvNw",
-      "subCategory": "新兴市场"
-    },
-    {
-      "id": "trade-20260702-001",
-      "title": "TikTok拟在都柏林裁员约300人，调整AI与数据团队",
-      "summary": "TikTok计划在爱尔兰都柏林裁减约300个岗位，涉及AI与数据处理团队重组，部分员工将获内部转岗机会，质检工作将转移至其他区域中心。都柏林是TikTok欧洲信任与安全业务的重要基地。",
-      "publishedAt": "2026-07-02T16:36:00+08:00",
-      "source": "AMZ123跨境导航",
-      "url": "https://www.amz123.com/t/Br0eWBUC",
-      "subCategory": "平台动态"
-    },
-    {
-      "id": "trade-20260702-002",
-      "title": "安克创新赴港上市，挂牌首日即破发",
-      "summary": "安克创新7月2日在港交所主板挂牌，股票代码1朗968.HK，发行价每股99.32港元，净筹资约45.23亿港元，公开发售获27.57倍认购，但上市首日股价跌破发行价。公司去年营收超96%来自海外，对亚马逊平台依赖度达52.29%。",
-      "publishedAt": "2026-07-02T15:16:00+08:00",
-      "source": "AMZ123跨境导航",
-      "url": "https://www.amz123.com/t/c7EgOpRj",
-      "subCategory": "供应链"
     }
   ]
 }

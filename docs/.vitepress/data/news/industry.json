@@ -3,8 +3,17 @@
   "slug": "industry",
   "title": "行业新闻",
   "description": "企业服务、SaaS、云计算、制造业、消费互联网的产业动态。",
-  "updatedAt": "2026-07-08T08:35:00+08:00",
+  "updatedAt": "2026-07-08T16:45:00+08:00",
   "items": [
+    {
+      "id": "industry-20260708-003",
+      "title": "SensorTower：2026年6月中国手游发行商全球收入排行榜",
+      "summary": "SensorTower数据显示，2026年6月共有38家中国发行商登上全球手游收入榜前100，合计吸金20.6亿美元，占榜单总收入41.6%，腾讯稳居第一。",
+      "publishedAt": "2026-07-08",
+      "source": "199IT",
+      "url": "https://www.199it.com/archives/1838679.html",
+      "subCategory": "行业研报"
+    },
     {
       "id": "industry-20260708-001",
       "title": "波士顿咨询：2026年时尚业首席财务官报告",
@@ -60,24 +69,6 @@
       "subCategory": "半导体产业"
     },
     {
-      "id": "industry-20260707-801",
-      "title": "Counterpoint: China's 618 smartphone sales fall 13% year-on-year",
-      "summary": "Counterpoint监测显示，2026年618大促期间中国智能手机销量同比下降13%，除华为外主要品牌均两位数下滑，荣耀降33%、小米降24%，存储成本上涨及促销力度减弱是主因。",
-      "publishedAt": "2026-07-07",
-      "source": "TechNode",
-      "url": "https://technode.com/2026/07/07/counterpoint-chinas-618-smartphone-sales-fall-13-year-on-year/",
-      "subCategory": "消费零售"
-    },
-    {
-      "id": "industry-20260707-805",
-      "title": "Gartner Predicts 60% of Organizations Will Adopt Smaller Software Engineering Teams by 2029",
-      "summary": "Gartner预测，到2029年将有60%的企业采用规模化的小型软件工程团队，2026年这一比例仅为15%，AI承担更多常规技术工作，推动企业转向精简高效的工程组织模式。",
-      "publishedAt": "2026-07-07",
-      "source": "Archyde (转载自Gartner新闻室)",
-      "url": "https://www.archyde.com/gartner-predicts-60-of-organizations-will-adopt-smaller-software-engineering-teams-by-2029/",
-      "subCategory": "企业服务"
-    },
-    {
       "id": "industry-20260707-802",
       "title": "Counterpoint报告：2026年一季度端侧AI智能手表出货涨70% 渗透率达25%",
       "summary": "Counterpoint报告显示，2026年第一季度全球支持端侧AI的智能手表出货量同比增长70%，渗透率达25%，低功耗神经网络加速器推动跌落检测、睡眠分析等本地化功能普及。",
@@ -114,6 +105,24 @@
       "subCategory": "行业研报"
     },
     {
+      "id": "industry-20260707-801",
+      "title": "Counterpoint: China's 618 smartphone sales fall 13% year-on-year",
+      "summary": "Counterpoint监测显示，2026年618大促期间中国智能手机销量同比下降13%，除华为外主要品牌均两位数下滑，荣耀降33%、小米降24%，存储成本上涨及促销力度减弱是主因。",
+      "publishedAt": "2026-07-07",
+      "source": "TechNode",
+      "url": "https://technode.com/2026/07/07/counterpoint-chinas-618-smartphone-sales-fall-13-year-on-year/",
+      "subCategory": "消费零售"
+    },
+    {
+      "id": "industry-20260707-805",
+      "title": "Gartner Predicts 60% of Organizations Will Adopt Smaller Software Engineering Teams by 2029",
+      "summary": "Gartner预测，到2029年将有60%的企业采用规模化的小型软件工程团队，2026年这一比例仅为15%，AI承担更多常规技术工作，推动企业转向精简高效的工程组织模式。",
+      "publishedAt": "2026-07-07",
+      "source": "Archyde (转载自Gartner新闻室)",
+      "url": "https://www.archyde.com/gartner-predicts-60-of-organizations-will-adopt-smaller-software-engineering-teams-by-2029/",
+      "subCategory": "企业服务"
+    },
+    {
       "id": "industry-20260707-702",
       "title": "瑞银：苹果AI换机意愿24% 半年降5%",
       "summary": "瑞银调查显示，全球仅24%消费者因苹果Apple Intelligence功能而换机，较半年前的29%下降5个百分点，中国市场换机意愿降至15%，AI功能对购机决策影响仍有限。",
@@ -139,24 +148,6 @@
       "source": "新浪科技",
       "url": "https://finance.sina.com.cn/tech/roll/2026-07-06/doc-inifwscq1847078.shtml",
       "subCategory": "新能源汽车"
-    },
-    {
-      "id": "industry-20260706-601",
-      "title": "Agentic AI to disrupt $234B in SaaS spending: Gartner",
-      "summary": "Gartner预测，到2030年，全球超2340亿美元企业应用软件支出将因Agentic AI面临颛覆，约占企业SaaS支出两成。AI智能体可跨系统直接完成任务、绕开传统界面，打破用户增长与收入增长的传统关联，倒逿SaaS厂商转向按结果收费。",
-      "publishedAt": "2026-07-06",
-      "source": "Gartner（CIODive报道）",
-      "url": "https://www.ciodive.com/news/agentic-ai-disrupt-234-billion-saas-spending/824530/",
-      "subCategory": "SaaS"
-    },
-    {
-      "id": "industry-20260706-602",
-      "title": "Sustainability Reporting in Europe: From Compliance to Strategy",
-      "summary": "BCG发文指出，欧盟ESRS Set 2新规将强制披露数据点减少六到七成，但大型企业年度可持续报告成本仍超百万欧元；多数企业仍将披露视为合规任务而非战略工具，BCG建议企业在2026财年前强化AI与治理能力，实现智能合规。",
-      "publishedAt": "2026-07-06",
-      "source": "BCG",
-      "url": "https://www.bcg.com/publications/2026/smart-compliance-esrs-sustainability-reporting",
-      "subCategory": "企业服务"
     },
     {
       "id": "industry-20260706-305",
@@ -222,6 +213,24 @@
       "subCategory": "半导体产业"
     },
     {
+      "id": "industry-20260706-601",
+      "title": "Agentic AI to disrupt $234B in SaaS spending: Gartner",
+      "summary": "Gartner预测，到2030年，全球超2340亿美元企业应用软件支出将因Agentic AI面临颛覆，约占企业SaaS支出两成。AI智能体可跨系统直接完成任务、绕开传统界面，打破用户增长与收入增长的传统关联，倒逿SaaS厂商转向按结果收费。",
+      "publishedAt": "2026-07-06",
+      "source": "Gartner（CIODive报道）",
+      "url": "https://www.ciodive.com/news/agentic-ai-disrupt-234-billion-saas-spending/824530/",
+      "subCategory": "SaaS"
+    },
+    {
+      "id": "industry-20260706-602",
+      "title": "Sustainability Reporting in Europe: From Compliance to Strategy",
+      "summary": "BCG发文指出，欧盟ESRS Set 2新规将强制披露数据点减少六到七成，但大型企业年度可持续报告成本仍超百万欧元；多数企业仍将披露视为合规任务而非战略工具，BCG建议企业在2026财年前强化AI与治理能力，实现智能合规。",
+      "publishedAt": "2026-07-06",
+      "source": "BCG",
+      "url": "https://www.bcg.com/publications/2026/smart-compliance-esrs-sustainability-reporting",
+      "subCategory": "企业服务"
+    },
+    {
       "id": "industry-20260707-704",
       "title": "比亚迪：2026年6月底闪充站7018座年底冲2万",
       "summary": "比亚迪披露，截至2026年6月底已在全国325个城市建成7018座闪充站，计划年底前建成2万座，单枪最大功率1500千瓦，5分钟可补能约400公里。",
@@ -237,6 +246,15 @@
       "publishedAt": "2026-07-05T19:27:00+08:00",
       "source": "新浪财经",
       "url": "https://finance.sina.com.cn/tech/roll/2026-07-05/doc-inifuaqx2172135.shtml",
+      "subCategory": "半导体产业"
+    },
+    {
+      "id": "industry-20260705-602",
+      "title": "Prismark：2026年全球PCB产业增长12.5%，规模达958亿美元",
+      "summary": "研究机构Prismark预测2026年全球PCB产业规模将增长12.5%达958亿美元，同时三星电子等大客户正就下半年PCB基板价格与供应商展开降价谈判。",
+      "publishedAt": "2026-07-05T19:25:00+08:00",
+      "source": "新浪财经",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-07-05/doc-inifuaqv9331772.shtml",
       "subCategory": "半导体产业"
     },
     {
@@ -274,6 +292,24 @@
       "source": "IANS",
       "url": "https://ianslive.in/5-semiconductor-plants-likely-to-be-operational-in-india-by-2026-end--20260705090841",
       "subCategory": "半导体产业"
+    },
+    {
+      "id": "industry-20260704-001",
+      "title": "2026年中国快递业务量已超1000亿件",
+      "summary": "国家邮政局监测数据显示，截至6月30日，2026年中国快递业务量已突破1000亿件，比2025年达到该规模提前9天，产业带集群持续拉动包裹量增长。",
+      "publishedAt": "2026-07-04T21:35:58+08:00",
+      "source": "中国新闻网",
+      "url": "https://www.chinanews.com.cn/cj/2026/07-04/10652873.shtml",
+      "subCategory": "行业研报"
+    },
+    {
+      "id": "industry-20260704-002",
+      "title": "订单排到2027年，谁在支撑人形机器人的\"量产元年\"？",
+      "summary": "摩根士丹利将2026年中国人形机器人出货量预测从年初1.4万台上修至5万台，高工机器人产业研究所预计国内出货量将达6.25万台，量产成本三年降七成。",
+      "publishedAt": "2026-07-04T15:50:00+08:00",
+      "source": "新浪财经",
+      "url": "https://finance.sina.com.cn/stock/t/2026-07-04/doc-inifrtiz2511427.shtml",
+      "subCategory": "制造业"
     },
     {
       "id": "industry-20260703-202",
@@ -364,6 +400,15 @@
       "source": "新浪科技",
       "url": "https://finance.sina.com.cn/tech/roll/2026-07-03/doc-inifmvzn5824830.shtml",
       "subCategory": "新能源汽车"
+    },
+    {
+      "id": "industry-20260703-205",
+      "title": "面向未来的教学：弥合期望鸿沟",
+      "summary": "沃尔顿家庭基金会与盖洛普报告显示，超55%的美国教师认为卓越教学要求不现实，认为要求非常现实的教师次年留任意愿达94%，远高于认为不现实群体的74%。",
+      "publishedAt": "2026-07-03",
+      "source": "199IT",
+      "url": "http://www.199it.com/archives/1832633.html",
+      "subCategory": "教育科技"
     },
     {
       "id": "industry-20260702-092",
@@ -490,6 +535,15 @@
       "source": "上海证券报（新浪财经）",
       "url": "https://finance.sina.com.cn/stock/2026-07-02/doc-inifixke0579074.shtml",
       "subCategory": "半导体产业"
+    },
+    {
+      "id": "industry-20260702-702",
+      "title": "2026年7月笔记本涨幅10%-20%",
+      "summary": "受AI大模型训练挤占存储产能影响，2026年7月国内笔记本电脑价格普遍上涨10%-20%，部分游戏本涨价超千元，主流学生机型均在调价范围内。",
+      "publishedAt": "2026-07-02",
+      "source": "199IT",
+      "url": "http://www.199it.com/archives/1837542.html",
+      "subCategory": "消费零售"
     },
     {
       "id": "industry-20260701-097",
@@ -670,60 +724,6 @@
       "source": "每日经济新闻",
       "url": "https://www.mrjjxw.com/articles/2026-06-30/4442126.html",
       "subCategory": "公司动态"
-    },
-    {
-      "id": "industry-20260630-009",
-      "title": "美畔股份出资3亿元认购龙腾半导体5.729%股权 布局功率半导体财务投资",
-      "summary": "美畔股份公告以3亿元认购龙腾半导体新堙1200万股，每股25元，茹5.729%股权，定位为财务投资。龙腾半导体总部位于西安，主营功率半导体器件，2025年净亏捐4.5亿元，一季度资产负债率达80.21%。",
-      "publishedAt": "2026-06-30T22:01:00+08:00",
-      "source": "证券时报",
-      "url": "https://www.stcn.com/article/detail/3990172.html",
-      "subCategory": "半导体产业"
-    },
-    {
-      "id": "industry-20260630-008",
-      "title": "学而思发布全新培优AI家教及旗舰学习机 T6系列",
-      "summary": "学而思发布全新培优AI家教系统、国际学院英语课程体系及T6系列旗舰学习机(标准版、国际版、Max)，产品即日起开启预售，7月9日全平台正式发售，首发价6899元至11999元不等。",
-      "publishedAt": "2026-06-30T20:29:00+08:00",
-      "source": "证券时报网",
-      "url": "https://www.stcn.com/article/detail/3993280.html",
-      "subCategory": "教育科技"
-    },
-    {
-      "id": "industry-20260630-005",
-      "title": "多家国产手机厂商被曝再次下修全年出货目标",
-      "summary": "供应链消息显示，小米、OPPO、vivo等国产手机厂商近期再次下修PP26年出货目标，小米出货预期降至约9500万部，跌幅近30%，OPPO、vivo目标均降至9000万部以下，主因内存芯片及配套元器件涨价、产能被AI基础设施挤占。",
-      "publishedAt": "2026-06-30T18:03:27+08:00",
-      "source": "网易财经（转载）",
-      "url": "https://www.163.com/dy/article/L0MK41UM051481US.html",
-      "subCategory": "消费零售"
-    },
-    {
-      "id": "industry-20260630-006",
-      "title": "港股IPO早播报：立讯精密和晶合集成等9家公司开始招股",
-      "summary": "立讯精密与晶合集成9家公司6月30日起在港交所启动新股招股。立讯精密发行价63.28港元，预计募资约24.27亿港元；晶合集成发行价区间30至32.3港元，预计募资64.85亿至69.82亿港元。",
-      "publishedAt": "2026-06-30T12:59:00+08:00",
-      "source": "财联社",
-      "url": "https://www.cls.cn/detail/2412697",
-      "subCategory": "公司动态"
-    },
-    {
-      "id": "industry-20260630-007",
-      "title": "2026年6月中国采购经理指数运行情况",
-      "summary": "国家统计局数据显示，6月份中国制造业采购经理指数为50.3%，环比上升0.3个百分点，重返扩张区间。生产指数、新订单指数分别为51.4%和51.2%，高技术制造业PMI达53.5%，高于制造业总体水平。",
-      "publishedAt": "2026-06-30T09:30:00+08:00",
-      "source": "国家统计局",
-      "url": "https://www.stats.gov.cn/sj/zxfb/202606/t20260630_1964032.html",
-      "subCategory": "制造业"
-    },
-    {
-      "id": "industry-20260630-003",
-      "title": "半导体设备全球景气周期持续确认",
-      "summary": "中信建投研报称，SEMI将2026年全球前端半导体设备市场规模增速预期甲16.5%上调至23.5%，规模达1522亿美元；一季度全球设备出货额365.5亿美元，同比增长14%，创历史新高。",
-      "publishedAt": "2026-06-30T09:26:30+08:00",
-      "source": "每经网",
-      "url": "https://www.nbd.com.cn/articles/2026-06-30/4441322.html",
-      "subCategory": "半导体产业"
     }
   ]
 }

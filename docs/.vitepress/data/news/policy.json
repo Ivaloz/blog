@@ -3,8 +3,17 @@
   "slug": "policy",
   "title": "政策信息",
   "description": "国家与地方政策、监管动态、产业扶持与合规要求。",
-  "updatedAt": "2026-07-08T08:35:00+08:00",
+  "updatedAt": "2026-07-08T16:45:00+08:00",
   "items": [
+    {
+      "id": "policy-20260707-005",
+      "title": "市场监管总局：上半年深入整治\"内卷式\"竞争取得积极进展",
+      "summary": "市场监管总局通报，上半年部署16项专项行动、明确39项预期成果，查结医药、公用事业等领域垄断案件12件，高效审结汽车、光伏、锂电池行业经营者集中案52件，配套规章已于2月1日起正式实施。",
+      "publishedAt": "2026-07-07T21:34:00+08:00",
+      "source": "国家市场监督管理总局（东方财富网报道）",
+      "url": "https://finance.eastmoney.com/a/202607073797088570.html",
+      "subCategory": "反垄断"
+    },
     {
       "id": "policy-20260707-001",
       "title": "证监会对安某编造传播涉中公教育虚假信息立案调查",
@@ -13,6 +22,42 @@
       "source": "证券时报",
       "url": "https://www.stcn.com/article/detail/4003119.html",
       "subCategory": "金融监管"
+    },
+    {
+      "id": "policy-20260707-006",
+      "title": "市场监管总局：将组织开展2026年度公平竞争审查抽查 切实强化公平竞争审查刚性约束",
+      "summary": "市场监管总局表示，将近期组织开展2026年度公平竞争审查抽查，重点关注企业反映强烈的市场竞争干预问题及地方违规财政奖补措施，综合运用抽查、约谈、通报等工具强化审查刚性约束。",
+      "publishedAt": "2026-07-07T20:57:00+08:00",
+      "source": "国家市场监督管理总局（东方财富网报道）",
+      "url": "https://caifuhao.eastmoney.com/news/20260707205744269928300",
+      "subCategory": "反垄断"
+    },
+    {
+      "id": "policy-20260707-002",
+      "title": "SEC Forms New Retail Fraud Working Group",
+      "summary": "美国证监会在执法部门内新设零售欺诈工作组，由Kate Zoladz和Kim Frederick牵头，专项打击针对散户投资者的发行欺诈、坐庄操纵及投顾/经纪商违反受托责任等行为。",
+      "publishedAt": "2026-07-07",
+      "source": "U.S. Securities and Exchange Commission",
+      "url": "https://www.sec.gov/newsroom/press-releases/2026-63-sec-forms-new-retail-fraud-working-group",
+      "subCategory": "金融监管"
+    },
+    {
+      "id": "policy-20260707-003",
+      "title": "Commission presents EU Action Plan on Cybersecurity and Artificial Intelligence",
+      "summary": "欧盟委员会发布网络安全与人工智能行动计划，为成员国、产业界与欧盟机构提出协同应对前沿AI模型风险的路径，同时鼓励利用AI增强网络防御能力，暂不涉及新立法。",
+      "publishedAt": "2026-07-07",
+      "source": "European Commission",
+      "url": "https://digital-strategy.ec.europa.eu/en/news/commission-presents-eu-action-plan-cybersecurity-and-artificial-intelligence",
+      "subCategory": "AI监管"
+    },
+    {
+      "id": "policy-20260707-004",
+      "title": "Businesses across Britain sign up to Cyber Resilience Pledge as ministers urge firms to strengthen cyber defences",
+      "summary": "包括玛莎百货、Nationwide、ITV、微软英国、Cloudflare在内的60余家英国企业签署自愿性网络韧性承诺，要求董事会承担网络安全责任并注册NCSC预警系统，英国企业每年因网络攻击损失约147亿英镑。",
+      "publishedAt": "2026-07-07",
+      "source": "GOV.UK",
+      "url": "https://www.gov.uk/government/news/businesses-across-britain-sign-up-to-cyber-resilience-pledge-as-ministers-urge-firms-to-strengthen-cyber-defences",
+      "subCategory": "海外政策"
     },
     {
       "id": "policy-20260706-401",
@@ -31,6 +76,15 @@
       "source": "IT之家",
       "url": "https://www.ithome.com/0/973/109.htm",
       "subCategory": "数字经济"
+    },
+    {
+      "id": "policy-20260706-602",
+      "title": "今起 沪深主板ST、*ST股票涨跌幅调整至10%",
+      "summary": "上交所、深交所修订后的交易规则自2026年7月6日起正式实施，主板ST、*ST股票涨跌幅限制由5%调整为10%，与主板普通股票趋于一致；科创板、创业板ST股涨跌幅维持不变，盘后固定价格交易机制同步扩大至全部A股和ETF。",
+      "publishedAt": "2026-07-06T07:29:00+08:00",
+      "source": "新浪财经（转自每日经济新闻）",
+      "url": "https://finance.sina.com.cn/roll/2026-07-06/doc-inifvkki1795860.shtml",
+      "subCategory": "金融监管"
     },
     {
       "id": "policy-20260706-402",
@@ -78,15 +132,6 @@
       "subCategory": "海外政策"
     },
     {
-      "id": "policy-20260706-602",
-      "title": "今起 沪深主板ST、*ST股票涨跌幅调整至10%",
-      "summary": "上交所、深交所修订后的交易规则自2026年7月6日起正式实施，主板ST、*ST股票涨跌幅限制由5%调整为10%，与主板普通股票趋于一致；科创板、创业板ST股涨跌幅维持不变，盘后固定价格交易机制同步扩大至全部A股和ETF。",
-      "publishedAt": "2026-07-06T07:29:00+08:00",
-      "source": "新浪财经（转自每日经济新闻）",
-      "url": "https://finance.sina.com.cn/roll/2026-07-06/doc-inifvkki1795860.shtml",
-      "subCategory": "金融监管"
-    },
-    {
       "id": "policy-20260705-001",
       "title": "中英服务贸易协定联合可行性研究技术磋商在伦敦举行",
       "summary": "中英两国官员6月30日至7月1日在伦敦举行第三轮服务贸易协定联合可行性研究技术磋商，双方称谈判取得实质性进展，将加快后续工作，力争尽早完成联合可行性研究，磋商基于2026年1月签署的谅解备忘录展开。",
@@ -96,13 +141,13 @@
       "subCategory": "跨境贸易"
     },
     {
+      "id": "policy-20260704-001",
       "title": "市场监管总局、商务部就电子商务法修正草案征求意见稿公开征求意见",
       "summary": "市场监管总局与商务部就《中华人民共和国电子商务法（修正草案征求意见稿）》公开征求意见，草案共二十条，涉及扩大调整范围、完善平台责任体系等内容，反馈截止8月4日。",
       "publishedAt": "2026-07-04",
       "source": "国家市场监督管理总局",
       "url": "https://www.samr.gov.cn/hd/zjdc/art/2026/art_41b16f1123ee4cd7acf892bb8bed5fe0.html",
-      "subCategory": "数字经济",
-      "id": "policy-20260704-001"
+      "subCategory": "数字经济"
     },
     {
       "id": "policy-20260703-011",
@@ -123,40 +168,58 @@
       "subCategory": "金融监管"
     },
     {
+      "id": "policy-20260703-001",
+      "title": "中央网信办部署开展\"清朗·网络娱乐团播乱象整治\"专项行动",
+      "summary": "中央网信办自7月3日起在全国开展为期两个月的专项行动，集中整治团播账号注册违规、MCN机构管理失范、低俗场景、侵害未成年人权益等六类问题，压实平台和机构管理责任。",
+      "publishedAt": "2026-07-03T09:40:30+08:00",
+      "source": "新华网",
+      "url": "https://www.news.cn/politics/20260703/a7441996058a4097920b2127fd3a88b6/c.html",
+      "subCategory": "数字经济"
+    },
+    {
+      "id": "policy-20260703-017",
+      "title": "民生直通车｜支持企业稳岗扩岗 政策\"两延续一优化\"",
+      "summary": "四部门联合发布通知，延续失业保险稳岗返还政策（大型企业返还比例上限30%、中小微企业60%）和扩岗补助政策，并优化技能提升补贴，扩大适用范围至社会组织、个体工商户等。",
+      "publishedAt": "2026-07-03T00:48:37+08:00",
+      "source": "新华网",
+      "url": "https://www.news.cn/politics/20260703/b7b5e7a9793f42eda13bd53c10fbc683/c.html",
+      "subCategory": "产业政策"
+    },
+    {
+      "id": "policy-20260703-013",
       "title": "国家发展改革委印发《循环经济发展\"十五五\"规划》",
       "summary": "国家发展改革委印发《循环经济发展\"十五五\"规划》，提出到2030年主要资源产出率较2025年提高约16%，大宗固废综合利用量达到约45亿吨，资源循环利用产业产值达到8万亿元。",
       "publishedAt": "2026-07-03",
       "source": "国家发展和改革委员会",
       "url": "https://www.ndrc.gov.cn/xxgk/jd/jd/202607/t20260702_1406253.html",
-      "subCategory": "产业政策",
-      "id": "policy-20260703-013"
+      "subCategory": "产业政策"
     },
     {
+      "id": "policy-20260703-014",
       "title": "2026年7月3日国内成品油价格调整",
       "summary": "国家发展改革委发布通知，自7月3日24时起国内汽油、柴油（标准品）价格每吨分别下调950元和915元，原因是国际原油价格自上次调价以来出现下行，并要求相关企业保障市场供应。",
       "publishedAt": "2026-07-03",
       "source": "国家发展和改革委员会",
       "url": "https://www.ndrc.gov.cn/xwdt/xwfb/202607/t20260703_1406245.html",
-      "subCategory": "产业政策",
-      "id": "policy-20260703-014"
+      "subCategory": "产业政策"
     },
     {
+      "id": "policy-20260703-015",
       "title": "中国证监会就修改北交所上市公司证券发行注册管理办法公开征求意见",
       "summary": "中国证监会就修改《北京证券交易所上市公司证券发行注册管理办法》的决定及相关配套规则公开征求意见，涉及信息披露等五项规则修订，反馈截止日期为8月2日。",
       "publishedAt": "2026-07-03",
       "source": "中国证券监督管理委员会",
       "url": "https://www.csrc.gov.cn/csrc/c101981/c7643353/content.shtml",
-      "subCategory": "金融监管",
-      "id": "policy-20260703-015"
+      "subCategory": "金融监管"
     },
     {
+      "id": "policy-20260703-016",
       "title": "欧盟委员会提出五个共同利益欧洲防务项目",
       "summary": "欧盟委员会提出五个\"共同利益欧洲防务项目\"，涵盖无人机与反无人机系统、海事与海底防御、太空、空天导弹防御及东翼安全，计划到2036年撬动约1900亿欧元投资，已安排3.25亿欧元支持落地。",
       "publishedAt": "2026-07-03",
       "source": "European Commission",
       "url": "https://defence-industry-space.ec.europa.eu/commission-proposes-five-joint-defence-projects-strengthen-europes-industrial-capabilities-2026-07-03_en",
-      "subCategory": "海外政策",
-      "id": "policy-20260703-016"
+      "subCategory": "海外政策"
     },
     {
       "id": "policy-20260703-002",
@@ -186,67 +249,76 @@
       "subCategory": "海外政策"
     },
     {
-      "id": "policy-20260703-001",
-      "title": "中央网信办部署开展\"清朗·网络娱乐团播乱象整治\"专项行动",
-      "summary": "中央网信办自7月3日起在全国开展为期两个月的专项行动，集中整治团播账号注册违规、MCN机构管理失范、低俗场景、侵害未成年人权益等六类问题，压实平台和机构管理责任。",
-      "publishedAt": "2026-07-03T09:40:30+08:00",
-      "source": "新华网",
-      "url": "https://www.news.cn/politics/20260703/a7441996058a4097920b2127fd3a88b6/c.html",
-      "subCategory": "数字经济"
-    },
-    {
-      "title": "民生直通车｜支持企业稳岗扩岗 政策\"两延续一优化\"",
-      "summary": "四部门联合发布通知，延续失业保险稳岗返还政策（大型企业返还比例上限30%、中小微企业60%）和扩岗补助政策，并优化技能提升补贴，扩大适用范围至社会组织、个体工商户等。",
-      "publishedAt": "2026-07-03T00:48:37+08:00",
-      "source": "新华网",
-      "url": "https://www.news.cn/politics/20260703/b7b5e7a9793f42eda13bd53c10fbc683/c.html",
-      "subCategory": "产业政策",
-      "id": "policy-20260703-017"
-    },
-    {
+      "id": "policy-20260702-005",
       "title": "三项光伏领域强制性国标出炉！标准立门槛，能效定去留",
       "summary": "工信部会同发改委、市场监管总局发布多晶硅锗单位产品能耗限额、晶硅光伏组件与逆变器能效限定值等三项强制性国家标准，2027年1月1日起实施，或将淘汰约327.6吉瓦不达标产能。",
       "publishedAt": "2026-07-02T22:50:33+08:00",
       "source": "每日经济新闻",
       "url": "https://www.nbd.com.cn/articles/2026-07-02/4446247.html",
-      "subCategory": "新能源政策",
-      "id": "policy-20260702-005"
+      "subCategory": "新能源政策"
     },
     {
+      "id": "policy-20260702-007",
       "title": "中国逆变器遭欧美禁令夹击：美国FCC起草进口限制，欧盟已先行封杀",
       "summary": "美国联邦通信委员会正起草规则限制外国逆变器进口，称担忧\"远程电网干扰\"；欧盟自5月4日起已禁止在公共资助能源项目中使用中国制逆变器，中国企业占全球逆变器供应约七至八成。",
       "publishedAt": "2026-07-02T17:35:00+08:00",
       "source": "电子工程专辑",
       "url": "https://www.eet-china.com/news/202607022003.html",
-      "subCategory": "海外政策",
-      "id": "policy-20260702-007"
+      "subCategory": "海外政策"
     },
     {
+      "id": "policy-20260702-002",
       "title": "未来五年，如何进一步保障和提升残疾人生活品质",
       "summary": "国务院残疾人工作委员会7月2日印发《残疾人保障和发展\"十五五\"规划》，围绕社会保障、就业创业、关爱服务等7个方面部署32项重点任务，明确到2030年的发展目标。",
       "publishedAt": "2026-07-02T17:07:00+08:00",
       "source": "中新网",
       "url": "https://www.chinanews.com.cn/gn/2026/07-02/10651514.shtml",
-      "subCategory": "产业政策",
-      "id": "policy-20260702-002"
+      "subCategory": "产业政策"
     },
     {
+      "id": "policy-20260702-001",
       "title": "\"深圳将全域开放无人驾驶\"系误读",
       "summary": "《深圳经济特区智能网联汽车管理条例》7月1日起施行，其第十七条授权市政府\"有序探索\"全域路测和商业化运营试点，专家称这是立法授权而非立即开放全域自动驾驶出租车服务。",
       "publishedAt": "2026-07-02T16:17:09+08:00",
       "source": "中新网",
       "url": "https://www.chinanews.com.cn/sh/2026/07-02/10651465.shtml",
-      "subCategory": "产业政策",
-      "id": "policy-20260702-001"
+      "subCategory": "产业政策"
     },
     {
+      "id": "policy-20260702-004",
       "title": "商务部回应对美农产品关税问题",
       "summary": "商务部新闻发言人何亚东在例行发布会上表示，中美近期经贸磋商已就扩大农产品双向贸易设定指导性目标，双方原则同意将相关农产品纳入对等降税框架，中方愿与美方相向而行创造有利条件。",
       "publishedAt": "2026-07-02T15:15:53+08:00",
       "source": "新华网",
       "url": "https://www.news.cn/20260702/73b64d7d139d4832bd3f027399c94a4f/c.html",
-      "subCategory": "跨境贸易",
-      "id": "policy-20260702-004"
+      "subCategory": "跨境贸易"
+    },
+    {
+      "id": "policy-20260703-009",
+      "title": "《限制快递过度包装要求》强制性国家标准7月1日起实施",
+      "summary": "强制性国家标准《限制快递过度包装要求》自7月1日起施行，从包装箱选用、包装层数、封装胶带规格等方面量化管控，明确胶带宽度不得超过45毫米，旨在减少快递包装废弃物、保障寄递安全。",
+      "publishedAt": "2026-07-02T10:30:00+08:00",
+      "source": "国家市场监督管理总局",
+      "url": "https://www.samr.gov.cn/xw/sj/art/2026/art_610bff79bb3a4abebe090198d79ba905.html",
+      "subCategory": "产业政策"
+    },
+    {
+      "id": "policy-20260702-006",
+      "title": "国内首个针对L2级辅助驾驶的强制性国家标准正式发布",
+      "summary": "工信部组织制定的强制性国家标准GB 47955—2026《智能网联汽车组合驾驶辅助系统安全要求》正式发布，2027年1月1日起实施，由华为引望、小米、比亚迪、特斯拉等企业联合起草。",
+      "publishedAt": "2026-07-02T10:05:00+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/971/447.htm",
+      "subCategory": "产业政策"
+    },
+    {
+      "id": "policy-20260702-003",
+      "title": "市场监管总局对火炬集团和鼎晖百孚各罚款175万元",
+      "summary": "市场监管总局对中山火炬集团和上海鼎晖百孚在未获批准前即实施取得中炬高新控制权的经营者集中行为作出行政处罚，鉴于无排除竞争效果且配合调查，两家企业各被罚175万元。",
+      "publishedAt": "2026-07-02T06:40:00+08:00",
+      "source": "新浪财经",
+      "url": "https://finance.sina.com.cn/roll/2026-07-02/doc-inifkcry3722165.shtml",
+      "subCategory": "反垄断"
     },
     {
       "id": "policy-20260706-302",
@@ -285,33 +357,6 @@
       "subCategory": "数字经济"
     },
     {
-      "id": "policy-20260703-009",
-      "title": "《限制快递过度包装要求》强制性国家标准7月1日起实施",
-      "summary": "强制性国家标准《限制快递过度包装要求》自7月1日起施行，从包装箱选用、包装层数、封装胶带规格等方面量化管控，明确胶带宽度不得超过45毫米，旨在减少快递包装废弃物、保障寄递安全。",
-      "publishedAt": "2026-07-02T10:30:00+08:00",
-      "source": "国家市场监督管理总局",
-      "url": "https://www.samr.gov.cn/xw/sj/art/2026/art_610bff79bb3a4abebe090198d79ba905.html",
-      "subCategory": "产业政策"
-    },
-    {
-      "title": "国内首个针对L2级辅助驾驶的强制性国家标准正式发布",
-      "summary": "工信部组织制定的强制性国家标准GB 47955—2026《智能网联汽车组合驾驶辅助系统安全要求》正式发布，2027年1月1日起实施，由华为引望、小米、比亚迪、特斯拉等企业联合起草。",
-      "publishedAt": "2026-07-02T10:05:00+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/971/447.htm",
-      "subCategory": "产业政策",
-      "id": "policy-20260702-006"
-    },
-    {
-      "title": "市场监管总局对火炬集团和鼎晖百孚各罚款175万元",
-      "summary": "市场监管总局对中山火炬集团和上海鼎晖百孚在未获批准前即实施取得中炬高新控制权的经营者集中行为作出行政处罚，鉴于无排除竞争效果且配合调查，两家企业各被罚175万元。",
-      "publishedAt": "2026-07-02T06:40:00+08:00",
-      "source": "新浪财经",
-      "url": "https://finance.sina.com.cn/roll/2026-07-02/doc-inifkcry3722165.shtml",
-      "subCategory": "反垄断",
-      "id": "policy-20260702-003"
-    },
-    {
       "id": "policy-20260701-005",
       "title": "海南提出\"十五五\"期间打造\"全球免税购物中心\"",
       "summary": "海南自由贸易港提出在\"十五五\"期间打造\"全球免税购物中心\"，扩大高端定制及限量首发品类，构建零关税消费品体系，目标到2030年离岛免税销售额突破5000亿元，2025年为3038亿元。",
@@ -321,13 +366,13 @@
       "subCategory": "产业政策"
     },
     {
+      "id": "policy-20260701-001",
       "title": "湖北武汉车网互动新政落地：私人充电桩也能 V2G“卖电”赚钱",
       "summary": "武汉市新政策自7月1日起实施，支持个人新能源车主通过具备V2G功能并接入平台的家用充电桩参与车网互动，利用峰谷价差“低充高卖”获得收益，此前该权限仅限部分公共充电设施。",
       "publishedAt": "2026-07-01T16:36:37+08:00",
       "source": "IT之家",
       "url": "https://www.ithome.com/0/971/179.htm",
-      "subCategory": "新能源政策",
-      "id": "policy-20260701-001"
+      "subCategory": "新能源政策"
     },
     {
       "id": "policy-20260701-007",
@@ -393,13 +438,13 @@
       "subCategory": "AI监管"
     },
     {
+      "id": "policy-20260701-010",
       "title": "SEC Publishes Updated Market Statistics, Highlighting Increase in IPOs and Proceeds Raised",
       "summary": "美国证券交易委员会发布最新资本市场统计数据及可视化图表，显示2026年第一季度共有99宗IPO，融资超220亿美元，较2025年同期增长约86%，后续发行264宗，融资达442亿美元。",
       "publishedAt": "2026-07-01",
       "source": "美国证券交易委员会（SEC）",
       "url": "https://www.sec.gov/newsroom/press-releases/2026-61-sec-publishes-updated-market-statistics-highlighting-increase-ipos-proceeds-raised",
-      "subCategory": "金融监管",
-      "id": "policy-20260701-010"
+      "subCategory": "金融监管"
     },
     {
       "id": "policy-20260703-003",
@@ -420,13 +465,13 @@
       "subCategory": "金融监管"
     },
     {
+      "id": "policy-20260630-001",
       "title": "商务部公告2026年第25号 公布对原产于加拿大的豌豆淀粉反倾销调查的初步裁定",
       "summary": "商务部公布对原产于加拿大的豌豆淀粉反倾销调查初步裁定，认定进口产品存在倾销并对国内产业造成实质损害。自2026年7月1日起，进口该产品的加拿大企业需按73.5%税率缴纳保证金。",
       "publishedAt": "2026-06-30T15:11:00+08:00",
       "source": "商务部",
       "url": "https://www.mofcom.gov.cn/zcfb/blgg/gg/2026/art/2026/art_b1ce17f4575c4eacb6e64941364998c1.html",
-      "subCategory": "跨境贸易",
-      "id": "policy-20260630-001"
+      "subCategory": "跨境贸易"
     },
     {
       "id": "policy-20260630-002",
@@ -679,51 +724,6 @@
       "source": "IT之家",
       "url": "https://www.ithome.com/0/957/800.htm",
       "subCategory": "产业政策"
-    },
-    {
-      "id": "policy-20260531-002",
-      "title": "3C认证实施规则迎来新调整，移动电源新增多项安全测试",
-      "summary": "市场监管总局发布公告调整CCC认证实施要求，新增强制性国家标准GB 47372—2026《移动电源安全技术规范》作为认证依据，强化热滥用、针刺等关键安全指标测试；同步修订认证规则，细化企业质量保证能力要求；2027年4月1日起全面执行新版规则，企业须在此前完成已获证产品的证书转换。",
-      "publishedAt": "2026-05-31T15:12:09+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/957/793.htm",
-      "subCategory": "产业政策"
-    },
-    {
-      "id": "policy-20260531-003",
-      "title": "国内航线燃油附加费6月5日起下调，最高降20元",
-      "summary": "自2026年6月5日起，国内航线客票燃油附加费下调，超过800公里的航线每位旅客由170元降至150元，800公里及以下由90元降至80元；婴儿免收，儿童及特定旅客享受减半优惠；此次下调是国际原油价格回落传导至民航票价成本的直接体现，有助于降低旅客出行负担。",
-      "publishedAt": "2026-05-31T13:52:07+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/957/774.htm",
-      "subCategory": "产业政策"
-    },
-    {
-      "id": "policy-20260527-001",
-      "title": "深圳'十五五'规划纲要发布 2030年GDP超5万亿元",
-      "summary": "深圳发布'十五五'规划纲要，明确到2030年地区生产总值突破5万亿元，年均增速力争5%以上；前瞻布局6G、生物制造、量子科技等未来产业，战略性新兴产业增加值超2.3万亿元，实时可用算力规模超150EFlops，金融业增加值突破7000亿元。",
-      "publishedAt": "2026-05-27T08:18:00+08:00",
-      "source": "证券时报",
-      "url": "https://www.stcn.com/article/detail/3928934.html",
-      "subCategory": "产业政策"
-    },
-    {
-      "id": "policy-20260526-004",
-      "title": "美军突然对伊朗发动打击！发言人：当前停火期间保持克制",
-      "summary": "美国中央司令部发言人证实，美军25日在伊朗南部实施自卫打击，目标为导弹发射阵地和布设水雷的伊朗船只，同时强调将在停火期间保持克制，不再进一步升级冲突。",
-      "publishedAt": "2026-05-26T08:04:00+08:00",
-      "source": "证券时报",
-      "url": "https://www.stcn.com/article/detail/3926665.html",
-      "subCategory": "海外政策"
-    },
-    {
-      "id": "policy-20260526-003",
-      "title": "创纪录：欧盟将对谷歌开出近 10 亿欧元反垄断罚单",
-      "summary": "欧盟委员会计划因谷歌违反《数字市场法案》对其处以近10亿欧元罚款，这将是欧盟有史以来最大反垄断罚单；调查源于谷歌在搜索结果中偏袒自家服务，决定预计夏季休会前公布。",
-      "publishedAt": "2026-05-26T07:26:26+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/955/083.htm",
-      "subCategory": "反垄断"
     }
   ]
 }

@@ -3,8 +3,44 @@
   "slug": "tech",
   "title": "科技新闻",
   "description": "前沿科技、互联网产品、芯片硬件、开源生态。",
-  "updatedAt": "2026-07-08T08:35:00+08:00",
+  "updatedAt": "2026-07-08T16:45:00+08:00",
   "items": [
+    {
+      "id": "tech-20260708-012",
+      "title": "想等降价太难！存储大厂威刚预警：Q3内存涨30%、闪存涨40%",
+      "summary": "威刚董事长陈立白表示，内存原厂已通知2026年三季度DRAM合约价将上涨20%至30%，NAND闪存涨幅达35%至40%，主因AI服务器、工控设备、企业存储及边缘计算需求激增；威刚6月营收146.61亿新台币，同比增长212%，创历史单月新高。",
+      "publishedAt": "2026-07-08T12:27:00+08:00",
+      "source": "新浪科技",
+      "url": "https://finance.sina.com.cn/tech/discovery/2026-07-08/doc-inihaieh4871947.shtml",
+      "subCategory": "芯片硬件"
+    },
+    {
+      "id": "tech-20260708-013",
+      "title": "REDMI Note17 Pro晴空蓝亮相，7月14日正式发布",
+      "summary": "小米REDMI Note 17系列定档7月14日19点发布，本代仅推出标准版与Pro版，取消Pro+版本；据称标准版搭载骁龙6 Gen5、9000mAh电池，Pro版搭载天玑7500、约1万mAh电池及2亿像素主摄，均支持防水防摔。",
+      "publishedAt": "2026-07-08T10:30:00+08:00",
+      "source": "新浪科技",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-07-08/doc-inihaieh4805292.shtml",
+      "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260708-011",
+      "title": "deepin 25.2.0 系统更新发布：Treeland 窗口管理器大幅优化，新增图片内容搜索",
+      "summary": "deepin 25.2.0发布，累计修复Treeland窗口管理器20余项稳定性问题，涉及登录注销、多任务视图、窗口焦点切换等场景；新增图片内容搜索、动态壁纸、定时待机功能，并更新x86/ARM64/龙芯内核及OpenSSL、OpenSSH等安全组件。",
+      "publishedAt": "2026-07-08T09:46:00+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/973/858.htm",
+      "subCategory": "操作系统"
+    },
+    {
+      "id": "tech-20260708-010",
+      "title": "微软Xbox大规模裁员重创id Software与黑曜石，近半数员工被波及",
+      "summary": "微软Xbox本轮裁员共涉及3200人，约占部门员工两成，其中1600人已于7月6日离职；《毁灭战士》开发商id Software约50%员工被裁，超90人离职，黑曜石娱乐裁减60至70人，占其员工约25%。",
+      "publishedAt": "2026-07-08T08:21:00+08:00",
+      "source": "新浪科技",
+      "url": "https://finance.sina.com.cn/tech/digi/2026-07-08/doc-inifzwqn4927885.shtml",
+      "subCategory": "消费电子"
+    },
     {
       "id": "tech-20260708-007",
       "title": "Meta 出新招：若智能眼镜隐私指示灯被人为破坏，就自动关闭摄像头",
@@ -222,6 +258,15 @@
       "subCategory": "XR-AR-VR"
     },
     {
+      "id": "tech-20260707-736",
+      "title": "Accenture confirms breach after hacker offers stolen data for sale",
+      "summary": "一名代号\"888\"的黑客声称窃取埃森哲约35GB数据，包括源代码、RSA/SSH密钥及Azure访问令牌，并在网络犯罪论坛出售。埃森哲确认发生一起\"孤立\"事件，称未影响业务运营及服务交付。",
+      "publishedAt": "2026-07-07T18:06:00+00:00",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/accenture-confirms-breach-after-hacker-offers-stolen-data-for-sale/",
+      "subCategory": "安全漏洞"
+    },
+    {
       "id": "tech-20260707-709",
       "title": "vivo Y500 4G 手机海外发布，配 8100mAh 大电池、紫光展锐 T7300 芯片",
       "summary": "vivo在尼泊尔、巴基斯坦市场发布Y500 4G手机，搭载紫光展锐T7300芯片，配备6.83英寸2800×1260分辨率120Hz AMOLED屏幕，内置8100mAh电池支持44W有线快充，标准版尼泊尔起售价约合人民币2455元。",
@@ -267,15 +312,6 @@
       "subCategory": "消费电子"
     },
     {
-      "id": "tech-20260707-734",
-      "title": "IBM推出紧凑型z17及LinuxONE 5系统",
-      "summary": "IBM发布采用单机架与机柜安装两种形态的紧凑型z17及LinuxONE 5系统，最多支持82核与18TB内存，新增后量子密码安全特性，将于8月12日全面上市。",
-      "publishedAt": "2026-07-07",
-      "source": "IBM Newsroom",
-      "url": "https://newsroom.ibm.com/z17-linuxone-single-frame-and-rack-mount",
-      "subCategory": "云计算"
-    },
-    {
       "id": "tech-20260707-704",
       "title": "联想 AI 平板拯救者 Y700 无极预热：内置流量卡 + 实体 SIM 卡双 5G 双通，8 月发布",
       "summary": "联想预热拯救者Y700无极平板，将支持内置流量卡与实体SIM卡双5G双通，采用分布式多天线设计，产品定于8月发布。机身背部保留军团标志与50兆像素摄像头模组的RGB光环设计，区别于此前搭载8.8英寸165Hz屏幕的Y700 Gen 5。",
@@ -283,6 +319,15 @@
       "source": "IT之家",
       "url": "https://www.ithome.com/0/973/385.htm",
       "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260707-737",
+      "title": "Tesla launches startup challenge to scale Giga Berlin battery cells",
+      "summary": "特斯拉与JUNI联合发起\"Cell Giga Challenge\"，邀请外部初创公司在柏林超级工厂4680电池产线试点材料、设备、自动化与AI技术，申请截止7月24日、8月启动，公司计划将柏林电芯产能从8GWh扩大至18GWh。",
+      "publishedAt": "2026-07-07T09:58:00+00:00",
+      "source": "Electrek",
+      "url": "https://electrek.co/2026/07/07/tesla-giga-berlin-cell-giga-challenge/",
+      "subCategory": "智能汽车"
     },
     {
       "id": "tech-20260707-703",
@@ -330,6 +375,15 @@
       "subCategory": "XR-AR-VR"
     },
     {
+      "id": "tech-20260707-734",
+      "title": "IBM推出紧凑型z17及LinuxONE 5系统",
+      "summary": "IBM发布采用单机架与机柜安装两种形态的紧凑型z17及LinuxONE 5系统，最多支持82核与18TB内存，新增后量子密码安全特性，将于8月12日全面上市。",
+      "publishedAt": "2026-07-07",
+      "source": "IBM Newsroom",
+      "url": "https://newsroom.ibm.com/z17-linuxone-single-frame-and-rack-mount",
+      "subCategory": "云计算"
+    },
+    {
       "id": "tech-20260706-601",
       "title": "Reddit使用大语言模型打击由AI生成的垃圾内容",
       "summary": "Reddit称其升级后的系统利用大语言模型识别高度隐蔽的协同虚假行为模式，弥补传统检测手段的不足。平台目前每日拦截约2300万次垃圾内容曝光、发现约2.5万条新垃圾帖子和评论，2026年一季度用户遭遇垃圾内容比例环比下降20%。",
@@ -337,15 +391,6 @@
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/07/06/reddit-is-using-llms-to-solve-a-problem-llms-largely-created/",
       "subCategory": "互联网产品"
-    },
-    {
-      "id": "tech-20260706-403",
-      "title": "Microsoft lays off nearly 5,000 employees across Xbox, commercial sales",
-      "summary": "微软对Xbox及商业销售部门实施裁员,涉及约4800个岗位,占全球员工总数2.1%,其中Xbox部门裁减约1600人,管理层级将从14层压缩至三层,部分游戏工作室将转由其他公司运营。",
-      "publishedAt": "2026-07-06T08:08:00-07:00",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/06/microsoft-lays-off-nearly-5000-employees-across-xbox-commercial-sales/",
-      "subCategory": "消费电子"
     },
     {
       "id": "tech-20260706-609",
@@ -463,6 +508,15 @@
       "source": "IT之家",
       "url": "https://www.ithome.com/0/972/880.htm",
       "subCategory": "航空航天"
+    },
+    {
+      "id": "tech-20260706-403",
+      "title": "Microsoft lays off nearly 5,000 employees across Xbox, commercial sales",
+      "summary": "微软对Xbox及商业销售部门实施裁员,涉及约4800个岗位,占全球员工总数2.1%,其中Xbox部门裁减约1600人,管理层级将从14层压缩至三层,部分游戏工作室将转由其他公司运营。",
+      "publishedAt": "2026-07-06T08:08:00-07:00",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/06/microsoft-lays-off-nearly-5000-employees-across-xbox-commercial-sales/",
+      "subCategory": "消费电子"
     },
     {
       "id": "tech-20260706-307",
@@ -670,60 +724,6 @@
       "source": "IT之家",
       "url": "https://www.ithome.com/0/972/688.htm",
       "subCategory": "芯片硬件"
-    },
-    {
-      "id": "tech-20260704-017",
-      "title": "谷歌新广告想象用AI协助起草《独立宣言》",
-      "summary": "谷歌发布广告《Group project, but make it 1776》，想象开国元勋借助Google文档、日历和Gemini协作起草《独立宣言》。广告在社交媒体反响不一，有历史学家指出片中实际展示的AI应用其实很少。",
-      "publishedAt": "2026-07-04T20:55:25Z",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/",
-      "subCategory": "互联网产品"
-    },
-    {
-      "id": "tech-20260704-018",
-      "title": "NASA紧急启动任务营救即将坦毁的雨燕天文台",
-      "summary": "2004年发射的雨燕天文台因太阳风暴导致轨道下降，最快今年可能坦入大气层烧毁。NASA委托Katalyst Space Technologies实施营救，其Link飞船已于周五发射，计划对接雨燕天文台以延长寿命，任务筹备仅耗时九个月。",
-      "publishedAt": "2026-07-04T19:06:27Z",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/science/961459/nasa-emergency-save-swift-observatory-katalyst-space-technologies",
-      "subCategory": "航空航天"
-    },
-    {
-      "id": "tech-20260704-022",
-      "title": "Tesla expands robotaxi service to small section of Miami",
-      "summary": "特斯拉Robotaxi无人驾驶出租车服务已扩展至迈阿密西区一小片区域，车辆不配备安全员，此前已在得克萨斯州达拉斯、休斯顿等地推出类似服务。",
-      "publishedAt": "2026-07-04T13:30:00-04:00",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2207974/tesla-expands-robotaxi-service-to-small-section-of-miami/",
-      "subCategory": "智能汽车"
-    },
-    {
-      "id": "tech-20260704-019",
-      "title": "扫地机器人品牌Matic将于9月起提价250美元",
-      "summary": "广受好评的扫地机器人厂商Matic宣布，将于9月9日起把产品价格从1245美元上调至1495美元，涨幅250美元。公司表示新定价反映了成本变化，并称将为提价前购买的用户提供一年免费替换尘袋及更长退货期作为补偿。",
-      "publishedAt": "2026-07-04T16:00:00Z",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/gadgets/960753/matic-robot-vacuum-mop-price-increase-cost-buy",
-      "subCategory": "消费电子"
-    },
-    {
-      "id": "tech-20260704-003",
-      "title": "传输速率12800MT/s，澜起科技MRDIMM处于第二子代产品规模试用阶段",
-      "summary": "澜起科技在投资者活动中透露，第二代MRDIMM内存模组传输速率达12800MT/s，较第一代8800MT/s提升约45%，目前处于规模试用阶段，预计2026年下半年至2027年获更多CPU平台支持，第三代速率将达16000MT/s。",
-      "publishedAt": "2026-07-04T22:57:21+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/972/671.htm",
-      "subCategory": "芯片硬件"
-    },
-    {
-      "id": "tech-20260704-016",
-      "title": "Meta数据中心施工废水含罕见细菌：污染城市用水，引发数月清理",
-      "summary": "美国怀俄明州夏迫市公用事业委员会确认，Meta数据中心施工承包商Goat Systems排放的废水含有耐金属细菌Cupriavidus gilardii，污染当地再生水系统，导致两座水处理厂停摆数月，今年6月才恢复正常运行。",
-      "publishedAt": "2026-07-04T22:16:30+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/972/667.htm",
-      "subCategory": "网络基础设施"
     }
   ]
 }
