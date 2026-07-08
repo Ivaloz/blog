@@ -3,8 +3,62 @@
   "slug": "ai",
   "title": "AI 与大模型",
   "description": "大模型、Agent、AI 编程、推理框架、开源模型的发布与落地。",
-  "updatedAt": "2026-07-08T16:45:00+08:00",
+  "updatedAt": "2026-07-09T00:50:00+08:00",
   "items": [
+    {
+      "id": "ai-20260708-506",
+      "title": "OpenAI宣布GPT-5.6系列Sol、Terra、Luna将于7月9日公开发布",
+      "summary": "OpenAI宣布GPT-5.6系列模型Sol、Terra、Luna将于7月9日正式向公众开放，预览访问权限现已在全球范围扩大。Sol面向复杂推理和智能体任务，新增最大推理强度与可调用子智能体的Ultra模式，此前因美国政府审查曾延迟发布。",
+      "publishedAt": "2026-07-08T22:15:00+08:00",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/07/08/openai-shares-update-on-gpt-5-6-availability-after-holding-back-release/",
+      "subCategory": "大模型"
+    },
+    {
+      "id": "ai-20260708-505",
+      "title": "字节跳动发布多模态图像创作模型Seedream 5.0 Pro",
+      "summary": "字节跳动发布多模态图像创作模型Seedream 5.0 Pro，在图文匹配、结构合理性、文字渲染和画面美感上全面提升，支持复杂信息可视化排版与点选、涂抹等交互式精准编辑，已在火山方舟体验中心上线，后续将接入豆包和即梦。",
+      "publishedAt": "2026-07-08T21:33:51+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/974/249.htm",
+      "subCategory": "多模态"
+    },
+    {
+      "id": "ai-20260708-504",
+      "title": "魔芯科技发布国产NPU实时交互世界模型MoWorld，推理超50FPS",
+      "summary": "魔芯科技联合浙江大学、华为发布全栈基于国产NPU的实时交互世界模型MoWorld，推理速度超过50FPS，部署成本降至同规模GPU方案的30%，可用于游戏、自动驾驶仿真、影视制作等场景，公司近期完成数亿美元融资。",
+      "publishedAt": "2026-07-08T21:29:44+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/07/446411.html",
+      "subCategory": "AI视频"
+    },
+    {
+      "id": "ai-20260708-503",
+      "title": "具身智能评测基准RoboDojo公布结果：真实世界最强模型成功率仅12.8%",
+      "summary": "由RoboTwin团队推出的具身智能评测基准RoboDojo公布评测结果，仿真环境42项任务人类专家成功率76%，真实机器人18项任务人类可达100%，而表现最好的模型真实世界成功率仅12.8%，开放语义任务成功率不足2%。",
+      "publishedAt": "2026-07-08T21:07:30+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/07/446363.html",
+      "subCategory": "AI评测"
+    },
+    {
+      "id": "ai-20260708-502",
+      "title": "Cloudflare与OpenAI启动研究试点，利用网络信号数据提升AI搜索效率",
+      "summary": "Cloudflare与OpenAI宣布启动研究试点项目，利用Cloudflare全球网络中的内容新鲜度、流量质量等信号数据，帮助AI搜索更高效发现和索引网页内容，双方将联合研究信号驱动的抓取与索引技术，以提升AI回答的准确性与时效性。",
+      "publishedAt": "2026-07-08T20:39:11+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/974/235.htm",
+      "subCategory": "AI应用"
+    },
+    {
+      "id": "ai-20260708-501",
+      "title": "智源悟界·RoboBrain Orca技术报告发布：先学世界状态表征再衍生动作能力",
+      "summary": "智源研究院悟界团队发布RoboBrain Orca技术报告，提出让模型先学习世界状态表征、再衍生理解预测与动作能力的具身大脑范式，基于12.5万小时视频和1.6亿条事件标注训练，验证效果后登上Hugging Face月度论文榜首。",
+      "publishedAt": "2026-07-08T17:08:31+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/07/446075.html",
+      "subCategory": "具身智能"
+    },
     {
       "id": "ai-20260708-005",
       "title": "阿里斩获国际AI顶会最佳资源论文奖，提出Agent评测新范式",
@@ -670,60 +724,6 @@
       "source": "证券时报",
       "url": "https://www.stcn.com/article/detail/3994560.html",
       "subCategory": "AI应用"
-    },
-    {
-      "id": "ai-20260702-004",
-      "title": "天工AI业务ARR突破8亿美元",
-      "summary": "昆仑万维旗下天工AI披鰲026年第二季度AI原生模型业务年度经常性收入超8亿美元，其中AI短剧平台ARR超7亿美元，AI工具业务ARR突破1亿美元，其短剧平台DramaWave已有超80%新增内容由AI生成。",
-      "publishedAt": "2026-07-02T14:23:10+08:00",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/07/441786.html",
-      "subCategory": "AI应用"
-    },
-    {
-      "id": "ai-20260702-001",
-      "title": "训练世界模型开始从人类肌肉和脑电信号中取经",
-      "summary": "脸谱心智公司推出Ego-NeuroLoop数据采集范式，同步采集视觉、眼动、脑电和肌电四类信号，记录人类完成任务的完整闭环过程，配合硬件NeuroMatrix和处理模型NeuroBooster，为机器人世界模型训练提供动作预测与反馈数据。",
-      "publishedAt": "2026-07-02T13:44:25+08:00",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/07/441725.html",
-      "subCategory": "具身智能"
-    },
-    {
-      "id": "ai-20260702-002",
-      "title": "世界模型迎来因果技术路线",
-      "summary": "初创公司Aether AI完成2000万美元种子轮融资，推出因果世界模型技术路线，通过显式学习因果变量与物理规律使机器人理解动作原因。据介绍该方案使操作任务成功率提升25%至50%，样本效率提升55至10倍。",
-      "publishedAt": "2026-07-02T12:36:47+08:00",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/07/441490.html",
-      "subCategory": "具身智能"
-    },
-    {
-      "id": "ai-20260702-003",
-      "title": "AI眼镜不再依赖手机",
-      "summary": "乐奇Rokid在Open Day发布会推出AI原生智能眼镜操作系统AIOS及生成式界面AIUI标准，底层系统YodaOS具备主动管理意图能力，并上线智能体应用商店，已有440多个智能体上架、5000多个开发中。",
-      "publishedAt": "2026-07-02T12:20:47+08:00",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/07/441491.html",
-      "subCategory": "AI硬件"
-    },
-    {
-      "id": "ai-20260702-015",
-      "title": "OpenAI reportedly wants all AI companies to give the US government a stake in their businesses",
-      "summary": "据英国《金融时报》报道，OpenAI首席执行官奥特曼提议由美国政府持有包括OpenAI在内的主要美国AI公司各以5%股权，谷歌、Meta、Anthropic等是否同意尚不明确，方案仍需国会批准，目前处于初步磋商阶段。",
-      "publishedAt": "2026-07-02T05:27:00-04:00",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2206552/openai-ai-companies-give-us-government-stake-businesses-proposal/",
-      "subCategory": "大模型"
-    },
-    {
-      "id": "ai-20260702-006",
-      "title": "More details on Fable 5's cyber safeguards and our jailbreak framework",
-      "summary": "Anthropic公布Claude Fable 5网络安全防护细节，将使用场景分为禁止、高风险双用、低风险双用与良性四级，并联合亚马逊、微软、谷歌等提出CJS-0至CJS-4越狱严重程度评分框架，用于统一评估风险。",
-      "publishedAt": "2026-07-02",
-      "source": "Anthropic",
-      "url": "https://www.anthropic.com/news/fable-safeguards-jailbreak-framework",
-      "subCategory": "大模型"
     }
   ]
 }

@@ -3,8 +3,107 @@
   "slug": "tech",
   "title": "科技新闻",
   "description": "前沿科技、互联网产品、芯片硬件、开源生态。",
-  "updatedAt": "2026-07-08T16:45:00+08:00",
+  "updatedAt": "2026-07-09T00:50:00+08:00",
   "items": [
+    {
+      "id": "tech-20260708-101",
+      "title": "支付宝“花呗崩了”登上热搜，账单页面无法正常显示",
+      "summary": "多名用户反映支付宝“花呗”账单页面出现异常，页面提示“因机构维护，账单暂时无法查看”，相关话题登上热搜，支付宝客服表示已收到反馈并正在紧急排查处理。",
+      "publishedAt": "2026-07-08T23:33:20+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/974/274.htm",
+      "subCategory": "互联网产品"
+    },
+    {
+      "id": "tech-20260708-102",
+      "title": "腾讯 QQ 鸿蒙版 App 获 9.2.39 邀测升级：新增支持设置主题、消息气泡、个性头像等功能",
+      "summary": "QQ鸿蒙版通过华为应用市场推送9.2.39邀测版本，新增主题设置、消息气泡、个性头像、空间背景、天气及频道管理等功能；此前9.2.36正式版已上线小程序搜索和账号切换优化。",
+      "publishedAt": "2026-07-08T23:22:20+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/974/273.htm",
+      "subCategory": "互联网产品"
+    },
+    {
+      "id": "tech-20260708-103",
+      "title": "小米卢伟冰：成本暴涨对千元机影响最大，更考验产品定义",
+      "summary": "小米集团卢伟冰表示，元器件成本暴涨对千元价位手机影响最大，更考验产品定义能力；7月14日发布的Redmi Note 17系列将聚焦品质标准、续航表现与服务保障，在成本上涨背景下仍实现该系列史上最大电池容量。",
+      "publishedAt": "2026-07-08T23:09:04+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/974/270.htm",
+      "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260708-104",
+      "title": "2608.360km：吉利银河 A7 EM 获吉尼斯世界纪录",
+      "summary": "吉利银河A7 EM以2608.360公里的成绩刷新吉尼斯世界纪录，成为零补能行驶距离最远的插电混动量产轿车。该车轴距2845毫米，纯电续航235公里，综合续航2150公里，馈电油耗达2升级水平。",
+      "publishedAt": "2026-07-08T23:00:32+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/974/268.htm",
+      "subCategory": "智能汽车"
+    },
+    {
+      "id": "tech-20260708-105",
+      "title": "腾达推出 3000M WiFi 路由放大器 A33 V2.0",
+      "summary": "腾达发布WiFi 6路由放大器A33 V2.0，搭载双核1.2GHz处理器及2颗外置FEM，支持Mesh组网并配备千兆网口，适用于90至100平方米户型覆盖，首发价169元。",
+      "publishedAt": "2026-07-08T22:37:14+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/974/266.htm",
+      "subCategory": "网络基础设施"
+    },
+    {
+      "id": "tech-20260708-106",
+      "title": "苹果宣布 macOS 28 将不再支持“Mac OS 扩展（日志式，加密）”文件系统",
+      "summary": "苹果宣布macOS 28起将不再支持“Mac OS扩展（日志式，加密）”文件系统格式，macOS 26起已对使用该格式的外置硬盘提示不兼容警告，建议用户转换为APFS或ExFAT格式。",
+      "publishedAt": "2026-07-08T22:22:17+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/974/263.htm",
+      "subCategory": "操作系统"
+    },
+    {
+      "id": "tech-20260708-107",
+      "title": "支付宝明起调整积分规则：扫一扫不再奖励积分，支付与理财积分上限变随机",
+      "summary": "支付宝宣布自7月9日起调整积分规则，支付类场景每日积分上限由固定20分改为3至20分随机区间，理财类产品积分上限同样变为随机区间，扫一扫功能不再奖励积分，新规则执行至今年12月31日。",
+      "publishedAt": "2026-07-08T22:16:27+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/974/261.htm",
+      "subCategory": "互联网产品"
+    },
+    {
+      "id": "tech-20260708-108",
+      "title": "大疆推出 DJI AP100 无人机降落伞：适配 Matrice 400，售价 7488 元",
+      "summary": "大疆发布首款面向行业级无人机的降落伞系统AP100，适配Matrice 400机型，重约935克，可在600毫秒内完成开伞并将下降速度控制在每秒5米以内，目前仅通过授权渠道销售，售价7488元。",
+      "publishedAt": "2026-07-08T22:08:11+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/974/259.htm",
+      "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260708-109",
+      "title": "TCL 推出“27C2A”27 英寸显示器：4K 160Hz / FHD 320Hz 双模，2299 元",
+      "summary": "TCL发布27C2A显示器，支持4K 160Hz与FHD 320Hz双模切换，采用1196分区Mini LED面板，峰值亮度1200尼特，支持10bit色彩及99% DCI-P3色域，售价2299元，部分地区补贴后为2069元。",
+      "publishedAt": "2026-07-08T21:58:58+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/974/258.htm",
+      "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260708-110",
+      "title": "鸿蒙智行尊界 SUV 测试车新街拍视频曝光，前脸沿用 V800 设计",
+      "summary": "网络曝光鸿蒙智行尊界品牌SUV路试车最新视频，车身伪装严密，但前脸与尾灯设计将沿用同品牌V800车型；V800/V680预计8月上市，SUV具体上市时间尚未公布。",
+      "publishedAt": "2026-07-08T21:52:45+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/974/257.htm",
+      "subCategory": "智能汽车"
+    },
+    {
+      "id": "tech-20260708-111",
+      "title": "HMD Skyline 2 手机海报曝光：延续现款机型设计，预计可选蓝 / 黄 / 黑三种配色",
+      "summary": "HMD Skyline 2手机宣传海报曝光，延续初代Skyline设计语言，提供蓝、黄、黑三种配色，配备6.55英寸144Hz OLED屏、骁龙7s Gen 4处理器及5000mAh电池，支持40W有线与15W无线充电。",
+      "publishedAt": "2026-07-08T21:47:42+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/974/256.htm",
+      "subCategory": "消费电子"
+    },
     {
       "id": "tech-20260708-012",
       "title": "想等降价太难！存储大厂威刚预警：Q3内存涨30%、闪存涨40%",
@@ -625,105 +724,6 @@
       "source": "IT之家",
       "url": "https://www.ithome.com/0/972/706.htm",
       "subCategory": "消费电子"
-    },
-    {
-      "id": "tech-20260705-011",
-      "title": "荣耀手表 5 Pro 新版本计划月底前推送，官方产品维护称表端 MagicOS 升级正在规划中",
-      "summary": "荣耀官方产品维护团队透露，荣耀手表5 Pro新版本固件计划于7月底前推送，同时手表端MagicOS系统升级也在规划中，具体新增功能暂未公布。",
-      "publishedAt": "2026-07-05T09:29:14+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/972/705.htm",
-      "subCategory": "消费电子"
-    },
-    {
-      "id": "tech-20260705-010",
-      "title": "全新一代问界 M9 开启交付 3 周突破 1 万台，华为余承东称创 50 万级交付最快破万纪录",
-      "summary": "华为鸿蒙智行方面表示，全新问界M9开启交付三周内突破1万台，创下50万元级车型交付破万速度纪录，该车起售价47.98万元，搭载华为ADS 5智能驾驶系统。",
-      "publishedAt": "2026-07-05T09:03:46+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/972/700.htm",
-      "subCategory": "智能汽车"
-    },
-    {
-      "id": "tech-20260705-009",
-      "title": "Linux 基金会承认 Linux Kernel 官网内核文件曾被删除，主要原因是添加主镜像站时出现配置错误",
-      "summary": "Linux基金会证实，因新增主镜像站时出现配置错误，Linux Kernel官网自7月2日起部分内核文件曾返回404/403错误无法下载，目前已完成修复并恢复正常下载。",
-      "publishedAt": "2026-07-05T08:49:50+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/972/699.htm",
-      "subCategory": "开源生态"
-    },
-    {
-      "id": "tech-20260705-008",
-      "title": "《CINDER CITY》更正初步推荐配置内存要求，然最低仍需 32GB RAM",
-      "summary": "游戏《CINDER CITY》开发团队回应玩家对配置要求过高的质疑，将推荐配置内存需求从64GB降至32GB，显卡从RTX 4060提升到RTX 4070，但最低配置仍需32GB内存。",
-      "publishedAt": "2026-07-05T08:19:10+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/972/696.htm",
-      "subCategory": "消费电子"
-    },
-    {
-      "id": "tech-20260705-007",
-      "title": "KDE Plasma 6.8 桌面环境将带来更流畅的动画效果，预计 10 月中旬发布",
-      "summary": "KDE开发者Nate Graham介绍Plasma 6.8开发进展，新版本将优化通知与应用启动动画效果，升级表情符号选择器至Unicode Emoji 17标准，并移除部分快捷键，预计10月发布。",
-      "publishedAt": "2026-07-05T08:16:34+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/972/695.htm",
-      "subCategory": "开源生态"
-    },
-    {
-      "id": "tech-20260705-006",
-      "title": "开发者曝光索尼 Puga 项目：将完整 PS1 塞进手柄，因游戏授权问题夭折",
-      "summary": "有开发者透露索尼曾研发代号Puga的项目，计划将完整PS1主机塞入手柄，主要面向巴西市场，因游戏版权授权谈判未能达成一致而搬置，相关模拟器技术后用于Xperia Play游戏手机。",
-      "publishedAt": "2026-07-05T08:13:01+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/972/694.htm",
-      "subCategory": "消费电子"
-    },
-    {
-      "id": "tech-20260705-005",
-      "title": "智界赵长江称改天将公布入驻的前法拉利首席设计师是谁",
-      "summary": "智界执行总裁赵长江表示将择日公布加盟团队中的前法拉利首席设计师身份，此前他曾透露引入宝马、阿斯顿·马丁底盘团队及一名法拉利前首席设计师，具体人选尚未确认。",
-      "publishedAt": "2026-07-05T08:07:56+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/972/693.htm",
-      "subCategory": "智能汽车"
-    },
-    {
-      "id": "tech-20260705-004",
-      "title": "消息称美国政府与 Anthropic 尚未商议政府入股该公司一事",
-      "summary": "据路透社援引消息人士说法，特朗普政府与Anthropic从未讨论过政府入股事宜，此前有报道称OpenAI正探讨向美国政府提供5%股权，美国商务部今年6月已撤销对Anthropic模型的出口管制。",
-      "publishedAt": "2026-07-05T08:00:50+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/972/692.htm",
-      "subCategory": "互联网产品"
-    },
-    {
-      "id": "tech-20260705-003",
-      "title": "鸿蒙智行享界 G9 尾部实车照片曝光，消息称后备箱是侧开门",
-      "summary": "鸿蒙智行旗下享界G9尾部无伪装实车图曝光，尾灯采用分段竖置环形造型，延续星环设计语言，后备箱为侧开门结构，车内配备三联屏与实体按键，预计三季度上市。",
-      "publishedAt": "2026-07-05T07:51:51+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/972/691.htm",
-      "subCategory": "智能汽车"
-    },
-    {
-      "id": "tech-20260705-002",
-      "title": "五种款式，三星 Galaxy Watch 9/Ultra 2 手表默认表盘抢先看",
-      "summary": "三星即将推出的Galaxy Watch 9及Galaxy Watch Ultra 2曝光五款默认表盘，涵盖模拟指针简约款与纯数字信息款，Ultra 2额外拥有一款支持低光模式的专属表盘。",
-      "publishedAt": "2026-07-05T07:51:27+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/972/690.htm",
-      "subCategory": "消费电子"
-    },
-    {
-      "id": "tech-20260705-001",
-      "title": "三星电子正式上线 QLC 固态硬盘 990：面向日常需求，读取可达 7250MB/s",
-      "summary": "三星电子正式发布面向日常存储需求的990 QLC固态硬盘，提供1TB和2TB容量选择，2TB版本顺序读取速度达7250MB/s，随机读取85万IOPS，提供每TB 400TBW三年质保。",
-      "publishedAt": "2026-07-05T07:48:24+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/972/688.htm",
-      "subCategory": "芯片硬件"
     }
   ]
 }

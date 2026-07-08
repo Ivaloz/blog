@@ -3,8 +3,35 @@
   "slug": "finance",
   "title": "投资与财经",
   "description": "宏观经济、A 股 / 港股 / 美股、一级市场融资、行业研报观点。",
-  "updatedAt": "2026-07-08T16:45:00+08:00",
+  "updatedAt": "2026-07-09T00:50:00+08:00",
   "items": [
+    {
+      "id": "finance-20260709-501",
+      "title": "特朗普称美伊停火已结束 美股午盘跌幅扩大道指跌超800点",
+      "summary": "特朗普在北约峰会上表示美伊停火已经结束，美股午盘跌幅扩大，道指下跌796.66点报52128.49点，标普500指数跌0.90%，纳斯达克指数跌0.92%，布伦特原油涨至80.07美元一桶。",
+      "publishedAt": "2026-07-09T00:05:00+08:00",
+      "source": "新浪财经",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-09/doc-inihckrq8311271.shtml",
+      "subCategory": "美股"
+    },
+    {
+      "id": "finance-20260708-502",
+      "title": "蓝色起源完成首轮外部融资100亿美元 估值1300亿美元",
+      "summary": "杰夫·贝索斯旗下蓝色起源完成成立以来首轮外部融资，规模100亿美元，投后估值1300亿美元。Coatue管理公司领投约40亿美元，贝索斯本人出资20亿美元，资金将用于新格伦火箭复飞及卡纳维拉尔角发射场重建等。",
+      "publishedAt": "2026-07-08T22:04:00+08:00",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/08/blue-origin-reportedly-raising-10b-at-130b-valuation/",
+      "subCategory": "一级市场"
+    },
+    {
+      "id": "finance-20260708-501",
+      "title": "苹果与博通签署超300亿美元定制芯片协议",
+      "summary": "苹果宣布与博通达成超300亿美元的多年期定制芯片协议，将在美国生产超150亿颗芯片，博通同时投资15亿美元扩建其科罗拉多州柯林斯堡工厂，协议持续至2031年，为苹果美国制造计划下最大单笔投资承诺。",
+      "publishedAt": "2026-07-08T18:52:00+08:00",
+      "source": "金融界",
+      "url": "https://finance.jrj.com.cn/2026/07/08185257743085.shtml",
+      "subCategory": "美股"
+    },
     {
       "id": "finance-20260708-001",
       "title": "港股收评：恒指涨2.99% 科指涨4.97% 科网股大涨 AI应用股强势 阿里巴巴涨超12% 智谱涨超13%",
@@ -697,33 +724,6 @@
       "source": "Federal Reserve Board",
       "url": "https://www.federalreserve.gov/releases/h15/",
       "subCategory": "政策利率"
-    },
-    {
-      "id": "finance-20260703-012",
-      "title": "港股收评：恒生指数涨0.76%，恒生科技指数跌0.4%",
-      "summary": "港股7月2日收盘：恒生指数上涨0.76%，报23055.03点；恒生科技指数下跌0.4%，机器人概念股及汽车板块表现活跃。",
-      "publishedAt": "2026-07-02T16:11:00+08:00",
-      "source": "网易财经",
-      "url": "https://www.163.com/dy/article/L0RIH30A0534A4SC.html",
-      "subCategory": "港股"
-    },
-    {
-      "id": "finance-20260703-011",
-      "title": "Clogged pipeline: Many Hong Kong IPO hopefuls near application expiration",
-      "summary": "逸月30家内地企业港股IPO申请材料面临六个月有效期届满风险，港交所IPO排队企业超430家，证监会备案审核积压程度为2023年新规以来最严重。",
-      "publishedAt": "2026-07-02T16:00:00+08:00",
-      "source": "South China Morning Post",
-      "url": "https://www.scmp.com/business/banking-finance/article/3359108/clogged-pipeline-many-hong-kong-ipo-hopefuls-near-application-expiration",
-      "subCategory": "港股"
-    },
-    {
-      "id": "finance-20260703-013",
-      "title": "收盘｜科创50指数跌7.7% 半导体、算力硬件产业链大幅回调",
-      "summary": "7月2日A股全线下跌，上证指数跌2.03%戅4028.90点，科创50指数暴跌7.7%，半导体、算力硬件产业链领跌，全市场超3100只个股下跌。",
-      "publishedAt": "2026-07-02T15:22:21+08:00",
-      "source": "第一财经",
-      "url": "https://www.yicai.com/news/103257469.html",
-      "subCategory": "A股"
     }
   ]
 }

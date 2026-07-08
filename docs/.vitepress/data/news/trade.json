@@ -3,7 +3,7 @@
   "slug": "trade",
   "title": "外贸资讯",
   "description": "亚马逊、TikTok Shop、阵里国际站、Shopify 等平台政策与跨境电商市场、独立站、物流支付、关税法规、选品趋势。",
-  "updatedAt": "2026-07-08T16:45:00+08:00",
+  "updatedAt": "2026-07-09T00:50:00+08:00",
   "items": [
     {
       "id": "trade-20260708-002",
@@ -22,6 +22,15 @@
       "source": "AMZ123",
       "url": "https://www.amz123.com/kx/atvnBBTO",
       "subCategory": "平台动态"
+    },
+    {
+      "id": "trade-20260708-512",
+      "title": "DHL集团上调2026全年盈利预期 二季度息税前利润增长29%",
+      "summary": "DHL集团公布二季度初步业绩超预期，营收同比增长逾10%，息税前利润约18.5亿欧元，同比增长29%，快递部门表现突出，公司据此将2026全年息税前利润预期上调至超65亿欧元。",
+      "publishedAt": "2026-07-07T21:30:00+08:00",
+      "source": "DHL Group",
+      "url": "https://group.dhl.com/en/media-relations/press-releases/2026/dhl-group-exceeds-q2-expectations-and-raises-full-year-2026-earnings-guidance.html",
+      "subCategory": "物流仓储"
     },
     {
       "id": "trade-20260707-812",
@@ -57,6 +66,15 @@
       "publishedAt": "2026-07-07T17:09:00+08:00",
       "source": "AMZ123",
       "url": "https://www.amz123.com/kx/zAQxBnp6",
+      "subCategory": "物流仓储"
+    },
+    {
+      "id": "trade-20260708-502",
+      "title": "超强台风\"巴威\"预计7月10日影响江浙沪 部分码头或暂停作业",
+      "summary": "中央气象台预测超强台风巴威将于7月10日至12日影响浙江、上海沿海，宁波已启动五级应急响应，上海、宁波港口计划加强空箱绑扎，部分泊位或暂停作业，建议卖家提前完成订舱截关。",
+      "publishedAt": "2026-07-07T17:09:00+08:00",
+      "source": "AMZ123跨境导航",
+      "url": "https://www.amz123.com/kx/WFG5a47d",
       "subCategory": "物流仓储"
     },
     {
@@ -706,24 +724,6 @@
       "source": "雨果网",
       "url": "https://www.cifnews.com/article/187243",
       "subCategory": "平台政策"
-    },
-    {
-      "id": "trade-20260702-011",
-      "title": "美客36%代扣提前落地？墨西哥跨境店迎来大排查！",
-      "summary": "墨西哥美客多平台已开始对未完成RFC税号验证的卖家订单提前执行20%所得税加16%增值税、合興36%的代扣代缴，早于市场预期的宽限期，将直接影响卖家现金流，需尽快完成税务合规整改。",
-      "publishedAt": "2026-07-02T18:07:00+08:00",
-      "source": "雨果网",
-      "url": "https://www.cifnews.com/article/187241",
-      "subCategory": "平台政策"
-    },
-    {
-      "id": "trade-20260702-010",
-      "title": "近期下证美国外观专利的10款亚马逊热卖品",
-      "summary": "知识产权服务商梳理近期获美国外观专利授权的10款亚马逊热卖商品，专利授权日集中在6月16日至23日，涵盖清洁工具、滤水器、夜灯、面膜、车充等品类，提醒卖家注意避免设计侵权风险。",
-      "publishedAt": "2026-07-02T17:43:00+08:00",
-      "source": "雨果网",
-      "url": "https://www.cifnews.com/article/187228",
-      "subCategory": "选品趋势"
     }
   ]
 }
