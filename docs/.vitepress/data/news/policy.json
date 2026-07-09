@@ -3,8 +3,44 @@
   "slug": "policy",
   "title": "政策信息",
   "description": "国家与地方政策、监管动态、产业扶持与合规要求。",
-  "updatedAt": "2026-07-09T14:30:00+08:00",
+  "updatedAt": "2026-07-09T21:30:00+08:00",
   "items": [
+    {
+      "id": "policy-20260709-101",
+      "title": "欧盟委员会发布7月违反欧盟法处理决定",
+      "summary": "欧盟委员会公布7月份对成员国的违反欧盟法处理决定，关闭48起已解决案件，同时对芬兰、西班牙、马耳他、法国等国就废物、水资源、污水处理等指令转化不到位发出正式通知函，并对波兰未完全转化欧盟制裁刑法条款发出说理意见。",
+      "publishedAt": "2026-07-08",
+      "source": "欧盟委员会",
+      "url": "https://ec.europa.eu/commission/presscorner/detail/en/inf_26_1376",
+      "subCategory": "海外政策"
+    },
+    {
+      "id": "policy-20260709-001",
+      "title": "央行货币政策委员会二季度例会：加大逆周期调节力度",
+      "summary": "中国人民银行货币政策委员会2026年第二季度（总第113次）例会研究下阶段货币政策思路，提出继续实施适度宽松的货币政策，加大逆周期和跨周期调节力度，加强对扩大内需、科技创新、中小微企业等重点领域的金融支持，保持流动性充裕。",
+      "publishedAt": "2026-07-09T10:53:25+08:00",
+      "source": "新华网",
+      "url": "http://www.xinhuanet.com/20260709/b438cbb475054f469fc0e7eced4e4e3a/c.html",
+      "subCategory": "金融监管"
+    },
+    {
+      "id": "policy-20260709-102",
+      "title": "美国商务部推迟对华一化工产品反补贴税初裁期限",
+      "summary": "美国商务部在联邦公报发布公告，宣布将原产于中国的N-环己基苯并噻唑-2-磺酰胺反补贴税调查初步裁定期限推迟，要求不迟于立案后130天，即2026年10月5日前作出裁定，以便有充分时间发放补充问卷并评估相关补贴项目。",
+      "publishedAt": "2026-07-08",
+      "source": "美国联邦公报（Federal Register）",
+      "url": "https://www.federalregister.gov/documents/2026/07/08/2026-13792/n-cyclohexylbenzothiazole-2-sulfenamide-from-the-peoples-republic-of-china-postponement-of",
+      "subCategory": "跨境贸易"
+    },
+    {
+      "id": "policy-20260709-103",
+      "title": "白宫发布北约盟国国防投资情况说明书",
+      "summary": "白宫发布情况说明书，介绍北约安卡拉峰会期间美国防务承包商与北约盟国达成的约30亿美元合作项目，包括洛克希德·马丁、诺斯罗普·格鲁曼、雷神等公司的导弹系统与监视设备生产协议，并称盟国防务支出增加带动了美国制造业就业。",
+      "publishedAt": "2026-07-08",
+      "source": "美国白宫（The White House）",
+      "url": "https://www.whitehouse.gov/fact-sheets/2026/07/fact-sheet-president-donald-j-trump-secures-historic-defense-investment-from-nato-allies-powering-american-industry/",
+      "subCategory": "海外政策"
+    },
     {
       "id": "policy-20260708-102",
       "title": "四部门印发《关于加快推进“人工智能+人社”应用发展的实施意见》",
@@ -641,7 +677,7 @@
       "summary": "中国人民银行授权全国银行间同业拆借中心公布6月贷款市场报价利率（LPR），1年期LPR为3.0%，5年期以上LPR为3.5%，均与上月持平；由于6月20日为周六，LPR公告推迟至6月22日周一发布。",
       "publishedAt": "2026-06-22T09:25:54+08:00",
       "source": "中新网",
-      "url": "https://www.chinanews.com.cn/cj/2026/06-22/10644761.shtml",
+      "url": "https://www.chinanews.com.cn/cj/2026-06-22/10644761.shtml",
       "subCategory": "金融监管"
     },
     {
@@ -687,42 +723,6 @@
       "publishedAt": "2026-06-17",
       "source": "界面新闻",
       "url": "https://www.jiemian.com/article/14602533.html",
-      "subCategory": "金融监管"
-    },
-    {
-      "id": "policy-20260614-001",
-      "title": "专家解读｜赓续薪火，开启个人信息保护中国之治新篇章",
-      "summary": "该文章解读了《中国个人信息保护报告（2025年）》的重要意义。报告为公众提供个人信息保护知识渠道、防泄露方法和维权路径；向平台企业阐明法律要求、执法后果和社会责任；展示中国在国际个人信息保护合作中的精神与力量。文章强调了安全与发展并重、法治与德治协同的中国特色保护体系。",
-      "publishedAt": "2026-06-14T10:43:00+08:00",
-      "source": "国家互联网信息办公室",
-      "url": "https://www.cac.gov.cn/2026-06/14/c_1783182377560643.htm",
-      "subCategory": "数据安全"
-    },
-    {
-      "id": "policy-20260614-002",
-      "title": "突发！Anthropic全球停用Claude 5",
-      "summary": "美国商务部6月12日向Anthropic发出出口管制指令，要求即时暂停Fable 5与Mythos 5模型对全球所有用户的访问权限，距两款模型发布仅72小时；政府声称发现可\"绕过或越狱\"Fable 5的方法，Anthropic对决定持保留意见，表示将合规执行并努力推动访问权限的恢复。",
-      "publishedAt": "2026-06-14T10:30:00+08:00",
-      "source": "智源社区",
-      "url": "https://hub.baai.ac.cn/view/55515",
-      "subCategory": "AI监管"
-    },
-    {
-      "id": "policy-20260613-002",
-      "title": "海南省人工智能服务平台正式上线，集聚121款大模型与44个垂直行业智能体",
-      "summary": "海南省AI服务平台集聚121款大模型与44个垂直行业智能体，包含算力资源、模型服务、Token交易市场、智能体应用市场四大板块，推出多项赋能计划支持本土企业智能化。",
-      "publishedAt": "2026-06-13T20:29:00+08:00",
-      "source": "证券时报",
-      "url": "https://www.stcn.com/article/detail/3960191.html",
-      "subCategory": "数字经济"
-    },
-    {
-      "id": "policy-20260613-001",
-      "title": "六部门联合印发《金融信息服务数据分类分级指南》",
-      "summary": "六部门联合发布《金融信息服务数据分类分级指南》，将数据分为业务、用户、企业三类，按核心数据、重要数据、敏感一般数据、常规一般数据四个等级管理，为金融信息服务机构开展数据分类分级工作提供系统性指引。",
-      "publishedAt": "2026-06-13T16:39:00+08:00",
-      "source": "证券时报",
-      "url": "https://www.stcn.com/article/detail/3960133.html",
       "subCategory": "金融监管"
     }
   ]
