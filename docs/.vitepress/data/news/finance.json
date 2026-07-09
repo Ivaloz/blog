@@ -3,8 +3,17 @@
   "slug": "finance",
   "title": "投资与财经",
   "description": "宏观经济、A 股 / 港股 / 美股、一级市场融资、行业研报观点。",
-  "updatedAt": "2026-07-09T00:50:00+08:00",
+  "updatedAt": "2026-07-09T08:40:00+08:00",
   "items": [
+    {
+      "title": "长鑫科技披露科创板招股意向书 启动IPO发行程序",
+      "summary": "长鑫科技7月9日披露科创板上市招股意向书及发行安排公告，正式启动发行程序。公司拟公开发行668,808.8608万股，占发行后总股本10%，网下及网上申购日均为7月16日，中金公司参与承销并获授不超15%超额配售选择权。",
+      "publishedAt": "2026-07-09T06:01:00+08:00",
+      "source": "东方财富网",
+      "url": "https://finance.eastmoney.com/a/202607093798835645.html",
+      "subCategory": "一级市场",
+      "id": "finance-20260709-900"
+    },
     {
       "id": "finance-20260709-501",
       "title": "特朗普称美伊停火已结束 美股午盘跌幅扩大道指跌超800点",
@@ -13,6 +22,15 @@
       "source": "新浪财经",
       "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-09/doc-inihckrq8311271.shtml",
       "subCategory": "美股"
+    },
+    {
+      "title": "27家A股公司晚间发布股票交易异常波动或风险提示公告",
+      "summary": "7月8日晚间，27家A股上市公司发布股票交易异常波动或风险提示公告。金时科技澄清超级电容器业务尚处早期、暂无订单；共进股份表示400G/800G高速数据中心交换机占主营收入比例较小；天海电子称与人形机器人企业合作对业绩影响存在不确定性。",
+      "publishedAt": "2026-07-08T22:39:00+08:00",
+      "source": "新浪财经",
+      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-07-08/doc-inihckru4730968.shtml",
+      "subCategory": "风险事件",
+      "id": "finance-20260708-905"
     },
     {
       "id": "finance-20260708-502",
@@ -24,6 +42,24 @@
       "subCategory": "一级市场"
     },
     {
+      "title": "沧州大化预计上半年净利同比增长约330.75%",
+      "summary": "沧州大化7月8日披露业绩预告，预计2026年上半年归母净利润约1.01亿元，同比增长约330.75%。公司甲苯二异氰酸酯（TDI）市场价格大幅上涨带动毛利率提升，上半年TDI均价约1.6万元/吨，同比涨超30%，聚碳酸酯产品销售亦超额完成半年度目标。",
+      "publishedAt": "2026-07-08T20:05:00+08:00",
+      "source": "证券时报",
+      "url": "https://www.stcn.com/article/detail/4007239.html",
+      "subCategory": "公司财报",
+      "id": "finance-20260708-901"
+    },
+    {
+      "title": "SK海力士280亿美元ADR发行提前关簿 获超额认购",
+      "summary": "SK海力士7月8日美国时间提前完成280亿美元纳斯达克ADR发行簿记，订单认购倍数远超发行规模，发行规模为1779万股新股，拟于7月10日在纳斯达克挂牌，成为仅次于SpaceX的全球第二大IPO，Baillie Gifford等机构合计意向认购70亿美元。",
+      "publishedAt": "2026-07-08T19:27:00+08:00",
+      "source": "新浪财经",
+      "url": "https://finance.sina.com.cn/stock/hkstock/hkstocknews/2026-07-08/doc-inihaxzw8075085.shtml",
+      "subCategory": "一级市场",
+      "id": "finance-20260708-907"
+    },
+    {
       "id": "finance-20260708-501",
       "title": "苹果与博通签署超300亿美元定制芯片协议",
       "summary": "苹果宣布与博通达成超300亿美元的多年期定制芯片协议，将在美国生产超150亿颗芯片，博通同时投资15亿美元扩建其科罗拉多州柯林斯堡工厂，协议持续至2031年，为苹果美国制造计划下最大单笔投资承诺。",
@@ -31,6 +67,15 @@
       "source": "金融界",
       "url": "https://finance.jrj.com.cn/2026/07/08185257743085.shtml",
       "subCategory": "美股"
+    },
+    {
+      "title": "灵境智源完成超亿元天使及天使+轮融资 经纬创投领投",
+      "summary": "具身智能基础设施公司灵境智源7月8日宣布完成超亿元人民币天使及天使+轮融资，由经纬创投连续两轮领投，上海闵行国资战略跟投，诚一资本担任财务顾问。资金将用于核心团队建设、产品量产及具身原生芯片研发。",
+      "publishedAt": "2026-07-08T18:44:18+08:00",
+      "source": "网易订阅",
+      "url": "https://www.163.com/dy/article/L1B9KIN80514R9OJ.html",
+      "subCategory": "一级市场",
+      "id": "finance-20260708-903"
     },
     {
       "id": "finance-20260708-001",
@@ -69,6 +114,42 @@
       "subCategory": "风险事件"
     },
     {
+      "title": "美联储公布6月FOMC会议纪要",
+      "summary": "美联储于7月8日发布6月16日至17日FOMC会议纪要，纪要内容反映会议召开时委员会掌握的经济金融信息。市场关注委员会内部关于后续利率路径分歧的表述，纪要文件已在美联储官网同步发布HTML及PDF版本。",
+      "publishedAt": "2026-07-08",
+      "source": "Federal Reserve",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260708a.htm",
+      "subCategory": "政策利率",
+      "id": "finance-20260708-900"
+    },
+    {
+      "title": "星辰新能完成近5亿元第三轮融资 启动Pre-IPO进程",
+      "summary": "浙江星辰新能科技7月8日宣布完成近5亿元人民币第三轮融资，投资方包括绍兴星辉、中信建投资本、四川绿色、东方财富投资、工银资本等机构，融资落地后公司正式启动Pre-IPO轮融资进程。公司主营全钒液流储能系统研发与生产。",
+      "publishedAt": "2026-07-08T11:14:00+08:00",
+      "source": "投资界",
+      "url": "https://news.pedaily.cn/202607/565972.shtml",
+      "subCategory": "一级市场",
+      "id": "finance-20260708-902"
+    },
+    {
+      "title": "现货黄金失守4100美元 单日暴跌59美元",
+      "summary": "受美伊局势骤然紧张影响，7月8日现货黄金大跌59.14美元，跌幅1.42%，收于每盎司4105.71美元。美国宣布对伊朗石油出口发起制裁并实施军事打击，国际油价及美元走强，10年期美债收益率上行5.5个基点，对金价形成压制。",
+      "publishedAt": "2026-07-08T10:01:00+08:00",
+      "source": "新浪财经",
+      "url": "https://finance.sina.com.cn/roll/2026-07-08/doc-inihaawh8118654.shtml",
+      "subCategory": "大宗商品",
+      "id": "finance-20260708-904"
+    },
+    {
+      "title": "人民币对美元汇率中间价报6.8077",
+      "summary": "中国外汇交易中心受权公布，2026年7月8日银行间外汇市场人民币汇率中间价为1美元对人民币6.8077元，1欧元对人民币7.7614元，100日元对人民币4.1937元，1港元对人民币0.86806元，1英镑对人民币9.0859元。",
+      "publishedAt": "2026-07-08T09:25:40+08:00",
+      "source": "中国人民银行",
+      "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125217/125925/2026070808594092315/index.html",
+      "subCategory": "宏观经济",
+      "id": "finance-20260708-906"
+    },
+    {
       "id": "finance-20260708-006",
       "title": "快造科技完成10亿元融资，为一级市场消费级3D打印最大单笔融资",
       "summary": "消费级3D打印企业快造科技完成10亿元新一轮融资，凯辉基金领投，好未来战投跟投，美团、高瓴、顺为等老股东超额追投，是近两年消费级3D打印一级市场最大单笔融资，资金将投入模型生态建设。",
@@ -87,24 +168,6 @@
       "subCategory": "A股"
     },
     {
-      "id": "finance-20260707-809",
-      "title": "7月7日晚间上市公司利好消息一览(附名单)",
-      "summary": "7月7日晚间多家A股公司披露中报业绩预告，复旦微电预计净利润同比增长313%-416%，巨人网络预增157%-183%，招商证券预增93%-112%，苏交科签约23亿元海外EPC合同。",
-      "publishedAt": "2026-07-07T20:37:00+08:00",
-      "source": "东方财富研究中心",
-      "url": "https://finance.eastmoney.com/a/202607073796972571.html",
-      "subCategory": "公司财报"
-    },
-    {
-      "id": "finance-20260707-813",
-      "title": "全球芯片股遭抛售，三星业绩利好反成出货信号",
-      "summary": "三星电子公布第二季度初步业绩，营业利润同比暴增18倍至89.4万亿韩元，超市场预期，但股价盘中一度暴跌近7%，SK海力士跌逾6%，三星电机跌超8%，市场担忧AI芯片投资周期见顶。",
-      "publishedAt": "2026-07-07T20:21:00+08:00",
-      "source": "新浪财经",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-07/doc-inifyvat1581549.shtml",
-      "subCategory": "公司财报"
-    },
-    {
       "id": "finance-20260707-811",
       "title": "Oil jumps after settlement as US revokes general license for Iran oil sales",
       "summary": "布伦特原油结算价涨3.01%至74.16美元/桶，WTI涨2.76%至70.44美元/桶；美国撤销伊朗原油出口许可后，两大基准盘后进一步跳涨逾5%，此前伊朗在霍尔木兹海峡袭击三艘商船。",
@@ -112,15 +175,6 @@
       "source": "Investing.com",
       "url": "https://www.investing.com/news/commodities-news/oil-jumps-after-settlement-as-us-revokes-general-license-for-iran-oil-sales-4779914",
       "subCategory": "大宗商品"
-    },
-    {
-      "id": "finance-20260707-801",
-      "title": "港股收评：恒指跌0.51% 科指跌0.75% PCB概念、芯片股下挫 快手跌超12%",
-      "summary": "港股7月7日收盘，恒生指数跌0.51%报23496.89点，恒生科技指数跌0.75%，PCB及半导体概念股走弱，快手跌超12%，兆易创新跌逾8%。",
-      "publishedAt": "2026-07-07T15:55:00+08:00",
-      "source": "新浪财经",
-      "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-07-07/doc-inifykpa8482923.shtml",
-      "subCategory": "港股"
     },
     {
       "id": "finance-20260707-810",
@@ -132,15 +186,6 @@
       "subCategory": "美股"
     },
     {
-      "id": "finance-20260707-803",
-      "title": "潘功胜最新发声！聚焦四方面 支持香港国际金融中心发展",
-      "summary": "中国人民银行行长潘功胜7月7日在香港固定收益及货币峰会上表示，将债券通南向通年度投资额度由5000亿元扩大至8000亿元人民币，并支持离岸人民币债券回购业务。",
-      "publishedAt": "2026-07-07T12:26:00+08:00",
-      "source": "东方财富网（券商中国）",
-      "url": "https://finance.eastmoney.com/a/202607073796478670.html",
-      "subCategory": "一级市场"
-    },
-    {
       "id": "finance-20260707-806",
       "title": "2 ships are hit in the latest attacks in the Strait of Hormuz, the U.K. military says",
       "summary": "卡塔尔国家航运公司LNG运输船Al Rekayyat与另一艘油轮7月7日在霍尔木兹海峡附近遭不明抛射物击中并起火，伊朗官方电视台称船只因未理会警告遭袭，未正式承认责任。",
@@ -150,31 +195,22 @@
       "subCategory": "风险事件"
     },
     {
-      "id": "finance-20260707-703",
-      "title": "央行7月7日公开市场开展100亿元7天期逆回购操作",
-      "summary": "中国人民银行7月7日在公开市场开展100亿元7天期逆回购操作，中标利率维持在1.40%，用于对冲当日到期的流动性缺口，保持银行体系流动性合理充裕。",
-      "publishedAt": "2026-07-07T09:23:00+08:00",
-      "source": "证券时报",
-      "url": "https://www.stcn.com/article/detail/4001475.html",
-      "subCategory": "政策利率"
+      "id": "finance-20260707-805",
+      "title": "Rivian (RIVN) launches 75M-share sale to raise ~$1.5B for R2 push",
+      "summary": "电动车企Rivian7月7日启动7500万股公开增发，计划融资约15亿美元，用于佐治亚州R2车型产能建设及能源部贷款相关股权出资，消息公布后股价盘前一度下跌11%。",
+      "publishedAt": "2026-07-07T06:06:00-07:00",
+      "source": "Electrek",
+      "url": "https://electrek.co/2026/07/07/rivian-75-million-share-offering-r2/",
+      "subCategory": "美股"
     },
     {
-      "id": "finance-20260707-704",
-      "title": "筹划控制权变更事项 神州高铁今日起停牌",
-      "summary": "神州高铁公告，控股股东国投高新正筹划公司控制权变更事项，交易对手为某国有综合交通集团，公司股票自7月7日起停牌，预计不超2个交易日，相关事项尚需国资审批，存在不确定性。",
-      "publishedAt": "2026-07-07T09:05:00+08:00",
-      "source": "证券时报",
-      "url": "https://www.stcn.com/article/detail/4001413.html",
-      "subCategory": "风险事件"
-    },
-    {
-      "id": "finance-20260707-804",
-      "title": "U.S. International Trade in Goods and Services, May 2026",
-      "summary": "美国商务部7月7日公布数据，5月商品与服务贸易逆差扩大至776亿美元，较4月的546亿美元增加230亿美元，资本品进口规模创下历史新高。",
-      "publishedAt": "2026-07-07T08:30:00-04:00",
-      "source": "U.S. Bureau of Economic Analysis",
-      "url": "https://www.bea.gov/news/2026/us-international-trade-goods-and-services-may-2026",
-      "subCategory": "宏观经济"
+      "id": "finance-20260707-809",
+      "title": "7月7日晚间上市公司利好消息一览(附名单)",
+      "summary": "7月7日晚间多家A股公司披露中报业绩预告，复旦微电预计净利润同比增长313%-416%，巨人网络预增157%-183%，招商证券预增93%-112%，苏交科签约23亿元海外EPC合同。",
+      "publishedAt": "2026-07-07T20:37:00+08:00",
+      "source": "东方财富研究中心",
+      "url": "https://finance.eastmoney.com/a/202607073796972571.html",
+      "subCategory": "公司财报"
     },
     {
       "id": "finance-20260707-808",
@@ -186,31 +222,40 @@
       "subCategory": "大宗商品"
     },
     {
-      "id": "finance-20260707-701",
-      "title": "三星电子公布 2026 年 Q2 业绩指引：营业利润约 89.4 万亿韩元，同比暴增 1810%",
-      "summary": "三星电子发布2026年第二季度业绩指引，预计合并营业利润约89.4万亿韩元，同比增长约1810%，销售额约171万亿韩元，主要受AI芯片带动的存储业务需求增长推动，完整财报将于7月30日发布。",
-      "publishedAt": "2026-07-07T07:27:00+08:00",
+      "id": "finance-20260707-804",
+      "title": "U.S. International Trade in Goods and Services, May 2026",
+      "summary": "美国商务部7月7日公布数据，5月商品与服务贸易逆差扩大至776亿美元，较4月的546亿美元增加230亿美元，资本品进口规模创下历史新高。",
+      "publishedAt": "2026-07-07T08:30:00-04:00",
+      "source": "U.S. Bureau of Economic Analysis",
+      "url": "https://www.bea.gov/news/2026/us-international-trade-goods-and-services-may-2026",
+      "subCategory": "宏观经济"
+    },
+    {
+      "id": "finance-20260707-813",
+      "title": "全球芯片股遭抛售，三星业绩利好反成出货信号",
+      "summary": "三星电子公布第二季度初步业绩，营业利润同比暴增18倍至89.4万亿韩元，超市场预期，但股价盘中一度暴跌近7%，SK海力士跌逾6%，三星电机跌超8%，市场担忧AI芯片投资周期见顶。",
+      "publishedAt": "2026-07-07T20:21:00+08:00",
       "source": "新浪财经",
-      "url": "https://finance.sina.com.cn/tech/digi/2026-07-07/doc-inifxpik8421824.shtml",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-07/doc-inifyvat1581549.shtml",
       "subCategory": "公司财报"
     },
     {
-      "id": "finance-20260707-702",
-      "title": "芯片股领涨推动纳指反弹，道指首次站上5.3万点，油金承压，比特币随特朗普表态飙升",
-      "summary": "美股尾盘，芯片股带动纳指反弹，道琼斯指数历史上首次收于5.3万点上方，西部数据涨超7%，超威半导体涨6.6%，原油和黄金价格承压，比特币受特朗普相关表态提振大幅上涨。",
-      "publishedAt": "2026-07-07T07:06:00+08:00",
-      "source": "华尔街见闻",
-      "url": "https://wallstreetcn.com/articles/3776262",
-      "subCategory": "美股"
+      "id": "finance-20260707-801",
+      "title": "港股收评：恒指跌0.51% 科指跌0.75% PCB概念、芯片股下挫 快手跌超12%",
+      "summary": "港股7月7日收盘，恒生指数跌0.51%报23496.89点，恒生科技指数跌0.75%，PCB及半导体概念股走弱，快手跌超12%，兆易创新跌逾8%。",
+      "publishedAt": "2026-07-07T15:55:00+08:00",
+      "source": "新浪财经",
+      "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-07-07/doc-inifykpa8482923.shtml",
+      "subCategory": "港股"
     },
     {
-      "id": "finance-20260707-805",
-      "title": "Rivian (RIVN) launches 75M-share sale to raise ~$1.5B for R2 push",
-      "summary": "电动车企Rivian7月7日启动7500万股公开增发，计划融资约15亿美元，用于佐治亚州R2车型产能建设及能源部贷款相关股权出资，消息公布后股价盘前一度下跌11%。",
-      "publishedAt": "2026-07-07T06:06:00-07:00",
-      "source": "Electrek",
-      "url": "https://electrek.co/2026/07/07/rivian-75-million-share-offering-r2/",
-      "subCategory": "美股"
+      "id": "finance-20260707-803",
+      "title": "潘功胜最新发声！聚焦四方面 支持香港国际金融中心发展",
+      "summary": "中国人民银行行长潘功胜7月7日在香港固定收益及货币峰会上表示，将债券通南向通年度投资额度由5000亿元扩大至8000亿元人民币，并支持离岸人民币债券回购业务。",
+      "publishedAt": "2026-07-07T12:26:00+08:00",
+      "source": "东方财富网（券商中国）",
+      "url": "https://finance.eastmoney.com/a/202607073796478670.html",
+      "subCategory": "一级市场"
     },
     {
       "id": "finance-20260707-814",
@@ -267,6 +312,60 @@
       "subCategory": "风险事件"
     },
     {
+      "id": "finance-20260707-703",
+      "title": "央行7月7日公开市场开展100亿元7天期逆回购操作",
+      "summary": "中国人民银行7月7日在公开市场开展100亿元7天期逆回购操作，中标利率维持在1.40%，用于对冲当日到期的流动性缺口，保持银行体系流动性合理充裕。",
+      "publishedAt": "2026-07-07T09:23:00+08:00",
+      "source": "证券时报",
+      "url": "https://www.stcn.com/article/detail/4001475.html",
+      "subCategory": "政策利率"
+    },
+    {
+      "id": "finance-20260707-704",
+      "title": "筹划控制权变更事项 神州高铁今日起停牌",
+      "summary": "神州高铁公告，控股股东国投高新正筹划公司控制权变更事项，交易对手为某国有综合交通集团，公司股票自7月7日起停牌，预计不超2个交易日，相关事项尚需国资审批，存在不确定性。",
+      "publishedAt": "2026-07-07T09:05:00+08:00",
+      "source": "证券时报",
+      "url": "https://www.stcn.com/article/detail/4001413.html",
+      "subCategory": "风险事件"
+    },
+    {
+      "title": "AI搜索优化服务商智推时代完成数千万元天使轮融资",
+      "summary": "智推时代宣布完成数千万元天使轮融资，投资方包括上海知识产权基金、天图投资，老股东三七互娱跟投。公司专注生成式答案优化GEO服务，成立一年多客户近400家，累计ARR突破亿元，业务覆盖全球四大洲。",
+      "publishedAt": "2026-07-07T08:40:00+08:00",
+      "source": "投资界",
+      "url": "https://news.pedaily.cn/202607/565918.shtml",
+      "subCategory": "一级市场",
+      "id": "finance-20260707-900"
+    },
+    {
+      "id": "finance-20260707-701",
+      "title": "三星电子公布 2026 年 Q2 业绩指引：营业利润约 89.4 万亿韩元，同比暴增 1810%",
+      "summary": "三星电子发布2026年第二季度业绩指引，预计合并营业利润约89.4万亿韩元，同比增长约1810%，销售额约171万亿韩元，主要受AI芯片带动的存储业务需求增长推动，完整财报将于7月30日发布。",
+      "publishedAt": "2026-07-07T07:27:00+08:00",
+      "source": "新浪财经",
+      "url": "https://finance.sina.com.cn/tech/digi/2026-07-07/doc-inifxpik8421824.shtml",
+      "subCategory": "公司财报"
+    },
+    {
+      "id": "finance-20260707-702",
+      "title": "芯片股领涨推动纳指反弹，道指首次站上5.3万点，油金承压，比特币随特朗普表态飙升",
+      "summary": "美股尾盘，芯片股带动纳指反弹，道琼斯指数历史上首次收于5.3万点上方，西部数据涨超7%，超威半导体涨6.6%，原油和黄金价格承压，比特币受特朗普相关表态提振大幅上涨。",
+      "publishedAt": "2026-07-07T07:06:00+08:00",
+      "source": "华尔街见闻",
+      "url": "https://wallstreetcn.com/articles/3776262",
+      "subCategory": "美股"
+    },
+    {
+      "id": "finance-20260706-306",
+      "title": "六只新股今日截止认购，鼎泰高科、立讯精密等下周三挂牌",
+      "summary": "普源精电、鼎泰高科、立讯精密、齐云山食品、珞石机器人及三环集团六只港股新股7月6日截止公开认购，均计划于7月9日在香港联交所挂牌上市，其中鼎泰高科每手入场费达38383.24港元。",
+      "publishedAt": "2026-07-06",
+      "source": "AAStocks",
+      "url": "https://www.aastocks.com/tc/stocks/market/ipo/mainpage.aspx",
+      "subCategory": "新股发行"
+    },
+    {
       "id": "finance-20260706-409",
       "title": "国内黄金T+D价格报911.80元/克",
       "summary": "金投网数据显示,7月6日早盘国内黄金T+D报911.80元/克,黄金期货报913.54元/克,纸黄金报910.98元/克,国际现货黄金同期在4150美元/盎司附近波动,处于上周强势反弹后的高位整理区间。",
@@ -312,13 +411,22 @@
       "subCategory": "港股"
     },
     {
-      "id": "finance-20260706-306",
-      "title": "六只新股今日截止认购，鼎泰高科、立讯精密等下周三挂牌",
-      "summary": "普源精电、鼎泰高科、立讯精密、齐云山食品、珞石机器人及三环集团六只港股新股7月6日截止公开认购，均计划于7月9日在香港联交所挂牌上市，其中鼎泰高科每手入场费达38383.24港元。",
-      "publishedAt": "2026-07-06",
-      "source": "AAStocks",
-      "url": "https://www.aastocks.com/tc/stocks/market/ipo/mainpage.aspx",
-      "subCategory": "新股发行"
+      "id": "finance-20260706-301",
+      "title": "分析：近百万人投资特朗普Meme币合计亏损38亿美元",
+      "summary": "加密分析机构Nansen统计，约98.89万个账户买入特朗普发行的TRUMP代币后合计亏损38亿美元，代币价格较75.35美元高点跌近98%至1.69美元，特朗普本人则从中获利6.36亿美元。",
+      "publishedAt": "2026-07-05T13:29:00-07:00",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/05/trump-memecoin-investors-lost-3-8-billion-analysis-finds/",
+      "subCategory": "风险事件"
+    },
+    {
+      "id": "finance-20260706-406",
+      "title": "美银警告标普500年内或现\"髤降\",维持7100点目标价不变",
+      "summary": "美国银行重申标普500指数年终目标价7100点,较当前水平约低5%,警告市场投机情绪已达极端水平,高估值科技股涨幅明显透支。该行预计美联储今年仍将三次加息,认为当前估值与1999至2000年阶段相当。",
+      "publishedAt": "2026-07-05T15:43:00-04:00",
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/07/05/stock-market-outlook-sp500-target-7100-ai-boom-speculation-extreme-levels/",
+      "subCategory": "美股"
     },
     {
       "id": "finance-20260706-403",
@@ -402,15 +510,6 @@
       "subCategory": "风险事件"
     },
     {
-      "id": "finance-20260706-406",
-      "title": "美银警告标普500年内或现\"髤降\",维持7100点目标价不变",
-      "summary": "美国银行重申标普500指数年终目标价7100点,较当前水平约低5%,警告市场投机情绪已达极端水平,高估值科技股涨幅明显透支。该行预计美联储今年仍将三次加息,认为当前估值与1999至2000年阶段相当。",
-      "publishedAt": "2026-07-05T15:43:00-04:00",
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/07/05/stock-market-outlook-sp500-target-7100-ai-boom-speculation-extreme-levels/",
-      "subCategory": "美股"
-    },
-    {
       "id": "finance-20260706-402",
       "title": "美联储6月会议纪要将于7月9日公布,市场关注政策转向信号",
       "summary": "美联储6月会议纪要定于7月9日发布,为新任主席沃什上任后首份纪要。6月非农就业仅增5.7万人,低于预期,失业率维持4.2%,市场对美联储是否放弃年内加息存在分歧,期货市场目前仍定价12月加息25个基点。",
@@ -427,24 +526,6 @@
       "source": "新浪财经",
       "url": "https://finance.sina.com.cn/wm/2026-07-05/doc-iniftrze8999322.shtml",
       "subCategory": "港股"
-    },
-    {
-      "id": "finance-20260706-301",
-      "title": "分析：近百万人投资特朗普Meme币合计亏损38亿美元",
-      "summary": "加密分析机构Nansen统计，约98.89万个账户买入特朗普发行的TRUMP代币后合计亏损38亿美元，代币价格较75.35美元高点跌近98%至1.69美元，特朗普本人则从中获利6.36亿美元。",
-      "publishedAt": "2026-07-05T13:29:00-07:00",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/05/trump-memecoin-investors-lost-3-8-billion-analysis-finds/",
-      "subCategory": "风险事件"
-    },
-    {
-      "id": "finance-20260705-001",
-      "title": "重要调整！明起，A股交易规则变了",
-      "summary": "7月6日起沪深北三大交易所修订交易规则，主板ST、*ST股涨跌幅限制由5%调整至10%，盘后固定价格交易扩展至全部A股及ETF，深交所创业板引入做市商制度，规则修订对投资者交易影响有限。",
-      "publishedAt": "2026-07-05T08:27:00+08:00",
-      "source": "北京日报",
-      "url": "https://news.bjd.com.cn/2026/07/05/11845117.shtml",
-      "subCategory": "A股"
     },
     {
       "id": "finance-20260706-307",
@@ -472,6 +553,15 @@
       "source": "Investing.com",
       "url": "https://ca.investing.com/news/stock-market-news/australias-genesis-minerals-makes-39-bln-bid-for-vault--surpasses-regis-offer-4719905",
       "subCategory": "大宗商品"
+    },
+    {
+      "id": "finance-20260705-001",
+      "title": "重要调整！明起，A股交易规则变了",
+      "summary": "7月6日起沪深北三大交易所修订交易规则，主板ST、*ST股涨跌幅限制由5%调整至10%，盘后固定价格交易扩展至全部A股及ETF，深交所创业板引入做市商制度，规则修订对投资者交易影响有限。",
+      "publishedAt": "2026-07-05T08:27:00+08:00",
+      "source": "北京日报",
+      "url": "https://news.bjd.com.cn/2026/07/05/11845117.shtml",
+      "subCategory": "A股"
     },
     {
       "id": "finance-20260704-017",
@@ -634,96 +724,6 @@
       "source": "证券时报",
       "url": "https://www.stcn.com/article/detail/3997976.html",
       "subCategory": "公司动态"
-    },
-    {
-      "id": "finance-20260703-102",
-      "title": "江波龙：预计上半年净利润92亿元-110亿元 同比增长62204%-74394%",
-      "summary": "存储芯片企业江波龙发布半年度业绩预告，预计上半年净利润92亿至110亿元，同比增长62204%至74394%，主因存储行业景气回升及与晶圆厂续签供应协议，AI存储需求带动业绩大幅增长。",
-      "publishedAt": "2026-07-03T18:49:12+08:00",
-      "source": "财联社",
-      "url": "https://www.cls.cn/detail/2416771",
-      "subCategory": "公司财报"
-    },
-    {
-      "id": "finance-20260703-103",
-      "title": "半导体行业迎来年内第二轮涨价潮",
-      "summary": "兆易创新、扬杰科技、聚辰股份、思达半导体等多家厂商7月起上调产品价格，涨幅10%至25%不等，英飞凌、德州仪器等海外厂商同步提价，原材料成本上升及AI服务器需求激增是主要驱动因素。",
-      "publishedAt": "2026-07-03T18:36:00+08:00",
-      "source": "新浪科技",
-      "url": "https://finance.sina.com.cn/tech/roll/2026-07-03/doc-inifpusw0393237.shtml",
-      "subCategory": "股票市场"
-    },
-    {
-      "id": "finance-20260703-105",
-      "title": "腾讯控股(00700)7月3日日日资约5.01亿港元回购114.9万股",
-      "summary": "腾讯控股公告，7月3日以每股431.4至443.8港元的价格回购约114.9万股公司股份，耗资约5.01亿港元，为公司近期持续回购计划的一部分。",
-      "publishedAt": "2026-07-03T17:50:00+08:00",
-      "source": "智通财经（Investing.com转载）",
-      "url": "https://hk.investing.com/news/stock-market-news/article-1537954",
-      "subCategory": "公司财报"
-    },
-    {
-      "id": "finance-20260703-104",
-      "title": "国务院印发《美丽中国建设\"十五五\"规划》",
-      "summary": "国务院印发\"十五五\"时期美丽中国建设规划，明确到2030年生态环境质量全面改善、绿色生产生活方式基本形成、碳达峰目标如期实现，并部署蓝天碧水净土保卫战等七项重点任务。",
-      "publishedAt": "2026-07-03T17:36:00+08:00",
-      "source": "证券时报",
-      "url": "https://www.stcn.com/article/detail/3997609.html",
-      "subCategory": "宏观经济"
-    },
-    {
-      "id": "finance-20260703-016",
-      "title": "Brent Crude Oil - Price - Chart - Historical Data - News",
-      "summary": "布伦特原有7月3日报每桢71.64美元，较前一交易日下跌0.23%，市场反映霍尔木兹海峽通行秩序持续恢复及区域原油供应正常化。",
-      "publishedAt": "2026-07-03",
-      "source": "TradingEconomics",
-      "url": "https://tradingeconomics.com/commodity/brent-crude-oil",
-      "subCategory": "大宗商品"
-    },
-    {
-      "id": "finance-20260702-017",
-      "title": "净利同比最高增超138%！650亿电子特气概念股发布上半年业绩预告",
-      "summary": "广钢气体发布业绩预告，预计上半年归母净利润2.2亿至2.8亿元，同比增长87%至138%，主要受益于电子特种气体项目投产及全球氦气价格上涨、公司加大北美欧洲采购。",
-      "publishedAt": "2026-07-02T20:42:00+08:00",
-      "source": "财联社",
-      "url": "https://www.cls.cn/detail/2415730",
-      "subCategory": "公司财报"
-    },
-    {
-      "id": "finance-20260702-013",
-      "title": "港股半导体、光通讯大跌，汽车、黄金、创新药板块集体上涨",
-      "summary": "Meta宣布进军云基础设施并出售闲置AI算力，带崩港股芯片股，中芯国际、华红半导体跌超20%；恒生生物科技指数涨4.85%；香港资产管理规模2025年达42.2万亿港元创历史新高。",
-      "publishedAt": "2026-07-02T18:27:00+08:00",
-      "source": "中国基金报",
-      "url": "https://www.chnfund.com/article/AR7540119a-54ca-6922-e19d-3a223490e248",
-      "subCategory": "港股"
-    },
-    {
-      "id": "finance-20260702-014",
-      "title": "宇树科技，IPO注册获批",
-      "summary": "中国证监会同意宇树科技科创板首次公开发行股票注册，公司拟募资42.02亿元；2023至2025年营业收入从1.59亿元增至16.99亿元，净利润扇亏为盈至2.78亿元。",
-      "publishedAt": "2026-07-02T17:27:00+08:00",
-      "source": "证券时报",
-      "url": "https://www.stcn.com/article/detail/3995220.html",
-      "subCategory": "一级市场"
-    },
-    {
-      "id": "finance-20260702-028",
-      "title": "【每日收评】创业板指跌近6%，机器人概念股逆势活跃，AI硬件、半导体等科技权重批量跌停",
-      "summary": "7月2日A股三大指数低开低走，创业板指跌近6%；机器人概念股逆势走强、多股涨停，AI硬件、半导体等前期强势科技权重股批量跌停，市场呈现明显风格分化。",
-      "publishedAt": "2026-07-02T16:51:00+08:00",
-      "source": "财联社",
-      "url": "https://www.cls.cn/detail/2415416",
-      "subCategory": "A股"
-    },
-    {
-      "id": "finance-20260703-006",
-      "title": "Selected Interest Rates (Daily) - H.15",
-      "summary": "美联储H.15利率数据显示，7月1日联邦基金有效利率报3.63%，10年期美债收益率4.48%，30年期国债收益率4.97%，利率维持高位。",
-      "publishedAt": "2026-07-02T16:15:00-04:00",
-      "source": "Federal Reserve Board",
-      "url": "https://www.federalreserve.gov/releases/h15/",
-      "subCategory": "政策利率"
     }
   ]
 }
