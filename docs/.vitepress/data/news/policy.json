@@ -3,7 +3,7 @@
   "slug": "policy",
   "title": "政策信息",
   "description": "国家与地方政策、监管动态、产业扶持与合规要求。",
-  "updatedAt": "2026-07-09T00:50:00+08:00",
+  "updatedAt": "2026-07-09T08:40:00+08:00",
   "items": [
     {
       "id": "policy-20260708-102",
@@ -22,6 +22,42 @@
       "source": "英国政府官网（GOV.UK）",
       "url": "https://www.gov.uk/government/news/uk-to-become-worlds-fastest-market-to-commercialise-innovation-with-regulatory-shake-up",
       "subCategory": "海外政策"
+    },
+    {
+      "title": "美国FTC与五州对迪尔公司达成\"维修权\"反垄断和解",
+      "summary": "美国联邦贸易委员会会同伊利诺伊、亚利桑那、密歇根、明尼苏达和威斯康星五州，与农机制造商迪尔公司（John Deere）就限制维修权的反垄断诉讼达成和解，要求迪尔公司未来十年内向农民和独立维修商提供与授权经销商同等的软件维修资源，并禁止对自行维修客户实施歧视或报复。",
+      "publishedAt": "2026-07-08",
+      "source": "美国联邦贸易委员会（FTC）",
+      "url": "https://www.ftc.gov/news-events/news/press-releases/2026/07/ftc-states-secure-settlement-deere-company-advancing-farmers-right-repair",
+      "subCategory": "反垄断",
+      "id": "policy-20260708-900"
+    },
+    {
+      "title": "欧盟委员会决定将匈牙利诉至欧洲法院，涉食品与药店商品限价规定",
+      "summary": "欧盟委员会宣布将匈牙利政府诉至欧盟法院，原因是匈牙利对食品和药店商品零售利润率设限的规定被认定违反欧盟法律。此举是相关侵权程序从行政阶段升级至司法阶段的举措，属欧盟委员会当月侵权决定公告的一部分。",
+      "publishedAt": "2026-07-08",
+      "source": "欧盟委员会",
+      "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1477",
+      "subCategory": "海外政策",
+      "id": "policy-20260708-902"
+    },
+    {
+      "title": "英国公布\"英国产业竞争力计划\"电价补贴方案征询结果",
+      "summary": "英国政府更新\"英国产业竞争力计划\"（BICS）征询结果，符合条件的制造业企业将获得可再生能源义务、上网电价补贴及容量市场间接成本的豁免，预计每兆瓦时电价降低35至40英镑。该计划面向产业战略重点行业及配套基础制造业，2027年4月起实施，运行至2035年。",
+      "publishedAt": "2026-07-08",
+      "source": "英国商业与贸易部",
+      "url": "https://www.gov.uk/government/consultations/british-industrial-competitiveness-scheme-consultation-on-scheme-eligibility-and-approach/british-industrial-competitiveness-scheme-consultation-on-scheme-eligibility-and-approach",
+      "subCategory": "产业政策",
+      "id": "policy-20260708-903"
+    },
+    {
+      "title": "文化和旅游部印发《旅游强国建设\"十五五\"规划》",
+      "summary": "经国务院批复，文化和旅游部印发《旅游强国建设\"十五五\"规划》，提出到2030年国内出游人次达83亿、总花费达7.7万亿元、入境旅游人次达1.9亿、总花费超1500亿美元，并部署优化旅游空间布局、丰富优质供给等重点任务。",
+      "publishedAt": "2026-07-08T00:10:00+08:00",
+      "source": "中华人民共和国文化和旅游部",
+      "url": "https://www.mct.gov.cn/whzx/whyw/202607/t20260708_966448.htm",
+      "subCategory": "产业政策",
+      "id": "policy-20260708-901"
     },
     {
       "id": "policy-20260707-005",
@@ -204,24 +240,6 @@
       "subCategory": "金融监管"
     },
     {
-      "id": "policy-20260703-001",
-      "title": "中央网信办部署开展\"清朗·网络娱乐团播乱象整治\"专项行动",
-      "summary": "中央网信办自7月3日起在全国开展为期两个月的专项行动，集中整治团播账号注册违规、MCN机构管理失范、低俗场景、侵害未成年人权益等六类问题，压实平台和机构管理责任。",
-      "publishedAt": "2026-07-03T09:40:30+08:00",
-      "source": "新华网",
-      "url": "https://www.news.cn/politics/20260703/a7441996058a4097920b2127fd3a88b6/c.html",
-      "subCategory": "数字经济"
-    },
-    {
-      "id": "policy-20260703-017",
-      "title": "民生直通车｜支持企业稳岗扩岗 政策\"两延续一优化\"",
-      "summary": "四部门联合发布通知，延续失业保险稳岗返还政策（大型企业返还比例上限30%、中小微企业60%）和扩岗补助政策，并优化技能提升补贴，扩大适用范围至社会组织、个体工商户等。",
-      "publishedAt": "2026-07-03T00:48:37+08:00",
-      "source": "新华网",
-      "url": "https://www.news.cn/politics/20260703/b7b5e7a9793f42eda13bd53c10fbc683/c.html",
-      "subCategory": "产业政策"
-    },
-    {
       "id": "policy-20260703-013",
       "title": "国家发展改革委印发《循环经济发展\"十五五\"规划》",
       "summary": "国家发展改革委印发《循环经济发展\"十五五\"规划》，提出到2030年主要资源产出率较2025年提高约16%，大宗固废综合利用量达到约45亿吨，资源循环利用产业产值达到8万亿元。",
@@ -283,114 +301,6 @@
       "source": "European Commission",
       "url": "https://finance.ec.europa.eu/news/commission-adopts-revised-sustainability-reporting-standards-2026-07-03_en",
       "subCategory": "海外政策"
-    },
-    {
-      "id": "policy-20260702-005",
-      "title": "三项光伏领域强制性国标出炉！标准立门槛，能效定去留",
-      "summary": "工信部会同发改委、市场监管总局发布多晶硅锗单位产品能耗限额、晶硅光伏组件与逆变器能效限定值等三项强制性国家标准，2027年1月1日起实施，或将淘汰约327.6吉瓦不达标产能。",
-      "publishedAt": "2026-07-02T22:50:33+08:00",
-      "source": "每日经济新闻",
-      "url": "https://www.nbd.com.cn/articles/2026-07-02/4446247.html",
-      "subCategory": "新能源政策"
-    },
-    {
-      "id": "policy-20260702-007",
-      "title": "中国逆变器遭欧美禁令夹击：美国FCC起草进口限制，欧盟已先行封杀",
-      "summary": "美国联邦通信委员会正起草规则限制外国逆变器进口，称担忧\"远程电网干扰\"；欧盟自5月4日起已禁止在公共资助能源项目中使用中国制逆变器，中国企业占全球逆变器供应约七至八成。",
-      "publishedAt": "2026-07-02T17:35:00+08:00",
-      "source": "电子工程专辑",
-      "url": "https://www.eet-china.com/news/202607022003.html",
-      "subCategory": "海外政策"
-    },
-    {
-      "id": "policy-20260702-002",
-      "title": "未来五年，如何进一步保障和提升残疾人生活品质",
-      "summary": "国务院残疾人工作委员会7月2日印发《残疾人保障和发展\"十五五\"规划》，围绕社会保障、就业创业、关爱服务等7个方面部署32项重点任务，明确到2030年的发展目标。",
-      "publishedAt": "2026-07-02T17:07:00+08:00",
-      "source": "中新网",
-      "url": "https://www.chinanews.com.cn/gn/2026/07-02/10651514.shtml",
-      "subCategory": "产业政策"
-    },
-    {
-      "id": "policy-20260702-001",
-      "title": "\"深圳将全域开放无人驾驶\"系误读",
-      "summary": "《深圳经济特区智能网联汽车管理条例》7月1日起施行，其第十七条授权市政府\"有序探索\"全域路测和商业化运营试点，专家称这是立法授权而非立即开放全域自动驾驶出租车服务。",
-      "publishedAt": "2026-07-02T16:17:09+08:00",
-      "source": "中新网",
-      "url": "https://www.chinanews.com.cn/sh/2026/07-02/10651465.shtml",
-      "subCategory": "产业政策"
-    },
-    {
-      "id": "policy-20260702-004",
-      "title": "商务部回应对美农产品关税问题",
-      "summary": "商务部新闻发言人何亚东在例行发布会上表示，中美近期经贸磋商已就扩大农产品双向贸易设定指导性目标，双方原则同意将相关农产品纳入对等降税框架，中方愿与美方相向而行创造有利条件。",
-      "publishedAt": "2026-07-02T15:15:53+08:00",
-      "source": "新华网",
-      "url": "https://www.news.cn/20260702/73b64d7d139d4832bd3f027399c94a4f/c.html",
-      "subCategory": "跨境贸易"
-    },
-    {
-      "id": "policy-20260703-009",
-      "title": "《限制快递过度包装要求》强制性国家标准7月1日起实施",
-      "summary": "强制性国家标准《限制快递过度包装要求》自7月1日起施行，从包装箱选用、包装层数、封装胶带规格等方面量化管控，明确胶带宽度不得超过45毫米，旨在减少快递包装废弃物、保障寄递安全。",
-      "publishedAt": "2026-07-02T10:30:00+08:00",
-      "source": "国家市场监督管理总局",
-      "url": "https://www.samr.gov.cn/xw/sj/art/2026/art_610bff79bb3a4abebe090198d79ba905.html",
-      "subCategory": "产业政策"
-    },
-    {
-      "id": "policy-20260702-006",
-      "title": "国内首个针对L2级辅助驾驶的强制性国家标准正式发布",
-      "summary": "工信部组织制定的强制性国家标准GB 47955—2026《智能网联汽车组合驾驶辅助系统安全要求》正式发布，2027年1月1日起实施，由华为引望、小米、比亚迪、特斯拉等企业联合起草。",
-      "publishedAt": "2026-07-02T10:05:00+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/971/447.htm",
-      "subCategory": "产业政策"
-    },
-    {
-      "id": "policy-20260702-003",
-      "title": "市场监管总局对火炬集团和鼎晖百孚各罚款175万元",
-      "summary": "市场监管总局对中山火炬集团和上海鼎晖百孚在未获批准前即实施取得中炬高新控制权的经营者集中行为作出行政处罚，鉴于无排除竞争效果且配合调查，两家企业各被罚175万元。",
-      "publishedAt": "2026-07-02T06:40:00+08:00",
-      "source": "新浪财经",
-      "url": "https://finance.sina.com.cn/roll/2026-07-02/doc-inifkcry3722165.shtml",
-      "subCategory": "反垄断"
-    },
-    {
-      "id": "policy-20260706-302",
-      "title": "Google Android: the Court of Justice upholds Google's fine of around €4.1 billion",
-      "summary": "欧盟法院驳回谷歌及母公司Alphabet对安卓反垄断案裁决提出的上诉，维持普通法院此前裁定的约41.25亿欧元罚款，认定谷歌通过预装协议、反碎片化协议及收入分成协议滥用市场支配地位、限制竞争。",
-      "publishedAt": "2026-07-02",
-      "source": "欧盟法院（Court of Justice of the European Union）",
-      "url": "https://curia.europa.eu/site/upload/docs/application/pdf/2026-07/cp260093en.pdf",
-      "subCategory": "反垄断"
-    },
-    {
-      "id": "policy-20260703-004",
-      "title": "商务部例行新闻发布会通报中欧、中德经贸磋商机制最新进展",
-      "summary": "商务部例行新闻发布会介绍，中欧经贸投资磋商机制首场部长级会议已于6月29日举行，双方拟每年召开1至2次；中德经济合作联委会同步重启，双方新设贸易投资和产业合作两个工作组。",
-      "publishedAt": "2026-07-02",
-      "source": "中华人民共和国商务部",
-      "url": "https://www.mofcom.gov.cn/xwfbzt/2026/swbzklxxwfbh2026n7y2r/index.html",
-      "subCategory": "跨境贸易"
-    },
-    {
-      "id": "policy-20260703-007",
-      "title": "美国联邦贸易委员会与旅行应用Hopper达成3500万美元和解",
-      "summary": "美国联邦贸易委员会指控加拿大旅行应用Hopper未经同意收取隐藏小费及VIP支持费用，并虚假宣传服务效果，双方达成和解，Hopper须支付3500万美元赔偿并不得再进行相关欺骗性收费。",
-      "publishedAt": "2026-07-02",
-      "source": "Federal Trade Commission",
-      "url": "https://www.ftc.gov/news-events/news/press-releases/2026/07/travel-app-hopper-pay-35-million-settle-ftc-allegations-it-charged-fees-without-consent-deceived",
-      "subCategory": "海外政策"
-    },
-    {
-      "id": "policy-20260703-008",
-      "title": "市场监管总局批准发布5项数字国家标准",
-      "summary": "国家市场监督管理总局批准发布5项采用可机读结构化标记的数字国家标准，覆盖中子辐射校准、拉挤板材韧性测试等领域，标准通过国家标准智能研制系统协同起草，目前已有超4500项标准采用该系统。",
-      "publishedAt": "2026-07-02",
-      "source": "国家市场监督管理总局",
-      "url": "https://www.samr.gov.cn/xw/sj/art/2026/art_be8c39da9e284d368b40e073e9be6009.html",
-      "subCategory": "数字经济"
     },
     {
       "id": "policy-20260701-005",
