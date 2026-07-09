@@ -3,8 +3,80 @@
   "slug": "ai",
   "title": "AI 与大模型",
   "description": "大模型、Agent、AI 编程、推理框架、开源模型的发布与落地。",
-  "updatedAt": "2026-07-09T14:30:00+08:00",
+  "updatedAt": "2026-07-09T21:30:00+08:00",
   "items": [
+    {
+      "id": "ai-20260709-101",
+      "title": "Mistral AI发布具身导航模型Robostral Navigate",
+      "summary": "Mistral AI发布8B参数的Robostral Navigate模型，仅凭单个RGB摄像头即可让机器人在复杂环境中完成导航，在R2R-CE未见场景验证集上取得76.6%的成功率。",
+      "publishedAt": "2026-07-08",
+      "source": "Mistral AI",
+      "url": "https://mistral.ai/news/robostral-navigate/",
+      "subCategory": "具身智能"
+    },
+    {
+      "id": "ai-20260709-102",
+      "title": "LangChain与NVIDIA联合推出NemoClaw Deep Agents Blueprint",
+      "summary": "LangChain与NVIDIA发布NemoClaw蓝图，整合LangChain Deep Agents Code、Nemotron 3 Ultra模型与OpenShell运行时，帮助企业构建可治理的开放智能体系统，推理成本约降低十倍。",
+      "publishedAt": "2026-07-08",
+      "source": "LangChain",
+      "url": "https://www.langchain.com/blog/langchain-and-nvidia-launch-the-nemoclaw-deep-agents-blueprint",
+      "subCategory": "Agent"
+    },
+    {
+      "id": "ai-20260709-103",
+      "title": "Anthropic上线Claude使用回顾功能",
+      "summary": "Anthropic推出测试版Reflect功能，为开启记忆功能的Free、Pro及Max用户展示Claude使用时段与任务类型概览，并可设置免打扰时段与休息提醒，隐私模式对话不计入统计。",
+      "publishedAt": "2026-07-09",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/news/reflect-with-claude",
+      "subCategory": "AI应用"
+    },
+    {
+      "id": "ai-20260709-104",
+      "title": "蚂蚁灵波开源世界模型LingBot-World 2.0",
+      "summary": "蚂蚁灵波开源LingBot-World 2.0，支持小时级连续稳定生成及720p/60fps输出，并首次为世界模型引入Agent机制，实现动态环境变化与多用户实时互动。",
+      "publishedAt": "2026-07-09T11:39:41+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/07/446548.html",
+      "subCategory": "多模态"
+    },
+    {
+      "id": "ai-20260709-105",
+      "title": "蚂蚁灵波开源具身视频基模LingBot-Video",
+      "summary": "蚂蚁灵波开源LingBot-Video，称为面向具身智能的MoE架构视频基础模型，训练数据包含7万小时具身数据，在RBench机器人基准上取得0.620分，优于对比模型。",
+      "publishedAt": "2026-07-09T11:19:15+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/07/446458.html",
+      "subCategory": "具身智能"
+    },
+    {
+      "id": "ai-20260709-106",
+      "title": "论文提出LaMem-VLA增强机器人长程记忆能力",
+      "summary": "一篇新论文提出LaMem-VLA，将历史经验重构为潜在记忆token并与VLA推理交织，在潜在嵌入空间中完成记忆管理，用于提升机器人长时序操作任务的表现。",
+      "publishedAt": "2026-07-08",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2607.07608",
+      "subCategory": "论文进展"
+    },
+    {
+      "id": "ai-20260709-107",
+      "title": "论文提出跨学科科学推理模型SciReasoner",
+      "summary": "上海人工智能实验室等团队提出多模态基础模型SciReasoner，可对蛋白质、分子与晶体结构进行可解释推理，专家评估显示其推理解释在98%案例中优于对比的大语言模型。",
+      "publishedAt": "2026-07-08",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2607.07708",
+      "subCategory": "论文进展"
+    },
+    {
+      "id": "ai-20260709-108",
+      "title": "OpenAI首席未来学家Joshua Achiam宣布离职",
+      "summary": "OpenAI首席未来学家Joshua Achiam宣布将于7月24日离职，此前他领导Mission Alignment团队。此次离职是OpenAI近期一系列安全相关人员变动中的最新一例。",
+      "publishedAt": "2026-07-09T14:29:30+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/07/446658.html",
+      "subCategory": "大模型"
+    },
     {
       "title": "马斯克xAI首个编程智能体模型Grok 4.5发布，与Cursor联合训练",
       "summary": "马斯克旗下xAI发布首款编程智能体模型Grok 4.5，与Cursor联合训练，token消耗为同类模型一半，速度达每秒80 token。输入价格降至每百万token 2美元，输出6美元，已上线Grok Build及Cursor，欧洲版预计7月中旬推出。",
@@ -652,78 +724,6 @@
       "source": "量子位",
       "url": "https://www.qbitai.com/2026/07/442452.html",
       "subCategory": "论文进展"
-    },
-    {
-      "id": "ai-20260703-009",
-      "title": "WorldClaw与百度智能云达成合作，文心5.0系列接入WorldRouter",
-      "summary": "WorldClaw与百度智能云宣布战略合作，百度文心5.0系列模型通过网关协议适配接入WorldRouter模型聚合平台，双方还将在技能开发、Agent协作及AgentOS方面展开合作。",
-      "publishedAt": "2026-07-03T15:12:27+08:00",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/07/442447.html",
-      "subCategory": "Agent"
-    },
-    {
-      "id": "ai-20260703-008",
-      "title": "GitHub Copilot首次接入开源模型，Kimi K2.7 Code上线",
-      "summary": "微软GitHub Copilot正式接入开源模型Kimi K2.7 Code，为其首次接入开源模型，模型托管于Azure按量计费，已向Pro、Pro+、Max用户逐步开放，后续将扩展至企业版。",
-      "publishedAt": "2026-07-03T15:10:44+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/972/269.htm",
-      "subCategory": "AI编程"
-    },
-    {
-      "id": "ai-20260703-007",
-      "title": "谷歌Gemini Omni Flash登顶Video Arena盲测榜",
-      "summary": "谷歌DeepMind文生视频模型Gemini Omni Flash以1404 Elo登顶Video Arena盲测排行榜，领先字节跳动Seedance 2.0 Mini模型101 Elo，此前该榜单长期由Seedance系列占据前列。",
-      "publishedAt": "2026-07-03T14:41:56+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/972/253.htm",
-      "subCategory": "AI视频"
-    },
-    {
-      "id": "ai-20260703-006",
-      "title": "华大系团队联合上海AI Lab推出生命科学Physical AI系统ProtoPilot",
-      "summary": "涤生智能与上海人工智能实验室发布多智能体系统ProtoPilot及评测集BioLab Bench，可将自然语言实验意图转化为可执行实验方案与设备代码，并在湿实验中完成分子克隆等任务验证。",
-      "publishedAt": "2026-07-03T13:24:06+08:00",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/07/442311.html",
-      "subCategory": "具身智能"
-    },
-    {
-      "id": "ai-20260703-005",
-      "title": "大模型安全体检报告发布，38款模型接受全景式测评",
-      "summary": "东壁科技数据与上海财经大学联合发布大语言模型安全评估报告，构建313条问题测试集，覆盖生物化学、网络安全等领域，对全理38个大模型测评，为AI治理提供参考。",
-      "publishedAt": "2026-07-03T09:31:56+08:00",
-      "source": "新华网",
-      "url": "http://www.news.cn/tech/20260703/1d7e1e54b6454960800c40b1057404bd/c.html",
-      "subCategory": "AI评测"
-    },
-    {
-      "id": "ai-20260703-004",
-      "title": "具身世界模型Uranus转型充当VLA模型评测方",
-      "summary": "地平线孵化的逸逸机器人推出世界模型Uranus，用于客观评测VLA与世界模型能力并生成训练数据，可逐帧生成环境反馈、支持跨本体零样本泛化，目前仅支持操作类任务。",
-      "publishedAt": "2026-07-03T09:19:18+08:00",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/07/442138.html",
-      "subCategory": "具身智能"
-    },
-    {
-      "id": "ai-20260703-002",
-      "title": "Arena将Code Arena升级为全栈开发评测平台",
-      "summary": "Arena把Code Arena从前端原型工具扩展为全栈开发平台，新增数据库、用户鉴权、第三方API接入及一键部署至Vercel等功能，用于评测AI编程模型构建完整应用的能力。",
-      "publishedAt": "2026-07-03T00:04:14+08:00",
-      "source": "Arena",
-      "url": "https://arena.ai/blog/fullstack-code-arena/",
-      "subCategory": "AI评测"
-    },
-    {
-      "id": "ai-20260702-007",
-      "title": "让Agent越用越强：AReaL 2.0开源，打造面向自演进智能体的RL基础设施",
-      "summary": "开源强化学习基础设施项目AReaL发布2.0版本，使已部署的Agent能记录真实任务交互数据并接入训练流程持续优化。项目由蚂蚁集团、清华大学、香港科技大学发起，现属PyTorch基金会开源生态。",
-      "publishedAt": "2026-07-02T19:28:36+08:00",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/07/442134.html",
-      "subCategory": "Agent"
     }
   ]
 }
