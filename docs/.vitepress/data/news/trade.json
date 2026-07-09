@@ -1,1 +1,729 @@
-PLACEHOLDER_TRADE
+{
+  "$schema": "./schema.json",
+  "slug": "trade",
+  "title": "外贸资讯",
+  "description": "亚马逊、TikTok Shop、阵里国际站、Shopify 等平台政策与跨境电商市场、独立站、物流支付、关税法规、选品趋势。",
+  "updatedAt": "2026-07-09T14:30:00+08:00",
+  "items": [
+    {
+      "title": "美客多投资570亿雷亚尔扩建巴西物流体系 年内新增2.82万个岗位",
+      "summary": "美客多（Mercado Libre）公布创纪录的570亿雷亚尔巴西投资计划，2026年内计划新增2.82万个物流岗位，配送中心将从32个增至48个，物流团队规模由4.98万人扩大至7.81万人，凸显巴西作为拉美最大电商市场的持续扩张态势。",
+      "publishedAt": "2026-07-08T17:45:16+08:00",
+      "source": "AMZ123",
+      "url": "https://www.amz123.com/kx/kqPOmkAJ",
+      "subCategory": "新兴市场",
+      "id": "trade-20260708-911"
+    },
+    {
+      "title": "DHL报告：82%巴西跨境消费者购买中国商品 TikTok成为主要种草渠道",
+      "summary": "DHL最新跨境电商报告显示，82%的巴西跨境网购消费者曾购买中国商品，使巴西成为中国全球第三大进口市场；价格优势和本土同类商品稀缺是主要购买动因，关税与运费是主要障碍，TikTok、Instagram和Facebook是消费者接触跨境商品的主要渠道。",
+      "publishedAt": "2026-07-08T17:34:58+08:00",
+      "source": "AMZ123",
+      "url": "https://www.amz123.com/kx/PKSJEv8R",
+      "subCategory": "新兴市场",
+      "id": "trade-20260708-912"
+    },
+    {
+      "title": "Lazada跨境店7月12日上线店铺健康中心",
+      "summary": "Lazada跨境店宣布自7月12日起逐步上线“店铺健康中心”，入口设于卖家中心，涵盖处罚管理、卖家保障计划考核指标及近3个月核心绩效追踪三大板块，帮助商家实时查看合规情况与履约状态并支持在线申诉。",
+      "publishedAt": "2026-07-08T17:24:01+08:00",
+      "source": "AMZ123",
+      "url": "https://www.amz123.com/kx/GErrNwvb",
+      "subCategory": "平台动态",
+      "id": "trade-20260708-905"
+    },
+    {
+      "title": "越南电子产品前5月线上销售额增长52% Shopee占据83%市场份额",
+      "summary": "据越南Metric.vn数据，2026年前5个月越南Shopee、TikTok Shop、Lazada及Tiki四大平台电子产品类目销售额达8150亿越南盾，同比增长52%，销量140万件；Shopee以83%份额保持领先，TikTok Shop凭借172%同比增长加速追赶。",
+      "publishedAt": "2026-07-08T17:23:58+08:00",
+      "source": "AMZ123",
+      "url": "https://www.amz123.com/kx/Qls6wkQa",
+      "subCategory": "新兴市场",
+      "id": "trade-20260708-913"
+    },
+    {
+      "title": "Lazada加入Meta联盟营销合作计划 拓展东南亚KOL带货渠道",
+      "summary": "Lazada正式加入Meta联盟营销合作计划，新加坡、马来西亚、泰国、印尼、越南及菲律宾六国创作者可在Facebook和Instagram内容中添加Lazada商品标签，用户点击跳转购买后创作者按成交结果获得佣金，为商家新增低门槛曝光渠道。",
+      "publishedAt": "2026-07-08T17:23:51+08:00",
+      "source": "AMZ123",
+      "url": "https://www.amz123.com/kx/hXRM3r7g",
+      "subCategory": "平台动态",
+      "id": "trade-20260708-906"
+    },
+    {
+      "title": "亚马逊账户绩效算法调整 单条违规独立计算180天有效期",
+      "summary": "亚马逊调整账户健康评级（AHR）底层算法，由此前所有违规共用180天滚动周期改为每条违规独立计算180天有效期，满180天自动移除对应扣分且不影响新违规计分周期，卖家可分批处理历史违规记录。",
+      "publishedAt": "2026-07-08T17:13:15+08:00",
+      "source": "AMZ123",
+      "url": "https://www.amz123.com/kx/8TW1eBIB",
+      "subCategory": "平台政策",
+      "id": "trade-20260708-901"
+    },
+    {
+      "title": "印尼总统要求海关9月前完成整改，否则或交由SGS接管",
+      "summary": "印尼总统普拉博沃通过财政部长要求海关总署在2026年9月前完成全面改革，否则将被解散并由瑞士第三方检验机构SGS接管清关与检验职能，此举缘于此前海关高层与物流企业串通舞弊案件，目前查验率已提升至25%以上。",
+      "publishedAt": "2026-07-08T17:00:47+08:00",
+      "source": "AMZ123",
+      "url": "https://www.amz123.com/kx/cZp2tZhQ",
+      "subCategory": "关税法规",
+      "id": "trade-20260708-907"
+    },
+    {
+      "title": "速卖通扩大医疗健康类目招商政策",
+      "summary": "速卖通宣布扩大医疗健康类目招商，开放流感、新冠等多合一试纸及幽门螺旋杆菌试纸等体外诊断试剂全球销售，美国市场要求FDA注册，欧盟需IVDR证书及EUDAMED备案，巴西需ANVISA注册编号，韩国需医疗器械进口许可。",
+      "publishedAt": "2026-07-08T16:50:33+08:00",
+      "source": "AMZ123",
+      "url": "https://www.amz123.com/kx/mXbj89Lo",
+      "subCategory": "平台政策",
+      "id": "trade-20260708-904"
+    },
+    {
+      "id": "trade-20260708-002",
+      "title": "Allegro Days大促7月13日截止 参与活动可返额外佣金",
+      "summary": "波兰Allegro Days大促持续至7月13日，捷克、斯洛伐克及匈牙利站延至7月19日，参与商品须比30天最低价再降5%以上，平台收取60%常规佣金作为活动费，可通过成交返点抵扣。",
+      "publishedAt": "2026-07-08T15:13:00+08:00",
+      "source": "AMZ123",
+      "url": "https://www.amz123.com/kx/m0QrhMjd",
+      "subCategory": "平台动态"
+    },
+    {
+      "title": "德鲁里WCI指数连续三周上涨 美西现货运价同比翻倍至6349美元",
+      "summary": "受旺季提前及船公司上调附加费影响，德鲁里WCI综合指数环比上涨9%至4530美元，同比上涨61%；上海至美东运价周涨11%至7902美元/FEU，至美西周涨10%至6349美元/FEU，同比实现翻倍增长，地中海航线运价亦同步上涨。",
+      "publishedAt": "2026-07-08T11:47:58+08:00",
+      "source": "AMZ123",
+      "url": "https://www.amz123.com/kx/yUgnt62S",
+      "subCategory": "物流仓储",
+      "id": "trade-20260708-909"
+    },
+    {
+      "id": "trade-20260708-001",
+      "title": "2026亚马逊Prime Day平均折扣收窄至14.6%",
+      "summary": "2026年亚马逊Prime Day平均折扣较去年17.7%收窄至14.6%，但品牌参与度仍达100%覆盖，行业建议卖家转向优化广告投放效率与FBA库存管理，而非单纯依赖低价促销。",
+      "publishedAt": "2026-07-08T11:37:00+08:00",
+      "source": "AMZ123",
+      "url": "https://www.amz123.com/kx/atvnBBTO",
+      "subCategory": "平台动态"
+    },
+    {
+      "title": "德国DSA协调员指出eBay存在三项违规嫌疑",
+      "summary": "德国联邦网络管理局旗下数字服务法协调员发布初步评估，认定eBay作为超大型在线平台存在举报入口不明显、封禁用户申诉说明不足、商户联系信息难查找三项违规嫌疑，要求限期整改，eBay回应称已在推进改进。",
+      "publishedAt": "2026-07-08T11:22:59+08:00",
+      "source": "AMZ123",
+      "url": "https://www.amz123.com/kx/eh4SRNtH",
+      "subCategory": "平台政策",
+      "id": "trade-20260708-902"
+    },
+    {
+      "title": "亚马逊FBA新费政生效：超龄库存附加费大幅上涨",
+      "summary": "亚马逊FBA新收费标准正式生效，超龄库存附加费大幅提高，商品库龄满181天起计费，存放超365天最高可达月仓储费13倍；未加入SIPP的大件商品加收1.51-4.04美元包装费，标准配送费同步上调，卖家库存管理成本进一步增加。",
+      "publishedAt": "2026-07-08T10:31:43+08:00",
+      "source": "AMZ123",
+      "url": "https://www.amz123.com/kx/RkUvZPFw",
+      "subCategory": "平台政策",
+      "id": "trade-20260708-900"
+    },
+    {
+      "title": "美伊紧张局势升级 霍尔木兹海峡24小时内三艘商船遇袭",
+      "summary": "美伊局势持续紧张，英国海上贸易行动办公室通报称24小时内已有三艘商船在霍尔木兹海峡靠近阿曼一侧海域遭袭，其中一艘油轮遭无人机袭击并轻微受损，航运安全风险上升，跨境物流企业需关注该航线运输时效与保险成本变化。",
+      "publishedAt": "2026-07-08T10:21:10+08:00",
+      "source": "AMZ123",
+      "url": "https://www.amz123.com/kx/Gvs3eVLX",
+      "subCategory": "物流仓储",
+      "id": "trade-20260708-910"
+    },
+    {
+      "title": "EAEU跨境电商小包征税新规延期实施",
+      "summary": "哈萨克斯坦财政部国家收入委员会公告称，原定7月1日起执行的欧亚经济联盟跨境电商小包统一征税新规延期实施，因部分成员国海关法典修正案尚未完成国内批准程序；暂缓期内，超200欧元的EAEU直邮包裹仍按现行规则对超出部分征收15%关税及增值税。",
+      "publishedAt": "2026-07-08T09:59:21+08:00",
+      "source": "AMZ123",
+      "url": "https://www.amz123.com/kx/4JrMpXrn",
+      "subCategory": "关税法规",
+      "id": "trade-20260708-908"
+    },
+    {
+      "title": "Temu加入意大利国家反假冒计划 开通假货举报快速通道",
+      "summary": "Temu宣布成为首个加入意大利“VER.O”国家反假冒计划的跨境电商平台，该计划由意大利制造与商业部资助并联合专利商标局、金融警察等部门推进，Temu将与当地消费者组织合作开通假货举报快速通道。",
+      "publishedAt": "2026-07-08T09:49:03+08:00",
+      "source": "AMZ123",
+      "url": "https://www.amz123.com/kx/7COe8jrM",
+      "subCategory": "平台政策",
+      "id": "trade-20260708-903"
+    },
+    {
+      "id": "trade-20260708-512",
+      "title": "DHL集团上调2026全年盈利预期 二季度息税前利润增长29%",
+      "summary": "DHL集团公布二季度初步业绩超预期，营收同比增长逾10%，息税前利润约18.5亿欧元，同比增长29%，快递部门表现突出，公司据此将2026全年息税前利润预期上调至超65亿欧元。",
+      "publishedAt": "2026-07-07T21:30:00+08:00",
+      "source": "DHL Group",
+      "url": "https://group.dhl.com/en/media-relations/press-releases/2026/dhl-group-exceeds-q2-expectations-and-raises-full-year-2026-earnings-guidance.html",
+      "subCategory": "物流仓储"
+    },
+    {
+      "id": "trade-20260707-812",
+      "title": "“美国关税退款”即将到账！三大物流商启动退款程序、总额或高达数十亿美元",
+      "summary": "美国海关关税退款系统启动，FedEx已获约8亿美元IEEPA关税退款并承诺全额返还客户，查询入口7月10日前上线，首批退款预计8月10日前后发放；UPS、DHL退款程序也已启动。",
+      "publishedAt": "2026-07-07T18:52:00+08:00",
+      "source": "亿邦动力",
+      "url": "https://m.ebrun.com/686094.html",
+      "subCategory": "关税法规"
+    },
+    {
+      "id": "trade-20260707-822",
+      "title": "停电是家常便饭，2000元的电池成了东南亚年轻家庭的三大件",
+      "summary": "东南亚电网不稳定催生家庭储能需求，卖家在Lazada菲律宾站销售1至3千瓦时电池系统，主力2度电型号售价约2000元人民币，主打30岁以下新组建家庭客群。",
+      "publishedAt": "2026-07-07T18:00:00+08:00",
+      "source": "AMZ123",
+      "url": "https://www.amz123.com/t/oTp18mWi",
+      "subCategory": "选品趋势"
+    },
+    {
+      "id": "trade-20260707-813",
+      "title": "加强品牌知识产权保护：Temu与韩国知识产权保护院签署谅解备忘录",
+      "summary": "跨境电商平台Temu与韩国知识产权保护院签署谅解备忘录，双方将设立专属沟通渠道打击侵权，Temu负责识别下架侵权商品，该机构负责验证韩国品牌知识产权真实性。",
+      "publishedAt": "2026-07-07T17:47:00+08:00",
+      "source": "亿邦动力",
+      "url": "https://m.ebrun.com/686086.html",
+      "subCategory": "平台动态"
+    },
+    {
+      "id": "trade-20260707-819",
+      "title": "TikTok Shop美区FBT推出三重降本措施 增量单履约费返10%",
+      "summary": "TikTok Shop美区FBT推出三项降本措施：4至9月增量订单满600件可返10%标准履约费（每单封顶1美元）；新增自有包装SIOC选项；7月起放开50磅以上大件商品履约能力。",
+      "publishedAt": "2026-07-07T17:09:00+08:00",
+      "source": "AMZ123",
+      "url": "https://www.amz123.com/kx/zAQxBnp6",
+      "subCategory": "物流仓储"
+    },
+    {
+      "id": "trade-20260708-502",
+      "title": "超强台风\"巴威\"预计7月10日影响江浙沪 部分码头或暂停作业",
+      "summary": "中央气象台预测超强台风巴威将于7月10日至12日影响浙江、上海沿海，宁波已启动五级应急响应，上海、宁波港口计划加强空箱绑扎，部分泊位或暂停作业，建议卖家提前完成订舱截关。",
+      "publishedAt": "2026-07-07T17:09:00+08:00",
+      "source": "AMZ123跨境导航",
+      "url": "https://www.amz123.com/kx/WFG5a47d",
+      "subCategory": "物流仓储"
+    },
+    {
+      "id": "trade-20260707-821",
+      "title": "一批本土店无法提现！新规已渗透Shopee等平台风控",
+      "summary": "印尼自7月1日、越南自7月8日起要求Shopee店铺注册人姓名与银行账户持有人姓名一致，否则系统自动拦截提现及绑卡，涉及印尼贸易部新条例及越南新电子商务法合规要求。",
+      "publishedAt": "2026-07-07T17:02:00+08:00",
+      "source": "AMZ123",
+      "url": "https://www.amz123.com/t/1Swt5VGb",
+      "subCategory": "平台政策"
+    },
+    {
+      "id": "trade-20260707-814",
+      "title": "SHOPLINE与Shopify知识产权诉讼和解 跨境商家权益终获保障",
+      "summary": "独立站服务商SHOPLINE与Shopify长达两年多的知识产权诉讼达成和解，双方就Shopline旗下建站软件涉嫌抄袭Shopify Dawn主题模板的纠纷达成保密协议。",
+      "publishedAt": "2026-07-07T17:02:00+08:00",
+      "source": "亿邦动力",
+      "url": "https://m.ebrun.com/686078.html",
+      "subCategory": "独立站"
+    },
+    {
+      "id": "trade-20260707-815",
+      "title": "SHEIN美国站半托管招募POD卖家 要求有美国工厂和30万以上年GMV",
+      "summary": "SHEIN美国站启动半托管POD卖家招募，要求卖家在美国本土设有工厂、其他平台POD年销售额需达30万美元以上，并承诺每月至少上新200款设计。",
+      "publishedAt": "2026-07-07T16:16:00+08:00",
+      "source": "亿邦动力",
+      "url": "https://m.ebrun.com/686065.html",
+      "subCategory": "平台动态"
+    },
+    {
+      "id": "trade-20260707-701",
+      "title": "亚马逊全球智能枢纽仓正式落地华东地区",
+      "summary": "亚马逊全球智能仓运（GWD）华东枢纽仓在上海、宁波正式启用，新增自动补货功能并支持FOB贸易条款，7月至12月为入驻卖家提供30天免费仓储服务。",
+      "publishedAt": "2026-07-07T13:45:00+08:00",
+      "source": "AMZ123跨境导航",
+      "url": "https://www.amz123.com/kx/CrX9CLAQ",
+      "subCategory": "物流仓储"
+    },
+    {
+      "id": "trade-20260707-702",
+      "title": "TikTok Shop美英印尼热销榜单公布，美妆母婴品类占据主导",
+      "summary": "TikTok Shop发布2026年第27周美国、英国、印尼热销榜单，美妆护肤品类占据前十榜单半数以上，印尼市场以母婴礼盒商品为主，英国市场整体销售规模低于美、印两国。",
+      "publishedAt": "2026-07-07T13:41:00+08:00",
+      "source": "AMZ123跨境导航",
+      "url": "https://www.amz123.com/kx/h0vlfJkY",
+      "subCategory": "选品趋势"
+    },
+    {
+      "id": "trade-20260707-703",
+      "title": "俄工贸部拟推出玩具产业扶持计划，本土生产与安全标准升级成重点",
+      "summary": "俄罗斯工业和贸易部拟推出玩具产业扶持计划，提供设备购置补贴、贷款贴息及简化强制认证程序，鼓励海外产能回迁本土并加强玩具化学与机械安全监管。",
+      "publishedAt": "2026-07-07T12:01:00+08:00",
+      "source": "AMZ123跨境导航",
+      "url": "https://www.amz123.com/kx/DnixBH2L",
+      "subCategory": "新兴市场"
+    },
+    {
+      "id": "trade-20260707-706",
+      "title": "TikTok Shop Tokopedia 否认大规模裁员传闻",
+      "summary": "TikTok Shop Tokopedia否认裁减约90%研发、信任安全及财务部门员工的传闻，公司总裁称此举为组织架构调整与内部人员重新配置，并强调将持续投资印尼电商业务。",
+      "publishedAt": "2026-07-07T11:49:00+08:00",
+      "source": "AMZ123跨境导航",
+      "url": "https://www.amz123.com/kx/v3ytak4C",
+      "subCategory": "平台动态"
+    },
+    {
+      "id": "trade-20260707-707",
+      "title": "TikTok Shop东南亚7.7大促开启 多市场推出优惠活动",
+      "summary": "TikTok Shop在东南亚多国启动7.7大促，推出直降、阶梯折扣及组合券等优惠机制，马来西亚同步开展世界杯狂欢促销，菲律宾开启超级特卖，泰国自7月5日起调整佣金费率。",
+      "publishedAt": "2026-07-07T10:45:00+08:00",
+      "source": "AMZ123跨境导航",
+      "url": "https://www.amz123.com/kx/avudrzpr",
+      "subCategory": "平台动态"
+    },
+    {
+      "id": "trade-20260707-818",
+      "title": "老龄化趋势推动需求增长！亚马逊美站防水药袋活页夹受到关注",
+      "summary": "亚马逊美国站防水药盒活页夹产品受到关注，主要面向55至75岁人群，pill organizer关键词月搜索量超122万，现有售价17.99至23.99美元，建议从防水材质及看护版本差异化竞争。",
+      "publishedAt": "2026-07-07T10:24:00+08:00",
+      "source": "AMZ123",
+      "url": "https://www.amz123.com/kx/eVPbczmF",
+      "subCategory": "选品趋势"
+    },
+    {
+      "id": "trade-20260707-817",
+      "title": "亚马逊Prime Day后美站销量下滑七成，多重因素延长大促后低谷期",
+      "summary": "亚马逊Prime Day期间美国线上消费规模达264亿美元，同比增长9.3%，但大促结束后不少中小卖家反馈订单量下滑最高达七成，独立日假期出行、世界杯赛事分流及广告点击成本上涨约六成被认为是主要原因。",
+      "publishedAt": "2026-07-07T09:50:00+08:00",
+      "source": "AMZ123跨境导航",
+      "url": "https://www.amz123.com/kx/g4UxMZlo",
+      "subCategory": "平台动态"
+    },
+    {
+      "id": "trade-20260707-820",
+      "title": "Wildberries今日起上调卖家佣金，自发货模式最高增加20个百分点",
+      "summary": "俄罗斯电商平台Wildberries自2026年7月7日起实施差异化佣金调整，平台仓配FBO卖家佣金上调5个百分点，自主备货发货FBS卖家佣金最高上调20个百分点，原因为燃油价格上涨推高物流成本。",
+      "publishedAt": "2026-07-07T09:30:00+08:00",
+      "source": "AMZ123",
+      "url": "https://www.amz123.com/kx/dDsDt0Gv",
+      "subCategory": "平台政策"
+    },
+    {
+      "id": "trade-20260707-705",
+      "title": "俄罗斯宠物营养添加剂需求同比增长14.5%",
+      "summary": "俄罗斯宠物营养品市场2026年上半年增长明显，猫狗功能性营养补充剂需求同比增长14.5%，莫斯科、圣彼得堡等高收入地区表现突出，进口关节护理与肠胃产品主要来自德国、美国及中国。",
+      "publishedAt": "2026-07-07",
+      "source": "AMZ123跨境导航",
+      "url": "https://www.amz123.com/kx/lCYv4Pfn",
+      "subCategory": "选品趋势"
+    },
+    {
+      "id": "trade-20260707-704",
+      "title": "Wildberries测试疑似AI评论图片标签功能",
+      "summary": "Wildberries在应用内测试疑似AI生成标签功能，通过算法识别评论图片是否经生成式AI处理或大幅编辑，平台称该标签仅用于提升内容透明度，不影响评论排序与展示。",
+      "publishedAt": "2026-07-07",
+      "source": "AMZ123跨境导航",
+      "url": "https://www.amz123.com/kx/OgMckWzx",
+      "subCategory": "平台动态"
+    },
+    {
+      "id": "trade-20260707-801",
+      "title": "浙江税务局：7月1日起出口发票须填写具体品名并与报关单保持一致",
+      "summary": "浙江省税务局发布通知，要求出口企业自7月1日起在发票上填写具体商品名称，不得使用笼统表述，且规格、数量须与报关单保持一致，否则可能影响出口退税审核进度。",
+      "publishedAt": "2026-07-07",
+      "source": "AMZ123跨境导航",
+      "url": "https://www.amz123.com/kx/3QcCBCHz",
+      "subCategory": "关税法规"
+    },
+    {
+      "id": "trade-20260707-802",
+      "title": "Shopee马来西亚VIP会员突破100万 人均消费达普通用户1.2倍",
+      "summary": "Shopee马来西亚站披露，其VIP会员订阅服务用户已突破100万，会员人均消费为普通用户的1.2倍，新订阅用户可获赠三个月ChatGPT Go及一个月Duolingo会员。",
+      "publishedAt": "2026-07-07",
+      "source": "AMZ123跨境导航",
+      "url": "https://www.amz123.com/kx/1488rWaz",
+      "subCategory": "平台动态"
+    },
+    {
+      "id": "trade-20260707-803",
+      "title": "越南电商增速降至21% 平台高佣金与直播乱象影响行业发展",
+      "summary": "越南电商协会报告显示，2025年越南电商行业增速降至21%，创近年新低，平台佣金升至订单额的25%至30%，直播带货中虚假宣传问题突出，挤压商家利润空间。",
+      "publishedAt": "2026-07-07",
+      "source": "AMZ123跨境导航",
+      "url": "https://www.amz123.com/kx/Y2cKFMQQ",
+      "subCategory": "新兴市场"
+    },
+    {
+      "id": "trade-20260707-804",
+      "title": "亚马逊GWD华东双仓启用 支持自动补货与入仓即退税",
+      "summary": "亚马逊在华东启用GWD仓储服务，上海临港仓将于7月16日运营，宁波梅山港仓预计三季度上线，支持自动补货及FOB条件下入仓即退税，7至12月提供30天免费仓储。",
+      "publishedAt": "2026-07-07",
+      "source": "AMZ123跨境导航",
+      "url": "https://www.amz123.com/kx/ooaTwQ7j",
+      "subCategory": "物流仓储"
+    },
+    {
+      "id": "trade-20260707-805",
+      "title": "TikTok美区泳池双头喷泉支架28天GMV近百万美元",
+      "summary": "TikTok美区一款售价37美元的泳池双头喷泉支架产品28天内实现约14.45万美元GMV，销量3933件，超七成销售额来自达人短视频内容，累计GMV已达93万美元。",
+      "publishedAt": "2026-07-07",
+      "source": "AMZ123跨境导航",
+      "url": "https://www.amz123.com/kx/Ws0L8PH2",
+      "subCategory": "选品趋势"
+    },
+    {
+      "id": "trade-20260707-806",
+      "title": "Shopee自2026年7月起清理长期休眠商品",
+      "summary": "Shopee宣布自2026年7月起清理中国卖家账户中长期未展示满一年及零销量的商品，相关商品将从卖家产品列表移除且无法恢复，但商品信息仍会留存备查。",
+      "publishedAt": "2026-07-07",
+      "source": "AMZ123跨境导航",
+      "url": "https://www.amz123.com/kx/OTwIT7v3",
+      "subCategory": "平台政策"
+    },
+    {
+      "id": "trade-20260707-807",
+      "title": "Yandex Market全面切换人民币结算 7月1日起卢布账户将停止服务",
+      "summary": "俄罗斯电商平台Yandex Market宣布全面切换为人民币计价与结算，卢布账户将于7月1日起停止服务，卖家可通过人民币账户定价、查看数据及收款，避免汇率损失。",
+      "publishedAt": "2026-07-07",
+      "source": "AMZ123跨境导航",
+      "url": "https://www.amz123.com/kx/tfCkkH6J",
+      "subCategory": "跨境支付"
+    },
+    {
+      "id": "trade-20260707-808",
+      "title": "eBay美国站Q3重货促销最高返还80%成交费",
+      "summary": "eBay美国站推出第三季度重货促销活动，7月1日至9月30日运行，按发货重量分四档返还成交费，最高可返还80%，单笔最高返现120美元，季度上限10万美元。",
+      "publishedAt": "2026-07-07",
+      "source": "AMZ123跨境导航",
+      "url": "https://www.amz123.com/kx/dyZBMTdZ",
+      "subCategory": "平台政策"
+    },
+    {
+      "id": "trade-20260707-809",
+      "title": "印度最大集装箱港JNPA因暴雨与吊装事故部分码头停运",
+      "summary": "印度最大集装箱港口JNPA因暴雨大风及一起吊装事故导致部分码头停运，BMCT码头自7月5日零时起暂停作业，一艘货轮吊装作业中集装箱坠落造成人员伤亡。",
+      "publishedAt": "2026-07-07",
+      "source": "AMZ123跨境导航",
+      "url": "https://www.amz123.com/kx/0zuiHLz9",
+      "subCategory": "物流仓储"
+    },
+    {
+      "id": "trade-20260707-810",
+      "title": "亚马逊严打明信片催评及诱导改评 违规直接撤销销售权限",
+      "summary": "亚马逊加大对刷评行为的打击力度，向发送明信片催评、诱导买家删除或修改差评的卖家发出警告并直接撤销销售权限，鼓励卖家仅通过官方索评按钮合规索评。",
+      "publishedAt": "2026-07-07",
+      "source": "AMZ123跨境导航",
+      "url": "https://www.amz123.com/kx/NXcdeLDw",
+      "subCategory": "平台政策"
+    },
+    {
+      "id": "trade-20260707-811",
+      "title": "Wildberries 2026年7—8月热销指南：夏装及开学季产品需求增长",
+      "summary": "Wildberries发布2026年7至8月选品指南，7月促销期连衣裙、纯棉T恤等夏装需求走高，8月开学季教材、图集等文具品类销量预计大幅增长，建议卖家提前备货。",
+      "publishedAt": "2026-07-07",
+      "source": "AMZ123跨境导航",
+      "url": "https://www.amz123.com/kx/zkXIlQCE",
+      "subCategory": "选品趋势"
+    },
+    {
+      "id": "trade-20260707-816",
+      "title": "Amazon Buy Box Featured Offer Eligibility Change",
+      "summary": "亚马逊宣布自2026年7月20日起取消欧盟及英国站Featured Offer（黄金购物车）的卖家资格门槛审核环节，卖家无需额外操作即可自动纳入评选，选中标准仍基于价格、配送速度与客户体验等因素，Buy Box整体评选机制未发生变化。",
+      "publishedAt": "2026-07-07",
+      "source": "ChannelX",
+      "url": "https://channelx.world/2026/07/amazon-buy-box-featured-offer-eligibility-change/",
+      "subCategory": "平台政策"
+    },
+    {
+      "id": "trade-20260706-606",
+      "title": "Shopee越南达人推广双模式上线规则更新",
+      "summary": "Shopee越南站更新达人推广规则，商品同时参与定向推广与拓展推广时系统优先执行定向活动佣金费率，新规提供快捷版与标准版两种设置模式，活动一旦生效只能上调预算或佣金，不可下调。",
+      "publishedAt": "2026-07-06T17:24:00+08:00",
+      "source": "AMZ123跨境导航",
+      "url": "https://www.amz123.com/kx/jpVZbXWc",
+      "subCategory": "平台政策"
+    },
+    {
+      "id": "trade-20260706-608",
+      "title": "Shopee新加坡站加强预包装食品净含量合规审查",
+      "summary": "Shopee提醒新加坡卖家，预包装食品净含量标注须符匈1975年度量衡法案，包装、吸水垫、冰衣等不得计入净重，违规个人最高罚来2000新元，2026年审查范围将从冷冻海鲜扩大到全部预包装食品。",
+      "publishedAt": "2026-07-06T17:24:00+08:00",
+      "source": "AMZ123跨境导航",
+      "url": "https://www.amz123.com/kx/dR0ZhUEs",
+      "subCategory": "平台政策"
+    },
+    {
+      "id": "trade-20260706-607",
+      "title": "水冷衣服卖爆！日本高温催甁5大爆款品类",
+      "summary": "日本乐天市场数据显示，2026年高温催生防暑降温品类GMV五年增长约6.4倍，水冷衣、不锈钢保冷杯、免手持风扇、防晒机能服饰及宠物降温用品成为五大热销方向，其中不锈钢保冷杯销量增长达14.6倍。",
+      "publishedAt": "2026-07-06T16:25:00+08:00",
+      "source": "雨果网",
+      "url": "https://www.cifnews.com/article/187325",
+      "subCategory": "选品趋势"
+    },
+    {
+      "id": "trade-20260706-601",
+      "title": "亚马逊德国携手Myflexbox开放2300个自提柜网络",
+      "summary": "亚马逊德国站与自提柜运营商Myflexbox合作，开放超2300个24小时自助自提点，覆盖德国和奥地利800多个城镇，并支持UPS、DPD、GLS、FedEx等快递公司接入，提升末端配送便利度。",
+      "publishedAt": "2026-07-06T14:20:00+08:00",
+      "source": "AMZ123跨境导航",
+      "url": "https://www.amz123.com/kx/YNXVtfo5",
+      "subCategory": "物流仓储"
+    },
+    {
+      "id": "trade-20260706-603",
+      "title": "MSC重启印度—美东IndusExpress航线，停航一月后8月恢复运营",
+      "summary": "地中海航运公司MSC宣布，此前停航一个月的印度至美国东海岸IndusExpress航线将于8月第三周恢复固定每周班期，地缘局势及关税因素推高美国进口需求，相关运价和订舱量随之上涨。",
+      "publishedAt": "2026-07-06T11:01:00+08:00",
+      "source": "AMZ123跨境导航",
+      "url": "https://www.amz123.com/kx/m0ea2lI3",
+      "subCategory": "物流仓储"
+    },
+    {
+      "id": "trade-20260706-605",
+      "title": "拉瓜伊拉港因地震暂停运营，多家船公司调整至卡贝略港中转",
+      "summary": "委内瑞拉拉瓜伊拉港因地震导致集装箱码头受损被迫全面停运，马士基、地中海航运、达飞轮船相继暂停订舱或改道卡贝略港中转，三家船公司均未公布复航时间，建议货主关注公告调整订舱港口。",
+      "publishedAt": "2026-07-06T11:01:00+08:00",
+      "source": "AMZ123跨境导航",
+      "url": "https://www.amz123.com/kx/bVmfqgDm",
+      "subCategory": "物流仓储"
+    },
+    {
+      "id": "trade-20260706-403",
+      "title": "广东首条\"东菞—塔城—喀山\"跨境电商陆路专线开通",
+      "summary": "广东首条\"东菞—塔城—喀山\"跨境电商陆路专线开通,首批货物含超9万件跨境电商包裹,经塔城巴克图口岁直达喀山,采用属地申报口岸验放模式,为珠三角3C及轻工产品拓展俄罗斯及中亚市场提供新通道。",
+      "publishedAt": "2026-07-06T10:51:00+08:00",
+      "source": "AMZ123跨境导航",
+      "url": "https://www.amz123.com/kx/vHCv3wMy",
+      "subCategory": "物流仓储"
+    },
+    {
+      "id": "trade-20260706-404",
+      "title": "东菞仓134台机器人验证成熟,菜鸟加速海外仓储机器人布局",
+      "summary": "菜鸟与竞星仓储设备工程(香港)合作推进爸楼机器人仓储方案全球复制,东菞仓134台机器人完成验证,未来四个月内将在广州、香港、荷兰、西班牙落地机器人仓库,用于降低海外仓人力成本、提升履约效率。",
+      "publishedAt": "2026-07-06T10:51:00+08:00",
+      "source": "AMZ123跨境导航",
+      "url": "https://www.amz123.com/kx/tW3oi3Ad",
+      "subCategory": "物流仓储"
+    },
+    {
+      "id": "trade-20260706-609",
+      "title": "Shopee投入5亿泰铫支持泰国中小微卖家数字化发展",
+      "summary": "Shopee宣布投入超5亿泰铫启动\"泰泰互助计划\"，面向约120万家泰国中小微卖家，7月6日至10日开放报名，前10笔月订单免佣金最多可享60单，月销低于1万泰铫商家另享0.5%至1.5%优惠费率，为期6个月。",
+      "publishedAt": "2026-07-06T10:41:00+08:00",
+      "source": "AMZ123跨境导航",
+      "url": "https://www.amz123.com/kx/oobNLXJZ",
+      "subCategory": "平台动态"
+    },
+    {
+      "id": "trade-20260706-406",
+      "title": "2026年Q1马来西亚电商诈骗损失超4.3亿令吉",
+      "summary": "马来西亚国内贸易部通报,2026年第一季度电商诈骗造成超4.3亿令吉经济损失,2025年全年诈骗案件超6万宗、损妁29.7亿令吉,当局已采取账户冻结、网站封锁等措施并呼吁提升消费者防诈意识。",
+      "publishedAt": "2026-07-06T10:30:00+08:00",
+      "source": "AMZ123跨境导航",
+      "url": "https://www.amz123.com/kx/1QwRl656",
+      "subCategory": "新兴市场"
+    },
+    {
+      "id": "trade-20260706-402",
+      "title": "印尼四大电商平台将于8月1日起代扣卖家所得税",
+      "summary": "印尼税务部门要求Tokopedia、Shopee、Lazada、Blibli四大电商平台自8月1日起按卖家毛收入0.5%代扣所得税,7月为系统测试与通知过渡期,年营收低于50亿印尼盾或持有免税凭证的卖家可申请豁免。",
+      "publishedAt": "2026-07-06T10:10:00+08:00",
+      "source": "AMZ123跨境导航",
+      "url": "https://www.amz123.com/kx/8PDGi37p",
+      "subCategory": "关税法规"
+    },
+    {
+      "id": "trade-20260706-408",
+      "title": "Lazada泰国本土店将于7月1日起调整Premium Package费率",
+      "summary": "Lazada泰国本土店自7月1日起调整Premium Package服务费率,按站内成交订单以商品原价扣除卖家自设优惠后计费,佣金比例按类目在7%至8%区间浮动,建议已入驻或计划升级的卖家重新核算SKU毛利。",
+      "publishedAt": "2026-07-06T09:59:00+08:00",
+      "source": "AMZ123跨境导航",
+      "url": "https://www.amz123.com/kx/JrJ0TDAR",
+      "subCategory": "平台政策"
+    },
+    {
+      "id": "trade-20260706-602",
+      "title": "Shopee新加坡站强化MWELS水效标签合规要求，未注册商品或将下架",
+      "summary": "Shopee提醒新加坡卖家，管道、龙头、马桶水箱、洗衣机等用水产品须完成新加坡公用事业局MWELS水效标签注册，商品页面需展示品牌、耗水量、注册编号等信息，未合规商品可能被下架。",
+      "publishedAt": "2026-07-06T09:59:00+08:00",
+      "source": "AMZ123跨境导航",
+      "url": "https://www.amz123.com/kx/GpJ9K7Cu",
+      "subCategory": "平台政策"
+    },
+    {
+      "id": "trade-20260706-405",
+      "title": "越南电商格局重构:Shopee以42%领先,TikTok Shop匠24%高速增长",
+      "summary": "2026年越南电商市场呈现三层竞争格局,Shopee以42%市场份额保持领先,TikTok Shop以24%份额位居第二并实现同比60%增长,Lazada份额为18%,两大平台客单价分别为8.5美元与12美元。",
+      "publishedAt": "2026-07-06T09:48:00+08:00",
+      "source": "AMZ123跨境导航",
+      "url": "https://www.amz123.com/kx/IKHwjgKx",
+      "subCategory": "新兴市场"
+    },
+    {
+      "id": "trade-20260706-401",
+      "title": "亚马逊向中国税务部门二次报送2025Q4及2026Q1卖家交易数据",
+      "summary": "亚马逊因此前申报数据存在偏差,已向中国税务部门重新报送2025年第四季度及2026年第一季度卖家交易数据,并通知卖家下载更新报告,核对差异以规避补税与稽查风险。",
+      "publishedAt": "2026-07-06T09:38:00+08:00",
+      "source": "AMZ123跨境导航",
+      "url": "https://www.amz123.com/kx/eYPp1Nfl",
+      "subCategory": "关税法规"
+    },
+    {
+      "id": "trade-20260706-407",
+      "title": "澄海潜水玩具借TikTok在美区走红,多款产品月销破百万",
+      "summary": "广东澄海潜水玩具借助TikTok短视频内容营销在美区走红,美人鱼贝壳款亚马逊美区售价20.99美元、月销超5000件,仿真救援鱼款售价23.99美元、月销超9000件、GMV超百万元人民币。",
+      "publishedAt": "2026-07-06T09:38:00+08:00",
+      "source": "AMZ123跨境导航",
+      "url": "https://www.amz123.com/kx/XBt6qVzF",
+      "subCategory": "选品趋势"
+    },
+    {
+      "id": "trade-20260706-604",
+      "title": "Shopee印尼上线\"1小时极速达\"，最快60分钟送达",
+      "summary": "Shopee印尼站上线1小时极速达服务，覆盖鸡蛋、生鲜、冷冻甘点及非处方药等日常必需品，与Klik Indomaret、Hypermart等零售商打通库存，超时未送达可获延迟赔付券，最高享5折优惠。",
+      "publishedAt": "2026-07-06T09:37:00+08:00",
+      "source": "AMZ123跨境导航",
+      "url": "https://www.amz123.com/kx/XxCHUTvh",
+      "subCategory": "平台动态"
+    },
+    {
+      "id": "trade-20260706-307",
+      "title": "Shopee菲律宾南部商家订单量三年增长51%，视频带货销售额增长209%",
+      "summary": "Shopee最新报告显示，2023至2025年间菲律宾维萨亚斯及棠兰老岛地区中小商家平均订单量增长51%，2024至2025年间通过视频功能带动的销售额增长209%，直播与短视频成为当地商家拓展全国市场的核心渠道。",
+      "publishedAt": "2026-07-06",
+      "source": "AMZ123",
+      "url": "https://www.amz123.com/zb/20260706",
+      "subCategory": "新兴市场"
+    },
+    {
+      "id": "trade-20260706-302",
+      "title": "亚马逊推出\"拉美速通计划\"；欧盟对电商小包开征3欧元费用",
+      "summary": "亚马逊面唔逦2026年约3000个中国品牌推出拉美速通计划，提供注册协助、税务方案、物流折扣及最高12000美元补贴；欧盟自7月1日起对低价值包裹按每个商品类别加征3欧元通关费用，影响中国跨境小包卖家。",
+      "publishedAt": "2026-07-05T20:05:02+08:00",
+      "source": "亿邦动力",
+      "url": "https://m.ebrun.com/685758.html",
+      "subCategory": "关税法规"
+    },
+    {
+      "id": "trade-20260706-303",
+      "title": "提高卖家经营透明度：Ozon、Wildberries均宣布将提前45天通知重大条款调整",
+      "summary": "俄罗斯电商平台Ozon宣布自2026年7月1日起，将涉及卖家要约变更的通知期限由此前14天延长至45天；2026年6月，另一俄罗斯电商巨头Wildberries也作出类似决定，以提高平台经营透明度。",
+      "publishedAt": "2026-07-05T19:06:49+08:00",
+      "source": "亿邦动力",
+      "url": "https://m.ebrun.com/685754.html",
+      "subCategory": "平台政策"
+    },
+    {
+      "id": "trade-20260706-304",
+      "title": "前巴西第三大电商平台Americanas业务重组：O2O模式将成为战略重点",
+      "summary": "曾为巴西第三大电商平台运营商的Americanas近日宣布正式启动业务重组，以重建市场信心，公司将战略重点转向O2O模式，并聚焦筛选大型卖家，应对当地电商竞争加剧局面。",
+      "publishedAt": "2026-07-05T18:36:35+08:00",
+      "source": "亿邦动力",
+      "url": "https://m.ebrun.com/685752.html",
+      "subCategory": "新兴市场"
+    },
+    {
+      "id": "trade-20260706-305",
+      "title": "法国立法阻击\"超快时尚\"电商：拟对每件商品罚扶6欧元并禁止相关营销推广",
+      "summary": "法国议会近日通过新法案，拟对\"超快时尚\"零售商按件计罚，单件商品罚款最高6欧元，并禁止其开展广告宣传，进一步收紧针对快时尚跨境电商平台的监管力度。",
+      "publishedAt": "2026-07-05T17:45:32+08:00",
+      "source": "亿邦动力",
+      "url": "https://m.ebrun.com/685751.html",
+      "subCategory": "关税法规"
+    },
+    {
+      "id": "trade-20260706-301",
+      "title": "这几类卖家快自查！海外爆款IP成下架重灾区",
+      "summary": "6月下旬至7月初，迪士尼、Stanley Black & Decker等品牌相继在美国联邦法院对跨境卖家提起TRO诉讼，涉及史迪奇周边、电动工具、运动镜、智能安防等品类，卖家面临资金冻结与账号下架风险。",
+      "publishedAt": "2026-07-05T17:40:00+08:00",
+      "source": "雨果网",
+      "url": "https://www.cifnews.com/article/187297",
+      "subCategory": "选品趋势"
+    },
+    {
+      "id": "trade-20260706-306",
+      "title": "继续加码即时零售业务：Shopee印尼上线1小时极速送达服务",
+      "summary": "Shopee近日宣布在其最大单一市场印度尼西亚正式推出\"1小时极速送达\"服务，进一步布局即时零售业务，缩短消费者收货等待时间，提升平台履约竞争力。",
+      "publishedAt": "2026-07-05T15:31:00+08:00",
+      "source": "亿邦动力",
+      "url": "https://m.ebrun.com/685749.html",
+      "subCategory": "物流仓储"
+    },
+    {
+      "id": "trade-20260705-001",
+      "title": "36氪出海·全球化公司｜让经营更轻、让利润更厚：TikTok Shop东南亚跨境电商的下一盘棋局",
+      "summary": "TikTok Shop东南亚2025年GMV同比增长125%，平台宣布三项战略升级：开放奢侈品、珠宝等高客单价类目；通过AI翻译与统一后台实现一个团队同时运营五国；加强供应链与售后支持助力成熟商家建立品牌长期阵地。(估算)",
+      "publishedAt": "2026-07-05",
+      "source": "36氪出海",
+      "url": "https://letschuhai.com/d28eb7e7",
+      "subCategory": "平台动态"
+    },
+    {
+      "id": "trade-20260704-002",
+      "title": "欧洲热爆了！除了空调，这些\"降温神器\"也在被疯抢",
+      "summary": "文章指出欧洲多国持续高温，除移动空调外，半导体制冷手持风扇、可穿戴颈挂风扇、塔式及便携电池蕸发式冷风机、家用制冰机与降温背心等产品需求激增，重点市场覆盖德国、法国、西班牙及波兰、匈牙利等东欧新兴市场，建议卖家把握7至9月旺季节奏提前备货。",
+      "publishedAt": "2026-07-04T17:44:00+08:00",
+      "source": "雨果网",
+      "url": "https://www.cifnews.com/article/187296",
+      "subCategory": "选品趋势"
+    },
+    {
+      "id": "trade-20260704-001",
+      "title": "大湾区闽商品牌出海委员会新址揭牌，助力闽商跨境贸易高质量发展",
+      "summary": "大湾区闽商品牌出海委员会在深圳举行新址揭牌暂基地启动仪式，将为福建籍企业提供政策宣讲、人才对接、资源匹配等服务，首期设立南安优品跨境选品中心，并促成井冈山大学商学院与福建省电子商务促进会开展校地合作，培养跨境电商及国际贸易人才。",
+      "publishedAt": "2026-07-04T17:01:00+08:00",
+      "source": "雨果网",
+      "url": "https://www.cifnews.com/article/187295",
+      "subCategory": "选品趋势"
+    },
+    {
+      "id": "trade-20260703-022",
+      "title": "巴西数字化进程加速：超七成网民已使用网银服务",
+      "summary": "巴西最新调查显示，74.2%的网民已使用网银服务，较2022年提升14.4个百分点；电商使用率首次突破五成达52.7%，网络公共服务使用率为41.1%，但东南部电商渗透率61.6%明显高于北部35%，区域差异仍较大。",
+      "publishedAt": "2026-07-03T17:45:00+08:00",
+      "source": "AMZ123跨境导航",
+      "url": "https://www.amz123.com/kx/TjlsusTN",
+      "subCategory": "新兴市场"
+    },
+    {
+      "id": "trade-20260703-014",
+      "title": "5月中国汽车出口额同比增长25%达258.5亿美元",
+      "summary": "海关数据显示，2026年5月中国汽车出口额达258.5亿美元，同比增长25%；1-5月累计出口题额1170.6亿美元，同比增长30%，欧洲、亚洲及拉美等新兴市场出口延续增长态势。",
+      "publishedAt": "2026-07-03T17:45:00+08:00",
+      "source": "AMZ123跨境导航",
+      "url": "https://www.amz123.com/kx/QpOO2wRB",
+      "subCategory": "海关数据"
+    },
+    {
+      "id": "trade-20260703-020",
+      "title": "Etsy将扩大商品申诉范围并引入大模型提升违规检测效率",
+      "summary": "Etsy宣布年内将把标价申诉机制从仅限创意标准违规扩展到其他平台政策领域，并表示约92%的订单纠纷已由买卖双方自行协商解决而无需平台介入；平台同时引入大语言模型技术以提升违规识别效率及通知透明度。",
+      "publishedAt": "2026-07-03T17:45:00+08:00",
+      "source": "AMZ123跨境导航",
+      "url": "https://www.amz123.com/kx/DeYJGwcc",
+      "subCategory": "平台政策"
+    },
+    {
+      "id": "trade-20260703-019",
+      "title": "USPS运费结构异常：轻件高价重件低价引发虚报重量补费风险",
+      "summary": "美国邮政近期对3至5磅Ground Advantage包裹促销折扣导致运费出现载件比重件贵的倒挂现象，部分卖家因此在面单上虚报重量，但USPS自动化验重系统在揈收分拣环节查出差异后将加收附加费，业内建议卖家如实申报包裹重量。",
+      "publishedAt": "2026-07-03T17:34:00+08:00",
+      "source": "AMZ123跨境导航",
+      "url": "https://www.amz123.com/kx/nibM3mEi",
+      "subCategory": "物流仓储"
+    },
+    {
+      "id": "trade-20260703-015",
+      "title": "欧盟小包税政策落地 Temu欧洲站单量明显下滑",
+      "summary": "欧盟对150欧元以下进口小包裹取消免税并加征3欧元清关费及增值税的新规7月1日起实施后，Temu低价商品到手价上涨超70%，卖家反映订单量下滑约六到七成，Temu与Shein正加快扩建欧洲仓以实现约八成本地履约。",
+      "publishedAt": "2026-07-03T17:34:00+08:00",
+      "source": "AMZ123跨境导航",
+      "url": "https://www.amz123.com/kx/jaQLWuEl",
+      "subCategory": "关税法规"
+    },
+    {
+      "id": "trade-20260703-016",
+      "title": "越块6月14日起实施12类进口品口岸强制申报 清关周期或延长2—5天",
+      "summary": "越南副总理签署决定，要求家用空调、酒类、烟草等12类进口商品自8月14日起须在入境口岸完成报关查验，不再允许在企业注册地办理，新规预计使清关滞留及查验周期延长2至5个工作日，建议卖家提前调整备货节奏。",
+      "publishedAt": "2026-07-03T17:23:00+08:00",
+      "source": "AMZ123跨境导航",
+      "url": "https://www.amz123.com/kx/7w1mRmX2",
+      "subCategory": "关税法规"
+    }
+  ]
+}
