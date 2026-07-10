@@ -3,8 +3,170 @@
   "slug": "tech",
   "title": "科技新闻",
   "description": "前沿科技、互联网产品、芯片硬件、开源生态。",
-  "updatedAt": "2026-07-10T08:45:00+08:00",
+  "updatedAt": "2026-07-11T00:20:00+08:00",
   "items": [
+    {
+      "id": "tech-20260710-102",
+      "title": "募资265亿美元超阿里创外企赴美IPO纪录：SK海力士ADR预示开盘价180美元，首日涨超20%",
+      "summary": "SK海力士美国存托凭证在纳斯达克上市，募资约265亿美元，超过阿里巴巴此前外企赴美IPO纪录，定价149美元/股，预市价格显示开盘价约180美元，涨幅约21%，认购倍数超7倍，机构投资者超500家。",
+      "publishedAt": "2026-07-10T23:16:00+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/975/362.htm",
+      "subCategory": "芯片硬件"
+    },
+    {
+      "id": "tech-20260710-115",
+      "title": "小米汽车确认澎程不是子品牌：计划发布两款车，投入566台测试车、路测超428万公里",
+      "summary": "小米汽车表示澎程是小米汽车旗下大空间智能变化SUV系列，非独立子品牌，计划推出五座与七座两款增程车型，已投入566台测试车，路测里程超428万公里，纯电续航最高380公里（WLTC）。",
+      "publishedAt": "2026-07-10T23:09:09+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/975/361.htm",
+      "subCategory": "智能汽车"
+    },
+    {
+      "id": "tech-20260710-116",
+      "title": "比亚迪腾势N8官图公布：大五座纯电SUV，搭载第二代刀片电池及闪充技术",
+      "summary": "比亚迪腾势发布N8官图，车长5150mm，轴距3075mm，搭载第二代刀片电池及闪充技术，官方称5分钟可充满、9分钟完全充电，零下30度仅需多耗时3分钟，提供单电机、高性能单电机及三电机三种动力版本。",
+      "publishedAt": "2026-07-10T22:54:09+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/975/359.htm",
+      "subCategory": "智能汽车"
+    },
+    {
+      "id": "tech-20260710-111",
+      "title": "微信Win/Mac PC测试版4.1.12发布：通话中可接听新来电，支持Markdown排版",
+      "summary": "微信PC测试版4.1.12新增通话中接听新来电功能，桌面端聊天窗口图片视频合并展示体验优化，笔记功能新增Markdown排版支持，包含标题、加粗、引用、列表等格式，该功能仍处实验阶段。",
+      "publishedAt": "2026-07-10T22:53:11+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/975/358.htm",
+      "subCategory": "互联网产品"
+    },
+    {
+      "id": "tech-20260710-117",
+      "title": "全新零跑B01/B10车型7月16日上市：50英寸AR-HUD、双零重力座椅、激光雷达",
+      "summary": "零跑汽车宣布B01轿车与B10 SUV将于7月16日正式上市，此前已于7月8日开启盲订。B01配备50英寸AR-HUD及17.3英寸中控屏，B10配备双零重力座椅，支持通风加热按摩，两款车型均搭载激光雷达及800V电气架构。",
+      "publishedAt": "2026-07-10T22:38:36+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/975/356.htm",
+      "subCategory": "智能汽车"
+    },
+    {
+      "id": "tech-20260710-112",
+      "title": "告别卓易通：飞牛fnOS鸿蒙原生App开启首轮测试招募",
+      "summary": "飞牛私有云宣布其鸿蒙原生应用完成开发并开启首轮测试招募，面向使用HarmonyOS 5及以上系统的飞牛NAS用户，此前安卓兼容层运行方式存在文件传输不便、下载限速及发热等问题，招募周期为一周。",
+      "publishedAt": "2026-07-10T22:21:19+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/975/355.htm",
+      "subCategory": "操作系统"
+    },
+    {
+      "id": "tech-20260710-110",
+      "title": "富士发布中画幅电动变焦电影镜头GF19-35mmT3.5 PZ OIS WR",
+      "summary": "富士为GFX中画幅电影摄影机系统发布新款电动变焦镜头GF19-35mmT3.5 PZ OIS WR，等效焦距约15-28mm，采用15组23片结构，含4片ED镜片与3片非球面镜片，配备13叶光圈，预计2026年7月下旬上市。",
+      "publishedAt": "2026-07-10T21:22:38+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/975/346.htm",
+      "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260710-104",
+      "title": "联想推出首款搭载Wildcat Lake处理器的ThinkPad机型，最高32GB DDR5内存",
+      "summary": "联想ThinkPad E14 Gen 8与E16 Gen 4新增英特尔Wildcat Lake处理器版本，含Core 5、Core 7选项，最高18TOPS算力NPU，单通道最高32GB DDR5-5600内存，最高1TB PCIe 4.0 SSD，支持雷电4与Wi-Fi 7。",
+      "publishedAt": "2026-07-10T21:13:58+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/975/345.htm",
+      "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260710-107",
+      "title": "消息称一加迭代新机硅电池来到25%±，容量达10000mAh±",
+      "summary": "博主爆料称一加在研新机硅负极电池技术占比达25%左右，两款机型电池容量分别约为9000mAh（120W）和10000mAh（100W），均配备骁龙8系列处理器与185Hz超高刷新率屏幕，上市时间未公布。",
+      "publishedAt": "2026-07-10T20:59:05+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/975/343.htm",
+      "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260710-113",
+      "title": "加速进化发布Booster T2具身开发旗舰平台：搭载英伟达Thor芯片，2070TFLOPS算力",
+      "summary": "加速进化推出人形机器人开发平台Booster T2专业版，搭载英伟达Thor芯片，算力达2070TFLOPS，14核CPU最高2.6GHz，128GB LPDDR5X内存，机身高1.4米，最多75个自由度，最大关节扭矩140Nm，单臂最大静态负载10kg。",
+      "publishedAt": "2026-07-10T20:49:35+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/975/340.htm",
+      "subCategory": "机器人"
+    },
+    {
+      "id": "tech-20260710-108",
+      "title": "1099元骁途S7 Pro Max运动相机上市，首发海思自研1/1.28英寸5000万像素RYYB传感器",
+      "summary": "骁途S7 Pro Max运动相机售价1099元，首发海思自研1/1.28英寸5000万像素RYYB传感器，支持4K 50fps HDR录制，158°超广角镜头，2.29英寸触摸屏，1800mAh电池可录制190分钟1080P视频，支持30米防水。",
+      "publishedAt": "2026-07-10T20:47:35+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/975/339.htm",
+      "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260710-106",
+      "title": "三星Galaxy Z Fold8系列美版价格泄露：Ultra版2099美元起，涨价100美元",
+      "summary": "据韩媒报道，三星Galaxy Z Fold8系列256GB版本美版起售价1899美元，Ultra版同容量为2099美元，较上代Z Fold7涨价100美元，官方价格仍在最终审核中，新机预计7月22日发布。",
+      "publishedAt": "2026-07-10T20:36:18+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/975/338.htm",
+      "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260710-103",
+      "title": "消息称AMD将于本月发布Venice CPU",
+      "summary": "据报道，AMD计划在7月22日至23日的Advancing AI活动上推出基于Zen 6架构的EPYC Venice处理器，相较上代Zen 5产品，性能与能效预计提升超过70%。",
+      "publishedAt": "2026-07-10T20:22:00+08:00",
+      "source": "36氪",
+      "url": "https://www.36kr.com/newsflashes/3889784854870537",
+      "subCategory": "芯片硬件"
+    },
+    {
+      "id": "tech-20260710-114",
+      "title": "华为SVC再获GlobalData全满分评价，蝉联IMS话音核心网独家领导者",
+      "summary": "GlobalData发布2026年IMS及话音核心网竞争力评估报告，华为SVC解决方案在方案架构、平台性能、业务创新、互联互通、商用部署五个维度获得满分，继续保持独家领导者地位，目前已部署超420张网络，服务超20亿VoLTE/VoNR用户。",
+      "publishedAt": "2026-07-10T20:13:29+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/975/333.htm",
+      "subCategory": "网络基础设施"
+    },
+    {
+      "id": "tech-20260710-118",
+      "title": "上纬新材将在WAIC 2026发布全球首款可变形个人机器人启元T1",
+      "summary": "上纬新材宣布将在WAIC 2026发布可变形个人机器人\"启元T1\"，该产品可在轮式人形与四足形态间自动切换，是公司首款面向家庭消费场景的机器人产品。",
+      "publishedAt": "2026-07-10T19:17:33+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/975/318.htm",
+      "subCategory": "机器人"
+    },
+    {
+      "id": "tech-20260710-109",
+      "title": "BIGME大我全球首款60帧/秒刷新率25.3英寸彩墨屏显示器B251 PRO开售，10999元",
+      "summary": "BIGME推出25.3英寸彩墨屏显示器B251 PRO，售价10999元，号称全球首款60帧/秒刷新率彩墨屏，搭载Kaleido 3面板，支持4096色和16级灰度，配备网页、文字、图片、视频四种刷新模式，接口含DP、HDMI、USB-C。",
+      "publishedAt": "2026-07-10T18:28:32+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/975/312.htm",
+      "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260710-105",
+      "title": "华硕展示自家双内存槽B850主板搭配长鑫DDR5超频能力：可达8400MT/s",
+      "summary": "华硕B850M AYW GAMING OC WIFI7 W主板在搭配长鑫存储颗粒的DDR5内存时，实测超频传输速率最高达8400MT/s，不同内存厂商组合下分别达到8400MT/s、8200MT/s和8000MT/s。",
+      "publishedAt": "2026-07-10T18:06:53+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/974/578.htm",
+      "subCategory": "芯片硬件"
+    },
+    {
+      "id": "tech-20260710-101",
+      "title": "长征十号乙运载火箭首飞成功，实现一子级可控回收",
+      "summary": "长征十号乙运载火箭于7月10日12时15分在海南商业航天发射场发射升空，一二级分离约6分钟后一子级垂直返回，通过海上回收平台网系捕获方式实现可控回收，是我国运载火箭首次实现一子级可控回收。",
+      "publishedAt": "2026-07-10T12:25:49+08:00",
+      "source": "新华网",
+      "url": "https://www.news.cn/20260710/76bfd64fb0b1446ba00ac7514c49bb40/c.html",
+      "subCategory": "航空航天"
+    },
     {
       "id": "tech-20260710-003",
       "title": "现已恢复：苹果一度让部分老iPhone/iPad无法还原、刷机，涵盖iOS 6-iOS 10",
@@ -562,168 +724,6 @@
       "source": "IT之家",
       "url": "https://www.ithome.com/0/973/821.htm",
       "subCategory": "消费电子"
-    },
-    {
-      "id": "tech-20260708-001",
-      "title": "三星 Galaxy Unpacked 2026 夏季新品发布会定档 7 月 22 日在伦敦举行，将推三款折叠屏新机",
-      "summary": "三星宣布将于7月22日伦敦当地时间下午2点（北京时间21点）举行夏季Unpacked发布会，推出Galaxy Z Fold8、Z Fold8 Ultra和Z Flip8三款折叠屏新机，Ultra版将重新支持S Pen并配备5000mAh电池。",
-      "publishedAt": "2026-07-08T07:20:59+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/973/823.htm",
-      "subCategory": "消费电子"
-    },
-    {
-      "id": "tech-20260708-003",
-      "title": "三星量产 PM1763 企业级 SSD：最高 16TB，能效提升 1.8 倍、顺序读取 28400 MB/s",
-      "summary": "三星宣布量产基于PCIe 6.0的企业级SSD PM1763，面向AI与HPC服务器场景，最高容量16TB，顺序读取速度达28400MB/s，写入21900MB/s，能效较上代PM1753提升1.8倍，并支持后量子加密。",
-      "publishedAt": "2026-07-08T07:01:33+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/973/817.htm",
-      "subCategory": "芯片硬件"
-    },
-    {
-      "id": "tech-20260708-008",
-      "title": "兰博基尼发布 Vision Pro 应用：Urus SE 等 4 款车型，支持 1:1 实车投放",
-      "summary": "兰博基尼上线Apple Vision Pro官方应用，收录Temerario、Revuelto、Urus SE等4款车型，支持共享空间模式下1:1数字实车摆放，以及沉浸模式浏览车辆外观、内饰与混动系统。",
-      "publishedAt": "2026-07-08T06:42:00+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/973/814.htm",
-      "subCategory": "XR-AR-VR"
-    },
-    {
-      "id": "tech-20260707-736",
-      "title": "Accenture confirms breach after hacker offers stolen data for sale",
-      "summary": "一名代号\"888\"的黑客声称窃取埃森哲约35GB数据，包括源代码、RSA/SSH密钥及Azure访问令牌，并在网络犯罪论坛出售。埃森哲确认发生一起\"孤立\"事件，称未影响业务运营及服务交付。",
-      "publishedAt": "2026-07-07T18:06:00+00:00",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/accenture-confirms-breach-after-hacker-offers-stolen-data-for-sale/",
-      "subCategory": "安全漏洞"
-    },
-    {
-      "id": "tech-20260707-726",
-      "title": "微信鸿蒙版获8.0.19.37邀测更新，支持键盘快捷键发消息",
-      "summary": "微信鸿蒙版App推送8.0.19.37邀测升级，新增连接实体键盘时通过快捷键发送消息、聊天界面双击文字消息放大显示等功能，并修复多项已知问题。",
-      "publishedAt": "2026-07-07T23:59:41+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/973/813.htm",
-      "subCategory": "操作系统"
-    },
-    {
-      "id": "tech-20260707-727",
-      "title": "雷蛇为灵刃18笔记本申请Ubuntu Linux认证",
-      "summary": "雷蛇为搭载英特尔酷睿Ultra 9 290HX Plus及RTX 5090的灵刃18笔记本申请Ubuntu Linux认证，但雷云Synapse暂无Linux版本计划，公司表示支持OpenRazer等第三方社区项目。",
-      "publishedAt": "2026-07-07T23:54:02+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/973/812.htm",
-      "subCategory": "操作系统"
-    },
-    {
-      "id": "tech-20260707-721",
-      "title": "小鹏MONA L03官宣首搭驾驶员失能辅助系统",
-      "summary": "小鹏汽车宣布MONA L03将首次搭载驾驶员失能辅助系统，在高速领航辅助驾驶期间检测到驾驶员失能后，车辆可自动靠边停车并呼叫救援，后续将通过OTA扩展至普通道路场景。",
-      "publishedAt": "2026-07-07T23:50:56+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/973/811.htm",
-      "subCategory": "智能汽车"
-    },
-    {
-      "id": "tech-20260707-720",
-      "title": "消息称DeepSeek正在自研AI芯片，面向推理场景",
-      "summary": "据路透社援引消息人士报道，DeepSeek正自研面向推理场景的AI芯片，旨在减少对英伟达、华为芯片的依赖。项目仍处早期阶段，公司正与芯片设计商、代工厂洽谈，尚未公开回应。",
-      "publishedAt": "2026-07-07T23:42:03+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/973/810.htm",
-      "subCategory": "芯片硬件"
-    },
-    {
-      "id": "tech-20260707-722",
-      "title": "三星预热新形态折叠机，预计为Galaxy Z Fold8阔折叠版",
-      "summary": "三星预热一款新形态设备，外界预计为Galaxy Z Fold8阔折叠版，搭载第五代骁龙8至尊版定制芯片，内屏约7.6英寸、外屏约5.5英寸，展开厚度约4.5毫米，延续此前曝光的比例。",
-      "publishedAt": "2026-07-07T23:40:56+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/973/809.htm",
-      "subCategory": "消费电子"
-    },
-    {
-      "id": "tech-20260707-723",
-      "title": "华为智能手表HarmonyOS 7新特性首曝：腕上控家",
-      "summary": "华为智能手表在HarmonyOS 7版本中新增全屋智能控制功能，用户可在手表上查看并控制家中智能灯具、空调伴侣、音箱等设备，并支持一键执行预设场景。",
-      "publishedAt": "2026-07-07T23:29:36+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/973/808.htm",
-      "subCategory": "消费电子"
-    },
-    {
-      "id": "tech-20260707-724",
-      "title": "苹果停止签署iOS 26.5/26.5.1系统",
-      "summary": "苹果已停止为iOS/iPadOS 26.5及26.5.1签名，已升级至26.5.2的iPhone用户无法再降级至上述版本。26.5.2于6月29日发布，主要修复安全问题。",
-      "publishedAt": "2026-07-07T23:24:12+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/973/807.htm",
-      "subCategory": "操作系统"
-    },
-    {
-      "id": "tech-20260707-728",
-      "title": "华为乾崑智驾里程数断网仍滚动引热议，官方回应",
-      "summary": "有用户发现华为乾崑智驾累计辅助驾驶里程数在断网情况下仍持续增长，引发热议。华为回应称相关页面数据展示做了平滑处理，底层里程数据均来自车辆真实数据。",
-      "publishedAt": "2026-07-07T23:01:52+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/973/803.htm",
-      "subCategory": "智能汽车"
-    },
-    {
-      "id": "tech-20260707-729",
-      "title": "谷歌Pixel 11系列价格曝光，取消128GB版本",
-      "summary": "曝光信息显示谷歌Pixel 11系列将取消128GB存储版本，全系起售容量提升至256GB，标准版起售价999欧元，机型预计8月11日发布。",
-      "publishedAt": "2026-07-07T22:53:30+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/973/802.htm",
-      "subCategory": "消费电子"
-    },
-    {
-      "id": "tech-20260707-730",
-      "title": "小米增程车上市节奏曝光，7月底技术发布会",
-      "summary": "消息称小米增程车将于7月底举行技术发布会，8月中下旬正式上市，并备有万台现车实现上市即交付，该车内部代号“昆仑N3”，配备可开启车顶用于房车场景。",
-      "publishedAt": "2026-07-07T22:41:20+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/973/800.htm",
-      "subCategory": "智能汽车"
-    },
-    {
-      "id": "tech-20260707-725",
-      "title": "日本KDDI披露数据泄露，涉及超1200万邮箱地址",
-      "summary": "日本电信运营商KDDI披露数据泄露事件，攻击者利用第三方软件漏洞侵入其为多家ISP提供的邮件平台，5月至6月间导致超1200万电子邮件地址及近762万密码泄露。",
-      "publishedAt": "2026-07-07T22:39:00+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/973/799.htm",
-      "subCategory": "安全漏洞"
-    },
-    {
-      "id": "tech-20260707-735",
-      "title": "华为智选车产品总监彭磊：享界 G9 全系搭载华为全新自研电机，综合续航里程 CLTC 达 1300 多公里",
-      "summary": "华为智选车产品总监彭磊透露，享界G9全系将搭载华为自研电机及800V高压增程技术，综合CLTC续航超1300公里，标配四驱，搭载鸿蒙车机与三联屏，预计三季度上市。",
-      "publishedAt": "2026-07-07T21:59:55+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/973/789.htm",
-      "subCategory": "智能汽车"
-    },
-    {
-      "id": "tech-20260707-731",
-      "title": "英伟达发布610.74驱动，支持《毁灭战士》《刺客信条》新内容",
-      "summary": "英伟达发布GeForce Game Ready 610.74驱动，为《毁灭战士：黑暗时代》新DLC及《刺客信条：黑旗-记忆重制版》提供优化，支持DLSS多帧生成与光线重建等功能。",
-      "publishedAt": "2026-07-07T21:52:23+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/973/788.htm",
-      "subCategory": "芯片硬件"
-    },
-    {
-      "id": "tech-20260707-732",
-      "title": "KDE Plasma 6.6.6桌面环境发布，为6.6系列最后维护更新",
-      "summary": "KDE发布Plasma 6.6.6桌面环境，作为6.6系列最后一个维护更新，此次更新仅包含窗口管理器、应用发现、工作区及网络等模块的漏洞修复，不含新功能。",
-      "publishedAt": "2026-07-07T21:50:30+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/973/787.htm",
-      "subCategory": "开源生态"
     }
   ]
 }

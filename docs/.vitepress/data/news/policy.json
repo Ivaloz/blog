@@ -3,8 +3,35 @@
   "slug": "policy",
   "title": "政策信息",
   "description": "国家与地方政策、监管动态、产业扶持与合规要求。",
-  "updatedAt": "2026-07-10T08:45:00+08:00",
+  "updatedAt": "2026-07-11T00:20:00+08:00",
   "items": [
+    {
+      "id": "policy-20260710-101",
+      "title": "商务部 海关总署公告2026年第29号 公布对氦气实施临时禁止出口管理",
+      "summary": "商务部、海关总署联合发布2026年第29号公告，依据《对外贸易法》对氦气（税则号2804290010）实施临时禁止出口管理，公告自发布之日起施行，后续相关调整将另行公告。",
+      "publishedAt": "2026-07-10T17:00:00+08:00",
+      "source": "商务部 海关总署",
+      "url": "https://www.mofcom.gov.cn/zwgk/zcfb/art/2026/art_e6cd19ab66574bea995fd77efa77f24e.html",
+      "subCategory": "跨境贸易"
+    },
+    {
+      "id": "policy-20260710-102",
+      "title": "关于《道路机动车辆生产企业及产品公告》（第409批）和《享受车船税减免优惠的节约能源 使用新能源汽车车型目录》（第八十八批）拟发布内容的公示",
+      "summary": "工业和信息化部装备工业一司发布公示，拟发布道路机动车辆生产企业及产品公告第409批及新能源汽车车船税优惠车型目录第88批，公示期为2026年7月11日至17日，涉及671户企业申报的2109个新产品。",
+      "publishedAt": "2026-07-10T15:04:00+08:00",
+      "source": "工业和信息化部",
+      "url": "https://wap.miit.gov.cn/jgsj/zbys/qcgy/art/2026/art_48f1d6ae25084378be76087d47bad09a.html",
+      "subCategory": "新能源政策"
+    },
+    {
+      "id": "policy-20260710-103",
+      "title": "Roadmap for collaboration UK-Spain",
+      "summary": "英国财政大臣里夫斯与西班牙第一副首相夸尔波7月9日在布鲁塞尔签署英西合作路线图，聚焦服务贸易与商务人员流动、专业资格互认、战略投资、经济安全及借助人工智能助力中小企业发展等合作领域。",
+      "publishedAt": "2026-07-10",
+      "source": "英国财政部",
+      "url": "https://www.gov.uk/government/news/roadmap-for-collaboration-uk-spain",
+      "subCategory": "海外政策"
+    },
     {
       "id": "policy-20260709-001",
       "title": "央行货币政策委员会二季度例会：加大逆周期调节力度",
@@ -24,6 +51,15 @@
       "subCategory": "产业政策"
     },
     {
+      "id": "policy-20260710-104",
+      "title": "Fact Sheet: President Donald J. Trump Adjusts Imports of Commercial Aircraft, Jet Engines, and Aircraft and Engine Parts into the United States",
+      "summary": "美国总统特朗普7月9日依据《贸易扩展法》第232条签署公告，指示商务部长与贸易代表就商用飞机、喷气发动机及相关零部件进口与贸易伙伴展开谈判，以应对认定存在的国家安全风险，谈判180天内无效可采取后续行动。",
+      "publishedAt": "2026-07-09",
+      "source": "The White House",
+      "url": "https://www.whitehouse.gov/fact-sheets/2026/07/fact-sheet-president-donald-j-trump-adjusts-imports-of-commercial-aircraft-jet-engines-and-aircraft-and-engine-parts-into-the-united-states/",
+      "subCategory": "跨境贸易"
+    },
+    {
       "id": "policy-20260708-102",
       "title": "四部门印发《关于加快推进“人工智能+人社”应用发展的实施意见》",
       "summary": "人力资源社会保障部、国家发展改革委、工业和信息化部、国家数据局联合印发实施意见，提出到2026年建设“人工智能+人社”应用基础设施并打造20个应用场景，到2030年实现人工智能在人社领域普遍应用。",
@@ -31,6 +67,15 @@
       "source": "新浪新闻",
       "url": "https://news.sina.com.cn/o/2026-07-08/doc-inihatty8047386.shtml",
       "subCategory": "数字经济"
+    },
+    {
+      "title": "文化和旅游部印发《旅游强国建设\"十五五\"规划》",
+      "summary": "经国务院批复，文化和旅游部印发《旅游强国建设\"十五五\"规划》，提出到2030年国内出游人次达83亿、总花费达7.7万亿元、入境旅游人次达1.9亿、总花费超1500亿美元，并部署优化旅游空间布局、丰富优质供给等重点任务。",
+      "publishedAt": "2026-07-08T00:10:00+08:00",
+      "source": "中华人民共和国文化和旅游部",
+      "url": "https://www.mct.gov.cn/whzx/whyw/202607/t20260708_966448.htm",
+      "subCategory": "产业政策",
+      "id": "policy-20260708-901"
     },
     {
       "id": "policy-20260709-101",
@@ -96,13 +141,13 @@
       "id": "policy-20260708-903"
     },
     {
-      "title": "文化和旅游部印发《旅游强国建设\"十五五\"规划》",
-      "summary": "经国务院批复，文化和旅游部印发《旅游强国建设\"十五五\"规划》，提出到2030年国内出游人次达83亿、总花费达7.7万亿元、入境旅游人次达1.9亿、总花费超1500亿美元，并部署优化旅游空间布局、丰富优质供给等重点任务。",
-      "publishedAt": "2026-07-08T00:10:00+08:00",
-      "source": "中华人民共和国文化和旅游部",
-      "url": "https://www.mct.gov.cn/whzx/whyw/202607/t20260708_966448.htm",
-      "subCategory": "产业政策",
-      "id": "policy-20260708-901"
+      "id": "policy-20260710-105",
+      "title": "SEC Small Business Advisory Committee to Explore Modernizing Market Access",
+      "summary": "美国证券交易委员会小企业资本形成咨询委员会7月8日宣布将于7月21日在总部召开会议，探讨优化公开市场准入、推动更多企业上市并保持上市地位的监管改革举措，并邀请业界代表参与讨论。",
+      "publishedAt": "2026-07-08",
+      "source": "Securities and Exchange Commission",
+      "url": "https://www.sec.gov/newsroom/press-releases/2026-64-sec-small-business-advisory-committee-explore-modernizing-market-access",
+      "subCategory": "金融监管"
     },
     {
       "id": "policy-20260707-005",
@@ -195,6 +240,15 @@
       "subCategory": "数字经济"
     },
     {
+      "id": "policy-20260706-602",
+      "title": "今起 沪深主板ST、*ST股票涨跌幅调整至10%",
+      "summary": "上交所、深交所修订后的交易规则自2026年7月6日起正式实施，主板ST、*ST股票涨跌幅限制由5%调整为10%，与主板普通股票趋于一致；科创板、创业板ST股涨跌幅维持不变，盘后固定价格交易机制同步扩大至全部A股和ETF。",
+      "publishedAt": "2026-07-06T07:29:00+08:00",
+      "source": "新浪财经（转自每日经济新闻）",
+      "url": "https://finance.sina.com.cn/roll/2026-07-06/doc-inifvkki1795860.shtml",
+      "subCategory": "金融监管"
+    },
+    {
       "id": "policy-20260706-402",
       "title": "英国政府就AI玩具安全发起证据征集,加强儿童保护",
       "summary": "英国商业与贸易部及产品安全标准办公室发起玩具安全证据征集,截止至10月6日,重点关注新技术带来的风险,包括化学安全与AI互动玩具,旨在推动玩具安全监管框架现代化并加强对消费者的保护。",
@@ -240,15 +294,6 @@
       "subCategory": "海外政策"
     },
     {
-      "id": "policy-20260706-602",
-      "title": "今起 沪深主板ST、*ST股票涨跌幅调整至10%",
-      "summary": "上交所、深交所修订后的交易规则自2026年7月6日起正式实施，主板ST、*ST股票涨跌幅限制由5%调整为10%，与主板普通股票趋于一致；科创板、创业板ST股涨跌幅维持不变，盘后固定价格交易机制同步扩大至全部A股和ETF。",
-      "publishedAt": "2026-07-06T07:29:00+08:00",
-      "source": "新浪财经（转自每日经济新闻）",
-      "url": "https://finance.sina.com.cn/roll/2026-07-06/doc-inifvkki1795860.shtml",
-      "subCategory": "金融监管"
-    },
-    {
       "id": "policy-20260705-001",
       "title": "中英服务贸易协定联合可行性研究技术磋商在伦敦举行",
       "summary": "中英两国官员6月30日至7月1日在伦敦举行第三轮服务贸易协定联合可行性研究技术磋商，双方称谈判取得实质性进展，将加快后续工作，力争尽早完成联合可行性研究，磋商基于2026年1月签署的谅解备忘录展开。",
@@ -283,6 +328,24 @@
       "source": "中国人民银行",
       "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/5492845/2026070316443285965/index.html",
       "subCategory": "金融监管"
+    },
+    {
+      "id": "policy-20260703-001",
+      "title": "中央网信办部署开展\"清朗·网络娱乐团播乱象整治\"专项行动",
+      "summary": "中央网信办自7月3日起在全国开展为期两个月的专项行动，集中整治团播账号注册违规、MCN机构管理失范、低俗场景、侵害未成年人权益等六类问题，压实平台和机构管理责任。",
+      "publishedAt": "2026-07-03T09:40:30+08:00",
+      "source": "新华网",
+      "url": "https://www.news.cn/politics/20260703/a7441996058a4097920b2127fd3a88b6/c.html",
+      "subCategory": "数字经济"
+    },
+    {
+      "id": "policy-20260703-017",
+      "title": "民生直通车｜支持企业稳岗扩岗 政策\"两延续一优化\"",
+      "summary": "四部门联合发布通知，延续失业保险稳岗返还政策（大型企业返还比例上限30%、中小微企业60%）和扩岗补助政策，并优化技能提升补贴，扩大适用范围至社会组织、个体工商户等。",
+      "publishedAt": "2026-07-03T00:48:37+08:00",
+      "source": "新华网",
+      "url": "https://www.news.cn/politics/20260703/b7b5e7a9793f42eda13bd53c10fbc683/c.html",
+      "subCategory": "产业政策"
     },
     {
       "id": "policy-20260703-013",
@@ -348,24 +411,6 @@
       "subCategory": "海外政策"
     },
     {
-      "id": "policy-20260703-001",
-      "title": "中央网信办部署开展\"清朗·网络娱乐团播乱象整治\"专项行动",
-      "summary": "中央网信办自7月3日起在全国开展为期两个月的专项行动，集中整治团播账号注册违规、MCN机构管理失范、低俗场景、侵害未成年人权益等六类问题，压实平台和机构管理责任。",
-      "publishedAt": "2026-07-03T09:40:30+08:00",
-      "source": "新华网",
-      "url": "https://www.news.cn/politics/20260703/a7441996058a4097920b2127fd3a88b6/c.html",
-      "subCategory": "数字经济"
-    },
-    {
-      "id": "policy-20260703-017",
-      "title": "民生直通车｜支持企业稳岗扩岗 政策\"两延续一优化\"",
-      "summary": "四部门联合发布通知，延续失业保险稳岗返还政策（大型企业返还比例上限30%、中小微企业60%）和扩岗补助政策，并优化技能提升补贴，扩大适用范围至社会组织、个体工商户等。",
-      "publishedAt": "2026-07-03T00:48:37+08:00",
-      "source": "新华网",
-      "url": "https://www.news.cn/politics/20260703/b7b5e7a9793f42eda13bd53c10fbc683/c.html",
-      "subCategory": "产业政策"
-    },
-    {
       "id": "policy-20260702-005",
       "title": "三项光伏领域强制性国标出炉！标准立门槛，能效定去留",
       "summary": "工信部会同发改委、市场监管总局发布多晶硅锗单位产品能耗限额、晶硅光伏组件与逆变器能效限定值等三项强制性国家标准，2027年1月1日起实施，或将淘汰约327.6吉瓦不达标产能。",
@@ -411,6 +456,33 @@
       "subCategory": "跨境贸易"
     },
     {
+      "id": "policy-20260703-009",
+      "title": "《限制快递过度包装要求》强制性国家标准7月1日起实施",
+      "summary": "强制性国家标准《限制快递过度包装要求》自7月1日起施行，从包装箱选用、包装层数、封装胶带规格等方面量化管控，明确胶带宽度不得超过45毫米，旨在减少快递包装废弃物、保障寄递安全。",
+      "publishedAt": "2026-07-02T10:30:00+08:00",
+      "source": "国家市场监督管理总局",
+      "url": "https://www.samr.gov.cn/xw/sj/art/2026/art_610bff79bb3a4abebe090198d79ba905.html",
+      "subCategory": "产业政策"
+    },
+    {
+      "id": "policy-20260702-006",
+      "title": "国内首个针对L2级辅助驾驶的强制性国家标准正式发布",
+      "summary": "工信部组织制定的强制性国家标准GB 47955—2026《智能网联汽车组合驾驶辅助系统安全要求》正式发布，2027年1月1日起实施，由华为引望、小米、比亚迪、特斯拉等企业联合起草。",
+      "publishedAt": "2026-07-02T10:05:00+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/971/447.htm",
+      "subCategory": "产业政策"
+    },
+    {
+      "id": "policy-20260702-003",
+      "title": "市场监管总局对火炬集团和鼎晖百孚各罚款175万元",
+      "summary": "市场监管总局对中山火炬集团和上海鼎晖百孚在未获批准前即实施取得中炬高新控制权的经营者集中行为作出行政处罚，鉴于无排除竞争效果且配合调查，两家企业各被罚175万元。",
+      "publishedAt": "2026-07-02T06:40:00+08:00",
+      "source": "新浪财经",
+      "url": "https://finance.sina.com.cn/roll/2026-07-02/doc-inifkcry3722165.shtml",
+      "subCategory": "反垄断"
+    },
+    {
       "id": "policy-20260706-302",
       "title": "Google Android: the Court of Justice upholds Google's fine of around €4.1 billion",
       "summary": "欧盟法院驳回谷歌及母公司Alphabet对安卓反垄断案裁决提出的上诉，维持普通法院此前裁定的约41.25亿欧元罚款，认定谷歌通过预装协议、反碎片化协议及收入分成协议滥用市场支配地位、限制竞争。",
@@ -445,33 +517,6 @@
       "source": "国家市场监督管理总局",
       "url": "https://www.samr.gov.cn/xw/sj/art/2026/art_be8c39da9e284d368b40e073e9be6009.html",
       "subCategory": "数字经济"
-    },
-    {
-      "id": "policy-20260703-009",
-      "title": "《限制快递过度包装要求》强制性国家标准7月1日起实施",
-      "summary": "强制性国家标准《限制快递过度包装要求》自7月1日起施行，从包装箱选用、包装层数、封装胶带规格等方面量化管控，明确胶带宽度不得超过45毫米，旨在减少快递包装废弃物、保障寄递安全。",
-      "publishedAt": "2026-07-02T10:30:00+08:00",
-      "source": "国家市场监督管理总局",
-      "url": "https://www.samr.gov.cn/xw/sj/art/2026/art_610bff79bb3a4abebe090198d79ba905.html",
-      "subCategory": "产业政策"
-    },
-    {
-      "id": "policy-20260702-006",
-      "title": "国内首个针对L2级辅助驾驶的强制性国家标准正式发布",
-      "summary": "工信部组织制定的强制性国家标准GB 47955—2026《智能网联汽车组合驾驶辅助系统安全要求》正式发布，2027年1月1日起实施，由华为引望、小米、比亚迪、特斯拉等企业联合起草。",
-      "publishedAt": "2026-07-02T10:05:00+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/971/447.htm",
-      "subCategory": "产业政策"
-    },
-    {
-      "id": "policy-20260702-003",
-      "title": "市场监管总局对火炬集团和鼎晖百孚各罚款175万元",
-      "summary": "市场监管总局对中山火炬集团和上海鼎晖百孚在未获批准前即实施取得中炬高新控制权的经营者集中行为作出行政处罚，鉴于无排除竞争效果且配合调查，两家企业各被罚175万元。",
-      "publishedAt": "2026-07-02T06:40:00+08:00",
-      "source": "新浪财经",
-      "url": "https://finance.sina.com.cn/roll/2026-07-02/doc-inifkcry3722165.shtml",
-      "subCategory": "反垄断"
     },
     {
       "id": "policy-20260701-005",
@@ -679,51 +724,6 @@
       "source": "IT之家",
       "url": "https://www.ithome.com/0/966/786.htm",
       "subCategory": "半导体出口管制"
-    },
-    {
-      "id": "policy-20260622-002",
-      "title": "6月LPR报价出炉：1年期为3.0%，5年期以上为3.5%",
-      "summary": "中国人民银行授权全国银行间同业拆借中心公布6月贷款市场报价利率（LPR），1年期LPR为3.0%，5年期以上LPR为3.5%，均与上月持平；由于6月20日为周六，LPR公告推迟至6月22日周一发布。",
-      "publishedAt": "2026-06-22T09:25:54+08:00",
-      "source": "中新网",
-      "url": "https://www.chinanews.com.cn/cj/2026-06-22/10644761.shtml",
-      "subCategory": "金融监管"
-    },
-    {
-      "id": "policy-20260622-001",
-      "title": "商务部新闻发言人就将10家美国实体列入出口管制管控名单答记者问",
-      "summary": "商务部新闻发言人就2026年6月22日宣布将10家美国实体列入出口管制管控名单一事回答记者提问，说明此举是对美方将中国实体列入出口管制清单的对等反制措施，维护中国国家安全和利益的必要行动。",
-      "publishedAt": "2026-06-22T09:10:00+08:00",
-      "source": "商务部",
-      "url": "https://www.mofcom.gov.cn/xwfb/xwfyrth/art/2026/art_239eb37f45434cb09769ade0f7a78092.html",
-      "subCategory": "出口管制"
-    },
-    {
-      "id": "policy-20260621-001",
-      "title": "截至 6 月 20 日，2026 年消费品以旧换新惠及 1.36 亿人次、带动销售额超 1 万亿元",
-      "summary": "商务部数据显示，截至6月20日2026年消费品以旧换新政策已惠及1.36亿人次，带动销售额突破1万亿元；其中汽车以旧换新成交342.8万辆、销售额5552.4亿元，家电与数码产品4516.3亿元；主管部门将于月底前完成2000亿元设备更新资金及62.5亿元第三批消费补贴拨付。",
-      "publishedAt": "2026-06-21T22:37:47+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/966/734.htm",
-      "subCategory": "产业政策"
-    },
-    {
-      "id": "policy-20260621-002",
-      "title": "2026年APEC工商领导人中国论坛在京举办",
-      "summary": "2026年APEC工商领导人中国论坛于6月21日在北京召开，主题为「开放·互通·协同：链接亚太·共创未来」；围绕亚太自贸区新共识、互联互通及数字创新赋能三大议题深入讨论，是2026年APEC工商界系列活动的重要组成部分。",
-      "publishedAt": "2026-06-21T21:40:00+08:00",
-      "source": "证券时报",
-      "url": "https://www.stcn.com/article/detail/3970627.html",
-      "subCategory": "海外政策"
-    },
-    {
-      "id": "policy-20260618-001",
-      "title": "科创板再给硬科技\"开绿灯\"",
-      "summary": "上交所发布AI大模型企业上市审核指引和科创板申报规则修订。支持尚未形成收入规模的优质AI大模型企业适用第五套标准，同时将量子科技、机器人、氢能等未来产业纳入支持范畴。政策强化了对技术先进性、阶段性成果、商业化安排和合规要求的把关，提高了保荐机构的核查责任。",
-      "publishedAt": "2026-06-18",
-      "source": "虎嗅网",
-      "url": "https://www.huxiu.com/article/4868264.html",
-      "subCategory": "产业政策"
     }
   ]
 }
