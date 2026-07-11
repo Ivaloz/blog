@@ -3,8 +3,35 @@
   "slug": "tech",
   "title": "科技新闻",
   "description": "前沿科技、互联网产品、芯片硬件、开源生态。",
-  "updatedAt": "2026-07-11T00:20:00+08:00",
+  "updatedAt": "2026-07-11T08:35:00+08:00",
   "items": [
+    {
+      "title": "英伟达 RTX 5090 SE 显卡规格曝光：24GB 显存、384-bit 位宽",
+      "summary": "据外媒报道，英伟达计划推出 GeForce RTX 5090 SE 显卡，配备 24GB GDDR7 显存、384-bit 位宽，性能定位介于 RTX 5080 与 RTX 5090 之间，采用 GB202 核心。",
+      "publishedAt": "2026-07-11T08:29:00+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/975/385.htm",
+      "subCategory": "芯片硬件",
+      "id": "tech-20260711-001"
+    },
+    {
+      "title": "无法完全关闭：39 页起诉书指出微软 Win11 内置 GDID 追踪器",
+      "summary": "一份 39 页联邦起诉书披露，Windows 11 内置的全局设备标识符（GDID）无法被完全关闭，该标识符在用户使用微软账户登录后写入注册表，切换本地账户、关闭诊断数据等操作均无法彻底消除该追踪机制。",
+      "publishedAt": "2026-07-11T08:05:00+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/975/381.htm",
+      "subCategory": "操作系统",
+      "id": "tech-20260711-003"
+    },
+    {
+      "title": "SK 海力士 CEO 郭鲁正：内存行业明年将迎来史上最严峻局势，供不应求局面或持续至下一个十年",
+      "summary": "SK 海力士 CEO 郭鲁正表示，全球 DRAM 供需紧张局面预计将持续至 2030 年后，明年可能是内存行业历史上最困难的一年，公司仍在评估美国建厂选址，优先考虑土地、电力、水资源及劳动力成本等因素。",
+      "publishedAt": "2026-07-11T07:49:00+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/975/380.htm",
+      "subCategory": "芯片硬件",
+      "id": "tech-20260711-002"
+    },
     {
       "id": "tech-20260710-102",
       "title": "募资265亿美元超阿里创外企赴美IPO纪录：SK海力士ADR预示开盘价180美元，首日涨超20%",
@@ -105,6 +132,24 @@
       "subCategory": "消费电子"
     },
     {
+      "title": "SK海力士本周五登陆纳斯达克，募资265亿美元跻身大型IPO",
+      "summary": "SK 海力士将于本周五在纳斯达克挂牌上市，计划通过发行美国存托凭证募资约 265 亿美元，此次发行 1.779 亿份 ADR，每份定价 149 美元，对应韩国首尔交易所十分之一股普通股。",
+      "publishedAt": "2026-07-10T20:44:00+08:00",
+      "source": "36氪",
+      "url": "https://36kr.com/newsflashes/3889804779731457",
+      "subCategory": "芯片硬件",
+      "id": "tech-20260711-004"
+    },
+    {
+      "title": "CodeQL 2.26.0 adds Kotlin 2.4.0 support and AI prompt injection detection",
+      "summary": "GitHub 发布代码扫描引擎 CodeQL 2.26.0 版本，新增对 Kotlin 2.4.0 的支持，并推出新查询规则用于检测流入 AI 模型系统提示词的不可信用户输入，同时扩展了对 Go、C# 等语言的安全检测能力。",
+      "publishedAt": "2026-07-10T20:40:56Z",
+      "source": "GitHub Changelog",
+      "url": "https://github.blog/changelog/2026-07-10-codeql-2-26-0-adds-kotlin-2-4-0-support-and-ai-prompt-injection-detection/",
+      "subCategory": "开发者工具",
+      "id": "tech-20260711-006"
+    },
+    {
       "id": "tech-20260710-106",
       "title": "三星Galaxy Z Fold8系列美版价格泄露：Ultra版2099美元起，涨价100美元",
       "summary": "据韩媒报道，三星Galaxy Z Fold8系列256GB版本美版起售价1899美元，Ultra版同容量为2099美元，较上代Z Fold7涨价100美元，官方价格仍在最终审核中，新机预计7月22日发布。",
@@ -132,6 +177,15 @@
       "subCategory": "网络基础设施"
     },
     {
+      "title": "Clearer names for secret scanning detector types",
+      "summary": "GitHub 更新了密钥扫描检测器类型的命名方式，将\"非提供商模式\"改为\"通用模式\"，\"Copilot 密钥扫描\"改为\"AI 检测密钥\"，官方说明此次调整仅涉及术语，不影响检测功能、API 行为或 webhook 事件。",
+      "publishedAt": "2026-07-10T20:06:10Z",
+      "source": "GitHub Changelog",
+      "url": "https://github.blog/changelog/2026-07-10-clearer-names-for-secret-scanning-detector-types/",
+      "subCategory": "开发者工具",
+      "id": "tech-20260711-007"
+    },
+    {
       "id": "tech-20260710-118",
       "title": "上纬新材将在WAIC 2026发布全球首款可变形个人机器人启元T1",
       "summary": "上纬新材宣布将在WAIC 2026发布可变形个人机器人\"启元T1\"，该产品可在轮式人形与四足形态间自动切换，是公司首款面向家庭消费场景的机器人产品。",
@@ -157,6 +211,24 @@
       "source": "IT之家",
       "url": "https://www.ithome.com/0/974/578.htm",
       "subCategory": "芯片硬件"
+    },
+    {
+      "title": "Per-user states for multi-user budgets in the REST API",
+      "summary": "GitHub 为 REST API 新增按用户查看多用户预算消耗情况的接口，企业所有者与账单管理员可通过单次调用获取所有用户的预算使用进度，并支持按消耗占比筛选和排序，此前需逐个用户单独查询。",
+      "publishedAt": "2026-07-10T15:07:23Z",
+      "source": "GitHub Changelog",
+      "url": "https://github.blog/changelog/2026-07-10-per-user-states-for-multi-user-budgets-in-the-rest-api/",
+      "subCategory": "开发者工具",
+      "id": "tech-20260711-008"
+    },
+    {
+      "title": "Progress urges ShareFile admins to shut down servers over \"credible\" threat",
+      "summary": "Progress 软件公司要求使用 Storage Zone Controllers 的 ShareFile 客户立即关闭本地服务器，称已发现针对该产品的可信外部安全威胁，并临时禁用受影响客户账户访问，将在 24 小时内提供后续更新。",
+      "publishedAt": "2026-07-10T12:26:00-04:00",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/progress-urges-sharefile-customers-to-shut-down-servers-over-credible-threat/",
+      "subCategory": "安全漏洞",
+      "id": "tech-20260711-005"
     },
     {
       "id": "tech-20260710-101",
@@ -651,78 +723,6 @@
       "publishedAt": "2026-07-08T10:30:00+08:00",
       "source": "新浪科技",
       "url": "https://finance.sina.com.cn/tech/roll/2026-07-08/doc-inihaieh4805292.shtml",
-      "subCategory": "消费电子"
-    },
-    {
-      "id": "tech-20260708-011",
-      "title": "deepin 25.2.0 系统更新发布：Treeland 窗口管理器大幅优化，新增图片内容搜索",
-      "summary": "deepin 25.2.0发布，累计修复Treeland窗口管理器20余项稳定性问题，涉及登录注销、多任务视图、窗口焦点切换等场景；新增图片内容搜索、动态壁纸、定时待机功能，并更新x86/ARM64/龙芯内核及OpenSSL、OpenSSH等安全组件。",
-      "publishedAt": "2026-07-08T09:46:00+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/973/858.htm",
-      "subCategory": "操作系统"
-    },
-    {
-      "id": "tech-20260708-010",
-      "title": "微软Xbox大规模裁员重创id Software与黑曜石，近半数员工被波及",
-      "summary": "微软Xbox本轮裁员共涉及3200人，约占部门员工两成，其中1600人已于7月6日离职；《毁灭战士》开发商id Software约50%员工被裁，超90人离职，黑曜石娱乐裁减60至70人，占其员工约25%。",
-      "publishedAt": "2026-07-08T08:21:00+08:00",
-      "source": "新浪科技",
-      "url": "https://finance.sina.com.cn/tech/digi/2026-07-08/doc-inifzwqn4927885.shtml",
-      "subCategory": "消费电子"
-    },
-    {
-      "id": "tech-20260708-007",
-      "title": "Meta 出新招：若智能眼镜隐私指示灯被人为破坏，就自动关闭摄像头",
-      "summary": "Meta宣布为智能眼镜新增反破解机制，若隐私指示灯被人为损坏或遮挡，设备将自动关闭摄像头；此前有用户曾找到绕过指示灯检测的方法，促使公司加强防护。",
-      "publishedAt": "2026-07-08T08:08:54+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/973/834.htm",
-      "subCategory": "XR-AR-VR"
-    },
-    {
-      "id": "tech-20260708-006",
-      "title": "不再强制使用微软账号，必应 Bing 现已开放谷歌、苹果账户登录",
-      "summary": "微软静默更新必应Bing登录方式，现允许用户使用谷歌或苹果账户直接登录，无需强制注册微软账号；采用第三方账户登录后不再自动将邮箱地址在后台注册为微软账号。",
-      "publishedAt": "2026-07-08T07:56:23+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/973/831.htm",
-      "subCategory": "互联网产品"
-    },
-    {
-      "id": "tech-20260708-005",
-      "title": "苹果推送 iOS / iPadOS 26.6 第四个公测版，修复 Bug / 改进安全",
-      "summary": "苹果推送iOS/iPadOS/macOS Tahoe/watchOS/tvOS 26.6第四个公测版，新增屏蔽联系人数量达2万时的提示，并为地图应用引入Blastdoor安全框架以防御零点击攻击、提升数据隐私保护。",
-      "publishedAt": "2026-07-08T07:47:10+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/973/830.htm",
-      "subCategory": "操作系统"
-    },
-    {
-      "id": "tech-20260708-004",
-      "title": "海韵官网已录入英伟达 RTX 50 SUPER 系列显卡，TDP 数据曝光",
-      "summary": "电源厂商海韵官网功率计算器新增未发布的GeForce RTX 5080 SUPER，显示其TDP为415W，较现款RTX 5080的360W高出55W，传闻该卡及5070 Ti SUPER将配备24GB GDDR7显存。",
-      "publishedAt": "2026-07-08T07:41:11+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/973/829.htm",
-      "subCategory": "芯片硬件"
-    },
-    {
-      "id": "tech-20260708-009",
-      "title": "为增程 SUV 铺路，小米汽车官宣“一个关于空间和生活的新名字”SkyNomad",
-      "summary": "小米汽车官宣旗下增程SUV子品牌命名为SkyNomad（中文名小米澎程），计划2026年下半年推出五座和七座版本，七座版配备可伸缩车顶装置，可用于露营场景。",
-      "publishedAt": "2026-07-08T07:35:32+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/973/827.htm",
-      "subCategory": "智能汽车"
-    },
-    {
-      "id": "tech-20260708-002",
-      "title": "谷歌官宣 8 月 12 日发布 Pixel 11 系列手机",
-      "summary": "谷歌宣布将于8月12日纽约当地时间18点（北京时间13日6点）发布Pixel 11系列手机，取消128GB版本，全系起售容量升至256GB，标准版起售价约合999欧元，另有折叠版Pro Fold机型。",
-      "publishedAt": "2026-07-08T07:22:52+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/973/821.htm",
       "subCategory": "消费电子"
     }
   ]

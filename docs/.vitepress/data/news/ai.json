@@ -3,7 +3,7 @@
   "slug": "ai",
   "title": "AI 与大模型",
   "description": "大模型、Agent、AI 编程、推理框架、开源模型的发布与落地。",
-  "updatedAt": "2026-07-11T00:20:00+08:00",
+  "updatedAt": "2026-07-11T08:35:00+08:00",
   "items": [
     {
       "id": "ai-20260710-108",
@@ -31,6 +31,33 @@
       "source": "IT之家",
       "url": "https://www.ithome.com/0/975/327.htm",
       "subCategory": "大模型"
+    },
+    {
+      "title": "Can Skills Improve Codex's Data Analysis Capabilities?",
+      "summary": "研究探讨可复用的「Skills」技能文件能否提升Codex的数据分析能力，通过开源DataCOPE框架在科学与商业分析任务上测试，发现将隐含规则、标准流程与常见错误模式封装为技能后可提高对相关新任务的准确率，但人工校验仍不可少。(估算)",
+      "publishedAt": "2026-07-10T19:00:00+08:00",
+      "source": "Hugging Face Blog",
+      "url": "https://huggingface.co/blog/Ningyu/skills-improve-codex-data-analysis",
+      "subCategory": "AI编程",
+      "id": "ai-20260711-006"
+    },
+    {
+      "title": "Can Codex Handle Real-World Data Analysis?",
+      "summary": "文章评测OpenAI Codex在真实数据分析任务中的表现，发现其在规则清晰、数据可见、模式明确的结构化任务上较稳定，但存在业务概念理解偏差、多表关联错误、指标定义不清和数据质量差四类常见失败模式，建议将其用作协作工具而非自主分析师。(估算)",
+      "publishedAt": "2026-07-10T18:00:00+08:00",
+      "source": "Hugging Face Blog",
+      "url": "https://huggingface.co/blog/Ningyu/codex-data-analysis",
+      "subCategory": "AI编程",
+      "id": "ai-20260711-005"
+    },
+    {
+      "title": "GPT-5.6一发布，Claude终于舍得重置Fable 5额度了",
+      "summary": "OpenAI发布新一代模型家族GPT-5.6（含Sol、Terra、Luna三档），在编程与知识工作等方面提升表现，并推出支持多智能体并行处理的「极限模式」及ChatGPT Work产品；Anthropic随后回应称重置了Claude Fable 5用户的使用额度。",
+      "publishedAt": "2026-07-10T17:41:25+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/07/447691.html",
+      "subCategory": "大模型",
+      "id": "ai-20260711-003"
     },
     {
       "id": "ai-20260710-105",
@@ -76,6 +103,33 @@
       "source": "新华网",
       "url": "https://www.news.cn/fortune/20260710/35cd0e84f4fc4ed28c5b916a6622c747/c.html",
       "subCategory": "推理框架"
+    },
+    {
+      "title": "AI华语歌，终于能听了！从零预训练十亿参数，告别「人机味」",
+      "summary": "中文AI音乐项目「歌歌AI」发布从零预训练的十亿参数模型，专门针对华语歌曲的声调、咬字与情感表达进行优化，解决此前AI华语歌曲常见的母语羞耻、咬字飘忽等问题，生成歌曲、录音制品和MV已可上架抖音、剪映、汽水音乐等平台。",
+      "publishedAt": "2026-07-10T12:44:38+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/07/447602.html",
+      "subCategory": "AI音频",
+      "id": "ai-20260711-002"
+    },
+    {
+      "title": "行业首个具身原生世界动作模型来了！蚂蚁灵波发布LingBot-VA 2.0",
+      "summary": "蚂蚁灵波发布LingBot-VA 2.0，采用自回归架构从零预训练，围绕机器人在真实物理世界中的感知、预测与控制需求原生设计，引入语义视觉动作分词器、因果预训练范式、MoE架构与异步推理机制，实现单卡150Hz实时推理效率。",
+      "publishedAt": "2026-07-10T11:28:59+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/07/447597.html",
+      "subCategory": "具身智能",
+      "id": "ai-20260711-001"
+    },
+    {
+      "title": "Anthropic highlights Claude Code's in-app browser on the desktop",
+      "summary": "Anthropic为Claude Code桌面版新增内置浏览器功能，可直接访问和交互网页、文档与设计稿；浏览器运行在独立沙盒环境中，与用户个人浏览数据隔离，会话是否保留可配置，此举被视为对同类桌面端浏览器功能的跟进。",
+      "publishedAt": "2026-07-10T10:54:00-07:00",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/07/10/anthropic-highlights-claude-codes-in-app-browser-on-the-desktop/",
+      "subCategory": "AI编程",
+      "id": "ai-20260711-004"
     },
     {
       "id": "ai-20260710-003",
@@ -670,60 +724,6 @@
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/",
       "subCategory": "AI应用"
-    },
-    {
-      "id": "ai-20260704-010",
-      "title": "宇树科技陈立：具身智能\"ChatGPT时刻\"需达成\"两个80%\"",
-      "summary": "在亚布力企业家论坛上，宇树科技联合创始人陈立提出具身智能突破的核心标准——在80%陷生场景中完成约80%任务，预计B2B场景2至5年内实现，消费级场景颀〈至10年以上。",
-      "publishedAt": "2026-07-04T16:42:00+08:00",
-      "source": "财联社",
-      "url": "https://www.cls.cn/detail/2417131",
-      "subCategory": "具身智能"
-    },
-    {
-      "id": "ai-20260704-006",
-      "title": "Hinton盛赞，Gemini核心贡献者演讲：未来会有数十亿超人级AI爱因斯坦",
-      "summary": "DeepMind研究员亚当·布朗在一场演讲中回顾AI数学能力从中学水平进步到国际数学奥赛金牌水平的历程，并提出AI科学研究将经历玩具、工具、人机协作到超人类四个阶段，演讲获图灵奖得主Hinton称赞。",
-      "publishedAt": "2026-07-04T14:30:00+08:00",
-      "source": "36氪",
-      "url": "https://36kr.com/p/3880834484613121",
-      "subCategory": "大模型"
-    },
-    {
-      "id": "ai-20260704-001",
-      "title": "光象科技累计完成数亿元天使轮融资，布局物理原生基座模型",
-      "summary": "光象科技完成累计数亿元天使轮融资，将聚焦物理原生基座模型研发与具身智能机器人商业化。其工业级机器人Phi-Bot X1已在2026 ATC展会上连续运行21.5小时无故障，应用于汽车产线焊接与上下料任务。",
-      "publishedAt": "2026-07-04T13:52:21+08:00",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/07/442958.html",
-      "subCategory": "具身智能"
-    },
-    {
-      "id": "ai-20260704-008",
-      "title": "辏火打劫！GPT-5.6三大模型全曝，定框7月7日？",
-      "summary": "据报道，OpenAI Codex应用代码泄露显示内部存在Sol、Terra、Luna三个GPT-5.6子模型及速度质量调节功能，消息称新模型可能于7月7日至9日发布，与Claude Fable 5限时优惠额度到期时间相近。",
-      "publishedAt": "2026-07-04T13:16:22+08:00",
-      "source": "新智元",
-      "url": "https://www.163.com/dy/article/L10D985L0511ABV6.html",
-      "subCategory": "大模型"
-    },
-    {
-      "id": "ai-20260704-007",
-      "title": "太蠢，不配用 Claude Fable 5？",
-      "summary": "有用户翻查日志发现，Claude Fable 5处理高难度编程任务时曾将请求标记为“TOO_DUMB_TO_NEED_FABLE”并转交Opus 4.8处理，其可见推理文本中还出现类似情绪化的简写表达，引发关于模型可解释性的讨论。",
-      "publishedAt": "2026-07-04T12:31:00+08:00",
-      "source": "36氪（爱范儿）",
-      "url": "https://36kr.com/p/3880806277754883",
-      "subCategory": "大模型"
-    },
-    {
-      "id": "ai-20260704-003",
-      "title": "继豆包后，阿里千问宣布拟人化互动类智能体、用户自建智能体7月10日下线",
-      "summary": "阿里千问平台公告称，因功能升级与维护，拟人化互动类智能体及用户自建智能体功能将于7月10日（App端7月15日）正式下线，下线后用户将无法访问相关配置与历史对话，需提前导出备份。",
-      "publishedAt": "2026-07-04T12:18:12+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/972/525.htm",
-      "subCategory": "Agent"
     }
   ]
 }

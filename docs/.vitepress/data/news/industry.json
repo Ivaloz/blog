@@ -3,7 +3,7 @@
   "slug": "industry",
   "title": "行业新闻",
   "description": "企业服务、SaaS、云计算、制造业、消费互联网的产业动态。",
-  "updatedAt": "2026-07-11T00:20:00+08:00",
+  "updatedAt": "2026-07-11T08:35:00+08:00",
   "items": [
     {
       "id": "industry-20260710-001",
@@ -139,6 +139,15 @@
       "source": "Gartner（IT-Online转载）",
       "url": "https://it-online.co.za/2026/07/09/customers-prefer-third-party-genai-to-chatbots/",
       "subCategory": "企业服务"
+    },
+    {
+      "title": "Windows Market Share Is Falling",
+      "summary": "据StatCounter统计，2026年6月Windows桌面操作系统全球份额降至56.55%，为多年来首次跌破60%。报道称与微软在系统中嵌入大量AI功能引发用户不满、以及Linux兼容性提升有关，同期Linux份额升至4.39%。",
+      "publishedAt": "2026-07-09",
+      "source": "PC Perspective（援引StatCounter数据）",
+      "url": "https://pcper.com/2026/07/windows-market-share-is-falling/",
+      "subCategory": "行业研报",
+      "id": "industry-20260711-003"
     },
     {
       "id": "industry-20260710-003",
@@ -348,6 +357,15 @@
       "subCategory": "SaaS"
     },
     {
+      "title": "SEMI and TechSearch International Release 2026 Edition of Worldwide Assembly & Test Facility Database",
+      "summary": "SEMI与TechSearch International联合发布2026版《全球封装测试厂数据库》，收录全球820余家半导体后道制造厂，较2025版750家扩容。逾360家工厂具备化合物半导体能力，逾170家聚焦AI/HPC市场。",
+      "publishedAt": "2026-07-07T09:00:00-05:00",
+      "source": "SEMI",
+      "url": "https://finance.yahoo.com/technology/articles/semi-techsearch-international-release-2026-140000065.html",
+      "subCategory": "半导体产业",
+      "id": "industry-20260711-004"
+    },
+    {
       "id": "industry-20260707-602",
       "title": "2026商业相关性报告：对话式商业正在改变消费者决策方式",
       "summary": "199IT发布的商业相关性报告指出，67%消费者期待网购具备对话式导购能力，59%表示平台若能精准荐品会更愿下单；但82%消费者曾遇搜索发现难题，71%搜索失败即离开网站，凸显对话式AI导购的增长空间。",
@@ -355,6 +373,15 @@
       "source": "199IT（新浪科技转载）",
       "url": "https://finance.sina.com.cn/tech/roll/2026-07-07/doc-inifxpif8270775.shtml",
       "subCategory": "消费零售"
+    },
+    {
+      "title": "Dealroom：2026年第一季度英国投资报告",
+      "summary": "2026年第一季度，英国科技企业获风险投资约78亿美元，同比增长60%，为2022年以来最强开局。人工智能企业融资58亿美元，同比增长176%，占全部风投74%。英国创新经济估值达1.3万亿美元，占欧洲风投投资比重41%。",
+      "publishedAt": "2026-07-07T05:11:00+08:00",
+      "source": "新浪科技（援引Dealroom）",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-07-07/doc-inifxhzh1608654.shtml",
+      "subCategory": "行业研报",
+      "id": "industry-20260711-001"
     },
     {
       "id": "industry-20260707-601",
@@ -382,6 +409,15 @@
       "source": "Archyde (转载自Gartner新闻室)",
       "url": "https://www.archyde.com/gartner-predicts-60-of-organizations-will-adopt-smaller-software-engineering-teams-by-2029/",
       "subCategory": "企业服务"
+    },
+    {
+      "title": "Luxury Is Back on Track, With Healthier Foundations (And AI Is Here To Stay)",
+      "summary": "BCG与Altagamma联合发布第12版《True-Luxury全球消费者洞察》报告，调研超1万名奢侈品消费者。报告预测2026财年行业增速2%至5%，2029年升至4%至7%；87%受访者每周使用AI，80%借助生成式AI辅助购买决策。",
+      "publishedAt": "2026-07-07",
+      "source": "BCG（联合Altagamma）",
+      "url": "https://www.bcg.com/publications/2026/luxury-healthier-foundations-and-genai",
+      "subCategory": "消费零售",
+      "id": "industry-20260711-002"
     },
     {
       "id": "industry-20260707-702",
@@ -688,42 +724,6 @@
       "source": "Gessey盖锡新能源",
       "url": "https://www.gessey.com/h-nd-48466.html",
       "subCategory": "制造业"
-    },
-    {
-      "id": "industry-20260702-204",
-      "title": "艾睿铂：2026年中国汽车出口1000万辆 同比增长41%",
-      "summary": "艾睿铂预测2026年中国汽车出口量将达1000万辆，同比增长41%，成为全球首个年出口千万辆汽车的国家。今年1至5月中国已出口405万辆汽车，其中新能源车183万辆。",
-      "publishedAt": "2026-07-02T20:31:00+08:00",
-      "source": "新浪科技（援引艾睿铂AlixPartners）",
-      "url": "https://finance.sina.com.cn/tech/roll/2026-07-02/doc-inifmmmw4155000.shtml",
-      "subCategory": "新能源汽车"
-    },
-    {
-      "id": "industry-20260702-004",
-      "title": "TrendForce：预聊2026年笔记本出货降13.6%",
-      "summary": "研究机构TrendForce预测，受存储与电源管理芯片等零部件成本上涨、终端定价提高及消费需求走弱影响，2026年全球笔记本电脑出货量将同比下降13.6%，其中苹果MacBook出货量逆势保持两位数增长。",
-      "publishedAt": "2026-07-02T20:26:00+08:00",
-      "source": "199IT/新浪科技",
-      "url": "https://finance.sina.com.cn/tech/roll/2026-07-02/doc-inifmmms5889135.shtml",
-      "subCategory": "行业研报"
-    },
-    {
-      "id": "industry-20260702-005",
-      "title": "影石：2026年Q1出货份额22%增66%",
-      "summary": "市场调研显示，影石创新2026年第一季度全球手持智能相机出货量份额达22%，同比增长66%，增速居行业首位，位列全球第二，仅次于大疆；其中全景相机品类份额达68%，位居第一。",
-      "publishedAt": "2026-07-02T20:25:00+08:00",
-      "source": "199IT/新浪科技",
-      "url": "https://finance.sina.com.cn/tech/roll/2026-07-02/doc-inifmmmw4151776.shtml",
-      "subCategory": "消费零售"
-    },
-    {
-      "id": "industry-20260702-201",
-      "title": "乘联分会：6月全国新能源乘用车厂商批发销量预估151万辆，同比增长22%",
-      "summary": "乘联分会数据显示，2026年6月全国新能源乘用车厂商批发销量预估151万辆，同比增长22%，环比增长12%；比亚迪以39.7万辆继续居首，吉利、奇瑞分列二三位，零跑首次反超特斯拉中国排名第四。",
-      "publishedAt": "2026-07-02T20:12:31+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/971/889.htm",
-      "subCategory": "新能源汽车"
     }
   ]
 }

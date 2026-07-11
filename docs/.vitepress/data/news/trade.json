@@ -3,8 +3,17 @@
   "slug": "trade",
   "title": "外贸资讯",
   "description": "亚马逊、TikTok Shop、阵里国际站、Shopify 等平台政策与跨境电商市场、独立站、物流支付、关税法规、选品趋势。",
-  "updatedAt": "2026-07-11T00:20:00+08:00",
+  "updatedAt": "2026-07-11T08:35:00+08:00",
   "items": [
+    {
+      "title": "SHEIN港股IPO获中国证监会备案",
+      "summary": "中国证监会国际合作司披露，跨境电商巨头SHEIN（希音国际控股有限公司）通过境内运营主体广州希音国际进出口有限公司提交材料，其境外发行上市备案获中国证监会正式受理，拟发行不超过341,613,000股境外上市普通股并在香港联交所挂牌。",
+      "publishedAt": "2026-07-10T19:40:32+08:00",
+      "source": "华声在线（转引证监会披露）",
+      "url": "https://huacheng.gz-cmc.com/pages/2026/07/10/2824941daa334041b5baf371ed36dff3.html",
+      "subCategory": "平台动态",
+      "id": "trade-20260711-002"
+    },
     {
       "id": "trade-20260710-101",
       "title": "Ozon计划2026年新增15个物流中心 投资超300亿卢布",
@@ -13,6 +22,15 @@
       "source": "AMZ123跨境导航",
       "url": "https://www.amz123.com/t/4f6jtzRs",
       "subCategory": "物流仓储"
+    },
+    {
+      "title": "服务800万跨境店铺的紫鸟浏览器母公司拟港股IPO",
+      "summary": "紫鸟科技（紫鸟浏览器母公司）向港交所提交上市申请，招股书显示2025年营收6.87亿元，其中逾八成来自浏览器订阅业务，近三年营收年复合增速51.7%，在国内跨境电商安全服务平台市占率达30.2%，居行业第一。",
+      "publishedAt": "2026-07-10T18:00:00+08:00",
+      "source": "雨果网",
+      "url": "https://www.cifnews.com/article/187418",
+      "subCategory": "平台动态",
+      "id": "trade-20260711-003"
     },
     {
       "id": "trade-20260710-102",
@@ -49,6 +67,15 @@
       "source": "AMZ123跨境导航",
       "url": "https://www.amz123.com/kx/WhSzeFum",
       "subCategory": "物流仓储"
+    },
+    {
+      "title": "Yandex Market上线竞品基准分析工具",
+      "summary": "俄罗斯电商平台Yandex Market在卖家后台推出\"市场平均指标\"分析模块，可基于品类、受众、流量规模及地域覆盖自动识别可比独立站与品牌官网，提供\"增长潜力\"与\"热门品类\"两个维度数据，帮助卖家优化弱势品类曝光表现，目前已面向全体注册卖家开放。",
+      "publishedAt": "2026-07-10T17:42:00+08:00",
+      "source": "AMZ123跨境导航",
+      "url": "https://www.amz123.com/kx/32b1tL7z",
+      "subCategory": "平台动态",
+      "id": "trade-20260711-004"
     },
     {
       "id": "trade-20260710-108",
@@ -157,6 +184,24 @@
       "source": "AMZ123跨境导航",
       "url": "https://www.amz123.com/kx/gpKRBmOV",
       "subCategory": "平台动态"
+    },
+    {
+      "title": "亚马逊欧英站7月20日起取消Buy Box参评资格预审",
+      "summary": "据雨果网跨境早报，亚马逊宣布自2026年7月20日起，德国、法国、意大利、西班牙及英国站点取消\"Buy Box参评资格预审\"环节，卖家listing可直接进入竞价池，但最终Featured Offer仍综合价格、物流时效、账户表现等指标评选。",
+      "publishedAt": "2026-07-10T09:38:00+08:00",
+      "source": "雨果网",
+      "url": "https://www.cifnews.com/article/187408",
+      "subCategory": "平台政策",
+      "id": "trade-20260711-001"
+    },
+    {
+      "title": "2026全球跨境电商交易博览会在杭州开幕",
+      "summary": "2026全球跨境电商交易博览会7月9日在杭州国际博览中心开幕，聚集超1500家产业带工厂、300余家服务商及40余个国内外平台代表，现场签约包括谷歌跨境加速中心在内的五大项目，并启动面向八个跨境电商综试区的产业带联动计划。",
+      "publishedAt": "2026-07-10T07:12:00+08:00",
+      "source": "杭州网",
+      "url": "https://hznews.hangzhou.com.cn/chengshi/content/2026-07/10/content_9252497.htm",
+      "subCategory": "平台动态",
+      "id": "trade-20260711-005"
     },
     {
       "id": "trade-20260710-001",
@@ -678,51 +723,6 @@
       "publishedAt": "2026-07-07T09:50:00+08:00",
       "source": "AMZ123跨境导航",
       "url": "https://www.amz123.com/kx/g4UxMZlo",
-      "subCategory": "平台动态"
-    },
-    {
-      "id": "trade-20260707-820",
-      "title": "Wildberries今日起上调卖家佣金，自发货模式最高增刊20个百分点",
-      "summary": "俄罗斯电商平台Wildberries自2026年7月7日起实施差异化佣金调整，平台仓配FBO卖家佣金上调5个百分点，自主备货发货FBS卖家佣金最高上调20个百分点，原因为燃油价格上涨推高物流成本。",
-      "publishedAt": "2026-07-07T09:30:00+08:00",
-      "source": "AMZ123",
-      "url": "https://www.amz123.com/kx/dDsDt0Gv",
-      "subCategory": "平台政策"
-    },
-    {
-      "id": "trade-20260707-705",
-      "title": "俄罗斯宠物营养添加剂需求同比增长14.5%",
-      "summary": "俄罗斯宠物营养品市场2026年上半年增长明显，猫狗功能性营养补充剂需求同比增长14.5%，莫斯科、圣彼得堡等高收入地区表现突出，进口关节护理与肠胃产品主要来自德国、美国及中国。",
-      "publishedAt": "2026-07-07",
-      "source": "AMZ123跨境导航",
-      "url": "https://www.amz123.com/kx/lCYv4Pfn",
-      "subCategory": "选品趋势"
-    },
-    {
-      "id": "trade-20260707-704",
-      "title": "Wildberries测试疑似AI评论图片标签功能",
-      "summary": "Wildberries在应用内测试疑似AI生成标签功能，通过算法识别评论图片是否经生成式AI处理或大幅编辑，平台称该标签仅用于提升内容透明度，不影响评论排序与展示。",
-      "publishedAt": "2026-07-07",
-      "source": "AMZ123跨境导航",
-      "url": "https://www.amz123.com/kx/OgMckWzx",
-      "subCategory": "平台动态"
-    },
-    {
-      "id": "trade-20260707-801",
-      "title": "浙江税务局：7月1日起出口发票须填写具体品名并与报关单保持一致",
-      "summary": "浙江省税务局发布通知，要求出口企业自7月1日起在发票上填写具体商品名称，不得使用笼统表述，且规格、数量须与报关单保持一致，否则可能影响出口退税审核进度。",
-      "publishedAt": "2026-07-07",
-      "source": "AMZ123跨境导航",
-      "url": "https://www.amz123.com/kx/3QcCBCHz",
-      "subCategory": "关税法规"
-    },
-    {
-      "id": "trade-20260707-802",
-      "title": "Shopee马来西亚VIP会员突破100万 人均消费达普通用户1.2倍",
-      "summary": "Shopee马来西亚站披露，其VIP会员订阅服务用户已突破100万，会员人均消费为普通用户的1.2倍，新订阅用户可获赠三个月ChatGPT Go及一个月Duolingo会员。",
-      "publishedAt": "2026-07-07",
-      "source": "AMZ123跨境导航",
-      "url": "https://www.amz123.com/kx/1488rWaz",
       "subCategory": "平台动态"
     }
   ]

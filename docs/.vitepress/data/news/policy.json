@@ -3,7 +3,7 @@
   "slug": "policy",
   "title": "政策信息",
   "description": "国家与地方政策、监管动态、产业扶持与合规要求。",
-  "updatedAt": "2026-07-11T00:20:00+08:00",
+  "updatedAt": "2026-07-11T08:35:00+08:00",
   "items": [
     {
       "id": "policy-20260710-101",
@@ -15,6 +15,24 @@
       "subCategory": "跨境贸易"
     },
     {
+      "title": "APEC数字和人工智能部长会议及数字周将于7月在成都举行",
+      "summary": "工业和信息化部召开新闻通气会介绍，亚太经合组织2026年数字和人工智能部长会议及数字周相关活动将于7月16日至24日在四川成都举办，包括APEC电信工作组第73次会议、部长会议及数智赋能高级别对话，是中国时隔24年再次主办电信部长级会议。",
+      "publishedAt": "2026-07-10T16:52:00+08:00",
+      "source": "工业和信息化部（新浪财经转发）",
+      "url": "https://finance.sina.com.cn/jjxw/2026-07-10/doc-inihifyc5218006.shtml",
+      "subCategory": "数字经济",
+      "id": "policy-20260711-003"
+    },
+    {
+      "title": "市场监管总局曝光一批\"内卷式\"竞争严重违法失信名单",
+      "summary": "国家市场监督管理总局集中曝光因生产销售不合格产品、无证生产、虚假宣传等引发\"内卷式\"竞争问题的多家经营主体，包括泉州某卫浴企业、固原某塑料制品加工点及天津某生物科技公司，涉事主体被列入严重违法失信名单。",
+      "publishedAt": "2026-07-10T16:06:34+08:00",
+      "source": "新华社",
+      "url": "https://www.news.cn/fortune/20260710/aee03d4972de417ab83c0ea63d5f5625/c.html",
+      "subCategory": "反垄断",
+      "id": "policy-20260711-002"
+    },
+    {
       "id": "policy-20260710-102",
       "title": "关于《道路机动车辆生产企业及产品公告》（第409批）和《享受车船税减免优惠的节约能源 使用新能源汽车车型目录》（第八十八批）拟发布内容的公示",
       "summary": "工业和信息化部装备工业一司发布公示，拟发布道路机动车辆生产企业及产品公告第409批及新能源汽车车船税优惠车型目录第88批，公示期为2026年7月11日至17日，涉及671户企业申报的2109个新产品。",
@@ -24,6 +42,15 @@
       "subCategory": "新能源政策"
     },
     {
+      "title": "中央网信办从严处置一批短视频内容标注不规范的账号和平台",
+      "summary": "中央网信办通报称，自今年5月部署推进短视频内容标注工作以来，两个月内主要平台已清理违规短视频逾24.1万条，处置违规账号逾2.1万个，纠正或补充标注短视频逾127.5万次，涉及利用虚构剧情博取同情、渲染悲情等问题，后续将持续从严处置并公开曝光。",
+      "publishedAt": "2026-07-10T10:05:58+08:00",
+      "source": "新华社",
+      "url": "https://www.news.cn/politics/20260710/7526701a318449f1a2d94489af87a1fb/c.html",
+      "subCategory": "AI监管",
+      "id": "policy-20260711-001"
+    },
+    {
       "id": "policy-20260710-103",
       "title": "Roadmap for collaboration UK-Spain",
       "summary": "英国财政大臣里夫斯与西班牙第一副首相夸尔波7月9日在布鲁塞尔签署英西合作路线图，聚焦服务贸易与商务人员流动、专业资格互认、战略投资、经济安全及借助人工智能助力中小企业发展等合作领域。",
@@ -31,6 +58,15 @@
       "source": "英国财政部",
       "url": "https://www.gov.uk/government/news/roadmap-for-collaboration-uk-spain",
       "subCategory": "海外政策"
+    },
+    {
+      "title": "SEC Office of Municipal Securities Updates FAQs for Registration of Municipal Advisors",
+      "summary": "美国证券交易委员会市政证券办公室更新市政顾问注册常见问题解答，就P3市场参与者是否须注册为市政顾问、远程办公地点是否构成需披露的\"办公室\"，以及市政证券定价咨询中的记录保存义务等三方面提供进一步指引。",
+      "publishedAt": "2026-07-10",
+      "source": "U.S. Securities and Exchange Commission",
+      "url": "https://www.sec.gov/newsroom/press-releases/2026-66-sec-office-municipal-securities-updates-faqs-registration-municipal-advisors",
+      "subCategory": "金融监管",
+      "id": "policy-20260711-004"
     },
     {
       "id": "policy-20260709-001",
@@ -58,6 +94,15 @@
       "source": "The White House",
       "url": "https://www.whitehouse.gov/fact-sheets/2026/07/fact-sheet-president-donald-j-trump-adjusts-imports-of-commercial-aircraft-jet-engines-and-aircraft-and-engine-parts-into-the-united-states/",
       "subCategory": "跨境贸易"
+    },
+    {
+      "title": "RentGrow to Pay $2.25 Million to Settle FTC Allegations the Company Violated the Fair Credit Reporting Act and FTC Act",
+      "summary": "美国联邦贸易委员会宣布，租房资信审查公司RentGrow将支付225万美元和解其违反《公平信用报告法》和《联邦贸易委员会法》的指控，涉及未防止重复犯罪与驱逐记录、未披露全部数据来源及不当处理消费者异议等问题。",
+      "publishedAt": "2026-07-09",
+      "source": "Federal Trade Commission",
+      "url": "https://www.ftc.gov/news-events/news/press-releases/2026/07/rentgrow-pay-225-million-settle-ftc-allegations-company-violated-fair-credit-reporting-act-ftc-act",
+      "subCategory": "金融监管",
+      "id": "policy-20260711-005"
     },
     {
       "id": "policy-20260708-102",
@@ -679,51 +724,6 @@
       "source": "世界互联网大会",
       "url": "https://cn.wicinternet.org/2026-06/26/content_38851005.htm",
       "subCategory": "数字经济"
-    },
-    {
-      "id": "policy-20260625-003",
-      "title": "国家发改委与国家能源局联合印发《新型能源体系建设\"十五五\"规划》",
-      "summary": "国家发展改革委和国家能源局联合印发《新型能源体系建设\"十五五\"规划》，提出2030年新能源发电量占比达到30%、可再生能源制氢规模达200万吨，并强化核聚变、太空电站等前沿能源技术研究布局。",
-      "publishedAt": "2026-06-25T19:29:00+08:00",
-      "source": "证券时报",
-      "url": "https://www.stcn.com/article/detail/3980380.html",
-      "subCategory": "新能源政策"
-    },
-    {
-      "id": "policy-20260625-002",
-      "title": "谷歌前 CEO 施密特批中国 AI 开源：不受我们控制，我很不喜欢",
-      "summary": "前谷歌CEO施密特公开批评中国AI开源，称相关AI技术\"不受美国及任何方控制\"；承认美国出口管制效果趋弱，中美AI能力差距已缩短至约六个月。",
-      "publishedAt": "2026-06-25",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/968/511.htm",
-      "subCategory": "海外政策"
-    },
-    {
-      "id": "policy-20260625-001",
-      "title": "我国牵头制定全球首个自动驾驶系统全球技术法规获批发布",
-      "summary": "中国主导的全球首个自动驾驶系统全球技术法规（ADS GTR）在联合国日内瓦WP.29会议获批发布，建立跨国统一安全标准和测试方法，中国担任工作组副主席及自动驾驶功能需求委员会联合主席。",
-      "publishedAt": "2026-06-25",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/968/413.htm",
-      "subCategory": "产业政策"
-    },
-    {
-      "id": "policy-20260622-003",
-      "title": "40 款移动应用违法违规收集使用个人信息被通报",
-      "summary": "国家互联网信息办公室通报40款违法违规收集使用个人信息的移动应用程序，涉及过度索取权限、强制用户同意等问题；被通报应用须在规定期限内完成整改，严重违规者将面临下架处理，是监管部门持续推进App个人信息保护专项治理行动的组成部分。",
-      "publishedAt": "2026-06-22T10:31:42+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/966/804.htm",
-      "subCategory": "数据安全"
-    },
-    {
-      "id": "policy-20260622-004",
-      "title": "财政部：在政府采购活动中，不得采购 46 家美国企业（不包括在华美资企业）生产的产品",
-      "summary": "财政部发布通知，禁止政府采购活动中采购46家美国企业（不含在华美资企业）生产的产品，被禁企业包括洛克希德·马丁、雷神、波音防务等国防承包商，是中方对美出口管制措施的对等反制行动之一。",
-      "publishedAt": "2026-06-22T09:39:06+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/966/786.htm",
-      "subCategory": "半导体出口管制"
     }
   ]
 }
