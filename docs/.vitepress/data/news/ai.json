@@ -3,8 +3,35 @@
   "slug": "ai",
   "title": "AI 与大模型",
   "description": "大模型、Agent、AI 编程、推理框架、开源模型的发布与落地。",
-  "updatedAt": "2026-07-11T08:35:00+08:00",
+  "updatedAt": "2026-07-11T17:20:00+08:00",
   "items": [
+    {
+      "title": "GPT-5.6一小时解开50年数学猜想，700词Prompt驾驭64个子Agent",
+      "summary": "OpenAI研究员称，GPT-5.6用一份700词提示词调度64个并行子Agent，将图论中的循环双重覆盖猜想转化为线性方程组求解，不到一小时完成证明，展示了动态资源分配与独立验证的Agent编排方法。",
+      "publishedAt": "2026-07-11T13:30:11+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/07/447873.html",
+      "subCategory": "Agent",
+      "id": "ai-20260711-101"
+    },
+    {
+      "title": "Meta's Muse Spark 1.1 outperforms GLM-5.2 in coding and costs slightly less",
+      "summary": "Meta发布Muse Spark 1.1模型，编程基准得分71.3，超过智谱GLM-5.2的68.8分，单任务成本约0.26美元、低于GLM-5.2的0.37美元，幻觉率从73%降至38%，上下文窗口扩展至100万token。",
+      "publishedAt": "2026-07-11",
+      "source": "The Decoder",
+      "url": "https://the-decoder.com/metas-muse-spark-1-1-outperforms-glm-5-2-in-coding-and-costs-slightly-less/",
+      "subCategory": "大模型",
+      "id": "ai-20260711-102"
+    },
+    {
+      "title": "OpenAI admits it \"didn't get everything quite right\" with ChatGPT Work launch and scrambles to fix UX and costs",
+      "summary": "OpenAI高管承认ChatGPT Work与GPT-5.6 Sol上线后暴露多项问题，包括高算力选项消耗过快、桌面端改版导致多智能体工作流退化及Codex去留信息混乱，已两次重置用量限制并计划下周修复体验。",
+      "publishedAt": "2026-07-11",
+      "source": "The Decoder",
+      "url": "https://www.the-decoder.com/openai-admits-it-didnt-get-everything-quite-right-with-chatgpt-work-launch-and-scrambles-to-fix-ux-and-costs/",
+      "subCategory": "Agent",
+      "id": "ai-20260711-103"
+    },
     {
       "id": "ai-20260710-108",
       "title": "AI生物研发进入\"操作系统时代\"，许锦波团队MoleculeOS正式开放",
@@ -697,33 +724,6 @@
       "source": "量子位",
       "url": "https://www.qbitai.com/2026/07/443241.html",
       "subCategory": "论文进展"
-    },
-    {
-      "id": "ai-20260705-601",
-      "title": "Grok Imagine Is Done: xAI Completes Image Generation Feature",
-      "summary": "7月5日，马斯克在X上发布\"Done with Grok Imagine\"，宣布xAI旗下图像与视频生成功能Grok Imagine开发完成。该功能基于xAI自研Aurora模型将文本提示转化为图像，此前已分批向SuperGrok、Premium+及Heavy用户开放，标志着Grok正式进入多模态领域。",
-      "publishedAt": "2026-07-05",
-      "source": "Basenor",
-      "url": "https://www.basenor.com/blogs/news/grok-imagine-is-done-xai-completes-image-generation-feature",
-      "subCategory": "AI视频"
-    },
-    {
-      "id": "ai-20260705-701",
-      "title": "UI-MOPD: Multi-Platform On-Policy Distillation for Continual GUI Agent Learning",
-      "summary": "研究提出跨平台GUI智能体持续学习方法UI-MOPD及配套数据集Uni-GUI，通过多教师蒸馏与平台条件策略迁移行为模式，在OSWorld和MobileWorld上分别取得38.2%和12.0%的任务成功率。",
-      "publishedAt": "2026-07-05",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2607.04425",
-      "subCategory": "论文进展"
-    },
-    {
-      "id": "ai-20260704-005",
-      "title": "Midjourney在版权诉讼中要求好莱坞片厂披露AI使用细节",
-      "summary": "Midjourney在与迪士尼、环球影业、华纳兄弟的版权诉讼中要求扩大证据开示范围，认为此前仅要求片厂披露面向消费者的AI产出的裁定让片厂能挖选对己方有利的材料，要求公开其内部使用生成式AI的提示词和输出。",
-      "publishedAt": "2026-07-04T18:00:05Z",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/",
-      "subCategory": "AI应用"
     }
   ]
 }

@@ -3,8 +3,170 @@
   "slug": "tech",
   "title": "科技新闻",
   "description": "前沿科技、互联网产品、芯片硬件、开源生态。",
-  "updatedAt": "2026-07-11T08:35:00+08:00",
+  "updatedAt": "2026-07-11T17:20:00+08:00",
   "items": [
+    {
+      "title": "盖世小鸡公布《如龙》联名G7 Pro手柄",
+      "summary": "盖世小鸡推出《如龙》联名授权手柄G7 Pro，并预告将与多款游戏及创作者推出后续联名产品。",
+      "publishedAt": "2026-07-11T16:40:18+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/975/510.htm",
+      "subCategory": "消费电子",
+      "id": "tech-20260711-107"
+    },
+    {
+      "title": "东风风神L8Y/L8+/L9三款新车官宣即将登场",
+      "summary": "东风风神公布L8Y、L8+、L9三款新能源车型，分别主打舒适座舱、智能驾驶辅助与七座大空间，暂未披露具体规格及上市时间。",
+      "publishedAt": "2026-07-11T16:24:51+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/975/497.htm",
+      "subCategory": "智能汽车",
+      "id": "tech-20260711-109"
+    },
+    {
+      "title": "Meta CTO称公司正开发多款下一代VR头显",
+      "summary": "Meta首席技术官博斯沃思表示公司并未放弃VR业务，将继续投入资源，多款下一代头显设备预计在9月Connect大会上公布。",
+      "publishedAt": "2026-07-11T16:24:27+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/975/495.htm",
+      "subCategory": "XR-AR-VR",
+      "id": "tech-20260711-102"
+    },
+    {
+      "title": "机械革命发布无界14 Max Carbon/16 Max轻薄本，搭载Lunar Lake",
+      "summary": "机械革命推出两款轻薄本，14英寸版采用一体式碳纤维机身及2.8K 120Hz OLED屏，16英寸版约重1.25公斤，均搭载英特尔第二代酷睿Ultra处理器。",
+      "publishedAt": "2026-07-11T16:20:42+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/975/494.htm",
+      "subCategory": "消费电子",
+      "id": "tech-20260711-105"
+    },
+    {
+      "title": "AMD发布《无畏契约》VCTCN官方装备2026典藏版",
+      "summary": "AMD在BW2026期间发布VALORANT主题装备典藏版，含锐龙7 9800X3D处理器、Radeon RX 9070 XT显卡等4款产品，将在成都总决赛现场赠予粉丝。",
+      "publishedAt": "2026-07-11T16:11:20+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/975/488.htm",
+      "subCategory": "消费电子",
+      "id": "tech-20260711-108"
+    },
+    {
+      "title": "全球首座整车级涉氢三高环境风洞在武汉投用",
+      "summary": "全球首座整车级涉氢三高环境风洞7月10日在武汉经开区投用，温度范围-43至60摄氏度，可对氢燃料电池车、eVTOL等开展极端环境测试。",
+      "publishedAt": "2026-07-11T16:07:08+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/975/483.htm",
+      "subCategory": "智能汽车",
+      "id": "tech-20260711-110"
+    },
+    {
+      "title": "岚图梦想家9官图公布，定位纯电豪华旗舰MPV",
+      "summary": "岚图梦想家9官图发布，车身长5325毫米、轴距3200毫米，采用升降立标与龙鳞纹专属纹饰，提供插电混动与纯电动力版本。",
+      "publishedAt": "2026-07-11T16:02:09+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/975/480.htm",
+      "subCategory": "智能汽车",
+      "id": "tech-20260711-103"
+    },
+    {
+      "title": "丰田GR GT高性能原型车纽北测试图曝光",
+      "summary": "丰田GR GT高性能原型车在纽博格林赛道与保时捷911 GT3 RS同场测试，车辆配备更尖锐前唇、导流翼片及固定尾翼等赛道化套件。",
+      "publishedAt": "2026-07-11T16:01:33+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/975/479.htm",
+      "subCategory": "智能汽车",
+      "id": "tech-20260711-104"
+    },
+    {
+      "title": "苹果同意由英特尔代工部分iPhone、Mac芯片以换取半导体关税豁免",
+      "summary": "据报道，苹果为换取美国半导体进口关税豁免，同意让英特尔代工部分Mac笔记本和iPhone产品所用芯片，美国政府此前已将90亿美元资助转为对英特尔约10%的股权。",
+      "publishedAt": "2026-07-11T15:44:58+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/975/475.htm",
+      "subCategory": "芯片硬件",
+      "id": "tech-20260711-101"
+    },
+    {
+      "title": "联想拯救者R9000X 2026款笔记本开售，售价20999元",
+      "summary": "联想拯救者R9000X 2026款上市，搭载AMD Ryzen AI Max+ 392处理器，配64GB内存和1TB硬盘，屏幕为15.3英寸2.5K OLED 165Hz。",
+      "publishedAt": "2026-07-11T15:41:28+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/975/472.htm",
+      "subCategory": "消费电子",
+      "id": "tech-20260711-106"
+    },
+    {
+      "title": "日本可重复使用火箭RV-X实验机首次试飞成功",
+      "summary": "日本JAXA在能代试验场完成RV-X可重复使用实验火箭首次试飞，火箭上升11米并横移16米后成功着陆，飞行时长约40秒。",
+      "publishedAt": "2026-07-11T12:50:58+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/975/433.htm",
+      "subCategory": "航空航天",
+      "id": "tech-20260711-111"
+    },
+    {
+      "title": "微星MAG 321UPD E14显示器开售，售价1999元",
+      "summary": "微星推出31.5英寸电竞显示器MAG 321UPD E14，支持4K 144Hz与1080P 288Hz双模切换，覆盖94% DCI-P3色域，京东售价1999元。",
+      "publishedAt": "2026-07-11T11:13:59+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/975/414.htm",
+      "subCategory": "消费电子",
+      "id": "tech-20260711-117"
+    },
+    {
+      "title": "SK海力士联合研发忆阻器AI芯片，能效21.3 TOPS/W",
+      "summary": "SK海力士联合TetraMem及南加州大学研发忆阻器存内计算芯片，理论峰值算力约2.54 TOPS，100MHz下能效达21.3 TOPS/W，面向边缘计算场景。",
+      "publishedAt": "2026-07-11T10:20:30+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/975/403.htm",
+      "subCategory": "芯片硬件",
+      "id": "tech-20260711-118"
+    },
+    {
+      "title": "吉利星瑞L PLUS全球首秀，顶配可选激光雷达",
+      "summary": "吉利星瑞L PLUS全球首发，车身长4956毫米，轴距2845毫米，提供1.5T、2.0T及插混三种动力，顶配车型配备激光雷达系统。",
+      "publishedAt": "2026-07-11T10:09:00+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/975/401.htm",
+      "subCategory": "智能汽车",
+      "id": "tech-20260711-112"
+    },
+    {
+      "title": "开源兼容层Wine 11.13发布，修复22个Bug",
+      "summary": "Wine 11.13版本发布，改进输入指针支持并优化X11键盘扫描码映射，同时启用ARM64EC等特性，两周内修复22个已知问题。",
+      "publishedAt": "2026-07-11T09:55:45+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/975/398.htm",
+      "subCategory": "开源生态",
+      "id": "tech-20260711-114"
+    },
+    {
+      "title": "奇瑞iCAR V25官图公布，定位科技时尚轻旗舰SUV",
+      "summary": "奇瑞发布iCAR V25官图，车身长4636毫米、轴距2820毫米，搭载1.5L增程系统，百公里油耗1.54升，车顶配备激光雷达。",
+      "publishedAt": "2026-07-11T09:15:00+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/975/393.htm",
+      "subCategory": "智能汽车",
+      "id": "tech-20260711-113"
+    },
+    {
+      "title": "Keychron推出K5 Ultra 8K矮轴机械键盘",
+      "summary": "Keychron发布K5 Ultra 8K矮轴机械键盘，海外售价114.99美元，配备樱桃木饰板，支持8K回报率及蓝牙、2.4GHz、有线三种连接方式。",
+      "publishedAt": "2026-07-11T09:08:16+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/975/392.htm",
+      "subCategory": "消费电子",
+      "id": "tech-20260711-116"
+    },
+    {
+      "title": "三菱与初创公司Highlanders合作研发工厂用人形机器人",
+      "summary": "三菱与初创公司Highlanders合作开发工厂用人形机器人，计划在京都工厂投产，最快明年量产，月产能或达千台，初期用于零部件搬运与发动机装配。",
+      "publishedAt": "2026-07-11T08:50:56+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/975/389.htm",
+      "subCategory": "机器人",
+      "id": "tech-20260711-115"
+    },
     {
       "title": "英伟达 RTX 5090 SE 显卡规格曝光：24GB 显存、384-bit 位宽",
       "summary": "据外媒报道，英伟达计划推出 GeForce RTX 5090 SE 显卡，配备 24GB GDDR7 显存、384-bit 位宽，性能定位介于 RTX 5080 与 RTX 5090 之间，采用 GB202 核心。",
@@ -562,168 +724,6 @@
       "url": "https://www.ithome.com/0/974/288.htm",
       "subCategory": "XR-AR-VR",
       "id": "tech-20260709-901"
-    },
-    {
-      "id": "tech-20260709-111",
-      "title": "美国监管机构警告自动驾驶汽车不得干扰应急救援",
-      "summary": "美国国家公路交通安全管理局表示已记录多起自动驾驶车辆进入事故现场、阻挡救护车消防车或未能识别警灯烟雾等应急信号的事件，负责人称此为系统缺陷，Waymo多起事件成为调查焦点，监管方计划月底前与相关企业会谈。",
-      "publishedAt": "2026-07-09T07:24:26+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/974/287.htm",
-      "subCategory": "智能汽车"
-    },
-    {
-      "title": "科创板第二大IPO：国产DRAM龙头长鑫科技7月16日新股申购，拟募资295亿元",
-      "summary": "长鑫科技启动科创板IPO，网下及网上申购日均为2026年7月16日，拟募资295亿元，为科创板史上仅次于中芯国际的第二大IPO。公司为全球第四大DRAM厂商，今年一季度营收508亿元，同比增长719.13%，实现扭亏为盈。",
-      "publishedAt": "2026-07-09T07:10:54+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/974/284.htm",
-      "subCategory": "芯片硬件",
-      "id": "tech-20260709-902"
-    },
-    {
-      "title": "谷歌Pixel Watch 5智能手表曝光：41mm/45mm尺寸，4种颜色",
-      "summary": "谷歌Pixel Watch 5在8月12日Made by Google发布会前遭曝光，延续41mm与45mm两种表壳规格，提供蓝牙/WiFi及4G LTE版本，41mm起售价419欧元，较上代上涨20欧元，45mm 4G LTE顶配版最高549欧元。",
-      "publishedAt": "2026-07-09T07:03:31+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/974/282.htm",
-      "subCategory": "消费电子",
-      "id": "tech-20260709-904"
-    },
-    {
-      "id": "tech-20260709-112",
-      "title": "奥迪下一代内饰将减少大屏依赖，恢复实体按键与旋钮",
-      "summary": "奥迪技术负责人表示，品牌下一代内饰将采用\"Radical Next\"设计理念，减少对大屏幕的视觉依赖，重新引入实体按键与旋钮以适配欧美消费者的操作习惯，但即将推出的Q7、Q9暂不受影响。",
-      "publishedAt": "2026-07-09T06:59:20+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/974/280.htm",
-      "subCategory": "智能汽车"
-    },
-    {
-      "title": "苹果iOS 27现踪迹：iPhone 17等用户未来可用Apple车钥匙解锁小米SU7/YU7",
-      "summary": "据MacRumors在iOS 27 Beta 3代码中发现的信息，苹果新增“LCID”“XIA1”标识，显示未来iPhone 17等机型用户可通过Apple数字车钥匙解锁并启动小米SU7轿车与YU7 SUV，此前WWDC25已有13家车企宣布支持该功能。",
-      "publishedAt": "2026-07-09T06:52:45+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/974/279.htm",
-      "subCategory": "智能汽车",
-      "id": "tech-20260709-905"
-    },
-    {
-      "id": "tech-20260708-101",
-      "title": "支付宝“花呗崩了”登上热搜，账单页面无法正常显示",
-      "summary": "多名用户反映支付宝“花呗”账单页面出现异常，页面提示“因机构维护，账单暂时无法查看”，相关话题登上热搜，支付宝客服表示已收到反馈并正在紧急排查处理。",
-      "publishedAt": "2026-07-08T23:33:20+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/974/274.htm",
-      "subCategory": "互联网产品"
-    },
-    {
-      "id": "tech-20260708-102",
-      "title": "腾讯 QQ 鸿蒙版 App 获 9.2.39 邀测升级：新增支持设置主题、消息气泡、个性头像等功能",
-      "summary": "QQ鸿蒙版通过华为应用市场推送9.2.39邀测版本，新增主题设置、消息气泡、个性头像、空间背景、天气及频道管理等功能；此前9.2.36正式版已上线小程序搜索和账号切换优化。",
-      "publishedAt": "2026-07-08T23:22:20+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/974/273.htm",
-      "subCategory": "互联网产品"
-    },
-    {
-      "id": "tech-20260708-103",
-      "title": "小米卢伟冰：成本暴涨对千元机影响最大，更考验产品定义",
-      "summary": "小米集团卢伟冰表示，元器件成本暴涨对千元价位手机影响最大，更考验产品定义能力；7月14日发布的Redmi Note 17系列将聚焦品质标准、续航表现与服务保障，在成本上涨背景下仍实现该系列史上最大电池容量。",
-      "publishedAt": "2026-07-08T23:09:04+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/974/270.htm",
-      "subCategory": "消费电子"
-    },
-    {
-      "id": "tech-20260708-104",
-      "title": "2608.360km：吉利银河 A7 EM 获吉尼斯世界纪录",
-      "summary": "吉利银河A7 EM以2608.360公里的成绩刷新吉尼斯世界纪录，成为零补能行驶距离最远的插电混动量产轿车。该车轴距2845毫米，纯电续航235公里，综合续航2150公里，馈电油耗达2升级水平。",
-      "publishedAt": "2026-07-08T23:00:32+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/974/268.htm",
-      "subCategory": "智能汽车"
-    },
-    {
-      "id": "tech-20260708-105",
-      "title": "腾达推出 3000M WiFi 路由放大器 A33 V2.0",
-      "summary": "腾达发布WiFi 6路由放大器A33 V2.0，搭载双核1.2GHz处理器及2颗外置FEM，支持Mesh组网并配备千兆网口，适用于90至100平方米户型覆盖，首发价169元。",
-      "publishedAt": "2026-07-08T22:37:14+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/974/266.htm",
-      "subCategory": "网络基础设施"
-    },
-    {
-      "id": "tech-20260708-106",
-      "title": "苹果宣布 macOS 28 将不再支持“Mac OS 扩展（日志式，加密）”文件系统",
-      "summary": "苹果宣布macOS 28起将不再支持“Mac OS扩展（日志式，加密）”文件系统格式，macOS 26起已对使用该格式的外置硬盘提示不兼容警告，建议用户转换为APFS或ExFAT格式。",
-      "publishedAt": "2026-07-08T22:22:17+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/974/263.htm",
-      "subCategory": "操作系统"
-    },
-    {
-      "id": "tech-20260708-107",
-      "title": "支付宝明起调整积分规则：扫一扫不再奖励积分，支付与理财积分上限变随机",
-      "summary": "支付宝宣布自7月9日起调整积分规则，支付类场景每日积分上限由固定20分改为3至20分随机区间，理财类产品积分上限同样变为随机区间，扫一扫功能不再奖励积分，新规则执行至今年12月31日。",
-      "publishedAt": "2026-07-08T22:16:27+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/974/261.htm",
-      "subCategory": "互联网产品"
-    },
-    {
-      "id": "tech-20260708-108",
-      "title": "大疆推出 DJI AP100 无人机降落伞：适配 Matrice 400，售价 7488 元",
-      "summary": "大疆发布首款面向行业级无人机的降落伞系统AP100，适配Matrice 400机型，重约935克，可在600毫秒内完成开伞并将下降速度控制在每秒5米以内，目前仅通过授权渠道销售，售价7488元。",
-      "publishedAt": "2026-07-08T22:08:11+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/974/259.htm",
-      "subCategory": "消费电子"
-    },
-    {
-      "id": "tech-20260708-109",
-      "title": "TCL 推出“27C2A”27 英寸显示器：4K 160Hz / FHD 320Hz 双模，2299 元",
-      "summary": "TCL发布27C2A显示器，支持4K 160Hz与FHD 320Hz双模切换，采用1196分区Mini LED面板，峰值亮度1200尼特，支持10bit色彩及99% DCI-P3色域，售价2299元，部分地区补贴后为2069元。",
-      "publishedAt": "2026-07-08T21:58:58+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/974/258.htm",
-      "subCategory": "消费电子"
-    },
-    {
-      "id": "tech-20260708-110",
-      "title": "鸿蒙智行尊界 SUV 测试车新街拍视频曝光，前脸沿用 V800 设计",
-      "summary": "网络曝光鸿蒙智行尊界品牌SUV路试车最新视频，车身伪装严密，但前脸与尾灯设计将沿用同品牌V800车型；V800/V680预计8月上市，SUV具体上市时间尚未公布。",
-      "publishedAt": "2026-07-08T21:52:45+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/974/257.htm",
-      "subCategory": "智能汽车"
-    },
-    {
-      "id": "tech-20260708-111",
-      "title": "HMD Skyline 2 手机海报曝光：延续现款机型设计，预计可选蓝 / 黄 / 黑三种配色",
-      "summary": "HMD Skyline 2手机宣传海报曝光，延续初代Skyline设计语言，提供蓝、黄、黑三种配色，配备6.55英寸144Hz OLED屏、骁龙7s Gen 4处理器及5000mAh电池，支持40W有线与15W无线充电。",
-      "publishedAt": "2026-07-08T21:47:42+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/974/256.htm",
-      "subCategory": "消费电子"
-    },
-    {
-      "id": "tech-20260708-012",
-      "title": "想等降价太难！存储大厂威刚预警：Q3内存涨30%、闪存涨40%",
-      "summary": "威刚董事长陈立白表示，内存原厂已通知2026年三季度DRAM合约价将上涨20%至30%，NAND闪存涨幅达35%至40%，主因AI服务器、工控设备、企业存储及边缘计算需求激增；威刚6月营收146.61亿新台币，同比增长212%，创历史单月新高。",
-      "publishedAt": "2026-07-08T12:27:00+08:00",
-      "source": "新浪科技",
-      "url": "https://finance.sina.com.cn/tech/discovery/2026-07-08/doc-inihaieh4871947.shtml",
-      "subCategory": "芯片硬件"
-    },
-    {
-      "id": "tech-20260708-013",
-      "title": "REDMI Note17 Pro晴空蓝亮相，7月14日正式发布",
-      "summary": "小米REDMI Note 17系列定档7月14日19点发布，本代仅推出标准版与Pro版，取消Pro+版本；据称标准版搭载骁龙6 Gen5、9000mAh电池，Pro版搭载天玑7500、约1万mAh电池及2亿像素主摄，均支持防水防摔。",
-      "publishedAt": "2026-07-08T10:30:00+08:00",
-      "source": "新浪科技",
-      "url": "https://finance.sina.com.cn/tech/roll/2026-07-08/doc-inihaieh4805292.shtml",
-      "subCategory": "消费电子"
     }
   ]
 }

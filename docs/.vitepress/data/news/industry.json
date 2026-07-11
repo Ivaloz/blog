@@ -3,7 +3,7 @@
   "slug": "industry",
   "title": "行业新闻",
   "description": "企业服务、SaaS、云计算、制造业、消费互联网的产业动态。",
-  "updatedAt": "2026-07-11T08:35:00+08:00",
+  "updatedAt": "2026-07-11T17:20:00+08:00",
   "items": [
     {
       "id": "industry-20260710-001",
@@ -58,6 +58,15 @@
       "source": "投资界",
       "url": "https://finance.sina.com.cn/tech/roll/2026-07-09/doc-inihench4497554.shtml",
       "subCategory": "公司动态"
+    },
+    {
+      "title": "商务部等9部门：支持大型零售经营主体以自建渠道、合作、并购等方式\"走出去\"",
+      "summary": "商务部等9部门联合印发《关于加快零售业创新发展的意见》，提出到2030年基本形成现代零售体系，支持大型零售企业以自建渠道、合作、并购等方式拓展海外市场，并优化零售业公平竞争环境。",
+      "publishedAt": "2026-07-09T08:32:00+08:00",
+      "source": "证券时报网",
+      "url": "https://www.stcn.com/article/detail/4007727.html",
+      "subCategory": "消费零售",
+      "id": "industry-20260711-101"
     },
     {
       "id": "industry-20260710-002",
@@ -715,15 +724,6 @@
       "source": "新浪科技",
       "url": "https://finance.sina.com.cn/tech/roll/2026-07-03/doc-inifmvzn5824830.shtml",
       "subCategory": "新能源汽车"
-    },
-    {
-      "id": "industry-20260702-092",
-      "title": "Gessey：2026年7月2日每日光伏市场行情",
-      "summary": "光伏行业资讯平台Gessey数据显示，7月2日国内N型多晶硅均价维持33.7元/公斤，硅片、电池片、组件价格整体保持稳定，行业反内卷调价效应仍在延续。",
-      "publishedAt": "2026-07-02T21:51:00+08:00",
-      "source": "Gessey盖锡新能源",
-      "url": "https://www.gessey.com/h-nd-48466.html",
-      "subCategory": "制造业"
     }
   ]
 }

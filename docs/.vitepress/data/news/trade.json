@@ -3,7 +3,7 @@
   "slug": "trade",
   "title": "外贸资讯",
   "description": "亚马逊、TikTok Shop、阵里国际站、Shopify 等平台政策与跨境电商市场、独立站、物流支付、关税法规、选品趋势。",
-  "updatedAt": "2026-07-11T08:35:00+08:00",
+  "updatedAt": "2026-07-11T17:20:00+08:00",
   "items": [
     {
       "title": "SHEIN港股IPO获中国证监会备案",
@@ -76,6 +76,24 @@
       "url": "https://www.amz123.com/kx/32b1tL7z",
       "subCategory": "平台动态",
       "id": "trade-20260711-004"
+    },
+    {
+      "title": "TikTok Shop英国宠物品类2025年销售额同比增长超60%",
+      "summary": "TikTok Shop英国站数据显示，2025年宠物护理品类销售额同比增长超60%，平均每15秒售出一件宠物用品，宠物直播场次同比增长50%，达人佣金收入合计超200万英镑。",
+      "publishedAt": "2026-07-10T17:42:00+08:00",
+      "source": "AMZ123跨境导航",
+      "url": "https://www.amz123.com/kx/d6KtuEHH",
+      "subCategory": "选品趋势",
+      "id": "trade-20260711-101"
+    },
+    {
+      "title": "美国玩具市场前4月销售额增长13%，女性与成人消费者成增长主力",
+      "summary": "Circana数据显示，2026年1—4月美国玩具行业销售额同比增长13%，销量增长5%，女性消费者贡献过半增长，18岁以上成人购买者贡献35%增量，减压类玩具涨幅显著。",
+      "publishedAt": "2026-07-10T17:42:00+08:00",
+      "source": "AMZ123跨境导航",
+      "url": "https://www.amz123.com/kx/itUSvf3m",
+      "subCategory": "选品趋势",
+      "id": "trade-20260711-102"
     },
     {
       "id": "trade-20260710-108",
@@ -159,6 +177,15 @@
       "subCategory": "物流仓储"
     },
     {
+      "title": "跨境企业最严新政：国务院837号令生效，无ODI备案境外公司海外仓面临重罚",
+      "summary": "国务院第837号令7月1日起生效，要求境内主体境外设公司、海外仓、独立站或资金出境均需办理ODI备案，违规最高面临投资额5‰罚款及1至3年境外投资禁令。",
+      "publishedAt": "2026-07-10T16:33:00+08:00",
+      "source": "雨果网",
+      "url": "https://www.cifnews.com/article/187430",
+      "subCategory": "关税法规",
+      "id": "trade-20260711-105"
+    },
+    {
       "id": "trade-20260710-115",
       "title": "TikTok Shop美区保证金结构重组 风险保证金最高达1万美元",
       "summary": "TikTok Shop美国站7月8日起实行三级保证金架构，含1500美元基础保证金、品类保证金及500至1万美元不等的风险保证金，与卖家违规情况挂钩。",
@@ -166,6 +193,24 @@
       "source": "AMZ123跨境导航",
       "url": "https://www.amz123.com/t/tOMonhbc",
       "subCategory": "平台政策"
+    },
+    {
+      "title": "欧洲增长破局：热销品类站点组合与联投打法",
+      "summary": "文章梳理欧洲三大热销品类及五个潜力站点组合机会，结合标品与非标品案例，为跨境卖家提供欧洲多站点联合投放的选品与增长策略参考。",
+      "publishedAt": "2026-07-10T15:54:00+08:00",
+      "source": "雨果网",
+      "url": "https://www.cifnews.com/article/187420",
+      "subCategory": "选品趋势",
+      "id": "trade-20260711-103"
+    },
+    {
+      "title": "核定征收退场、9810成海外仓最优合规通道，卖家迎来财税大考",
+      "summary": "核定征收政策2025年后逐步退场，跨境企业统一转为查账征收，9810海外仓出口模式凭借离境退税优势成为合规首选，税务、海关与外汇部门已按季度比对平台数据。",
+      "publishedAt": "2026-07-10T14:20:00+08:00",
+      "source": "雨果网",
+      "url": "https://www.cifnews.com/article/187411",
+      "subCategory": "关税法规",
+      "id": "trade-20260711-104"
     },
     {
       "id": "trade-20260710-116",
@@ -679,51 +724,6 @@
       "source": "AMZ123跨境导航",
       "url": "https://www.amz123.com/kx/h0vlfJkY",
       "subCategory": "选品趋势"
-    },
-    {
-      "id": "trade-20260707-703",
-      "title": "俄工贸部拟推出玩具产业扶持计划，本土生产与安全标准升级成重点",
-      "summary": "俄罗斯工业和贸易部拟推出玩具产业扶持计划，提供设备购置补贴、贷款贴息及简化强制认证程序，鼓励海外产能回迁本土并加强玩具化学与机械安全监管。",
-      "publishedAt": "2026-07-07T12:01:00+08:00",
-      "source": "AMZ123跨境导航",
-      "url": "https://www.amz123.com/kx/DnixBH2L",
-      "subCategory": "新兴市场"
-    },
-    {
-      "id": "trade-20260707-706",
-      "title": "TikTok Shop Tokopedia 否认大规模裁员传闻",
-      "summary": "TikTok Shop Tokopedia否认裁减约90%研发、信任安全及财务部门员工的传闻，公司总裁称此举为组织架构调整与内部人员重新配置，并强调将持续投资印尼电商业务。",
-      "publishedAt": "2026-07-07T11:49:00+08:00",
-      "source": "AMZ123跨境导航",
-      "url": "https://www.amz123.com/kx/v3ytak4C",
-      "subCategory": "平台动态"
-    },
-    {
-      "id": "trade-20260707-707",
-      "title": "TikTok Shop东南亚7.7大促开启 多市场推出优惠活动",
-      "summary": "TikTok Shop在东南亚多国启动7.7大促，推出直降、阶梯折扣及组合券等优惠机制，马来西亚同步开展世界杯狂欢促销，菲律宾开启超级特卖，泰国自7月5日起调整佣金费率。",
-      "publishedAt": "2026-07-07T10:45:00+08:00",
-      "source": "AMZ123跨境导航",
-      "url": "https://www.amz123.com/kx/avudrzpr",
-      "subCategory": "平台动态"
-    },
-    {
-      "id": "trade-20260707-818",
-      "title": "老龄化趋势推动需求增长！亚马逊美站防水药袋活页夹受到关注",
-      "summary": "亚马逊美国站防水药盒活页夹产品受到关注，主要面向55至75岁人群，pill organizer关键词月搜索量超122万，现有售价17.99至23.99美元，建议从防水材质及看护版本差异化竞争。",
-      "publishedAt": "2026-07-07T10:24:00+08:00",
-      "source": "AMZ123",
-      "url": "https://www.amz123.com/kx/eVPbczmF",
-      "subCategory": "选品趋势"
-    },
-    {
-      "id": "trade-20260707-817",
-      "title": "亚马逊Prime Day后美站销量下滑七成，多重因素延长大促后低谷期",
-      "summary": "亚马逊Prime Day期间美国线上消费规模达264亿美元，同比增长9.3%，但大促结束后不少中小卖家反馈订单量下滑最高达七成，独立日假期出行、世界杯赛事分流及广告点击成本上涨约六成被认为是主要原因。",
-      "publishedAt": "2026-07-07T09:50:00+08:00",
-      "source": "AMZ123跨境导航",
-      "url": "https://www.amz123.com/kx/g4UxMZlo",
-      "subCategory": "平台动态"
     }
   ]
 }

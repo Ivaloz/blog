@@ -3,8 +3,26 @@
   "slug": "finance",
   "title": "投资与财经",
   "description": "宏观经济、A 股 / 港股 / 美股、一级市场融资、行业研报观点。",
-  "updatedAt": "2026-07-11T08:35:00+08:00",
+  "updatedAt": "2026-07-11T17:20:00+08:00",
   "items": [
+    {
+      "title": "OpenAI刚赢马斯克又被苹果告，IPO前官司缠身",
+      "summary": "苹果向美国加州联邦法院起诉OpenAI及两名前苹果员工，指控其系统性窃取硬件设计机密以研发消费级AI硬件产品。该诉讼发生在OpenAI筹备IPO之际，为其上市进程增添不确定性，OpenAI回应称对其他公司商业机密不感兴趣。",
+      "publishedAt": "2026-07-11T10:43:00+08:00",
+      "source": "第一财经",
+      "url": "https://www.yicai.com/news/103270437.html",
+      "subCategory": "风险事件",
+      "id": "finance-20260711-101"
+    },
+    {
+      "title": "半年度业绩预告盘点丨349家上市公司已披露 169家预计净利润最大增幅超100%",
+      "summary": "截至7月11日，349家A股上市公司已披露2026年半年度业绩预告，其中255家预喜、占比约73%，169家预计净利润最大增幅超100%，化工、有色金属等行业预喜公司较为集中。",
+      "publishedAt": "2026-07-11T08:40:00+08:00",
+      "source": "第一财经",
+      "url": "https://www.yicai.com/brief/103270401.html",
+      "subCategory": "公司财报",
+      "id": "finance-20260711-102"
+    },
     {
       "title": "铜产品量价齐升叠加钼钨价格走高，洛阳钼业上半年净利同比预增超七成",
       "summary": "洛阳钼业预计2026年上半年净利润155亿至165亿元，同比增长78.76%至90.29%，主因铜产品量价齐升、钼钨价格走高及巴西金矿业务并表，上半年铜金属产量约38.8万吨，同比增约9.73%。",
@@ -706,24 +724,6 @@
       "source": "U.S. Bureau of Economic Analysis",
       "url": "https://www.bea.gov/news/2026/us-international-trade-goods-and-services-may-2026",
       "subCategory": "宏观经济"
-    },
-    {
-      "id": "finance-20260707-808",
-      "title": "Gold prices today, Tuesday, July 7, 2026: Hanging around $4,200",
-      "summary": "7月7日国际现货黄金价格小幅走高至每盎司4180.30美元附近，此前公布的疲软就业数据令市场下调美联储7月加息概率，由33.1%降至25.1%。",
-      "publishedAt": "2026-07-07T07:31:00-05:00",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-tuesday-july-7-2026-hanging-around-4200-123123103.html",
-      "subCategory": "大宗商品"
-    },
-    {
-      "id": "finance-20260707-701",
-      "title": "三星电子公布 2026 年 Q2 业绩指引：营业利润约 89.4 万亿韩元，同比暴增 1810%",
-      "summary": "三星电子发布2026年第二季度业绩指引，预计合并营业利润约89.4万亿韩元，同比增长约1810%，销售额约171万亿韩元，主要受AI芯片带动的存储业务需求增长推动，完整财报将于7月30日发布。",
-      "publishedAt": "2026-07-07T07:27:00+08:00",
-      "source": "新浪财经",
-      "url": "https://finance.sina.com.cn/tech/digi/2026-07-07/doc-inifxpik8421824.shtml",
-      "subCategory": "公司财报"
     }
   ]
 }
