@@ -3,7 +3,7 @@
   "slug": "trade",
   "title": "外贸资讯",
   "description": "亚马逊、TikTok Shop、阵里国际站、Shopify 等平台政策与跨境电商市场、独立站、物流支付、关税法规、选品趋势。",
-  "updatedAt": "2026-07-11T17:20:00+08:00",
+  "updatedAt": "2026-07-11T23:50:00+08:00",
   "items": [
     {
       "title": "SHEIN港股IPO获中国证监会备案",
@@ -229,6 +229,24 @@
       "source": "AMZ123跨境导航",
       "url": "https://www.amz123.com/kx/gpKRBmOV",
       "subCategory": "平台动态"
+    },
+    {
+      "id": "trade-20260711-200",
+      "title": "马士基MECL航线恢复经苏伊士运河通行 印至美东航程缩短7—14天",
+      "summary": "马士基宣布旗下MECL航线（连接印度、中东与美国东岸）恢复经红海及苏伊士运河通行，不再绕行好望角，西行航程平均缩短7天、东行缩短14天，8月起东行航线将新增沙特吉达港挂靠。",
+      "publishedAt": "2026-07-10T13:47:00+08:00",
+      "source": "AMZ123跨境导航",
+      "url": "https://www.amz123.com/t/asmfbOLC",
+      "subCategory": "物流仓储"
+    },
+    {
+      "id": "trade-20260711-201",
+      "title": "超强台风“巴威”逼近 宁波港多个码头10日12时起暂停集装箱进提箱作业",
+      "summary": "超强台风“巴威”逼近，宁波港大榭、北仑一期、北仑国际等多个码头自7月10日12时起暂停集装箱进出口装卸作业，舟山跨海大桥等通道将视风力情况限行，物流企业建议相关港口作业提前完成或改道上海港。",
+      "publishedAt": "2026-07-10T11:26:00+08:00",
+      "source": "AMZ123跨境导航",
+      "url": "https://www.amz123.com/kx/PSQJmnp9",
+      "subCategory": "物流仓储"
     },
     {
       "title": "亚马逊欧英站7月20日起取消Buy Box参评资格预审",
@@ -706,24 +724,6 @@
       "source": "亿邦动力",
       "url": "https://m.ebrun.com/686065.html",
       "subCategory": "平台动态"
-    },
-    {
-      "id": "trade-20260707-701",
-      "title": "亚马逊全球智能枢纽仓正式落地华东地区",
-      "summary": "亚马逊全球智能仓运（GWD）华东枢纽仓在上海、宁波正式启用，新增自动补货功能并支持FOB贸易条款，7月至12月为入驻卖家提供30天免费仓储服务。",
-      "publishedAt": "2026-07-07T13:45:00+08:00",
-      "source": "AMZ123跨境导航",
-      "url": "https://www.amz123.com/kx/CrX9CLAQ",
-      "subCategory": "物流仓储"
-    },
-    {
-      "id": "trade-20260707-702",
-      "title": "TikTok Shop美英印尼热销榜单公布，美妆母婴品类占据主导",
-      "summary": "TikTok Shop发堃2026年第27周美国、英国、印尼热销榜单，美妆护肤品类占据前十榜单半数以上，印尼市场以母婴礼盒商品为主，英国市场整体销售规模低于美、印两国。",
-      "publishedAt": "2026-07-07T13:41:00+08:00",
-      "source": "AMZ123跨境导航",
-      "url": "https://www.amz123.com/kx/h0vlfJkY",
-      "subCategory": "选品趋势"
     }
   ]
 }

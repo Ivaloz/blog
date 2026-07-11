@@ -3,8 +3,26 @@
   "slug": "industry",
   "title": "行业新闻",
   "description": "企业服务、SaaS、云计算、制造业、消费互联网的产业动态。",
-  "updatedAt": "2026-07-11T17:20:00+08:00",
+  "updatedAt": "2026-07-11T23:50:00+08:00",
   "items": [
+    {
+      "id": "industry-20260711-202",
+      "title": "Allianz：2026年全球贸易调查报告",
+      "summary": "安联发布2026年全球贸易调查报告，预计2026年全球GDP增速降至2.6%，通胀升至4.3%。75%出口商预期营收增长，65%受访企业首次将地缘政治风险列为首要威胁，80%企业已调整供应链规避关税，43%已实现规模化AI部署。",
+      "publishedAt": "2026-07-10",
+      "source": "199IT",
+      "url": "https://www.199it.com/archives/1823482.html",
+      "subCategory": "行业研报"
+    },
+    {
+      "id": "industry-20260711-203",
+      "title": "赋能防御者：将AI用于网络安全",
+      "summary": "世界经济论坛与毕马威联合发布报告显示，94%受访者认为AI是网络安全变革首要力量，77%组织已在安全运营中部署AI。大规模用AI的组织将数据泄露响应时间缩短约80天，平均损失降低约190万美元；88%企业正投资AI代理技术。",
+      "publishedAt": "2026-07-10",
+      "source": "199IT",
+      "url": "https://www.199it.com/archives/1829073.html",
+      "subCategory": "企业服务"
+    },
     {
       "id": "industry-20260710-001",
       "title": "乘联会：2026年6月燃油车零售降39%",
@@ -30,6 +48,15 @@
       "publishedAt": "2026-07-09T20:26:00+08:00",
       "source": "新华社（央视网转载）",
       "url": "https://jingji.cctv.com/2026/07/09/ARTIoUUMsdEnuQDGfiVcZhDT260709.shtml",
+      "subCategory": "新能源汽车"
+    },
+    {
+      "id": "industry-20260711-204",
+      "title": "6月新能源乘用车国内销量占比达67.2%",
+      "summary": "中国汽车工业协会数据显示，2026年6月新能源汽车国内零售渗透率达67.2%，延续逐月攀升态势。当月汽车产销276万辆和281万辆，新能源汽车产销159.8万辆和164.3万辆，同比增26%和23.6%，单月出口首次突破100万辆。",
+      "publishedAt": "2026-07-09T16:39:27+08:00",
+      "source": "新华网",
+      "url": "https://www.news.cn/fortune/20260709/addd1fabc1054a338f6263473e5f413c/c.html",
       "subCategory": "新能源汽车"
     },
     {
@@ -78,42 +105,6 @@
       "subCategory": "半导体产业"
     },
     {
-      "id": "industry-20260709-101",
-      "title": "OECD：2026年增长与竞争力基础",
-      "summary": "OECD报告指出，过去二十年成员国经济增速结构性放缓，劳动生产率不足是核心问题，主因企业投入不足、创新扩散变慢及人力资本弱化；测算人工智能未来十年或为G7国家年均劳动生产率贡献0.5至1.3个百分点提升，但需配套数字基础设施与技能培训投入。",
-      "publishedAt": "2026-07-09T06:10:00+08:00",
-      "source": "199IT",
-      "url": "https://finance.sina.com.cn/tech/roll/2026-07-09/doc-inihczph8230823.shtml",
-      "subCategory": "行业研报"
-    },
-    {
-      "id": "industry-20260709-103",
-      "title": "从曝光到影响力：将用户体验转化为可量化成果",
-      "summary": "报告分析2025年下半年全球数字创意广告表现，平均互动率1.4%，点击率1.0%；竖版视频点击率为基准2.5倍、互动率为4倍，零售电商领域游戏化广告互动率达10.4%，为整体均值7倍，广告策略正从提升曝光效率转向构建可持续互动体验。",
-      "publishedAt": "2026-07-09T05:10:00+08:00",
-      "source": "199IT",
-      "url": "https://finance.sina.com.cn/tech/roll/2026-07-09/doc-inihcvfk8312336.shtml",
-      "subCategory": "企业服务"
-    },
-    {
-      "id": "industry-20260709-902",
-      "title": "企业支出报告：AI与软件支出研究亮点（2026年春季）",
-      "summary": "基于逾5万家企业交易数据的报告显示，截至2026年3月美国企业付费使用AI服务比例达50.4%，较2025年初近乎翻倍；OpenAI市场份额35.2%居首，Anthropic份额从16.7%升至30.6%并拿下约七成新客户；AI投入前25%的企业收入增速为非采用企业的两倍。",
-      "publishedAt": "2026-07-09T05:08:00+08:00",
-      "source": "199IT",
-      "url": "https://finance.sina.com.cn/tech/roll/2026-07-09/doc-inihcvfi1534017.shtml",
-      "subCategory": "行业研报"
-    },
-    {
-      "id": "industry-20260709-901",
-      "title": "普华永道：人工智能能耗净零报告",
-      "summary": "普华永道联合微软与牛津大学建立模型框架，测算AI效率提升能否抵消其能耗增长。研究显示到2035年AI驱动的数据中心能耗较基线情景累计增加18%至21%，若AI提升能效速度达到其用量增速的十分之一即可实现能耗抵消，预计到2035年可使温室气体排放减少0.3%至1.9%。",
-      "publishedAt": "2026-07-09T02:10:00+08:00",
-      "source": "199IT",
-      "url": "https://finance.sina.com.cn/tech/roll/2026-07-09/doc-inihcqxn8288220.shtml",
-      "subCategory": "行业研报"
-    },
-    {
       "id": "industry-20260709-102",
       "title": "Counterpoint：2026年Q1全球WiFi CPE出货量同比降6%",
       "summary": "Counterpoint数据显示，2026年第一季度全球零售端WiFi CPE设备出货量同比下降6%，较2021年峰值累计下滑约34%，市场进入库存调整阶段；TP-Link以20%份额居首但同比降5.4%，小米份额升至12%位列第二，是主要厂商中少数份额上升者。",
@@ -159,6 +150,42 @@
       "id": "industry-20260711-003"
     },
     {
+      "id": "industry-20260709-101",
+      "title": "OECD：2026年增长与竞争力基础",
+      "summary": "OECD报告指出，过去二十年成员国经济增速结构性放缓，劳动生产率不足是核心问题，主因企业投入不足、创新扩散变慢及人力资本弱化；测算人工智能未来十年或为G7国家年均劳动生产率贡献0.5至1.3个百分点提升，但需配套数字基础设施与技能培训投入。",
+      "publishedAt": "2026-07-09T06:10:00+08:00",
+      "source": "199IT",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-07-09/doc-inihczph8230823.shtml",
+      "subCategory": "行业研报"
+    },
+    {
+      "id": "industry-20260709-103",
+      "title": "从曝光到影响力：将用户体验转化为可量化成果",
+      "summary": "报告分析2025年下半年全球数字创意广告表现，平均互动率1.4%，点击率1.0%；竖版视频点击率为基准2.5倍、互动率为4倍，零售电商领域游戏化广告互动率达10.4%，为整体均值7倍，广告策略正从提升曝光效率转向构建可持续互动体验。",
+      "publishedAt": "2026-07-09T05:10:00+08:00",
+      "source": "199IT",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-07-09/doc-inihcvfk8312336.shtml",
+      "subCategory": "企业服务"
+    },
+    {
+      "id": "industry-20260709-902",
+      "title": "企业支出报告：AI与软件支出研究亮点（2026年春季）",
+      "summary": "基于逾5万家企业交易数据的报告显示，截至2026年3月美国企业付费使用AI服务比例达50.4%，较2025年初近乎翻倍；OpenAI市场份额35.2%居首，Anthropic份额从16.7%升至30.6%并拿下约七成新客户；AI投入前25%的企业收入增速为非采用企业的两倍。",
+      "publishedAt": "2026-07-09T05:08:00+08:00",
+      "source": "199IT",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-07-09/doc-inihcvfi1534017.shtml",
+      "subCategory": "行业研报"
+    },
+    {
+      "id": "industry-20260709-901",
+      "title": "普华永道：人工智能能耗净零报告",
+      "summary": "普华永道联合微软与牛津大学建立模型框架，测算AI效率提升能否抵消其能耗增长。研究显示到2035年AI驱动的数据中心能耗较基线情景累计增加18%至21%，若AI提升能效速度达到其用量增速的十分之一即可实现能耗抵消，预计到2035年可使温室气体排放减少0.3%至1.9%。",
+      "publishedAt": "2026-07-09T02:10:00+08:00",
+      "source": "199IT",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-07-09/doc-inihcqxn8288220.shtml",
+      "subCategory": "行业研报"
+    },
+    {
       "id": "industry-20260710-003",
       "title": "精测电子筹划收购上海精测部分股权 预计构成重大资产重组",
       "summary": "精测电子拟通过发行股份、可转债及支付现金方式，收购控股子公司上海精测部分股权并募集配套资金，预计构成重大资产重组，公司股票及可转债自7月9日起停牌，此前已持股58.83%。",
@@ -175,15 +202,6 @@
       "source": "证券时报",
       "url": "https://www.stcn.com/article/detail/4007253.html",
       "subCategory": "新能源汽车"
-    },
-    {
-      "title": "创新药半年出海收入近千亿美元，三大变化重塑产业链价值",
-      "summary": "2026年上半年中国创新药BD出海交易总额约997亿美元，约为2024年全年两倍；首付款总额约50亿美元，接近2025年全年七成。多管线打包交易增多，Co-Co联合开发商业化模式渐成主流，替代传统License-out模式。",
-      "publishedAt": "2026-07-08T06:48:00+08:00",
-      "source": "证券时报",
-      "url": "https://www.stcn.com/article/detail/4003267.html",
-      "subCategory": "医疗健康",
-      "id": "industry-20260708-900"
     },
     {
       "id": "industry-20260708-003",
@@ -303,6 +321,42 @@
       "subCategory": "制造业"
     },
     {
+      "id": "industry-20260711-201",
+      "title": "PC Market Runs Low on RAM to Grow: Shipments Decline 4.9% as Memory Crunch Bites, according to IDC.",
+      "summary": "IDC数据显示，2026年第二季度全球PC出货量同比降4.9%至6820万台，为连续九个季度增长后首次下滑，主因存储芯片短缺致厂商提前备货，营收因提价反涨。联想以24.4%份额居首，苹果为前五大厂商中唯一正增长者。",
+      "publishedAt": "2026-07-08",
+      "source": "IDC",
+      "url": "https://www.idc.com/resource-center/press-releases/2q26-pc-top5/",
+      "subCategory": "半导体产业"
+    },
+    {
+      "title": "创新药半年出海收入近千亿美元，三大变化重塑产业链价值",
+      "summary": "2026年上半年中国创新药BD出海交易总额约997亿美元，约为2024年全年两倍；首付款总额约50亿美元，接近2025年全年七成。多管线打包交易增多，Co-Co联合开发商业化模式渐成主流，替代传统License-out模式。",
+      "publishedAt": "2026-07-08T06:48:00+08:00",
+      "source": "证券时报",
+      "url": "https://www.stcn.com/article/detail/4003267.html",
+      "subCategory": "医疗健康",
+      "id": "industry-20260708-900"
+    },
+    {
+      "title": "SEMI and TechSearch International Release 2026 Edition of Worldwide Assembly & Test Facility Database",
+      "summary": "SEMI与TechSearch International联合发布2026版《全球封装测试厂数据库》，收录全球820余家半导体后道制造厂，较2025版750家扩容。逾360家工厂具备化合物半导体能力，逾170家聚焦AI/HPC市场。",
+      "publishedAt": "2026-07-07T09:00:00-05:00",
+      "source": "SEMI",
+      "url": "https://finance.yahoo.com/technology/articles/semi-techsearch-international-release-2026-140000065.html",
+      "subCategory": "半导体产业",
+      "id": "industry-20260711-004"
+    },
+    {
+      "id": "industry-20260710-107",
+      "title": "IDC Launches IDC Quanta™ to Close the Gap Between Tech Intelligence and Enterprise Execution",
+      "summary": "IDC推出智能平台IDC Quanta，将其专有研究、分析师洞察与数据直接嵌入企业常用办公工具（含邮件与Claude AI），基于175家测试客户反馈开发，数据可追溯至超150亿条专有数据点。",
+      "publishedAt": "2026-07-07T09:04:00-04:00",
+      "source": "GlobeNewswire (IDC)",
+      "url": "https://www.globenewswire.com/news-release/2026/07/07/3323292/0/en/IDC-Launches-IDC-Quanta-to-Close-the-Gap-Between-Tech-Intelligence-and-Enterprise-Execution.html",
+      "subCategory": "SaaS"
+    },
+    {
       "id": "industry-20260707-804",
       "title": "微软：2026年新财年裁员约4800人 占全球员工2.1%",
       "summary": "微软宣布2026新财年将裁员约4800人，占全球员工总数2.1%，主要涉及企业销售与Xbox部门，其中Xbox约1600个岗位受影响，公司称调整与人工智能业务变革相关。",
@@ -357,22 +411,31 @@
       "subCategory": "行业研报"
     },
     {
-      "id": "industry-20260710-107",
-      "title": "IDC Launches IDC Quanta™ to Close the Gap Between Tech Intelligence and Enterprise Execution",
-      "summary": "IDC推出智能平台IDC Quanta，将其专有研究、分析师洞察与数据直接嵌入企业常用办公工具（含邮件与Claude AI），基于175家测试客户反馈开发，数据可追溯至超150亿条专有数据点。",
-      "publishedAt": "2026-07-07T09:04:00-04:00",
-      "source": "GlobeNewswire (IDC)",
-      "url": "https://www.globenewswire.com/news-release/2026/07/07/3323292/0/en/IDC-Launches-IDC-Quanta-to-Close-the-Gap-Between-Tech-Intelligence-and-Enterprise-Execution.html",
-      "subCategory": "SaaS"
+      "id": "industry-20260707-801",
+      "title": "Counterpoint: China's 618 smartphone sales fall 13% year-on-year",
+      "summary": "Counterpoint监测显示，2026年618大促期间中国智能手机销量同比下降13%，除华为外主要品牌均两位数下滑，荣耀降33%、小米降24%，存储成本上涨及促销力度减弱是主因。",
+      "publishedAt": "2026-07-07",
+      "source": "TechNode",
+      "url": "https://technode.com/2026/07/07/counterpoint-chinas-618-smartphone-sales-fall-13-year-on-year/",
+      "subCategory": "消费零售"
     },
     {
-      "title": "SEMI and TechSearch International Release 2026 Edition of Worldwide Assembly & Test Facility Database",
-      "summary": "SEMI与TechSearch International联合发布2026版《全球封装测试厂数据库》，收录全球820余家半导体后道制造厂，较2025版750家扩容。逾360家工厂具备化合物半导体能力，逾170家聚焦AI/HPC市场。",
-      "publishedAt": "2026-07-07T09:00:00-05:00",
-      "source": "SEMI",
-      "url": "https://finance.yahoo.com/technology/articles/semi-techsearch-international-release-2026-140000065.html",
-      "subCategory": "半导体产业",
-      "id": "industry-20260711-004"
+      "id": "industry-20260707-805",
+      "title": "Gartner Predicts 60% of Organizations Will Adopt Smaller Software Engineering Teams by 2029",
+      "summary": "Gartner预测，到2029年将有60%的企业采用规模化的小型软件工程团队，2026年这一比例仅为15%，AI承担更多常规技术工作，推动企业转向精简高效的工程组织模式。",
+      "publishedAt": "2026-07-07",
+      "source": "Archyde (转载自Gartner新闻室)",
+      "url": "https://www.archyde.com/gartner-predicts-60-of-organizations-will-adopt-smaller-software-engineering-teams-by-2029/",
+      "subCategory": "企业服务"
+    },
+    {
+      "title": "Luxury Is Back on Track, With Healthier Foundations (And AI Is Here To Stay)",
+      "summary": "BCG与Altagamma联合发布第12版《True-Luxury全球消费者洞察》报告，调研超1万名奢侈品消费者。报告预测2026财年行业增速2%至5%，2029年升至4%至7%；87%受访者每周使用AI，80%借助生成式AI辅助购买决策。",
+      "publishedAt": "2026-07-07",
+      "source": "BCG（联合Altagamma）",
+      "url": "https://www.bcg.com/publications/2026/luxury-healthier-foundations-and-genai",
+      "subCategory": "消费零售",
+      "id": "industry-20260711-002"
     },
     {
       "id": "industry-20260707-602",
@@ -400,33 +463,6 @@
       "source": "199IT（新浪科技转载）",
       "url": "https://finance.sina.com.cn/tech/roll/2026-07-07/doc-inifxhzh1597436.shtml",
       "subCategory": "行业研报"
-    },
-    {
-      "id": "industry-20260707-801",
-      "title": "Counterpoint: China's 618 smartphone sales fall 13% year-on-year",
-      "summary": "Counterpoint监测显示，2026年618大促期间中国智能手机销量同比下降13%，除华为外主要品牌均两位数下滑，荣耀降33%、小米降24%，存储成本上涨及促销力度减弱是主因。",
-      "publishedAt": "2026-07-07",
-      "source": "TechNode",
-      "url": "https://technode.com/2026/07/07/counterpoint-chinas-618-smartphone-sales-fall-13-year-on-year/",
-      "subCategory": "消费零售"
-    },
-    {
-      "id": "industry-20260707-805",
-      "title": "Gartner Predicts 60% of Organizations Will Adopt Smaller Software Engineering Teams by 2029",
-      "summary": "Gartner预测，到2029年将有60%的企业采用规模化的小型软件工程团队，2026年这一比例仅为15%，AI承担更多常规技术工作，推动企业转向精简高效的工程组织模式。",
-      "publishedAt": "2026-07-07",
-      "source": "Archyde (转载自Gartner新闻室)",
-      "url": "https://www.archyde.com/gartner-predicts-60-of-organizations-will-adopt-smaller-software-engineering-teams-by-2029/",
-      "subCategory": "企业服务"
-    },
-    {
-      "title": "Luxury Is Back on Track, With Healthier Foundations (And AI Is Here To Stay)",
-      "summary": "BCG与Altagamma联合发布第12版《True-Luxury全球消费者洞察》报告，调研超1万名奢侈品消费者。报告预测2026财年行业增速2%至5%，2029年升至4%至7%；87%受访者每周使用AI，80%借助生成式AI辅助购买决策。",
-      "publishedAt": "2026-07-07",
-      "source": "BCG（联合Altagamma）",
-      "url": "https://www.bcg.com/publications/2026/luxury-healthier-foundations-and-genai",
-      "subCategory": "消费零售",
-      "id": "industry-20260711-002"
     },
     {
       "id": "industry-20260707-702",
@@ -463,6 +499,33 @@
       "url": "https://finance.sina.com.cn/stock/hkstock/hkstocknews/2026-07-06/doc-inifwfpu1903975.shtml",
       "subCategory": "半导体产业",
       "id": "industry-20260706-900"
+    },
+    {
+      "id": "industry-20260706-601",
+      "title": "Agentic AI to disrupt $234B in SaaS spending: Gartner",
+      "summary": "Gartner预测，到2030年，全球超2340亿美元企业应用软件支出将因Agentic AI面临颛覆，约占企业SaaS支出两成。AI智能体可跨系统直接完成任务、绕开传统界面，打破用户增长与收入增长的传统关联，倒逿SaaS厂商转向按结果收费。",
+      "publishedAt": "2026-07-06",
+      "source": "Gartner（CIODive报道）",
+      "url": "https://www.ciodive.com/news/agentic-ai-disrupt-234-billion-saas-spending/824530/",
+      "subCategory": "SaaS"
+    },
+    {
+      "id": "industry-20260706-602",
+      "title": "Sustainability Reporting in Europe: From Compliance to Strategy",
+      "summary": "BCG发文指出，欧盟ESRS Set 2新规将强制披露数据点减少六到七成，但大型企业年度可持续报告成本仍超百万欧元；多数企业仍将披露视为合规任务而非战略工具，BCG建议企业在2026财年前强化AI与治理能力，实现智能合规。",
+      "publishedAt": "2026-07-06",
+      "source": "BCG",
+      "url": "https://www.bcg.com/publications/2026/smart-compliance-esrs-sustainability-reporting",
+      "subCategory": "企业服务"
+    },
+    {
+      "title": "TrendForce集邦咨询：AI高端MLCC需求推升日韩大厂订单出货比，2H26缺货风险提升",
+      "summary": "TrendForce集邦咨询指出，AI服务器与云端自研芯片带动高容值MLCC需求上升，村田、三星电机、太阳诱电等大厂BB值升至1.25以上，中国大陆渠道6月起主流X5R型MLCC报价上调15%-25%，四季度或现正式缺货。",
+      "publishedAt": "2026-07-06",
+      "source": "TrendForce集邦咨询",
+      "url": "https://www.trendforce.cn/presscenter/news/20260706-13137.html",
+      "subCategory": "半导体产业",
+      "id": "industry-20260706-901"
     },
     {
       "id": "industry-20260706-305",
@@ -528,33 +591,6 @@
       "subCategory": "半导体产业"
     },
     {
-      "id": "industry-20260706-601",
-      "title": "Agentic AI to disrupt $234B in SaaS spending: Gartner",
-      "summary": "Gartner预测，到2030年，全球超2340亿美元企业应用软件支出将因Agentic AI面临颛覆，约占企业SaaS支出两成。AI智能体可跨系统直接完成任务、绕开传统界面，打破用户增长与收入增长的传统关联，倒逿SaaS厂商转向按结果收费。",
-      "publishedAt": "2026-07-06",
-      "source": "Gartner（CIODive报道）",
-      "url": "https://www.ciodive.com/news/agentic-ai-disrupt-234-billion-saas-spending/824530/",
-      "subCategory": "SaaS"
-    },
-    {
-      "id": "industry-20260706-602",
-      "title": "Sustainability Reporting in Europe: From Compliance to Strategy",
-      "summary": "BCG发文指出，欧盟ESRS Set 2新规将强制披露数据点减少六到七成，但大型企业年度可持续报告成本仍超百万欧元；多数企业仍将披露视为合规任务而非战略工具，BCG建议企业在2026财年前强化AI与治理能力，实现智能合规。",
-      "publishedAt": "2026-07-06",
-      "source": "BCG",
-      "url": "https://www.bcg.com/publications/2026/smart-compliance-esrs-sustainability-reporting",
-      "subCategory": "企业服务"
-    },
-    {
-      "title": "TrendForce集邦咨询：AI高端MLCC需求推升日韩大厂订单出货比，2H26缺货风险提升",
-      "summary": "TrendForce集邦咨询指出，AI服务器与云端自研芯片带动高容值MLCC需求上升，村田、三星电机、太阳诱电等大厂BB值升至1.25以上，中国大陆渠道6月起主流X5R型MLCC报价上调15%-25%，四季度或现正式缺货。",
-      "publishedAt": "2026-07-06",
-      "source": "TrendForce集邦咨询",
-      "url": "https://www.trendforce.cn/presscenter/news/20260706-13137.html",
-      "subCategory": "半导体产业",
-      "id": "industry-20260706-901"
-    },
-    {
       "id": "industry-20260707-704",
       "title": "比亚迪：2026年6月底闪充站7018座年底冲2万",
       "summary": "比亚迪披露，截至2026年6月底已在全国325个城市建成7018座闪充站，计划年底前建成2万座，单枪最大功率1500千瓦，5分钟可补能约400公里。",
@@ -615,6 +651,15 @@
       "publishedAt": "2026-07-05T09:10:00+05:30",
       "source": "IANS",
       "url": "https://ianslive.in/5-semiconductor-plants-likely-to-be-operational-in-india-by-2026-end--20260705090841",
+      "subCategory": "半导体产业"
+    },
+    {
+      "id": "industry-20260711-200",
+      "title": "技嘉展示 AI TOP ATOM 四机串联集群，以科学运算验证地端 AI 扩展能力",
+      "summary": "技嘉发布AI TOP ATOM四机串联集群，单节点1 PFLOPS FP4算力、128GB统一内存，联合英伟达跨节点执行分子动力学模拟，将单机约1000万原子规模扩展至超3000万原子，聚焦半导体先进封装导热材料研究。",
+      "publishedAt": "2026-07-05",
+      "source": "199IT",
+      "url": "https://www.199it.com/archives/1838683.html",
       "subCategory": "半导体产业"
     },
     {
@@ -679,51 +724,6 @@
       "source": "科技日报",
       "url": "https://www.stdaily.com/web/gdxw/2026-07/03/content_541657.html",
       "subCategory": "医疗健康"
-    },
-    {
-      "id": "industry-20260703-092",
-      "title": "TrendForce：AI服务器支撑今年Q3存储器价格，消费端价格承受力达极限令涨幅收敛",
-      "summary": "TrendForce预测，2026年第三季度DRAM合约价环比上涩13%-18%，NAND闪存涩10%-15%，AI服务器需求持续支撑存储器价格，但消费端价格承受力已近极限。",
-      "publishedAt": "2026-07-03T12:38:00+08:00",
-      "source": "IT之家",
-      "url": "https://finance.sina.com.cn/tech/digi/2026-07-03/doc-inifnxph0530122.shtml",
-      "subCategory": "半导体产业"
-    },
-    {
-      "id": "industry-20260703-104",
-      "title": "全球存储超级周期现分化信号",
-      "summary": "TrendForce预计二季度DRAM合约价环比涩58%-63%、NAND涩70%-75%，但费城半导体指数上周重掋7.9%；韩国拟投资800万亿韩元扩产DRAM，五年内产能翻倍。",
-      "publishedAt": "2026-07-03T07:00:00+08:00",
-      "source": "21世纪经济报道（新浪财经）",
-      "url": "https://finance.sina.com.cn/roll/2026-07-03/doc-inifnnxn0546015.shtml",
-      "subCategory": "半导体产业"
-    },
-    {
-      "id": "industry-20260703-002",
-      "title": "2026薪酬指南：薪酬、福利与人才趋势洞察",
-      "summary": "一份基于2029名科技、营销、零售等行业从业者调研的2026薪酬指南显示，77%的受访者去年获得加薪但仅58%对薪酬满意；82%的企业计划未来一年新增AI岗位，69%的受访者认为招聘周期过长。",
-      "publishedAt": "2026-07-03T06:09:00+08:00",
-      "source": "199IT/新浪科技",
-      "url": "https://finance.sina.com.cn/tech/roll/2026-07-03/doc-inifnnxe5602340.shtml",
-      "subCategory": "行业研报"
-    },
-    {
-      "id": "industry-20260703-001",
-      "title": "德勒：2026年全球首席战略官（CSO）报告",
-      "summary": "德勒发布2026年全球首席战略官报告，调查148位战略负责人发现，72%对公司前景乐观，但仅24%看好全球经济环境；59%将重塑增长列为首要任务，但仅35%的CSO对核心战略决策拥有主导或共同决策权。",
-      "publishedAt": "2026-07-03T04:26:00+08:00",
-      "source": "199IT/新浪科技",
-      "url": "https://finance.sina.com.cn/tech/roll/2026-07-03/doc-inifnhrk2445658.shtml",
-      "subCategory": "行业研报"
-    },
-    {
-      "id": "industry-20260703-101",
-      "title": "特斯拉二季度全球交付超48万辆",
-      "summary": "特斯拉公圦2026年第二季度全球生产超45.1万辆、交付超48万辆，同比分别增长约10%和25%，环比增长34%；上海工厂6月交付超8.9万辆，创年内新高。",
-      "publishedAt": "2026-07-03T01:10:00+08:00",
-      "source": "新浪科技",
-      "url": "https://finance.sina.com.cn/tech/roll/2026-07-03/doc-inifmvzn5824830.shtml",
-      "subCategory": "新能源汽车"
     }
   ]
 }

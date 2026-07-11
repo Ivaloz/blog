@@ -3,8 +3,179 @@
   "slug": "tech",
   "title": "科技新闻",
   "description": "前沿科技、互联网产品、芯片硬件、开源生态。",
-  "updatedAt": "2026-07-11T17:20:00+08:00",
+  "updatedAt": "2026-07-11T23:50:00+08:00",
   "items": [
+    {
+      "id": "tech-20260711-202",
+      "title": "消息称某厂测试 8°OIS± 超级微云台防抖模组，主摄尺寸或将缩小",
+      "summary": "据博主爆料，某手机厂商正测试用于下一代Ultra旗舰机型的“8°OIS±超级微云台”防抖模组，宣称可实现云台级视频防抖与运镜效果，但可能导致主摄传感器尺寸缩小至约1/1.3英寸。业界猜测该机型可能是vivo X500 Ultra或OPPO Find X10 Ultra。",
+      "publishedAt": "2026-07-11T23:34:18+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/975/624.htm",
+      "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260711-214",
+      "title": "Australia warns of global campaign targeting vulnerable CMS platforms",
+      "summary": "澳大利亚网络安全中心发布警告，指出一场针对WordPress、Joomla、Craft CMS等内容管理系统漏洞的全球性攻击活动正在蔓延，威胁行为者主要针对澳大利亚中小企业网站植入webshell，以窃取凭证、安装恶意软件并入侵网络，建议管理员及时更新补丁并加强监控。(估算)",
+      "publishedAt": "2026-07-11T10:18:00-04:00",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/australia-warns-of-global-campaign-targeting-vulnerable-cms-platforms/",
+      "subCategory": "安全漏洞"
+    },
+    {
+      "id": "tech-20260711-207",
+      "title": "小鹏 G9L 纯电 SUV 四驱版申报：大五座布局，车长超 5.1 米",
+      "summary": "小鹏汽车向工信部申报G9L纯电SUV四驱版，车身长度超过5.1米，采用大五座布局，前后双电机综合系统功率达430千瓦，电池为宁德时代提供的磷酸铁锂电池。",
+      "publishedAt": "2026-07-11T21:50:45+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/975/597.htm",
+      "subCategory": "智能汽车"
+    },
+    {
+      "id": "tech-20260711-216",
+      "title": "Your Samsung Gallery won't be able to sync with Microsoft OneDrive soon",
+      "summary": "三星与微软终止云存储合作，Samsung Gallery应用中的OneDrive同步功能将于2026年10月1日停止支持，用户届时将无法在两项服务间直接同步照片，但仍可通过微软独立应用继续备份，或改用Google Photos、Dropbox等替代方案。",
+      "publishedAt": "2026-07-11T09:30:00-04:00",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2211948/samsung-gallery-no-longer-syncing-microsoft-onedrive-september-2026/",
+      "subCategory": "互联网产品"
+    },
+    {
+      "id": "tech-20260711-205",
+      "title": "手机厂商 Ultra 超大杯机型激活量曝光：iQOO、小米、vivo 超 20 万台",
+      "summary": "博主@数码闲聊站公布各家Ultra超大杯手机目前激活量：iQOO 15 Ultra约24.1万台，小米17 Ultra约23.3万台，vivo X300 Ultra约22.4万台，OPPO Find X9 Ultra约13.6万台明显落后于前三者。",
+      "publishedAt": "2026-07-11T21:19:38+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/975/592.htm",
+      "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260711-217",
+      "title": "Bluesky has an official CEO again",
+      "summary": "曾任Automattic创始CEO的Toni Schneider在Jay Graber今年3月离职后一直代理Bluesky首席执行官一职，现已被正式任命为该平台永久CEO，其表示将继续推进Bluesky去中心化公共对话技术的发展及后续社区功能建设。",
+      "publishedAt": "2026-07-11T09:07:00-04:00",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2212928/bluesky-official-ceo-toni-schneider/",
+      "subCategory": "互联网产品"
+    },
+    {
+      "id": "tech-20260711-208",
+      "title": "广汽启境 GT7 增程版更多信息公布：宁德时代电池、华为乾崑智驾 ADS 5",
+      "summary": "广汽启境GT7增程版完成工信部申报，公布更多技术信息：CLTC综合续航达1300公里，纯电续航252公里，搭载宁德时代电池与华为乾崑智驾ADS 5系统，纯电版车型起售价20.99万元。",
+      "publishedAt": "2026-07-11T20:44:59+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/975/588.htm",
+      "subCategory": "智能汽车"
+    },
+    {
+      "id": "tech-20260711-203",
+      "title": "小米 REDMI Note 17 系列手机规格曝光：骁龙 4 Gen4 / 6s Gen4，主摄 50MP",
+      "summary": "小米REDMI Note 17系列手机规格于7月14日发布前曝光，标准版搭载骁龙4 Gen4处理器及8000mAh电池，Pro版升级为骁龙6s Gen4处理器、9000mAh电池并支持更高快充功率，主摄均为5000万像素。",
+      "publishedAt": "2026-07-11T20:30:07+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/975/586.htm",
+      "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260711-218",
+      "title": "Spotify Release Radar's new personalization options improve your music recommendations",
+      "summary": "Spotify为Release Radar功能新增个性化设置选项，用户可通过“发现新歌手”“编辑精选”“轻松聆听”等标签调整推荐内容，该更新已在移动端与桌面端上线，并配合改进的推荐算法与全新视觉设计，帮助用户减少接收到不感兴趣曲目的概率。",
+      "publishedAt": "2026-07-11T08:16:00-04:00",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2212917/spotify-release-radar-personalization-options-refined-session-controls/",
+      "subCategory": "互联网产品"
+    },
+    {
+      "id": "tech-20260711-209",
+      "title": "吉利银河 TT 纯电轿车技术信息公布：全域 800V 三高压平台、千里浩瀚辅助驾驶 H7",
+      "summary": "吉利银河公布TT纯电轿车技术信息，全系采用800V高压平台，双电机两驱版峰值功率245千瓦，四驱版峰值功率425千瓦，提供四种电池版本，CLTC续航540至725公里，配备激光雷达与千里浩瀚H7辅助驾驶系统。",
+      "publishedAt": "2026-07-11T20:00:39+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/975/582.htm",
+      "subCategory": "智能汽车"
+    },
+    {
+      "id": "tech-20260711-201",
+      "title": "用计算换显存：AMD 公布 PEPS 纹理压缩新技术，保持同级画质的前提下参数减少 25%",
+      "summary": "AMD在2026年I3D图形学会议上公布名为PEPS的神经纹理压缩新技术，通过将正弦/余弦投影视为Lissajous曲线上的点进行采样，在保持同级画质前提下将参数量减少25%，但会以增加计算开销来换取显存节省。",
+      "publishedAt": "2026-07-11T19:27:16+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/975/580.htm",
+      "subCategory": "芯片硬件"
+    },
+    {
+      "id": "tech-20260711-206",
+      "title": "京东首个 RoboBase 项目落地广州，打造机器人全生命周期产业基础设施",
+      "summary": "京东集团与广东省政府签署战略合作协议，首个RoboBase项目在广州黄埔正式开工。项目为机器人全生命周期产业基础设施，总建筑面积约19万平方米，聚焦机器人核心零部件、整机制造与高端智能装备三大领域。",
+      "publishedAt": "2026-07-11T19:24:15+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/975/578.htm",
+      "subCategory": "机器人"
+    },
+    {
+      "id": "tech-20260711-212",
+      "title": "黑客借 GitHub 撒网投毒：超 200 个仓库暗藏远控木马、挖矿程序等恶意软件",
+      "summary": "安全公司Socket披露名为“Muck and Load”的大规模恶意软件活动，攻击者自2026年1月起通过GitHub分发超1200个伪装成DNS扫描工具的恶意版本，涉及190个账号下222个已确认的诱饵代码仓库，内含远控木马、信息窃取程序与加密货币挖矿程序，主要针对Windows用户。",
+      "publishedAt": "2026-07-11T19:14:46+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/975/577.htm",
+      "subCategory": "安全漏洞"
+    },
+    {
+      "id": "tech-20260711-204",
+      "title": "海信墨水屏手机 A10 预热：背面可磁吸 LCD 彩屏，支持 5G 全网通",
+      "summary": "海信公布墨水屏手机A10预热信息，机身正面为6.13英寸类纸质墨水屏，背面配备可磁吸的LCD彩色副屏，搭载4nm八核骁龙处理器，运行Android 16系统，支持5G全网通及Wi-Fi 6。",
+      "publishedAt": "2026-07-11T19:03:01+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/975/574.htm",
+      "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260711-215",
+      "title": "谷歌 Voice 十年来最大调整告别“纯免费”：个人订阅每月 10 美元起，Gemini 纪要功能首次下放",
+      "summary": "谷歌Voice推出首个面向个人用户的付费订阅计划，结束近二十年的纯免费模式。Voice Starter套餐每月10美元，提供全天候支持与三方通话；Voice Standard套餐每月20美元，新增Gemini通话纪要与智能来电分类功能。",
+      "publishedAt": "2026-07-11T19:01:54+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/975/573.htm",
+      "subCategory": "互联网产品"
+    },
+    {
+      "id": "tech-20260711-211",
+      "title": "开源系统 Armada OS 让高通骁龙掌机变身 Steam Deck：可运行《赛博朋克 2077》等 3A 游戏",
+      "summary": "Armada OS是一款开源Linux发行版，旨在将基于高通骁龙芯片的安卓掌机改造成类似Steam Deck的设备，通过集成Steam、FEX转译技术与Proton 11实现x86 PC游戏在ARM架构设备上运行，目前仍处于原型开发阶段，安装过程存在潜在引导风险。",
+      "publishedAt": "2026-07-11T17:35:56+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/975/539.htm",
+      "subCategory": "开源生态"
+    },
+    {
+      "id": "tech-20260711-200",
+      "title": "删了但没完全删：英伟达 RTX 50 系列 GPU“隐藏热点”被解锁，平均温度 70-80℃ 但局部已超 107℃",
+      "summary": "英伟达通过软件移除了RTX 50系列GPU的热点温度监控功能，但硬件传感器仍保留。一名巴西硬件技术人员成功解锁该功能，发现平均GPU温度显示正常（70-80℃），但局部温度已超过107℃，推测因散热器接触不良或导热膏涂抹不当导致降频。",
+      "publishedAt": "2026-07-11T17:11:22+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/975/534.htm",
+      "subCategory": "芯片硬件"
+    },
+    {
+      "id": "tech-20260711-213",
+      "title": "从路由器到服务器：潜伏 13 年的 U-Boot 漏洞曝光，威胁数百万设备",
+      "summary": "安全公司Binarly披露开源引导程序U-Boot中六个严重漏洞，这些漏洞自2013年7月起一直存在，其中两个可导致任意代码执行，四个可引发拒绝服务攻击，可能影响从路由器到服务器的数百万台设备，漏洞存在于FIT镜像签名验证代码中。",
+      "publishedAt": "2026-07-11T16:54:27+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/975/531.htm",
+      "subCategory": "安全漏洞"
+    },
+    {
+      "id": "tech-20260711-210",
+      "title": "小米汽车澎程 N90 MAX 去伪装后实车图曝光，轴距超 3 米",
+      "summary": "小米汽车澎程N90 MAX通过工信部申报公开实车图，定位插电混动多用途乘用车，轴距达3080毫米，提供5座与7座版本，车长5285毫米，双电机峰值功率合计210千瓦/100千瓦，配备三元锂电池。",
+      "publishedAt": "2026-07-11T16:45:43+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/975/520.htm",
+      "subCategory": "智能汽车"
+    },
     {
       "title": "盖世小鸡公布《如龙》联名G7 Pro手柄",
       "summary": "盖世小鸡推出《如龙》联名授权手柄G7 Pro，并预告将与多款游戏及创作者推出后续联名产品。",
@@ -195,6 +366,33 @@
       "id": "tech-20260711-002"
     },
     {
+      "title": "CodeQL 2.26.0 adds Kotlin 2.4.0 support and AI prompt injection detection",
+      "summary": "GitHub 发布代码扫描引擎 CodeQL 2.26.0 版本，新增对 Kotlin 2.4.0 的支持，并推出新查询规则用于检测流入 AI 模型系统提示词的不可信用户输入，同时扩展了对 Go、C# 等语言的安全检测能力。",
+      "publishedAt": "2026-07-10T20:40:56Z",
+      "source": "GitHub Changelog",
+      "url": "https://github.blog/changelog/2026-07-10-codeql-2-26-0-adds-kotlin-2-4-0-support-and-ai-prompt-injection-detection/",
+      "subCategory": "开发者工具",
+      "id": "tech-20260711-006"
+    },
+    {
+      "title": "Clearer names for secret scanning detector types",
+      "summary": "GitHub 更新了密钥扫描检测器类型的命名方式，将\"非提供商模式\"改为\"通用模式\"，\"Copilot 密钥扫描\"改为\"AI 检测密钥\"，官方说明此次调整仅涉及术语，不影响检测功能、API 行为或 webhook 事件。",
+      "publishedAt": "2026-07-10T20:06:10Z",
+      "source": "GitHub Changelog",
+      "url": "https://github.blog/changelog/2026-07-10-clearer-names-for-secret-scanning-detector-types/",
+      "subCategory": "开发者工具",
+      "id": "tech-20260711-007"
+    },
+    {
+      "title": "Progress urges ShareFile admins to shut down servers over \"credible\" threat",
+      "summary": "Progress 软件公司要求使用 Storage Zone Controllers 的 ShareFile 客户立即关闭本地服务器，称已发现针对该产品的可信外部安全威胁，并临时禁用受影响客户账户访问，将在 24 小时内提供后续更新。",
+      "publishedAt": "2026-07-10T12:26:00-04:00",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/progress-urges-sharefile-customers-to-shut-down-servers-over-credible-threat/",
+      "subCategory": "安全漏洞",
+      "id": "tech-20260711-005"
+    },
+    {
       "id": "tech-20260710-102",
       "title": "募资265亿美元超阿里创外企赴美IPO纪录：SK海力士ADR预示开盘价180美元，首日涨超20%",
       "summary": "SK海力士美国存托凭证在纳斯达克上市，募资约265亿美元，超过阿里巴巴此前外企赴美IPO纪录，定价149美元/股，预市价格显示开盘价约180美元，涨幅约21%，认购倍数超7倍，机构投资者超500家。",
@@ -211,6 +409,15 @@
       "source": "IT之家",
       "url": "https://www.ithome.com/0/975/361.htm",
       "subCategory": "智能汽车"
+    },
+    {
+      "title": "Per-user states for multi-user budgets in the REST API",
+      "summary": "GitHub 为 REST API 新增按用户查看多用户预算消耗情况的接口，企业所有者与账单管理员可通过单次调用获取所有用户的预算使用进度，并支持按消耗占比筛选和排序，此前需逐个用户单独查询。",
+      "publishedAt": "2026-07-10T15:07:23Z",
+      "source": "GitHub Changelog",
+      "url": "https://github.blog/changelog/2026-07-10-per-user-states-for-multi-user-budgets-in-the-rest-api/",
+      "subCategory": "开发者工具",
+      "id": "tech-20260711-008"
     },
     {
       "id": "tech-20260710-116",
@@ -303,15 +510,6 @@
       "id": "tech-20260711-004"
     },
     {
-      "title": "CodeQL 2.26.0 adds Kotlin 2.4.0 support and AI prompt injection detection",
-      "summary": "GitHub 发布代码扫描引擎 CodeQL 2.26.0 版本，新增对 Kotlin 2.4.0 的支持，并推出新查询规则用于检测流入 AI 模型系统提示词的不可信用户输入，同时扩展了对 Go、C# 等语言的安全检测能力。",
-      "publishedAt": "2026-07-10T20:40:56Z",
-      "source": "GitHub Changelog",
-      "url": "https://github.blog/changelog/2026-07-10-codeql-2-26-0-adds-kotlin-2-4-0-support-and-ai-prompt-injection-detection/",
-      "subCategory": "开发者工具",
-      "id": "tech-20260711-006"
-    },
-    {
       "id": "tech-20260710-106",
       "title": "三星Galaxy Z Fold8系列美版价格泄露：Ultra版2099美元起，涨价100美元",
       "summary": "据韩媒报道，三星Galaxy Z Fold8系列256GB版本美版起售价1899美元，Ultra版同容量为2099美元，较上代Z Fold7涨价100美元，官方价格仍在最终审核中，新机预计7月22日发布。",
@@ -339,15 +537,6 @@
       "subCategory": "网络基础设施"
     },
     {
-      "title": "Clearer names for secret scanning detector types",
-      "summary": "GitHub 更新了密钥扫描检测器类型的命名方式，将\"非提供商模式\"改为\"通用模式\"，\"Copilot 密钥扫描\"改为\"AI 检测密钥\"，官方说明此次调整仅涉及术语，不影响检测功能、API 行为或 webhook 事件。",
-      "publishedAt": "2026-07-10T20:06:10Z",
-      "source": "GitHub Changelog",
-      "url": "https://github.blog/changelog/2026-07-10-clearer-names-for-secret-scanning-detector-types/",
-      "subCategory": "开发者工具",
-      "id": "tech-20260711-007"
-    },
-    {
       "id": "tech-20260710-118",
       "title": "上纬新材将在WAIC 2026发布全球首款可变形个人机器人启元T1",
       "summary": "上纬新材宣布将在WAIC 2026发布可变形个人机器人\"启元T1\"，该产品可在轮式人形与四足形态间自动切换，是公司首款面向家庭消费场景的机器人产品。",
@@ -373,24 +562,6 @@
       "source": "IT之家",
       "url": "https://www.ithome.com/0/974/578.htm",
       "subCategory": "芯片硬件"
-    },
-    {
-      "title": "Per-user states for multi-user budgets in the REST API",
-      "summary": "GitHub 为 REST API 新增按用户查看多用户预算消耗情况的接口，企业所有者与账单管理员可通过单次调用获取所有用户的预算使用进度，并支持按消耗占比筛选和排序，此前需逐个用户单独查询。",
-      "publishedAt": "2026-07-10T15:07:23Z",
-      "source": "GitHub Changelog",
-      "url": "https://github.blog/changelog/2026-07-10-per-user-states-for-multi-user-budgets-in-the-rest-api/",
-      "subCategory": "开发者工具",
-      "id": "tech-20260711-008"
-    },
-    {
-      "title": "Progress urges ShareFile admins to shut down servers over \"credible\" threat",
-      "summary": "Progress 软件公司要求使用 Storage Zone Controllers 的 ShareFile 客户立即关闭本地服务器，称已发现针对该产品的可信外部安全威胁，并临时禁用受影响客户账户访问，将在 24 小时内提供后续更新。",
-      "publishedAt": "2026-07-10T12:26:00-04:00",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/progress-urges-sharefile-customers-to-shut-down-servers-over-credible-threat/",
-      "subCategory": "安全漏洞",
-      "id": "tech-20260711-005"
     },
     {
       "id": "tech-20260710-101",
@@ -553,177 +724,6 @@
       "source": "IT之家",
       "url": "https://www.ithome.com/0/974/758.htm",
       "subCategory": "消费电子"
-    },
-    {
-      "id": "tech-20260710-013",
-      "title": "华硕ROG宣布Pelta Core有线耳机，50mm镀钛单元",
-      "summary": "华硕ROG发布Pelta Core（破风标准版）有线电竞耳机，配备50mm钛镀振膜单元，频响20Hz-20kHz，阻抗32欧姆，支持参数均衡调节，麦克风长10mm可一键静音，整机重300克，采用USB-C接口。",
-      "publishedAt": "2026-07-09T21:28:28+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/974/757.htm",
-      "subCategory": "消费电子"
-    },
-    {
-      "id": "tech-20260710-014",
-      "title": "美光宣布加快美国晶圆厂投资，2035年总投资额将提高至2500亿美元以上",
-      "summary": "美光科技宣布加码美国半导体制造投资，到2035年累计投资额将超2500亿美元，未来约40%的DRAM产能转移至美国本土生产，纽约克莱工厂已提前浇筑里程碑，爱达荷州工厂预计2027年中及2028年底投产。",
-      "publishedAt": "2026-07-09T21:27:49+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/974/756.htm",
-      "subCategory": "芯片硬件"
-    },
-    {
-      "id": "tech-20260710-015",
-      "title": "紫光闪芯发布企业级PCIe 4.0固态硬盘E4600/E4700",
-      "summary": "新紫光集团旗下紫光闪芯推出企业级PCIe 4.0固态硬盘E4600/E4700，顺序读写达7.0GB/s，随机性能150万IOPS，支持双端口与掉电保护，耐久度1DWPD，兼容统信、麒麟等国产操作系统及Windows Server。",
-      "publishedAt": "2026-07-09T21:25:11+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/974/755.htm",
-      "subCategory": "芯片硬件"
-    },
-    {
-      "id": "tech-20260709-108",
-      "title": "AMD推出4款锐龙100系列新品，实为\"Hawk Point\"老架构换标",
-      "summary": "AMD于近期发布锐龙9 180、锐龙7 165、锐龙7 155、锐龙5 125四款新处理器，标称Zen 3+，但原始代号、核心工艺、内存频率等信息显示其实际属于Zen 4世代的\"Hawk Point\"系列，命名方式引发混淆。",
-      "publishedAt": "2026-07-09T14:07:41+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/974/491.htm",
-      "subCategory": "芯片硬件"
-    },
-    {
-      "id": "tech-20260709-107",
-      "title": "晶圆代工定价格局生变，AI投资扩张推动台积电、三星涨价",
-      "summary": "台积电已通知英伟达、苹果、AMD等主要客户，3nm、5nm、7nm等先进制程价格将上调5%-10%；三星对新客户的4nm、5nm产能报价涨幅约15%，行业定价逻辑由技术成熟度转向供需与投资成本。",
-      "publishedAt": "2026-07-09T13:30:13+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/974/483.htm",
-      "subCategory": "芯片硬件"
-    },
-    {
-      "id": "tech-20260709-109",
-      "title": "大疆无人机飞上珠峰高空探大气，抵达8861米最高飞行海拔",
-      "summary": "大疆首款eVTOL载具无人机EV50在珠峰北坡完成12天科考任务，克服低压、严寒与强风，累计起降32架次，最大连续爬升3730米，协助科研人员在对流层上部采集大气污染样本。",
-      "publishedAt": "2026-07-09T13:20:00+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/974/481.htm",
-      "subCategory": "消费电子"
-    },
-    {
-      "id": "tech-20260709-113",
-      "title": "苹果watchOS 27 Beta 3新特性：Siri可为Apple Watch计时器追加时长",
-      "summary": "watchOS 27 Beta 3新增Siri功能，用户可直接要求Siri为正在运行的计时器追加时长，例如剩余4分42秒时追加2分钟后显示6分42秒并继续倒计时，无需重新设置整段时间。",
-      "publishedAt": "2026-07-09T13:18:23+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/974/480.htm",
-      "subCategory": "操作系统"
-    },
-    {
-      "id": "tech-20260709-105",
-      "title": "全国最大单体国产AI算力池落地郑州，国家超算互联网核心节点上线",
-      "summary": "2026河南人工智能大会上，郑州上线全国首个十万卡级超大规模智算资源池，由中科曙光与河南省科学院联合建设，可提供超10万张国产AI加速卡算力，接入全国30余个超算中心。",
-      "publishedAt": "2026-07-09T10:31:26+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/974/370.htm",
-      "subCategory": "云计算"
-    },
-    {
-      "id": "tech-20260709-104",
-      "title": "小鹏汽车Robotaxi完成内测第一单，何小鹏亲自体验",
-      "summary": "小鹏汽车CEO何小鹏成为该公司Robotaxi内测第一位乘客，车辆基于GX平台打造，搭载四颗自研芯片，算力3000TOPS，支持L4级自动驾驶，未来数周将向内部员工及广州用户开放。",
-      "publishedAt": "2026-07-09T10:21:07+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/974/353.htm",
-      "subCategory": "智能汽车"
-    },
-    {
-      "id": "tech-20260709-101",
-      "title": "10核AMD Zen 6 APU样品跑分曝光，单核多核均超Ryzen AI 9 365",
-      "summary": "Geekbench出现一款10核AMD Zen 6 APU工程样品，采用4+6核簇设计，单核成绩较Ryzen AI 9 365提升约29%，多核提升约22%，支持FP16和AVX-VNNI指令集，功耗定位28-45W移动平台。",
-      "publishedAt": "2026-07-09T10:14:14+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/974/347.htm",
-      "subCategory": "芯片硬件"
-    },
-    {
-      "id": "tech-20260709-103",
-      "title": "消息称苹果iPhone 18 Pro系列A20 Pro芯片沿用LPDDR5X，升级至6通道96-bit位宽",
-      "summary": "据科技媒体消息，苹果iPhone 18 Pro/Pro Max的A20 Pro芯片仍采用LPDDR5X内存，但由4通道64-bit升级为6通道96-bit位宽，以提升本地AI处理时的数据吞吐能力。",
-      "publishedAt": "2026-07-09T10:01:14+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/974/336.htm",
-      "subCategory": "芯片硬件"
-    },
-    {
-      "id": "tech-20260709-106",
-      "title": "Meta首座加拿大数据中心动工，规模1GW投资130亿加元",
-      "summary": "Meta宣布在加拿大阿尔伯塔省斯特金动工建设其第33座全球数据中心，设计容量1GW，投资约130亿加元，将采用清洁能源和液冷技术，预计创造超300个长期岗位。",
-      "publishedAt": "2026-07-09T09:19:46+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/974/318.htm",
-      "subCategory": "云计算"
-    },
-    {
-      "id": "tech-20260709-102",
-      "title": "微软发布TypeScript 7.0正式版，编译器改用Go语言重写",
-      "summary": "TypeScript 7.0正式发布，编译器核心以Go语言重写，官方称编译速度较6.0平均提升约10倍，编辑器错误检测时间从17.5秒降至1.3秒以内，并保持与旧版本的语义兼容。",
-      "publishedAt": "2026-07-09T09:03:39+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/974/313.htm",
-      "subCategory": "开发者工具"
-    },
-    {
-      "id": "tech-20260709-114",
-      "title": "国家网络安全通报中心通报72款App存在隐私违规，涉爱回收、平安证券等",
-      "summary": "国家网络安全通报中心指出，72款App及微信小程序存在未明示隐私政策、未详细说明第三方数据收集、擅自共享个人信息、缺乏撤回同意机制或加密保护不足等问题，检测周期为5月20日至6月22日，涉严重违规者将被追责。",
-      "publishedAt": "2026-07-09T08:38:19+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/974/301.htm",
-      "subCategory": "安全漏洞"
-    },
-    {
-      "title": "消息称苹果已停止为iPhone 5c等机型签署旧版iOS验证",
-      "summary": "据X平台用户Aaron Perris披露，苹果已停止为iPhone 5c、iPhone 5等老机型签署iOS 10.3.3/10.3.4等旧版验证文件，同时停止为部分iPad mini、iPad 2机型的iOS 6.1.3、8.4.1、9.3.5/9.3.6等版本签名。",
-      "publishedAt": "2026-07-09T08:22:46+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/974/297.htm",
-      "subCategory": "操作系统",
-      "id": "tech-20260709-903"
-    },
-    {
-      "id": "tech-20260709-110",
-      "title": "欧盟拟利用卫星技术自动防止车辆超速，可远程降低动力输出",
-      "summary": "欧盟提议自2030年起要求境内新车配备卫星辅助限速系统，通过卫星定位与车载传感器判断车辆位置并比对当地限速，超速时可直接降低车辆动力输出，较现行智能限速辅助系统更为严格。",
-      "publishedAt": "2026-07-09T07:53:33+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/974/292.htm",
-      "subCategory": "智能汽车"
-    },
-    {
-      "title": "小米汽车官宣全新产品系列：SkyNomad 小米澎程智能可变大空间 SUV",
-      "summary": "小米汽车发布全新品牌SkyNomad（中文名“小米澎程”），首款车型为智能可变大空间SUV，主打车内空间可按需自由变化，采用棱角分明的全新前脸设计，区别于现有SU7、YU7车型。",
-      "publishedAt": "2026-07-09T07:45:07+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/974/291.htm",
-      "subCategory": "智能汽车",
-      "id": "tech-20260709-900"
-    },
-    {
-      "id": "tech-20260709-950",
-      "title": "IDC 称 2026Q2 苹果 Mac 独树一帜，全球 PC 出货量普降背景下同比增幅 10.1%",
-      "summary": "IDC数据显示，2026年第二季度全球PC出货量6820万台，同比下降4.9%，结束此前连续九个季度增长，主因存储芯片涨价抑制消费需求；苹果Mac出货670万台，同比增长10.1%，市场份额升至9.9%，为前五大厂商中增速最高者。",
-      "publishedAt": "2026-07-09T07:37:00+08:00",
-      "source": "新浪科技（IT之家）",
-      "url": "https://finance.sina.com.cn/tech/digi/2026-07-09/doc-inihefvk4490351.shtml",
-      "subCategory": "消费电子"
-    },
-    {
-      "title": "Meta 正研发“超级感知”智能眼镜，可连续录音并每隔几秒自动拍照",
-      "summary": "据英国《金融时报》报道，Meta正开发代号“超级感知”的智能眼镜原型，可连续录音并每隔数秒自动拍照供AI调用分析。知情人士称设备在AI功能运行时不会持续点亮录制指示灯，引发隐私争议。",
-      "publishedAt": "2026-07-09T07:36:23+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/974/288.htm",
-      "subCategory": "XR-AR-VR",
-      "id": "tech-20260709-901"
     }
   ]
 }
