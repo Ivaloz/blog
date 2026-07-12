@@ -3,7 +3,7 @@
   "slug": "finance",
   "title": "投资与财经",
   "description": "宏观经济、A 股 / 港股 / 美股、一级市场融资、行业研报观点。",
-  "updatedAt": "2026-07-11T23:50:00+08:00",
+  "updatedAt": "2026-07-12T08:45:00+08:00",
   "items": [
     {
       "id": "finance-20260711-203",
@@ -96,24 +96,6 @@
       "subCategory": "宏观经济"
     },
     {
-      "id": "finance-20260710-101",
-      "title": "Chip giant SK Hynix jumps 14% in US market debut",
-      "summary": "SK海力士美国存托凭证周五在纳斯达克以临时代码SKHYV上市，开盘报170美元，较149美元发行价上涨14%。公司通过此次发行融资265亿美元，为外国企业在美最大规模首次公开发行，认购需求达发行股数约7倍。",
-      "publishedAt": "2026-07-10T11:20:00-05:00",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/technology/article/chip-giant-sk-hynix-raises-265-billion-in-blockbuster-us-share-offering-193700352.html",
-      "subCategory": "美股"
-    },
-    {
-      "id": "finance-20260710-102",
-      "title": "Delta Q2 earnings top estimates, reinstates full-year guidance as fuel prices bite",
-      "summary": "达美航空公布2026年第二季度业绩，调整后每股收益1.56美元，超预期的1.51美元，调整后营收176.7亿美元，同比增长14%，创公司纪录。公司维持全年调整后每股收益6.50至7.50美元的指引。",
-      "publishedAt": "2026-07-10T09:30:00-05:00",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/article/delta-q2-earnings-top-estimates-reinstates-full-year-guidance-as-fuel-prices-bite-175815467.html",
-      "subCategory": "公司财报"
-    },
-    {
       "title": "铜产品量价齐升叠加钼钨价格走高，洛阳钼业上半年净利同比预增超七成",
       "summary": "洛阳钼业预计2026年上半年净利润155亿至165亿元，同比增长78.76%至90.29%，主因铜产品量价齐升、钼钨价格走高及巴西金矿业务并表，上半年铜金属产量约38.8万吨，同比增约9.73%。",
       "publishedAt": "2026-07-10T22:17:55+08:00",
@@ -141,15 +123,6 @@
       "id": "finance-20260711-004"
     },
     {
-      "id": "finance-20260710-103",
-      "title": "PepsiCo, downgrade di Citi a Neutral su debolezza Nord America",
-      "summary": "花旗将百事公司评级从买入下调至中性，目标价从170美元降至145美元，理由是北美食品及饮料业务持续疲软，第二季度北美有机销售增长不及预期，且担忧2027年业绩存在压力。",
-      "publishedAt": "2026-07-10T15:33:00+02:00",
-      "source": "Teleborsa",
-      "url": "https://www.teleborsa.it/News/2026/07/10/pepsico-downgrade-di-citi-a-neutral-su-debolezza-nord-america-153.html",
-      "subCategory": "美股"
-    },
-    {
       "id": "finance-20260710-106",
       "title": "全国用电负荷创15.18亿千瓦历史新高",
       "summary": "7月10日，全国用电负荷今年以来首次创历史新高，最高达15.18亿千瓦，较此前历史极值增加1000万千瓦，工业用电、服务业用电增长及高温降温负荷共同推高用电需求，新能源发电贡献超四成高峰出力。",
@@ -157,15 +130,6 @@
       "source": "新华网",
       "url": "https://www.news.cn/fortune/20260710/ebeef5487fca4bdabeeef991393df305/c.html",
       "subCategory": "宏观经济"
-    },
-    {
-      "id": "finance-20260710-108",
-      "title": "Gold prices today, Friday, July 10, 2026: Gold finally opens higher this morning",
-      "summary": "7月10日纽约黄金期货8月合约开盘报每盎司4135.40美元，较前一交易日开盘价上涨1.2%，此后回落至4115.10美元，市场受美伊军事紧张局势升级及油价上涨带动的通胀担忧影响。",
-      "publishedAt": "2026-07-10T07:08:00-05:00",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-friday-july-10-2026-gold-finally-opens-higher-this-morning-120806614.html",
-      "subCategory": "大宗商品"
     },
     {
       "title": "领益智造拟不超40亿元参与重整富通嘉善 切入光纤通信材料应用领域",
@@ -184,15 +148,6 @@
       "url": "https://www.yicai.com/news/103269782.html",
       "subCategory": "风险事件",
       "id": "finance-20260711-007"
-    },
-    {
-      "id": "finance-20260710-109",
-      "title": "Current price of oil as of July 10, 2026",
-      "summary": "截至美国东部时间7月10日早6点15分，以布伦特原油为基准的油价报每桶76.80美元，较前一交易日下跌2.45美元，同比去年7月上涨约7.17美元，但较上月下跌约18.73%。",
-      "publishedAt": "2026-07-10T06:17:00-04:00",
-      "source": "Fortune",
-      "url": "https://fortune.com/article/price-of-oil-07-10-2026/",
-      "subCategory": "大宗商品"
     },
     {
       "id": "finance-20260710-110",
@@ -231,6 +186,15 @@
       "subCategory": "风险事件"
     },
     {
+      "id": "finance-20260710-103",
+      "title": "PepsiCo, downgrade di Citi a Neutral su debolezza Nord America",
+      "summary": "花旗将百事公司评级从买入下调至中性，目标价从170美元降至145美元，理由是北美食品及饮料业务持续疲软，第二季度北美有机销售增长不及预期，且担忧2027年业绩存在压力。",
+      "publishedAt": "2026-07-10T15:33:00+02:00",
+      "source": "Teleborsa",
+      "url": "https://www.teleborsa.it/News/2026/07/10/pepsico-downgrade-di-citi-a-neutral-su-debolezza-nord-america-153.html",
+      "subCategory": "美股"
+    },
+    {
       "id": "finance-20260710-112",
       "title": "重磅利好传来！商业航天，集体狂飙",
       "summary": "7月10日12时14分，长征十号B运载火箭在海南商业航天发射场发射，一子级垂直返回并通过绳网捕获方式在海上平台成功回收，为我国首次运载火箭一子级可控回收，也是全球首次绳网捕获回收，消息带动商业航天概念股集体涨停。",
@@ -247,6 +211,15 @@
       "source": "证券时报",
       "url": "https://www.stcn.com/article/detail/4010982.html",
       "subCategory": "A股"
+    },
+    {
+      "id": "finance-20260710-101",
+      "title": "Chip giant SK Hynix jumps 14% in US market debut",
+      "summary": "SK海力士美国存托凭证周五在纳斯达克以临时代码SKHYV上市，开盘报170美元，较149美元发行价上涨14%。公司通过此次发行融资265亿美元，为外国企业在美最大规模首次公开发行，认购需求达发行股数约7倍。",
+      "publishedAt": "2026-07-10T11:20:00-05:00",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/article/chip-giant-sk-hynix-raises-265-billion-in-blockbuster-us-share-offering-193700352.html",
+      "subCategory": "美股"
     },
     {
       "title": "7倍认购、机构抢筹！MiniMax，再融160亿港元！",
@@ -276,6 +249,15 @@
       "subCategory": "港股"
     },
     {
+      "id": "finance-20260710-102",
+      "title": "Delta Q2 earnings top estimates, reinstates full-year guidance as fuel prices bite",
+      "summary": "达美航空公布2026年第二季度业绩，调整后每股收益1.56美元，超预期的1.51美元，调整后营收176.7亿美元，同比增长14%，创公司纪录。公司维持全年调整后每股收益6.50至7.50美元的指引。",
+      "publishedAt": "2026-07-10T09:30:00-05:00",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/article/delta-q2-earnings-top-estimates-reinstates-full-year-guidance-as-fuel-prices-bite-175815467.html",
+      "subCategory": "公司财报"
+    },
+    {
       "title": "2026年7月10日中国外汇交易中心受权公布人民币汇率中间价公告",
       "summary": "中国外汇交易中心公布7月10日银行间外汇市场人民币汇率中间价，1美元对人民币6.7989元，1欧元对人民币7.7712元，1港元对人民币0.86754元，1英镑对人民币9.1157元。",
       "publishedAt": "2026-07-10T09:25:32+08:00",
@@ -283,6 +265,33 @@
       "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125217/125925/2026071009003741941/index.html",
       "subCategory": "宏观经济",
       "id": "finance-20260711-008"
+    },
+    {
+      "id": "finance-20260710-006",
+      "title": "芯片股气势如虹，纳指劲升1.3%，闪迪涨7.59%，中概股涨跌互现，国际油价回落",
+      "summary": "美股7月9日收盘，道指涨0.27%报52487.41点，纳指涨1.30%报26206.89点，标普500指数涨0.81%报7543.64点；芯片股普涨，闪迪涨7.59%，AMD涨5.67%，美光科技涨4.52%，费城半导体ETF涨2.48%。",
+      "publishedAt": "2026-07-10T07:15:00+08:00",
+      "source": "第一财经资讯（网易财经转载）",
+      "url": "https://www.163.com/dy/article/L1F70FC10519DDQ2.html",
+      "subCategory": "美股"
+    },
+    {
+      "id": "finance-20260710-108",
+      "title": "Gold prices today, Friday, July 10, 2026: Gold finally opens higher this morning",
+      "summary": "7月10日纽约黄金期货8月合约开盘报每盎司4135.40美元，较前一交易日开盘价上涨1.2%，此后回落至4115.10美元，市场受美伊军事紧张局势升级及油价上涨带动的通胀担忧影响。",
+      "publishedAt": "2026-07-10T07:08:00-05:00",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-friday-july-10-2026-gold-finally-opens-higher-this-morning-120806614.html",
+      "subCategory": "大宗商品"
+    },
+    {
+      "id": "finance-20260710-109",
+      "title": "Current price of oil as of July 10, 2026",
+      "summary": "截至美国东部时间7月10日早6点15分，以布伦特原油为基准的油价报每桶76.80美元，较前一交易日下跌2.45美元，同比去年7月上涨约7.17美元，但较上月下跌约18.73%。",
+      "publishedAt": "2026-07-10T06:17:00-04:00",
+      "source": "Fortune",
+      "url": "https://fortune.com/article/price-of-oil-07-10-2026/",
+      "subCategory": "大宗商品"
     },
     {
       "title": "How Major US Stock Indexes Fared July 10",
@@ -301,15 +310,6 @@
       "url": "https://www.amillex.com/2026/07/10/amillex%E5%AE%89%E8%BF%88%E6%AF%8F%E6%97%A5%E6%B1%87%E8%AF%84%EF%BD%9C%E5%AE%8F%E8%A7%82%E4%B8%8D%E7%A1%AE%E5%AE%9A%E6%80%A7%E9%99%8D%E6%B8%A9%E4%B8%8E%E6%94%BF%E7%AD%96%E9%A2%84%E6%9C%9F%E4%BA%A4/",
       "subCategory": "大宗商品",
       "id": "finance-20260711-009"
-    },
-    {
-      "id": "finance-20260710-006",
-      "title": "芯片股气势如虹，纳指劲升1.3%，闪迪涨7.59%，中概股涨跌互现，国际油价回落",
-      "summary": "美股7月9日收盘，道指涨0.27%报52487.41点，纳指涨1.30%报26206.89点，标普500指数涨0.81%报7543.64点；芯片股普涨，闪迪涨7.59%，AMD涨5.67%，美光科技涨4.52%，费城半导体ETF涨2.48%。",
-      "publishedAt": "2026-07-10T07:15:00+08:00",
-      "source": "第一财经资讯（网易财经转载）",
-      "url": "https://www.163.com/dy/article/L1F70FC10519DDQ2.html",
-      "subCategory": "美股"
     },
     {
       "id": "finance-20260710-004",
@@ -337,24 +337,6 @@
       "source": "东方财富网",
       "url": "https://finance.eastmoney.com/a/202607093800346078.html",
       "subCategory": "美股"
-    },
-    {
-      "id": "finance-20260710-007",
-      "title": "Stocks recover losses, and oil prices ease as calm returns to financial markets worldwide",
-      "summary": "美国东部时间7月9日，布伦特原油期货收跌2.2%至每桶76.30美元，较前一日78.02美元回落，但仍高于此前一周71.80美元的收盘价；市场因特朗普表示近期军事交锋不会升级为长期军事行动而趋于平静。",
-      "publishedAt": "2026-07-09T06:11:00-07:00",
-      "source": "The Press Democrat (AP)",
-      "url": "https://www.pressdemocrat.com/2026/07/09/markets-oil-prices-iran-us/",
-      "subCategory": "大宗商品"
-    },
-    {
-      "id": "finance-20260710-005",
-      "title": "PepsiCo Q2 2026 earnings: revenue beat, EPS miss, U.S. slump",
-      "summary": "百事公司公布2026年第二季度财报，营收241.8亿美元，同比增长6.4%，超市场预期239.5亿美元；调整后每股收益2.20美元，略低于市场预期2.21美元；受北美饮料及休闲食品销量疲软拖累，股价盘前下跌约0.7%。",
-      "publishedAt": "2026-07-09T07:11:00-05:00",
-      "source": "Yahoo Finance (Quartz)",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/pepsico-q2-2026-earnings-revenue-121112189.html",
-      "subCategory": "公司财报"
     },
     {
       "id": "finance-20260709-207",
@@ -483,6 +465,24 @@
       "subCategory": "美股"
     },
     {
+      "id": "finance-20260710-005",
+      "title": "PepsiCo Q2 2026 earnings: revenue beat, EPS miss, U.S. slump",
+      "summary": "百事公司公布2026年第二季度财报，营收241.8亿美元，同比增长6.4%，超市场预期239.5亿美元；调整后每股收益2.20美元，略低于市场预期2.21美元；受北美饮料及休闲食品销量疲软拖累，股价盘前下跌约0.7%。",
+      "publishedAt": "2026-07-09T07:11:00-05:00",
+      "source": "Yahoo Finance (Quartz)",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/pepsico-q2-2026-earnings-revenue-121112189.html",
+      "subCategory": "公司财报"
+    },
+    {
+      "id": "finance-20260710-007",
+      "title": "Stocks recover losses, and oil prices ease as calm returns to financial markets worldwide",
+      "summary": "美国东部时间7月9日，布伦特原油期货收跌2.2%至每桶76.30美元，较前一日78.02美元回落，但仍高于此前一周71.80美元的收盘价；市场因特朗普表示近期军事交锋不会升级为长期军事行动而趋于平静。",
+      "publishedAt": "2026-07-09T06:11:00-07:00",
+      "source": "The Press Democrat (AP)",
+      "url": "https://www.pressdemocrat.com/2026/07/09/markets-oil-prices-iran-us/",
+      "subCategory": "大宗商品"
+    },
+    {
       "id": "finance-20260709-900",
       "title": "长鑫科技披露科创板招股意向书 启动IPO发行程序",
       "summary": "长鑫科技7月9日披露科创板上市招股意向书及发行安排公告，正式启动发行程序。公司拟公开发行668,808.8608万股，占发行后总股本10%，网下及网上申购日均为7月16日，中金公司参与承销并获授不超15%超额配售选择权。",
@@ -490,15 +490,6 @@
       "source": "东方财富网",
       "url": "https://finance.eastmoney.com/a/202607093798835645.html",
       "subCategory": "一级市场"
-    },
-    {
-      "id": "finance-20260709-215",
-      "title": "美联储6月会议纪要：官员对利率走向严重分歧",
-      "summary": "美联储公布6月16-17日FOMC会议纪要，18名官员中一半支持年内加息、一半主张维持利率不变、1人支持降息；纽约联储调查显示消费者一年期通胀预期升至3.7%，为近三年最高，新任主席沃什未提交利率预测点阵图。",
-      "publishedAt": "2026-07-08T14:07:00-04:00",
-      "source": "ABC News",
-      "url": "https://abcnews.com/US/wireStory/fed-minutes-officials-deeply-divided-future-path-us-134593000",
-      "subCategory": "政策利率"
     },
     {
       "id": "finance-20260709-211",
@@ -625,6 +616,15 @@
       "source": "新浪财经",
       "url": "https://finance.sina.com.cn/tob/2026-07-08/doc-inihapne4834982.shtml",
       "subCategory": "A股"
+    },
+    {
+      "id": "finance-20260709-215",
+      "title": "美联储6月会议纪要：官员对利率走向严重分歧",
+      "summary": "美联储公布6月16-17日FOMC会议纪要，18名官员中一半支持年内加息、一半主张维持利率不变、1人支持降息；纽约联储调查显示消费者一年期通胀预期升至3.7%，为近三年最高，新任主席沃什未提交利率预测点阵图。",
+      "publishedAt": "2026-07-08T14:07:00-04:00",
+      "source": "ABC News",
+      "url": "https://abcnews.com/US/wireStory/fed-minutes-officials-deeply-divided-future-path-us-134593000",
+      "subCategory": "政策利率"
     },
     {
       "id": "finance-20260708-003",

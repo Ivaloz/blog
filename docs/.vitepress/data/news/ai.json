@@ -3,8 +3,17 @@
   "slug": "ai",
   "title": "AI 与大模型",
   "description": "大模型、Agent、AI 编程、推理框架、开源模型的发布与落地。",
-  "updatedAt": "2026-07-11T23:50:00+08:00",
+  "updatedAt": "2026-07-12T08:45:00+08:00",
   "items": [
+    {
+      "id": "ai-20260712-001",
+      "title": "智谱创始人唐杰发布内部信：启动\"Touch High\"（摸高）两年战略计划",
+      "summary": "智谱创始人唐杰发布内部信，宣布启动为期两年的\"Touch High\"（摸高）计划，聚焦长程任务、自主智能体系统、完全自我训练与安全治理四大方向，不追求短期商业变现，直指通用人工智能。",
+      "publishedAt": "2026-07-11T20:42:34+08:00",
+      "source": "每日经济新闻",
+      "url": "https://www.nbd.com.cn/articles/2026-07-11/4468255.html",
+      "subCategory": "大模型"
+    },
     {
       "title": "GPT-5.6一小时解开50年数学猜想，700词Prompt驾驭64个子Agent",
       "summary": "OpenAI研究员称，GPT-5.6用一份700词提示词调度64个并行子Agent，将图论中的循环双重覆盖猜想转化为线性方程组求解，不到一小时完成证明，展示了动态资源分配与独立验证的Agent编排方法。",
@@ -33,13 +42,13 @@
       "id": "ai-20260711-103"
     },
     {
-      "title": "Anthropic highlights Claude Code's in-app browser on the desktop",
-      "summary": "Anthropic为Claude Code桌面版新增内置浏览器功能，可直接访问和交互网页、文档与设计稿；浏览器运行在独立沙盒环境中，与用户个人浏览数据隔离，会话是否保留可配置，此举被视为对同类桌面端浏览器功能的跟进。",
-      "publishedAt": "2026-07-10T10:54:00-07:00",
-      "source": "9to5Mac",
-      "url": "https://9to5mac.com/2026/07/10/anthropic-highlights-claude-codes-in-app-browser-on-the-desktop/",
-      "subCategory": "AI编程",
-      "id": "ai-20260711-004"
+      "id": "ai-20260712-002",
+      "title": "剑桥研究：博科圣地武装分子曾利用主流AI聊天机器人协助获取战术建议",
+      "summary": "剑桥大学研究者基于对尼日利亚前博科圣地成员的访谈发现，该组织成员曾使用多款主流AI聊天机器人获取战术建议、改进爆炸物配方，并尝试规避平台安全防护机制，研究呼吁加强相关安全审查。",
+      "publishedAt": "2026-07-11",
+      "source": "Politics Nigeria",
+      "url": "https://politicsnigeria.com/2026/07/11/how-boko-haram-secretly-uses-ai-to-build-bombs-improve-deadly-attacks-report/",
+      "subCategory": "论文进展"
     },
     {
       "id": "ai-20260710-108",
@@ -168,13 +177,13 @@
       "id": "ai-20260711-001"
     },
     {
-      "id": "ai-20260711-201",
-      "title": "Introducing OpenWiki Brains, general-purpose wiki memory for agents",
-      "summary": "LangChain团队发布OpenWiki Brains 0.1.0，为智能体新增可主动构建记忆的通用型wiki知识库，可连接Gmail、Notion、代码仓库、X等信源自动生成本地Markdown文件，包含面向个人场景的Personal Brain与面向代码仓库文档化的Code Brain两种模式。",
-      "publishedAt": "2026-07-10",
-      "source": "LangChain Blog",
-      "url": "https://www.langchain.com/blog/introducing-openwiki-brains-general-purpose-wiki-memory-for-agents",
-      "subCategory": "Agent"
+      "title": "Anthropic highlights Claude Code's in-app browser on the desktop",
+      "summary": "Anthropic为Claude Code桌面版新增内置浏览器功能，可直接访问和交互网页、文档与设计稿；浏览器运行在独立沙盒环境中，与用户个人浏览数据隔离，会话是否保留可配置，此举被视为对同类桌面端浏览器功能的跟进。",
+      "publishedAt": "2026-07-10T10:54:00-07:00",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/07/10/anthropic-highlights-claude-codes-in-app-browser-on-the-desktop/",
+      "subCategory": "AI编程",
+      "id": "ai-20260711-004"
     },
     {
       "id": "ai-20260710-003",
@@ -204,6 +213,15 @@
       "subCategory": "大模型"
     },
     {
+      "id": "ai-20260711-201",
+      "title": "Introducing OpenWiki Brains, general-purpose wiki memory for agents",
+      "summary": "LangChain团队发布OpenWiki Brains 0.1.0，为智能体新增可主动构建记忆的通用型wiki知识库，可连接Gmail、Notion、代码仓库、X等信源自动生成本地Markdown文件，包含面向个人场景的Personal Brain与面向代码仓库文档化的Code Brain两种模式。",
+      "publishedAt": "2026-07-10",
+      "source": "LangChain Blog",
+      "url": "https://www.langchain.com/blog/introducing-openwiki-brains-general-purpose-wiki-memory-for-agents",
+      "subCategory": "Agent"
+    },
+    {
       "id": "ai-20260709-108",
       "title": "OpenAI首席未来学家Joshua Achiam宣布离职",
       "summary": "OpenAI首席未来学家Joshua Achiam宣布将于7月24日离职，此前他领导Mission Alignment团队。此次离职是OpenAI近期一系列安全相关人员变动中的最新一例。",
@@ -231,24 +249,6 @@
       "subCategory": "具身智能"
     },
     {
-      "id": "ai-20260709-103",
-      "title": "Anthropic上线Claude使用回顾功能",
-      "summary": "Anthropic推出测试版Reflect功能，为开启记忆功能的Free、Pro及Max用户展示Claude使用时段与任务类型概览，并可设置免打扰时段与休息提醒，隐私模式对话不计入统计。",
-      "publishedAt": "2026-07-09",
-      "source": "Anthropic",
-      "url": "https://www.anthropic.com/news/reflect-with-claude",
-      "subCategory": "AI应用"
-    },
-    {
-      "id": "ai-20260710-004",
-      "title": "GitHub Copilot上线OpenAI GPT-5.6 Sol、Terra、Luna三款模型",
-      "summary": "GitHub Copilot新增OpenAI GPT-5.6系列三个版本：Sol面向复杂推理与大型代码库，Terra用于日常交互式编程，Luna提供轻量低成本辅助，在VS Code、JetBrains等平台的开放范围因订阅套餐而异。",
-      "publishedAt": "2026-07-09",
-      "source": "GitHub Changelog",
-      "url": "https://github.blog/changelog/2026-07-09-openais-gpt-5-6-sol-terra-and-luna-are-now-available-in-github-copilot/",
-      "subCategory": "AI编程"
-    },
-    {
       "title": "马斯克xAI首个编程智能体模型Grok 4.5发布，与Cursor联合训练",
       "summary": "马斯克旗下xAI发布首款编程智能体模型Grok 4.5，与Cursor联合训练，token消耗为同类模型一半，速度达每秒80 token。输入价格降至每百万token 2美元，输出6美元，已上线Grok Build及Cursor，欧洲版预计7月中旬推出。",
       "publishedAt": "2026-07-09T06:51:25+08:00",
@@ -267,13 +267,22 @@
       "id": "ai-20260709-901"
     },
     {
-      "id": "ai-20260709-902",
-      "title": "机器人基础模型公司General Intuition以23亿美元估值融资3.2亿美元，押注电子游戏数据训练具身智能",
-      "summary": "General Intuition以23亿美元估值完成3.2亿美元融资，由General Catalyst领投，贝索斯、施密特等参与。公司利用游戏直播平台Medal上数十亿条游戏录像训练具身智能基础模型，称仅用8分钟真实数据微调即可控制四足机器人，目标成为物理AI领域的基础模型供应商。",
-      "publishedAt": "2026-07-08T12:19:00-07:00",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/08/this-startup-thinks-robotics-is-about-to-have-its-chatgpt-moment/",
-      "subCategory": "具身智能"
+      "id": "ai-20260709-103",
+      "title": "Anthropic上线Claude使用回顾功能",
+      "summary": "Anthropic推出测试版Reflect功能，为开启记忆功能的Free、Pro及Max用户展示Claude使用时段与任务类型概览，并可设置免打扰时段与休息提醒，隐私模式对话不计入统计。",
+      "publishedAt": "2026-07-09",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/news/reflect-with-claude",
+      "subCategory": "AI应用"
+    },
+    {
+      "id": "ai-20260710-004",
+      "title": "GitHub Copilot上线OpenAI GPT-5.6 Sol、Terra、Luna三款模型",
+      "summary": "GitHub Copilot新增OpenAI GPT-5.6系列三个版本：Sol面向复杂推理与大型代码库，Terra用于日常交互式编程，Luna提供轻量低成本辅助，在VS Code、JetBrains等平台的开放范围因订阅套餐而异。",
+      "publishedAt": "2026-07-09",
+      "source": "GitHub Changelog",
+      "url": "https://github.blog/changelog/2026-07-09-openais-gpt-5-6-sol-terra-and-luna-are-now-available-in-github-copilot/",
+      "subCategory": "AI编程"
     },
     {
       "id": "ai-20260708-506",
@@ -357,6 +366,15 @@
       "subCategory": "具身智能"
     },
     {
+      "id": "ai-20260709-902",
+      "title": "机器人基础模型公司General Intuition以23亿美元估值融资3.2亿美元，押注电子游戏数据训练具身智能",
+      "summary": "General Intuition以23亿美元估值完成3.2亿美元融资，由General Catalyst领投，贝索斯、施密特等参与。公司利用游戏直播平台Medal上数十亿条游戏录像训练具身智能基础模型，称仅用8分钟真实数据微调即可控制四足机器人，目标成为物理AI领域的基础模型供应商。",
+      "publishedAt": "2026-07-08T12:19:00-07:00",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/08/this-startup-thinks-robotics-is-about-to-have-its-chatgpt-moment/",
+      "subCategory": "具身智能"
+    },
+    {
       "id": "ai-20260708-004",
       "title": "支持17家机器人厂商20多种构型，蚂蚁灵波LingBot-VLA 2.0正式开源",
       "summary": "蚂蚁灵波开源LingBot-VLA 2.0，基于6万小时真实物理数据训练，支持17家机器人厂商20余种构型，新增头部、腰部、移动底盘控制，RTX 4090上推理延迟低于130毫秒，双臂及长序列任务表现超越π0.5和GR00T N1.7。",
@@ -364,6 +382,33 @@
       "source": "量子位",
       "url": "https://www.qbitai.com/2026/07/445668.html",
       "subCategory": "具身智能"
+    },
+    {
+      "id": "ai-20260708-001",
+      "title": "超 90% 使用非代码开发，Claude Cowork 扩展至网页与手机端",
+      "summary": "Anthropic宣布Claude Cowork从桌面端扩展至网页和手机端，先面向Max用户公测；官方称超九成使用场景为非编程知识工作，支持跨设备任务续接与后台运行，测试期使用额度翻倍至8月5日。",
+      "publishedAt": "2026-07-08T07:38:05+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/973/828.htm",
+      "subCategory": "Agent"
+    },
+    {
+      "id": "ai-20260708-003",
+      "title": "Meta 超级智能实验室首个自研 AI 图像生成模型 Muse Image 发布，免费登陆 Instagram 与 WhatsApp",
+      "summary": "Meta超级智能实验室发布首款自研图像生成模型Muse Image，已上线Meta AI应用，并免费接入Instagram Stories新增30余种特效及WhatsApp对话生成图片，后续将扩展至Facebook和Messenger。",
+      "publishedAt": "2026-07-08T07:17:26+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/973/820.htm",
+      "subCategory": "多模态"
+    },
+    {
+      "id": "ai-20260708-002",
+      "title": "减少对外依赖：微软自研 AI 模型 MAI 开始接手 Office 应用，逐步替代 OpenAI 和 Anthropic",
+      "summary": "据报道，微软自研AI模型MAI已开始接管Excel、Outlook等Office应用中的部分任务，逐步替代OpenAI和Anthropic模型以降低成本，目前MAI每周处理数万条AI提示，占比仍较小。",
+      "publishedAt": "2026-07-08T06:47:35+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/973/815.htm",
+      "subCategory": "大模型"
     },
     {
       "id": "ai-20260708-007",
@@ -429,31 +474,13 @@
       "id": "ai-20260708-901"
     },
     {
-      "id": "ai-20260708-001",
-      "title": "超 90% 使用非代码开发，Claude Cowork 扩展至网页与手机端",
-      "summary": "Anthropic宣布Claude Cowork从桌面端扩展至网页和手机端，先面向Max用户公测；官方称超九成使用场景为非编程知识工作，支持跨设备任务续接与后台运行，测试期使用额度翻倍至8月5日。",
-      "publishedAt": "2026-07-08T07:38:05+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/973/828.htm",
-      "subCategory": "Agent"
-    },
-    {
-      "id": "ai-20260708-003",
-      "title": "Meta 超级智能实验室首个自研 AI 图像生成模型 Muse Image 发布，免费登陆 Instagram 与 WhatsApp",
-      "summary": "Meta超级智能实验室发布首款自研图像生成模型Muse Image，已上线Meta AI应用，并免费接入Instagram Stories新增30余种特效及WhatsApp对话生成图片，后续将扩展至Facebook和Messenger。",
-      "publishedAt": "2026-07-08T07:17:26+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/973/820.htm",
-      "subCategory": "多模态"
-    },
-    {
-      "id": "ai-20260708-002",
-      "title": "减少对外依赖：微软自研 AI 模型 MAI 开始接手 Office 应用，逐步替代 OpenAI 和 Anthropic",
-      "summary": "据报道，微软自研AI模型MAI已开始接管Excel、Outlook等Office应用中的部分任务，逐步替代OpenAI和Anthropic模型以降低成本，目前MAI每周处理数万条AI提示，占比仍较小。",
-      "publishedAt": "2026-07-08T06:47:35+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/973/815.htm",
-      "subCategory": "大模型"
+      "id": "ai-20260707-806",
+      "title": "Hugging Face Models on Foundry Managed Compute",
+      "summary": "微软联合Hugging Face推出Foundry Managed Compute托管计算平台，支持一键部署数千个开源模型，覆盖文本、视觉、音频等模态，集成vLLM、SGLang、TensorRT-LLM等推理引擎，提供安全扫描、每周权重更新及统一计费与监控。",
+      "publishedAt": "2026-07-07T23:20:06+08:00",
+      "source": "Hugging Face",
+      "url": "https://huggingface.co/blog/microsoft/foundry-managed-compute",
+      "subCategory": "推理框架"
     },
     {
       "id": "ai-20260707-807",
@@ -463,15 +490,6 @@
       "source": "arXiv",
       "url": "https://arxiv.org/abs/2607.06291",
       "subCategory": "AI视频"
-    },
-    {
-      "id": "ai-20260707-806",
-      "title": "Hugging Face Models on Foundry Managed Compute",
-      "summary": "微软联合Hugging Face推出Foundry Managed Compute托管计算平台，支持一键部署数千个开源模型，覆盖文本、视觉、音频等模态，集成vLLM、SGLang、TensorRT-LLM等推理引擎，提供安全扫描、每周权重更新及统一计费与监控。",
-      "publishedAt": "2026-07-07T23:20:06+08:00",
-      "source": "Hugging Face",
-      "url": "https://huggingface.co/blog/microsoft/foundry-managed-compute",
-      "subCategory": "推理框架"
     },
     {
       "id": "ai-20260707-805",
@@ -600,6 +618,24 @@
       "subCategory": "AI音频"
     },
     {
+      "id": "ai-20260706-307",
+      "title": "HBM 之父金正浩：AI 的本质是内存，GPU 真正工作的时间只有 10%-30%",
+      "summary": "HBM之父、韩国科学家金正浩接受采访称AI竞争力正从GPU转向内存，指出GPU在AI推理中利用率仅10%-30%，随AI向推理和多模态发展，HBM、HBF乃至未来HBS等高带宽内存将成为决定性能的关键瑞颈。",
+      "publishedAt": "2026-07-06T07:22:04+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/972/872.htm",
+      "subCategory": "AI硬件"
+    },
+    {
+      "id": "ai-20260706-308",
+      "title": "美国部分富人放弃传统学校，年费 7.5 万美元送孩子上AI 私塔",
+      "summary": "美国部分确谷富裕家庭放弃传统学校，转而花费每年7.5万美元将孩子送入Forge Prep、Alpha School等AI私塔，让孩子成为AI辅导工具的测试用户，有联合创始人表示计划在课程中排除敏感社会议题讨论。",
+      "publishedAt": "2026-07-06T07:00:22+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/972/868.htm",
+      "subCategory": "AI应用"
+    },
+    {
       "id": "ai-20260706-603",
       "title": "Deep Code 开源 AI 编程助手上线，专为 DeepSeek-V4 模型适配",
       "summary": "7月6日，开源终端AI编程助手Deep Code被收录进DeepSeek官方API文档，专为DeepSeek-V4系列模型适配，支持深度思考、推理强度调节与Agent Skills，提供CLI与VS Code插件版本，并按项目保存会话记录以便后续任务续接，也兵容其他OpenAI接口兵容模型。",
@@ -654,24 +690,6 @@
       "subCategory": "具身智能"
     },
     {
-      "id": "ai-20260706-307",
-      "title": "HBM 之父金正浩：AI 的本质是内存，GPU 真正工作的时间只有 10%-30%",
-      "summary": "HBM之父、韩国科学家金正浩接受采访称AI竞争力正从GPU转向内存，指出GPU在AI推理中利用率仅10%-30%，随AI向推理和多模态发展，HBM、HBF乃至未来HBS等高带宽内存将成为决定性能的关键瑞颈。",
-      "publishedAt": "2026-07-06T07:22:04+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/972/872.htm",
-      "subCategory": "AI硬件"
-    },
-    {
-      "id": "ai-20260706-308",
-      "title": "美国部分富人放弃传统学校，年费 7.5 万美元送孩子上AI 私塔",
-      "summary": "美国部分确谷富裕家庭放弃传统学校，转而花费每年7.5万美元将孩子送入Forge Prep、Alpha School等AI私塔，让孩子成为AI辅导工具的测试用户，有联合创始人表示计划在课程中排除敏感社会议题讨论。",
-      "publishedAt": "2026-07-06T07:00:22+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/972/868.htm",
-      "subCategory": "AI应用"
-    },
-    {
       "id": "ai-20260706-301",
       "title": "Meta也来卖铲子了！小扮：模型可以慢，GPU必须赚",
       "summary": "Meta拟推出Meta Compute业务，通过出租GPU算力并托管Claude等第三方模型实现基础设施变现，此前已签约近10GW数据中心容量，外部出租200MW或带来千亿美元级年收入，同时仍在研发自研模型Watermelon。",
@@ -706,24 +724,6 @@
       "source": "IT之家",
       "url": "https://www.ithome.com/0/972/809.htm",
       "subCategory": "AI评测"
-    },
-    {
-      "id": "ai-20260706-305",
-      "title": "消息称 Anthropic 拟在澳大利亚布局 1.4GW 数据中心算力，建设成本达 150 亿美元",
-      "summary": "据澳大利亚财经媒体获得的招标文件，Anthropic计划在澳大利亚部署至少1.4吉瓦数据中心算力，建设成本约150亿美元，目标明年底前投入使用至少1吉瓦，此前公司已在澳设立办公室并与澳政府签署合作备忘录。",
-      "publishedAt": "2026-07-05T15:10:04+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/972/774.htm",
-      "subCategory": "AI硬件"
-    },
-    {
-      "id": "ai-20260705-001",
-      "title": "李飞飞团队发布SimFoundry：单段真实视频生成可训练机器人仿真环境",
-      "summary": "李飞飞团队联合英伟达GEAR、佟治亚理工推出Real2Sim系统SimFoundry，仅需一段真实视频即可生成可交互仿真环境，仿真与真实机器人表现相关系数达0.911，结合数字表亲变体可将真实任务成功率提升17%至40%。",
-      "publishedAt": "2026-07-05T14:59:11+08:00",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/07/443066.html",
-      "subCategory": "论文进展"
     }
   ]
 }
