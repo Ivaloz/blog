@@ -3,8 +3,143 @@
   "slug": "tech",
   "title": "科技新闻",
   "description": "前沿科技、互联网产品、芯片硬件、开源生态。",
-  "updatedAt": "2026-07-12T08:45:00+08:00",
+  "updatedAt": "2026-07-12T23:30:00+08:00",
   "items": [
+    {
+      "id": "tech-20260712-101",
+      "title": "古尔曼：苹果 M7 Ultra 芯片最高支持 1.5TB 内存，是 M5 Ultra 的两倍",
+      "summary": "彭博社记者古尔曼报道，苹果M7芯片已在M6发布六个月后完成流片，预计2027年年中推出；M7 Ultra版本内存上限达1.5TB，为M5 Ultra的两倍，但实际供货将受内存芯片短缺等供应链因素影响。",
+      "publishedAt": "2026-07-12T23:16:38+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/975/833.htm",
+      "subCategory": "芯片硬件"
+    },
+    {
+      "id": "tech-20260712-103",
+      "title": "大众、小鹏合作第二款车型与众 09 下半年上市，号称智能化水平跻身第一梯队",
+      "summary": "大众与小鹏联合开发的第二款车型与众09将于今年下半年上市，车长超5米、轴距3030毫米，搭载基于VLA大模型的智能驾驶与AI助手，提供单电机后驱及双电机四驱版本，电池由宁德时代供应。",
+      "publishedAt": "2026-07-12T22:33:29+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/975/828.htm",
+      "subCategory": "智能汽车"
+    },
+    {
+      "id": "tech-20260712-105",
+      "title": "RedHook Android malware now uses Wireless ADB for shell access",
+      "summary": "安全机构Group-IB披露，Android远控木马RedHook新版本滥用无线ADB调试功能，在无需root或电脑连接的情况下获取接近系统级权限，可执行远程截屏、装卸应用、窃取通讯录等53种指令，主要通过伪装政府机构App传播。",
+      "publishedAt": "2026-07-12T22:27:32+08:00",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/redhook-android-malware-now-uses-wireless-adb-for-shell-access/",
+      "subCategory": "安全漏洞"
+    },
+    {
+      "id": "tech-20260712-102",
+      "title": "古尔曼：苹果明年春季推出新款 Apple Pencil，与下一代 iPad Pro 同步发布",
+      "summary": "古尔曼透露苹果计划明年春季随新一代iPad Pro同步推出两款新Apple Pencil，其中入门版将改用USB-C充电，为满足欧盟电池可更换新规，新品可能采用全新电池结构设计。",
+      "publishedAt": "2026-07-12T22:23:02+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/975/827.htm",
+      "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260712-104",
+      "title": "蔚来李斌：新能源技术路线很明显在往纯电上收敛",
+      "summary": "蔚来创始人李斌在ES8五座版上市后表示，新能源汽车技术路线正明显向纯电收敛；尽管6月乘用车零售同比下滑23.2%，纯电动车型仍是唯一保持增长的品类，他预计下半年市场将好于上半年。",
+      "publishedAt": "2026-07-12T22:06:50+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/975/824.htm",
+      "subCategory": "智能汽车"
+    },
+    {
+      "id": "tech-20260712-115",
+      "title": "优派推出 QD-OLED Penta Tandem 显示器 VG2782Z-4K，支持 120Hz",
+      "summary": "优派推出VG2782Z-4K专业摄影显示器，采用三星五层堆叠QD-OLED Penta Tandem面板，26.5英寸4K分辨率支持120Hz，HDR峰值亮度1000尼特，10bit色深覆盖99% DCI-P3色域，响应时间0.03毫秒。",
+      "publishedAt": "2026-07-12T21:45:50+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/975/822.htm",
+      "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260712-107",
+      "title": "工信部：针对台风对通信网络造成的影响，启动 5G 异网漫游服务",
+      "summary": "工信部因台风损毁通信网络，启动5G异网漫游服务，允许受灾地区用户跨运营商接入可用5G网络。截至7月12日中午，通信行业已调集应急人员6.8万人次，抢通受损基站1.1万个。",
+      "publishedAt": "2026-07-12T21:13:42+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/975/817.htm",
+      "subCategory": "网络基础设施"
+    },
+    {
+      "id": "tech-20260712-106",
+      "title": "微软研究院推出开源可视化中间语言 Flint，让 AI 智能体一句话生成专业图表",
+      "summary": "微软研究院联合中国人民大学团队发布开源可视化中间语言Flint，让AI智能体通过自然语言直接生成Vega-Lite、ECharts等图表；配套flint-chart-mcp支持对话中预览图表，已集成进微软Data Formulator。",
+      "publishedAt": "2026-07-12T20:45:22+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/975/816.htm",
+      "subCategory": "开发者工具"
+    },
+    {
+      "id": "tech-20260712-108",
+      "title": "大疆无人机助力中国科考队珠峰任务：实现 8861 米大气数据观测、首次完成昆布冰川核心区厘米级建模",
+      "summary": "大疆宣布旗下无人机支援中国珠峰科考队：EV50垂直起降机完成8861米大气数据观测；FC100运输机搬运超10吨物资往返大本营与一号营地；M4E测绘机完成昆布冰川核心区厘米级三维建模。",
+      "publishedAt": "2026-07-12T19:58:41+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/975/802.htm",
+      "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260712-110",
+      "title": "华为 MatePad Pro Max 平板获鸿蒙 HarmonyOS 6.1.0.130 SP17 升级，新增 3D 影像壁纸功能",
+      "summary": "华为MatePad Pro Max平板开始推送HarmonyOS 6.1.0.130 SP17更新，新增倾斜或双指滑动锁屏时呈现空间效果的3D影像壁纸功能，并优化教育空间投屏及全景声音频体验，更新一旦安装不可回退。",
+      "publishedAt": "2026-07-12T19:45:26+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/975/797.htm",
+      "subCategory": "操作系统"
+    },
+    {
+      "id": "tech-20260712-111",
+      "title": "VisionRay Flow Pro 智能眼镜发布：20Mp 摄像头、35g 重量，199 美元",
+      "summary": "厂商DPVR发布VisionRay Flow Pro智能眼镜，配备2000万像素摄像头，机身仅重35克，续航12小时，接入ChatGPT能力并支持骨传导通话、4K 30帧摄像及实时多语言翻译，售价199美元。",
+      "publishedAt": "2026-07-12T19:44:02+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/975/796.htm",
+      "subCategory": "XR-AR-VR"
+    },
+    {
+      "id": "tech-20260712-109",
+      "title": "全球首款可变形个人机器人，上纬新材启元 T1 亮相",
+      "summary": "主营环保材料与风电叶片的上纬新材跨界推出启元T1，号称全球首款可变形个人机器人，能在轮式、腿式人形与四足形态间自动切换并保持稳定，具备视频拍摄与陪伴互动功能，计划在多城市设体验中心加速商业化。",
+      "publishedAt": "2026-07-12T19:32:40+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/975/794.htm",
+      "subCategory": "机器人"
+    },
+    {
+      "id": "tech-20260712-114",
+      "title": "宇树科技王兴兴：机器人一定会走向普通消费者，今天的机器人就像 30 年前的个人电脑",
+      "summary": "宇树科技创始人王兴兴在2026王府井论坛表示，机器人终将走向普通消费者，如同30年前的个人电脑；他将当下机器人大众价值归纳为开发者创新平台、进入家庭教育场景、提供商业展演情绪价值三个方向。",
+      "publishedAt": "2026-07-12T18:34:14+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/975/786.htm",
+      "subCategory": "机器人"
+    },
+    {
+      "id": "tech-20260712-113",
+      "title": "AI 热潮太费电，燃气轮机价格 3 年涨了约 300%",
+      "summary": "受AI数据中心电力需求激增影响，燃气轮机价格三年累计上涨约300%；微软近期向GE Vernova采购7台大型燃气轮机为得州数据中心供电，单台报价超2.5亿美元，GE Vernova股价半年内上涨逾70%。",
+      "publishedAt": "2026-07-12T18:12:50+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/975/767.htm",
+      "subCategory": "网络基础设施"
+    },
+    {
+      "id": "tech-20260712-112",
+      "title": "消息称华为 Mate 80 Air 手机下半年发布，搭载麒麟 9030 系列芯片",
+      "summary": "据博主爆料，华为将于今年下半年推出Mate 80 Air手机，搭载麒麟9030系列芯片，支持红枫影像技术，延续前代Mate 70 Air的7英寸曲面四微曲屏设计，为超薄旗舰产品线的延续机型。",
+      "publishedAt": "2026-07-12T18:05:05+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/975/766.htm",
+      "subCategory": "消费电子"
+    },
     {
       "id": "tech-20260712-009",
       "title": "启境刘嘉铭：华为 ADS 5 在 WEWA 2.0 架构加持下，会车跟车场景博弈更稳妥",
@@ -589,141 +724,6 @@
       "url": "https://github.blog/changelog/2026-07-10-clearer-names-for-secret-scanning-detector-types/",
       "subCategory": "开发者工具",
       "id": "tech-20260711-007"
-    },
-    {
-      "id": "tech-20260710-118",
-      "title": "上纬新材将在WAIC 2026发布全球首款可变形个人机器人启元T1",
-      "summary": "上纬新材宣布将在WAIC 2026发布可变形个人机器人\"启元T1\"，该产品可在轮式人形与四足形态间自动切换，是公司首款面向家庭消费场景的机器人产品。",
-      "publishedAt": "2026-07-10T19:17:33+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/975/318.htm",
-      "subCategory": "机器人"
-    },
-    {
-      "id": "tech-20260710-109",
-      "title": "BIGME大我全球首款60帧/秒刷新率25.3英寸彩墨屏显示器B251 PRO开售，10999元",
-      "summary": "BIGME推出25.3英寸彩墨屏显示器B251 PRO，售价10999元，号称全球首款60帧/秒刷新率彩墨屏，搭载Kaleido 3面板，支持4096色和16级灰度，配备网页、文字、图片、视频四种刷新模式，接口含DP、HDMI、USB-C。",
-      "publishedAt": "2026-07-10T18:28:32+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/975/312.htm",
-      "subCategory": "消费电子"
-    },
-    {
-      "id": "tech-20260710-105",
-      "title": "华硕展示自家双内存槽B850主板搭配长鑫DDR5超频能力：可达8400MT/s",
-      "summary": "华硕B850M AYW GAMING OC WIFI7 W主板在搭配长鑫存储颗粒的DDR5内存时，实测超频传输速率最高达8400MT/s，不同内存厂商组合下分别达到8400MT/s、8200MT/s和8000MT/s。",
-      "publishedAt": "2026-07-10T18:06:53+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/974/578.htm",
-      "subCategory": "芯片硬件"
-    },
-    {
-      "title": "Per-user states for multi-user budgets in the REST API",
-      "summary": "GitHub 为 REST API 新增按用户查看多用户预算消耗情况的接口，企业所有者与账单管理员可通过单次调用获取所有用户的预算使用进度，并支持按消耗占比筛选和排序，此前需逐个用户单独查询。",
-      "publishedAt": "2026-07-10T15:07:23Z",
-      "source": "GitHub Changelog",
-      "url": "https://github.blog/changelog/2026-07-10-per-user-states-for-multi-user-budgets-in-the-rest-api/",
-      "subCategory": "开发者工具",
-      "id": "tech-20260711-008"
-    },
-    {
-      "title": "Progress urges ShareFile admins to shut down servers over \"credible\" threat",
-      "summary": "Progress 软件公司要求使用 Storage Zone Controllers 的 ShareFile 客户立即关闭本地服务器，称已发现针对该产品的可信外部安全威胁，并临时禁用受影响客户账户访问，将在 24 小时内提供后续更新。",
-      "publishedAt": "2026-07-10T12:26:00-04:00",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/progress-urges-sharefile-customers-to-shut-down-servers-over-credible-threat/",
-      "subCategory": "安全漏洞",
-      "id": "tech-20260711-005"
-    },
-    {
-      "id": "tech-20260710-101",
-      "title": "长征十号乙运载火箭首飞成功，实现一子级可控回收",
-      "summary": "长征十号乙运载火箭于7月10日12时15分在海南商业航天发射场发射升空，一二级分离约6分钟后一子级垂直返回，通过海上回收平台网系捕获方式实现可控回收，是我国运载火箭首次实现一子级可控回收。",
-      "publishedAt": "2026-07-10T12:25:49+08:00",
-      "source": "新华网",
-      "url": "https://www.news.cn/20260710/76bfd64fb0b1446ba00ac7514c49bb40/c.html",
-      "subCategory": "航空航天"
-    },
-    {
-      "id": "tech-20260710-003",
-      "title": "现已恢复：苹果一度让部分老iPhone/iPad无法还原、刷机，涵盖iOS 6-iOS 10",
-      "summary": "苹果一度暂停为iOS 6至iOS 10老版本基带签名，导致iPhone 4/4S/5/5C及部分蜂窝版iPad无法还原或刷机，故障持续约7小时，已于太平洋时间7月9日12:24恢复签名。",
-      "publishedAt": "2026-07-10T08:31:08+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/974/805.htm",
-      "subCategory": "操作系统"
-    },
-    {
-      "id": "tech-20260710-001",
-      "title": "美国商务部长卢特尼克敦促SK海力士和三星在美扩产存储芯片",
-      "summary": "美国商务部长卢特尼克在美光科技活动上表示，已与SK海力士、三星电子沟通，敦促两家企业加快在美建厂扩产存储芯片，以缓解AI驱动的全球存储芯片短缺。",
-      "publishedAt": "2026-07-10T08:06:34+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/974/802.htm",
-      "subCategory": "芯片硬件"
-    },
-    {
-      "id": "tech-20260710-002",
-      "title": "曝SK海力士募资约265亿美元，刷新外国企业赴美IPO纪录",
-      "summary": "SK海力士以每股149美元发行1.779亿份美国存托凭证，募资约265亿美元，超越阿里巴巴此前纪录，成为史上第三大IPO，预发行交易7月10日开启，7月13日正式挂牌。",
-      "publishedAt": "2026-07-10T07:59:05+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/974/800.htm",
-      "subCategory": "芯片硬件"
-    },
-    {
-      "id": "tech-20260710-019",
-      "title": "7.8%份额触及低点：Netflix挽救用户参与度，评估引入直播频道",
-      "summary": "据《华尔街日报》报道，Netflix电视观看份额4月降至7.8%，创2025年5月以来新低，公司正评估捆绑推出按类别连续播放的直播频道，并考虑在主页展示Peacock等竞品服务卡片以提升用户参与度。",
-      "publishedAt": "2026-07-10T07:56:13+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/974/799.htm",
-      "subCategory": "互联网产品"
-    },
-    {
-      "id": "tech-20260710-016",
-      "title": "MG名爵两款新车亮相古德伍德速度节：纯电小车与轿跑SUV概念车",
-      "summary": "MG名爵在2026古德伍德速度节展出两款概念车：致敬MGB GT等经典车型的纯电小车MG Go，以及借鉴1950年代EX181流线型赛车、近5米长的纯电轿跑SUV Cyber Concept，后者未来将量产，部分市场或以智己品牌销售。",
-      "publishedAt": "2026-07-10T07:20:39+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/974/793.htm",
-      "subCategory": "智能汽车"
-    },
-    {
-      "id": "tech-20260710-017",
-      "title": "大众\"断臂求生\"，旗下各品牌将砍掉至多一半车型",
-      "summary": "大众集团宣布重大重组计划，旗下各品牌车型阵容最多削减一半，仅保留最具吸引力细分市场车型，选装配置精简至多75%，途锐、途安、奥迪A1/Q2、保时捷718 Boxster/Cayman等停产，年产能降至900万辆。",
-      "publishedAt": "2026-07-10T07:00:28+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/974/791.htm",
-      "subCategory": "智能汽车"
-    },
-    {
-      "id": "tech-20260710-004",
-      "title": "消息称特斯拉三代擎天柱人形机器人初步定型",
-      "summary": "据供应链消息，特斯拉已向零部件厂商下达采购指引，目标9月周产1000台、年底周产2000至2500台Optimus机器人，马斯克称若年底产能目标未达成将解雇整个采购团队。",
-      "publishedAt": "2026-07-09T23:48:31+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/974/782.htm",
-      "subCategory": "机器人"
-    },
-    {
-      "id": "tech-20260710-006",
-      "title": "安全公司曝光黑客山寨苹果macOS剪贴板管理软件Maccy网站传播木马",
-      "summary": "安全公司Jamf披露，黑客搭建仿冒macOS剪贴板工具Maccy的钓鱼网站，通过搜索引擎广告诱导用户下载，安装包利用AppleScript及PAM机制骗取管理员密码，进而植入PamStealer木马窃取浏览器、加密钱包及剪贴板数据。",
-      "publishedAt": "2026-07-09T23:00:53+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/974/778.htm",
-      "subCategory": "安全漏洞"
-    },
-    {
-      "id": "tech-20260710-005",
-      "title": "全球首例：美国研究团队远程操控宇树G1人形机器人完成外科手术",
-      "summary": "加州大学圣地亚哥分校团队使用两台宇树G1人形机器人由医生远程操控，对大型哺乳动物完成两例胆囊切除手术，成果7月8日发表于《自然》，术中机器人需多次重新校准，耗时长于传统手术系统。",
-      "publishedAt": "2026-07-09T22:55:52+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/974/777.htm",
-      "subCategory": "机器人"
     }
   ]
 }

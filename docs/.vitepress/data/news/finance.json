@@ -3,8 +3,71 @@
   "slug": "finance",
   "title": "投资与财经",
   "description": "宏观经济、A 股 / 港股 / 美股、一级市场融资、行业研报观点。",
-  "updatedAt": "2026-07-12T08:45:00+08:00",
+  "updatedAt": "2026-07-12T23:30:00+08:00",
   "items": [
+    {
+      "id": "finance-20260712-107",
+      "title": "359家A股公司披露中报预告，23家净利预增超1000%",
+      "summary": "截至7月12日，已有359家A股上市公司披露2026年半年度业绩预告，177家净利润同比预增超100%，46家超500%，23家超1000%，江波龙预告净利润同比最高增幅超62000%。",
+      "publishedAt": "2026-07-12T22:42:00+08:00",
+      "source": "新浪财经",
+      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-07-12/doc-inihqkzv2636546.shtml",
+      "subCategory": "公司财报"
+    },
+    {
+      "id": "finance-20260712-106",
+      "title": "中东局势升级下黄金反应平淡，现货金收报4119.48美元",
+      "summary": "尽管霍尔木兹海峡关闭引发原油价格上涨，现货黄金仅微跌0.11%至4119.48美元/盎司，本周累计下跌约1.2%。分析认为市场当前更关注通胀与美联储政策预期，避险买盘有限。",
+      "publishedAt": "2026-07-12T19:37:29+08:00",
+      "source": "第一财经",
+      "url": "https://www.yicai.com/news/103270975.html",
+      "subCategory": "大宗商品"
+    },
+    {
+      "id": "finance-20260712-105",
+      "title": "美军对伊朗发动本周第三轮打击，霍尔木兹海峡通行量骤降81%",
+      "summary": "美国中央司令部对伊朗约140个军事目标发动本周第三轮打击，伊朗外交部表示未来海峡通航安排应由伊朗与阿曼协商。过去24小时仅11艘商船通过海峡，较7月4日高峰下降约81%。",
+      "publishedAt": "2026-07-12T18:46:00+08:00",
+      "source": "证券时报",
+      "url": "https://www.stcn.com/article/detail/4013174.html",
+      "subCategory": "风险事件"
+    },
+    {
+      "id": "finance-20260712-104",
+      "title": "霍尔木兹海峡关闭消息带动原油期货走高",
+      "summary": "受伊朗宣布关闭霍尔木兹海峡影响，纽约原油暗盘上涨3.27%，布伦特原油暗盘上涨3.10%，本周布伦特原油累计上涨5.39%，创近8周最大单周涨幅。",
+      "publishedAt": "2026-07-12T09:35:00+08:00",
+      "source": "证券时报",
+      "url": "https://www.stcn.com/article/detail/4012936.html",
+      "subCategory": "大宗商品"
+    },
+    {
+      "id": "finance-20260712-103",
+      "title": "6月全国期货市场成交额同比增长52.72%",
+      "summary": "据中国期货业协会统计，6月全国期货市场成交量为9.39亿手，成交额80.62万亿元，同比分别增长27%和52.72%，反映国内衍生品市场交易活跃度持续提升。",
+      "publishedAt": "2026-07-12T08:33:00+08:00",
+      "source": "新华财经",
+      "url": "https://m.cnfin.com/yw-lb//zixun/20260712/4439029_1.html",
+      "subCategory": "宏观经济"
+    },
+    {
+      "id": "finance-20260712-102",
+      "title": "本周A股三大指数集体收跌，创业板指领跌",
+      "summary": "上周A股三大指数周线全部收跌，上证指数、深证成指、创业板指分别累计下跌1.17%、3.53%、4.41%，全A平均股价累计下跌4.27%。计算机、传媒、房地产板块领涨，建筑材料、电力设备板块跌幅居前。",
+      "publishedAt": "2026-07-12T08:01:50+08:00",
+      "source": "凤凰网财经",
+      "url": "https://finance.ifeng.com/c/8ugzdxdrdLA",
+      "subCategory": "A股"
+    },
+    {
+      "id": "finance-20260712-101",
+      "title": "伊朗革命卫队宣布关闭霍尔木兹海峡",
+      "summary": "伊朗伊斯兰革命卫队海军宣布，因外部势力非法干涉导致局势不安全，霍尔木兹海峡即日起关闭，任何船只不得通行，直至另行通知。伊朗随后与阿曼就未来通航安排展开磋商。",
+      "publishedAt": "2026-07-12T04:48:00+08:00",
+      "source": "财联社",
+      "url": "https://m.cls.cn/detail/2423670",
+      "subCategory": "风险事件"
+    },
     {
       "id": "finance-20260711-203",
       "title": "香农芯创净利最多预增超24倍！多家A股公司预计业绩大增",
@@ -661,69 +724,6 @@
       "source": "中国人民银行",
       "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125217/125925/2026070808594092315/index.html",
       "subCategory": "宏观经济"
-    },
-    {
-      "id": "finance-20260708-006",
-      "title": "快造科技完成10亿元融资，为一级市场消费级3D打印最大单笔融资",
-      "summary": "消费级3D打印企业快造科技完成10亿元新一轮融资，凯辉基金领投，好未来战投跟投，美团、高瓴、顺为等老股东超额追投，是近两年消费级3D打印一级市场最大单笔融资，资金将投入模型生态建设。",
-      "publishedAt": "2026-07-08T08:50:00+08:00",
-      "source": "36氪",
-      "url": "https://36kr.com/p/3885728813691145?f=rss",
-      "subCategory": "一级市场"
-    },
-    {
-      "id": "finance-20260708-004",
-      "title": "富临精工(300432.SZ)向特定对象发行股票申请获深交所受理",
-      "summary": "富临精工7日收到深交所受理通知，公司拟向宁德时代定向发行A股股票，发行价13.62元/股，募资总额约31.75亿元，发行完成后宁德时代将持股5%以上，资金用于磷酸铁锂储能等项目。",
-      "publishedAt": "2026-07-08T08:04:00+08:00",
-      "source": "智通财经（Investing.com转载）",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3450879",
-      "subCategory": "A股"
-    },
-    {
-      "id": "finance-20260709-214",
-      "title": "7月8日收盘：道指跌0.25%，纳指跌1.16%，芯片股重挫，油价飙升",
-      "summary": "美股三大指数7月8日收盘涨跌不一，道指跌131.35点报52924.56点，纳指跌302.47点报25818.69点，标普500跌33.67点报7503.76点，费城半导体ETF跌超5%，美光科技跌4.7%，油价因伊朗局势上涨近3%。",
-      "publishedAt": "2026-07-08",
-      "source": "新浪财经",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-08/doc-inifzmyq8272821.shtml",
-      "subCategory": "美股"
-    },
-    {
-      "id": "finance-20260708-900",
-      "title": "美联储公布6月FOMC会议纪要",
-      "summary": "美联储于7月8日发布6月16日至17日FOMC会议纪要，纪要内容反映会议召开时委员会掌握的经济金融信息。市场关注委员会内部关于后续利率路径分歧的表述，纪要文件已在美联储官网同步发布HTML及PDF版本。",
-      "publishedAt": "2026-07-08",
-      "source": "Federal Reserve",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260708a.htm",
-      "subCategory": "政策利率"
-    },
-    {
-      "id": "finance-20260707-811",
-      "title": "Oil jumps after settlement as US revokes general license for Iran oil sales",
-      "summary": "布伦特原油结算价涨3.01%至74.16美元/桶，WTI涨2.76%至70.44美元/桶；美国撤销伊朗原油出口许可后，两大基准盘后进一步跳涨逾5%，此前伊朗在霍尔木兹海峡袭击三艘商船。",
-      "publishedAt": "2026-07-07T18:06:00-04:00",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/commodities-news/oil-jumps-after-settlement-as-us-revokes-general-license-for-iran-oil-sales-4779914",
-      "subCategory": "大宗商品"
-    },
-    {
-      "id": "finance-20260707-810",
-      "title": "Stock market today: Dow, S&P 500, Nasdaq fall as semiconductors sell off, oil prices jump",
-      "summary": "美股三大指数收跌，道指跌0.2%，标普500跌0.5%，纳指跌1.2%。三星财报未能提振市场信心，路透社称DeepSeek正自研AI推理芯片，加剧芯片股抛售，霍尔木兹海峡遇袭推高油价。",
-      "publishedAt": "2026-07-07T15:04:00-05:00",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/live/stock-market-today-sp-500-nasdaq-futures-slip-after-samsung-results-spark-chip-sell-off-223015294.html",
-      "subCategory": "美股"
-    },
-    {
-      "id": "finance-20260707-806",
-      "title": "2 ships are hit in the latest attacks in the Strait of Hormuz, the U.K. military says",
-      "summary": "卡塔尔国家航运公司LNG运输船Al Rekayyat与另一艘油轮7月7日在霍尔木兹海峡附近遭不明抛射物击中并起火，伊朗官方电视台称船只因未理会警告遭袭，未正式承认责任。",
-      "publishedAt": "2026-07-07T09:55:00-04:00",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/07/07/g-s1-132265/tanker-attack-strait-of-hormuz",
-      "subCategory": "风险事件"
     }
   ]
 }

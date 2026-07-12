@@ -3,8 +3,26 @@
   "slug": "policy",
   "title": "政策信息",
   "description": "国家与地方政策、监管动态、产业扶持与合规要求。",
-  "updatedAt": "2026-07-12T08:45:00+08:00",
+  "updatedAt": "2026-07-12T23:30:00+08:00",
   "items": [
+    {
+      "id": "policy-20260712-105",
+      "title": "国家网信办将在2026年APEC数字周期间举办系列活动",
+      "summary": "国家网信办将于7月23日至29日在成都举办2026年APEC数字周系列活动，设人工智能高级别论坛等专题，围绕数字经济、人工智能等议题与APEC成员开展交流。",
+      "publishedAt": "2026-07-11T17:17:48+08:00",
+      "source": "国家网信办",
+      "url": "https://www.cac.gov.cn/2026-07/11/c_1785427830619328.htm",
+      "subCategory": "数字经济"
+    },
+    {
+      "id": "policy-20260712-104",
+      "title": "李强主持召开国务院常务会议",
+      "summary": "李强主持召开国务院常务会议，部署防汛救灾、数字中国建设、现代商贸流通体系建设及新兴支柱产业培育等工作，并审议通过《全民健身计划（2026—2030年）》。",
+      "publishedAt": "2026-07-11T11:24:00+08:00",
+      "source": "国务院",
+      "url": "https://www.mofcom.gov.cn/xwfb/ldrhd/art/2026/art_81e4b36488254d309ab35ea45e9090d7.html",
+      "subCategory": "产业政策"
+    },
     {
       "id": "policy-20260711-200",
       "title": "金融监管总局规范金融领域严重失信主体名单管理",
@@ -60,6 +78,15 @@
       "subCategory": "新能源政策"
     },
     {
+      "id": "policy-20260712-101",
+      "title": "中泰经贸联委会贸易投资分委会第四次会议在曼谷召开",
+      "summary": "商务部与泰国商务部7月9日在曼谷举行中泰经贸联委会贸易投资分委会第四次会议，双方就深化贸易投资合作、农产品、电商及中小企业合作等议题交换意见。",
+      "publishedAt": "2026-07-10T10:08:00+08:00",
+      "source": "商务部",
+      "url": "https://www.mofcom.gov.cn/xwfb/bldhd/art/2026/art_7e8ca17db0d8410aa915e83807cee2df.html",
+      "subCategory": "跨境贸易"
+    },
+    {
       "title": "中央网信办从严处置一批短视频内容标注不规范的账号和平台",
       "summary": "中央网信办通报称，自今年5月部署推进短视频内容标注工作以来，两个月内主要平台已清理违规短视频逾24.1万条，处置违规账号逾2.1万个，纠正或补充标注短视频逾127.5万次，涉及利用虚构剧情博取同情、渲染悲情等问题，后续将持续从严处置并公开曝光。",
       "publishedAt": "2026-07-10T10:05:58+08:00",
@@ -67,6 +94,24 @@
       "url": "https://www.news.cn/politics/20260710/7526701a318449f1a2d94489af87a1fb/c.html",
       "subCategory": "AI监管",
       "id": "policy-20260711-001"
+    },
+    {
+      "id": "policy-20260712-102",
+      "title": "中国证监会与香港证监会举行第十七次两地执法合作工作会议",
+      "summary": "中国证监会与香港证监会举行第十七次两地执法合作工作会议，双方通报近期市场违规及新型作案手法，就打击跨境违法违规行为、加强情报交流深入探讨。",
+      "publishedAt": "2026-07-10",
+      "source": "中国证监会",
+      "url": "https://www.csrc.gov.cn/csrc/c100028/c7644622/content.shtml",
+      "subCategory": "金融监管"
+    },
+    {
+      "id": "policy-20260712-103",
+      "title": "Commission preliminarily finds the addictive design of Instagram and Facebook in breach of the Digital Services Act",
+      "summary": "欧盟委员会初步认定Meta旗下Instagram和Facebook的成瘾性设计功能违反《数字服务法》，要求取消无限滚动、自动播放等默认设置，若最终认定成立，Meta最高可处以其全球年营业额6%的罚款。",
+      "publishedAt": "2026-07-10",
+      "source": "欧盟委员会",
+      "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1579",
+      "subCategory": "海外政策"
     },
     {
       "id": "policy-20260710-103",
@@ -679,51 +724,6 @@
       "source": "GOV.UK",
       "url": "https://www.gov.uk/government/news/welfare-reforms-saving-taxpayer-1-billion-come-into-force",
       "subCategory": "海外政策"
-    },
-    {
-      "id": "policy-20260701-009",
-      "title": "FTC Seeks Public Comment on Policy Statement Addressing AI Accuracy",
-      "summary": "美国联邦贸易委员会就一份针对AI系统\"客观性与准确性\"的政策声明征求公众意见，指企业为隐藏意识形态目的操纵AI输出可能构成欺骗消费者，并称科罗拉多州人工智能法案或与联邦监管框架冲突，意见征集截至7月31日。",
-      "publishedAt": "2026-07-01",
-      "source": "Federal Trade Commission",
-      "url": "https://www.ftc.gov/news-events/news/press-releases/2026/07/ftc-seeks-public-comment-policy-statement-addressing-ai-accuracy",
-      "subCategory": "AI监管"
-    },
-    {
-      "id": "policy-20260701-010",
-      "title": "SEC Publishes Updated Market Statistics, Highlighting Increase in IPOs and Proceeds Raised",
-      "summary": "美国证券交易委员会发布最新资本市场统计数据及可视化图表，显示2026年第一季度共有99宗IPO，融资超220亿美元，较2025年同期增长约86%，后续发行264宗，融资达442亿美元。",
-      "publishedAt": "2026-07-01",
-      "source": "美国证券交易委员会（SEC）",
-      "url": "https://www.sec.gov/newsroom/press-releases/2026-61-sec-publishes-updated-market-statistics-highlighting-increase-ipos-proceeds-raised",
-      "subCategory": "金融监管"
-    },
-    {
-      "id": "policy-20260703-003",
-      "title": "商务部通报2026年1-5月中国服务贸易发展情况",
-      "summary": "商务部服贸司负责人介绍，今年1-5月中国服务进出口总额3.0995万亿元，同比增长6%，其中出口增长15.9%，知识产权使用费出口增速达64.9%，旅行服务出口增长31.3%。",
-      "publishedAt": "2026-07-01",
-      "source": "中华人民共和国商务部",
-      "url": "https://www.mofcom.gov.cn/xwfb/sjfzrfb/art/2026/art_a12637a9c3e7485cb85dc7fb89d210c0.html",
-      "subCategory": "跨境贸易"
-    },
-    {
-      "id": "policy-20260630-003",
-      "title": "证监会召开资本市场财务造假综合惩防体系央地协同工作推进会",
-      "summary": "证监会主席吴清主持会议，通报三个专项行动累计办理财务造假案件247件、作出行政处罚156件罚没90.51亿元、21家严重造假公司退市，移送公安机关线索134条，检察机关起诉267人，投资者民事诉讼获赔约50亿元。",
-      "publishedAt": "2026-06-30T20:14:00+08:00",
-      "source": "中国新闻网",
-      "url": "https://www.chinanews.com.cn/cj/2026/06-30/10650141.shtml",
-      "subCategory": "金融监管"
-    },
-    {
-      "id": "policy-20260630-001",
-      "title": "商务部公告2026年第25号 公布对原产于加拿大的豌豆淀粉反倾销调查的初步裁定",
-      "summary": "商务部公布对原产于加拿大的豌豆淀粉反倾销调查初步裁定，认定进口产品存在倾销并对国内产业造成实质损害。自2026年7月1日起，进口该产品的加拿大企业需按73.5%税率缴纳保证金。",
-      "publishedAt": "2026-06-30T15:11:00+08:00",
-      "source": "商务部",
-      "url": "https://www.mofcom.gov.cn/zcfb/blgg/gg/2026/art/2026/art_b1ce17f4575c4eacb6e64941364998c1.html",
-      "subCategory": "跨境贸易"
     }
   ]
 }

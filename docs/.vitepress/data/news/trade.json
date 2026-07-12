@@ -3,8 +3,26 @@
   "slug": "trade",
   "title": "外贸资讯",
   "description": "亚马逊、TikTok Shop、阵里国际站、Shopify 等平台政策与跨境电商市场、独立站、物流支付、关税法规、选品趋势。",
-  "updatedAt": "2026-07-12T08:45:00+08:00",
+  "updatedAt": "2026-07-12T23:30:00+08:00",
   "items": [
+    {
+      "id": "trade-20260712-104",
+      "title": "欧洲40℃热浪带动“睡眠降温”品类需求上升",
+      "summary": "欧洲遭遇40℃高温热浪，带动“睡眠降温”品类需求上升，冷感毯、冷感床品、冷感枕头及冷感床垫保护垫等12款相关产品在德国、法国、英国及美国市场搜索量明显增长。",
+      "publishedAt": "2026-07-12T18:02:00+08:00",
+      "source": "雨果网",
+      "url": "https://www.cifnews.com/article/187484",
+      "subCategory": "选品趋势"
+    },
+    {
+      "id": "trade-20260712-103",
+      "title": "俄罗斯画师起诉约400家跨境店铺印花图案侵权",
+      "summary": "俄罗斯画师Anna Zvereva于7月9日在美国宾夕法尼亚州对约400家跨境卖家店铺提起版权诉讼，涉及22款未经授权的印花图案，案号2026-cv-01473，目前尚未获得临时限制令。",
+      "publishedAt": "2026-07-12T18:00:00+08:00",
+      "source": "雨果网",
+      "url": "https://www.cifnews.com/article/187483",
+      "subCategory": "平台政策"
+    },
     {
       "id": "trade-20260712-001",
       "title": "eBay加速直播带货生态建设：首次将eBay Live纳入旗下联盟营销体系",
@@ -13,6 +31,24 @@
       "source": "亿邦动力",
       "url": "https://m.ebrun.com/686580.html",
       "subCategory": "平台动态"
+    },
+    {
+      "id": "trade-20260712-102",
+      "title": "比利时30年老牌女装品牌Paprika宣告破产清算",
+      "summary": "比利时时尚品牌Paprika（成立超30年）因欧洲快时尚市场竞争加剧、消费疲软及SHEIN、TEMU等平台冲击，宣告破产清算，比利时法院已下令关闭其在比利时的剩余30家门店。",
+      "publishedAt": "2026-07-11T18:10:00+08:00",
+      "source": "雨果网",
+      "url": "https://www.cifnews.com/article/187482",
+      "subCategory": "选品趋势"
+    },
+    {
+      "id": "trade-20260712-101",
+      "title": "宁波舟山港批量撤离大型船舶防御台风“巴威”",
+      "summary": "受超强台风“巴威”影响，宁波舟山港自7月10日18时起已有超220艘商船撤至开阔锚地避风，客运航线及疏浚作业全部暂停，浙江多家上市公司同步启动防台预案。",
+      "publishedAt": "2026-07-11T11:10:33+08:00",
+      "source": "每日经济新闻",
+      "url": "https://www.nbd.com.cn/articles/2026-07-11/4468071.html",
+      "subCategory": "物流仓储"
     },
     {
       "title": "SHEIN港股IPO获中国证监会备案",
@@ -688,42 +724,6 @@
       "source": "亿邦动力",
       "url": "https://m.ebrun.com/686086.html",
       "subCategory": "平台动态"
-    },
-    {
-      "id": "trade-20260707-819",
-      "title": "TikTok Shop美区FBT推出三重降本措施 增量单履约费返10%",
-      "summary": "TikTok Shop美区FBT推出三项降本措施：4至9月增量订单满600件可返10%标准履约费（每单封顶1美元）；新增自有包装SIOC选项；7月起放开50磅以上大件商品履约能力。",
-      "publishedAt": "2026-07-07T17:09:00+08:00",
-      "source": "AMZ123",
-      "url": "https://www.amz123.com/kx/zAQxBnp6",
-      "subCategory": "物流仓储"
-    },
-    {
-      "id": "trade-20260708-502",
-      "title": "超强台风\"巴威\"预计7月10日影响江浙沪 部分码头或暂停作业",
-      "summary": "中央气象台预测超强台风巴威将于7月10日至12日影响浙江、上海沿海，宁波已启动五级应急响应，上海、宁波港口计划加强空箱绑扎，部分泊位或暂停作业，建议卖家提前完成订舱截关。",
-      "publishedAt": "2026-07-07T17:09:00+08:00",
-      "source": "AMZ123跨境导航",
-      "url": "https://www.amz123.com/kx/WFG5a47d",
-      "subCategory": "物流仓储"
-    },
-    {
-      "id": "trade-20260707-821",
-      "title": "一批本土店无法提现！新规已渗透Shopee等平台风控",
-      "summary": "印尼自7月1日、越南自7月8日起要求Shopee店铺注册人姓名与银行账户持有人姓名一致，否则系统自动拦截提现及绑卡，涉及印尼贸易部新条例及越南新电子商务法合规要求。",
-      "publishedAt": "2026-07-07T17:02:00+08:00",
-      "source": "AMZ123",
-      "url": "https://www.amz123.com/t/1Swt5VGb",
-      "subCategory": "平台政策"
-    },
-    {
-      "id": "trade-20260707-814",
-      "title": "SHOPLINE与Shopify知识产权诉讼和解 跨境商家权益终获保障",
-      "summary": "独立站服务商SHOPLINE与Shopify长达两年多的知识产权诉讼达成和解，双方就Shopline旗下建站软件涉嫌拄袭Shopify Dawn主题模板的纠纷达成保密协议。",
-      "publishedAt": "2026-07-07T17:02:00+08:00",
-      "source": "亿邦动力",
-      "url": "https://m.ebrun.com/686078.html",
-      "subCategory": "独立站"
     }
   ]
 }

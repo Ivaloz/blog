@@ -3,8 +3,17 @@
   "slug": "industry",
   "title": "行业新闻",
   "description": "企业服务、SaaS、云计算、制造业、消费互联网的产业动态。",
-  "updatedAt": "2026-07-12T08:45:00+08:00",
+  "updatedAt": "2026-07-12T23:30:00+08:00",
   "items": [
+    {
+      "id": "industry-20260712-102",
+      "title": "比亚迪腾势N8纯电SUV完成工信部申报，提供三电机版本",
+      "summary": "工信部第409批新车公示显示，比亚迪腾势N8纯电动版完成申报，车身长5150毫米、轴距3075毫米，提供单电机、三电机及高性能单电机三种动力版本，最高车速240公里/小时，全系标配全景天幕。",
+      "publishedAt": "2026-07-10T17:49:54+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/975/275.htm",
+      "subCategory": "新能源汽车"
+    },
     {
       "id": "industry-20260712-007",
       "title": "2026年6月中国新能源汽车厂商出口销量排行榜TOP10（附榜单）",
@@ -265,6 +274,15 @@
       "url": "https://www.stcn.com/article/detail/4003267.html",
       "subCategory": "医疗健康",
       "id": "industry-20260708-900"
+    },
+    {
+      "id": "industry-20260712-101",
+      "title": "存储模组厂商：三季度DRAM合约价或涨20%-30%，NAND涨35%-40%",
+      "summary": "台湾存储模组厂威刚董事长陈敏透露，三季度DRAM合约价预计上涨20%-30%，NAND闪存涨35%-40%，高于TrendForce此前13%-18%及10%-15%的预测，AI服务器需求持续推高存储芯片价格。",
+      "publishedAt": "2026-07-08",
+      "source": "TrendForce",
+      "url": "https://www.trendforce.com/news/2026/07/08/news-memory-rally-extends-as-taiwan-module-maker-adata-reportedly-sees-q3-dram-prices-up-20-30-nand-up-35-40/",
+      "subCategory": "半导体产业"
     },
     {
       "id": "industry-20260708-003",
@@ -706,24 +724,6 @@
       "source": "中新经纬（新浪财经）",
       "url": "https://finance.sina.com.cn/tech/roll/2026-07-05/doc-inifuaqy8893845.shtml",
       "subCategory": "医疗健康"
-    },
-    {
-      "id": "industry-20260705-001",
-      "title": "5 semiconductor plants likely to be operational in India by 2026 end",
-      "summary": "印度电子信息技术部长瓦伊什纳夫表示，到2026年底印度将有5座半导体工厂投产，已获批的12个项目中3个已实现商业化生产，另有2座工厂即将投产，芯片将用于汽车及工业设备并计划出口。",
-      "publishedAt": "2026-07-05T09:10:00+05:30",
-      "source": "IANS",
-      "url": "https://ianslive.in/5-semiconductor-plants-likely-to-be-operational-in-india-by-2026-end--20260705090841",
-      "subCategory": "半导体产业"
-    },
-    {
-      "id": "industry-20260711-200",
-      "title": "技嘉展示 AI TOP ATOM 四机串联集群，以科学运算验证地端 AI 扩展能力",
-      "summary": "技嘉发布AI TOP ATOM四机串联集群，单节点1 PFLOPS FP4算力、128GB统一内存，联合英伟达跨节点执行分子动力学模拟，将单机约1000万原子规模扩展至超3000万原子，聚焦半导体先进封装导热材料研究。",
-      "publishedAt": "2026-07-05",
-      "source": "199IT",
-      "url": "https://www.199it.com/archives/1838683.html",
-      "subCategory": "半导体产业"
     }
   ]
 }

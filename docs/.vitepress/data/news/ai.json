@@ -3,7 +3,7 @@
   "slug": "ai",
   "title": "AI 与大模型",
   "description": "大模型、Agent、AI 编程、推理框架、开源模型的发布与落地。",
-  "updatedAt": "2026-07-12T08:45:00+08:00",
+  "updatedAt": "2026-07-12T23:30:00+08:00",
   "items": [
     {
       "id": "ai-20260712-001",
@@ -15,6 +15,15 @@
       "subCategory": "大模型"
     },
     {
+      "id": "ai-20260712-101",
+      "title": "OpenAI称GPT-5.6 Sol可化身研究员，后训练Luna AI模型",
+      "summary": "OpenAI研究员称，GPT-5.6 Sol能独立完成调试系统、优化训练配置、运行实验等工作，并对小模型Luna进行后训练，内部综合RSI评测得分较GPT-5.5提升16.2个百分点，研究员日均token产出增长逾一倍。",
+      "publishedAt": "2026-07-11T15:14:57+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/975/461.htm",
+      "subCategory": "大模型"
+    },
+    {
       "title": "GPT-5.6一小时解开50年数学猜想，700词Prompt驾驭64个子Agent",
       "summary": "OpenAI研究员称，GPT-5.6用一份700词提示词调度64个并行子Agent，将图论中的循环双重覆盖猜想转化为线性方程组求解，不到一小时完成证明，展示了动态资源分配与独立验证的Agent编排方法。",
       "publishedAt": "2026-07-11T13:30:11+08:00",
@@ -22,6 +31,15 @@
       "url": "https://www.qbitai.com/2026/07/447873.html",
       "subCategory": "Agent",
       "id": "ai-20260711-101"
+    },
+    {
+      "id": "ai-20260712-102",
+      "title": "Claude Code 2.1.207版更新：Bedrock/Vertex/Foundry默认开启Auto模式",
+      "summary": "Anthropic发布Claude Code 2.1.207版本，在Bedrock、Vertex AI和Foundry平台默认启用Auto模式，无需再手动设置环境变量，同时将默认模型更新为Claude Opus 4.8，并修复长文本流式输出导致终端卡顿等问题。",
+      "publishedAt": "2026-07-11",
+      "source": "Anthropic Claude Code Changelog",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.207",
+      "subCategory": "AI编程"
     },
     {
       "title": "Meta's Muse Spark 1.1 outperforms GLM-5.2 in coding and costs slightly less",
@@ -706,24 +724,6 @@
       "source": "量子位",
       "url": "https://www.qbitai.com/2026/07/443186.html",
       "subCategory": "AI硬件"
-    },
-    {
-      "id": "ai-20260706-303",
-      "title": "Meta 惔惔推出全新社交 AI 应用 Pocket，用 Vibe Coding 生成小程序 / 小游戏分享给他人",
-      "summary": "Meta低调上线社交AI应用Pocket，用户可通过自然语言以Vibe Coding方式生成小程序、小游戏并分享给他人，经编辑器修改后保存至播放列表，该产品源自Meta收购Atma Sciences此前开发的Gizmo项目。",
-      "publishedAt": "2026-07-05T19:58:57+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/972/832.htm",
-      "subCategory": "AI应用"
-    },
-    {
-      "id": "ai-20260706-304",
-      "title": "复旦大学一课程考试改为“人考 AI”，4 名大学生出题让 AI 拿 0 分",
-      "summary": "复旦大学“数据挖掘技术”课程期末考试改为学生出题考AI，51名学生各设计10道计算题让DeepSeek V4-Flash、MiniMax M2.7、Claude Sonnet作答，仅4人让三款模型全部出错，Claude全程未被难倒。",
-      "publishedAt": "2026-07-05T17:42:03+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/972/809.htm",
-      "subCategory": "AI评测"
     }
   ]
 }
