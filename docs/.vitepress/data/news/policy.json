@@ -3,8 +3,44 @@
   "slug": "policy",
   "title": "政策信息",
   "description": "国家与地方政策、监管动态、产业扶持与合规要求。",
-  "updatedAt": "2026-07-13T10:30:00+08:00",
+  "updatedAt": "2026-07-13T17:00:00+08:00",
   "items": [
+    {
+      "title": "整治\"内卷式\"竞争，一批企业被列入严重违法失信名单",
+      "summary": "市场监管总局公布近期严重违法失信名单案例，福建某卫浴企业因产品耐腐蚀等指标不达标、宁夏某塑料加工点无证生产食品用塑料瓶、天津某生物科技公司虚假宣传细胞再生功效等被列入名单。",
+      "publishedAt": "2026-07-13T10:23:00+08:00",
+      "source": "国家市场监督管理总局",
+      "url": "https://www.samr.gov.cn/xw/mtjj/art/2026/art_78cf8b368ae3451ba342ed36430ad8a6.html",
+      "subCategory": "反垄断",
+      "id": "policy-20260713-002"
+    },
+    {
+      "title": "市场监管总局2026年上半年发布101项国家计量技术规范",
+      "summary": "市场监管总局发布信息显示，2026年上半年我国批准重组40个国家专业计量技术委员会，发布101项国家计量技术标准，同比增长23%，新增碳排放计量、数字计量及新能源汽车电池检测等标准。",
+      "publishedAt": "2026-07-13T10:00:00+08:00",
+      "source": "国家市场监督管理总局",
+      "url": "https://www.samr.gov.cn/xw/sj/art/2026/art_bcd1c28d953f4b79ab354cf8ebed7ef2.html",
+      "subCategory": "产业政策",
+      "id": "policy-20260713-001"
+    },
+    {
+      "title": "Dame Jayne-Anne Gadhia named as preferred candidate for Chair of the Financial Reporting Council",
+      "summary": "英国政府宣布Dame Jayne-Anne Gadhia成为财务报告委员会主席优先候选人，负责监管审计、会计及精算行业并制定公司治理准则，任命尚需经商业与贸易特别委员会审议确认。",
+      "publishedAt": "2026-07-13",
+      "source": "英国政府（GOV.UK）",
+      "url": "https://www.gov.uk/government/news/dame-jayne-anne-gadhia-named-as-preferred-candidate-for-chair-of-the-financial-reporting-council",
+      "subCategory": "金融监管",
+      "id": "policy-20260713-004"
+    },
+    {
+      "title": "Joint statement on the tenth anniversary of the Philippines-China South China Sea Arbitral Tribunal Award",
+      "summary": "英国联合美国、澳大利亚、日本等十余国发表联合声明，纪念南海仲裁裁决十周年，重申裁决具有终局性和法律约束力，反对中国基于历史性权利等提出的扩张性海洋主张。",
+      "publishedAt": "2026-07-12",
+      "source": "英国政府（GOV.UK）",
+      "url": "https://www.gov.uk/government/news/joint-statement-on-the-tenth-anniversary-of-the-philippines-china-south-china-sea-arbitral-tribunal-award",
+      "subCategory": "海外政策",
+      "id": "policy-20260713-003"
+    },
     {
       "id": "policy-20260712-201",
       "title": "UK Export Finance and British Business Bank to launch joint scheme to support thousands of smaller exporters",
