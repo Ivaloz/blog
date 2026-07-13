@@ -3,8 +3,17 @@
   "slug": "industry",
   "title": "行业新闻",
   "description": "企业服务、SaaS、云计算、制造业、消费互联网的产业动态。",
-  "updatedAt": "2026-07-12T23:30:00+08:00",
+  "updatedAt": "2026-07-13T10:30:00+08:00",
   "items": [
+    {
+      "id": "industry-20260710-901",
+      "title": "拓荆科技拟收购无锡尚积半导体控股权，7月13日复牌",
+      "summary": "半导体设备商拓荆科技披露重组预案，拟发行股份及支付现金收购无锡尚积82.97%股份，交易完成后将全资控股无锡尚积，公司股票7月13日复牌。",
+      "publishedAt": "2026-07-10T23:26:00+08:00",
+      "source": "手机金融界",
+      "url": "https://m.jrj.com.cn/madapter/finance/2026/07/10232657767351.shtml",
+      "subCategory": "公司动态"
+    },
     {
       "id": "industry-20260712-102",
       "title": "比亚迪腾势N8纯电SUV完成工信部申报，提供三电机版本",
@@ -76,6 +85,15 @@
       "source": "国家能源局",
       "url": "https://www.nea.gov.cn/20260710/02dd0d866ecd4e12855f69848a350181/c.html",
       "subCategory": "行业研报"
+    },
+    {
+      "id": "industry-20260709-903",
+      "title": "IDC：预计2026年PC出货降12%、手机降14%，DRAM紧缺持续至2027年底",
+      "summary": "IDC报告称，受存储芯片涨价影响，2026年全球PC出货量预计降12%、手机降14%，DRAM供给紧张将持续至2027年底。",
+      "publishedAt": "2026-07-09T21:12:00+08:00",
+      "source": "IDC（via新浪科技）",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-07-09/doc-inihfihu7582222.shtml",
+      "subCategory": "半导体产业"
     },
     {
       "id": "industry-20260710-001",
@@ -411,6 +429,15 @@
       "subCategory": "半导体产业"
     },
     {
+      "id": "industry-20260708-511",
+      "title": "美国ACA保险商拟大幅上调2027年保费，参保人数持续下滑",
+      "summary": "多家美国平价医疗法案（ACA）保险商拟对2027年保费提出中位数14%涨幅，为2018年以来第二高涨幅；截至2月ACA参保人数同比减少约300万人。",
+      "publishedAt": "2026-07-08",
+      "source": "STAT News",
+      "url": "https://www.statnews.com/2026/07/08/affordable-care-act-insurers-premium-increases-enrollment-dips/",
+      "subCategory": "医疗健康"
+    },
+    {
       "id": "industry-20260707-804",
       "title": "微软：2026年新财年裁员约4800人 占全球员工2.1%",
       "summary": "微软宣布2026新财年将裁员约4800人，占全球员工总数2.1%，主要涉及企业销售与Xbox部门，其中Xbox约1600个岗位受影响，公司称调整与人工智能业务变革相关。",
@@ -427,6 +454,15 @@
       "source": "新浪科技",
       "url": "https://finance.sina.com.cn/tech/roll/2026-07-07/doc-inifzfss8294577.shtml",
       "subCategory": "新能源汽车"
+    },
+    {
+      "id": "industry-20260707-921",
+      "title": "零一万物发布\"一号位AI\"产品矩阵，主打企业决策场景",
+      "summary": "零一万物推出老板AI、销冠AI、投资官AI三款产品，分别面向企业经营决策、收入增长与投资决策场景，据披露应用后企业订单额增长5倍。",
+      "publishedAt": "2026-07-07T20:30:00+08:00",
+      "source": "新浪财经",
+      "url": "https://finance.sina.com.cn/jjxw/2026-07-07/doc-inifyvay5181004.shtml",
+      "subCategory": "SaaS"
     },
     {
       "id": "industry-20260707-803",
@@ -454,6 +490,15 @@
       "source": "ITBear科技资讯",
       "url": "https://www.itbear.com.cn/html/2026-07/1431706.html",
       "subCategory": "消费零售"
+    },
+    {
+      "id": "industry-20260707-920",
+      "title": "支付宝AI开放平台正式上线，面向企业开发者开放邀测",
+      "summary": "支付宝AI开放平台7月7日上线，面向企业开发者、代开发服务商开放邀测，商家可通过\"阿宝\"接入手机、车机、AI眼镜等多端，肯德基、瑞幸等品牌首批接入。",
+      "publishedAt": "2026-07-07T10:09:00+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/973/375.htm",
+      "subCategory": "企业服务"
     },
     {
       "id": "industry-20260707-701",
@@ -679,51 +724,6 @@
       "source": "比亚迪",
       "url": "https://finance.sina.com.cn/tech/roll/2026-07-05/doc-inifuhwt9213478.shtml",
       "subCategory": "新能源汽车"
-    },
-    {
-      "id": "industry-20260705-601",
-      "title": "江波龙：2026上半年净利暴涨超700倍",
-      "summary": "存储模组厂江波龙7月3日晚公告，预计2026年上半年净利润润9.2亿至11亿元，同比暴增622至744倍；营收预计220亿至250亿元。公司称受益于全球存储晶圆产能有限、下游需求增加，并与主要晶圆厂续签长期供应协议。",
-      "publishedAt": "2026-07-05T19:27:00+08:00",
-      "source": "新浪财经",
-      "url": "https://finance.sina.com.cn/tech/roll/2026-07-05/doc-inifuaqx2172135.shtml",
-      "subCategory": "半导体产业"
-    },
-    {
-      "id": "industry-20260705-602",
-      "title": "Prismark：2026年全球PCB产业增长12.5%，规模达958亿美元",
-      "summary": "研究机构Prismark预测2026年全球PCB产业规模将增长12.5%达958亿美元，同时三星电子等大客户正就下半年PCB基板价格与供应商展开降价谈判。",
-      "publishedAt": "2026-07-05T19:25:00+08:00",
-      "source": "新浪财经",
-      "url": "https://finance.sina.com.cn/tech/roll/2026-07-05/doc-inifuaqv9331772.shtml",
-      "subCategory": "半导体产业"
-    },
-    {
-      "id": "industry-20260706-307",
-      "title": "AI风口来临日本也起飞了：半导体设备赢麻、今年营收 6.5 万亿日元",
-      "summary": "日本半导体制造装置协会上调2026财年销售额预测至6.55万亿日元（约430亿美元），较年初预测上调1万亿日元，预计2027年达7.4万亿日元，年复合增速约14%，主要由AI相关逻辑与存储芯片扩产带动。",
-      "publishedAt": "2026-07-05T18:59:00+08:00",
-      "source": "快科技（新浪科技）",
-      "url": "https://finance.sina.com.cn/tech/roll/2026-07-05/doc-inifuaqv9323981.shtml",
-      "subCategory": "半导体产业"
-    },
-    {
-      "id": "industry-20260706-308",
-      "title": "EUV不是必须的 DUV光刻还没到极限：逼近台积电2nm不是梦",
-      "summary": "报道称中芯国际已在中美申请专利，通过EDA设计与多重曝光协同优化DUV光刻工艺，最小间距可达24nm，性能对标台积电3nm至2nm水平，探索不依赖EUV的国产先进制程路径。",
-      "publishedAt": "2026-07-05T18:20:00+08:00",
-      "source": "快科技（新浪科技）",
-      "url": "https://finance.sina.com.cn/tech/roll/2026-07-05/doc-inifuaqy8916002.shtml",
-      "subCategory": "半导体产业"
-    },
-    {
-      "id": "industry-20260706-310",
-      "title": "益盛药业生脉注射液及补金片被暂停生产销售",
-      "summary": "吉林省药监局向益盛药业下发通知，因6月26日至28日国家飞行检查发现严重质量缺陷及安全隐患，责令生脉注射液及补金片暂停生产销售；补金片已启动三级召回，涉及9562瓶，公司称不影响核心批文。",
-      "publishedAt": "2026-07-05T17:45:00+08:00",
-      "source": "中新经纬（新浪财经）",
-      "url": "https://finance.sina.com.cn/tech/roll/2026-07-05/doc-inifuaqy8893845.shtml",
-      "subCategory": "医疗健康"
     }
   ]
 }

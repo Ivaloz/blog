@@ -3,8 +3,89 @@
   "slug": "trade",
   "title": "外贸资讯",
   "description": "亚马逊、TikTok Shop、阵里国际站、Shopify 等平台政策与跨境电商市场、独立站、物流支付、关税法规、选品趋势。",
-  "updatedAt": "2026-07-12T23:30:00+08:00",
+  "updatedAt": "2026-07-13T10:30:00+08:00",
   "items": [
+    {
+      "id": "trade-20260713-001",
+      "title": "亚马逊美国站头部卖家生态生变：中国卖家占比升至55.9%",
+      "summary": "亚马逊美国站前10000名卖家中，中国卖家占比升至55.9%，较2020年提升13.4个百分点，美国卖家份额降至40.5%；但美国卖家仍贡献头部卖家群体65.3%的交易额，客单价明显高于中国卖家。",
+      "publishedAt": "2026-07-13",
+      "source": "出海网",
+      "url": "https://www.chwang.com/daily/20260713",
+      "subCategory": "平台动态"
+    },
+    {
+      "id": "trade-20260713-002",
+      "title": "德国电子废弃物回收新规要求电商展示回收标识",
+      "summary": "德国《电器与电子设备回收法》自7月1日起要求在线商家在商品详情页或结账流程中展示统一的电子废弃物回收点标识，未标示或标识不清可被举报，当地环保组织已启动抽查行动。",
+      "publishedAt": "2026-07-13",
+      "source": "出海网",
+      "url": "https://www.chwang.com/daily/20260713",
+      "subCategory": "关税法规"
+    },
+    {
+      "id": "trade-20260713-003",
+      "title": "欧洲88家机构联署要求加强非欧盟卖家合规责任",
+      "summary": "88家欧洲消费者及环保组织联署致信欧盟委员会，要求非欧盟卖家指定在欧盟内注册的经济运营者负责产品安全与合规，若无此责任人则应由平台承担相应产品责任。",
+      "publishedAt": "2026-07-13",
+      "source": "出海网",
+      "url": "https://www.chwang.com/daily/20260713",
+      "subCategory": "关税法规"
+    },
+    {
+      "id": "trade-20260713-004",
+      "title": "亚马逊巴西即时配送服务Amazon Now商品种类扩大15%",
+      "summary": "亚马逊巴西即时配送服务Amazon Now自2026年3月上线以来可配送商品种类已扩大15%，主要由生鲜食品需求驱动，目前服务覆盖圣保罗等8个城市。",
+      "publishedAt": "2026-07-13",
+      "source": "出海网",
+      "url": "https://www.chwang.com/daily/20260713",
+      "subCategory": "新兴市场"
+    },
+    {
+      "id": "trade-20260713-005",
+      "title": "印尼中小微企业平台服务费折扣政策仍未落地",
+      "summary": "印尼面向中小微电商卖家的平台服务费折扣政策尚未实施，多家电商平台仍在等待政府明确具体时间表与操作细则后才会执行相关折扣安排。",
+      "publishedAt": "2026-07-13",
+      "source": "出海网",
+      "url": "https://www.chwang.com/daily/20260713",
+      "subCategory": "平台政策"
+    },
+    {
+      "id": "trade-20260713-006",
+      "title": "Temu与SHEIN大幅削减欧洲谷歌购物广告投放",
+      "summary": "自2026年3月起，Temu与SHEIN显著削减在欧洲的Google Shopping广告支出，背景是欧盟已取消150欧元以下包裹关税豁免，改为每件征收3欧元固定费用。",
+      "publishedAt": "2026-07-13",
+      "source": "出海网",
+      "url": "https://www.chwang.com/daily/20260713",
+      "subCategory": "平台动态"
+    },
+    {
+      "id": "trade-20260713-007",
+      "title": "泰国设立数字平台监管小组加强反垄断审查",
+      "summary": "泰国贸易竞争委员会设立数字平台监管小组，旨在防范电商平台反竞争行为，此前Shopee已宣布年内第三次上调销售交易费用。",
+      "publishedAt": "2026-07-13",
+      "source": "出海网",
+      "url": "https://www.chwang.com/daily/20260713",
+      "subCategory": "平台政策"
+    },
+    {
+      "id": "trade-20260713-008",
+      "title": "英国TikTok Shop图书品类过去一年销量增长超250%",
+      "summary": "在#BookTok社群带动下，英国TikTok Shop过去12个月图书销量同比增长超250%，英国四大出版社已全部入驻平台，平均每分钟售出三本书。",
+      "publishedAt": "2026-07-13",
+      "source": "出海网",
+      "url": "https://www.chwang.com/daily/20260713",
+      "subCategory": "选品趋势"
+    },
+    {
+      "id": "trade-20260713-009",
+      "title": "俄罗斯高温催生清凉经济，吊扇销量同比暴涨9倍",
+      "summary": "2026年5月俄罗斯高温天气带动清凉类产品需求，天花板吊扇销量同比暴涨9倍，风扇全品类销量同比增长超200%，相关小家电跨境采购成本约20至30元。",
+      "publishedAt": "2026-07-13",
+      "source": "出海网",
+      "url": "https://www.chwang.com/daily/20260713",
+      "subCategory": "选品趋势"
+    },
     {
       "id": "trade-20260712-104",
       "title": "欧洲40℃热浪带动“睡眠降温”品类需求上升",
@@ -642,87 +723,6 @@
       "publishedAt": "2026-07-08T11:37:00+08:00",
       "source": "AMZ123",
       "url": "https://www.amz123.com/kx/atvnBBTO",
-      "subCategory": "平台动态"
-    },
-    {
-      "title": "德国DSA协调员指出eBay存在三项违规嫌疑",
-      "summary": "德国联邦网络管理局旗下数字服务法协调员发布初步评估，认定eBay作为超大型在线平台存在举报入口不明显、封禁用户申诉说明不足、商户联系信息难查找三项违规嫌疑，要求限期整改，eBay回应称已在推进改进。",
-      "publishedAt": "2026-07-08T11:22:59+08:00",
-      "source": "AMZ123",
-      "url": "https://www.amz123.com/kx/eh4SRNtH",
-      "subCategory": "平台政策",
-      "id": "trade-20260708-902"
-    },
-    {
-      "title": "亚马逊FBA新费政生效：超龄库存附加费大幅上涨",
-      "summary": "亚马逊FBA新收费标准正式生效，超龄库存附加费大幅提高，商品库龄满181天起计费，存放超365天最高可达月仓储费13倍；未加入SIPP的大件商品加收1.51-4.04美元包装费，标准配送费同步上调，卖家库存管理成本进一步增加。",
-      "publishedAt": "2026-07-08T10:31:43+08:00",
-      "source": "AMZ123",
-      "url": "https://www.amz123.com/kx/RkUvZPFw",
-      "subCategory": "平台政策",
-      "id": "trade-20260708-900"
-    },
-    {
-      "title": "美伊紧张局势升级 霍尔木兹海峡24小时内三艘商船遭袭",
-      "summary": "美伊局势持续紧张，英国海上贸易行动办公室通报称24小时内已有3艘商船在霍尔木兹海峡靠近阿曼一侧海域遭袭，其中一艘油轮遭无人机袭击并轻微受损，航运安全风险上升，跨境物流企业需关注该航线运输时效与保险成本变化。",
-      "publishedAt": "2026-07-08T10:21:10+08:00",
-      "source": "AMZ123",
-      "url": "https://www.amz123.com/kx/Gvs3eVLX",
-      "subCategory": "物流仓储",
-      "id": "trade-20260708-910"
-    },
-    {
-      "title": "EAEU跨境电商小包征税新规延期实施",
-      "summary": "哈萨克斯坦财政部国家收入委员会公告称，原定7月1日起执行的欧亚经济联盟跨境电商小包统一征税新规延期实施，因部分成员国海关法典修正案尚未完成国内批准程序；暂缓期内，超200欧元的EAEU直邮包裹仍按现行规则对超出部分征收15%关税及增值税。",
-      "publishedAt": "2026-07-08T09:59:21+08:00",
-      "source": "AMZ123",
-      "url": "https://www.amz123.com/kx/4JrMpXrn",
-      "subCategory": "关税法规",
-      "id": "trade-20260708-908"
-    },
-    {
-      "title": "Temu加入意大利国家反假冒计划 开通假货举报快速通道",
-      "summary": "Temu宣布成为首个加入意大利“VER.O”国家反假冒计划的跨境电商平台，该计划由意大利制造与商业部资助并联合专利商标局、金融警察等部门推进，Temu将与当地消费者组织合作开通假货举报快速通道。",
-      "publishedAt": "2026-07-08T09:49:03+08:00",
-      "source": "AMZ123",
-      "url": "https://www.amz123.com/kx/7COe8jrM",
-      "subCategory": "平台政策",
-      "id": "trade-20260708-903"
-    },
-    {
-      "id": "trade-20260708-512",
-      "title": "DHL集团上调2026全年盈利预期 二季度息税前利润增长29%",
-      "summary": "DHL集团公布二季度初步业绩超预期，营收同比增长逐10%，息税前利润约18.5亿欧元，同比增长29%，快递部门表现突出，公司据此将2026全年息税前利润预期上调至街65亿欧元。",
-      "publishedAt": "2026-07-07T21:30:00+08:00",
-      "source": "DHL Group",
-      "url": "https://group.dhl.com/en/media-relations/press-releases/2026/dhl-group-exceeds-q2-expectations-and-raises-full-year-2026-earnings-guidance.html",
-      "subCategory": "物流仓储"
-    },
-    {
-      "id": "trade-20260707-812",
-      "title": "“美国关税退款”即将到账！三大物流商启动退款程序、总额或高达数十亿美元",
-      "summary": "美国海关关税退款系统启动，FedEx已获约8亿美元IEEPA关税退款并承诺全额返还客户，查询入口7月10日前上线，首批退款预计8月10日前后发放；UPS、DHL退款程序也已启动。",
-      "publishedAt": "2026-07-07T18:52:00+08:00",
-      "source": "亿邦动力",
-      "url": "https://m.ebrun.com/686094.html",
-      "subCategory": "关税法规"
-    },
-    {
-      "id": "trade-20260707-822",
-      "title": "停电是家常便饭，2000元的电池成了东南亚年轻家庭的三大件",
-      "summary": "东南亚电网不稳定催生家庭储能需求，卖家在Lazada菲律宾站销售1至3千瓦时电池系统，主剁2度电型号售价约2000元人民币，主持30岁以下新组建家庭客群。",
-      "publishedAt": "2026-07-07T18:00:00+08:00",
-      "source": "AMZ123",
-      "url": "https://www.amz123.com/t/oTp18mWi",
-      "subCategory": "选品趋势"
-    },
-    {
-      "id": "trade-20260707-813",
-      "title": "加强品牌知识产权保护：Temu与韩国知识产权保护院签署谅解备忘录",
-      "summary": "跨境电商平台Temu与韩国知识产权保护院签署谅解备忘录，双方将设立专属沟通渠道打击侵权，Temu负责识别下架侵权商品，该机构负责验证韩国品牌知识产权真实性。",
-      "publishedAt": "2026-07-07T17:47:00+08:00",
-      "source": "亿邦动力",
-      "url": "https://m.ebrun.com/686086.html",
       "subCategory": "平台动态"
     }
   ]

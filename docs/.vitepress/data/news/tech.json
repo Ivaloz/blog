@@ -3,8 +3,35 @@
   "slug": "tech",
   "title": "科技新闻",
   "description": "前沿科技、互联网产品、芯片硬件、开源生态。",
-  "updatedAt": "2026-07-12T23:30:00+08:00",
+  "updatedAt": "2026-07-13T10:30:00+08:00",
   "items": [
+    {
+      "id": "tech-20260713-002",
+      "title": "中国电信试验AI卫星视频传输新方案，效率较H.265提升3.5倍以上",
+      "summary": "中国电信联合北京邮电大学、鹏城实验室完成高轨卫星跨模态语义通信试验，通过语义知识库与联合信源信道编码技术，星地链路传输效率较H.265提升3.5倍以上、较H.264提升5.5倍，多模态传输质量提升超70%，三方将深化6G语义通信标准化合作。",
+      "publishedAt": "2026-07-13T08:20:06+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/975/855.htm",
+      "subCategory": "网络基础设施"
+    },
+    {
+      "id": "tech-20260713-001",
+      "title": "古尔曼：苹果将跳过 M6 Pro/Max 芯片，转向 AI 导向的 M7 系列",
+      "summary": "据彭博社记者马克·古尔曼透露，苹果计划发布标准版M6芯片但跳过M6 Pro、Max和Ultra版本，将资源集中投入具备更强AI性能的M7系列，M7 Ultra预计2029年支持Apple Intelligence服务器。",
+      "publishedAt": "2026-07-13T06:46:25+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/975/835.htm",
+      "subCategory": "芯片硬件"
+    },
+    {
+      "id": "tech-20260712-202",
+      "title": "华硕 ROG XG32UQWMS 显示器发售：4K 240Hz / FHD 480Hz 双模 OLED，5999 元",
+      "summary": "华硕推出31.5英寸ROG XG32UQWMS游戏显示器，采用LG Display Tandem WOLED面板，支持4K 240Hz与FHD 480Hz双模切换，SDR亮度330尼特、HDR峰值1500尼特，通过VESA DisplayHDR True Black 500认证，售价5999元。",
+      "publishedAt": "2026-07-12T23:18:28+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/975/834.htm",
+      "subCategory": "消费电子"
+    },
     {
       "id": "tech-20260712-101",
       "title": "古尔曼：苹果 M7 Ultra 芯片最高支持 1.5TB 内存，是 M5 Ultra 的两倍",
@@ -139,6 +166,24 @@
       "source": "IT之家",
       "url": "https://www.ithome.com/0/975/766.htm",
       "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260712-201",
+      "title": "三星电子将龙仁芯片集群首座工厂投产时间提前至2029年",
+      "summary": "三星电子决定把龙仁产业园首座半导体工厂投产时间从原计划提前1至2年，调整至2029年，以更快响应全球人工智能芯片需求增长；公司计划在平泽和龙仁园区投资203万亿韩元，并在光州追加投资40万亿韩元建两座新厂。",
+      "publishedAt": "2026-07-12T11:37:00+09:00",
+      "source": "Korea Times",
+      "url": "https://www.koreatimes.co.kr/business/companies/20260712/samsung-electronics-to-bring-forward-opening-of-1st-yongin-chip-plant-to-2029",
+      "subCategory": "芯片硬件"
+    },
+    {
+      "id": "tech-20260712-203",
+      "title": "特斯拉46天拆除Model S/X产线，为Optimus人形机器人量产腾出空间",
+      "summary": "特斯拉在美国加州弗里蒙特工厂用46天拆除了Model S和Model X生产线的混凝土地基、机械臂及输送设备，为Optimus新产线腾出空间，目标年产能100万台；第三代Optimus已开始小规模生产，大规模量产预计7月底或8月启动。",
+      "publishedAt": "2026-07-12T10:33:28+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/975/664.htm",
+      "subCategory": "机器人"
     },
     {
       "id": "tech-20260712-009",
@@ -573,6 +618,24 @@
       "id": "tech-20260711-002"
     },
     {
+      "id": "tech-20260711-301",
+      "title": "研究人员曝光\"Ghostcommit\"攻击，将提示注入藏入图片欺骗AI代码审查工具窃取密钥",
+      "summary": "密苏里大学堪萨斯城分校研究人员展示了Ghostcommit攻击：将恶意指令隐藏在PR图片文件中绕过代码审查，AI编码助手随后读取配置并窃取环境变量中的密钥；测试显示Cursor、Antigravity受影响，Claude Code拒绝执行该攻击。",
+      "publishedAt": "2026-07-11T05:03:00-04:00",
+      "source": "Bleeping Computer",
+      "url": "https://www.bleepingcomputer.com/news/security/ghostcommit-hides-prompt-injection-in-images-to-fool-ai-agents-steal-secrets/",
+      "subCategory": "安全漏洞"
+    },
+    {
+      "id": "tech-20260711-302",
+      "title": "蔚来ES8大五座版正式上市，售价38.28万元起",
+      "summary": "蔚来于7月9日在成都发布ES8大五座版，行政豪华版售价38.28万元起（BaaS方案27.48万元起），搭载102kWh电池、900V高压架构，CLTC续航655公里，7.05平方米车内空间可容纳\"5人21箱\"，7月10日起开启交付。",
+      "publishedAt": "2026-07-11T05:00:00+08:00",
+      "source": "新浪科技",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-07-11/doc-inihkpth6850068.shtml",
+      "subCategory": "智能汽车"
+    },
+    {
       "id": "tech-20260710-102",
       "title": "募资265亿美元超阿里创外企赴美IPO纪录：SK海力士ADR预示开盘价180美元，首日涨超20%",
       "summary": "SK海力士美国存托凭证在纳斯达克上市，募资约265亿美元，超过阿里巴巴此前外企赴美IPO纪录，定价149美元/股，预市价格显示开盘价约180美元，涨幅约21%，认购倍数超7倍，机构投资者超500家。",
@@ -661,69 +724,6 @@
       "source": "IT之家",
       "url": "https://www.ithome.com/0/975/340.htm",
       "subCategory": "机器人"
-    },
-    {
-      "id": "tech-20260710-108",
-      "title": "1099元骁途S7 Pro Max运动相机上市，首发海思自研1/1.28英寸5000万像素RYYB传感器",
-      "summary": "骁途S7 Pro Max运动相机售价1099元，首发海思自研1/1.28英寸5000万像素RYYB传感器，支持4K 50fps HDR录制，158°超广角镜头，2.29英寸触摸屏，1800mAh电池可录制190分钟1080P视频，支持30米防水。",
-      "publishedAt": "2026-07-10T20:47:35+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/975/339.htm",
-      "subCategory": "消费电子"
-    },
-    {
-      "title": "SK海力士本周五登陆纳斯达克，募资265亿美元跻身大型IPO",
-      "summary": "SK 海力士将于本周五在纳斯达克挂牌上市，计划通过发行美国存托凭证募资约 265 亿美元，此次发行 1.779 亿份 ADR，每份定价 149 美元，对应韩国首尔交易所十分之一股普通股。",
-      "publishedAt": "2026-07-10T20:44:00+08:00",
-      "source": "36氪",
-      "url": "https://36kr.com/newsflashes/3889804779731457",
-      "subCategory": "芯片硬件",
-      "id": "tech-20260711-004"
-    },
-    {
-      "title": "CodeQL 2.26.0 adds Kotlin 2.4.0 support and AI prompt injection detection",
-      "summary": "GitHub 发布代码扫描引擎 CodeQL 2.26.0 版本，新增对 Kotlin 2.4.0 的支持，并推出新查询规则用于检测流入 AI 模型系统提示词的不可信用户输入，同时扩展了对 Go、C# 等语言的安全检测能力。",
-      "publishedAt": "2026-07-10T20:40:56Z",
-      "source": "GitHub Changelog",
-      "url": "https://github.blog/changelog/2026-07-10-codeql-2-26-0-adds-kotlin-2-4-0-support-and-ai-prompt-injection-detection/",
-      "subCategory": "开发者工具",
-      "id": "tech-20260711-006"
-    },
-    {
-      "id": "tech-20260710-106",
-      "title": "三星Galaxy Z Fold8系列美版价格泄露：Ultra版2099美元起，涨价100美元",
-      "summary": "据韩媒报道，三星Galaxy Z Fold8系列256GB版本美版起售价1899美元，Ultra版同容量为2099美元，较上代Z Fold7涨价100美元，官方价格仍在最终审核中，新机预计7月22日发布。",
-      "publishedAt": "2026-07-10T20:36:18+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/975/338.htm",
-      "subCategory": "消费电子"
-    },
-    {
-      "id": "tech-20260710-103",
-      "title": "消息称AMD将于本月发布Venice CPU",
-      "summary": "据报道，AMD计划在7月22日至23日的Advancing AI活动上推出基于Zen 6架构的EPYC Venice处理器，相较上代Zen 5产品，性能与能效预计提升超过70%。",
-      "publishedAt": "2026-07-10T20:22:00+08:00",
-      "source": "36氪",
-      "url": "https://www.36kr.com/newsflashes/3889784854870537",
-      "subCategory": "芯片硬件"
-    },
-    {
-      "id": "tech-20260710-114",
-      "title": "华为SVC再获GlobalData全满分评价，蝉联IMS话音核心网独家领导者",
-      "summary": "GlobalData发布2026年IMS及话音核心网竞争力评估报告，华为SVC解决方案在方案架构、平台性能、业务创新、互联互通、商用部署五个维度获得满分，继续保持独家领导者地位，目前已部署超420张网络，服务超20亿VoLTE/VoNR用户。",
-      "publishedAt": "2026-07-10T20:13:29+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/975/333.htm",
-      "subCategory": "网络基础设施"
-    },
-    {
-      "title": "Clearer names for secret scanning detector types",
-      "summary": "GitHub 更新了密钥扫描检测器类型的命名方式，将\"非提供商模式\"改为\"通用模式\"，\"Copilot 密钥扫描\"改为\"AI 检测密钥\"，官方说明此次调整仅涉及术语，不影响检测功能、API 行为或 webhook 事件。",
-      "publishedAt": "2026-07-10T20:06:10Z",
-      "source": "GitHub Changelog",
-      "url": "https://github.blog/changelog/2026-07-10-clearer-names-for-secret-scanning-detector-types/",
-      "subCategory": "开发者工具",
-      "id": "tech-20260711-007"
     }
   ]
 }

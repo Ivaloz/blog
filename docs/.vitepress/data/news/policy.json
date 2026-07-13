@@ -3,8 +3,17 @@
   "slug": "policy",
   "title": "政策信息",
   "description": "国家与地方政策、监管动态、产业扶持与合规要求。",
-  "updatedAt": "2026-07-12T23:30:00+08:00",
+  "updatedAt": "2026-07-13T10:30:00+08:00",
   "items": [
+    {
+      "id": "policy-20260712-201",
+      "title": "UK Export Finance and British Business Bank to launch joint scheme to support thousands of smaller exporters",
+      "summary": "英国财政大臣里夫斯宣布，英国出口信贷署（UKEF）将与英国商业银行合作推出联合融资计划，预计于2027年春季启动，通过组合担保方式为难以获得出口融资、尤其是小额营运资金贷款的中小企业提供支持，覆盖各行业的定期贷款和营运资金业务。",
+      "publishedAt": "2026-07-12",
+      "source": "英国政府（财政部/UK Export Finance）",
+      "url": "https://www.gov.uk/government/news/uk-export-finance-and-british-business-bank-to-launch-joint-scheme-to-support-thousands-of-smaller-exporters",
+      "subCategory": "跨境贸易"
+    },
     {
       "id": "policy-20260712-105",
       "title": "国家网信办将在2026年APEC数字周期间举办系列活动",
@@ -715,15 +724,6 @@
       "source": "中国新闻网（中新社）",
       "url": "https://www.chinanews.com.cn/cj/2026/07-01/10650947.shtml",
       "subCategory": "新能源政策"
-    },
-    {
-      "id": "policy-20260701-008",
-      "title": "Welfare reforms saving taxpayer £1 billion come into force",
-      "summary": "英国Motability机动性计划改革于7月1日起实施，对购车附加费征收增值税、对新租赁合同征收保险费税，预计到2030年为纳税人节省10亿英镑，残疾人每周77.05英镑福利额度维持不变。",
-      "publishedAt": "2026-07-01",
-      "source": "GOV.UK",
-      "url": "https://www.gov.uk/government/news/welfare-reforms-saving-taxpayer-1-billion-come-into-force",
-      "subCategory": "海外政策"
     }
   ]
 }
