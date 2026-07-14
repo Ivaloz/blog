@@ -1,1 +1,8 @@
-PLACEHOLDER_TECH
+{
+  "$schema": "./schema.json",
+  "slug": "tech",
+  "title": "科技新闻",
+  "description": "前沿科技、互联网产品、芯片硬件、开源生态。",
+  "updatedAt": "2026-07-15T00:45:00+08:00",
+  "items": []
+}
