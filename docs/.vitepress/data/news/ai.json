@@ -3,8 +3,62 @@
   "slug": "ai",
   "title": "AI 与大模型",
   "description": "大模型、Agent、AI 编程、推理框架、开源模型的发布与落地。",
-  "updatedAt": "2026-07-14T17:30:00+08:00",
+  "updatedAt": "2026-07-15T00:45:00+08:00",
   "items": [
+    {
+      "id": "ai-20260714-013",
+      "title": "刚刚，一个免费AI Coding选手杀入全球第一梯队",
+      "summary": "Agnes AI发布编码模型Agnes-2.5-Flash及桌面应用Agnes Code，宣布不限期免费开放，测试显示其在漏洞定位修复、独立构建网页应用等任务中与Claude Opus 4.7表现相近，公司还将推出面向复杂工程场景的旗舰版Agnes-2.5-Pro。",
+      "publishedAt": "2026-07-14T20:36:48+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/07/448475.html",
+      "subCategory": "AI编程"
+    },
+    {
+      "id": "ai-20260714-012",
+      "title": "百年德国「战车」征服欧陆，驾驶位上是中国AI司机",
+      "summary": "文远知行L2++辅助驾驶系统WRD 3.0完成德国、法国、日本三国道路测试，验证同一套基于L4积累的世界模型架构能否适应不同驾驶环境，标志行业竞争重点从功能上线转向陌生环境下的泛化能力。",
+      "publishedAt": "2026-07-14T19:04:17+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/07/449850.html",
+      "subCategory": "具身智能"
+    },
+    {
+      "id": "ai-20260714-011",
+      "title": "LibTV Agent 打造工作流生态，重塑创作者生产力",
+      "summary": "AI视频平台LibTV推出Agent与Skill Hub功能，将上百种专业视频工作流转化为可直接调用的技能，用户输入需求后由Agent自动构建画布与生成链路，并提供故事板视图、自查修复及双语字幕输出等功能。",
+      "publishedAt": "2026-07-14T17:59:00+08:00",
+      "source": "AIbase",
+      "url": "https://news.aibase.com/zh/news/29588",
+      "subCategory": "AI视频"
+    },
+    {
+      "id": "ai-20260714-010",
+      "title": "腾讯混元发布 1bit 与 4bit 量化版 Hy3 模型，旗舰 AI 模型可单卡本地运行",
+      "summary": "腾讯混元团队发布Hy3大模型的1bit与4bit量化版本，295B参数模型原始BF16权重约600GB，1bit版本压缩至85.5GB、4bit版本为169.9GB，可分别用单卡和双卡运行，并配合llama.cpp生态的MTP投机解码补丁提升推理速度约50%至60%。",
+      "publishedAt": "2026-07-14T17:39:02+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/976/642.htm",
+      "subCategory": "开源模型"
+    },
+    {
+      "id": "ai-20260714-009",
+      "title": "软银携手Sierra在日本推出AI客服服务，客户满意度从74%飙升至93%",
+      "summary": "软银集团与美国AI公司Sierra达成合作，成为其在日本市场独家代理，并在旗下品牌LINEMO部署智能客服系统，使客户咨询解决率从83%提升至97%、满意度从74%升至93%，后续计划推广至更多日本企业的AI呼叫中心场景。",
+      "publishedAt": "2026-07-14T17:38:00+08:00",
+      "source": "AIbase",
+      "url": "https://news.aibase.com/zh/news/29587",
+      "subCategory": "AI应用"
+    },
+    {
+      "id": "ai-20260714-008",
+      "title": "马斯克亲口承认Grok Build偷传用户代码，承诺历史数据全部清零不留一个字节",
+      "summary": "独立安全研究者测试发现，xAI编程助手Grok Build在未经用户授权情况下将本地代码仓库大量上传至Google Cloud，一个12GB测试仓库中被分73个包裹传出5.1GB数据；马斯克承认属实，并在事发不到48小时内承诺清空全部历史用户数据。",
+      "publishedAt": "2026-07-14T16:00:00+08:00",
+      "source": "AIbase",
+      "url": "https://news.aibase.com/zh/news/29580",
+      "subCategory": "AI编程"
+    },
     {
       "id": "ai-20260714-006",
       "title": "内置\"任意门\"，高德发布通用世界模型工坊 ABot-WorldStudio",
@@ -42,13 +96,22 @@
       "subCategory": "大模型"
     },
     {
-      "id": "ai-20260713-012",
-      "title": "Metacognition in LLMs: Foundations, Progress, and Opportunities",
-      "summary": "这篇综述系统梳理了大语言模型元认知能力的研究进展，涵盖测量方法、增强技术及其在提升AI系统可靠性和智能水平方面的应用，总结了现有研究分类体系并指出未来方向，作者在GitHub整理了相关资源列表。",
-      "publishedAt": "2026-07-13",
-      "source": "arXiv / Hugging Face Papers",
-      "url": "https://arxiv.org/abs/2607.11881",
-      "subCategory": "论文进展"
+      "id": "ai-20260714-007",
+      "title": "西湖大学联合阿里达摩院推出干细胞AI模型\"归元\"，实现重编程大规模模拟预测",
+      "summary": "西湖大学与阿里达摩院联合推出干细胞重编程AI模型\"归元\"，采用双模态编码策略模拟25种谱系调控因子近400万种组合对细胞命运的影响，团队据模型预测完成实验验证并获得高质量下胚层样干细胞。",
+      "publishedAt": "2026-07-14",
+      "source": "AIbase",
+      "url": "https://news.aibase.com/zh/news/29579",
+      "subCategory": "大模型"
+    },
+    {
+      "id": "ai-20260713-011",
+      "title": "Anthropic starts localizing Claude pricing for India, its biggest market after the US",
+      "summary": "Anthropic为印度用户推出卢比定价，Claude Pro年付约每月2000卢比、Max约11999卢比、团队版约2399卢比每席位，均高于美国价格。印度占Claude全球使用量5.8%，是其第二大市场，但目前尚未支持UPI支付方式。",
+      "publishedAt": "2026-07-13T08:34:00-07:00",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/13/anthropic-starts-localizing-claude-pricing-for-india-its-biggest-market-after-the-us/",
+      "subCategory": "AI应用"
     },
     {
       "id": "ai-20260714-002",
@@ -159,13 +222,13 @@
       "id": "ai-20260713-003"
     },
     {
-      "id": "ai-20260713-011",
-      "title": "Anthropic starts localizing Claude pricing for India, its biggest market after the US",
-      "summary": "Anthropic为印度用户推出卢比定价，Claude Pro年付约每月2000卢比、Max约11999卢比、团队版约2399卢比每席位，均高于美国价格。印度占Claude全球使用量5.8%，是其第二大市场，但目前尚未支持UPI支付方式。",
-      "publishedAt": "2026-07-13T08:34:00-07:00",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/13/anthropic-starts-localizing-claude-pricing-for-india-its-biggest-market-after-the-us/",
-      "subCategory": "AI应用"
+      "id": "ai-20260713-012",
+      "title": "Metacognition in LLMs: Foundations, Progress, and Opportunities",
+      "summary": "这篇综述系统梳理了大语言模型元认知能力的研究进展，涵盖测量方法、增强技术及其在提升AI系统可靠性和智能水平方面的应用，总结了现有研究分类体系并指出未来方向，作者在GitHub整理了相关资源列表。",
+      "publishedAt": "2026-07-13",
+      "source": "arXiv / Hugging Face Papers",
+      "url": "https://arxiv.org/abs/2607.11881",
+      "subCategory": "论文进展"
     },
     {
       "id": "ai-20260712-301",
@@ -175,6 +238,42 @@
       "source": "ITBear科技资讯",
       "url": "https://www.itbear.com.cn/html/2026-07/1441199.html",
       "subCategory": "多模态"
+    },
+    {
+      "id": "ai-20260712-001",
+      "title": "智谱创始人唐杰发布内部信：启动\"Touch High\"（摸高）两年战略计划",
+      "summary": "智谱创始人唐杰发布内部信，宣布启动为期两年的\"Touch High\"（摸高）计划，聚焦长程任务、自主智能体系统、完全自我训练与安全治理四大方向，不追求短期商业变现，直指通用人工智能。",
+      "publishedAt": "2026-07-11T20:42:34+08:00",
+      "source": "每日经济新闻",
+      "url": "https://www.nbd.com.cn/articles/2026-07-11/4468255.html",
+      "subCategory": "大模型"
+    },
+    {
+      "id": "ai-20260712-101",
+      "title": "OpenAI称GPT-5.6 Sol可化身研究员，后训练Luna AI模型",
+      "summary": "OpenAI研究员称，GPT-5.6 Sol能独立完成调试系统、优化训练配置、运行实验等工作，并对小模型Luna进行后训练，内部综合RSI评测得分较GPT-5.5提升16.2个百分点，研究员日均token产出增长逗一倍。",
+      "publishedAt": "2026-07-11T15:14:57+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/975/461.htm",
+      "subCategory": "大模型"
+    },
+    {
+      "title": "GPT-5.6一小时解开50年数学猜想，700词Prompt驾驧64个子Agent",
+      "summary": "OpenAI研究员称，GPT-5.6用一份700词提示词调度64个并行子Agent，将图论中的循环双重覆盖猜想转化为线性方程组求解，不到一小时完成证明，展示了动态资源分配与独立验证的Agent编排方法。",
+      "publishedAt": "2026-07-11T13:30:11+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/07/447873.html",
+      "subCategory": "Agent",
+      "id": "ai-20260711-101"
+    },
+    {
+      "title": "Anthropic highlights Claude Code's in-app browser on the desktop",
+      "summary": "Anthropic为Claude Code桌面版新增内置浏览器功能，可直接访问和交互网页、文档与设计稿；浏览器运行在独立沙盒环境中，与用户个人浏览数据隔离，会话是否保留可配置，此举被视为对同类桌面端浏览器功能的跟进。",
+      "publishedAt": "2026-07-10T10:54:00-07:00",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/07/10/anthropic-highlights-claude-codes-in-app-browser-on-the-desktop/",
+      "subCategory": "AI编程",
+      "id": "ai-20260711-004"
     },
     {
       "id": "ai-20260712-102",
@@ -211,60 +310,6 @@
       "source": "Politics Nigeria",
       "url": "https://politicsnigeria.com/2026/07/11/how-boko-haram-secretly-uses-ai-to-build-bombs-improve-deadly-attacks-report/",
       "subCategory": "论文进展"
-    },
-    {
-      "id": "ai-20260712-001",
-      "title": "智谱创始人唐杰发布内部信：启动\"Touch High\"（摸高）两年战略计划",
-      "summary": "智谱创始人唐杰发布内部信，宣布启动为期两年的\"Touch High\"（摸高）计划，聚焦长程任务、自主智能体系统、完全自我训练与安全治理四大方向，不追求短期商业变现，直指通用人工智能。",
-      "publishedAt": "2026-07-11T20:42:34+08:00",
-      "source": "每日经济新闻",
-      "url": "https://www.nbd.com.cn/articles/2026-07-11/4468255.html",
-      "subCategory": "大模型"
-    },
-    {
-      "id": "ai-20260712-101",
-      "title": "OpenAI称GPT-5.6 Sol可化身研究员，后训练Luna AI模型",
-      "summary": "OpenAI研究员称，GPT-5.6 Sol能独立完成调试系统、优化训练配置、运行实验等工作，并对小模型Luna进行后训练，内部综合RSI评测得分较GPT-5.5提升16.2个百分点，研究员日均token产出增长逗一倍。",
-      "publishedAt": "2026-07-11T15:14:57+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/975/461.htm",
-      "subCategory": "大模型"
-    },
-    {
-      "title": "GPT-5.6一小时解开50年数学猜想，700词Prompt驾驧64个子Agent",
-      "summary": "OpenAI研究员称，GPT-5.6用一份700词提示词调度64个并行子Agent，将图论中的循环双重覆盖猜想转化为线性方程组求解，不到一小时完成证明，展示了动态资源分配与独立验证的Agent编排方法。",
-      "publishedAt": "2026-07-11T13:30:11+08:00",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/07/447873.html",
-      "subCategory": "Agent",
-      "id": "ai-20260711-101"
-    },
-    {
-      "id": "ai-20260711-201",
-      "title": "Introducing OpenWiki Brains, general-purpose wiki memory for agents",
-      "summary": "LangChain团队发布OpenWiki Brains 0.1.0，为智能体新增可主动构建记忆的通用型wiki知识库，可连接Gmail、Notion、代码仓库、X等信源自动生成本地Markdown文件，包含面向个人场景的Personal Brain与面向代码仓库文档化的Code Brain两种模式。",
-      "publishedAt": "2026-07-10",
-      "source": "LangChain Blog",
-      "url": "https://www.langchain.com/blog/introducing-openwiki-brains-general-purpose-wiki-memory-for-agents",
-      "subCategory": "Agent"
-    },
-    {
-      "id": "ai-20260710-301",
-      "title": "清华团队发布实时交互式视频生成模型Vidu S1论文",
-      "summary": "清华大学团队提出Vidu S1，一款支持语音控制数字人的实时交互视频生成模型，可在消费级GPU上以540p分辨率、最高42帧每秒生成无限长度视频，并提供在线演示。",
-      "publishedAt": "2026-07-10",
-      "source": "Hugging Face Daily Papers",
-      "url": "https://huggingface.co/papers/2607.03118",
-      "subCategory": "AI视频"
-    },
-    {
-      "id": "ai-20260710-302",
-      "title": "Cursor 3.11上线侧边对话与会话搜索功能",
-      "summary": "Cursor发布3.11版本，新增可与主对话并行的侧边对话功能及命令面板中的会话记录搜索，并简化了项目与仓库选择器，支持在选择器内直接创建项目并连接GitHub等平台。",
-      "publishedAt": "2026-07-10",
-      "source": "Cursor",
-      "url": "https://cursor.com/changelog",
-      "subCategory": "AI编程"
     },
     {
       "id": "ai-20260710-108",
@@ -348,15 +393,6 @@
       "subCategory": "AI应用"
     },
     {
-      "id": "ai-20260710-103",
-      "title": "全球首款AI智能体手机下周发布，阶跃星辰与努比亚争夺\"首发\"称号",
-      "summary": "阶跃星辰宣布将于7月13日发布AI终端品牌、智能体操作系统及首款AI智能体手机，由华勤技术代工；努比亚同期宣布将于WAIC 2026发布同类AI智能体旗舰手机。",
-      "publishedAt": "2026-07-10T15:52:00+08:00",
-      "source": "IT168",
-      "url": "https://mobile.it168.com/a2026/0710/6939/000006939807.shtml",
-      "subCategory": "AI应用"
-    },
-    {
       "id": "ai-20260710-102",
       "title": "华为云Stack x openJiuwen：重新定义生产级AI Agent的政企落地路径",
       "summary": "开源智能体平台openJiuwen与华为云Stack宣布合作，依托后者算力与安全能力推进多智能体协同系统在政企场景的生产级部署，中国邮政储蓄银行已完成相关应用案例。",
@@ -393,15 +429,6 @@
       "id": "ai-20260711-001"
     },
     {
-      "title": "Anthropic highlights Claude Code's in-app browser on the desktop",
-      "summary": "Anthropic为Claude Code桌面版新增内置浏览器功能，可直接访问和交互网页、文档与设计稿；浏览器运行在独立沙盒环境中，与用户个人浏览数据隔离，会话是否保留可配置，此举被视为对同类桌面端浏览器功能的跟进。",
-      "publishedAt": "2026-07-10T10:54:00-07:00",
-      "source": "9to5Mac",
-      "url": "https://9to5mac.com/2026/07/10/anthropic-highlights-claude-codes-in-app-browser-on-the-desktop/",
-      "subCategory": "AI编程",
-      "id": "ai-20260711-004"
-    },
-    {
       "id": "ai-20260710-003",
       "title": "OpenAI推出ChatGPT Work智能体，可独立执行数小时级工作任务",
       "summary": "OpenAI发布由GPT-5.6驱动的ChatGPT Work智能体，能跨应用收集信息、将目标拆解为步骤并独立完成，产出文档、表格、幻灯片和网页应用，先向Pro与企业版用户开放，随后扩展至其他套餐。",
@@ -427,6 +454,96 @@
       "source": "9to5Mac",
       "url": "https://9to5mac.com/2026/07/09/openai-announcing-the-next-chapter-for-chatgpt-today-watch-here/",
       "subCategory": "大模型"
+    },
+    {
+      "id": "ai-20260710-103",
+      "title": "全球首款AI智能体手机下周发布，阶跃星辰与努比亚争夺\"首发\"称号",
+      "summary": "阶跃星辰宣布将于7月13日发布AI终端品牌、智能体操作系统及首款AI智能体手机，由华勤技术代工；努比亚同期宣布将于WAIC 2026发布同类AI智能体旗舰手机。",
+      "publishedAt": "2026-07-10",
+      "source": "IT168",
+      "url": "https://mobile.it168.com/a2026/0710/6939/000006939807.shtml",
+      "subCategory": "AI应用"
+    },
+    {
+      "id": "ai-20260711-201",
+      "title": "Introducing OpenWiki Brains, general-purpose wiki memory for agents",
+      "summary": "LangChain团队发布OpenWiki Brains 0.1.0，为智能体新增可主动构建记忆的通用型wiki知识库，可连接Gmail、Notion、代码仓库、X等信源自动生成本地Markdown文件，包含面向个人场景的Personal Brain与面向代码仓库文档化的Code Brain两种模式。",
+      "publishedAt": "2026-07-10",
+      "source": "LangChain Blog",
+      "url": "https://www.langchain.com/blog/introducing-openwiki-brains-general-purpose-wiki-memory-for-agents",
+      "subCategory": "Agent"
+    },
+    {
+      "id": "ai-20260710-301",
+      "title": "清华团队发布实时交互式视频生成模型Vidu S1论文",
+      "summary": "清华大学团队提出Vidu S1，一款支持语音控制数字人的实时交互视频生成模型，可在消费级GPU上以540p分辨率、最高42帧每秒生成无限长度视频，并提供在线演示。",
+      "publishedAt": "2026-07-10",
+      "source": "Hugging Face Daily Papers",
+      "url": "https://huggingface.co/papers/2607.03118",
+      "subCategory": "AI视频"
+    },
+    {
+      "id": "ai-20260710-302",
+      "title": "Cursor 3.11上线侧边对话与会话搜索功能",
+      "summary": "Cursor发布3.11版本，新增可与主对话并行的侧边对话功能及命令面板中的会话记录搜索，并简化了项目与仓库选择器，支持在选择器内直接创建项目并连接GitHub等平台。",
+      "publishedAt": "2026-07-10",
+      "source": "Cursor",
+      "url": "https://cursor.com/changelog",
+      "subCategory": "AI编程"
+    },
+    {
+      "id": "ai-20260709-108",
+      "title": "OpenAI首席未来学家Joshua Achiam宣布离职",
+      "summary": "OpenAI首席未来学家Joshua Achiam宣布将于7月24日离职，此前他领导Mission Alignment团队。此次离职是OpenAI近期一系列安全相关人员变动中的最新一例。",
+      "publishedAt": "2026-07-09T14:29:30+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/07/446658.html",
+      "subCategory": "大模型"
+    },
+    {
+      "id": "ai-20260709-104",
+      "title": "蚂蚁灵波开源世界模型LingBot-World 2.0",
+      "summary": "蚂蚁灵波开源LingBot-World 2.0，支持小时级连续稳定生成及720p/60fps输出，并首次为世界模型引入Agent机制，实现动态环境变化与多用户实时互动。",
+      "publishedAt": "2026-07-09T11:39:41+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/07/446548.html",
+      "subCategory": "多模态"
+    },
+    {
+      "id": "ai-20260709-105",
+      "title": "蚂蚁灵波开源具身视频基模LingBot-Video",
+      "summary": "蚂蚁灵波开源LingBot-Video，称为面向具身智能的MoE架构视频基础模型，训练数据包含7万小时具身数据，在RBench机器人基准上取得0.620分，优于对比模型。",
+      "publishedAt": "2026-07-09T11:19:15+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/07/446458.html",
+      "subCategory": "具身智能"
+    },
+    {
+      "title": "马斯克xAI首个编程智能体模型Grok 4.5发布，与Cursor联合训练",
+      "summary": "马斯克旗下xAI发布首款编程智能体模型Grok 4.5，与Cursor联合训练，token消耗为同类模型一半，速度达每秒80 token。输入价格降至每百万token 2美元，输出6美元，已上线Grok Build及Cursor，欧洲版预脈7月中旬推出。",
+      "publishedAt": "2026-07-09T06:51:25+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/974/278.htm",
+      "subCategory": "AI编程",
+      "id": "ai-20260709-900"
+    },
+    {
+      "title": "OpenAI最智能语音模型：GPT-Live-1/mini登场",
+      "summary": "OpenAI推出新一代全双工语音模型GPT-Live系列，包含面向付费订阅用户的GPT-Live-1及面向免费用户的GPT-Live-1 mini，支持边听边说、并行处理输入输出，复杂任务交由后台GPT-5.5系统处理，官方称对话流畅度评分高于此前的高级语音模式。",
+      "publishedAt": "2026-07-09T06:41:35+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/974/277.htm",
+      "subCategory": "AI音频",
+      "id": "ai-20260709-901"
+    },
+    {
+      "id": "ai-20260709-902",
+      "title": "机器人基础模型公司General Intuition以23亿美元估值融资3.2亿美元，押注电子游戏数据训练具身智能",
+      "summary": "General Intuition以23亿美元估值完成3.2亿美元融资，由General Catalyst领投，贝索斯、施密特等参与。公司利用游戏直播平台Medal上数十亿条游戏录像训练具身智能基础模型，称仅用8分钟真实数据微调即可控制四足机器人，目标成为物理AI领域的基础模型供应商。",
+      "publishedAt": "2026-07-08T12:19:00-07:00",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/08/this-startup-thinks-robotics-is-about-to-have-its-chatgpt-moment/",
+      "subCategory": "具身智能"
     },
     {
       "id": "ai-20260709-103",
@@ -481,123 +598,6 @@
       "source": "Artificial Analysis",
       "url": "https://artificialanalysis.ai/articles/gpt-5-6-has-landed",
       "subCategory": "AI评测"
-    },
-    {
-      "id": "ai-20260709-108",
-      "title": "OpenAI首席未来学家Joshua Achiam宣布离职",
-      "summary": "OpenAI首席未来学家Joshua Achiam宣布将于7月24日离职，此前他领导Mission Alignment团队。此次离职是OpenAI近期一系列安全相关人员变动中的最新一例。",
-      "publishedAt": "2026-07-09T14:29:30+08:00",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/07/446658.html",
-      "subCategory": "大模型"
-    },
-    {
-      "id": "ai-20260709-104",
-      "title": "蚂蚁灵波开源世界模型LingBot-World 2.0",
-      "summary": "蚂蚁灵波开源LingBot-World 2.0，支持小时级连续稳定生成及720p/60fps输出，并首次为世界模型引入Agent机制，实现动态环境变化与多用户实时互动。",
-      "publishedAt": "2026-07-09T11:39:41+08:00",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/07/446548.html",
-      "subCategory": "多模态"
-    },
-    {
-      "id": "ai-20260709-105",
-      "title": "蚂蚁灵波开源具身视频基模LingBot-Video",
-      "summary": "蚂蚁灵波开源LingBot-Video，称为面向具身智能的MoE架构视频基础模型，训练数据包含7万小时具身数据，在RBench机器人基准上取得0.620分，优于对比模型。",
-      "publishedAt": "2026-07-09T11:19:15+08:00",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/07/446458.html",
-      "subCategory": "具身智能"
-    },
-    {
-      "title": "马斯克xAI首个编程智能体模型Grok 4.5发布，与Cursor联合训练",
-      "summary": "马斯克旗下xAI发布首款编程智能体模型Grok 4.5，与Cursor联合训练，token消耗为同类模型一半，速度达每秒80 token。输入价格降至每百万token 2美元，输出6美元，已上线Grok Build及Cursor，欧洲版预脈7月中旬推出。",
-      "publishedAt": "2026-07-09T06:51:25+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/974/278.htm",
-      "subCategory": "AI编程",
-      "id": "ai-20260709-900"
-    },
-    {
-      "title": "OpenAI最智能语音模型：GPT-Live-1/mini登场",
-      "summary": "OpenAI推出新一代全双工语音模型GPT-Live系列，包含面向付费订阅用户的GPT-Live-1及面向免费用户的GPT-Live-1 mini，支持边听边说、并行处理输入输出，复杂任务交由后台GPT-5.5系统处理，官方称对话流畅度评分高于此前的高级语音模式。",
-      "publishedAt": "2026-07-09T06:41:35+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/974/277.htm",
-      "subCategory": "AI音频",
-      "id": "ai-20260709-901"
-    },
-    {
-      "id": "ai-20260709-101",
-      "title": "Mistral AI发布具身导航模型Robostral Navigate",
-      "summary": "Mistral AI发布8B参数的Robostral Navigate模型，仅凭单个RGB摄像头即可让机器人在复杂环境中完成导航，在R2R-CE未见场景验证集上取得76.6%的成功率。",
-      "publishedAt": "2026-07-08",
-      "source": "Mistral AI",
-      "url": "https://mistral.ai/news/robostral-navigate/",
-      "subCategory": "具身智能"
-    },
-    {
-      "id": "ai-20260709-102",
-      "title": "LangChain与NVIDIA联合推出NemoClaw Deep Agents Blueprint",
-      "summary": "LangChain与NVIDIA发布NemoClaw蓝图，整合LangChain Deep Agents Code、Nemotron 3 Ultra模型与OpenShell运行时，帮助企业构建可治理的开放智能体系统，推理成本约降低十倍。",
-      "publishedAt": "2026-07-08",
-      "source": "LangChain",
-      "url": "https://www.langchain.com/blog/langchain-and-nvidia-launch-the-nemoclaw-deep-agents-blueprint",
-      "subCategory": "Agent"
-    },
-    {
-      "id": "ai-20260709-106",
-      "title": "论文提出LaMem-VLA增强机器人长程记忆能力",
-      "summary": "一篇新论文提出LaMem-VLA，将历史经验重构为潜在记忆token并与VLA推理交织，在潜在嵌入空间中完成记忆管理，用于提升机器人长时序操作任务的表现。",
-      "publishedAt": "2026-07-08",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2607.07608",
-      "subCategory": "论文进展"
-    },
-    {
-      "id": "ai-20260709-107",
-      "title": "论文提出跨学科科学推理模型SciReasoner",
-      "summary": "上海人工智能实验室等团队提出多模态基础模型SciReasoner，可对蛋白质、分子与晶体结构进行可解释推理，专家评估显示其推理解释在98%案例中优于对比的大语言模型。",
-      "publishedAt": "2026-07-08",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2607.07708",
-      "subCategory": "论文进展"
-    },
-    {
-      "title": "Native-speed vLLM transformers modeling backend",
-      "summary": "Hugging Face博客介绍vLLM的transformers建模后端完成性能优化，通过torch.fx静态分析自动融合算子，使其在多款Qwen3模型上吞吐达到或超过原生自定义实现，用户可通过--model-impl transformers一键启用并兼容张量与专家并行。",
-      "publishedAt": "2026-07-08",
-      "source": "Hugging Face Blog",
-      "url": "https://huggingface.co/blog/native-speed-vllm-transformers-backend",
-      "subCategory": "推理框架",
-      "id": "ai-20260708-900"
-    },
-    {
-      "title": "Data for Agents",
-      "summary": "NVIDIA在Hugging Face博客介绍Nemotron项目为智能体训练开放的数据资源，包括超10万亿预训练token与数百万后训练样本，其中Nemotron-Personas合成人设数据集已覆盖十国24亿人群，用于弥合基准测试与真实场景差距。",
-      "publishedAt": "2026-07-08",
-      "source": "Hugging Face Blog (NVIDIA)",
-      "url": "https://huggingface.co/blog/nvidia/open-data-for-agents",
-      "subCategory": "Agent",
-      "id": "ai-20260708-901"
-    },
-    {
-      "id": "ai-20260708-701",
-      "title": "消息称MiniMax计划推出2.7万亿参数新一代大模型",
-      "summary": "据知情人士透露，MiniMax正研发参数规模达2.7万亿的大模型，内部代号M3 Pro，规模超过现有旗舰模型M3（4280亿参数），计划最早三季度发布并开源，官方名称尚未确定。",
-      "publishedAt": "2026-07-08",
-      "source": "新浪财经",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-08/doc-inihattw8228100.shtml",
-      "subCategory": "大模型"
-    },
-    {
-      "id": "ai-20260708-702",
-      "title": "Runway推出面向开发者的AI媒体平台Runway Dev",
-      "summary": "Runway发布开发者平台Runway Dev，提供统一API接入图像、视频、音频与实时角色模型，包含Runway自有的Gen-4.5、Aleph 2.0、Act-Two等模型及第三方模型，已被Adobe、Shutterstock等企业采用。",
-      "publishedAt": "2026-07-08",
-      "source": "Runway",
-      "url": "https://runwayml.com/news/introducing-runway-dev",
-      "subCategory": "AI视频"
     },
     {
       "id": "ai-20260708-506",
@@ -681,15 +681,6 @@
       "subCategory": "具身智能"
     },
     {
-      "id": "ai-20260709-902",
-      "title": "机器人基础模型公司General Intuition以23亿美元估值融资3.2亿美元，押注电子游戏数据训练具身智能",
-      "summary": "General Intuition以23亿美元估值完成3.2亿美元融资，由General Catalyst领投，贝索斯、施密特等参与。公司利用游戏直播平台Medal上数十亿条游戏录像训练具身智能基础模型，称仅用8分钟真实数据微调即可控制四足机器人，目标成为物理AI领域的基础模型供应商。",
-      "publishedAt": "2026-07-08T12:19:00-07:00",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/08/this-startup-thinks-robotics-is-about-to-have-its-chatgpt-moment/",
-      "subCategory": "具身智能"
-    },
-    {
       "id": "ai-20260708-004",
       "title": "支持17家机器人厂商有20多种构型，蚂蚁灵波LingBot-VLA 2.0正式开源",
       "summary": "蚂蚁灵波开源LingBot-VLA 2.0，基于6万小时真实物理数据训练，支持17家机器人厂商20余种构型，新增头部、腰部、移动底盘控制，RTX 4090上推理延迟低于130毫秒，双臂及长序列任务表现超越π0.5和GR00T N1.7。",
@@ -724,6 +715,15 @@
       "source": "IT之家",
       "url": "https://www.ithome.com/0/973/815.htm",
       "subCategory": "大模型"
+    },
+    {
+      "id": "ai-20260709-101",
+      "title": "Mistral AI发布具身导航模型Robostral Navigate",
+      "summary": "Mistral AI发布8B参数的Robostral Navigate模型，仅凭单个RGB摄像头即可让机器人在复杂环境中完成导航，在R2R-CE未见场景验证集上取得76.6%的成功率。",
+      "publishedAt": "2026-07-08",
+      "source": "Mistral AI",
+      "url": "https://mistral.ai/news/robostral-navigate/",
+      "subCategory": "具身智能"
     }
   ]
 }
