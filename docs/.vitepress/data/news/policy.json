@@ -3,8 +3,17 @@
   "slug": "policy",
   "title": "政策信息",
   "description": "国家与地方政策、监管动态、产业扶持与合规要求。",
-  "updatedAt": "2026-07-15T17:10:00+08:00",
+  "updatedAt": "2026-07-15T23:45:00+08:00",
   "items": [
+    {
+      "id": "policy-20260715-011",
+      "title": "民航局：上半年，实名登记无人机总数突破 478.8 万架",
+      "summary": "民航局在年中工作会议上通报，2026年上半年我国实名登记无人机总数突破478.8万架，累计飞行小时达2641.4万小时，同比增长8%，此前5月1日起已实施民用无人驾驶航空器实名登记强制性国家标准。",
+      "publishedAt": "2026-07-15T23:23:27+08:00",
+      "source": "IT之家（援引民航局）",
+      "url": "https://www.ithome.com/0/977/246.htm",
+      "subCategory": "产业政策"
+    },
     {
       "title": "央行：6月末社会融资规模存量为462.06万亿元，同比增长7.4%",
       "summary": "中国人民银行发布数据，6月末广义货币M2余额同比增长8%，上半年人民币贷款增加10.72万亿元，社会融资规模存量达462.06万亿元，同比增长7.4%。",
@@ -15,6 +24,15 @@
       "id": "policy-20260715-010"
     },
     {
+      "id": "policy-20260715-012",
+      "title": "人工智能拟人化互动服务管理新规施行",
+      "summary": "国家网信办、国家发展改革委、工业和信息化部等五部门联合公布的《人工智能拟人化互动服务管理暂行办法》自7月15日起施行，禁止诱导用户情感依赖、向未成年人生成不良内容等行为，并要求提供安全评估与算法备案。",
+      "publishedAt": "2026-07-15T09:56:00+08:00",
+      "source": "经济参考网",
+      "url": "https://finance.sina.com.cn/jjxw/2026-07-15/doc-inihvyth8055478.shtml",
+      "subCategory": "AI监管"
+    },
+    {
       "id": "policy-20260715-005",
       "title": "US says Nvidia's H200 exports to China remain 'trivial' despite approvals",
       "summary": "美国商务部主管工业与安全事务的副部长杰弗里·凯斯勒在众议院外交事务委员会作证时表示，英伟达H200芯片对华出口数量很少、微不足道，商务部今年已批准约10家中国企业（含腾讯、字节跳动）购买该芯片，但目前实际交付有限。",
@@ -22,15 +40,6 @@
       "source": "South China Morning Post",
       "url": "https://www.scmp.com/news/china/diplomacy/article/3360582/us-says-nvidias-h200-exports-china-remain-trivial-despite-approvals",
       "subCategory": "半导体出口管制"
-    },
-    {
-      "id": "policy-20260715-001",
-      "title": "FTC Secures Major Settlement with Caremark, Resolving Antitrust Case Against Second Drug Middleman",
-      "summary": "美国联邦贸易委员会与药品福利管理商Caremark及其关联公司达成反垄断和解，要求其调整业务模式、降低患者自付费用并提高透明度，未来十年内预计为消费者节省最多85亿美元并释放另外45亿美元即时回扣。",
-      "publishedAt": "2026-07-14T14:40:25-04:00",
-      "source": "Federal Trade Commission",
-      "url": "https://www.ftc.gov/news-events/news/press-releases/2026/07/ftc-secures-major-settlement-caremark-resolving-antitrust-case-against-second-drug-middleman",
-      "subCategory": "反垄断"
     },
     {
       "id": "policy-20260715-004",
@@ -159,13 +168,49 @@
       "subCategory": "反垄断"
     },
     {
-      "id": "policy-20260713-001",
-      "title": "市场监管总局2026年上半年发布101项国家计量技术规范",
-      "summary": "市场监管总局发布信息显示，2026年上半年我国批准重组40个国家专业计量技术委员会，发布101项国家计量技术标准，同比增长23%，新增碳排放计量、数字计量及新能源汽车电池检测等标准。",
-      "publishedAt": "2026-07-13T10:00:00+08:00",
-      "source": "国家市场监督管理总局",
-      "url": "https://www.samr.gov.cn/xw/sj/art/2026/art_bcd1c28d953f4b79ab354cf8ebed7ef2.html",
+      "id": "policy-20260713-101",
+      "title": "Modifying the Grand Staircase-Escalante National Monument",
+      "summary": "美国总统特朗普签署公告，将犹他州大阶梯埃斯卡兰特国家纪念地面积从约187万英亩缩减至约18.15万英亩，分为两个区块，开放约169万英亩土地用于铀、钒、钴等关键矿产开发，同时保留天然桥及化石遗址等特定区域。",
+      "publishedAt": "2026-07-13",
+      "source": "The White House",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/07/modifying-the-grand-staircase-escalante-national-monument/",
+      "subCategory": "海外政策"
+    },
+    {
+      "id": "policy-20260713-010",
+      "title": "特朗普签署公告大幅缩减美国熊耳国家纪念地面积",
+      "summary": "美国总统特朗普签署公告，将犹他州熊耳国家纪念地面积从约136万英亩缩减至约12.1万英亩，开放约124万英亩土地用于铜、铀、钒等关键矿产开发，并撤销原熊耳委员会、设立新的咨询机构。",
+      "publishedAt": "2026-07-13",
+      "source": "The White House",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/07/modifying-the-bears-ears-national-monument/",
+      "subCategory": "海外政策"
+    },
+    {
+      "id": "policy-20260713-102",
+      "title": "李强主持召开经济形势专家和企业家座谈会",
+      "summary": "国务院总理李强7月13日下午主持召开经济形势专家和企业家座谈会，听取对当前经济形势和下一步经济工作的意见建议，要求深化政策协同、扩大内需、推进制造业数字化转型并保持就业稳定，希望企业家坚定信心、专家加强前瞻性研究。",
+      "publishedAt": "2026-07-13",
+      "source": "新华网",
+      "url": "https://www.news.cn/politics/leaders/20260713/31117ac6e6574701b3dec337cb466508/c.html",
       "subCategory": "产业政策"
+    },
+    {
+      "id": "policy-20260713-103",
+      "title": "Prime Minister secures Ukraine defence deal backing British jobs and industry",
+      "summary": "英国首相斯塔默宣布，英国国防企业获准参与由欧盟780亿英镑乌克兰支持贷款计划资助的合同竞标，英方出资规模将与本国企业中标合同挂钩，旨在支持乌克兰防务需求，同时带动英国国防产业发展与相关就业。",
+      "publishedAt": "2026-07-13",
+      "source": "英国政府（GOV.UK）",
+      "url": "https://www.gov.uk/government/news/prime-minister-secures-ukraine-defence-deal-backing-british-jobs-and-industry-13-july-2026",
+      "subCategory": "海外政策"
+    },
+    {
+      "id": "policy-20260713-004",
+      "title": "Dame Jayne-Anne Gadhia named as preferred candidate for Chair of the Financial Reporting Council",
+      "summary": "英国政府宣布Dame Jayne-Anne Gadhia成为财务报告委员会主席优先候选人，负责监管审计、会计及精算行业并制定公司治理准则，任命尚需经商业与贸易特别委员会审议确认。",
+      "publishedAt": "2026-07-13",
+      "source": "英国政府（GOV.UK）",
+      "url": "https://www.gov.uk/government/news/dame-jayne-anne-gadhia-named-as-preferred-candidate-for-chair-of-the-financial-reporting-council",
+      "subCategory": "金融监管"
     },
     {
       "id": "policy-20260713-007",
@@ -174,6 +219,15 @@
       "publishedAt": "2026-07-13",
       "source": "中国政府网",
       "url": "https://www.gov.cn/zhengce/zhengceku/202607/content_7075217.htm",
+      "subCategory": "产业政策"
+    },
+    {
+      "id": "policy-20260713-104",
+      "title": "国务院关于印发《国民健康“十五五”规划》的通知",
+      "summary": "国务院印发《国民健康“十五五”规划》（国发〔2026〕23号），提出到2030年人均预期寿命达到80岁，主要健康指标进入高收入国家水平，15岁以上人群吸烟率降至20%，并部署医保医药协同、数字健康转型等重点任务。",
+      "publishedAt": "2026-07-13",
+      "source": "中国政府网",
+      "url": "https://www.gov.cn/zhengce/content/202607/content_7075213.htm",
       "subCategory": "产业政策"
     },
     {
@@ -193,60 +247,6 @@
       "source": "European Commission",
       "url": "https://environment.ec.europa.eu/news/commission-updates-product-scope-and-tools-support-eudr-2026-07-13_en",
       "subCategory": "跨境贸易"
-    },
-    {
-      "id": "policy-20260713-010",
-      "title": "特朗普签署公告大幅缩减美国熊耳国家纪念地面积",
-      "summary": "美国总统特朗普签署公告，将犹他州熊耳国家纪念地面积从约136万英亩缩减至约12.1万英亩，开放约124万英亩土地用于铜、铀、钒等关键矿产开发，并撤销原熊耳委员会、设立新的咨询机构。",
-      "publishedAt": "2026-07-13",
-      "source": "The White House",
-      "url": "https://www.whitehouse.gov/presidential-actions/2026/07/modifying-the-bears-ears-national-monument/",
-      "subCategory": "海外政策"
-    },
-    {
-      "id": "policy-20260713-004",
-      "title": "Dame Jayne-Anne Gadhia named as preferred candidate for Chair of the Financial Reporting Council",
-      "summary": "英国政府宣布Dame Jayne-Anne Gadhia成为财务报告委员会主席优先候选人，负责监管审计、会计及精算行业并制定公司治理准则，任命尚需经商业与贸易特别委员会审议确认。",
-      "publishedAt": "2026-07-13",
-      "source": "英国政府（GOV.UK）",
-      "url": "https://www.gov.uk/government/news/dame-jayne-anne-gadhia-named-as-preferred-candidate-for-chair-of-the-financial-reporting-council",
-      "subCategory": "金融监管"
-    },
-    {
-      "id": "policy-20260713-104",
-      "title": "国务院关于印发《国民健康“十五五”规划》的通知",
-      "summary": "国务院印发《国民健康“十五五”规划》（国发〔2026〕23号），提出到2030年人均预期寿命达到80岁，主要健康指标进入高收入国家水平，15岁以上人群吸烟率降至20%，并部署医保医药协同、数字健康转型等重点任务。",
-      "publishedAt": "2026-07-13",
-      "source": "中国政府网",
-      "url": "https://www.gov.cn/zhengce/content/202607/content_7075213.htm",
-      "subCategory": "产业政策"
-    },
-    {
-      "id": "policy-20260713-102",
-      "title": "李强主持召开经济形势专家和企业家座谈会",
-      "summary": "国务院总理李强7月13日下午主持召开经济形势专家和企业家座谈会，听取对当前经济形势和下一步经济工作的意见建议，要求深化政策协同、扩大内需、推进制造业数字化转型并保持就业稳定，希望企业家坚定信心、专家加强前瞻性研究。",
-      "publishedAt": "2026-07-13",
-      "source": "新华网",
-      "url": "https://www.news.cn/politics/leaders/20260713/31117ac6e6574701b3dec337cb466508/c.html",
-      "subCategory": "产业政策"
-    },
-    {
-      "id": "policy-20260713-101",
-      "title": "Modifying the Grand Staircase-Escalante National Monument",
-      "summary": "美国总统特朗普签署公告，将犹他州大阶梯埃斯卡兰特国家纪念地面积从约187万英亩缩减至约18.15万英亩，分为两个区块，开放约169万英亩土地用于铀、钒、钴等关键矿产开发，同时保留天然桥及化石遗址等特定区域。",
-      "publishedAt": "2026-07-13",
-      "source": "The White House",
-      "url": "https://www.whitehouse.gov/presidential-actions/2026/07/modifying-the-grand-staircase-escalante-national-monument/",
-      "subCategory": "海外政策"
-    },
-    {
-      "id": "policy-20260713-103",
-      "title": "Prime Minister secures Ukraine defence deal backing British jobs and industry",
-      "summary": "英国首相斯塔默宣布，英国国防企业获准参与由欧盟780亿英镑乌克兰支持贷款计划资助的合同竞标，英方出资规模将与本国企业中标合同挂钩，旨在支持乌克兰防务需求，同时带动英国国防产业发展与相关就业。",
-      "publishedAt": "2026-07-13",
-      "source": "英国政府（GOV.UK）",
-      "url": "https://www.gov.uk/government/news/prime-minister-secures-ukraine-defence-deal-backing-british-jobs-and-industry-13-july-2026",
-      "subCategory": "海外政策"
     },
     {
       "id": "policy-20260714-001",
@@ -384,51 +384,6 @@
       "subCategory": "海外政策"
     },
     {
-      "id": "policy-20260710-103",
-      "title": "Roadmap for collaboration UK-Spain",
-      "summary": "英国财政大臣里夫斯与西班牙第一副首相夸尔波7月9日在布鲁塞尔签署英西合作路线图，聚焦服务贸易与商务人员流动、专业资格互认、战略投资、经济安全及借助人工智能助力中小企业发展等合作领域。",
-      "publishedAt": "2026-07-10",
-      "source": "英国财政部",
-      "url": "https://www.gov.uk/government/news/roadmap-for-collaboration-uk-spain",
-      "subCategory": "海外政策"
-    },
-    {
-      "id": "policy-20260711-004",
-      "title": "SEC Office of Municipal Securities Updates FAQs for Registration of Municipal Advisors",
-      "summary": "美国证券交易委员会市政证券办公室更新市政顾问注册常见问题解答，就P3市场参与者是否须注册为市政顾问、远程办公地点是否构成需披露的\"办公室\"，以及市政证券定价咨询中的记录保存义务等三方面提供进一步指引。",
-      "publishedAt": "2026-07-10",
-      "source": "U.S. Securities and Exchange Commission",
-      "url": "https://www.sec.gov/newsroom/press-releases/2026-66-sec-office-municipal-securities-updates-faqs-registration-municipal-advisors",
-      "subCategory": "金融监管"
-    },
-    {
-      "id": "policy-20260711-101",
-      "title": "国家能源局关于印发《能源领域节能降碳行动计划（2026—2028年）》的通知",
-      "summary": "国家能源局印发行动计划，提出到2028年非化石能源消费比重年均提升约1个百分点，推动煤炭、油气、煤电等行业节能降碳，并支持建成一批零碳低碳矿区和零碳园区。",
-      "publishedAt": "2026-07-10",
-      "source": "国家能源局",
-      "url": "https://www.nea.gov.cn/20260710/4acf5873e20149cdbc52c709b16b30ff/c.html",
-      "subCategory": "新能源政策"
-    },
-    {
-      "id": "policy-20260711-102",
-      "title": "UK financial system strengthened with new safeguards for major technology providers",
-      "summary": "英国政府将微软、谷歌云、亚马逊云和甲骨文四家云服务商列为关键第三方，自7月13日起接受英格兰银行、审慎监管局及金融行为监管局联合监管，以增强金融体系对科技服务商的韧性。",
-      "publishedAt": "2026-07-10",
-      "source": "GOV.UK",
-      "url": "https://www.gov.uk/government/news/uk-financial-system-strengthened-with-new-safeguards-for-major-technology-providers",
-      "subCategory": "金融监管"
-    },
-    {
-      "id": "policy-20260711-201",
-      "title": "关于第四监管周期省级电网输配电价、区域电网输电价格及有关事项的通知（发改价格〔2026〕1077号）",
-      "summary": "国家发展改革委印发发改价格〔2026〕1077号文件，核定第四监管周期省级电网输配电价及区域电网输电价格，新电价自2026年8月1日起执行，适用于国家电网、南方电网等电网企业，并要求相关企业按年报送成本数据。",
-      "publishedAt": "2026-07-10",
-      "source": "中华人民共和国国家发展和改革委员会",
-      "url": "https://www.ndrc.gov.cn/xxgk/zcfb/tz/202607/t20260710_1406431.html",
-      "subCategory": "产业政策"
-    },
-    {
       "id": "policy-20260709-001",
       "title": "央行货币政策委员会二季度例会：加大逆周期调节力度",
       "summary": "中国人民银行货币政策委员会2026年第二季度（总第113次）例会研究下阶段货币政策思路，提出继续实施适度宽松的货币政策，加大逆周期和跨周期调节力度，加强对扩大内需、科技创新、中小微企业等重点领域的金融支持，保持流动性充裕。",
@@ -474,22 +429,13 @@
       "subCategory": "数字经济"
     },
     {
-      "id": "policy-20260709-101",
-      "title": "欧盟委员会发布7月违反欧盟法处理决定",
-      "summary": "欧盟委员会公布7月份对成员国的违反欧盟法处理决定，关闭48起已解决案件，同时对芬兰、西班牙、马耳他、法国等国就废物、水资源、污水处理等指令转化不到位发出正式通知函，并对波兰未完全转化欧盟制裁刑法条款发出说理意见。",
-      "publishedAt": "2026-07-08",
-      "source": "欧盟委员会",
-      "url": "https://ec.europa.eu/commission/presscorner/detail/en/inf_26_1376",
-      "subCategory": "海外政策"
-    },
-    {
-      "id": "policy-20260709-102",
-      "title": "美国商务部推迟对华一化工产品反补贴税初裁期限",
-      "summary": "美国商务部在联邦公报发布公告，宣布将原产于中国的N-环己基苯并噻唑-2-磺酰胺反补贴税调查初步裁定期限推迟，要求不迟于立案后130天，即2026年10月5日前作出裁定，以便有充分时间发放补充问卷并评估相关补贴项目。",
-      "publishedAt": "2026-07-08",
-      "source": "美国联邦公报（Federal Register）",
-      "url": "https://www.federalregister.gov/documents/2026/07/08/2026-13792/n-cyclohexylbenzothiazole-2-sulfenamide-from-the-peoples-republic-of-china-postponement-of",
-      "subCategory": "跨境贸易"
+      "id": "policy-20260708-901",
+      "title": "文化和旅游部印发《旅游强国建设\"十五五\"规划》",
+      "summary": "经国务院批复，文化和旅游部印发《旅游强国建设\"十五五\"规划》，提出到2030年国内出游人次达83亿、总花费达7.7万亿元、入境旅游人次达1.9亿、总花费超1500亿美元，并部署优化旅游空间布局、丰富优质供给等重点任务。",
+      "publishedAt": "2026-07-08T00:10:00+08:00",
+      "source": "中华人民共和国文化和旅游部",
+      "url": "https://www.mct.gov.cn/whzx/whyw/202607/t20260708_966448.htm",
+      "subCategory": "产业政策"
     },
     {
       "id": "policy-20260709-103",
@@ -501,30 +447,21 @@
       "subCategory": "海外政策"
     },
     {
+      "id": "policy-20260710-105",
+      "title": "SEC Small Business Advisory Committee to Explore Modernizing Market Access",
+      "summary": "美国证券交易委员会小企业资本形成咨询委员会7月8日宣布将于7月21日在总部召开会议，探讨优化公开市场准入、推动更多企业上市并保持上市地位的监管改革举措，并邀请业界代表参与讨论。",
+      "publishedAt": "2026-07-08",
+      "source": "Securities and Exchange Commission",
+      "url": "https://www.sec.gov/newsroom/press-releases/2026-64-sec-small-business-advisory-committee-explore-modernizing-market-access",
+      "subCategory": "金融监管"
+    },
+    {
       "id": "policy-20260708-104",
       "title": "英国商业贸易部出台监管改革措施 拟打造全球创新商业化最快市场",
       "summary": "英国商业贸易部宣布监管改革方案，推出法定监管沙盒制度，允许企业在真实场景中测试人工智能、生命科学、自主海事技术等领域创新产品，作为“现代产业战略”实施一周年的配套举措之一。",
       "publishedAt": "2026-07-08",
       "source": "英国政府官网（GOV.UK）",
       "url": "https://www.gov.uk/government/news/uk-to-become-worlds-fastest-market-to-commercialise-innovation-with-regulatory-shake-up",
-      "subCategory": "海外政策"
-    },
-    {
-      "id": "policy-20260708-900",
-      "title": "美国FTC与五州对迪尔公司达成\"维修权\"反垄断和解",
-      "summary": "美国联邦贸易委员会会同伊利诺伊、亚利桑那、密歇根、明尼苏达和威斯康星五州，与农机制造商迪尔公司（John Deere）就限制维修权的反垄断诉讼达成和解，要求迪尔公司未来十年内向农民和独立维修商提供与授权经销商同等的软件维修资源，并禁止对自行维修客户实施歧视或报复。",
-      "publishedAt": "2026-07-08",
-      "source": "美国联邦贸易委员会（FTC）",
-      "url": "https://www.ftc.gov/news-events/news/press-releases/2026/07/ftc-states-secure-settlement-deere-company-advancing-farmers-right-repair",
-      "subCategory": "反垄断"
-    },
-    {
-      "id": "policy-20260708-902",
-      "title": "欧盟委员会决定将匈牙利诉至欧洲法院，涉食品与药店商品限价规定",
-      "summary": "欧盟委员会宣布将匈牙利政府诉至欧盟法院，原因是匈牙利对食品和药店商品零售利润率设限的规定被认定违反欧盟法律。此举是相关侵权程序从行政阶段升级至司法阶段的举措，属欧盟委员会当月侵权决定公告的一部分。",
-      "publishedAt": "2026-07-08",
-      "source": "欧盟委员会",
-      "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1477",
       "subCategory": "海外政策"
     },
     {
@@ -537,22 +474,40 @@
       "subCategory": "产业政策"
     },
     {
-      "id": "policy-20260710-105",
-      "title": "SEC Small Business Advisory Committee to Explore Modernizing Market Access",
-      "summary": "美国证券交易委员会小企业资本形成咨询委员会7月8日宣布将于7月21日在总部召开会议，探讨优化公开市场准入、推动更多企业上市并保持上市地位的监管改革举措，并邀请业界代表参与讨论。",
+      "id": "policy-20260708-900",
+      "title": "美国FTC与五州对迪尔公司达成\"维修权\"反垄断和解",
+      "summary": "美国联邦贸易委员会会同伊利诺伊、亚利桑那、密歇根、明尼苏达和威斯康星五州，与农机制造商迪尔公司（John Deere）就限制维修权的反垄断诉讼达成和解，要求迪尔公司未来十年内向农民和独立维修商提供与授权经销商同等的软件维修资源，并禁止对自行维修客户实施歧视或报复。",
       "publishedAt": "2026-07-08",
-      "source": "Securities and Exchange Commission",
-      "url": "https://www.sec.gov/newsroom/press-releases/2026-64-sec-small-business-advisory-committee-explore-modernizing-market-access",
-      "subCategory": "金融监管"
+      "source": "美国联邦贸易委员会（FTC）",
+      "url": "https://www.ftc.gov/news-events/news/press-releases/2026/07/ftc-states-secure-settlement-deere-company-advancing-farmers-right-repair",
+      "subCategory": "反垄断"
     },
     {
-      "id": "policy-20260708-901",
-      "title": "文化和旅游部印发《旅游强国建设\"十五五\"规划》",
-      "summary": "经国务院批复，文化和旅游部印发《旅游强国建设\"十五五\"规划》，提出到2030年国内出游人次达83亿、总花费达7.7万亿元、入境旅游人次达1.9亿、总花费超1500亿美元，并部署优化旅游空间布局、丰富优质供给等重点任务。",
-      "publishedAt": "2026-07-08T00:10:00+08:00",
-      "source": "中华人民共和国文化和旅游部",
-      "url": "https://www.mct.gov.cn/whzx/whyw/202607/t20260708_966448.htm",
-      "subCategory": "产业政策"
+      "id": "policy-20260709-102",
+      "title": "美国商务部推迟对华一化工产品反补贴税初裁期限",
+      "summary": "美国商务部在联邦公报发布公告，宣布将原产于中国的N-环己基苯并噻唑-2-磺酰胺反补贴税调查初步裁定期限推迟，要求不迟于立案后130天，即2026年10月5日前作出裁定，以便有充分时间发放补充问卷并评估相关补贴项目。",
+      "publishedAt": "2026-07-08",
+      "source": "美国联邦公报（Federal Register）",
+      "url": "https://www.federalregister.gov/documents/2026/07/08/2026-13792/n-cyclohexylbenzothiazole-2-sulfenamide-from-the-peoples-republic-of-china-postponement-of",
+      "subCategory": "跨境贸易"
+    },
+    {
+      "id": "policy-20260708-902",
+      "title": "欧盟委员会决定将匈牙利诉至欧洲法院，涉食品与药店商品限价规定",
+      "summary": "欧盟委员会宣布将匈牙利政府诉至欧盟法院，原因是匈牙利对食品和药店商品零售利润率设限的规定被认定违反欧盟法律。此举是相关侵权程序从行政阶段升级至司法阶段的举措，属欧盟委员会当月侵权决定公告的一部分。",
+      "publishedAt": "2026-07-08",
+      "source": "欧盟委员会",
+      "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1477",
+      "subCategory": "海外政策"
+    },
+    {
+      "id": "policy-20260709-101",
+      "title": "欧盟委员会发布7月违反欧盟法处理决定",
+      "summary": "欧盟委员会公布7月份对成员国的违反欧盟法处理决定，关闭48起已解决案件，同时对芬兰、西班牙、马耳他、法国等国就废物、水资源、污水处理等指令转化不到位发出正式通知函，并对波兰未完全转化欧盟制裁刑法条款发出说理意见。",
+      "publishedAt": "2026-07-08",
+      "source": "欧盟委员会",
+      "url": "https://ec.europa.eu/commission/presscorner/detail/en/inf_26_1376",
+      "subCategory": "海外政策"
     },
     {
       "id": "policy-20260707-005",
@@ -600,15 +555,6 @@
       "subCategory": "金融监管"
     },
     {
-      "id": "policy-20260707-003",
-      "title": "Commission presents EU Action Plan on Cybersecurity and Artificial Intelligence",
-      "summary": "欧盟委员会发布网络安全与人工智能行动计划，为成员国、产业界与欧盟机构提出协同应对前沿AI模型风险的路径，同时鼓励利用AI增强网络防御能力，暂不涉及新立法。",
-      "publishedAt": "2026-07-07",
-      "source": "European Commission",
-      "url": "https://digital-strategy.ec.europa.eu/en/news/commission-presents-eu-action-plan-cybersecurity-and-artificial-intelligence",
-      "subCategory": "AI监管"
-    },
-    {
       "id": "policy-20260707-004",
       "title": "Businesses across Britain sign up to Cyber Resilience Pledge as ministers urge firms to strengthen cyber defences",
       "summary": "包括玛莎百货、Nationwide、ITV、微软英国、Cloudflare在内的60余家英国企业签署自愿性网络韧性承诺，要求董事会承担网络安全责任并注册NCSC预警系统，英国企业每年因网络攻击损失约147亿英镑。",
@@ -645,13 +591,13 @@
       "subCategory": "数字经济"
     },
     {
-      "id": "policy-20260706-402",
-      "title": "英国政府就AI玩具安全发起证据征集,加强儿童保护",
-      "summary": "英国商业与贸易部及产品安全标准办公室发起玩具安全证据征集,截止至10月6日,重点关注新技术带来的风险,包括化学安全与AI互动玩具,旨在推动玩具安全监管框架现代化并加强对消费者的保护。",
-      "publishedAt": "2026-07-06",
-      "source": "GOV.UK",
-      "url": "https://www.gov.uk/government/news/government-steps-up-action-to-protect-children-as-ai-enabled-toys-emerge",
-      "subCategory": "AI监管"
+      "id": "policy-20260706-602",
+      "title": "今起 沪深主板ST、*ST股票涨跌幅调整至10%",
+      "summary": "上交所、深交所修订后的交易规则自2026年7月6日起正式实施，主板ST、*ST股票涨跌幅限制由5%调整为10%，与主板普通股票趋于一致；科创板、创业板ST股涨跌幅维持不变，盘后固定价格交易机制同步扩大至全部A股和ETF。",
+      "publishedAt": "2026-07-06T07:29:00+08:00",
+      "source": "新浪财经（转自每日经济新闻）",
+      "url": "https://finance.sina.com.cn/roll/2026-07-06/doc-inifvkki1795860.shtml",
+      "subCategory": "金融监管"
     },
     {
       "id": "policy-20260706-403",
@@ -660,15 +606,6 @@
       "publishedAt": "2026-07-06",
       "source": "GOV.UK",
       "url": "https://www.gov.uk/government/publications/the-economic-impact-of-equal-opportunities-in-the-digital-economy/the-economic-impact-of-equal-opportunities-in-the-digital-economy",
-      "subCategory": "海外政策"
-    },
-    {
-      "id": "policy-20260706-603",
-      "title": "Tough new rules to crackdown on foreign money in UK elections",
-      "summary": "英国政府响应Rycroft Review提出政治献金改革：海外归国者须等满一年才能捐赠超过10万英镑；企业捐赠按五年税后利润审核；候选人须申报超过2230英镑的参选前捐赠。相关修订将并入《人民代表法案》。",
-      "publishedAt": "2026-07-06",
-      "source": "GOV.UK",
-      "url": "https://www.gov.uk/government/news/tough-new-rules-to-crackdown-on-foreign-money-in-uk-elections",
       "subCategory": "海外政策"
     },
     {
@@ -681,6 +618,24 @@
       "subCategory": "海外政策"
     },
     {
+      "id": "policy-20260706-603",
+      "title": "Tough new rules to crackdown on foreign money in UK elections",
+      "summary": "英国政府响应Rycroft Review提出政治献金改革：海外归国者须等满一年才能捐赠超过10万英镑；企业捐赠按五年税后利润审核；候选人须申报超过2230英镑的参选前捐赠。相关修订将并入《人民代表法案》。",
+      "publishedAt": "2026-07-06",
+      "source": "GOV.UK",
+      "url": "https://www.gov.uk/government/news/tough-new-rules-to-crackdown-on-foreign-money-in-uk-elections",
+      "subCategory": "海外政策"
+    },
+    {
+      "id": "policy-20260706-402",
+      "title": "英国政府就AI玩具安全发起证据征集,加强儿童保护",
+      "summary": "英国商业与贸易部及产品安全标准办公室发起玩具安全证据征集,截止至10月6日,重点关注新技术带来的风险,包括化学安全与AI互动玩具,旨在推动玩具安全监管框架现代化并加强对消费者的保护。",
+      "publishedAt": "2026-07-06",
+      "source": "GOV.UK",
+      "url": "https://www.gov.uk/government/news/government-steps-up-action-to-protect-children-as-ai-enabled-toys-emerge",
+      "subCategory": "AI监管"
+    },
+    {
       "id": "policy-20260706-605",
       "title": "FTC Warns Companies Making Questionable 'Made in the USA' Claims",
       "summary": "美国联邦贸易委员会向7家企业（含A&F Drum Company、Z-Tech Advanced Technologies、Vtron等）发出警告信，指控其将进口产品虚假宣传为美国制造，另有1家企业因\"德州制造\"虚假宣传收到警告。",
@@ -690,15 +645,6 @@
       "subCategory": "海外政策"
     },
     {
-      "id": "policy-20260706-602",
-      "title": "今起 沪深主板ST、*ST股票涨跌幅调整至10%",
-      "summary": "上交所、深交所修订后的交易规则自2026年7月6日起正式实施，主板ST、*ST股票涨跌幅限制由5%调整为10%，与主板普通股票趋于一致；科创板、创业板ST股涨跌幅维持不变，盘后固定价格交易机制同步扩大至全部A股和ETF。",
-      "publishedAt": "2026-07-06T07:29:00+08:00",
-      "source": "新浪财经（转自每日经济新闻）",
-      "url": "https://finance.sina.com.cn/roll/2026-07-06/doc-inifvkki1795860.shtml",
-      "subCategory": "金融监管"
-    },
-    {
       "id": "policy-20260705-001",
       "title": "中英服务贸易协定联合可行性研究技术磋商在伦敦举行",
       "summary": "中英两国官员6月30日至7月1日在伦敦举行第三轮服务贸易协定联合可行性研究技术磋商，双方称谈判取得实质性进展，将加快后续工作，力争尽早完成联合可行性研究，磋商基于2026年1月签署的谅解备忘录展开。",
@@ -706,24 +652,6 @@
       "source": "中华人民共和国商务部",
       "url": "https://www.mofcom.gov.cn/xwfb/rcxwfb/art/2026/art_b7a670a0d9b34983898b573eb4591555.html",
       "subCategory": "跨境贸易"
-    },
-    {
-      "id": "policy-20260704-001",
-      "title": "市场监管总局、商务部就电子商务法修正草案征求意见稿公开征求意见",
-      "summary": "市场监管总局与商务部就《中华人民共和国电子商务法（修正草案征求意见稿）》公开征求意见，草案共二十条，涉及扩大调整范围、完善平台责任体系等内容，反馈截止8月4日。",
-      "publishedAt": "2026-07-04",
-      "source": "国家市场监督管理总局",
-      "url": "https://www.samr.gov.cn/hd/zjdc/art/2026/art_41b16f1123ee4cd7acf892bb8bed5fe0.html",
-      "subCategory": "数字经济"
-    },
-    {
-      "id": "policy-20260703-011",
-      "title": "中国证监会就完善上市公司再融资规则公开征求意见",
-      "summary": "证监会就修改《上市公司证券发行注册管理办法》等规则公开征求意见，拟建立定向增发储架发行制度、统一以发行首日为定价基准日、允许控股股东参与定增并延长锁定期至36个月，同时强化可转债监管间隔期要求，明确募集资金应投向主业。",
-      "publishedAt": "2026-07-03T20:13:54+08:00",
-      "source": "中国新闻网",
-      "url": "https://www.chinanews.com.cn/cj/2026/07-03/10652327.shtml",
-      "subCategory": "金融监管"
     }
   ]
 }

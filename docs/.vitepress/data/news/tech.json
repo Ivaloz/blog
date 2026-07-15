@@ -3,8 +3,35 @@
   "slug": "tech",
   "title": "科技新闻",
   "description": "前沿科技、互联网产品、芯片硬件、开源生态。",
-  "updatedAt": "2026-07-15T17:10:00+08:00",
+  "updatedAt": "2026-07-15T23:45:00+08:00",
   "items": [
+    {
+      "id": "tech-20260715-025",
+      "title": "消息称苹果正寻求收购人工智能芯片企业",
+      "summary": "据The Information报道，苹果正积极接触半导体初创企业评估收购意向，以推进AI服务器芯片研发，应对其内部AI服务器性能问题，此举被视为向十亿美元级收购转变，此前苹果已完成对以色列机器学习公司Q.Ai约20亿美元的收购。",
+      "publishedAt": "2026-07-15T23:11:27+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/977/243.htm",
+      "subCategory": "芯片硬件"
+    },
+    {
+      "id": "tech-20260715-027",
+      "title": "奕境 X9 官宣搭载 HUAWEI XSCENE 车载激光投影，支持业界唯一一机五投",
+      "summary": "华为宣布奕境X9搭载HUAWEI XSCENE车载激光投影系统，采用行业首批激光光源及LCoS成像技术，支持单人、双人、悬浮、躺卧、坐姿等业界唯一\"一机五投\"模式，并集成鸿蒙座舱多模态感知系统。",
+      "publishedAt": "2026-07-15T22:36:22+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/977/239.htm",
+      "subCategory": "智能汽车"
+    },
+    {
+      "id": "tech-20260715-026",
+      "title": "人形机器人公司逐际动力完成近 2 亿美元 Pre-IPO 轮融资",
+      "summary": "人形机器人公司逐际动力（LimX Dynamics）宣布完成Pre-IPO轮融资，金额近2亿美元，投资方包括IDG资本等机构，资金将重点用于大小脑融合技术的突破和产品化，推动人形机器人规模化部署及全球化布局。",
+      "publishedAt": "2026-07-15T21:56:08+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/977/234.htm",
+      "subCategory": "机器人"
+    },
     {
       "title": "三星990固态硬盘上市：QLC + DRAM-less方案，2TB售2399元",
       "summary": "三星990系列固态硬盘正式上市，采用QLC闪存与DRAM-less方案，支持HMB主机内存缓冲，1TB售1499元、2TB售2399元，最高顺序读取7250MB/s、写入6450MB/s，官方称能效较990 PRO提升38%。",
@@ -294,24 +321,6 @@
       "subCategory": "智能汽车"
     },
     {
-      "id": "tech-20260715-012",
-      "title": "New phishing kits target Microsoft 365 accounts, evade MFA",
-      "summary": "安全研究人员发现 Jalisco 和 OmegaLord 两款新型钓鱼工具包正被用于攻击 Microsoft 365 账户，前者利用 OAuth 设备授权码流程绕过多因素认证，后者伪装 PDF 阅读器窃取密码与手机号，专家建议收紧设备注册与条件访问策略。",
-      "publishedAt": "2026-07-14T08:49:00-04:00",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/new-phishing-kits-target-microsoft-365-accounts-evade-mfa/",
-      "subCategory": "安全漏洞"
-    },
-    {
-      "id": "tech-20260714-012",
-      "title": "Microsoft Entra ID gets passkeys default authentication starting September",
-      "summary": "微软宣布自2026年9月1日起，通行密钥（Passkey）将成为Entra ID的默认身份验证方式，原使用短信及语音验证的用户将被自动引导注册通行密钥，短信/语音验证方式计划于2027年2月全面停用。",
-      "publishedAt": "2026-07-14T08:49:00-04:00",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-entra-id-gets-passkeys-default-authentication-starting-september/",
-      "subCategory": "安全漏洞"
-    },
-    {
       "id": "tech-20260714-022",
       "title": "英伟达与三菱重工拟在 AI 数据中心领域展开合作，将冷却与能源管理技术融入下一代 AI 数据中心",
       "summary": "消息称英伟达正考虑与三菱重工合作，将后者的冷却系统与能源管理技术融入英伟达下一代数据中心；三菱重工正设计名为DIAVAULT的新一代数据中心，采用专为人工智能应用打造的液冷系统。",
@@ -454,6 +463,24 @@
       "source": "新浪科技",
       "url": "https://finance.sina.com.cn/tech/digi/2026-07-14/doc-inihuhiv7320804.shtml",
       "subCategory": "智能汽车"
+    },
+    {
+      "id": "tech-20260715-012",
+      "title": "New phishing kits target Microsoft 365 accounts, evade MFA",
+      "summary": "安全研究人员发现 Jalisco 和 OmegaLord 两款新型钓鱼工具包正被用于攻击 Microsoft 365 账户，前者利用 OAuth 设备授权码流程绕过多因素认证，后者伪装 PDF 阅读器窃取密码与手机号，专家建议收紧设备注册与条件访问策略。",
+      "publishedAt": "2026-07-14T08:49:00-04:00",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/new-phishing-kits-target-microsoft-365-accounts-evade-mfa/",
+      "subCategory": "安全漏洞"
+    },
+    {
+      "id": "tech-20260714-012",
+      "title": "Microsoft Entra ID gets passkeys default authentication starting September",
+      "summary": "微软宣布自2026年9月1日起，通行密钥（Passkey）将成为Entra ID的默认身份验证方式，原使用短信及语音验证的用户将被自动引导注册通行密钥，短信/语音验证方式计划于2027年2月全面停用。",
+      "publishedAt": "2026-07-14T08:49:00-04:00",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-entra-id-gets-passkeys-default-authentication-starting-september/",
+      "subCategory": "安全漏洞"
     },
     {
       "id": "tech-20260714-001",
@@ -697,33 +724,6 @@
       "source": "IT之家",
       "url": "https://www.ithome.com/0/975/817.htm",
       "subCategory": "网络基础设施"
-    },
-    {
-      "id": "tech-20260712-106",
-      "title": "微软研究院推出开源可视化中间语言 Flint，让 AI 智能体一句话生成专业图表",
-      "summary": "微软研究院联合中国人民大学团队发布开源可视化中间语言Flint，让AI智能体通过自然语言直接生成Vega-Lite、ECharts等图表；配套flint-chart-mcp支持对话中预览图表，已集成进微软Data Formulator。",
-      "publishedAt": "2026-07-12T20:45:22+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/975/816.htm",
-      "subCategory": "开发者工具"
-    },
-    {
-      "id": "tech-20260712-108",
-      "title": "大疆无人机助力中国科考队珠峰任务：实现 8861 米大气数据观测、首次完成昆布冰川核心区厘米级建模",
-      "summary": "大疆宣布旗下无人机支持中国珠峰科考队：EV50垂直起降机完成8861米大气数据观测；FC100运输机搬运超10吨物资往返大本营与一号营地；M4E测绘机完成昆布冰川核心区厘米级三维建模。",
-      "publishedAt": "2026-07-12T19:58:41+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/975/802.htm",
-      "subCategory": "消费电子"
-    },
-    {
-      "id": "tech-20260712-110",
-      "title": "华为 MatePad Pro Max 平板获鸿蒙 HarmonyOS 6.1.0.130 SP17 升级，新增 3D 影像壁纸功能",
-      "summary": "华为MatePad Pro Max平板开始推送HarmonyOS 6.1.0.130 SP17更新，新增倾斜或双指滑动锁屏时呈现空间效果的3D影像壁纸功能，并优化教育空间投屏及全景声音频体验，更新一旦安装不可回退。",
-      "publishedAt": "2026-07-12T19:45:26+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/975/797.htm",
-      "subCategory": "操作系统"
     }
   ]
 }
