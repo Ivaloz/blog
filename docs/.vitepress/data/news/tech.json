@@ -3,34 +3,88 @@
   "slug": "tech",
   "title": "科技新闻",
   "description": "前沿科技、互联网产品、芯片硬件、开源生态。",
-  "updatedAt": "2026-07-15T00:45:00+08:00",
+  "updatedAt": "2026-07-15T09:20:00+08:00",
   "items": [
     {
       "id": "tech-20260715-001",
-      "title": "Progress confirms ShareFile zero-day flaw behind Storage Zone shutdown",
-      "summary": "Progress软件确认，此前ShareFile存储区控制器紧急下线事件源于一个高危路径遍历零日漏洞，影响5.x和6.x版本，公司已发布5.12.5及6.0.2补丁，并称目前未发现客户账户或数据遭未授权访问的迹象。",
-      "publishedAt": "2026-07-14T12:08:00-04:00",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/progress-confirms-sharefile-zero-day-flaw-behind-storage-zone-shutdown/",
-      "subCategory": "安全漏洞"
+      "title": "华硕将独立发售 OLED 屏幕版 ROG Ally 掌机",
+      "summary": "华硕官方确认将独立发售此前作为 ROG XBOX Ally X20 套装亮相的 OLED 屏幕版 ROG Ally 掌机，该机搭载 7.4 英寸 120Hz OLED 屏、AMD Ryzen AI Z2 Extreme 处理器及升级版摇杆与十字键。",
+      "publishedAt": "2026-07-15T08:37:35+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/976/795.htm",
+      "subCategory": "消费电子"
     },
     {
-      "id": "tech-20260714-003",
-      "title": "TSMC sales hit record on AI demand",
-      "summary": "台积电公布2026年第二季度合并营收达1.27万亿新台币（约395亿美元），同比增长36%，创单季新高，6月营收同比大增67.9%；上半年营收同比增长35.6%。公司预计全年美元营收增速超过30%，资本支出将聚焦2纳米先进制程及美国产能扩张。",
-      "publishedAt": "2026-07-14",
-      "source": "Taipei Times",
-      "url": "https://www.taipeitimes.com/News/biz/archives/2026/07/14/2003860683",
+      "id": "tech-20260715-002",
+      "title": "Linux 7.2-rc3 针对世嘉 28 年 Dreamcast 主机合并驱动修复补丁",
+      "summary": "Linux 内核 7.2-rc3 合并了针对世嘉 Dreamcast 主机键盘、鼠标、手柄驱动的补丁，修复了一个源于 2017 年、因鼠标驱动访问未初始化数据导致内核崩溃的空指针错误。",
+      "publishedAt": "2026-07-15T08:20:49+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/976/790.htm",
+      "subCategory": "开源生态"
+    },
+    {
+      "id": "tech-20260715-003",
+      "title": "俄美制定联合计划，国际空间站运行拟于 2030 年底结束",
+      "summary": "俄罗斯与美国就国际空间站未来运行制定联合计划，拟于 2030 年底结束其运行，双方还讨论了各自轨道站的应急协作、探月及太空医学联合实验等合作事项。",
+      "publishedAt": "2026-07-15T08:16:58+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/976/789.htm",
+      "subCategory": "航空航天"
+    },
+    {
+      "id": "tech-20260715-004",
+      "title": "三星电子拟投数十万亿韩元，于器兴新建月产 10 万片 DRAM 工厂",
+      "summary": "三星电子计划投资数十万亿韩元，在京畿道器兴园区新建月产能 10 万片晶圆的 DRAM 工厂，最早三季度动工，以应对 AI 基础设施带动的存储芯片需求增长，消息公布后三星股价上涨 7%。",
+      "publishedAt": "2026-07-15T08:16:24+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/976/788.htm",
       "subCategory": "芯片硬件"
     },
     {
-      "id": "tech-20260714-008",
-      "title": "Telegram's t.me domain suspended at the registry level, breaking links worldwide",
-      "summary": "Telegram核心短链接域名t.me在注册局层面被设为serverHold状态，导致全球范围内该域名DNS解析失效，各类t.me链接普遍无法访问，但即时通讯功能本身不受影响。据称原因与美国OFAC合规要求有关，Telegram与注册商均未正式回应，应用内已改用telegram.me作为替代短链。",
-      "publishedAt": "2026-07-14",
-      "source": "CyberInsider",
-      "url": "https://cyberinsider.com/telegrams-t-me-domain-suspended-at-the-registry-level-breaking-links-worldwide/",
-      "subCategory": "网络基础设施"
+      "id": "tech-20260715-005",
+      "title": "微软 Win11 24H2/25H2 推送 7 月累积更新，部分戴尔设备存兼容性问题",
+      "summary": "微软发布 KB5101650 七月累积更新，将 Win11 24H2 升至 Build 26100.8875、25H2 升至 Build 26200.8875，但部分搭载英特尔处理器的戴尔设备出现兼容性问题暂缓推送，微软与戴尔正联合修复。",
+      "publishedAt": "2026-07-15T07:59:26+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/976/786.htm",
+      "subCategory": "操作系统"
+    },
+    {
+      "id": "tech-20260715-006",
+      "title": "微软 Win10 推送 7 月扩展安全更新：解决回收站提示异常问题，创纪录修复 570 个漏洞",
+      "summary": "微软发布 Win10 七月扩展安全更新 KB5099539，创纪录修复 570 个安全漏洞，含 2 个已遭利用的零日漏洞和 1 个已公开的零日漏洞，同时解决回收站提示异常等问题。",
+      "publishedAt": "2026-07-15T07:42:24+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/976/782.htm",
+      "subCategory": "安全漏洞"
+    },
+    {
+      "id": "tech-20260715-007",
+      "title": "三星发布 Flex Titanium 技术：钛金属重塑折叠屏结构，Galaxy Z Fold8 有望首搭",
+      "summary": "三星发布 Flex Titanium 折叠屏技术，采用钛合金薄膜与钛板重塑屏幕结构，刚性较聚合物薄膜提升 20 倍且厚度约为头发丝三分之一，该技术预计首先应用于下一代 Galaxy Z Fold8。",
+      "publishedAt": "2026-07-15T07:37:32+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/976/778.htm",
+      "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260715-008",
+      "title": "华为 MatePad 11.5 S 灵动款、MatePad Air 12 英寸鸿蒙焕新版上市，2999 元起",
+      "summary": "华为 MatePad 11.5 S 灵动款与 MatePad Air 12 英寸鸿蒙焕新版正式上市，起售价 2999 元，两款平板均从鸿蒙 4.2 升级至鸿蒙 6.0，前者搭载麒麟 9000WL 芯片、144Hz 屏幕。",
+      "publishedAt": "2026-07-15T07:31:52+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/976/780.htm",
+      "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260715-009",
+      "title": "小米汽车：仿真和试验室测试确实能大幅提升研发效率，但无法完全替代真实路测",
+      "summary": "小米汽车表示仿真与实验室测试能大幅提升研发效率但无法完全替代真实路测，截至 6 月底其测试车队已在全国 31 省 194 市累计行驶 428 万公里，覆盖零下 41 摄氏度到 53 摄氏度等极端环境。",
+      "publishedAt": "2026-07-15T07:08:09+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/976/773.htm",
+      "subCategory": "智能汽车"
     },
     {
       "id": "tech-20260714-013",
@@ -49,6 +103,24 @@
       "source": "IT之家",
       "url": "https://www.ithome.com/0/976/748.htm",
       "subCategory": "芯片硬件"
+    },
+    {
+      "id": "tech-20260715-010",
+      "title": "华为智选车产品总监彭磊科普国家 L3 准入要求，称享界 G9 设计之初就瞄准 L3 级自动驾驶开发",
+      "summary": "华为智选车产品总监彭磊介绍国家 L3 自动驾驶准入要求，称享界 G9 是首款面向 120 公里时速 L3 场景设计的车型，已获批北京 L3 级自动驾驶道路测试牌照，搭载 896 线激光雷达等多模传感器。",
+      "publishedAt": "2026-07-14T22:40:59+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/976/745.htm",
+      "subCategory": "智能汽车"
+    },
+    {
+      "id": "tech-20260715-011",
+      "title": "特斯拉海外推出\"保值计划\"，防止贷款购车的 Model 3/Y 车主被降价\"背刺\"",
+      "summary": "特斯拉在澳大利亚联合当地金融机构 Driva 推出保值计划，允许贷款购买 Model 3/Y 的车主根据贷款期限与里程锁定未来回购价，到期后可按约定价退车、留车补差价或自行出售，网约车司机不适用。",
+      "publishedAt": "2026-07-14T22:32:55+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/976/744.htm",
+      "subCategory": "智能汽车"
     },
     {
       "id": "tech-20260714-015",
@@ -112,15 +184,6 @@
       "source": "IT之家",
       "url": "https://www.ithome.com/0/976/727.htm",
       "subCategory": "智能汽车"
-    },
-    {
-      "id": "tech-20260714-012",
-      "title": "Microsoft Entra ID gets passkeys default authentication starting September",
-      "summary": "微软宣布自2026年9月1日起，通行密钥（Passkey）将成为Entra ID的默认身份验证方式，原使用短信及语音验证的用户将被自动引导注册通行密钥，短信/语音验证方式计划于2027年2月全面停用。",
-      "publishedAt": "2026-07-14T08:49:00-04:00",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-entra-id-gets-passkeys-default-authentication-starting-september/",
-      "subCategory": "安全漏洞"
     },
     {
       "id": "tech-20260714-022",
@@ -267,22 +330,22 @@
       "subCategory": "智能汽车"
     },
     {
-      "id": "tech-20260714-011",
-      "title": "内存涨价冷行情：全球智能手机Q2出货量跌至2013年以来同期最低水平",
-      "summary": "Counterpoint数据显示，受存储芯片涨价影响，2026年第二季度全球智能手机出货量同比下滑11%，创2013年以来同期新低，低端机型内存成本占整机比例超六成；苹果逆势增长3%、市占率达20%创新高，小米、OPPO、vivo出现两位数下滑，短缺或持续至2027年。",
-      "publishedAt": "2026-07-14T10:43:00+08:00",
-      "source": "东方财富网",
-      "url": "https://finance.eastmoney.com/a/202607143805090583.html",
-      "subCategory": "消费电子"
+      "id": "tech-20260715-012",
+      "title": "New phishing kits target Microsoft 365 accounts, evade MFA",
+      "summary": "安全研究人员发现 Jalisco 和 OmegaLord 两款新型钓鱼工具包正被用于攻击 Microsoft 365 账户，前者利用 OAuth 设备授权码流程绕过多因素认证，后者伪装 PDF 阅读器窃取密码与手机号，专家建议收紧设备注册与条件访问策略。",
+      "publishedAt": "2026-07-14T08:49:00-04:00",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/new-phishing-kits-target-microsoft-365-accounts-evade-mfa/",
+      "subCategory": "安全漏洞"
     },
     {
-      "id": "tech-20260714-010",
-      "title": "续命1年：微软通知已加入ESU计划Win10设备延长支持至2027年10月",
-      "summary": "微软已向加入扩展安全更新(ESU)计划的Windows 10个人用户发送通知，确认设备支持期限由原定2026年10月13日再延长一年至2027年10月12日，已注册用户无需任何操作即可自动获得延期覆盖，一份授权最多可覆盖同账号下10台设备。",
-      "publishedAt": "2026-07-14T09:35:00+08:00",
-      "source": "新浪科技",
-      "url": "https://finance.sina.com.cn/tech/digi/2026-07-14/doc-inihtrnk8572906.shtml",
-      "subCategory": "操作系统"
+      "id": "tech-20260714-012",
+      "title": "Microsoft Entra ID gets passkeys default authentication starting September",
+      "summary": "微软宣布自2026年9月1日起，通行密钥（Passkey）将成为Entra ID的默认身份验证方式，原使用短信及语音验证的用户将被自动引导注册通行密钥，短信/语音验证方式计划于2027年2月全面停用。",
+      "publishedAt": "2026-07-14T08:49:00-04:00",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-entra-id-gets-passkeys-default-authentication-starting-september/",
+      "subCategory": "安全漏洞"
     },
     {
       "id": "tech-20260714-001",
@@ -292,6 +355,24 @@
       "source": "IT之家",
       "url": "https://www.ithome.com/0/976/273.htm",
       "subCategory": "操作系统"
+    },
+    {
+      "id": "tech-20260714-003",
+      "title": "TSMC sales hit record on AI demand",
+      "summary": "台积电公布2026年第二季度合并营收达1.27万亿新台币（约395亿美元），同比增长36%，创单季新高，6月营收同比大增67.9%；上半年营收同比增长35.6%。公司预计全年美元营收增速超过30%，资本支出将聚焦2纳米先进制程及美国产能扩张。",
+      "publishedAt": "2026-07-14",
+      "source": "Taipei Times",
+      "url": "https://www.taipeitimes.com/News/biz/archives/2026/07/14/2003860683",
+      "subCategory": "芯片硬件"
+    },
+    {
+      "id": "tech-20260714-008",
+      "title": "Telegram's t.me domain suspended at the registry level, breaking links worldwide",
+      "summary": "Telegram核心短链接域名t.me在注册局层面被设为serverHold状态，导致全球范围内该域名DNS解析失效，各类t.me链接普遍无法访问，但即时通讯功能本身不受影响。据称原因与美国OFAC合规要求有关，Telegram与注册商均未正式回应，应用内已改用telegram.me作为替代短链。",
+      "publishedAt": "2026-07-14",
+      "source": "CyberInsider",
+      "url": "https://cyberinsider.com/telegrams-t-me-domain-suspended-at-the-registry-level-breaking-links-worldwide/",
+      "subCategory": "网络基础设施"
     },
     {
       "id": "tech-20260713-016",
@@ -615,114 +696,6 @@
       "publishedAt": "2026-07-12T07:42:17+08:00",
       "source": "IT之家",
       "url": "https://www.ithome.com/0/975/637.htm",
-      "subCategory": "智能汽车"
-    },
-    {
-      "id": "tech-20260712-007",
-      "title": "特斯拉 Cybercab 即将开放员工试乘，但仅限在工厂内部",
-      "summary": "特斯拉宣布无方向盘、无踏板的自动驾驶出租车Cybercab即将在得州超级工厂向员工开放试乘，官方表述较为模糊，外界尚不确定该服务是否等同于正式载客运营，目前预计仅限厂区内部道路。",
-      "publishedAt": "2026-07-12T07:32:54+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/975/636.htm",
-      "subCategory": "智能汽车"
-    },
-    {
-      "id": "tech-20260712-006",
-      "title": "SpaceX 星舰第 13 次试飞定于当地时间 7 月 16 日",
-      "summary": "SpaceX宣布星舰第13次试飞定于7月16日进行，超重助推器将尝试分离、返场并溥落墨西哥湾，飞船将首次部署20颗星链阀卫星，并在印度洋上空完成受控再入以测试热防护系统性能。",
-      "publishedAt": "2026-07-12T07:06:51+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/975/632.htm",
-      "subCategory": "航空航天"
-    },
-    {
-      "id": "tech-20260712-004",
-      "title": "This slushie machine was a lifesaver during NYC's heat wave",
-      "summary": "厨房电器品牌Ninja推出双腔冰沙机Slushi Twist，两个48盎司容器可独立同时制作不同口味的冰沙、奶昔或冷萌咖啡，配备分区控温的Dual SlushAssist技术，官方定价399.99美元。",
-      "publishedAt": "2026-07-11T15:00:00-07:00",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/11/this-slushie-machine-was-a-lifesaver-during-nycs-heat-wave/",
-      "subCategory": "消费电子"
-    },
-    {
-      "id": "tech-20260712-003",
-      "title": "Phoebe Gates' AI shopping app Phia reportedly claimed unearned affiliate sales through fake clicks",
-      "summary": "由菲比·盖茨与索菲亚·基安尼共同创立的购物插件Phia被曝通过隐藏点击手法冒领本应归属于其他联盟营销方的商品推荐佣金，公司回应称问题源于去年12月引入的软件缺陷，发现后已连夜修复。",
-      "publishedAt": "2026-07-11T16:29:00-04:00",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2212973/phoebe-gates-ai-shopping-app-phia-affiliate-sales-fake-clicks/",
-      "subCategory": "互联网产品"
-    },
-    {
-      "id": "tech-20260712-002",
-      "title": "Philips offers free replacements after update bricked smart lighting hubs",
-      "summary": "飞利浦确认其Hue Bridge Pro网关在特定条件下安蠅6月发布的固件更新后会变砖，约100名用户受影响，公司宣布无论保修状态均免费更换设备，并已推送预防性更新以避免问题再次发生。",
-      "publishedAt": "2026-07-11T13:41:00-04:00",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2212954/philips-free-replacements-hue-bridge-pro-update-bricked-smart-lighting-hubs/",
-      "subCategory": "消费电子"
-    },
-    {
-      "id": "tech-20260712-001",
-      "title": "Smart glasses without a camera? Even Realities bets productivity beats recording everyone",
-      "summary": "智能眼镜厂商Even Realities推出不含摄像头与扬声器的G2智能眼镜，采用绿色单色显示，主打会议实时翻译、导航等办公场景功能，机身约35克，售价599美元，官方强调该设计意在降低旁人隐私顾虑。",
-      "publishedAt": "2026-07-11T10:30:00-07:00",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/11/smart-glasses-without-a-camera-even-realities-bets-productivity-beats-recording-everyone/",
-      "subCategory": "XR-AR-VR"
-    },
-    {
-      "id": "tech-20260711-202",
-      "title": "消息称某厂测试 8°OIS± 超级微云台防抖模组，主摄尺寸或将缩小",
-      "summary": "据博主爆料，某手机厂商正测试用于下一代Ultra旗舰机型的“8°OIS±超级微云台防抖”模组，宣称可实现云台级视频防抖与运镜效果，但可能导致主摄传感器尺寸缩小至约1/1.3英寸。业界猜测该机型可能是vivo X500 Ultra或OPPO Find X10 Ultra。",
-      "publishedAt": "2026-07-11T23:34:18+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/975/624.htm",
-      "subCategory": "消费电子"
-    },
-    {
-      "id": "tech-20260711-207",
-      "title": "小鹏 G9L 纯电 SUV 四驱版申报：大五座布局，车长超 5.1 米",
-      "summary": "小鹏汽车向工信部申报G9L纯电SUV四驱版，车身长度超过5.1米，采用大五座布局，前后双电机综合系统功率达430千瓦，电池为宁德时代提供的磷酸铁锂电池。",
-      "publishedAt": "2026-07-11T21:50:45+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/975/597.htm",
-      "subCategory": "智能汽车"
-    },
-    {
-      "id": "tech-20260711-205",
-      "title": "手机厂商 Ultra 超大杯机型激活量曝光：iQOO、小米、vivo 超 20 万台",
-      "summary": "博主@数码闲聊站公布各家Ultra超大杯手机目前激活量：iQOO 15 Ultra约24.1万台，小米17 Ultra约23.3万台，vivo X300 Ultra约22.4万台，OPPO Find X9 Ultra约13.6万台明显落后于前三者。",
-      "publishedAt": "2026-07-11T21:19:38+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/975/592.htm",
-      "subCategory": "消费电子"
-    },
-    {
-      "id": "tech-20260711-208",
-      "title": "广汽启境 GT7 增程版更多信息公布：宁德时代电池、华为乾嵤智驾 ADS 5",
-      "summary": "广汽启境GT7增程版完成工信部申报，公布更多技术信息：CLTC综合续航达1300公里，纯电续航252公里，搭载宁德时代电池与华为乾嵤智驾ADS 5系统，纯电版车型起售价20.99万元。",
-      "publishedAt": "2026-07-11T20:44:59+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/975/588.htm",
-      "subCategory": "智能汽车"
-    },
-    {
-      "id": "tech-20260711-203",
-      "title": "小米 REDMI Note 17 系列手机规格曝光：骁龙4 Gen4 / 6s Gen4，主摄 50MP",
-      "summary": "小米REDMI Note 17系列手机规格于7月14日发布前曝光，标准版搭载骁龙4 Gen4处理器及8000mAh电池，Pro版升级为骁龙6s Gen4处理器、9000mAh电池并支持更高快充功率，主摄均为5000万像素。",
-      "publishedAt": "2026-07-11T20:30:07+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/975/586.htm",
-      "subCategory": "消费电子"
-    },
-    {
-      "id": "tech-20260711-209",
-      "title": "吉利银河 TT 纯电轿车技术信息公布：全域 800V 三高压平台、千里浩瑚辅助驾驶 H7",
-      "summary": "吉利银河公布TT纯电轿车技术信息，全系采用800V高压平台，双电机两驱版峰值功率245千瓦，四驱版峰值功率425千瓦，提供四种电池版本，CLTC续航540至725公里，配备激光雷达与千里浩瑚H7辅助驾驶系统。",
-      "publishedAt": "2026-07-11T20:00:39+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/975/582.htm",
       "subCategory": "智能汽车"
     }
   ]
