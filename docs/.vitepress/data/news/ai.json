@@ -3,8 +3,35 @@
   "slug": "ai",
   "title": "AI 与大模型",
   "description": "大模型、Agent、AI 编程、推理框架、开源模型的发布与落地。",
-  "updatedAt": "2026-07-15T17:10:00+08:00",
+  "updatedAt": "2026-07-15T23:45:00+08:00",
   "items": [
+    {
+      "id": "ai-20260715-020",
+      "title": "超 300 款 AI 产品将在 2026 世界 AI 大会首发",
+      "summary": "2026世界人工智能大会将于7月17日至20日在上海举行，本届大会升级为\"三地四馆\"办展模式，吸引1100余家企业参展，300余款全球首发AI产品将集中亮相，上海世博展览馆已进入最后布展调试阶段。",
+      "publishedAt": "2026-07-15T21:41:42+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/977/232.htm",
+      "subCategory": "AI应用"
+    },
+    {
+      "id": "ai-20260715-021",
+      "title": "面壁智能端侧大模型将搭载三星手机上市",
+      "summary": "端侧大模型公司面壁智能宣布与三星手机达成合作，其自主研发的MiniCPM系列端侧模型将搭载于三星手机上市，覆盖数款旗舰机型。",
+      "publishedAt": "2026-07-15T19:50:00+08:00",
+      "source": "36氪",
+      "url": "https://36kr.com/newsflashes/3896839832143750",
+      "subCategory": "大模型"
+    },
+    {
+      "id": "ai-20260715-022",
+      "title": "阿里千问将作为AI能力集成至苹果智能",
+      "summary": "国家网信办公布七款移动端生成式人工智能服务备案信息，苹果技术研发（上海）有限公司\"苹果智能\"大模型于7月8日完成备案。阿里巴巴宣布通义千问将作为集成AI能力接入苹果智能，为中国用户在iOS、iPadOS、macOS及visionOS上提供文本与图像理解、内容生成等功能。",
+      "publishedAt": "2026-07-15T16:44:00+08:00",
+      "source": "36氪",
+      "url": "https://36kr.com/newsflashes/3896657327769473",
+      "subCategory": "大模型"
+    },
     {
       "title": "出版商与作家集体起诉谷歌盗用版权内容训练Gemini，内部文件曾预警千亿罚款风险",
       "summary": "包括阿歇特出版集团、圣智集团在内的出版商及作家联合起诉谷歌，指控其未经授权使用Google Books等版权作品训练Gemini并删改版权信息，谷歌内部文件曾预警潜在数百亿至数千亿美元罚款。",
@@ -141,15 +168,6 @@
       "subCategory": "具身智能"
     },
     {
-      "id": "ai-20260715-005",
-      "title": "OpenAI Eases GPT-5.6 Usage Limits, Keeps Weekly Caps",
-      "summary": "OpenAI临时取消Codex与ChatGPT Work在Plus、Business、Pro套餐下的五小时用量窗口限制，但保留每周上限，并为约700万相关账户发放可留存使用的额度重置；因配额统计问题，上下文长度暂男37.2万token降至27.2万token。",
-      "publishedAt": "2026-07-14T12:14:00+02:00",
-      "source": "Winbuzzer",
-      "url": "https://winbuzzer.com/2026/07/14/openai-eases-gpt-56-timing-limits-keeps-weekly-caps-xcxwbn/",
-      "subCategory": "大模型"
-    },
-    {
       "id": "ai-20260714-011",
       "title": "LibTV Agent 打造工作流生态，重塑创作者生产力",
       "summary": "AI视频平台LibTV推出Agent与Skill Hub功能，将上百种专业视频工作流转化为可直接调用的技能，用户输入需求后由Agent自动构建画布与生成链路，并提供故事板视图、自查修复及双语字幕输出等功能。",
@@ -213,9 +231,18 @@
       "subCategory": "开源模型"
     },
     {
+      "id": "ai-20260715-005",
+      "title": "OpenAI Eases GPT-5.6 Usage Limits, Keeps Weekly Caps",
+      "summary": "OpenAI临时取消Codex与ChatGPT Work在Plus、Business、Pro套餐下的五小时用量窗口限制，但保留每周上限，并为约700万相关账户发放可留存使用的额度重置；因配额统计问题，上下文长度暂甧37.2万token降至27.2万token。",
+      "publishedAt": "2026-07-14T12:14:00+02:00",
+      "source": "Winbuzzer",
+      "url": "https://winbuzzer.com/2026/07/14/openai-eases-gpt-56-timing-limits-keeps-weekly-caps-xcxwbn/",
+      "subCategory": "大模型"
+    },
+    {
       "id": "ai-20260714-005",
       "title": "爱诗科技完成29.8亿元C轮融资，阿里巴巴领投C+轮",
-      "summary": "AI视频生成公司爱诗科技宣布完成总额29.8亿元的C轮融资，其中C+轮由阿里巴巴领投，另有十余家国内外机构跟投。资金将用于视频生成基础模型、实时世界模型研发及全球化拓展，旗下产品PixVerse全球用户已超1.5亿。",
+      "summary": "AI视频生成公司爱诗科技宣布完成总额29.8亿元的C轮融资，其中C+轮由阿里巴巴领投，另有十余家国内外机构跟投。资金将用于视频生成基础模型、实时世界模型研发及全球化拓展，旗下产品PixVerse全球用户已衧1.5亿。",
       "publishedAt": "2026-07-14T10:15:00+08:00",
       "source": "新浪财经",
       "url": "https://finance.sina.com.cn/tech/shenji/2026-07-14/doc-inihtrnn5386299.shtml",
@@ -229,6 +256,15 @@
       "source": "IT之家",
       "url": "https://www.ithome.com/0/976/271.htm",
       "subCategory": "大模型"
+    },
+    {
+      "id": "ai-20260715-006",
+      "title": "How to Debug Coding Agents with LangSmith Traces",
+      "summary": "LangChain发文介绍如何用LangSmith统一追踪Claude Code、Cursor、Copilot等不同AI编程Agent的调用日志，帮助开发者定位模型调用、工具使用与子智能体环节中的错误根源，并将排查经验转化为可在团队内复用的规则。",
+      "publishedAt": "2026-07-14",
+      "source": "LangChain Blog",
+      "url": "https://www.langchain.com/blog/your-coding-agents-are-a-black-box-heres-how-to-crack-them-open",
+      "subCategory": "Agent"
     },
     {
       "id": "ai-20260715-003",
@@ -247,15 +283,6 @@
       "source": "Anthropic",
       "url": "https://www.anthropic.com/news/canadian-ai-research",
       "subCategory": "大模型"
-    },
-    {
-      "id": "ai-20260715-006",
-      "title": "How to Debug Coding Agents with LangSmith Traces",
-      "summary": "LangChain发文介绍如何用LangSmith统一追踪Claude Code、Cursor、Copilot等不同AI编程Agent的调用日志，帮助开发者定位模型调用、工具使用与子智能体环节中的错误根源，并将排查经验转化为可在团队内复用的规则。",
-      "publishedAt": "2026-07-14",
-      "source": "LangChain Blog",
-      "url": "https://www.langchain.com/blog/your-coding-agents-are-a-black-box-heres-how-to-crack-them-open",
-      "subCategory": "Agent"
     },
     {
       "id": "ai-20260714-007",
@@ -286,7 +313,7 @@
     },
     {
       "id": "ai-20260714-003",
-      "title": "Agent要数量也要脑子！浪潮信息一边单柜养4万Agent，一边让大模型组队答题",
+      "title": "Agent要数量也要脑子！浪潮信息一边单柜兾4万Agent，一边让大模型组队答题",
       "summary": "浪潮信息推出CPU原生液冷服务器机柜，单柜可同步支撑超4万个Agent运行，为此前方案的40倍；同时发布多模型融合方案，让多个大模型并行处理任务并由共识模型评估结果，在DRACO测试中取得53.9%的表现，超过候选池中任一单一模型。配套的元脑SD200超节点将token生成时延降至4.77毫秒，为国内首个跌破5毫秒的方案。",
       "publishedAt": "2026-07-13T19:59:57+08:00",
       "source": "量子位",
@@ -303,7 +330,7 @@
       "subCategory": "Agent"
     },
     {
-      "title": "Claude Code砏的坑，蚂蚁安全在尝试填上",
+      "title": "Claude Code瞳的坑，蚂蚁安全在尝试填上",
       "summary": "蚂蚁安全实验室开源两大安全框架SingGuard-NSFA与SingGuard，分别用于智能体行为防护与多模态感知安全，覆盖185个风险场景，旨在应对Claude Code、OpenClaw等系统带来的新型安全风险。",
       "publishedAt": "2026-07-13T14:53:56+08:00",
       "source": "量子位",
@@ -395,7 +422,7 @@
     {
       "id": "ai-20260712-301",
       "title": "阶跃星辰发布Step Edge端侧模型全家桶",
-      "summary": "阶跃星辰推出Step Edge端侧模型系列，含基础模型、Audio、GUI、Gen四款，面向手机汽车等终端场景，基础模型在16项终端任务指标中获62.92分，GUI模型在OSWorld评测中排名第一。",
+      "summary": "阶跃星辰推出Step Edge端侧模型系列，含基础模型、Audio、GUI、Gen四款，面向手机汽车等终端场景，基础模型在16项终端任务指标中茷62.92分，GUI模型在OSWorld评测中排名第一。",
       "publishedAt": "2026-07-12",
       "source": "ITBear科技资讯",
       "url": "https://www.itbear.com.cn/html/2026-07/1441199.html",
@@ -420,31 +447,13 @@
       "subCategory": "大模型"
     },
     {
-      "title": "GPT-5.6一小时解开50年数学猜想，700词Prompt驾骕1264个子Agent",
+      "title": "GPT-5.6一小时解开50年数学猜想，700词Prompt驾骕264个子Agent",
       "summary": "OpenAI研究员称，GPT-5.6用一份700词提示词调度64个并行子Agent，将图论中的循环双重覆盖猜想转化为线性方程组求解，不到一小时完成证明，展示了动态资源分配与独立验证的Agent编排方法。",
       "publishedAt": "2026-07-11T13:30:11+08:00",
       "source": "量子位",
       "url": "https://www.qbitai.com/2026/07/447873.html",
       "subCategory": "Agent",
       "id": "ai-20260711-101"
-    },
-    {
-      "id": "ai-20260712-102",
-      "title": "Claude Code 2.1.207版更新：Bedrock/Vertex/Foundry默认开启Auto模式",
-      "summary": "Anthropic发布Claude Code 2.1.207版本，在Bedrock、Vertex AI和Foundry平台默认启用Auto模式，无需再手动设置环境变量，同时将默认模型更新为Claude Opus 4.8，并修复长文本流式输出导致终端卡顿等问题。",
-      "publishedAt": "2026-07-11",
-      "source": "Anthropic Claude Code Changelog",
-      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.207",
-      "subCategory": "AI编程"
-    },
-    {
-      "title": "Meta's Muse Spark 1.1 outperforms GLM-5.2 in coding and costs slightly less",
-      "summary": "Meta发布Muse Spark 1.1模型，编程基准得分71.3，超过智谱GLM-5.2的68.8分，单任务成本约0.26美元、低于GLM-5.2的0.37美元，幻觉率从73%降至38%，上下文窗口扩展至100万token。",
-      "publishedAt": "2026-07-11",
-      "source": "The Decoder",
-      "url": "https://the-decoder.com/metas-muse-spark-1-1-outperforms-glm-5-2-in-coding-and-costs-slightly-less/",
-      "subCategory": "大模型",
-      "id": "ai-20260711-102"
     },
     {
       "title": "OpenAI admits it \"didn't get everything quite right\" with ChatGPT Work launch and scrambles to fix UX and costs",
@@ -456,6 +465,15 @@
       "id": "ai-20260711-103"
     },
     {
+      "title": "Meta's Muse Spark 1.1 outperforms GLM-5.2 in coding and costs slightly less",
+      "summary": "Meta发布Muse Spark 1.1模型，编程基准得分71.3，超过智谱GLM-5.2的68.8分，单任务成本约0.26美元、低于GLM-5.2的0.37美元，幻觉率从73%降至38%，上下文窗口扩展至100万token。",
+      "publishedAt": "2026-07-11",
+      "source": "The Decoder",
+      "url": "https://the-decoder.com/metas-muse-spark-1-1-outperforms-glm-5-2-in-coding-and-costs-slightly-less/",
+      "subCategory": "大模型",
+      "id": "ai-20260711-102"
+    },
+    {
       "id": "ai-20260712-002",
       "title": "剑桥研究：博科圣地武装分子曾利用主流AI聊天机器人协助获取战术建议",
       "summary": "剑桥大学研究者基于对尼日利亚前博科圣地成员的访谈发现，该组织成员曾使用多款主流AI聊天机器人获取战术建议、改进爆炸物配方，并尝试规避平台安全防护机制，研究呼吁加强相关安全审查。",
@@ -465,13 +483,13 @@
       "subCategory": "论文进展"
     },
     {
-      "title": "Anthropic highlights Claude Code's in-app browser on the desktop",
-      "summary": "Anthropic为Claude Code桌面版新增内置浏览器功能，可直接访问和交互网页、文档与设计稿；浏览器运行在独立沙盒环境中，与用户个人浏览数据隔离，会话是否保留可配置，此举被视为对同类桌面端浏览器功能的跟进。",
-      "publishedAt": "2026-07-10T10:54:00-07:00",
-      "source": "9to5Mac",
-      "url": "https://9to5mac.com/2026/07/10/anthropic-highlights-claude-codes-in-app-browser-on-the-desktop/",
-      "subCategory": "AI编程",
-      "id": "ai-20260711-004"
+      "id": "ai-20260712-102",
+      "title": "Claude Code 2.1.207版更新：Bedrock/Vertex/Foundry默认开启Auto模式",
+      "summary": "Anthropic发布Claude Code 2.1.207版本，在Bedrock、Vertex AI和Foundry平台默认启用Auto模式，无需再手动设置环境变量，同时将默认模型更新为Claude Opus 4.8，并修复长文本流式输出导致终端卡顿等问题。",
+      "publishedAt": "2026-07-11",
+      "source": "Anthropic Claude Code Changelog",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.207",
+      "subCategory": "AI编程"
     },
     {
       "id": "ai-20260710-108",
@@ -548,7 +566,7 @@
     {
       "id": "ai-20260710-104",
       "title": "小米音箱升级：9 款已内置超级小爱，支持跨端多指令语控",
-      "summary": "小米宣妇9款音箱与智能屏产品完成\"超级小爱\"升级，内置大模型问答与多轮连续对话能力，支持跨端多指令语音控制，并可联动微信语音发送消息给好友。",
+      "summary": "小米宣妋9款音箱与智能屏产品完成\"超级小爱\"升级，内置大模型问答与多轮连续对话能力，支持跨端多指令语音控制，并可联动微信语音发送消息给好友。",
       "publishedAt": "2026-07-10T16:39:59+08:00",
       "source": "IT之家",
       "url": "https://www.ithome.com/0/975/166.htm",
@@ -566,7 +584,7 @@
     {
       "id": "ai-20260710-101",
       "title": "我国全国产十万卡AI超集群落成",
-      "summary": "中科曙光宣布国内首个全国产十万卡AI超集群\"曘冉8000（登峰）\"落成并接入国家超算互联网，采用国产芯片与自研互联、存储技术，已完成300余项超智融合应用优化。",
+      "summary": "中科曙光宣布国内首个全国产十万卡AI超集群\"曘冒8000（登峰）\"落成并接入国家超算互联网，采用国产芯片与自研互联、存储技术，已完成300余项超智融合应用优化。",
       "publishedAt": "2026-07-10T14:51:11+08:00",
       "source": "新华网",
       "url": "https://www.news.cn/fortune/20260710/35cd0e84f4fc4ed28c5b916a6622c747/c.html",
@@ -574,7 +592,7 @@
     },
     {
       "title": "AI华语歌，终于能听了！从零预训练十亿参数，告别「人机味」",
-      "summary": "中文AI音乐项目「歌歌AI」发布从零预训练的十亿参数模型，专门针对华语歌曲的声调、咬字与情感表达进行优化，解决此前AI华语歌曲常见的母语翐恰、咬字飘忙等问题，生成歌曲、录音制品和MV已可上架抖音、剪映、汽水音乐等平台。",
+      "summary": "中文AI音乐项目「歌歌AI」发布从零预训练的十亿参数模型，专门针对华语歌曲的声调、咬字与情感表达进行优化，解决此前AI华语歌曲常见的母语逸恰、咬字飘忙等问题，生成歌曲、录音制品和MV已可上架抖音、剪映、汽水音乐等平台。",
       "publishedAt": "2026-07-10T12:44:38+08:00",
       "source": "量子位",
       "url": "https://www.qbitai.com/2026/07/447602.html",
@@ -591,40 +609,13 @@
       "id": "ai-20260711-001"
     },
     {
-      "id": "ai-20260710-103",
-      "title": "全球首款AI智能体手机下周发布，阶跃星辰与努比亚争夺\"首发\"称号",
-      "summary": "阶跃星辰宣布将于7月13日发布AI终端品牌、智能体操作系统及首款AI智能体手机，由华勤技术代工；努比亚同期宣布将于WAIC 2026发布同类AI智能体旗舰手机。",
-      "publishedAt": "2026-07-10",
-      "source": "IT168",
-      "url": "https://mobile.it168.com/a2026/0710/6939/000006939807.shtml",
-      "subCategory": "AI应用"
-    },
-    {
-      "id": "ai-20260711-201",
-      "title": "Introducing OpenWiki Brains, general-purpose wiki memory for agents",
-      "summary": "LangChain团队发布OpenWiki Brains 0.1.0，为智能体新增可主动构建记忆的通用型wiki知识库，可连接Gmail、Notion、代码仓库、X等信源自动生成本地Markdown文件，包含面向个人场景的Personal Brain与面向代码仓库文档化的Code Brain两种模式。",
-      "publishedAt": "2026-07-10",
-      "source": "LangChain Blog",
-      "url": "https://www.langchain.com/blog/introducing-openwiki-brains-general-purpose-wiki-memory-for-agents",
-      "subCategory": "Agent"
-    },
-    {
-      "id": "ai-20260710-301",
-      "title": "清华团队发布实时交互式视频生成模型Vidu S1论文",
-      "summary": "清华大学团队提出Vidu S1，一款支持语音控制数字人的实时交互视频生成模型，可在消费级GPU上以540p分辨率、最高42帧每秒生成无限长度视频，并提供在线演示。",
-      "publishedAt": "2026-07-10",
-      "source": "Hugging Face Daily Papers",
-      "url": "https://huggingface.co/papers/2607.03118",
-      "subCategory": "AI视频"
-    },
-    {
-      "id": "ai-20260710-302",
-      "title": "Cursor 3.11上线侧边对话与会话搜索功能",
-      "summary": "Cursor发布3.11版本，新增可与主对话并行的侧边对话功能及命令面板中的会话记录搜索，并简化了项目与仓库选择器，支持在选择器内直接创建项目并连接GitHub等平台。",
-      "publishedAt": "2026-07-10",
-      "source": "Cursor",
-      "url": "https://cursor.com/changelog",
-      "subCategory": "AI编程"
+      "title": "Anthropic highlights Claude Code's in-app browser on the desktop",
+      "summary": "Anthropic为Claude Code桌面版新增内置浏览器功能，可直接访问和交互网页、文档与设计稿；浏览器运行在独立沙盒环境中，与用户个人浏览数据隔离，会话是否保留可配置，此举被视为对同类桌面端浏览器功能的跟进。",
+      "publishedAt": "2026-07-10T10:54:00-07:00",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/07/10/anthropic-highlights-claude-codes-in-app-browser-on-the-desktop/",
+      "subCategory": "AI编程",
+      "id": "ai-20260711-004"
     },
     {
       "id": "ai-20260710-003",
@@ -654,6 +645,33 @@
       "subCategory": "大模型"
     },
     {
+      "id": "ai-20260711-201",
+      "title": "Introducing OpenWiki Brains, general-purpose wiki memory for agents",
+      "summary": "LangChain团队发布OpenWiki Brains 0.1.0，为智能体新增可主动构建记忆的通用型wiki知识库，可连接Gmail、Notion、代码仓库、X等信源自动生成本地Markdown文件，包含面向个人场景的Personal Brain与面向代码仓库文档化的Code Brain两种模式。",
+      "publishedAt": "2026-07-10",
+      "source": "LangChain Blog",
+      "url": "https://www.langchain.com/blog/introducing-openwiki-brains-general-purpose-wiki-memory-for-agents",
+      "subCategory": "Agent"
+    },
+    {
+      "id": "ai-20260710-301",
+      "title": "清华团队发布实时交互式视频生成模型Vidu S1论文",
+      "summary": "清华大学团队提出Vidu S1，一款支持语音控制数字人的实时交互视频生成模型，可在消费级GPU上以540p分辨率、最高42帧每秒生成无限长度视频，并提供在线演示。",
+      "publishedAt": "2026-07-10",
+      "source": "Hugging Face Daily Papers",
+      "url": "https://huggingface.co/papers/2607.03118",
+      "subCategory": "AI视频"
+    },
+    {
+      "id": "ai-20260710-302",
+      "title": "Cursor 3.11上线侧边对话与会话搜索功能",
+      "summary": "Cursor发布3.11版本，新增可与主对话并行的侧边对话功能及命令面板中的会话记录搜索，并简化了项目与仓库选择器，支持在选择器内直接创建项目并连接GitHub等平台。",
+      "publishedAt": "2026-07-10",
+      "source": "Cursor",
+      "url": "https://cursor.com/changelog",
+      "subCategory": "AI编程"
+    },
+    {
       "id": "ai-20260709-108",
       "title": "OpenAI首席未来学家Joshua Achiam宣布离职",
       "summary": "OpenAI首席未来学家Joshua Achiam宣布将于7月24日离职，此前他领导Mission Alignment团队。此次离职是OpenAI近期一系列安全相关人员变动中的最新一例。",
@@ -681,33 +699,6 @@
       "subCategory": "具身智能"
     },
     {
-      "id": "ai-20260709-103",
-      "title": "Anthropic上线Claude使用回顾功能",
-      "summary": "Anthropic推出测试版Reflect功能，为开启记忆功能的Free、Pro及Max用户展示Claude使用时段与任务类型概览，并可设置免打扰时段与休息提醒，隐私模式对话不计入统计。",
-      "publishedAt": "2026-07-09",
-      "source": "Anthropic",
-      "url": "https://www.anthropic.com/news/reflect-with-claude",
-      "subCategory": "AI应用"
-    },
-    {
-      "id": "ai-20260710-004",
-      "title": "GitHub Copilot上线OpenAI GPT-5.6 Sol、Terra、Luna三款模型",
-      "summary": "GitHub Copilot新增OpenAI GPT-5.6系列三个版本：Sol面向复杂推理与大型代码库，Terra用于日常交互式编程，Luna提供轻量低成本辅助，在VS Code、JetBrains等平台的开放范围因订阅套餐而异。",
-      "publishedAt": "2026-07-09",
-      "source": "GitHub Changelog",
-      "url": "https://github.blog/changelog/2026-07-09-openais-gpt-5-6-sol-terra-and-luna-are-now-available-in-github-copilot/",
-      "subCategory": "AI编程"
-    },
-    {
-      "id": "ai-20260709-401",
-      "title": "Mistral Studio上线提示词与技能版本管理功能",
-      "summary": "Mistral Studio推出针对提示词与技能的版本控制功能，支持不可变版本记录、回滚、归属追踪与审计日志，帮助企业在生产环境中管理和治理AI提示资产。",
-      "publishedAt": "2026-07-09",
-      "source": "Mistral AI",
-      "url": "https://mistral.ai/news/manage-prompts-and-skills-in-studio/",
-      "subCategory": "Agent"
-    },
-    {
       "id": "ai-20260709-402",
       "title": "UST与Anthropic合作将Claude引入制造与工程场景",
       "summary": "技术服务商UST宣布在制造、半导体、汽车及物联网领域部署Claude，其iDEC平台可让Claude Code读取硬件原理图并自动生成回归测试，将验证周期从4天缩短到48小时。",
@@ -717,13 +708,13 @@
       "subCategory": "AI应用"
     },
     {
-      "id": "ai-20260709-403",
-      "title": "Meta提出长程智能体主动记忆代理研究",
-      "summary": "Meta研究团队提出主动记忆代理，用于解决长程任务中关键信息被淮没、不再影响决策的行为状态衰减问题，在Terminal-Bench 2.0上将Claude Sonnet通过率从37.6%提升至45.9%。",
+      "id": "ai-20260709-103",
+      "title": "Anthropic上线Claude使用回顾功能",
+      "summary": "Anthropic推出测试版Reflect功能，为开启记忆功能的Free、Pro及Max用户展示Claude使用时段与任务类型概览，并可设置免打扰时段与休息提醒，隐私模式对话不计入统计。",
       "publishedAt": "2026-07-09",
-      "source": "Hugging Face Daily Papers (Meta AI)",
-      "url": "https://huggingface.co/papers/2607.08716",
-      "subCategory": "论文进展"
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/news/reflect-with-claude",
+      "subCategory": "AI应用"
     }
   ]
 }
