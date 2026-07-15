@@ -3,8 +3,26 @@
   "slug": "policy",
   "title": "政策信息",
   "description": "国家与地方政策、监管动态、产业扶持与合规要求。",
-  "updatedAt": "2026-07-15T00:45:00+08:00",
+  "updatedAt": "2026-07-15T09:20:00+08:00",
   "items": [
+    {
+      "id": "policy-20260715-005",
+      "title": "US says Nvidia's H200 exports to China remain 'trivial' despite approvals",
+      "summary": "美国商务部主管工业与安全事务的副部长杰弗里·凯斯勒在众议院外交事务委员会作证时表示，英伟达H200芯片对华出口数量很少、微不足道，商务部今年已批准约10家中国企业（含腾讯、字节跳动）购买该芯片，但目前实际交付有限。",
+      "publishedAt": "2026-07-15T04:33:00+08:00",
+      "source": "South China Morning Post",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3360582/us-says-nvidias-h200-exports-china-remain-trivial-despite-approvals",
+      "subCategory": "半导体出口管制"
+    },
+    {
+      "id": "policy-20260715-004",
+      "title": "自然资源部：五方面改革完善自然资源资产管理",
+      "summary": "中共中央办公厅、国务院办公厅近日印发关于完善自然资源资产管理制度体系的意见，自然资源部副部长张文彤介绍，改革将从摸清资产家底、健全产权制度、促进资产保值增值、实现高效配置利用、维护权益五方面推进，目标到2030年管理体系更加健全。",
+      "publishedAt": "2026-07-14T19:56:44+08:00",
+      "source": "科技日报",
+      "url": "https://www.stdaily.com/web/gdxw/2026-07/14/content_547190.html",
+      "subCategory": "产业政策"
+    },
     {
       "id": "policy-20260714-104",
       "title": "央行公告将开展1.4万亿元买断式逆回购操作",
@@ -13,6 +31,33 @@
       "source": "中国人民银行（每经网报道）",
       "url": "https://www.nbd.com.cn/articles/2026-07-14/4471612.html",
       "subCategory": "金融监管"
+    },
+    {
+      "id": "policy-20260715-001",
+      "title": "FTC Secures Major Settlement with Caremark, Resolving Antitrust Case Against Second Drug Middleman",
+      "summary": "美国联邦贸易委员会与药品福利管理商Caremark及其关联公司达成反垄断和解，要求其调整业务模式、降低患者自付费用并提高透明度，未来十年内预计为消费者节省最多85亿美元并释放另外45亿美元即时回扣。",
+      "publishedAt": "2026-07-14T14:40:25-04:00",
+      "source": "Federal Trade Commission",
+      "url": "https://www.ftc.gov/news-events/news/press-releases/2026/07/ftc-secures-major-settlement-caremark-resolving-antitrust-case-against-second-drug-middleman",
+      "subCategory": "反垄断"
+    },
+    {
+      "id": "policy-20260715-002",
+      "title": "UK launches Call for Input on deepening trade relationships",
+      "summary": "英国政府就深化与印度尼西亚、菲律宾、阿联酋和乌拉圭的贸易关系启动公众意见征集，探讨相关国家加入《全面与进步跨太平洋伙伴关系协定》或达成双边协定的可能性，征询意见截止至9月14日。",
+      "publishedAt": "2026-07-14",
+      "source": "Department for Business and Trade",
+      "url": "https://www.gov.uk/government/news/uk-launches-call-for-input-on-deepening-trade-relationships",
+      "subCategory": "跨境贸易"
+    },
+    {
+      "id": "policy-20260715-003",
+      "title": "Mansion House 2026",
+      "summary": "英国财政大臣在年度市政厅演讲中公布金融服务业增长战略进展，包括面向中小企业的贷款方案、金融服务业人工智能应用独立报告、支付服务监管现代化征询及围栏改革咨询文件等一揽子措施。",
+      "publishedAt": "2026-07-14",
+      "source": "HM Treasury",
+      "url": "https://www.gov.uk/government/collections/mansion-house-2026",
+      "subCategory": "海外政策"
     },
     {
       "id": "policy-20260714-102",
@@ -40,6 +85,42 @@
       "source": "Federal Trade Commission",
       "url": "https://www.ftc.gov/news-events/news/press-releases/2026/07/ftc-endorses-ohio-supreme-court-proposal-weaken-abas-law-school-accreditation-monopoly",
       "subCategory": "反垄断"
+    },
+    {
+      "id": "policy-20260714-002",
+      "title": "\"中国首个禁售燃油车省份\"，为何是海南？",
+      "summary": "根据海南新近发布的\"十五五\"生态文明试验区规划，海南将于2030年实现全域禁售燃油车，公共服务和社会运营领域新增及更换车辆清洁能源占比、私人用车新能源占比均达100%，新能源汽车保有量占比将从2025年的23.75%提升至45%，车桩比保持2.5比1以下。",
+      "publishedAt": "2026-07-13T17:34:00+08:00",
+      "source": "澎湃新闻",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33575406",
+      "subCategory": "新能源政策"
+    },
+    {
+      "id": "policy-20260713-006",
+      "title": "工信部等四部门印发《关于推动互联网基础资源高质量发展的指导意见》",
+      "summary": "工业和信息化部、中央网信办、国家发展改革委、国家数据局联合印发指导意见，提出6方面16项任务，明确到2030年互联网基础资源高质量发展实现体系化突破、到2035年建成新型互联网基础设施，涉及IP地址、域名、卫星互联网等领域。",
+      "publishedAt": "2026-07-13T16:51:00+08:00",
+      "source": "中国新闻网",
+      "url": "https://www.chinanews.com.cn/gn/2026/07-13/10658414.shtml",
+      "subCategory": "数字经济"
+    },
+    {
+      "id": "policy-20260713-002",
+      "title": "整治\"内卷式\"竞争，一批企业被列入严重违法失信名单",
+      "summary": "市场监管总局公布近期严重违法失信名单案例，福建某卫浴企业因产品耐腐蚀等指标不达标、宁夏某塑料加工点无证生产食品用塑料瓶、天津某生物科技公司虚假宣传细胞再生功效等被列入名单。",
+      "publishedAt": "2026-07-13T10:23:00+08:00",
+      "source": "国家市场监督管理总局",
+      "url": "https://www.samr.gov.cn/xw/mtjj/art/2026/art_78cf8b368ae3451ba342ed36430ad8a6.html",
+      "subCategory": "反垄断"
+    },
+    {
+      "id": "policy-20260713-001",
+      "title": "市场监管总局2026年上半年发布101项国家计量技术规范",
+      "summary": "市场监管总局发布信息显示，2026年上半年我国批准重组40个国家专业计量技术委员会，发布101项国家计量技术标准，同比增长23%，新增碳排放计量、数字计量及新能源汽车电池检测等标准。",
+      "publishedAt": "2026-07-13T10:00:00+08:00",
+      "source": "国家市场监督管理总局",
+      "url": "https://www.samr.gov.cn/xw/sj/art/2026/art_bcd1c28d953f4b79ab354cf8ebed7ef2.html",
+      "subCategory": "产业政策"
     },
     {
       "id": "policy-20260713-007",
@@ -87,42 +168,6 @@
       "subCategory": "金融监管"
     },
     {
-      "id": "policy-20260714-002",
-      "title": "\"中国首个禁售燃油车省份\"，为何是海南？",
-      "summary": "根据海南新近发布的\"十五五\"生态文明试验区规划，海南将于2030年实现全域禁售燃油车，公共服务和社会运营领域新增及更换车辆清洁能源占比、私人用车新能源占比均达100%，新能源汽车保有量占比将从2025年的23.75%提升至45%，车桩比保持2.5比1以下。",
-      "publishedAt": "2026-07-13T17:34:00+08:00",
-      "source": "澎湃新闻",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33575406",
-      "subCategory": "新能源政策"
-    },
-    {
-      "id": "policy-20260713-006",
-      "title": "工信部等四部门印发《关于推动互联网基础资源高质量发展的指导意见》",
-      "summary": "工业和信息化部、中央网信办、国家发展改革委、国家数据局联合印发指导意见，提出6方面16项任务，明确到2030年互联网基础资源高质量发展实现体系化突破、到2035年建成新型互联网基础设施，涉及IP地址、域名、卫星互联网等领域。",
-      "publishedAt": "2026-07-13T16:51:00+08:00",
-      "source": "中国新闻网",
-      "url": "https://www.chinanews.com.cn/gn/2026/07-13/10658414.shtml",
-      "subCategory": "数字经济"
-    },
-    {
-      "id": "policy-20260713-002",
-      "title": "整治\"内卷式\"竞争，一批企业被列入严重违法失信名单",
-      "summary": "市场监管总局公布近期严重违法失信名单案例，福建某卫浴企业因产品耐腐蚀等指标不达标、宁夏某塑料加工点无证生产食品用塑料瓶、天津某生物科技公司虚假宣传细胞再生功效等被列入名单。",
-      "publishedAt": "2026-07-13T10:23:00+08:00",
-      "source": "国家市场监督管理总局",
-      "url": "https://www.samr.gov.cn/xw/mtjj/art/2026/art_78cf8b368ae3451ba342ed36430ad8a6.html",
-      "subCategory": "反垄断"
-    },
-    {
-      "id": "policy-20260713-001",
-      "title": "市场监管总局2026年上半年发布101项国家计量技术规范",
-      "summary": "市场监管总局发布信息显示，2026年上半年我国批准重组40个国家专业计量技术委员会，发布101项国家计量技术标准，同比增长23%，新增碳排放计量、数字计量及新能源汽车电池检测等标准。",
-      "publishedAt": "2026-07-13T10:00:00+08:00",
-      "source": "国家市场监督管理总局",
-      "url": "https://www.samr.gov.cn/xw/sj/art/2026/art_bcd1c28d953f4b79ab354cf8ebed7ef2.html",
-      "subCategory": "产业政策"
-    },
-    {
       "id": "policy-20260713-104",
       "title": "国务院关于印发《国民健康“十五五”规划》的通知",
       "summary": "国务院印发《国民健康“十五五”规划》（国发〔2026〕23号），提出到2030年人均预期寿命达到80岁，主要健康指标进入高收入国家水平，15岁以上人群吸烟率降至20%，并部署医保医药协同、数字健康转型等重点任务。",
@@ -159,6 +204,15 @@
       "subCategory": "海外政策"
     },
     {
+      "id": "policy-20260714-001",
+      "title": "国家发展改革委安排1亿元支持浙江台风灾害灾后应急恢复",
+      "summary": "国家发展改革委紧急安排1亿元中央预算内投资，支持浙江省台风灾害灾后应急恢复，资金主要用于因灾损毁道路、水利设施及学校、医院等公共服务设施的应急恢复。第9号台风7月11日至12日两次登陆浙江，波及台州玉环、温州乐清等地，国家减灾委已于7月12日启动国家四级救灾应急响应。",
+      "publishedAt": "2026-07-12T16:51:21+08:00",
+      "source": "新华网",
+      "url": "https://www.news.cn/politics/20260712/e26c6cb8e56d4e6dafcabd54ff1f0586/c.html",
+      "subCategory": "产业政策"
+    },
+    {
       "id": "policy-20260713-003",
       "title": "Joint statement on the tenth anniversary of the Philippines-China South China Sea Arbitral Tribunal Award",
       "summary": "英国联合美国、澳大利亚、日本等十余国发表联合声明，纪念南海仲裁裁决十周年，重申裁决具有终局性和法律约束力，反对中国基于历史性权利等提出的扩张性海洋主张。",
@@ -177,15 +231,6 @@
       "subCategory": "跨境贸易"
     },
     {
-      "id": "policy-20260714-001",
-      "title": "国家发展改革委安排1亿元支持浙江台风灾害灾后应急恢复",
-      "summary": "国家发展改革委紧急安排1亿元中央预算内投资，支持浙江省台风灾害灾后应急恢复，资金主要用于因灾损毁道路、水利设施及学校、医院等公共服务设施的应急恢复。第9号台风7月11日至12日两次登陆浙江，波及台州玉环、温州乐清等地，国家减灾委已于7月12日启动国家四级救灾应急响应。",
-      "publishedAt": "2026-07-12T16:51:21+08:00",
-      "source": "新华网",
-      "url": "https://www.news.cn/politics/20260712/e26c6cb8e56d4e6dafcabd54ff1f0586/c.html",
-      "subCategory": "产业政策"
-    },
-    {
       "id": "policy-20260712-105",
       "title": "国家网信办将在2026年APEC数字周期间举办系列活动",
       "summary": "国家网信办将于7月23日至29日在成都举办2026年APEC数字周系列活动，设人工智能高级别论坛等专题，围绕数字经济、人工智能等议题与APEC成员开展交流。",
@@ -201,69 +246,6 @@
       "publishedAt": "2026-07-11T11:24:00+08:00",
       "source": "国务院",
       "url": "https://www.mofcom.gov.cn/xwfb/ldrhd/art/2026/art_81e4b36488254d309ab35ea45e9090d7.html",
-      "subCategory": "产业政策"
-    },
-    {
-      "id": "policy-20260712-102",
-      "title": "中国证监会与香港证监会举行第十七次两地执法合作工作会议",
-      "summary": "中国证监会与香港证监会举行第十七次两地执法合作工作会议，双方通报近期市场违规及新型作案手法，就打击跨境违法违规行为、加强情报交流深入探讨。",
-      "publishedAt": "2026-07-10",
-      "source": "中国证监会",
-      "url": "https://www.csrc.gov.cn/csrc/c100028/c7644622/content.shtml",
-      "subCategory": "金融监管"
-    },
-    {
-      "id": "policy-20260712-103",
-      "title": "Commission preliminarily finds the addictive design of Instagram and Facebook in breach of the Digital Services Act",
-      "summary": "欧盟委员会初步认定Meta旗下Instagram和Facebook的成瘾性设计功能违反《数字服务法》，要求取消无限滚动、自动播放等默认设置，若最终认定成立，Meta最高可处以其全球年营业额6%的罚款。",
-      "publishedAt": "2026-07-10",
-      "source": "欧盟委员会",
-      "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1579",
-      "subCategory": "海外政策"
-    },
-    {
-      "id": "policy-20260710-103",
-      "title": "Roadmap for collaboration UK-Spain",
-      "summary": "英国财政大臣里夫斯与西班牙第一副首相夸尔波7月9日在布鲁塞尔签署英西合作路线图，聚焦服务贸易与商务人员流动、专业资格互认、战略投资、经济安全及借助人工智能助力中小企业发展等合作领域。",
-      "publishedAt": "2026-07-10",
-      "source": "英国财政部",
-      "url": "https://www.gov.uk/government/news/roadmap-for-collaboration-uk-spain",
-      "subCategory": "海外政策"
-    },
-    {
-      "id": "policy-20260711-004",
-      "title": "SEC Office of Municipal Securities Updates FAQs for Registration of Municipal Advisors",
-      "summary": "美国证券交易委员会市政证券办公室更新市政顾问注册常见问题解答，就P3市场参与者是否须注册为市政顾问、远程办公地点是否构成需披露的\"办公室\"，以及市政证券定价咨询中的记录保存义务等三方面提供进一步指引。",
-      "publishedAt": "2026-07-10",
-      "source": "U.S. Securities and Exchange Commission",
-      "url": "https://www.sec.gov/newsroom/press-releases/2026-66-sec-office-municipal-securities-updates-faqs-registration-municipal-advisors",
-      "subCategory": "金融监管"
-    },
-    {
-      "id": "policy-20260711-101",
-      "title": "国家能源局关于印发《能源领域节能降碳行动计划（2026—2028年）》的通知",
-      "summary": "国家能源局印发行动计划，提出到2028年非化石能源消费比重年均提升约1个百分点，推动煤炭、油气、煤电等行业节能降碳，并支持建成一批零碳低碳矿区和零碳园区。",
-      "publishedAt": "2026-07-10",
-      "source": "国家能源局",
-      "url": "https://www.nea.gov.cn/20260710/4acf5873e20149cdbc52c709b16b30ff/c.html",
-      "subCategory": "新能源政策"
-    },
-    {
-      "id": "policy-20260711-102",
-      "title": "UK financial system strengthened with new safeguards for major technology providers",
-      "summary": "英国政府将微软、谷歌云、亚马逊云和甲骨文四家云服务商列为关键第三方，自7月13日起接受英格兰银行、审慎监管局及金融行为监管局联合监管，以增强金融体系对科技服务商的韧性。",
-      "publishedAt": "2026-07-10",
-      "source": "GOV.UK",
-      "url": "https://www.gov.uk/government/news/uk-financial-system-strengthened-with-new-safeguards-for-major-technology-providers",
-      "subCategory": "金融监管"
-    },
-    {
-      "id": "policy-20260711-201",
-      "title": "关于第四监管周期省级电网输配电价、区域电网输电价格及有关事项的通知（发改价格〔2026〕1077号）",
-      "summary": "国家发展改革委印发发改价格〔2026〕1077号文件，核定第四监管周期省级电网输配电价及区域电网输电价格，新电价自2026年8月1日起执行，适用于国家电网、南方电网等电网企业，并要求相关企业按年报送成本数据。",
-      "publishedAt": "2026-07-10",
-      "source": "中华人民共和国国家发展和改革委员会",
-      "url": "https://www.ndrc.gov.cn/xxgk/zcfb/tz/202607/t20260710_1406431.html",
       "subCategory": "产业政策"
     },
     {
@@ -339,6 +321,87 @@
       "subCategory": "AI监管"
     },
     {
+      "id": "policy-20260712-102",
+      "title": "中国证监会与香港证监会举行第十七次两地执法合作工作会议",
+      "summary": "中国证监会与香港证监会举行第十七次两地执法合作工作会议，双方通报近期市场违规及新型作案手法，就打击跨境违法违规行为、加强情报交流深入探讨。",
+      "publishedAt": "2026-07-10",
+      "source": "中国证监会",
+      "url": "https://www.csrc.gov.cn/csrc/c100028/c7644622/content.shtml",
+      "subCategory": "金融监管"
+    },
+    {
+      "id": "policy-20260712-103",
+      "title": "Commission preliminarily finds the addictive design of Instagram and Facebook in breach of the Digital Services Act",
+      "summary": "欧盟委员会初步认定Meta旗下Instagram和Facebook的成瘾性设计功能违反《数字服务法》，要求取消无限滚动、自动播放等默认设置，若最终认定成立，Meta最高可处以其全球年营业额6%的罚款。",
+      "publishedAt": "2026-07-10",
+      "source": "欧盟委员会",
+      "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1579",
+      "subCategory": "海外政策"
+    },
+    {
+      "id": "policy-20260710-103",
+      "title": "Roadmap for collaboration UK-Spain",
+      "summary": "英国财政大臣里夫斯与西班牙第一副首相夸尔波7月9日在布鲁塞尔签署英西合作路线图，聚焦服务贸易与商务人员流动、专业资格互认、战略投资、经济安全及借助人工智能助力中小企业发展等合作领域。",
+      "publishedAt": "2026-07-10",
+      "source": "英国财政部",
+      "url": "https://www.gov.uk/government/news/roadmap-for-collaboration-uk-spain",
+      "subCategory": "海外政策"
+    },
+    {
+      "id": "policy-20260711-004",
+      "title": "SEC Office of Municipal Securities Updates FAQs for Registration of Municipal Advisors",
+      "summary": "美国证券交易委员会市政证券办公室更新市政顾问注册常见问题解答，就P3市场参与者是否须注册为市政顾问、远程办公地点是否构成需披露的\"办公室\"，以及市政证券定价咨询中的记录保存义务等三方面提供进一步指引。",
+      "publishedAt": "2026-07-10",
+      "source": "U.S. Securities and Exchange Commission",
+      "url": "https://www.sec.gov/newsroom/press-releases/2026-66-sec-office-municipal-securities-updates-faqs-registration-municipal-advisors",
+      "subCategory": "金融监管"
+    },
+    {
+      "id": "policy-20260711-101",
+      "title": "国家能源局关于印发《能源领域节能降碳行动计划（2026—2028年）》的通知",
+      "summary": "国家能源局印发行动计划，提出到2028年非化石能源消费比重年均提升约1个百分点，推动煤炭、油气、煤电等行业节能降碳，并支持建成一批零碳低碳矿区和零碳园区。",
+      "publishedAt": "2026-07-10",
+      "source": "国家能源局",
+      "url": "https://www.nea.gov.cn/20260710/4acf5873e20149cdbc52c709b16b30ff/c.html",
+      "subCategory": "新能源政策"
+    },
+    {
+      "id": "policy-20260711-102",
+      "title": "UK financial system strengthened with new safeguards for major technology providers",
+      "summary": "英国政府将微软、谷歌云、亚马逊云和甲骨文四家云服务商列为关键第三方，自7月13日起接受英格兰银行、审慎监管局及金融行为监管局联合监管，以增强金融体系对科技服务商的韧性。",
+      "publishedAt": "2026-07-10",
+      "source": "GOV.UK",
+      "url": "https://www.gov.uk/government/news/uk-financial-system-strengthened-with-new-safeguards-for-major-technology-providers",
+      "subCategory": "金融监管"
+    },
+    {
+      "id": "policy-20260711-201",
+      "title": "关于第四监管周期省级电网输配电价、区域电网输电价格及有关事项的通知（发改价格〔2026〕1077号）",
+      "summary": "国家发展改革委印发发改价格〔2026〕1077号文件，核定第四监管周期省级电网输配电价及区域电网输电价格，新电价自2026年8月1日起执行，适用于国家电网、南方电网等电网企业，并要求相关企业按年报送成本数据。",
+      "publishedAt": "2026-07-10",
+      "source": "中华人民共和国国家发展和改革委员会",
+      "url": "https://www.ndrc.gov.cn/xxgk/zcfb/tz/202607/t20260710_1406431.html",
+      "subCategory": "产业政策"
+    },
+    {
+      "id": "policy-20260709-001",
+      "title": "央行货币政策委员会二季度例会：加大逆周期调节力度",
+      "summary": "中国人民银行货币政策委员会2026年第二季度（总第113次）例会研究下阶段货币政策思路，提出继续实施适度宽松的货币政策，加大逆周期和跨周期调节力度，加强对扩大内需、科技创新、中小微企业等重点领域的金融支持，保持流动性充裕。",
+      "publishedAt": "2026-07-09T10:53:25+08:00",
+      "source": "新华网",
+      "url": "http://www.xinhuanet.com/20260709/b438cbb475054f469fc0e7eced4e4e3a/c.html",
+      "subCategory": "金融监管"
+    },
+    {
+      "id": "policy-20260710-001",
+      "title": "商务部等9部门联合印发《关于加快零售业创新发展的意见》",
+      "summary": "商务部会同国家发展改革委、财政部等9部门印发意见，提出到2030年基本形成布局合理、供给优质、业态多元、竞争有序的现代零售体系，并从强化反垄断审查、规范价格行为、线上线下一体化监管等方面优化零售市场竞争环境。",
+      "publishedAt": "2026-07-09T09:22:00+08:00",
+      "source": "商务部",
+      "url": "https://www.chinanews.com.cn/cj/2026/07-09/10655614.shtml",
+      "subCategory": "产业政策"
+    },
+    {
       "id": "policy-20260710-104",
       "title": "Fact Sheet: President Donald J. Trump Adjusts Imports of Commercial Aircraft, Jet Engines, and Aircraft and Engine Parts into the United States",
       "summary": "美国总统特朗普7月9日依据《贸易扩展法》第232条签署公告，指示商务部长与贸易代表就商用飞机、喷气发动机及相关零部件进口与贸易伙伴展开谈判，以应对认定存在的国家安全风险，谈判180天内无效可采取后续行动。",
@@ -357,21 +420,21 @@
       "subCategory": "金融监管"
     },
     {
-      "id": "policy-20260709-001",
-      "title": "央行货币政策委员会二季度例会：加大逆周期调节力度",
-      "summary": "中国人民银行货币政策委员会2026年第二季度（总第113次）例会研究下阶段货币政策思路，提出继续实施适度宽松的货币政策，加大逆周期和跨周期调节力度，加强对扩大内需、科技创新、中小微企业等重点领域的金融支持，保持流动性充裕。",
-      "publishedAt": "2026-07-09T10:53:25+08:00",
-      "source": "新华网",
-      "url": "http://www.xinhuanet.com/20260709/b438cbb475054f469fc0e7eced4e4e3a/c.html",
-      "subCategory": "金融监管"
+      "id": "policy-20260708-102",
+      "title": "四部门印发《关于加快推进“人工智能+人社”应用发展的实施意见》",
+      "summary": "人力资源社会保障部、国家发展改革委、工业和信息化部、国家数据局联合印发实施意见，提出到2026年建设“人工智能+人社”应用基础设施并打造20个应用场景，到2030年实现人工智能在人社领域普遍应用。",
+      "publishedAt": "2026-07-08T16:48:00+08:00",
+      "source": "新浪新闻",
+      "url": "https://news.sina.com.cn/o/2026-07-08/doc-inihatty8047386.shtml",
+      "subCategory": "数字经济"
     },
     {
-      "id": "policy-20260710-001",
-      "title": "商务部等9部门联合印发《关于加快零售业创新发展的意见》",
-      "summary": "商务部会同国家发展改革委、财政部等9部门印发意见，提出到2030年基本形成布局合理、供给优质、业态多元、竞争有序的现代零售体系，并从强化反垄断审查、规范价格行为、线上线下一体化监管等方面优化零售市场竞争环境。",
-      "publishedAt": "2026-07-09T09:22:00+08:00",
-      "source": "商务部",
-      "url": "https://www.chinanews.com.cn/cj/2026/07-09/10655614.shtml",
+      "id": "policy-20260708-901",
+      "title": "文化和旅游部印发《旅游强国建设\"十五五\"规划》",
+      "summary": "经国务院批复，文化和旅游部印发《旅游强国建设\"十五五\"规划》，提出到2030年国内出游人次达83亿、总花费达7.7万亿元、入境旅游人次达1.9亿、总花费超1500亿美元，并部署优化旅游空间布局、丰富优质供给等重点任务。",
+      "publishedAt": "2026-07-08T00:10:00+08:00",
+      "source": "中华人民共和国文化和旅游部",
+      "url": "https://www.mct.gov.cn/whzx/whyw/202607/t20260708_966448.htm",
       "subCategory": "产业政策"
     },
     {
@@ -447,22 +510,40 @@
       "subCategory": "金融监管"
     },
     {
-      "id": "policy-20260708-102",
-      "title": "四部门印发《关于加快推进“人工智能+人社”应用发展的实施意见》",
-      "summary": "人力资源社会保障部、国家发展改革委、工业和信息化部、国家数据局联合印发实施意见，提出到2026年建设“人工智能+人社”应用基础设施并打造20个应用场景，到2030年实现人工智能在人社领域普遍应用。",
-      "publishedAt": "2026-07-08T16:48:00+08:00",
-      "source": "新浪新闻",
-      "url": "https://news.sina.com.cn/o/2026-07-08/doc-inihatty8047386.shtml",
-      "subCategory": "数字经济"
+      "id": "policy-20260707-005",
+      "title": "市场监管总局：上半年深入整治\"内卷式\"竞争取得积极进展",
+      "summary": "市场监管总局通报，上半年部署16项专项行动、明确39项预期成果，查结医药、公用事业等领域垄断案件12件，高效审结汽车、光伏、锂电池行业经营者集中案52件，配套规章已于2月1日起正式实施。",
+      "publishedAt": "2026-07-07T21:34:00+08:00",
+      "source": "国家市场监督管理总局（东方财富网报道）",
+      "url": "https://finance.eastmoney.com/a/202607073797088570.html",
+      "subCategory": "反垄断"
     },
     {
-      "id": "policy-20260708-901",
-      "title": "文化和旅游部印发《旅游强国建设\"十五五\"规划》",
-      "summary": "经国务院批复，文化和旅游部印发《旅游强国建设\"十五五\"规划》，提出到2030年国内出游人次达83亿、总花费达7.7万亿元、入境旅游人次达1.9亿、总花费超1500亿美元，并部署优化旅游空间布局、丰富优质供给等重点任务。",
-      "publishedAt": "2026-07-08T00:10:00+08:00",
-      "source": "中华人民共和国文化和旅游部",
-      "url": "https://www.mct.gov.cn/whzx/whyw/202607/t20260708_966448.htm",
-      "subCategory": "产业政策"
+      "id": "policy-20260707-001",
+      "title": "证监会对安某编造传播涉中公教育虚假信息立案调查",
+      "summary": "证监会查明，网名“南京路宝宝总”的投资者安某于7月2日编造传播涉上市公司中公教育的虚假误导性信息，严重扰乱证券市场秩序，证监会已对其立案调查，后续将依法追究其法律责任，涉嫌犯罪的将移送公安机关。",
+      "publishedAt": "2026-07-07T21:10:00+08:00",
+      "source": "证券时报",
+      "url": "https://www.stcn.com/article/detail/4003119.html",
+      "subCategory": "金融监管"
+    },
+    {
+      "id": "policy-20260707-006",
+      "title": "市场监管总局：将组织开展2026年度公平竞争审查抽查 切实强化公平竞争审查刚性约束",
+      "summary": "市场监管总局表示，将近期组织开展2026年度公平竞争审查抽查，重点关注企业反映强烈的市场竞争干预问题及地方违规财政奖补措施，综合运用抽查、约谈、通报等工具强化审查刚性约束。",
+      "publishedAt": "2026-07-07T20:57:00+08:00",
+      "source": "国家市场监督管理总局（东方财富网报道）",
+      "url": "https://caifuhao.eastmoney.com/news/20260707205744269928300",
+      "subCategory": "反垄断"
+    },
+    {
+      "id": "policy-20260707-101",
+      "title": "国家金融监督管理总局、上海市人民政府出台多项措施加快建设上海国际再保险中心",
+      "summary": "国家金融监督管理总局与上海市人民政府联合印发《关于加快上海国际再保险中心建设的若干措施》，共8条，涵盖机构布局、统一登记、平台建设、能力供给、跨境合作、监管效能等方面，推动上海再保险市场高水平开放发展。",
+      "publishedAt": "2026-07-07T20:02:00+08:00",
+      "source": "新华网",
+      "url": "https://www.news.cn/fortune/20260707/3fbe0a4a6025418ab7008cb811c89b61/c.html",
+      "subCategory": "金融监管"
     },
     {
       "id": "policy-20260707-002",
@@ -501,39 +582,30 @@
       "subCategory": "海外政策"
     },
     {
-      "id": "policy-20260707-005",
-      "title": "市场监管总局：上半年深入整治\"内卷式\"竞争取得积极进展",
-      "summary": "市场监管总局通报，上半年部署16项专项行动、明确39项预期成果，查结医药、公用事业等领域垄断案件12件，高效审结汽车、光伏、锂电池行业经营者集中案52件，配套规章已于2月1日起正式实施。",
-      "publishedAt": "2026-07-07T21:34:00+08:00",
-      "source": "国家市场监督管理总局（东方财富网报道）",
-      "url": "https://finance.eastmoney.com/a/202607073797088570.html",
-      "subCategory": "反垄断"
-    },
-    {
-      "id": "policy-20260707-001",
-      "title": "证监会对安某编造传播涉中公教育虚假信息立案调查",
-      "summary": "证监会查明，网名“南京路宝宝总”的投资者安某于7月2日编造传播涉上市公司中公教育的虚假误导性信息，严重扰乱证券市场秩序，证监会已对其立案调查，后续将依法追究其法律责任，涉嫌犯罪的将移送公安机关。",
-      "publishedAt": "2026-07-07T21:10:00+08:00",
-      "source": "证券时报",
-      "url": "https://www.stcn.com/article/detail/4003119.html",
-      "subCategory": "金融监管"
-    },
-    {
-      "id": "policy-20260707-006",
-      "title": "市场监管总局：将组织开展2026年度公平竞争审查抽查 切实强化公平竞争审查刚性约束",
-      "summary": "市场监管总局表示，将近期组织开展2026年度公平竞争审查抽查，重点关注企业反映强烈的市场竞争干预问题及地方违规财政奖补措施，综合运用抽查、约谈、通报等工具强化审查刚性约束。",
-      "publishedAt": "2026-07-07T20:57:00+08:00",
-      "source": "国家市场监督管理总局（东方财富网报道）",
-      "url": "https://caifuhao.eastmoney.com/news/20260707205744269928300",
-      "subCategory": "反垄断"
-    },
-    {
-      "id": "policy-20260707-101",
-      "title": "国家金融监督管理总局、上海市人民政府出台多项措施加快建设上海国际再保险中心",
-      "summary": "国家金融监督管理总局与上海市人民政府联合印发《关于加快上海国际再保险中心建设的若干措施》，共8条，涵盖机构布局、统一登记、平台建设、能力供给、跨境合作、监管效能等方面，推动上海再保险市场高水平开放发展。",
-      "publishedAt": "2026-07-07T20:02:00+08:00",
+      "id": "policy-20260706-401",
+      "title": "中央网信办通报\"清朗·整治AI应用乱象\"专项行动第一阶段成果",
+      "summary": "中央网信办通报,自4月启动的清朗·整治AI应用乱象专项行动第一阶段累计处置违规AI产品1.4万余款,清理违法违规信息600余万条,处置账号2.6万余个,下架违规AI商品1300余个及违规开源数据集9个。",
+      "publishedAt": "2026-07-06T17:06:39+08:00",
       "source": "新华网",
-      "url": "https://www.news.cn/fortune/20260707/3fbe0a4a6025418ab7008cb811c89b61/c.html",
+      "url": "https://www.news.cn/politics/20260706/4ce1356eb1b34e878c3fa1e2d9e5da1f/c.html",
+      "subCategory": "AI监管"
+    },
+    {
+      "id": "policy-20260706-601",
+      "title": "两部门重点处置7类涉志愿服务违规信息账号：将营利性活动包装成志愿服务、误导学生和家长等",
+      "summary": "中央网信办、中央社会工作部发布通知，决定自2026年6月下旬至8月下旬开展为期两个月的网络平台涉志愿服务违规信息专项整治，重点清理售卖志愿服务时长证书、以营利活动包装成志愿服务、误导学生和家长等7类违规信息及账号。",
+      "publishedAt": "2026-07-06T15:28:15+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/973/109.htm",
+      "subCategory": "数字经济"
+    },
+    {
+      "id": "policy-20260706-602",
+      "title": "今起 沪深主板ST、*ST股票涨跌幅调整至10%",
+      "summary": "上交所、深交所修订后的交易规则自2026年7月6日起正式实施，主板ST、*ST股票涨跌幅限制由5%调整为10%，与主板普通股票趋于一致；科创板、创业板ST股涨跌幅维持不变，盘后固定价格交易机制同步扩大至全部A股和ETF。",
+      "publishedAt": "2026-07-06T07:29:00+08:00",
+      "source": "新浪财经（转自每日经济新闻）",
+      "url": "https://finance.sina.com.cn/roll/2026-07-06/doc-inifvkki1795860.shtml",
       "subCategory": "金融监管"
     },
     {
@@ -582,33 +654,6 @@
       "subCategory": "海外政策"
     },
     {
-      "id": "policy-20260706-401",
-      "title": "中央网信办通报\"清朗·整治AI应用乱象\"专项行动第一阶段成果",
-      "summary": "中央网信办通报,自4月启动的清朗·整治AI应用乱象专项行动第一阶段累计处置违规AI产品1.4万余款,清理违法违规信息600余万条,处置账号2.6万余个,下架违规AI商品1300余个及违规开源数据集9个。",
-      "publishedAt": "2026-07-06T17:06:39+08:00",
-      "source": "新华网",
-      "url": "https://www.news.cn/politics/20260706/4ce1356eb1b34e878c3fa1e2d9e5da1f/c.html",
-      "subCategory": "AI监管"
-    },
-    {
-      "id": "policy-20260706-601",
-      "title": "两部门重点处置7类涉志愿服务违规信息账号：将营利性活动包装成志愿服务、误导学生和家长等",
-      "summary": "中央网信办、中央社会工作部发布通知，决定自2026年6月下旬至8月下旬开展为期两个月的网络平台涉志愿服务违规信息专项整治，重点清理售卖志愿服务时长证书、以营利活动包装成志愿服务、误导学生和家长等7类违规信息及账号。",
-      "publishedAt": "2026-07-06T15:28:15+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/973/109.htm",
-      "subCategory": "数字经济"
-    },
-    {
-      "id": "policy-20260706-602",
-      "title": "今起 沪深主板ST、*ST股票涨跌幅调整至10%",
-      "summary": "上交所、深交所修订后的交易规则自2026年7月6日起正式实施，主板ST、*ST股票涨跌幅限制由5%调整为10%，与主板普通股票趋于一致；科创板、创业板ST股涨跌幅维持不变，盘后固定价格交易机制同步扩大至全部A股和ETF。",
-      "publishedAt": "2026-07-06T07:29:00+08:00",
-      "source": "新浪财经（转自每日经济新闻）",
-      "url": "https://finance.sina.com.cn/roll/2026-07-06/doc-inifvkki1795860.shtml",
-      "subCategory": "金融监管"
-    },
-    {
       "id": "policy-20260705-001",
       "title": "中英服务贸易协定联合可行性研究技术磋商在伦敦举行",
       "summary": "中英两国官员6月30日至7月1日在伦敦举行第三轮服务贸易协定联合可行性研究技术磋商，双方称谈判取得实质性进展，将加快后续工作，力争尽早完成联合可行性研究，磋商基于2026年1月签署的谅解备忘录展开。",
@@ -625,69 +670,6 @@
       "source": "国家市场监督管理总局",
       "url": "https://www.samr.gov.cn/hd/zjdc/art/2026/art_41b16f1123ee4cd7acf892bb8bed5fe0.html",
       "subCategory": "数字经济"
-    },
-    {
-      "id": "policy-20260703-013",
-      "title": "国家发展改革委印发《循环经济发展\"十五五\"规划》",
-      "summary": "国家发展改革委印发《循环经济发展\"十五五\"规划》，提出到2030年主要资源产出率较2025年提高约16%，大宗固废综合利用量达到约45亿吨，资源循环利用产业产值达到8万亿元。",
-      "publishedAt": "2026-07-03",
-      "source": "国家发展和改革委员会",
-      "url": "https://www.ndrc.gov.cn/xxgk/jd/jd/202607/t20260702_1406253.html",
-      "subCategory": "产业政策"
-    },
-    {
-      "id": "policy-20260703-014",
-      "title": "2026年7月3日国内成品油价格调整",
-      "summary": "国家发展改革委发布通知，自7月3日24时起国内汽油、柴油（标准品）价格每吨分别下调950元和915元，原因是国际原油价格自上次调价以来出现下行，并要求相关企业保障市场供应。",
-      "publishedAt": "2026-07-03",
-      "source": "国家发展和改革委员会",
-      "url": "https://www.ndrc.gov.cn/xwdt/xwfb/202607/t20260703_1406245.html",
-      "subCategory": "产业政策"
-    },
-    {
-      "id": "policy-20260703-015",
-      "title": "中国证监会就修改北交所上市公司证券发行注册管理办法公开征求意见",
-      "summary": "中国证监会就修改《北京证券交易所上市公司证券发行注册管理办法》的决定及相关配套规则公开征求意见，涉及信息披露等五项规则修订，反馈截止日期为8月2日。",
-      "publishedAt": "2026-07-03",
-      "source": "中国证券监督管理委员会",
-      "url": "https://www.csrc.gov.cn/csrc/c101981/c7643353/content.shtml",
-      "subCategory": "金融监管"
-    },
-    {
-      "id": "policy-20260703-016",
-      "title": "欧盟委员会提出五个共同利益欧洲防务项目",
-      "summary": "欧盟委员会提出五个\"共同利益欧洲防务项目\"，涵盖无人机与反无人机系统、海事与海底防御、太空、空天导弹防御及东翼安全，计划到2036年撬动约1900亿欧元投资，已安排3.25亿欧元支持落地。",
-      "publishedAt": "2026-07-03",
-      "source": "European Commission",
-      "url": "https://defence-industry-space.ec.europa.eu/commission-proposes-five-joint-defence-projects-strengthen-europes-industrial-capabilities-2026-07-03_en",
-      "subCategory": "海外政策"
-    },
-    {
-      "id": "policy-20260703-002",
-      "title": "中英经贸联委会第15次会议在伦敦举行",
-      "summary": "商务部部长王文涛与英国贸易大臣在伦敦共同主持中英经贸联委会第15次会议，双方就服务贸易协定可行性研究、扩大英国对华投资、世贸组织改革等议题达成共识，中方并就英国钢铁配额措施表达严重关切。",
-      "publishedAt": "2026-07-03",
-      "source": "中华人民共和国商务部",
-      "url": "https://www.mofcom.gov.cn/xwfb/bldhd/art/2026/art_e750f1abaaa0449b93d1eb4bc4c72d12.html",
-      "subCategory": "跨境贸易"
-    },
-    {
-      "id": "policy-20260703-010",
-      "title": "市场监管总局启动公平竞争审查十大案例评选活动",
-      "summary": "市场监管总局启动\"贯彻落实公平竞争审查制度、纵深推进全国统一大市场建设十大案例\"评选活动，经初筛产生31个入围案例，7月3日至9日面向社会公开投票，遴选促进公平竞争、破除市场壁垒的典型案例。",
-      "publishedAt": "2026-07-03",
-      "source": "国家市场监督管理总局",
-      "url": "https://www.samr.gov.cn/xw/zj/art/2026/art_0c0ad5bcbfb74bd49f68dc1b6323e49a.html",
-      "subCategory": "反垄断"
-    },
-    {
-      "id": "policy-20260703-012",
-      "title": "欧盟委员会通过修订版可持续发展报告标准",
-      "summary": "欧盟委员会通过修订版欧洲可持续发展报告标准（ESRS）及面向中小企业的自愿性报告标准，将强制披露数据点减少逾六成、总数据点减少逾七成，预计企业报告成本降低约三成；修订标准将经欧洲议会和理事会为期两个月（可延至四个月）的审查期后生效。",
-      "publishedAt": "2026-07-03",
-      "source": "European Commission",
-      "url": "https://finance.ec.europa.eu/news/commission-adopts-revised-sustainability-reporting-standards-2026-07-03_en",
-      "subCategory": "海外政策"
     },
     {
       "id": "policy-20260703-011",
@@ -723,6 +705,24 @@
       "publishedAt": "2026-07-03T00:48:37+08:00",
       "source": "新华网",
       "url": "https://www.news.cn/politics/20260703/b7b5e7a9793f42eda13bd53c10fbc683/c.html",
+      "subCategory": "产业政策"
+    },
+    {
+      "id": "policy-20260703-013",
+      "title": "国家发展改革委印发《循环经济发展\"十五五\"规划》",
+      "summary": "国家发展改革委印发《循环经济发展\"十五五\"规划》，提出到2030年主要资源产出率较2025年提高约16%，大宗固废综合利用量达到约45亿吨，资源循环利用产业产值达到8万亿元。",
+      "publishedAt": "2026-07-03",
+      "source": "国家发展和改革委员会",
+      "url": "https://www.ndrc.gov.cn/xxgk/jd/jd/202607/t20260702_1406253.html",
+      "subCategory": "产业政策"
+    },
+    {
+      "id": "policy-20260703-014",
+      "title": "2026年7月3日国内成品油价格调整",
+      "summary": "国家发展改革委发布通知，自7月3日24时起国内汽油、柴油（标准品）价格每吨分别下调950元和915元，原因是国际原油价格自上次调价以来出现下行，并要求相关企业保障市场供应。",
+      "publishedAt": "2026-07-03",
+      "source": "国家发展和改革委员会",
+      "url": "https://www.ndrc.gov.cn/xwdt/xwfb/202607/t20260703_1406245.html",
       "subCategory": "产业政策"
     }
   ]
