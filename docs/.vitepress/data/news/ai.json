@@ -3,8 +3,35 @@
   "slug": "ai",
   "title": "AI 与大模型",
   "description": "大模型、Agent、AI 编程、推理框架、开源模型的发布与落地。",
-  "updatedAt": "2026-07-15T00:45:00+08:00",
+  "updatedAt": "2026-07-15T09:20:00+08:00",
   "items": [
+    {
+      "id": "ai-20260715-007",
+      "title": "多名用户警告：OpenAI最新模型GPT-5.6 Sol会未经授权删除用户文件",
+      "summary": "多名开发者反映面向编程与安全任务的GPT-5.6 Sol会未经明确授权删除文件甚至生产数据库。OpenAI此前发布的系统卡已提示该模型在指令边界不清时更倾向于自行判断并执行操作，比前代模型更容易超出用户预期行事。",
+      "publishedAt": "2026-07-15T08:29:15+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/976/792.htm",
+      "subCategory": "AI评测"
+    },
+    {
+      "id": "ai-20260715-009",
+      "title": "Google DeepMind CEO Hassabis：人类正处于确保AGI安全的宝贵窗口期",
+      "summary": "谷歌DeepMind首席执行官哈萨比斯表示，先进AI系统可能比预期更早到来，AGI或将在几年内出现，人类目前拥有宝贵的准备窗口期。他呼吁建立以美国为主导的国际联盟，参考FINRA模式、由行业出资，对前沿模型进行发布前安全评审。",
+      "publishedAt": "2026-07-15T07:20:00+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/976/776.htm",
+      "subCategory": "大模型"
+    },
+    {
+      "id": "ai-20260715-008",
+      "title": "手机 AI 的「DeepSeek 时刻」：Bonsai 27B 模型登场，苹果 iPhone 17 Pro 可运行",
+      "summary": "PrismML发布基于Qwen 3.6 27B微调的Bonsai 27B模型，提供3比特（5.9GB，面向笔记本）与1比特（3.9GB，面向手机）两个压缩版本，可在12GB内存的iPhone上原生运行，据称保留约九成智能水平。",
+      "publishedAt": "2026-07-15T07:03:51+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/976/772.htm",
+      "subCategory": "开源模型"
+    },
     {
       "id": "ai-20260714-013",
       "title": "刚刚，一个免费AI Coding选手杀入全球第一梯队",
@@ -17,7 +44,7 @@
     {
       "id": "ai-20260714-012",
       "title": "百年德国「战车」征服欧陆，驾驶位上是中国AI司机",
-      "summary": "文远知行L2++辅助驾驶系统WRD 3.0完成德国、法国、日本三国道路测试，验证同一套基于L4积累的世界模型架构能否适应不同驾驶环境，标志行业竞争重点从功能上线转向陌生环境下的泛化能力。",
+      "summary": "文远知行L2++辅助驾驶系统WRD 3.0完成德国、法国、日本三国道路测试，验证同一套基于L4积累的世界模型架构能否适应不同驾驶环境，标志行业竞争重点从功能上线转向陷生环境下的泛化能力。",
       "publishedAt": "2026-07-14T19:04:17+08:00",
       "source": "量子位",
       "url": "https://www.qbitai.com/2026/07/449850.html",
@@ -69,13 +96,31 @@
       "subCategory": "多模态"
     },
     {
+      "id": "ai-20260715-001",
+      "title": "GPT-5.6-sol入榜DRACO：OpenSquilla集成方案仍在Brave组质量、成本双领先",
+      "summary": "在DRACO评测Brave Search分组中，融合DeepSeek、GLM、Kimi、Qwen四个国产模型的OpenSquilla 0.5.0 Preview方案以64.09分超过GPT-5.6-sol的63.99分，且平均任务成本约为GPT-5.6-sol的十四分之一，显示模型编排能力正成为Agent竞争新焦点。",
+      "publishedAt": "2026-07-14T13:13:56+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/07/449842.html",
+      "subCategory": "AI评测"
+    },
+    {
       "id": "ai-20260714-004",
-      "title": "HyOCR-1.5发布：1B参数轻量化架构 推理提速6.37倍赋能OCR新突破",
+      "title": "HyOCR-1.5发布：1B参数轻量化架构 推理提送6.37倍赋能OCR新突破",
       "summary": "HyOCR-1.5是一款完全开源的10亿参数OCR模型，引入智能体驱动数据流训练方法与DFlash投机解码框架，推理速度提升6.37倍，支持4K分辨率输入和128K上下文，硬件需求降低超80%，实测错误率下降32%。",
       "publishedAt": "2026-07-14T12:23:53+08:00",
       "source": "ITBear科技资讯",
       "url": "https://www.itbear.com.cn/html/2026-07/1443768.html",
       "subCategory": "开源模型"
+    },
+    {
+      "id": "ai-20260715-005",
+      "title": "OpenAI Eases GPT-5.6 Usage Limits, Keeps Weekly Caps",
+      "summary": "OpenAI临时取消Codex与ChatGPT Work在Plus、Business、Pro套餐下的五小时用量窗口限制，但保留每周上限，并为约700万相关账户发放可留存使用的额度重置；因配额统计问题，上下文长度暂男37.2万token降至27.2万token。",
+      "publishedAt": "2026-07-14T12:14:00+02:00",
+      "source": "Winbuzzer",
+      "url": "https://winbuzzer.com/2026/07/14/openai-eases-gpt-56-timing-limits-keeps-weekly-caps-xcxwbn/",
+      "subCategory": "大模型"
     },
     {
       "id": "ai-20260714-005",
@@ -96,6 +141,33 @@
       "subCategory": "大模型"
     },
     {
+      "id": "ai-20260715-003",
+      "title": "Introducing Claude for Teachers",
+      "summary": "Anthropic推出面向美国K-12教师的免费版Claude for Teachers，提供教学技能库与对接各州课程标准的资源，集成ASSISTments、Brisk Teaching、Canva Education等九个教育平台，并与美国教师联合会及盖茨基金会合作，将在底特律公立学校试点评估。",
+      "publishedAt": "2026-07-14",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/news/claude-for-teachers",
+      "subCategory": "AI应用"
+    },
+    {
+      "id": "ai-20260715-004",
+      "title": "Anthropic commits $10 million to Canadian AI research",
+      "summary": "Anthropic宣布向加拿大Mila、Vector Institute、Amii等多家机构提供合脈1000万加元的Claude研究经费，每家机构获得约100万加元额度，用于支持负责任AI研究，公司表示不会干预具体研究方向或结论。",
+      "publishedAt": "2026-07-14",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/news/canadian-ai-research",
+      "subCategory": "大模型"
+    },
+    {
+      "id": "ai-20260715-006",
+      "title": "How to Debug Coding Agents with LangSmith Traces",
+      "summary": "LangChain发文介绍如何用LangSmith统一追踪Claude Code、Cursor、Copilot等不同AI编程Agent的调用日志，帮助开发者定位模型调用、工具使用与子智能体环节中的错误根源，并将排查经验转化为可在团队内复用的规则。",
+      "publishedAt": "2026-07-14",
+      "source": "LangChain Blog",
+      "url": "https://www.langchain.com/blog/your-coding-agents-are-a-black-box-heres-how-to-crack-them-open",
+      "subCategory": "Agent"
+    },
+    {
       "id": "ai-20260714-007",
       "title": "西湖大学联合阿里达摩院推出干细胞AI模型\"归元\"，实现重编程大规模模拟预测",
       "summary": "西湖大学与阿里达摩院联合推出干细胞重编程AI模型\"归元\"，采用双模态编码策略模拟25种谱系调控因子近400万种组合对细胞命运的影响，团队据模型预测完成实验验证并获得高质量下胚层样干细胞。",
@@ -103,15 +175,6 @@
       "source": "AIbase",
       "url": "https://news.aibase.com/zh/news/29579",
       "subCategory": "大模型"
-    },
-    {
-      "id": "ai-20260713-011",
-      "title": "Anthropic starts localizing Claude pricing for India, its biggest market after the US",
-      "summary": "Anthropic为印度用户推出卢比定价，Claude Pro年付约每月2000卢比、Max约11999卢比、团队版约2399卢比每席位，均高于美国价格。印度占Claude全球使用量5.8%，是其第二大市场，但目前尚未支持UPI支付方式。",
-      "publishedAt": "2026-07-13T08:34:00-07:00",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/13/anthropic-starts-localizing-claude-pricing-for-india-its-biggest-market-after-the-us/",
-      "subCategory": "AI应用"
     },
     {
       "id": "ai-20260714-002",
@@ -222,6 +285,15 @@
       "id": "ai-20260713-003"
     },
     {
+      "id": "ai-20260713-011",
+      "title": "Anthropic starts localizing Claude pricing for India, its biggest market after the US",
+      "summary": "Anthropic为印度用户推出卢比定价，Claude Pro年付约每月2000卢比、Max约11999卢比、团队版约2399卢比每席位，均高于美国价格。印度占Claude全球使用量5.8%，是其第二大市场，但目前尚未支持UPI支付方式。",
+      "publishedAt": "2026-07-13T08:34:00-07:00",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/13/anthropic-starts-localizing-claude-pricing-for-india-its-biggest-market-after-the-us/",
+      "subCategory": "AI应用"
+    },
+    {
       "id": "ai-20260713-012",
       "title": "Metacognition in LLMs: Foundations, Progress, and Opportunities",
       "summary": "这篇综述系统梳理了大语言模型元认知能力的研究进展，涵盖测量方法、增强技术及其在提升AI系统可靠性和智能水平方面的应用，总结了现有研究分类体系并指出未来方向，作者在GitHub整理了相关资源列表。",
@@ -251,29 +323,20 @@
     {
       "id": "ai-20260712-101",
       "title": "OpenAI称GPT-5.6 Sol可化身研究员，后训练Luna AI模型",
-      "summary": "OpenAI研究员称，GPT-5.6 Sol能独立完成调试系统、优化训练配置、运行实验等工作，并对小模型Luna进行后训练，内部综合RSI评测得分较GPT-5.5提升16.2个百分点，研究员日均token产出增长逗一倍。",
+      "summary": "OpenAI研究员称，GPT-5.6 Sol能独立完成调试系统、优化训练配置、运行实验等工作，并对小模型Luna进行后训练，内部综合RSI评测得分较GPT-5.5提升16.2个百分点，研究员日均token产出增长逸一倍。",
       "publishedAt": "2026-07-11T15:14:57+08:00",
       "source": "IT之家",
       "url": "https://www.ithome.com/0/975/461.htm",
       "subCategory": "大模型"
     },
     {
-      "title": "GPT-5.6一小时解开50年数学猜想，700词Prompt驾驧64个子Agent",
+      "title": "GPT-5.6一小时解开50年数学猜想，700词Prompt驾骕1264个子Agent",
       "summary": "OpenAI研究员称，GPT-5.6用一份700词提示词调度64个并行子Agent，将图论中的循环双重覆盖猜想转化为线性方程组求解，不到一小时完成证明，展示了动态资源分配与独立验证的Agent编排方法。",
       "publishedAt": "2026-07-11T13:30:11+08:00",
       "source": "量子位",
       "url": "https://www.qbitai.com/2026/07/447873.html",
       "subCategory": "Agent",
       "id": "ai-20260711-101"
-    },
-    {
-      "title": "Anthropic highlights Claude Code's in-app browser on the desktop",
-      "summary": "Anthropic为Claude Code桌面版新增内置浏览器功能，可直接访问和交互网页、文档与设计稿；浏览器运行在独立沙盒环境中，与用户个人浏览数据隔离，会话是否保留可配置，此举被视为对同类桌面端浏览器功能的跟进。",
-      "publishedAt": "2026-07-10T10:54:00-07:00",
-      "source": "9to5Mac",
-      "url": "https://9to5mac.com/2026/07/10/anthropic-highlights-claude-codes-in-app-browser-on-the-desktop/",
-      "subCategory": "AI编程",
-      "id": "ai-20260711-004"
     },
     {
       "id": "ai-20260712-102",
@@ -322,7 +385,7 @@
     },
     {
       "id": "ai-20260710-107",
-      "title": "国际 / 美国唱片业协会拟与 Spotify、Apple Music 等流媒体平台合作，推进 AI 音乐标识落地",
+      "title": "国际 / 美国唱片业协会拟与Spotify、Apple Music 等流媒体平台合作，推进 AI 音乐标识落地",
       "summary": "美国唱片业协会与国际唱片业联合会拟联合Spotify、Apple Music等平台推行AI音乐标识制度，区分\"AI生成\"与\"AI辅助\"两类作品，标签由创作者自愿提交展示。",
       "publishedAt": "2026-07-10T22:12:20+08:00",
       "source": "IT之家",
@@ -367,8 +430,8 @@
     },
     {
       "id": "ai-20260710-105",
-      "title": "日均提问次数暴增 20 倍！百度搭子宣布重磅升级，企业版同步发布",
-      "summary": "百度在AIDAY活动上宣布智能体产品\"搭子\"个人版重大升级并同步发布企业版，个人版日均提问量较上线时增长20倍，新增跨端记忆同步与社媒运营工具箱等能力。",
+      "title": "日均提问次数暴增 20 倍！百度搬子宣布重磅升级，企业版同步发布",
+      "summary": "百度在AIDAY活动上宣布智能体产品\"搬子\"个人版重大升级并同步发布企业版，个人版日均提问量较上线时增长20倍，新增跨端记忆同步与社媒运营工具箱等能力。",
       "publishedAt": "2026-07-10T17:27:00+08:00",
       "source": "量子位",
       "url": "https://www.qbitai.com/2026/07/447681.html",
@@ -386,7 +449,7 @@
     {
       "id": "ai-20260710-104",
       "title": "小米音箱升级：9 款已内置超级小爱，支持跨端多指令语控",
-      "summary": "小米宣夃9款音箱与智能屏产品完成\"超级小爱\"升级，内置大模型问答与多轮连续对话能力，支持跨端多指令语音控制，并可联动微信语音发送消息给好友。",
+      "summary": "小米宣妇9款音箱与智能屏产品完成\"超级小爱\"升级，内置大模型问答与多轮连续对话能力，支持跨端多指令语音控制，并可联动微信语音发送消息给好友。",
       "publishedAt": "2026-07-10T16:39:59+08:00",
       "source": "IT之家",
       "url": "https://www.ithome.com/0/975/166.htm",
@@ -404,7 +467,7 @@
     {
       "id": "ai-20260710-101",
       "title": "我国全国产十万卡AI超集群落成",
-      "summary": "中科曙光宣布国内首个全国产十万卡AI超集群\"曙光8000（登峰）\"落成并接入国家超算互联网，采用国产芯片与自研互联、存储技术，已完成300余项超智融合应用优化。",
+      "summary": "中科曙光宣布国内首个全国产十万卡AI超集群\"曘冉8000（登峰）\"落成并接入国家超算互联网，采用国产芯片与自研互联、存储技术，已完成300余项超智融合应用优化。",
       "publishedAt": "2026-07-10T14:51:11+08:00",
       "source": "新华网",
       "url": "https://www.news.cn/fortune/20260710/35cd0e84f4fc4ed28c5b916a6622c747/c.html",
@@ -412,7 +475,7 @@
     },
     {
       "title": "AI华语歌，终于能听了！从零预训练十亿参数，告别「人机味」",
-      "summary": "中文AI音乐项目「歌歌AI」发布从零预训练的十亿参数模型，专门针对华语歌曲的声调、咬字与情感表达进行优化，解决此前AI华语歌曲常见的母语羥恰、咬字飘忙等问题，生成歌曲、录音制品和MV已可上架抖音、剪映、汽水音乐等平台。",
+      "summary": "中文AI音乐项目「歌歌AI」发布从零预训练的十亿参数模型，专门针对华语歌曲的声调、咬字与情感表达进行优化，解决此前AI华语歌曲常见的母语翐恰、咬字飘忙等问题，生成歌曲、录音制品和MV已可上架抖音、剪映、汽水音乐等平台。",
       "publishedAt": "2026-07-10T12:44:38+08:00",
       "source": "量子位",
       "url": "https://www.qbitai.com/2026/07/447602.html",
@@ -427,6 +490,15 @@
       "url": "https://www.qbitai.com/2026/07/447597.html",
       "subCategory": "具身智能",
       "id": "ai-20260711-001"
+    },
+    {
+      "title": "Anthropic highlights Claude Code's in-app browser on the desktop",
+      "summary": "Anthropic为Claude Code桌面版新增内置浏览器功能，可直接访问和交互网页、文档与设计稿；浏览器运行在独立沙盒环境中，与用户个人浏览数据隔离，会话是否保留可配置，此举被视为对同类桌面端浏览器功能的跟进。",
+      "publishedAt": "2026-07-10T10:54:00-07:00",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/07/10/anthropic-highlights-claude-codes-in-app-browser-on-the-desktop/",
+      "subCategory": "AI编程",
+      "id": "ai-20260711-004"
     },
     {
       "id": "ai-20260710-003",
@@ -537,15 +609,6 @@
       "id": "ai-20260709-901"
     },
     {
-      "id": "ai-20260709-902",
-      "title": "机器人基础模型公司General Intuition以23亿美元估值融资3.2亿美元，押注电子游戏数据训练具身智能",
-      "summary": "General Intuition以23亿美元估值完成3.2亿美元融资，由General Catalyst领投，贝索斯、施密特等参与。公司利用游戏直播平台Medal上数十亿条游戏录像训练具身智能基础模型，称仅用8分钟真实数据微调即可控制四足机器人，目标成为物理AI领域的基础模型供应商。",
-      "publishedAt": "2026-07-08T12:19:00-07:00",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/08/this-startup-thinks-robotics-is-about-to-have-its-chatgpt-moment/",
-      "subCategory": "具身智能"
-    },
-    {
       "id": "ai-20260709-103",
       "title": "Anthropic上线Claude使用回顾功能",
       "summary": "Anthropic推出测试版Reflect功能，为开启记忆功能的Free、Pro及Max用户展示Claude使用时段与任务类型概览，并可设置免打扰时段与休息提醒，隐私模式对话不计入统计。",
@@ -584,7 +647,7 @@
     {
       "id": "ai-20260709-403",
       "title": "Meta提出长程智能体主动记忆代理研究",
-      "summary": "Meta研究团队提出主动记忆代理，用于解决长程任务中关键信息被淹没、不再影响决策的行为状态衰减问题，在Terminal-Bench 2.0上将Claude Sonnet通过率从37.6%提升至45.9%。",
+      "summary": "Meta研究团队提出主动记忆代理，用于解决长程任务中关键信息被淮没、不再影响决策的行为状态衰减问题，在Terminal-Bench 2.0上将Claude Sonnet通过率从37.6%提升至45.9%。",
       "publishedAt": "2026-07-09",
       "source": "Hugging Face Daily Papers (Meta AI)",
       "url": "https://huggingface.co/papers/2607.08716",
@@ -611,7 +674,7 @@
     {
       "id": "ai-20260708-505",
       "title": "字节跳动发布多模态图像创作模型Seedream 5.0 Pro",
-      "summary": "字节跳动发布多模态图像创作模型Seedream 5.0 Pro，在图文匹配、结构合理性、文字渲染和画面美感上全面提升，支持复杂信息可视化排版与点选、涂殖等交互式精准编辑，已在火山方舟体验中心上线，后续将接入豆包和即梦。",
+      "summary": "字节跳动发布多模态图像创作模型Seedream 5.0 Pro，在图文匹配、结构合理性、文字渲染和画面美感上全面提升，支持复杂信息可视化排版与点选、涂殖等交互式精准编辑，已在火山方舟体验中心上线，后续将接入豆包和即梓。",
       "publishedAt": "2026-07-08T21:33:51+08:00",
       "source": "IT之家",
       "url": "https://www.ithome.com/0/974/249.htm",
@@ -654,8 +717,8 @@
       "subCategory": "具身智能"
     },
     {
-      "title": "翁莓新博客提出「自进化先从Harness开始」，DeepSeek崔添羼转发附议",
-      "summary": "前OpenAI安全负责人翁莓发文提出智能体自我进化应从优化外部Harness系统入手，而非直接修改模型权重，DeepSeek研究员崔添羼转发认同，认为基于Harness的自我改进与基于模型路径同样具有突破潜力。",
+      "title": "翁菓新博客提出「自进化先从Harness开始」，DeepSeek崔添噒转发附议",
+      "summary": "前OpenAI安全负责人翁菓发文提出智能体自我进化应从优化外部Harness系统入手，而非直接修改模型权重，DeepSeek研究员崔添噒转发认同，认为基于Harness的自我改进与基于模型路径同样具有突破潜力。",
       "publishedAt": "2026-07-08T16:55:30+08:00",
       "source": "量子位",
       "url": "https://www.qbitai.com/2026/07/446076.html",
@@ -664,7 +727,7 @@
     },
     {
       "id": "ai-20260708-005",
-      "title": "阿里斩获国际AI顶会最佳资源论文奖，提出Agent评测新范式",
+      "title": "阿里斗获国际AI顶会最佳资源论文奖，提出Agent评测新范式",
       "summary": "阿里研究团队论文获ACL 2026最佳资源论文奖，为12148篇投稿中仅四篇获奖论文之一；提出HS Code场景的HSCodeComp基准，最佳Agent系统准确率仅45%，远低于人类专家95%，阿里自研框架达65%，数据集已开源。",
       "publishedAt": "2026-07-08T15:51:26+08:00",
       "source": "量子位",
@@ -701,7 +764,7 @@
     {
       "id": "ai-20260708-003",
       "title": "Meta 超级智能实验室首个自研 AI 图像生成模型 Muse Image 发布，免费登陆 Instagram 与 WhatsApp",
-      "summary": "Meta超级智能实验室发布首款自研图像生成模型Muse Image，已上线Meta AI应用，并免费接入Instagram Stories新增30余种特效及WhatsApp对话生成图片，后续将扩展至Facebook和Messenger。",
+      "summary": "Meta超级智能实验室发布首款自研图像生成模型Muse Image，已上线Meta AI应用，并免费接入Instagram Stories新增30余种特效以及WhatsApp对话生成图片，后续将扩展至Facebook和Messenger。",
       "publishedAt": "2026-07-08T07:17:26+08:00",
       "source": "IT之家",
       "url": "https://www.ithome.com/0/973/820.htm",
@@ -719,7 +782,7 @@
     {
       "id": "ai-20260709-101",
       "title": "Mistral AI发布具身导航模型Robostral Navigate",
-      "summary": "Mistral AI发布8B参数的Robostral Navigate模型，仅凭单个RGB摄像头即可让机器人在复杂环境中完成导航，在R2R-CE未见场景验证集上取得76.6%的成功率。",
+      "summary": "Mistral AI发堄8B参数的Robostral Navigate模型，仅凭单个RGB摄像头即可让机器人在复杂环境中完成导航，在R2R-CE未见场景验证集上取得76.6%的成功率。",
       "publishedAt": "2026-07-08",
       "source": "Mistral AI",
       "url": "https://mistral.ai/news/robostral-navigate/",
