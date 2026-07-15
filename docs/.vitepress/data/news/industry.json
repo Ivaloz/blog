@@ -3,8 +3,17 @@
   "slug": "industry",
   "title": "行业新闻",
   "description": "企业服务、SaaS、云计算、制造业、消费互联网的产业动态。",
-  "updatedAt": "2026-07-15T09:20:00+08:00",
+  "updatedAt": "2026-07-15T17:10:00+08:00",
   "items": [
+    {
+      "title": "Global Semiconductor Equipment Sales Forecast to Reach a Record $229 Billion in 2028, SEMI Reports",
+      "summary": "SEMI年中预测显示，2026年全球半导体设备销售额预计达1659亿美元，同比增长23.2%，其中晶圆制造设备销售额预计增长23.1%至1439亿美元，AI基础设施投资为主要驱动力。",
+      "publishedAt": "2026-07-14T10:00:00-04:00",
+      "source": "SEMI",
+      "url": "https://www.newswire.ca/news-releases/global-semiconductor-equipment-sales-forecast-to-reach-a-record-229-billion-in-2028-semi-reports-891982093.html",
+      "subCategory": "半导体产业",
+      "id": "industry-20260715-004"
+    },
     {
       "id": "industry-20260714-011",
       "title": "黑芝麻智能完成对亿智电子的收购 端侧AI战略全面加速",
@@ -49,6 +58,15 @@
       "source": "每日经济新闻",
       "url": "https://www.nbd.com.cn/articles/2026-07-14/4470751.html",
       "subCategory": "制造业"
+    },
+    {
+      "title": "Why Huawei and Apple Grew While China's Smartphone Market Fell Again in Q2 2026",
+      "summary": "IDC数据显示，2026年第二季度中国智能手机出货量约6600万部，同比下降4.3%，为连续第五个季度下滑；华为、苹果出货量分别逆势增长约19.4%和24.4%，市场份额升至22.6%和18.1%。",
+      "publishedAt": "2026-07-14T03:25:38Z",
+      "source": "IDC",
+      "url": "https://www.idc.com/resource-center/blog/china-smartphone-market-decline-q2-2026/",
+      "subCategory": "行业研报",
+      "id": "industry-20260715-005"
     },
     {
       "id": "industry-20260714-001",
@@ -159,21 +177,21 @@
       "subCategory": "半导体产业"
     },
     {
-      "id": "industry-20260713-002",
-      "title": "WORLD BANK：2026年6月全球经济展望报告",
-      "summary": "世界银行最新报告显示，受中东局势及能源价格上涨影响，2026年全球经济增速预计从2025年的2.9%降至2.5%，为疫情以来最低；新兴市场增速同步放缓至3.6%，AI投资被视为长期增长亮点。",
-      "publishedAt": "2026-07-13T06:00:30+08:00",
-      "source": "199IT",
-      "url": "https://www.199it.com/archives/1833825.html",
-      "subCategory": "行业研报"
-    },
-    {
       "id": "industry-20260713-007",
       "title": "Counterpoint：2026年第二季度全球智能手机出货量降至13年来同期最低",
       "summary": "Counterpoint Research报告显示，受存储芯片短缺加剧影响，2026年第二季度全球智能手机出货量同比下降，创13年来同期新低；三星以24%份额居首，苹果份额升至创纪录的20%，全年出货量预计下滑约14%。",
       "publishedAt": "2026-07-13",
       "source": "Counterpoint Research",
       "url": "https://counterpointresearch.com/en/insights/global-smartphone-shipments-q2-2026",
+      "subCategory": "行业研报"
+    },
+    {
+      "id": "industry-20260713-002",
+      "title": "WORLD BANK：2026年6月全球经济展望报告",
+      "summary": "世界银行最新报告显示，受中东局势及能源价格上涨影响，2026年全球经济增速预计从2025年的2.9%降至2.5%，为疫情以来最低；新兴市场增速同步放缓至3.6%，AI投资被视为长期增长亮点。",
+      "publishedAt": "2026-07-13T06:00:30+08:00",
+      "source": "199IT",
+      "url": "https://www.199it.com/archives/1833825.html",
       "subCategory": "行业研报"
     },
     {
@@ -220,6 +238,15 @@
       "source": "IT之家",
       "url": "https://www.ithome.com/0/975/275.htm",
       "subCategory": "新能源汽车"
+    },
+    {
+      "title": "全球PC出货量九连涨后首跌，中国下降1.6%",
+      "summary": "IDC数据显示，2026年第二季度全球PC出货量约6820万台，同比下降4.9%，为连续九个季度增长后首次下滑；同期中国PC出货量992万台，同比降幅仅1.6%，表现好于全球大盘。",
+      "publishedAt": "2026-07-10T10:29:28+08:00",
+      "source": "新浪科技",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-07-10/doc-inihhram5235367.shtml",
+      "subCategory": "行业研报",
+      "id": "industry-20260715-006"
     },
     {
       "id": "industry-20260712-007",
@@ -384,42 +411,6 @@
       "subCategory": "半导体产业"
     },
     {
-      "id": "industry-20260709-101",
-      "title": "OECD：2026年增长与竞争力基础",
-      "summary": "OECD报告指出，过去二十年成员国经济增速结构性放缓，劳动生产率不足是核心问题，主因企业投入不足、创新扩散变慢及人力资本弱化；测算人工智能未来十年或为G7国家年均劳动生产率贡献0.5至1.3个百分点提升，但需配套数字基础设施与技能培训投入。",
-      "publishedAt": "2026-07-09T06:10:00+08:00",
-      "source": "199IT",
-      "url": "https://finance.sina.com.cn/tech/roll/2026-07-09/doc-inihczph8230823.shtml",
-      "subCategory": "行业研报"
-    },
-    {
-      "id": "industry-20260709-103",
-      "title": "从曝光到影响力：将用户体验转化为可量化成果",
-      "summary": "报告分析2025年下半年全球数字创意广告表现，平均互动率1.4%，点击率1.0%；竖版视频点击率为基准2.5倍、互动率为4倍，零售电商领域游戏化广告互动率达10.4%，为整体均值7倍，广告策略正从提升曝光效率转向构建可持续互动体验。",
-      "publishedAt": "2026-07-09T05:10:00+08:00",
-      "source": "199IT",
-      "url": "https://finance.sina.com.cn/tech/roll/2026-07-09/doc-inihcvfk8312336.shtml",
-      "subCategory": "企业服务"
-    },
-    {
-      "id": "industry-20260709-902",
-      "title": "企业支出报告：AI与软件支出研究亮点（2026年春季）",
-      "summary": "基于逗五5万家企业交易数据的报告显示，截至2026年3月美国企业付费使用AI服务比例达50.4%，较2025年初近乎翻倍；OpenAI市场份额35.2%居首，Anthropic份额从16.7%升至30.6%并拿下约七成新客户；AI投入前25%的企业收入增速为非采用企业的两倍。",
-      "publishedAt": "2026-07-09T05:08:00+08:00",
-      "source": "199IT",
-      "url": "https://finance.sina.com.cn/tech/roll/2026-07-09/doc-inihcvfi1534017.shtml",
-      "subCategory": "行业研报"
-    },
-    {
-      "id": "industry-20260709-901",
-      "title": "普华永道：人工智能能耗净零报告",
-      "summary": "普华永道联合微软与牛津大学建立模型框架，测算AI效率提升能否抵消其能耗增长。研究显示到2035年AI驱动的数据中心能耗较基线情景累计增刀18%至21%，若AI提升能效速度达到其用量增速的十分之一即可实现能耗抵消，预计到2035年可使温室气体排放减少0.3%至1.9%。",
-      "publishedAt": "2026-07-09T02:10:00+08:00",
-      "source": "199IT",
-      "url": "https://finance.sina.com.cn/tech/roll/2026-07-09/doc-inihcqxn8288220.shtml",
-      "subCategory": "行业研报"
-    },
-    {
       "id": "industry-20260709-102",
       "title": "Counterpoint：2026年Q1全球WiFi CPE出货量同比陈6%",
       "summary": "Counterpoint数据显示，2026年第一季度全球零售端WiFi CPE设备出货量同比下降6%，较2021年峰值累计下滑约34%，市场进入库存调整阶段；TP-Link以20%份额居首但同比陈 5.4%，小米份额升至12%位列第二，是主要厂商中少数份额上升者。",
@@ -465,6 +456,42 @@
       "subCategory": "行业研报"
     },
     {
+      "id": "industry-20260709-101",
+      "title": "OECD：2026年增长与竞争力基础",
+      "summary": "OECD报告指出，过去二十年成员国经济增速结构性放缓，劳动生产率不足是核心问题，主因企业投入不足、创新扩散变慢及人力资本弱化；测算人工智能未来十年或为G7国家年均劳动生产率贡献0.5至1.3个百分点提升，但需配套数字基础设施与技能培训投入。",
+      "publishedAt": "2026-07-09T06:10:00+08:00",
+      "source": "199IT",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-07-09/doc-inihczph8230823.shtml",
+      "subCategory": "行业研报"
+    },
+    {
+      "id": "industry-20260709-103",
+      "title": "从曝光到影响力：将用户体验转化为可量化成果",
+      "summary": "报告分析2025年下半年全球数字创意广告表现，平均互动率1.4%，点击率1.0%；竖版视频点击率为基准2.5倍、互动率为4倍，零售电商领域游戏化广告互动率达10.4%，为整体均值7倍，广告策略正从提升曝光效率转向构建可持续互动体验。",
+      "publishedAt": "2026-07-09T05:10:00+08:00",
+      "source": "199IT",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-07-09/doc-inihcvfk8312336.shtml",
+      "subCategory": "企业服务"
+    },
+    {
+      "id": "industry-20260709-902",
+      "title": "企业支出报告：AI与软件支出研究亮点（2026年春季）",
+      "summary": "基于逗五5万家企业交易数据的报告显示，截至2026年3月美国企业付费使用AI服务比例达50.4%，较2025年初近乎翻倍；OpenAI市场份额35.2%居首，Anthropic份额从16.7%升至30.6%并拿下约七成新客户；AI投入前25%的企业收入增速为非采用企业的两倍。",
+      "publishedAt": "2026-07-09T05:08:00+08:00",
+      "source": "199IT",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-07-09/doc-inihcvfi1534017.shtml",
+      "subCategory": "行业研报"
+    },
+    {
+      "id": "industry-20260709-901",
+      "title": "普华永道：人工智能能耗净零报告",
+      "summary": "普华永道联合微软与牛津大学建立模型框架，测算AI效率提升能否抵消其能耗增长。研究显示到2035年AI驱动的数据中心能耗较基线情景累计增刀18%至21%，若AI提升能效速度达到其用量增速的十分之一即可实现能耗抵消，预计到2035年可使温室气体排放减少0.3%至1.9%。",
+      "publishedAt": "2026-07-09T02:10:00+08:00",
+      "source": "199IT",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-07-09/doc-inihcqxn8288220.shtml",
+      "subCategory": "行业研报"
+    },
+    {
       "id": "industry-20260710-003",
       "title": "精测电子筹划收购上海精测部分股权 预计构成重大资产重组",
       "summary": "精测电子拟通过发行股份、可转债及支付现金方式，收购控股子公司上海精测部分股权并募集配套资金，预计构成重大资产重组，公司股票及可转债自7月9日起停牌，此前已持胀58.83%。",
@@ -481,15 +508,6 @@
       "source": "证券时报",
       "url": "https://www.stcn.com/article/detail/4007253.html",
       "subCategory": "新能源汽车"
-    },
-    {
-      "id": "industry-20260708-900",
-      "title": "创新药半年出海收入近千亿美元，三大变化重塑产业链价值",
-      "summary": "2026年上半年中国创新药BD出海交易总额约997亿美元，约为2024年全年两倍；首付款总额约50亿美元，接近2025年全年七成。多管线打包交易增多，Co-Co联合开发商业化模式渐成主流，替代传统License-out模式。",
-      "publishedAt": "2026-07-08T06:48:00+08:00",
-      "source": "证券时报",
-      "url": "https://www.stcn.com/article/detail/4003267.html",
-      "subCategory": "医疗健康"
     },
     {
       "id": "industry-20260712-101",
@@ -636,6 +654,15 @@
       "subCategory": "医疗健康"
     },
     {
+      "id": "industry-20260708-900",
+      "title": "创新药半年出海收入近千亿美元，三大变化重塑产业链价值",
+      "summary": "2026年上半年中国创新药BD出海交易总额约997亿美元，约为2024年全年两倍；首付款总额约50亿美元，接近2025年全年七成。多管线打包交易增多，Co-Co联合开发商业化模式渐成主流，替代传统License-out模式。",
+      "publishedAt": "2026-07-08T06:48:00+08:00",
+      "source": "证券时报",
+      "url": "https://www.stcn.com/article/detail/4003267.html",
+      "subCategory": "医疗健康"
+    },
+    {
       "id": "industry-20260711-004",
       "title": "SEMI and TechSearch International Release 2026 Edition of Worldwide Assembly & Test Facility Database",
       "summary": "SEMI与TechSearch International联合发堤2026版《全球封装测试厂数据库》，收录全球820余家半导体后道制造厂，较2025版750家扩容。逸360家工厂具备化合物半导体能力，逸170家聚焦AI/HPC市场。",
@@ -697,42 +724,6 @@
       "source": "新浪科技",
       "url": "https://finance.sina.com.cn/tech/roll/2026-07-07/doc-inifyzkr1543854.shtml",
       "subCategory": "半导体产业"
-    },
-    {
-      "id": "industry-20260707-950",
-      "title": "易观分析发布2026年中国 GEO 行业应用场景成熟度与供应商选择分析报告",
-      "summary": "报告称，2026年一季度国内GEO（生成式引擎优化）市场规模约16亿元，行业CR10仅 10%，格局分散；报告构建技术能力、落地效果、服务保障、商业运营四维评估体系，覆盖消费零售、跨境出海、工业制造等赛道。",
-      "publishedAt": "2026-07-07T10:22:00+08:00",
-      "source": "中国工业新闻网（易观分析）",
-      "url": "https://www.cinn.cn/hz/2026/07-07/71eBZ2gr.html",
-      "subCategory": "企业服务"
-    },
-    {
-      "id": "industry-20260707-802",
-      "title": "Counterpoint报告：2026年一季度端侧AI智能手表出货涨70% 渗透率达25%",
-      "summary": "Counterpoint报告显示，2026年第一季度全球支持端侧AI的智能手表出货量同比增长70%，渗透率25%，低功耗神经网络加速器推动跌落检测、睡眠分析等本地化功能普及。",
-      "publishedAt": "2026-07-07T10:15:33+08:00",
-      "source": "ITBear科技资讯",
-      "url": "https://www.itbear.com.cn/html/2026-07/1431706.html",
-      "subCategory": "消费零售"
-    },
-    {
-      "id": "industry-20260707-920",
-      "title": "支付宝AI开放平台正式上线，面向企业开发者开放邀测",
-      "summary": "支付宝AI开放平台7月7日上线，面向企业开发者、代开发服务商开放邀测，商家可通过\"阿宝\"接入手机、车机、AI眼镜等多端，肯德基、瑞幸等品牌首批接入。",
-      "publishedAt": "2026-07-07T10:09:00+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/973/375.htm",
-      "subCategory": "企业服务"
-    },
-    {
-      "id": "industry-20260707-701",
-      "title": "QuestMobile 2026年下沉市场用户洞察报告：\"老+少\"成核心主力",
-      "summary": "QuestMobile报告显示，截至2026年5月中国下沉市场月活用户规模达6.53亿，同比增长2.9%，24岁以下用户占19.6%、46岁以上占46.3%，短视频与AIGC使用活跃度明显提升。",
-      "publishedAt": "2026-07-07T10:06:51+08:00",
-      "source": "QuestMobile",
-      "url": "https://www.donews.com/news/detail/1/6623252.html",
-      "subCategory": "行业研报"
     }
   ]
 }

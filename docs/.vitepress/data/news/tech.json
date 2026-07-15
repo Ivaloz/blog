@@ -3,8 +3,98 @@
   "slug": "tech",
   "title": "科技新闻",
   "description": "前沿科技、互联网产品、芯片硬件、开源生态。",
-  "updatedAt": "2026-07-15T09:20:00+08:00",
+  "updatedAt": "2026-07-15T17:10:00+08:00",
   "items": [
+    {
+      "title": "三星990固态硬盘上市：QLC + DRAM-less方案，2TB售2399元",
+      "summary": "三星990系列固态硬盘正式上市，采用QLC闪存与DRAM-less方案，支持HMB主机内存缓冲，1TB售1499元、2TB售2399元，最高顺序读取7250MB/s、写入6450MB/s，官方称能效较990 PRO提升38%。",
+      "publishedAt": "2026-07-15T16:43:25+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/977/110.htm",
+      "subCategory": "芯片硬件",
+      "id": "tech-20260715-017"
+    },
+    {
+      "title": "七工匠LITE系列AF 25/35/50mm F1.8富士X卡口银色版镜头开售，首发599元",
+      "summary": "七工匠推出LITE系列AF 25mm、35mm、50mm F1.8富士X卡口银色版镜头，均为金属镜身，配备STM步进马达并支持眼部对焦，重量约180克，三款镜头首发价均为599元。",
+      "publishedAt": "2026-07-15T16:40:33+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/977/107.htm",
+      "subCategory": "消费电子",
+      "id": "tech-20260715-015"
+    },
+    {
+      "title": "宝马高管称电动车千匹马力是营销噱头，纯电M3名字就叫M3",
+      "summary": "宝马M部门CEO范梅尔在古德伍德速度节表示，电动车市场夸大的千匹马力数据没有意义，即将推出的纯电M3不会采用特殊命名而是直接称为M3，宝马还将推出搭载直列六缸发动机的混动版M3。",
+      "publishedAt": "2026-07-15T16:39:22+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/977/104.htm",
+      "subCategory": "智能汽车",
+      "id": "tech-20260715-016"
+    },
+    {
+      "title": "荣耀Robot Phone通过3C认证，由自有工厂生产",
+      "summary": "荣耀今年3月发布的Robot Phone机型（型号APH-AN00）通过3C认证，标配120W快充，将由荣耀自有工厂深圳荣耀智能机器有限公司生产，该机型配备可翻转的2亿像素云台主摄，预计8月正式发布。",
+      "publishedAt": "2026-07-15T16:19:35+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/977/092.htm",
+      "subCategory": "消费电子",
+      "id": "tech-20260715-024"
+    },
+    {
+      "title": "诺基亚与英伟达推出业界首个商用AI-RAN平台，提升频谱利用效率",
+      "summary": "诺基亚与英伟达联合推出AI驱动的无线接入网AI-RAN平台，无需额外频谱资源即可提升现网数据传输容量，目标2028年将频谱利用效率从约20%提升至50%，平台含三款新硬件与一款软件，符合Open RAN标准。",
+      "publishedAt": "2026-07-15T16:18:23+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/977/090.htm",
+      "subCategory": "网络基础设施",
+      "id": "tech-20260715-021"
+    },
+    {
+      "title": "AI编程工具Cursor曝安全漏洞：可执行任意代码，报告7个月未修复",
+      "summary": "研究人员发现AI代码编辑器Cursor在Windows版本存在任意代码执行漏洞，攻击者将恶意git.exe文件放入仓库根目录即被自动执行，漏洞去年12月被报告，直至7月14日才公开披露，历时约7个月未修复，影响超700万用户。",
+      "publishedAt": "2026-07-15T15:51:15+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/977/071.htm",
+      "subCategory": "安全漏洞",
+      "id": "tech-20260715-022"
+    },
+    {
+      "title": "美国起诉俄罗斯“防弹主机”服务运营商",
+      "summary": "美国司法部对三名俄罗斯籍人士提起公诉，指控其运营的Media Land、ML.Cloud等“防弹主机”服务为勒索软件团伙提供基础设施，涉案损失超6200万美元，受害者涉及美国21个州的银行、学校、医院等机构。",
+      "publishedAt": "2026-07-15T15:45:00+08:00",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/us-charges-alleged-russian-bulletproof-hosting-service-operators/",
+      "subCategory": "安全漏洞",
+      "id": "tech-20260715-019"
+    },
+    {
+      "title": "砺算LX 7G100国产消费级显卡“零售版”7月17日开售",
+      "summary": "砺算科技宣布LX 7G100国产消费级显卡“零售版”将于7月17日20点在京东官方旗舰店开售，采用6nm工艺与TrueGPU架构，配备12GB GDDR6显存及三风扇五热管散热，支持8K 60Hz输出，此前众筹版已售罄。",
+      "publishedAt": "2026-07-15T15:22:12+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/977/031.htm",
+      "subCategory": "芯片硬件",
+      "id": "tech-20260715-023"
+    },
+    {
+      "title": "索尼PlayStation首款无线格斗操作杆FlexStrike遭遇意外生产延误，发售延迟",
+      "summary": "索尼PlayStation首款无线格斗摇杆FlexStrike因生产环节出现意外延误，无法按原定8月6日发售，官方表示需更多时间完善产品。该设备采用机械轴体与免工具更换档位系统，支持PlayStation Link无线连接，续航最长40小时。",
+      "publishedAt": "2026-07-15T08:57:03+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/976/801.htm",
+      "subCategory": "消费电子",
+      "id": "tech-20260715-013"
+    },
+    {
+      "title": "《英雄联盟》经典模式将于26.15版本发布：首发60位英雄，还有海斗经典版",
+      "summary": "Riot Games宣布《英雄联盟》将于7月30日随26.15版本推出经典模式，参考2013赛季设计，首发60位复古英雄，保留传统符文天赋与召唤师技能，并加入WASD移动等现代化操作，“极地大乱斗”模式也将推出对应经典版本。",
+      "publishedAt": "2026-07-15T08:55:48+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/976/799.htm",
+      "subCategory": "互联网产品",
+      "id": "tech-20260715-014"
+    },
     {
       "id": "tech-20260715-001",
       "title": "华硕将独立发售 OLED 屏幕版 ROG Ally 掌机",
@@ -85,6 +175,24 @@
       "source": "IT之家",
       "url": "https://www.ithome.com/0/976/773.htm",
       "subCategory": "智能汽车"
+    },
+    {
+      "title": "OpenAI首款硬件设备据报道为可移动的无屏幕智能音箱",
+      "summary": "据彭博社报道，OpenAI正在研发其首款硬件产品——一款无屏幕的可移动智能音箱，定位家庭AI陪伴设备，将与ChatGPT深度整合，机身含可自主活动的机械部件，多名前苹果工程师参与研发。",
+      "publishedAt": "2026-07-15T06:22:00+08:00",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/14/openais-first-hardware-device-is-reportedly-a-screenless-speaker-that-can-move/",
+      "subCategory": "消费电子",
+      "id": "tech-20260715-018"
+    },
+    {
+      "title": "SonicWall警告SMA1000漏洞已遭零日攻击利用，敦促尽快打补丁",
+      "summary": "SonicWall披露SMA1000设备两个已遭在野利用的漏洞：CVE-2026-15409（CVSS 10.0，未认证SSRF）及CVE-2026-15410（CVSS 7.2，认证后可执行任意系统命令），影响6210、7210、8200v型号，官方已发布修复版本。",
+      "publishedAt": "2026-07-15T05:23:00+08:00",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-sma1000-flaws-exploited-in-zero-day-attacks-patch-now/",
+      "subCategory": "安全漏洞",
+      "id": "tech-20260715-020"
     },
     {
       "id": "tech-20260714-013",
@@ -184,6 +292,24 @@
       "source": "IT之家",
       "url": "https://www.ithome.com/0/976/727.htm",
       "subCategory": "智能汽车"
+    },
+    {
+      "id": "tech-20260715-012",
+      "title": "New phishing kits target Microsoft 365 accounts, evade MFA",
+      "summary": "安全研究人员发现 Jalisco 和 OmegaLord 两款新型钓鱼工具包正被用于攻击 Microsoft 365 账户，前者利用 OAuth 设备授权码流程绕过多因素认证，后者伪装 PDF 阅读器窃取密码与手机号，专家建议收紧设备注册与条件访问策略。",
+      "publishedAt": "2026-07-14T08:49:00-04:00",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/new-phishing-kits-target-microsoft-365-accounts-evade-mfa/",
+      "subCategory": "安全漏洞"
+    },
+    {
+      "id": "tech-20260714-012",
+      "title": "Microsoft Entra ID gets passkeys default authentication starting September",
+      "summary": "微软宣布自2026年9月1日起，通行密钥（Passkey）将成为Entra ID的默认身份验证方式，原使用短信及语音验证的用户将被自动引导注册通行密钥，短信/语音验证方式计划于2027年2月全面停用。",
+      "publishedAt": "2026-07-14T08:49:00-04:00",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-entra-id-gets-passkeys-default-authentication-starting-september/",
+      "subCategory": "安全漏洞"
     },
     {
       "id": "tech-20260714-022",
@@ -328,24 +454,6 @@
       "source": "新浪科技",
       "url": "https://finance.sina.com.cn/tech/digi/2026-07-14/doc-inihuhiv7320804.shtml",
       "subCategory": "智能汽车"
-    },
-    {
-      "id": "tech-20260715-012",
-      "title": "New phishing kits target Microsoft 365 accounts, evade MFA",
-      "summary": "安全研究人员发现 Jalisco 和 OmegaLord 两款新型钓鱼工具包正被用于攻击 Microsoft 365 账户，前者利用 OAuth 设备授权码流程绕过多因素认证，后者伪装 PDF 阅读器窃取密码与手机号，专家建议收紧设备注册与条件访问策略。",
-      "publishedAt": "2026-07-14T08:49:00-04:00",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/new-phishing-kits-target-microsoft-365-accounts-evade-mfa/",
-      "subCategory": "安全漏洞"
-    },
-    {
-      "id": "tech-20260714-012",
-      "title": "Microsoft Entra ID gets passkeys default authentication starting September",
-      "summary": "微软宣布自2026年9月1日起，通行密钥（Passkey）将成为Entra ID的默认身份验证方式，原使用短信及语音验证的用户将被自动引导注册通行密钥，短信/语音验证方式计划于2027年2月全面停用。",
-      "publishedAt": "2026-07-14T08:49:00-04:00",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-entra-id-gets-passkeys-default-authentication-starting-september/",
-      "subCategory": "安全漏洞"
     },
     {
       "id": "tech-20260714-001",
@@ -616,87 +724,6 @@
       "source": "IT之家",
       "url": "https://www.ithome.com/0/975/797.htm",
       "subCategory": "操作系统"
-    },
-    {
-      "id": "tech-20260712-111",
-      "title": "VisionRay Flow Pro 智能眼镜发布：20Mp 摄像头、35g 重量，199 美元",
-      "summary": "厂商DPVR发布VisionRay Flow Pro智能眼镜，配备2000万像素摄像头，机身仅重35克，续航12小时，接入ChatGPT能力并支持骨传导通话、4K 30帧摄像及实时多语言翻译，售价199美元。",
-      "publishedAt": "2026-07-12T19:44:02+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/975/796.htm",
-      "subCategory": "XR-AR-VR"
-    },
-    {
-      "id": "tech-20260712-109",
-      "title": "全球首款可变形个人机器人，上纬新材启元 T1 亮相",
-      "summary": "主营环保材料与风电叶片的上纬新材跨界推出启元T1，号称全球首款可变形个人机器人，能在轮式、腿式人形与四足形态间自动切换并保持稳定，具备视频拍摄与陀伴互动功能，计划在多城市设体验中心加速商业化。",
-      "publishedAt": "2026-07-12T19:32:40+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/975/794.htm",
-      "subCategory": "机器人"
-    },
-    {
-      "id": "tech-20260712-114",
-      "title": "宇树科技王兴兴：机器人一定会走向普通消费者，今天的机器人就像 30 年前的个人电脑",
-      "summary": "宇树科技创始人王兴兴在2026王府井论坛表示，机器人终将走向普通消费者，如同30年前的个人电脑；他将当下机器人大众价值归纳为开发者创新平台、进入家庭教育场景、提供商业展演情绪价值三个方向。",
-      "publishedAt": "2026-07-12T18:34:14+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/975/786.htm",
-      "subCategory": "机器人"
-    },
-    {
-      "id": "tech-20260712-113",
-      "title": "AI 热潮太费电，燃气轮机价格 3 年涨了约 300%",
-      "summary": "受AI数据中心电力需求激增影响，燃气轮机价格三年累计上涨约300%；微软近期向GE Vernova采购7台大型燃气轮机为得州数据中心供电，单台报价超2.5亿美元，GE Vernova股价半年内上涨逗70%。",
-      "publishedAt": "2026-07-12T18:12:50+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/975/767.htm",
-      "subCategory": "网络基础设施"
-    },
-    {
-      "id": "tech-20260712-112",
-      "title": "消息称华为 Mate 80 Air 手机下半年发布，搭载麒麗30030 系列芯片",
-      "summary": "据博主爆料，华为将于今年下半年推出Mate 80 Air手机，搭载麒麗30030系列芯片，支持红枫影像技术，延续前代Mate 70 Air的7英寸曲面四微曲屏设计，为超薄旗舰产品线的延续机型。",
-      "publishedAt": "2026-07-12T18:05:05+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/975/766.htm",
-      "subCategory": "消费电子"
-    },
-    {
-      "id": "tech-20260712-201",
-      "title": "三星电子将龙仁芯片集群首座工厂投产时间提前至2029年",
-      "summary": "三星电子决定把龙仁产业园首座半导体工厂投产时间从原计划提前1至2年，调整至2029年，以更快响应全球人工智能芯片需求增长；公司计划在平泽和龙仁园区投资203万亿韩元，并在光州追加投资40万亿韩元建两座新厂。",
-      "publishedAt": "2026-07-12T11:37:00+09:00",
-      "source": "Korea Times",
-      "url": "https://www.koreatimes.co.kr/business/companies/20260712/samsung-electronics-to-bring-forward-opening-of-1st-yongin-chip-plant-to-2029",
-      "subCategory": "芯片硬件"
-    },
-    {
-      "id": "tech-20260712-203",
-      "title": "特斯拉46天拆除Model S/X产线，为Optimus人形机器人量产腾出空间",
-      "summary": "特斯拉在美国加州弗里蒙特工厂用46天拆除了Model S和Model X生产线的混凝土地基、机械臂及输送设备，为Optimus新产线腾出空间，目标年产能100万台；第三代Optimus已开始小规模生产，大规模量产预脈7月底戰8月启动。",
-      "publishedAt": "2026-07-12T10:33:28+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/975/664.htm",
-      "subCategory": "机器人"
-    },
-    {
-      "id": "tech-20260712-009",
-      "title": "启境刘嘉铭：华为 ADS 5 在 WEWA 2.0 架构加持下，会车跟车场景博弈更稳妊",
-      "summary": "启境汽车CEO刘嘉铭表示，华为乾嵤智驾ADS 5在WEWA 2.0架构支持下引入云端多智能体博弈与车端安全风险场技术，使会车、跟车等场景下的决策更加稳妊，该系统将随启境GT7交付搭载。",
-      "publishedAt": "2026-07-12T08:16:03+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/975/642.htm",
-      "subCategory": "智能汽车"
-    },
-    {
-      "id": "tech-20260712-008",
-      "title": "极星退出美国市场后，车主担忧二手残值暴跌、缺乏长期售后支持",
-      "summary": "极星汽车因美国政府相关法规限制被迫退出美国市场，尽管官方承诺保留质保与维修服务，已有车主和经销商担忧车辆二手残值大幅下滑，且未来缺乏稳定的长期售后网络支持。",
-      "publishedAt": "2026-07-12T07:42:17+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/975/637.htm",
-      "subCategory": "智能汽车"
     }
   ]
 }

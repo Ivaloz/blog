@@ -3,8 +3,80 @@
   "slug": "ai",
   "title": "AI 与大模型",
   "description": "大模型、Agent、AI 编程、推理框架、开源模型的发布与落地。",
-  "updatedAt": "2026-07-15T09:20:00+08:00",
+  "updatedAt": "2026-07-15T17:10:00+08:00",
   "items": [
+    {
+      "title": "出版商与作家集体起诉谷歌盗用版权内容训练Gemini，内部文件曾预警千亿罚款风险",
+      "summary": "包括阿歇特出版集团、圣智集团在内的出版商及作家联合起诉谷歌，指控其未经授权使用Google Books等版权作品训练Gemini并删改版权信息，谷歌内部文件曾预警潜在数百亿至数千亿美元罚款。",
+      "publishedAt": "2026-07-15T16:22:00+08:00",
+      "source": "AIbase",
+      "url": "https://news.aibase.com/zh/news/29620",
+      "subCategory": "大模型",
+      "id": "ai-20260715-018"
+    },
+    {
+      "title": "京东AI Agent与腾讯元宝正式打通小程序生态，用户可在对话中直接购物下单",
+      "summary": "京东与腾讯宣布京东AI Agent接入腾讯元宝小程序生态，成为元宝首个电商合作伙伴，用户无需跳转其他应用即可在对话中完成购物下单，购物方式从搜索转向对话式智能体交互。",
+      "publishedAt": "2026-07-15T16:14:00+08:00",
+      "source": "AIbase",
+      "url": "https://news.aibase.com/zh/news/29618",
+      "subCategory": "Agent",
+      "id": "ai-20260715-012"
+    },
+    {
+      "title": "我和「二次元老公」约上会了！全球首个可以玩的实时交互模型，Xmax X2.0发布",
+      "summary": "Xmax发布实时交互视频模型X2.0，支持实时换装换风格、空间维度交互和触屏拖拽操作，采用流式生成架构实现毫秒级响应，可在消费级GPU上以960p24fps运行，并提供手机端版本。",
+      "publishedAt": "2026-07-15T16:09:57+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/07/450130.html",
+      "subCategory": "AI视频",
+      "id": "ai-20260715-011"
+    },
+    {
+      "title": "谷歌 Chrome 安卓版重构底部栏:新增 Gemini 专属按钮并支持多标签页 AI 分析",
+      "summary": "谷歌在Chrome 150安卓版中新增Gemini快捷按钮，可跨多个打开的标签页进行交叉引用、比较和汇总内容，该布局经过约三个月内测后计划下月推广至iOS。",
+      "publishedAt": "2026-07-15T14:54:00+08:00",
+      "source": "AIbase",
+      "url": "https://news.aibase.com/zh/news/29616",
+      "subCategory": "AI应用",
+      "id": "ai-20260715-017"
+    },
+    {
+      "title": "ChatGPT突发重大服务故障，正值GPT-5.6系列模型上线关键期",
+      "summary": "OpenAI官方状态页显示ChatGPT出现错误率上升、部分用户登录失败等问题，故障持续超过20分钟，恰逢GPT-5.6系列新模型Sol、Terra、Luna上线后不久。",
+      "publishedAt": "2026-07-15T13:46:00+08:00",
+      "source": "AIbase",
+      "url": "https://news.aibase.com/zh/news/29612",
+      "subCategory": "AI应用",
+      "id": "ai-20260715-016"
+    },
+    {
+      "title": "GPT-5.6 上线引爆需求：奥尔特曼称上周OpenAI智能体产品用量增长2.5倍",
+      "summary": "OpenAI CEO奥尔特曼透露，7月10日GPT-5.6系列上线后，OpenAI智能体产品Token用量一周内增长2.5倍，旗舰版Sol模型编程能力表现优异，且Token效率提升54%。",
+      "publishedAt": "2026-07-15T13:43:00+08:00",
+      "source": "AIbase",
+      "url": "https://news.aibase.com/zh/news/29611",
+      "subCategory": "Agent",
+      "id": "ai-20260715-013"
+    },
+    {
+      "title": "OPPO与支付宝实现智能体跨端互联，一句话调用阿宝200项办事技能",
+      "summary": "OPPO小布助手与支付宝阿宝智能体实现跨端互联，用户无需打开支付宝App即可通过语音调用约200项生活服务，系统自动完成任务匹配，支付与授权环节仍需用户手动确认。",
+      "publishedAt": "2026-07-15T11:28:00+08:00",
+      "source": "AIbase",
+      "url": "https://news.aibase.com/zh/news/29610",
+      "subCategory": "Agent",
+      "id": "ai-20260715-014"
+    },
+    {
+      "title": "AI 转录 Mac 工具MacWhisper14 发布：新增编辑器视图可直接编辑转录稿，修复CPU占用过高问题",
+      "summary": "本地运行的Mac转录工具MacWhisper发布14.0版本，新增编辑器视图可直接编辑转录稿、重新分配说话人，并修复了Deepgram区域选择、云端上传内存占用及CPU空闲占用过高等问题。",
+      "publishedAt": "2026-07-15T11:21:00+08:00",
+      "source": "AIbase",
+      "url": "https://news.aibase.com/zh/news/29609",
+      "subCategory": "AI音频",
+      "id": "ai-20260715-015"
+    },
     {
       "id": "ai-20260715-007",
       "title": "多名用户警告：OpenAI最新模型GPT-5.6 Sol会未经授权删除用户文件",
@@ -13,6 +85,15 @@
       "source": "IT之家",
       "url": "https://www.ithome.com/0/976/792.htm",
       "subCategory": "AI评测"
+    },
+    {
+      "title": "PalmClaw: A Native On-Device Agent Framework for Mobile Phones",
+      "summary": "研究提出PalmClaw，一款原生运行于手机端的开源智能体框架，直接在设备上管理会话、记忆、技能与工具调用，相比现有GUI操作式移动智能体，任务成功率相对提升11.5%，完成时间减少94.9%。",
+      "publishedAt": "2026-07-15",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2607.13027",
+      "subCategory": "Agent",
+      "id": "ai-20260715-019"
     },
     {
       "id": "ai-20260715-009",
@@ -33,6 +114,15 @@
       "subCategory": "开源模型"
     },
     {
+      "title": "阶跃入局，重构智能体时代操作系统",
+      "summary": "阶跃星辰发布Step AOS，称其为面向智能体设计的操作系统，通过统一调度引擎、语义数据层与原子能力组件解决记忆碎片化和端云协同问题，并同步发布个人智能体Amoo。",
+      "publishedAt": "2026-07-15T02:43:55+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/07/449979.html",
+      "subCategory": "Agent",
+      "id": "ai-20260715-010"
+    },
+    {
       "id": "ai-20260714-013",
       "title": "刚刚，一个免费AI Coding选手杀入全球第一梯队",
       "summary": "Agnes AI发布编码模型Agnes-2.5-Flash及桌面应用Agnes Code，宣布不限期免费开放，测试显示其在漏洞定位修复、独立构建网页应用等任务中与Claude Opus 4.7表现相近，公司还将推出面向复杂工程场景的旗舰版Agnes-2.5-Pro。",
@@ -49,6 +139,15 @@
       "source": "量子位",
       "url": "https://www.qbitai.com/2026/07/449850.html",
       "subCategory": "具身智能"
+    },
+    {
+      "id": "ai-20260715-005",
+      "title": "OpenAI Eases GPT-5.6 Usage Limits, Keeps Weekly Caps",
+      "summary": "OpenAI临时取消Codex与ChatGPT Work在Plus、Business、Pro套餐下的五小时用量窗口限制，但保留每周上限，并为约700万相关账户发放可留存使用的额度重置；因配额统计问题，上下文长度暂男37.2万token降至27.2万token。",
+      "publishedAt": "2026-07-14T12:14:00+02:00",
+      "source": "Winbuzzer",
+      "url": "https://winbuzzer.com/2026/07/14/openai-eases-gpt-56-timing-limits-keeps-weekly-caps-xcxwbn/",
+      "subCategory": "大模型"
     },
     {
       "id": "ai-20260714-011",
@@ -114,15 +213,6 @@
       "subCategory": "开源模型"
     },
     {
-      "id": "ai-20260715-005",
-      "title": "OpenAI Eases GPT-5.6 Usage Limits, Keeps Weekly Caps",
-      "summary": "OpenAI临时取消Codex与ChatGPT Work在Plus、Business、Pro套餐下的五小时用量窗口限制，但保留每周上限，并为约700万相关账户发放可留存使用的额度重置；因配额统计问题，上下文长度暂男37.2万token降至27.2万token。",
-      "publishedAt": "2026-07-14T12:14:00+02:00",
-      "source": "Winbuzzer",
-      "url": "https://winbuzzer.com/2026/07/14/openai-eases-gpt-56-timing-limits-keeps-weekly-caps-xcxwbn/",
-      "subCategory": "大模型"
-    },
-    {
       "id": "ai-20260714-005",
       "title": "爱诗科技完成29.8亿元C轮融资，阿里巴巴领投C+轮",
       "summary": "AI视频生成公司爱诗科技宣布完成总额29.8亿元的C轮融资，其中C+轮由阿里巴巴领投，另有十余家国内外机构跟投。资金将用于视频生成基础模型、实时世界模型研发及全球化拓展，旗下产品PixVerse全球用户已超1.5亿。",
@@ -175,6 +265,15 @@
       "source": "AIbase",
       "url": "https://news.aibase.com/zh/news/29579",
       "subCategory": "大模型"
+    },
+    {
+      "id": "ai-20260713-011",
+      "title": "Anthropic starts localizing Claude pricing for India, its biggest market after the US",
+      "summary": "Anthropic为印度用户推出卢比定价，Claude Pro年付约每月2000卢比、Max约11999卢比、团队版约2399卢比每席位，均高于美国价格。印度占Claude全球使用量5.8%，是其第二大市场，但目前尚未支持UPI支付方式。",
+      "publishedAt": "2026-07-13T08:34:00-07:00",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/13/anthropic-starts-localizing-claude-pricing-for-india-its-biggest-market-after-the-us/",
+      "subCategory": "AI应用"
     },
     {
       "id": "ai-20260714-002",
@@ -285,15 +384,6 @@
       "id": "ai-20260713-003"
     },
     {
-      "id": "ai-20260713-011",
-      "title": "Anthropic starts localizing Claude pricing for India, its biggest market after the US",
-      "summary": "Anthropic为印度用户推出卢比定价，Claude Pro年付约每月2000卢比、Max约11999卢比、团队版约2399卢比每席位，均高于美国价格。印度占Claude全球使用量5.8%，是其第二大市场，但目前尚未支持UPI支付方式。",
-      "publishedAt": "2026-07-13T08:34:00-07:00",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/13/anthropic-starts-localizing-claude-pricing-for-india-its-biggest-market-after-the-us/",
-      "subCategory": "AI应用"
-    },
-    {
       "id": "ai-20260713-012",
       "title": "Metacognition in LLMs: Foundations, Progress, and Opportunities",
       "summary": "这篇综述系统梳理了大语言模型元认知能力的研究进展，涵盖测量方法、增强技术及其在提升AI系统可靠性和智能水平方面的应用，总结了现有研究分类体系并指出未来方向，作者在GitHub整理了相关资源列表。",
@@ -373,6 +463,15 @@
       "source": "Politics Nigeria",
       "url": "https://politicsnigeria.com/2026/07/11/how-boko-haram-secretly-uses-ai-to-build-bombs-improve-deadly-attacks-report/",
       "subCategory": "论文进展"
+    },
+    {
+      "title": "Anthropic highlights Claude Code's in-app browser on the desktop",
+      "summary": "Anthropic为Claude Code桌面版新增内置浏览器功能，可直接访问和交互网页、文档与设计稿；浏览器运行在独立沙盒环境中，与用户个人浏览数据隔离，会话是否保留可配置，此举被视为对同类桌面端浏览器功能的跟进。",
+      "publishedAt": "2026-07-10T10:54:00-07:00",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/07/10/anthropic-highlights-claude-codes-in-app-browser-on-the-desktop/",
+      "subCategory": "AI编程",
+      "id": "ai-20260711-004"
     },
     {
       "id": "ai-20260710-108",
@@ -492,42 +591,6 @@
       "id": "ai-20260711-001"
     },
     {
-      "title": "Anthropic highlights Claude Code's in-app browser on the desktop",
-      "summary": "Anthropic为Claude Code桌面版新增内置浏览器功能，可直接访问和交互网页、文档与设计稿；浏览器运行在独立沙盒环境中，与用户个人浏览数据隔离，会话是否保留可配置，此举被视为对同类桌面端浏览器功能的跟进。",
-      "publishedAt": "2026-07-10T10:54:00-07:00",
-      "source": "9to5Mac",
-      "url": "https://9to5mac.com/2026/07/10/anthropic-highlights-claude-codes-in-app-browser-on-the-desktop/",
-      "subCategory": "AI编程",
-      "id": "ai-20260711-004"
-    },
-    {
-      "id": "ai-20260710-003",
-      "title": "OpenAI推出ChatGPT Work智能体，可独立执行数小时级工作任务",
-      "summary": "OpenAI发布由GPT-5.6驱动的ChatGPT Work智能体，能跨应用收集信息、将目标拆解为步骤并独立完成，产出文档、表格、幻灯片和网页应用，先向Pro与企业版用户开放，随后扩展至其他套餐。",
-      "publishedAt": "2026-07-10T01:57:00+08:00",
-      "source": "Android Authority",
-      "url": "https://www.androidauthority.com/chatgpt-work-launch-3685935/",
-      "subCategory": "Agent"
-    },
-    {
-      "id": "ai-20260710-005",
-      "title": "Meta发布Muse Spark 1.1更新，编程与推理能力提升",
-      "summary": "Meta Superintelligence Labs发布Muse Spark 1.1更新版模型，在编程、视频描述和推理任务上有提升，官方称在部分编程与推理基准上超过Google Gemini，目前以公开预览形式接入Meta AI应用及开发者API。",
-      "publishedAt": "2026-07-10T00:54:00+08:00",
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/07/09/meta-muse-spark-1-1-release-alexandr-wang-superintelligence-labs-mark-zuckerberg/",
-      "subCategory": "大模型"
-    },
-    {
-      "id": "ai-20260710-002",
-      "title": "OpenAI正式发布GPT-5.6系列模型Sol、Terra、Luna",
-      "summary": "OpenAI于7月9日在ChatGPT、ChatGPT Work、Codex及API全面上线GPT-5.6系列，旗舰版Sol、均衡版Terra与轻量版Luna定价分别为每百万输入输出token5/30、2.5/15、1/6美元，面向全球逐步推出。",
-      "publishedAt": "2026-07-10T00:45:00+08:00",
-      "source": "9to5Mac",
-      "url": "https://9to5mac.com/2026/07/09/openai-announcing-the-next-chapter-for-chatgpt-today-watch-here/",
-      "subCategory": "大模型"
-    },
-    {
       "id": "ai-20260710-103",
       "title": "全球首款AI智能体手机下周发布，阶跃星辰与努比亚争夺\"首发\"称号",
       "summary": "阶跃星辰宣布将于7月13日发布AI终端品牌、智能体操作系统及首款AI智能体手机，由华勤技术代工；努比亚同期宣布将于WAIC 2026发布同类AI智能体旗舰手机。",
@@ -564,6 +627,33 @@
       "subCategory": "AI编程"
     },
     {
+      "id": "ai-20260710-003",
+      "title": "OpenAI推出ChatGPT Work智能体，可独立执行数小时级工作任务",
+      "summary": "OpenAI发布由GPT-5.6驱动的ChatGPT Work智能体，能跨应用收集信息、将目标拆解为步骤并独立完成，产出文档、表格、幻灯片和网页应用，先向Pro与企业版用户开放，随后扩展至其他套餐。",
+      "publishedAt": "2026-07-10T01:57:00+08:00",
+      "source": "Android Authority",
+      "url": "https://www.androidauthority.com/chatgpt-work-launch-3685935/",
+      "subCategory": "Agent"
+    },
+    {
+      "id": "ai-20260710-005",
+      "title": "Meta发布Muse Spark 1.1更新，编程与推理能力提升",
+      "summary": "Meta Superintelligence Labs发布Muse Spark 1.1更新版模型，在编程、视频描述和推理任务上有提升，官方称在部分编程与推理基准上超过Google Gemini，目前以公开预览形式接入Meta AI应用及开发者API。",
+      "publishedAt": "2026-07-10T00:54:00+08:00",
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/07/09/meta-muse-spark-1-1-release-alexandr-wang-superintelligence-labs-mark-zuckerberg/",
+      "subCategory": "大模型"
+    },
+    {
+      "id": "ai-20260710-002",
+      "title": "OpenAI正式发布GPT-5.6系列模型Sol、Terra、Luna",
+      "summary": "OpenAI于7月9日在ChatGPT、ChatGPT Work、Codex及API全面上线GPT-5.6系列，旗舰版Sol、均衡版Terra与轻量版Luna定价分别为每百万输入输出token5/30、2.5/15、1/6美元，面向全球逐步推出。",
+      "publishedAt": "2026-07-10T00:45:00+08:00",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/07/09/openai-announcing-the-next-chapter-for-chatgpt-today-watch-here/",
+      "subCategory": "大模型"
+    },
+    {
       "id": "ai-20260709-108",
       "title": "OpenAI首席未来学家Joshua Achiam宣布离职",
       "summary": "OpenAI首席未来学家Joshua Achiam宣布将于7月24日离职，此前他领导Mission Alignment团队。此次离职是OpenAI近期一系列安全相关人员变动中的最新一例。",
@@ -589,24 +679,6 @@
       "source": "量子位",
       "url": "https://www.qbitai.com/2026/07/446458.html",
       "subCategory": "具身智能"
-    },
-    {
-      "title": "马斯克xAI首个编程智能体模型Grok 4.5发布，与Cursor联合训练",
-      "summary": "马斯克旗下xAI发布首款编程智能体模型Grok 4.5，与Cursor联合训练，token消耗为同类模型一半，速度达每秒80 token。输入价格降至每百万token 2美元，输出6美元，已上线Grok Build及Cursor，欧洲版预脈7月中旬推出。",
-      "publishedAt": "2026-07-09T06:51:25+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/974/278.htm",
-      "subCategory": "AI编程",
-      "id": "ai-20260709-900"
-    },
-    {
-      "title": "OpenAI最智能语音模型：GPT-Live-1/mini登场",
-      "summary": "OpenAI推出新一代全双工语音模型GPT-Live系列，包含面向付费订阅用户的GPT-Live-1及面向免费用户的GPT-Live-1 mini，支持边听边说、并行处理输入输出，复杂任务交由后台GPT-5.5系统处理，官方称对话流畅度评分高于此前的高级语音模式。",
-      "publishedAt": "2026-07-09T06:41:35+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/974/277.htm",
-      "subCategory": "AI音频",
-      "id": "ai-20260709-901"
     },
     {
       "id": "ai-20260709-103",
@@ -652,141 +724,6 @@
       "source": "Hugging Face Daily Papers (Meta AI)",
       "url": "https://huggingface.co/papers/2607.08716",
       "subCategory": "论文进展"
-    },
-    {
-      "id": "ai-20260709-404",
-      "title": "Artificial Analysis发布GPT-5.6系列基准测试结果",
-      "summary": "评测机构Artificial Analysis对GPT-5.6系列进行基准测试，旗舰版Sol在智能指数中获59分，仅次于Claude Fable 5的60分，但单任务成本约为对手的三分之一，在编程智能体指数中排名第一。",
-      "publishedAt": "2026-07-09",
-      "source": "Artificial Analysis",
-      "url": "https://artificialanalysis.ai/articles/gpt-5-6-has-landed",
-      "subCategory": "AI评测"
-    },
-    {
-      "id": "ai-20260708-506",
-      "title": "OpenAI宣布GPT-5.6系列Sol、Terra、Luna将于7月9日公开发布",
-      "summary": "OpenAI宣布GPT-5.6系列模型Sol、Terra、Luna将于7月9日正式向公众开放，预览访问权限现已在全球范围扩大。Sol面向复杂推理和智能体任务，新增最大推理强度与可调用子智能体的Ultra模式，此前因美国政府审查曾延迟发布。",
-      "publishedAt": "2026-07-08T22:15:00+08:00",
-      "source": "9to5Mac",
-      "url": "https://9to5mac.com/2026/07/08/openai-shares-update-on-gpt-5-6-availability-after-holding-back-release/",
-      "subCategory": "大模型"
-    },
-    {
-      "id": "ai-20260708-505",
-      "title": "字节跳动发布多模态图像创作模型Seedream 5.0 Pro",
-      "summary": "字节跳动发布多模态图像创作模型Seedream 5.0 Pro，在图文匹配、结构合理性、文字渲染和画面美感上全面提升，支持复杂信息可视化排版与点选、涂殖等交互式精准编辑，已在火山方舟体验中心上线，后续将接入豆包和即梓。",
-      "publishedAt": "2026-07-08T21:33:51+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/974/249.htm",
-      "subCategory": "多模态"
-    },
-    {
-      "id": "ai-20260708-504",
-      "title": "魔芯科技发布国产NPU实时交互世界模型MoWorld，推理超50FPS",
-      "summary": "魔芯科技联合浙江大学、华为发布全栈基于国产NPU的实时交互世界模型MoWorld，推理速度超过50FPS，部署成本降至同规模GPU方案的30%，可用于游戏、自动驾驶仿真、影视制作等场景，公司近期完成数亿美元融资。",
-      "publishedAt": "2026-07-08T21:29:44+08:00",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/07/446411.html",
-      "subCategory": "AI视频"
-    },
-    {
-      "id": "ai-20260708-503",
-      "title": "具身智能评测基准RoboDojo公布结果：真实世界最强模型成功率仅12.8%",
-      "summary": "由RoboTwin团队推出的具身智能评测基准RoboDojo公布评测结果，仿真环境42项任务人类专家成功率76%，真实机器人18项任务人类可达100%，而表现最好的模型真实世界成功率仅12.8%，开放语义任务成功率不足2%。",
-      "publishedAt": "2026-07-08T21:07:30+08:00",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/07/446363.html",
-      "subCategory": "AI评测"
-    },
-    {
-      "id": "ai-20260708-502",
-      "title": "Cloudflare与OpenAI启动研究试点，利用网络信号数据提升AI搜索效率",
-      "summary": "Cloudflare与OpenAI宣布启动研究试点项目，利用Cloudflare全球网络中的内容新鲜度、流量质量等信号数据，帮助AI搜索更高效发现和索引网页内容，双方将联合研究信号驱动的抓取与索引技术，以提升AI回答的准确性与时效性。",
-      "publishedAt": "2026-07-08T20:39:11+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/974/235.htm",
-      "subCategory": "AI应用"
-    },
-    {
-      "id": "ai-20260708-501",
-      "title": "智源悟界·RoboBrain Orca技术报告发布：先学世界状态表征再衡生动作能力",
-      "summary": "智源研究院悟界团队发布RoboBrain Orca技术报告，提出让模型先学习世界状态表征、再衡生理解预测与动作能力的具身大脑范式，基于12.5万小时视频和1.6亿条事件标注训练，验证效果后登上Hugging Face月度论文榜首。",
-      "publishedAt": "2026-07-08T17:08:31+08:00",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/07/446075.html",
-      "subCategory": "具身智能"
-    },
-    {
-      "title": "翁菓新博客提出「自进化先从Harness开始」，DeepSeek崔添噒转发附议",
-      "summary": "前OpenAI安全负责人翁菓发文提出智能体自我进化应从优化外部Harness系统入手，而非直接修改模型权重，DeepSeek研究员崔添噒转发认同，认为基于Harness的自我改进与基于模型路径同样具有突破潜力。",
-      "publishedAt": "2026-07-08T16:55:30+08:00",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/07/446076.html",
-      "subCategory": "Agent",
-      "id": "ai-20260708-902"
-    },
-    {
-      "id": "ai-20260708-005",
-      "title": "阿里斗获国际AI顶会最佳资源论文奖，提出Agent评测新范式",
-      "summary": "阿里研究团队论文获ACL 2026最佳资源论文奖，为12148篇投稿中仅四篇获奖论文之一；提出HS Code场景的HSCodeComp基准，最佳Agent系统准确率仅45%，远低于人类专家95%，阿里自研框架达65%，数据集已开源。",
-      "publishedAt": "2026-07-08T15:51:26+08:00",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/07/446069.html",
-      "subCategory": "AI评测"
-    },
-    {
-      "id": "ai-20260708-006",
-      "title": "高德发布Phys AI Data：首个面向物理AI训练与应用的一站式空间数据基座",
-      "summary": "高德发布Phys AI Data，包含数据工厂Phys AI Foundry和空间智能系统Phys AI Map两大产品，整合真实机器人数据采集、合成数据生成与仿真重建，室内覆盖90%高流量场所，通过标准化API向具身智能行业开放。",
-      "publishedAt": "2026-07-08T15:42:27+08:00",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/07/445946.html",
-      "subCategory": "具身智能"
-    },
-    {
-      "id": "ai-20260708-004",
-      "title": "支持17家机器人厂商有20多种构型，蚂蚁灵波LingBot-VLA 2.0正式开源",
-      "summary": "蚂蚁灵波开源LingBot-VLA 2.0，基于6万小时真实物理数据训练，支持17家机器人厂商20余种构型，新增头部、腰部、移动底盘控制，RTX 4090上推理延迟低于130毫秒，双臂及长序列任务表现超越π0.5和GR00T N1.7。",
-      "publishedAt": "2026-07-08T11:04:00+08:00",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/07/445668.html",
-      "subCategory": "具身智能"
-    },
-    {
-      "id": "ai-20260708-001",
-      "title": "超 90% 使用非代码开发，Claude Cowork 扩展至网页与手机端",
-      "summary": "Anthropic宣布Claude Cowork从桌面端扩展至网页和手机端，先面向Max用户公测；官方称超九成使用场景为非编程知识工作，支持跨设备任务续接与后台运行，测试期使用额度翻倍至8月5日。",
-      "publishedAt": "2026-07-08T07:38:05+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/973/828.htm",
-      "subCategory": "Agent"
-    },
-    {
-      "id": "ai-20260708-003",
-      "title": "Meta 超级智能实验室首个自研 AI 图像生成模型 Muse Image 发布，免费登陆 Instagram 与 WhatsApp",
-      "summary": "Meta超级智能实验室发布首款自研图像生成模型Muse Image，已上线Meta AI应用，并免费接入Instagram Stories新增30余种特效以及WhatsApp对话生成图片，后续将扩展至Facebook和Messenger。",
-      "publishedAt": "2026-07-08T07:17:26+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/973/820.htm",
-      "subCategory": "多模态"
-    },
-    {
-      "id": "ai-20260708-002",
-      "title": "减少对外依赖：微软自研 AI 模型 MAI 开始接手 Office 应用，逐步替代 OpenAI 和 Anthropic",
-      "summary": "据报道，微软自研AI模型MAI已开始接管Excel、Outlook等Office应用中的部分任务，逐步替代OpenAI和Anthropic模型以降低成本，目前MAI每周处理数万条AI提示，占比仍较小。",
-      "publishedAt": "2026-07-08T06:47:35+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/973/815.htm",
-      "subCategory": "大模型"
-    },
-    {
-      "id": "ai-20260709-101",
-      "title": "Mistral AI发布具身导航模型Robostral Navigate",
-      "summary": "Mistral AI发堄8B参数的Robostral Navigate模型，仅凭单个RGB摄像头即可让机器人在复杂环境中完成导航，在R2R-CE未见场景验证集上取得76.6%的成功率。",
-      "publishedAt": "2026-07-08",
-      "source": "Mistral AI",
-      "url": "https://mistral.ai/news/robostral-navigate/",
-      "subCategory": "具身智能"
     }
   ]
 }

@@ -3,8 +3,107 @@
   "slug": "finance",
   "title": "投资与财经",
   "description": "宏观经济、A 股 / 港股 / 美股、一级市场融资、行业研报观点。",
-  "updatedAt": "2026-07-15T09:20:00+08:00",
+  "updatedAt": "2026-07-15T17:10:00+08:00",
   "items": [
+    {
+      "title": "港股收评：恒指涨1.4% 科指涨1.3% 科网股、AI应用股普涨 生物医药股强势 MINIMAX涨超13%",
+      "summary": "港股三大指数收盘集体上涨，恒生指数涨1.4%报24681.1点，恒生科技指数涨1.3%，国企指数涨1%，美团涨超5%，腾讯、联想涨超3%，MINIMAX涨超13%。",
+      "publishedAt": "2026-07-15T16:08:00+08:00",
+      "source": "新浪财经",
+      "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-07-15/doc-inihwrqy7941599.shtml",
+      "subCategory": "港股",
+      "id": "finance-20260715-013"
+    },
+    {
+      "title": "ASML rises 5% after hiking sales forecast for second time this year on strong AI chip demand",
+      "summary": "阿斯麦（ASML）二季度净销售额93亿欧元、净利润29亿欧元均超市场预期，并将全年销售指引上调至430亿至450亿欧元，为年内第二次上调，股价一度上涨超7%。",
+      "publishedAt": "2026-07-15T13:10:18+08:00",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/07/15/asml-2q-earnings-ai-chips-orders.html",
+      "subCategory": "公司财报",
+      "id": "finance-20260715-011"
+    },
+    {
+      "title": "A股午评：超3600只个股上涨，三大指数集体飘绿",
+      "summary": "A股午盘三大指数集体下跌，上证指数跌0.08%，深证成指跌0.38%，创业板指跌0.36%，科创50跌超3%，半导体板块回调，创新药、生物医药板块逆势走强。",
+      "publishedAt": "2026-07-15T12:27:00+08:00",
+      "source": "中国新闻网",
+      "url": "https://www.chinanews.com.cn/cj/2026/07-15/10659674.shtml",
+      "subCategory": "A股",
+      "id": "finance-20260715-015"
+    },
+    {
+      "title": "Oil rises after another round of U.S. strikes against Iran, naval blockade of the country's ports",
+      "summary": "美国对伊朗发动新一轮军事打击并恢复对伊朗港口的海上封锁，WTI原油8月合约上涨0.45%至79.70美元/桶，布伦特9月合约上涨0.68%至85.31美元/桶。",
+      "publishedAt": "2026-07-15T10:57:30+08:00",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/07/15/oil-prices-today-brent-wti-hormuz-blockade.html",
+      "subCategory": "大宗商品",
+      "id": "finance-20260715-008"
+    },
+    {
+      "title": "国家统计局：6月份规上工业发电量8276亿千瓦时 同比增长2.0%",
+      "summary": "国家统计局数据显示，6月份规模以上工业发电量8276亿千瓦时，同比增长2.0%，日均发电275.9亿千瓦时；同期规上工业原煤产量3.8亿吨，同比下降9.7%。",
+      "publishedAt": "2026-07-15T10:11:00+08:00",
+      "source": "证券时报",
+      "url": "https://www.stcn.com/article/detail/4020160.html",
+      "subCategory": "宏观经济",
+      "id": "finance-20260715-016"
+    },
+    {
+      "title": "Dollar struggles as softer inflation dims Fed hike bets",
+      "summary": "美国6月CPI环比下降0.4%、同比升至3.5%，涨幅低于市场预期，交易员下调美联储近期加息押注，美元指数走弱至100.81，两年期美债收益率随之回落。",
+      "publishedAt": "2026-07-15T10:10:20+08:00",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/07/15/dollar-struggles-as-softer-inflation-dims-fed-hike-bets.html",
+      "subCategory": "政策利率",
+      "id": "finance-20260715-009"
+    },
+    {
+      "title": "China posts slowest quarterly growth since 2022 as investment slumps, fanning stimulus calls",
+      "summary": "中国二季度GDP同比增长4.3%，低于市场预期的4.5%，也较一季度5%的增速放缓，为2022年四季度以来最慢增速，同期城镇固定资产投资同比下降5.7%。",
+      "publishedAt": "2026-07-15T10:03:49+08:00",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/07/15/china-gdp-retail-sales-investment-june-.html",
+      "subCategory": "宏观经济",
+      "id": "finance-20260715-010"
+    },
+    {
+      "title": "CNBC Daily Open: Trump walks back on Hormuz tolls in TACO Tuesday",
+      "summary": "特朗普撤回此前对过境霍尔木兹海峡船只征收通行费的提议，改由海湾国家以对美投资形式支付相关费用，美国同时继续对伊朗展开军事打击行动。",
+      "publishedAt": "2026-07-15T09:19:41+08:00",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/07/15/cnbc-daily-open-trump-hormuz-fees-us-stocks-tech-fed.html",
+      "subCategory": "风险事件",
+      "id": "finance-20260715-012"
+    },
+    {
+      "title": "央行今日开展14000亿元 6个月期买断式逆回购操作",
+      "summary": "中国人民银行7月15日开展14000亿元6个月期买断式逆回购操作，因当月到期规模为9000亿元，操作后实现净投放5000亿元，为3月以来首次加量续做。",
+      "publishedAt": "2026-07-15T06:57:00+08:00",
+      "source": "新浪财经",
+      "url": "https://finance.sina.com.cn/jjxw/2026-07-15/doc-inihvqct7964124.shtml",
+      "subCategory": "政策利率",
+      "id": "finance-20260715-014"
+    },
+    {
+      "id": "finance-20260715-001",
+      "title": "Stock market today: Dow, S&P 500, Nasdaq rise as Fed rate-hike bets ease, chip stocks rally",
+      "summary": "美股三大指攇14日收盘全线上涨，标普500指数涨0.4%，纳斯达克指数涨0.9%，道指基本持平。6月CPI同比升3.5%，低于市场预期的3.8%，缓解了市场对美联储加息的担忧，半导体股跟随反弹，VanEck半导体ETF涨约2.5%。",
+      "publishedAt": "2026-07-14T15:07:00-05:00",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-july-14-dow-sp-500-nasdaq-070833816.html",
+      "subCategory": "美股"
+    },
+    {
+      "id": "finance-20260715-005",
+      "title": "DeepSeek reportedly in talks to raise $1.5B, then IPO",
+      "summary": "据报道，中国人工智能公司DeepSeek正洽谈新一轮约15亿美元融资，估值约710亿美元。此前一个月该公司完成70亿美元融资，估值500亿美元，为其首轮外部融资。公司同时在筹划最早于年底、正式目标为2027年的IPO，投资方包括腾讯及北京人工智能产业投资基金。",
+      "publishedAt": "2026-07-14T09:45:00-07:00",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/14/deepseek-reportedly-in-talks-to-raise-1-5b-then-ipo/",
+      "subCategory": "一级市场"
+    },
     {
       "id": "finance-20260714-022",
       "title": "霍尔木兹风险蔓延：受冲击的不只是石油，还有AI芯片、化肥和铝！",
@@ -31,6 +130,24 @@
       "source": "华尔街见闻",
       "url": "https://wallstreetcn.com/livenews/3133757",
       "subCategory": "美股"
+    },
+    {
+      "id": "finance-20260714-026",
+      "title": "Exclusive-Data center firm Switch taps banks for IPO that could value it up to $80 billion, sources say",
+      "summary": "据报道，数据中心运营商Switch已聘请高盛、摩根大通担任上市承销商，筹划首次公开发行，计划最快于今年四季度进行，募资规模约100亿美元，计入债务后估值或接近800亿美元；公司客户包括英伟达、戴尔科技等。",
+      "publishedAt": "2026-07-14T10:22:00-05:00",
+      "source": "Reuters",
+      "url": "https://finance.yahoo.com/technology/articles/exclusive-data-center-firm-switch-152221299.html",
+      "subCategory": "一级市场"
+    },
+    {
+      "id": "finance-20260714-025",
+      "title": "IBM stock plummets more than 25% on Q2 earnings warning",
+      "summary": "IBM发布二季度业绩预警，调整后每股收益2.93美元、营收172亿美元，均低于市场预期的3.02美元和178.6亿美元，公司股价应声大跌超25%；CEO克里希纳称6月末客户加速将资本支出转向服务器、存储和内存采购，以在预期涨价前锁定供应。",
+      "publishedAt": "2026-07-14T10:06:00-05:00",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/news/ibm-stock-plummets-more-than-25-on-q2-earnings-warning-150605880.html",
+      "subCategory": "公司财报"
     },
     {
       "id": "finance-20260714-018",
@@ -78,6 +195,24 @@
       "subCategory": "宏观经济"
     },
     {
+      "id": "finance-20260714-024",
+      "title": "Treasuries Rally as Cool CPI Data Cuts July Fed Hike Bets to 20%",
+      "summary": "美国6月CPI环比降0.4%，同比升3.5%，核心CPI环比持平、同比升2.6%；数据公布后，利率互换市场隐含的美联储7月加息概率从此前逸 40%降至约20%，两年期美债收益率一度跌14个基点至4.14%，创2月以来最大单日跌幅。",
+      "publishedAt": "2026-07-14T07:47:00-05:00",
+      "source": "Bloomberg",
+      "url": "https://finance.yahoo.com/economy/policy/articles/treasuries-rally-cool-cpi-data-124705075.html",
+      "subCategory": "政策利率"
+    },
+    {
+      "id": "finance-20260715-007",
+      "title": "JPMorgan Chase Q2 2026 earnings: Record profit on trading surge",
+      "summary": "摩根大通公布二季度业绩，净利润达212亿美元，创单季历史新高，每股收益7.70美元，主要受股票交易收入大增及持有的Visa股权4.6亿美元收益推动。总营收同比增长27%至580亿美元，各业务线均创纪录，但公司股价盘前一度下跌逸2%。",
+      "publishedAt": "2026-07-14T06:54:00-05:00",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/jpmorgan-chase-q2-2026-earnings-115434127.html",
+      "subCategory": "公司财报"
+    },
+    {
       "id": "finance-20260715-002",
       "title": "港股14日涨0.52% 收扂24340.73点",
       "summary": "香港恒生指攇14日上涨127.01点，涨幅0.52%，收扂24340.73点，主板成交额约312.9亿港元。国企指数涨0.46%，恒生科技指数涨0.06%。能源股表现活跃，石油股涨幅在2.43%至3.46%之间，中国人寿涨4%。",
@@ -96,13 +231,13 @@
       "subCategory": "A股"
     },
     {
-      "id": "finance-20260715-001",
-      "title": "Stock market today: Dow, S&P 500, Nasdaq rise as Fed rate-hike bets ease, chip stocks rally",
-      "summary": "美股三大指攇14日收盘全线上涨，标普500指数涨0.4%，纳斯达克指数涨0.9%，道指基本持平。6月CPI同比升3.5%，低于市场预期的3.8%，缓解了市场对美联储加息的担忧，半导体股跟随反弹，VanEck半导体ETF涨约2.5%。",
-      "publishedAt": "2026-07-14T15:07:00-05:00",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-july-14-dow-sp-500-nasdaq-070833816.html",
-      "subCategory": "美股"
+      "id": "finance-20260714-013",
+      "title": "Ericsson reports second quarter results 2026",
+      "summary": "爱立信公布2026年第二季度财报，净销售额527亿瑞典克朗，同比下降6%（有机口径降1%），主因专利授权收入减少；调整后毛利率48.4%，调整后息税前利涤65.2亿克朗超市场预期，净利涤41亿克朗，每股收益1.22克朗，同比下滑。",
+      "publishedAt": "2026-07-14T01:45:00-04:00",
+      "source": "PR Newswire",
+      "url": "https://www.prnewswire.com/news-releases/ericsson-reports-second-quarter-results-2026-302824683.html",
+      "subCategory": "公司财报"
     },
     {
       "id": "finance-20260714-010",
@@ -141,33 +276,6 @@
       "subCategory": "A股"
     },
     {
-      "id": "finance-20260714-026",
-      "title": "Exclusive-Data center firm Switch taps banks for IPO that could value it up to $80 billion, sources say",
-      "summary": "据报道，数据中心运营商Switch已聘请高盛、摩根大通担任上市承销商，筹划首次公开发行，计划最快于今年四季度进行，募资规模约100亿美元，计入债务后估值或接近800亿美元；公司客户包括英伟达、戴尔科技等。",
-      "publishedAt": "2026-07-14T10:22:00-05:00",
-      "source": "Reuters",
-      "url": "https://finance.yahoo.com/technology/articles/exclusive-data-center-firm-switch-152221299.html",
-      "subCategory": "一级市场"
-    },
-    {
-      "id": "finance-20260714-025",
-      "title": "IBM stock plummets more than 25% on Q2 earnings warning",
-      "summary": "IBM发布二季度业绩预警，调整后每股收益2.93美元、营收172亿美元，均低于市场预期的3.02美元和178.6亿美元，公司股价应声大跌超25%；CEO克里希纳称6月末客户加速将资本支出转向服务器、存储和内存采购，以在预期涨价前锁定供应。",
-      "publishedAt": "2026-07-14T10:06:00-05:00",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/news/ibm-stock-plummets-more-than-25-on-q2-earnings-warning-150605880.html",
-      "subCategory": "公司财报"
-    },
-    {
-      "id": "finance-20260715-005",
-      "title": "DeepSeek reportedly in talks to raise $1.5B, then IPO",
-      "summary": "据报道，中国人工智能公司DeepSeek正洽谈新一轮约15亿美元融资，估值约710亿美元。此前一个月该公司完成70亿美元融资，估值500亿美元，为其首轮外部融资。公司同时在筹划最早于年底、正式目标为2027年的IPO，投资方包括腾讯及北京人工智能产业投资基金。",
-      "publishedAt": "2026-07-14T09:45:00-07:00",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/14/deepseek-reportedly-in-talks-to-raise-1-5b-then-ipo/",
-      "subCategory": "一级市场"
-    },
-    {
       "id": "finance-20260715-006",
       "title": "专注AI视频生成大模型，爱诗科技完成29.8亿元C轮融资",
       "summary": "AI视频生成公司爱诗科技完成总额29.8亿元人民币的C轮融资，其中C+轮由阿里巴巴领投，另有王慧文家族办公室、蓝驰创投等十余家机构跟投。资金将主要用于视频生成基础模型、实时世界模型研发及全球化产品拓展。",
@@ -175,24 +283,6 @@
       "source": "投资界",
       "url": "https://news.pedaily.cn/202607/566238.shtml",
       "subCategory": "一级市场"
-    },
-    {
-      "id": "finance-20260714-024",
-      "title": "Treasuries Rally as Cool CPI Data Cuts July Fed Hike Bets to 20%",
-      "summary": "美国6月CPI环比降0.4%，同比升3.5%，核心CPI环比持平、同比升2.6%；数据公布后，利率互换市场隐含的美联储7月加息概率从此前逸 40%降至约20%，两年期美债收益率一度跌14个基点至4.14%，创2月以来最大单日跌幅。",
-      "publishedAt": "2026-07-14T07:47:00-05:00",
-      "source": "Bloomberg",
-      "url": "https://finance.yahoo.com/economy/policy/articles/treasuries-rally-cool-cpi-data-124705075.html",
-      "subCategory": "政策利率"
-    },
-    {
-      "id": "finance-20260715-007",
-      "title": "JPMorgan Chase Q2 2026 earnings: Record profit on trading surge",
-      "summary": "摩根大通公布二季度业绩，净利润达212亿美元，创单季历史新高，每股收益7.70美元，主要受股票交易收入大增及持有的Visa股权4.6亿美元收益推动。总营收同比增长27%至580亿美元，各业务线均创纪录，但公司股价盘前一度下跌逸2%。",
-      "publishedAt": "2026-07-14T06:54:00-05:00",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/jpmorgan-chase-q2-2026-earnings-115434127.html",
-      "subCategory": "公司财报"
     },
     {
       "id": "finance-20260714-002",
@@ -222,13 +312,58 @@
       "subCategory": "大宗商品"
     },
     {
-      "id": "finance-20260714-013",
-      "title": "Ericsson reports second quarter results 2026",
-      "summary": "爱立信公布2026年第二季度财报，净销售额527亿瑞典克朗，同比下降6%（有机口径降1%），主因专利授权收入减少；调整后毛利率48.4%，调整后息税前利涤65.2亿克朗超市场预期，净利涤41亿克朗，每股收益1.22克朗，同比下滑。",
-      "publishedAt": "2026-07-14T01:45:00-04:00",
-      "source": "PR Newswire",
-      "url": "https://www.prnewswire.com/news-releases/ericsson-reports-second-quarter-results-2026-302824683.html",
+      "id": "finance-20260714-001",
+      "title": "特斯拉：2025年全球交付163.6万辆，净利涤38亿美元，同比下降46%",
+      "summary": "特斯拉2025财年数据显示，全球交付163.6万辆，GAAP净利涤38亿美元，较2024年的71亿美元下降46%；单车利涤从约3969美元降至约2323美元，降幅41%，较2022年峰值9500美元已下滑逸七成。报告将利涤下滑归因于产品结构失衡（Model S/X停产、Cybertruck销量不及预期）、依赖欧洲低价走量车型及自动驾驶高研发投入。",
+      "publishedAt": "2026-07-13T21:41:00+08:00",
+      "source": "新浪科技",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-07-13/doc-inihspyw8847685.shtml",
       "subCategory": "公司财报"
+    },
+    {
+      "id": "finance-20260713-008",
+      "title": "港股收评：恒指涨0.16% 科指跌0.96% PCB概念、半导体板块集体调整",
+      "summary": "7月13日港股收盘，恒生指数涨0.16%抺24213.72点，恒生科技指数跌0.96%，国企指数涨0.33%。石油股走强，建滤积层板跌超18%，兆易创新跌超15%，PCB及半导体板块集体调整。",
+      "publishedAt": "2026-07-13T16:08:00+08:00",
+      "source": "新浪财经",
+      "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-07-13/doc-inihrxaz4305511.shtml",
+      "subCategory": "港股"
+    },
+    {
+      "id": "finance-20260713-011",
+      "title": "Oil prices jump and Asian shares slip as US and Iran carry out airstrikes",
+      "summary": "美伊新一轮空袭后，国际油价上涨，布伦特原油涨3.6%扸7月14美元/桶。亚太股市多数下跌：日经225跌1.9%，韩国Kospi暴跌9%至6806.93点，SK海力士跌15.4%，三星电子跌10.7%；港股逆势微涨0.2%，沪指跌2.1%。",
+      "publishedAt": "2026-07-13T03:36:00-04:00",
+      "source": "Associated Press",
+      "url": "https://www.news4jax.com/business/2026/07/13/oil-prices-jump-and-asian-shares-slip-as-us-and-iran-carry-out-airstrikes/",
+      "subCategory": "风险事件"
+    },
+    {
+      "id": "finance-20260713-009",
+      "title": "Oil prices spike on fresh US-Iran attacks, tech hammers on stocks again",
+      "summary": "受美伊在霍尔木兹海峡新一轮军事冲突影响，国际油价大涨，WTI原油上涨4.0%至74.26美元/桶，布伦特原油涨3.7%至78.83美元/桶。此前伊朗襄击一艘商船并扬言封锁海峡，美国中央司令部回应称该水域仍对合法通行船只开放。",
+      "publishedAt": "2026-07-13T02:36:00-05:00",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/energy/articles/oil-prices-spike-fresh-us-024047542.html",
+      "subCategory": "大宗商品"
+    },
+    {
+      "id": "finance-20260713-010",
+      "title": "Kospi Plunges 8%, Triggering Circuit Breaker; Semiconductor Giants Lead the Rout",
+      "summary": "韩国综合指数7月13日一度暴跌逸一百分点，触发今年第七次熏断机制。外资及机构合计抛售约2.8万亿韩元，三星电子跌9.21%，SK海力士跌13.35%。SK海力士美股ADR上市后估值差异引发获利了结，叠加中东局势推升避险情绪。",
+      "publishedAt": "2026-07-13T05:56:02Z",
+      "source": "BigGo Finance",
+      "url": "https://finance.biggo.com/news/adba3e22-c135-4a4d-8157-06aab5e6e5e7",
+      "subCategory": "风险事件"
+    },
+    {
+      "id": "finance-20260713-007",
+      "title": "A股震荡走低，多只热门芯片股跳水！银行板块逆势上扬",
+      "summary": "7月13日，A股主要指数集体走低，沪指跌1.54%，深成指跌2.61%，创业板指跌2.38%，逸 4500只个股下跌。国防军工、建材等板块跌幅居前，银行板块逆势上涨，香农芯创等芯片股跌幅超19%。",
+      "publishedAt": "2026-07-13T12:50:00+08:00",
+      "source": "证券时报",
+      "url": "https://www.stcn.com/article/detail/4013990.html",
+      "subCategory": "A股"
     },
     {
       "id": "finance-20260713-013",
@@ -258,33 +393,6 @@
       "subCategory": "风险事件"
     },
     {
-      "id": "finance-20260714-001",
-      "title": "特斯拉：2025年全球交付163.6万辆，净利涤38亿美元，同比下降46%",
-      "summary": "特斯拉2025财年数据显示，全球交付163.6万辆，GAAP净利涤38亿美元，较2024年的71亿美元下降46%；单车利涤从约3969美元降至约2323美元，降幅41%，较2022年峰值9500美元已下滑逸七成。报告将利涤下滑归因于产品结构失衡（Model S/X停产、Cybertruck销量不及预期）、依赖欧洲低价走量车型及自动驾驶高研发投入。",
-      "publishedAt": "2026-07-13T21:41:00+08:00",
-      "source": "新浪科技",
-      "url": "https://finance.sina.com.cn/tech/roll/2026-07-13/doc-inihspyw8847685.shtml",
-      "subCategory": "公司财报"
-    },
-    {
-      "id": "finance-20260713-008",
-      "title": "港股收评：恒指涨0.16% 科指跌0.96% PCB概念、半导体板块集体调整",
-      "summary": "7月13日港股收盘，恒生指数涨0.16%抺24213.72点，恒生科技指数跌0.96%，国企指数涨0.33%。石油股走强，建滤积层板跌超18%，兆易创新跌超15%，PCB及半导体板块集体调整。",
-      "publishedAt": "2026-07-13T16:08:00+08:00",
-      "source": "新浪财经",
-      "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-07-13/doc-inihrxaz4305511.shtml",
-      "subCategory": "港股"
-    },
-    {
-      "id": "finance-20260713-007",
-      "title": "A股震荡走低，多只热门芯片股跳水！银行板块逆势上扬",
-      "summary": "7月13日，A股主要指数集体走低，沪指跌1.54%，深成指跌2.61%，创业板指跌2.38%，逸 4500只个股下跌。国防军工、建材等板块跌幅居前，银行板块逆势上涨，香农芯创等芯片股跌幅超19%。",
-      "publishedAt": "2026-07-13T12:50:00+08:00",
-      "source": "证券时报",
-      "url": "https://www.stcn.com/article/detail/4013990.html",
-      "subCategory": "A股"
-    },
-    {
       "id": "finance-20260713-001",
       "title": "伊朗局势升级，美股指期货周一早盘走低",
       "summary": "受美军对伊朗新一轮打击影响，7月13日北京时间早盘，纳斯达克100指数期货跌0.51%，标普500期货跌0.3%，道指期货跌0.2%，市场风险偏好走弱。",
@@ -301,33 +409,6 @@
       "source": "证券日报（新浪财经）",
       "url": "https://finance.sina.com.cn/jjxw/2026-07-13/doc-inihqzxp2416696.shtml",
       "subCategory": "A股"
-    },
-    {
-      "id": "finance-20260713-010",
-      "title": "Kospi Plunges 8%, Triggering Circuit Breaker; Semiconductor Giants Lead the Rout",
-      "summary": "韩国综合指数7月13日一度暴跌逸一百分点，触发今年第七次熏断机制。外资及机构合计抛售约2.8万亿韩元，三星电子跌9.21%，SK海力士跌13.35%。SK海力士美股ADR上市后估值差异引发获利了结，叠加中东局势推升避险情绪。",
-      "publishedAt": "2026-07-13T05:56:02Z",
-      "source": "BigGo Finance",
-      "url": "https://finance.biggo.com/news/adba3e22-c135-4a4d-8157-06aab5e6e5e7",
-      "subCategory": "风险事件"
-    },
-    {
-      "id": "finance-20260713-011",
-      "title": "Oil prices jump and Asian shares slip as US and Iran carry out airstrikes",
-      "summary": "美伊新一轮空袭后，国际油价上涨，布伦特原油涨3.6%扸7月14美元/桶。亚太股市多数下跌：日经225跌1.9%，韩国Kospi暴跌9%至6806.93点，SK海力士跌15.4%，三星电子跌10.7%；港股逆势微涨0.2%，沪指跌2.1%。",
-      "publishedAt": "2026-07-13T03:36:00-04:00",
-      "source": "Associated Press",
-      "url": "https://www.news4jax.com/business/2026/07/13/oil-prices-jump-and-asian-shares-slip-as-us-and-iran-carry-out-airstrikes/",
-      "subCategory": "风险事件"
-    },
-    {
-      "id": "finance-20260713-009",
-      "title": "Oil prices spike on fresh US-Iran attacks, tech hammers on stocks again",
-      "summary": "受美伊在霍尔木兹海峡新一轮军事冲突影响，国际油价大涨，WTI原油上涨4.0%至74.26美元/桶，布伦特原油涨3.7%至78.83美元/桶。此前伊朗襄击一艘商船并扬言封锁海峡，美国中央司令部回应称该水域仍对合法通行船只开放。",
-      "publishedAt": "2026-07-13T02:36:00-05:00",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/energy/articles/oil-prices-spike-fresh-us-024047542.html",
-      "subCategory": "大宗商品"
     },
     {
       "id": "finance-20260713-005",
@@ -411,6 +492,15 @@
       "subCategory": "风险事件"
     },
     {
+      "id": "finance-20260711-301",
+      "title": "美联储主席沃什将首次以主席身份出席国会听证",
+      "summary": "美联储主席Kevin Warsh将于7月14日、1 5日分别在众议院金融服务委员会和参议院作证，市场预计7月加息概率约24%，联储将结合最新通胀数据评估政策路径。",
+      "publishedAt": "2026-07-11T15:00:00-05:00",
+      "source": "雅虎财经（彽博社）",
+      "url": "https://finance.yahoo.com/economy/policy/articles/warsh-us-inflation-set-tone-200000595.html",
+      "subCategory": "政策利率"
+    },
+    {
       "id": "finance-20260711-203",
       "title": "香农芯创净利最多预增超24倍！多家A股公司预计业绩大增",
       "summary": "香农芯创预计2026年上半年净利涤35亿至40亿元，同比增长2117.54%至2434.34%；兆易创新预计净利涤约69亿元，同比增长约1099%。融捷股份、中矿资源等锂电上游企业及有色金属公司业绩同样大幅增长。",
@@ -427,15 +517,6 @@
       "source": "财联社",
       "url": "https://www.cls.cn/detail/2423560",
       "subCategory": "A股"
-    },
-    {
-      "id": "finance-20260711-301",
-      "title": "美联储主席沃什将首次以主席身份出席国会听证",
-      "summary": "美联储主席Kevin Warsh将于7月14日、1 5日分别在众议院金融服务委员会和参议院作证，市场预计7月加息概率约24%，联储将结合最新通胀数据评估政策路径。",
-      "publishedAt": "2026-07-11T15:00:00-05:00",
-      "source": "雅虎财经（彽博社）",
-      "url": "https://finance.yahoo.com/economy/policy/articles/warsh-us-inflation-set-tone-200000595.html",
-      "subCategory": "政策利率"
     },
     {
       "id": "finance-20260711-206",
@@ -510,22 +591,22 @@
       "subCategory": "宏观经济"
     },
     {
-      "id": "finance-20260711-003",
-      "title": "How Major US Stock Indexes Fared July 10",
-      "summary": "美东时间7月10日周五，标普500指数涨0.4%扸7575.39点，道指涨0.3%抂52637.01点，纳指涨0.3%抂26281.61点，罗素 2000指数跌0.5%。",
-      "publishedAt": "2026-07-10",
-      "source": "The Epoch Times",
-      "url": "https://www.theepochtimes.com/bright/how-major-us-stock-indexes-fared-july-10-post-6060358",
+      "id": "finance-20260710-101",
+      "title": "Chip giant SK Hynix jumps 14% in US market debut",
+      "summary": "SK海力士美国存托凭证周五在纳斯达克以临时代码SKHYV上市，开盘报170美元，较149美元发行价上涨14%。公司通过此次发行融资265亿美元，为外国企业在美最大规模首次公开发行，认购需求达发行股数约7倍。",
+      "publishedAt": "2026-07-10T11:20:00-05:00",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/article/chip-giant-sk-hynix-raises-265-billion-in-blockbuster-us-share-offering-193700352.html",
       "subCategory": "美股"
     },
     {
-      "id": "finance-20260711-009",
-      "title": "Amillex安迈每日汇评｜宏观不确定性降温与政策预期交织，金价高位震荡油价深幅修正",
-      "summary": "7月10日现货黄金交投于4122美元/盎司附近高位震荡，美原油WTI回落至71.87美元/桶附近，市场避险情绪随中东局势缓和信号消退，美国原油库存意外增加限制油价上行空间。",
-      "publishedAt": "2026-07-10",
-      "source": "Amillex",
-      "url": "https://www.amillex.com/2026/07/10/amillex%E5%AE%89%E8%BF%88%E6%AF%8F%E6%97%A5%E6%B1%87%E8%AF%84%EF%BD%9C%E5%AE%8F%E8%A7%82%E4%B8%8D%E7%A1%AE%E5%AE%9A%E6%80%A7%E9%99%8D%E6%B8%A9%E4%B8%8E%E6%94%BF%E7%AD%96%E9%A2%84%E6%9C%9F%E4%BA%A4/",
-      "subCategory": "大宗商品"
+      "id": "finance-20260710-102",
+      "title": "Delta Q2 earnings top estimates, reinstates full-year guidance as fuel prices bite",
+      "summary": "达美航空公布2026年第二季度业绩，调整后每股收益1.56美元，超预期的1.51美元，调整后营收176.7亿美元，同比增长14%，创公司纪录。公司维持全年调整后每股收益6.50至7.50美元的指引。",
+      "publishedAt": "2026-07-10T09:30:00-05:00",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/article/delta-q2-earnings-top-estimates-reinstates-full-year-guidance-as-fuel-prices-bite-175815467.html",
+      "subCategory": "公司财报"
     },
     {
       "id": "finance-20260711-010",
@@ -544,6 +625,15 @@
       "source": "证券时报",
       "url": "https://www.stcn.com/article/detail/4012370.html",
       "subCategory": "A股"
+    },
+    {
+      "id": "finance-20260710-103",
+      "title": "PepsiCo, downgrade di Citi a Neutral su debolezza Nord America",
+      "summary": "花旗将百事公司评级从买入下调至中性，目标价从170美元降至145美元，理由是北美食品及饮料业务持续疲软，第二季度北美有机销售增长不如预期，且担忧2027年业绩存在压力。",
+      "publishedAt": "2026-07-10T15:33:00+02:00",
+      "source": "Teleborsa",
+      "url": "https://www.teleborsa.it/News/2026/07/10/pepsico-downgrade-di-citi-a-neutral-su-debolezza-nord-america-153.html",
+      "subCategory": "美股"
     },
     {
       "id": "finance-20260710-106",
@@ -618,15 +708,6 @@
       "subCategory": "风险事件"
     },
     {
-      "id": "finance-20260710-103",
-      "title": "PepsiCo, downgrade di Citi a Neutral su debolezza Nord America",
-      "summary": "花旗将百事公司评级从买入下调至中性，目标价从170美元降至145美元，理由是北美食品及饮料业务持续疲软，第二季度北美有机销售增长不如预期，且担忧2027年业绩存在压力。",
-      "publishedAt": "2026-07-10T15:33:00+02:00",
-      "source": "Teleborsa",
-      "url": "https://www.teleborsa.it/News/2026/07/10/pepsico-downgrade-di-citi-a-neutral-su-debolezza-nord-america-153.html",
-      "subCategory": "美股"
-    },
-    {
       "id": "finance-20260710-112",
       "title": "重磅利好传来！商业航天，集体狂飙",
       "summary": "7月10日12时14分，长征十号B运载火箭在海南商业航天发射场发射，一子级垂直返回并通过绳网捕获方式在海上平台成功回收，为我国首次运载火箭一子级可控回收，也是全球首次绳网捕获回收，消息带动商业航天概念股集体涨停。",
@@ -643,51 +724,6 @@
       "source": "证券时报",
       "url": "https://www.stcn.com/article/detail/4010982.html",
       "subCategory": "A股"
-    },
-    {
-      "id": "finance-20260710-101",
-      "title": "Chip giant SK Hynix jumps 14% in US market debut",
-      "summary": "SK海力士美国存托凭证周五在纳斯达克以临时代码SKHYV上市，开盘报170美元，较149美元发行价上涨14%。公司通过此次发行融资265亿美元，为外国企业在美最大规模首次公开发行，认购需求达发行股数约7倍。",
-      "publishedAt": "2026-07-10T11:20:00-05:00",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/technology/article/chip-giant-sk-hynix-raises-265-billion-in-blockbuster-us-share-offering-193700352.html",
-      "subCategory": "美股"
-    },
-    {
-      "id": "finance-20260711-001",
-      "title": "7倍认购、机构抢筹！MiniMax，再融资160亿港元！",
-      "summary": "MiniMax通过配售新股及零息可转债完成约160亿港元再融资，获逸 7倍认购，超100家机构参与，创始人闫俊杰宣布在实现AGI前不领取薪酬，并将部分个人股份用于团队及开源社区激励。",
-      "publishedAt": "2026-07-10T11:06:00+08:00",
-      "source": "证券时报",
-      "url": "https://www.stcn.com/article/detail/4010789.html",
-      "subCategory": "一级市场"
-    },
-    {
-      "id": "finance-20260710-104",
-      "title": "滨化股份今日登陆港交所，启幕绿色科技化工新征程",
-      "summary": "滨化股份（06745.HK）于7月10日在港交所主板挂牌，全球发售约3.52亿股H股，发行价每股3.48港元，香港公开发售部分获227.58倍认购，国际发售部分获4.26倍认购，中国宏桥等为基石投资者。",
-      "publishedAt": "2026-07-10T10:41:00+08:00",
-      "source": "证券时报",
-      "url": "https://www.stcn.com/article/detail/4010668.html",
-      "subCategory": "新股发行"
-    },
-    {
-      "id": "finance-20260710-105",
-      "title": "早盘异动 | 晶合集成涨超7%，多重讯息影响股价变动",
-      "summary": "晶合集成（02249.HK）港股开盘报36.0港元，此前收盘（发行价）为32.3港元，盘中一度涨超7%至34.68港元。报道称暂未发现与公司直接相关的重大公告或行业政策变动可解释该波动。",
-      "publishedAt": "2026-07-10T10:02:00+08:00",
-      "source": "富途牛牛",
-      "url": "https://news.futunn.com/post/75806791/morning-market-highlights-jinghe-integrated-rose-more-than-7-with",
-      "subCategory": "港股"
-    },
-    {
-      "id": "finance-20260710-102",
-      "title": "Delta Q2 earnings top estimates, reinstates full-year guidance as fuel prices bite",
-      "summary": "达美航空公布2026年第二季度业绩，调整后每股收益1.56美元，超预期的1.51美元，调整后营收176.7亿美元，同比增长14%，创公司纪录。公司维持全年调整后每股收益6.50至7.50美元的指引。",
-      "publishedAt": "2026-07-10T09:30:00-05:00",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/article/delta-q2-earnings-top-estimates-reinstates-full-year-guidance-as-fuel-prices-bite-175815467.html",
-      "subCategory": "公司财报"
     }
   ]
 }
