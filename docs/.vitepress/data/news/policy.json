@@ -3,8 +3,35 @@
   "slug": "policy",
   "title": "政策信息",
   "description": "国家与地方政策、监管动态、产业扶持与合规要求。",
-  "updatedAt": "2026-07-16T08:50:00+08:00",
+  "updatedAt": "2026-07-16T17:10:00+08:00",
   "items": [
+    {
+      "title": "Government brings British Steel into public ownership to protect UK steelmaking",
+      "summary": "英国《钢铁产业国有化法案》于7月15日获御准后，政府于7月16日正式将英国钢铁公司（British Steel）收归国有，此前与原股东京业集团未能就保留斯肯索普高炉达成协议。政府称此举旨在保护约3.3万个钢铁业直接岗位及供应链安全。",
+      "publishedAt": "2026-07-16",
+      "source": "英国政府（GOV.UK）",
+      "url": "https://www.gov.uk/government/news/government-brings-british-steel-into-public-ownership-to-protect-uk-steelmaking",
+      "subCategory": "海外政策",
+      "id": "policy-20260716-010"
+    },
+    {
+      "title": "Parking charges: CMA takes action to drive improvements for motorists",
+      "summary": "英国竞争与市场管理局（CMA）7月16日宣布对私营停车运营商采取行动，将调查Euro Car Parks在加油站等场景的收费与申诉处理是否违反消费者保护法，并致函其他运营商。数据显示2024/25年度私营停车罚单约1440万张，是六年前的两倍多。",
+      "publishedAt": "2026-07-16",
+      "source": "英国竞争与市场管理局（CMA）",
+      "url": "https://www.gov.uk/government/news/parking-charges-cma-takes-action-to-drive-improvements-for-motorists",
+      "subCategory": "海外政策",
+      "id": "policy-20260716-011"
+    },
+    {
+      "title": "商务部召开例行新闻发布会（2026年7月16日）",
+      "summary": "商务部新闻发言人何亚东7月16日表示，受台风“杨柳”“巴威”影响，全国生活必需品市场总体供应充足，商务部门正监测粮油肉蛋菜市场并做好受灾地区运输保障。发言人还提及7月7日中荷经贸联委会会议中双方就半导体供应链稳定达成的共识。",
+      "publishedAt": "2026-07-16",
+      "source": "中华人民共和国商务部",
+      "url": "https://www.mofcom.gov.cn/xwfbzt/2026/swbzklxxwfbh2026n7y16r/index.html",
+      "subCategory": "跨境贸易",
+      "id": "policy-20260716-012"
+    },
     {
       "id": "policy-20260715-011",
       "title": "民航局：上半年，实名登记无人机总数突破 478.8 万架",
@@ -49,15 +76,6 @@
       "source": "经济参考网",
       "url": "https://finance.sina.com.cn/jjxw/2026-07-15/doc-inihvyth8055478.shtml",
       "subCategory": "AI监管"
-    },
-    {
-      "id": "policy-20260715-005",
-      "title": "US says Nvidia's H200 exports to China remain 'trivial' despite approvals",
-      "summary": "美国商务部主管工业与安全事务的副部长杰弗里·凯斯勒在众议院外交事务委员会作证时表示，英伟达H200芯片对华出口数量很少、微不足道，商务部今年已批准约10家中国企业（含腾讯、字节跳动）购买该芯片，但目前实际交付有限。",
-      "publishedAt": "2026-07-15T04:33:00+08:00",
-      "source": "South China Morning Post",
-      "url": "https://www.scmp.com/news/china/diplomacy/article/3360582/us-says-nvidias-h200-exports-china-remain-trivial-despite-approvals",
-      "subCategory": "半导体出口管制"
     },
     {
       "id": "policy-20260716-002",
@@ -111,6 +129,15 @@
       "publishedAt": "2026-07-15",
       "source": "美国之音中文网",
       "url": "https://www.voachinese.com/a/us-seeking-more-funding-to-target-china-on-export-control-of-us-technologies-20260715/8171827.html",
+      "subCategory": "半导体出口管制"
+    },
+    {
+      "id": "policy-20260715-005",
+      "title": "US says Nvidia's H200 exports to China remain 'trivial' despite approvals",
+      "summary": "美国商务部主管工业与安全事务的副部长杰弗里·凯斯勒在众议院外交事务委员会作证时表示，英伟达H200芯片对华出口数量很少、微不足道，商务部今年已批准约10家中国企业（含腾讯、字节跳动）购买该芯片，但目前实际交付有限。",
+      "publishedAt": "2026-07-15T04:33:00+08:00",
+      "source": "South China Morning Post",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3360582/us-says-nvidias-h200-exports-china-remain-trivial-despite-approvals",
       "subCategory": "半导体出口管制"
     },
     {
@@ -510,15 +537,6 @@
       "subCategory": "数字经济"
     },
     {
-      "id": "policy-20260708-901",
-      "title": "文化和旅游部印发《旅游强国建设\"十五五\"规划》",
-      "summary": "经国务院批复，文化和旅游部印发《旅游强国建设\"十五五\"规划》，提出到2030年国内出游人次达83亿、总花费达7.7万亿元、入境旅游人次达1.9亿、总花费超1500亿美元，并部署优化旅游空间布局、丰富优质供给等重点任务。",
-      "publishedAt": "2026-07-08T00:10:00+08:00",
-      "source": "中华人民共和国文化和旅游部",
-      "url": "https://www.mct.gov.cn/whzx/whyw/202607/t20260708_966448.htm",
-      "subCategory": "产业政策"
-    },
-    {
       "id": "policy-20260709-103",
       "title": "白宫发布北约盟国国防投资情况说明书",
       "summary": "白宫发布情况说明书，介绍北约安卡拉峰会期间美国防务承包商与北约盟国达成的约30亿美元合作项目，包括洛克希德·马丁、诺斯罗普·格鲁曼、雷神等公司的导弹系统与监视设备生产协议，并称盟国防务支出增加带动了美国制造业就业。",
@@ -589,6 +607,15 @@
       "source": "欧盟委员会",
       "url": "https://ec.europa.eu/commission/presscorner/detail/en/inf_26_1376",
       "subCategory": "海外政策"
+    },
+    {
+      "id": "policy-20260708-901",
+      "title": "文化和旅游部印发《旅游强国建设\"十五五\"规划》",
+      "summary": "经国务院批复，文化和旅游部印发《旅游强国建设\"十五五\"规划》，提出到2030年国内出游人次达83亿、总花费达7.7万亿元、入境旅游人次达1.9亿、总花费超1500亿美元，并部署优化旅游空间布局、丰富优质供给等重点任务。",
+      "publishedAt": "2026-07-08T00:10:00+08:00",
+      "source": "中华人民共和国文化和旅游部",
+      "url": "https://www.mct.gov.cn/whzx/whyw/202607/t20260708_966448.htm",
+      "subCategory": "产业政策"
     },
     {
       "id": "policy-20260707-005",
@@ -672,15 +699,6 @@
       "subCategory": "数字经济"
     },
     {
-      "id": "policy-20260706-602",
-      "title": "今起 沪深主板ST、*ST股票涨跌幅调整至10%",
-      "summary": "上交所、深交所修订后的交易规则自2026年7月6日起正式实施，主板ST、*ST股票涨跌幅限制由5%调整为10%，与主板普通股票趋于一致；科创板、创业板ST股涨跌幅维持不变，盘后固定价格交易机制同步扩大至全部A股和ETF。",
-      "publishedAt": "2026-07-06T07:29:00+08:00",
-      "source": "新浪财经（转自每日经济新闻）",
-      "url": "https://finance.sina.com.cn/roll/2026-07-06/doc-inifvkki1795860.shtml",
-      "subCategory": "金融监管"
-    },
-    {
       "id": "policy-20260706-403",
       "title": "英国科学创新技术部发布数字经济平等机会经济影响报告",
       "summary": "英国科学创新技术部发布研究报告,测算消除数字经济领域代表性不足群体的就业壁垒可带来的经济收益,其中女性群体相关壁垒消除后每年可创造160亿英镑收益,50至69岁劳动者相关壁垒消除后每年可创造150亿英镑收益。",
@@ -705,24 +723,6 @@
       "publishedAt": "2026-07-06",
       "source": "GOV.UK",
       "url": "https://www.gov.uk/government/news/tough-new-rules-to-crackdown-on-foreign-money-in-uk-elections",
-      "subCategory": "海外政策"
-    },
-    {
-      "id": "policy-20260706-402",
-      "title": "英国政府就AI玩具安全发起证据征集,加强儿童保护",
-      "summary": "英国商业与贸易部及产品安全标准办公室发起玩具安全证据征集,截止至10月6日,重点关注新技术带来的风险,包括化学安全与AI互动玩具,旨在推动玩具安全监管框架现代化并加强对消费者的保护。",
-      "publishedAt": "2026-07-06",
-      "source": "GOV.UK",
-      "url": "https://www.gov.uk/government/news/government-steps-up-action-to-protect-children-as-ai-enabled-toys-emerge",
-      "subCategory": "AI监管"
-    },
-    {
-      "id": "policy-20260706-605",
-      "title": "FTC Warns Companies Making Questionable 'Made in the USA' Claims",
-      "summary": "美国联邦贸易委员会向7家企业（含A&F Drum Company、Z-Tech Advanced Technologies、Vtron等）发出警告信，指控其将进口产品虚假宣传为美国制造，另有1家企业因\"德州制造\"虚假宣传收到警告。",
-      "publishedAt": "2026-07-06",
-      "source": "Federal Trade Commission",
-      "url": "https://www.ftc.gov/news-events/news/press-releases/2026/07/ftc-warns-companies-making-questionable-made-usa-claims",
       "subCategory": "海外政策"
     }
   ]

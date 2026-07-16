@@ -3,7 +3,7 @@
   "slug": "industry",
   "title": "行业新闻",
   "description": "企业服务、SaaS、云计算、制造业、消费互联网的产业动态。",
-  "updatedAt": "2026-07-16T08:50:00+08:00",
+  "updatedAt": "2026-07-16T17:10:00+08:00",
   "items": [
     {
       "id": "industry-20260716-003",
@@ -31,6 +31,24 @@
       "source": "国家统计局",
       "url": "https://www.stats.gov.cn/sj/zxfb/202607/t20260715_1964127.html",
       "subCategory": "消费零售"
+    },
+    {
+      "title": "2026年上半年中国新能源汽车在英销量18.3万辆，同比增长超110%",
+      "summary": "199IT数据显示，2026年上半年中国新能源汽车在英国销量达18.3万辆，同比增长超110%，市场份额升至16.1%，MG、比亚迪等品牌领跑，英国新能源渗透率升至56.5%。",
+      "publishedAt": "2026-07-15",
+      "source": "199IT",
+      "url": "https://www.199it.com/archives/1840223.html",
+      "subCategory": "新能源汽车",
+      "id": "industry-20260716-005"
+    },
+    {
+      "title": "Global Semiconductor Equipment Sales Forecast to Reach a Record $229 Billion in 2028, SEMI Reports",
+      "summary": "SEMI预测，全球半导体制造设备销售额2026年将达1659亿美元，同比增长23.2%，2028年有望升至2295亿美元，AI驱动的先进逻辑与存储芯片投资是主要动力。",
+      "publishedAt": "2026-07-14T10:00:00-04:00",
+      "source": "SEMI",
+      "url": "https://www.semi.org/en/semi-press-release/global-semiconductor-equipment-sales-forecast-to-reach-a-record-229-billion-dollars-in-2028-semi-reports",
+      "subCategory": "半导体产业",
+      "id": "industry-20260716-004"
     },
     {
       "id": "industry-20260714-011",
@@ -87,15 +105,6 @@
       "subCategory": "制造业"
     },
     {
-      "id": "industry-20260714-001",
-      "title": "成本高出对手 20%：大众汽车正考虑追加裁员 5 万人，累计裁员上限达 10 万",
-      "summary": "大众汽车CEO奥博穆在内部信中披露，公司目前运营成本较竞争对手高出约20%，正考虑在此前已达成的裁员基础上再追加约5万个岗位，累计裁员上限或达10万人。危机主因包括关税成本、中国市场竞争加剧及制造效率不足，工会方面已拒绝在埃姆登、汉诺威、茅维克、内卡苏尔集等工厂关闭产线的提议，管理层表示倾向于审慎方案而非立即停产。",
-      "publishedAt": "2026-07-14T08:25:53+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/976/272.htm",
-      "subCategory": "公司动态"
-    },
-    {
       "title": "Why Huawei and Apple Grew While China's Smartphone Market Fell Again in Q2 2026",
       "summary": "IDC数据显示，2026年第二季度中国智能手机出货量约6600万部，同比下降4.3%，为连续第五个季度下滑；华为、苹果出货量分别逆势增长约19.4%和24.4%，市场份额升至22.6%和18.1%。",
       "publishedAt": "2026-07-14T03:25:38Z",
@@ -103,6 +112,15 @@
       "url": "https://www.idc.com/resource-center/blog/china-smartphone-market-decline-q2-2026/",
       "subCategory": "行业研报",
       "id": "industry-20260715-005"
+    },
+    {
+      "id": "industry-20260714-001",
+      "title": "成本高出对手 20%：大众汽车正考虑追加裁员 5 万人，累计裁员上限达 10 万",
+      "summary": "大众汽车CEO奥博穆在内部信中披露，公司目前运营成本较竞争对手高出约20%，正考虑在此前已达成的裁员基础上再追加约5万个岗位，累计裁员上限或达10万人。危机主因包括关税成本、中国市场竞争加剧及制造效率不足，工会方面已拒绝在埃姆登、汉诺威、茅维克、内卡苏尔集等工厂关闭产线的提议，管理层表示倾向于审慎方案而非立即停产。",
+      "publishedAt": "2026-07-14T08:25:53+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/976/272.htm",
+      "subCategory": "公司动态"
     },
     {
       "id": "industry-20260714-002",
@@ -483,15 +501,6 @@
       "subCategory": "新能源汽车"
     },
     {
-      "id": "industry-20260708-900",
-      "title": "创新药半年出海收入近千亿美元，三大变化重塑产业链价值",
-      "summary": "2026年上半年中国创新药BD出海交易总额约997亿美元，约为2024年全年两倍；首付款总额约50亿美元，接近2025年全年七成。多管线打包交易增多，Co-Co联合开发商业化模式渐成主流，替代传统License-out模式。",
-      "publishedAt": "2026-07-08T06:48:00+08:00",
-      "source": "证券时报",
-      "url": "https://www.stcn.com/article/detail/4003267.html",
-      "subCategory": "医疗健康"
-    },
-    {
       "id": "industry-20260712-101",
       "title": "存储模组厂商：三季度DRAM合约价或鰴20%-30%，NAND鰴35%-40%",
       "summary": "台湾存储模组厂威刚董事长陈敏透露，三季度DRAM合约价预计上鰴20%-30%，NAND闪存鰴35%-40%，高于TrendForce此前13%-18%及10%-15%的预测，AI服务器需求持续推高存储芯片价格。",
@@ -627,6 +636,24 @@
       "subCategory": "行业研报"
     },
     {
+      "id": "industry-20260708-900",
+      "title": "创新药半年出海收入近千亿美元，三大变化重塑产业链价值",
+      "summary": "2026年上半年中国创新药BD出海交易总额约997亿美元，约为2024年全年两倍；首付款总额约50亿美元，接近2025年全年七成。多管线打包交易增多，Co-Co联合开发商业化模式渐成主流，替代传统License-out模式。",
+      "publishedAt": "2026-07-08T06:48:00+08:00",
+      "source": "证券时报",
+      "url": "https://www.stcn.com/article/detail/4003267.html",
+      "subCategory": "医疗健康"
+    },
+    {
+      "id": "industry-20260710-107",
+      "title": "IDC Launches IDC Quanta™ to Close the Gap Between Tech Intelligence and Enterprise Execution",
+      "summary": "IDC推出智能平台IDC Quanta，将其专有研究、分析师洞察与数据直接嵌入企业常用办公工具（含邮件与Claude AI），基于175家测试客户反馈开发，数据可追溯至超150亿条专有数据点。",
+      "publishedAt": "2026-07-07T09:04:00-04:00",
+      "source": "GlobeNewswire (IDC)",
+      "url": "https://www.globenewswire.com/news-release/2026/07/07/3323292/0/en/IDC-Launches-IDC-Quanta-to-Close-the-Gap-Between-Tech-Intelligence-and-Enterprise-Execution.html",
+      "subCategory": "SaaS"
+    },
+    {
       "id": "industry-20260707-804",
       "title": "微软：2026年新财年裁员约4800人 占全球员工2.1%",
       "summary": "微软宣布2026新财年将裁员约4800人，占全球员工总数2.1%，主要涉及企业销售与Xbox部门，其中Xbox约1600个岗位受影响，公司称调整与人工智能业务变革相关。",
@@ -670,15 +697,6 @@
       "source": "新浪科技",
       "url": "https://finance.sina.com.cn/tech/roll/2026-07-07/doc-inifyzkr1543854.shtml",
       "subCategory": "半导体产业"
-    },
-    {
-      "id": "industry-20260710-107",
-      "title": "IDC Launches IDC Quanta™ to Close the Gap Between Tech Intelligence and Enterprise Execution",
-      "summary": "IDC推出智能平台IDC Quanta，将其专有研究、分析师洞察与数据直接嵌入企业常用办公工具（含邮件与Claude AI），基于175家测试客户反馈开发，数据可追溯至超150亿条专有数据点。",
-      "publishedAt": "2026-07-07T09:04:00-04:00",
-      "source": "GlobeNewswire (IDC)",
-      "url": "https://www.globenewswire.com/news-release/2026/07/07/3323292/0/en/IDC-Launches-IDC-Quanta-to-Close-the-Gap-Between-Tech-Intelligence-and-Enterprise-Execution.html",
-      "subCategory": "SaaS"
     }
   ]
 }

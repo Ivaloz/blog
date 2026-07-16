@@ -3,8 +3,80 @@
   "slug": "trade",
   "title": "外贸资讯",
   "description": "亚马逊、TikTok Shop、阵里国际站、Shopify 等平台政策与跨境电商市场、独立站、物流支付、关税法规、选品趋势。",
-  "updatedAt": "2026-07-16T08:50:00+08:00",
+  "updatedAt": "2026-07-16T17:10:00+08:00",
   "items": [
+    {
+      "title": "Shopee将清理非当地官方语言商品，超50%词汇不符将面临删品罚分",
+      "summary": "Shopee宣布将清理listing中使用非当地官方语言的商品，标题词汇超50%不符合当地官方语言要求的将被删除并计违规分，例如台湾站要求繁体中文、越南站等要求英文。",
+      "publishedAt": "2026-07-16",
+      "source": "AMZ123跨境导航",
+      "url": "https://www.amz123.com/kx/oeGRzB8W",
+      "subCategory": "平台政策",
+      "id": "trade-20260716-012"
+    },
+    {
+      "title": "京东Joybuy启动2026年欧洲PoP平台招商",
+      "summary": "京东跨境平台Joybuy启动2026年欧洲PoP招商计划，要求入驻商家2025年欧洲市场GMV达150万欧元以上（品牌整体需达200万欧元），提供新商家30天免佣金、仓储费减免、广告金及最高40%阶梯佣金减免等六项扶持政策。",
+      "publishedAt": "2026-07-16",
+      "source": "AMZ123跨境导航",
+      "url": "https://www.amz123.com/kx/3uKo6bj4",
+      "subCategory": "平台动态",
+      "id": "trade-20260716-013"
+    },
+    {
+      "title": "2025年加拿大电商市场规模达到360亿欧元",
+      "summary": "数据显示2025年加拿大电商市场规模约达360亿欧元，预计2030年将增长至576.5亿欧元，亚马逊、沃尔玛及Canadian Tire、Best Buy等本土零售商是主要参与者，未来竞争将聚焦物流效率与本地化服务。",
+      "publishedAt": "2026-07-16",
+      "source": "AMZ123跨境导航",
+      "url": "https://www.amz123.com/kx/tL8GqpRH",
+      "subCategory": "新兴市场",
+      "id": "trade-20260716-014"
+    },
+    {
+      "title": "英国Q2电商包裹量同比微增0.2% 电子产品增长63.5%领跑品类",
+      "summary": "物流平台Scurri最新电商配送指数显示，2026年第二季度英国电商包裹量同比仅微增0.2%，其中电子产品品类增长63.5%领跑，时尚、食品饮料及宠物用品类下滑，反映消费者谨慎支出及对安全配送需求上升。",
+      "publishedAt": "2026-07-16",
+      "source": "AMZ123跨境导航",
+      "url": "https://www.amz123.com/kx/12B37ar7",
+      "subCategory": "选品趋势",
+      "id": "trade-20260716-015"
+    },
+    {
+      "title": "亚马逊发布\"标杆新卖家孵化计划\"",
+      "summary": "亚马逊全球开店推出“标杆新卖家孵化计划”，计划三年内助力2000个新入驻品牌实现单品牌销售额突破1亿元人民币，覆盖北美、欧洲、日本站点，提供市场洞察、运营支持等六大赋能能力及最高75万美元奖励资源。",
+      "publishedAt": "2026-07-16T07:15:00+08:00",
+      "source": "AMZ123跨境导航",
+      "url": "https://www.amz123.com/kx/JOci2Vw3",
+      "subCategory": "平台政策",
+      "id": "trade-20260716-008"
+    },
+    {
+      "title": "亚马逊美国AWD将于7月31日起全面停止接收大件商品",
+      "summary": "亚马逊宣布美国AWD（智能卫星仓）自7月31日起停止接收超大及超重商品，仅接受长18英寸、宽14英寸、高8英寸及以下、重量20磅以下的标准尺寸商品，家具、健身器材等大件卖家或面临库存成本上升超20%。",
+      "publishedAt": "2026-07-16T05:54:00+08:00",
+      "source": "AMZ123跨境导航",
+      "url": "https://www.amz123.com/kx/S1F3tDAH",
+      "subCategory": "物流仓储",
+      "id": "trade-20260716-009"
+    },
+    {
+      "title": "韩国完善跨境电商监管体系 要求Temu、AliExpress、Shein等平台指定境内代表",
+      "summary": "韩国政府通过跨境电商监管改革方案，要求Temu、AliExpress、Shein等外国平台在韩指定境内代表，新规7月21日生效，境内代表须于2027年1月21日前到位，负责处理消费者投诉及配合监管调查。",
+      "publishedAt": "2026-07-16T02:31:00+08:00",
+      "source": "AMZ123跨境导航",
+      "url": "https://www.amz123.com/kx/Wf5IKYbf",
+      "subCategory": "关税法规",
+      "id": "trade-20260716-010"
+    },
+    {
+      "title": "Ozon本土卖家8月28日起佣金与物流费率同步调整",
+      "summary": "Ozon宣布自8月28日起调整本土卖家佣金及物流费率，FBS模式下300卢布以下商品佣金上调最高6个百分点（分别至20%和26%），偏远地区（远东）配送费涨幅达275%，9月起还将新增仓储费并下调部分快递费。",
+      "publishedAt": "2026-07-16T01:39:00+08:00",
+      "source": "AMZ123跨境导航",
+      "url": "https://www.amz123.com/kx/5p7X0Dzi",
+      "subCategory": "平台政策",
+      "id": "trade-20260716-011"
+    },
     {
       "id": "trade-20260716-001",
       "title": "亚马逊加拿大站上线\"Add to Delivery\"在途加购功能",
@@ -141,6 +213,15 @@
       "subCategory": "新兴市场"
     },
     {
+      "title": "亚马逊物流美国降费布局 加速争夺UPS和FedEx市场份额",
+      "summary": "亚马逊通过Amazon Shipping服务在美国市场降低费率及附加费，该服务自2026年初起已向所有企业开放，以更低价格对标UPS和FedEx，依托现有配送网络推动业务从电商自营物流拓展至综合物流市场竞争。",
+      "publishedAt": "2026-07-15",
+      "source": "AMZ123跨境导航",
+      "url": "https://www.amz123.com/zb/20260715",
+      "subCategory": "物流仓储",
+      "id": "trade-20260715-021"
+    },
+    {
       "title": "深圳货代疑似暴雷，大量卖家货物被扣！",
       "summary": "深圳货代企业\"美X跨境供应链\"因长期拖欠运费陷入危机，欠款约300万元，超1.7万件货物滞留无法转运，公司已设7月14日为最后结算期限并发内部解散通知，业内称与低价揽货导致现金流断裂有关。",
       "publishedAt": "2026-07-15T07:33:00+08:00",
@@ -175,15 +256,6 @@
       "url": "https://www.amz123.com/t/GQeKwSoC",
       "subCategory": "平台动态",
       "id": "trade-20260715-018"
-    },
-    {
-      "title": "亚马逊物流美国降费布局 加速争夺UPS和FedEx市场份额",
-      "summary": "亚马逊通过Amazon Shipping服务在美国市场降低费率及附加费，该服务自2026年初起已向所有企业开放，以更低价格对标UPS和FedEx，依托现有配送网络推动业务从电商自营物流拓展至综合物流市场竞争。",
-      "publishedAt": "2026-07-15",
-      "source": "AMZ123跨境导航",
-      "url": "https://www.amz123.com/zb/20260715",
-      "subCategory": "物流仓储",
-      "id": "trade-20260715-021"
     },
     {
       "id": "trade-20260714-012",
@@ -651,78 +723,6 @@
       "publishedAt": "2026-07-10T17:42:00+08:00",
       "source": "AMZ123跨境导航",
       "url": "https://www.amz123.com/kx/WhSzeFum",
-      "subCategory": "物流仓储"
-    },
-    {
-      "title": "Yandex Market上线竞品基准分析工具",
-      "summary": "俄罗斯电商平台Yandex Market在卖家后台推出\"市场平均指标\"分析模块，可基于品类、受众、流量规模及地域覆盖自动识别可比独立站与品牌官网，提供\"增长潜力\"与\"热门品类\"两个维度数据，帮助卖家优化弱势品类曝光表现，目前已面向全体注册卖家开放。",
-      "publishedAt": "2026-07-10T17:42:00+08:00",
-      "source": "AMZ123跨境导航",
-      "url": "https://www.amz123.com/kx/32b1tL7z",
-      "subCategory": "平台动态",
-      "id": "trade-20260711-004"
-    },
-    {
-      "id": "trade-20260710-110",
-      "title": "大华银行将越块2026年GDP增速预期上调至8.5%",
-      "summary": "大华银行（UOB）将越块2026年GDP增速预期由7.0%上调至8.5%，二季度同比增长8.39%，上半年平均增速衡8.18%，制造业及外资流入为主要驱动力。",
-      "publishedAt": "2026-07-10T17:32:00+08:00",
-      "source": "AMZ123跨境导航",
-      "url": "https://www.amz123.com/kx/wBfAmZmp",
-      "subCategory": "新兴市场"
-    },
-    {
-      "id": "trade-20260710-108",
-      "title": "印尼海关明确入境电子设备须完成IMEI注册 超500美元部分征税",
-      "summary": "印尼海关要求所有入境手机、平板等便携电子设备完成IMEI注册方可联网，单件货值500美元以内免税，超出部分及逗期注册均需缴税。",
-      "publishedAt": "2026-07-10T17:32:00+08:00",
-      "source": "AMZ123跨境导航",
-      "url": "https://www.amz123.com/kx/rBFxr9FV",
-      "subCategory": "关税法规"
-    },
-    {
-      "id": "trade-20260710-109",
-      "title": "Shopee泰国8月4日起调整部分品类佣金 最高上调2%",
-      "summary": "Shopee泰国站宣布自8月4日起调整Mall及非Mall卖家部分品类佣金费率，部分类目上调1%至2%，建议卖家提前核算成本并调整定价策略。",
-      "publishedAt": "2026-07-10T17:31:00+08:00",
-      "source": "AMZ123跨境导航",
-      "url": "https://www.amz123.com/kx/rx71qQrA",
-      "subCategory": "平台政策"
-    },
-    {
-      "id": "trade-20260710-106",
-      "title": "每15秒售出一件 TikTok Shop英国宠物品类快速增长",
-      "summary": "TikTok Shop数据显示，2025年宠物用品销售额同比增长超60%，英国站平均每15秒售出一件宠物产品，直播带货成该品类重要增长驱动力。",
-      "publishedAt": "2026-07-10T17:26:00+08:00",
-      "source": "AMZ123跨境导航",
-      "url": "https://www.amz123.com/t/nYLuUjg7",
-      "subCategory": "选品趋势"
-    },
-    {
-      "id": "trade-20260710-107",
-      "title": "26年1-4月美国玩具市场销售额增长13% 女性成为主力",
-      "summary": "据Circana数据，2026年1-4月美国玩具行业销售额同比增长13%，客单价上涨7%，超半增长来自女性消费者，成人消费者贡献显著。",
-      "publishedAt": "2026-07-10T17:24:00+08:00",
-      "source": "AMZ123跨境导航",
-      "url": "https://www.amz123.com/t/XFqFRLee",
-      "subCategory": "选品趋势"
-    },
-    {
-      "id": "trade-20260710-113",
-      "title": "Wildberries调整WB折扣规则 不再强制卖家参与促销活动",
-      "summary": "俄罗斯电商平台Wildberries更新WB折扣规则，卖家不再需强制报名促销活动即可获得折扣资格，系统将根据销售历史及价格竞争力自动评估匹配。",
-      "publishedAt": "2026-07-10T17:21:00+08:00",
-      "source": "AMZ123跨境导航",
-      "url": "https://www.amz123.com/kx/GrXqpNX8",
-      "subCategory": "平台政策"
-    },
-    {
-      "id": "trade-20260710-114",
-      "title": "美上诉法院维持FMC裁决：长荣港口关闭期间收滞箱费违规",
-      "summary": "美国哥伦比亚特区巡回上诉法院终审维持联邦海事委员会裁决，认定长荣海运在美西港口连续假日关闭期间向卡车公司收取滞箱费违反《航运法》规定。",
-      "publishedAt": "2026-07-10T17:21:00+08:00",
-      "source": "AMZ123跨境导航",
-      "url": "https://www.amz123.com/kx/DzVh0qJI",
       "subCategory": "物流仓储"
     }
   ]

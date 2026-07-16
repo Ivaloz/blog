@@ -3,8 +3,62 @@
   "slug": "tech",
   "title": "科技新闻",
   "description": "前沿科技、互联网产品、芯片硬件、开源生态。",
-  "updatedAt": "2026-07-16T08:50:00+08:00",
+  "updatedAt": "2026-07-16T17:10:00+08:00",
   "items": [
+    {
+      "title": "现代汽车集团宣布将收购软银所持股份，全资控股波士顿动力",
+      "summary": "现代汽车集团宣布以约5000亿韩元收购软银所持波士顿动力剩余股份，实现全资控股。计划自2028年起在美国佐治亚州工厂部署Atlas人形机器人，用于汽车零部件分拣等生产环节。",
+      "publishedAt": "2026-07-16T16:29:53+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/977/570.htm",
+      "subCategory": "机器人",
+      "id": "tech-20260716-015"
+    },
+    {
+      "title": "鸿蒙智行智界 V9 旗舰 MPV 累计订单超 2 万台，定档 7 月 23 日推送华为乾崑智驾 ADS 5",
+      "summary": "华为鸿蒙智行智界V9旗舰MPV累计订单已超2万台，官方称7月23日起推送华为乾崑智驾ADS 5全量升级，该车5月上市，配备38个传感器及896线激光雷达。",
+      "publishedAt": "2026-07-16T16:21:58+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/977/567.htm",
+      "subCategory": "智能汽车",
+      "id": "tech-20260716-016"
+    },
+    {
+      "title": "特斯拉中国第三代家充单相版裸桩下调 200 元至 2599 元，18 项安装增项收费同步下调",
+      "summary": "特斯拉中国宣布第三代家用充电桩单相裸桩版降价200元至2599元，服务包版降601元至4599元，18项安装增项费用同步平均下调约37%，同时提高穿墙PVC管材安装标准。",
+      "publishedAt": "2026-07-16T16:15:32+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/977/560.htm",
+      "subCategory": "智能汽车",
+      "id": "tech-20260716-017"
+    },
+    {
+      "title": "消息称阿里千问首款 AI 智能体耳机将在 WAIC 亮相",
+      "summary": "消息称阿里旗下个人AI助手千问将在2026世界人工智能大会（WAIC）上首次展示AI智能体耳机，此前千问已发布Quark AI眼镜S1，并计划今年推出智能戒指等多款AI硬件产品。",
+      "publishedAt": "2026-07-16T16:09:46+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/977/558.htm",
+      "subCategory": "消费电子",
+      "id": "tech-20260716-018"
+    },
+    {
+      "title": "台积电上调销售和支出展望，再添AI需求持续迹象",
+      "summary": "台积电将2026年资本支出预期上调至600亿至640亿美元区间，并将美元营收增速展望由此前30%以上上调至40%以上，反映AI基础设施需求持续强劲，此前二季度净利润同比增长77.4%。",
+      "publishedAt": "2026-07-16T15:31:00+08:00",
+      "source": "36氪",
+      "url": "https://36kr.com/newsflashes/3898001280419717",
+      "subCategory": "芯片硬件",
+      "id": "tech-20260716-019"
+    },
+    {
+      "title": "金山办公连发两款AI办公智能体，覆盖个人级与组织级两大场景",
+      "summary": "金山办公在2026 AI生产力大会上发布“灵犀专业版”与“WPS Comate”两款AI办公智能体，分别面向个人和组织级场景，CEO章庆元称办公软件正迈向AI原生阶段。",
+      "publishedAt": "2026-07-16T15:20:00+08:00",
+      "source": "36氪",
+      "url": "https://36kr.com/newsflashes/3897989611144839",
+      "subCategory": "互联网产品",
+      "id": "tech-20260716-020"
+    },
     {
       "id": "tech-20260716-007",
       "title": "苹果更新地图 Apple Maps 广告投放条款：明确禁投家政服务等内容",
@@ -447,6 +501,24 @@
       "subCategory": "智能汽车"
     },
     {
+      "id": "tech-20260715-012",
+      "title": "New phishing kits target Microsoft 365 accounts, evade MFA",
+      "summary": "安全研究人员发现 Jalisco 和 OmegaLord 两款新型钓鱼工具包正被用于攻击 Microsoft 365 账户，前者利用 OAuth 设备授权码流程绕过多因素认证，后者伪装 PDF 阅读器窃取密码与手机号，专家建议收紧设备注册与条件访问策略。",
+      "publishedAt": "2026-07-14T08:49:00-04:00",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/new-phishing-kits-target-microsoft-365-accounts-evade-mfa/",
+      "subCategory": "安全漏洞"
+    },
+    {
+      "id": "tech-20260714-012",
+      "title": "Microsoft Entra ID gets passkeys default authentication starting September",
+      "summary": "微软宣布自2026年9月1日起，通行密钥（Passkey）将成为Entra ID的默认身份验证方式，原使用短信及语音验证的用户将被自动引导注册通行密钥，短信/语音验证方式计划于2027年2月全面停用。",
+      "publishedAt": "2026-07-14T08:49:00-04:00",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-entra-id-gets-passkeys-default-authentication-starting-september/",
+      "subCategory": "安全漏洞"
+    },
+    {
       "id": "tech-20260714-022",
       "title": "英伟达与三菱重工拟在 AI 数据中心领域展开合作，将冷却与能源管理技术融入下一代 AI 数据中心",
       "summary": "消息称英伟达正考虑与三菱重工合作，将后者的冷却系统与能源管理技术融入英伟达下一代数据中心；三菱重工正设计名为DIAVAULT的新一代数据中心，采用专为人工智能应用打造的液冷系统。",
@@ -591,24 +663,6 @@
       "subCategory": "智能汽车"
     },
     {
-      "id": "tech-20260715-012",
-      "title": "New phishing kits target Microsoft 365 accounts, evade MFA",
-      "summary": "安全研究人员发现 Jalisco 和 OmegaLord 两款新型钓鱼工具包正被用于攻击 Microsoft 365 账户，前者利用 OAuth 设备授权码流程绕过多因素认证，后者伪装 PDF 阅读器窃取密码与手机号，专家建议收紧设备注册与条件访问策略。",
-      "publishedAt": "2026-07-14T08:49:00-04:00",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/new-phishing-kits-target-microsoft-365-accounts-evade-mfa/",
-      "subCategory": "安全漏洞"
-    },
-    {
-      "id": "tech-20260714-012",
-      "title": "Microsoft Entra ID gets passkeys default authentication starting September",
-      "summary": "微软宣布自2026年9月1日起，通行密钥（Passkey）将成为Entra ID的默认身份验证方式，原使用短信及语音验证的用户将被自动引导注册通行密钥，短信/语音验证方式计划于2027年2月全面停用。",
-      "publishedAt": "2026-07-14T08:49:00-04:00",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-entra-id-gets-passkeys-default-authentication-starting-september/",
-      "subCategory": "安全漏洞"
-    },
-    {
       "id": "tech-20260714-001",
       "title": "苹果发布 tvOS / HomePod 27 首个公测版，暂未整合 Siri AI",
       "summary": "苹果发布tvOS 27与HomePod 27首个公测版，其中tvOS 27不再支持Apple TV HD及初代Apple TV 4K等旧设备。本次公测版尚未整合Siri AI功能，该功能预计将于今秋随新款Apple TV 4K及iPhone 18 Pro系列一同推出，新系统同时带来播客应用改版、下载管理优化、AirPlay连接提速及Apple Music无损音质等更新。",
@@ -670,60 +724,6 @@
       "source": "IT之家",
       "url": "https://www.ithome.com/0/976/073.htm",
       "subCategory": "消费电子"
-    },
-    {
-      "id": "tech-20260713-011",
-      "title": "南开大学团队成功研制全球首款仿生听觉神经接口",
-      "summary": "南开大学徐文涛团队研发出集声音采集、类神经编码、语义处理与生物电输出于一体的仿生听觉神经接口，动物实验中失聪兔子恢复听觉并能理解语音指令，成果发表于《自然·材料》。",
-      "publishedAt": "2026-07-13T16:17:23+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/976/065.htm",
-      "subCategory": "芯片硬件"
-    },
-    {
-      "id": "tech-20260713-010",
-      "title": "谷歌Pixel系列手机曝异常bug：即圈搜索功能无故自动弹出",
-      "summary": "多名Pixel用户反馈升级Android 16后，退出WhatsApp、Telegram等应用并上滑返回主屏或多任务界面时，即圈搜索功能会无故自动激活，谷歌尚未发布修复方案。",
-      "publishedAt": "2026-07-13T15:54:29+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/976/039.htm",
-      "subCategory": "操作系统"
-    },
-    {
-      "id": "tech-20260713-009",
-      "title": "StatCounter承认2026年6月桌面系统市占率数据出错，Windows份额应为72%",
-      "summary": "StatCounter此前发布的数据显示Windows份额从4月的78.87%骤降至56.55%，经核查后更正为72%，公司称错误源于将部分无法识别用户代理的设备误判为未知系统。",
-      "publishedAt": "2026-07-13T15:40:33+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/976/029.htm",
-      "subCategory": "操作系统"
-    },
-    {
-      "id": "tech-20260713-008",
-      "title": "消息称字节正探索进入自动驾驶领域，由Seed世界模型团队负责",
-      "summary": "据36氪报道，字节跳动正探索自动驾驶业务，由Seed部门周畅负责的世界模型团队推进，初期方向可能为无人物流，隆属火山引擎汽车业务，字节回应称目前无智能驾驶业务计划。",
-      "publishedAt": "2026-07-13T15:36:38+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/976/028.htm",
-      "subCategory": "智能汽车"
-    },
-    {
-      "id": "tech-20260713-013",
-      "title": "京东与具身智能企业慧仑科技达成战略合作",
-      "summary": "京东与具身智能公司慧仑科技签署战略合作协议，京东将开放JoyInside具身智能交互与JoyAI大模型能力，双方计划结合消费洞察数据共同研发满足市场需求的机器人产品。",
-      "publishedAt": "2026-07-13T15:35:00+08:00",
-      "source": "36氪",
-      "url": "https://36kr.com/newsflashes/3893758276794887",
-      "subCategory": "机器人"
-    },
-    {
-      "id": "tech-20260713-007",
-      "title": "全球首颗软件定义近存计算3D芯片：东方算芯DF1000在上海发布，14nm工艺",
-      "summary": "东方算芯在上海发布旗舰芯片DF1000，宣称为全球首颗软件定义近存计算3D芯片，采用14nm工艺实现520TFLOPS@BF16算力，技术源自清华大学微电子所软件定义芯片研究。",
-      "publishedAt": "2026-07-13T15:30:11+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/976/025.htm",
-      "subCategory": "芯片硬件"
     }
   ]
 }
