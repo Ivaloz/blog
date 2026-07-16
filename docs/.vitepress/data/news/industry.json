@@ -3,8 +3,35 @@
   "slug": "industry",
   "title": "行业新闻",
   "description": "企业服务、SaaS、云计算、制造业、消费互联网的产业动态。",
-  "updatedAt": "2026-07-15T23:45:00+08:00",
+  "updatedAt": "2026-07-16T08:50:00+08:00",
   "items": [
+    {
+      "id": "industry-20260716-003",
+      "title": "中国巨石：拟24.05亿元建设年产2.5亿米电子布生产线建设项目",
+      "summary": "中国巨石公告称，全资子公司巨石集团拟投资24.05亿元建设年产2.5亿米电子布生产线项目，为公司在电子布领域新增产能布局。",
+      "publishedAt": "2026-07-15T17:27:00+08:00",
+      "source": "证券时报",
+      "url": "https://www.stcn.com/article/detail/4021373.html",
+      "subCategory": "制造业"
+    },
+    {
+      "id": "industry-20260716-002",
+      "title": "6月社零数据转正，汽车、家电等大宗消费待改善",
+      "summary": "报道称2026年6月社会消费品零售数据转正，上半年服务零售额增长5.3%快于商品零售的1.1%，其中汽车类零售额上半年下滑12.6%，家用电器类下滑7.4%，大宗消费仍待改善。",
+      "publishedAt": "2026-07-15T15:34:00+08:00",
+      "source": "21世纪经济报道",
+      "url": "https://m.21jingji.com/article/20260715/herald/7bc1d8a53c2492b27cc31d26b09790e9.html",
+      "subCategory": "消费零售"
+    },
+    {
+      "id": "industry-20260716-001",
+      "title": "2026年上半年社会消费品零售总额增长1.3%",
+      "summary": "国家统计局发布数据，2026年上半年社会消费品零售总额24.8722万亿元，同比增长1.3%；乡村消费品零售额增速快于城镇，网上商品和服务零售额同比增长5.2%。",
+      "publishedAt": "2026-07-15T10:00:00+08:00",
+      "source": "国家统计局",
+      "url": "https://www.stats.gov.cn/sj/zxfb/202607/t20260715_1964127.html",
+      "subCategory": "消费零售"
+    },
     {
       "id": "industry-20260714-011",
       "title": "黑芝麻智能完成对亦智电子的收购 端侧AI战略全面加速",
@@ -60,15 +87,6 @@
       "subCategory": "制造业"
     },
     {
-      "title": "Why Huawei and Apple Grew While China's Smartphone Market Fell Again in Q2 2026",
-      "summary": "IDC数据显示，2026年第二季度中国智能手机出货量约6600万部，同比下降4.3%，为连续第五个季度下滑；华为、苹果出货量分别逆势增长约19.4%和24.4%，市场份额升至22.6%和18.1%。",
-      "publishedAt": "2026-07-14T03:25:38Z",
-      "source": "IDC",
-      "url": "https://www.idc.com/resource-center/blog/china-smartphone-market-decline-q2-2026/",
-      "subCategory": "行业研报",
-      "id": "industry-20260715-005"
-    },
-    {
       "id": "industry-20260714-001",
       "title": "成本高出对手 20%：大众汽车正考虑追加裁员 5 万人，累计裁员上限达 10 万",
       "summary": "大众汽车CEO奥博穆在内部信中披露，公司目前运营成本较竞争对手高出约20%，正考虑在此前已达成的裁员基础上再追加约5万个岗位，累计裁员上限或达10万人。危机主因包括关税成本、中国市场竞争加剧及制造效率不足，工会方面已拒绝在埃姆登、汉诺威、茅维克、内卡苏尔集等工厂关闭产线的提议，管理层表示倾向于审慎方案而非立即停产。",
@@ -76,6 +94,15 @@
       "source": "IT之家",
       "url": "https://www.ithome.com/0/976/272.htm",
       "subCategory": "公司动态"
+    },
+    {
+      "title": "Why Huawei and Apple Grew While China's Smartphone Market Fell Again in Q2 2026",
+      "summary": "IDC数据显示，2026年第二季度中国智能手机出货量约6600万部，同比下降4.3%，为连续第五个季度下滑；华为、苹果出货量分别逆势增长约19.4%和24.4%，市场份额升至22.6%和18.1%。",
+      "publishedAt": "2026-07-14T03:25:38Z",
+      "source": "IDC",
+      "url": "https://www.idc.com/resource-center/blog/china-smartphone-market-decline-q2-2026/",
+      "subCategory": "行业研报",
+      "id": "industry-20260715-005"
     },
     {
       "id": "industry-20260714-002",
