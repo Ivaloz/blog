@@ -317,6 +317,7 @@ export default defineConfig({
       },
       { text: '世界杯竞猜', link: '/worldcup-2026.html', target: '_self' },
       { text: '关于', link: '/pages/about' },
+      { text: '视频拆条', link: 'https://chaitiao.fanweibin.cn/', target: '_blank' },
       { text: 'Indie', link: 'https://indie.fanweibin.cn/', target: '_blank' },
       { text: 'RSS', link: '/feed.xml', target: '_blank' }
     ],
