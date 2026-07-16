@@ -3,8 +3,17 @@
   "slug": "policy",
   "title": "政策信息",
   "description": "国家与地方政策、监管动态、产业扶持与合规要求。",
-  "updatedAt": "2026-07-16T17:10:00+08:00",
+  "updatedAt": "2026-07-17T00:55:00+08:00",
   "items": [
+    {
+      "id": "policy-20260716-205",
+      "title": "29 countries sign agreement on establishing World AI Cooperation Organization",
+      "summary": "29个国家在上海签署协定，宣布成立世界人工智能合作组织，各国代表出席签约仪式，共同为人工智能全球治理与国际合作搭建新的多边平台。",
+      "publishedAt": "2026-07-16T21:54:30+08:00",
+      "source": "新华社",
+      "url": "https://english.news.cn/20260716/2fb3c068a5ec4efbbeb6a88acf155175/c.html",
+      "subCategory": "AI监管"
+    },
     {
       "title": "Government brings British Steel into public ownership to protect UK steelmaking",
       "summary": "英国《钢铁产业国有化法案》于7月15日获御准后，政府于7月16日正式将英国钢铁公司（British Steel）收归国有，此前与原股东京业集团未能就保留斯肯索普高炉达成协议。政府称此举旨在保护约3.3万个钢铁业直接岗位及供应链安全。",
@@ -31,6 +40,42 @@
       "url": "https://www.mofcom.gov.cn/xwfbzt/2026/swbzklxxwfbh2026n7y16r/index.html",
       "subCategory": "跨境贸易",
       "id": "policy-20260716-012"
+    },
+    {
+      "id": "policy-20260716-201",
+      "title": "国家发展改革委等部门印发《海水淡化产业发展行动方案》",
+      "summary": "国家发展改革委等部门联合印发《海水淡化产业发展行动方案》，提出加快推进海水淡化产业高质量发展、促进海水淡化规模化利用，涉及上海、浙江、福建、山东、广西、海南等沿海省份。",
+      "publishedAt": "2026-07-16",
+      "source": "国家发展和改革委员会",
+      "url": "https://www.ndrc.gov.cn/xxgk/zcfb/tz/202607/t20260716_1406539.html",
+      "subCategory": "产业政策"
+    },
+    {
+      "id": "policy-20260716-202",
+      "title": "SEC Proposes New E-Delivery Approach to Make Information More Readily Accessible and Useful for Investors",
+      "summary": "美国证监会提出Regulation E-Delivery新规，拟将电子送达设为信息披露默认方式，覆盖招股说明书、股东报告、委托声明书、交易确认书等文件，纸质版本改为按需提供，公众意见征询期为联邦公报刊登后60天。",
+      "publishedAt": "2026-07-16",
+      "source": "U.S. Securities and Exchange Commission",
+      "url": "https://www.sec.gov/newsroom/press-releases/2026-67-sec-proposes-new-e-delivery-approach-make-information-more-readily-accessible-useful-investors",
+      "subCategory": "金融监管"
+    },
+    {
+      "id": "policy-20260716-203",
+      "title": "Commission approves Czech capacity mechanism under Clean Industrial Deal State Aid Framework",
+      "summary": "欧盟委员会根据《清洁产业协议国家援助框架》批准捷克电力容量机制，为发电容量提供支持资金，以保障能源转型期间电网供应安全，相关措施须以竞争性招标、按绩效计价并保持技术中立的方式实施。",
+      "publishedAt": "2026-07-16",
+      "source": "European Commission",
+      "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1611",
+      "subCategory": "新能源政策"
+    },
+    {
+      "id": "policy-20260716-204",
+      "title": "Commission approves €300 million Irish State aid scheme for temporary electricity price relief for energy-intensive companies",
+      "summary": "欧盟委员会批准爱尔兰3亿欧元国家援助计划，为高耗能企业提供临时电价纾困，帮助其应对能源转型期间电力成本上升压力，该计划在欧盟清洁产业协议框架下获批。",
+      "publishedAt": "2026-07-16",
+      "source": "European Commission",
+      "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1610",
+      "subCategory": "新能源政策"
     },
     {
       "id": "policy-20260715-011",
@@ -76,6 +121,15 @@
       "source": "经济参考网",
       "url": "https://finance.sina.com.cn/jjxw/2026-07-15/doc-inihvyth8055478.shtml",
       "subCategory": "AI监管"
+    },
+    {
+      "id": "policy-20260715-005",
+      "title": "US says Nvidia's H200 exports to China remain 'trivial' despite approvals",
+      "summary": "美国商务部主管工业与安全事务的副部长杰弗里·凯斯勒在众议院外交事务委员会作证时表示，英伟达H200芯片对华出口数量很少、微不足道，商务部今年已批准约10家中国企业（含腾讯、字节跳动）购买该芯片，但目前实际交付有限。",
+      "publishedAt": "2026-07-15T04:33:00+08:00",
+      "source": "South China Morning Post",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3360582/us-says-nvidias-h200-exports-china-remain-trivial-despite-approvals",
+      "subCategory": "半导体出口管制"
     },
     {
       "id": "policy-20260716-002",
@@ -129,15 +183,6 @@
       "publishedAt": "2026-07-15",
       "source": "美国之音中文网",
       "url": "https://www.voachinese.com/a/us-seeking-more-funding-to-target-china-on-export-control-of-us-technologies-20260715/8171827.html",
-      "subCategory": "半导体出口管制"
-    },
-    {
-      "id": "policy-20260715-005",
-      "title": "US says Nvidia's H200 exports to China remain 'trivial' despite approvals",
-      "summary": "美国商务部主管工业与安全事务的副部长杰弗里·凯斯勒在众议院外交事务委员会作证时表示，英伟达H200芯片对华出口数量很少、微不足道，商务部今年已批准约10家中国企业（含腾讯、字节跳动）购买该芯片，但目前实际交付有限。",
-      "publishedAt": "2026-07-15T04:33:00+08:00",
-      "source": "South China Morning Post",
-      "url": "https://www.scmp.com/news/china/diplomacy/article/3360582/us-says-nvidias-h200-exports-china-remain-trivial-despite-approvals",
       "subCategory": "半导体出口管制"
     },
     {
@@ -537,6 +582,15 @@
       "subCategory": "数字经济"
     },
     {
+      "id": "policy-20260708-901",
+      "title": "文化和旅游部印发《旅游强国建设\"十五五\"规划》",
+      "summary": "经国务院批复，文化和旅游部印发《旅游强国建设\"十五五\"规划》，提出到2030年国内出游人次达83亿、总花费达7.7万亿元、入境旅游人次达1.9亿、总花费超1500亿美元，并部署优化旅游空间布局、丰富优质供给等重点任务。",
+      "publishedAt": "2026-07-08T00:10:00+08:00",
+      "source": "中华人民共和国文化和旅游部",
+      "url": "https://www.mct.gov.cn/whzx/whyw/202607/t20260708_966448.htm",
+      "subCategory": "产业政策"
+    },
+    {
       "id": "policy-20260709-103",
       "title": "白宫发布北约盟国国防投资情况说明书",
       "summary": "白宫发布情况说明书，介绍北约安卡拉峰会期间美国防务承包商与北约盟国达成的约30亿美元合作项目，包括洛克希德·马丁、诺斯罗普·格鲁曼、雷神等公司的导弹系统与监视设备生产协议，并称盟国防务支出增加带动了美国制造业就业。",
@@ -609,15 +663,6 @@
       "subCategory": "海外政策"
     },
     {
-      "id": "policy-20260708-901",
-      "title": "文化和旅游部印发《旅游强国建设\"十五五\"规划》",
-      "summary": "经国务院批复，文化和旅游部印发《旅游强国建设\"十五五\"规划》，提出到2030年国内出游人次达83亿、总花费达7.7万亿元、入境旅游人次达1.9亿、总花费超1500亿美元，并部署优化旅游空间布局、丰富优质供给等重点任务。",
-      "publishedAt": "2026-07-08T00:10:00+08:00",
-      "source": "中华人民共和国文化和旅游部",
-      "url": "https://www.mct.gov.cn/whzx/whyw/202607/t20260708_966448.htm",
-      "subCategory": "产业政策"
-    },
-    {
       "id": "policy-20260707-005",
       "title": "市场监管总局：上半年深入整治\"内卷式\"竞争取得积极进展",
       "summary": "市场监管总局通报，上半年部署16项专项行动、明确39项预期成果，查结医药、公用事业等领域垄断案件12件，高效审结汽车、光伏、锂电池行业经营者集中案52件，配套规章已于2月1日起正式实施。",
@@ -678,51 +723,6 @@
       "publishedAt": "2026-07-07",
       "source": "美国联邦贸易委员会（FTC）",
       "url": "https://www.ftc.gov/news-events/news/press-releases/2026/07/ftc-sends-more-27-million-consumers-harmed-handy-technologies",
-      "subCategory": "海外政策"
-    },
-    {
-      "id": "policy-20260706-401",
-      "title": "中央网信办通报\"清朗·整治AI应用乱象\"专项行动第一阶段成果",
-      "summary": "中央网信办通报,自4月启动的清朗·整治AI应用乱象专项行动第一阶段累计处置违规AI产品1.4万余款,清理违法违规信息600余万条,处置账号2.6万余个,下架违规AI商品1300余个及违规开源数据集9个。",
-      "publishedAt": "2026-07-06T17:06:39+08:00",
-      "source": "新华网",
-      "url": "https://www.news.cn/politics/20260706/4ce1356eb1b34e878c3fa1e2d9e5da1f/c.html",
-      "subCategory": "AI监管"
-    },
-    {
-      "id": "policy-20260706-601",
-      "title": "两部门重点处置7类涉志愿服务违规信息账号：将营利性活动包装成志愿服务、误导学生和家长等",
-      "summary": "中央网信办、中央社会工作部发布通知，决定自2026年6月下旬至8月下旬开展为期两个月的网络平台涉志愿服务违规信息专项整治，重点清理售卖志愿服务时长证书、以营利活动包装成志愿服务、误导学生和家长等7类违规信息及账号。",
-      "publishedAt": "2026-07-06T15:28:15+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/973/109.htm",
-      "subCategory": "数字经济"
-    },
-    {
-      "id": "policy-20260706-403",
-      "title": "英国科学创新技术部发布数字经济平等机会经济影响报告",
-      "summary": "英国科学创新技术部发布研究报告,测算消除数字经济领域代表性不足群体的就业壁垒可带来的经济收益,其中女性群体相关壁垒消除后每年可创造160亿英镑收益,50至69岁劳动者相关壁垒消除后每年可创造150亿英镑收益。",
-      "publishedAt": "2026-07-06",
-      "source": "GOV.UK",
-      "url": "https://www.gov.uk/government/publications/the-economic-impact-of-equal-opportunities-in-the-digital-economy/the-economic-impact-of-equal-opportunities-in-the-digital-economy",
-      "subCategory": "海外政策"
-    },
-    {
-      "id": "policy-20260706-604",
-      "title": "UK sanctions Russians developing chemical weapons used to kill Alexei Navalny and Dawn Sturgess",
-      "summary": "英国对7名个人（包括SC Signal与GosNIIOKhT相关负责人）及SC Signal、GNIII VM两家机构实施制裁，指控其研发用于纳瓦利内及道恩·斯特吉斯中毒事件的诺维乔克神经毒剂与依比巴丁毒素。",
-      "publishedAt": "2026-07-06",
-      "source": "GOV.UK",
-      "url": "https://www.gov.uk/government/news/uk-sanctions-russians-developing-chemical-weapons-used-to-kill-alexei-navalny-and-dawn-sturgess",
-      "subCategory": "海外政策"
-    },
-    {
-      "id": "policy-20260706-603",
-      "title": "Tough new rules to crackdown on foreign money in UK elections",
-      "summary": "英国政府响应Rycroft Review提出政治献金改革：海外归国者须等满一年才能捐赠超过10万英镑；企业捐赠按五年税后利润审核；候选人须申报超过2230英镑的参选前捐赠。相关修订将并入《人民代表法案》。",
-      "publishedAt": "2026-07-06",
-      "source": "GOV.UK",
-      "url": "https://www.gov.uk/government/news/tough-new-rules-to-crackdown-on-foreign-money-in-uk-elections",
       "subCategory": "海外政策"
     }
   ]

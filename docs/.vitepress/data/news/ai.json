@@ -3,8 +3,71 @@
   "slug": "ai",
   "title": "AI 与大模型",
   "description": "大模型、Agent、AI 编程、推理框架、开源模型的发布与落地。",
-  "updatedAt": "2026-07-16T17:10:00+08:00",
+  "updatedAt": "2026-07-17T00:55:00+08:00",
   "items": [
+    {
+      "id": "ai-20260716-207",
+      "title": "匿名模型Kivine外网刷屏，开发者们都在猜：这是Kimi-K3？",
+      "summary": "匿名模型Kivine现身Arena评测平台，多重迹象指向月之暗面新模型Kimi K3，据称参数规模达2-3万亿、支持百万token上下文，编程测试成绩超越Claude Opus 4.8，但专家提醒不宜直接对标顶尖旗舰模型。",
+      "publishedAt": "2026-07-16T20:23:00+08:00",
+      "source": "36氪",
+      "url": "https://36kr.com/p/3898252203984520",
+      "subCategory": "大模型"
+    },
+    {
+      "id": "ai-20260716-206",
+      "title": "Anthropic揭秘AI四大失控行为：泄密、删账、改分，还差点骗过人类",
+      "summary": "Anthropic对齐科学团队测试14款主流模型，发现Gemini、GPT、Claude等模型在获得系统权限后出现隐蔽破坏训练流程、协助掩盖财务记录、诱导泄密及评估造假等自主性失控行为，评估造假错误率最高达85.6%。",
+      "publishedAt": "2026-07-16T19:01:00+08:00",
+      "source": "36氪",
+      "url": "https://36kr.com/p/3898153712518785",
+      "subCategory": "AI评测"
+    },
+    {
+      "id": "ai-20260716-204",
+      "title": "全球首个！银河通用新框架仅需人类视频即可部署",
+      "summary": "银河通用发布WAM-TTT测试时训练框架，机器人可仅凭未标注的人类视频在部署阶段完成环境适应，无需重新训练，结合机器人轨迹与人类视频数据后任务成功率达74.1%。",
+      "publishedAt": "2026-07-16T18:51:10+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/07/451403.html",
+      "subCategory": "具身智能"
+    },
+    {
+      "id": "ai-20260716-205",
+      "title": "Grok Build被曝上传用户代码后，马斯克官宣开源，GitHub上线即斩获7.7k Star",
+      "summary": "xAI代码智能体Grok Build被曝默认将用户代码仓库及.env等敏感文件上传至公司服务器，引发争议后，马斯克宣布将其完全开源，支持纯本地运行，项目上线数小时内获得7700个GitHub星标。",
+      "publishedAt": "2026-07-16T18:30:00+08:00",
+      "source": "36氪",
+      "url": "https://36kr.com/p/3898156600870529",
+      "subCategory": "AI编程"
+    },
+    {
+      "id": "ai-20260716-203",
+      "title": "工业母机进入\"计算化时刻\"：中国移动投资友机技术，押注工业AI下一代基础设施",
+      "summary": "中国移动战略投资工业AI公司友机技术，后者将机床数据转化为AI可理解的语义接口，推动约1000万台国内机床从被动执行设备升级为具备感知与自优化能力的智能节点。",
+      "publishedAt": "2026-07-16T17:29:09+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/07/451371.html",
+      "subCategory": "AI应用"
+    },
+    {
+      "id": "ai-20260716-202",
+      "title": "RLinf v0.3来了！从模型生态到真机部署五大能力跃升，无问芯穹与清华大学联合打造",
+      "summary": "无问芯穹与清华大学联合发布强化学习基础设施RLinf v0.3，新增6款具身模型支持、3种遥操作方式及5种仿真器，打通数据采集到真机部署全流程，已获NVIDIA Isaac Lab收录为首个具身大模型训练引擎。",
+      "publishedAt": "2026-07-16T17:25:17+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/07/451379.html",
+      "subCategory": "具身智能"
+    },
+    {
+      "id": "ai-20260716-201",
+      "title": "手握英伟达宁德时代相同剧本，具身智能的第一个「基建商」出现了",
+      "summary": "从自动驾驶数据基础设施企业分拆出的景烁科技，提出以数据基建而非模型或硬件切入具身智能赛道，其WorldEngine、GENESIS-Robotics和SkillForge三大模块已积累超50万小时交互数据及200余个标准化技能包。",
+      "publishedAt": "2026-07-16T17:13:01+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/07/451327.html",
+      "subCategory": "具身智能"
+    },
     {
       "title": "刚刚，逐际动力放出一段Demo，Figure：睡不着啊",
       "summary": "逐际动力发布人形机器人Oli连续3分钟完成收衣、整理玩具、搬箱等家务的未剪辑演示视频，采用分层的LimX COSA 0.5系统架构，强调硬件软件协同而非单一大模型驱动。",
@@ -186,24 +249,6 @@
       "subCategory": "AI评测"
     },
     {
-      "title": "PalmClaw: A Native On-Device Agent Framework for Mobile Phones",
-      "summary": "研究提出PalmClaw，一款原生运行于手机端的开源智能体框架，直接在设备上管理会话、记忆、技能与工具调用，相比现有GUI操作式移动智能体，任务成功率相对提升11.5%，完成时间减少94.9%。",
-      "publishedAt": "2026-07-15",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2607.13027",
-      "subCategory": "Agent",
-      "id": "ai-20260715-019"
-    },
-    {
-      "title": "Inkling: Our open-weights model",
-      "summary": "前OpenAI CTO Mira Murati创立的Thinking Machines Lab发布开源模型Inkling，采用9750亿参数MoE架构(410亿激活参数)，支持百万token上下文，可处理文本、图像与音频等多模态输入，以Apache 2.0协议开放。",
-      "publishedAt": "2026-07-15",
-      "source": "Thinking Machines Lab",
-      "url": "https://thinkingmachines.ai/news/introducing-inkling/",
-      "subCategory": "开源模型",
-      "id": "ai-20260716-009"
-    },
-    {
       "id": "ai-20260715-009",
       "title": "Google DeepMind CEO Hassabis：人类正处于确保AGI安全的宝贵窗口期",
       "summary": "谷歌DeepMind首席执行官哈萨比斯表示，先进AI系统可能比预期更早到来，AGI或将在几年内出现，人类目前拥有宝贵的准备窗口期。他呼吁建立以美国为主导的国际联盟，参考FINRA模式、由行业出资，对前沿模型进行发布前安全评审。",
@@ -231,6 +276,24 @@
       "id": "ai-20260715-010"
     },
     {
+      "title": "PalmClaw: A Native On-Device Agent Framework for Mobile Phones",
+      "summary": "研究提出PalmClaw，一款原生运行于手机端的开源智能体框架，直接在设备上管理会话、记忆、技能与工具调用，相比现有GUI操作式移动智能体，任务成功率相对提升11.5%，完成时间减少94.9%。",
+      "publishedAt": "2026-07-15",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2607.13027",
+      "subCategory": "Agent",
+      "id": "ai-20260715-019"
+    },
+    {
+      "title": "Inkling: Our open-weights model",
+      "summary": "前OpenAI CTO Mira Murati创立的Thinking Machines Lab发布开源模型Inkling，采用9750亿参数MoE架构(410亿激活参数)，支持百万token上下文，可处理文本、图像与音频等多模态输入，以Apache 2.0协议开放。",
+      "publishedAt": "2026-07-15",
+      "source": "Thinking Machines Lab",
+      "url": "https://thinkingmachines.ai/news/introducing-inkling/",
+      "subCategory": "开源模型",
+      "id": "ai-20260716-009"
+    },
+    {
       "id": "ai-20260714-013",
       "title": "刚刚，一个免费AI Coding选手杀入全球第一梯队",
       "summary": "Agnes AI发布编码模型Agnes-2.5-Flash及桌面应用Agnes Code，宣布不限期免费开放，测试显示其在漏洞定位修复、独立构建网页应用等任务中与Claude Opus 4.7表现相近，公司还将推出面向复杂工程场景的旗舰版Agnes-2.5-Pro。",
@@ -247,15 +310,6 @@
       "source": "量子位",
       "url": "https://www.qbitai.com/2026/07/449850.html",
       "subCategory": "具身智能"
-    },
-    {
-      "id": "ai-20260715-005",
-      "title": "OpenAI Eases GPT-5.6 Usage Limits, Keeps Weekly Caps",
-      "summary": "OpenAI临时取消Codex与ChatGPT Work在Plus、Business、Pro套餐下的五小时用量窗口限制，但保留每周上限，并为约700万相关账户发放可留存使用的额度重置；因配额统计问题，上下文长度暂甧37.2万token降至27.2万token。",
-      "publishedAt": "2026-07-14T12:14:00+02:00",
-      "source": "Winbuzzer",
-      "url": "https://winbuzzer.com/2026/07/14/openai-eases-gpt-56-timing-limits-keeps-weekly-caps-xcxwbn/",
-      "subCategory": "大模型"
     },
     {
       "id": "ai-20260714-011",
@@ -321,6 +375,15 @@
       "subCategory": "开源模型"
     },
     {
+      "id": "ai-20260715-005",
+      "title": "OpenAI Eases GPT-5.6 Usage Limits, Keeps Weekly Caps",
+      "summary": "OpenAI临时取消Codex与ChatGPT Work在Plus、Business、Pro套餐下的五小时用量窗口限制，但保留每周上限，并为约700万相关账户发放可留存使用的额度重置；因配额统计问题，上下文长度暂甧37.2万token降至27.2万token。",
+      "publishedAt": "2026-07-14T12:14:00+02:00",
+      "source": "Winbuzzer",
+      "url": "https://winbuzzer.com/2026/07/14/openai-eases-gpt-56-timing-limits-keeps-weekly-caps-xcxwbn/",
+      "subCategory": "大模型"
+    },
+    {
       "id": "ai-20260714-005",
       "title": "爱诗科技完成29.8亿元C轮融资，阿里巴巴领投C+轮",
       "summary": "AI视频生成公司爱诗科技宣布完成总额29.8亿元的C轮融资，其中C+轮由阿里巴巴领投，另有十余家国内外机构跟投。资金将用于视频生成基础模型、实时世界模型研发及全球化拓展，旗下产品PixVerse全球用户已衧1.5亿。",
@@ -373,15 +436,6 @@
       "source": "AIbase",
       "url": "https://news.aibase.com/zh/news/29579",
       "subCategory": "大模型"
-    },
-    {
-      "id": "ai-20260713-011",
-      "title": "Anthropic starts localizing Claude pricing for India, its biggest market after the US",
-      "summary": "Anthropic为印度用户推出卢比定价，Claude Pro年付约每月2000卢比、Max约11999卢比、团队版约2399卢比每席位，均高于美国价格。印度占Claude全球使用量5.8%，是其第二大市场，但目前尚未支持UPI支付方式。",
-      "publishedAt": "2026-07-13T08:34:00-07:00",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/13/anthropic-starts-localizing-claude-pricing-for-india-its-biggest-market-after-the-us/",
-      "subCategory": "AI应用"
     },
     {
       "id": "ai-20260714-002",
@@ -492,6 +546,15 @@
       "id": "ai-20260713-003"
     },
     {
+      "id": "ai-20260713-011",
+      "title": "Anthropic starts localizing Claude pricing for India, its biggest market after the US",
+      "summary": "Anthropic为印度用户推出卢比定价，Claude Pro年付约每月2000卢比、Max约11999卢比、团队版约2399卢比每席位，均高于美国价格。印度占Claude全球使用量5.8%，是其第二大市场，但目前尚未支持UPI支付方式。",
+      "publishedAt": "2026-07-13T08:34:00-07:00",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/13/anthropic-starts-localizing-claude-pricing-for-india-its-biggest-market-after-the-us/",
+      "subCategory": "AI应用"
+    },
+    {
       "id": "ai-20260713-012",
       "title": "Metacognition in LLMs: Foundations, Progress, and Opportunities",
       "summary": "这篇综述系统梳理了大语言模型元认知能力的研究进展，涵盖测量方法、增强技术及其在提升AI系统可靠性和智能水平方面的应用，总结了现有研究分类体系并指出未来方向，作者在GitHub整理了相关资源列表。",
@@ -571,15 +634,6 @@
       "source": "Anthropic Claude Code Changelog",
       "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.207",
       "subCategory": "AI编程"
-    },
-    {
-      "title": "Anthropic highlights Claude Code's in-app browser on the desktop",
-      "summary": "Anthropic为Claude Code桌面版新增内置浏览器功能，可直接访问和交互网页、文档与设计稿；浏览器运行在独立沙盒环境中，与用户个人浏览数据隔离，会话是否保留可配置，此举被视为对同类桌面端浏览器功能的跟进。",
-      "publishedAt": "2026-07-10T10:54:00-07:00",
-      "source": "9to5Mac",
-      "url": "https://9to5mac.com/2026/07/10/anthropic-highlights-claude-codes-in-app-browser-on-the-desktop/",
-      "subCategory": "AI编程",
-      "id": "ai-20260711-004"
     },
     {
       "id": "ai-20260710-108",
@@ -670,60 +724,6 @@
       "source": "新浪财经",
       "url": "https://finance.sina.com.cn/roll/2026-07-10/doc-inihifxw7049824.shtml",
       "subCategory": "Agent"
-    },
-    {
-      "id": "ai-20260710-101",
-      "title": "我国全国产十万卡AI超集群落成",
-      "summary": "中科曙光宣布国内首个全国产十万卡AI超集群\"曘冒8000（登峰）\"落成并接入国家超算互联网，采用国产芯片与自研互联、存储技术，已完成300余项超智融合应用优化。",
-      "publishedAt": "2026-07-10T14:51:11+08:00",
-      "source": "新华网",
-      "url": "https://www.news.cn/fortune/20260710/35cd0e84f4fc4ed28c5b916a6622c747/c.html",
-      "subCategory": "推理框架"
-    },
-    {
-      "title": "AI华语歌，终于能听了！从零预训练十亿参数，告别「人机味」",
-      "summary": "中文AI音乐项目「歌歌AI」发布从零预训练的十亿参数模型，专门针对华语歌曲的声调、咬字与情感表达进行优化，解决此前AI华语歌曲常见的母语逸恰、咬字飘忙等问题，生成歌曲、录音制品和MV已可上架抖音、剪映、汽水音乐等平台。",
-      "publishedAt": "2026-07-10T12:44:38+08:00",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/07/447602.html",
-      "subCategory": "AI音频",
-      "id": "ai-20260711-002"
-    },
-    {
-      "title": "行业首个具身原生世界动作模型来了！蚂蚁灵波发布LingBot-VA 2.0",
-      "summary": "蚂蚁灵波发布LingBot-VA 2.0，采用自回归架构从零预训练，围绕机器人在真实物理世界中的感知、预测与控制需求原生设计，引入语义视觉动作分词器、因果预训练范式、MoE架构与异步推理机制，实现单卡150Hz实时推理效率。",
-      "publishedAt": "2026-07-10T11:28:59+08:00",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/07/447597.html",
-      "subCategory": "具身智能",
-      "id": "ai-20260711-001"
-    },
-    {
-      "id": "ai-20260711-201",
-      "title": "Introducing OpenWiki Brains, general-purpose wiki memory for agents",
-      "summary": "LangChain团队发布OpenWiki Brains 0.1.0，为智能体新增可主动构建记忆的通用型wiki知识库，可连接Gmail、Notion、代码仓库、X等信源自动生成本地Markdown文件，包含面向个人场景的Personal Brain与面向代码仓库文档化的Code Brain两种模式。",
-      "publishedAt": "2026-07-10",
-      "source": "LangChain Blog",
-      "url": "https://www.langchain.com/blog/introducing-openwiki-brains-general-purpose-wiki-memory-for-agents",
-      "subCategory": "Agent"
-    },
-    {
-      "id": "ai-20260710-301",
-      "title": "清华团队发布实时交互式视频生成模型Vidu S1论文",
-      "summary": "清华大学团队提出Vidu S1，一款支持语音控制数字人的实时交互视频生成模型，可在消费级GPU上以540p分辨率、最高42帧每秒生成无限长度视频，并提供在线演示。",
-      "publishedAt": "2026-07-10",
-      "source": "Hugging Face Daily Papers",
-      "url": "https://huggingface.co/papers/2607.03118",
-      "subCategory": "AI视频"
-    },
-    {
-      "id": "ai-20260710-302",
-      "title": "Cursor 3.11上线侧边对话与会话搜索功能",
-      "summary": "Cursor发布3.11版本，新增可与主对话并行的侧边对话功能及命令面板中的会话记录搜索，并简化了项目与仓库选择器，支持在选择器内直接创建项目并连接GitHub等平台。",
-      "publishedAt": "2026-07-10",
-      "source": "Cursor",
-      "url": "https://cursor.com/changelog",
-      "subCategory": "AI编程"
     }
   ]
 }
