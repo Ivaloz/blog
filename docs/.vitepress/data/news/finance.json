@@ -3,8 +3,80 @@
   "slug": "finance",
   "title": "投资与财经",
   "description": "宏观经济、A 股 / 港股 / 美股、一级市场融资、行业研报观点。",
-  "updatedAt": "2026-07-15T23:45:00+08:00",
+  "updatedAt": "2026-07-16T08:50:00+08:00",
   "items": [
+    {
+      "id": "finance-20260716-005",
+      "title": "Why Greylock capped its new fund at $1.5B when it says it could have raised more",
+      "summary": "硅谷风投Greylock宣布完成第18期基金募集，规模15亿美元，较2023年上一期基金增长50%，公司称本可募集更多但主动限制规模，约15%将投向后期公司。",
+      "publishedAt": "2026-07-16T08:20:00+08:00",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/15/why-greylock-capped-its-new-fund-at-1-5b-when-it-says-it-could-have-raised-more/",
+      "subCategory": "一级市场"
+    },
+    {
+      "id": "finance-20260716-008",
+      "title": "Stock market today: Dow, S&P 500, Nasdaq rise as Apple notches record high",
+      "summary": "美股周三上涨，道指涨0.2%，标普500涨0.3%，纳指涨0.6%；苹果因获批在中国上线AI功能股价创历史新高，Alphabet涨近3%，美光科技、SK海力士跌超7%。",
+      "publishedAt": "2026-07-16T04:04:00+08:00",
+      "source": "雅虎财经",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-july-15-dow-sp-nasdaq-091813320.html",
+      "subCategory": "美股"
+    },
+    {
+      "id": "finance-20260716-007",
+      "title": "Daniel Ek's body-scanning startup Neko Health raises another $700M",
+      "summary": "由Spotify创始人Daniel Ek联合创办的体检初创公司Neko Health完成7亿美元C轮融资，Lightspeed Venture Partners与O.G. Venture Partners领投，此前2025年1月完成2.6亿美元B轮融资。",
+      "publishedAt": "2026-07-16T03:46:00+08:00",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/15/daniel-eks-body-scanning-startup-neko-health-raises-another-700m/",
+      "subCategory": "一级市场"
+    },
+    {
+      "id": "finance-20260716-006",
+      "title": "Stripe and Advent reportedly offered to buy PayPal for around $53.4B",
+      "summary": "据路透社报道，支付公司Stripe与私募股权公司Advent International联合提出约534亿美元收购PayPal的方案，包含约500亿美元银行融资，双方将各持一半股权。",
+      "publishedAt": "2026-07-15T23:30:00+08:00",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/15/stripe-and-advent-reportedly-offered-to-buy-paypal-for-around-53-4b/",
+      "subCategory": "风险事件"
+    },
+    {
+      "id": "finance-20260716-002",
+      "title": "7月15日重要资讯一览",
+      "summary": "央行表示将根据流动性需求适时选用存款准备金、逆回购、MLF等工具；上半年社会融资规模增量20.84万亿元，同比少增2.02万亿元；二季度全球智能手机出货量同比下降9.7%。",
+      "publishedAt": "2026-07-15T21:43:00+08:00",
+      "source": "证券时报",
+      "url": "https://www.stcn.com/article/detail/4021815.html",
+      "subCategory": "宏观经济"
+    },
+    {
+      "id": "finance-20260716-001",
+      "title": "科创板晚报|佰维存储上半年净利同比预增至高3422% 天智航拟购买上海骨科控股权",
+      "summary": "佰维存储预计上半年净利润70亿至75亿元，同比增长3200%至3422%；天智航拟通过发行股份购买上海微创骨科医疗控股权并配套融资，股票7月16日起停牌。",
+      "publishedAt": "2026-07-15T20:58:00+08:00",
+      "source": "财联社",
+      "url": "https://www.cls.cn/detail/2427605",
+      "subCategory": "公司财报"
+    },
+    {
+      "id": "finance-20260716-009",
+      "title": "晚间公告｜7月15日这些公告有看头",
+      "summary": "金煤科技预告上半年扭亏为盈；恒尚节能12天11板股价累计上涨208.58%；迪哲医药与阿斯利康签署全球授权协议；中国巨石子公司拟投资24.05亿元建设电子布产线。",
+      "publishedAt": "2026-07-15T18:57:04+08:00",
+      "source": "第一财经",
+      "url": "https://www.yicai.com/news/103276572.html",
+      "subCategory": "公司财报"
+    },
+    {
+      "id": "finance-20260716-010",
+      "title": "7月15日南向资金追踪：阿里巴巴－Ｗ、腾讯控股、智谱净买入额居前，分别为30.91亿港元、18.06亿港元、15.40亿港元",
+      "summary": "7月15日南向资金净买入133.64亿港元，阿里巴巴净买入30.91亿港元，腾讯控股净买入18.06亿港元，智谱净买入15.40亿港元；盈富基金、中芯国际、小米集团遭净卖出。",
+      "publishedAt": "2026-07-15T18:36:21+08:00",
+      "source": "金融界",
+      "url": "https://finance.jrj.com.cn/2026/07/15183657818203.shtml",
+      "subCategory": "港股"
+    },
     {
       "title": "港股收评：恒指涨1.4% 科指涨1.3% 科网股、AI应用股普涨 生物医药股强势 MINIMAX涨超13%",
       "summary": "港股三大指数收盘集体上涨，恒生指数涨1.4%报24681.1点，恒生科技指数涨1.3%，国企指数涨1%，美团涨超5%，腾讯、联想涨超3%，MINIMAX涨超13%。",
@@ -24,6 +96,15 @@
       "subCategory": "A股"
     },
     {
+      "id": "finance-20260716-003",
+      "title": "Looki 完成数亿元A1轮融资，加速迈向物理世界AI推荐引擎",
+      "summary": "深圳AI硬件公司Looki完成数亿元A1轮融资，元生资本领投，BAI资本、中鼎资本、Alpha Club跟投，资金将用于多模态模型研发及团队扩张。",
+      "publishedAt": "2026-07-15T15:09:00+08:00",
+      "source": "投资界",
+      "url": "https://news.pedaily.cn/202607/566346.shtml",
+      "subCategory": "一级市场"
+    },
+    {
       "title": "ASML rises 5% after hiking sales forecast for second time this year on strong AI chip demand",
       "summary": "阿斯麦（ASML）二季度净销售额93亿欧元、净利润29亿欧元均超市场预期，并将全年销售指引上调至430亿至450亿欧元，为年内第二次上调，股价一度上涨超7%。",
       "publishedAt": "2026-07-15T13:10:18+08:00",
@@ -31,6 +112,15 @@
       "url": "https://www.cnbc.com/2026/07/15/asml-2q-earnings-ai-chips-orders.html",
       "subCategory": "公司财报",
       "id": "finance-20260715-011"
+    },
+    {
+      "id": "finance-20260716-012",
+      "title": "资金早埋伏创新药！头部公募举牌，百亿资金借ETF入场",
+      "summary": "易方达、国泰、华夏、汇添富等公募6月10日至7月11日增持港股创新药股份触发举牌线，12个交易日内全市场28只创新药主题基金规模增长约297.44亿元。",
+      "publishedAt": "2026-07-15T12:52:00+08:00",
+      "source": "财联社",
+      "url": "https://m.cls.cn/detail/2426944",
+      "subCategory": "港股"
     },
     {
       "title": "A股午评：超3600只个股上涨，三大指数集体飘绿",
@@ -78,6 +168,15 @@
       "id": "finance-20260715-010"
     },
     {
+      "id": "finance-20260716-011",
+      "title": "碳酸锂日报：价格区间震荡 关注预期修正",
+      "summary": "9月碳酸锂期货主力合约收报15.318万元/吨，涨1.08%；电池级碳酸锂现货价15万至15.8万元/吨；周产量2.4855万吨环比减少860吨，库存9.2236万吨。",
+      "publishedAt": "2026-07-15T09:20:00+08:00",
+      "source": "新浪财经",
+      "url": "https://finance.sina.com.cn/money/future/fmnews/2026-07-15/doc-inihvyth8081888.shtml",
+      "subCategory": "大宗商品"
+    },
+    {
       "title": "CNBC Daily Open: Trump walks back on Hormuz tolls in TACO Tuesday",
       "summary": "特朗普撤回此前对过境霍尔木兹海峡船只征收通行费的提议，改由海湾国家以对美投资形式支付相关费用，美国同时继续对伊朗展开军事打击行动。",
       "publishedAt": "2026-07-15T09:19:41+08:00",
@@ -94,6 +193,15 @@
       "url": "https://finance.sina.com.cn/jjxw/2026-07-15/doc-inihvqct7964124.shtml",
       "subCategory": "政策利率",
       "id": "finance-20260715-014"
+    },
+    {
+      "id": "finance-20260716-004",
+      "title": "Indian AI coding startup Emergent becomes a unicorn with $130M Series C",
+      "summary": "印度AI编程初创公司Emergent完成1.3亿美元C轮融资，投后估值达15亿美元，由Creaegis领投，Khosla Ventures、软银愿景基金2期、Lightspeed等跟投，累计融资2.3亿美元。",
+      "publishedAt": "2026-07-15",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/15/indian-ai-coding-startup-emergent-becomes-a-unicorn-just-over-a-year-after-launch/",
+      "subCategory": "一级市场"
     },
     {
       "id": "finance-20260715-017",
@@ -240,15 +348,6 @@
       "subCategory": "A股"
     },
     {
-      "id": "finance-20260715-005",
-      "title": "DeepSeek reportedly in talks to raise $1.5B, then IPO",
-      "summary": "据报道，中国人工智能公司DeepSeek正洽谈新一轮约15亿美元融资，估值约710亿美元。此前一个月该公司完成70亿美元融资，估值500亿美元，为其首轮外部融资。公司同时在筹划最早于年底、正式目标为2027年的IPO，投资方包括腾讯及北京人工智能产业投资基金。",
-      "publishedAt": "2026-07-14T09:45:00-07:00",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/14/deepseek-reportedly-in-talks-to-raise-1-5b-then-ipo/",
-      "subCategory": "一级市场"
-    },
-    {
       "id": "finance-20260714-026",
       "title": "Exclusive-Data center firm Switch taps banks for IPO that could value it up to $80 billion, sources say",
       "summary": "据报道，数据中心运营商Switch已聘请高盛、摩根大通担任上市承销商，筹划首次公开发行，计划最快于今年四季度进行，募资规模约100亿美元，计入债务后估值或接近800亿美元；公司客户包括英伟达、戴尔科技等。",
@@ -265,6 +364,15 @@
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/news/ibm-stock-plummets-more-than-25-on-q2-earnings-warning-150605880.html",
       "subCategory": "公司财报"
+    },
+    {
+      "id": "finance-20260715-005",
+      "title": "DeepSeek reportedly in talks to raise $1.5B, then IPO",
+      "summary": "据报道，中国人工智能公司DeepSeek正洽谈新一轮约15亿美元融资，估值约710亿美元。此前一个月该公司完成70亿美元融资，估值500亿美元，为其首轮外部融资。公司同时在筹划最早于年底、正式目标为2027年的IPO，投资方包括腾讯及北京人工智能产业投资基金。",
+      "publishedAt": "2026-07-14T09:45:00-07:00",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/14/deepseek-reportedly-in-talks-to-raise-1-5b-then-ipo/",
+      "subCategory": "一级市场"
     },
     {
       "id": "finance-20260715-007",
@@ -303,6 +411,42 @@
       "subCategory": "港股"
     },
     {
+      "id": "finance-20260713-007",
+      "title": "A股震荡走低，多只热门芯片股跳水！银行板块逆势上扬",
+      "summary": "7月13日，A股主要指数集体走低，沪指跌1.54%，深成指跌2.61%，创业板指跌2.38%，逸 4500只个股下跌。国防军工、建材等板块跌幅居前，银行板块逆势上涨，香农芯创等芯片股跌幅超19%。",
+      "publishedAt": "2026-07-13T12:50:00+08:00",
+      "source": "证券时报",
+      "url": "https://www.stcn.com/article/detail/4013990.html",
+      "subCategory": "A股"
+    },
+    {
+      "id": "finance-20260713-001",
+      "title": "伊朗局势升级，美股指期货周一早盘走低",
+      "summary": "受美军对伊朗新一轮打击影响，7月13日北京时间早盘，纳斯达克100指数期货跌0.51%，标普500期货跌0.3%，道指期货跌0.2%，市场风险偏好走弱。",
+      "publishedAt": "2026-07-13T07:42:00+08:00",
+      "source": "证券时报",
+      "url": "https://www.stcn.com/article/detail/4013396.html",
+      "subCategory": "美股"
+    },
+    {
+      "id": "finance-20260713-003",
+      "title": "多家外资投行看多中国资产，年内调研A股近3900次",
+      "summary": "渣打银行维持中国股票超配评级，摩根士丹利、瑞银等机构看好A股年内温和上涨；截至7月12日，年内已有570家外资机构对A股公司开展约3900次调研，聚焦集成电路等领域。",
+      "publishedAt": "2026-07-13T06:54:00+08:00",
+      "source": "证券日报（新浪财经）",
+      "url": "https://finance.sina.com.cn/jjxw/2026-07-13/doc-inihqzxp2416696.shtml",
+      "subCategory": "A股"
+    },
+    {
+      "id": "finance-20260713-010",
+      "title": "Kospi Plunges 8%, Triggering Circuit Breaker; Semiconductor Giants Lead the Rout",
+      "summary": "韩国综合指数7月13日一度暴跌逸一百分点，触发今年第七次熊断机制。外资及机构合计抛售约2.8万亿韩元，三星电子跌9.21%，SK海力士跌13.35%。SK海力士美股ADR上市后估值差异引发获利了结，叠加中东局势推升避险情绪。",
+      "publishedAt": "2026-07-13T05:56:02Z",
+      "source": "BigGo Finance",
+      "url": "https://finance.biggo.com/news/adba3e22-c135-4a4d-8157-06aab5e6e5e7",
+      "subCategory": "风险事件"
+    },
+    {
       "id": "finance-20260713-011",
       "title": "Oil prices jump and Asian shares slip as US and Iran carry out airstrikes",
       "summary": "美伊新一轮空袭后，国际油价上涨，布伦特原油涨3.6%至每梓83.30美元/桶。亚太股市多数下跌：日经225跌1.9%，韩国Kospi暴跌9%至6806.93点，SK海力士跌15.4%，三星电子跌10.7%；港股逆势微涨0.2%，沪指跌2.1%。",
@@ -321,22 +465,13 @@
       "subCategory": "大宗商品"
     },
     {
-      "id": "finance-20260713-010",
-      "title": "Kospi Plunges 8%, Triggering Circuit Breaker; Semiconductor Giants Lead the Rout",
-      "summary": "韩国综合指数7月13日一度暴跌逸一百分点，触发今年第七次熊断机制。外资及机构合计抛售约2.8万亿韩元，三星电子跌9.21%，SK海力士跌13.35%。SK海力士美股ADR上市后估值差异引发获利了结，叠加中东局势推升避险情绪。",
-      "publishedAt": "2026-07-13T05:56:02Z",
-      "source": "BigGo Finance",
-      "url": "https://finance.biggo.com/news/adba3e22-c135-4a4d-8157-06aab5e6e5e7",
+      "id": "finance-20260713-005",
+      "title": "特朗普称霍尔木兹海峡畅通，伊朗坚称无法通行",
+      "summary": "特朗普7月12日称霍尔木兹海峡\"是畅通的\"，指责伊朗在协议达成后一小时内发动襪击；伊朗波斯湾海峡管理局同日重申海峡目前无法通行，双方说法相互矛盾。",
+      "publishedAt": "2026-07-13T00:32:08+08:00",
+      "source": "每日经济新闻",
+      "url": "https://www.nbd.com.cn/articles/2026-07-13/4468682.html",
       "subCategory": "风险事件"
-    },
-    {
-      "id": "finance-20260713-007",
-      "title": "A股震荡走低，多只热门芯片股跳水！银行板块逆势上扬",
-      "summary": "7月13日，A股主要指数集体走低，沪指跌1.54%，深成指跌2.61%，创业板指跌2.38%，逸 4500只个股下跌。国防军工、建材等板块跌幅居前，银行板块逆势上涨，香农芯创等芯片股跌幅超19%。",
-      "publishedAt": "2026-07-13T12:50:00+08:00",
-      "source": "证券时报",
-      "url": "https://www.stcn.com/article/detail/4013990.html",
-      "subCategory": "A股"
     },
     {
       "id": "finance-20260713-013",
@@ -363,33 +498,6 @@
       "publishedAt": "2026-07-13",
       "source": "网易财经（转新浪财经）",
       "url": "https://www.163.com/dy/article/L1MS7BTT05199NPP.html",
-      "subCategory": "风险事件"
-    },
-    {
-      "id": "finance-20260713-001",
-      "title": "伊朗局势升级，美股指期货周一早盘走低",
-      "summary": "受美军对伊朗新一轮打击影响，7月13日北京时间早盘，纳斯达克100指数期货跌0.51%，标普500期货跌0.3%，道指期货跌0.2%，市场风险偏好走弱。",
-      "publishedAt": "2026-07-13T07:42:00+08:00",
-      "source": "证券时报",
-      "url": "https://www.stcn.com/article/detail/4013396.html",
-      "subCategory": "美股"
-    },
-    {
-      "id": "finance-20260713-003",
-      "title": "多家外资投行看多中国资产，年内调研A股近3900次",
-      "summary": "渣打银行维持中国股票超配评级，摩根士丹利、瑞银等机构看好A股年内温和上涨；截至7月12日，年内已有570家外资机构对A股公司开展约3900次调研，聚焦集成电路等领域。",
-      "publishedAt": "2026-07-13T06:54:00+08:00",
-      "source": "证券日报（新浪财经）",
-      "url": "https://finance.sina.com.cn/jjxw/2026-07-13/doc-inihqzxp2416696.shtml",
-      "subCategory": "A股"
-    },
-    {
-      "id": "finance-20260713-005",
-      "title": "特朗普称霍尔木兹海峡畅通，伊朗坚称无法通行",
-      "summary": "特朗普7月12日称霍尔木兹海峡\"是畅通的\"，指责伊朗在协议达成后一小时内发动襪击；伊朗波斯湾海峡管理局同日重申海峡目前无法通行，双方说法相互矛盾。",
-      "publishedAt": "2026-07-13T00:32:08+08:00",
-      "source": "每日经济新闻",
-      "url": "https://www.nbd.com.cn/articles/2026-07-13/4468682.html",
       "subCategory": "风险事件"
     },
     {
@@ -465,15 +573,6 @@
       "subCategory": "风险事件"
     },
     {
-      "id": "finance-20260711-301",
-      "title": "美联储主席沃什将首次以主席身份出席国会听证",
-      "summary": "美联储主席Kevin Warsh将于7月14日、1 5日分别在众议院金融服务委员会和参议院作证，市场预计7月加息概率约24%，联储将结合最新通胀数据评估政策路径。",
-      "publishedAt": "2026-07-11T15:00:00-05:00",
-      "source": "雅虎财经（彽博社）",
-      "url": "https://finance.yahoo.com/economy/policy/articles/warsh-us-inflation-set-tone-200000595.html",
-      "subCategory": "政策利率"
-    },
-    {
       "id": "finance-20260711-203",
       "title": "香农芯创净利最多预增超24倍！多家A股公司预计业绩大增",
       "summary": "香农芯创预计2026年上半年净利旞35亿至40亿元，同比增长2117.54%至2434.34%；兆易创新预计净利旞约69亿元，同比增长约1099%。融捷股份、中矿资源等锂电上游企业及有色金属公司业绩同样大幅增长。",
@@ -490,6 +589,15 @@
       "source": "财联社",
       "url": "https://www.cls.cn/detail/2423560",
       "subCategory": "A股"
+    },
+    {
+      "id": "finance-20260711-301",
+      "title": "美联储主席沃什将首次以主席身份出席国会听证",
+      "summary": "美联储主席Kevin Warsh将于7月14日、1 5日分别在众议院金融服务委员会和参议院作证，市场预计7月加息概率约24%，联储将结合最新通胀数据评估政策路径。",
+      "publishedAt": "2026-07-11T15:00:00-05:00",
+      "source": "雅虎财经（彽博社）",
+      "url": "https://finance.yahoo.com/economy/policy/articles/warsh-us-inflation-set-tone-200000595.html",
+      "subCategory": "政策利率"
     },
     {
       "id": "finance-20260711-206",
@@ -564,24 +672,6 @@
       "subCategory": "宏观经济"
     },
     {
-      "id": "finance-20260710-101",
-      "title": "Chip giant SK Hynix jumps 14% in US market debut",
-      "summary": "SK海力士美国存托凭证周五在纳斯达克以临时代码SKHYV上市，开盘报170美元，较149美元发行价上栂14%。公司通过此次发行融资265亿美元，为外国企业在美最大规模首次公开发行，认购需求达发行股数约7倍。",
-      "publishedAt": "2026-07-10T11:20:00-05:00",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/technology/article/chip-giant-sk-hynix-raises-265-billion-in-blockbuster-us-share-offering-193700352.html",
-      "subCategory": "美股"
-    },
-    {
-      "id": "finance-20260710-102",
-      "title": "Delta Q2 earnings top estimates, reinstates full-year guidance as fuel prices bite",
-      "summary": "达美航空公布2026年第二季度业绩，调整后每股收益1.56美元，超预期的1.51美元，调整后营收176.7亿美元，同比增长14%，创公司纪录。公司维持全年调整后每股收益6.50至7.50美元的指引。",
-      "publishedAt": "2026-07-10T09:30:00-05:00",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/article/delta-q2-earnings-top-estimates-reinstates-full-year-guidance-as-fuel-prices-bite-175815467.html",
-      "subCategory": "公司财报"
-    },
-    {
       "id": "finance-20260711-010",
       "title": "铜产品量价齐升叠加铑钨价格走高，洛阳钼业上半年净利同比预增超七成",
       "summary": "洛阳钼业预计2026年上半年净利旞155亿至165亿元，同比增长78.76%至90.29%，主因铜产品量价齐升、铑钨价格走高及巴西金矿业务并表，上半年铜金属产量约38.8万吨，同比增约9.73%。",
@@ -634,69 +724,6 @@
       "source": "第一财经",
       "url": "https://www.yicai.com/news/103269782.html",
       "subCategory": "风险事件"
-    },
-    {
-      "id": "finance-20260710-110",
-      "title": "\"存储一哥\"兆易创新，大跌21%",
-      "summary": "7月10日，存储芯片龙头兆易创新（03986.HK）港股股价大跌超21%，收报742.5港元，较 6月29日1248港元高点下跌逸超40%。公司此前公告预计上半年归母净利旞同比增长约1099%，但未能提振股价。",
-      "publishedAt": "2026-07-10T16:48:00+08:00",
-      "source": "东方财富网",
-      "url": "https://finance.eastmoney.com/a/202607103801889548.html",
-      "subCategory": "港股"
-    },
-    {
-      "id": "finance-20260711-002",
-      "title": "7月10日A股收评：科创50冲高回落 两市成交额较前一交易日放量超4700亿元",
-      "summary": "7月10日A股收盘，上证指数跌1%，深证成指跌2.29%，创业板指跌4.37%，科创50指数跌4.5%，两市合计成交3.39万亿元，较前一日放量超4700亿元，超3700只个股上涨。",
-      "publishedAt": "2026-07-10T16:12:00+08:00",
-      "source": "东方财富网",
-      "url": "https://finance.eastmoney.com/a/202607103801814963.html",
-      "subCategory": "A股"
-    },
-    {
-      "id": "finance-20260710-107",
-      "title": "港股收评：恒指涨0.6% 科指跌0.21% 医药股活跃 商业航天板块午后冲高 半导体板块跳水 兆易创新跌超21%",
-      "summary": "7月10日港股收盘，恒生指数涨0.6%报24175.12点，恒生科技指数跌0.21%，国企指数涨0.52%。医药股走强，商业航天板块午后冲高，半导体板块下挖，兆易创新港股股价跌超21%。",
-      "publishedAt": "2026-07-10T16:08:00+08:00",
-      "source": "新浪财经",
-      "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-07-10/doc-inihifxw7074626.shtml",
-      "subCategory": "港股"
-    },
-    {
-      "id": "finance-20260710-111",
-      "title": "午后，大跳水！又熊断了，韩国监管部门出手！",
-      "summary": "7月10日A股午后大幅跳水，沪指收跌1%，深证成指跌2.29%，创业板指跌4.37%，科创50指数跌5.53%，逸 1700只个股下跌。同日韩国KOSPI200期货盘中涨5%触发临时停牌机制，韩国监管部门表示将评估杠杆ETF对市场的影响。",
-      "publishedAt": "2026-07-10T15:52:00+08:00",
-      "source": "证券时报",
-      "url": "https://www.stcn.com/article/detail/4011301.html",
-      "subCategory": "风险事件"
-    },
-    {
-      "id": "finance-20260710-103",
-      "title": "PepsiCo, downgrade di Citi a Neutral su debolezza Nord America",
-      "summary": "花旗将百事公司评级从买入下调至中性，目标价从170美元降至145美元，理由是北美食品及饮料业务持续疲软，第二季度北美有机销售增长不如预期，且担忧2027年业绩存在压力。",
-      "publishedAt": "2026-07-10T15:33:00+02:00",
-      "source": "Teleborsa",
-      "url": "https://www.teleborsa.it/News/2026/07/10/pepsico-downgrade-di-citi-a-neutral-su-debolezza-nord-america-153.html",
-      "subCategory": "美股"
-    },
-    {
-      "id": "finance-20260710-112",
-      "title": "重磅利好传来！商业航天，集体狂飘",
-      "summary": "7月10日12时14分，长征十号B运载火箭在海南商业航天发射场发射，一子级垂直返回并通过绳网捕获方式在海上平台成功回收，为我国首次运载火箭一子级可控回收，也是全球首次绳网捕获回收，消息带动商业航天概念股集体涨停。",
-      "publishedAt": "2026-07-10T14:11:00+08:00",
-      "source": "证券时报",
-      "url": "https://www.stcn.com/article/detail/4011089.html",
-      "subCategory": "A股"
-    },
-    {
-      "id": "finance-20260710-113",
-      "title": "深科达、国林科技\"20cm\"封板！A股两大板块爆发",
-      "summary": "7月10日A股早盘，深科达、国林科技等约10分钟内涨停20%，先进封装、第三代半导体等细分板块走强；医药生物板块同步走强，多只CXO及创新药概念股涨停，涨幅逸过10%。",
-      "publishedAt": "2026-07-10T12:50:00+08:00",
-      "source": "证券时报",
-      "url": "https://www.stcn.com/article/detail/4010982.html",
-      "subCategory": "A股"
     }
   ]
 }

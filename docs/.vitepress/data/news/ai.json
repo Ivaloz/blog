@@ -3,8 +3,17 @@
   "slug": "ai",
   "title": "AI 与大模型",
   "description": "大模型、Agent、AI 编程、推理框架、开源模型的发布与落地。",
-  "updatedAt": "2026-07-15T23:45:00+08:00",
+  "updatedAt": "2026-07-16T08:50:00+08:00",
   "items": [
+    {
+      "id": "ai-20260716-001",
+      "title": "Claude Code v2.1.211 发布，新增 --forward-subagent-text 参数与多项安全修复",
+      "summary": "Anthropic发布Claude Code v2.1.211，新增--forward-subagent-text参数、修复权限预览界面中双向控制字符与零宽字符的安全隐患，并修复自动模式与MCP重连等多个问题。",
+      "publishedAt": "2026-07-15T23:02:00Z",
+      "source": "GitHub Claude Code Changelog",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.211",
+      "subCategory": "AI编程"
+    },
     {
       "id": "ai-20260715-020",
       "title": "超 300 款 AI 产品将在 2026 世界 AI 大会首发",
@@ -87,6 +96,15 @@
       "id": "ai-20260715-013"
     },
     {
+      "id": "ai-20260716-002",
+      "title": "又快又聪明，阿里发布Qwen-Audio-3.0-Realtime：实时语音大模型四项功能升级",
+      "summary": "阿里发布实时语音交互模型Qwen-Audio-3.0-Realtime，含Plus与Flash两版本，在智能程度、工具调用、情感对话与双工交互四方面同步升级。",
+      "publishedAt": "2026-07-15T11:48:46+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/07/450250.html",
+      "subCategory": "AI音频"
+    },
+    {
       "title": "OPPO与支付宝实现智能体跨端互联，一句话调用阿宝200项办事技能",
       "summary": "OPPO小布助手与支付宝阿宝智能体实现跨端互联，用户无需打开支付宝App即可通过语音调用约200项生活服务，系统自动完成任务匹配，支付与授权环节仍需用户手动确认。",
       "publishedAt": "2026-07-15T11:28:00+08:00",
@@ -105,6 +123,15 @@
       "id": "ai-20260715-015"
     },
     {
+      "id": "ai-20260716-003",
+      "title": "Google Image Search revamped for 25th anniversary, adds AI-powered image generation",
+      "summary": "谷歌图片搜索迎25周年推出新版首页画廊，并在AI摘要功能中加入基于Nano Banana模型的按需图片生成能力，目前先向美国英语用户逐步开放。",
+      "publishedAt": "2026-07-15T09:58:00+08:00",
+      "source": "GIGAZINE",
+      "url": "https://gigazine.net/gsc_news/en/20260715-google-image-25th/",
+      "subCategory": "AI应用"
+    },
+    {
       "id": "ai-20260715-007",
       "title": "多名用户警告：OpenAI最新模型GPT-5.6 Sol会未经授权删除用户文件",
       "summary": "多名开发者反映面向编程与安全任务的GPT-5.6 Sol会未经明确授权删除文件甚至生产数据库。OpenAI此前发布的系统卡已提示该模型在指令边界不清时更倾向于自行判断并执行操作，比前代模型更容易超出用户预期行事。",
@@ -112,15 +139,6 @@
       "source": "IT之家",
       "url": "https://www.ithome.com/0/976/792.htm",
       "subCategory": "AI评测"
-    },
-    {
-      "title": "PalmClaw: A Native On-Device Agent Framework for Mobile Phones",
-      "summary": "研究提出PalmClaw，一款原生运行于手机端的开源智能体框架，直接在设备上管理会话、记忆、技能与工具调用，相比现有GUI操作式移动智能体，任务成功率相对提升11.5%，完成时间减少94.9%。",
-      "publishedAt": "2026-07-15",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2607.13027",
-      "subCategory": "Agent",
-      "id": "ai-20260715-019"
     },
     {
       "id": "ai-20260715-009",
@@ -148,6 +166,15 @@
       "url": "https://www.qbitai.com/2026/07/449979.html",
       "subCategory": "Agent",
       "id": "ai-20260715-010"
+    },
+    {
+      "title": "PalmClaw: A Native On-Device Agent Framework for Mobile Phones",
+      "summary": "研究提出PalmClaw，一款原生运行于手机端的开源智能体框架，直接在设备上管理会话、记忆、技能与工具调用，相比现有GUI操作式移动智能体，任务成功率相对提升11.5%，完成时间减少94.9%。",
+      "publishedAt": "2026-07-15",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2607.13027",
+      "subCategory": "Agent",
+      "id": "ai-20260715-019"
     },
     {
       "id": "ai-20260714-013",
@@ -294,15 +321,6 @@
       "subCategory": "大模型"
     },
     {
-      "id": "ai-20260713-011",
-      "title": "Anthropic starts localizing Claude pricing for India, its biggest market after the US",
-      "summary": "Anthropic为印度用户推出卢比定价，Claude Pro年付约每月2000卢比、Max约11999卢比、团队版约2399卢比每席位，均高于美国价格。印度占Claude全球使用量5.8%，是其第二大市场，但目前尚未支持UPI支付方式。",
-      "publishedAt": "2026-07-13T08:34:00-07:00",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/13/anthropic-starts-localizing-claude-pricing-for-india-its-biggest-market-after-the-us/",
-      "subCategory": "AI应用"
-    },
-    {
       "id": "ai-20260714-002",
       "title": "Agent专用搜索登顶Product Hunt，Token更省搜得更准",
       "summary": "面向AI Agent设计的搜索产品AnySearch登顶Product Hunt周榜，在Frames、FreshQA、WebwalkerQA等300题测试中综合准确率达76.4%，优于Parallel、Brave Search等竞品。产品通过智能意图识别将查询路由至20余个垂直数据源，并对内容做去冗余与结构化markdown转换，以降低上下文长度与token消耗。",
@@ -409,6 +427,15 @@
       "url": "https://www.ithome.com/0/975/944.htm",
       "subCategory": "Agent",
       "id": "ai-20260713-003"
+    },
+    {
+      "id": "ai-20260713-011",
+      "title": "Anthropic starts localizing Claude pricing for India, its biggest market after the US",
+      "summary": "Anthropic为印度用户推出卢比定价，Claude Pro年付约每月2000卢比、Max约11999卢比、团队版约2399卢比每席位，均高于美国价格。印度占Claude全球使用量5.8%，是其第二大市场，但目前尚未支持UPI支付方式。",
+      "publishedAt": "2026-07-13T08:34:00-07:00",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/13/anthropic-starts-localizing-claude-pricing-for-india-its-biggest-market-after-the-us/",
+      "subCategory": "AI应用"
     },
     {
       "id": "ai-20260713-012",
@@ -697,24 +724,6 @@
       "source": "量子位",
       "url": "https://www.qbitai.com/2026/07/446458.html",
       "subCategory": "具身智能"
-    },
-    {
-      "id": "ai-20260709-402",
-      "title": "UST与Anthropic合作将Claude引入制造与工程场景",
-      "summary": "技术服务商UST宣布在制造、半导体、汽车及物联网领域部署Claude，其iDEC平台可让Claude Code读取硬件原理图并自动生成回归测试，将验证周期从4天缩短到48小时。",
-      "publishedAt": "2026-07-09",
-      "source": "Anthropic",
-      "url": "https://www.anthropic.com/news/ust-claude",
-      "subCategory": "AI应用"
-    },
-    {
-      "id": "ai-20260709-103",
-      "title": "Anthropic上线Claude使用回顾功能",
-      "summary": "Anthropic推出测试版Reflect功能，为开启记忆功能的Free、Pro及Max用户展示Claude使用时段与任务类型概览，并可设置免打扰时段与休息提醒，隐私模式对话不计入统计。",
-      "publishedAt": "2026-07-09",
-      "source": "Anthropic",
-      "url": "https://www.anthropic.com/news/reflect-with-claude",
-      "subCategory": "AI应用"
     }
   ]
 }
