@@ -3,7 +3,7 @@
   "slug": "policy",
   "title": "政策信息",
   "description": "国家与地方政策、监管动态、产业扶持与合规要求。",
-  "updatedAt": "2026-07-15T23:45:00+08:00",
+  "updatedAt": "2026-07-16T08:50:00+08:00",
   "items": [
     {
       "id": "policy-20260715-011",
@@ -13,6 +13,24 @@
       "source": "IT之家（援引民航局）",
       "url": "https://www.ithome.com/0/977/246.htm",
       "subCategory": "产业政策"
+    },
+    {
+      "id": "policy-20260716-008",
+      "title": "央行：货币政策支持实体经济效果比较明显",
+      "summary": "国务院新闻办公室举行发布会，人民银行副行长邹澜介绍2026年上半年货币政策执行和金融统计数据情况，表示货币政策对实体经济的支持效果较为明显。",
+      "publishedAt": "2026-07-15T17:04:40+08:00",
+      "source": "新华网",
+      "url": "https://www.news.cn/fortune/20260715/38a9fcf601534277991e213abd9cb50c/c.html",
+      "subCategory": "金融监管"
+    },
+    {
+      "id": "policy-20260716-001",
+      "title": "关于发布7款提供手机端侧生成式人工智能服务已备案信息的公告",
+      "summary": "中央网信办依据《生成式人工智能服务管理暂行办法》发布公告，公示包括“Apple智能”在内7款手机端侧生成式人工智能服务的备案信息。",
+      "publishedAt": "2026-07-15T16:00:54+08:00",
+      "source": "中央网信办",
+      "url": "https://www.cac.gov.cn/2026-07/15/c_1785861480767004.htm",
+      "subCategory": "AI监管"
     },
     {
       "title": "央行：6月末社会融资规模存量为462.06万亿元，同比增长7.4%",
@@ -42,6 +60,60 @@
       "subCategory": "半导体出口管制"
     },
     {
+      "id": "policy-20260716-002",
+      "title": "国家发展改革委有关负责同志就《公共资源交易中心招标投标现场管理暂行办法》答记者问",
+      "summary": "国家发展改革委负责人就七部门联合印发的暂行办法答记者问，明确交易中心需分区管理设施、留存交易记录十五年并及时报告可疑违规线索。",
+      "publishedAt": "2026-07-15",
+      "source": "国家发展和改革委员会",
+      "url": "https://www.ndrc.gov.cn/xxgk/jd/jd/202607/t20260714_1406508.html",
+      "subCategory": "产业政策"
+    },
+    {
+      "id": "policy-20260716-003",
+      "title": "Public bodies mobilise £50 billion to drive UK economic growth and support over 802,000 jobs",
+      "summary": "英国现代产业战略实施一周年之际，四家公共金融机构两年内已投放至少500亿英镑资金，支持约80.2万个工作岗位，机构合计产能提升至1930亿英镑。",
+      "publishedAt": "2026-07-15",
+      "source": "英国政府（商业与贸易部）",
+      "url": "https://www.gov.uk/government/news/public-bodies-mobilise-50-billion-to-drive-uk-economic-growth-and-support-over-802000-jobs",
+      "subCategory": "产业政策"
+    },
+    {
+      "id": "policy-20260716-004",
+      "title": "Government delivers fairer deal for shoppers as Buy-Now, Pay-Later rules come into force",
+      "summary": "英国“先买后付”新规正式生效，相关产品纳入金融行为监管局监管，要求机构进行还款能力核查，并赋予消费者金融申诉专员服务等保护措施。",
+      "publishedAt": "2026-07-15",
+      "source": "英国财政部",
+      "url": "https://www.gov.uk/government/news/government-delivers-fairer-deal-for-shoppers-as-buy-now-pay-later-rules-come-into-force",
+      "subCategory": "金融监管"
+    },
+    {
+      "id": "policy-20260716-005",
+      "title": "New social media curfews and crackdown on addictive features to better protect 16- and 17-year-olds online",
+      "summary": "英国政府宣布对16、17岁青少年社交媒体账号默认设置午夜至清晨六点的宵禁，并默认关闭自动连播等易上瘾功能，作为未成年人网络保护措施的一部分。",
+      "publishedAt": "2026-07-15",
+      "source": "英国政府",
+      "url": "https://www.gov.uk/government/news/new-social-media-curfews-and-crackdown-on-addictive-features-to-better-protect-16-and-17-year-olds-online",
+      "subCategory": "海外政策"
+    },
+    {
+      "id": "policy-20260716-007",
+      "title": "Von der Leyen and Zelenskyy sign EU-Ukraine drone deal",
+      "summary": "欧盟委员会主席冯德莱恩与乌克兰总统泽连斯基签署欧盟-乌克兰防务工业伙伴关系及“无人机协议”，欧盟同时向乌克兰拨付10亿欧元支持无人机产能建设。",
+      "publishedAt": "2026-07-15",
+      "source": "Euronews",
+      "url": "https://www.euronews.com/my-europe/2026/07/15/von-der-leyen-and-zelenskyy-sign-eu-ukraine-drone-deal",
+      "subCategory": "海外政策"
+    },
+    {
+      "id": "policy-20260716-009",
+      "title": "美国官员：中国规避出口管制手法多样，商务部拟大幅增加执法预算",
+      "summary": "美国众议院外交事务委员会听证会上，商务部官员表示中国规避出口管制手法多样，2025年相关罚款总额同比增长逾18倍，商务部拟大幅增加执法预算和人员编制。",
+      "publishedAt": "2026-07-15",
+      "source": "美国之音中文网",
+      "url": "https://www.voachinese.com/a/us-seeking-more-funding-to-target-china-on-export-control-of-us-technologies-20260715/8171827.html",
+      "subCategory": "半导体出口管制"
+    },
+    {
       "id": "policy-20260715-004",
       "title": "自然资源部：五方面改革完善自然资源资产管理",
       "summary": "中共中央办公厅、国务院办公厅近日印发关于完善自然资源资产管理制度体系的意见，自然资源部副部长张文彤介绍，改革将从摸清资产家底、健全产权制度、促进资产保值增值、实现高效配置利用、维护权益五方面推进，目标到2030年管理体系更加健全。",
@@ -67,6 +139,15 @@
       "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/5492845/2026071416335097398/index.html",
       "subCategory": "金融监管",
       "id": "policy-20260715-009"
+    },
+    {
+      "id": "policy-20260716-006",
+      "title": "FTC Secures Major Settlement with Caremark, Resolving Antitrust Case Against Second Drug Middleman",
+      "summary": "美国联邦贸易委员会与药品福利管理商Caremark达成和解，要求其调整业务模式、降低患者自付费用并提高价格透明度，涉及未来十年数十亿美元的消费者节省。",
+      "publishedAt": "2026-07-14",
+      "source": "美国联邦贸易委员会（FTC）",
+      "url": "https://www.ftc.gov/news-events/news/press-releases/2026/07/ftc-secures-major-settlement-caremark-resolving-antitrust-case-against-second-drug-middleman",
+      "subCategory": "反垄断"
     },
     {
       "id": "policy-20260715-002",
