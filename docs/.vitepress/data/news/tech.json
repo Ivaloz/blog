@@ -1,1 +1,729 @@
-PLACEHOLDER
+{
+  "$schema": "./schema.json",
+  "slug": "tech",
+  "title": "科技新闻",
+  "description": "前沿科技、互联网产品、芯片硬件、开源生态。",
+  "updatedAt": "2026-07-17T17:05:00+08:00",
+  "items": [
+    {
+      "id": "tech-20260717-156",
+      "title": "造假抹黑小米SU7博主获刑一年八个月，法院划定测评红线",
+      "summary": "北京法院认定某博主团队故意拆除小米SU7动力电池后拍摄虚假“断电”场景视频，恶意诋毁产品声誉，获刑一年八个月并处罚金十万元，为网络测评划定法律红线。",
+      "publishedAt": "2026-07-17T15:32:00+08:00",
+      "source": "新浪科技",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-07-17/doc-iniiaxpf8265267.shtml",
+      "subCategory": "智能汽车"
+    },
+    {
+      "id": "tech-20260717-154",
+      "title": "小米18 Pro背面造型揭晓：延续横向大矩阵背屏设计",
+      "summary": "小米18 Pro将延续横向大矩阵背屏设计，是下半年唯一搭载背屏的高端旗舰机型，首发骁龙8E6芯片，采用台积电2纳米工艺，CPU核心布局调整为2+3+3结构。",
+      "publishedAt": "2026-07-17T15:27:00+08:00",
+      "source": "新浪科技",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-07-17/doc-iniiaxpf8256331.shtml",
+      "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260717-151",
+      "title": "NotebookLM 更名为 Gemini Notebook，谷歌加入云端代码执行能力",
+      "summary": "谷歌将NotebookLM更名为Gemini Notebook并纳入统一AI品牌，新增云端计算能力，支持在笔记本内直接编写和运行代码，进行复杂数据分析而无需转移资料。",
+      "publishedAt": "2026-07-17T14:37:51+08:00",
+      "source": "ITBear科技资讯",
+      "url": "https://www.itbear.com.cn/html/2026-07/1450237.html",
+      "subCategory": "互联网产品"
+    },
+    {
+      "id": "tech-20260717-153",
+      "title": "DoorDash 推出 AI 命令行工具 dd-cli，可通过智能助手直接点餐",
+      "summary": "DoorDash上线限量测试版命令行工具dd-cli，开发者可通过智能助手搜索餐厅、查找优惠并完成结账，无需打开DoorDash应用，是其智能体商务布局的一部分。",
+      "publishedAt": "2026-07-17T14:37:29+08:00",
+      "source": "ITBear科技资讯",
+      "url": "https://www.itbear.com.cn/html/2026-07/1450235.html",
+      "subCategory": "开发者工具"
+    },
+    {
+      "id": "tech-20260717-155",
+      "title": "月之暗面发布 Kimi K3，号称全球最大开源权重模型",
+      "summary": "月之暗面发布Kimi K3模型，参数规模达2.8万亿，宣称为全球最大开源权重模型，将于7月27日开放权重下载，在部分编程任务基准测试中超越OpenAI和Anthropic的产品。",
+      "publishedAt": "2026-07-16T19:43:00-04:00",
+      "source": "SiliconANGLE",
+      "url": "https://siliconangle.com/2026/07/16/chinas-moonshot-throws-gauntlet-kimi-k3-worlds-largest-open-weights-model/",
+      "subCategory": "开源生态"
+    },
+    {
+      "id": "tech-20260716-304",
+      "title": "SpaceX第二次Starship V3发射在点火后紧急中止",
+      "summary": "SpaceX于当地时间7月16日在得克萨斯基地尝试的Starship V3第二次发射，在助推器点火后被自动中止，马斯克称部分猛禽发动机未能正常点火，公司计划更换两台发动机后择期再次尝试，原任务计划部署第三代星链卫星。",
+      "publishedAt": "2026-07-16T16:01:00-07:00",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/16/spacex-suddenly-aborts-second-starship-v3-launch-after-ignition/",
+      "subCategory": "航空航天"
+    },
+    {
+      "id": "tech-20260717-150",
+      "title": "英特尔酷睿 Ultra 9 处理器（第 4 代）图标曝光，Nova Lake 将分期推出",
+      "summary": "外媒曝光英特尔酷睿Ultra 9（第4代）处理器徽标，证实代号Nova Lake的新一代桌面处理器将以此命名，不同核心数配置计划于2027年内分阶段上市。",
+      "publishedAt": "2026-07-17T06:41:16+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/977/828.htm",
+      "subCategory": "芯片硬件"
+    },
+    {
+      "id": "tech-20260717-102",
+      "title": "领克20官宣行业首创16合1后驱油冷碳化硅电驱系统",
+      "summary": "领克汽车宣布旗下领克20将搭载由吉利星驱科技研发的16合1后驱油冷碳化硅电驱系统，电机功率245千瓦，综合效率超93%，并标配800V碳化硅高压平台，支持6C补能倍率，新车计划于今年三季度正式上市。",
+      "publishedAt": "2026-07-17T03:17:18+08:00",
+      "source": "ITBear科技资讯",
+      "url": "https://www.itbear.com.cn/html/2026-07/1449540.html",
+      "subCategory": "智能汽车"
+    },
+    {
+      "id": "tech-20260716-303",
+      "title": "苹果被诉\"隐藏我的邮箱\"功能未能真正保护用户隐私",
+      "summary": "一项拟议集体诉讼指控苹果虚假宣传\"隐藏我的邮箱\"功能的隐私保护效果，称该功能存在可能暴露用户真实邮箱地址的缺陷。诉讼称相关问题已由安全研究人员于2025年6月披露给苹果，目前尚无已知被利用的实例。",
+      "publishedAt": "2026-07-16T10:11:00-07:00",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/07/16/apple-sued-over-reported-hide-my-email-flaw/",
+      "subCategory": "安全漏洞"
+    },
+    {
+      "id": "tech-20260717-001",
+      "title": "全球人形机器人自由格斗联赛揭幕战在深圳打响，头掉了还能打，甄子丹到场观赛",
+      "summary": "众擎URKL全球人形机器人自由格斗联赛揭幕战在深圳举行，采用1v1五回合赛制，吸引10余国200余支队伍参赛，32强晋级决赛阶段；演员甄子丹到场观赛，赛事总奖金池达1400万元。",
+      "publishedAt": "2026-07-17T00:39:34+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/977/823.htm",
+      "subCategory": "机器人"
+    },
+    {
+      "id": "tech-20260717-101",
+      "title": "小鹏MONA L03上市1小时大定46859台，刷新战绩",
+      "summary": "小鹏MONA L03于7月16日晚正式上市，提供纯电与增程两种动力版本，售价12.38万至15.68万元。官方数据显示，新车上市7分钟大定订单突破2万台，1小时内累计达46859台，搭载自研图灵AI芯片，智能驾驶算力最高达1500TOPS。",
+      "publishedAt": "2026-07-17T00:22:11+08:00",
+      "source": "网易科技",
+      "url": "https://www.163.com/dy/article/L20G51G00511CPVM.html",
+      "subCategory": "智能汽车"
+    },
+    {
+      "id": "tech-20260716-212",
+      "title": "华为靳玉志：预计今年年底，乾崑智驾 ADS 累计辅助驾驶里程将破 200 亿公里",
+      "summary": "华为终端BG智能驾驶产品线负责人靳玉志表示，乾崑智驾ADS累计辅助驾驶里程已超128亿公里，预计年底将突破200亿公里；目前该系统已与25个以上汽车品牌、50余款车型合作，装机总量超190万辆。",
+      "publishedAt": "2026-07-16T23:55:53+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/977/817.htm",
+      "subCategory": "智能汽车"
+    },
+    {
+      "id": "tech-20260716-301",
+      "title": "vivo小米OPPO荣耀共建安卓设备公平运行内存机制",
+      "summary": "在2026金标联盟开发者沙龙上，vivo、小米、OPPO、荣耀共同发布安卓设备公平运行内存机制，通过统一内存占用区间标准、智能资源释放通知等方式缓解手机卡顿发热问题，QQ、抖音、WPS、微信等应用已参与适配。",
+      "publishedAt": "2026-07-16T23:41:08+08:00",
+      "source": "网易科技",
+      "url": "https://www.163.com/dy/article/L20DPRH20511B8LM.html",
+      "subCategory": "操作系统"
+    },
+    {
+      "id": "tech-20260716-210",
+      "title": "中国无人车首入中亚，百度萝卜快跑将驶入哈萨克斯坦",
+      "summary": "百度宣布旗下自动驾驶平台萝卜快跑与哈萨克斯坦企业Turlov Private Holding达成战略合作，标志中国无人车首次进入中亚市场，将部署第六代Apollo RT6车型；截至5月其已在全球27座城市运营。",
+      "publishedAt": "2026-07-16T23:32:42+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/977/802.htm",
+      "subCategory": "智能汽车"
+    },
+    {
+      "id": "tech-20260716-203",
+      "title": "澜起科技：公司韩国办公室被首尔中央地方检察厅现场搜查及取证，涉及反垄断法规事宜",
+      "summary": "澜起科技公告称，公司韩国办公室于7月15日被首尔中央地方检察厅现场搜查取证，涉及反垄断法规调查，公司表示正全力配合，目前公司及员工均未被指控违规，运营正常。",
+      "publishedAt": "2026-07-16T23:22:23+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/977/800.htm",
+      "subCategory": "芯片硬件"
+    },
+    {
+      "id": "tech-20260716-204",
+      "title": "美光与高通、哈曼等签署长期合作协议，保障 AI 汽车内存供应",
+      "summary": "美光宣布与高通、哈曼等汽车产业链企业签署长期合作协议，保障AI汽车所需内存与存储芯片供应，涉及伟世通、佳骏、电装、日立安斯泰莫及现代摩比斯等供应商，公司称已签署16项此类战略协议。",
+      "publishedAt": "2026-07-16T23:09:25+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/977/797.htm",
+      "subCategory": "芯片硬件"
+    },
+    {
+      "id": "tech-20260716-207",
+      "title": "中国联通与华为发布全球最大规模 5G-A 百兆大上行网络，AI 眼镜毫秒级回传",
+      "summary": "中国联通北京分公司与华为联合发布全球最大规模5G-A百兆大上行网络，覆盖北京核心区超万个基站，34公里实测显示上行峰值速率达1Gbps、平均397Mbps，可支持AI眼镜等设备毫秒级数据回传。",
+      "publishedAt": "2026-07-16T22:27:16+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/977/791.htm",
+      "subCategory": "网络基础设施"
+    },
+    {
+      "id": "tech-20260716-213",
+      "title": "打破平台数据壁垒：小米澎湃 OS 开发者平台发布《小游戏 RPK 与 APK 游戏账号互通》接入指南",
+      "summary": "小米澎湃OS开发者平台发布《小游戏RPK与APK游戏账号互通》接入指南，允许用户先体验轻量级小游戏、再无缝升级至完整APP并同步游戏进度与角色资产，开发者需申请开通互通服务并经审核后生效。",
+      "publishedAt": "2026-07-16T22:03:46+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/977/786.htm",
+      "subCategory": "开发者工具"
+    },
+    {
+      "id": "tech-20260716-202",
+      "title": "2199 元，AMD 锐龙 7 7700X3D 处理器上市",
+      "summary": "AMD锐龙7 7700X3D处理器国行上市，售价2199元，采用8核Zen4架构，加速频率最高4.5GHz，配备96MB三级缓存，默认功耗120W，此前已在COMPUTEX 2026上公布。",
+      "publishedAt": "2026-07-16T21:48:16+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/977/785.htm",
+      "subCategory": "芯片硬件"
+    },
+    {
+      "id": "tech-20260716-214",
+      "title": "古尔曼：苹果最快今秋推出 OLED 版 iPad mini，明年更新入门版 iPad 及 iPad Air",
+      "summary": "据彭博社记者古尔曼报道，苹果计划于今年秋季推出代号J510的iPad mini新款，首次搭载8.4英寸60Hz LTPS混合OLED屏幕，为五年来最大升级；明年苹果还将更新入门版iPad及iPad Air机型。",
+      "publishedAt": "2026-07-16T21:45:03+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/977/783.htm",
+      "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260716-206",
+      "title": "微信进一步规范停车服务小程序运营，严打违规获取手机号与广告误导等行为",
+      "summary": "微信平台宣布进一步规范停车服务类小程序运营，重点整治违规索取用户手机号、以弹窗广告遮挡支付按钮等误导行为，强调相关做法违反个人信息保护法及广告法，将持续开展治理并接受用户举报。",
+      "publishedAt": "2026-07-16T21:09:09+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/977/776.htm",
+      "subCategory": "互联网产品"
+    },
+    {
+      "id": "tech-20260716-209",
+      "title": "小鹏汽车：将在今年实现首款飞行汽车量产，已收获超 7000 个订单全球最多",
+      "summary": "小鹏汽车宣布将于今年实现首款飞行汽车量产交付，目前已收获超7000个订单，居全球同类产品订单量首位；公司在广州黄埔建成全球首座规划年产能1万台的飞行汽车工厂。",
+      "publishedAt": "2026-07-16T20:40:28+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/977/766.htm",
+      "subCategory": "智能汽车"
+    },
+    {
+      "id": "tech-20260716-208",
+      "title": "人形机器人成为导购，小鹏汽车 2027 年将把 IRON 推向全球市场",
+      "summary": "小鹏汽车宣布计划于2027年将人形机器人IRON推向全球市场，初期承担门店导购与产品讲解等商用场景任务，机器人搭载图灵芯片与物理世界大模型；公司此前已与广州天河区签约建设具身智能产业园。",
+      "publishedAt": "2026-07-16T20:34:16+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/977/762.htm",
+      "subCategory": "机器人"
+    },
+    {
+      "id": "tech-20260716-211",
+      "title": "全新里程碑：蔚来 firefly 萤火虫累计交付突破 70000 台",
+      "summary": "蔚来旗下萤火虫（firefly）品牌宣布全球累计交付量正式突破7万台，成为该子品牌自上市以来交付量的最新里程碑，显示其在小型电动车细分市场持续获得消费者认可。",
+      "publishedAt": "2026-07-16T20:24:45+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/977/761.htm",
+      "subCategory": "智能汽车"
+    },
+    {
+      "id": "tech-20260716-205",
+      "title": "欧盟施压谷歌：需向 OpenAI 等 AI 对手开放安卓功能并共享搜索数据",
+      "summary": "欧盟根据《数字市场法》要求谷歌开放11项安卓系统功能，允许OpenAI等AI竞争对手接入，用户可通过语音指令调用第三方AI助手；谷歌还须自2027年1月起向竞争对手共享匿名搜索数据。",
+      "publishedAt": "2026-07-16T20:13:42+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/977/759.htm",
+      "subCategory": "互联网产品"
+    },
+    {
+      "id": "tech-20260716-201",
+      "title": "realme副总裁徐起：realme 将按下中国市场的暂停键，后续销售、售后质保由 OPPO 全面接手",
+      "summary": "realme副总裁徐起表示，realme品牌将暂停中国市场新品投放，聚焦海外及性能游戏赛道；现有机型后续销售与售后质保由OPPO官方团队全面接手，用户可在下一代产品发布后升级至ColorOS系统。",
+      "publishedAt": "2026-07-16T17:10:14+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/977/595.htm",
+      "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260716-302",
+      "title": "OnePlus宣布停止在美国与欧洲推出新机",
+      "summary": "手机厂商OnePlus宣布将不再在美国和欧洲市场推出新产品，作为母公司OPPO业务重组的一部分。公司称现有用户的售后支持与系统更新将持续保障，中国及印度市场运营不受影响，未来将转向以Realme品牌拓展部分海外区域。",
+      "publishedAt": "2026-07-16T02:00:00-07:00",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/16/phone-maker-oneplus-reportedly-plans-to-wind-down-us-and-europe-operations/",
+      "subCategory": "消费电子"
+    },
+    {
+      "title": "现代汽车集团宣布将收购软银所持股份，全资控股波士顿动力",
+      "summary": "现代汽车集团宣布以约5000亿韩元收购软银所持波士顿动力剩余股份，实现全资控股。计划自2028年起在美国佐治亚州工厂部署Atlas人形机器人，用于汽车零部件分拣等生产环节。",
+      "publishedAt": "2026-07-16T16:29:53+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/977/570.htm",
+      "subCategory": "机器人",
+      "id": "tech-20260716-015"
+    },
+    {
+      "title": "鸿蒙智行智界 V9 旗舰 MPV 累计订单超 2 万台，定档 7 月 23 日推送华为乾崑智驾 ADS 5",
+      "summary": "华为鸿蒙智行智界V9旗舰MPV累计订单已超2万台，官方称7月23日起推送华为乾崑智驾ADS 5全量升级，该车5月上市，配备38个传感器及896线激光雷达。",
+      "publishedAt": "2026-07-16T16:21:58+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/977/567.htm",
+      "subCategory": "智能汽车",
+      "id": "tech-20260716-016"
+    },
+    {
+      "title": "特斯拉中国第三代家充单相版裸桩下调 200 元至 2599 元，18 项安装增项收费同步下调",
+      "summary": "特斯拉中国宣布第三代家用充电桩单相裸桩版降价200元至2599元，服务包版降601元至4599元，18项安装增项费用同步平均下调约37%，同时提高穿墙PVC管材安装标准。",
+      "publishedAt": "2026-07-16T16:15:32+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/977/560.htm",
+      "subCategory": "智能汽车",
+      "id": "tech-20260716-017"
+    },
+    {
+      "title": "消息称阿里千问首款 AI 智能体耳机将在 WAIC 亮相",
+      "summary": "消息称阿里旗下个人AI助手千问将在2026世界人工智能大会（WAIC）上首次展示AI智能体耳机，此前千问已发布Quark AI眼镜S1，并计划今年推出智能戒指等多款AI硬件产品。",
+      "publishedAt": "2026-07-16T16:09:46+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/977/558.htm",
+      "subCategory": "消费电子",
+      "id": "tech-20260716-018"
+    },
+    {
+      "title": "台积电上调销售和支出展望，再添AI需求持续迹象",
+      "summary": "台积电将2026年资本支出预期上调至600亿至640亿美元区间，并将美元营收增速展望由此前30%以上上调至40%以上，反映AI基础设施需求持续强劲，此前二季度净利润同比增长77.4%。",
+      "publishedAt": "2026-07-16T15:31:00+08:00",
+      "source": "36氪",
+      "url": "https://36kr.com/newsflashes/3898001280419717",
+      "subCategory": "芯片硬件",
+      "id": "tech-20260716-019"
+    },
+    {
+      "title": "金山办公连发两款AI办公智能体，覆盖个人级与组织级两大场景",
+      "summary": "金山办公在2026 AI生产力大会上发布“灵犀专业版”与“WPS Comate”两款AI办公智能体，分别面向个人和组织级场景，CEO章庆元称办公软件正迈向AI原生阶段。",
+      "publishedAt": "2026-07-16T15:20:00+08:00",
+      "source": "36氪",
+      "url": "https://36kr.com/newsflashes/3897989611144839",
+      "subCategory": "互联网产品",
+      "id": "tech-20260716-020"
+    },
+    {
+      "id": "tech-20260716-305",
+      "title": "微软将经典聊天客户端Comic Chat开源",
+      "summary": "微软在GitHub上以MIT许可开源1995年推出的IRC聊天客户端Comic Chat，该软件曾将文字对话自动转换为漫画形式，并推广了Comic Sans字体。开源版本保留原始代码，并附带适配现代开发工具的改造版本。",
+      "publishedAt": "2026-07-16",
+      "source": "Microsoft Open Source Blog",
+      "url": "https://opensource.microsoft.com/blog/2026/07/16/microsoft-comic-chat-is-now-open-source/",
+      "subCategory": "开源生态"
+    },
+    {
+      "id": "tech-20260716-007",
+      "title": "苹果更新地图 Apple Maps 广告投放条款：明确禁投家政服务等内容",
+      "summary": "苹果更新Apple Maps广告投放条款，明确禁止保释担保、加密货币ATM、家政服务及政治类广告投放，医疗服务类广告将实行个案审核，并要求广告内容清晰标识。",
+      "publishedAt": "2026-07-16T08:11:52+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/977/287.htm",
+      "subCategory": "互联网产品"
+    },
+    {
+      "id": "tech-20260716-006",
+      "title": "微软详解 Win11 各类更新发布机制与命名规则：热补丁、预览更新、OOB 各司其职",
+      "summary": "微软发布文档统一Win11更新命名规则，将更新分为月度累积安全更新、可选预览更新及紧急带外更新三类，并介绍了可免重启安装安全更新的热补丁技术。",
+      "publishedAt": "2026-07-16T07:45:11+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/977/279.htm",
+      "subCategory": "操作系统"
+    },
+    {
+      "id": "tech-20260716-005",
+      "title": "英伟达与丰田扩大合作，开发更安全、更智能的 L2++ 辅助驾驶汽车",
+      "summary": "英伟达与丰田宣布扩大合作，丰田新一代车型将采用英伟达DRIVE AGX平台及DriveOS操作系统以实现L2++级别辅助驾驶，合作还将拓展至制造与城市交通管理领域。",
+      "publishedAt": "2026-07-16T07:18:27+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/977/272.htm",
+      "subCategory": "智能汽车"
+    },
+    {
+      "id": "tech-20260716-001",
+      "title": "第四条 737 生产线启用，波音美国两座工厂将同时生产 737",
+      "summary": "波音在埃弗里特工厂启用第四条737生产线，与伦顿工厂同时生产737机型，这是50余年来737首次在伦顿以外工厂投产，新生产线设计支持更高月产能。",
+      "publishedAt": "2026-07-15T23:31:00+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/977/247.htm",
+      "subCategory": "航空航天"
+    },
+    {
+      "id": "tech-20260715-025",
+      "title": "消息称苹果正寻求收购人工智能芯片企业",
+      "summary": "据The Information报道，苹果正积极接触半导体初创企业评估收购意向，以推进AI服务器芯片研发，应对其内部AI服务器性能问题，此举被视为向十亿美元级收购转变，此前苹果已完成对以色列机器学习公司Q.Ai约20亿美元的收购。",
+      "publishedAt": "2026-07-15T23:11:27+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/977/243.htm",
+      "subCategory": "芯片硬件"
+    },
+    {
+      "id": "tech-20260716-002",
+      "title": "远景动力宜昌超级工厂正式投产运营，790 安时全球最大方壳卷绕电芯量产下线",
+      "summary": "远景动力宜昌超级工厂正式投产，一期二期分别达成40GWh与60GWh电芯产能，工厂下线790安时方壳卷绕电芯，首批产品发往德国。",
+      "publishedAt": "2026-07-15T22:43:04+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/977/240.htm",
+      "subCategory": "智能汽车"
+    },
+    {
+      "id": "tech-20260715-027",
+      "title": "奕境 X9 官宣搭载 HUAWEI XSCENE 车载激光投影，支持业界唯一一机五投",
+      "summary": "华为宣布奕境X9搭载HUAWEI XSCENE车载激光投影系统，采用行业首批激光光源及LCoS成像技术，支持单人、双人、悬浮、躺卧、坐姿等业界唯一\"一机五投\"模式，并集成鸿蒙座舱多模态感知系统。",
+      "publishedAt": "2026-07-15T22:36:22+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/977/239.htm",
+      "subCategory": "智能汽车"
+    },
+    {
+      "id": "tech-20260716-004",
+      "title": "苹果提高 Mac、iPad 等产品 Apple Care+ 价格",
+      "summary": "苹果上调Mac与iPad的AppleCare+服务价格，Mac三年期AppleCare+多数机型上涨150元，iPad两年期AppleCare+上涨100元，Mac Pro价格保持不变。",
+      "publishedAt": "2026-07-15T22:21:53+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/977/238.htm",
+      "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260716-003",
+      "title": "三星钱包数字车钥匙适配上汽大众 ID. ERA 9X 车型，支持无感解闭锁",
+      "summary": "三星钱包数字车钥匙功能适配上汽大众ID. ERA 9X车型，用户安装相关App并绑定车辆信息后即可实现车辆无感解锁与启动等操作。",
+      "publishedAt": "2026-07-15T22:18:00+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/977/237.htm",
+      "subCategory": "智能汽车"
+    },
+    {
+      "id": "tech-20260715-026",
+      "title": "人形机器人公司逐际动力完成近 2 亿美元 Pre-IPO 轮融资",
+      "summary": "人形机器人公司逐际动力（LimX Dynamics）宣布完成Pre-IPO轮融资，金额近2亿美元，投资方包括IDG资本等机构，资金将重点用于大小脑融合技术的突破和产品化，推动人形机器人规模化部署及全球化布局。",
+      "publishedAt": "2026-07-15T21:56:08+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/977/234.htm",
+      "subCategory": "机器人"
+    },
+    {
+      "id": "tech-20260716-008",
+      "title": "马斯克宣布 X 平台将零保留开源全部代码，并引入第三方核验机制确保真实性",
+      "summary": "马斯克宣布X平台将零保留、无例外地开源全部代码库，并计划引入第三方审计机构核验公开代码与服务器实际运行代码的一致性，范围较此前仅开源推荐算法更广。",
+      "publishedAt": "2026-07-15T21:53:29+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/977/233.htm",
+      "subCategory": "开源生态"
+    },
+    {
+      "id": "tech-20260716-014",
+      "title": "长安启源 Q06 实车亮相，定位纯电中大型轿跑 SUV",
+      "summary": "长安启源Q06纯电中大型轿跑SUV实车亮相，基于SDA天枢平台打造，轴距2940mm，配备天枢领航Ultra智驾系统、双电机后驱及支持6C充电倍率的800V碳化硅快充技术。",
+      "publishedAt": "2026-07-15T21:40:34+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/977/231.htm",
+      "subCategory": "智能汽车"
+    },
+    {
+      "id": "tech-20260716-013",
+      "title": "英伟达黄仁勋东京面谢世嘉前社长 30 年前雪中送炭，双方官宣 RTX Spark 游戏合作",
+      "summary": "英伟达CEO黄仁勋在东京会见世嘉前社长，纪念对方30年前在英伟达陷入财务危机时出资500万美元相助的往事，双方并官宣RTX Spark游戏合作。",
+      "publishedAt": "2026-07-15T21:20:13+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/977/227.htm",
+      "subCategory": "芯片硬件"
+    },
+    {
+      "id": "tech-20260716-011",
+      "title": "消息称字节叫停第一代豆包 AI 眼镜，第二代规划全功能版和轻量版双版本、下半年上市",
+      "summary": "消息称字节跳动已叫停原定于今年4月推出的第一代豆包AI眼镜项目，第二代产品将延至下半年推出全功能版与低于30克的轻量版两个版本，采用高通AR1与恒玄BES2800芯片方案。",
+      "publishedAt": "2026-07-15T21:04:14+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/977/226.htm",
+      "subCategory": "XR-AR-VR"
+    },
+    {
+      "id": "tech-20260716-010",
+      "title": "订单太多忙不过来，消息称三星电子拟将谷歌 TPU I/O 芯片后端设计工作外包",
+      "summary": "消息称三星电子因订单压力，拟将谷歌代号'Icefish'的第十代张量处理器2纳米TPU I/O芯片部分后端设计工作外包给设计服务商，候选企业对此态度谨慎。",
+      "publishedAt": "2026-07-15T20:58:10+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/977/224.htm",
+      "subCategory": "芯片硬件"
+    },
+    {
+      "id": "tech-20260716-009",
+      "title": "长鑫科技：第五代工艺技术平台处于研发阶段，采用进一步优化的多重曝光技术",
+      "summary": "长鑫科技表示其第五代存储工艺技术平台正处于研发阶段，将采用进一步优化的多重曝光技术提升存储密度与阵列性能，此前一至四代工艺平台均已实现量产。",
+      "publishedAt": "2026-07-15T20:43:33+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/977/223.htm",
+      "subCategory": "芯片硬件"
+    },
+    {
+      "id": "tech-20260716-012",
+      "title": "东风汽车：行业首发 2400MPa 超高强钢结构件，相关技术已在奕境汽车上搭载应用",
+      "summary": "东风汽车研究院宣布行业首发2400MPa超高强钢结构件，推出锌基镀层超高强激光焊接门环，强度较上一代提升16.2%，相关技术已应用于奕境汽车车型。",
+      "publishedAt": "2026-07-15T20:31:57+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/977/222.htm",
+      "subCategory": "智能汽车"
+    },
+    {
+      "title": "三星990固态硬盘上市：QLC + DRAM-less方案，2TB售2399元",
+      "summary": "三星990系列固态硬盘正式上市，采用QLC闪存与DRAM-less方案，支持HMB主机内存缓冲，1TB售1499元、2TB售2399元，最高顺序读取7250MB/s、写入6450MB/s，官方称能效较990 PRO提升38%。",
+      "publishedAt": "2026-07-15T16:43:25+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/977/110.htm",
+      "subCategory": "芯片硬件",
+      "id": "tech-20260715-017"
+    },
+    {
+      "title": "七工匠LITE系列AF 25/35/50mm F1.8富士X卡口银色版镜头开售，首发599元",
+      "summary": "七工匠推出LITE系列AF 25mm、35mm、50mm F1.8富士X卡口银色版镜头，均为金属镜身，配备STM步进马达并支持眼部对焦，重量约180克，三款镜头首发价均为599元。",
+      "publishedAt": "2026-07-15T16:40:33+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/977/107.htm",
+      "subCategory": "消费电子",
+      "id": "tech-20260715-015"
+    },
+    {
+      "title": "宝马高管称电动车千匹马力是营销噱头，纯电M3名字就叫M3",
+      "summary": "宝马M部门CEO范梅尔在古德伍德速度节表示，电动车市场夸大的千匹马力数据没有意义，即将推出的纯电M3不会采用特殊命名而是直接称为M3，宝马还将推出搭载直列六缸发动机的混动版M3。",
+      "publishedAt": "2026-07-15T16:39:22+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/977/104.htm",
+      "subCategory": "智能汽车",
+      "id": "tech-20260715-016"
+    },
+    {
+      "title": "荣耀Robot Phone通过3C认证，由自有工厂生产",
+      "summary": "荣耀今年3月发布的Robot Phone机型（型号APH-AN00）通过3C认证，标配120W快充，将由荣耀自有工厂深圳荣耀智能机器有限公司生产，该机型配备可翻转的2亿像素云台主摄，预计8月正式发布。",
+      "publishedAt": "2026-07-15T16:19:35+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/977/092.htm",
+      "subCategory": "消费电子",
+      "id": "tech-20260715-024"
+    },
+    {
+      "title": "诺基亚与英伟达推出业界首个商用AI-RAN平台，提升频谱利用效率",
+      "summary": "诺基亚与英伟达联合推出AI驱动的无线接入网AI-RAN平台，无需额外频谱资源即可提升现网数据传输容量，目标2028年将频谱利用效率从约20%提升至50%，平台含三款新硬件与一款软件，符合Open RAN标准。",
+      "publishedAt": "2026-07-15T16:18:23+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/977/090.htm",
+      "subCategory": "网络基础设施",
+      "id": "tech-20260715-021"
+    },
+    {
+      "title": "AI编程工具Cursor曝安全漏洞：可执行任意代码，报告7个月未修复",
+      "summary": "研究人员发现AI代码编辑器Cursor在Windows版本存在任意代码执行漏洞，攻击者将恶意git.exe文件放入仓库根目录即被自动执行，漏洞去年12月被报告，直至7月14日才公开披露，历时约7个月未修复，影响超700万用户。",
+      "publishedAt": "2026-07-15T15:51:15+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/977/071.htm",
+      "subCategory": "安全漏洞",
+      "id": "tech-20260715-022"
+    },
+    {
+      "title": "美国起诉俄罗斯“防弹主机”服务运营商",
+      "summary": "美国司法部对三名俄罗斯籍人士提起公诉，指控其运营的Media Land、ML.Cloud等“防弹主机”服务为勒索软件团伙提供基础设施，涉案损失超6200万美元，受害者涉及美国21个州的银行、学校、医院等机构。",
+      "publishedAt": "2026-07-15T15:45:00+08:00",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/us-charges-alleged-russian-bulletproof-hosting-service-operators/",
+      "subCategory": "安全漏洞",
+      "id": "tech-20260715-019"
+    },
+    {
+      "title": "砺算LX 7G100国产消费级显卡“零售版”7月17日开售",
+      "summary": "砺算科技宣布LX 7G100国产消费级显卡“零售版”将于7月17日20点在京东官方旗舰店开售，采用6nm工艺与TrueGPU架构，配备12GB GDDR6显存及三风扇五热管散热，支持8K 60Hz输出，此前众筹版已售罄。",
+      "publishedAt": "2026-07-15T15:22:12+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/977/031.htm",
+      "subCategory": "芯片硬件",
+      "id": "tech-20260715-023"
+    },
+    {
+      "title": "索尼PlayStation首款无线格斗操作杆FlexStrike遭遇意外生产延误，发售延迟",
+      "summary": "索尼PlayStation首款无线格斗摇杆FlexStrike因生产环节出现意外延误，无法按原定8月6日发售，官方表示需更多时间完善产品。该设备采用机械轴体与免工具更换档位系统，支持PlayStation Link无线连接，续航最长40小时。",
+      "publishedAt": "2026-07-15T08:57:03+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/976/801.htm",
+      "subCategory": "消费电子",
+      "id": "tech-20260715-013"
+    },
+    {
+      "title": "《英雄联盟》经典模式将于26.15版本发布：首发60位英雄，还有海斗经典版",
+      "summary": "Riot Games宣布《英雄联盟》将于7月30日随26.15版本推出经典模式，参考2013赛季设计，首发60位复古英雄，保留传统符文天赋与召唤师技能，并加入WASD移动等现代化操作，“极地大乱斗”模式也将推出对应经典版本。",
+      "publishedAt": "2026-07-15T08:55:48+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/976/799.htm",
+      "subCategory": "互联网产品",
+      "id": "tech-20260715-014"
+    },
+    {
+      "id": "tech-20260715-001",
+      "title": "华硕将独立发售 OLED 屏幕版 ROG Ally 掌机",
+      "summary": "华硕官方确认将独立发售此前作为 ROG XBOX Ally X20 套装亮相的 OLED 屏幕版 ROG Ally 掌机，该机搭载 7.4 英寸 120Hz OLED 屏、AMD Ryzen AI Z2 Extreme 处理器及升级版摇杆与十字键。",
+      "publishedAt": "2026-07-15T08:37:35+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/976/795.htm",
+      "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260715-002",
+      "title": "Linux 7.2-rc3 针对世嘉 28 年 Dreamcast 主机合并驱动修复补丁",
+      "summary": "Linux 内核 7.2-rc3 合并了针对世嘉 Dreamcast 主机键盘、鼠标、手柄驱动的补丁，修复了一个源于 2017 年、因鼠标驱动访问未初始化数据导致内核崩溃的空指针错误。",
+      "publishedAt": "2026-07-15T08:20:49+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/976/790.htm",
+      "subCategory": "开源生态"
+    },
+    {
+      "id": "tech-20260715-003",
+      "title": "俄美制定联合计划，国际空间站运行拟于 2030 年底结束",
+      "summary": "俄罗斯与美国就国际空间站未来运行制定联合计划，拟于 2030 年底结束其运行，双方还讨论了各自轨道站的应急协作、探月及太空医学联合实验等合作事项。",
+      "publishedAt": "2026-07-15T08:16:58+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/976/789.htm",
+      "subCategory": "航空航天"
+    },
+    {
+      "id": "tech-20260715-004",
+      "title": "三星电子拟投数十万亿韩元，于器兴新建月产 10 万片 DRAM 工厂",
+      "summary": "三星电子计划投资数十万亿韩元，在京畿道器兴园区新建月产能 10 万片晶圆的 DRAM 工厂，最早三季度动工，以应对 AI 基础设施带动的存储芯片需求增长，消息公布后三星股价上涨 7%。",
+      "publishedAt": "2026-07-15T08:16:24+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/976/788.htm",
+      "subCategory": "芯片硬件"
+    },
+    {
+      "id": "tech-20260715-005",
+      "title": "微软 Win11 24H2/25H2 推送 7 月累积更新，部分戴尔设备存兼容性问题",
+      "summary": "微软发布 KB5101650 七月累积更新，将 Win11 24H2 升至 Build 26100.8875、25H2 升至 Build 26200.8875，但部分搭载英特尔处理器的戴尔设备出现兼容性问题暂缓推送，微软与戴尔正联合修复。",
+      "publishedAt": "2026-07-15T07:59:26+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/976/786.htm",
+      "subCategory": "操作系统"
+    },
+    {
+      "id": "tech-20260715-006",
+      "title": "微软 Win10 推送 7 月扩展安全更新：解决回收站提示异常问题，创纪录修复 570 个漏洞",
+      "summary": "微软发布 Win10 七月扩展安全更新 KB5099539，创纪录修复 570 个安全漏洞，含 2 个已遭利用的零日漏洞和 1 个已公开的零日漏洞，同时解决回收站提示异常等问题。",
+      "publishedAt": "2026-07-15T07:42:24+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/976/782.htm",
+      "subCategory": "安全漏洞"
+    },
+    {
+      "id": "tech-20260715-007",
+      "title": "三星发布 Flex Titanium 技术：钛金属重塑折叠屏结构，Galaxy Z Fold8 有望首搭",
+      "summary": "三星发布 Flex Titanium 折叠屏技术，采用钛合金薄膜与钛板重塑屏幕结构，刚性较聚合物薄膜提升 20 倍且厚度约为头发丝三分之一，该技术预计首先应用于下一代 Galaxy Z Fold8。",
+      "publishedAt": "2026-07-15T07:37:32+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/976/778.htm",
+      "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260715-008",
+      "title": "华为 MatePad 11.5 S 灵动款、MatePad Air 12 英寸鸿蒙焕新版上市，2999 元起",
+      "summary": "华为 MatePad 11.5 S 灵动款与 MatePad Air 12 英寸鸿蒙焕新版正式上市，起售价 2999 元，两款平板均从鸿蒙 4.2 升级至鸿蒙 6.0，前者搭载麒麟 9000WL 芯片、144Hz 屏幕。",
+      "publishedAt": "2026-07-15T07:31:52+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/976/780.htm",
+      "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260715-009",
+      "title": "小米汽车：仿真和试验室测试确实能大幅提升研发效率，但无法完全替代真实路测",
+      "summary": "小米汽车表示仿真与实验室测试能大幅提升研发效率但无法完全替代真实路测，截至 6 月底其测试车队已在全国 31 省 194 市累计行驶 428 万公里，覆盖零下 41 摄氏度到 53 摄氏度等极端环境。",
+      "publishedAt": "2026-07-15T07:08:09+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/976/773.htm",
+      "subCategory": "智能汽车"
+    },
+    {
+      "title": "OpenAI首款硬件设备据报道为可移动的无屏幕智能音箱",
+      "summary": "据彭博社报道，OpenAI正在研发其首款硬件产品——一款无屏幕的可移动智能音箱，定位家庭AI陪伴设备，将与ChatGPT深度整合，机身含可自主活动的机械部件，多名前苹果工程师参与研发。",
+      "publishedAt": "2026-07-15T06:22:00+08:00",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/14/openais-first-hardware-device-is-reportedly-a-screenless-speaker-that-can-move/",
+      "subCategory": "消费电子",
+      "id": "tech-20260715-018"
+    },
+    {
+      "title": "SonicWall警告SMA1000漏洞已遭零日攻击利用，敦促尽快打补丁",
+      "summary": "SonicWall披露SMA1000设备两个已遭在野利用的漏洞：CVE-2026-15409（CVSS 10.0，未认证SSRF）及CVE-2026-15410（CVSS 7.2，认证后可执行任意系统命令），影响6210、7210、8200v型号，官方已发布修复版本。",
+      "publishedAt": "2026-07-15T05:23:00+08:00",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-sma1000-flaws-exploited-in-zero-day-attacks-patch-now/",
+      "subCategory": "安全漏洞",
+      "id": "tech-20260715-020"
+    },
+    {
+      "id": "tech-20260714-013",
+      "title": "4 种配色可选，谷歌 Pixel Watch 5 手表抢先看",
+      "summary": "网络流出的渲染图显示，谷歌Pixel Watch 5将提供深炭黑、自然银、黄铁矿和暖金四种配色，机身分41毫米与45毫米两种尺寸，并分为Wi-Fi蓝牙版与LTE版，基础版起售价预计为399美元，较上代上涨50美元。",
+      "publishedAt": "2026-07-14T23:05:22+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/976/751.htm",
+      "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260714-014",
+      "title": "消息称英特尔调整 Nova Lake 生产策略，大部分计算芯粒重回自家晶圆厂生产",
+      "summary": "消息称英特尔调整Nova Lake处理器生产策略，原计划交由台积电代工的60%至70%计算芯粒改为自家工厂生产，比例提升至80%至90%，原因是其18A制程良率已达到可接受水平。",
+      "publishedAt": "2026-07-14T22:54:05+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/976/748.htm",
+      "subCategory": "芯片硬件"
+    },
+    {
+      "id": "tech-20260715-010",
+      "title": "华为智选车产品总监彭磊科普国家 L3 准入要求，称享界 G9 设计之初就瞄准 L3 级自动驾驶开发",
+      "summary": "华为智选车产品总监彭磊介绍国家 L3 自动驾驶准入要求，称享界 G9 是首款面向 120 公里时速 L3 场景设计的车型，已获批北京 L3 级自动驾驶道路测试牌照，搭载 896 线激光雷达等多模传感器。",
+      "publishedAt": "2026-07-14T22:40:59+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/976/745.htm",
+      "subCategory": "智能汽车"
+    },
+    {
+      "id": "tech-20260715-011",
+      "title": "特斯拉海外推出\"保值计划\"，防止贷款购车的 Model 3/Y 车主被降价\"背刺\"",
+      "summary": "特斯拉在澳大利亚联合当地金融机构 Driva 推出保值计划，允许贷款购买 Model 3/Y 的车主根据贷款期限与里程锁定未来回购价，到期后可按约定价退车、留车补差价或自行出售，网约车司机不适用。",
+      "publishedAt": "2026-07-14T22:32:55+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/976/744.htm",
+      "subCategory": "智能汽车"
+    },
+    {
+      "id": "tech-20260714-015",
+      "title": "三星 Galaxy Z Fold8 系列折叠屏手机发布在即，官方海报图曝光",
+      "summary": "外媒曝光三星Galaxy Z Fold8系列官方宣传海报，本次阵容包含三款折叠屏手机及Galaxy Watch 9、Galaxy Watch Ultra2手表新品，将于7月22日在伦敦举行的三星夏季Unpacked发布会上正式亮相。",
+      "publishedAt": "2026-07-14T22:06:53+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/976/739.htm",
+      "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260714-016",
+      "title": "2026 款机械革命旷世 X 笔记本新增酷睿 7-245HX 版本：可选 RTX5060/5070，9999 元起（国补后 8499.15 元起）",
+      "summary": "机械革命推出2026款旷世X笔记本酷睿7-245HX版本，屏幕为16英寸2560x1600分辨率180Hz面板，可选RTX5060或RTX5070显卡，机身采用航空级铝合金材质，售价9999元起，国补后最低8499.15元。",
+      "publishedAt": "2026-07-14T22:04:28+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/976/738.htm",
+      "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260714-017",
+      "title": "全球首个可变形个人机器人，上纬新材启元 T1 今日正式登场",
+      "summary": "上纬新材正式推出可变形个人机器人启元T1，采用跨形态架构，可在双足站立与四足行走模式间自由切换，具备柔性力控、语音识别、智能跟随及物品托载等功能，将在2026世界人工智能大会期间展出。",
+      "publishedAt": "2026-07-14T21:47:10+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/976/736.htm",
+      "subCategory": "机器人"
+    },
+    {
+      "id": "tech-20260714-018",
+      "title": "消息称佳能 EOS R10 Mark II 半画幅无反相机将先于 R7 Mark II 发布，具体时间尚不明确",
+      "summary": "据Canon Rumors消息，佳能正调整APS-C产品线策略，EOS R10 Mark II将先于此前预期的EOS R7 Mark II发布，后者预计推迟至2027年上半年，佳能今年还计划推出EOS R8 Mark II及一到两款PowerShot新品。",
+      "publishedAt": "2026-07-14T21:39:21+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/976/735.htm",
+      "subCategory": "消费电子"
+    }
+  ]
+}
