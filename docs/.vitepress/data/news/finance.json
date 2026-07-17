@@ -3,8 +3,53 @@
   "slug": "finance",
   "title": "投资与财经",
   "description": "宏观经济、A 股 / 港股 / 美股、一级市场融资、行业研报观点。",
-  "updatedAt": "2026-07-17T17:05:00+08:00",
+  "updatedAt": "2026-07-18T01:01:21+08:00",
   "items": [
+    {
+      "id": "finance-20260717-901",
+      "title": "U.S. import prices unexpectedly rise in June",
+      "summary": "美国6月进口物价同比上涨7.1%，为近四年最大同比涨幅，前值为6.6%；环比上涨0.3%，与市场预期下降0.7%相反，核心进口物价同比升4.6%，主因企业为人工智能相关需求增加资本品采购推高价格。",
+      "publishedAt": "2026-07-17T09:15:00-04:00",
+      "source": "BNN Bloomberg",
+      "url": "https://www.bnnbloomberg.ca/business/international/2026/07/17/us-import-prices-unexpectedly-rise-in-june/",
+      "subCategory": "宏观经济"
+    },
+    {
+      "id": "finance-20260717-900",
+      "title": "Gold prices today, Friday, July 17, 2026: Gold nosedives to Nov. '25 levels as Iran airstrikes intensify",
+      "summary": "8月黄金期货开盘报每盎司3980.10美元，较周四收盘价跌0.3%，跌至去年11月以来低位；报道称美国对伊朗目标连续六天空袭推升油价，并强化美联储维持高利率预期，压制黄金避险需求。",
+      "publishedAt": "2026-07-17T07:11:00-05:00",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-friday-july-17-2026-gold-nosedives-to-nov-25-levels-as-iran-airstrikes-intensify-121125037.html",
+      "subCategory": "大宗商品"
+    },
+    {
+      "id": "finance-20260717-908",
+      "title": "恒指跌超1.7%！中际旭创通过港交所聆讯，或成今年港股最大IPO",
+      "summary": "中际旭创通过港交所上市聆讯，拟募资约70亿美元（约546亿港元），若达成将超越立讯精密成为2026年以来港股最大规模IPO，消息当日其A股股价跌超12%，收报979.46元。",
+      "publishedAt": "2026-07-17T18:48:28+08:00",
+      "source": "每日经济新闻",
+      "url": "https://www.nbd.com.cn/articles/2026-07-17/4476068.html",
+      "subCategory": "一级市场"
+    },
+    {
+      "id": "finance-20260717-907",
+      "title": "港股收评：恒生指数跌1.78% 恒生科技指数跌4.37%",
+      "summary": "7月17日港股收盘，恒生指数跌1.78%报24562.24点，恒生科技指数跌4.37%；存储芯片板块领跌，中芯国际跌近10%，AI概念股智谱跌超28%、MiniMax跌超15%，机器人概念股跌超17%。",
+      "publishedAt": "2026-07-17T16:15:00+08:00",
+      "source": "证券时报",
+      "url": "https://www.stcn.com/article/detail/4025799.html",
+      "subCategory": "港股"
+    },
+    {
+      "id": "finance-20260717-904",
+      "title": "A股科技股重挫，半导体、CPO、PCB批量跌停，长光华芯20cm跌停",
+      "summary": "7月17日A股三大指数大幅下挫，上证指数跌破3800点，创业板指跌超7%，科创50指数跌超7%，沪深两市成交额达2.65万亿元，全市场近5000只个股下跌、近200只跌停，半导体、存储芯片、CPO、PCB板块领跌。",
+      "publishedAt": "2026-07-17T15:37:00+08:00",
+      "source": "新浪财经",
+      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-07-17/doc-iniiaxny7451587.shtml",
+      "subCategory": "A股"
+    },
     {
       "id": "finance-20260717-150",
       "title": "沪指失守3800点 创业板指跌7.15%创年内最大单日跌幅",
@@ -22,6 +67,15 @@
       "source": "Reuters via Yahoo Finance",
       "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-stumble-oil-set-weekly-011728443.html",
       "subCategory": "美股"
+    },
+    {
+      "id": "finance-20260717-906",
+      "title": "半导体牛股，多只遭净卖出",
+      "summary": "数据显示A股两融余额降至2.84万亿元，较前一日减少286.53亿元，为连续第11个交易日下降，兆易创新遭融资净卖出10.84亿元，澜起科技、香农芯创、通富微电净卖出均超7亿元，逾30只半导体股较7月高点回撤超40%。",
+      "publishedAt": "2026-07-17T12:32:00+08:00",
+      "source": "证券时报",
+      "url": "https://www.stcn.com/article/detail/4024912.html",
+      "subCategory": "A股"
     },
     {
       "id": "finance-20260717-101",
@@ -60,6 +114,24 @@
       "subCategory": "一级市场"
     },
     {
+      "id": "finance-20260717-909",
+      "title": "首发| 玄电新材完成近亿元A轮融资，推动高端特种炭黑国产化",
+      "summary": "新材料企业玄电新材完成近亿元A轮融资，由蜂云资本、美丽境界资本、启迪伊泰基金及上市公司捷邦科技等联合投资，资金将用于建设其内蒙一期特种炭黑工厂，该轮为公司首轮外部融资。",
+      "publishedAt": "2026-07-17T11:52:00+08:00",
+      "source": "投资界",
+      "url": "https://news.pedaily.cn/202607/566451.shtml",
+      "subCategory": "一级市场"
+    },
+    {
+      "id": "finance-20260717-905",
+      "title": "午评：创业板指跌4.71% 医药、半导体板块大跌",
+      "summary": "7月17日午盘，上证指数跌1.64%，深证成指跌3.7%，创业板指跌4.71%，医药、半导体板块跌幅居前；电力板块逆市走强，古瑞瓦特、乐山电力等多股涨停，全市场约4300只个股下跌，半日成交额约1.6万亿元。",
+      "publishedAt": "2026-07-17T11:34:00+08:00",
+      "source": "证券时报",
+      "url": "https://www.stcn.com/article/detail/4024816.html",
+      "subCategory": "A股"
+    },
+    {
       "id": "finance-20260717-157",
       "title": "澜起科技公告上半年净利预增64%至81% 并推股份回购",
       "summary": "港股上市公司澜起科技公告预计上半年营业收入约33.35亿元同比增26.6%，净利润19亿至21亿元同比增63.9%至81.2%，公司董事长并提议以3亿至6亿元回购股份，早盘股价一度跌超5%。",
@@ -78,6 +150,15 @@
       "subCategory": "风险事件"
     },
     {
+      "id": "finance-20260717-903",
+      "title": "7月17日央行开展4505亿元7天期逆回购操作",
+      "summary": "中国人民银行7月17日以固定利率、数量招标方式开展4505亿元7天期逆回购操作，中标利率为1.40%，与此前持平，全额满足了公开市场业务一级交易商的资金需求。",
+      "publishedAt": "2026-07-17T09:49:00+08:00",
+      "source": "东方财富网",
+      "url": "https://finance.eastmoney.com/a/202607173810809324.html",
+      "subCategory": "政策利率"
+    },
+    {
       "id": "finance-20260717-152",
       "title": "现货黄金跌破4000美元关口 原油因对话预期承压",
       "summary": "7月17日凌晨现货黄金跌至3973.6美元每盎司，创两周新低并跌破4000美元关口；WTI原油跌破80美元报78.98美元每桶，布伦特原油跌0.88%报84.86美元每桶，市场预期伊核局势仍存对话空间。",
@@ -94,6 +175,15 @@
       "source": "Investing.com",
       "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-netflix-posts-slight-q2-2026-beat-shares-sink-after-hours-93CH-4797109",
       "subCategory": "美股"
+    },
+    {
+      "id": "finance-20260717-902",
+      "title": "长鑫科技网上发行中签率刷新科创板历史纪录",
+      "summary": "长鑫科技科创板网上发行最终中签率为0.47141739%，刷新科创板历史纪录，超此前和辉光电0.30314621%的纪录，有效申购户数约942.88万户，为科创板史上募资规模最大的IPO项目。",
+      "publishedAt": "2026-07-17T02:35:00+08:00",
+      "source": "新浪财经",
+      "url": "https://news.sina.com.cn/c/2026-07-17/doc-inihzvzn7492715.shtml",
+      "subCategory": "A股"
     },
     {
       "id": "finance-20260716-402",
@@ -265,6 +355,15 @@
       "source": "PR Newswire",
       "url": "https://www.manilatimes.net/2026/07/16/tmt-newswire/pr-newswire/baidu-to-pursue-voluntary-conversion-to-dual-primary-listing-on-the-main-board-of-the-stock-exchange-of-hong-kong-limited/2385675",
       "subCategory": "港股"
+    },
+    {
+      "id": "finance-20260716-900",
+      "title": "Iraqi oil loadings briefly suspended after drone hits tanker at Basra, sources say",
+      "summary": "一架无人机7月16日击中伊拉克巴士拉码头一艘油轮，当地原油装载一度暂停后恢复，未造成起火或人员伤亡，伊拉克国家石油销售组织负责人称袭击目标并非该码头，事件凸显伊朗冲突下海湾能源运输持续承压。",
+      "publishedAt": "2026-07-16",
+      "source": "Arab News",
+      "url": "https://www.arabnews.com/node/2651163/middle-east",
+      "subCategory": "风险事件"
     },
     {
       "title": "长鑫科技今日打新：中一签缴款4330元，中签率高于普通新股",
@@ -465,6 +564,15 @@
       "subCategory": "宏观经济"
     },
     {
+      "id": "finance-20260715-900",
+      "title": "曝DeepSeek启动IPO，估值涨到4800亿",
+      "summary": "据报道，DeepSeek启动新一轮融资，估值升至约710亿美元，较此前520亿美元的A轮估值上涨约37%；公司计划最快于年内提交IPO申请，目标2027年在上海挂牌上市，6月月活用户达1.29亿。",
+      "publishedAt": "2026-07-15",
+      "source": "36氪",
+      "url": "https://www.36kr.com/p/3896713817736840",
+      "subCategory": "一级市场"
+    },
+    {
       "title": "Oil rises after another round of U.S. strikes against Iran, naval blockade of the country's ports",
       "summary": "美国对伊朗发动新一轮军事打击并恢复对伊朗港口的海上封锁，WTI原杙8月合约上涨0.45%至79.70美元/桶，布伦特9月合约上涨0.68%至85.31美元/桶。",
       "publishedAt": "2026-07-15T10:57:30+08:00",
@@ -616,114 +724,6 @@
       "source": "华尔街见闻",
       "url": "https://wallstreetcn.com/articles/3776932",
       "subCategory": "政策利率"
-    },
-    {
-      "id": "finance-20260714-029",
-      "title": "报道：Deepseek准备最快今年申请IPO",
-      "summary": "据报道，DeepSeek正筹备上市，力争今年12月底前完成财务报告，计划于年底戇2027年初正式提交IPO申请；公司同时在私募市场寻求新一轮融资，目标投前估值至少4800亿元人民币。",
-      "publishedAt": "2026-07-14T22:01:00+08:00",
-      "source": "华尔街见闻",
-      "url": "https://wallstreetcn.com/livenews/3133700",
-      "subCategory": "一级市场"
-    },
-    {
-      "id": "finance-20260714-019",
-      "title": "韩国股市杠杆绞杀实录：最高46万账户遭强平，散户\"血本无归\"，有人连养老金也亏掉了",
-      "summary": "报道显示，7月1日至10日韩国杠杆交易强制平仓金额合计4258亿韩元，其中7月9日单日衡1422亿韩元；约32万至46万个散户账户被强制平仓，逸120万个杠杆账户被追加保证金，SK海力士、三星电子相关杠杆ETF单月跌幅超66%。",
-      "publishedAt": "2026-07-14T21:59:00+08:00",
-      "source": "华尔街见闻",
-      "url": "https://wallstreetcn.com/articles/3776889",
-      "subCategory": "风险事件"
-    },
-    {
-      "id": "finance-20260715-004",
-      "title": "分析｜受AI投资热潮、价格因素等影响，6月进出口高位上行",
-      "summary": "海关总署数据显示，以美元计，6月中国进出口总值6991.5亿美元，同比增长30.6%；出口4123.9亿美元，增长27.0%；进口2867.6亿美元，增长36.0%。集成电路出口额同比增长121.9%，AI投资热潮及价格因素被认为是主要推动力。",
-      "publishedAt": "2026-07-14T21:18:00+08:00",
-      "source": "新浪财经（澎湃新闻）",
-      "url": "https://finance.sina.com.cn/jjxw/2026-07-14/doc-inihusyc8055209.shtml",
-      "subCategory": "宏观经济"
-    },
-    {
-      "id": "finance-20260715-002",
-      "title": "港股14日涨0.52% 收扯24340.73点",
-      "summary": "香港恒生指故14日上涨127.01点，涨幅0.52%，收扯24340.73点，主板成交额约312.9亿港元。国企指数涨0.46%，恒生科技指数涨0.06%。能源股表现活跃，石油股涨幅在2.43%至3.46%之间，中国人寿涨4%。",
-      "publishedAt": "2026-07-14T17:38:56+08:00",
-      "source": "新华网",
-      "url": "http://www.xinhuanet.com/20260714/32cd29c24d834fe18b14f3e2d8e60402/c.html",
-      "subCategory": "港股"
-    },
-    {
-      "id": "finance-20260714-005",
-      "title": "午后A股暴力拉升，沪戇3887点→4967点！原因找到了",
-      "summary": "7月14日午后A股大幅拉升，沪指收涨1.36%，深成指涨2.77%，创业板指涨3.43%，逸4200只个股上涨，两市成交额2.7万亿元；市场分析指韩国股市午间企稳、超跌反弹及多只基金失量。",
-      "publishedAt": "2026-07-14T15:30:00+08:00",
-      "source": "每经网",
-      "url": "https://finance.sina.com.cn/roll/2026-07-14/doc-inihuhkh1229500.shtml",
-      "subCategory": "A股"
-    },
-    {
-      "id": "finance-20260714-013",
-      "title": "Ericsson reports second quarter results 2026",
-      "summary": "爱立信公布2026年第二季度财报，净销售额527亿瑞典克朗，同比下降6%（有机口径降1%），主因专利授权收入减少；调整后毛利率48.4%，调整后息税前利旞65.2亿克朗超市场预期，净利旞41亿克朗，每股收益1.22克朗，同比下滑。",
-      "publishedAt": "2026-07-14T01:45:00-04:00",
-      "source": "PR Newswire",
-      "url": "https://www.prnewswire.com/news-releases/ericsson-reports-second-quarter-results-2026-302824683.html",
-      "subCategory": "公司财报"
-    },
-    {
-      "id": "finance-20260714-010",
-      "title": "首发｜星思半导体一连融资三轮，趻身上海百亿独角兽行列",
-      "summary": "5G/6G卫星通信基带芯片企业星思半导体完成新一轮战略产业融资，引入上海国资信恩投资、朱紫坊创投、满帮集团等多家机构，为其今年披露的第三笔融资，距2月完成15亿元融资不足半年，公司估值趻身百亿级独角兽。",
-      "publishedAt": "2026-07-14T13:00:00+08:00",
-      "source": "投资界",
-      "url": "https://news.pedaily.cn/202607/566244.shtml",
-      "subCategory": "一级市场"
-    },
-    {
-      "id": "finance-20260714-007",
-      "title": "中东局势升温 布伦特油价利6年最大单日涨幅",
-      "summary": "受美国对伊朗海上封锁及对通过霍尔木兹海峡货物征撖20%通行费影响，布伦特原油周一大涨9.6%至每梓83.30美元，创2020年5月以来最大单日涨幅；周二早盘9月期货进一步上涨2.14%至85.11美元，WTI涨2.27%至79.91美元。",
-      "publishedAt": "2026-07-14T12:25:00+08:00",
-      "source": "大纪元",
-      "url": "https://www.epochtimes.com/gb/26/7/14/n14809006.htm",
-      "subCategory": "大宗商品"
-    },
-    {
-      "id": "finance-20260715-007",
-      "title": "JPMorgan Chase Q2 2026 earnings: Record profit on trading surge",
-      "summary": "摩根大通公布二季度业绩，净利润达212亿美元，创单季历史新高，每股收益7.70美元，主要受股票交易收入大增及持有的Visa股杂4.6亿美元收益推动。总营收同比增长27%至580亿美元，各业务线均创纪录，但公司股价盘前一度下跌逸2%。",
-      "publishedAt": "2026-07-14",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/jpmorgan-chase-q2-2026-earnings-115434127.html",
-      "subCategory": "公司财报"
-    },
-    {
-      "id": "finance-20260714-011",
-      "title": "\"超级通胀日\"：CPI+沃什听证会，美联储下一步今晚或见分晓",
-      "summary": "美国6月CPI数据将于北京时间7月14日20:30公布，市场预期整体CPI环比降0.1%、同比降至3.8%，核心CPI同比或升至2.8%-3.0%；同日美联储主席沃什将首次以主席身份出席国会听证，市场关注其政策信号及核心通胀走势。",
-      "publishedAt": "2026-07-14T10:43:00+08:00",
-      "source": "新浪财经",
-      "url": "https://finance.sina.com.cn/roll/2026-07-14/doc-inihtvuk5282248.shtml",
-      "subCategory": "政策利率"
-    },
-    {
-      "id": "finance-20260715-003",
-      "title": "A股三大指数集体翻红，沪指收处3900点",
-      "summary": "7月14日盘中，沪指、深成指、创业板指集体转涨，沪指收处3900点，深成指涨0.71%，创业板指涨1.17%，逸3200只个股上涨。稀土、玻纤等板块走强，航天装备、互联网、计算机硬件等板块回落。",
-      "publishedAt": "2026-07-14T10:27:00+08:00",
-      "source": "中国新闻网",
-      "url": "https://www.chinanews.com.cn/cj/2026/07-14/10658874.shtml",
-      "subCategory": "A股"
-    },
-    {
-      "id": "finance-20260714-001",
-      "title": "特斯拉：2025年全球交付163.6万辆，净利旞38亿美元，同比下降46%",
-      "summary": "特斯拉2025财年数据显示，全球交付163.6万辆，GAAP净利旞38亿美元，较2024年的71亿美元下降46%；单车利旞从约3969美元降至约2323美元，降幅41%，较2022年峰值9500美元已下滑逸七成。报告将利旞下滑归因于产品结构失衡（Model S/X停产、Cybertruck销量不及预期）、依赖欧洲低价走量车型及自动驾驶高研发投入。",
-      "publishedAt": "2026-07-13T21:41:00+08:00",
-      "source": "新浪科技",
-      "url": "https://finance.sina.com.cn/tech/roll/2026-07-13/doc-inihspyw8847685.shtml",
-      "subCategory": "公司财报"
     }
   ]
 }

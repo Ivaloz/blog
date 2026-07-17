@@ -3,7 +3,7 @@
   "slug": "ai",
   "title": "AI 与大模型",
   "description": "大模型、Agent、AI 编程、推理框架、开源模型的发布与落地。",
-  "updatedAt": "2026-07-17T17:05:00+08:00",
+  "updatedAt": "2026-07-18T01:01:21+08:00",
   "items": [
     {
       "id": "ai-20260717-156",
@@ -31,6 +31,33 @@
       "source": "AIbase",
       "url": "https://news.aibase.com/zh/news/29686",
       "subCategory": "Agent"
+    },
+    {
+      "id": "ai-20260717-901",
+      "title": "NVIDIA Releases Nemotron 3 Embed Series 8B Version, Tops RTEB Retrieval Benchmark",
+      "summary": "英伟达发布Nemotron3Embed系列嵌入模型，面向RAG与智能体检索场景，8B版本在RTEB检索基准上取得榜首成绩，另提供1B及4bit量化版本，支持三万余token长度与多语言处理。",
+      "publishedAt": "2026-07-17",
+      "source": "AIbase",
+      "url": "https://news.aibase.com/news/29695",
+      "subCategory": "开源模型"
+    },
+    {
+      "id": "ai-20260717-902",
+      "title": "Ultra-Low Latency AI Chat Assistant! Wan-Streamer v0.2 Brings You Closer to AI",
+      "summary": "通义实验室发布多模态模型Wan-Streamer v0.2，将听、看、说、演能力整合进单一架构，端到端响应延迟降至550毫秒，视频分辨率提升至640×368并支持全身数字人形象。",
+      "publishedAt": "2026-07-17",
+      "source": "AIbase",
+      "url": "https://news.aibase.com/news/29691",
+      "subCategory": "多模态"
+    },
+    {
+      "id": "ai-20260717-903",
+      "title": "Chongqing Launches 'Yu Xiaojian' AI Medical Assistant, Covering 233 Public Hospitals",
+      "summary": "重庆市卫健委联合大数据局与蚂蚁集团上线AI医疗助手「渝小健」，可通过支付宝等渠道使用智能导诊、报告查询与AI解读等功能，已接入全市233家二级以上公立医院。",
+      "publishedAt": "2026-07-17",
+      "source": "AIbase",
+      "url": "https://news.aibase.com/news/29693",
+      "subCategory": "AI应用"
     },
     {
       "id": "ai-20260717-159",
@@ -123,6 +150,15 @@
       "subCategory": "Agent"
     },
     {
+      "id": "ai-20260717-900",
+      "title": "月之暗面Kimi K3发布：2.8 万亿参数，即将开源",
+      "summary": "月之暗面发布新一代旗舰模型Kimi K3，参数规模2.8万亿，采用KDA混合线性注意力机制并支持百万token上下文，已可通过kimi.com、客户端及API使用，完整权重计划7月27日前开源。",
+      "publishedAt": "2026-07-17T08:24:00+08:00",
+      "source": "新浪财经",
+      "url": "https://finance.sina.com.cn/tob/2026-07-17/doc-iniiahrp8128941.shtml",
+      "subCategory": "开源模型"
+    },
+    {
       "id": "ai-20260716-207",
       "title": "匿名模型Kivine外网刷屏，开发者们都在猜：这是Kimi-K3？",
       "summary": "匿名模型Kivine现身Arena评测平台，多重迹象指向月之暗面新模型Kimi K3，据称参数规模达2-3万亿、支持百万token上下文，编程测试成绩超越Claude Opus 4.8，但专家提醒不宜直接对标顶尖旗舰模型。",
@@ -130,6 +166,15 @@
       "source": "36氪",
       "url": "https://36kr.com/p/3898252203984520",
       "subCategory": "大模型"
+    },
+    {
+      "id": "ai-20260716-906",
+      "title": "面壁智能与三星手机达成合作 MiniCPM系列模型将亮相多款旗舰机型",
+      "summary": "面壁智能宣布其MiniCPM系列端侧大模型将预装于三星多款旗舰手机，标志端侧AI商业化进一步落地，同期另有七款手机端侧生成式AI服务完成境内监管备案。",
+      "publishedAt": "2026-07-16T20:09:22+08:00",
+      "source": "ITBear",
+      "url": "https://www.itbear.com.cn/html/2026-07/1448960.html",
+      "subCategory": "AI应用"
     },
     {
       "id": "ai-20260716-206",
@@ -247,6 +292,60 @@
       "source": "AIbase",
       "url": "https://news.aibase.com/news/29661",
       "subCategory": "AI应用"
+    },
+    {
+      "id": "ai-20260716-900",
+      "title": "VideoChat3: Fully Open Video MLLM for Efficient and Generalist Video Understanding",
+      "summary": "南京大学团队提出仅40亿参数的开源视频多模态模型VideoChat3，通过I3D-ViT与自适应帧分辨率降低训练与推理开销，在通用、长视频及流式理解基准上超越同类开源模型。",
+      "publishedAt": "2026-07-16",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2607.14935",
+      "subCategory": "论文进展"
+    },
+    {
+      "id": "ai-20260716-901",
+      "title": "BadWAM: When World-Action Models Dream Right but Act Wrong",
+      "summary": "研究提出针对世界-动作模型（WAM）的对抗攻击框架BadWAM，发现微小视觉扰动可破坏模型想象与实际执行的一致性，使任务成功率从96.5%降至43.1%，揭示具身智能系统安全隐患。",
+      "publishedAt": "2026-07-16",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2607.15207",
+      "subCategory": "论文进展"
+    },
+    {
+      "id": "ai-20260716-902",
+      "title": "LongStraw: Long-Context RL Beyond 2M Tokens under a Fixed GPU Budget",
+      "summary": "论文提出LongStraw执行框架，针对强化学习后训练长期受限于26万token左右的问题进行优化，在固定GPU预算下于H20集群实现处理210万token提示词的长上下文训练能力。",
+      "publishedAt": "2026-07-16",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2607.14952",
+      "subCategory": "论文进展"
+    },
+    {
+      "id": "ai-20260716-903",
+      "title": "SearchOS-V1: Towards Robust Open-Domain Information-Seeking Agent Collaboration",
+      "summary": "蚂蚁集团团队提出多智能体框架SearchOS，将搜索过程转化为前沿任务、证据图谱等持久化状态，并引入失败记忆机制避免重复搜索陷入循环，在基准测试中综合表现超越现有单多智能体系统。",
+      "publishedAt": "2026-07-16",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2607.15257",
+      "subCategory": "Agent"
+    },
+    {
+      "id": "ai-20260716-904",
+      "title": "SEED: Self-Evolving On-Policy Distillation for Agentic Reinforcement Learning",
+      "summary": "论文提出SEED框架，让策略从自身轨迹中提炼可复用技能并重新蒸馏回策略本身，缓解智能体强化学习中回合奖励与token级学习的监督缺口，在文本与视觉任务上均带来性能提升。",
+      "publishedAt": "2026-07-16",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2607.14777",
+      "subCategory": "Agent"
+    },
+    {
+      "id": "ai-20260716-905",
+      "title": "OpenWiki 0.2 brings OKF to codebase documentation",
+      "summary": "LangChain团队发布开源文档工具OpenWiki 0.2，引入OKF知识格式规范，为wiki文件增加结构化元数据，并新增index与logs约定，便于智能体以标签和分类方式检索文档。",
+      "publishedAt": "2026-07-16",
+      "source": "LangChain Blog",
+      "url": "https://www.langchain.com/blog/openwiki-0-2-adds-okf-support",
+      "subCategory": "Agent"
     },
     {
       "title": "全球首款AI智能体手机！努比亚NaviX Ultra正式亮相：搭载豆包手机助手",
@@ -375,6 +474,42 @@
       "id": "ai-20260716-009"
     },
     {
+      "id": "ai-20260715-901",
+      "title": "TML Inkling on vLLM: Day-0 Support with Optimized Performance",
+      "summary": "vLLM宣布首日支持Thinking Machines Lab发布的万亿参数多模态模型Inkling，支持文本、图像、音频输入及百万token上下文，通过张量并行与推测解码等优化提升推理吞吐。",
+      "publishedAt": "2026-07-15",
+      "source": "vLLM Blog",
+      "url": "https://vllm.ai/blog/2026-07-15-inkling",
+      "subCategory": "推理框架"
+    },
+    {
+      "id": "ai-20260715-902",
+      "title": "KeyFrame-Compass: Towards Comprehensive Evaluation of Keyframe-Conditioned Video Generation",
+      "summary": "研究提出KeyFrame-Compass基准，包含386个样本，从关键帧还原度与视频整体质量两方面评测视频生成模型，测试九款系统后发现关键帧约束密度越高，模型画面自然度越易下降。",
+      "publishedAt": "2026-07-15",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2607.14202",
+      "subCategory": "AI视频"
+    },
+    {
+      "id": "ai-20260715-903",
+      "title": "MultiRef-Compass: Towards Comprehensive Evaluation of Multi-Reference-to-Audio-Video Generation",
+      "summary": "论文提出MultiRef-Compass评测基准，含350个样本，围绕多视角主体一致性等维度评估多参考输入的音视频联合生成系统，测试八款系统后发现各评测维度仍有较大提升空间。",
+      "publishedAt": "2026-07-15",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2607.14189",
+      "subCategory": "AI评测"
+    },
+    {
+      "id": "ai-20260715-904",
+      "title": "Agents need their own computer. Here's how to give them one safely.",
+      "summary": "LangChain撰文介绍LangSmith Sandboxes，通过硬件级虚拟机为智能体提供隔离执行环境，可在一秒内启动并保留状态，同时通过网络代理管理凭据以降低执行不受信代码的风险。",
+      "publishedAt": "2026-07-15",
+      "source": "LangChain Blog",
+      "url": "https://www.langchain.com/blog/agents-need-their-own-computer",
+      "subCategory": "Agent"
+    },
+    {
       "id": "ai-20260716-002",
       "title": "又快又聪明，阿里发布Qwen-Audio-3.0-Realtime：实时语音大模型四项功能升级",
       "summary": "阿里发布实时语音交互模型Qwen-Audio-3.0-Realtime，含Plus与Flash两版本，在智能程度、工具调用、情感对话与双工交互四方面同步升级。",
@@ -409,6 +544,15 @@
       "source": "GIGAZINE",
       "url": "https://gigazine.net/gsc_news/en/20260715-google-image-25th/",
       "subCategory": "AI应用"
+    },
+    {
+      "id": "ai-20260715-900",
+      "title": "估值4800亿，DeepSeek火速开启新一轮融资！最快明年IPO",
+      "summary": "据报道，DeepSeek在完成首轮融资约六周后即启动新一轮融资，估值约710亿美元，较首轮上涨37%，资金将用于自建数据中心、采购芯片及研发下一代Agent系统，公司同时筹备2027年IPO。",
+      "publishedAt": "2026-07-15T08:54:59+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/07/450101.html",
+      "subCategory": "大模型"
     },
     {
       "id": "ai-20260715-007",
@@ -580,150 +724,6 @@
       "source": "新浪财经",
       "url": "https://finance.sina.com.cn/tech/shenji/2026-07-14/doc-inihtrnn5386299.shtml",
       "subCategory": "AI视频"
-    },
-    {
-      "id": "ai-20260714-001",
-      "title": "微软 CEO 纳德拉警告企业：你花钱用的 AI，最终可能会成为你的竞争对手",
-      "summary": "微软CEO纳德拉提示企业注意使用第三方AI模型的双重成本：企业既需支付token费用，又可能在与模型交互中泄露业务知识，使服务商借此了解客户业务并推出竞争性服务。纳德拉认为，若模型厂商可用公开互联网数据训练模型，企业也应被允许对模型进行蒸馏分析，并批评服务条款中保留厂商单方面学习客户数据权利的做法。",
-      "publishedAt": "2026-07-14T08:23:30+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/976/271.htm",
-      "subCategory": "大模型"
-    },
-    {
-      "id": "ai-20260713-011",
-      "title": "Anthropic starts localizing Claude pricing for India, its biggest market after the US",
-      "summary": "Anthropic为印度用户推出卢比定价，Claude Pro年付约每月2000卢比、Max约11999卢比、团队版约2399卢比每席位，均高于美国价格。印度占Claude全球使用量5.8%，是其第二大市场，但目前尚未支持UPI支付方式。",
-      "publishedAt": "2026-07-13T08:34:00-07:00",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/13/anthropic-starts-localizing-claude-pricing-for-india-its-biggest-market-after-the-us/",
-      "subCategory": "AI应用"
-    },
-    {
-      "id": "ai-20260714-002",
-      "title": "Agent专用搜索登顶Product Hunt，Token更省搜得更准",
-      "summary": "面向AI Agent设计的搜索产品AnySearch登顶Product Hunt周榜，在Frames、FreshQA、WebwalkerQA等300题测试中综合准确率达76.4%，优于Parallel、Brave Search等竞品。产品通过智能意图识别将查询路由至20余个垂直数据源，并对内容做去冗余与结构化markdown转换，以降低上下文长度与token消耗。",
-      "publishedAt": "2026-07-13T23:15:01+08:00",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/07/449327.html",
-      "subCategory": "Agent"
-    },
-    {
-      "id": "ai-20260714-003",
-      "title": "Agent要数量也要脑子！浪潮信息一边单柜兾4万Agent，一边让大模型组队答题",
-      "summary": "浪潮信息推出CPU原生液冷服务器机柜，单柜可同步支撑超4万个Agent运行，为此前方案的40倍；同时发布多模型融合方案，让多个大模型并行处理任务并由共识模型评估结果，在DRACO测试中取得53.9%的表现，超过候选池中任一单一模型。配套的元脑SD200超节点将token生成时延降至4.77毫秒，为国内首个跌破5毫秒的方案。",
-      "publishedAt": "2026-07-13T19:59:57+08:00",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/07/449311.html",
-      "subCategory": "推理框架"
-    },
-    {
-      "id": "ai-20260713-010",
-      "title": "阶跃终端首款智能体手机 STEPX Neo 亮相，配备交互背屏",
-      "summary": "阶跃星辰于7月13日晚举行终端品牌与智能体战略发布会，发布首款AI智能体手机STEPX Neo，搭载自研Step AOS原生智能体操作系统，配备交互背屏，并公布美团、WPS、剪映、携程、高德、支付宝等首批生态合作伙伴。",
-      "publishedAt": "2026-07-13T19:49:00+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/976/191.htm",
-      "subCategory": "Agent"
-    },
-    {
-      "title": "Claude Code瞳的坑，蚂蚁安全在尝试填上",
-      "summary": "蚂蚁安全实验室开源两大安全框架SingGuard-NSFA与SingGuard，分别用于智能体行为防护与多模态感知安全，覆盖185个风险场景，旨在应对Claude Code、OpenClaw等系统带来的新型安全风险。",
-      "publishedAt": "2026-07-13T14:53:56+08:00",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/07/448925.html",
-      "subCategory": "Agent",
-      "id": "ai-20260713-005"
-    },
-    {
-      "title": "微软 CEO 纳德拉批评 AI 模型公司“双标”：一边主张“合理使用”数据，一边限制他人蒸馏",
-      "summary": "微软CEO纳德拉批评部分AI公司存在双重标准，称其一方面以“合理使用”为由训练公开数据，另一方面却限制竞争对手对自身模型进行蒸馏，相关言论被认为暗指此前指责中国公司蒸馏技术的Anthropic。",
-      "publishedAt": "2026-07-13T14:40:42+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/975/986.htm",
-      "subCategory": "大模型",
-      "id": "ai-20260713-009"
-    },
-    {
-      "title": "支付宝AI开放平台上线：构建智能体互联中枢，开启“服务找人”新篇章",
-      "summary": "支付宝上线AI开放平台，提供ACT 2.0与AHA双协议，支持商家将服务接入多种AI终端；首批合作方包括肯德基、滴滴，平台方称合作商家曝光率提升37%，用户决策路径缩短62%。",
-      "publishedAt": "2026-07-13T14:17:54+08:00",
-      "source": "ITBear",
-      "url": "https://www.itbear.com.cn/html/2026-07/1441976.html",
-      "subCategory": "AI应用",
-      "id": "ai-20260713-007"
-    },
-    {
-      "title": "OpenAI 优化 GPT-5.6 Sol 并放宽使用限额，Anthropic 延长 Fable 5 推广期",
-      "summary": "OpenAI因流量激增取消Pro订阅用户临时限额，将GPT-5.6 Sol处理能力提升约10%，并扩大Banked Reset功能覆盖范围；Anthropic同步将Claude Fable 5推广期从7月12日延长至7月19日。",
-      "publishedAt": "2026-07-13T14:17:23+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/975/974.htm",
-      "subCategory": "大模型",
-      "id": "ai-20260713-001"
-    },
-    {
-      "title": "GPT-5.6刚发布，OpenAI安全主管就跑路了？？",
-      "summary": "OpenAI安全系统负责人Johannes Heidecke宣布离职，为两年内第六位安全团队高管离任；此次人事变动与GPT-5.6全量发布同期，公司同时将安全团队并入研究部门，引发外界对安全监督能力的关注。",
-      "publishedAt": "2026-07-13T14:10:36+08:00",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/07/448825.html",
-      "subCategory": "大模型",
-      "id": "ai-20260713-004"
-    },
-    {
-      "title": "CNCF发布招商银行AI调度平台案例 源于范式的HAMi技术获生产级验证",
-      "summary": "云原生计算基金会发布招商银行AI调度平台案例，基于HAMi技术实现硬件池利用率提升至100%，分布式训练跨机调度概率降低30%，标志HAMi从沙箱项目升级孵化项目后首个获官方认可的生产级部署。",
-      "publishedAt": "2026-07-13T14:07:00+08:00",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/07/448824.html",
-      "subCategory": "推理框架",
-      "id": "ai-20260713-008"
-    },
-    {
-      "title": "智谱启动“摸高”计划：瞬准AGI，以四大引擎移三座大山迎新征程",
-      "summary": "智谱AI启动“摸高”计划，聚焦长程任务执行、自主多智能体协作、自我训练机制与安全治理四大方向，目标在2027至2028年实现通用人工智能突破，公司近期完成313.75亿港元融资用于研发与基础设施建设。",
-      "publishedAt": "2026-07-13T13:39:00+08:00",
-      "source": "ITBear",
-      "url": "https://www.itbear.com.cn/html/2026-07/1441908.html",
-      "subCategory": "大模型",
-      "id": "ai-20260713-006"
-    },
-    {
-      "title": "商汤发布并开源 SenseNova-Vision 理解生成统一视觉大模型，能力超越 Vision Banana",
-      "summary": "商汤科技发布并开源“日日新SenseNova-Vision”视觉统一大模型，整合理解与生成能力，在目标检测、图像分割、深度估计等任务上表现提升，并公开5000万样本指令数据集。",
-      "publishedAt": "2026-07-13T12:38:23+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/975/952.htm",
-      "subCategory": "多模态",
-      "id": "ai-20260713-002"
-    },
-    {
-      "id": "ai-20260713-012",
-      "title": "Metacognition in LLMs: Foundations, Progress, and Opportunities",
-      "summary": "这篇综述系统梳理了大语言模型元认知能力的研究进展，涵盖测量方法、增强技术及其在提升AI系统可靠性和智能水平方面的应用，总结了现有研究分类体系并指出未来方向，作者在GitHub整理了相关资源列表。",
-      "publishedAt": "2026-07-13",
-      "source": "arXiv / Hugging Face Papers",
-      "url": "https://arxiv.org/abs/2607.11881",
-      "subCategory": "论文进展"
-    },
-    {
-      "title": "《智能体个人信息保护自律公约》发布，百度、腾讯、阿里、火山引擎等 31 家企业首批签署",
-      "summary": "中国互联网协会发布《智能体个人信息保护自律公约》，百度、腾讯、阿里、火山引擎等 31 家企业首批签署，旨在为AI智能体处理个人信息设立行业规范，平衡技术创新与隐私保护。",
-      "publishedAt": "2026-07-13T11:58:11+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/975/944.htm",
-      "subCategory": "Agent",
-      "id": "ai-20260713-003"
-    },
-    {
-      "id": "ai-20260712-301",
-      "title": "阶跃星辰发布Step Edge端侧模型全家桶",
-      "summary": "阶跃星辰推出Step Edge端侧模型系列，含基础模型、Audio、GUI、Gen四款，面向手机汽车等终端场景，基础模型在16项终端任务指标中茷62.92分，GUI模型在OSWorld评测中排名第一。",
-      "publishedAt": "2026-07-12",
-      "source": "ITBear科技资讯",
-      "url": "https://www.itbear.com.cn/html/2026-07/1441199.html",
-      "subCategory": "多模态"
     }
   ]
 }
