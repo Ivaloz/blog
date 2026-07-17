@@ -3,8 +3,17 @@
   "slug": "tech",
   "title": "科技新闻",
   "description": "前沿科技、互联网产品、芯片硬件、开源生态。",
-  "updatedAt": "2026-07-17T00:55:00+08:00",
+  "updatedAt": "2026-07-17T20:00:00+08:00",
   "items": [
+    {
+      "id": "tech-20260717-102",
+      "title": "领克20官宣行业首创16合1后驱油冷碳化硅电驱系统",
+      "summary": "领克汽车宣布旗下领克20将搭载由吉利星驱科技研发的16合1后驱油冷碳化硅电驱系统，电机功率245千瓦，综合效率超93%，并标配800V碳化硅高压平台，支持6C补能倍率，新车计划于今年三季度正式上市。",
+      "publishedAt": "2026-07-17T03:17:18+08:00",
+      "source": "ITBear科技资讯",
+      "url": "https://www.itbear.com.cn/html/2026-07/1449540.html",
+      "subCategory": "智能汽车"
+    },
     {
       "id": "tech-20260717-001",
       "title": "全球人形机器人自由格斗联赛揭幕战在深圳打响，头掉了还能打，甄子丹到场观赛",
@@ -15,6 +24,15 @@
       "subCategory": "机器人"
     },
     {
+      "id": "tech-20260717-101",
+      "title": "小鹏MONA L03上市1小时大定46859台，刷新战绩",
+      "summary": "小鹏MONA L03于7月16日晚正式上市，提供纯电与增程两种动力版本，售价12.38万至15.68万元。官方数据显示，新车上市7分钟大定订单突破2万台，1小时内累计达46859台，搭载自研图灵AI芯片，智能驾驶算力最高达1500TOPS。",
+      "publishedAt": "2026-07-17T00:22:11+08:00",
+      "source": "网易科技",
+      "url": "https://www.163.com/dy/article/L20G51G00511CPVM.html",
+      "subCategory": "智能汽车"
+    },
+    {
       "id": "tech-20260716-212",
       "title": "华为靳玉志：预计今年年底，乾崑智驾 ADS 累计辅助驾驶里程将破 200 亿公里",
       "summary": "华为终端BG智能驾驶产品线负责人靳玉志表示，乾崑智驾ADS累计辅助驾驶里程已超128亿公里，预计年底将突破200亿公里；目前该系统已与25个以上汽车品牌、50余款车型合作，装机总量超190万辆。",
@@ -22,6 +40,15 @@
       "source": "IT之家",
       "url": "https://www.ithome.com/0/977/817.htm",
       "subCategory": "智能汽车"
+    },
+    {
+      "id": "tech-20260716-301",
+      "title": "vivo小米OPPO荣耀共建安卓设备公平运行内存机制",
+      "summary": "在2026金标联盟开发者沙龙上，vivo、小米、OPPO、荣耀共同发布安卓设备公平运行内存机制，通过统一内存占用区间标准、智能资源释放通知等方式缓解手机卡顿发热问题，QQ、抖音、WPS、微信等应用已参与适配。",
+      "publishedAt": "2026-07-16T23:41:08+08:00",
+      "source": "网易科技",
+      "url": "https://www.163.com/dy/article/L20DPRH20511B8LM.html",
+      "subCategory": "操作系统"
     },
     {
       "id": "tech-20260716-210",
@@ -177,6 +204,15 @@
       "id": "tech-20260716-018"
     },
     {
+      "id": "tech-20260716-304",
+      "title": "SpaceX第二次Starship V3发射在点火后紧急中止",
+      "summary": "SpaceX于当地时间7月16日在得克萨斯基地尝试的Starship V3第二次发射，在助推器点火后被自动中止，马斯克称部分猛禽发动机未能正常点火，公司计划更换两台发动机后择期再次尝试，原任务计划部署第三代星链卫星。",
+      "publishedAt": "2026-07-16T16:01:00-07:00",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/16/spacex-suddenly-aborts-second-starship-v3-launch-after-ignition/",
+      "subCategory": "航空航天"
+    },
+    {
       "title": "台积电上调销售和支出展望，再添AI需求持续迹象",
       "summary": "台积电将2026年资本支出预期上调至600亿至640亿美元区间，并将美元营收增速展望由此前30%以上上调至40%以上，反映AI基础设施需求持续强劲，此前二季度净利润同比增长77.4%。",
       "publishedAt": "2026-07-16T15:31:00+08:00",
@@ -193,6 +229,15 @@
       "url": "https://36kr.com/newsflashes/3897989611144839",
       "subCategory": "互联网产品",
       "id": "tech-20260716-020"
+    },
+    {
+      "id": "tech-20260716-303",
+      "title": "苹果被诉\"隐藏我的邮箱\"功能未能真正保护用户隐私",
+      "summary": "一项拟议集体诉讼指控苹果虚假宣传\"隐藏我的邮箱\"功能的隐私保护效果，称该功能存在可能暴露用户真实邮箱地址的缺陷。诉讼称相关问题已由安全研究人员于2025年6月披露给苹果，目前尚无已知被利用的实例。",
+      "publishedAt": "2026-07-16T10:11:00-07:00",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/07/16/apple-sued-over-reported-hide-my-email-flaw/",
+      "subCategory": "安全漏洞"
     },
     {
       "id": "tech-20260716-007",
@@ -220,6 +265,24 @@
       "source": "IT之家",
       "url": "https://www.ithome.com/0/977/272.htm",
       "subCategory": "智能汽车"
+    },
+    {
+      "id": "tech-20260716-302",
+      "title": "OnePlus宣布停止在美国与欧洲推出新机",
+      "summary": "手机厂商OnePlus宣布将不再在美国和欧洲市场推出新产品，作为母公司OPPO业务重组的一部分。公司称现有用户的售后支持与系统更新将持续保障，中国及印度市场运营不受影响，未来将转向以Realme品牌拓展部分海外区域。",
+      "publishedAt": "2026-07-16T02:00:00-07:00",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/16/phone-maker-oneplus-reportedly-plans-to-wind-down-us-and-europe-operations/",
+      "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260716-305",
+      "title": "微软将经典聊天客户端Comic Chat开源",
+      "summary": "微软在GitHub上以MIT许可开源1995年推出的IRC聊天客户端Comic Chat，该软件曾将文字对话自动转换为漫画形式，并推广了Comic Sans字体。开源版本保留原始代码，并附带适配现代开发工具的改造版本。",
+      "publishedAt": "2026-07-16",
+      "source": "Microsoft Open Source Blog",
+      "url": "https://opensource.microsoft.com/blog/2026/07/16/microsoft-comic-chat-is-now-open-source/",
+      "subCategory": "开源生态"
     },
     {
       "id": "tech-20260716-001",
@@ -660,69 +723,6 @@
       "publishedAt": "2026-07-14T19:53:59+08:00",
       "source": "IT之家",
       "url": "https://www.ithome.com/0/976/716.htm",
-      "subCategory": "消费电子"
-    },
-    {
-      "id": "tech-20260714-025",
-      "title": "1299 元起：小米 REDMI Note 17 标准版手机发布，第四代骁龙 4 芯片、7 英寸 OLED 护眼屏",
-      "summary": "小米发布REDMI Note 17标准版手机，搭载第四代骁龙4处理器，配备7英寸120Hz OLED护眼屏，峰值亮度1800尼特，内置8000mAh电池支持45W快充，最高配8GB内存及256GB存储，起售价1299元。",
-      "publishedAt": "2026-07-14T19:47:16+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/976/714.htm",
-      "subCategory": "消费电子"
-    },
-    {
-      "id": "tech-20260714-026",
-      "title": "比亚迪回应唐车型后电机总成脱落：系底盘严重磕碰所致，非产品质量问题",
-      "summary": "一段视频显示比亚迪唐车型涉水行驶中后电机总成脱落，比亚迪回应称系车辆底盘在涉水过程中遭受严重磕碰所致，非产品质量问题，此前有高管提示视线不佳的涉水区域应避免强行通过。",
-      "publishedAt": "2026-07-14T19:41:42+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/976/712.htm",
-      "subCategory": "智能汽车"
-    },
-    {
-      "id": "tech-20260714-027",
-      "title": "22.25 万元，一汽-大众探岳 L 380TSI 35 周年严选款车型上市",
-      "summary": "一汽-大众推出探岳L 380TSI 35周年严选款车型，售价22.25万元，搭载2.0T发动机，最大功率162千瓦、峰值扭矩350牛·米，匹配7速双离合变速箱，配备12.9英寸中控屏与10.25英寸液晶仪表。",
-      "publishedAt": "2026-07-14T19:36:05+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/976/710.htm",
-      "subCategory": "智能汽车"
-    },
-    {
-      "id": "tech-20260714-028",
-      "title": "欧盟批准 6.59 亿欧元德国国家援助，用于支持四座半导体设施建设",
-      "summary": "欧盟委员会批准德国6.59亿欧元国家援助，用于支持碳化硅晶圆、功率MOSFET、光学套刻设备及特种芯片等四个半导体设施项目建设，旨在响应《欧洲芯片法案》，增强欧盟在全球半导体产业链中的地位与自主性。",
-      "publishedAt": "2026-07-14T19:34:32+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/976/709.htm",
-      "subCategory": "芯片硬件"
-    },
-    {
-      "id": "tech-20260714-029",
-      "title": "紫光展锐完成 Android 17 同步升级，多款移动平台实现适配",
-      "summary": "紫光展锐宣布旗下T8300、T7300、T7250等多款移动平台完成Android 17同步适配，新增Widevine L1安全支持、持续72个月流畅运行的性能优化、Ultra HDR及HDR10+多媒体增强，使终端厂商适配周期较常规提前约两个月。",
-      "publishedAt": "2026-07-14T19:21:53+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/976/708.htm",
-      "subCategory": "操作系统"
-    },
-    {
-      "id": "tech-20260714-030",
-      "title": "小米 REDMI Note 17 Pro 手机发布：9000mAh 电池、骁龙 6s Gen 4 处理器，1599 元起",
-      "summary": "小米发布REDMI Note 17 Pro手机，起售价1599元，搭载骁龙6s Gen 4处理器，配备9000mAh电池、6.83英寸1.5K屏幕、5000万像素主摄，具备IP68/IP69K防水防尘认证，并提供5年电池以旧换新服务。",
-      "publishedAt": "2026-07-14T19:21:12+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/976/707.htm",
-      "subCategory": "消费电子"
-    },
-    {
-      "id": "tech-20260714-031",
-      "title": "iQOO TWS 5e 耳机开启预约：50hr 续航、42ms 全链路延迟",
-      "summary": "iQOO开启TWS 5e无线耳机预约，将于7月24日正式发售，产品支持50小时超长续航，全链路游戏延迟最低42毫秒，并配备主动降噪功能与游戏音效模式。",
-      "publishedAt": "2026-07-14T19:11:46+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/976/705.htm",
       "subCategory": "消费电子"
     }
   ]

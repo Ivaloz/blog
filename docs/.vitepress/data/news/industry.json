@@ -3,7 +3,7 @@
   "slug": "industry",
   "title": "行业新闻",
   "description": "企业服务、SaaS、云计算、制造业、消费互联网的产业动态。",
-  "updatedAt": "2026-07-17T00:55:00+08:00",
+  "updatedAt": "2026-07-17T20:00:00+08:00",
   "items": [
     {
       "id": "industry-20260716-201",
@@ -15,12 +15,66 @@
       "subCategory": "公司动态"
     },
     {
+      "id": "industry-20260716-304",
+      "title": "Gartner发布2026年上半年CIO报告，AI价值兑现成最大挑战",
+      "summary": "Gartner调查显示，83%的CEO正在加大AI投入，但71%的CIO仍难以识别可落地的业务场景，59%的AI项目未能进入生产环境。报告还指出，93%的董事会成员认为网络安全直接威胁股东价值。",
+      "publishedAt": "2026-07-16T04:38:00+08:00",
+      "source": "Gartner",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-07-16/doc-inihxtas1153255.shtml",
+      "subCategory": "企业服务"
+    },
+    {
+      "id": "industry-20260716-303",
+      "title": "Omdia：预计2026年全球云基础设施服务支出将增长27%",
+      "summary": "Omdia数据显示，2025年第四季度全球云基础设施支出达1109亿美元，同比增长29%，已连续多季度保持20%以上增速。Omdia预计2026年全球云基础设施服务支出将增长27%，AWS、Azure、谷歌云增速分别为24%、39%、50%。",
+      "publishedAt": "2026-07-16T02:37:00+08:00",
+      "source": "Omdia",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-07-16/doc-inihxnuv7993969.shtml",
+      "subCategory": "企业服务"
+    },
+    {
+      "id": "industry-20260716-301",
+      "title": "比亚迪：截至2026年6月底智驾车型累计销量突破333万辆",
+      "summary": "比亚迪披露，搭载“天神之眼”及华为乾崑智驾系统的车型累计销量截至6月底突破333万辆，6月单月相关车型销量17.63万辆，车队日均产生超2.1亿公里道路数据，用于持续优化辅助驾驶算法。",
+      "publishedAt": "2026-07-16",
+      "source": "比亚迪",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-07-16/doc-inihzfcy1400808.shtml",
+      "subCategory": "新能源汽车"
+    },
+    {
+      "id": "industry-20260716-302",
+      "title": "CleanTechnica：2026年1-5月全球新能源车销量榜单，Model Y以40.82万辆居首",
+      "summary": "据CleanTechnica数据，2026年1-5月全球新能源车销量榜单中特斯拉Model Y以40.82万辆蝉联第一，吉利星愿/EX2以18.3万辆排名第二，中国品牌占据榜单前十中的八席、前二十中的十七席。",
+      "publishedAt": "2026-07-16",
+      "source": "CleanTechnica",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-07-16/doc-inihzfcw4455623.shtml",
+      "subCategory": "新能源汽车"
+    },
+    {
+      "id": "industry-20260716-305",
+      "title": "2026年上半年中国大陆电视出货量1494.7万台，同比下降10.1%",
+      "summary": "数据显示，2026年上半年中国大陆电视出货量为1494.7万台，同比下降10.1%，创近十七年同期新低。32英寸及以下小尺寸电视降幅超两成，千元以下产品被主流厂商大幅收缩，手机平板持续分流电视使用场景。",
+      "publishedAt": "2026-07-16",
+      "source": "199IT",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-07-16/doc-inihzfcu7678912.shtml",
+      "subCategory": "消费零售"
+    },
+    {
       "id": "industry-20260716-003",
       "title": "中国巨石：拟24.05亿元建设年产2.5亿米电子布生产线建设项目",
       "summary": "中国巨石公告称，全资子公司巨石集团拟投资24.05亿元建设年产2.5亿米电子布生产线项目，为公司在电子布领域新增产能布局。",
       "publishedAt": "2026-07-15T17:27:00+08:00",
       "source": "证券时报",
       "url": "https://www.stcn.com/article/detail/4021373.html",
+      "subCategory": "制造业"
+    },
+    {
+      "id": "industry-20260715-201",
+      "title": "国家统计局：上半年我国集成电路产量增长23.1%，日均产芯超15亿块",
+      "summary": "国家统计局7月15日在国新办发布会上介绍，2026年上半年我国规模以上工业企业集成电路产量达2798亿块，同比增长23.1%，相当于日均产芯超15亿块，增长主要受AI带动的高端算力芯片及存储芯片需求拉动。",
+      "publishedAt": "2026-07-15T16:03:00+08:00",
+      "source": "国家统计局",
+      "url": "https://news.sina.com.cn/c/2026-07-15/doc-inihwmih1254587.shtml",
       "subCategory": "制造业"
     },
     {
@@ -33,10 +87,19 @@
       "subCategory": "消费零售"
     },
     {
+      "id": "industry-20260715-202",
+      "title": "ACS：预计2026年美国新增癌症病例211.5万例，死亡病例约62.6万例",
+      "summary": "美国癌症协会最新报告预测，2026年美国将新增约211.49万例癌症病例，死亡病例约62.61万例，平均每天约1700人因癌症死亡。报告指出癌症死亡率较1991年峰值下降34%，至少四成新发病例理论上可预防。",
+      "publishedAt": "2026-07-15T06:24:00+08:00",
+      "source": "美国癌症协会（ACS）",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-07-15/doc-inihvqcn8175849.shtml",
+      "subCategory": "医疗健康"
+    },
+    {
       "id": "industry-20260716-001",
       "title": "2026年上半年社会消费品零售总额增长1.3%",
       "summary": "国家统计局发布数据，2026年上半年社会消费品零售总额24.8722万亿元，同比增长1.3%；乡村消费品零售额增速快于城镇，网上商品和服务零售额同比增长5.2%。",
-      "publishedAt": "2026-07-15T10:00:00+08:00",
+      "publishedAt": "2026-07-15",
       "source": "国家统计局",
       "url": "https://www.stats.gov.cn/sj/zxfb/202607/t20260715_1964127.html",
       "subCategory": "消费零售"
@@ -105,15 +168,6 @@
       "subCategory": "制造业"
     },
     {
-      "title": "Global Semiconductor Equipment Sales Forecast to Reach a Record $229 Billion in 2028, SEMI Reports",
-      "summary": "SEMI预测，全球半导体制造设备销售额2026年将达1659亿美元，同比增长23.2%，2028年有望升至2295亿美元，AI驱动的先进逻辑与存储芯片投资是主要动力。",
-      "publishedAt": "2026-07-14T10:00:00-04:00",
-      "source": "SEMI",
-      "url": "https://www.semi.org/en/semi-press-release/global-semiconductor-equipment-sales-forecast-to-reach-a-record-229-billion-dollars-in-2028-semi-reports",
-      "subCategory": "半导体产业",
-      "id": "industry-20260716-004"
-    },
-    {
       "id": "industry-20260714-001",
       "title": "成本高出对手 20%：大众汽车正考虑追加裁员 5 万人，累计裁员上限达 10 万",
       "summary": "大众汽车CEO奥博穆在内部信中披露，公司目前运营成本较竞争对手高出约20%，正考虑在此前已达成的裁员基础上再追加约5万个岗位，累计裁员上限或达10万人。危机主因包括关税成本、中国市场竞争加剧及制造效率不足，工会方面已拒绝在埃姆登、汉诺威、茅维克、内卡苏尔集等工厂关闭产线的提议，管理层表示倾向于审慎方案而非立即停产。",
@@ -130,6 +184,15 @@
       "url": "https://www.idc.com/resource-center/blog/china-smartphone-market-decline-q2-2026/",
       "subCategory": "行业研报",
       "id": "industry-20260715-005"
+    },
+    {
+      "title": "Global Semiconductor Equipment Sales Forecast to Reach a Record $229 Billion in 2028, SEMI Reports",
+      "summary": "SEMI预测，全球半导体制造设备销售额2026年将达1659亿美元，同比增长23.2%，2028年有望升至2295亿美元，AI驱动的先进逻辑与存储芯片投资是主要动力。",
+      "publishedAt": "2026-07-14",
+      "source": "SEMI",
+      "url": "https://www.semi.org/en/semi-press-release/global-semiconductor-equipment-sales-forecast-to-reach-a-record-229-billion-dollars-in-2028-semi-reports",
+      "subCategory": "半导体产业",
+      "id": "industry-20260716-004"
     },
     {
       "id": "industry-20260714-002",
@@ -384,15 +447,6 @@
       "subCategory": "医疗健康"
     },
     {
-      "id": "industry-20260710-102",
-      "title": "上半年我国新能源汽车产销量双超700万辆",
-      "summary": "新华社报道，2026年上半年我国新能源汽车产量743.8万辆、销量744.6万辆，纯电动汽车销量占比约67%；新能源汽车出口235.5万辆，同比增长约1.2倍。",
-      "publishedAt": "2026-07-09T20:26:00+08:00",
-      "source": "新华社（央视网转载）",
-      "url": "https://jingji.cctv.com/2026/07/09/ARTIoUUMsdEnuQDGfiVcZhDT260709.shtml",
-      "subCategory": "新能源汽车"
-    },
-    {
       "id": "industry-20260711-204",
       "title": "6月新能源乘用车国内销量占比虲67.2%",
       "summary": "中国汽车工业协会数据显示，2026年6月新能源汽车国内零售渗透率达67.2%，延续逐月攀升态势。当月汽车产销276万辆和281万辆，新能源汽车产销159.8万辆和164.3万辆，同比增26%和23.6%，单月出口首次突破100万辆。",
@@ -490,6 +544,15 @@
       "source": "199IT",
       "url": "https://finance.sina.com.cn/tech/roll/2026-07-09/doc-inihcqxn8288220.shtml",
       "subCategory": "行业研报"
+    },
+    {
+      "id": "industry-20260710-102",
+      "title": "上半年我国新能源汽车产销量双超700万辆",
+      "summary": "新华社报道，2026年上半年我国新能源汽车产量743.8万辆、销量744.6万辆，纯电动汽车销量占比约67%；新能源汽车出口235.5万辆，同比增长约1.2倍。",
+      "publishedAt": "2026-07-09",
+      "source": "新华社（央视网转载）",
+      "url": "https://jingji.cctv.com/2026/07/09/ARTIoUUMsdEnuQDGfiVcZhDT260709.shtml",
+      "subCategory": "新能源汽车"
     },
     {
       "id": "industry-20260710-003",
@@ -661,51 +724,6 @@
       "source": "新浪科技",
       "url": "https://finance.sina.com.cn/tech/roll/2026-07-07/doc-inifyzkw5112936.shtml",
       "subCategory": "公司动态"
-    },
-    {
-      "id": "industry-20260707-806",
-      "title": "中汽协：2026年前5月整车进口额陇19.2%",
-      "summary": "中汽协数据显示，2026年1-5月中国整车进口16.3万辆，同比下降10.6%，进口金额75.4亿美元，同比下降19.2%；同期汽车出口423.8万辆，同比增长48.7%，自主品牌市场份额达69.6%。",
-      "publishedAt": "2026-07-07T20:53:00+08:00",
-      "source": "新浪科技",
-      "url": "https://finance.sina.com.cn/tech/roll/2026-07-07/doc-inifzfss8294577.shtml",
-      "subCategory": "新能源汽车"
-    },
-    {
-      "id": "industry-20260707-921",
-      "title": "零一万物发布\"一号位AI\"产品矩阵，主打企业决策场景",
-      "summary": "零一万物推出老板AI、销冠AI、投资官AI三款产品，分别面向企业经营决策、收入增长与投资决策场景，据披露应用后企业订单额增长5倍。",
-      "publishedAt": "2026-07-07T20:30:00+08:00",
-      "source": "新浪财经",
-      "url": "https://finance.sina.com.cn/jjxw/2026-07-07/doc-inifyvay5181004.shtml",
-      "subCategory": "SaaS"
-    },
-    {
-      "id": "industry-20260707-803",
-      "title": "2026上半年丰田本田在华销量分别下降17%和35%",
-      "summary": "数据显示，2026年上半年丰田、本田在华销量分别同比下降17%和35%，广汽本田近腔半，本甲6月销量创月度历史新低，日系车在华份额已跌破一成。",
-      "publishedAt": "2026-07-07T20:26:00+08:00",
-      "source": "新浪科技",
-      "url": "https://finance.sina.com.cn/tech/roll/2026-07-07/doc-inifyvat1591783.shtml",
-      "subCategory": "新能源汽车"
-    },
-    {
-      "id": "industry-20260707-807",
-      "title": "Omdia：预计2026年中国半导体市场规模达8120亿美元 同比增长92.9%",
-      "summary": "Omdia二季度预测上修，预计2026年中国半导体整体市场规模衙8120.8亿美元，同比增速上俪Par92.9%；AI基础设施投资驱动计算和存储芯片板块增长126%，存储芯片规模预计激增262.9%至4496亿美元。",
-      "publishedAt": "2026-07-07T20:25:00+08:00",
-      "source": "新浪科技",
-      "url": "https://finance.sina.com.cn/tech/roll/2026-07-07/doc-inifyzkr1543854.shtml",
-      "subCategory": "半导体产业"
-    },
-    {
-      "id": "industry-20260710-107",
-      "title": "IDC Launches IDC Quanta™ to Close the Gap Between Tech Intelligence and Enterprise Execution",
-      "summary": "IDC推出智能平台IDC Quanta，将其专有研究、分析师洞察与数据直接嵌入企业常用办公工具（含邮件与Claude AI），基于175家测试客户反馈开发，数据可追溯至超150亿条专有数据点。",
-      "publishedAt": "2026-07-07T09:04:00-04:00",
-      "source": "GlobeNewswire (IDC)",
-      "url": "https://www.globenewswire.com/news-release/2026/07/07/3323292/0/en/IDC-Launches-IDC-Quanta-to-Close-the-Gap-Between-Tech-Intelligence-and-Enterprise-Execution.html",
-      "subCategory": "SaaS"
     }
   ]
 }

@@ -3,7 +3,7 @@
   "slug": "policy",
   "title": "政策信息",
   "description": "国家与地方政策、监管动态、产业扶持与合规要求。",
-  "updatedAt": "2026-07-17T00:55:00+08:00",
+  "updatedAt": "2026-07-17T20:00:00+08:00",
   "items": [
     {
       "id": "policy-20260716-205",
@@ -13,6 +13,15 @@
       "source": "新华社",
       "url": "https://english.news.cn/20260716/2fb3c068a5ec4efbbeb6a88acf155175/c.html",
       "subCategory": "AI监管"
+    },
+    {
+      "id": "policy-20260716-206",
+      "title": "市场监管总局批准发布一批重要国家标准",
+      "summary": "国家市场监督管理总局批准发布508项重要国家标准，涵盖人工智能、机器人、智能制造、碳足迹核算、电动自行车安全等领域，旨在提升产业竞争力和安全保障水平。",
+      "publishedAt": "2026-07-16T14:00:00+08:00",
+      "source": "国家市场监督管理总局",
+      "url": "https://www.samr.gov.cn/xw/zj/art/2026/art_8a0b40b4b84a4386937b36c84e549649.html",
+      "subCategory": "产业政策"
     },
     {
       "title": "Government brings British Steel into public ownership to protect UK steelmaking",
@@ -87,6 +96,15 @@
       "subCategory": "产业政策"
     },
     {
+      "id": "policy-20260715-101",
+      "title": "工业和信息化部办公厅关于印发2025年人工智能应用典型案例名单的通知",
+      "summary": "工业和信息化部办公厅发布2025年人工智能应用典型案例名单，共遴选285项案例，要求各地区、企业加大支持力度，推动优秀成果规模化应用。",
+      "publishedAt": "2026-07-15T17:51:00+08:00",
+      "source": "工业和信息化部",
+      "url": "https://wap.miit.gov.cn/jgsj/kjs/wjfb/art/2026/art_735cc3b48391470ea3baec587e526d5f.html",
+      "subCategory": "数字经济"
+    },
+    {
       "id": "policy-20260716-008",
       "title": "央行：货币政策支持实体经济效果比较明显",
       "summary": "国务院新闻办公室举行发布会，人民银行副行长邹澜介绍2026年上半年货币政策执行和金融统计数据情况，表示货币政策对实体经济的支持效果较为明显。",
@@ -112,6 +130,15 @@
       "url": "https://www.nbd.com.cn/articles/2026-07-15/4473279.html",
       "subCategory": "金融监管",
       "id": "policy-20260715-010"
+    },
+    {
+      "id": "policy-20260715-102",
+      "title": "工信部：国家产融合作平台高新技术企业专区已正式上线",
+      "summary": "工业和信息化部宣布国家产融合作平台高新技术企业专区正式上线，集成政策导览、融资对接、智能推荐等功能，平台自2021年上线以来已助企融资超1.6万亿元，其中高新技术企业融资超1.1万亿元。",
+      "publishedAt": "2026-07-15T14:29:00+08:00",
+      "source": "北京日报",
+      "url": "https://xinwen.bjd.com.cn/content/s6a5728dfe4b03fa51a817f5d.html",
+      "subCategory": "产业政策"
     },
     {
       "id": "policy-20260715-012",
@@ -186,6 +213,15 @@
       "subCategory": "半导体出口管制"
     },
     {
+      "id": "policy-20260715-103",
+      "title": "全国市场监管系统技术性贸易措施工作座谈会在武汉召开",
+      "summary": "市场监管总局在武汉召开全国市场监管系统技术性贸易措施工作座谈会，总结经验并部署提升企业应对国际贸易技术壁垒能力、加强参与国际标准规则制定，商务部等部门代表参加。",
+      "publishedAt": "2026-07-15",
+      "source": "国家市场监督管理总局",
+      "url": "https://www.samr.gov.cn/xw/zj/art/2026/art_be9e39b786954d1e8c789dd813ac41fe.html",
+      "subCategory": "跨境贸易"
+    },
+    {
       "id": "policy-20260715-004",
       "title": "自然资源部：五方面改革完善自然资源资产管理",
       "summary": "中共中央办公厅、国务院办公厅近日印发关于完善自然资源资产管理制度体系的意见，自然资源部副部长张文彤介绍，改革将从摸清资产家底、健全产权制度、促进资产保值增值、实现高效配置利用、维护权益五方面推进，目标到2030年管理体系更加健全。",
@@ -206,7 +242,7 @@
     {
       "title": "公开市场买断式逆回购招标公告 [2026]第14号",
       "summary": "中国人民银行公告将于7月15日以固定数量、利率招标方式开展14000亿元买断式逆回购操作，期限6个月（184天），到期日为2027年1月15日，旨在保持银行体系流动性充裕。",
-      "publishedAt": "2026-07-14T17:00:00+08:00",
+      "publishedAt": "2026-07-14",
       "source": "中国人民银行",
       "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/5492845/2026071416335097398/index.html",
       "subCategory": "金融监管",
@@ -465,15 +501,6 @@
       "subCategory": "AI监管"
     },
     {
-      "id": "policy-20260710-101",
-      "title": "商务部 海关总署公告2026年第29号 公布对氦气实施临时禁止出口管理",
-      "summary": "商务部、海关总署联合发布2026年第29号公告，依据《对外贸易法》对氦气（税则号2804290010）实施临时禁止出口管理，公告自发布之日起施行，后续相关调整将另行公告。",
-      "publishedAt": "2026-07-10T17:00:00+08:00",
-      "source": "商务部 海关总署",
-      "url": "https://www.mofcom.gov.cn/zwgk/zcfb/art/2026/art_e6cd19ab66574bea995fd77efa77f24e.html",
-      "subCategory": "跨境贸易"
-    },
-    {
       "id": "policy-20260711-003",
       "title": "APEC数字和人工智能部长会议及数字周将于7月在成都举行",
       "summary": "工业和信息化部召开新闻通气会介绍，亚太经合组织2026年数字和人工智能部长会议及数字周相关活动将于7月16日至24日在四川成都举办，包括APEC电信工作组第73次会议、部长会议及数智赋能高级别对话，是中国时隔24年再次主办电信部长级会议。",
@@ -517,6 +544,15 @@
       "source": "新华社",
       "url": "https://www.news.cn/politics/20260710/7526701a318449f1a2d94489af87a1fb/c.html",
       "subCategory": "AI监管"
+    },
+    {
+      "id": "policy-20260710-101",
+      "title": "商务部 海关总署公告2026年第29号 公布对氦气实施临时禁止出口管理",
+      "summary": "商务部、海关总署联合发布2026年第29号公告，依据《对外贸易法》对氦气（税则号2804290010）实施临时禁止出口管理，公告自发布之日起施行，后续相关调整将另行公告。",
+      "publishedAt": "2026-07-10",
+      "source": "商务部 海关总署",
+      "url": "https://www.mofcom.gov.cn/zwgk/zcfb/art/2026/art_e6cd19ab66574bea995fd77efa77f24e.html",
+      "subCategory": "跨境贸易"
     },
     {
       "id": "policy-20260712-102",
@@ -688,42 +724,6 @@
       "source": "国家市场监督管理总局（东方财富网报道）",
       "url": "https://caifuhao.eastmoney.com/news/20260707205744269928300",
       "subCategory": "反垄断"
-    },
-    {
-      "id": "policy-20260707-101",
-      "title": "国家金融监督管理总局、上海市人民政府出台多项措施加快建设上海国际再保险中心",
-      "summary": "国家金融监督管理总局与上海市人民政府联合印发《关于加快上海国际再保险中心建设的若干措施》，共8条，涵盖机构布局、统一登记、平台建设、能力供给、跨境合作、监管效能等方面，推动上海再保险市场高水平开放发展。",
-      "publishedAt": "2026-07-07T20:02:00+08:00",
-      "source": "新华网",
-      "url": "https://www.news.cn/fortune/20260707/3fbe0a4a6025418ab7008cb811c89b61/c.html",
-      "subCategory": "金融监管"
-    },
-    {
-      "id": "policy-20260707-002",
-      "title": "SEC Forms New Retail Fraud Working Group",
-      "summary": "美国证监会在执法部门内新设零售欺诈工作组，由Kate Zoladz和Kim Frederick牵头，专项打击针对散户投资者的发行欺诈、坐庄操纵及投顾/经纪商违反受托责任等行为。",
-      "publishedAt": "2026-07-07",
-      "source": "U.S. Securities and Exchange Commission",
-      "url": "https://www.sec.gov/newsroom/press-releases/2026-63-sec-forms-new-retail-fraud-working-group",
-      "subCategory": "金融监管"
-    },
-    {
-      "id": "policy-20260707-004",
-      "title": "Businesses across Britain sign up to Cyber Resilience Pledge as ministers urge firms to strengthen cyber defences",
-      "summary": "包括玛莎百货、Nationwide、ITV、微软英国、Cloudflare在内的60余家英国企业签署自愿性网络韧性承诺，要求董事会承担网络安全责任并注册NCSC预警系统，英国企业每年因网络攻击损失约147亿英镑。",
-      "publishedAt": "2026-07-07",
-      "source": "GOV.UK",
-      "url": "https://www.gov.uk/government/news/businesses-across-britain-sign-up-to-cyber-resilience-pledge-as-ministers-urge-firms-to-strengthen-cyber-defences",
-      "subCategory": "海外政策"
-    },
-    {
-      "id": "policy-20260707-103",
-      "title": "美国联邦贸易委员会向Handy Technologies受害消费者发放超270万美元退款",
-      "summary": "美国联邦贸易委员会向约6.29万名曾在Handy Technologies平台工作的消费者发放退款支票，总额超270万美元，涉及该公司此前因夸大工人收入水平、未清晰披露费用等欺骗性宣传达成的执法和解。",
-      "publishedAt": "2026-07-07",
-      "source": "美国联邦贸易委员会（FTC）",
-      "url": "https://www.ftc.gov/news-events/news/press-releases/2026/07/ftc-sends-more-27-million-consumers-harmed-handy-technologies",
-      "subCategory": "海外政策"
     }
   ]
 }

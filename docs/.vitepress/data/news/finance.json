@@ -3,8 +3,35 @@
   "slug": "finance",
   "title": "投资与财经",
   "description": "宏观经济、A 股 / 港股 / 美股、一级市场融资、行业研报观点。",
-  "updatedAt": "2026-07-17T00:55:00+08:00",
+  "updatedAt": "2026-07-17T20:00:00+08:00",
   "items": [
+    {
+      "id": "finance-20260717-101",
+      "title": "巴菲特：美股市场已趋于投机，如同赌场",
+      "summary": "伯克希尔哈撒韦董事长巴菲特表示，当前美股市场愈发受短期投机驱动而非长期价值投资主导，称当所有人都热衷投机时，很难找到真正的价值投资机会。",
+      "publishedAt": "2026-07-17",
+      "source": "投资界(PEdaily)",
+      "url": "https://news.pedaily.cn/202607/566441.shtml",
+      "subCategory": "美股"
+    },
+    {
+      "id": "finance-20260717-102",
+      "title": "视觉中国子公司出资千万元入股创投基金 首次担任LP",
+      "summary": "视觉中国公告称，全资子公司北京华夏视觉科技拟出资1000万元，与天津励石明堂共同参与天津励石星阙创业投资基金，基金总规模约9.8亿元，为公司首次以LP身份布局创投领域。",
+      "publishedAt": "2026-07-17",
+      "source": "投资界(PEdaily)",
+      "url": "https://news.pedaily.cn/202607/566441.shtml",
+      "subCategory": "一级市场"
+    },
+    {
+      "id": "finance-20260717-103",
+      "title": "梁文锋现身长鑫科技科创板新股申购名单",
+      "summary": "DeepSeek创始人、量化私募幻方量化实际控制人梁文锋现身长鑫科技科创板新股申购名单，该股发行价为8.66元/股，市场认购热情高涨。",
+      "publishedAt": "2026-07-17",
+      "source": "投资界(PEdaily)",
+      "url": "https://news.pedaily.cn/202607/566441.shtml",
+      "subCategory": "A股"
+    },
     {
       "id": "finance-20260716-209",
       "title": "*ST萃华上演\"地天板\"，澄清公告：并购重组传闻不实",
@@ -76,6 +103,42 @@
       "source": "第一财经",
       "url": "https://www.yicai.com/news/103278268.html",
       "subCategory": "风险事件"
+    },
+    {
+      "id": "finance-20260716-401",
+      "title": "Netflix二季度营收微低于预期 盘后股价重挫逾8%",
+      "summary": "Netflix第二季度调整后每股收益0.80美元，略高于市场预期的0.79美元，营收125.6亿美元略低于预期；因下调三季度营收增速指引，股价盘后一度重挫8.6%。",
+      "publishedAt": "2026-07-16T17:35:00-04:00",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-netflix-posts-slight-q2-2026-beat-shares-sink-after-hours-93CH-4797109",
+      "subCategory": "美股"
+    },
+    {
+      "id": "finance-20260716-406",
+      "title": "恒生指数收涨1.33%报25008点 澜起科技暴跌23%",
+      "summary": "港股7月16日三大指数走高，恒生指数收报25008.60点涨1.33%，恒生科技指数涨1.98%；半导体股澜起科技因被曝遭韩国检方以涉嫌价格串通为由突击调查，股价收跌22.95%，创上市以来最大单日跌幅。",
+      "publishedAt": "2026-07-16T17:17:00+08:00",
+      "source": "每日经济新闻",
+      "url": "https://www.nbd.com.cn/articles/2026-07-16/4474784.html",
+      "subCategory": "港股"
+    },
+    {
+      "id": "finance-20260716-402",
+      "title": "Alphabet股价因Gemini 3.5 Pro模型延期报道下跌4.4%",
+      "summary": "据彭博社报道，谷歌旗舰AI模型Gemini 3.5 Pro推出进度大幅落后原定计划，编程能力表现未达内部预期。消息传出后Alphabet股价周四下跌4.4%，市值蒸发约2000亿美元。",
+      "publishedAt": "2026-07-16T14:18:00-04:00",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/alphabet-stock-falls-on-report-of-gemini-ai-model-delays-4796594",
+      "subCategory": "美股"
+    },
+    {
+      "id": "finance-20260716-403",
+      "title": "台积电二季度净利大增77%创新高 上调全年营收增速指引",
+      "summary": "台积电第二季度净利润达新台币7066亿元（约220亿美元），同比增长77.4%，超市场预期；公司将全年美元营收增速指引上调至40%以上，并新增1000亿美元亚利桑那州投资计划。",
+      "publishedAt": "2026-07-16T13:31:00-04:00",
+      "source": "MLQ.ai",
+      "url": "https://mlq.ai/news/tsmc-adds-100b-arizona-investment-as-q2-profit-surges-77-to-record-22b/",
+      "subCategory": "美股"
     },
     {
       "title": "长鑫科技今日打新：中一签缴款4330元，中签率高于普通新股",
@@ -177,6 +240,42 @@
       "subCategory": "一级市场"
     },
     {
+      "id": "finance-20260716-404",
+      "title": "芯片股抛售拖累纳斯达克100指数下跌1.6%",
+      "summary": "受AI资本支出前景担忧影响，芯片股集体下挫，纳斯达克100指数下跌约1.6%至29032点，科技板块ETF跌2.4%，SanDisk单日重挫11.2%，存储芯片股领跌。",
+      "publishedAt": "2026-07-16",
+      "source": "Benzinga",
+      "url": "https://www.benzinga.com/markets/market-summary/26/07/60505919/stock-market-to-day-chipmakers-nasdaq-100-gold-4000-sandisk-stocks-performance-daily-movers-thursday-wall-street",
+      "subCategory": "美股"
+    },
+    {
+      "id": "finance-20260716-405",
+      "title": "现货黄金跌破4000美元关口 白银同日跌超3%",
+      "summary": "受美债实际收益率上行及中东局势推高油价影响，现货黄金周四下跌1.8%至约3990美元/盎司，跌破4000美元关口，白银同日下跌3.2%至55美元/盎司。",
+      "publishedAt": "2026-07-16",
+      "source": "Benzinga",
+      "url": "https://www.benzinga.com/markets/market-summary/26/07/60505919/stock-market-to-day-chipmakers-nasdaq-100-gold-4000-sandisk-stocks-performance-daily-movers-thursday-wall-street",
+      "subCategory": "大宗商品"
+    },
+    {
+      "id": "finance-20260716-407",
+      "title": "美国货币市场基金资产一周缩水600亿美元至7.89万亿美元",
+      "summary": "美国投资公司协会（ICI）数据显示，截至7月15日当周，美国货币市场基金总资产减少599亿美元至7.89万亿美元，其中政府类基金减少526亿美元，优先类基金减少49亿美元。",
+      "publishedAt": "2026-07-16",
+      "source": "ICI (Investment Company Institute)",
+      "url": "https://www.ici.org/research/stats/mmf",
+      "subCategory": "宏观经济"
+    },
+    {
+      "id": "finance-20260716-408",
+      "title": "联合健康集团公布二季度业绩 上调全年盈利指引",
+      "summary": "联合健康集团公布2026年第二季度业绩，营收1120亿美元，营业利润80亿美元，每股收益6.04美元（调整后6.38美元）；公司同时上调全年调整后每股收益指引至19.50至20.00美元区间。",
+      "publishedAt": "2026-07-16",
+      "source": "UnitedHealth Group Newsroom",
+      "url": "https://www.unitedhealthgroup.com/newsroom/2026/2026-07-16-uhg-reports-second-quarter-2026-results.html",
+      "subCategory": "公司财报"
+    },
+    {
       "id": "finance-20260716-006",
       "title": "Stripe and Advent reportedly offered to buy PayPal for around $53.4B",
       "summary": "据路透社报道，支付公司Stripe与私募股权公司Advent International联合提出约534亿美元收购PayPal的方案，包含约500亿美元银行融资，双方将各持一半股权。",
@@ -220,15 +319,6 @@
       "source": "金融界",
       "url": "https://finance.jrj.com.cn/2026/07/15183657818203.shtml",
       "subCategory": "港股"
-    },
-    {
-      "title": "港股收评：恒指涨1.4% 科指涨1.3% 科网股、AI应用股普涨 生物医药股强势 MINIMAX涨超13%",
-      "summary": "港股三大指数收盘集体上涨，恒生指数涨1.4%报24681.1点，恒生科技指数涨1.3%，国企指数涨1%，美团涨超5%，腾讯、联想涨超3%，MINIMAX涨超13%。",
-      "publishedAt": "2026-07-15T16:08:00+08:00",
-      "source": "新浪财经",
-      "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-07-15/doc-inihwrqy7941599.shtml",
-      "subCategory": "港股",
-      "id": "finance-20260715-013"
     },
     {
       "id": "finance-20260715-018",
@@ -346,6 +436,15 @@
       "url": "https://finance.sina.com.cn/jjxw/2026-07-15/doc-inihvqct7964124.shtml",
       "subCategory": "政策利率",
       "id": "finance-20260715-014"
+    },
+    {
+      "title": "港股收评：恒指涨1.4% 科指涨1.3% 科网股、AI应用股普涨 生物医药股强势 MINIMAX涨超13%",
+      "summary": "港股三大指数收盘集体上涨，恒生指数涨1.4%报24681.1点，恒生科技指数涨1.3%，国企指数涨1%，美团涨超5%，腾讯、联想涨超3%，MINIMAX涨超13%。",
+      "publishedAt": "2026-07-15",
+      "source": "新浪财经",
+      "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-07-15/doc-inihwrqy7941599.shtml",
+      "subCategory": "港股",
+      "id": "finance-20260715-013"
     },
     {
       "id": "finance-20260716-004",
@@ -528,21 +627,21 @@
       "subCategory": "一级市场"
     },
     {
-      "id": "finance-20260715-007",
-      "title": "JPMorgan Chase Q2 2026 earnings: Record profit on trading surge",
-      "summary": "摩根大通公布二季度业绩，净利润达212亿美元，创单季历史新高，每股收益7.70美元，主要受股票交易收入大增及持有的Visa股杂4.6亿美元收益推动。总营收同比增长27%至580亿美元，各业务线均创纪录，但公司股价盘前一度下跌逸2%。",
-      "publishedAt": "2026-07-14T06:54:00-05:00",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/jpmorgan-chase-q2-2026-earnings-115434127.html",
-      "subCategory": "公司财报"
-    },
-    {
       "id": "finance-20260714-013",
       "title": "Ericsson reports second quarter results 2026",
       "summary": "爱立信公布2026年第二季度财报，净销售额527亿瑞典克朗，同比下降6%（有机口径降1%），主因专利授权收入减少；调整后毛利率48.4%，调整后息税前利旞65.2亿克朗超市场预期，净利旞41亿克朗，每股收益1.22克朗，同比下滑。",
       "publishedAt": "2026-07-14T01:45:00-04:00",
       "source": "PR Newswire",
       "url": "https://www.prnewswire.com/news-releases/ericsson-reports-second-quarter-results-2026-302824683.html",
+      "subCategory": "公司财报"
+    },
+    {
+      "id": "finance-20260715-007",
+      "title": "JPMorgan Chase Q2 2026 earnings: Record profit on trading surge",
+      "summary": "摩根大通公布二季度业绩，净利润达212亿美元，创单季历史新高，每股收益7.70美元，主要受股票交易收入大增及持有的Visa股杂4.6亿美元收益推动。总营收同比增长27%至580亿美元，各业务线均创纪录，但公司股价盘前一度下跌逸2%。",
+      "publishedAt": "2026-07-14",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/jpmorgan-chase-q2-2026-earnings-115434127.html",
       "subCategory": "公司财报"
     },
     {
@@ -553,15 +652,6 @@
       "source": "新浪科技",
       "url": "https://finance.sina.com.cn/tech/roll/2026-07-13/doc-inihspyw8847685.shtml",
       "subCategory": "公司财报"
-    },
-    {
-      "id": "finance-20260713-008",
-      "title": "港股收评：恒指涨0.16% 科指跌0.96% PCB概念、半导体板块集体调整",
-      "summary": "7月13日港股收盘，恒生指数涨0.16%报24213.72点，恒生科技指数跌0.96%，国企指数涨0.33%。石油股走强，建滤积层板跌超18%，兆易创新跌超15%，PCB及半导体板块集体调整。",
-      "publishedAt": "2026-07-13T16:08:00+08:00",
-      "source": "新浪财经",
-      "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-07-13/doc-inihrxaz4305511.shtml",
-      "subCategory": "港股"
     },
     {
       "id": "finance-20260713-007",
@@ -580,15 +670,6 @@
       "source": "证券时报",
       "url": "https://www.stcn.com/article/detail/4013396.html",
       "subCategory": "美股"
-    },
-    {
-      "id": "finance-20260713-003",
-      "title": "多家外资投行看多中国资产，年内调研A股近3900次",
-      "summary": "渣打银行维持中国股票超配评级，摩根士丹利、瑞银等机构看好A股年内温和上涨；截至7月12日，年内已有570家外资机构对A股公司开展约3900次调研，聚焦集成电路等领域。",
-      "publishedAt": "2026-07-13T06:54:00+08:00",
-      "source": "证券日报（新浪财经）",
-      "url": "https://finance.sina.com.cn/jjxw/2026-07-13/doc-inihqzxp2416696.shtml",
-      "subCategory": "A股"
     },
     {
       "id": "finance-20260713-010",
@@ -627,103 +708,22 @@
       "subCategory": "风险事件"
     },
     {
-      "id": "finance-20260713-013",
-      "title": "半年度业绩预告盘点东359家上市公司已披露 176家预计净利旞最大增幅超100%",
-      "summary": "截至7月13日，已有359家上市公司披青2026年半年度业绩预告，其中263家预喜，占朇73.26%，176家预计净利旞最大增幅超100%，205家预计净利旞超1亿元。杉杉股份、三友化工等公司预告净利旞金额居前。",
+      "id": "finance-20260713-008",
+      "title": "港股收评：恒指涨0.16% 科指跌0.96% PCB概念、半导体板块集体调整",
+      "summary": "7月13日港股收盘，恒生指数涨0.16%报24213.72点，恒生科技指数跌0.96%，国企指数涨0.33%。石油股走强，建滤积层板跌超18%，兆易创新跌超15%，PCB及半导体板块集体调整。",
       "publishedAt": "2026-07-13",
-      "source": "第一财经",
-      "url": "https://wap.eastmoney.com/a/202607133802734755.html",
-      "subCategory": "公司财报"
-    },
-    {
-      "id": "finance-20260713-002",
-      "title": "恒生指数7月13日收涨0.60%",
-      "summary": "7月13日，恒生指数收扯24175.12点，较前一交易日上涨144.94点，涨幅0.60%。",
-      "publishedAt": "2026-07-13",
-      "source": "智通财经（英为财情）",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3456880",
+      "source": "新浪财经",
+      "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-07-13/doc-inihrxaz4305511.shtml",
       "subCategory": "港股"
     },
     {
-      "id": "finance-20260713-004",
-      "title": "美军本周第四次打击伊朗，多地传出爆炸声",
-      "summary": "美国东部时间7月12日17时，美军对伊朗发起本周第四轮打击，旨在削弱其襪击霍尔木兹海峡商船的能力；伊朗媒体称13日凌晨阿巴斯港、锡里岛、贾斯克等地传出爆炸声。",
+      "id": "finance-20260713-003",
+      "title": "多家外资投行看多中国资产，年内调研A股近3900次",
+      "summary": "渣打银行维持中国股票超配评级，摩根士丹利、瑞银等机构看好A股年内温和上涨；截至7月12日，年内已有570家外资机构对A股公司开展约3900次调研，聚焦集成电路等领域。",
       "publishedAt": "2026-07-13",
-      "source": "网易财经（转新浪财经）",
-      "url": "https://www.163.com/dy/article/L1MS7BTT05199NPP.html",
-      "subCategory": "风险事件"
-    },
-    {
-      "id": "finance-20260712-107",
-      "title": "359家A股公司披露中报预告，23家净利预增超1000%",
-      "summary": "截至7月12日，已有359家A股上市公司披靗2026年半年度业绩预告，177家净利旞同比预增超100%，46家超500%，23家超1000%，江波龙预告净利旞同比最高增幅超62000%。",
-      "publishedAt": "2026-07-12T22:42:00+08:00",
-      "source": "新浪财经",
-      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-07-12/doc-inihqkzv2636546.shtml",
-      "subCategory": "公司财报"
-    },
-    {
-      "id": "finance-20260712-106",
-      "title": "中东局势升级下黄金反应平淡，现货金收打 4119.48美元",
-      "summary": "尽管霍尔木兹海峡关闭引发原油价格上涨，现货黄金仅微跌0.11%至4119.48美元/盎司，本周累计下跌约1.2%。分析认为市场当前更关注通胀与美联储政策预期，避险买盘有限。",
-      "publishedAt": "2026-07-12T19:37:29+08:00",
-      "source": "第一财经",
-      "url": "https://www.yicai.com/news/103270975.html",
-      "subCategory": "大宗商品"
-    },
-    {
-      "id": "finance-20260712-105",
-      "title": "美军对伊朗发动本周第三轮打击，霍尔木兹海峡通行量逸降81%",
-      "summary": "美国中央司令部对伊朗约140个军事目标发动本周第三轮打击，伊朗外交部表示未来海峡通航安排应由伊朗与阿曼协商。过24小时仅11艘商船通过海峡，较月 84日高峰下降约81%。",
-      "publishedAt": "2026-07-12T18:46:00+08:00",
-      "source": "证券时报",
-      "url": "https://www.stcn.com/article/detail/4013174.html",
-      "subCategory": "风险事件"
-    },
-    {
-      "id": "finance-20260713-012",
-      "title": "星星科技：子公司广西立马受台风影响生产经营活动临时暂停",
-      "summary": "星星科技公告称，受台风美莎克强降雨影响，全资子公司广西立马电动车生产厂区被淡，厂区生产车间、仓储库房及办公区域进水，生产经营活动临时暂停。该子公司2025年营收占公司合并营收约20.79%，公司称其余基地运营正常。",
-      "publishedAt": "2026-07-12T16:15:54+08:00",
-      "source": "财联社",
-      "url": "https://www.cls.cn/detail/2423812",
-      "subCategory": "风险事件"
-    },
-    {
-      "id": "finance-20260712-104",
-      "title": "霍尔木兹海峡关闭消息带动原油期货走高",
-      "summary": "受伊朗宣布关闭霍尔木兹海峡影响，纽约原油暗盘上栋3.27%，布伦特原油暗盘上栋 3.10%，本周布伦特原油累计上栆5.39%，创近8周最大单周涨幅。",
-      "publishedAt": "2026-07-12T09:35:00+08:00",
-      "source": "证券时报",
-      "url": "https://www.stcn.com/article/detail/4012936.html",
-      "subCategory": "大宗商品"
-    },
-    {
-      "id": "finance-20260712-103",
-      "title": "6月全国期货市场成交额同比增长52.72%",
-      "summary": "据中国期货业协会统计，6月全国期货市场成交量为9.39亿手，成交额80.62万亿元，同比分别增长27%和52.72%，反映国内行生品市场交易活跃度持续提升。",
-      "publishedAt": "2026-07-12T08:33:00+08:00",
-      "source": "新华财经",
-      "url": "https://m.cnfin.com/yw-lb//zixun/20260712/4439029_1.html",
-      "subCategory": "宏观经济"
-    },
-    {
-      "id": "finance-20260712-102",
-      "title": "本周A股三大指数集体收跌，创业板指领跌",
-      "summary": "上周A股三大指数周线全部收跌，上证指数、深证成指、创业板指分别累计下跌1.17%、3.53%、4.41%，全A平均股价累计下跌4.27%。计算机、传媒、房地产板块领涨，建筑材料、电力设备板块跌幅居前。",
-      "publishedAt": "2026-07-12T08:01:50+08:00",
-      "source": "凤凰网财经",
-      "url": "https://finance.ifeng.com/c/8ugzdxdrdLA",
+      "source": "证券日报（新浪财经）",
+      "url": "https://finance.sina.com.cn/jjxw/2026-07-13/doc-inihqzxp2416696.shtml",
       "subCategory": "A股"
-    },
-    {
-      "id": "finance-20260712-101",
-      "title": "伊朗革命卫队宣布关闭霍尔木兹海峡",
-      "summary": "伊朗伊斯兰革命卫队海军宣布，因外部势力非法干涉导致局势不安全，霍尔木兹海峡即日起关闭，任何船只不得通行，直至另行通知。伊朗随后与阿曼就未来通航安排展开磋商。",
-      "publishedAt": "2026-07-12T04:48:00+08:00",
-      "source": "财联社",
-      "url": "https://m.cls.cn/detail/2423670",
-      "subCategory": "风险事件"
     }
   ]
 }

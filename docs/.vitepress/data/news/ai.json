@@ -3,7 +3,7 @@
   "slug": "ai",
   "title": "AI 与大模型",
   "description": "大模型、Agent、AI 编程、推理框架、开源模型的发布与落地。",
-  "updatedAt": "2026-07-17T00:55:00+08:00",
+  "updatedAt": "2026-07-17T20:00:00+08:00",
   "items": [
     {
       "id": "ai-20260716-207",
@@ -112,6 +112,42 @@
       "url": "https://news.mydrivers.com/1/1136/1136782.htm",
       "subCategory": "Agent",
       "id": "ai-20260716-006"
+    },
+    {
+      "id": "ai-20260716-301",
+      "title": "原力灵机发布世界模型DW0.5，用于VLA训练",
+      "summary": "原力灵机推出世界模型DW0.5，作为VLA后训练环境预测未来视频状态并生成成功与失败轨迹，可将真机数据需求降低60%、训练成本降低40%，部分任务成功率显著提升。",
+      "publishedAt": "2026-07-16T10:30:46+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/07/450896.html",
+      "subCategory": "具身智能"
+    },
+    {
+      "id": "ai-20260716-302",
+      "title": "百度网盘GenFlow将升级为跨端Agent平台",
+      "summary": "百度网盘智能体产品GenFlow计划月底升级，面向金融、教育与办公场景打造多端通用Agent平台，首批聚焦金融行业专属工具，将于7月底开启内测邀请。",
+      "publishedAt": "2026-07-16",
+      "source": "AIbase",
+      "url": "https://news.aibase.com/news/29658",
+      "subCategory": "Agent"
+    },
+    {
+      "id": "ai-20260716-303",
+      "title": "谷歌升级Gemini Spark，新增Workspace编辑能力",
+      "summary": "谷歌为Gemini Spark智能助手新增Google文档、表格与幻灯片的读写编辑能力，并将智能体处理速度提升50%以上，支持多数据源并行处理，目前面向Google AI Ultra订阅用户开放。",
+      "publishedAt": "2026-07-16",
+      "source": "AIbase",
+      "url": "https://news.aibase.com/news/29655",
+      "subCategory": "Agent"
+    },
+    {
+      "id": "ai-20260716-304",
+      "title": "通义千问App发布AI办公工作流实践",
+      "summary": "通义千问App在武汉分享简历撰写、PPT制作与数据清洗三类办公场景的AI工作流方法，通过诊断改写、素材总结与公式可溯源分析，将杂乱数据整理为可复核的可视化报告。",
+      "publishedAt": "2026-07-16",
+      "source": "AIbase",
+      "url": "https://news.aibase.com/news/29661",
+      "subCategory": "AI应用"
     },
     {
       "id": "ai-20260716-001",
@@ -688,42 +724,6 @@
       "url": "https://www.qbitai.com/2026/07/447691.html",
       "subCategory": "大模型",
       "id": "ai-20260711-003"
-    },
-    {
-      "id": "ai-20260710-105",
-      "title": "日均提问次数暴增 20 倍！百度搬子宣布重磅升级，企业版同步发布",
-      "summary": "百度在AIDAY活动上宣布智能体产品\"搬子\"个人版重大升级并同步发布企业版，个人版日均提问量较上线时增长20倍，新增跨端记忆同步与社媒运营工具箱等能力。",
-      "publishedAt": "2026-07-10T17:27:00+08:00",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/07/447681.html",
-      "subCategory": "Agent"
-    },
-    {
-      "id": "ai-20260711-200",
-      "title": "快手 KwaiKAT 发布 KAT-Coder-Pro V2.5:告别“补代码”，首个能端到端跑通完整工程的国产 Agentic 编程模型",
-      "summary": "快手KwaiKAT团队发布旗舰级Agentic编程模型KAT-Coder-Pro V2.5并全量上线StreamLake平台，通过大规模智能体强化学习与多教师蒸馏提升长程工程能力，自研AutoBuilder流水线将可运行仓库环境构建成功率从16.5%提升至57.2%，SWE-Bench Pro得分65.2。",
-      "publishedAt": "2026-07-10T17:18:00+08:00",
-      "source": "AIbase",
-      "url": "https://news.aibase.com/zh/news/29530",
-      "subCategory": "AI编程"
-    },
-    {
-      "id": "ai-20260710-104",
-      "title": "小米音箱升级：9 款已内置超级小爱，支持跨端多指令语控",
-      "summary": "小米宣妋9款音箱与智能屏产品完成\"超级小爱\"升级，内置大模型问答与多轮连续对话能力，支持跨端多指令语音控制，并可联动微信语音发送消息给好友。",
-      "publishedAt": "2026-07-10T16:39:59+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/975/166.htm",
-      "subCategory": "AI应用"
-    },
-    {
-      "id": "ai-20260710-102",
-      "title": "华为云Stack x openJiuwen：重新定义生产级AI Agent的政企落地路径",
-      "summary": "开源智能体平台openJiuwen与华为云Stack宣布合作，依托后者算力与安全能力推进多智能体协同系统在政企场景的生产级部署，中国邮政储蓄银行已完成相关应用案例。",
-      "publishedAt": "2026-07-10T15:38:00+08:00",
-      "source": "新浪财经",
-      "url": "https://finance.sina.com.cn/roll/2026-07-10/doc-inihifxw7049824.shtml",
-      "subCategory": "Agent"
     }
   ]
 }
