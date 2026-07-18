@@ -3,8 +3,35 @@
   "slug": "ai",
   "title": "AI 与大模型",
   "description": "大模型、Agent、AI 编程、推理框架、开源模型的发布与落地。",
-  "updatedAt": "2026-07-18T17:00:00+08:00",
+  "updatedAt": "2026-07-19T00:50:00+08:00",
   "items": [
+    {
+      "id": "ai-20260718-023",
+      "title": "商汤科技旗舰级SenseNova U1 Pro正式发布：从\"内容生成\"走向\"系统级交付\"",
+      "summary": "商汤科技在WAIC 2026发布旗舰多模态大模型SenseNova U1 Pro，支持8K原生分辨率输出、统一理解生成行动能力及长程Agent创作闭环，预览版已开放邀测，正式版计划8月向公众开放并提供API服务。",
+      "publishedAt": "2026-07-18T19:25:59+08:00",
+      "source": "每日经济新闻",
+      "url": "https://www.nbd.com.cn/articles/2026-07-18/4476806.html",
+      "subCategory": "多模态"
+    },
+    {
+      "id": "ai-20260718-022",
+      "title": "WAIC 2026现场直击：万兴科技旗下万兴剧厂\"无限画布\"、新品Filmora.AI与Virbo AI火爆首秀",
+      "summary": "万兴科技在WAIC 2026展示万兴剧厂节点式工作流\"无限画布\"、面向商业叙事与广告创作的Filmora.AI，以及服务跨境视频电商的Virbo AI，三款产品将AI能力嵌入完整视频生产流程，据称可降低制作成本约80%。",
+      "publishedAt": "2026-07-18T19:19:41+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/07/454015.html",
+      "subCategory": "AI视频"
+    },
+    {
+      "id": "ai-20260718-021",
+      "title": "让VLA更懂接触，优理奇UniTac让机器人拥有\"触觉想象力\"",
+      "summary": "优理奇联合浙江大学、MIT、牛津、耶鲁、上海交大团队在WAIC 2026发布跨传感器统一触觉理解与生成架构UniTac，可与视觉-语言-动作模型结合，使机器人在接触物体前预测形变与受力，从而更安全地抓取易碎物品。",
+      "publishedAt": "2026-07-18T18:55:47+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/07/453897.html",
+      "subCategory": "具身智能"
+    },
     {
       "id": "ai-20260718-011",
       "title": "WAIC 2026“从大模型到智能体：迈向自主智能新纪元”论坛圆满举办，多项智能体产业成果集中亮相",
@@ -697,33 +724,6 @@
       "url": "https://thinkingmachines.ai/news/introducing-inkling/",
       "subCategory": "开源模型",
       "id": "ai-20260716-009"
-    },
-    {
-      "id": "ai-20260715-902",
-      "title": "KeyFrame-Compass: Towards Comprehensive Evaluation of Keyframe-Conditioned Video Generation",
-      "summary": "研究提出KeyFrame-Compass基准，包含386个样本，从关键帧还原度与视频整体质量两方面评测视频生成模型，测试九款系统后发现关键帧约束密度越高，模型画面自然度越易下降。",
-      "publishedAt": "2026-07-15",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2607.14202",
-      "subCategory": "AI视频"
-    },
-    {
-      "id": "ai-20260715-903",
-      "title": "MultiRef-Compass: Towards Comprehensive Evaluation of Multi-Reference-to-Audio-Video Generation",
-      "summary": "论文提出MultiRef-Compass评测基准，含350个样本，围绕多视角主体一致性等维度评估多参考输入的音视频联合生成系统，测试八款系统后发现各评测维度仍有较大提升空间。",
-      "publishedAt": "2026-07-15",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2607.14189",
-      "subCategory": "AI评测"
-    },
-    {
-      "title": "PalmClaw: A Native On-Device Agent Framework for Mobile Phones",
-      "summary": "研究提出PalmClaw，一款原生运行于手机端的开源智能体框架，直接在设备上管理会话、记忆、技能与工具调用，相比现有GUI操作式移动智能体，任务成功率相对提升11.5%，完成时间减少94.9%。",
-      "publishedAt": "2026-07-15",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2607.13027",
-      "subCategory": "Agent",
-      "id": "ai-20260715-019"
     }
   ]
 }

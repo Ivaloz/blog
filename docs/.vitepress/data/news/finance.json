@@ -3,8 +3,17 @@
   "slug": "finance",
   "title": "投资与财经",
   "description": "宏观经济、A 股 / 港股 / 美股、一级市场融资、行业研报观点。",
-  "updatedAt": "2026-07-18T17:00:00+08:00",
+  "updatedAt": "2026-07-19T00:50:00+08:00",
   "items": [
+    {
+      "id": "finance-20260718-021",
+      "title": "Oil facility hit by repeated Iranian attacks, causing injuries, major material losses: KPC",
+      "summary": "科威特石油公司（KPC）7月18日表示，其一处石油设施遭伊朗多次袭击，造成重大物资损失及人员受伤，伤者已获救治，现场已疏散，相关部门正协调处置，此前该国一座海水淡化及发电设施也曾遇袭。",
+      "publishedAt": "2026-07-18T13:40:00+03:00",
+      "source": "The Peninsula Qatar",
+      "url": "http://thepeninsulaqatar.com/article/18/07/2026/oil-facility-hit-by-repeated-iranian-attacks-causing-injuries-major-material-losses-kpc",
+      "subCategory": "风险事件"
+    },
     {
       "id": "finance-20260718-002",
       "title": "独家：Kimi K3震动美股，月之暗面拟最快6个月内启动港股IPO",
@@ -715,15 +724,6 @@
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/07/15/indian-ai-coding-startup-emergent-becomes-a-unicorn-just-over-a-year-after-launch/",
       "subCategory": "一级市场"
-    },
-    {
-      "title": "港股收评：恒指涨1.4% 科指涨1.3% 科网股、AI应用股普涨 生物医药股强势 MINIMAX涨超13%",
-      "summary": "港股三大指数收盘集体上涨，恒生指数涨1.4%报24681.1点，恒生科技指数涨1.3%，国企指数涨1%，美团涨超5%，腾讯、联想涨超3%，MINIMAX涨超13%。",
-      "publishedAt": "2026-07-15",
-      "source": "新浪财经",
-      "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-07-15/doc-inihwrqy7941599.shtml",
-      "subCategory": "港股",
-      "id": "finance-20260715-013"
     }
   ]
 }

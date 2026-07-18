@@ -3,8 +3,98 @@
   "slug": "tech",
   "title": "科技新闻",
   "description": "前沿科技、互联网产品、芯片硬件、开源生态。",
-  "updatedAt": "2026-07-18T17:00:00+08:00",
+  "updatedAt": "2026-07-19T00:50:00+08:00",
   "items": [
+    {
+      "id": "tech-20260718-021",
+      "title": "英伟达 N1X 首个 Cinebench 2026 跑分曝光：微软 Surface Ultra 工程样机现身，单核成绩接近苹果 M3 Max",
+      "summary": "爆料者公开英伟达N1X芯片首个Cinebench 2026跑分，微软Surface Ultra工程样机获单核540分、多核5771分，单核性能接近苹果M3 Max。该芯片基于RTX Spark平台，支持最高20个Arm核心与128GB统一内存。",
+      "publishedAt": "2026-07-18T23:36:41+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/978/600.htm",
+      "subCategory": "芯片硬件"
+    },
+    {
+      "id": "tech-20260718-022",
+      "title": "印度民营航天新突破：首枚自研轨道火箭维克拉姆-1 号发射成功",
+      "summary": "印度航天初创公司Skyroot Aerospace的维克拉姆-1号火箭发射成功，为印度首枚自主研发的民营轨道运载火箭，将载荷送入450公里轨道，印度成为全球第三个实现私营轨道发射的国家。",
+      "publishedAt": "2026-07-18T22:59:54+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/978/596.htm",
+      "subCategory": "航空航天"
+    },
+    {
+      "id": "tech-20260718-023",
+      "title": "蔚来官宣 NIO Day 2026 将在武汉举行，有望首发最新产品、技术",
+      "summary": "蔚来官宣NIO Day 2026将于武汉举行，武汉在社区投票中以约1.78亿票击败哈尔滨、厦门当选举办城市，历届活动均发布新车型与技术方案，具体时间及内容尚未公布。",
+      "publishedAt": "2026-07-18T22:12:37+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/978/587.htm",
+      "subCategory": "智能汽车"
+    },
+    {
+      "id": "tech-20260718-024",
+      "title": "戴尔 XPS 13 2026 上架京东：酷睿 5 320 处理器，16+512GB 存储 8999 元",
+      "summary": "戴尔XPS 13 2026款笔记本上架京东和天猫，搭载第三代酷睿5 320处理器，配16GB内存与512GB存储，13.4英寸2.5K触控屏支持120Hz刷新，官方定价8999元，为目前最贵的Wildcat Lake笔记本。",
+      "publishedAt": "2026-07-18T22:02:55+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/978/586.htm",
+      "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260718-025",
+      "title": "阿里云发布灵骏真武 M890 超节点实例，单台可承载十万亿参数级 MoE 大模型推理",
+      "summary": "阿里云在2026世界人工智能大会发布灵骏真武M890超节点实例，支持FP8/FP4低精度计算与64卡800GB/s互联，单台可承载十万亿参数级MoE大模型推理，训练性能较前代提升三倍，已在乌兰察布开放邀测。",
+      "publishedAt": "2026-07-18T20:47:00+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/978/578.htm",
+      "subCategory": "云计算"
+    },
+    {
+      "id": "tech-20260718-026",
+      "title": "修复故障反酿大错，日本快递企业佐川急便泄露 7 万用户隐私",
+      "summary": "日本快递企业佐川急便在修复会员平台Smart Club系统故障时发生显示错误，导致约7万名用户的姓名、邮箱及运单号信息泄露，不涉及住址与信用卡信息，公司已恢复服务并计划致歉。",
+      "publishedAt": "2026-07-18T20:23:37+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/978/575.htm",
+      "subCategory": "安全漏洞"
+    },
+    {
+      "id": "tech-20260718-027",
+      "title": "RoboSense 发布第二代全固态数字化激光雷达 E2，可无缝嵌入机器人头部、腕部",
+      "summary": "速腾聚创在2026世界人工智能大会发布第二代全固态激光雷达E2，基于自研孔雀SPAD-SoC芯片，体积缩小60%、重量减少40%，可嵌入机器人头部与腕部，实现640×480分辨率障碍物检测。",
+      "publishedAt": "2026-07-18T18:07:54+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/978/546.htm",
+      "subCategory": "机器人"
+    },
+    {
+      "id": "tech-20260718-028",
+      "title": "上海发布太空算力星座工程\"星枢计划\"，商业运营阶段将完成千星部署",
+      "summary": "上海在2026世界人工智能大会发布天基智能算力网络\"星枢计划\"，首发星座含算力主星、气象星与遥感星，主星搭载32P算力航天级GPU芯片，规划最终部署千星，含800颗算力卫星与200颗边缘计算卫星。",
+      "publishedAt": "2026-07-18T17:48:31+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/978/530.htm",
+      "subCategory": "航空航天"
+    },
+    {
+      "id": "tech-20260718-029",
+      "title": "吉利银河 TT Ultra 车型 7 月 21 日预售，配备激光雷达 + 双电机四驱",
+      "summary": "吉利银河TT Ultra车型将于7月21日开启预售，定位C级AI纯电轿车，采用800V高压平台，配备激光雷达与高阶智驾辅助系统，双电机峰值功率425千瓦，续航540至725公里。",
+      "publishedAt": "2026-07-18T17:31:03+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/978/526.htm",
+      "subCategory": "智能汽车"
+    },
+    {
+      "id": "tech-20260718-030",
+      "title": "中兴发布业内同规格尺寸下最轻人形机器人产品\"中兴星仔\"：高 1.6 米，自重 30 余千克",
+      "summary": "中兴通讯在2026世界人工智能大会推出星系列人形机器人，中兴星仔身高1.6米、自重30余千克，采用腱绳驱动架构与柔性晶格皮肤，具备智能避障功能，适配公共服务场景。",
+      "publishedAt": "2026-07-18T17:08:25+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/978/521.htm",
+      "subCategory": "机器人"
+    },
     {
       "id": "tech-20260718-001",
       "title": "iQOO 首款小平板疑入网，预计搭载第六代骁龙 8 至尊版系列芯片",
@@ -634,96 +724,6 @@
       "source": "IT之家",
       "url": "https://www.ithome.com/0/977/759.htm",
       "subCategory": "互联网产品"
-    },
-    {
-      "id": "tech-20260716-201",
-      "title": "realme副总裁徐起：realme 将按下中国市场的暂停键，后续销售、售后质保由 OPPO 全面接手",
-      "summary": "realme副总裁徐起表示，realme品牌将暂停中国市场新品投放，聚焦海外及性能游戏赛道；现有机型后续销售与售后质保由OPPO官方团队全面接手，用户可在下一代产品发布后升级至ColorOS系统。",
-      "publishedAt": "2026-07-16T17:10:14+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/977/595.htm",
-      "subCategory": "消费电子"
-    },
-    {
-      "id": "tech-20260716-302",
-      "title": "OnePlus宣布停止在美国与欧洲推出新机",
-      "summary": "手机厂商OnePlus宣布将不再在美国和欧洲市场推出新产品，作为母公司OPPO业务重组的一部分。公司称现有用户的售后支持与系统更新将持续保障，中国及印度市场运营不受影响，未来将转向以Realme品牌拓展部分海外区域。",
-      "publishedAt": "2026-07-16T02:00:00-07:00",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/16/phone-maker-oneplus-reportedly-plans-to-wind-down-us-and-europe-operations/",
-      "subCategory": "消费电子"
-    },
-    {
-      "title": "现代汽车集团宣布将收购软银所持股份，全资控股波士顿动力",
-      "summary": "现代汽车集团宣布以约5000亿韩元收购软银所持波士顿动力剩余股份，实现全资控股。计划自2028年起在美国佐治亚州工厂部署Atlas人形机器人，用于汽车零部件分拣等生产环节。",
-      "publishedAt": "2026-07-16T16:29:53+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/977/570.htm",
-      "subCategory": "机器人",
-      "id": "tech-20260716-015"
-    },
-    {
-      "title": "鸿蒙智行智界 V9 旗舰 MPV 累计订单超 2 万台，定档 7 月 23 日推送华为乾崑智驾 ADS 5",
-      "summary": "华为鸿蒙智行智界V9旗舰MPV累计订单已超2万台，官方称7月23日起推送华为乾崑智驾ADS 5全量升级，该车5月上市，配备38个传感器及896线激光雷达。",
-      "publishedAt": "2026-07-16T16:21:58+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/977/567.htm",
-      "subCategory": "智能汽车",
-      "id": "tech-20260716-016"
-    },
-    {
-      "title": "特斯拉中国第三代家充单相版裸桩下调 200 元至 2599 元，18 项安装增项收费同步下调",
-      "summary": "特斯拉中国宣布第三代家用充电桩单相裸桩版降价200元至2599元，服务包版降601元至4599元，18项安装增项费用同步平均下调约37%，同时提高穿墙PVC管材安装标准。",
-      "publishedAt": "2026-07-16T16:15:32+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/977/560.htm",
-      "subCategory": "智能汽车",
-      "id": "tech-20260716-017"
-    },
-    {
-      "title": "消息称阿里千问首款 AI 智能体耳机将在 WAIC 亮相",
-      "summary": "消息称阿里旗下个人AI助手千问将在2026世界人工智能大会（WAIC）上首次展示AI智能体耳机，此前千问已发布Quark AI眼镜S1，并计划今年推出智能戒指等多款AI硬件产品。",
-      "publishedAt": "2026-07-16T16:09:46+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/977/558.htm",
-      "subCategory": "消费电子",
-      "id": "tech-20260716-018"
-    },
-    {
-      "title": "台积电上调销售和支出展望，再添AI需求持续迹象",
-      "summary": "台积电将2026年资本支出预期上调至600亿至640亿美元区间，并将美元营收增速展望由此前30%以上上调至40%以上，反映AI基础设施需求持续强劲，此前二季度净利润同比增长77.4%。",
-      "publishedAt": "2026-07-16T15:31:00+08:00",
-      "source": "36氪",
-      "url": "https://36kr.com/newsflashes/3898001280419717",
-      "subCategory": "芯片硬件",
-      "id": "tech-20260716-019"
-    },
-    {
-      "title": "金山办公连发两款AI办公智能体，覆盖个人级与组织级两大场景",
-      "summary": "金山办公在2026 AI生产力大会上发布“灵犀专业版”与“WPS Comate”两款AI办公智能体，分别面向个人和组织级场景，CEO章庆元称办公软件正迈向AI原生阶段。",
-      "publishedAt": "2026-07-16T15:20:00+08:00",
-      "source": "36氪",
-      "url": "https://36kr.com/newsflashes/3897989611144839",
-      "subCategory": "互联网产品",
-      "id": "tech-20260716-020"
-    },
-    {
-      "id": "tech-20260716-007",
-      "title": "苹果更新地图 Apple Maps 广告投放条款：明确禁投家政服务等内容",
-      "summary": "苹果更新Apple Maps广告投放条款，明确禁止保释担保、加密货币ATM、家政服务及政治类广告投放，医疗服务类广告将实行个案审核，并要求广告内容清晰标识。",
-      "publishedAt": "2026-07-16T08:11:52+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/977/287.htm",
-      "subCategory": "互联网产品"
-    },
-    {
-      "id": "tech-20260716-904",
-      "title": "依视路陆逊梯卡收购法国XR创业公司Lynx",
-      "summary": "眼镜巨头依视路陆逊梯卡收购法国XR创业公司Lynx的全部知识产权与团队，此前Lynx已进入司法清算程序，其尚未发布的R2混合现实头显未来能否推出存疑。",
-      "publishedAt": "2026-07-16",
-      "source": "Road to VR",
-      "url": "https://roadtovr.com/essilorluxottica-acquires-lynx-r2-headset-release/",
-      "subCategory": "XR-AR-VR"
     }
   ]
 }
