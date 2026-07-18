@@ -3,16 +3,43 @@
   "slug": "ai",
   "title": "AI 与大模型",
   "description": "大模型、Agent、AI 编程、推理框架、开源模型的发布与落地。",
-  "updatedAt": "2026-07-18T01:01:21+08:00",
+  "updatedAt": "2026-07-18T09:20:00+08:00",
   "items": [
+    {
+      "id": "ai-20260717-950",
+      "title": "得物App联合千觉机器人发布AI鉴别机器人，亮相WAIC 2026",
+      "summary": "得物App与千觉机器人在世界人工智能大会上发布AI鉴别机器人，结合机械臂与高清摄像头自动完成鞋类、箱包、腿表等品类鉴别，依托得物先鉴别后发货模式积累的数据，鉴别准确率达99.9999%，单双球鞋鉴别可在约5秒内出具报告。",
+      "publishedAt": "2026-07-17T17:05:00+08:00",
+      "source": "AIbase",
+      "url": "https://news.aibase.com/zh/news/29694",
+      "subCategory": "AI应用"
+    },
+    {
+      "id": "ai-20260717-951",
+      "title": "银河通用机器人创始人王鹤：2028年，具身智能的\"ChatGPT时刻\"即将到来",
+      "summary": "银河通用机器人创始人兼CTO王鹤在世界人工智能大会上预测，具身智能基础模型有望在2028年实现类似ChatGPT时刻的突破，届时在未训练任务上的成功率可达70%至80%，稳健的预训练与高效后训练是关键。",
+      "publishedAt": "2026-07-17T16:44:00+08:00",
+      "source": "AIbase",
+      "url": "https://news.aibase.com/zh/news/29692",
+      "subCategory": "具身智能"
+    },
     {
       "id": "ai-20260717-156",
       "title": "超低延迟AI对话神器！Wan-Streamer v0.2让你与AI零距离沟通",
-      "summary": "阿里通义实验室发布Wan-Streamer v0.2，将响应延迟压缩至550毫秒，支持全身数字人形象与实时手势互动，可用于陪练、心理咨询等场景。",
+      "summary": "阿里通义实验室发布Wan-Streamer v0.2，将响应延迟压缩至550毫秒，支持全身数字人形象与实时手势互动，可用于陀练、心理咨询等场景。",
       "publishedAt": "2026-07-17T16:32:00+08:00",
       "source": "AIbase",
       "url": "https://news.aibase.com/zh/news/29691",
       "subCategory": "多模态"
+    },
+    {
+      "id": "ai-20260717-952",
+      "title": "影视飘风49元AI课程上线首日售出10万份，单日营收超490万元",
+      "summary": "内容团队影视飘风联合AI视觉创作平台TapNow推出49元AI实操课程，涵盖图像生成、视频创作及提示词写作等16节课，上线首日销售突砠10万份，单日营收超490万元，用户反馈中也存在内容模板化等争议。",
+      "publishedAt": "2026-07-17T15:47:00+08:00",
+      "source": "AIbase",
+      "url": "https://news.aibase.com/zh/news/29689",
+      "subCategory": "AI应用"
     },
     {
       "id": "ai-20260717-150",
@@ -33,30 +60,12 @@
       "subCategory": "Agent"
     },
     {
-      "id": "ai-20260717-901",
-      "title": "NVIDIA Releases Nemotron 3 Embed Series 8B Version, Tops RTEB Retrieval Benchmark",
-      "summary": "英伟达发布Nemotron3Embed系列嵌入模型，面向RAG与智能体检索场景，8B版本在RTEB检索基准上取得榜首成绩，另提供1B及4bit量化版本，支持三万余token长度与多语言处理。",
-      "publishedAt": "2026-07-17",
+      "id": "ai-20260717-953",
+      "title": "百度沈拖：每位员工每月发 1000 元额度自由体验主流大模型，强制推行AI办公难见效",
+      "summary": "百度执行副总裁沈拖表示，强制推行AI办公难以真正见效，公司改为向每位员工提供每月 1000 元额度自由体验主流大模型；百度一季度AI业务收入同比增长49%，占总营收比例首次过半。",
+      "publishedAt": "2026-07-17T14:03:00+08:00",
       "source": "AIbase",
-      "url": "https://news.aibase.com/news/29695",
-      "subCategory": "开源模型"
-    },
-    {
-      "id": "ai-20260717-902",
-      "title": "Ultra-Low Latency AI Chat Assistant! Wan-Streamer v0.2 Brings You Closer to AI",
-      "summary": "通义实验室发布多模态模型Wan-Streamer v0.2，将听、看、说、演能力整合进单一架构，端到端响应延迟降至550毫秒，视频分辨率提升至640×368并支持全身数字人形象。",
-      "publishedAt": "2026-07-17",
-      "source": "AIbase",
-      "url": "https://news.aibase.com/news/29691",
-      "subCategory": "多模态"
-    },
-    {
-      "id": "ai-20260717-903",
-      "title": "Chongqing Launches 'Yu Xiaojian' AI Medical Assistant, Covering 233 Public Hospitals",
-      "summary": "重庆市卫健委联合大数据局与蚂蚁集团上线AI医疗助手「渝小健」，可通过支付宝等渠道使用智能导诊、报告查询与AI解读等功能，已接入全市233家二级以上公立医院。",
-      "publishedAt": "2026-07-17",
-      "source": "AIbase",
-      "url": "https://news.aibase.com/news/29693",
+      "url": "https://news.aibase.com/zh/news/29685",
       "subCategory": "AI应用"
     },
     {
@@ -70,7 +79,7 @@
     },
     {
       "id": "ai-20260717-162",
-      "title": "首token延迟砍掉3.25倍：小红书联手北大、上交提出HYPIC",
+      "title": "首token延迟砍戉3.25倍：小红书联手北大、上交提出HYPIC",
       "summary": "小红书联合北大、上交提出HYPIC缓存系统，为混合注意力大模型实现“位置无关缓存”，将首token延迟降低3.25倍，同等延迟约束下QPS提升1.66倍。",
       "publishedAt": "2026-07-17T11:33:00+08:00",
       "source": "AIbase",
@@ -97,8 +106,8 @@
     },
     {
       "id": "ai-20260717-158",
-      "title": "秒哒3.5全球首发iOS无代码打包与多端共享后端",
-      "summary": "百度秒哒发布3.5版本，新增SEO Agent自动优化、iOS无代码打包生成IPA、多端共享后端数据库等功能，平台已服务3500万用户。",
+      "title": "秒哔3.5全球首发iOS无代码打包与多端共享后端",
+      "summary": "百度秒哓发布3.5版本，新增SEO Agent自动优化、iOS无代码打包生成IPA、多端共享后端数据库等功能，平台已服务3500万用户。",
       "publishedAt": "2026-07-17T11:08:00+08:00",
       "source": "AIbase",
       "url": "https://news.aibase.com/zh/news/29680",
@@ -114,9 +123,36 @@
       "subCategory": "推理框架"
     },
     {
+      "id": "ai-20260717-954",
+      "title": "面壁智能开源企业数字员工平台StaffDeck",
+      "summary": "面壁智能联合东北大学数据智能实验室、清华大学THUNLP、OpenBMB及九天九星开源企业数字员工平台StaffDeck，将专业知识、标准流程与决策规则转化为可持续工作的数字员工，代码已在GitHub开放。",
+      "publishedAt": "2026-07-17T10:39:00+08:00",
+      "source": "AIbase",
+      "url": "https://news.aibase.com/zh/news/29677",
+      "subCategory": "Agent"
+    },
+    {
+      "id": "ai-20260717-955",
+      "title": "Roblox推出AI创作工具Build，支持文本生成游戏和3D场景",
+      "summary": "Roblox推出AI创作工具Build，用户可在移动端通过自然语言提示词生成可编辑的游戏内容基础版本，7月28日开始测试，并与Roblox Studio打通支持移动端与桌面端协同编辑。",
+      "publishedAt": "2026-07-17T10:28:00+08:00",
+      "source": "AIbase",
+      "url": "https://news.aibase.com/zh/news/29676",
+      "subCategory": "AI应用"
+    },
+    {
+      "id": "ai-20260717-956",
+      "title": "京东推出京麦AI经营中心，开放22款AI工具助力商家智能经营",
+      "summary": "京东推出京麦AI经营中心，整合22款AI工具及专家服务，通过多Agent协同与自然语言交互覆盖商品管理、客服、营销等超50个商家常见经营场景，同步招募第三方软件开发者与服务机构扩展生态。",
+      "publishedAt": "2026-07-17T10:04:00+08:00",
+      "source": "AIbase",
+      "url": "https://news.aibase.com/zh/news/29675",
+      "subCategory": "Agent"
+    },
+    {
       "id": "ai-20260717-154",
-      "title": "两周搬完一百万行代码：Anthropic用Claude把多年不敢碰的语言迁移压进一个周末",
-      "summary": "Anthropic披露Bun团队用Claude Code两周内完成百万行Zig到Rust代码迁移、内部工具周末完成16.5万行Python转TypeScript的实践方法。",
+      "title": "两周搠完一百万行代码：Anthropic用Claude把多年不敢碰的语言迁移压进一个周末",
+      "summary": "Anthropic披露Bun团队用Claude Code两周内完成百万行代码Zig到Rust代码迁移、内部工具周末完成16.5万行Python转TypeScript的实践方法。",
       "publishedAt": "2026-07-17T09:49:00+08:00",
       "source": "AIbase",
       "url": "https://news.aibase.com/zh/news/29674",
@@ -124,7 +160,7 @@
     },
     {
       "id": "ai-20260717-161",
-      "title": "5个月增长15倍，智谱AI凭Coding路线冲击10亿美元ARR",
+      "title": "5个月增长15倍，智谱AI凭 Coding 路线冲儅10亿美元ARR",
       "summary": "据多方消息，智谱AI年化营收已达10亿美元，用约5个月时间达成这一里程碑，主要得益于GLM系列编程模型的快速迭代与调用量增长。",
       "publishedAt": "2026-07-17T09:40:00+08:00",
       "source": "AIbase",
@@ -157,6 +193,33 @@
       "source": "新浪财经",
       "url": "https://finance.sina.com.cn/tob/2026-07-17/doc-iniiahrp8128941.shtml",
       "subCategory": "开源模型"
+    },
+    {
+      "id": "ai-20260717-901",
+      "title": "NVIDIA Releases Nemotron 3 Embed Series 8B Version, Tops RTEB Retrieval Benchmark",
+      "summary": "英伟达发布Nemotron3Embed系列嵌入模型，面向RAG与智能体检索场景，8B版本在RTEB检索基准上取得榜首成绩，另提供1B及4bit量化版本，支持三万余token长度与多语言处理。",
+      "publishedAt": "2026-07-17",
+      "source": "AIbase",
+      "url": "https://news.aibase.com/news/29695",
+      "subCategory": "开源模型"
+    },
+    {
+      "id": "ai-20260717-903",
+      "title": "Chongqing Launches 'Yu Xiaojian' AI Medical Assistant, Covering 233 Public Hospitals",
+      "summary": "重庆市卫健委联合大数据局与蚂蚁集团上线AI医疗助手「渝小健」，可通过支付宝等渠道使用智能导诊、报告查询与AI解读等功能，已接入全市233家二级以上公立医院。",
+      "publishedAt": "2026-07-17",
+      "source": "AIbase",
+      "url": "https://news.aibase.com/news/29693",
+      "subCategory": "AI应用"
+    },
+    {
+      "id": "ai-20260717-902",
+      "title": "Ultra-Low Latency AI Chat Assistant! Wan-Streamer v0.2 Brings You Closer to AI",
+      "summary": "通义实验室发布多模态模型Wan-Streamer v0.2，将听、看、说、演能力整合进单一架构，端到端响应延迟降至550毫秒，视频分辨率提升至640×368并支持全身数字人形象。",
+      "publishedAt": "2026-07-17",
+      "source": "AIbase",
+      "url": "https://news.aibase.com/news/29691",
+      "subCategory": "多模态"
     },
     {
       "id": "ai-20260716-207",
@@ -197,7 +260,7 @@
     {
       "id": "ai-20260716-205",
       "title": "Grok Build被曝上传用户代码后，马斯克官宣开源，GitHub上线即斩获7.7k Star",
-      "summary": "xAI代码智能体Grok Build被曝默认将用户代码仓库及.env等敏感文件上传至公司服务器，引发争议后，马斯克宣布将其完全开源，支持纯本地运行，项目上线数小时内获得7700个GitHub星标。",
+      "summary": "xAI代码智能体Grok Build被曝默认将用户代码仓库及.env等敏感文件上传至公司服务器，引发争议后，马斯克宣布将其完全开源，支持纯本地运行，项目上线数小时内获7700个GitHub星标。",
       "publishedAt": "2026-07-16T18:30:00+08:00",
       "source": "36氪",
       "url": "https://36kr.com/p/3898156600870529",
@@ -215,7 +278,7 @@
     {
       "id": "ai-20260716-202",
       "title": "RLinf v0.3来了！从模型生态到真机部署五大能力跃升，无问芯穹与清华大学联合打造",
-      "summary": "无问芯穹与清华大学联合发布强化学习基础设施RLinf v0.3，新增6款具身模型支持、3种遥操作方式及5种仿真器，打通数据采集到真机部署全流程，已获NVIDIA Isaac Lab收录为首个具身大模型训练引擎。",
+      "summary": "无问芯穹与清华大学联合发布强化学习基础设施RLinf v0.3，新堶6款具身模型支持、3种遥操作方式及5种仿真器，打通数据采集到真机部署全流程，已获NVIDIA Isaac Lab收录为首个具身大模型训练引擎。",
       "publishedAt": "2026-07-16T17:25:17+08:00",
       "source": "量子位",
       "url": "https://www.qbitai.com/2026/07/451379.html",
@@ -224,7 +287,7 @@
     {
       "id": "ai-20260716-201",
       "title": "手握英伟达宁德时代相同剧本，具身智能的第一个「基建商」出现了",
-      "summary": "从自动驾驶数据基础设施企业分拆出的景烁科技，提出以数据基建而非模型或硬件切入具身智能赛道，其WorldEngine、GENESIS-Robotics和SkillForge三大模块已积累超50万小时交互数据及200余个标准化技能包。",
+      "summary": "从自动驾驶数据基础设施企业分拆出的景烫科技，提出以数据基建而非模型或硬件切入具身智能赛道，其WorldEngine、GENESIS-Robotics和SkillForge三大模块已积累超50万小时交互数据及200余个标准化技能包。",
       "publishedAt": "2026-07-16T17:13:01+08:00",
       "source": "量子位",
       "url": "https://www.qbitai.com/2026/07/451327.html",
@@ -232,7 +295,7 @@
     },
     {
       "title": "刚刚，逐际动力放出一段Demo，Figure：睡不着啊",
-      "summary": "逐际动力发布人形机器人Oli连续3分钟完成收衣、整理玩具、搬箱等家务的未剪辑演示视频，采用分层的LimX COSA 0.5系统架构，强调硬件软件协同而非单一大模型驱动。",
+      "summary": "逐际动力发布人形机器人Oli连癗3分钟完成收衣、整理玩具、搬箱等家务的未剪辑演示视频，采用分层的LimX COSA 0.5系统架构，强调硬件软件协同而非单一大模型驱动。",
       "publishedAt": "2026-07-16T15:57:00+08:00",
       "source": "量子位",
       "url": "https://www.163.com/dy/article/L1VJ7T6S0511DSSR.html",
@@ -265,87 +328,6 @@
       "url": "https://www.chinaz.com/ainews/29652.shtml",
       "subCategory": "具身智能",
       "id": "ai-20260716-005"
-    },
-    {
-      "id": "ai-20260716-302",
-      "title": "百度网盘GenFlow将升级为跨端Agent平台",
-      "summary": "百度网盘智能体产品GenFlow计划月底升级，面向金融、教育与办公场景打造多端通用Agent平台，首批聚焦金融行业专属工具，将于7月底开启内测邀请。",
-      "publishedAt": "2026-07-16",
-      "source": "AIbase",
-      "url": "https://news.aibase.com/news/29658",
-      "subCategory": "Agent"
-    },
-    {
-      "id": "ai-20260716-303",
-      "title": "谷歌升级Gemini Spark，新增Workspace编辑能力",
-      "summary": "谷歌为Gemini Spark智能助手新增Google文档、表格与幻灯片的读写编辑能力，并将智能体处理速度提升50%以上，支持多数据源并行处理，目前面向Google AI Ultra订阅用户开放。",
-      "publishedAt": "2026-07-16",
-      "source": "AIbase",
-      "url": "https://news.aibase.com/news/29655",
-      "subCategory": "Agent"
-    },
-    {
-      "id": "ai-20260716-304",
-      "title": "通义千问App发布AI办公工作流实践",
-      "summary": "通义千问App在武汉分享简历撰写、PPT制作与数据清洗三类办公场景的AI工作流方法，通过诊断改写、素材总结与公式可溯源分析，将杂乱数据整理为可复核的可视化报告。",
-      "publishedAt": "2026-07-16",
-      "source": "AIbase",
-      "url": "https://news.aibase.com/news/29661",
-      "subCategory": "AI应用"
-    },
-    {
-      "id": "ai-20260716-900",
-      "title": "VideoChat3: Fully Open Video MLLM for Efficient and Generalist Video Understanding",
-      "summary": "南京大学团队提出仅40亿参数的开源视频多模态模型VideoChat3，通过I3D-ViT与自适应帧分辨率降低训练与推理开销，在通用、长视频及流式理解基准上超越同类开源模型。",
-      "publishedAt": "2026-07-16",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2607.14935",
-      "subCategory": "论文进展"
-    },
-    {
-      "id": "ai-20260716-901",
-      "title": "BadWAM: When World-Action Models Dream Right but Act Wrong",
-      "summary": "研究提出针对世界-动作模型（WAM）的对抗攻击框架BadWAM，发现微小视觉扰动可破坏模型想象与实际执行的一致性，使任务成功率从96.5%降至43.1%，揭示具身智能系统安全隐患。",
-      "publishedAt": "2026-07-16",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2607.15207",
-      "subCategory": "论文进展"
-    },
-    {
-      "id": "ai-20260716-902",
-      "title": "LongStraw: Long-Context RL Beyond 2M Tokens under a Fixed GPU Budget",
-      "summary": "论文提出LongStraw执行框架，针对强化学习后训练长期受限于26万token左右的问题进行优化，在固定GPU预算下于H20集群实现处理210万token提示词的长上下文训练能力。",
-      "publishedAt": "2026-07-16",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2607.14952",
-      "subCategory": "论文进展"
-    },
-    {
-      "id": "ai-20260716-903",
-      "title": "SearchOS-V1: Towards Robust Open-Domain Information-Seeking Agent Collaboration",
-      "summary": "蚂蚁集团团队提出多智能体框架SearchOS，将搜索过程转化为前沿任务、证据图谱等持久化状态，并引入失败记忆机制避免重复搜索陷入循环，在基准测试中综合表现超越现有单多智能体系统。",
-      "publishedAt": "2026-07-16",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2607.15257",
-      "subCategory": "Agent"
-    },
-    {
-      "id": "ai-20260716-904",
-      "title": "SEED: Self-Evolving On-Policy Distillation for Agentic Reinforcement Learning",
-      "summary": "论文提出SEED框架，让策略从自身轨迹中提炼可复用技能并重新蒸馏回策略本身，缓解智能体强化学习中回合奖励与token级学习的监督缺口，在文本与视觉任务上均带来性能提升。",
-      "publishedAt": "2026-07-16",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2607.14777",
-      "subCategory": "Agent"
-    },
-    {
-      "id": "ai-20260716-905",
-      "title": "OpenWiki 0.2 brings OKF to codebase documentation",
-      "summary": "LangChain团队发布开源文档工具OpenWiki 0.2，引入OKF知识格式规范，为wiki文件增加结构化元数据，并新增index与logs约定，便于智能体以标签和分类方式检索文档。",
-      "publishedAt": "2026-07-16",
-      "source": "LangChain Blog",
-      "url": "https://www.langchain.com/blog/openwiki-0-2-adds-okf-support",
-      "subCategory": "Agent"
     },
     {
       "title": "全球首款AI智能体手机！努比亚NaviX Ultra正式亮相：搭载豆包手机助手",
@@ -456,60 +438,6 @@
       "id": "ai-20260715-013"
     },
     {
-      "title": "PalmClaw: A Native On-Device Agent Framework for Mobile Phones",
-      "summary": "研究提出PalmClaw，一款原生运行于手机端的开源智能体框架，直接在设备上管理会话、记忆、技能与工具调用，相比现有GUI操作式移动智能体，任务成功率相对提升11.5%，完成时间减少94.9%。",
-      "publishedAt": "2026-07-15",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2607.13027",
-      "subCategory": "Agent",
-      "id": "ai-20260715-019"
-    },
-    {
-      "title": "Inkling: Our open-weights model",
-      "summary": "前OpenAI CTO Mira Murati创立的Thinking Machines Lab发布开源模型Inkling，采用9750亿参数MoE架构(410亿激活参数)，支持百万token上下文，可处理文本、图像与音频等多模态输入，以Apache 2.0协议开放。",
-      "publishedAt": "2026-07-15",
-      "source": "Thinking Machines Lab",
-      "url": "https://thinkingmachines.ai/news/introducing-inkling/",
-      "subCategory": "开源模型",
-      "id": "ai-20260716-009"
-    },
-    {
-      "id": "ai-20260715-901",
-      "title": "TML Inkling on vLLM: Day-0 Support with Optimized Performance",
-      "summary": "vLLM宣布首日支持Thinking Machines Lab发布的万亿参数多模态模型Inkling，支持文本、图像、音频输入及百万token上下文，通过张量并行与推测解码等优化提升推理吞吐。",
-      "publishedAt": "2026-07-15",
-      "source": "vLLM Blog",
-      "url": "https://vllm.ai/blog/2026-07-15-inkling",
-      "subCategory": "推理框架"
-    },
-    {
-      "id": "ai-20260715-902",
-      "title": "KeyFrame-Compass: Towards Comprehensive Evaluation of Keyframe-Conditioned Video Generation",
-      "summary": "研究提出KeyFrame-Compass基准，包含386个样本，从关键帧还原度与视频整体质量两方面评测视频生成模型，测试九款系统后发现关键帧约束密度越高，模型画面自然度越易下降。",
-      "publishedAt": "2026-07-15",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2607.14202",
-      "subCategory": "AI视频"
-    },
-    {
-      "id": "ai-20260715-903",
-      "title": "MultiRef-Compass: Towards Comprehensive Evaluation of Multi-Reference-to-Audio-Video Generation",
-      "summary": "论文提出MultiRef-Compass评测基准，含350个样本，围绕多视角主体一致性等维度评估多参考输入的音视频联合生成系统，测试八款系统后发现各评测维度仍有较大提升空间。",
-      "publishedAt": "2026-07-15",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2607.14189",
-      "subCategory": "AI评测"
-    },
-    {
-      "id": "ai-20260715-904",
-      "title": "Agents need their own computer. Here's how to give them one safely.",
-      "summary": "LangChain撰文介绍LangSmith Sandboxes，通过硬件级虚拟机为智能体提供隔离执行环境，可在一秒内启动并保留状态，同时通过网络代理管理凭据以降低执行不受信代码的风险。",
-      "publishedAt": "2026-07-15",
-      "source": "LangChain Blog",
-      "url": "https://www.langchain.com/blog/agents-need-their-own-computer",
-      "subCategory": "Agent"
-    },
-    {
       "id": "ai-20260716-002",
       "title": "又快又聪明，阿里发布Qwen-Audio-3.0-Realtime：实时语音大模型四项功能升级",
       "summary": "阿里发布实时语音交互模型Qwen-Audio-3.0-Realtime，含Plus与Flash两版本，在智能程度、工具调用、情感对话与双工交互四方面同步升级。",
@@ -539,7 +467,7 @@
     {
       "id": "ai-20260716-003",
       "title": "Google Image Search revamped for 25th anniversary, adds AI-powered image generation",
-      "summary": "谷歌图片搜索迎25周年推出新版首页画廊，并在AI摘要功能中加入基于Nano Banana模型的按需图片生成能力，目前先向美国英语用户逐步开放。",
+      "summary": "谷歌图片搜索蟎25周年推出新版首页画廊，并在AI摘要功能中加入基于Nano Banana模型的按需图片生成能力，目前先向美国英语用户逐步开放。",
       "publishedAt": "2026-07-15T09:58:00+08:00",
       "source": "GIGAZINE",
       "url": "https://gigazine.net/gsc_news/en/20260715-google-image-25th/",
@@ -609,15 +537,6 @@
       "subCategory": "具身智能"
     },
     {
-      "id": "ai-20260715-005",
-      "title": "OpenAI Eases GPT-5.6 Usage Limits, Keeps Weekly Caps",
-      "summary": "OpenAI临时取消Codex与ChatGPT Work在Plus、Business、Pro套餐下的五小时用量窗口限制，但保留每周上限，并为约700万相关账户发放可留存使用的额度重置；因配额统计问题，上下文长度暂甧37.2万token降至27.2万token。",
-      "publishedAt": "2026-07-14T12:14:00+02:00",
-      "source": "Winbuzzer",
-      "url": "https://winbuzzer.com/2026/07/14/openai-eases-gpt-56-timing-limits-keeps-weekly-caps-xcxwbn/",
-      "subCategory": "大模型"
-    },
-    {
       "id": "ai-20260714-011",
       "title": "LibTV Agent 打造工作流生态，重塑创作者生产力",
       "summary": "AI视频平台LibTV推出Agent与Skill Hub功能，将上百种专业视频工作流转化为可直接调用的技能，用户输入需求后由Agent自动构建画布与生成链路，并提供故事板视图、自查修复及双语字幕输出等功能。",
@@ -670,60 +589,6 @@
       "source": "量子位",
       "url": "https://www.qbitai.com/2026/07/449842.html",
       "subCategory": "AI评测"
-    },
-    {
-      "id": "ai-20260714-004",
-      "title": "HyOCR-1.5发布：1B参数轻量化架构 推理提送6.37倍赋能OCR新突破",
-      "summary": "HyOCR-1.5是一款完全开源的10亿参数OCR模型，引入智能体驱动数据流训练方法与DFlash投机解码框架，推理速度提升6.37倍，支持4K分辨率输入和128K上下文，硬件需求降低超80%，实测错误率下降32%。",
-      "publishedAt": "2026-07-14T12:23:53+08:00",
-      "source": "ITBear科技资讯",
-      "url": "https://www.itbear.com.cn/html/2026-07/1443768.html",
-      "subCategory": "开源模型"
-    },
-    {
-      "id": "ai-20260715-006",
-      "title": "How to Debug Coding Agents with LangSmith Traces",
-      "summary": "LangChain发文介绍如何用LangSmith统一追踪Claude Code、Cursor、Copilot等不同AI编程Agent的调用日志，帮助开发者定位模型调用、工具使用与子智能体环节中的错误根源，并将排查经验转化为可在团队内复用的规则。",
-      "publishedAt": "2026-07-14",
-      "source": "LangChain Blog",
-      "url": "https://www.langchain.com/blog/your-coding-agents-are-a-black-box-heres-how-to-crack-them-open",
-      "subCategory": "Agent"
-    },
-    {
-      "id": "ai-20260715-003",
-      "title": "Introducing Claude for Teachers",
-      "summary": "Anthropic推出面向美国K-12教师的免费版Claude for Teachers，提供教学技能库与对接各州课程标准的资源，集成ASSISTments、Brisk Teaching、Canva Education等九个教育平台，并与美国教师联合会及盖茨基金会合作，将在底特律公立学校试点评估。",
-      "publishedAt": "2026-07-14",
-      "source": "Anthropic",
-      "url": "https://www.anthropic.com/news/claude-for-teachers",
-      "subCategory": "AI应用"
-    },
-    {
-      "id": "ai-20260715-004",
-      "title": "Anthropic commits $10 million to Canadian AI research",
-      "summary": "Anthropic宣布向加拿大Mila、Vector Institute、Amii等多家机构提供合脈1000万加元的Claude研究经费，每家机构获得约100万加元额度，用于支持负责任AI研究，公司表示不会干预具体研究方向或结论。",
-      "publishedAt": "2026-07-14",
-      "source": "Anthropic",
-      "url": "https://www.anthropic.com/news/canadian-ai-research",
-      "subCategory": "大模型"
-    },
-    {
-      "id": "ai-20260714-007",
-      "title": "西湖大学联合阿里达摩院推出干细胞AI模型\"归元\"，实现重编程大规模模拟预测",
-      "summary": "西湖大学与阿里达摩院联合推出干细胞重编程AI模型\"归元\"，采用双模态编码策略模拟25种谱系调控因子近400万种组合对细胞命运的影响，团队据模型预测完成实验验证并获得高质量下胚层样干细胞。",
-      "publishedAt": "2026-07-14",
-      "source": "AIbase",
-      "url": "https://news.aibase.com/zh/news/29579",
-      "subCategory": "大模型"
-    },
-    {
-      "id": "ai-20260714-005",
-      "title": "爱诗科技完成29.8亿元C轮融资，阿里巴巴领投C+轮",
-      "summary": "AI视频生成公司爱诗科技宣布完成总额29.8亿元的C轮融资，其中C+轮由阿里巴巴领投，另有十余家国内外机构跟投。资金将用于视频生成基础模型、实时世界模型研发及全球化拓展，旗下产品PixVerse全球用户已衧1.5亿。",
-      "publishedAt": "2026-07-14T10:15:00+08:00",
-      "source": "新浪财经",
-      "url": "https://finance.sina.com.cn/tech/shenji/2026-07-14/doc-inihtrnn5386299.shtml",
-      "subCategory": "AI视频"
     }
   ]
 }
