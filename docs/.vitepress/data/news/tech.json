@@ -3,8 +3,71 @@
   "slug": "tech",
   "title": "科技新闻",
   "description": "前沿科技、互联网产品、芯片硬件、开源生态。",
-  "updatedAt": "2026-07-18T01:01:21+08:00",
+  "updatedAt": "2026-07-18T09:20:00+08:00",
   "items": [
+    {
+      "id": "tech-20260718-950",
+      "title": "两名黑客未满18岁就入侵伦敦交通局并窃取数百万人数据，被判五年半监禁",
+      "summary": "英国两名\"Scattered Spider\"团伙黑客欧文·弗劳尔斯与塔尔哈·朱巴伊尔因2024年8月入侵伦敦交通局系统被判五年半监禁，攻击致148个技术系统瘫痪、2.7万名员工被迫重置密码，估计造成损失约2900万英镑。",
+      "publishedAt": "2026-07-18T08:37:17+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/978/349.htm",
+      "subCategory": "安全漏洞"
+    },
+    {
+      "id": "tech-20260718-951",
+      "title": "超4500名员工联名致信谷歌皮查伊，要求AI浪潮中保障被裁员者权益",
+      "summary": "逾4500名谷歌员工联署请愿，要求首席执行官皮查伊在AI浪潮中加强对被裁员工的保障，包括公开遣散补偿政策、强制推行自愿离职选项及改革依赖硬性指标的绩效考核制度。",
+      "publishedAt": "2026-07-18T08:25:51+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/978/345.htm",
+      "subCategory": "互联网产品"
+    },
+    {
+      "id": "tech-20260718-952",
+      "title": "\"反AI\"情绪愈演愈烈，多家头部AI公司加强高管安保",
+      "summary": "反AI情绪从线上活动升级为现实世界的暴力威胁，OpenAI、Anthropic等公司高管安保投入显著增加，此前曾发生针对OpenAI首席执行官奥尔特曼住所的纵火未遂事件及Anthropic高管遭死亡威胁事件。",
+      "publishedAt": "2026-07-18T08:18:44+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/978/344.htm",
+      "subCategory": "互联网产品"
+    },
+    {
+      "id": "tech-20260718-953",
+      "title": "消息称苹果数字车钥匙即将支持长城坦克车型",
+      "summary": "据MacRumors报道，苹果钱包后台代码改动显示长城汽车坦克系列车型即将支持数字车钥匙功能，具体车型及上线时间尚未确定，目前该功能已支持宝马、奔驰、比亚迪、理想、蔚来等二十余个汽车品牌。",
+      "publishedAt": "2026-07-18T08:17:26+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/978/343.htm",
+      "subCategory": "智能汽车"
+    },
+    {
+      "id": "tech-20260718-954",
+      "title": "消息称三星MX部门2026Q2利润承压，正规划重组折叠手机产品线",
+      "summary": "据韩媒DealSite报道，三星电子MX部门因存储芯片涨价成本压力正规划重组折叠屏产品线，包括芯片供应多元化、停产Galaxy Z Flip系列并聚焦更宽的Z Fold8机型，该部门本季度业绩预测介于盈利1.9万亿韩元至亏损1.5万亿韩元之间。",
+      "publishedAt": "2026-07-18T08:12:39+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/978/342.htm",
+      "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260718-955",
+      "title": "国区个人11元/月→12元/月，苹果Apple Music订阅全球多地涨价",
+      "summary": "苹果上调Apple Music订阅价格，中国大陆个人版由11元/月涨至12元/月，家庭版由17元涨至20元，学生版由6元涨至7元；美国个人版由10.99美元涨至11.99美元，日本由1080日元涨至1180日元，苹果称主因版权费上涨。",
+      "publishedAt": "2026-07-18T07:59:27+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/978/341.htm",
+      "subCategory": "互联网产品"
+    },
+    {
+      "id": "tech-20260718-956",
+      "title": "就反垄断诉讼事宜，消息称苹果和美国司法部展开早期和解谈判",
+      "summary": "据路透社报道，苹果与美国司法部已就2024年提起的反垄断诉讼展开早期和解谈判，该诉讼由司法部联合15个州提起，指控苹果通过抬高价格、压制竞争对手在智能手机市场维持垄断地位，目前和解进展仍不确定。",
+      "publishedAt": "2026-07-18T07:58:38+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/978/340.htm",
+      "subCategory": "互联网产品"
+    },
     {
       "id": "tech-20260717-900",
       "title": "微软2026款Surface Laptop 8GB内存机型日常使用频繁卡顿",
@@ -22,15 +85,6 @@
       "source": "IT之家",
       "url": "https://www.ithome.com/0/978/318.htm",
       "subCategory": "消费电子"
-    },
-    {
-      "id": "tech-20260717-916",
-      "title": "安永披露支持工单系统遭入侵引发数据泄露",
-      "summary": "安永披露其IT部门使用的第三方支持工单系统遭入侵，攻击者在3月28日至4月12日期间访问并下载多份含税务相关个人与财务信息的文件，已为受影响客户提供24个月身份监测服务。",
-      "publishedAt": "2026-07-17T10:55:00-04:00",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/ernst-and-young-discloses-data-breach-after-support-system-hack/",
-      "subCategory": "安全漏洞"
     },
     {
       "id": "tech-20260717-902",
@@ -159,15 +213,6 @@
       "subCategory": "消费电子"
     },
     {
-      "id": "tech-20260717-915",
-      "title": "CISA要求联邦机构限期修复Fortinet FortiSandbox已遭利用漏洞",
-      "summary": "美国网络安全和基础设施安全局要求联邦机构于7月19日前修复Fortinet FortiSandbox平台两个已遭在野利用的漏洞CVE-2026-39808与CVE-2026-25089，此前已被勒索团伙盯上。",
-      "publishedAt": "2026-07-17T03:03:00-04:00",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-feds-to-patch-exploited-fortinet-fortisandbox-flaws-by-sunday/",
-      "subCategory": "安全漏洞"
-    },
-    {
       "id": "tech-20260717-151",
       "title": "NotebookLM 更名为 Gemini Notebook，谷歌加入云端代码执行能力",
       "summary": "谷歌将NotebookLM更名为Gemini Notebook并纳入统一AI品牌，新增云端计算能力，支持在笔记本内直接编写和运行代码，进行复杂数据分析而无需转移资料。",
@@ -195,31 +240,13 @@
       "subCategory": "智能汽车"
     },
     {
-      "id": "tech-20260717-903",
-      "title": "NVIDIA Vera Rubin平台面向智能体AI后训练优化算力成本",
-      "summary": "英伟达发文介绍Vera Rubin平台如何降低智能体AI持续强化学习式后训练的算力成本，称新平台可用约四分之一Blackwell世代GPU数量训练规模更大的模型。",
-      "publishedAt": "2026-07-17",
-      "source": "NVIDIA Blog",
-      "url": "https://blogs.nvidia.com/blog/nvidia-vera-rubin-post-training-intelligence-per-dollar/",
-      "subCategory": "芯片硬件"
-    },
-    {
-      "id": "tech-20260717-155",
-      "title": "月之暗面发布 Kimi K3，号称全球最大开源权重模型",
-      "summary": "月之暗面发布Kimi K3模型，参数规模达2.8万亿，宣称为全球最大开源权重模型，将于7月27日开放权重下载，在部分编程任务基准测试中超越OpenAI和Anthropic的产品。",
-      "publishedAt": "2026-07-16T19:43:00-04:00",
-      "source": "SiliconANGLE",
-      "url": "https://siliconangle.com/2026/07/16/chinas-moonshot-throws-gauntlet-kimi-k3-worlds-largest-open-weights-model/",
-      "subCategory": "开源生态"
-    },
-    {
-      "id": "tech-20260716-304",
-      "title": "SpaceX第二次Starship V3发射在点火后紧急中止",
-      "summary": "SpaceX于当地时间7月16日在得克萨斯基地尝试的Starship V3第二次发射，在助推器点火后被自动中止，马斯克称部分猛禽发动机未能正常点火，公司计划更换两台发动机后择期再次尝试，原任务计划部署第三代星链卫星。",
-      "publishedAt": "2026-07-16T16:01:00-07:00",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/16/spacex-suddenly-aborts-second-starship-v3-launch-after-ignition/",
-      "subCategory": "航空航天"
+      "id": "tech-20260717-916",
+      "title": "安永披露支持工单系统遭入侵引发数据泄露",
+      "summary": "安永披露其IT部门使用的第三方支持工单系统遭入侵，攻击者在3月28日至4月12日期间访问并下载多份含税务相关个人与财务信息的文件，已为受影响客户提供24个月身份监测服务。",
+      "publishedAt": "2026-07-17T10:55:00-04:00",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/ernst-and-young-discloses-data-breach-after-support-system-hack/",
+      "subCategory": "安全漏洞"
     },
     {
       "id": "tech-20260717-150",
@@ -231,15 +258,6 @@
       "subCategory": "芯片硬件"
     },
     {
-      "id": "tech-20260716-905",
-      "title": "SpaceX发射21颗通信卫星支持美国太空发展局星座建设",
-      "summary": "SpaceX从范登堡太空军基地发射猎鹰9号火箭，将21颗由York Space Systems制造的通信卫星送入轨道，用于美国太空发展局分层传输层星座建设，助推器完成第四次飞行并成功回收。",
-      "publishedAt": "2026-07-16T13:32:00-07:00",
-      "source": "Spaceflight Now",
-      "url": "https://spaceflightnow.com/2026/07/16/live-coverage-spacex-to-launch-21-communications-satellites-for-the-space-development-agency/",
-      "subCategory": "航空航天"
-    },
-    {
       "id": "tech-20260717-102",
       "title": "领克20官宣行业首创16合1后驱油冷碳化硅电驱系统",
       "summary": "领克汽车宣布旗下领克20将搭载由吉利星驱科技研发的16合1后驱油冷碳化硅电驱系统，电机功率245千瓦，综合效率超93%，并标配800V碳化硅高压平台，支持6C补能倍率，新车计划于今年三季度正式上市。",
@@ -249,21 +267,12 @@
       "subCategory": "智能汽车"
     },
     {
-      "id": "tech-20260716-902",
-      "title": "三星确认部分Galaxy S26 Ultra屏幕变红问题，将推软件修复",
-      "summary": "三星确认部分Galaxy S26 Ultra手机在强光下长时间最高亮度使用等特定条件时屏幕会出现偏红现象，称属软件色彩校准问题而非硬件损坏，后续将通过更新修复，无需更换面板。",
-      "publishedAt": "2026-07-16T14:07:00-04:00",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2216077/samsung-galaxy-s26-ultra-screens-turning-red-not-sure-why/",
-      "subCategory": "消费电子"
-    },
-    {
-      "id": "tech-20260716-303",
-      "title": "苹果被诉\"隐藏我的邮箱\"功能未能真正保护用户隐私",
-      "summary": "一项拟议集体诉讼指控苹果虚假宣传\"隐藏我的邮箱\"功能的隐私保护效果，称该功能存在可能暴露用户真实邮箱地址的缺陷。诉讼称相关问题已由安全研究人员于2025年6月披露给苹果，目前尚无已知被利用的实例。",
-      "publishedAt": "2026-07-16T10:11:00-07:00",
-      "source": "MacRumors",
-      "url": "https://www.macrumors.com/2026/07/16/apple-sued-over-reported-hide-my-email-flaw/",
+      "id": "tech-20260717-915",
+      "title": "CISA要求联邦机构限期修复Fortinet FortiSandbox已遭利用漏洞",
+      "summary": "美国网络安全和基础设施安全局要求联邦机构于7月19日前修复Fortinet FortiSandbox平台两个已遭在野利用的漏洞CVE-2026-39808与CVE-2026-25089，此前已被勒索团伙盯上。",
+      "publishedAt": "2026-07-17T03:03:00-04:00",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-feds-to-patch-exploited-fortinet-fortisandbox-flaws-by-sunday/",
       "subCategory": "安全漏洞"
     },
     {
@@ -411,21 +420,21 @@
       "subCategory": "互联网产品"
     },
     {
+      "id": "tech-20260717-155",
+      "title": "月之暗面发布 Kimi K3，号称全球最大开源权重模型",
+      "summary": "月之暗面发布Kimi K3模型，参数规模达2.8万亿，宣称为全球最大开源权重模型，将于7月27日开放权重下载，在部分编程任务基准测试中超越OpenAI和Anthropic的产品。",
+      "publishedAt": "2026-07-16T19:43:00-04:00",
+      "source": "SiliconANGLE",
+      "url": "https://siliconangle.com/2026/07/16/chinas-moonshot-throws-gauntlet-kimi-k3-worlds-largest-open-weights-model/",
+      "subCategory": "开源生态"
+    },
+    {
       "id": "tech-20260716-201",
       "title": "realme副总裁徐起：realme 将按下中国市场的暂停键，后续销售、售后质保由 OPPO 全面接手",
       "summary": "realme副总裁徐起表示，realme品牌将暂停中国市场新品投放，聚焦海外及性能游戏赛道；现有机型后续销售与售后质保由OPPO官方团队全面接手，用户可在下一代产品发布后升级至ColorOS系统。",
       "publishedAt": "2026-07-16T17:10:14+08:00",
       "source": "IT之家",
       "url": "https://www.ithome.com/0/977/595.htm",
-      "subCategory": "消费电子"
-    },
-    {
-      "id": "tech-20260716-302",
-      "title": "OnePlus宣布停止在美国与欧洲推出新机",
-      "summary": "手机厂商OnePlus宣布将不再在美国和欧洲市场推出新产品，作为母公司OPPO业务重组的一部分。公司称现有用户的售后支持与系统更新将持续保障，中国及印度市场运营不受影响，未来将转向以Realme品牌拓展部分海外区域。",
-      "publishedAt": "2026-07-16T02:00:00-07:00",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/16/phone-maker-oneplus-reportedly-plans-to-wind-down-us-and-europe-operations/",
       "subCategory": "消费电子"
     },
     {
@@ -483,49 +492,31 @@
       "id": "tech-20260716-020"
     },
     {
-      "id": "tech-20260716-305",
-      "title": "微软将经典聊天客户端Comic Chat开源",
-      "summary": "微软在GitHub上以MIT许可开源1995年推出的IRC聊天客户端Comic Chat，该软件曾将文字对话自动转换为漫画形式，并推广了Comic Sans字体。开源版本保留原始代码，并附带适配现代开发工具的改造版本。",
-      "publishedAt": "2026-07-16",
-      "source": "Microsoft Open Source Blog",
-      "url": "https://opensource.microsoft.com/blog/2026/07/16/microsoft-comic-chat-is-now-open-source/",
-      "subCategory": "开源生态"
+      "id": "tech-20260716-902",
+      "title": "三星确认部分Galaxy S26 Ultra屏幕变红问题，将推软件修复",
+      "summary": "三星确认部分Galaxy S26 Ultra手机在强光下长时间最高亮度使用等特定条件时屏幕会出现偏红现象，称属软件色彩校准问题而非硬件损坏，后续将通过更新修复，无需更换面板。",
+      "publishedAt": "2026-07-16T14:07:00-04:00",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2216077/samsung-galaxy-s26-ultra-screens-turning-red-not-sure-why/",
+      "subCategory": "消费电子"
     },
     {
-      "id": "tech-20260716-900",
-      "title": "日本政府与英伟达联合建设全球首个国家级物理AI基础设施",
-      "summary": "英伟达与Noetra公司合作，为日本建设面向物理AI的国家级算力设施，计划部署1.375万颗Vera CPU与2.75万颗Rubin GPU，提供140兆瓦数据中心容量，获日本经济产业省支持。",
-      "publishedAt": "2026-07-16",
-      "source": "NVIDIA Newsroom",
-      "url": "https://nvidianews.nvidia.com/news/japan-government-industrial-leaders-and-nvidia-launch-the-worlds-first-national-ai-infrastructure",
-      "subCategory": "云计算"
+      "id": "tech-20260716-905",
+      "title": "SpaceX发射21颗通信卫星支持美国太空发展局星座建设",
+      "summary": "SpaceX从范登堡太空军基地发射猎鹰9号火箭，将21颗由York Space Systems制造的通信卫星送入轨道，用于美国太空发展局分层传输层星座建设，助推器完成第四次飞行并成功回收。",
+      "publishedAt": "2026-07-16T13:32:00-07:00",
+      "source": "Spaceflight Now",
+      "url": "https://spaceflightnow.com/2026/07/16/live-coverage-spacex-to-launch-21-communications-satellites-for-the-space-development-agency/",
+      "subCategory": "航空航天"
     },
     {
-      "id": "tech-20260716-901",
-      "title": "GitHub Projects筛选栏高级搜索功能正式可用",
-      "summary": "GitHub为Projects筛选栏新增高级搜索能力，支持逻辑AND与OR组合查询以替代多视图维护方式，同时为拉取请求新增reviews筛选条件，部署状态数据保留期调整为90天。",
-      "publishedAt": "2026-07-16",
-      "source": "GitHub Changelog",
-      "url": "https://github.blog/changelog/2026-07-16-advanced-search-for-projects-is-generally-available/",
-      "subCategory": "开发者工具"
-    },
-    {
-      "id": "tech-20260716-903",
-      "title": "GitHub发布Xcode 27托管运行器镜像公开预览版",
-      "summary": "GitHub面向macOS托管运行器发布Xcode 27公开预览镜像，供开发者在CI流水线中验证苹果应用，镜像按Xcode大版本而非系统版本组织，目前仅支持arm64架构，暂不覆盖Intel机型。",
-      "publishedAt": "2026-07-16",
-      "source": "GitHub Changelog",
-      "url": "https://github.blog/changelog/2026-07-16-xcode-27-runner-image-now-in-public-preview",
-      "subCategory": "开发者工具"
-    },
-    {
-      "id": "tech-20260716-904",
-      "title": "依视路陆逊梯卡收购法国XR创业公司Lynx",
-      "summary": "眼镜巨头依视路陆逊梯卡收购法国XR创业公司Lynx的全部知识产权与团队，此前Lynx已进入司法清算程序，其尚未发布的R2混合现实头显未来能否推出存疑。",
-      "publishedAt": "2026-07-16",
-      "source": "Road to VR",
-      "url": "https://roadtovr.com/essilorluxottica-acquires-lynx-r2-headset-release/",
-      "subCategory": "XR-AR-VR"
+      "id": "tech-20260716-303",
+      "title": "苹果被诉\"隐藏我的邮箱\"功能未能真正保护用户隐私",
+      "summary": "一项拟议集体诉讼指控苹果虚假宣传\"隐藏我的邮箱\"功能的隐私保护效果，称该功能存在可能暴露用户真实邮箱地址的缺陷。诉讼称相关问题已由安全研究人员于2025年6月披露给苹果，目前尚无已知被利用的实例。",
+      "publishedAt": "2026-07-16T10:11:00-07:00",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/07/16/apple-sued-over-reported-hide-my-email-flaw/",
+      "subCategory": "安全漏洞"
     },
     {
       "id": "tech-20260716-007",
@@ -553,6 +544,60 @@
       "source": "IT之家",
       "url": "https://www.ithome.com/0/977/272.htm",
       "subCategory": "智能汽车"
+    },
+    {
+      "id": "tech-20260716-302",
+      "title": "OnePlus宣布停止在美国与欧洲推出新机",
+      "summary": "手机厂商OnePlus宣布将不再在美国和欧洲市场推出新产品，作为母公司OPPO业务重组的一部分。公司称现有用户的售后支持与系统更新将持续保障，中国及印度市场运营不受影响，未来将转向以Realme品牌拓展部分海外区域。",
+      "publishedAt": "2026-07-16T02:00:00-07:00",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/16/phone-maker-oneplus-reportedly-plans-to-wind-down-us-and-europe-operations/",
+      "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260716-904",
+      "title": "依视路陆逊梯卡收购法国XR创业公司Lynx",
+      "summary": "眼镜巨头依视路陆逊梯卡收购法国XR创业公司Lynx的全部知识产权与团队，此前Lynx已进入司法清算程序，其尚未发布的R2混合现实头显未来能否推出存疑。",
+      "publishedAt": "2026-07-16",
+      "source": "Road to VR",
+      "url": "https://roadtovr.com/essilorluxottica-acquires-lynx-r2-headset-release/",
+      "subCategory": "XR-AR-VR"
+    },
+    {
+      "id": "tech-20260716-305",
+      "title": "微软将经典聊天客户端Comic Chat开源",
+      "summary": "微软在GitHub上以MIT许可开源1995年推出的IRC聊天客户端Comic Chat，该软件曾将文字对话自动转换为漫画形式，并推广了Comic Sans字体。开源版本保留原始代码，并附带适配现代开发工具的改造版本。",
+      "publishedAt": "2026-07-16",
+      "source": "Microsoft Open Source Blog",
+      "url": "https://opensource.microsoft.com/blog/2026/07/16/microsoft-comic-chat-is-now-open-source/",
+      "subCategory": "开源生态"
+    },
+    {
+      "id": "tech-20260716-900",
+      "title": "日本政府与英伟达联合建设全球首个国家级物理AI基础设施",
+      "summary": "英伟达与Noetra公司合作，为日本建设面向物理AI的国家级算力设施，计划部署1.375万颗Vera CPU与2.75万颗Rubin GPU，提供140兆瓦数据中心容量，获日本经济产业省支持。",
+      "publishedAt": "2026-07-16",
+      "source": "NVIDIA Newsroom",
+      "url": "https://nvidianews.nvidia.com/news/japan-government-industrial-leaders-and-nvidia-launch-the-worlds-first-national-ai-infrastructure",
+      "subCategory": "云计算"
+    },
+    {
+      "id": "tech-20260716-903",
+      "title": "GitHub发布Xcode 27托管运行器镜像公开预览版",
+      "summary": "GitHub面向macOS托管运行器发布Xcode 27公开预览镜像，供开发者在CI流水线中验证苹果应用，镜像按Xcode大版本而非系统版本组织，目前仅支持arm64架构，暂不覆盖Intel机型。",
+      "publishedAt": "2026-07-16",
+      "source": "GitHub Changelog",
+      "url": "https://github.blog/changelog/2026-07-16-xcode-27-runner-image-now-in-public-preview",
+      "subCategory": "开发者工具"
+    },
+    {
+      "id": "tech-20260716-901",
+      "title": "GitHub Projects筛选栏高级搜索功能正式可用",
+      "summary": "GitHub为Projects筛选栏新增高级搜索能力，支持逻辑AND与OR组合查询以替代多视图维护方式，同时为拉取请求新增reviews筛选条件，部署状态数据保留期调整为90天。",
+      "publishedAt": "2026-07-16",
+      "source": "GitHub Changelog",
+      "url": "https://github.blog/changelog/2026-07-16-advanced-search-for-projects-is-generally-available/",
+      "subCategory": "开发者工具"
     },
     {
       "id": "tech-20260716-001",
@@ -661,69 +706,6 @@
       "source": "IT之家",
       "url": "https://www.ithome.com/0/977/224.htm",
       "subCategory": "芯片硬件"
-    },
-    {
-      "id": "tech-20260716-009",
-      "title": "长鑫科技：第五代工艺技术平台处于研发阶段，采用进一步优化的多重曝光技术",
-      "summary": "长鑫科技表示其第五代存储工艺技术平台正处于研发阶段，将采用进一步优化的多重曝光技术提升存储密度与阵列性能，此前一至四代工艺平台均已实现量产。",
-      "publishedAt": "2026-07-15T20:43:33+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/977/223.htm",
-      "subCategory": "芯片硬件"
-    },
-    {
-      "id": "tech-20260716-012",
-      "title": "东风汽车：行业首发 2400MPa 超高强钢结构件，相关技术已在奕境汽车上搭载应用",
-      "summary": "东风汽车研究院宣布行业首发2400MPa超高强钢结构件，推出锌基镀层超高强激光焊接门环，强度较上一代提升16.2%，相关技术已应用于奕境汽车车型。",
-      "publishedAt": "2026-07-15T20:31:57+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/977/222.htm",
-      "subCategory": "智能汽车"
-    },
-    {
-      "title": "三星990固态硬盘上市：QLC + DRAM-less方案，2TB售2399元",
-      "summary": "三星990系列固态硬盘正式上市，采用QLC闪存与DRAM-less方案，支持HMB主机内存缓冲，1TB售1499元、2TB售2399元，最高顺序读取7250MB/s、写入6450MB/s，官方称能效较990 PRO提升38%。",
-      "publishedAt": "2026-07-15T16:43:25+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/977/110.htm",
-      "subCategory": "芯片硬件",
-      "id": "tech-20260715-017"
-    },
-    {
-      "title": "七工匠LITE系列AF 25/35/50mm F1.8富士X卡口银色版镜头开售，首发599元",
-      "summary": "七工匠推出LITE系列AF 25mm、35mm、50mm F1.8富士X卡口银色版镜头，均为金属镜身，配备STM步进马达并支持眼部对焦，重量约180克，三款镜头首发价均为599元。",
-      "publishedAt": "2026-07-15T16:40:33+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/977/107.htm",
-      "subCategory": "消费电子",
-      "id": "tech-20260715-015"
-    },
-    {
-      "title": "宝马高管称电动车千匹马力是营销噱头，纯电M3名字就叫M3",
-      "summary": "宝马M部门CEO范梅尔在古德伍德速度节表示，电动车市场夸大的千匹马力数据没有意义，即将推出的纯电M3不会采用特殊命名而是直接称为M3，宝马还将推出搭载直列六缸发动机的混动版M3。",
-      "publishedAt": "2026-07-15T16:39:22+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/977/104.htm",
-      "subCategory": "智能汽车",
-      "id": "tech-20260715-016"
-    },
-    {
-      "title": "荣耀Robot Phone通过3C认证，由自有工厂生产",
-      "summary": "荣耀今年3月发布的Robot Phone机型（型号APH-AN00）通过3C认证，标配120W快充，将由荣耀自有工厂深圳荣耀智能机器有限公司生产，该机型配备可翻转的2亿像素云台主摄，预计8月正式发布。",
-      "publishedAt": "2026-07-15T16:19:35+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/977/092.htm",
-      "subCategory": "消费电子",
-      "id": "tech-20260715-024"
-    },
-    {
-      "title": "诺基亚与英伟达推出业界首个商用AI-RAN平台，提升频谱利用效率",
-      "summary": "诺基亚与英伟达联合推出AI驱动的无线接入网AI-RAN平台，无需额外频谱资源即可提升现网数据传输容量，目标2028年将频谱利用效率从约20%提升至50%，平台含三款新硬件与一款软件，符合Open RAN标准。",
-      "publishedAt": "2026-07-15T16:18:23+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/977/090.htm",
-      "subCategory": "网络基础设施",
-      "id": "tech-20260715-021"
     }
   ]
 }
