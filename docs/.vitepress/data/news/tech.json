@@ -294,6 +294,15 @@
       "subCategory": "智能汽车"
     },
     {
+      "id": "tech-20260717-903",
+      "title": "NVIDIA Vera Rubin平台面向智能体AI后训练优化算力成本",
+      "summary": "英伟达发文介绍Vera Rubin平台如何降低智能体AI持续强化学习式后训练的算力成本，称新平台可用约四分之一Blackwell世代GPU数量训练规模更大的模型。",
+      "publishedAt": "2026-07-17",
+      "source": "NVIDIA Blog",
+      "url": "https://blogs.nvidia.com/blog/nvidia-vera-rubin-post-training-intelligence-per-dollar/",
+      "subCategory": "芯片硬件"
+    },
+    {
       "id": "tech-20260716-212",
       "title": "华为靳玉志：预计今年年底，乾崑智驾 ADS 累计辅助驾驶里程将破 200 亿公里",
       "summary": "华为终端BG智能驾驶产品线负责人靳玉志表示，乾崑智驾ADS累计辅助驾驶里程已超128亿公里，预计年底将突破200亿公里；目前该系统已与25个以上汽车品牌、50余款车型合作，装机总量超190万辆。",
@@ -472,6 +481,15 @@
       "url": "https://www.ithome.com/0/977/558.htm",
       "subCategory": "消费电子",
       "id": "tech-20260716-018"
+    },
+    {
+      "id": "tech-20260716-304",
+      "title": "SpaceX第二次Starship V3发射在点火后紧急中止",
+      "summary": "SpaceX于当地时间7月16日在得克萨斯基地尝试的Starship V3第二次发射，在助推器点火后被自动中止，马斯克称部分猛禽发动机未能正常点火，公司计划更换两台发动机后择期再次尝试，原任务计划部署第三代星链卫星。",
+      "publishedAt": "2026-07-16T16:01:00-07:00",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/16/spacex-suddenly-aborts-second-starship-v3-launch-after-ignition/",
+      "subCategory": "航空航天"
     },
     {
       "title": "台积电上调销售和支出展望，再添AI需求持续迹象",
