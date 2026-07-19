@@ -3,7 +3,7 @@
   "slug": "ai",
   "title": "AI 与大模型",
   "description": "大模型、Agent、AI 编程、推理框架、开源模型的发布与落地。",
-  "updatedAt": "2026-07-19T16:55:00+08:00",
+  "updatedAt": "2026-07-19T23:10:00+08:00",
   "items": [
     {
       "id": "ai-20260719-102",
@@ -40,6 +40,15 @@
       "source": "量子位",
       "url": "https://www.qbitai.com/2026/07/454426.html",
       "subCategory": "大模型"
+    },
+    {
+      "title": "上海科学智能研究院开源科学多模态基础模型神珍",
+      "summary": "上海科学智能研究院发布科学多模态基础模型神珍，以Qwen3-VL-8B为共享主干，参数约110亿，覆盖DNA、RNA、蛋白质、小分子、地球系统和医学影像六类科学数据，已在Hugging Face开源。",
+      "publishedAt": "2026-07-19T14:45:48+08:00",
+      "source": "中国新闻网",
+      "url": "https://www.chinanews.com.cn/cj/2026/07-19/10662409.shtml",
+      "subCategory": "开源模型",
+      "id": "ai-20260719-950"
     },
     {
       "id": "ai-20260719-105",
@@ -159,24 +168,6 @@
       "subCategory": "Agent"
     },
     {
-      "id": "ai-20260718-009",
-      "title": "十年服务世界，正在成为普渡迈向具身智能的底牌",
-      "summary": "普渡机器人在WAIC 2026推出全向移动底盘柔性双臂人形机器人PUDU D7，并发布具身智能基座模型PuduFM与任务规划平台PuduAgent，支持“一脑多形”跨机器人形态部署。",
-      "publishedAt": "2026-07-18T11:49:00+08:00",
-      "source": "36氪",
-      "url": "https://www.36kr.com/p/3900610713175938",
-      "subCategory": "具身智能"
-    },
-    {
-      "id": "ai-20260718-008",
-      "title": "全球首款720°连续后空翻机器狗来了！优必选灵猫亮相WAIC",
-      "summary": "优必选在WAIC 2026发布四足机器人Cyberling灵猫，实现全球首个720度连续后空翻，搭载自研“览众”机器人大脑及大小脑异构架构，采用AI关节控制技术实现自主调参。",
-      "publishedAt": "2026-07-18T09:17:23+08:00",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/07/453506.html",
-      "subCategory": "具身智能"
-    },
-    {
       "id": "ai-20260718-010",
       "title": "商汤WAIC展台首日人气爆棚，硬核AI直接搬进现实",
       "summary": "商汤科技在WAIC 2026展示搭载Kairos开悟世界模型的具身机器人，可自主理解多模态自然语言指令，在家庭场景完成早餐制作家务整理等长程任务，并在消费级终端实现准实时推理。",
@@ -193,6 +184,42 @@
       "source": "量子位",
       "url": "https://www.qbitai.com/2026/07/454003.html",
       "subCategory": "AI应用"
+    },
+    {
+      "title": "Anthropic撤回下线计划，Claude Fable 5长期保留至Max/Team Premium订阅",
+      "summary": "Anthropic于7月18日撤回此前将Fable 5移出订阅计划的方案，7月20日起该模型以50%额度永久保留在Max和Team Premium套餐中，Pro与Team Standard用户改为按量计费访问，获一次性100美元额度。",
+      "publishedAt": "2026-07-18",
+      "source": "Simon Willison's Blog",
+      "url": "https://simonwillison.net/2026/Jul/18/claude-make-fable-5-permanent/",
+      "subCategory": "大模型",
+      "id": "ai-20260718-950"
+    },
+    {
+      "title": "谷歌云开源常驻记忆智能体，用SQLite替代RAG与向量检索",
+      "summary": "谷歌云基于Agent Development Kit与Gemini 3.1 Flash-Lite发布参考实现Always-On Memory Agent，由摄取、整合、查询三个子智能体组成，每30分钟自动整理记忆，不依赖向量数据库或嵌入。",
+      "publishedAt": "2026-07-18",
+      "source": "MarkTechPost",
+      "url": "https://www.marktechpost.com/2026/07/18/google-clouds-always-on-memory-agent-replaces-rag-and-embeddings-with-continuous-llm-consolidation-on-gemini-3-1-flash-lite/",
+      "subCategory": "Agent",
+      "id": "ai-20260718-951"
+    },
+    {
+      "id": "ai-20260718-009",
+      "title": "十年服务世界，正在成为普渡迈向具身智能的底牌",
+      "summary": "普渡机器人在WAIC 2026推出全向移动底盘柔性双臂人形机器人PUDU D7，并发布具身智能基座模型PuduFM与任务规划平台PuduAgent，支持“一脑多形”跨机器人形态部署。",
+      "publishedAt": "2026-07-18T11:49:00+08:00",
+      "source": "36氪",
+      "url": "https://www.36kr.com/p/3900610713175938",
+      "subCategory": "具身智能"
+    },
+    {
+      "id": "ai-20260718-008",
+      "title": "全球首款720°连续后空翻机器狗来了！优必选灵猫亮相WAIC",
+      "summary": "优必选在WAIC 2026发布四足机器人Cyberling灵猫，实现全球首个720度连续后空翻，搭载自研“览众”机器人大脑及大小脑异构架构，采用AI关节控制技术实现自主调参。",
+      "publishedAt": "2026-07-18T09:17:23+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/07/453506.html",
+      "subCategory": "具身智能"
     },
     {
       "id": "ai-20260718-007",
@@ -318,6 +345,33 @@
       "publishedAt": "2026-07-17T12:52:00+08:00",
       "source": "搜狐/MiniMax",
       "url": "https://m.sohu.com/a/1051441155_120988576",
+      "subCategory": "多模态"
+    },
+    {
+      "id": "ai-20260717-901",
+      "title": "NVIDIA Releases Nemotron 3 Embed Series 8B Version, Tops RTEB Retrieval Benchmark",
+      "summary": "英伟达发布Nemotron3Embed系列嵌入模型，面向RAG与智能体检索场景，8B版本在RTEB检索基准上取得榜首成绩，另提供1B及4bit量化版本，支持三万余token长度与多语言处理。",
+      "publishedAt": "2026-07-17",
+      "source": "AIbase",
+      "url": "https://news.aibase.com/news/29695",
+      "subCategory": "开源模型"
+    },
+    {
+      "id": "ai-20260717-903",
+      "title": "Chongqing Launches 'Yu Xiaojian' AI Medical Assistant, Covering 233 Public Hospitals",
+      "summary": "重庆市卫健委联合大数据局与蚂蚁集团上线AI医疗助手「渝小健」，可通过支付宝等渠道使用智能导诊、报告查询与AI解读等功能，已接入全市233家二级以上公立医院。",
+      "publishedAt": "2026-07-17",
+      "source": "AIbase",
+      "url": "https://news.aibase.com/news/29693",
+      "subCategory": "AI应用"
+    },
+    {
+      "id": "ai-20260717-902",
+      "title": "Ultra-Low Latency AI Chat Assistant! Wan-Streamer v0.2 Brings You Closer to AI",
+      "summary": "通义实验室发布多模态模型Wan-Streamer v0.2，将听、看、说、演能力整合进单一架构，端到端响应延迟降至550毫秒，视频分辨率提升至640×368并支持全身数字人形象。",
+      "publishedAt": "2026-07-17",
+      "source": "AIbase",
+      "url": "https://news.aibase.com/news/29691",
       "subCategory": "多模态"
     },
     {
@@ -447,33 +501,6 @@
       "subCategory": "开源模型"
     },
     {
-      "id": "ai-20260717-901",
-      "title": "NVIDIA Releases Nemotron 3 Embed Series 8B Version, Tops RTEB Retrieval Benchmark",
-      "summary": "英伟达发布Nemotron3Embed系列嵌入模型，面向RAG与智能体检索场景，8B版本在RTEB检索基准上取得榜首成绩，另提供1B及4bit量化版本，支持三万余token长度与多语言处理。",
-      "publishedAt": "2026-07-17",
-      "source": "AIbase",
-      "url": "https://news.aibase.com/news/29695",
-      "subCategory": "开源模型"
-    },
-    {
-      "id": "ai-20260717-903",
-      "title": "Chongqing Launches 'Yu Xiaojian' AI Medical Assistant, Covering 233 Public Hospitals",
-      "summary": "重庆市卫健委联合大数据局与蚂蚁集团上线AI医疗助手「渝小健」，可通过支付宝等渠道使用智能导诊、报告查询与AI解读等功能，已接入全市233家二级以上公立医院。",
-      "publishedAt": "2026-07-17",
-      "source": "AIbase",
-      "url": "https://news.aibase.com/news/29693",
-      "subCategory": "AI应用"
-    },
-    {
-      "id": "ai-20260717-902",
-      "title": "Ultra-Low Latency AI Chat Assistant! Wan-Streamer v0.2 Brings You Closer to AI",
-      "summary": "通义实验室发布多模态模型Wan-Streamer v0.2，将听、看、说、演能力整合进单一架构，端到端响应延迟降至550毫秒，视频分辨率提升至640×368并支持全身数字人形象。",
-      "publishedAt": "2026-07-17",
-      "source": "AIbase",
-      "url": "https://news.aibase.com/news/29691",
-      "subCategory": "多模态"
-    },
-    {
       "id": "ai-20260716-207",
       "title": "匿名模型Kivine外网刷屏，开发者们都在猜：这是Kimi-K3？",
       "summary": "匿名模型Kivine现身Arena评测平台，多重迹象指向月之暗面新模型Kimi K3，据称参数规模达2-3万亿、支持百万token上下文，编程测试成绩超越Claude Opus 4.8，但专家提醒不宜直接对标顶尖旗舰模型。",
@@ -582,33 +609,6 @@
       "id": "ai-20260716-005"
     },
     {
-      "title": "全球首款AI智能体手机！努比亚NaviX Ultra正式亮相：搭载豆包手机助手",
-      "summary": "努比亚发布号称全球首款AI智能体手机NaviX Ultra，搭载豆包手机助手，围绕听得懂、能干活、记得住、够安全打造能力，可调用手机应用完成任务，并获WAIC 2026 SAIL奖项。",
-      "publishedAt": "2026-07-16T11:14:31+08:00",
-      "source": "快科技",
-      "url": "https://news.mydrivers.com/1/1136/1136782.htm",
-      "subCategory": "Agent",
-      "id": "ai-20260716-006"
-    },
-    {
-      "id": "ai-20260716-301",
-      "title": "原力灵机发布世界模型DW0.5，用于VLA训练",
-      "summary": "原力灵机推出世界模型DW0.5，作为VLA后训练环境预测未来视频状态并生成成功与失败轨迹，可将真机数据需求降低60%、训练成本降低40%，部分任务成功率显著提升。",
-      "publishedAt": "2026-07-16T10:30:46+08:00",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/07/450896.html",
-      "subCategory": "具身智能"
-    },
-    {
-      "id": "ai-20260716-001",
-      "title": "Claude Code v2.1.211 发布，新增 --forward-subagent-text 参数与多项安全修复",
-      "summary": "Anthropic发布Claude Code v2.1.211，新增--forward-subagent-text参数、修复权限预览界面中双向控制字符与零宽字符的安全隐患，并修复自动模式与MCP重连等多个问题。",
-      "publishedAt": "2026-07-15T23:02:00Z",
-      "source": "GitHub Claude Code Changelog",
-      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.211",
-      "subCategory": "AI编程"
-    },
-    {
       "id": "ai-20260716-905",
       "title": "OpenWiki 0.2 brings OKF to codebase documentation",
       "summary": "LangChain团队发布开源文档工具OpenWiki 0.2，引入OKF知识格式规范，为wiki文件增加结构化元数据，并新增index与logs约定，便于智能体以标签和分类方式检索文档。",
@@ -690,6 +690,33 @@
       "subCategory": "Agent"
     },
     {
+      "title": "全球首款AI智能体手机！努比亚NaviX Ultra正式亮相：搭载豆包手机助手",
+      "summary": "努比亚发布号称全球首款AI智能体手机NaviX Ultra，搭载豆包手机助手，围绕听得懂、能干活、记得住、够安全打造能力，可调用手机应用完成任务，并获WAIC 2026 SAIL奖项。",
+      "publishedAt": "2026-07-16T11:14:31+08:00",
+      "source": "快科技",
+      "url": "https://news.mydrivers.com/1/1136/1136782.htm",
+      "subCategory": "Agent",
+      "id": "ai-20260716-006"
+    },
+    {
+      "id": "ai-20260716-301",
+      "title": "原力灵机发布世界模型DW0.5，用于VLA训练",
+      "summary": "原力灵机推出世界模型DW0.5，作为VLA后训练环境预测未来视频状态并生成成功与失败轨迹，可将真机数据需求降低60%、训练成本降低40%，部分任务成功率显著提升。",
+      "publishedAt": "2026-07-16T10:30:46+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/07/450896.html",
+      "subCategory": "具身智能"
+    },
+    {
+      "id": "ai-20260716-001",
+      "title": "Claude Code v2.1.211 发布，新增 --forward-subagent-text 参数与多项安全修复",
+      "summary": "Anthropic发布Claude Code v2.1.211，新增--forward-subagent-text参数、修复权限预览界面中双向控制字符与零宽字符的安全隐患，并修复自动模式与MCP重连等多个问题。",
+      "publishedAt": "2026-07-15T23:02:00Z",
+      "source": "GitHub Claude Code Changelog",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.211",
+      "subCategory": "AI编程"
+    },
+    {
       "id": "ai-20260715-020",
       "title": "超 300 款 AI 产品将在 2026 世界 AI 大会首发",
       "summary": "2026世界人工智能大会将于7月17日至20日在上海举行，本届大会升级为\"三地四馆\"办展模式，吸引1100余家企业参展，300余款全球首发AI产品将集中亮相，上海世博展览馆已进入最后布展调试阶段。",
@@ -697,33 +724,6 @@
       "source": "IT之家",
       "url": "https://www.ithome.com/0/977/232.htm",
       "subCategory": "AI应用"
-    },
-    {
-      "id": "ai-20260715-021",
-      "title": "面壁智能端侧大模型将搭载三星手机上市",
-      "summary": "端侧大模型公司面壁智能宣布与三星手机达成合作，其自主研发的MiniCPM系列端侧模型将搭载于三星手机上市，覆盖数款旗舰机型。",
-      "publishedAt": "2026-07-15T19:50:00+08:00",
-      "source": "36氪",
-      "url": "https://36kr.com/newsflashes/3896839832143750",
-      "subCategory": "大模型"
-    },
-    {
-      "id": "ai-20260715-022",
-      "title": "阿里千问将作为AI能力集成至苹果智能",
-      "summary": "国家网信办公布七款移动端生成式人工智能服务备案信息，苹果技术研发（上海）有限公司\"苹果智能\"大模型于7月8日完成备案。阿里巴巴宣布通义千问将作为集成AI能力接入苹果智能，为中国用户在iOS、iPadOS、macOS及visionOS上提供文本与图像理解、内容生成等功能。",
-      "publishedAt": "2026-07-15T16:44:00+08:00",
-      "source": "36氪",
-      "url": "https://36kr.com/newsflashes/3896657327769473",
-      "subCategory": "大模型"
-    },
-    {
-      "title": "出版商与作家集体起诉谷歌盗用版权内容训练Gemini，内部文件曾预警千亿罚款风险",
-      "summary": "包括阿歇特出版集团、圣智集团在内的出版商及作家联合起诉谷歌，指控其未经授权使用Google Books等版权作品训练Gemini并删改版权信息，谷歌内部文件曾预警潜在数百亿至数千亿美元罚款。",
-      "publishedAt": "2026-07-15T16:22:00+08:00",
-      "source": "AIbase",
-      "url": "https://news.aibase.com/zh/news/29620",
-      "subCategory": "大模型",
-      "id": "ai-20260715-018"
     }
   ]
 }
