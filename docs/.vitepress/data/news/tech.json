@@ -3,8 +3,134 @@
   "slug": "tech",
   "title": "科技新闻",
   "description": "前沿科技、互联网产品、芯片硬件、开源生态。",
-  "updatedAt": "2026-07-19T23:10:00+08:00",
+  "updatedAt": "2026-07-20T09:30:00+08:00",
   "items": [
+    {
+      "title": "三星显示全面供应 VESA DisplayHDR True Black 1400 笔电 OLED 面板",
+      "summary": "三星显示宣布量产符合最新VESA DisplayHDR True Black 1400标准的笔记本OLED面板，峰值亮度达1600尼特，黑位低至0.0005尼特。联想YOGA Pro 16 Aura 2026为首款认证机型，华硕、戴尔、微星等品牌预计下半年跟进推出相关产品。",
+      "publishedAt": "2026-07-20T08:36:13+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/978/830.htm",
+      "subCategory": "芯片硬件",
+      "id": "tech-20260720-001"
+    },
+    {
+      "title": "消息称苹果砍掉 Mac Pro 前，曾秘密开发全新英特尔机型、M2 Extreme/M3 Extreme 芯片",
+      "summary": "据彭博社记者马克·古尔曼报道，苹果在2026年3月放弃Mac Pro产品线前，曾秘密研发代号J170的英特尔芯片新机型及搭载M3 Ultra芯片的J190机型，但因成本与市场需求有限最终放弃两套方案，产品线暂无复活计划。",
+      "publishedAt": "2026-07-20T08:34:38+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/978/829.htm",
+      "subCategory": "消费电子",
+      "id": "tech-20260720-002"
+    },
+    {
+      "title": "消息称鸿蒙智行问界 M8 改款车型将启小订，升级内容非常多",
+      "summary": "工信部申报信息显示，鸿蒙智行问界M8改款车型将推出插混磷酸铁锂、插混三元锂及纯电三个版本，车身尺寸与轴距保持不变，提供五座和六座布局，最高时速200公里，即将启动小订。",
+      "publishedAt": "2026-07-20T08:18:46+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/978/826.htm",
+      "subCategory": "智能汽车",
+      "id": "tech-20260720-003"
+    },
+    {
+      "title": "\"换标\"雪佛兰：消息称五菱缤果纯电汽车将登陆北美市场",
+      "summary": "消息称通用汽车计划通过与上汽合资获得五菱缤果纯电动车授权，换标雪佛兰后投放巴西、墨西哥等拉美及非洲新兴市场，此前通用已将宝骏悦也PLUS、五菱星光S分别改造为雪佛兰Spark EUV和Captiva EV在海外销售。",
+      "publishedAt": "2026-07-20T08:13:50+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/978/825.htm",
+      "subCategory": "智能汽车",
+      "id": "tech-20260720-004"
+    },
+    {
+      "title": "鸿海首度夺下SpaceX AI服务器代工订单",
+      "summary": "据报道，鸿海精密首度取得为SpaceX代工制造AI服务器的订单，双方规划后续在太空AI数据中心领域展开进一步合作，此举被视为鸿海拓展航天算力硬件业务的新进展。",
+      "publishedAt": "2026-07-20T08:09:00+08:00",
+      "source": "36氪",
+      "url": "https://36kr.com/newsflashes/3903228591392643",
+      "subCategory": "芯片硬件",
+      "id": "tech-20260720-010"
+    },
+    {
+      "title": "索尼 SIE 前总裁肖恩·莱登担心 PS6 游戏机真卖 1000 美元，市场普及恐受阻",
+      "summary": "索尼互动娱乐前总裁肖恩·莱登公开担忧，若PS6定价高达1000美元将阻碍主机普及，现有PS5用户难以负担升级成本，零售渠道也将面临挑战，光线追踪与120帧等提升能否说服消费者买单仍存疑问。",
+      "publishedAt": "2026-07-20T07:54:49+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/978/824.htm",
+      "subCategory": "消费电子",
+      "id": "tech-20260720-005"
+    },
+    {
+      "title": "华为靳玉志再谈\"L3 无法跳过\"，称法律法规完善及用户适应都需要一个过程",
+      "summary": "华为常务董事靳玉志再次强调L3级自动驾驶阶段无法跳过，称L2到L3意味着责任由驾驶员转向车企，需要法律法规完善和用户适应过程，华为目标为面向消费者的L4级自动驾驶，已实现无人代客泊车等领先功能。",
+      "publishedAt": "2026-07-20T07:35:28+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/978/822.htm",
+      "subCategory": "智能汽车",
+      "id": "tech-20260720-006"
+    },
+    {
+      "title": "消息称苹果天才吧测试\"Live Notes\"系统，可记录直营店员工与顾客之间的对话",
+      "summary": "消息称苹果正在部分直营店天才吧测试名为Live Notes的AI系统，可自动转录并总结员工与顾客的对话内容，旨在减少员工记录工作，苹果表示系统不会保留录音文件，且该功能对门店为可选项。",
+      "publishedAt": "2026-07-20T07:19:07+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/978/820.htm",
+      "subCategory": "消费电子",
+      "id": "tech-20260720-007"
+    },
+    {
+      "title": "奕境 X9 首台量产车官宣今天下线，标配华为乾崑智驾 ADS 5 + 鸿蒙座舱 HarmonySpace 6",
+      "summary": "奕境汽车宣布首台量产版X9正式下线，标配华为乾崑智驾ADS 5与鸿蒙座舱HarmonySpace 6，车身尺寸5301×2015×1820毫米，轴距3120毫米，搭载896线双光激光雷达，预计三季度上市。",
+      "publishedAt": "2026-07-20T07:11:18+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/978/819.htm",
+      "subCategory": "智能汽车",
+      "id": "tech-20260720-008"
+    },
+    {
+      "title": "SpaceX\"星舰\"第 13 次试飞推迟至 7 月 23 日",
+      "summary": "SpaceX宣布\"星舰\"第13次试飞将推迟至7月23日进行，此前7月17日的试飞因点火阶段多台发动机未能正常启动而中止，事故一度导致SpaceX估值蒸发约1000亿美元。",
+      "publishedAt": "2026-07-20T06:58:36+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/978/818.htm",
+      "subCategory": "航空航天",
+      "id": "tech-20260720-009"
+    },
+    {
+      "title": "Netflix paid $587M for Ben Affleck's AI filmmaking startup",
+      "summary": "监管文件显示，Netflix以5.87亿美元现金收购由本·阿弗莱克联合创立的AI电影制作初创公司InterPositive，其AI工具可辅助后期制作解决漏拍镜头与灯光校正等问题，Netflix今年已有约300部内容使用生成式AI。",
+      "publishedAt": "2026-07-20T05:45:00+08:00",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/19/netflix-paid-587m-for-ben-afflecks-ai-filmmaking-startup/",
+      "subCategory": "互联网产品",
+      "id": "tech-20260720-011"
+    },
+    {
+      "title": "What to watch for after Jensen Huang's Japan visit",
+      "summary": "英伟达CEO黄仁勋两日东京行程中达成多项聚焦具身智能的合作，包括日本政府支持、投资62亿美元的主权AI项目Noetra，联合日本机器人厂商采用Cosmos模型，并深化与丰田车辆及制造系统的整合，日本计划2040年前部署千万台AI机器人。",
+      "publishedAt": "2026-07-20T05:16:00+08:00",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/19/what-to-watch-for-after-jensen-huangs-japan-visit/",
+      "subCategory": "芯片硬件",
+      "id": "tech-20260720-013"
+    },
+    {
+      "title": "Can an Apple lawsuit derail OpenAI's hardware plans?",
+      "summary": "苹果就商业机密向OpenAI提起诉讼，指控其存在不正当手段获取苹果现任及前雇员机密信息的行为，尤其涉及硬件相关技术，该诉讼可能影响OpenAI智能音箱等硬件计划及即将进行的上市进程。",
+      "publishedAt": "2026-07-20T03:24:00+08:00",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/",
+      "subCategory": "互联网产品",
+      "id": "tech-20260720-012"
+    },
+    {
+      "title": "月之暗面 Kimi：暂停 C 端新用户订阅，保障已订阅用户的全部权益不受影响",
+      "summary": "月之暗面旗下Kimi宣布暂停C端新用户订阅，称KimiK3模型发布后过去48小时用户请求量大幅超出预估，需将全部算力优先保障已订阅用户权益，公司将加快基础设施扩容并逐步恢复开放订阅。",
+      "publishedAt": "2026-07-19T23:08:04+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/978/808.htm",
+      "subCategory": "互联网产品",
+      "id": "tech-20260719-007"
+    },
     {
       "title": "深空矩阵发布“星环计划”，首期拟部署约210颗卫星",
       "summary": "深空矩阵在2026世界人工智能大会上发布“星环计划”，拟构建面向太空AI算力产业化的卫星星座基础设施，首期计划在450公里核心轨道部署约210颗低轨遥感计算一体卫星，扩容后全球覆盖率可达99.8%，区域重访周期5至10分钟。",
@@ -67,6 +193,33 @@
       "url": "https://www.ithome.com/0/978/800.htm",
       "subCategory": "消费电子",
       "id": "tech-20260719-954"
+    },
+    {
+      "title": "总部设上海，世界人工智能合作组织未来将鼓励共建开源生态",
+      "summary": "总部设于上海的世界人工智能合作组织于7月16日由亚非拉欧29国签署成立协议正式落地，未来将重点推进AI能力建设国际合作、鼓励共建开源生态等务实协作，并推动公平的全球AI治理框架，成员国保留自主权。",
+      "publishedAt": "2026-07-19T21:50:45+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/978/797.htm",
+      "subCategory": "开源生态",
+      "id": "tech-20260719-008"
+    },
+    {
+      "title": "面壁智能发布端侧模型 MiniCPM5-2B，AA-Index 榜单 4B 以下性能第一",
+      "summary": "面壁智能与OpenBMB联合发布端侧模型MiniCPM5-2B，在AA-Index榜单获得17分，成为全球4B以下参数模型最高得分，支持混合思考与512K超长上下文，具备工具调用等智能体能力，可部署于手机及PC，官方表示将很快开源。",
+      "publishedAt": "2026-07-19T21:40:52+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/978/796.htm",
+      "subCategory": "开发者工具",
+      "id": "tech-20260719-009"
+    },
+    {
+      "title": "重力星球推出瓦 75 LITE 夜隐电竞磁轴键盘，422 元",
+      "summary": "重力星球推出瓦75 LITE夜隐电竞磁轴键盘，售价422元，采用镂空骨架设计，支持8K扫描率，输入延迟低至0.25毫秒，配备自研星轴及16种RGB灯效，主打电竞场景性能表现。",
+      "publishedAt": "2026-07-19T21:28:09+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/978/794.htm",
+      "subCategory": "消费电子",
+      "id": "tech-20260719-010"
     },
     {
       "title": "国内首台水下布料刮平一体化整平设备投入使用",
@@ -571,159 +724,6 @@
       "source": "IT之家",
       "url": "https://www.ithome.com/0/978/404.htm",
       "subCategory": "消费电子"
-    },
-    {
-      "id": "tech-20260718-012",
-      "title": "佛罗里达男子传播\"带毒\"Steam 游戏盗取加密货币",
-      "summary": "21岁佛罗里达男子被FBI逮捕，涉嫌资助在8款Steam游戏中植入恶意软件，感染约8000台设备，从约80个加密钱包窃取至少22万美元，最高面临10年监禁。",
-      "publishedAt": "2026-07-18T11:19:24+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/978/402.htm",
-      "subCategory": "安全漏洞"
-    },
-    {
-      "id": "tech-20260718-013",
-      "title": "荣耀 Robot Phone 正式开启预约",
-      "summary": "荣耀在2026世界人工智能大会期间正式开启Robot Phone预约，机身内置四自由度钛合金机械云台，0.8秒展开并可360度旋转，搭载骁龙8至尊版处理器，预计8月正式发布。",
-      "publishedAt": "2026-07-18T11:11:26+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/978/394.htm",
-      "subCategory": "机器人"
-    },
-    {
-      "id": "tech-20260718-014",
-      "title": "台积电：A14 制程过去三个月进展迅速，手机、AI 等领域客户兴趣强烈",
-      "summary": "台积电在财报会上表示A14制程近三个月进展迅速，成熟速度快于同阶段N2制程，器件性能已达约90%目标，256Mb SRAM良率接近90%，量产目标为2028年下半年。",
-      "publishedAt": "2026-07-18T11:00:05+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/978/387.htm",
-      "subCategory": "芯片硬件"
-    },
-    {
-      "id": "tech-20260718-015",
-      "title": "东方算芯首次展出全球首颗软件定义近存计算 3D AI 芯片 DF1000，算力可达 520 TFLOPS",
-      "summary": "东方算芯在2026世界人工智能大会首次展出DF1000芯片，称其为全球首颗软件定义近存计算3D AI芯片，采用3D混合键合晶圆级堆叠工艺，算力达520 TFLOPS，并获SAIL奖。",
-      "publishedAt": "2026-07-18T10:39:54+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/978/368.htm",
-      "subCategory": "芯片硬件"
-    },
-    {
-      "id": "tech-20260718-016",
-      "title": "Valve 发布首个面向 Steam Frame 的 Arch Linux Arm 预览版",
-      "summary": "Valve联合Collabora发布基于Arch Linux ARM64架构的Holo Core预览系统，作为骁龙芯片驱动的VR头显Steam Frame基础系统，源码托管于SteamOS GitLab，发售日期与价格尚未公布。",
-      "publishedAt": "2026-07-18T09:53:54+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/978/361.htm",
-      "subCategory": "操作系统"
-    },
-    {
-      "id": "tech-20260718-017",
-      "title": "OpenAI 更新 Mac 端 ChatGPT 应用：增强整合聊天、工作和编程",
-      "summary": "OpenAI更新macOS版ChatGPT桌面应用，整合Chat、Work与Codex三大功能，支持网页、手机与桌面端对话记录及项目侧边栏同步，用户可在桌面端直接切换聊天与工作模式。",
-      "publishedAt": "2026-07-18T09:34:14+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/978/358.htm",
-      "subCategory": "互联网产品"
-    },
-    {
-      "id": "tech-20260718-018",
-      "title": "2 年 100 亿美元：消息称 Anthropic 拟租赁 Meta 的 AI 算力",
-      "summary": "据《纽约时报》报道，Meta与Anthropic正就一项两年最高100亿美元的算力租赁协议展开谈判，月付约4.17亿美元且双方均可提前终止，Anthropic因Claude Code需求增长寻求扩充算力。",
-      "publishedAt": "2026-07-18T09:20:52+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/978/356.htm",
-      "subCategory": "云计算"
-    },
-    {
-      "id": "tech-20260718-950",
-      "title": "两名黑客未满18岁就入侵伦敦交通局并窃取数百万人数据，被判五年半监禁",
-      "summary": "英国两名\"Scattered Spider\"团伙黑客欧文·弗劳尔斯与塔尔哈·朱巴伊尔因2024年8月入侵伦敦交通局系统被判五年半监禁，攻击致148个技术系统瘫痪、2.7万名员工被迫重置密码，估计造成损失约2900万英镑。",
-      "publishedAt": "2026-07-18T08:37:17+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/978/349.htm",
-      "subCategory": "安全漏洞"
-    },
-    {
-      "id": "tech-20260718-951",
-      "title": "超4500名员工联名致信谷歌皮查伊，要求AI浪潮中保障被裁员者权益",
-      "summary": "逾4500名谷歌员工联署请愿，要求首席执行官皮查伊在AI浪潮中加强对被裁员工的保障，包括公开遣散补偿政策、强制推行自愿离职选项及改革依赖硬性指标的绩效考核制度。",
-      "publishedAt": "2026-07-18T08:25:51+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/978/345.htm",
-      "subCategory": "互联网产品"
-    },
-    {
-      "id": "tech-20260718-952",
-      "title": "\"反AI\"情绪愈演愈烈，多家头部AI公司加强高管安保",
-      "summary": "反AI情绪从线上活动升级为现实世界的暴力威胁，OpenAI、Anthropic等公司高管安保投入显著增加，此前曾发生针对OpenAI首席执行官奥尔特曼住所的纵火未遂事件及Anthropic高管遭死亡威胁事件。",
-      "publishedAt": "2026-07-18T08:18:44+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/978/344.htm",
-      "subCategory": "互联网产品"
-    },
-    {
-      "id": "tech-20260718-953",
-      "title": "消息称苹果数字车钥匙即将支持长城坦克车型",
-      "summary": "据MacRumors报道，苹果钱包后台代码改动显示长城汽车坦克系列车型即将支持数字车钥匙功能，具体车型及上线时间尚未确定，目前该功能已支持宝马、奔驰、比亚迪、理想、蔚来等二十余个汽车品牌。",
-      "publishedAt": "2026-07-18T08:17:26+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/978/343.htm",
-      "subCategory": "智能汽车"
-    },
-    {
-      "id": "tech-20260718-954",
-      "title": "消息称三星MX部门2026Q2利润承压，正规划重组折叠手机产品线",
-      "summary": "据韩媒DealSite报道，三星电子MX部门因存储芯片涨价成本压力正规划重组折叠屏产品线，包括芯片供应多元化、停产Galaxy Z Flip系列并聚焦更宽的Z Fold8机型，该部门本季度业绩预测介于盈利1.9万亿韩元至亏损1.5万亿韩元之间。",
-      "publishedAt": "2026-07-18T08:12:39+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/978/342.htm",
-      "subCategory": "消费电子"
-    },
-    {
-      "id": "tech-20260718-955",
-      "title": "国区个人11元/月→12元/月，苹果Apple Music订阅全球多地涨价",
-      "summary": "苹果上调Apple Music订阅价格，中国大陆个人版由11元/月涨至12元/月，家庭版由17元涨至20元，学生版由6元涨至7元；美国个人版由10.99美元涨至11.99美元，日本由1080日元涨至1180日元，苹果称主因版权费上涨。",
-      "publishedAt": "2026-07-18T07:59:27+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/978/341.htm",
-      "subCategory": "互联网产品"
-    },
-    {
-      "id": "tech-20260718-956",
-      "title": "就反垄断诉讼事宜，消息称苹果和美国司法部展开早期和解谈判",
-      "summary": "据路透社报道，苹果与美国司法部已就2024年提起的反垄断诉讼展开早期和解谈判，该诉讼由司法部联合15个州提起，指控苹果通过抬高价格、压制竞争对手在智能手机市场维持垄断地位，目前和解进展仍不确定。",
-      "publishedAt": "2026-07-18T07:58:38+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/978/340.htm",
-      "subCategory": "互联网产品"
-    },
-    {
-      "id": "tech-20260717-900",
-      "title": "微软2026款Surface Laptop 8GB内存机型日常使用频繁卡顿",
-      "summary": "测试显示微软2026款Surface Laptop入门机型仅配8GB内存，Windows 11开机即占用4.2GB，日常多任务时内存不足导致频繁卡顿，且无法运行需16GB内存的Copilot+ PC功能。",
-      "publishedAt": "2026-07-17T23:47:48+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/978/321.htm",
-      "subCategory": "消费电子"
-    },
-    {
-      "id": "tech-20260717-901",
-      "title": "消息称索尼FX5电影摄影机有16档动态范围，海外售价5399欧元",
-      "summary": "消息称索尼将于7月22日发布FX5电影摄影机，配备1660万像素全画幅传感器与BIONZ XR2处理器，支持16档动态范围与5K 3:2视频拍摄，海外机身售价5399欧元。",
-      "publishedAt": "2026-07-17T23:19:11+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/978/318.htm",
-      "subCategory": "消费电子"
-    },
-    {
-      "id": "tech-20260717-916",
-      "title": "安永披露支持工单系统遭入侵引发数据泄露",
-      "summary": "安永披露其IT部门使用的第三方支持工单系统遭入侵，攻击者在3月28日至4月12日期间访问并下载多份含税务相关个人与财务信息的文件，已为受影响客户提供24个月身份监测服务。",
-      "publishedAt": "2026-07-17T10:55:00-04:00",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/ernst-and-young-discloses-data-breach-after-support-system-hack/",
-      "subCategory": "安全漏洞"
     }
   ]
 }

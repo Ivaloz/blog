@@ -3,8 +3,26 @@
   "slug": "finance",
   "title": "投资与财经",
   "description": "宏观经济、A 股 / 港股 / 美股、一级市场融资、行业研报观点。",
-  "updatedAt": "2026-07-19T23:10:00+08:00",
+  "updatedAt": "2026-07-20T09:30:00+08:00",
   "items": [
+    {
+      "title": "股海导航：2026年7月20日沪深股市公告与交易提示",
+      "summary": "沪深股市7月20日早间公告摘要显示，多只个股复牌交易，中国神华披露6月商品煤产量4270万吨、销量5050万吨同比下降，另有多家公司发布股份回购计划及2026年上半年业绩预告，预增幅度20%至486%不等。",
+      "publishedAt": "2026-07-20T07:12:00+08:00",
+      "source": "新浪财经",
+      "url": "https://finance.sina.com.cn/stock/s/2026-07-20/doc-iniikxus8148270.shtml",
+      "subCategory": "A股",
+      "id": "finance-20260720-001"
+    },
+    {
+      "title": "中国国新、中国诚通等两家央企宣布增持",
+      "summary": "中国国新、中国诚通两家中央企业7月19日晚发布公告，分别运用超5000亿元及近1000亿元自有资金与股票回购增持专项再贷款，增持央企、国企及科技企业股票，表示看好中国资本市场发展前景。",
+      "publishedAt": "2026-07-19T22:49:00+08:00",
+      "source": "东方财富网",
+      "url": "https://finance.eastmoney.com/a/202607193811883695.html",
+      "subCategory": "A股",
+      "id": "finance-20260719-005"
+    },
     {
       "title": "晶华新材、世运电路等多家A股公司披露回购计划",
       "summary": "7月19日晚，晶华新材、世运电路、荣昌生物、建龙微纳、华安证券等多家A股上市公司集中披露股份回购计划，金额从2000万元至3亿元不等，多用于员工持股计划或股权激励。",
@@ -13,6 +31,24 @@
       "url": "https://www.stcn.com/article/detail/4027806.html",
       "subCategory": "A股",
       "id": "finance-20260719-955"
+    },
+    {
+      "title": "Nonprofit Current AI is racing to build the World Wide Web of AI, free for all",
+      "summary": "非营利组织Current AI已获得法国政府1亿美元种子资金，联合福特基金会、麦克阿瑟基金会、DeepMind及Salesforce等机构，累计承诺资金达4亿美元，用于构建开放、公共的人工智能基础设施，作为私营AI系统的替代方案。",
+      "publishedAt": "2026-07-19T22:00:00+08:00",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/19/nonprofit-current-ai-is-racing-to-build-the-world-wide-web-of-ai-free-for-all/",
+      "subCategory": "一级市场",
+      "id": "finance-20260719-006"
+    },
+    {
+      "title": "黄金价格跌近30%，牛市终结，还是\"中场休息\"？",
+      "summary": "伦敦现货黄金较今年1月每盎司5598.75美元的高点回落近30%，一度跌至3942.43美元附近，国内金价也从年内高点显著回落，市场对黄金牛市是否终结存在分歧，摩根士丹利已下调三、四季度黄金价格预测。",
+      "publishedAt": "2026-07-19T20:48:00+08:00",
+      "source": "新浪财经",
+      "url": "https://finance.sina.com.cn/jjxw/2026-07-19/doc-iniikare4963716.shtml",
+      "subCategory": "大宗商品",
+      "id": "finance-20260719-007"
     },
     {
       "title": "美股科技巨头财报将至，甲骨文信用违约互换利差升至历史高位",
@@ -31,6 +67,15 @@
       "url": "https://www.yicai.com/news/103281548.html",
       "subCategory": "公司财报",
       "id": "finance-20260719-953"
+    },
+    {
+      "title": "7月19日晚间，多家上市公司发布重大利好利空好消息",
+      "summary": "7月19日晚间多家A股公司披露2026年半年度业绩预告，特锐德、国际复材、力源信息、铜冠铜箔、协创数据、星宸科技等十余家公司净利润同比大幅增长，部分公司预告扭亏为盈，另有公司公布股份回购计划。",
+      "publishedAt": "2026-07-19T18:34:00+08:00",
+      "source": "网易财经",
+      "url": "https://c.m.163.com/news/a/L27IT52O0553AJLK.html",
+      "subCategory": "公司财报",
+      "id": "finance-20260719-004"
     },
     {
       "title": "新易盛发布半年度业绩预告，预计净利润同比增长逾77%",
@@ -60,13 +105,13 @@
       "id": "finance-20260719-952"
     },
     {
-      "id": "finance-20260719-101",
-      "title": "美国对伊朗发动第八夜连续空袭，伊朗回击美军海湾多国基地",
-      "summary": "据半岛电视台报道，美军7月19日对伊朗霍尔木兹甘省、胡齐斯坦省等地军事设施发动第八轮连续夜间空袭，美国中央司令部称打击旨在削弱伊朗对霍尔木兹海峡商船的威胁能力，并回应伊朗此前在约旦造成两名美军士兵死亡的袭击；伊朗随即对美军科威特基地发动反击，造成淡化设施等民用基础设施受损。",
-      "publishedAt": "2026-07-19",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/19/us-launches-eighth-consecutive-night-of-attacks-on-iran",
-      "subCategory": "风险事件"
+      "title": "油价飙升引爆地缘危机，比特币成唯一承压资产",
+      "summary": "周末霍尔木兹海峡航运中断持续发酵，布伦特原油维持在85美元上方，比特币周五一度跌至62900美元附近，较去年10月高点回落约38%，因周末仅比特币保持连续交易，被迫独自消化地缘政治风险溢价。",
+      "publishedAt": "2026-07-19T09:05:00+08:00",
+      "source": "Investing.com（智通财经）",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3467447",
+      "subCategory": "风险事件",
+      "id": "finance-20260719-008"
     },
     {
       "id": "finance-20260719-003",
@@ -94,6 +139,15 @@
       "source": "证券时报",
       "url": "https://www.stcn.com/article/detail/4027417.html",
       "subCategory": "大宗商品"
+    },
+    {
+      "id": "finance-20260719-101",
+      "title": "美国对伊朗发动第八夜连续空袭，伊朗回击美军海湾多国基地",
+      "summary": "据半岛电视台报道，美军7月19日对伊朗霍尔木兹甘省、胡齐斯坦省等地军事设施发动第八轮连续夜间空袭，美国中央司令部称打击旨在削弱伊朗对霍尔木兹海峡商船的威胁能力，并回应伊朗此前在约旦造成两名美军士兵死亡的袭击；伊朗随即对美军科威特基地发动反击，造成淡化设施等民用基础设施受损。",
+      "publishedAt": "2026-07-19",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/19/us-launches-eighth-consecutive-night-of-attacks-on-iran",
+      "subCategory": "风险事件"
     },
     {
       "id": "finance-20260718-021",
@@ -285,24 +339,6 @@
       "subCategory": "A股"
     },
     {
-      "id": "finance-20260717-154",
-      "title": "灵巧手企业曦诺未来完成5亿元A+轮融资跻身独角兽",
-      "summary": "具身智能灵巧手企业曦诺未来完成5亿元A+轮融资，由美团领投，蔚来资本、招商局资本及一家互联网大厂跟投，老股东小米战略投资持续加码，公司由此跻身独角兽行列，为其四个月内第三轮融资。",
-      "publishedAt": "2026-07-17",
-      "source": "投资界",
-      "url": "https://news.pedaily.cn/202607/566443.shtml",
-      "subCategory": "一级市场"
-    },
-    {
-      "id": "finance-20260717-101",
-      "title": "巴菲特：美股市场已趋于投机，如同赌场",
-      "summary": "伯克希尔哈撒韦董事长巴菲特表示，当前美股市场愈发受短期投机驱动而非长期价值投资主导，称当所有人都热衷投机时，很难找到真正的价值投资机会。",
-      "publishedAt": "2026-07-17",
-      "source": "投资界(PEdaily)",
-      "url": "https://news.pedaily.cn/202607/566441.shtml",
-      "subCategory": "美股"
-    },
-    {
       "id": "finance-20260717-909",
       "title": "首发| 玄电新材完成近亿元A轮融资，推动高端特种炭黑国产化",
       "summary": "新材料企业玄电新材完成近亿元A轮融资，由蜂云资本、美丽境界资本、启迪伊泰基金及上市公司捷邦科技等联合投资，资金将用于建设其内蒙一期特种炭黑工厂，该轮为公司首轮外部融资。",
@@ -411,6 +447,24 @@
       "subCategory": "美股"
     },
     {
+      "id": "finance-20260717-154",
+      "title": "灵巧手企业曦诺未来完成5亿元A+轮融资跻身独角兽",
+      "summary": "具身智能灵巧手企业曦诺未来完成5亿元A+轮融资，由美团领投，蔚来资本、招商局资本及一家互联网大厂跟投，老股东小米战略投资持续加码，公司由此跻身独角兽行列，为其四个月内第三轮融资。",
+      "publishedAt": "2026-07-17",
+      "source": "投资界",
+      "url": "https://news.pedaily.cn/202607/566443.shtml",
+      "subCategory": "一级市场"
+    },
+    {
+      "id": "finance-20260717-101",
+      "title": "巴菲特：美股市场已趋于投机，如同赌场",
+      "summary": "伯克希尔哈撒韦董事长巴菲特表示，当前美股市场愈发受短期投机驱动而非长期价值投资主导，称当所有人都热衷投机时，很难找到真正的价值投资机会。",
+      "publishedAt": "2026-07-17",
+      "source": "投资界(PEdaily)",
+      "url": "https://news.pedaily.cn/202607/566441.shtml",
+      "subCategory": "美股"
+    },
+    {
       "id": "finance-20260716-209",
       "title": "*ST萃华上演\"地天板\"，澄清公告：并购重组传闻不实",
       "summary": "*ST萃华澄清网络流传的与周大福并购重组及实控人拟变更等传闻均不属实，公司目前无相关筹划事项；当日股价开盘跌停后又反转涨停，呈现\"地天板\"走势，公司因未按期披露年报存在退市风险。",
@@ -510,51 +564,6 @@
       "subCategory": "港股"
     },
     {
-      "id": "finance-20260716-408",
-      "title": "联合健康集团公布二季度业绩 上调全年盈利指引",
-      "summary": "联合健康集团公布2026年第二季度业绩，营收1120亿美元，营业利润80亿美元，每股收益6.04美元（调整后6.38美元）；公司同时上调全年调整后每股收益指引至19.50至20.00美元区间。",
-      "publishedAt": "2026-07-16",
-      "source": "UnitedHealth Group Newsroom",
-      "url": "https://www.unitedhealthgroup.com/newsroom/2026/2026-07-16-uhg-reports-second-quarter-2026-results.html",
-      "subCategory": "公司财报"
-    },
-    {
-      "id": "finance-20260717-151",
-      "title": "百度拟自愿转换为港交所主要上市地位",
-      "summary": "百度董事会已授权管理层推进公司在香港联交所主板的上市地位由第二上市自愿转换为主要上市，预计年内完成，转换后公司股份将继续在纳斯达克与港交所两地维持双重主要上市并可互相转换。",
-      "publishedAt": "2026-07-16",
-      "source": "PR Newswire",
-      "url": "https://www.manilatimes.net/2026/07/16/tmt-newswire/pr-newswire/baidu-to-pursue-voluntary-conversion-to-dual-primary-listing-on-the-main-board-of-the-stock-exchange-of-hong-kong-limited/2385675",
-      "subCategory": "港股"
-    },
-    {
-      "id": "finance-20260716-407",
-      "title": "美国货币市场基金资产一周缩水600亿美元至7.89万亿美元",
-      "summary": "美国投资公司协会（ICI）数据显示，截至7月15日当周，美国货币市场基金总资产减少599亿美元至7.89万亿美元，其中政府类基金减少526亿美元，优先类基金减少49亿美元。",
-      "publishedAt": "2026-07-16",
-      "source": "ICI (Investment Company Institute)",
-      "url": "https://www.ici.org/research/stats/mmf",
-      "subCategory": "宏观经济"
-    },
-    {
-      "id": "finance-20260716-404",
-      "title": "芯片股抛售拖累纳斯达克100指数下跌1.6%",
-      "summary": "受AI资本支出前景担忧影响，芯片股集体下挫，纳斯达克100指数下跌约1.6%至29032点，科技板块ETF跌2.4%，SanDisk单日重挫11.2%，存储芯片股领跌。",
-      "publishedAt": "2026-07-16",
-      "source": "Benzinga",
-      "url": "https://www.benzinga.com/markets/market-summary/26/07/60505919/stock-market-to-day-chipmakers-nasdaq-100-gold-4000-sandisk-stocks-performance-daily-movers-thursday-wall-street",
-      "subCategory": "美股"
-    },
-    {
-      "id": "finance-20260716-900",
-      "title": "Iraqi oil loadings briefly suspended after drone hits tanker at Basra, sources say",
-      "summary": "一架无人机7月16日击中伊拉克巴士拉码头一艘油轮，当地原油装载一度暂停后恢复，未造成起火或人员伤亡，伊拉克国家石油销售组织负责人称袭击目标并非该码头，事件凸显伊朗冲突下海湾能源运输持续承压。",
-      "publishedAt": "2026-07-16",
-      "source": "Arab News",
-      "url": "https://www.arabnews.com/node/2651163/middle-east",
-      "subCategory": "风险事件"
-    },
-    {
       "title": "长鑫科技今日打新：中一签缴款4330元，中签率高于普通新股",
       "summary": "长鑫科技7月16日启动科创板网上及网下申购，发行价8.66元/股，一签500股需缴款4330元，机构测算网上中签率约0.3%-0.7%，高于普通科创板新股0.02%-0.05%的水平。",
       "publishedAt": "2026-07-16T11:39:00+08:00",
@@ -636,6 +645,51 @@
       "subCategory": "一级市场"
     },
     {
+      "id": "finance-20260716-408",
+      "title": "联合健康集团公布二季度业绩 上调全年盈利指引",
+      "summary": "联合健康集团公布2026年第二季度业绩，营收1120亿美元，营业利润80亿美元，每股收益6.04美元（调整后6.38美元）；公司同时上调全年调整后每股收益指引至19.50至20.00美元区间。",
+      "publishedAt": "2026-07-16",
+      "source": "UnitedHealth Group Newsroom",
+      "url": "https://www.unitedhealthgroup.com/newsroom/2026/2026-07-16-uhg-reports-second-quarter-2026-results.html",
+      "subCategory": "公司财报"
+    },
+    {
+      "id": "finance-20260717-151",
+      "title": "百度拟自愿转换为港交所主要上市地位",
+      "summary": "百度董事会已授权管理层推进公司在香港联交所主板的上市地位由第二上市自愿转换为主要上市，预计年内完成，转换后公司股份将继续在纳斯达克与港交所两地维持双重主要上市并可互相转换。",
+      "publishedAt": "2026-07-16",
+      "source": "PR Newswire",
+      "url": "https://www.manilatimes.net/2026/07/16/tmt-newswire/pr-newswire/baidu-to-pursue-voluntary-conversion-to-dual-primary-listing-on-the-main-board-of-the-stock-exchange-of-hong-kong-limited/2385675",
+      "subCategory": "港股"
+    },
+    {
+      "id": "finance-20260716-407",
+      "title": "美国货币市场基金资产一周缩水600亿美元至7.89万亿美元",
+      "summary": "美国投资公司协会（ICI）数据显示，截至7月15日当周，美国货币市场基金总资产减少599亿美元至7.89万亿美元，其中政府类基金减少526亿美元，优先类基金减少49亿美元。",
+      "publishedAt": "2026-07-16",
+      "source": "ICI (Investment Company Institute)",
+      "url": "https://www.ici.org/research/stats/mmf",
+      "subCategory": "宏观经济"
+    },
+    {
+      "id": "finance-20260716-404",
+      "title": "芯片股抛售拖累纳斯达克100指数下跌1.6%",
+      "summary": "受AI资本支出前景担忧影响，芯片股集体下挫，纳斯达克100指数下跌约1.6%至29032点，科技板块ETF跌2.4%，SanDisk单日重挫11.2%，存储芯片股领跌。",
+      "publishedAt": "2026-07-16",
+      "source": "Benzinga",
+      "url": "https://www.benzinga.com/markets/market-summary/26/07/60505919/stock-market-to-day-chipmakers-nasdaq-100-gold-4000-sandisk-stocks-performance-daily-movers-thursday-wall-street",
+      "subCategory": "美股"
+    },
+    {
+      "id": "finance-20260716-900",
+      "title": "Iraqi oil loadings briefly suspended after drone hits tanker at Basra, sources say",
+      "summary": "一架无人机7月16日击中伊拉克巴士拉码头一艘油轮，当地原油装载一度暂停后恢复，未造成起火或人员伤亡，伊拉克国家石油销售组织负责人称袭击目标并非该码头，事件凸显伊朗冲突下海湾能源运输持续承压。",
+      "publishedAt": "2026-07-16",
+      "source": "Arab News",
+      "url": "https://www.arabnews.com/node/2651163/middle-east",
+      "subCategory": "风险事件"
+    },
+    {
       "id": "finance-20260716-006",
       "title": "Stripe and Advent reportedly offered to buy PayPal for around $53.4B",
       "summary": "据路透社报道，支付公司Stripe与私募股权公司Advent International联合提出约534亿美元收购PayPal的方案，包含约500亿美元银行融资，双方将各持一半股权。",
@@ -670,60 +724,6 @@
       "source": "第一财经",
       "url": "https://www.yicai.com/news/103276572.html",
       "subCategory": "公司财报"
-    },
-    {
-      "id": "finance-20260716-010",
-      "title": "7月15日南向资金追踪：阿里巴巴－Ｗ、腾讯控股、智谱净买入额居前，分别为30.91亿港元、18.06亿港元、15.40亿港元",
-      "summary": "7月15日南向资金净买入133.64亿港元，阿里巴巴净买入30.91亿港元，腾讯控股净买入18.06亿港元，智谱净买入15.40亿港元；盈富基金、中芯国际、小米集团遭净卖出。",
-      "publishedAt": "2026-07-15T18:36:21+08:00",
-      "source": "金融界",
-      "url": "https://finance.jrj.com.cn/2026/07/15183657818203.shtml",
-      "subCategory": "港股"
-    },
-    {
-      "id": "finance-20260715-018",
-      "title": "收评：高低切换明显！半导体集体跳水，医药、白酒、零售掌起涨停潮",
-      "summary": "7月15日A股收盘，上证指数跌0.29%，深证成指跌0.97%，创业板指跌1.21%，两市成交额2.57万亿元；半导体板块领跌，存储芯片、算力芯片及设备股回调明显，部分个股跌超11%，医药生物、食品饮料板块逆势走强。",
-      "publishedAt": "2026-07-15T15:42:08+08:00",
-      "source": "每日经济新闻",
-      "url": "https://www.nbd.com.cn/articles/2026-07-15/4473320.html",
-      "subCategory": "A股"
-    },
-    {
-      "id": "finance-20260716-003",
-      "title": "Looki 完成数亿元A1轮融资，加速迈向物理世界AI推荐引擎",
-      "summary": "深圳AI硬件公司Looki完成数亿元A1轮融资，元生资本领投，BAI资本、中鼎资本、Alpha Club跟投，资金将用于多模态模型研发及团队扩张。",
-      "publishedAt": "2026-07-15T15:09:00+08:00",
-      "source": "投资界",
-      "url": "https://news.pedaily.cn/202607/566346.shtml",
-      "subCategory": "一级市场"
-    },
-    {
-      "title": "ASML rises 5% after hiking sales forecast for second time this year on strong AI chip demand",
-      "summary": "阿斯麦（ASML）二季度净销售额93亿欧元、净利润29亿欧元均超市场预期，并将全年销售指引上调至430亿至450亿欧元，为年内第二次上调，股价一度上涨超7%。",
-      "publishedAt": "2026-07-15T13:10:18+08:00",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/07/15/asml-2q-earnings-ai-chips-orders.html",
-      "subCategory": "公司财报",
-      "id": "finance-20260715-011"
-    },
-    {
-      "id": "finance-20260716-012",
-      "title": "资金早埋伏创新药！头部公募举牌，百亿资金借ETF入场",
-      "summary": "易方达、国泰、华夏、汇添富等公募6月10日至7月11日增持港股创新药股份触发举牌线，12个交易日内全市场28只创新药主题基金规模增长约297.44亿元。",
-      "publishedAt": "2026-07-15T12:52:00+08:00",
-      "source": "财联社",
-      "url": "https://m.cls.cn/detail/2426944",
-      "subCategory": "港股"
-    },
-    {
-      "title": "A股午评：超3600只个股上涨，三大指数集体飘绿",
-      "summary": "A股午盘三大指数集体下跌，上证指数跌0.08%，深证成指跌0.38%，创业板指跌0.36%，科创50跌超3%，半导体板块回调，创新药、生物医药板块逆势走强。",
-      "publishedAt": "2026-07-15T12:27:00+08:00",
-      "source": "中国新闻网",
-      "url": "https://www.chinanews.com.cn/cj/2026/07-15/10659674.shtml",
-      "subCategory": "A股",
-      "id": "finance-20260715-015"
     }
   ]
 }

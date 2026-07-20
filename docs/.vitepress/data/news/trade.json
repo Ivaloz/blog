@@ -3,8 +3,62 @@
   "slug": "trade",
   "title": "外贸资讯",
   "description": "亚马逊、TikTok Shop、阵里国际站、Shopify 等平台政策与跨境电商市场、独立站、物流支付、关税法规、选品趋势。",
-  "updatedAt": "2026-07-19T23:10:00+08:00",
+  "updatedAt": "2026-07-20T09:30:00+08:00",
   "items": [
+    {
+      "title": "亚马逊美国AWD全面拒收大件：超规产品需改道入仓FBA或GWD",
+      "summary": "亚马逊宣布美国站AWD仓储服务自7月31日起仅接受标准尺寸商品，长宽高分别达18/14/8英寸或重量20磅以上商品将无法入仓，家具、健身器材等品类卖家受影响，卖家可改用FBA或GWD发货应对。",
+      "publishedAt": "2026-07-19T22:47:00+08:00",
+      "source": "亿邦动力",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-07-19/doc-iniikhwy8143596.shtml",
+      "subCategory": "物流仓储",
+      "id": "trade-20260719-010"
+    },
+    {
+      "title": "Amazon Haul卖家突破3000家 GMV约为20亿美元",
+      "summary": "据Marketplace Pulse数据，亚马逊低价平台Haul上线以来卖家数突破3287家，年GMV约20亿美元，75%订单从中国直发、11天内送达，规模仍远低于Temu与SHEIN，长期盈利面临补贴退坡等挑战。",
+      "publishedAt": "2026-07-19T22:32:00+08:00",
+      "source": "亿邦动力",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-07-19/doc-iniikaqz0151879.shtml",
+      "subCategory": "平台动态",
+      "id": "trade-20260719-011"
+    },
+    {
+      "title": "亚马逊第三方卖家GMV达5750亿美元 年销额超1亿美元卖家增至235家",
+      "summary": "SmartScout报告显示，亚马逊全球活跃卖家约190万，第三方卖家GMV约5750亿美元，占平台总GMV69%；年销售额超1亿美元的卖家增至235家，四年前约50家，中国卖家贡献三方销售额35.1%。",
+      "publishedAt": "2026-07-19T22:06:00+08:00",
+      "source": "亿邦动力",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-07-19/doc-iniikaqz0144716.shtml",
+      "subCategory": "平台动态",
+      "id": "trade-20260719-009"
+    },
+    {
+      "title": "亚马逊开始限制第三方比价网站展示历史价格数据",
+      "summary": "亚马逊要求联盟合作的第三方比价网站不得在价格追踪图表或提醒功能中展示其历史价格数据，同时上线Alexa购物助手官方历史价格查询功能，覆盖美国、英国、印度等市场，用户每月可免费查询三次。",
+      "publishedAt": "2026-07-19T21:59:00+08:00",
+      "source": "亿邦动力",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-07-19/doc-iniikare5015962.shtml",
+      "subCategory": "平台政策",
+      "id": "trade-20260719-008"
+    },
+    {
+      "title": "顶流IP出手\"封杀\"，AI创作也会侵权",
+      "summary": "迪士尼等版权方近期在美国联邦法院起诉多名跨境卖家，涉及亚马逊、沃尔玛、Temu、eBay等平台数百家店铺，法院明确未经授权的AI生成角色图像也可能构成侵权，卖家面临账号冻结与高额赔偿风险。",
+      "publishedAt": "2026-07-19T17:28:00+08:00",
+      "source": "雨果网",
+      "url": "https://www.cifnews.com/article/187621",
+      "subCategory": "平台动态",
+      "id": "trade-20260719-007"
+    },
+    {
+      "title": "华人跨境大卖海外\"逃税\"被抓，营业额超10亿欧元",
+      "summary": "意大利检方以故意破产等罪名起诉一名华人跨境卖家，其通过频繁注销重开公司逃避增值税与公司税，涉案营业额超10亿欧元，造成约500万欧元债务无法追缴，案件将于9月在蒙扎法院简易审理。",
+      "publishedAt": "2026-07-19T17:24:00+08:00",
+      "source": "雨果网",
+      "url": "https://www.cifnews.com/article/187620",
+      "subCategory": "关税法规",
+      "id": "trade-20260719-006"
+    },
     {
       "id": "trade-20260718-021",
       "title": "跨境隐性税务雷区随时\"引爆\"，旧财税玩法已无路可走？",
@@ -123,51 +177,6 @@
       "subCategory": "平台政策"
     },
     {
-      "id": "trade-20260717-156",
-      "title": "亚马逊美妆个护市场涌现多款百万美元级爆品",
-      "summary": "亚马逊美妆个护品类近期涌现多款月销售额破百万美元的爆品，棉签、去屑洗发水、保湿修复膏及定妆喷雾等细分品类搜索热度持续走高，为选品卖家提供参考方向。",
-      "publishedAt": "2026-07-17",
-      "source": "AMZ123跨境导航",
-      "url": "https://www.amz123.com/kx/vi5t7CrX",
-      "subCategory": "选品趋势"
-    },
-    {
-      "id": "trade-20260717-150",
-      "title": "TikTok美区测试全托管代运营服务",
-      "summary": "TikTok在美国市场试点全托管代运营模式，平台负责营销推广、广告投放、选品优化及网红招募等环节，收取1万美元服务费及10%-20%销售佣金，运营思路类似抖音国内做法。",
-      "publishedAt": "2026-07-17",
-      "source": "AMZ123跨境导航",
-      "url": "https://www.amz123.com/kx/jPbcMatg",
-      "subCategory": "平台动态"
-    },
-    {
-      "id": "trade-20260717-155",
-      "title": "北美极端天气冲击供应链 800余场野火叠加洪涝致空陆铁运全面延误",
-      "summary": "加拿大逾830场野火叠加美国西南部暴雨洪涝，导致北美航空、公路及铁路运输普遍延误，部分港口集装箱被迫改走陆运致边境拥堵，物流商建议提前沟通并延长交货预期。",
-      "publishedAt": "2026-07-17",
-      "source": "AMZ123跨境导航",
-      "url": "https://www.amz123.com/kx/WMeE53cU",
-      "subCategory": "物流仓储"
-    },
-    {
-      "id": "trade-20260717-154",
-      "title": "亚马逊德国站畅销榜出现异常 大量无品牌商品占据榜单",
-      "summary": "亚马逊德国站畅销榜近期出现系统异常，大量无品牌商品意外占据多个类目榜单，部分卖家反映问题已持续数周，亚马逊尚未就故障原因和修复时间作出官方说明。",
-      "publishedAt": "2026-07-17",
-      "source": "AMZ123跨境导航",
-      "url": "https://www.amz123.com/kx/Sw6OyGpk",
-      "subCategory": "平台动态"
-    },
-    {
-      "title": "Rakuten France is closing",
-      "summary": "日本乐天集团宣布将于年底前关闭旗下法国电商平台Rakuten France（原PriceMinister），此前多方潜在买家包括Casino、Carrefour等参与洽谈但未达成收购协议，西班牙业务因共用同一运营架构也将同步关闭。",
-      "publishedAt": "2026-07-17",
-      "source": "ecommercenews.eu",
-      "url": "https://ecommercenews.eu/rakuten-france-is-closing/",
-      "subCategory": "平台动态",
-      "id": "trade-20260717-955"
-    },
-    {
       "id": "trade-20260717-950",
       "title": "PingPong卢森堡子公司因反洗钱违规被CSSF罚款1.2万欧元",
       "summary": "卢森堡金融监管机构CSSF对跨境支付服务商PingPong旗下卢森堡子公司处以1.2万欧元罚款，涉及未就三起欺诈及税务相关案件提交可疑交易报告、记录留存缺陷及约2800个客户账户高风险信息核实不足等违规。",
@@ -265,6 +274,51 @@
       "source": "AMZ123跨境导航",
       "url": "https://www.amz123.com/kx/pr9RHoHS",
       "subCategory": "平台动态"
+    },
+    {
+      "id": "trade-20260717-156",
+      "title": "亚马逊美妆个护市场涌现多款百万美元级爆品",
+      "summary": "亚马逊美妆个护品类近期涌现多款月销售额破百万美元的爆品，棉签、去屑洗发水、保湿修复膏及定妆喷雾等细分品类搜索热度持续走高，为选品卖家提供参考方向。",
+      "publishedAt": "2026-07-17",
+      "source": "AMZ123跨境导航",
+      "url": "https://www.amz123.com/kx/vi5t7CrX",
+      "subCategory": "选品趋势"
+    },
+    {
+      "id": "trade-20260717-150",
+      "title": "TikTok美区测试全托管代运营服务",
+      "summary": "TikTok在美国市场试点全托管代运营模式，平台负责营销推广、广告投放、选品优化及网红招募等环节，收取1万美元服务费及10%-20%销售佣金，运营思路类似抖音国内做法。",
+      "publishedAt": "2026-07-17",
+      "source": "AMZ123跨境导航",
+      "url": "https://www.amz123.com/kx/jPbcMatg",
+      "subCategory": "平台动态"
+    },
+    {
+      "id": "trade-20260717-155",
+      "title": "北美极端天气冲击供应链 800余场野火叠加洪涝致空陆铁运全面延误",
+      "summary": "加拿大逾830场野火叠加美国西南部暴雨洪涝，导致北美航空、公路及铁路运输普遍延误，部分港口集装箱被迫改走陆运致边境拥堵，物流商建议提前沟通并延长交货预期。",
+      "publishedAt": "2026-07-17",
+      "source": "AMZ123跨境导航",
+      "url": "https://www.amz123.com/kx/WMeE53cU",
+      "subCategory": "物流仓储"
+    },
+    {
+      "id": "trade-20260717-154",
+      "title": "亚马逊德国站畅销榜出现异常 大量无品牌商品占据榜单",
+      "summary": "亚马逊德国站畅销榜近期出现系统异常，大量无品牌商品意外占据多个类目榜单，部分卖家反映问题已持续数周，亚马逊尚未就故障原因和修复时间作出官方说明。",
+      "publishedAt": "2026-07-17",
+      "source": "AMZ123跨境导航",
+      "url": "https://www.amz123.com/kx/Sw6OyGpk",
+      "subCategory": "平台动态"
+    },
+    {
+      "title": "Rakuten France is closing",
+      "summary": "日本乐天集团宣布将于年底前关闭旗下法国电商平台Rakuten France（原PriceMinister），此前多方潜在买家包括Casino、Carrefour等参与洽谈但未达成收购协议，西班牙业务因共用同一运营架构也将同步关闭。",
+      "publishedAt": "2026-07-17",
+      "source": "ecommercenews.eu",
+      "url": "https://ecommercenews.eu/rakuten-france-is-closing/",
+      "subCategory": "平台动态",
+      "id": "trade-20260717-955"
     },
     {
       "id": "trade-20260716-211",
@@ -366,60 +420,6 @@
       "subCategory": "跨境支付"
     },
     {
-      "id": "trade-20260716-305",
-      "title": "亚马逊全球一测通GTO上线，一次检测覆盖美欧日澳等16大站点",
-      "summary": "亚马逊推出\"全球一测通\"（GTO）产品合规检测服务，卖家通过认可的第三方实验室完成一次检测，即可满足美、德、日、澳等16个站点的合规审核要求，目前优先覆盖玩具品类。",
-      "publishedAt": "2026-07-16",
-      "source": "AMZ123跨境导航",
-      "url": "https://www.amz123.com/kx/w0dsfdw4",
-      "subCategory": "平台政策"
-    },
-    {
-      "title": "2025年加拿大电商市场规模达到360亿欧元",
-      "summary": "数据显示2025年加拿大电商市场规模约达360亿欧元，预计2030年将增长至576.5亿欧元，亚马逊、沃尔玛及Canadian Tire、Best Buy等本土零售商是主要参与者，未来竞争将聚焦物流效率与本地化服务。",
-      "publishedAt": "2026-07-16",
-      "source": "AMZ123跨境导航",
-      "url": "https://www.amz123.com/kx/tL8GqpRH",
-      "subCategory": "新兴市场",
-      "id": "trade-20260716-014"
-    },
-    {
-      "title": "Shopee将清理非当地官方语言商品，超50%词汇不符将面临删品罚分",
-      "summary": "Shopee宣布将清理listing中使用非当地官方语言的商品，标题词汇超50%不符合当地官方语言要求的将被删除并计违规分，例如台湾站要求繁体中文、越南站等要求英文。",
-      "publishedAt": "2026-07-16",
-      "source": "AMZ123跨境导航",
-      "url": "https://www.amz123.com/kx/oeGRzB8W",
-      "subCategory": "平台政策",
-      "id": "trade-20260716-012"
-    },
-    {
-      "id": "trade-20260716-306",
-      "title": "Coupang二季度投入25万美元加码美国游说",
-      "summary": "韩国电商平台Coupang二季度向游说机构Ballard Partners支付25万美元，较一季度17万美元有所增加，游说内容涉及美国出口促进、国际经济政策及美韩贸易关系。",
-      "publishedAt": "2026-07-16",
-      "source": "AMZ123跨境导航",
-      "url": "https://www.amz123.com/kx/Uoj36hed",
-      "subCategory": "平台动态"
-    },
-    {
-      "title": "京东Joybuy启动2026年欧洲PoP平台招商",
-      "summary": "京东跨境平台Joybuy启动2026年欧洲PoP招商计划，要求入驻商家2025年欧洲市场GMV达150万欧元以上（品牌整体需达200万欧元），提供新商家30天免佣金、仓储费减免、广告金及最高40%阶梯佣金减免等六项扶持政策。",
-      "publishedAt": "2026-07-16",
-      "source": "AMZ123跨境导航",
-      "url": "https://www.amz123.com/kx/3uKo6bj4",
-      "subCategory": "平台动态",
-      "id": "trade-20260716-013"
-    },
-    {
-      "title": "英国Q2电商包裹量同比微增0.2% 电子产品增长63.5%领跑品类",
-      "summary": "物流平台Scurri最新电商配送指数显示，2026年第二季度英国电商包裹量同比仅微增0.2%，其中电子产品品类增长63.5%领跑，时尚、食品饮料及宠物用品类下滑，反映消费者谨慎支出及对安全配送需求上升。",
-      "publishedAt": "2026-07-16",
-      "source": "AMZ123跨境导航",
-      "url": "https://www.amz123.com/kx/12B37ar7",
-      "subCategory": "选品趋势",
-      "id": "trade-20260716-015"
-    },
-    {
       "title": "亚马逊发布\"标杆新卖家孵化计划\"",
       "summary": "亚马逊全球开店推出“标杆新卖家孵化计划”，计划三年内助力2000个新入驻品牌实现单品牌销售额突破1亿元人民币，覆盖北美、欧洲、日本站点，提供市场洞察、运营支持等六大赋能能力及最高75万美元奖励资源。",
       "publishedAt": "2026-07-16T07:15:00+08:00",
@@ -499,6 +499,60 @@
       "source": "AMZ123跨境导航",
       "url": "https://www.amz123.com/kx/koHmr2on",
       "subCategory": "物流仓储"
+    },
+    {
+      "id": "trade-20260716-305",
+      "title": "亚马逊全球一测通GTO上线，一次检测覆盖美欧日澳等16大站点",
+      "summary": "亚马逊推出\"全球一测通\"（GTO）产品合规检测服务，卖家通过认可的第三方实验室完成一次检测，即可满足美、德、日、澳等16个站点的合规审核要求，目前优先覆盖玩具品类。",
+      "publishedAt": "2026-07-16",
+      "source": "AMZ123跨境导航",
+      "url": "https://www.amz123.com/kx/w0dsfdw4",
+      "subCategory": "平台政策"
+    },
+    {
+      "title": "2025年加拿大电商市场规模达到360亿欧元",
+      "summary": "数据显示2025年加拿大电商市场规模约达360亿欧元，预计2030年将增长至576.5亿欧元，亚马逊、沃尔玛及Canadian Tire、Best Buy等本土零售商是主要参与者，未来竞争将聚焦物流效率与本地化服务。",
+      "publishedAt": "2026-07-16",
+      "source": "AMZ123跨境导航",
+      "url": "https://www.amz123.com/kx/tL8GqpRH",
+      "subCategory": "新兴市场",
+      "id": "trade-20260716-014"
+    },
+    {
+      "title": "Shopee将清理非当地官方语言商品，超50%词汇不符将面临删品罚分",
+      "summary": "Shopee宣布将清理listing中使用非当地官方语言的商品，标题词汇超50%不符合当地官方语言要求的将被删除并计违规分，例如台湾站要求繁体中文、越南站等要求英文。",
+      "publishedAt": "2026-07-16",
+      "source": "AMZ123跨境导航",
+      "url": "https://www.amz123.com/kx/oeGRzB8W",
+      "subCategory": "平台政策",
+      "id": "trade-20260716-012"
+    },
+    {
+      "id": "trade-20260716-306",
+      "title": "Coupang二季度投入25万美元加码美国游说",
+      "summary": "韩国电商平台Coupang二季度向游说机构Ballard Partners支付25万美元，较一季度17万美元有所增加，游说内容涉及美国出口促进、国际经济政策及美韩贸易关系。",
+      "publishedAt": "2026-07-16",
+      "source": "AMZ123跨境导航",
+      "url": "https://www.amz123.com/kx/Uoj36hed",
+      "subCategory": "平台动态"
+    },
+    {
+      "title": "京东Joybuy启动2026年欧洲PoP平台招商",
+      "summary": "京东跨境平台Joybuy启动2026年欧洲PoP招商计划，要求入驻商家2025年欧洲市场GMV达150万欧元以上（品牌整体需达200万欧元），提供新商家30天免佣金、仓储费减免、广告金及最高40%阶梯佣金减免等六项扶持政策。",
+      "publishedAt": "2026-07-16",
+      "source": "AMZ123跨境导航",
+      "url": "https://www.amz123.com/kx/3uKo6bj4",
+      "subCategory": "平台动态",
+      "id": "trade-20260716-013"
+    },
+    {
+      "title": "英国Q2电商包裹量同比微增0.2% 电子产品增长63.5%领跑品类",
+      "summary": "物流平台Scurri最新电商配送指数显示，2026年第二季度英国电商包裹量同比仅微增0.2%，其中电子产品品类增长63.5%领跑，时尚、食品饮料及宠物用品类下滑，反映消费者谨慎支出及对安全配送需求上升。",
+      "publishedAt": "2026-07-16",
+      "source": "AMZ123跨境导航",
+      "url": "https://www.amz123.com/kx/12B37ar7",
+      "subCategory": "选品趋势",
+      "id": "trade-20260716-015"
     },
     {
       "id": "trade-20260716-001",
@@ -591,15 +645,6 @@
       "subCategory": "关税法规"
     },
     {
-      "title": "亚马逊物流美国降费布局 加速争夺UPS和FedEx市场份额",
-      "summary": "亚马逊通过Amazon Shipping服务在美国市场降低费率及附加费，该服务自2026年初起已向所有企业开放，以更低价格对标UPS和FedEx，依托现有配送网络推动业务从电商自营物流拓展至综合物流市场竞争。",
-      "publishedAt": "2026-07-15",
-      "source": "AMZ123跨境导航",
-      "url": "https://www.amz123.com/zb/20260715",
-      "subCategory": "物流仓储",
-      "id": "trade-20260715-021"
-    },
-    {
       "id": "trade-20260716-006",
       "title": "跨境订单一年暴涨450%，卖家开始涌入这一俄罗斯平台",
       "summary": "俄罗斯电商平台Yandex Market跨境订单量去年同比暴涨450%，平台依托Yandex生态流量优势及较高客单价吸引中国卖家入驻，官方计划2026年全年招募约3万名中国卖家。",
@@ -679,51 +724,6 @@
       "url": "https://www.amz123.com/t/IhnMYcaD",
       "subCategory": "选品趋势",
       "id": "trade-20260715-017"
-    },
-    {
-      "title": "Flipkart计划新增印度西孟加拉物流中心",
-      "summary": "沃尔玛旗下Flipkart宣布加大对印度西孟加拉邦投资，该邦现有履约中心超300个并提供逾12万个就业岗位，其哈林加塔仓储容量达500万立方英尺，为印度首个获铂金级绿色建筑认证的大型电商履约设施。",
-      "publishedAt": "2026-07-15T03:50:00+08:00",
-      "source": "AMZ123跨境导航",
-      "url": "https://www.amz123.com/t/9AwPsaNc",
-      "subCategory": "新兴市场",
-      "id": "trade-20260715-020"
-    },
-    {
-      "title": "Temu加大打假力度，监控超1.5万家品牌",
-      "summary": "Temu发布2026年知识产权保护报告，主动监控品牌数超1.5万个，较一年前增长两倍，主动下架与被动投诉处理比例达331比1，图片检测数据库覆盖超4700万张图片，超40%新申请卖家因验证不通过被拒，已关闭超1.6万家违规店铺。",
-      "publishedAt": "2026-07-15T02:32:00+08:00",
-      "source": "AMZ123跨境导航",
-      "url": "https://www.amz123.com/t/GQeKwSoC",
-      "subCategory": "平台动态",
-      "id": "trade-20260715-018"
-    },
-    {
-      "id": "trade-20260714-012",
-      "title": "又一服务商疑似暴雷！拖欠运费超300万元，1.7万件货物遭留置",
-      "summary": "深圳一家国际物流公司公告称，某跨境供应链公司拖欠运费超300万元，其中已到期未付165万元、待结算135万元，物流公司已留置1.7万件、约1606立方米货物，并将7月14日设为最后付款期限。",
-      "publishedAt": "2026-07-14T20:55:00+08:00",
-      "source": "雨果网",
-      "url": "https://www.cifnews.com/article/187527",
-      "subCategory": "物流仓储"
-    },
-    {
-      "id": "trade-20260714-011",
-      "title": "欧洲本土时尚平台About You三大新政加码第三方卖家业务",
-      "summary": "欧盟取消150欧元以下小包关税豁免并改按每件征收3欧元关税后，欧洲时尚平台About You推出扩大自发货覆盖国家、升级平台仓配服务及部分类目降低1%至5%佣金三项举措，应对第三方卖家清关成本上升。",
-      "publishedAt": "2026-07-14T19:41:11+08:00",
-      "source": "亿邦动力",
-      "url": "https://m.ebrun.com/686862.html",
-      "subCategory": "平台政策"
-    },
-    {
-      "id": "trade-20260714-010",
-      "title": "Temu位居新加坡App Store购物榜前三 东南亚月活达2200万",
-      "summary": "网经社援引数据显示，Temu持续位居新加坡苹果应用商店购物类下载榜前三，仅次于Shopee；截至2025年6月，Temu东南亚月活跃用户达2200万，同比增长86%，菲律宾、泰国贡献主要流量增量。",
-      "publishedAt": "2026-07-14T18:03:24+08:00",
-      "source": "网经社",
-      "url": "https://www.100ec.cn/detail--6661340.html",
-      "subCategory": "新兴市场"
     }
   ]
 }

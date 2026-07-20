@@ -3,7 +3,7 @@
   "slug": "industry",
   "title": "行业新闻",
   "description": "企业服务、SaaS、云计算、制造业、消费互联网的产业动态。",
-  "updatedAt": "2026-07-19T23:10:00+08:00",
+  "updatedAt": "2026-07-20T09:30:00+08:00",
   "items": [
     {
       "title": "长城战略咨询：2025年中国独角兽376家，估值1.4万亿美元",
@@ -69,15 +69,6 @@
       "subCategory": "行业研报"
     },
     {
-      "id": "industry-20260719-002",
-      "title": "2025财年Q1-2026财年Q1亚马逊每股现金流及同比",
-      "summary": "199IT发布数据显示2025财年第一季度至2026财年第一季度亚马逊每股现金流及同比变化情况，文章附原始数据图表，为观察亚马逊经营现金流趋势提供参考。",
-      "publishedAt": "2026-07-18",
-      "source": "199IT",
-      "url": "https://www.199it.com/archives/1840651.html",
-      "subCategory": "行业研报"
-    },
-    {
       "id": "industry-20260718-021",
       "title": "2026年1-4月欧盟主要国家混合动力汽车新车注册量同比",
       "summary": "据ACEA数据，2026年1-4月欧盟主要国家混合动力汽车新车注册量同比涨跌不一：意大利增25.5%领跑，西班牙增19.7%，波兰增7.2%，德国增6.6%，法国增2.3%，荷兰则下降2.2%，市场分化明显。",
@@ -96,6 +87,15 @@
       "subCategory": "行业研报"
     },
     {
+      "id": "industry-20260719-002",
+      "title": "2025财年Q1-2026财年Q1亚马逊每股现金流及同比",
+      "summary": "199IT发布数据显示2025财年第一季度至2026财年第一季度亚马逊每股现金流及同比变化情况，文章附原始数据图表，为观察亚马逊经营现金流趋势提供参考。",
+      "publishedAt": "2026-07-18",
+      "source": "199IT",
+      "url": "https://www.199it.com/archives/1840651.html",
+      "subCategory": "行业研报"
+    },
+    {
       "id": "industry-20260717-901",
       "title": "国科微抛50.61亿元定增预案：超37亿元重仓AI相关芯片，股价较年内高点已回撤近60%",
       "summary": "国科微公告拟向不超过35名特定投资者定增募资不超过50.61亿元，其中超37亿元投向媒体交互、端侧及视觉处理AI芯片研发项目，公司股价自年内高点已回撤约58%。",
@@ -103,6 +103,15 @@
       "source": "每日经济新闻",
       "url": "https://www.nbd.com.cn/articles/2026-07-17/4476466.html",
       "subCategory": "半导体产业"
+    },
+    {
+      "title": "燕之屋预期中期收入增15%至20% 净利润增35%至50%",
+      "summary": "燕之屋发布正面盈利预告，预期截至2026年6月30日止六个月收入约11.67亿元至12.17亿元，同比增长15%至20%，净利润约1.05亿元至1.16亿元，同比增长35%至50%，主因渠道收入提升及生产效率改善。",
+      "publishedAt": "2026-07-17T22:13:00+08:00",
+      "source": "观点网",
+      "url": "https://www.guandian.cn/article/20260717/574379.html",
+      "subCategory": "公司动态",
+      "id": "industry-20260717-001"
     },
     {
       "id": "industry-20260717-950",
@@ -177,15 +186,6 @@
       "subCategory": "公司动态"
     },
     {
-      "id": "industry-20260717-905",
-      "title": "Z世代饮酒率稳至74%，婴儿潮一代降至71%",
-      "summary": "IWSR对19个国家逾3.2万名受访者的调查显示，Z世代饮酒参与率升至74%，三年前为66%，其中84%的适龄Z世代过去半年内消费过鸡尾酒；婴儿潮一代饮酒率降至71%，人均单次饮用量最低。",
-      "publishedAt": "2026-07-17",
-      "source": "199IT",
-      "url": "https://www.199it.com/archives/1840565.html",
-      "subCategory": "消费零售"
-    },
-    {
       "id": "industry-20260717-151",
       "title": "IMD：2026年世界竞争力年鉴",
       "summary": "IMD发布《2026年世界竞争力年鉴》称，2025年约68%的经济体法治水平出现下降，高于上年的57%，认为竞争优势正从成本规模技术转向制度可信度与法治水平。",
@@ -222,6 +222,15 @@
       "subCategory": "行业研报"
     },
     {
+      "id": "industry-20260717-905",
+      "title": "Z世代饮酒率稳至74%，婴儿潮一代降至71%",
+      "summary": "IWSR对19个国家逾3.2万名受访者的调查显示，Z世代饮酒参与率升至74%，三年前为66%，其中84%的适龄Z世代过去半年内消费过鸡尾酒；婴儿潮一代饮酒率降至71%，人均单次饮用量最低。",
+      "publishedAt": "2026-07-17",
+      "source": "199IT",
+      "url": "https://www.199it.com/archives/1840565.html",
+      "subCategory": "消费零售"
+    },
+    {
       "id": "industry-20260718-002",
       "title": "芯原股份2026年前七月新签订单达146.53亿元 AI与数据处理领域占比超九成",
       "summary": "芯原股份公告，2026年1月至7月16日新签订单合计146.53亿元，其中4月30日至7月16日新签64.13亿元订单中，AI算力及数据处理相关订单占比均超九成。",
@@ -229,6 +238,15 @@
       "source": "新浪财经",
       "url": "https://finance.sina.com.cn/stock/aigc/zdht/2026-07-16/doc-inihzfcw4441202.shtml",
       "subCategory": "半导体产业"
+    },
+    {
+      "title": "SEMI：2026年全球半导体设备销售额1659亿美元，同比增长23.2%",
+      "summary": "SEMI预测，2026年全球半导体制造设备销售额将达1659亿美元，同比增长23.2%，前端晶圆制造设备升至1439亿美元。受HBM需求拉动，DRAM设备销售额预计增长39%，NAND设备连续两年增速超30%。",
+      "publishedAt": "2026-07-16T20:11:37+08:00",
+      "source": "199IT",
+      "url": "https://www.199it.com/archives/1840195.html",
+      "subCategory": "半导体产业",
+      "id": "industry-20260716-006"
     },
     {
       "id": "industry-20260716-201",
@@ -247,6 +265,42 @@
       "source": "新浪科技",
       "url": "https://finance.sina.com.cn/tech/digi/2026-07-16/doc-inihyuqe1340567.shtml",
       "subCategory": "新能源汽车"
+    },
+    {
+      "id": "industry-20260718-005",
+      "title": "6月国内动力电池装车量76.5GWh，同比大增31.5%",
+      "summary": "中国汽车动力电池产业创新联盟数据显示，6月国内动力电池装车量76.5GWh，环比增长6.4%，同比增长31.5%，磷酸铁锂电池装车量占比达83.3%，上半年累计装车335.6GWh。",
+      "publishedAt": "2026-07-16T11:46:00+08:00",
+      "source": "新浪科技",
+      "url": "https://finance.sina.com.cn/tech/digi/2026-07-16/doc-inihyiye7729823.shtml",
+      "subCategory": "新能源汽车"
+    },
+    {
+      "id": "industry-20260716-304",
+      "title": "Gartner发布2026年上半年CIO报告，AI价值兑现成最大挑战",
+      "summary": "Gartner调查显示，83%的CEO正在加大AI投入，但71%的CIO仍难以识别可落地的业务场景，59%的AI项目未能进入生产环境。报告还指出，93%的董事会成员认为网络安全直接威胁股东价值。",
+      "publishedAt": "2026-07-16T04:38:00+08:00",
+      "source": "Gartner",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-07-16/doc-inihxtas1153255.shtml",
+      "subCategory": "企业服务"
+    },
+    {
+      "id": "industry-20260716-303",
+      "title": "Omdia：预计2026年全球云基础设施服务支出将增长27%",
+      "summary": "Omdia数据显示，2025年第四季度全球云基础设施支出达1109亿美元，同比增长29%，已连续多季度保持20%以上增速。Omdia预计2026年全球云基础设施服务支出将增长27%，AWS、Azure、谷歌云增速分别为24%、39%、50%。",
+      "publishedAt": "2026-07-16T02:37:00+08:00",
+      "source": "Omdia",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-07-16/doc-inihxnuv7993969.shtml",
+      "subCategory": "企业服务"
+    },
+    {
+      "title": "宁波江丰电子材料股份有限公司2026年半年度业绩预告",
+      "summary": "宁波江丰电子发布2026年半年度业绩预告，预计营收约27亿元，同比增长约30%；归母净利润4.80亿元至5.60亿元，同比增长89.99%至121.65%，主要受益于AI算力、存储及逻辑芯片需求持续释放。",
+      "publishedAt": "2026-07-16T01:45:00+08:00",
+      "source": "新浪财经",
+      "url": "https://finance.sina.com.cn/roll/2026-07-16/doc-inihxnuv7912500.shtml",
+      "subCategory": "半导体产业",
+      "id": "industry-20260716-007"
     },
     {
       "id": "industry-20260716-900",
@@ -312,33 +366,6 @@
       "id": "industry-20260716-950"
     },
     {
-      "id": "industry-20260718-005",
-      "title": "6月国内动力电池装车量76.5GWh，同比大增31.5%",
-      "summary": "中国汽车动力电池产业创新联盟数据显示，6月国内动力电池装车量76.5GWh，环比增长6.4%，同比增长31.5%，磷酸铁锂电池装车量占比达83.3%，上半年累计装车335.6GWh。",
-      "publishedAt": "2026-07-16T11:46:00+08:00",
-      "source": "新浪科技",
-      "url": "https://finance.sina.com.cn/tech/digi/2026-07-16/doc-inihyiye7729823.shtml",
-      "subCategory": "新能源汽车"
-    },
-    {
-      "id": "industry-20260716-304",
-      "title": "Gartner发布2026年上半年CIO报告，AI价值兑现成最大挑战",
-      "summary": "Gartner调查显示，83%的CEO正在加大AI投入，但71%的CIO仍难以识别可落地的业务场景，59%的AI项目未能进入生产环境。报告还指出，93%的董事会成员认为网络安全直接威胁股东价值。",
-      "publishedAt": "2026-07-16T04:38:00+08:00",
-      "source": "Gartner",
-      "url": "https://finance.sina.com.cn/tech/roll/2026-07-16/doc-inihxtas1153255.shtml",
-      "subCategory": "企业服务"
-    },
-    {
-      "id": "industry-20260716-303",
-      "title": "Omdia：预计2026年全球云基础设施服务支出将增长27%",
-      "summary": "Omdia数据显示，2025年第四季度全球云基础设施支出达1109亿美元，同比增长29%，已连续多季度保持20%以上增速。Omdia预计2026年全球云基础设施服务支出将增长27%，AWS、Azure、谷歌云增速分别为24%、39%、50%。",
-      "publishedAt": "2026-07-16T02:37:00+08:00",
-      "source": "Omdia",
-      "url": "https://finance.sina.com.cn/tech/roll/2026-07-16/doc-inihxnuv7993969.shtml",
-      "subCategory": "企业服务"
-    },
-    {
       "id": "industry-20260716-003",
       "title": "中国巨石：拟24.05亿元建设年产2.5亿米电子布生产线建设项目",
       "summary": "中国巨石公告称，全资子公司巨石集团拟投资24.05亿元建设年产2.5亿米电子布生产线项目，为公司在电子布领域新增产能布局。",
@@ -375,6 +402,24 @@
       "subCategory": "消费零售"
     },
     {
+      "id": "industry-20260715-202",
+      "title": "ACS：预计2026年美国新增癌症病例211.5万例，死亡病例约62.6万例",
+      "summary": "美国癌症协会最新报告预测，2026年美国将新增约211.49万例癌症病例，死亡病例约62.61万例，平均每天约1700人因癌症死亡。报告指出癌症死亡率较1991年峰值下降34%，至少四成新发病例理论上可预防。",
+      "publishedAt": "2026-07-15T06:24:00+08:00",
+      "source": "美国癌症协会（ACS）",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-07-15/doc-inihvqcn8175849.shtml",
+      "subCategory": "医疗健康"
+    },
+    {
+      "id": "industry-20260715-900",
+      "title": "中国信通院规划所联合发布《“人工智能+消费”发展研究报告（2026年）》",
+      "summary": "中国信通院报告提出，人工智能与消费的融合是双向耦合的系统性变革，可划分为效率提升、消费重构、价值共创三个演进阶段，并提出基于区域资源禀赋差异的四条发展路径，推动智能消费升级。",
+      "publishedAt": "2026-07-15T00:09:00+08:00",
+      "source": "新浪财经",
+      "url": "https://finance.sina.com.cn/wm/2026-07-15/doc-inihvcpx8020680.shtml",
+      "subCategory": "消费零售"
+    },
+    {
       "id": "industry-20260716-001",
       "title": "2026年上半年社会消费品零售总额增长1.3%",
       "summary": "国家统计局发布数据，2026年上半年社会消费品零售总额24.8722万亿元，同比增长1.3%；乡村消费品零售额增速快于城镇，网上商品和服务零售额同比增长5.2%。",
@@ -400,24 +445,6 @@
       "url": "https://www.199it.com/archives/1840223.html",
       "subCategory": "新能源汽车",
       "id": "industry-20260716-005"
-    },
-    {
-      "id": "industry-20260715-202",
-      "title": "ACS：预计2026年美国新增癌症病例211.5万例，死亡病例约62.6万例",
-      "summary": "美国癌症协会最新报告预测，2026年美国将新增约211.49万例癌症病例，死亡病例约62.61万例，平均每天约1700人因癌症死亡。报告指出癌症死亡率较1991年峰值下降34%，至少四成新发病例理论上可预防。",
-      "publishedAt": "2026-07-15T06:24:00+08:00",
-      "source": "美国癌症协会（ACS）",
-      "url": "https://finance.sina.com.cn/tech/roll/2026-07-15/doc-inihvqcn8175849.shtml",
-      "subCategory": "医疗健康"
-    },
-    {
-      "id": "industry-20260715-900",
-      "title": "中国信通院规划所联合发布《“人工智能+消费”发展研究报告（2026年）》",
-      "summary": "中国信通院报告提出，人工智能与消费的融合是双向耦合的系统性变革，可划分为效率提升、消费重构、价值共创三个演进阶段，并提出基于区域资源禀赋差异的四条发展路径，推动智能消费升级。",
-      "publishedAt": "2026-07-15T00:09:00+08:00",
-      "source": "新浪财经",
-      "url": "https://finance.sina.com.cn/wm/2026-07-15/doc-inihvcpx8020680.shtml",
-      "subCategory": "消费零售"
     },
     {
       "id": "industry-20260714-900",
@@ -471,6 +498,42 @@
       "publishedAt": "2026-07-14T13:36:00+08:00",
       "source": "新浪财经",
       "url": "https://finance.sina.com.cn/stock/aiassist/ydfx/2026-07-14/doc-inihuaah5280191.shtml",
+      "subCategory": "公司动态"
+    },
+    {
+      "id": "industry-20260714-003",
+      "title": "QuestMobile发布6月国内AI原生App月活榜，豆包以约3.8亿规模居首",
+      "summary": "QuestMobile数据显示，截至2026年5月，国内AI原生App月活跃用户规模达4.99亿，同比增长85.4%；豆包、千问、DeepSeek月活分别约3.82亿、1.67亿、1.3亿，构成用户规模第一梯队。",
+      "publishedAt": "2026-07-14T11:27:00+08:00",
+      "source": "新浪财经（QuestMobile）",
+      "url": "https://finance.sina.com.cn/tech/digi/2026-07-14/doc-inihtvuk5352510.shtml",
+      "subCategory": "行业研报"
+    },
+    {
+      "id": "industry-20260715-002",
+      "title": "我国外贸“含智量”稳步提升 工业机器人上半年出口62.9亿元",
+      "summary": "报道称，2026年上半年我国工业机器人出口62.9亿元，同比增长18.6%，销往141个国家和地区；手术机器人出口4.8亿元，同比增长3.3倍，出口市场由去年同期23个增至49个，2025年我国工业机器人首次成为净出口国。",
+      "publishedAt": "2026-07-14T11:25:49+08:00",
+      "source": "每日经济新闻",
+      "url": "https://www.nbd.com.cn/articles/2026-07-14/4470751.html",
+      "subCategory": "制造业"
+    },
+    {
+      "title": "Why Huawei and Apple Grew While China's Smartphone Market Fell Again in Q2 2026",
+      "summary": "IDC数据显示，2026年第二季度中国智能手机出货量约6600万部，同比下降4.3%，为连续第五个季度下滑；华为、苹果出货量分别逆势增长约19.4%和24.4%，市场份额升至22.6%和18.1%。",
+      "publishedAt": "2026-07-14T03:25:38Z",
+      "source": "IDC",
+      "url": "https://www.idc.com/resource-center/blog/china-smartphone-market-decline-q2-2026/",
+      "subCategory": "行业研报",
+      "id": "industry-20260715-005"
+    },
+    {
+      "id": "industry-20260714-001",
+      "title": "成本高出对手 20%：大众汽车正考虑追加裁员 5 万人，累计裁员上限达 10 万",
+      "summary": "大众汽车CEO奥博穆在内部信中披露，公司目前运营成本较竞争对手高出约20%，正考虑在此前已达成的裁员基础上再追加约5万个岗位，累计裁员上限或达10万人。危机主因包括关税成本、中国市场竞争加剧及制造效率不足，工会方面已拒绝在埃姆登、汉诺威、茅维克、内卡苏尔集等工厂关闭产线的提议，管理层表示倾向于审慎方案而非立即停产。",
+      "publishedAt": "2026-07-14T08:25:53+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/976/272.htm",
       "subCategory": "公司动态"
     },
     {
@@ -546,42 +609,6 @@
       "subCategory": "新能源汽车"
     },
     {
-      "id": "industry-20260714-003",
-      "title": "QuestMobile发布6月国内AI原生App月活榜，豆包以约3.8亿规模居首",
-      "summary": "QuestMobile数据显示，截至2026年5月，国内AI原生App月活跃用户规模达4.99亿，同比增长85.4%；豆包、千问、DeepSeek月活分别约3.82亿、1.67亿、1.3亿，构成用户规模第一梯队。",
-      "publishedAt": "2026-07-14T11:27:00+08:00",
-      "source": "新浪财经（QuestMobile）",
-      "url": "https://finance.sina.com.cn/tech/digi/2026-07-14/doc-inihtvuk5352510.shtml",
-      "subCategory": "行业研报"
-    },
-    {
-      "id": "industry-20260715-002",
-      "title": "我国外贸“含智量”稳步提升 工业机器人上半年出口62.9亿元",
-      "summary": "报道称，2026年上半年我国工业机器人出口62.9亿元，同比增长18.6%，销往141个国家和地区；手术机器人出口4.8亿元，同比增长3.3倍，出口市场由去年同期23个增至49个，2025年我国工业机器人首次成为净出口国。",
-      "publishedAt": "2026-07-14T11:25:49+08:00",
-      "source": "每日经济新闻",
-      "url": "https://www.nbd.com.cn/articles/2026-07-14/4470751.html",
-      "subCategory": "制造业"
-    },
-    {
-      "title": "Why Huawei and Apple Grew While China's Smartphone Market Fell Again in Q2 2026",
-      "summary": "IDC数据显示，2026年第二季度中国智能手机出货量约6600万部，同比下降4.3%，为连续第五个季度下滑；华为、苹果出货量分别逆势增长约19.4%和24.4%，市场份额升至22.6%和18.1%。",
-      "publishedAt": "2026-07-14T03:25:38Z",
-      "source": "IDC",
-      "url": "https://www.idc.com/resource-center/blog/china-smartphone-market-decline-q2-2026/",
-      "subCategory": "行业研报",
-      "id": "industry-20260715-005"
-    },
-    {
-      "id": "industry-20260714-001",
-      "title": "成本高出对手 20%：大众汽车正考虑追加裁员 5 万人，累计裁员上限达 10 万",
-      "summary": "大众汽车CEO奥博穆在内部信中披露，公司目前运营成本较竞争对手高出约20%，正考虑在此前已达成的裁员基础上再追加约5万个岗位，累计裁员上限或达10万人。危机主因包括关税成本、中国市场竞争加剧及制造效率不足，工会方面已拒绝在埃姆登、汉诺威、茅维克、内卡苏尔集等工厂关闭产线的提议，管理层表示倾向于审慎方案而非立即停产。",
-      "publishedAt": "2026-07-14T08:25:53+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/976/272.htm",
-      "subCategory": "公司动态"
-    },
-    {
       "id": "industry-20260713-900",
       "title": "Samsung overtakes Apple as smartphone market sinks to a 13-year low",
       "summary": "Counterpoint Research数据显示，2026年第二季度全球智能手机出货量同比下降11%，创13年来次季度新低；三星以24%份额重夺全球第一，苹果占20%创纪录，小米、OPPO、vivo均出现两位数下滑。",
@@ -618,24 +645,6 @@
       "subCategory": "半导体产业"
     },
     {
-      "id": "industry-20260713-901",
-      "title": "Study: The National AI Policy Landscape in K–12 Education",
-      "summary": "一项覆盖38个州122个学区的研究显示，44.3%的学区仅允许在教师明确授权下使用人工智能，约25%限制或禁止使用，仅31%制定了主动性政策框架，多数学区对AI治理仍处于被动应对状态。",
-      "publishedAt": "2026-07-13",
-      "source": "EdSurge",
-      "url": "https://www.edsurge.com/news/study-the-national-ai-policy-landscape-in-k-12-education",
-      "subCategory": "教育科技"
-    },
-    {
-      "id": "industry-20260713-007",
-      "title": "Counterpoint：2026年第二季度全球智能手机出货量降至13年来同期最低",
-      "summary": "Counterpoint Research报告显示，受存储芯片短缺加剧影响，2026年第二季度全球智能手机出货量同比下降，创13年来同期新低；三星以24%份额居首，苹果份额升至创纪录的20%，全年出货量预计下滑约14%。",
-      "publishedAt": "2026-07-13",
-      "source": "Counterpoint Research",
-      "url": "https://counterpointresearch.com/en/insights/global-smartphone-shipments-q2-2026",
-      "subCategory": "行业研报"
-    },
-    {
       "id": "industry-20260713-005",
       "title": "首发| AI Token工厂爆发，趋境科技半年融资10亿",
       "summary": "AI推理服务商趋境科技完成A轮融资，半年内累计融资超10亿元，由河南投资集团汇融基金领投，资金将用于扩大AI Token产能及升级ATaaS生产服务平台，推动国产算力规模化应用。",
@@ -652,6 +661,24 @@
       "source": "上海证券报",
       "url": "https://www.stcn.com/article/detail/4013491.html",
       "subCategory": "半导体产业"
+    },
+    {
+      "id": "industry-20260713-901",
+      "title": "Study: The National AI Policy Landscape in K–12 Education",
+      "summary": "一项覆盖38个州122个学区的研究显示，44.3%的学区仅允许在教师明确授权下使用人工智能，约25%限制或禁止使用，仅31%制定了主动性政策框架，多数学区对AI治理仍处于被动应对状态。",
+      "publishedAt": "2026-07-13",
+      "source": "EdSurge",
+      "url": "https://www.edsurge.com/news/study-the-national-ai-policy-landscape-in-k-12-education",
+      "subCategory": "教育科技"
+    },
+    {
+      "id": "industry-20260713-007",
+      "title": "Counterpoint：2026年第二季度全球智能手机出货量降至13年来同期最低",
+      "summary": "Counterpoint Research报告显示，受存储芯片短缺加剧影响，2026年第二季度全球智能手机出货量同比下降，创13年来同期新低；三星以24%份额居首，苹果份额升至创纪录的20%，全年出货量预计下滑约14%。",
+      "publishedAt": "2026-07-13",
+      "source": "Counterpoint Research",
+      "url": "https://counterpointresearch.com/en/insights/global-smartphone-shipments-q2-2026",
+      "subCategory": "行业研报"
     },
     {
       "id": "industry-20260713-001",
@@ -697,33 +724,6 @@
       "source": "新浪财经",
       "url": "https://finance.sina.cn/stock/jdts/2026-07-11/detail-inihmvnx5018566.d.html",
       "subCategory": "半导体产业"
-    },
-    {
-      "id": "industry-20260710-901",
-      "title": "拓荆科技拟收购无锡尚积半导体控股权，7月13日复牌",
-      "summary": "半导体设备商拓荆科技披露重组预案，拟发行股份及支付现金收购无锡尚积82.97%股份，交易完成后将全资控股无锡尚积，公司股票 7月13日复牌。",
-      "publishedAt": "2026-07-10T23:26:00+08:00",
-      "source": "手机金融界",
-      "url": "https://m.jrj.com.cn/madapter/finance/2026/07/10232657767351.shtml",
-      "subCategory": "公司动态"
-    },
-    {
-      "id": "industry-20260712-102",
-      "title": "比亚迪腾势腾它N8纯电SUV完成工信部申报，提供三电机版本",
-      "summary": "工信部第409批新车公示显示，比亚迪腾势腾它N8纯电动版完成申报，车身长5150毫米、轴距3075毫米，提供单电机、三电机及高性能单电机三种动力版本，最高车速240公里/小时，全系标配全景天幕。",
-      "publishedAt": "2026-07-10T17:49:54+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/975/275.htm",
-      "subCategory": "新能源汽车"
-    },
-    {
-      "id": "industry-20260712-006",
-      "title": "全国用电负荷首创历史新高 国家能源局多措并举全力保障电力供应平稳有序",
-      "summary": "国家能源局数据显示，7月10日全国用电负荷达15.18亿千瓦，创历史新高，超过2025年7月历史极值。1至5月全社会用电量同比增长5.7%，充换电服务用电增长56.8%，互联网数据服务用电增长44.6%，高温是负荷上升直接因素。",
-      "publishedAt": "2026-07-10",
-      "source": "国家能源局",
-      "url": "https://www.nea.gov.cn/20260710/02dd0d866ecd4e12855f69848a350181/c.html",
-      "subCategory": "行业研报"
     }
   ]
 }
