@@ -3,8 +3,116 @@
   "slug": "finance",
   "title": "投资与财经",
   "description": "宏观经济、A 股 / 港股 / 美股、一级市场融资、行业研报观点。",
-  "updatedAt": "2026-07-20T09:30:00+08:00",
+  "updatedAt": "2026-07-20T17:02:39+08:00",
   "items": [
+    {
+      "id": "finance-20260720-012",
+      "title": "Oil prices extend gains on escalating Middle East hostilities",
+      "summary": "受美伊冲突持续升级影响，布伦特原油周一一度突破每桶90美元，创逾一个月新高，WTI原油触及6月中旬以来最高点；据分析师统计，霍尔木兹海峡油轮通行量骤降，周日仅4艘船只通过，前一日为8艘。",
+      "publishedAt": "2026-07-20T03:27:00-05:00",
+      "source": "路透社（雅虎财经转载）",
+      "url": "https://finance.yahoo.com/news/brent-oil-tops-90-us-001615973.html",
+      "subCategory": "大宗商品"
+    },
+    {
+      "id": "finance-20260720-007",
+      "title": "最新LPR出炉：1年期3%，5年期以上3.5%，均不变",
+      "summary": "中国人民银行7月20日授权全国银行间同业拆借中心公布，1年期贷款市场报价利率（LPR）为3.00%，5年期以上为3.50%，均与上月持平，为连续第14个月维持不变，7天期逆回购利率同步保持不变。",
+      "publishedAt": "2026-07-20T14:32:41+08:00",
+      "source": "每日经济新闻",
+      "url": "https://www.nbd.com.cn/articles/2026-07-20/4481293.html",
+      "subCategory": "政策利率"
+    },
+    {
+      "id": "finance-20260720-010",
+      "title": "Kimi击穿开源天花板，全球科技股3日蒸发4700亿美元",
+      "summary": "月之暗面7月17日发布开源模型Kimi K3后，全球AI板块三日内市值蒸发约4700亿美元，费城半导体指数一周下跌12.5%进入技术性熊市，香港上市的智谱单日暴跌28.49%，MiniMax下跌15.62%。",
+      "publishedAt": "2026-07-20T14:21:00+08:00",
+      "source": "证券时报",
+      "url": "https://www.stcn.com/article/detail/4028960.html",
+      "subCategory": "风险事件"
+    },
+    {
+      "id": "finance-20260720-008",
+      "title": "工信部：加快出台\"人工智能+软件\"行动方案",
+      "summary": "工业和信息化部新闻发言人陶青7月20日表示，将加快出台\"人工智能+软件\"行动方案，推动软件开发智能化转型与新业态培育。今年1至5月，我国软件业务收入超6.2万亿元，同比增长10.3%。",
+      "publishedAt": "2026-07-20T14:12:00+08:00",
+      "source": "新浪财经",
+      "url": "https://finance.sina.com.cn/roll/2026-07-20/doc-iniimqsk8231019.shtml",
+      "subCategory": "宏观经济"
+    },
+    {
+      "id": "finance-20260720-014",
+      "title": "深圳市重大产业生态发展基金设立",
+      "summary": "深圳市重投一号重大产业生态发展私募股权投资基金合伙企业正式注册设立，为私募新规后首批完成备案的基金，总规模100亿元，首期39.4亿元，由深重投集团联合多家国资平台发起，聚焦半导体、人工智能等产业。",
+      "publishedAt": "2026-07-20T13:46:00+08:00",
+      "source": "新浪财经",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-07-20/doc-iniimqsn4982987.shtml",
+      "subCategory": "一级市场"
+    },
+    {
+      "id": "finance-20260720-003",
+      "title": "A股全线反攻！A50直线飙涨！中金：年内二次买点或已到来",
+      "summary": "7月20日A股三大指数集体上涨，午间收盘上证指数涨1.18%，深证成指涨0.21%，沪深两市半日成交额1.68万亿元，逾3100只个股上涨，电力、煤炭、白酒等板块领涨，国新投资、中国诚通公告增持提振市场信心。",
+      "publishedAt": "2026-07-20T12:51:00+08:00",
+      "source": "东方财富网",
+      "url": "https://finance.eastmoney.com/a/202607203812809671.html",
+      "subCategory": "A股"
+    },
+    {
+      "id": "finance-20260720-006",
+      "title": "组合拳落地！证监会召开稳市场座谈会，央企、机构、上市公司护盘齐筑市场信心底",
+      "summary": "证监会7月20日召开座谈会，听取证券公司、基金机构及上市公司对促进市场稳定健康发展的意见。同期国新投资、中国诚通披露已合计动用超5000亿元资金稳市，宽基ETF年内净流入2.29万亿元。",
+      "publishedAt": "2026-07-20T12:41:00+08:00",
+      "source": "新浪财经（界面新闻）",
+      "url": "https://finance.sina.com.cn/jjxw/2026-07-20/doc-iniimqsf2982250.shtml",
+      "subCategory": "政策利率"
+    },
+    {
+      "id": "finance-20260720-005",
+      "title": "A股异动丨PCB概念股集体下跌，铜冠铜箔20CM跌停，Q2净利预计环比-7%-11%",
+      "summary": "铜冠铜箔预计2026年上半年净利润2.05亿至2.25亿元，同比增长486.49%至543.70%，但因二季度净利润预计环比下降7%至11%，公司股票20CM跌停，其余多家PCB概念股同步大幅下挫。",
+      "publishedAt": "2026-07-20T12:30:09+08:00",
+      "source": "网易财经（新浪财经）",
+      "url": "https://www.163.com/dy/article/L29H044L0519D4UH.html",
+      "subCategory": "公司财报"
+    },
+    {
+      "id": "finance-20260720-013",
+      "title": "首发｜\"国家队\"做量子计算，3个月完成2轮融资",
+      "summary": "源自中科院计算所的量子计算公司中科量枢3个月内完成天使轮与天使+轮两轮融资，天使轮由普华资本、知一投资领投，九坤创投跟投；天使+轮由北工量子基金独家投资，公司专注量子计算软件研发。",
+      "publishedAt": "2026-07-20T11:42:48+08:00",
+      "source": "网易财经",
+      "url": "https://www.163.com/dy/article/L29E9DUB05199LET.html",
+      "subCategory": "一级市场"
+    },
+    {
+      "id": "finance-20260720-004",
+      "title": "7家央企密集出手 增持回购释放护盘信号",
+      "summary": "7月20日盘前，中国中煤、中国神华、中国中车、中国铝业、国电南瑞等央企旗下上市公司密集公告增持、回购或分红方案，其中中国铝业拟增持不超过20亿元，国电南瑞拟回购5亿至10亿元股份。",
+      "publishedAt": "2026-07-20T11:42:00+08:00",
+      "source": "东方财富网",
+      "url": "https://finance.eastmoney.com/a/202607203812710279.html",
+      "subCategory": "A股"
+    },
+    {
+      "id": "finance-20260720-002",
+      "title": "A股\"喝酒\"行情继续！茅台年内再提价，白酒板块全线飘红",
+      "summary": "贵州茅台宣布年内第二次提价，飞天茅台出厂价由1539元上调至1639元，带动白酒板块走强，泸州老窖、山西汾酒等跟涨，茅台股价当日涨超5%。国家统计局数据显示6月烟酒类零售增长12.1%，上半年增长13.2%。",
+      "publishedAt": "2026-07-20T11:17:00+08:00",
+      "source": "东方财富网",
+      "url": "https://finance.eastmoney.com/a/202607203812679921.html",
+      "subCategory": "A股"
+    },
+    {
+      "id": "finance-20260720-011",
+      "title": "港股開市｜初段造好 恒指升272點報24,835點 阿里巴巴高開逾3%",
+      "summary": "7月20日港股开盘走高，恒生指数高开272点报24835点，涨幅1.11%；恒生科技指数开盘涨2.2%，国企指数涨1.43%；阿里巴巴因发布新AI模型消息高开逾3%，部分公用事业及地产股小幅下跌。",
+      "publishedAt": "2026-07-20T09:26:00+08:00",
+      "source": "巴士的报",
+      "url": "https://www.bastillepost.com/hongkong/article/16398512",
+      "subCategory": "港股"
+    },
     {
       "title": "股海导航：2026年7月20日沪深股市公告与交易提示",
       "summary": "沪深股市7月20日早间公告摘要显示，多只个股复牌交易，中国神华披露6月商品煤产量4270万吨、销量5050万吨同比下降，另有多家公司发布股份回购计划及2026年上半年业绩预告，预增幅度20%至486%不等。",
@@ -13,6 +121,24 @@
       "url": "https://finance.sina.com.cn/stock/s/2026-07-20/doc-iniikxus8148270.shtml",
       "subCategory": "A股",
       "id": "finance-20260720-001"
+    },
+    {
+      "id": "finance-20260720-009",
+      "title": "Technology growth fuels Shanghai's 5.6% GDP growth in H1 2026",
+      "summary": "上海市统计局7月20日发布数据，上半年上海地区生产总值约2.79万亿元，按不变价格计算同比增长5.6%，其中信息技术和软件服务业增长9.1%，集成电路制造业和人工智能制造业产值增速均约20%。",
+      "publishedAt": "2026-07-20",
+      "source": "China Daily",
+      "url": "https://www.chinadaily.com.cn/a/202607/20/WS6a5dbefda310986e2b466337.html",
+      "subCategory": "宏观经济"
+    },
+    {
+      "id": "finance-20260720-015",
+      "title": "Nvidia Stock NVDA Tests $200 Support as Chinese AI Competition Shakes the Chip Rally",
+      "summary": "受中国人工智能企业竞争加剧及AI支出前景担忧影响，英伟达股价回落测试200美元关键支撑位，费城半导体指数当周跌幅约10%并跌入技术性熊市，英伟达较2026年高点回落约14%。",
+      "publishedAt": "2026-07-20",
+      "source": "FX Leaders",
+      "url": "https://www.fxleaders.com/news/2026/07/20/nvidia-stock-nvda-tests-200-support-as-chinese-ai-competition-shakes-the-chip-rally/",
+      "subCategory": "美股"
     },
     {
       "title": "中国国新、中国诚通等两家央企宣布增持",
@@ -598,132 +724,6 @@
       "url": "https://www.yicai.com/news/103277196.html",
       "subCategory": "A股",
       "id": "finance-20260716-014"
-    },
-    {
-      "title": "韩国央行宣布：加息25个基点！股市已跌入熊市",
-      "summary": "韩国央行7月16日将政策利率上调25个基点至2.75%，为2023年1月以来首次加息。消息后韩国综合股指跌超6%，SK海力士跌超11%，三星电子跌超8%，股指自6月高点回落26%进入熊市。",
-      "publishedAt": "2026-07-16T09:25:18+08:00",
-      "source": "每日经济新闻",
-      "url": "https://www.nbd.com.cn/articles/2026-07-16/4474239.html",
-      "subCategory": "政策利率",
-      "id": "finance-20260716-013"
-    },
-    {
-      "title": "现货黄金跌破4050美元，日内下跌0.25%",
-      "summary": "7月16日亚市盘中，现货黄金价格跌破4050美元/盎司关口，日内跌幅0.25%。",
-      "publishedAt": "2026-07-16T08:59:22+08:00",
-      "source": "每日经济新闻",
-      "url": "https://www.nbd.com.cn/articles/2026-07-16/4474193.html",
-      "subCategory": "大宗商品",
-      "id": "finance-20260716-017"
-    },
-    {
-      "id": "finance-20260716-005",
-      "title": "Why Greylock capped its new fund at $1.5B when it says it could have raised more",
-      "summary": "硅谷风投Greylock宣布完成第18期基金募集，规模15亿美元，较2023年上一期基金增长50%，公司称本可募集更多但主动限制规模，约15%将投向后期公司。",
-      "publishedAt": "2026-07-16T08:20:00+08:00",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/15/why-greylock-capped-its-new-fund-at-1-5b-when-it-says-it-could-have-raised-more/",
-      "subCategory": "一级市场"
-    },
-    {
-      "id": "finance-20260716-008",
-      "title": "Stock market today: Dow, S&P 500, Nasdaq rise as Apple notches record high",
-      "summary": "美股周三上涨，道指涨0.2%，标普500涨0.3%，纳指涨0.6%；苹果因获批在中国上线AI功能股价创历史新高，Alphabet涨近3%，美光科技、SK海力士跌超7%。",
-      "publishedAt": "2026-07-16T04:04:00+08:00",
-      "source": "雅虎财经",
-      "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-july-15-dow-sp-nasdaq-091813320.html",
-      "subCategory": "美股"
-    },
-    {
-      "id": "finance-20260716-007",
-      "title": "Daniel Ek's body-scanning startup Neko Health raises another $700M",
-      "summary": "由Spotify创始人Daniel Ek联合创办的体检初创公司Neko Health完成7亿美元C轮融资，Lightspeed Venture Partners与O.G. Venture Partners领投，此前2025年1月完成2.6亿美元B轮融资。",
-      "publishedAt": "2026-07-16T03:46:00+08:00",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/15/daniel-eks-body-scanning-startup-neko-health-raises-another-700m/",
-      "subCategory": "一级市场"
-    },
-    {
-      "id": "finance-20260716-408",
-      "title": "联合健康集团公布二季度业绩 上调全年盈利指引",
-      "summary": "联合健康集团公布2026年第二季度业绩，营收1120亿美元，营业利润80亿美元，每股收益6.04美元（调整后6.38美元）；公司同时上调全年调整后每股收益指引至19.50至20.00美元区间。",
-      "publishedAt": "2026-07-16",
-      "source": "UnitedHealth Group Newsroom",
-      "url": "https://www.unitedhealthgroup.com/newsroom/2026/2026-07-16-uhg-reports-second-quarter-2026-results.html",
-      "subCategory": "公司财报"
-    },
-    {
-      "id": "finance-20260717-151",
-      "title": "百度拟自愿转换为港交所主要上市地位",
-      "summary": "百度董事会已授权管理层推进公司在香港联交所主板的上市地位由第二上市自愿转换为主要上市，预计年内完成，转换后公司股份将继续在纳斯达克与港交所两地维持双重主要上市并可互相转换。",
-      "publishedAt": "2026-07-16",
-      "source": "PR Newswire",
-      "url": "https://www.manilatimes.net/2026/07/16/tmt-newswire/pr-newswire/baidu-to-pursue-voluntary-conversion-to-dual-primary-listing-on-the-main-board-of-the-stock-exchange-of-hong-kong-limited/2385675",
-      "subCategory": "港股"
-    },
-    {
-      "id": "finance-20260716-407",
-      "title": "美国货币市场基金资产一周缩水600亿美元至7.89万亿美元",
-      "summary": "美国投资公司协会（ICI）数据显示，截至7月15日当周，美国货币市场基金总资产减少599亿美元至7.89万亿美元，其中政府类基金减少526亿美元，优先类基金减少49亿美元。",
-      "publishedAt": "2026-07-16",
-      "source": "ICI (Investment Company Institute)",
-      "url": "https://www.ici.org/research/stats/mmf",
-      "subCategory": "宏观经济"
-    },
-    {
-      "id": "finance-20260716-404",
-      "title": "芯片股抛售拖累纳斯达克100指数下跌1.6%",
-      "summary": "受AI资本支出前景担忧影响，芯片股集体下挫，纳斯达克100指数下跌约1.6%至29032点，科技板块ETF跌2.4%，SanDisk单日重挫11.2%，存储芯片股领跌。",
-      "publishedAt": "2026-07-16",
-      "source": "Benzinga",
-      "url": "https://www.benzinga.com/markets/market-summary/26/07/60505919/stock-market-to-day-chipmakers-nasdaq-100-gold-4000-sandisk-stocks-performance-daily-movers-thursday-wall-street",
-      "subCategory": "美股"
-    },
-    {
-      "id": "finance-20260716-900",
-      "title": "Iraqi oil loadings briefly suspended after drone hits tanker at Basra, sources say",
-      "summary": "一架无人机7月16日击中伊拉克巴士拉码头一艘油轮，当地原油装载一度暂停后恢复，未造成起火或人员伤亡，伊拉克国家石油销售组织负责人称袭击目标并非该码头，事件凸显伊朗冲突下海湾能源运输持续承压。",
-      "publishedAt": "2026-07-16",
-      "source": "Arab News",
-      "url": "https://www.arabnews.com/node/2651163/middle-east",
-      "subCategory": "风险事件"
-    },
-    {
-      "id": "finance-20260716-006",
-      "title": "Stripe and Advent reportedly offered to buy PayPal for around $53.4B",
-      "summary": "据路透社报道，支付公司Stripe与私募股权公司Advent International联合提出约534亿美元收购PayPal的方案，包含约500亿美元银行融资，双方将各持一半股权。",
-      "publishedAt": "2026-07-15T23:30:00+08:00",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/15/stripe-and-advent-reportedly-offered-to-buy-paypal-for-around-53-4b/",
-      "subCategory": "风险事件"
-    },
-    {
-      "id": "finance-20260716-002",
-      "title": "7月15日重要资讯一览",
-      "summary": "央行表示将根据流动性需求适时选用存款准备金、逆回购、MLF等工具；上半年社会融资规模增量20.84万亿元，同比少增2.02万亿元；二季度全球智能手机出货量同比下降9.7%。",
-      "publishedAt": "2026-07-15T21:43:00+08:00",
-      "source": "证券时报",
-      "url": "https://www.stcn.com/article/detail/4021815.html",
-      "subCategory": "宏观经济"
-    },
-    {
-      "id": "finance-20260716-001",
-      "title": "科创板晚报|佰维存储上半年净利同比预增至高3422% 天智航拟购买上海骨科控股权",
-      "summary": "佰维存储预计上半年净利润70亿至75亿元，同比增长3200%至3422%；天智航拟通过发行股份购买上海微创骨科医疗控股权并配套融资，股票7月16日起停牌。",
-      "publishedAt": "2026-07-15T20:58:00+08:00",
-      "source": "财联社",
-      "url": "https://www.cls.cn/detail/2427605",
-      "subCategory": "公司财报"
-    },
-    {
-      "id": "finance-20260716-009",
-      "title": "晚间公告｜7月15日这些公告有看头",
-      "summary": "金煤科技预告上半年扭亏为盈；恒尚节能12天11板股价累计上涨208.58%；迪哲医药与阿斯利康签署全球授权协议；中国巨石子公司拟投资24.05亿元建设电子布产线。",
-      "publishedAt": "2026-07-15T18:57:04+08:00",
-      "source": "第一财经",
-      "url": "https://www.yicai.com/news/103276572.html",
-      "subCategory": "公司财报"
     }
   ]
 }

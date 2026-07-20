@@ -3,8 +3,71 @@
   "slug": "ai",
   "title": "AI 与大模型",
   "description": "大模型、Agent、AI 编程、推理框架、开源模型的发布与落地。",
-  "updatedAt": "2026-07-20T09:30:00+08:00",
+  "updatedAt": "2026-07-20T17:02:39+08:00",
   "items": [
+    {
+      "id": "ai-20260720-007",
+      "title": "国家具身智能应用中试基地发布首个合作世界模型 魔芯科技MoWorld 3D正式亮相",
+      "summary": "国家具身智能应用中试基地举办首场世界模型发布活动，联合华为云与魔芯科技推出基于国产算力的全栈三维世界模型MoWorld 3D，已上线华为云面向行业开放，应用方向涵盖智慧城市、工业仿真与数字内容生成，并公布\"未来数字城市基础设施\"共建计划。",
+      "publishedAt": "2026-07-20T16:44:24+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/07/455517.html",
+      "subCategory": "具身智能"
+    },
+    {
+      "id": "ai-20260720-003",
+      "title": "光鉴科技发布具身智能视觉感知方案，为物理AI提供视觉感知基础",
+      "summary": "光鉴科技在WAIC 2026发布具身智能视觉感知方案，采用AI双目视觉技术与自研立体匹配算法，实现透明玻璃、反光金属、低纹理表面的稳定深度恢复，推出面向近距离操作的Libra 1000（2cm基线）与面向中远距导航的Libra 3000（7cm基线）两款模组。",
+      "publishedAt": "2026-07-20T13:52:15+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/07/455438.html",
+      "subCategory": "具身智能"
+    },
+    {
+      "id": "ai-20260720-004",
+      "title": "WAIC 2026｜智象未来发布全球首个无限时长内容创作智能体——vivago R1",
+      "summary": "智象未来在WAIC 2026发布内容创作智能体vivago R1，称其为全球首个无限时长创作智能体，可突破常见15-30秒时长限制，通过多智能体协同完成从剧本理解到成片输出全流程，内容可用率达85%，同时公布\"具身智能创新联盟\"等合作计划。",
+      "publishedAt": "2026-07-20T13:43:42+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/07/455434.html",
+      "subCategory": "AI视频"
+    },
+    {
+      "id": "ai-20260720-005",
+      "title": "「仿真派」落地真产线！苏度WAIC首秀，CEO韩铮：99%+成功率",
+      "summary": "具身智能公司苏度在WAIC 2026首次公开亮相，展示精密装配、柔性操作、移动操作及多机协作产线等演示，CEO韩铮表示公司以大规模仿真数据为主、少量真实数据微调，内部标准成功率达99%以上，并与宁德时代合作电池模组产线自动化演示。",
+      "publishedAt": "2026-07-20T13:35:02+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/07/455400.html",
+      "subCategory": "具身智能"
+    },
+    {
+      "id": "ai-20260720-002",
+      "title": "刚刚，机器人顶会RSS三项最佳论文出炉！708篇送审，仅8篇杀入决赛",
+      "summary": "机器人顶会RSS 2026公布三项最佳论文：Best Paper为FlashSAC，Best Student Paper为Muninn（轨迹扩散模型缓存机制，提速最高4.6倍），Best Systems Paper为NeuralActuator（低成本机械臂力觉感知）。大会共收到708篇投稿，接收率29.7%，清华AIR、银河通用等机构论文入围决赛名单。",
+      "publishedAt": "2026-07-20T12:55:00+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/07/455277.html",
+      "subCategory": "论文进展"
+    },
+    {
+      "id": "ai-20260720-008",
+      "title": "昆仑万维2026世界模型元年启幕：Matrix-Game3.5实时交互，音乐模型版本化创作新突破",
+      "summary": "昆仑万维在WAIC 2026上宣布2026年为\"世界模型元年\"，发布交互式世界模型Matrix-Game 3.5，采用Patch级记忆注入架构，50亿参数模型在消费级GPU上实现720p分辨率20帧每秒实时生成并开源核心代码。",
+      "publishedAt": "2026-07-20T11:41:44+08:00",
+      "source": "ITBear科技资讯",
+      "url": "https://www.itbear.com.cn/html/2026-07/1453995.html",
+      "subCategory": "具身智能"
+    },
+    {
+      "id": "ai-20260720-006",
+      "title": "Kimi K3上线48小时：模型爆火，GPU爆肝，会员停售",
+      "summary": "Kimi K3上线48小时内涌入大量用户测试，GPU算力逼近上限，月之暗面宣布暂停新会员销售以保障现有用户使用，并调整会员体系将标准版访问与高强度编程功能解耦。文章披露K3发布后公司日销售额较此前增长约6倍。",
+      "publishedAt": "2026-07-20T11:33:24+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/07/455179.html",
+      "subCategory": "大模型"
+    },
     {
       "title": "Mureka V9.5重磅发布，AI音乐告别\"AI味\"",
       "summary": "昆仑万维在WAIC 2026上发布音乐大模型Mureka V9.5，强化人声与编曲的克制表达及风格理解精度，配套推出O3推理扩展与版本化创作工具Mureka Studio，官方称新版本旨在减少\"AI味\"，使生成结果更贴合创作者意图。",
@@ -13,6 +76,42 @@
       "url": "https://www.163.com/dy/article/L28712O30512MLBG.html",
       "subCategory": "AI音频",
       "id": "ai-20260720-001"
+    },
+    {
+      "id": "ai-20260720-009",
+      "title": "88 million dollars with open source: Ollama enters 85% of the Fortune 500",
+      "summary": "本地大模型运行工具Ollama宣布获得由Benchmark、Theory Ventures和8VC领投的8800万美元融资，Docker创始人Solomon Hykes等担任天使投资人。公司称产品已被85%的财富500强企业使用、覆盖890万开发者，计划投入混合推理能力建设与新模型快速支持。",
+      "publishedAt": "2026-07-20",
+      "source": "AIbase",
+      "url": "https://www.aibase.com/news/29718",
+      "subCategory": "推理框架"
+    },
+    {
+      "id": "ai-20260720-010",
+      "title": "DeepSeek V4 Final Version Tested Exposes, Possibly to Be Released Next Monday Targeting Kimi K3",
+      "summary": "据网传测试反馈，DeepSeek V4正式版已完成内测，性能被指与Claude Opus 4.8相当，3D生成能力表现突出，生成3000行代码成本不足0.12美元，输出风格更接近Claude的思维链呈现方式。消息称新版本或于下周一发布，以对标Kimi K3，相关信息尚未经官方证实。",
+      "publishedAt": "2026-07-20",
+      "source": "AIbase",
+      "url": "https://www.aibase.com/news/29717",
+      "subCategory": "大模型"
+    },
+    {
+      "id": "ai-20260720-011",
+      "title": "Tencent WorkBuddy's Monthly Visits Exceed 20 Million in June, Leading the AI Office Intelligent Agent Market",
+      "summary": "《2026年二季度中国办公智能体平台市场洞察报告》显示，腾讯WorkBuddy六月月访问量达2097万，超过第二、三名总和，居PC端AI原生办公智能体市场首位。当月该细分市场整体访问量超6000万，腾讯CodeBuddy编程智能体也保持行业前列位置。",
+      "publishedAt": "2026-07-20",
+      "source": "AIbase",
+      "url": "https://www.aibase.com/news/29721",
+      "subCategory": "AI应用"
+    },
+    {
+      "id": "ai-20260720-012",
+      "title": "Hugging Face Discloses AI Agent Attack Incident, Uses GLM5.2 for Log Forensic Analysis",
+      "summary": "Hugging Face披露此前遭AI智能体发起攻击事件的处置细节：安全团队最初用某美国商用大模型API分析逾1.7万条攻击日志，因模型无法区分应急人员与攻击者而拒绝配合，后改用本地部署的中国开源模型GLM5.2完成取证分析，凸显本地开源模型在数据安全与任务定制上的优势。",
+      "publishedAt": "2026-07-20",
+      "source": "AIbase",
+      "url": "https://www.aibase.com/news/29719",
+      "subCategory": "开源模型"
     },
     {
       "title": "冷门的哲学，成了\"治\"AI的热门",
@@ -625,105 +724,6 @@
       "source": "36氪",
       "url": "https://36kr.com/p/3898153712518785",
       "subCategory": "AI评测"
-    },
-    {
-      "id": "ai-20260716-204",
-      "title": "全球首个！银河通用新框架仅需人类视频即可部署",
-      "summary": "银河通用发布WAM-TTT测试时训练框架，机器人可仅凭未标注的人类视频在部署阶段完成环境适应，无需重新训练，结合机器人轨迹与人类视频数据后任务成功率达74.1%。",
-      "publishedAt": "2026-07-16T18:51:10+08:00",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/07/451403.html",
-      "subCategory": "具身智能"
-    },
-    {
-      "id": "ai-20260716-205",
-      "title": "Grok Build被曝上传用户代码后，马斯克官宣开源，GitHub上线即斩获7.7k Star",
-      "summary": "xAI代码智能体Grok Build被曝默认将用户代码仓库及.env等敏感文件上传至公司服务器，引发争议后，马斯克宣布将其完全开源，支持纯本地运行，项目上线数小时内获得7700个GitHub星标。",
-      "publishedAt": "2026-07-16T18:30:00+08:00",
-      "source": "36氪",
-      "url": "https://36kr.com/p/3898156600870529",
-      "subCategory": "AI编程"
-    },
-    {
-      "id": "ai-20260716-203",
-      "title": "工业母机进入\"计算化时刻\"：中国移动投资友机技术，押注工业AI下一代基础设施",
-      "summary": "中国移动战略投资工业AI公司友机技术，后者将机床数据转化为AI可理解的语义接口，推动约1000万台国内机床从被动执行设备升级为具备感知与自优化能力的智能节点。",
-      "publishedAt": "2026-07-16T17:29:09+08:00",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/07/451371.html",
-      "subCategory": "AI应用"
-    },
-    {
-      "id": "ai-20260716-202",
-      "title": "RLinf v0.3来了！从模型生态到真机部署五大能力跃升，无问芯穹与清华大学联合打造",
-      "summary": "无问芯穹与清华大学联合发布强化学习基础设施RLinf v0.3，新增6款具身模型支持、3种遥操作方式及5种仿真器，打通数据采集到真机部署全流程，已获NVIDIA Isaac Lab收录为首个具身大模型训练引擎。",
-      "publishedAt": "2026-07-16T17:25:17+08:00",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/07/451379.html",
-      "subCategory": "具身智能"
-    },
-    {
-      "id": "ai-20260716-201",
-      "title": "手握英伟达宁德时代相同剧本，具身智能的第一个「基建商」出现了",
-      "summary": "从自动驾驶数据基础设施企业分拆出的景烁科技，提出以数据基建而非模型或硬件切入具身智能赛道，其WorldEngine、GENESIS-Robotics和SkillForge三大模块已积累超50万小时交互数据及200余个标准化技能包。",
-      "publishedAt": "2026-07-16T17:13:01+08:00",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/07/451327.html",
-      "subCategory": "具身智能"
-    },
-    {
-      "title": "刚刚，逐际动力放出一段Demo，Figure：睡不着啊",
-      "summary": "逐际动力发布人形机器人Oli连续3分钟完成收衣、整理玩具、搬箱等家务的未剪辑演示视频，采用分层的LimX COSA 0.5系统架构，强调硬件软件协同而非单一大模型驱动。",
-      "publishedAt": "2026-07-16T15:57:00+08:00",
-      "source": "量子位",
-      "url": "https://www.163.com/dy/article/L1VJ7T6S0511DSSR.html",
-      "subCategory": "具身智能",
-      "id": "ai-20260716-007"
-    },
-    {
-      "title": "一位失忆患者，揭开了AI记忆的误区",
-      "summary": "文章介绍织影(Shadoweave)团队研发的全息记忆系统HMS，将记忆存储与主动回忆推理分离，原始记录不可篡改、回忆时靠多证据交叉核验，试图打造类似CUDA的通用AI记忆基础设施协议。",
-      "publishedAt": "2026-07-16T15:27:54+08:00",
-      "source": "量子位",
-      "url": "https://www.163.com/dy/article/L1VH756D0511DSSR.html",
-      "subCategory": "Agent",
-      "id": "ai-20260716-008"
-    },
-    {
-      "title": "MiniMax Code 2.0 桌面端来了：长任务不再卡顿中断，远程操控和浏览器接管本月亮相",
-      "summary": "MiniMax发布Code 2.0桌面端更新，重构底层架构以减少长任务执行中的上下文丢失和意外中断，远程操控、浏览器接管等功能将于本月陆续上线，并接入恒生金融数据库等数据源。",
-      "publishedAt": "2026-07-16T14:58:00+08:00",
-      "source": "站长之家",
-      "url": "https://www.chinaz.com/ainews/29653.shtml",
-      "subCategory": "AI编程",
-      "id": "ai-20260716-004"
-    },
-    {
-      "title": "小米发布具身智能基底模型Xiaomi-Robotics-1，探索物理AI Scaling效应",
-      "summary": "小米推出具身智能基座模型Xiaomi-Robotics-1，基于10万小时真实操作轨迹数据预训练并结合跨本体后训练，在RoboCasa365、RoboDojo等公开仿真基准上刷新成绩，可直接执行整理类家务任务。",
-      "publishedAt": "2026-07-16T14:52:00+08:00",
-      "source": "站长之家",
-      "url": "https://www.chinaz.com/ainews/29652.shtml",
-      "subCategory": "具身智能",
-      "id": "ai-20260716-005"
-    },
-    {
-      "title": "全球首款AI智能体手机！努比亚NaviX Ultra正式亮相：搭载豆包手机助手",
-      "summary": "努比亚发布号称全球首款AI智能体手机NaviX Ultra，搭载豆包手机助手，围绕听得懂、能干活、记得住、够安全打造能力，可调用手机应用完成任务，并获WAIC 2026 SAIL奖项。",
-      "publishedAt": "2026-07-16T11:14:31+08:00",
-      "source": "快科技",
-      "url": "https://news.mydrivers.com/1/1136/1136782.htm",
-      "subCategory": "Agent",
-      "id": "ai-20260716-006"
-    },
-    {
-      "id": "ai-20260716-301",
-      "title": "原力灵机发布世界模型DW0.5，用于VLA训练",
-      "summary": "原力灵机推出世界模型DW0.5，作为VLA后训练环境预测未来视频状态并生成成功与失败轨迹，可将真机数据需求降低60%、训练成本降低40%，部分任务成功率显著提升。",
-      "publishedAt": "2026-07-16T10:30:46+08:00",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/07/450896.html",
-      "subCategory": "具身智能"
     }
   ]
 }

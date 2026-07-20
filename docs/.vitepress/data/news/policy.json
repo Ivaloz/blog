@@ -3,8 +3,35 @@
   "slug": "policy",
   "title": "政策信息",
   "description": "国家与地方政策、监管动态、产业扶持与合规要求。",
-  "updatedAt": "2026-07-20T09:30:00+08:00",
+  "updatedAt": "2026-07-20T17:02:39+08:00",
   "items": [
+    {
+      "id": "policy-20260720-005",
+      "title": "商务部开展绿色消费试点",
+      "summary": "商务部印发通知，决定2026至2028年在具备条件的城市（区）、经开区、高新区等开展绿色消费试点，探索管理、模式、制度、政策创新，重点推进绿色产品供给、绿色服务、循环利用等，每省可推荐不超过3个试点单位，申报截止8月30日。",
+      "publishedAt": "2026-07-20T15:20:23+08:00",
+      "source": "新华网",
+      "url": "https://www.news.cn/fortune/20260720/1b43e5d5b25242f79bb6f0206718dca8/c.html",
+      "subCategory": "产业政策"
+    },
+    {
+      "id": "policy-20260720-004",
+      "title": "中国制造加速涌现\"新\"力量",
+      "summary": "国新办新闻发布会上，工业和信息化部通报2026年上半年工业和信息化发展情况：规上工业增加值同比增长5.4%，集成电路出口额同比增长88.7%，智能算力规模达2185EFLOPS同比增长177%，人形机器人整机产品超400款。",
+      "publishedAt": "2026-07-20T14:23:38+08:00",
+      "source": "新华网",
+      "url": "https://www.news.cn/20260720/86639bcfb6b849bcab3561c9850195d7/c.html",
+      "subCategory": "产业政策"
+    },
+    {
+      "id": "policy-20260720-003",
+      "title": "中央网信办部署开展\"清朗·未成年人网络保护\"专项行动",
+      "summary": "中央网信办部署为期4个月的\"清朗·未成年人网络保护\"专项行动，分两阶段整治涉未成年人有害内容和违规App，第一阶段聚焦暑期不良动漫、危险挑战等，第二阶段重点整治平台算法推荐、教育类内容监管及青少年模式，公众可通过12377.cn举报。",
+      "publishedAt": "2026-07-20T11:39:23+08:00",
+      "source": "新华网",
+      "url": "https://www.news.cn/politics/20260720/8b1d1378454848eeb3b70fc5de840180/c.html",
+      "subCategory": "数据安全"
+    },
     {
       "title": "证监会今开座谈会 促进市场稳定健康发展",
       "summary": "证监会7月20日召开座谈会，听取市场机构关于促进资本市场稳定健康发展的意见建议。此前一日，中国国新、中国诚通两家央企合计运用超600亿元资金增持境内股票资产，以支持资本市场平稳运行。",
@@ -22,6 +49,15 @@
       "url": "https://www.news.cn/tech/20260720/653dbb72adff4930807c78b1fab22fad/c.html",
       "subCategory": "AI监管",
       "id": "policy-20260720-002"
+    },
+    {
+      "id": "policy-20260720-006",
+      "title": "UK invests in homegrown space tech to boost national resilience",
+      "summary": "英国政府宣布投入6200万英镑支持本土太空科技发展，其中4200万英镑用于低轨道连接（C-LEO）项目卫星通信技术，2000万英镑用于国家太空创新计划，旨在增强国家韧性、减少对外部依赖，并提升卫星通信与太空态势感知能力。",
+      "publishedAt": "2026-07-20",
+      "source": "英国政府（GOV.UK）",
+      "url": "https://www.gov.uk/government/news/uk-invests-in-homegrown-space-tech-to-boost-national-resilience",
+      "subCategory": "海外政策"
     },
     {
       "title": "钠离子电池等新型电池免税到什么时候？",
@@ -688,42 +724,6 @@
       "source": "Federal Trade Commission",
       "url": "https://www.ftc.gov/news-events/news/press-releases/2026/07/ftc-secures-12-million-penalties-pre-merger-reporting-act-violations",
       "subCategory": "反垄断"
-    },
-    {
-      "id": "policy-20260713-009",
-      "title": "欧盟委员会更新《零毁林产品法规》适用产品范围及申报系统技术规则",
-      "summary": "欧盟委员会通过一项授权法案和一项实施法案，调整《零毁林产品法规》产品清单（新增可溶咖啡、棕榈油衍生品等，剔除牛皮等六类产品），并明确申报信息系统技术细则，为该法规年底正式实施做准备。",
-      "publishedAt": "2026-07-13",
-      "source": "European Commission",
-      "url": "https://environment.ec.europa.eu/news/commission-updates-product-scope-and-tools-support-eudr-2026-07-13_en",
-      "subCategory": "跨境贸易"
-    },
-    {
-      "id": "policy-20260714-001",
-      "title": "国家发展改革委安排1亿元支持浙江台风灾害灾后应急恢复",
-      "summary": "国家发展改革委紧急安排1亿元中央预算内投资，支持浙江省台风灾害灾后应急恢复，资金主要用于因灾损毁道路、水利设施及学校、医院等公共服务设施的应急恢复。第9号台风7月11日至12日两次登陆浙江，波及台州玉环、温州乐清等地，国家减灾委已于7月12日启动国家四级救灾应急响应。",
-      "publishedAt": "2026-07-12T16:51:21+08:00",
-      "source": "新华网",
-      "url": "https://www.news.cn/politics/20260712/e26c6cb8e56d4e6dafcabd54ff1f0586/c.html",
-      "subCategory": "产业政策"
-    },
-    {
-      "id": "policy-20260712-201",
-      "title": "UK Export Finance and British Business Bank to launch joint scheme to support thousands of smaller exporters",
-      "summary": "英国财政大臣里夫斯宣布，英国出口信贷署（UKEF）将与英国商业银行合作推出联合融资计划，预计于2027年春季启动，通过组合担保方式为难以获得出口融资、尤其是小额营运资金贷款的中小企业提供支持，覆盖各行业的定期贷款和营运资金业务。",
-      "publishedAt": "2026-07-12",
-      "source": "英国政府（财政部/UK Export Finance）",
-      "url": "https://www.gov.uk/government/news/uk-export-finance-and-british-business-bank-to-launch-joint-scheme-to-support-thousands-of-smaller-exporters",
-      "subCategory": "跨境贸易"
-    },
-    {
-      "id": "policy-20260713-003",
-      "title": "Joint statement on the tenth anniversary of the Philippines-China South China Sea Arbitral Tribunal Award",
-      "summary": "英国联合美国、澳大利亚、日本等十余国发表联合声明，纪念南海仲裁裁决十周年，重申裁决具有终局性和法律约束力，反对中国基于历史性权利等提出的扩张性海洋主张。",
-      "publishedAt": "2026-07-12",
-      "source": "英国政府（GOV.UK）",
-      "url": "https://www.gov.uk/government/news/joint-statement-on-the-tenth-anniversary-of-the-philippines-china-south-china-sea-arbitral-tribunal-award",
-      "subCategory": "海外政策"
     }
   ]
 }
