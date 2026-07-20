@@ -3,8 +3,134 @@
   "slug": "tech",
   "title": "科技新闻",
   "description": "前沿科技、互联网产品、芯片硬件、开源生态。",
-  "updatedAt": "2026-07-20T17:02:39+08:00",
+  "updatedAt": "2026-07-20T23:30:00+08:00",
   "items": [
+    {
+      "title": "华为超充上线上汽大众充电地图，首批 574 座城市超充站",
+      "summary": "华为超充网络接入上汽大众充电地图App，首批开通574座城市超充站和127座高速超充站，新增超1万根充电终端，用户可在应用内筛选华为超充站点并一键导航。",
+      "publishedAt": "2026-07-20T23:13:47+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/979/259.htm",
+      "subCategory": "智能汽车",
+      "id": "tech-20260720-028"
+    },
+    {
+      "title": "AI 生成的盗版书泛滥，苹果图书和亚马逊上出现大量假冒作品",
+      "summary": "有科技记者发现苹果图书和亚马逊平台上出现大量AI生成的盗版书籍，包含伪造作者信息与仿冒封面，部分定价9.99至20.99美元，问题已从电子书蔓延至按需印刷渠道。",
+      "publishedAt": "2026-07-20T23:13:20+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/979/258.htm",
+      "subCategory": "互联网产品",
+      "id": "tech-20260720-029"
+    },
+    {
+      "title": "消息称 Bose QuietComfort 第二代头戴式降噪耳机 8 月发布，359 美元",
+      "summary": "据法国媒体报道，Bose第二代QuietComfort头戴式降噪耳机将于8月13日发布、7日开启预售，采用新造型并支持TrueSpatial空间音频与USB-C无损音频，售价359美元。",
+      "publishedAt": "2026-07-20T23:10:43+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/979/257.htm",
+      "subCategory": "消费电子",
+      "id": "tech-20260720-030"
+    },
+    {
+      "title": "ATK 推出烈空 X1 V2 大师版鼠标：PAW3955 MASTER，首发到手价 299.2 元",
+      "summary": "ATK推出烈空X1 V2大师版鼠标，搭载PAW3955 MASTER传感器与NORDIC 54L15芯片，支持有线及2.4G双8K回报率，7月21日20点开售，首发到手价299.2元。",
+      "publishedAt": "2026-07-20T22:32:59+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/979/254.htm",
+      "subCategory": "消费电子",
+      "id": "tech-20260720-031"
+    },
+    {
+      "title": "消息称谷歌正研发全新 Frozen v2 芯片，可大幅提升 Gemini 模型运行效率",
+      "summary": "据The Information报道，谷歌正研发代号Frozen v2的专用服务器芯片，将Gemini模型底层计算架构固化进硬件层，单位功耗token处理效率有望提升6至10倍，最早2028年部署。",
+      "publishedAt": "2026-07-20T22:09:27+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/979/251.htm",
+      "subCategory": "芯片硬件",
+      "id": "tech-20260720-032"
+    },
+    {
+      "title": "中国商飞：290 座级的 C929 宽体飞机设计工作正在稳步推进",
+      "summary": "中国商飞在范堡罗航展上表示，290座级C929宽体客机设计工作正稳步推进；此前90座C909已交付十余家客户，190座C919已进入三家国内航司商业运营，累计飞行超13万小时。",
+      "publishedAt": "2026-07-20T21:53:55+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/979/240.htm",
+      "subCategory": "航空航天",
+      "id": "tech-20260720-033"
+    },
+    {
+      "title": "微软将在 Azure 云服务上部署 AMD Helios 机架系统，用于 AI 推理",
+      "summary": "微软宣布在Azure云服务上部署AMD Helios机架系统，集成第六代EPYC Venice处理器与Instinct MI455X加速器，新增HDv2、HXv2、ND MI455X v7等虚拟机实例，用于AI推理等场景。",
+      "publishedAt": "2026-07-20T21:28:15+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/979/235.htm",
+      "subCategory": "云计算",
+      "id": "tech-20260720-034"
+    },
+    {
+      "title": "消息称比亚迪海狮 08 将于 8 月上市，有 5 座和 6 座车型版本",
+      "summary": "消息称比亚迪海狮08将于8月上市，提供5座和6座版本，纯电版续航分为800公里和900公里两档，搭载第二代刀片电池、闪充技术及云辇悬架系统等配置。",
+      "publishedAt": "2026-07-20T21:03:27+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/979/233.htm",
+      "subCategory": "智能汽车",
+      "id": "tech-20260720-035"
+    },
+    {
+      "title": "德国 DDR5 内存价格飙至历史新高，装机成本大幅提升",
+      "summary": "据3D Center数据，德国市场DDR5内存价格指数较2025年7月基准上涨至448%，创历史新高，部分规格套装月环比涨幅达16%至17%，明显推高电脑装机成本。",
+      "publishedAt": "2026-07-20T20:39:53+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/979/226.htm",
+      "subCategory": "芯片硬件",
+      "id": "tech-20260720-039"
+    },
+    {
+      "title": "白帽子行为构成实质性安全侵害：小米发布 MiSRC 违规事件处置公告，奖励取消、保留法律追责权利",
+      "summary": "小米安全中心公告称，一名安全研究人员通过MiSRC平台提交漏洞报告时行为超出正常授权范围，构成实质性安全侵害，公司已取消其奖励并保留依法追究法律责任的权利。",
+      "publishedAt": "2026-07-20T20:36:01+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/979/225.htm",
+      "subCategory": "安全漏洞",
+      "id": "tech-20260720-036"
+    },
+    {
+      "title": "消息称荣耀 Robot Phone 形态有专利友商难跟进，行业预测 1TB 版价格在 15999 元左右",
+      "summary": "消息称荣耀Robot Phone采用专利保护的云台结构，友商短期内难以跟进；行业预测1TB版本售价约1.59万元，新机将于8月搭载第五代骁龙8至尊版芯片及AgenticOS系统发布。",
+      "publishedAt": "2026-07-20T20:23:37+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/979/221.htm",
+      "subCategory": "消费电子",
+      "id": "tech-20260720-037"
+    },
+    {
+      "title": "星河动力\"智神星一号\"中大型可重复使用液体运载火箭计划 8 月中下旬首飞",
+      "summary": "北京星河动力宣布中大型可重复使用液体运载火箭智神星一号计划8月中下旬首飞，起飞质量283吨，低轨运力7吨，一级箭体设计支持不少于25次重复使用。",
+      "publishedAt": "2026-07-20T20:15:10+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/979/218.htm",
+      "subCategory": "航空航天",
+      "id": "tech-20260720-038"
+    },
+    {
+      "title": "阿里云发布轻量应用服务器\"智能体专用型实例\"：2 亿 Token 包月活动价 262.5 元/月",
+      "summary": "阿里云推出面向AI Agent应用的轻量应用服务器智能体专用型实例，捆绑算力与大模型Token套餐，入门配置2核2GB搭配2亿Token，促销价262.5元/月，已在12个地域上线。",
+      "publishedAt": "2026-07-20T19:37:21+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/979/212.htm",
+      "subCategory": "云计算",
+      "id": "tech-20260720-040"
+    },
+    {
+      "title": "联想问天全球首款 RISC-V 服务器亮相 WAIC 2026，搭载蓝芯 LX500 处理器",
+      "summary": "联想问天在2026世界人工智能大会上展示全球首款RISC-V服务器问天WR5219 G5，搭载48核蓝芯LX500异构处理器，支持PCIe 5.0与DDR5，面向AI推理等场景。",
+      "publishedAt": "2026-07-20T18:22:36+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/979/200.htm",
+      "subCategory": "芯片硬件",
+      "id": "tech-20260720-041"
+    },
     {
       "id": "tech-20260720-023",
       "title": "共建 5 个万卡级国产智算集群，商汤科技联合近 20 家厂商发起\"银河计划\"",
@@ -159,7 +285,7 @@
       "id": "tech-20260720-003"
     },
     {
-      "title": "\"换标\"雪佛兰：消息称五菱缤果纯电汽车将登陆北美市场",
+      "title": "\"换标\"雪佛兰：消息称五菱缤果纯电汽车将登陆北美市场\"",
       "summary": "消息称通用汽车计划通过与上汽合资获得五菱缤果纯电动车授权，换标雪佛兰后投放巴西、墨西哥等拉美及非洲新兴市场，此前通用已将宝骏悦也PLUS、五菱星光S分别改造为雪佛兰Spark EUV和Captiva EV在海外销售。",
       "publishedAt": "2026-07-20T08:13:50+08:00",
       "source": "IT之家",
@@ -598,132 +724,6 @@
       "source": "IT之家",
       "url": "https://www.ithome.com/0/978/628.htm",
       "subCategory": "开源生态"
-    },
-    {
-      "id": "tech-20260719-109",
-      "title": "本田推出商用自动驾驶电动割草机，售价32999美元",
-      "summary": "本田推出商用自动驾驶电动割草机ProZision Autonomous ZTR，售价32999美元，搭载GPS定位、激光雷达和毫米波雷达实现自主作业，面向商用草坪养护市场。",
-      "publishedAt": "2026-07-19T09:14:04+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/978/627.htm",
-      "subCategory": "机器人"
-    },
-    {
-      "id": "tech-20260719-001",
-      "title": "谷歌安卓系统最新漏洞曝光：Gemini 可绕过锁屏密码发送短信，官方即将修复",
-      "summary": "安全研究人员发现谷歌Gemini存在漏洞，攻击者在物理接触设备时同时按住\"继续\"与\"添加附件\"按钮即可绕过锁屏密码发送短信或WhatsApp消息，谷歌已确认漏洞并计划本周推送修复。",
-      "publishedAt": "2026-07-19T08:35:39+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/978/622.htm",
-      "subCategory": "安全漏洞"
-    },
-    {
-      "id": "tech-20260719-002",
-      "title": "荣耀新一代伙伴型多模态智能体操作系统 AgenticOS 发布，8 月 Robot Phone 首发内核",
-      "summary": "荣耀在2026世界人工智能大会发布多模态智能体操作系统AgenticOS，具备意图驱动、自然交互、主动智能与跨端能力，8月发布的Robot Phone将首发搭载该内核，Magic9系列计划四季度获得体验版。",
-      "publishedAt": "2026-07-19T08:30:21+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/978/621.htm",
-      "subCategory": "操作系统"
-    },
-    {
-      "id": "tech-20260719-003",
-      "title": "Steam Frame 头显何时发售？曝V社收到 19.3 吨 VR 设备",
-      "summary": "社交媒体爆料显示V社已分三批收到共计约19.304吨VR设备，据信为Steam Frame头显及手柄，V社尚未公布正式发售日期及定价，但已开始为平台游戏添加Steam Frame兼容性分类，暗示官宣临近。",
-      "publishedAt": "2026-07-19T08:17:43+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/978/620.htm",
-      "subCategory": "XR-AR-VR"
-    },
-    {
-      "id": "tech-20260719-004",
-      "title": "博主指控索尼动用社交媒体水军引导舆论，为停售实体光盘政策洗白",
-      "summary": "YouTube博主Moore's Law Is Dead指控索尼可能雇佣水军账号为PlayStation计划于2028年停产实体光盘的政策造势，分析三个可疑账号存在长期沉寂后突然发布公关式内容等特征，但承认缺乏索尼直接介入的确凿证据。",
-      "publishedAt": "2026-07-19T08:17:20+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/978/619.htm",
-      "subCategory": "消费电子"
-    },
-    {
-      "id": "tech-20260719-005",
-      "title": "小米汽车回应澎程为何要用 76kWh 大电池，称源于做增程产品的底层理念「纯电长续航」",
-      "summary": "小米汽车回应旗下澎程系列采用76kWh大电池的原因，称基于\"纯电长续航\"理念，CLTC纯电续航最高505公里，多数用户单周通勤可无需充电或启动增程器，兼顾使用成本与纯电体验。",
-      "publishedAt": "2026-07-19T08:07:03+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/978/618.htm",
-      "subCategory": "智能汽车"
-    },
-    {
-      "id": "tech-20260718-021",
-      "title": "英伟达 N1X 首个 Cinebench 2026 跑分曝光：微软 Surface Ultra 工程样机现身，单核成绩接近苹果 M3 Max",
-      "summary": "爆料者公开英伟达N1X芯片首个Cinebench 2026跑分，微软Surface Ultra工程样机获单核540分、多核5771分，单核性能接近苹果M3 Max。该芯片基于RTX Spark平台，支持最高20个Arm核心与128GB统一内存。",
-      "publishedAt": "2026-07-18T23:36:41+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/978/600.htm",
-      "subCategory": "芯片硬件"
-    },
-    {
-      "id": "tech-20260718-022",
-      "title": "印度民营航天新突破：首枚自研轨道火箭维克拉姆-1 号发射成功",
-      "summary": "印度航天初创公司Skyroot Aerospace的维克拉姆-1号火箭发射成功，为印度首枚自主研发的民营轨道运载火箭，将载荷送入450公里轨道，印度成为全球第三个实现私营轨道发射的国家。",
-      "publishedAt": "2026-07-18T22:59:54+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/978/596.htm",
-      "subCategory": "航空航天"
-    },
-    {
-      "id": "tech-20260718-023",
-      "title": "蔚来官宣 NIO Day 2026 将在武汉举行，有望首发最新产品、技术",
-      "summary": "蔚来官宣NIO Day 2026将于武汉举行，武汉在社区投票中以约1.78亿票击败哈尔滨、厦门当选举办城市，历届活动均发布新车型与技术方案，具体时间及内容尚未公布。",
-      "publishedAt": "2026-07-18T22:12:37+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/978/587.htm",
-      "subCategory": "智能汽车"
-    },
-    {
-      "id": "tech-20260718-024",
-      "title": "戴尔 XPS 13 2026 上架京东：酷睿 5 320 处理器，16+512GB 存储 8999 元",
-      "summary": "戴尔XPS 13 2026款笔记本上架京东和天猫，搭载第三代酷睿5 320处理器，配16GB内存与512GB存储，13.4英寸2.5K触控屏支持120Hz刷新，官方定价8999元，为目前最贵的Wildcat Lake笔记本。",
-      "publishedAt": "2026-07-18T22:02:55+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/978/586.htm",
-      "subCategory": "消费电子"
-    },
-    {
-      "id": "tech-20260718-025",
-      "title": "阿里云发布灵骏真武 M890 超节点实例，单台可承载十万亿参数级 MoE 大模型推理",
-      "summary": "阿里云在2026世界人工智能大会发布灵骏真武M890超节点实例，支持FP8/FP4低精度计算与64卡800GB/s互联，单台可承载十万亿参数级MoE大模型推理，训练性能较前代提升三倍，已在乌兰察布开放邀测。",
-      "publishedAt": "2026-07-18T20:47:00+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/978/578.htm",
-      "subCategory": "云计算"
-    },
-    {
-      "id": "tech-20260718-026",
-      "title": "修复故障反酿大错，日本快递企业佐川急便泄露 7 万用户隐私",
-      "summary": "日本快递企业佐川急便在修复会员平台Smart Club系统故障时发生显示错误，导致约7万名用户的姓名、邮箱及运单号信息泄露，不涉及住址与信用卡信息，公司已恢复服务并计划致歉。",
-      "publishedAt": "2026-07-18T20:23:37+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/978/575.htm",
-      "subCategory": "安全漏洞"
-    },
-    {
-      "id": "tech-20260718-027",
-      "title": "RoboSense 发布第二代全固态数字化激光雷达 E2，可无缝嵌入机器人头部、腕部",
-      "summary": "速腾聚创在2026世界人工智能大会发布第二代全固态激光雷达E2，基于自研孔雀SPAD-SoC芯片，体积缩小60%、重量减少40%，可嵌入机器人头部与腕部，实现640×480分辨率障碍物检测。",
-      "publishedAt": "2026-07-18T18:07:54+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/978/546.htm",
-      "subCategory": "机器人"
-    },
-    {
-      "id": "tech-20260718-028",
-      "title": "上海发布太空算力星座工程\"星枢计划\"，商业运营阶段将完成千星部署",
-      "summary": "上海在2026世界人工智能大会发布天基智能算力网络\"星枢计划\"，首发星座含算力主星、气象星与遥感星，主星搭载32P算力航天级GPU芯片，规划最终部署千星，含800颗算力卫星与200颗边缘计算卫星。",
-      "publishedAt": "2026-07-18T17:48:31+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/978/530.htm",
-      "subCategory": "航空航天"
     }
   ]
 }
