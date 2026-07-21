@@ -600,6 +600,15 @@
       "subCategory": "AI监管"
     },
     {
+      "id": "policy-20260715-005",
+      "title": "US says Nvidia's H200 exports to China remain 'trivial' despite approvals",
+      "summary": "美国商务部主管工业与安全事务的副部长杰弗里·凯斯勒在众议院外交事务委员会作证时表示，英伟达H200芯片对华出口数量很少、微不足道，商务部今年已批准约10家中国企业（含腾讯、字节跳动）购买该芯片，但目前实际交付有限。",
+      "publishedAt": "2026-07-15T04:33:00+08:00",
+      "source": "South China Morning Post",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3360582/us-says-nvidias-h200-exports-china-remain-trivial-despite-approvals",
+      "subCategory": "半导体出口管制"
+    },
+    {
       "id": "policy-20260716-009",
       "title": "美国官员：中国规避出口管制手法多样，商务部拟大幅增加执法预算",
       "summary": "美国众议院外交事务委员会听证会上，商务部官员表示中国规避出口管制手法多样，2025年相关罚款总额同比增长逾18倍，商务部拟大幅增加执法预算和人员编制。",
@@ -663,13 +672,13 @@
       "subCategory": "海外政策"
     },
     {
-      "id": "policy-20260715-005",
-      "title": "US says Nvidia's H200 exports to China remain 'trivial' despite approvals",
-      "summary": "美国商务部主管工业与安全事务的副部长杰弗里·凯斯勒在众议院外交事务委员会作证时表示，英伟达H200芯片对华出口数量很少、微不足道，商务部今年已批准约10家中国企业（含腾讯、字节跳动）购买该芯片，但目前实际交付有限。",
-      "publishedAt": "2026-07-15T04:33:00+08:00",
-      "source": "South China Morning Post",
-      "url": "https://www.scmp.com/news/china/diplomacy/article/3360582/us-says-nvidias-h200-exports-china-remain-trivial-despite-approvals",
-      "subCategory": "半导体出口管制"
+      "id": "policy-20260715-004",
+      "title": "自然资源部：五方面改革完善自然资源资产管理",
+      "summary": "中共中央办公厅、国务院办公厅近日印发关于完善自然资源资产管理制度体系的意见，自然资源部副部长张文彤介绍，改革将从摸清资产家底、健全产权制度、促进资产保值增值、实现高效配置利用、维护权益五方面推进，目标到2030年管理体系更加健全。",
+      "publishedAt": "2026-07-14T19:56:44+08:00",
+      "source": "科技日报",
+      "url": "https://www.stdaily.com/web/gdxw/2026-07/14/content_547190.html",
+      "subCategory": "产业政策"
     },
     {
       "id": "policy-20260714-104",
@@ -715,69 +724,6 @@
       "url": "https://www.mee.gov.cn/zcwj/gwywj/202607/t20260714_1161655.shtml",
       "subCategory": "新能源政策",
       "id": "policy-20260715-006"
-    },
-    {
-      "title": "Financial Services AI Adoption Plan",
-      "summary": "英国财政部发布《金融服务业人工智能采用计划》，提出十项建议，包括明确监管规则、审查人工智能投资建议服务边界、将主要人工智能服务商纳入关键第三方监管等，此前调查显示21%金融地产企业已采用人工智能。",
-      "publishedAt": "2026-07-14",
-      "source": "GOV.UK",
-      "url": "https://www.gov.uk/government/publications/ai-adoption-plan-financial-services/financial-services-ai-adoption-plan",
-      "subCategory": "AI监管",
-      "id": "policy-20260715-008"
-    },
-    {
-      "id": "policy-20260715-002",
-      "title": "UK launches Call for Input on deepening trade relationships",
-      "summary": "英国政府就深化与印度尼西亚、菲律宾、阿联酋和乌拉圭的贸易关系启动公众意见征集，探讨相关国家加入《全面与进步跨太平洋伙伴关系协定》或达成双边协定的可能性，征询意见截止至9月14日。",
-      "publishedAt": "2026-07-14",
-      "source": "Department for Business and Trade",
-      "url": "https://www.gov.uk/government/news/uk-launches-call-for-input-on-deepening-trade-relationships",
-      "subCategory": "跨境贸易"
-    },
-    {
-      "id": "policy-20260715-003",
-      "title": "Mansion House 2026",
-      "summary": "英国财政大臣在年度市政厅演讲中公布金融服务业增长战略进展，包括面向中小企业的贷款方案、金融服务业人工智能应用独立报告、支付服务监管现代化征询及围栏改革咨询文件等一揽子措施。",
-      "publishedAt": "2026-07-14",
-      "source": "HM Treasury",
-      "url": "https://www.gov.uk/government/collections/mansion-house-2026",
-      "subCategory": "海外政策"
-    },
-    {
-      "id": "policy-20260716-006",
-      "title": "FTC Secures Major Settlement with Caremark, Resolving Antitrust Case Against Second Drug Middleman",
-      "summary": "美国联邦贸易委员会与药品福利管理商Caremark达成和解，要求其调整业务模式、降低患者自付费用并提高价格透明度，涉及未来十年数十亿美元的消费者节省。",
-      "publishedAt": "2026-07-14",
-      "source": "美国联邦贸易委员会（FTC）",
-      "url": "https://www.ftc.gov/news-events/news/press-releases/2026/07/ftc-secures-major-settlement-caremark-resolving-antitrust-case-against-second-drug-middleman",
-      "subCategory": "反垄断"
-    },
-    {
-      "id": "policy-20260714-103",
-      "title": "FTC Endorses Ohio Supreme Court Proposal to Weaken ABA's Law School Accreditation Monopoly",
-      "summary": "美国联邦贸易委员会致函俄亥俄州最高法院，支持其削弱美国律师协会对法学院认证垄断地位的改革提案，认为该垄断人为限制律师供给、推高当地法律服务成本，并援引1995年司法部起诉案，建议开放认证竞争资格。",
-      "publishedAt": "2026-07-14",
-      "source": "Federal Trade Commission",
-      "url": "https://www.ftc.gov/news-events/news/press-releases/2026/07/ftc-endorses-ohio-supreme-court-proposal-weaken-abas-law-school-accreditation-monopoly",
-      "subCategory": "反垄断"
-    },
-    {
-      "id": "policy-20260714-102",
-      "title": "Commission approves €659 million German State aid for four new semiconductor facilities",
-      "summary": "欧盟委员会批准德国政府向半导体价值链四个新项目提供约6.59亿欧元国家援助，欧盟委员会执行副主席里贝拉表示，此举彰显欧盟正将《芯片法案》的目标转化为具体行动，以增强欧洲半导体产业自主能力。",
-      "publishedAt": "2026-07-14",
-      "source": "European Commission",
-      "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1585",
-      "subCategory": "海外政策"
-    },
-    {
-      "id": "policy-20260714-002",
-      "title": "\"中国首个禁售燃油车省份\"，为何是海南？",
-      "summary": "根据海南新近发布的\"十五五\"生态文明试验区规划，海南将于2030年实现全域禁售燃油车，公共服务和社会运营领域新增及更换车辆清洁能源占比、私人用车新能源占比均达100%，新能源汽车保有量占比将从2025年的23.75%提升至45%，车桩比保持2.5比1以下。",
-      "publishedAt": "2026-07-13T17:34:00+08:00",
-      "source": "澎湃新闻",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33575406",
-      "subCategory": "新能源政策"
     }
   ]
 }
