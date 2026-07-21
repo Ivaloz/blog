@@ -3,8 +3,152 @@
   "slug": "trade",
   "title": "外贸资讯",
   "description": "亚马逊、TikTok Shop、阵里国际站、Shopify 等平台政策与跨境电商市场、独立站、物流支付、关税法规、选品趋势。",
-  "updatedAt": "2026-07-21T09:10:00+08:00",
+  "updatedAt": "2026-07-21T16:45:00+08:00",
   "items": [
+    {
+      "id": "trade-20260721-023",
+      "title": "荷兰消费者协会认定亚马逊、Bol存在虚假折扣，两平台合计108起违规",
+      "summary": "荷兰消费者协会两个月调查1142件世界杯相关商品，发现亚马逊113个促销中46个违规、Bol210个促销中62个违规，已发函要求整改，并警告黑五前将持续监测，Bol表示将核查，亚马逊否认指控。",
+      "publishedAt": "2026-07-21T14:24:44+08:00",
+      "source": "出海网(chwang.com)",
+      "url": "https://www.chwang.com/news/207945249452",
+      "subCategory": "平台政策"
+    },
+    {
+      "id": "trade-20260721-024",
+      "title": "Allegro与DHL合作升级波兰物流，推出会员推荐奖励计划",
+      "summary": "Allegro在波兰、捷克、斯洛伐克、匈牙利推出付费会员推荐奖励计划，被推荐用户成功开通率达47%，并与DHL eCommerce Polska扩大合作，包裹可直投Allegro One Box智能柜。",
+      "publishedAt": "2026-07-21T14:23:03+08:00",
+      "source": "出海网(chwang.com)",
+      "url": "https://www.chwang.com/news/207945207234",
+      "subCategory": "物流仓储"
+    },
+    {
+      "id": "trade-20260721-025",
+      "title": "德国电商上半年增长4.3%，亚洲平台订单份额达5.3%",
+      "summary": "德国线上零售上半年同比增长4.3%，二季度加速至5.1%；Temu、Shein、速卖通等亚洲跨境平台占德国线上订单5.3%，时尚品类订单份额达16%，销售额增长20%。",
+      "publishedAt": "2026-07-21T14:21:16+08:00",
+      "source": "出海网(chwang.com)",
+      "url": "https://www.chwang.com/news/207945161266",
+      "subCategory": "新兴市场"
+    },
+    {
+      "id": "trade-20260721-026",
+      "title": "Myntra全面接入AI，90%月活用户获智能推荐",
+      "summary": "Flipkart旗下Myntra将AI技术应用于消费者体验、卖家支持及内部运营，卖家入驻周期由10-15天缩短至48小时内完成，商品视频日产量达400-600条，供应链模拟处理速度由两天缩短至一小时。",
+      "publishedAt": "2026-07-21T14:18:03+08:00",
+      "source": "出海网(chwang.com)",
+      "url": "https://www.chwang.com/news/207945080323",
+      "subCategory": "平台动态"
+    },
+    {
+      "id": "trade-20260721-027",
+      "title": "孟加拉吉大港货运协会因预缴所得税上调发起48小时停运",
+      "summary": "孟加拉重型卡车与平板车协会宣布自7月21日6时起停运48小时，抗议政府上调预缴所得税，将造成港口与内陆仓库间双向拥堵，此前7月初暴雨已致货损，预计恢复需数周甚至更久。",
+      "publishedAt": "2026-07-21T14:14:14+08:00",
+      "source": "出海网(chwang.com)",
+      "url": "https://www.chwang.com/news/207944984316",
+      "subCategory": "物流仓储"
+    },
+    {
+      "id": "trade-20260721-028",
+      "title": "亚马逊推三年计划，助2000余家品牌卖家实现年销破亿",
+      "summary": "亚马逊宣布三年内扶持超2000家具备供应链优势的品牌卖家实现年销售额破1亿元，重点面向有稳定产品和供应链但尚未成功出海的企业，平台资源持续向优质卖家倾斜，竞争门槛随之提高。",
+      "publishedAt": "2026-07-21T14:12:35+08:00",
+      "source": "出海网(chwang.com)",
+      "url": "https://www.chwang.com/news/207944942955",
+      "subCategory": "平台政策"
+    },
+    {
+      "id": "trade-20260721-029",
+      "title": "俄罗斯8月进入秋冬备货期，六大类中国商品迎旺季",
+      "summary": "俄罗斯8月起从夏季消费转向秋冬采购，秋冬服装、开学用品、汽车防冻及取暖设备、家居用品和农机配件等六大类中国商品进入采购旺季，建议提前2至3个月布局备货周期。",
+      "publishedAt": "2026-07-21T14:05:15+08:00",
+      "source": "出海网(chwang.com)",
+      "url": "https://www.chwang.com/news/207944758259",
+      "subCategory": "选品趋势"
+    },
+    {
+      "id": "trade-20260721-031",
+      "title": "Wildberries将于24小时内修正被炸仓库库存显示异常",
+      "summary": "Wildberries电斯特罗夫、坦波夫仓库遭无人机袭击后，平台宣布7月21日起24小时内修正电斯特罗夫仓库库存显示，卖家澄清货物并未实际找回，仅为系统显示修复而非物理复原。",
+      "publishedAt": "2026-07-21T13:51:43+08:00",
+      "source": "出海网(chwang.com)",
+      "url": "https://www.chwang.com/news/207944417739",
+      "subCategory": "平台动态"
+    },
+    {
+      "id": "trade-20260721-032",
+      "title": "无人机配送企业Zipline全球累计完成超2.5亿次商业配送",
+      "summary": "美国无人机配送公司Zipline加速全球化扩张，招募特斯拉、Waymo、Uber前高管，累计完成超2.5亿次商业配送并与沃尔玛等零售商合作，普华永道预测行业2024至2034年复合增长率达65%。",
+      "publishedAt": "2026-07-21T10:48:26+08:00",
+      "source": "出海网(chwang.com)",
+      "url": "https://www.chwang.com/news/207939805364",
+      "subCategory": "物流仓储"
+    },
+    {
+      "id": "trade-20260721-030",
+      "title": "Prime Day前移带动6月美国线上消费达1426.7亿美元，同比增长14.2%",
+      "summary": "亚马逊将2026年夏季Prime Day提前至6月并带动整体电商，美国6月线上销售额约1426.7亿美元，同比增长14.2%，为四年来首次两位数增长，当月电商渗透率达18.56%。",
+      "publishedAt": "2026-07-21T10:44:53+08:00",
+      "source": "出海网(chwang.com)",
+      "url": "https://www.chwang.com/news/207939716008",
+      "subCategory": "平台动态"
+    },
+    {
+      "id": "trade-20260721-033",
+      "title": "SCFI综合指数连跌两周至3080.31点，美西航线运价重挫8%",
+      "summary": "上海出口集装箱运价指数连续第二周下跌，环比跌3.28%至3080.31点，美西航线报5721美元/FEU周跌8%，南美航线报6187美元/TEU周跌9.7%，此前高位航线出现明显回调。",
+      "publishedAt": "2026-07-21T10:33:00+08:00",
+      "source": "出海网(chwang.com)",
+      "url": "https://www.chwang.com/news/207939418734",
+      "subCategory": "物流仓储"
+    },
+    {
+      "id": "trade-20260721-034",
+      "title": "香港机场第15年蝉联全球最繁忙货运枢纽",
+      "summary": "香港国际机场全年处理货物及航空邮件510万吨，同比增长2.7%，航班起降量增长7.1%至约39.95万架次，旅客吞吐量增长14.7%至6300万人次，自2010年起连续15年居全球货运吞吐量首位。",
+      "publishedAt": "2026-07-21T10:29:00+08:00",
+      "source": "出海网(chwang.com)",
+      "url": "https://www.chwang.com/news/207939320644",
+      "subCategory": "物流仓储"
+    },
+    {
+      "id": "trade-20260721-035",
+      "title": "TikTok Shop CBT揽收服务扩至迈阿密，覆盖全美九大核心区",
+      "summary": "TikTok Shop跨境揽收(CBT)服务7月28日起扩展至佛州迈阿密，商家可自7月17日起报名，服务网络已覆盖南加州、纽约、新泽西、德州等全美九大核心地区，标志物流网基本成型。",
+      "publishedAt": "2026-07-21T10:26:13+08:00",
+      "source": "出海网(chwang.com)",
+      "url": "https://www.chwang.com/news/207939246278",
+      "subCategory": "物流仓储"
+    },
+    {
+      "id": "trade-20260721-036",
+      "title": "Ozon物流全面对外开放，8.5万个自提点向站外商户敞开",
+      "summary": "Ozon宣布物流服务全面对外开放，非平台商户也可使用其8.5万个自提点及配送网络，推出两种合作模式，标志Ozon从单一交易平台向开放物流基础设施提供商转型。",
+      "publishedAt": "2026-07-21T10:23:07+08:00",
+      "source": "出海网(chwang.com)",
+      "url": "https://www.chwang.com/news/207939168329",
+      "subCategory": "平台动态"
+    },
+    {
+      "id": "trade-20260721-019",
+      "title": "Ozon家居园艺品类需求激增，树苗销量同比增长8倍",
+      "summary": "Ozon平台家居园艺品类6月至7月中旬同比翻倍增长，树苗销量增长8倍，园艺工具增长7倍，约一半相关订单来自人口5万以下城镇地区，平台反映季节需求与物流基建改善共同驱动。",
+      "publishedAt": "2026-07-21T07:09:00+08:00",
+      "source": "AMZ123跨境导航",
+      "url": "https://www.amz123.com/kx/jQsQA3CQ",
+      "subCategory": "选品趋势"
+    },
+    {
+      "id": "trade-20260721-022",
+      "title": "俄罗斯美妆餐饮跨界营销升温，76%女性消费者愿参与联名",
+      "summary": "Anketolog对1800名俄罗斯女性消费者调查显示，仅12%曾参与美妆餐饮联名活动，但76%表示愿意参与，86%愿为获得美妆赠品购买指定食品，咖啡馆与烘焙店被视为最佳合作场景。",
+      "publishedAt": "2026-07-21T06:49:00+08:00",
+      "source": "AMZ123跨境导航",
+      "url": "https://www.amz123.com/kx/AhECIAvv",
+      "subCategory": "选品趋势"
+    },
     {
       "title": "EU Fines Alibaba's AliExpress €550 Million for Failing to Curb Illegal Goods",
       "summary": "欧盟委员会以未能有效遏制平台上非法、不安全及假冒商品销售为由，对阿里巴巴旗下AliExpress处以5.5亿欧元罚款，要求其于10月20日前提交整改方案，欧洲数字服务委员会将在一个月内审核合规情况。",
@@ -13,6 +157,24 @@
       "url": "https://www.caixinglobal.com/2026-07-21/eu-fines-alibabas-aliexpress-550-million-for-failing-to-curb-illegal-goods-102466372.html",
       "subCategory": "平台政策",
       "id": "trade-20260721-001"
+    },
+    {
+      "id": "trade-20260721-020",
+      "title": "Wildberries开放免费改运通道，卖家可将货物转至替代仓库至7月26日",
+      "summary": "因莫斯科州、坦波夫州仓库遭无人机袭击，Wildberries允许卖家在7月26日前免费将货物改运至梁赞、沃罗涅日等替代仓库，同时缩短卖家回款周期以缓解资金压力。",
+      "publishedAt": "2026-07-21",
+      "source": "AMZ123跨境导航",
+      "url": "https://www.amz123.com/kx/95secwm6",
+      "subCategory": "物流仓储"
+    },
+    {
+      "id": "trade-20260721-021",
+      "title": "俄罗斯集装箱市场上半年增长6%至347万TEU",
+      "summary": "据Fesco数据，2026年上半年俄罗斯集装箱运输量同比增长6%至347万TEU，其中进口增长14%达152万TEU，6月单月运输量同比增长8.9%，此前2025年多项指标为下滑。",
+      "publishedAt": "2026-07-21",
+      "source": "AMZ123跨境导航",
+      "url": "https://www.amz123.com/kx/dMvt4IOR",
+      "subCategory": "物流仓储"
     },
     {
       "title": "TikTok Shop GMV Max测试销售额暴涨181%，世界杯带飞体育纪念品销量激增136%",
@@ -555,51 +717,6 @@
       "id": "trade-20260717-952"
     },
     {
-      "id": "trade-20260717-156",
-      "title": "亚马逊美妆个护市场涌现多款百万美元级爆品",
-      "summary": "亚马逊美妆个护品类近期涌现多款月销售额破百万美元的爆品，棉签、去屑洗发水、保湿修复膏及定妆喷雾等细分品类搜索热度持续走高，为选品卖家提供参考方向。",
-      "publishedAt": "2026-07-17",
-      "source": "AMZ123跨境导航",
-      "url": "https://www.amz123.com/kx/vi5t7CrX",
-      "subCategory": "选品趋势"
-    },
-    {
-      "id": "trade-20260717-150",
-      "title": "TikTok美区测试全托管代运营服务",
-      "summary": "TikTok在美国市场试点全托管代运营模式，平台负责营销推广、广告投放、选品优化及网红招募等环节，收取1万美元服务费及10%-20%销售佣金，运营思路类似抖音国内做法。",
-      "publishedAt": "2026-07-17",
-      "source": "AMZ123跨境导航",
-      "url": "https://www.amz123.com/kx/jPbcMatg",
-      "subCategory": "平台动态"
-    },
-    {
-      "id": "trade-20260717-155",
-      "title": "北美极端天气冲击供应链 达830余场野火叠加洪涝致空陆铁运全面延误",
-      "summary": "加拿大逗830场野火叠加美国西南部暴雨洪涝，导致北美航空、公路及铁路运输普遍延误，部分港口集装箱被迫改走陆运致边境拥堵，物流商建议提前沟通并延长交货预期。",
-      "publishedAt": "2026-07-17",
-      "source": "AMZ123跨境导航",
-      "url": "https://www.amz123.com/kx/WMeE53cU",
-      "subCategory": "物流仓储"
-    },
-    {
-      "id": "trade-20260717-154",
-      "title": "亚马逊德国站畅销榜出现异常 大量无品牌商品占据榜单",
-      "summary": "亚马逊德国站畅销榜近期出现系统异常，大量无品牌商品意外占据多个类目榜单，部分卖家反映问题已持续数周，亚马逊尚未就故障原因和修复时间作出官方说明。",
-      "publishedAt": "2026-07-17",
-      "source": "AMZ123跨境导航",
-      "url": "https://www.amz123.com/kx/Sw6OyGpk",
-      "subCategory": "平台动态"
-    },
-    {
-      "title": "Rakuten France is closing",
-      "summary": "日本乐天集团宣布将于年底前关闭旗下法国电商平台Rakuten France（原PriceMinister），此前多方潜在买家包括Casino、Carrefour等参与洽谈但未达成收购协议，西班牙业务因共用同一运营架构也将同步关闭。",
-      "publishedAt": "2026-07-17",
-      "source": "ecommercenews.eu",
-      "url": "https://ecommercenews.eu/rakuten-france-is-closing/",
-      "subCategory": "平台动态",
-      "id": "trade-20260717-955"
-    },
-    {
       "id": "trade-20260717-151",
       "title": "TikTok Shop东南亚跨境直发履约适应期将于7月19日结束",
       "summary": "TikTok Shop东南亚跨境直发履约适应期将于7月19日结束，此后订单妥投时效合规要求由60%恢复至50%，依赖无库存代发模式的中小卖家将面临更高履约合规风险。",
@@ -607,123 +724,6 @@
       "source": "AMZ123跨境导航",
       "url": "https://www.amz123.com/kx/h1KizZXR",
       "subCategory": "平台政策"
-    },
-    {
-      "id": "trade-20260717-152",
-      "title": "美国塑料袋企业因虚报原产地规避反倾销税被罚730万美元",
-      "summary": "美国塑料袋制造商RediBagUSA将中国产塑料袋转运后虚报为香港原产，以规避对华77.5%反倾销税，最终与美国政府达成730万美元和解，举报员工获超130万美元奖励。",
-      "publishedAt": "2026-07-17T05:40:00+08:00",
-      "source": "AMZ123跨境导航",
-      "url": "https://www.amz123.com/kx/QKwPu4Hf",
-      "subCategory": "关税法规"
-    },
-    {
-      "id": "trade-20260717-153",
-      "title": "深圳跨境电商迎来最大规模洗牌 一年约6.7万卖家退出市场",
-      "summary": "深圳跨境电商行业迎来最大规模洗牌，一年内约6.7万名卖家退出市场，其中无库存代发商户退出比例达41%，行业加速从铺货冲量转向品牌化与精细化运营。",
-      "publishedAt": "2026-07-17T03:49:00+08:00",
-      "source": "AMZ123跨境导航",
-      "url": "https://www.amz123.com/kx/pr9RHoHS",
-      "subCategory": "平台动态"
-    },
-    {
-      "id": "trade-20260716-211",
-      "title": "印尼商标官费最高上涠57%，将于8月2日起实施",
-      "summary": "印尼知识产权总局宣布自8月2日起上调商标业务官费，单类商标注册费上涨约55.6%，转让登记费上涠57.1%，许可备案及续展、异议等费用普遍上涨40%以上，中小企业申请及续展费用维持不变。",
-      "publishedAt": "2026-07-16T17:44:28+08:00",
-      "source": "AMZ123跨境导航",
-      "url": "https://www.amz123.com/kx/rbbvQa4H",
-      "subCategory": "关税法规"
-    },
-    {
-      "id": "trade-20260716-210",
-      "title": "亚马逊全球开店推出\"标杆新卖家孵化计划\"",
-      "summary": "亚马逊全球开店推出标杆新卖家孵化计划，目标到2029年帮助2000个新入驻品牌实现三年内单品牌销售额破亿元人民币，符合条件卖家最高可获75万美元权益，包括佣金减免、仓储补贴及广告金等支持。",
-      "publishedAt": "2026-07-16T17:44:25+08:00",
-      "source": "AMZ123跨境导航",
-      "url": "https://www.amz123.com/kx/krZAj5hD",
-      "subCategory": "平台政策"
-    },
-    {
-      "id": "trade-20260716-209",
-      "title": "2026年阿联酋电商市场规模预计达到123亿美元",
-      "summary": "报告预测阿联酋电商市场规模将从2026年的123亿美元增长至2031年的210亿美元，年复合增长率约11.29%，约79%的交易通过移动端完成，跨境卖家订单占比约58%，时尚和消费电子为主要品类。",
-      "publishedAt": "2026-07-16T17:44:21+08:00",
-      "source": "AMZ123跨境导航",
-      "url": "https://www.amz123.com/kx/obVM9jAQ",
-      "subCategory": "新兴市场"
-    },
-    {
-      "id": "trade-20260716-208",
-      "title": "美客多8月1日起全面开放墨巴智阿四国本土海外仓卖家服务",
-      "summary": "美客多宣布其海外仓高阶卖家成长服务将于8月1日起在墨西哥、巴西、智利、阿根廷四国全面开放，为符合条件卖家提供专属客户经理、仓储升级及选品分析等服务，卖家可扫码提交入驻申请。",
-      "publishedAt": "2026-07-16T17:34:29+08:00",
-      "source": "AMZ123跨境导航",
-      "url": "https://www.amz123.com/kx/iW3nWc7u",
-      "subCategory": "物流仓储"
-    },
-    {
-      "id": "trade-20260716-207",
-      "title": "Shopee巴西站8月起调整网红佣金税务申报责任",
-      "summary": "Shopee巴西站将于8月1日起把联盟营销佣金的报税责任从平台转移给卖家自行处理，同时TikTok Shop巴西站同步调整佣金结构，50雷亚尔以下商品佣金由6%提至10%，高价商品改为每单加收6雷亚尔。",
-      "publishedAt": "2026-07-16T17:34:24+08:00",
-      "source": "AMZ123跨境导航",
-      "url": "https://www.amz123.com/kx/aMJGWhpQ",
-      "subCategory": "平台政策"
-    },
-    {
-      "id": "trade-20260716-206",
-      "title": "印尼中期不提高税率，数字化监管加强打击电商灰色清关",
-      "summary": "印尼财政部长表示中期内不会上调税率，未来财政增收将依靠数字化监管加强对电商等领域征管，海关及进口环节将加大对包裹瞑报、无证应税商品流通及灰色清关行为打击力度，涉及Shopee、TikTok Shop等平台中国卖家。",
-      "publishedAt": "2026-07-16T17:34:18+08:00",
-      "source": "AMZ123跨境导航",
-      "url": "https://www.amz123.com/kx/PMndG7BW",
-      "subCategory": "关税法规"
-    },
-    {
-      "id": "trade-20260716-205",
-      "title": "美国依据301条款对巴西商品加征25%附加关税",
-      "summary": "美国贸易代表办公室宣布依据301条款对巴西输美商品加征25%附加关税，7月22日起生效，涉及约4100个出口商品类别，牛肉、咖啡、稀土等部分农产品及矿产获得豁免，系此前50%惩罚性关税被最高法院叫停后的替代方案。",
-      "publishedAt": "2026-07-16T17:34:12+08:00",
-      "source": "AMZ123跨境导航",
-      "url": "https://www.amz123.com/kx/Qh36hgeJ",
-      "subCategory": "关税法规"
-    },
-    {
-      "id": "trade-20260716-204",
-      "title": "Shopee要求印尼本土店卖家完成实名认证",
-      "summary": "Shopee要求印尼本土店卖家尽快完成个人实名信息认证，以确保注册信息准确、保障账户安全，平台称未及时完成认证可能导致店铺余额被冻结。",
-      "publishedAt": "2026-07-16T17:34:05+08:00",
-      "source": "AMZ123跨境导航",
-      "url": "https://www.amz123.com/kx/ayRUuDnd",
-      "subCategory": "平台政策"
-    },
-    {
-      "id": "trade-20260716-203",
-      "title": "TikTok Shop印尼本土店7月17日起新增电气与电竞配件类目限制",
-      "summary": "TikTok Shop印尼本土店自7月17日起对电气类商品及电竞外设（耳机、键盘、鼠标）实施类目限制，卖家须提交营业执照及SNJ、NPB、K3L或Postel认证等资质通过审核后方可上架，未获批商品将无法发布。",
-      "publishedAt": "2026-07-16T17:34:00+08:00",
-      "source": "AMZ123跨境导航",
-      "url": "https://www.amz123.com/kx/lwLkmD7z",
-      "subCategory": "平台政策"
-    },
-    {
-      "id": "trade-20260716-202",
-      "title": "欧盟PPWR包装法规将于8月12日生效，eBay提醒跨境卖家尽快完成EPR注册",
-      "summary": "欧盟《包装与包装废弃物法规》将于8月12日生效，eBay提醒在欧盟销售包装商品的跨境卖家尽快完成各成员国EPR注册，逾期未提交注册号的商品将无法在对应国家展示给买家。",
-      "publishedAt": "2026-07-16T17:19:54+08:00",
-      "source": "AMZ123跨境导航",
-      "url": "https://www.amz123.com/kx/VxDmrmZp",
-      "subCategory": "关税法规"
-    },
-    {
-      "id": "trade-20260716-201",
-      "title": "跨境卖家搜索万里汇误入钓鱼网站，二十余万元货款被转至境外",
-      "summary": "跨境卖家在搜索万里汇时误点付费推广钓鱼网站，输入账号密码及验证码后，二十余万元货款被迅速兑换欧元转至境外账户，追回难度较大。此前Temu、Shein、TikTok等平台卖家也曾遇到同类仿冒网站诈骗。",
-      "publishedAt": "2026-07-16T17:19:51+08:00",
-      "source": "AMZ123跨境导航",
-      "url": "https://www.amz123.com/kx/JdEM11Uh",
-      "subCategory": "跨境支付"
     }
   ]
 }
