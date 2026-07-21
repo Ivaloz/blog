@@ -3,8 +3,188 @@
   "slug": "tech",
   "title": "科技新闻",
   "description": "前沿科技、互联网产品、芯片硬件、开源生态。",
-  "updatedAt": "2026-07-21T09:10:00+08:00",
+  "updatedAt": "2026-07-21T16:45:00+08:00",
   "items": [
+    {
+      "id": "tech-20260721-010",
+      "title": "摄影师分享找回手机神奇经历，华为李小龙称部分机型还支持在关机状态下被强制响铃",
+      "summary": "摄影师分享在慕尼黑机场用离线查找功能找回华为Pura X Max手机的经历，华为高管李小龙介绍华为手机支持关机后48小时内的超宽带与蓝牙定位，部分机型可在关机状态下被强制响铃，定位精度约2米。",
+      "publishedAt": "2026-07-21T16:37:14+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/979/659.htm",
+      "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260721-011",
+      "title": "消息称台积电计划 2027 年起将芯片代工价格提高最多 10%",
+      "summary": "有消息称台积电将于2027年起上调先进及成熟制程代工价格最高10%，原因包括海外建厂成本上升、供应链压力及AI芯片需求推动的资本开支增加，第二季度营收1270.4亿新台币，同比增长36%。",
+      "publishedAt": "2026-07-21T16:35:44+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/979/658.htm",
+      "subCategory": "芯片硬件"
+    },
+    {
+      "id": "tech-20260721-012",
+      "title": "友达 2026 财年第二财季营收 708.9 亿元新台币，同比增长 2.40%",
+      "summary": "面板厂友达公布2026年第二季度合并营收708.9亿元新台币，同比增长2.4%，环比增长2.7%；上半年累计营收1399.23亿元新台币，同比小幅下滑1.0%，完整财报将于7月30日提交董事会。",
+      "publishedAt": "2026-07-21T16:30:57+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/979/656.htm",
+      "subCategory": "芯片硬件"
+    },
+    {
+      "id": "tech-20260721-013",
+      "title": "消息称四大台系 DIY 主板制造商再度下调出货预测，华擎同比锐减近 60%",
+      "summary": "据台媒报道，华硕、技嘉、微星、华擎四大DIY主板厂商年内第二次下调2026年出货预测，因内存涨价、显卡价格居高及处理器需求疲软，华硕技嘉预测跌破千万台，华擎同比降幅扩大至近60%。",
+      "publishedAt": "2026-07-21T16:26:45+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/979/650.htm",
+      "subCategory": "芯片硬件"
+    },
+    {
+      "id": "tech-20260721-014",
+      "title": "FSD 自动驾驶超速被交警拦下开罚单，车主抱怨特斯拉亲删了一项好用功能",
+      "summary": "Electrek编辑Fred Lambert在魁北克使用特斯拉FSD标准模式演示时以78公里时速行驶于限速50公里路段被交警开罚，他批评特斯拉已于2024年10月取消自定义限速偏移功能，仅保留固定驾驶模式选项。",
+      "publishedAt": "2026-07-21T16:26:37+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/979/649.htm",
+      "subCategory": "智能汽车"
+    },
+    {
+      "id": "tech-20260721-015",
+      "title": "抖音生活服务上线直播间消费者被动入镜保护功能，面部自动模糊",
+      "summary": "抖音生活服务上线直播间人脸保护功能，商家可开播前后开启，系统自动模糊未登记路人面部，商家及邀请嘉宾可通过人脸录入豁免模糊，违规拍摄或骚扰消费者行为将被警告、断播或封号。",
+      "publishedAt": "2026-07-21T16:18:43+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/979/638.htm",
+      "subCategory": "互联网产品"
+    },
+    {
+      "id": "tech-20260721-016",
+      "title": "TrendForce 预测：NAND 闪存紧缺压力有望 2027H2 缓解",
+      "summary": "集邦咨询预测NAND闪存供应紧张将于2027年下半年改善，今年供应短缺约4%-5%，服务器需求持续增长而消费电子手机、笔记本电脑产量分别下滑15%-20%和10%，明年产能增速将超过需求增速。",
+      "publishedAt": "2026-07-21T16:08:56+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/979/627.htm",
+      "subCategory": "芯片硬件"
+    },
+    {
+      "id": "tech-20260721-017",
+      "title": "雷军：小米澎程系列车型 WLTC 亏电油耗最低至 5.7L/100km，长途出行偶尔用油也很省",
+      "summary": "小米董事长雷军公布小米澎程系列车型数据，插电增程车型WLTC亏电油耗最低5.7L/100km，CLTC纯电续航最高505公里，电池容量最高76kWh，1.5L增程器功率112kW，共N70、N70 Max、N90、N90 Max四款车型。",
+      "publishedAt": "2026-07-21T16:06:38+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/979/626.htm",
+      "subCategory": "智能汽车"
+    },
+    {
+      "id": "tech-20260721-018",
+      "title": "腾讯云：将大规模部署国产化算力，布局 NPO 超级节点",
+      "summary": "腾讯云在世界人工智能大会上表示将大规模部署国产化算力以降低推理成本，计划四季度部署NPO超级节点并呼吁建立统一行业标准；光电共封装芯片直接置于计算芯片同一电路板，被视为国产GPU超节点更务实的技术路线。",
+      "publishedAt": "2026-07-21T16:01:38+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/979/624.htm",
+      "subCategory": "云计算"
+    },
+    {
+      "id": "tech-20260721-019",
+      "title": "消息称索尼 FX5 电影摄影机明日发布：使用 A7R VI 同款电池、750g 重，5399 欧元起",
+      "summary": "据爆料，索尼将于7月22日发布FX5电影摄影机，配备1660万像素全画幅堆栈式传感器与BIONZ XR 2处理器，支持5K开放门记录及16位RAW视频，重约750克，与A7R VI共用电池，欧洲售价5399欧元起。",
+      "publishedAt": "2026-07-21T15:54:29+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/979/619.htm",
+      "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260721-020",
+      "title": "百时美施贵宝采购英伟达最新 Vera Rubin 架构计算系统，用 AI 加速药物研发",
+      "summary": "百时美施贵宝宣布采购基于英伟达Vera Rubin架构的DGX SuperPOD计算系统，用于加速新药研发各环节，成为生命科学行业首家采购该系统的企业，此前公司已借助AI工具将临床试验准备时间缩短20%-30%。",
+      "publishedAt": "2026-07-21T15:50:05+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/979/611.htm",
+      "subCategory": "芯片硬件"
+    },
+    {
+      "id": "tech-20260721-021",
+      "title": "韩国 800 万亿韩元半导体园区项目遇阻：电力与水资源成最大瓶颈",
+      "summary": "韩国规划中的湖南半导体产业园项目预计投资逾800万亿韩元，因用电量需求相当于周边三省年用电量的70%-80%、日用工业水约65万吨，遭到当地居民对输电线路及核电设施建设的反对，政府目标2030年建成。",
+      "publishedAt": "2026-07-21T15:38:02+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/979/595.htm",
+      "subCategory": "芯片硬件"
+    },
+    {
+      "id": "tech-20260721-022",
+      "title": "荣耀亲选 HONOR Life 5G 随身 WiFi 上市：搭载华为海思芯片、5000mAh 电池，售价 199 元",
+      "summary": "荣耀亲选推出HONOR Life 5G随身WiFi，售价199元，搭载华为海思芯片，重约140克，下载速率最高286Mbps，支持最多16台设备连接及WiFi 6双频，内置5000mAh电池并配备实时显示网速与电量的彩色屏幕。",
+      "publishedAt": "2026-07-21T15:37:07+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/979/593.htm",
+      "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260721-023",
+      "title": "苹果 iPhone 18 Pro/Max 爆料汇总：A20 芯片、可变光圈等",
+      "summary": "爆料显示苹果iPhone 18 Pro/Max将于2026年9月发布，配2nm A20 Pro芯片、可变光圈镜头与索尼IMX905主传感器，灵动岛缩窄，电池容量分别为4056mAh及5391mAh，机身变厚，标准版iPhone18将推迟至2027年发布。",
+      "publishedAt": "2026-07-21T15:34:16+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/979/589.htm",
+      "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260721-024",
+      "title": "全新迈巴赫 GLS 首秀：中国版支持车位到车位辅助驾驶，还能\"读心\"",
+      "summary": "梅赛德斯-迈巴赫发布全新GLS 680，搭载4.0L双涡轮V8发动机，最大功率450千瓦、扭矩850牛米，中国版本基于MB.OS架构，支持城区及高速场景的车位到车位辅助驾驶，并配备可预判乘客需求的AI后排娱乐系统。",
+      "publishedAt": "2026-07-21T15:30:37+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/979/585.htm",
+      "subCategory": "智能汽车"
+    },
+    {
+      "id": "tech-20260721-025",
+      "title": "Unity 7 引擎发布：可无缝继承 Unity 6 项目，早期 Beta 测试今年 12 月启动",
+      "summary": "Unity在首尔发布Unity 7引擎，承诺无需重构项目即可从Unity 6平滑迁移，早期Beta测试将于今年12月启动，正式版预计2027年第一季度发布，新引擎基于CoreCLR提升性能，着色器编译速度最高提升90%，并新增免费MCP支持。",
+      "publishedAt": "2026-07-21T15:25:41+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/979/576.htm",
+      "subCategory": "开发者工具"
+    },
+    {
+      "id": "tech-20260721-026",
+      "title": "全球首款机器人手机：荣耀 Robot Phone 首日预约量超荣耀历代旗舰产品",
+      "summary": "荣耀宣布其Robot Phone首日预约量超过历代旗舰机型，该机顶部搭载四自由度钛合金机械云台及体积缩小70%的微型电机，配置骁龙8 Gen3领先版处理器与2亿像素摄像头，预计8月发布，1TB版本约售15999元。",
+      "publishedAt": "2026-07-21T15:07:46+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/979/555.htm",
+      "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260721-028",
+      "title": "WAIC现场：机器人从\"单点炫技\"迈向\"工业实战\"新赛道",
+      "summary": "2026世界人工智能大会上超200家具身智能企业展示机器人实际应用，约60多台机器人在四个场馆执行导览与零售服务，多家企业展示机器人完成药品分拣、汽车线束装配、纸箱搬运等工业场景任务而非表演性动作。",
+      "publishedAt": "2026-07-21T15:02:24+08:00",
+      "source": "ITBear科技资讯",
+      "url": "https://www.itbear.com.cn/html/2026-07/1456227.html",
+      "subCategory": "机器人"
+    },
+    {
+      "id": "tech-20260721-029",
+      "title": "新一代理想L6焕新登场：24.98万元起售，全方位升级打造极致体验",
+      "summary": "理想汽车发布新一代L6车型，Ultra版起售价24.98万元，外观采用梯形进气格栅，配备骁龙8797处理器、29英寸6K全景屏及理想自研Mach M100芯片，增程系统含51kWh电池，纯电续航300公里，总续航超1250公里。",
+      "publishedAt": "2026-07-21T14:08:20+08:00",
+      "source": "ITBear科技资讯",
+      "url": "https://www.itbear.com.cn/html/2026-07/1456169.html",
+      "subCategory": "智能汽车"
+    },
+    {
+      "id": "tech-20260721-030",
+      "title": "2026手机市场中场：大盘承压下行，华为苹果逆势上扬安卓收缩求存",
+      "summary": "Counterpoint数据显示2026年第二季度中国智能手机出货量同比下滑2%，华为凭借Pura X Max等产品以23%市占率环比增长24%重回第一，苹果iPhone17系列带动环比增长23%，其余安卓厂商收缩产量并提价保利润。",
+      "publishedAt": "2026-07-21T13:42:48+08:00",
+      "source": "ITBear科技资讯",
+      "url": "https://www.itbear.com.cn/html/2026-07/1456129.html",
+      "subCategory": "消费电子"
+    },
     {
       "title": "微星万图师 RTX 5060 Ti 8G 3X OC 显卡上市，3299 元",
       "summary": "微星VENTUS RTX 5060 Ti 8G 3X OC显卡上市，京东售价3299元，配备8GB GDDR7显存、2602MHz加速频率及单8pin供电接口，建议搭配600W电源。",
@@ -114,15 +294,6 @@
       "id": "tech-20260720-030"
     },
     {
-      "title": "Hackers stole 'significant' amount of data from tech firm relied on by thousands of US hospitals and pharmacies",
-      "summary": "英国医疗账单软件公司Craneware遭网络攻击，黑客窃取了大量员工、客户及合作伙伴数据，该公司软件被美国数千家医院与药房使用，公司称入侵者已被清除但调查仍在进行。",
-      "publishedAt": "2026-07-20T08:01:00-07:00",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/20/hackers-stole-significant-amount-of-data-from-tech-firm-relied-on-by-thousands-of-us-hospitals-and-pharmacies/",
-      "subCategory": "安全漏洞",
-      "id": "tech-20260720-043"
-    },
-    {
       "title": "ATK 推出烈空 X1 V2 大师版鼠标：PAW3955 MASTER，首发到手价 299.2 元",
       "summary": "ATK推出烈空X1 V2大师版鼠标，搭载PAW3955 MASTER传感器与NORDIC 54L15芯片，支持有线及2.4G双8K回报率，7月21日20点开售，首发到手价299.2元。",
       "publishedAt": "2026-07-20T22:32:59+08:00",
@@ -175,15 +346,6 @@
       "url": "https://www.ithome.com/0/979/226.htm",
       "subCategory": "芯片硬件",
       "id": "tech-20260720-039"
-    },
-    {
-      "title": "Hugging Face confirms breach affected internal datasets and credentials, urges users to take action",
-      "summary": "Hugging Face披露内部系统遭入侵，攻击者利用平台数据集漏洞执行代码并提权，导致内部数据集与服务凭证泄露。公司已撤销被盗凭证并修复漏洞，敦促用户轮换访问令牌。",
-      "publishedAt": "2026-07-20T05:39:00-07:00",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/20/hugging-face-confirms-breach-affected-internal-datasets-and-credentials-urges-users-to-take-action/",
-      "subCategory": "安全漏洞",
-      "id": "tech-20260720-042"
     },
     {
       "title": "白帽子行为构成实质性安全侵害：小米发布 MiSRC 违规事件处置公告，奖励取消、保留法律追责权利",
@@ -465,6 +627,15 @@
       "id": "tech-20260720-011"
     },
     {
+      "title": "Hugging Face confirms breach affected internal datasets and credentials, urges users to take action",
+      "summary": "Hugging Face披露内部系统遭入侵，攻击者利用平台数据集漏洞执行代码并提权，导致内部数据集与服务凭证泄露。公司已撤销被盗凭证并修复漏洞，敦促用户轮换访问令牌。",
+      "publishedAt": "2026-07-20T05:39:00-07:00",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/20/hugging-face-confirms-breach-affected-internal-datasets-and-credentials-urges-users-to-take-action/",
+      "subCategory": "安全漏洞",
+      "id": "tech-20260720-042"
+    },
+    {
       "title": "What to watch for after Jensen Huang's Japan visit",
       "summary": "英伟达CEO黄仁勋两日东京行程中达成多项聚焦具身智能的合作，包括日本政府支持、投资62亿美元的主权AI项目Noetra，联合日本机器人厂商采用Cosmos模型，并深化与丰田车辆及制造系统的整合，日本计划2040年前部署千万台AI机器人。",
       "publishedAt": "2026-07-20T05:16:00+08:00",
@@ -517,42 +688,6 @@
       "url": "https://www.ithome.com/0/978/804.htm",
       "subCategory": "消费电子",
       "id": "tech-20260719-953"
-    },
-    {
-      "title": "千里科技公布ASD 4.1进展，年底将推ASD 5.0并接入Step AOS",
-      "summary": "千里科技在2026世界人工智能大会上公布多项智能驾驶进展，预告ASD 4.1版本在全场景导航、语义理解及座舱驾驶融合方面的升级，并透露年底将推出ASD 5.0版本，同时计划将阶跃星辰的Step AOS车载操作系统接入汽车应用。",
-      "publishedAt": "2026-07-19T22:18:48+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/978/803.htm",
-      "subCategory": "智能汽车",
-      "id": "tech-20260719-960"
-    },
-    {
-      "title": "V社推送SteamOS 3.8.16更新修复Steam Deck黑屏问题",
-      "summary": "Valve为Steam Deck掌机推送SteamOS 3.8.16更新，回退此前导致《刺客信条：黑旗记忆重置》出现黑屏问题的HDR修复补丁，该补丁将保留在测试版渠道供开发者进一步排查，本次更新主要修复稳定性问题而非新增功能。",
-      "publishedAt": "2026-07-19T22:11:43+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/977/868.htm",
-      "subCategory": "操作系统",
-      "id": "tech-20260719-961"
-    },
-    {
-      "title": "开发者被曝在多款Steam游戏中植入木马遭逮捕",
-      "summary": "美国FBI逮捕一名在2024年5月至2026年2月间通过Steam发布约七款含木马游戏（含《BlockBlasters》等）的开发者，木马程序窃取用户个人信息、登录凭证及加密货币钱包数据，约8000台设备受感染，涉案金额超22万美元，被告面临最高10年刑期。",
-      "publishedAt": "2026-07-19T22:07:17+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/978/802.htm",
-      "subCategory": "安全漏洞",
-      "id": "tech-20260719-962"
-    },
-    {
-      "title": "HKC猎鹰27U165A显示器发售，支持4K与1080P双模",
-      "summary": "HKC猎鹰27U165A 27英寸显示器上线发售，支持4K 165Hz与1080P 320Hz双模切换，采用Fast IPS面板，通过VESA HDR 400认证，DCI-P3色域覆盖95%，配备DP2.1及双HDMI2.1接口，京东售价1899元。",
-      "publishedAt": "2026-07-19T22:00:14+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/978/800.htm",
-      "subCategory": "消费电子",
-      "id": "tech-20260719-954"
     },
     {
       "title": "总部设上海，世界人工智能合作组织未来将鼓励共建开源生态",

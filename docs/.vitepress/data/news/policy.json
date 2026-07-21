@@ -3,8 +3,17 @@
   "slug": "policy",
   "title": "政策信息",
   "description": "国家与地方政策、监管动态、产业扶持与合规要求。",
-  "updatedAt": "2026-07-21T09:10:00+08:00",
+  "updatedAt": "2026-07-21T16:45:00+08:00",
   "items": [
+    {
+      "id": "policy-20260721-004",
+      "title": "中央网信办举报中心上半年转交处置仿冒假冒网站759个",
+      "summary": "中央网信办举报中心通报，2026年上半年共转交处置仿冒假冒网站759个，同比增长150%，仿冒对象涵盖政府机关、事业单位、企业等五类主体，超八成为企业事业单位网站，不法分子借虚假福利申领、资质核验、期刊投稿等名义骗取用户信息和钱财。",
+      "publishedAt": "2026-07-21T09:45:00+08:00",
+      "source": "中央网络安全和信息化委员会办公室",
+      "url": "https://www.cac.gov.cn/2026-07/21/c_1786294086645880.htm",
+      "subCategory": "数据安全"
+    },
     {
       "title": "Fact Sheet: President Donald J. Trump Imposes Additional Tariffs on Canada",
       "summary": "特朗普签署三项公告，依据关税法第338条对加拿大汽车、酒类及乳制品加征50%关税，以回应加拿大对美产品的歧视性贸易做法，新关税将于签署30天后生效。",
@@ -24,15 +33,6 @@
       "id": "policy-20260720-015"
     },
     {
-      "title": "Securing America's Defense Supply Chains and Ensuring Domestic Acquisition of Critical Materials",
-      "summary": "特朗普签署行政令，要求国防部强化军事采购关键材料的国内供应链审查，自2027年起限制外国不合规材料豁免，并要求承包商绘制供应链图谱、寻找替代来源。",
-      "publishedAt": "2026-07-20T19:38:18Z",
-      "source": "The White House",
-      "url": "https://www.whitehouse.gov/presidential-actions/2026/07/securing-americas-defense-supply-chains-and-ensuring-domestic-acquisition-of-critical-materials/",
-      "subCategory": "产业政策",
-      "id": "policy-20260720-014"
-    },
-    {
       "title": "李强主持召开国务院常务会议",
       "summary": "国务院总理李强7月20日主持召开国务院常务会议，审议通过《知识产权保护和运用\"十五五\"规划》，要求加快推动相关法律法规立改废释；会议还听取\"六张网\"规划建设督查情况汇报，研究优化社会保障体系有关工作。",
       "publishedAt": "2026-07-20T19:39:41+08:00",
@@ -42,6 +42,15 @@
       "id": "policy-20260720-010"
     },
     {
+      "title": "Securing America's Defense Supply Chains and Ensuring Domestic Acquisition of Critical Materials",
+      "summary": "特朗普签署行政令，要求国防部强化军事采购关键材料的国内供应链审查，自2027年起限制外国不合规材料豁免，并要求承包商绘制供应链图谱、寻找替代来源。",
+      "publishedAt": "2026-07-20T19:38:18Z",
+      "source": "The White House",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/07/securing-americas-defense-supply-chains-and-ensuring-domestic-acquisition-of-critical-materials/",
+      "subCategory": "产业政策",
+      "id": "policy-20260720-014"
+    },
+    {
       "title": "全国消费品以旧换新年中工作推进电视电话会议在京召开",
       "summary": "商务部召开全国消费品以旧换新年中工作推进会，通报上半年以旧换新政策已惠及超1.5亿人次，副部长袁小明要求各部门加强协同、扩大政策知晓度，推动线下消费扩容提质，释放消费潜力。",
       "publishedAt": "2026-07-20T18:14:00+08:00",
@@ -49,6 +58,15 @@
       "url": "https://www.mofcom.gov.cn/xwfb/bldhd/art/2026/art_f94bedc075a64f5db7f41e2dd616b859.html",
       "subCategory": "产业政策",
       "id": "policy-20260720-009"
+    },
+    {
+      "id": "policy-20260721-007",
+      "title": "中国人民银行副行长宣昌能与欧盟委员会金融稳定总司长约翰·贝里根通话",
+      "summary": "2026年7月20日，中国人民银行副行长宣昌能与欧盟委员会金融稳定、金融服务和资本市场联盟总司长约翰·贝里根通电话，就中欧经济形势和金融合作等议题交换意见。",
+      "publishedAt": "2026-07-20T17:09:22+08:00",
+      "source": "中国人民银行",
+      "url": "https://www.pbc.gov.cn/goutongjiaoliu/113456/113469/2026072016370956377/index.html",
+      "subCategory": "跨境贸易"
     },
     {
       "id": "policy-20260720-005",
@@ -67,6 +85,15 @@
       "url": "http://www.csrc.gov.cn/csrc/c100028/c7646232/content.shtml",
       "subCategory": "金融监管",
       "id": "policy-20260720-011"
+    },
+    {
+      "id": "policy-20260721-003",
+      "title": "国新办举行新闻发布会介绍2026年上半年工业和信息化发展情况",
+      "summary": "工业和信息化部总工程师王卫明介绍，我国人工智能开源大模型全球累计下载量突破100亿次，规模以上制造业企业人工智能应用普及率超30%，上半年规模以上工业增加值同比增长5.4%，工信部将印发算力标准体系建设指南。",
+      "publishedAt": "2026-07-20T14:34:00+08:00",
+      "source": "工业和信息化部/国务院新闻办公室",
+      "url": "https://www.miit.gov.cn/xwfb/bldhd/art/2026/art_bc4cf76777cb4fd2896082ca2ff7039d.html",
+      "subCategory": "数字经济"
     },
     {
       "title": "国家能源局：到2028年底 建成一批村镇微能网试点项目",
@@ -94,6 +121,33 @@
       "source": "新华网",
       "url": "https://www.news.cn/politics/20260720/8b1d1378454848eeb3b70fc5de840180/c.html",
       "subCategory": "数据安全"
+    },
+    {
+      "id": "policy-20260721-005",
+      "title": "中央网信办部署开展\"清朗·未成年人网络保护\"专项行动",
+      "summary": "中央网信办部署为期四个月的专项行动，聚焦AI生成暴力动画、伪造\"神童人设\"、诱导未成年人拍摄敏感照片、诱导冲动消费及诱导规避防沉迷验证等问题，暑期先行开展环境清理，随后推进平台算法、内容审核和家长监护功能治理。",
+      "publishedAt": "2026-07-20T11:16:00+08:00",
+      "source": "中央网络安全和信息化委员会办公室",
+      "url": "https://www.cac.gov.cn/2026-07/20/c_1786294052406609.htm",
+      "subCategory": "数据安全"
+    },
+    {
+      "title": "证监会今开座谈会 促进市场稳定健康发展",
+      "summary": "证监会7月20日召开座谈会，听取市场机构关于促进资本市场稳定健康发展的意见建议。此前一日，中国国新、中国诚通两家央企合计运用超600亿元资金增持境内股票资产，以支持资本市场平稳运行。",
+      "publishedAt": "2026-07-20T04:10:00+08:00",
+      "source": "证券时报",
+      "url": "https://finance.sina.com.cn/jjxw/2026-07-20/doc-iniiktnr3149502.shtml",
+      "subCategory": "金融监管",
+      "id": "policy-20260720-001"
+    },
+    {
+      "title": "2026世界人工智能大会观察",
+      "summary": "2026世界人工智能大会在沪举行，展览面积首次超10万平方米，展品超4400项；中国人形机器人2025年出货量占全球88.7%，人工智能核心产业规模超1.2万亿元，中国在全球人工智能专利中占比约六成。",
+      "publishedAt": "2026-07-20T00:14:00+08:00",
+      "source": "新华社",
+      "url": "https://www.news.cn/tech/20260720/653dbb72adff4930807c78b1fab22fad/c.html",
+      "subCategory": "AI监管",
+      "id": "policy-20260720-002"
     },
     {
       "id": "policy-20260720-006",
@@ -132,22 +186,31 @@
       "id": "policy-20260720-012"
     },
     {
-      "title": "证监会今开座谈会 促进市场稳定健康发展",
-      "summary": "证监会7月20日召开座谈会，听取市场机构关于促进资本市场稳定健康发展的意见建议。此前一日，中国国新、中国诚通两家央企合计运用超600亿元资金增持境内股票资产，以支持资本市场平稳运行。",
-      "publishedAt": "2026-07-20T04:10:00+08:00",
-      "source": "证券时报",
-      "url": "https://finance.sina.com.cn/jjxw/2026-07-20/doc-iniiktnr3149502.shtml",
-      "subCategory": "金融监管",
-      "id": "policy-20260720-001"
+      "id": "policy-20260721-002",
+      "title": "Founders of Celsius Network Ordered to Pay $16.5 Million to Resolve FTC Charges",
+      "summary": "美国联邦贸易委员会宣布，Celsius Network三名前高管因就加密货币存款安全性和可提现性作虚假宣传，被责令合计支付1650万美元，其中前CEO Mashinsky支付1000万美元，三人均被禁止从事相关产品营销。",
+      "publishedAt": "2026-07-20",
+      "source": "美国联邦贸易委员会（FTC）",
+      "url": "https://www.ftc.gov/news-events/news/press-releases/2026/07/founders-celsius-network-ordered-pay-165-million-resolve-ftc-charges",
+      "subCategory": "海外政策"
     },
     {
-      "title": "2026世界人工智能大会观察",
-      "summary": "2026世界人工智能大会在沪举行，展览面积首次超10万平方米，展品超4400项；中国人形机器人2025年出货量占全球88.7%，人工智能核心产业规模超1.2万亿元，中国在全球人工智能专利中占比约六成。",
-      "publishedAt": "2026-07-20T00:14:00+08:00",
-      "source": "新华社",
-      "url": "https://www.news.cn/tech/20260720/653dbb72adff4930807c78b1fab22fad/c.html",
-      "subCategory": "AI监管",
-      "id": "policy-20260720-002"
+      "id": "policy-20260721-006",
+      "title": "《新能源汽车维修作业安全要求》国家标准8月1日起实施",
+      "summary": "市场监管总局发布国家标准GB/T 47439—2026《新能源汽车维修作业安全要求》，自2026年8月1日起实施，对电动及氢燃料电池汽车维修的人员资质、场地条件、作业前准备、风险识别及高压系统维修等作出规范，旨在提升维修企业安全管理水平。",
+      "publishedAt": "2026-07-20",
+      "source": "国家市场监督管理总局",
+      "url": "https://www.samr.gov.cn/xw/sj/art/2026/art_034fe3a706604d9dbb1af89a7833b84d.html",
+      "subCategory": "新能源政策"
+    },
+    {
+      "id": "policy-20260721-001",
+      "title": "Commission sends Statements of Objections to several companies and trade associations in suspected construction chemicals cartel",
+      "summary": "欧盟委员会向Cemex、Sika、Mapei等建筑化学品生产商及法国、德国、西班牙三国行业协会发出异议声明，初步认定其在2021至2022年就水泥、混凝土和砂浆化学添加剂协调涨价，涉嫌违反欧盟条约第101条反垄断规则。",
+      "publishedAt": "2026-07-19T22:00:00Z",
+      "source": "欧盟委员会",
+      "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1394",
+      "subCategory": "反垄断"
     },
     {
       "title": "钠离子电池等新型电池免税到什么时候？",
@@ -607,15 +670,6 @@
       "source": "South China Morning Post",
       "url": "https://www.scmp.com/news/china/diplomacy/article/3360582/us-says-nvidias-h200-exports-china-remain-trivial-despite-approvals",
       "subCategory": "半导体出口管制"
-    },
-    {
-      "id": "policy-20260715-004",
-      "title": "自然资源部：五方面改革完善自然资源资产管理",
-      "summary": "中共中央办公厅、国务院办公厅近日印发关于完善自然资源资产管理制度体系的意见，自然资源部副部长张文彤介绍，改革将从摸清资产家底、健全产权制度、促进资产保值增值、实现高效配置利用、维护权益五方面推进，目标到2030年管理体系更加健全。",
-      "publishedAt": "2026-07-14T19:56:44+08:00",
-      "source": "科技日报",
-      "url": "https://www.stdaily.com/web/gdxw/2026-07/14/content_547190.html",
-      "subCategory": "产业政策"
     },
     {
       "id": "policy-20260714-104",
