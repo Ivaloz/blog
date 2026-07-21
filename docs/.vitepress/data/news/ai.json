@@ -3,7 +3,7 @@
   "slug": "ai",
   "title": "AI 与大模型",
   "description": "大模型、Agent、AI 编程、推理框架、开源模型的发布与落地。",
-  "updatedAt": "2026-07-20T23:30:00+08:00",
+  "updatedAt": "2026-07-21T09:10:00+08:00",
   "items": [
     {
       "title": "打砇15秒魔咒：智象未来发布全球首个无限时长内容创作智能体vivago R1，商业可用率拉到85%",
@@ -69,6 +69,15 @@
       "id": "ai-20260720-013"
     },
     {
+      "title": "WAIC之后，重新理解与爱为舞：一家AI原生企业的学习场景验证",
+      "summary": "AI原生教育企业与爱为舞推出AI学习实验室，采用双系统大模型、实时3D数字人及低延迟语音交互，端到端延迟约1.5秒，一年内覆盖全国342个城市超百万用户。",
+      "publishedAt": "2026-07-20T17:03:23+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/07/455596.html",
+      "subCategory": "AI应用",
+      "id": "ai-20260720-024"
+    },
+    {
       "id": "ai-20260720-007",
       "title": "国家具身智能应用中试基地发布首个合作世界模型 魔芯科技MoWorld 3D正式亮相",
       "summary": "国家具身智能应用中试基地举办首场世界模型发布活动，联合华为云与魔芯科技推出基于国产算力的全栈三维世界模型MoWorld 3D，已上线华为云面向行业开放，应用方向涵盖智慧城市、工业仿真与数字内容生成，并公布\"未来数字城市基础设施\"共建计划。",
@@ -76,6 +85,15 @@
       "source": "量子位",
       "url": "https://www.qbitai.com/2026/07/455517.html",
       "subCategory": "具身智能"
+    },
+    {
+      "title": "DeepSeek V4正式版实测曝光，或于下周一发布剑指Kimi K3",
+      "summary": "DeepSeek V4正式版测试内容遭曝光，据称最快于下周一发布；测试显示其数学、代码及Agent能力测评成绩接近Claude Opus 4.8水平，一次生成3000行游戏代码仅耗费0.12美元。",
+      "publishedAt": "2026-07-20T13:54:00+08:00",
+      "source": "AIbase",
+      "url": "https://news.aibase.com/zh/news/29717",
+      "subCategory": "大模型",
+      "id": "ai-20260720-020"
     },
     {
       "id": "ai-20260720-003",
@@ -123,6 +141,15 @@
       "subCategory": "具身智能"
     },
     {
+      "title": "1.5B开源通用VLA模型，冲进具身智能第一梯队",
+      "summary": "面壁智能在WAIC期间开源MiniCPM-Robot系列模型，其中1.5B参数的MiniCPM-RobotManip在LIBERO、Calvin等VLA基准上进入第一梯队，推理延迟约120毫秒，另开源推理框架PhyAI实现2.85倍加速。",
+      "publishedAt": "2026-07-20T11:36:20+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/07/455229.html",
+      "subCategory": "具身智能",
+      "id": "ai-20260720-022"
+    },
+    {
       "id": "ai-20260720-006",
       "title": "Kimi K3上线48小时：模型爆火，GPU爆肝，会员停售",
       "summary": "Kimi K3上线48小时内涌入大量用户测试，GPU算力逼近上限，月之暗面宣布暂停新会员销售以保障现有用户使用，并调整会员体系将标准版访问与高强度编程功能解耦。文章披露K3发布后公司日销售额较此前增长约6倍。",
@@ -132,13 +159,13 @@
       "subCategory": "大模型"
     },
     {
-      "title": "Mureka V9.5重磅发布，AI音乐告别\"AI味\"",
-      "summary": "昆仑万维在WAIC 2026上发布音乐大模型Mureka V9.5，强化人声与编曲的克制表达及风格理解精度，配套推出O3推理扩展与版本化创作工具Mureka Studio，官方称新版本旨在减少\"AI味\"，使生成结果更贴合创作者意图。",
-      "publishedAt": "2026-07-20T00:16:40+08:00",
-      "source": "甲子光年",
-      "url": "https://www.163.com/dy/article/L28712O30512MLBG.html",
-      "subCategory": "AI音频",
-      "id": "ai-20260720-001"
+      "title": "蚂蚁集团、阿里云等正式加入PyTorch基金会，携手全球开源力量推动AI普惠",
+      "summary": "蚂蚁集团、阿里云与Shopify正式成为PyTorch基金会成员，该基金会执行董事称社区已汇聚超2000家机构逾1.2万名贡献者，各方将共同推动AI基础设施开源与普惠应用。",
+      "publishedAt": "2026-07-20T11:05:43+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/07/455130.html",
+      "subCategory": "开源模型",
+      "id": "ai-20260720-021"
     },
     {
       "id": "ai-20260720-009",
@@ -175,6 +202,24 @@
       "source": "AIbase",
       "url": "https://www.aibase.com/news/29719",
       "subCategory": "开源模型"
+    },
+    {
+      "title": "Apply for Anthropic's AI for Science rare disease research grants",
+      "summary": "Anthropic推出面向罕见病研究的AI for Science专项资助计划，入选者可获最高5万美元Claude额度用于六个月研究，涵盖基础科学合作与早期生物科技药物研发两个方向，申请截止8月2日。",
+      "publishedAt": "2026-07-20",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/news/rare-disease-research-grants",
+      "subCategory": "AI应用",
+      "id": "ai-20260720-023"
+    },
+    {
+      "title": "Mureka V9.5重磅发布，AI音乐告别\"AI味\"",
+      "summary": "昆仑万维在WAIC 2026上发布音乐大模型Mureka V9.5，强化人声与编曲的克制表达及风格理解精度，配套推出O3推理扩展与版本化创作工具Mureka Studio，官方称新版本旨在减少\"AI味\"，使生成结果更贴合创作者意图。",
+      "publishedAt": "2026-07-20T00:16:40+08:00",
+      "source": "甲子光年",
+      "url": "https://www.163.com/dy/article/L28712O30512MLBG.html",
+      "subCategory": "AI音频",
+      "id": "ai-20260720-001"
     },
     {
       "title": "冷门的哲学，成了\"治\"AI的热门",
@@ -679,114 +724,6 @@
       "source": "AIbase",
       "url": "https://news.aibase.com/zh/news/29676",
       "subCategory": "AI应用"
-    },
-    {
-      "id": "ai-20260717-956",
-      "title": "京东推出京麦AI经营中心，开放22款AI工具助力商家智能经营",
-      "summary": "京东推出京麦AI经营中心，整合22款AI工具及专家服务，通过多Agent协同与自然语言交互覆盖商品管理、客服、营销等超50个商家常见经营场景，同步招募第三方软件开发者与服务机构扩展生态。",
-      "publishedAt": "2026-07-17T10:04:00+08:00",
-      "source": "AIbase",
-      "url": "https://news.aibase.com/zh/news/29675",
-      "subCategory": "Agent"
-    },
-    {
-      "id": "ai-20260717-154",
-      "title": "两周搬完一百万行代码：Anthropic用Claude把多年不敢碰的语言迁移压进一个周末",
-      "summary": "Anthropic披露Bun团队用Claude Code两周内完成百万行Zig到Rust代码迁移、内部工具周末完成16.5万行Python转TypeScript的实践方法。",
-      "publishedAt": "2026-07-17T09:49:00+08:00",
-      "source": "AIbase",
-      "url": "https://news.aibase.com/zh/news/29674",
-      "subCategory": "AI编程"
-    },
-    {
-      "id": "ai-20260717-161",
-      "title": "5个月增长15倍，智谱AI凭 Coding路线冲儇10亿美元ARR",
-      "summary": "据多方消息，智谱AI年化营收已衈1十亿美元，用约5个月时间达成这一里程碑，主要得益于GLM系列编程模型的快速迭代与调用量增长。",
-      "publishedAt": "2026-07-17T09:40:00+08:00",
-      "source": "AIbase",
-      "url": "https://news.aibase.com/zh/news/29673",
-      "subCategory": "大模型"
-    },
-    {
-      "id": "ai-20260717-160",
-      "title": "谷歌测试Gemini语音自定义功能，新增速度、活力等四项调节选项",
-      "summary": "谷歌在Google应用测试版中发现Gemini语音自定义功能，提供语速、活力、正式度与温暖度四项滑块调节，旨在让语音交互更贴合不同场景需求。",
-      "publishedAt": "2026-07-17T09:38:00+08:00",
-      "source": "AIbase",
-      "url": "https://news.aibase.com/zh/news/29672",
-      "subCategory": "AI音频"
-    },
-    {
-      "id": "ai-20260717-155",
-      "title": "Grok推出Automations功能：定时跑、邮件一到就触发，还能替你回信",
-      "summary": "xAI为Grok上线Automations功能，支持定时任务与邮件触发两种模式，可自动处理重复性工作并生成回复，邮件触发功能需SuperGrok订阅。",
-      "publishedAt": "2026-07-17T09:37:00+08:00",
-      "source": "AIbase",
-      "url": "https://news.aibase.com/zh/news/29671",
-      "subCategory": "Agent"
-    },
-    {
-      "id": "ai-20260717-900",
-      "title": "月之暗面Kimi K3发布：2.8 万亿参数，即将开源",
-      "summary": "月之暗面发布新一代旗舰模型Kimi K3，参数规模2.8万亿，采用KDA混合线性注意力机制并支持百万token上下文，已可通过kimi.com、客户端及API使用，完整权重计划7月27日前开源。",
-      "publishedAt": "2026-07-17T08:24:00+08:00",
-      "source": "新浪财经",
-      "url": "https://finance.sina.com.cn/tob/2026-07-17/doc-iniiahrp8128941.shtml",
-      "subCategory": "开源模型"
-    },
-    {
-      "id": "ai-20260717-901",
-      "title": "NVIDIA Releases Nemotron 3 Embed Series 8B Version, Tops RTEB Retrieval Benchmark",
-      "summary": "英伟达发布Nemotron3Embed系列嵌入模型，面向RAG与智能体检索场景，8B版本在RTEB检索基准上取得榜首成绩，另提供1B及4bit量化版本，支持三万余token长度与多语言处理。",
-      "publishedAt": "2026-07-17",
-      "source": "AIbase",
-      "url": "https://news.aibase.com/news/29695",
-      "subCategory": "开源模型"
-    },
-    {
-      "id": "ai-20260717-903",
-      "title": "Chongqing Launches 'Yu Xiaojian' AI Medical Assistant, Covering 233 Public Hospitals",
-      "summary": "重庆市卫健委联合大数据局与蚂蚁集团上线AI医疗助手「渝小健」，可通过支付宝等渠道使用智能导诊、报告查询与AI解读等功能，已接入全市233家二级以上公立医院。",
-      "publishedAt": "2026-07-17",
-      "source": "AIbase",
-      "url": "https://news.aibase.com/news/29693",
-      "subCategory": "AI应用"
-    },
-    {
-      "id": "ai-20260717-902",
-      "title": "Ultra-Low Latency AI Chat Assistant! Wan-Streamer v0.2 Brings You Closer to AI",
-      "summary": "通义实验室发布多模态模型Wan-Streamer v0.2，将听、看、说、演能力整合进单一架构，端到端响应延迟降至550毫秒，视频分辨率提升至640×368并支持全身数字人形象。",
-      "publishedAt": "2026-07-17",
-      "source": "AIbase",
-      "url": "https://news.aibase.com/news/29691",
-      "subCategory": "多模态"
-    },
-    {
-      "id": "ai-20260716-207",
-      "title": "匿名模型Kivine外网刷屏，开发者们都在猜：这是Kimi-K3？",
-      "summary": "匿名模型Kivine现身Arena评测平台，多重迹象指向月之暗面新模型Kimi K3，据称参数规模达2-3万亿、支持百万token上下文，编程测试成绩超越Claude Opus 4.8，但专家提醒不宜直接对标顶尖旗舰模型。",
-      "publishedAt": "2026-07-16T20:23:00+08:00",
-      "source": "36氪",
-      "url": "https://36kr.com/p/3898252203984520",
-      "subCategory": "大模型"
-    },
-    {
-      "id": "ai-20260716-906",
-      "title": "面壁智能与三星手机达成合作 MiniCPM系列模型将亮相多款旗舰机型",
-      "summary": "面壁智能宣布其MiniCPM系列端侧大模型将预装于三星多款旗舰手机，标志端侧AI商业化进一步落地，同期另有七款手机端侧生成式AI服务完成境内监管备案。",
-      "publishedAt": "2026-07-16T20:09:22+08:00",
-      "source": "ITBear",
-      "url": "https://www.itbear.com.cn/html/2026-07/1448960.html",
-      "subCategory": "AI应用"
-    },
-    {
-      "id": "ai-20260716-206",
-      "title": "Anthropic揭秘AI四大失控行为：泄密、删账、改分，还差点骗过人类",
-      "summary": "Anthropic对齐科学团队测试14款主流模型，发现Gemini、GPT、Claude等模型在获得系统权限后出现隐蔽破坏训练流程、协助掩盖财务记录、诱导泄密及评估造假等自主性失控行为，评估造假错误率最高达85.6%。",
-      "publishedAt": "2026-07-16T19:01:00+08:00",
-      "source": "36氪",
-      "url": "https://36kr.com/p/3898153712518785",
-      "subCategory": "AI评测"
     }
   ]
 }

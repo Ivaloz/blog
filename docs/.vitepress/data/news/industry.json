@@ -3,7 +3,7 @@
   "slug": "industry",
   "title": "行业新闻",
   "description": "企业服务、SaaS、云计算、制造业、消费互联网的产业动态。",
-  "updatedAt": "2026-07-20T23:30:00+08:00",
+  "updatedAt": "2026-07-21T09:10:00+08:00",
   "items": [
     {
       "title": "博板堂：2026年6月中国大陆主板出货量环比增长1%，同比下降21%",
@@ -132,12 +132,30 @@
       "id": "industry-20260719-955"
     },
     {
+      "title": "腾讯升级发布具身智能全栈方案，ADP 4.0海外版上线",
+      "summary": "2026世界人工智能大会上，腾讯发布具身智能全栈方案并上线ADP 4.0企业级智能体平台海外版，已落地30余个行业，个人智能体WorkBuddy同步推出独立App，成为首个登陆iOS、安卓、鸿蒙三端的通用智能体应用。",
+      "publishedAt": "2026-07-18T17:37:56+08:00",
+      "source": "定焦One",
+      "url": "https://www.163.com/dy/article/L24TJB2H05564B6E.html",
+      "subCategory": "企业服务",
+      "id": "industry-20260718-023"
+    },
+    {
       "id": "industry-20260719-001",
       "title": "利好来了！算电协同领域迎来大消息",
       "summary": "2026世界人工智能大会期间，国家能源局宣布加快构建新型能源体系支撑人工智能发展，预计到2030年算力基础设施用电量将达8万亿千瓦时、占全国用电总量约6%；机构预测\"十五五\"期间算电协同领域投资规模或达约2万亿元，年复合增速42%。",
       "publishedAt": "2026-07-18T16:05:00+08:00",
       "source": "证券时报",
       "url": "https://www.stcn.com/article/detail/4027230.html",
+      "subCategory": "行业研报"
+    },
+    {
+      "id": "industry-20260719-002",
+      "title": "2025财年Q1-2026财年Q1亚马逊每股现金流及同比",
+      "summary": "199IT发布数据显示2025财年第一季度至2026财年第一季度亚马逊每股现金流及同比变化情况，文章附原始数据图表，为观察亚马逊经营现金流趋势提供参考。",
+      "publishedAt": "2026-07-18",
+      "source": "199IT",
+      "url": "https://www.199it.com/archives/1840651.html",
       "subCategory": "行业研报"
     },
     {
@@ -156,15 +174,6 @@
       "publishedAt": "2026-07-18T02:42:00+08:00",
       "source": "199IT",
       "url": "https://www.199it.com/archives/1840641.html",
-      "subCategory": "行业研报"
-    },
-    {
-      "id": "industry-20260719-002",
-      "title": "2025财年Q1-2026财年Q1亚马逊每股现金流及同比",
-      "summary": "199IT发布数据显示2025财年第一季度至2026财年第一季度亚马逊每股现金流及同比变化情况，文章附原始数据图表，为观察亚马逊经营现金流趋势提供参考。",
-      "publishedAt": "2026-07-18",
-      "source": "199IT",
-      "url": "https://www.199it.com/archives/1840651.html",
       "subCategory": "行业研报"
     },
     {
@@ -258,6 +267,24 @@
       "subCategory": "公司动态"
     },
     {
+      "id": "industry-20260717-905",
+      "title": "Z世代饮酒率稳至74%，婴儿潮一代降至71%",
+      "summary": "IWSR对19个国家逾3.2万名受访者的调查显示，Z世代饮酒参与率升至74%，三年前为66%，其中84%的适龄Z世代过去半年内消费过鸡尾酒；婴儿潮一代饮酒率降至71%，人均单次饮用量最低。",
+      "publishedAt": "2026-07-17",
+      "source": "199IT",
+      "url": "https://www.199it.com/archives/1840565.html",
+      "subCategory": "消费零售"
+    },
+    {
+      "title": "台积电二季度净利润再创新高 年内扩产",
+      "summary": "台积电公布2026年第二季度财报，营收1.27万亿新台币，同比增长36%，净利润7065.6亿新台币，同比增长77.4%，创历史新高，7纳米及以下先进制程贡献77%晶圆收入，公司上调全年资本支出预期以扩大产能。",
+      "publishedAt": "2026-07-17T07:10:00+08:00",
+      "source": "财新网",
+      "url": "https://companies.caixin.com/2026-07-17/102464968.html",
+      "subCategory": "半导体产业",
+      "id": "industry-20260717-951"
+    },
+    {
       "id": "industry-20260717-151",
       "title": "IMD：2026年世界竞争力年鉴",
       "summary": "IMD发布《2026年世界竞争力年鉴》称，2025年约68%的经济体法治水平出现下降，高于上年的57%，认为竞争优势正从成本规模技术转向制度可信度与法治水平。",
@@ -292,15 +319,6 @@
       "source": "199IT",
       "url": "https://www.199it.com/archives/1822835.html",
       "subCategory": "行业研报"
-    },
-    {
-      "id": "industry-20260717-905",
-      "title": "Z世代饮酒率稳至74%，婴儿潮一代降至71%",
-      "summary": "IWSR对19个国家逾3.2万名受访者的调查显示，Z世代饮酒参与率升至74%，三年前为66%，其中84%的适龄Z世代过去半年内消费过鸡尾酒；婴儿潮一代饮酒率降至71%，人均单次饮用量最低。",
-      "publishedAt": "2026-07-17",
-      "source": "199IT",
-      "url": "https://www.199it.com/archives/1840565.html",
-      "subCategory": "消费零售"
     },
     {
       "id": "industry-20260718-002",
@@ -346,33 +364,6 @@
       "source": "新浪科技",
       "url": "https://finance.sina.com.cn/tech/digi/2026-07-16/doc-inihyiye7729823.shtml",
       "subCategory": "新能源汽车"
-    },
-    {
-      "id": "industry-20260716-304",
-      "title": "Gartner发布2026年上半年CIO报告，AI价值兑现成最大挑战",
-      "summary": "Gartner调查显示，83%的CEO正在加大AI投入，但71%的CIO仍难以识别可落地的业务场景，59%的AI项目未能进入生产环境。报告还指出，93%的董事会成员认为网络安全直接威胁股东价值。",
-      "publishedAt": "2026-07-16T04:38:00+08:00",
-      "source": "Gartner",
-      "url": "https://finance.sina.com.cn/tech/roll/2026-07-16/doc-inihxtas1153255.shtml",
-      "subCategory": "企业服务"
-    },
-    {
-      "id": "industry-20260716-303",
-      "title": "Omdia：预计2026年全球云基础设施服务支出将增长27%",
-      "summary": "Omdia数据显示，2025年第四季度全球云基础设施支出达1109亿美元，同比增长29%，已连续多季度保持20%以上增速。Omdia预计2026年全球云基础设施服务支出将增长27%，AWS、Azure、谷歌云增速分别为24%、39%、50%。",
-      "publishedAt": "2026-07-16T02:37:00+08:00",
-      "source": "Omdia",
-      "url": "https://finance.sina.com.cn/tech/roll/2026-07-16/doc-inihxnuv7993969.shtml",
-      "subCategory": "企业服务"
-    },
-    {
-      "title": "宁波江丰电子材料股份有限公司2026年半年度业绩预告",
-      "summary": "宁波江丰电子发布2026年半年度业绩预告，预计营收约27亿元，同比增长约30%；归母净利润4.80亿元至5.60亿元，同比增长89.99%至121.65%，主要受益于AI算力、存储及逻辑芯片需求持续释放。",
-      "publishedAt": "2026-07-16T01:45:00+08:00",
-      "source": "新浪财经",
-      "url": "https://finance.sina.com.cn/roll/2026-07-16/doc-inihxnuv7912500.shtml",
-      "subCategory": "半导体产业",
-      "id": "industry-20260716-007"
     },
     {
       "id": "industry-20260716-900",
@@ -438,6 +429,42 @@
       "id": "industry-20260716-950"
     },
     {
+      "id": "industry-20260716-304",
+      "title": "Gartner发布2026年上半年CIO报告，AI价值兑现成最大挑战",
+      "summary": "Gartner调查显示，83%的CEO正在加大AI投入，但71%的CIO仍难以识别可落地的业务场景，59%的AI项目未能进入生产环境。报告还指出，93%的董事会成员认为网络安全直接威胁股东价值。",
+      "publishedAt": "2026-07-16T04:38:00+08:00",
+      "source": "Gartner",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-07-16/doc-inihxtas1153255.shtml",
+      "subCategory": "企业服务"
+    },
+    {
+      "id": "industry-20260716-303",
+      "title": "Omdia：预计2026年全球云基础设施服务支出将增长27%",
+      "summary": "Omdia数据显示，2025年第四季度全球云基础设施支出达1109亿美元，同比增长29%，已连续多季度保持20%以上增速。Omdia预计2026年全球云基础设施服务支出将增长27%，AWS、Azure、谷歌云增速分别为24%、39%、50%。",
+      "publishedAt": "2026-07-16T02:37:00+08:00",
+      "source": "Omdia",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-07-16/doc-inihxnuv7993969.shtml",
+      "subCategory": "企业服务"
+    },
+    {
+      "title": "宁波江丰电子材料股份有限公司2026年半年度业绩预告",
+      "summary": "宁波江丰电子发布2026年半年度业绩预告，预计营收约27亿元，同比增长约30%；归母净利润4.80亿元至5.60亿元，同比增长89.99%至121.65%，主要受益于AI算力、存储及逻辑芯片需求持续释放。",
+      "publishedAt": "2026-07-16T01:45:00+08:00",
+      "source": "新浪财经",
+      "url": "https://finance.sina.com.cn/roll/2026-07-16/doc-inihxnuv7912500.shtml",
+      "subCategory": "半导体产业",
+      "id": "industry-20260716-007"
+    },
+    {
+      "title": "中汽协：6月新能源汽车新车销量达到汽车新车总销量的58.5%",
+      "summary": "中国汽车工业协会数据显示，2026年6月新能源汽车产销分别完成159.8万辆和164.3万辆，同比增长26%和23.6%，新能源汽车新车销量占汽车新车总销量的58.5%。",
+      "publishedAt": "2026-07-15T17:53:09+08:00",
+      "source": "网易",
+      "url": "https://www.163.com/dy/article/L1T7FUPO0519QIKK.html",
+      "subCategory": "新能源汽车",
+      "id": "industry-20260715-903"
+    },
+    {
       "id": "industry-20260715-902",
       "title": "中汽协：2026年6月新能源汽车新车销量达到汽车新车总销量的58.5%",
       "summary": "中汽协数据显示，2026年6月新能源汽车产销分别完成159.8万辆和164.3万辆，同比增长26%和23.6%，新车销量占汽车总销量的58.5%；上半年累计产销均超740万辆，同比增长约7%。",
@@ -483,22 +510,31 @@
       "subCategory": "消费零售"
     },
     {
-      "id": "industry-20260715-202",
-      "title": "ACS：预计2026年美国新增癌症病例211.5万例，死亡病例约62.6万例",
-      "summary": "美国癌症协会最新报告预测，2026年美国将新增约211.49万例癌症病例，死亡病例约62.61万例，平均每天约1700人因癌症死亡。报告指出癌症死亡率较1991年峰值下降34%，至少四成新发病例理论上可预防。",
-      "publishedAt": "2026-07-15T06:24:00+08:00",
-      "source": "美国癌症协会（ACS）",
-      "url": "https://finance.sina.com.cn/tech/roll/2026-07-15/doc-inihvqcn8175849.shtml",
-      "subCategory": "医疗健康"
+      "title": "SEMI 预测：全球半导体设备销售额未来三年复合年增长率接近 20%",
+      "summary": "SEMI预测2026年全球半导体设备销售额将达1659亿美元，同比增长23.2%，2028年有望增至2295亿美元，2026至2028年复合增长率约19.4%，需求由DRAM、NAND及逻辑芯片扩产驱动。",
+      "publishedAt": "2026-07-15T15:05:00+08:00",
+      "source": "IT之家",
+      "url": "https://finance.sina.com.cn/tech/digi/2026-07-15/doc-inihwmia8040340.shtml",
+      "subCategory": "半导体产业",
+      "id": "industry-20260715-904"
     },
     {
-      "id": "industry-20260715-900",
-      "title": "中国信通院规划所联合发布《“人工智能+消费”发展研究报告（2026年）》",
-      "summary": "中国信通院报告提出，人工智能与消费的融合是双向耦合的系统性变革，可划分为效率提升、消费重构、价值共创三个演进阶段，并提出基于区域资源秅赋差异的四条发展路径，推动智能消费升级。",
-      "publishedAt": "2026-07-15T00:09:00+08:00",
-      "source": "新浪财经",
-      "url": "https://finance.sina.com.cn/wm/2026-07-15/doc-inihvcpx8020680.shtml",
-      "subCategory": "消费零售"
+      "title": "国家统计局：2026年上半年社会消费品零售总额增长1.3%",
+      "summary": "国家统计局数据显示，2026年上半年社会消费品零售总额24.87万亿元，同比增长1.3%，其中除汽车以外的消费品零售额增长2.8%，网上零售额增长5.2%。",
+      "publishedAt": "2026-07-15T10:16:07+08:00",
+      "source": "中国新闻网",
+      "url": "https://www.chinanews.com.cn/cj/2026/07-15/10659537.shtml",
+      "subCategory": "消费零售",
+      "id": "industry-20260715-905"
+    },
+    {
+      "title": "政策利好创新药出海，机构：\"创新+国际化\"仍为2026年医药核心主线",
+      "summary": "商务、药监等部门发布政策便利境外已获批生物制品在华生产准入，业内人士指出中国创新药行业正从估值驱动转向业绩与国际化驱动，License-out等出海合作保持高景气度。",
+      "publishedAt": "2026-07-15T10:04:37+08:00",
+      "source": "财闻网",
+      "url": "https://www.caiwennews.com/article/1517198.shtml",
+      "subCategory": "医疗健康",
+      "id": "industry-20260715-906"
     },
     {
       "id": "industry-20260716-001",
@@ -528,6 +564,33 @@
       "id": "industry-20260716-005"
     },
     {
+      "title": "2026年6月份规模以上工业增加值增长5.3%",
+      "summary": "国家统计局数据显示，2026年6月规模以上工业增加值同比增长5.3%，较5月加快0.8个百分点，上半年累计同比增长5.4%，其中制造业增长6.0%，公用事业增长7.4%，采矿业下降2.2%。",
+      "publishedAt": "2026-07-15",
+      "source": "国家统计局",
+      "url": "https://www.stats.gov.cn/sj/zxfb/202607/t20260715_1964123.html",
+      "subCategory": "制造业",
+      "id": "industry-20260715-907"
+    },
+    {
+      "id": "industry-20260715-202",
+      "title": "ACS：预计2026年美国新增癌症病例211.5万例，死亡病例约62.6万例",
+      "summary": "美国癌症协会最新报告预测，2026年美国将新增约211.49万例癌症病例，死亡病例约62.61万例，平均每天约1700人因癌症死亡。报告指出癌症死亡率较1991年峰值下降34%，至少四成新发病例理论上可预防。",
+      "publishedAt": "2026-07-15T06:24:00+08:00",
+      "source": "美国癌症协会（ACS）",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-07-15/doc-inihvqcn8175849.shtml",
+      "subCategory": "医疗健康"
+    },
+    {
+      "id": "industry-20260715-900",
+      "title": "中国信通院规划所联合发布《“人工智能+消费”发展研究报告（2026年）》",
+      "summary": "中国信通院报告提出，人工智能与消费的融合是双向耦合的系统性变革，可划分为效率提升、消费重构、价值共创三个演进阶段，并提出基于区域资源秅赋差异的四条发展路径，推动智能消费升级。",
+      "publishedAt": "2026-07-15T00:09:00+08:00",
+      "source": "新浪财经",
+      "url": "https://finance.sina.com.cn/wm/2026-07-15/doc-inihvcpx8020680.shtml",
+      "subCategory": "消费零售"
+    },
+    {
       "id": "industry-20260714-900",
       "title": "IDC：2026年Q2全球智能手机出货量2.775亿部，同比下降6.7%",
       "summary": "IDC数据显示，2026年第二季度全球智能手机出货量为2.775亿部，同比下降6.7%，为连续第二个季度下滑；内存涨价推高成本，仅苹果与三星实现增长，华为在中国市场以20.9%增速领跑本土品牌。",
@@ -535,6 +598,15 @@
       "source": "新浪财经",
       "url": "https://finance.sina.com.cn/tech/roll/2026-07-14/doc-inihusya1251633.shtml",
       "subCategory": "行业研报"
+    },
+    {
+      "title": "Counterpoint：2026年Q2全球智能手机出货量同比下降11%",
+      "summary": "Counterpoint Research数据显示，2026年第二季度全球智能手机出货量同比下降11%，创2013年以来该季度最低纪录。存储芯片短缺推高整机成本，三星以24%份额居首，苹果二季度份额创历史新高达20%。",
+      "publishedAt": "2026-07-14T20:56:00+08:00",
+      "source": "199IT",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-07-14/doc-inihusxy5204790.shtml",
+      "subCategory": "行业研报",
+      "id": "industry-20260714-901"
     },
     {
       "id": "industry-20260714-011",
@@ -546,6 +618,15 @@
       "subCategory": "半导体产业"
     },
     {
+      "title": "科大讯飞：上半年归母净利润预增5%~25%，境外营收增长160%",
+      "summary": "科大讯飞发布半年度业绩预告，预计上半年归母净利润同比减亏5%-25%，境外营收同比增长160%；教育业务中星火批阅机销量同比增长1471%，AI黑板出货量同比增长87%，研发投入超28亿元。",
+      "publishedAt": "2026-07-14T19:17:00+08:00",
+      "source": "新浪科技",
+      "url": "https://finance.sina.com.cn/tob/2026-07-14/doc-inihunry8502730.shtml",
+      "subCategory": "公司动态",
+      "id": "industry-20260714-903"
+    },
+    {
       "id": "industry-20260717-155",
       "title": "2026上半年零售复盘：消费两极分化，走向“极端”？",
       "summary": "报告显示，2026年上半年中国社会消费品零售总额同比增长1.3%，其中即时零售规模约1.2万亿元，上半年至少1.71万家门店宣布关闭，消费呈两极分化趋势。",
@@ -553,6 +634,15 @@
       "source": "CBNData",
       "url": "https://m.cbndata.com/information/295538",
       "subCategory": "消费零售"
+    },
+    {
+      "title": "2026车市承压：极氪超50%完成率领跑，新势力增速收敛",
+      "summary": "上半年中国汽车市场同比下滑20.2%，多数车企未达成年度目标过半进度。极氪上半年交付17.84万辆，完成率超50%领跑新势力，同比增长97%，蔚来、零跑同比分别增长67%和61%。",
+      "publishedAt": "2026-07-14T17:22:00+08:00",
+      "source": "新浪汽车",
+      "url": "https://auto.sina.cn/2026-07-14/detail-inihuhkh1333600.d.html?vt=4",
+      "subCategory": "新能源汽车",
+      "id": "industry-20260714-902"
     },
     {
       "id": "industry-20260715-003",
@@ -634,168 +724,6 @@
       "source": "199IT",
       "url": "https://www.199it.com/archives/1839806.html",
       "subCategory": "行业研报"
-    },
-    {
-      "id": "industry-20260714-008",
-      "title": "Alinea Analytics：2026上半年Steam收入111亿美元，同比增长14.5%",
-      "summary": "分析机构Alinea Analytics数据显示，2026年上半年Steam平台收入达111亿美元，创平台半年收入历史纪录，同比增长14.5%；亚洲市场尤其中国玩家贡献主要增量，老游戏收入占比约79%。",
-      "publishedAt": "2026-07-14",
-      "source": "199IT（引自Alinea Analytics）",
-      "url": "https://www.199it.com/archives/1839773.html",
-      "subCategory": "行业研报"
-    },
-    {
-      "id": "industry-20260714-007",
-      "title": "中国汽车流通协会：2026年前5月二手车交易量809.5万辆，同比增长2.3%",
-      "summary": "中国汽车流通协会数据显示，2026年前5月中国二手车交易量809.5万辆，同比增长2.3%，同期新车零售814.8万辆，新旧车比首次达到1:1；新能源二手车交易量68.54万辆，同比增长25.7%。",
-      "publishedAt": "2026-07-14",
-      "source": "199IT（引自中国汽车流通协会）",
-      "url": "https://www.199it.com/archives/1839763.html",
-      "subCategory": "新能源汽车"
-    },
-    {
-      "id": "industry-20260714-006",
-      "title": "乘联分会：2026年1-5月汽车行业利淾1440亿元，同比下降20%",
-      "summary": "乘联分会数据显示，2026年1-5月中国汽车行业利淾总颀颀颀颀颀颀颀颀颀颀颀颀颀颀颀颀颀颀颀颀颀颀颀颀颀颀颀颀颀颀1440亿元，同比下降20%，行业利淾率降至3.4%，为近五年同期最低水平；赛力斯、广汽集团、江淮汽车等多家车企上半年出现亏损。",
-      "publishedAt": "2026-07-14",
-      "source": "199IT（引自乘联分会）",
-      "url": "https://www.199it.com/archives/1839761.html",
-      "subCategory": "新能源汽车"
-    },
-    {
-      "id": "industry-20260714-005",
-      "title": "Omdia：2026年Q2全球智能手机出货量同比下降4%",
-      "summary": "Omdia报告显示，2026年第二季度全球智能手机出货量同比下降4%，存储芯片短缺及晶圆产能紧张为主因；三星以22%份额居首，苹果份额升至20%创同期新高，小米、OPPO、vivo出货量及份额均有所下滑。",
-      "publishedAt": "2026-07-14",
-      "source": "199IT（引自快科技/Omdia）",
-      "url": "https://www.199it.com/archives/1839758.html",
-      "subCategory": "行业研报"
-    },
-    {
-      "id": "industry-20260714-004",
-      "title": "IDC：2026年Q2全球智能手机出货量2.775亿部，同比下降6.7%",
-      "summary": "IDC报告显示，2026年第二季度全球智能手机出货量2.775亿部，同比下降6.7%，为连续第二个季度下滑，存储芯片涨价推高成本；苹果、华为为主要厂商中少数实现同比增长的品牌，华为国内出货量增长20.9%。",
-      "publishedAt": "2026-07-14",
-      "source": "199IT（引自IDC）",
-      "url": "https://www.199it.com/archives/1839754.html",
-      "subCategory": "行业研报"
-    },
-    {
-      "id": "industry-20260714-002",
-      "title": "2026年上半年日系三巨头在华销量：丰田69.47万辆，同比下降17.1%，本田同比下降34.7%",
-      "summary": "2026年上半年，丰田、日产、本田在华销量集体下滑：丰田销售69.47万辆，同比下降17.1%；日产23.7万辆，同比下降15%；本田20.58万辆，同比下降34.7%，降幅最大。本田广州工厂6月已停产，武汉工厂计刚2027年前关闭，6月单月销量同比下降44.5%，为连续第29个月同比下滑。",
-      "publishedAt": "2026-07-14",
-      "source": "199IT",
-      "url": "https://www.199it.com/archives/1839337.html",
-      "subCategory": "新能源汽车"
-    },
-    {
-      "id": "industry-20260713-900",
-      "title": "Samsung overtakes Apple as smartphone market sinks to a 13-year low",
-      "summary": "Counterpoint Research数据显示，2026年第二季度全球智能手机出货量同比下降11%，创13年来次季度新低；三星以24%份额重夺全球第一，苹果区20%创纪录，小米、OPPO、vivo均出现两位数下滑。",
-      "publishedAt": "2026-07-13T10:53:00-04:00",
-      "source": "Android Authority",
-      "url": "https://www.androidauthority.com/counterpoint-research-q2-2026-smartphone-shipment-report-3686931/",
-      "subCategory": "消费零售"
-    },
-    {
-      "id": "industry-20260719-104",
-      "title": "半导体封测揀扩产潮，近400亿元投向存储、先进封装",
-      "summary": "报道称，通富微电、华天科技、长电科技等封测企业年内合计近400亿元投向产能扩张，重点布局存储芯片封装及2.5D/3D先进封装，以匹配长鑫存储、长江存储等下游存储厂商增长的产能需求。",
-      "publishedAt": "2026-07-13T19:09:45+08:00",
-      "source": "21世纪经济报道",
-      "url": "https://news.10jqka.com.cn/20260713/c678141612.shtml",
-      "subCategory": "半导体产业"
-    },
-    {
-      "id": "industry-20260713-004",
-      "title": "上半年我国批准上市创新医疗器栗42个，包括多个“全球首款”",
-      "summary": "国家药监局披露，今年上半年我国批准38个1类创新药和42个创新医疗器械上市，含全球首个植入式脑机接口等产品；创新药对外授权交易总额约1100亿美元，达去年全年八成。",
-      "publishedAt": "2026-07-13T15:33:29+08:00",
-      "source": "IT之家",
-      "url": "https://finance.sina.com.cn/tech/digi/2026-07-13/doc-inihrxcc2237551.shtml",
-      "subCategory": "医疗健康"
-    },
-    {
-      "id": "industry-20260713-008",
-      "title": "华为联合20余家伙伴启动NPO光互连标准",
-      "summary": "华为联合中国移动研究院、京东云、百度等20余家产业链伙伴发起OPEN NPO项目，启动国内首个近封装光学互连多源协议标准；首版技术规范预聡2026年第三季度发布，2027年上半年推进规模商用。",
-      "publishedAt": "2026-07-13T12:22:06+08:00",
-      "source": "网易科技",
-      "url": "https://www.163.com/dy/article/L1NFOC3G0511CPVM.html",
-      "subCategory": "半导体产业"
-    },
-    {
-      "id": "industry-20260713-005",
-      "title": "首发| AI Token工厂爆发，跋境科技半年融资10亿",
-      "summary": "AI推理服务商跋境科技完成A轮融资，半年内累计融资超10亿元，由河南投资集团汇融基金领投，资金将用于扩大AI Token产能及升级ATaaS生产服务平台，推动国产算力规模化应用。",
-      "publishedAt": "2026-07-13T11:32:45+08:00",
-      "source": "新浪科技",
-      "url": "https://finance.sina.com.cn/tech/roll/2026-07-13/doc-inihrnpf4314009.shtml",
-      "subCategory": "企业服务"
-    },
-    {
-      "id": "industry-20260713-003",
-      "title": "15个交易日逸千亿元 半导体主题ETF“吸金”",
-      "summary": "数据显示，近15个交易日半导体主题ETF合计净流入资金超千亿元，7月10日半导体设备ETF国泰单日成交123.39亿元创历史新高，同时板块波动明显加剧，机构提示估值高企后业绩验证阶段风险。",
-      "publishedAt": "2026-07-13T08:28:00+08:00",
-      "source": "上海证券报",
-      "url": "https://www.stcn.com/article/detail/4013491.html",
-      "subCategory": "半导体产业"
-    },
-    {
-      "id": "industry-20260713-901",
-      "title": "Study: The National AI Policy Landscape in K–12 Education",
-      "summary": "一项覆盖38州122个学区的研究显示，44.3%的学区仅允许在教师明确授权下使用人工智能，约25%限制或禁止使用，仅31%制定了主动性政策框架，多数学区对AI治理仍处于被动应对状态。",
-      "publishedAt": "2026-07-13",
-      "source": "EdSurge",
-      "url": "https://www.edsurge.com/news/study-the-national-ai-policy-landscape-in-k-12-education",
-      "subCategory": "教育科技"
-    },
-    {
-      "id": "industry-20260713-007",
-      "title": "Counterpoint：2026年第二季度全球智能手机出货量降至13年来同期最低",
-      "summary": "Counterpoint Research报告显示，受存储芯片短缺加剧影响，2026年第二季度全球智能手机出货量同比下降，创13年来同期新低；三星以24%份额居首，苹果份额升至创纪录的20%，全年出货量预计下滑约14%。",
-      "publishedAt": "2026-07-13",
-      "source": "Counterpoint Research",
-      "url": "https://counterpointresearch.com/en/insights/global-smartphone-shipments-q2-2026",
-      "subCategory": "行业研报"
-    },
-    {
-      "id": "industry-20260713-001",
-      "title": "中汽协：2026年6月中国汽车出口首破百万辆，同比增75%",
-      "summary": "据中国汽车工业协会数据，2026年6月中国汽车出口同比增长75.1%至103.78万辆，为单月出口首次突破百万辆；上半年累计出口超500万辆，同比增长65.3%。海南琺海新建车辆湿热检测出口基地同期投入使用。",
-      "publishedAt": "2026-07-12T14:56:15+08:00",
-      "source": "新浪科技",
-      "url": "https://finance.sina.com.cn/tech/roll/2026-07-12/doc-inihppwc4697631.shtml",
-      "subCategory": "新能源汽车"
-    },
-    {
-      "id": "industry-20260718-013",
-      "title": "Counterpoint：2026年iPhone 18 Pro Max内存闪存成本占比升至27%",
-      "summary": "Counterpoint研究显示，iPhone 18 Pro Max内存与闪存成本升至物料成本的27%，1TB版本闪存成本超250美元，较2025年iPhone 17 Pro约9%的占比大幅上升，挤压苹果利润空间。",
-      "publishedAt": "2026-07-12T14:54:00+08:00",
-      "source": "Counterpoint Research",
-      "url": "https://finance.sina.com.cn/tech/roll/2026-07-12/doc-inihppwc4696881.shtml",
-      "subCategory": "半导体产业"
-    },
-    {
-      "id": "industry-20260712-900",
-      "title": "中汽协：2026年6月中国汽车出口首破百万辆，增75.1%",
-      "summary": "中汽协数据显示，2026年6月我国汽车出口103.7万辆，环比增长11.6%，同比增长75.1%，为单月出口量首次突破百万辆；其中新能源汽车出口52.3万辆，上半年累计出口509.6万辆，同比增长65.3%。",
-      "publishedAt": "2026-07-12",
-      "source": "199IT",
-      "url": "http://www.199it.com/archives/1839224.html",
-      "subCategory": "新能源汽车"
-    },
-    {
-      "id": "industry-20260713-006",
-      "title": "多家硬科技企业公布融资进展，最高单轮融资额超10亿元",
-      "summary": "36氪汇总近期硬科技融资动态：触觉传感器企业他山科技完成数亿元B轮融资，具身智能企业墨奇智能获超10亿元天使轮，可控核聚变、商业航天等领域亦有多笔数亿元级融资落地。",
-      "publishedAt": "2026-07-11T21:23:00+08:00",
-      "source": "经济观察网",
-      "url": "http://www.eeo.com.cn/2026/0711/953681.shtml",
-      "subCategory": "制造业"
     }
   ]
 }

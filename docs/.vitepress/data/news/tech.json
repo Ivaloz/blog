@@ -3,8 +3,89 @@
   "slug": "tech",
   "title": "科技新闻",
   "description": "前沿科技、互联网产品、芯片硬件、开源生态。",
-  "updatedAt": "2026-07-20T23:30:00+08:00",
+  "updatedAt": "2026-07-21T09:10:00+08:00",
   "items": [
+    {
+      "title": "微星万图师 RTX 5060 Ti 8G 3X OC 显卡上市，3299 元",
+      "summary": "微星VENTUS RTX 5060 Ti 8G 3X OC显卡上市，京东售价3299元，配备8GB GDDR7显存、2602MHz加速频率及单8pin供电接口，建议搭配600W电源。",
+      "publishedAt": "2026-07-21T08:41:53+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/979/295.htm",
+      "subCategory": "消费电子",
+      "id": "tech-20260721-005"
+    },
+    {
+      "title": "英伟达被曝大规模收购美国暗光纤资源，潜在带宽达 7.6 Pb/s",
+      "summary": "据Wolfe Research，英伟达正在美国大规模收购暗光纤资源以支持AI基础设施建设，涉及约100对光纤对应200条独立线路，理论传输带宽可达7.6 Pb/s。",
+      "publishedAt": "2026-07-21T08:08:25+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/979/290.htm",
+      "subCategory": "网络基础设施",
+      "id": "tech-20260721-008"
+    },
+    {
+      "title": "AMD推出首款机架级AI系统Helios挑战英伟达，微软加入客户阵营",
+      "summary": "AMD于7月20日首次向媒体展示机架级AI系统Helios，集成GPU、CPU、网络与软件平台，微软加入采用该系统的客户名单，此前已有Meta、OpenAI、Oracle等企业采用。",
+      "publishedAt": "2026-07-21T08:04:58+08:00",
+      "source": "每日经济新闻",
+      "url": "https://www.nbd.com.cn/articles/2026-07-21/4484133.html",
+      "subCategory": "芯片硬件",
+      "id": "tech-20260721-002"
+    },
+    {
+      "title": "英特尔继续精简架构，数据中心业务团队面临新一批裁员",
+      "summary": "英特尔向数据中心部门员工通报新一轮裁员，是继2024、2025年裁员后的又一次人员调整。公司称重组不影响产品路线图，该部门一季度营收51亿美元，同比增长22%。",
+      "publishedAt": "2026-07-21T07:58:30+08:00",
+      "source": "ITBear科技资讯",
+      "url": "https://www.itbear.com.cn/html/2026-07/1455733.html",
+      "subCategory": "芯片硬件",
+      "id": "tech-20260721-001"
+    },
+    {
+      "title": "SpaceX正与美国国防部就提供价值数十亿美元的数据中心算力展开谈判",
+      "summary": "SpaceX正与美国国防部就提供数据中心算力展开谈判，拟向该部门提供价值数十亿美元的算力用于运行AI模型，此前公司已与Anthropic、谷歌达成类似合作。",
+      "publishedAt": "2026-07-21T07:56:00+08:00",
+      "source": "每日经济新闻",
+      "url": "https://www.nbd.com.cn/articles/2026-07-21/4484120.html",
+      "subCategory": "云计算",
+      "id": "tech-20260721-003"
+    },
+    {
+      "title": "华强北内存条价格回落：16GB DDR5 降至 1080~1200 元",
+      "summary": "深圳华强北市场内存价格自2025年底以来首次回落，16GB DDR5内存条降至1080至1200元，较高点下跌近三成，但仍比去年同期高出五六倍。",
+      "publishedAt": "2026-07-21T07:50:29+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/979/285.htm",
+      "subCategory": "芯片硬件",
+      "id": "tech-20260721-007"
+    },
+    {
+      "title": "169 元绿联 Max5s 头戴式耳机开售：号称 AI 功能终身免费，续航 112 小时",
+      "summary": "绿联Max5s头戴式耳机开售，售价169元，主动降噪达-45dB，标准模式续航112小时，内置录音转文字、同声传译等AI功能且宣称终身免费。",
+      "publishedAt": "2026-07-21T07:05:38+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/979/274.htm",
+      "subCategory": "消费电子",
+      "id": "tech-20260721-006"
+    },
+    {
+      "title": "我国研发的四足机器人占全球销量份额近七成",
+      "summary": "工信部7月20日发布数据显示，我国研发的四足机器人占全球销量份额接近70%，人形机器人整机产品已超400款，占全球产出一半以上。",
+      "publishedAt": "2026-07-21T07:00:09+08:00",
+      "source": "每日经济新闻",
+      "url": "https://www.nbd.com.cn/articles/2026-07-20/4483740.html",
+      "subCategory": "机器人",
+      "id": "tech-20260721-004"
+    },
+    {
+      "title": "苹果 visionOS 27.0 开发者预览版 Beta 4 发布，带来 Siri AI 与冰岛新环境",
+      "summary": "苹果发布visionOS 27.0开发者预览版Beta 4，新增类似ChatGPT的Siri AI问答能力、全景照片转空间环境功能及冰岛主题新环境，Safari支持360度环境浏览。",
+      "publishedAt": "2026-07-21T04:20:14+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/979/268.htm",
+      "subCategory": "XR-AR-VR",
+      "id": "tech-20260721-009"
+    },
     {
       "title": "华为超充上线上汽大众充电地图，首批 574 座城市超充站",
       "summary": "华为超充网络接入上汽大众充电地图App，首批开通574座城市超充站和127座高速超充站，新增超1万根充电终端，用户可在应用内筛选华为超充站点并一键导航。",
@@ -31,6 +112,15 @@
       "url": "https://www.ithome.com/0/979/257.htm",
       "subCategory": "消费电子",
       "id": "tech-20260720-030"
+    },
+    {
+      "title": "Hackers stole 'significant' amount of data from tech firm relied on by thousands of US hospitals and pharmacies",
+      "summary": "英国医疗账单软件公司Craneware遭网络攻击，黑客窃取了大量员工、客户及合作伙伴数据，该公司软件被美国数千家医院与药房使用，公司称入侵者已被清除但调查仍在进行。",
+      "publishedAt": "2026-07-20T08:01:00-07:00",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/20/hackers-stole-significant-amount-of-data-from-tech-firm-relied-on-by-thousands-of-us-hospitals-and-pharmacies/",
+      "subCategory": "安全漏洞",
+      "id": "tech-20260720-043"
     },
     {
       "title": "ATK 推出烈空 X1 V2 大师版鼠标：PAW3955 MASTER，首发到手价 299.2 元",
@@ -85,6 +175,15 @@
       "url": "https://www.ithome.com/0/979/226.htm",
       "subCategory": "芯片硬件",
       "id": "tech-20260720-039"
+    },
+    {
+      "title": "Hugging Face confirms breach affected internal datasets and credentials, urges users to take action",
+      "summary": "Hugging Face披露内部系统遭入侵，攻击者利用平台数据集漏洞执行代码并提权，导致内部数据集与服务凭证泄露。公司已撤销被盗凭证并修复漏洞，敦促用户轮换访问令牌。",
+      "publishedAt": "2026-07-20T05:39:00-07:00",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/20/hugging-face-confirms-breach-affected-internal-datasets-and-credentials-urges-users-to-take-action/",
+      "subCategory": "安全漏洞",
+      "id": "tech-20260720-042"
     },
     {
       "title": "白帽子行为构成实质性安全侵害：小米发布 MiSRC 违规事件处置公告，奖励取消、保留法律追责权利",
@@ -301,6 +400,15 @@
       "url": "https://36kr.com/newsflashes/3903228591392643",
       "subCategory": "芯片硬件",
       "id": "tech-20260720-010"
+    },
+    {
+      "title": "GitHub Code Quality is now generally available",
+      "summary": "GitHub Code Quality于7月20日从公开预览转为正式商用产品，结合CodeQL静态分析与AI辅助检测识别代码可维护性与可靠性问题，按每活跃提交者每月10美元收费。",
+      "publishedAt": "2026-07-20",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/changelog/2026-07-20-github-code-quality-is-now-generally-available/",
+      "subCategory": "开发者工具",
+      "id": "tech-20260720-044"
     },
     {
       "title": "索尼 SIE 前总裁肖恩·莱登担心 PS6 游戏机真卖 1000 美元，市场普及恐受阻",
@@ -616,114 +724,6 @@
       "source": "IT之家",
       "url": "https://www.ithome.com/0/978/713.htm",
       "subCategory": "XR-AR-VR"
-    },
-    {
-      "id": "tech-20260719-114",
-      "title": "希捷亮相WAIC 2026，展示Mozaic存储平台",
-      "summary": "希捷在2026世界人工智能大会展示Mozaic存储平台，基于HAMR热辅助磁记录技术实现单盘44TB容量，相比30TB硬盘部署可将基础设施效率提升约47%。",
-      "publishedAt": "2026-07-19T15:26:00+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/978/712.htm",
-      "subCategory": "芯片硬件"
-    },
-    {
-      "id": "tech-20260719-113",
-      "title": "开源视频投屏工具Castor发布，支持DLNA等协议",
-      "summary": "开发者发布开源视频投屏工具Castor，通过启动无头浏览器抓取网页视频流并用ffmpeg实时转码，支持DLNA、UPnP等协议投送至智能电视，当前版本1.4.1。",
-      "publishedAt": "2026-07-19T15:24:50+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/978/711.htm",
-      "subCategory": "开源生态"
-    },
-    {
-      "id": "tech-20260719-105",
-      "title": "壁仞科技发布NPO光互连、分布式解耦架构，最大支持1024卡超节点",
-      "summary": "壁仞科技在WAIC上发布NPO光互连与分布式解耦架构方案，支持最多1024张GPU卡组成超节点并共享统一内存空间，提供16卡、128卡、1024卡三档产品。",
-      "publishedAt": "2026-07-19T15:11:07+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/978/705.htm",
-      "subCategory": "芯片硬件"
-    },
-    {
-      "id": "tech-20260719-119",
-      "title": "长城H10新车12小时订单22615台",
-      "summary": "长城汽车新车H10预售12小时订单达22615台，限时权益价21.48万元起，搭载1.5T插电混动系统与全系激光雷达，满油满电综合续航达1404公里。",
-      "publishedAt": "2026-07-19T14:41:00+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/978/697.htm",
-      "subCategory": "智能汽车"
-    },
-    {
-      "id": "tech-20260719-120",
-      "title": "华为HiCar获7.0.0.206版本邀测升级，新增手机驾驶模式",
-      "summary": "华为HiCar发布7.0.0.206邀测版本，新增手机端驾驶模式、更多智能座舱桌面布局，并扩大摇一摇导航功能覆盖范围，目前已连接超70个品牌逾4000万辆汽车。",
-      "publishedAt": "2026-07-19T14:12:25+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/978/692.htm",
-      "subCategory": "智能汽车"
-    },
-    {
-      "id": "tech-20260719-106",
-      "title": "高通骁龙4 Gen 6芯片规格曝光，台积电4nm工艺、Adreno 6系GPU",
-      "summary": "有消息曝光高通未发布的骁龙4 Gen 6芯片规格，代号SM4875，沿用台积电4nm工艺与前代CPU架构，GPU升级至Adreno 6系列，内存支持双通道LPDDR5。",
-      "publishedAt": "2026-07-19T13:54:16+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/978/689.htm",
-      "subCategory": "芯片硬件"
-    },
-    {
-      "id": "tech-20260719-107",
-      "title": "特斯拉因大灯过亮在美国召回近2万辆Model 3/Y，无法OTA修复",
-      "summary": "美国国家公路交通安全管理局驳回特斯拉申请，要求召回约1.99万辆2017至2023年款Model 3与Model Y，原因是大灯亮度过高，此次需到店维修，无法OTA远程修复。",
-      "publishedAt": "2026-07-19T11:25:19+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/978/652.htm",
-      "subCategory": "智能汽车"
-    },
-    {
-      "id": "tech-20260719-110",
-      "title": "消息称谷歌Gboard键盘即将支持手语转文字功能",
-      "summary": "谷歌Gboard输入法测试版代码显示未来将加入手语转文字功能，通过摄像头识别手势、在本地处理视频后转换为文字，计划优先支持美国手语，视频数据处理后即删除。",
-      "publishedAt": "2026-07-19T11:19:29+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/978/646.htm",
-      "subCategory": "互联网产品"
-    },
-    {
-      "id": "tech-20260719-115",
-      "title": "三星推出Freestyle+便携式投影仪，最大可投射100寸FHD画面",
-      "summary": "三星在美国推出Freestyle+便携投影仪，最大可投射100英寸1080P画面，支持360度环绕音效与双无源低音单元，亮度430流明，售价1199.99美元。",
-      "publishedAt": "2026-07-19T10:29:00+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/978/640.htm",
-      "subCategory": "消费电子"
-    },
-    {
-      "id": "tech-20260719-108",
-      "title": "微软发布Win11补丁KB5121767，修复部分戴尔电脑意外关机和过热问题",
-      "summary": "微软发布Windows 11紧急补丁KB5121767，修复7月14日更新后部分戴尔电脑出现的意外关机、性能下降、过热和电池异常消耗问题，涉及十款戴尔机型。",
-      "publishedAt": "2026-07-19T09:44:00+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/978/632.htm",
-      "subCategory": "操作系统"
-    },
-    {
-      "id": "tech-20260719-111",
-      "title": "谷歌开源3D Emoji表情符号，公开设计故事",
-      "summary": "谷歌在世界表情符号日宣布开源此前发布的Noto Emoji 3D模型，并公开设计过程，未来将向开发者提供OBJ模型文件，用于VR体验、应用及创作项目。",
-      "publishedAt": "2026-07-19T09:25:39+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/978/630.htm",
-      "subCategory": "开源生态"
-    },
-    {
-      "id": "tech-20260719-112",
-      "title": "安谋科技发起开源AIOS联盟，合作伙伴包含瑞芯微、紫光展锐、全志等",
-      "summary": "2026世界人工智能大会期间，安谋科技发起开源AIOS联盟，吸引瑞芯微、紫光展锐、全志等20余家产业链伙伴加入，聚焦AI任务编排、传感运动控制等技术方向。",
-      "publishedAt": "2026-07-19T09:19:32+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/978/628.htm",
-      "subCategory": "开源生态"
     }
   ]
 }

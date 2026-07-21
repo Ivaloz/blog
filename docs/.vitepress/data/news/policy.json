@@ -3,8 +3,35 @@
   "slug": "policy",
   "title": "政策信息",
   "description": "国家与地方政策、监管动态、产业扶持与合规要求。",
-  "updatedAt": "2026-07-20T23:30:00+08:00",
+  "updatedAt": "2026-07-21T09:10:00+08:00",
   "items": [
+    {
+      "title": "Fact Sheet: President Donald J. Trump Imposes Additional Tariffs on Canada",
+      "summary": "特朗普签署三项公告，依据关税法第338条对加拿大汽车、酒类及乳制品加征50%关税，以回应加拿大对美产品的歧视性贸易做法，新关税将于签署30天后生效。",
+      "publishedAt": "2026-07-20T21:00:00Z",
+      "source": "The White House",
+      "url": "https://www.whitehouse.gov/fact-sheets/2026/07/fact-sheet-president-donald-j-trump-imposes-additional-tariffs-on-canada/",
+      "subCategory": "跨境贸易",
+      "id": "policy-20260720-013"
+    },
+    {
+      "title": "Fact Sheet: President Donald J. Trump Takes Further Action To Adjust Imports Of Aluminum Into The United States",
+      "summary": "特朗普依据232条款签署公告，对在美国新建电解铝产能的企业给予关税减半优惠，并要求商务部监督企业履行落地生产承诺，防止不达标企业继续享受优惠。",
+      "publishedAt": "2026-07-20T19:44:17Z",
+      "source": "The White House",
+      "url": "https://www.whitehouse.gov/fact-sheets/2026/07/fact-sheet-president-donald-j-trump-takes-further-action-to-adjust-imports-of-aluminum-into-the-united-states/",
+      "subCategory": "跨境贸易",
+      "id": "policy-20260720-015"
+    },
+    {
+      "title": "Securing America's Defense Supply Chains and Ensuring Domestic Acquisition of Critical Materials",
+      "summary": "特朗普签署行政令，要求国防部强化军事采购关键材料的国内供应链审查，自2027年起限制外国不合规材料豁免，并要求承包商绘制供应链图谱、寻找替代来源。",
+      "publishedAt": "2026-07-20T19:38:18Z",
+      "source": "The White House",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/07/securing-americas-defense-supply-chains-and-ensuring-domestic-acquisition-of-critical-materials/",
+      "subCategory": "产业政策",
+      "id": "policy-20260720-014"
+    },
     {
       "title": "李强主持召开国务院常务会议",
       "summary": "国务院总理李强7月20日主持召开国务院常务会议，审议通过《知识产权保护和运用\"十五五\"规划》，要求加快推动相关法律法规立改废释；会议还听取\"六张网\"规划建设督查情况汇报，研究优化社会保障体系有关工作。",
@@ -33,6 +60,24 @@
       "subCategory": "产业政策"
     },
     {
+      "title": "证监会召开投资者座谈会听取意见建议",
+      "summary": "证监会主席吴清在北京到证券营业部调研并主持召开投资者座谈会，与包括大中小散各类投资者代表面对面交流，听取促进资本市场平稳健康发展的意见建议。",
+      "publishedAt": "2026-07-20T15:00:57+08:00",
+      "source": "中国证券监督管理委员会",
+      "url": "http://www.csrc.gov.cn/csrc/c100028/c7646232/content.shtml",
+      "subCategory": "金融监管",
+      "id": "policy-20260720-011"
+    },
+    {
+      "title": "国家能源局：到2028年底 建成一批村镇微能网试点项目",
+      "summary": "国家能源局提出，到2028年底在全国建成一批村镇微能网试点项目，聚焦满足农村生产生活及工商业用能需求，并在边远和灾害频发地区建设独立电力系统与应急微电网。",
+      "publishedAt": "2026-07-20T14:24:33+08:00",
+      "source": "中国新闻网",
+      "url": "https://www.chinanews.com.cn/cj/2026/07-20/10662918.shtml",
+      "subCategory": "新能源政策",
+      "id": "policy-20260720-016"
+    },
+    {
       "id": "policy-20260720-004",
       "title": "中国制造加速涌现\"新\"力量",
       "summary": "国新办新闻发布会上，工业和信息化部通报2026年上半年工业和信息化发展情况：规上工业增加值同比增长5.4%，集成电路出口额同比增长88.7%，智能算力规模达2185EFLOPS同比增长177%，人形机器人整机产品超400款。",
@@ -49,24 +94,6 @@
       "source": "新华网",
       "url": "https://www.news.cn/politics/20260720/8b1d1378454848eeb3b70fc5de840180/c.html",
       "subCategory": "数据安全"
-    },
-    {
-      "title": "证监会今开座谈会 促进市场稳定健康发展",
-      "summary": "证监会7月20日召开座谈会，听取市场机构关于促进资本市场稳定健康发展的意见建议。此前一日，中国国新、中国诚通两家央企合计运用超600亿元资金增持境内股票资产，以支持资本市场平稳运行。",
-      "publishedAt": "2026-07-20T04:10:00+08:00",
-      "source": "证券时报",
-      "url": "https://finance.sina.com.cn/jjxw/2026-07-20/doc-iniiktnr3149502.shtml",
-      "subCategory": "金融监管",
-      "id": "policy-20260720-001"
-    },
-    {
-      "title": "2026世界人工智能大会观察",
-      "summary": "2026世界人工智能大会在沪举行，展览面积首次超10万平方米，展品超4400项；中国人形机器人2025年出货量占全球88.7%，人工智能核心产业规模超1.2万亿元，中国在全球人工智能专利中占比约六成。",
-      "publishedAt": "2026-07-20T00:14:00+08:00",
-      "source": "新华社",
-      "url": "https://www.news.cn/tech/20260720/653dbb72adff4930807c78b1fab22fad/c.html",
-      "subCategory": "AI监管",
-      "id": "policy-20260720-002"
     },
     {
       "id": "policy-20260720-006",
@@ -94,6 +121,33 @@
       "url": "https://www.mofcom.gov.cn/xwfb/bldhd/art/2026/art_47337fad674f4d0282b5af9545f3fb0b.html",
       "subCategory": "跨境贸易",
       "id": "policy-20260720-008"
+    },
+    {
+      "title": "2026年7月20日全国银行间同业拆借中心受权公布贷款市场报价利率（LPR）公告",
+      "summary": "全国银行间同业拆借中心受权公布7月贷款市场报价利率，1年期LPR为3.0%，5年期以上LPR为3.5%，两个期限品种均与上月持平，维持不变。",
+      "publishedAt": "2026-07-20",
+      "source": "中国人民银行",
+      "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125440/3876551/2026072008093186869/index.html",
+      "subCategory": "金融监管",
+      "id": "policy-20260720-012"
+    },
+    {
+      "title": "证监会今开座谈会 促进市场稳定健康发展",
+      "summary": "证监会7月20日召开座谈会，听取市场机构关于促进资本市场稳定健康发展的意见建议。此前一日，中国国新、中国诚通两家央企合计运用超600亿元资金增持境内股票资产，以支持资本市场平稳运行。",
+      "publishedAt": "2026-07-20T04:10:00+08:00",
+      "source": "证券时报",
+      "url": "https://finance.sina.com.cn/jjxw/2026-07-20/doc-iniiktnr3149502.shtml",
+      "subCategory": "金融监管",
+      "id": "policy-20260720-001"
+    },
+    {
+      "title": "2026世界人工智能大会观察",
+      "summary": "2026世界人工智能大会在沪举行，展览面积首次超10万平方米，展品超4400项；中国人形机器人2025年出货量占全球88.7%，人工智能核心产业规模超1.2万亿元，中国在全球人工智能专利中占比约六成。",
+      "publishedAt": "2026-07-20T00:14:00+08:00",
+      "source": "新华社",
+      "url": "https://www.news.cn/tech/20260720/653dbb72adff4930807c78b1fab22fad/c.html",
+      "subCategory": "AI监管",
+      "id": "policy-20260720-002"
     },
     {
       "title": "钠离子电池等新型电池免税到什么时候？",
@@ -483,15 +537,6 @@
       "subCategory": "AI监管"
     },
     {
-      "id": "policy-20260715-005",
-      "title": "US says Nvidia's H200 exports to China remain 'trivial' despite approvals",
-      "summary": "美国商务部主管工业与安全事务的副部长杰弗里·凯斯勒在众议院外交事务委员会作证时表示，英伟达H200芯片对华出口数量很少、微不足道，商务部今年已批准约10家中国企业（含腾讯、字节跳动）购买该芯片，但目前实际交付有限。",
-      "publishedAt": "2026-07-15T04:33:00+08:00",
-      "source": "South China Morning Post",
-      "url": "https://www.scmp.com/news/china/diplomacy/article/3360582/us-says-nvidias-h200-exports-china-remain-trivial-despite-approvals",
-      "subCategory": "半导体出口管制"
-    },
-    {
       "id": "policy-20260716-009",
       "title": "美国官员：中国规避出口管制手法多样，商务部拟大幅增加执法预算",
       "summary": "美国众议院外交事务委员会听证会上，商务部官员表示中国规避出口管制手法多样，2025年相关罚款总额同比增长逾18倍，商务部拟大幅增加执法预算和人员编制。",
@@ -553,6 +598,15 @@
       "source": "Euronews",
       "url": "https://www.euronews.com/my-europe/2026/07/15/von-der-leyen-and-zelenskyy-sign-eu-ukraine-drone-deal",
       "subCategory": "海外政策"
+    },
+    {
+      "id": "policy-20260715-005",
+      "title": "US says Nvidia's H200 exports to China remain 'trivial' despite approvals",
+      "summary": "美国商务部主管工业与安全事务的副部长杰弗里·凯斯勒在众议院外交事务委员会作证时表示，英伟达H200芯片对华出口数量很少、微不足道，商务部今年已批准约10家中国企业（含腾讯、字节跳动）购买该芯片，但目前实际交付有限。",
+      "publishedAt": "2026-07-15T04:33:00+08:00",
+      "source": "South China Morning Post",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3360582/us-says-nvidias-h200-exports-china-remain-trivial-despite-approvals",
+      "subCategory": "半导体出口管制"
     },
     {
       "id": "policy-20260715-004",
@@ -670,60 +724,6 @@
       "source": "澎湃新闻",
       "url": "https://www.thepaper.cn/newsDetail_forward_33575406",
       "subCategory": "新能源政策"
-    },
-    {
-      "id": "policy-20260713-006",
-      "title": "工信部等四部门印发《关于推动互联网基础资源高质量发展的指导意见》",
-      "summary": "工业和信息化部、中央网信办、国家发展改革委、国家数据局联合印发指导意见，提出6方面16项任务，明确到2030年互联网基础资源高质量发展实现体系化突破、到2035年建成新型互联网基础设施，涉及IP地址、域名、卫星互联网等领域。",
-      "publishedAt": "2026-07-13T16:51:00+08:00",
-      "source": "中国新闻网",
-      "url": "https://www.chinanews.com.cn/gn/2026/07-13/10658414.shtml",
-      "subCategory": "数字经济"
-    },
-    {
-      "id": "policy-20260713-002",
-      "title": "整治\"内卷式\"竞争，一批企业被列入严重违法失信名单",
-      "summary": "市场监管总局公布近期严重违法失信名单案例，福建某卫浴企业因产品耐腐蚀等指标不达标、宁夏某塑料加工点无证生产食品用塑料瓶、天津某生物科技公司虚假宣传细胞再生功效等被列入名单。",
-      "publishedAt": "2026-07-13T10:23:00+08:00",
-      "source": "国家市场监督管理总局",
-      "url": "https://www.samr.gov.cn/xw/mtjj/art/2026/art_78cf8b368ae3451ba342ed36430ad8a6.html",
-      "subCategory": "反垄断"
-    },
-    {
-      "id": "policy-20260713-101",
-      "title": "Modifying the Grand Staircase-Escalante National Monument",
-      "summary": "美国总统特朗普签署公告，将犹他州大阶梯埃斯卡兰特国家纪念地面积从约187万英亩缩减至约18.15万英亩，分为两个区块，开放约169万英亩土地用于铀、钒、钴等关键矿产开发，同时保留天然桥及化石遗址等特定区域。",
-      "publishedAt": "2026-07-13",
-      "source": "The White House",
-      "url": "https://www.whitehouse.gov/presidential-actions/2026/07/modifying-the-grand-staircase-escalante-national-monument/",
-      "subCategory": "海外政策"
-    },
-    {
-      "id": "policy-20260713-010",
-      "title": "特朗普签署公告大幅缩减美国熊耳国家纪念地面积",
-      "summary": "美国总统特朗普签署公告，将犹他州熊耳国家纪念地面积从约136万英亩缩减至约12.1万英亩，开放约124万英亩土地用于铜、铀、钒等关键矿产开发，并撤销原熊耳委员会、设立新的咨询机构。",
-      "publishedAt": "2026-07-13",
-      "source": "The White House",
-      "url": "https://www.whitehouse.gov/presidential-actions/2026/07/modifying-the-bears-ears-national-monument/",
-      "subCategory": "海外政策"
-    },
-    {
-      "id": "policy-20260713-102",
-      "title": "李强主持召开经济形势专家和企业家座谈会",
-      "summary": "国务院总理李强7月13日下午主持召开经济形势专家和企业家座谈会，听取对当前经济形势和下一步经济工作的意见建议，要求深化政策协同、扩大内需、推进制造业数字化转型并保持就业稳定，希望企业家坚定信心、专家加强前瞻性研究。",
-      "publishedAt": "2026-07-13",
-      "source": "新华网",
-      "url": "https://www.news.cn/politics/leaders/20260713/31117ac6e6574701b3dec337cb466508/c.html",
-      "subCategory": "产业政策"
-    },
-    {
-      "id": "policy-20260713-103",
-      "title": "Prime Minister secures Ukraine defence deal backing British jobs and industry",
-      "summary": "英国首相斯塔默宣布，英国国防企业获准参与由欧盟780亿英镑乌克兰支持贷款计划资助的合同竞标，英方出资规模将与本国企业中标合同挂钩，旨在支持乌克兰防务需求，同时带动英国国防产业发展与相关就业。",
-      "publishedAt": "2026-07-13",
-      "source": "英国政府（GOV.UK）",
-      "url": "https://www.gov.uk/government/news/prime-minister-secures-ukraine-defence-deal-backing-british-jobs-and-industry-13-july-2026",
-      "subCategory": "海外政策"
     }
   ]
 }

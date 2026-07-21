@@ -3,8 +3,17 @@
   "slug": "trade",
   "title": "外贸资讯",
   "description": "亚马逊、TikTok Shop、阵里国际站、Shopify 等平台政策与跨境电商市场、独立站、物流支付、关税法规、选品趋势。",
-  "updatedAt": "2026-07-20T23:30:00+08:00",
+  "updatedAt": "2026-07-21T09:10:00+08:00",
   "items": [
+    {
+      "title": "EU Fines Alibaba's AliExpress €550 Million for Failing to Curb Illegal Goods",
+      "summary": "欧盟委员会以未能有效遏制平台上非法、不安全及假冒商品销售为由，对阿里巴巴旗下AliExpress处以5.5亿欧元罚款，要求其于10月20日前提交整改方案，欧洲数字服务委员会将在一个月内审核合规情况。",
+      "publishedAt": "2026-07-21T04:11:00+08:00",
+      "source": "Caixin Global",
+      "url": "https://www.caixinglobal.com/2026-07-21/eu-fines-alibabas-aliexpress-550-million-for-failing-to-curb-illegal-goods-102466372.html",
+      "subCategory": "平台政策",
+      "id": "trade-20260721-001"
+    },
     {
       "title": "TikTok Shop GMV Max测试销售额暴涨181%，世界杯带飞体育纪念品销量激增136%",
       "summary": "英国卖家15天GMV Max广告测试使店铺销售额从1.59万英镑增至4.46万英镑，增幅181%；今年1至6月体育纪念品销量同比激增136%，签名球衣带动增长，世界杯期间相关内容发布量超1570万条。",
@@ -202,6 +211,105 @@
       "source": "AMZ123跨境导航",
       "url": "https://www.amz123.com/kx/KPPbK4xp",
       "subCategory": "新兴市场"
+    },
+    {
+      "title": "功能大更新！亚马逊一周事件盘点",
+      "summary": "亚马逊本周推出多项功能更新，包括扩展Alexa Shopping支持自然语言定制商品、测试限制未登录用户查看完整评论、FBA无需退货自动退款方案扩容，以及全新卖家平台界面改版。",
+      "publishedAt": "2026-07-20T11:00:00+08:00",
+      "source": "雨果网",
+      "url": "https://www.cifnews.com/article/187628",
+      "subCategory": "平台动态",
+      "id": "trade-20260720-033"
+    },
+    {
+      "title": "TikTok Shop GMV Max测试销售额增长181%，世界杯推动体育纪念品销量激增",
+      "summary": "一英国卖家测试TikTok Shop GMV Max广告工具，15天内店铺销售额从1.59万英镑增至4.46万英镑，广告贡献占比81%，ROAS超60倍；世界杯带动体育纪念品销量半年增长136%，球衣搜索量增长3倍。",
+      "publishedAt": "2026-07-20T10:01:00+08:00",
+      "source": "AMZ123跨境导航",
+      "url": "https://www.amz123.com/kx/qak2kAdf",
+      "subCategory": "平台动态",
+      "id": "trade-20260720-023"
+    },
+    {
+      "title": "TikTok Shop CBT揽收服务扩展至佛州迈阿密 全美九大核心区域物流费率低至2.99美元",
+      "summary": "TikTok Shop宣布CBT揽收服务于7月28日起扩展至迈阿密，覆盖全美九大核心区域，运费低至2.99美元，超过每日200单的商家一至四区订单费用降至0.5美元。",
+      "publishedAt": "2026-07-20T09:51:02+08:00",
+      "source": "AMZ123跨境导航",
+      "url": "https://www.amz123.com/kx/cOw7lpq9",
+      "subCategory": "物流仓储",
+      "id": "trade-20260720-026"
+    },
+    {
+      "title": "海外品牌退出释放市场空间 俄罗斯运动消费全年持续 六大类目成为跨境卖家新方向",
+      "summary": "国际运动品牌退出俄罗斯后市场空间释放，当地运动消费全年保持需求，露营钓具、滑雪防护、家庭健身器材等六大品类被列为跨境卖家新增长方向。",
+      "publishedAt": "2026-07-20T09:51:01+08:00",
+      "source": "AMZ123跨境导航",
+      "url": "https://www.amz123.com/kx/rDeoUKzX",
+      "subCategory": "新兴市场",
+      "id": "trade-20260720-025"
+    },
+    {
+      "title": "美区TikTok净水棉套月销破150万 GMV 水质焦虑推动低价净水产品走红",
+      "summary": "一款售价18.88美元起、含50枚滤芯的净水棉套产品在TikTok美区上线约一个月内实现约22.66万美元GMV，得益于波托马克河污水事件引发的水质焦虑，相关搜索量同比增长180%。",
+      "publishedAt": "2026-07-20T09:51:00+08:00",
+      "source": "AMZ123跨境导航",
+      "url": "https://www.amz123.com/kx/kZPfNqRs",
+      "subCategory": "选品趋势",
+      "id": "trade-20260720-024"
+    },
+    {
+      "title": "TikTok Shop占巴西线上成交6.5% 社交电商潜力持续释放",
+      "summary": "据Optimiza Marketing报告，TikTok Shop占巴西线上最终成交订单的6.5%，落后于传统电商平台的46%，但在Z世代群体转化率上表现优于Instagram的8.9%。",
+      "publishedAt": "2026-07-20T09:37:00+08:00",
+      "source": "AMZ123跨境导航",
+      "url": "https://www.amz123.com/kx/twdtzUPo",
+      "subCategory": "新兴市场",
+      "id": "trade-20260720-027"
+    },
+    {
+      "title": "TikTok Shop全托管夏季促销在欧洲圆满结束",
+      "summary": "TikTok Shop全托管模式夏季促销在英国及德法意西四国收官，英国夏季品类销售额环比增长1.5倍，欧盟四国增长1.2倍，波兰、荷兰等新兴市场业务增长迅速。",
+      "publishedAt": "2026-07-20T09:27:01+08:00",
+      "source": "AMZ123跨境导航",
+      "url": "https://www.amz123.com/kx/danSPcrN",
+      "subCategory": "平台动态",
+      "id": "trade-20260720-029"
+    },
+    {
+      "title": "eBay亿选之星揭榜英德7月汽配刚需件",
+      "summary": "eBay“亿选之星”栏目公布7月英德市场六大汽配刚需品类，包括散热器、拖车挂钩、遮阳挡、轮眉、油箱盖及车门配件，均需符合当地认证标准。",
+      "publishedAt": "2026-07-20T09:27:00+08:00",
+      "source": "AMZ123跨境导航",
+      "url": "https://www.amz123.com/kx/elkvnzT2",
+      "subCategory": "选品趋势",
+      "id": "trade-20260720-028"
+    },
+    {
+      "title": "Wildberries推出AI珠宝饰品虚拟试戴功能",
+      "summary": "俄罗斯电商平台Wildberries在移动端上线AI珠宝饰品虚拟试戴功能，用户上传照片后可自动识别面部特征展示耳环、项链等佩戴效果，并新增支持该功能的商品筛选项。",
+      "publishedAt": "2026-07-20T09:26:00+08:00",
+      "source": "AMZ123跨境导航",
+      "url": "https://www.amz123.com/kx/kNFkRtY0",
+      "subCategory": "平台动态",
+      "id": "trade-20260720-030"
+    },
+    {
+      "title": "抢运潮退烧 SCFI连续下跌，美西运价周挫8%",
+      "summary": "上海出口集装箱运价指数（SCFI）连续下跌，本周报3080.31点，环比跌3.28%，其中美西航线跌8%至5721美元/FEU，美东航线微涨0.47%，南美航线跌9.7%。",
+      "publishedAt": "2026-07-20T09:16:01+08:00",
+      "source": "AMZ123跨境导航",
+      "url": "https://www.amz123.com/kx/kEN7qT9k",
+      "subCategory": "物流仓储",
+      "id": "trade-20260720-032"
+    },
+    {
+      "title": "亚马逊大规模下架“包子捏捏乐” 产品因超标苯化合物在欧美多站同步清退",
+      "summary": "亚马逊以苯化合物超标为由，在欧美多个站点同步下架“包子捏捏乐”类玩具产品，要求卖家60天内自行下架否则将产生销毁费用，此前英国OPSS检测样品苯含量达20mg/kg。",
+      "publishedAt": "2026-07-20T09:16:00+08:00",
+      "source": "AMZ123跨境导航",
+      "url": "https://www.amz123.com/kx/xgRvsGOI",
+      "subCategory": "平台政策",
+      "id": "trade-20260720-031"
     },
     {
       "title": "亚马逊美国AWD全面拒收大件：超规产品需改道入仓FBA或GWD",
@@ -447,33 +555,6 @@
       "id": "trade-20260717-952"
     },
     {
-      "id": "trade-20260717-151",
-      "title": "TikTok Shop东南亚跨境直发履约适应期将于7月19日结束",
-      "summary": "TikTok Shop东南亚跨境直发履约适应期将于7月19日结束，此后订单妥投时效合规要求由60%恢复至50%，依赖无库存代发模式的中小卖家将面临更高履约合规风险。",
-      "publishedAt": "2026-07-17T05:54:00+08:00",
-      "source": "AMZ123跨境导航",
-      "url": "https://www.amz123.com/kx/h1KizZXR",
-      "subCategory": "平台政策"
-    },
-    {
-      "id": "trade-20260717-152",
-      "title": "美国塑料袋企业因虚报原产地规避反倾销税被罚730万美元",
-      "summary": "美国塑料袋制造商RediBagUSA将中国产塑料袋转运后虚报为香港原产，以规避对华77.5%反倾销税，最终与美国政府达成730万美元和解，举报员工获超130万美元奖励。",
-      "publishedAt": "2026-07-17T05:40:00+08:00",
-      "source": "AMZ123跨境导航",
-      "url": "https://www.amz123.com/kx/QKwPu4Hf",
-      "subCategory": "关税法规"
-    },
-    {
-      "id": "trade-20260717-153",
-      "title": "深圳跨境电商迎来最大规模洗牌 一年约6.7万卖家退出市场",
-      "summary": "深圳跨境电商行业迎来最大规模洗牌，一年内约6.7万名卖家退出市场，其中无库存代发商户退出比例达41%，行业加速从铺货冲量转向品牌化与精细化运营。",
-      "publishedAt": "2026-07-17T03:49:00+08:00",
-      "source": "AMZ123跨境导航",
-      "url": "https://www.amz123.com/kx/pr9RHoHS",
-      "subCategory": "平台动态"
-    },
-    {
       "id": "trade-20260717-156",
       "title": "亚马逊美妆个护市场涌现多款百万美元级爆品",
       "summary": "亚马逊美妆个护品类近期涌现多款月销售额破百万美元的爆品，棉签、去屑洗发水、保湿修复膏及定妆喷雾等细分品类搜索热度持续走高，为选品卖家提供参考方向。",
@@ -517,6 +598,33 @@
       "url": "https://ecommercenews.eu/rakuten-france-is-closing/",
       "subCategory": "平台动态",
       "id": "trade-20260717-955"
+    },
+    {
+      "id": "trade-20260717-151",
+      "title": "TikTok Shop东南亚跨境直发履约适应期将于7月19日结束",
+      "summary": "TikTok Shop东南亚跨境直发履约适应期将于7月19日结束，此后订单妥投时效合规要求由60%恢复至50%，依赖无库存代发模式的中小卖家将面临更高履约合规风险。",
+      "publishedAt": "2026-07-17T05:54:00+08:00",
+      "source": "AMZ123跨境导航",
+      "url": "https://www.amz123.com/kx/h1KizZXR",
+      "subCategory": "平台政策"
+    },
+    {
+      "id": "trade-20260717-152",
+      "title": "美国塑料袋企业因虚报原产地规避反倾销税被罚730万美元",
+      "summary": "美国塑料袋制造商RediBagUSA将中国产塑料袋转运后虚报为香港原产，以规避对华77.5%反倾销税，最终与美国政府达成730万美元和解，举报员工获超130万美元奖励。",
+      "publishedAt": "2026-07-17T05:40:00+08:00",
+      "source": "AMZ123跨境导航",
+      "url": "https://www.amz123.com/kx/QKwPu4Hf",
+      "subCategory": "关税法规"
+    },
+    {
+      "id": "trade-20260717-153",
+      "title": "深圳跨境电商迎来最大规模洗牌 一年约6.7万卖家退出市场",
+      "summary": "深圳跨境电商行业迎来最大规模洗牌，一年内约6.7万名卖家退出市场，其中无库存代发商户退出比例达41%，行业加速从铺货冲量转向品牌化与精细化运营。",
+      "publishedAt": "2026-07-17T03:49:00+08:00",
+      "source": "AMZ123跨境导航",
+      "url": "https://www.amz123.com/kx/pr9RHoHS",
+      "subCategory": "平台动态"
     },
     {
       "id": "trade-20260716-211",
@@ -616,114 +724,6 @@
       "source": "AMZ123跨境导航",
       "url": "https://www.amz123.com/kx/JdEM11Uh",
       "subCategory": "跨境支付"
-    },
-    {
-      "title": "亚马逊发布\"标杆新卖家孵化计划\"",
-      "summary": "亚马逊全球开店推出“标杆新卖家孵化计划”，计划三年内助力2000个新入驻品牌实现单品牌销售额突破个1亿元人民币，覆盖北美、欧洲、日本站点，提供市场洞察、运营支持等六大赋能能力及最高75万美元奖励资源。",
-      "publishedAt": "2026-07-16T07:15:00+08:00",
-      "source": "AMZ123跨境导航",
-      "url": "https://www.amz123.com/kx/JOci2Vw3",
-      "subCategory": "平台政策",
-      "id": "trade-20260716-008"
-    },
-    {
-      "id": "trade-20260716-307",
-      "title": "速卖通以色列站优化税务与物流服务",
-      "summary": "速卖通对以色列站服务进行优化，针对超75美元订单在结算时收取增值税以减少清关延误，并上线取货点选择功能缩短末端配送距离，月底起运费还将下调。",
-      "publishedAt": "2026-07-16T06:14:00+08:00",
-      "source": "AMZ123跨境导航",
-      "url": "https://www.amz123.com/kx/4u56Ie3I",
-      "subCategory": "跨境支付"
-    },
-    {
-      "title": "亚马逊美国AWD将于7月31日起全面停止接收大件商品",
-      "summary": "亚马逊宣布美国AWD（智能卫星仓）自7月31日起停止接收超大及超重商品，仅接受长18英寸、宽14英寸、高8英寸及以下、重量20磅以下的标准尺寸商品，家具、健身器材等大件卖家或面临库存成本上升超20%。",
-      "publishedAt": "2026-07-16T05:54:00+08:00",
-      "source": "AMZ123跨境导航",
-      "url": "https://www.amz123.com/kx/S1F3tDAH",
-      "subCategory": "物流仓储",
-      "id": "trade-20260716-009"
-    },
-    {
-      "id": "trade-20260716-304",
-      "title": "Wildberries\"67\"表情包周边走红：6月销量环比增长近三成",
-      "summary": "俄罗斯电商平台Wildberries上\"67\"表情包相关周边商品销量走高，6月销量环比增长近三成，姜饼、公价玩偶等品类表现较好，该网络热梗自去年12月起持续带动相关消费。",
-      "publishedAt": "2026-07-16T03:42:00+08:00",
-      "source": "AMZ123跨境导航",
-      "url": "https://www.amz123.com/kx/3h75itCe",
-      "subCategory": "选品趋势"
-    },
-    {
-      "id": "trade-20260716-303",
-      "title": "欧洲新关税推高价格，Temu等平台调整定价策略",
-      "summary": "波兰对中国进口商品实施新关税后，Temu、速卖通、Shein采取不同定价策略应对：Temu结算时加收关税费用，速卖通直接上调商品页价格，Shein则部分成本计入售价、部分在购物车环节收取。",
-      "publishedAt": "2026-07-16T03:24:00+08:00",
-      "source": "AMZ123跨境导航",
-      "url": "https://www.amz123.com/t/8DAyIQrc",
-      "subCategory": "关税法规"
-    },
-    {
-      "id": "trade-20260716-302",
-      "title": "德国邮政呼吁设定23公斤包裹重量上限",
-      "summary": "德国邮政公开呼吁为包裹设定23公斤重量上限，以保护快递员职业健康。若立法通过，卖家原本整箱发货的大件商品可能需拆分为多件运输，物流成本或将上升。",
-      "publishedAt": "2026-07-16T03:22:00+08:00",
-      "source": "AMZ123跨境导航",
-      "url": "https://www.amz123.com/kx/TOJTp1u8",
-      "subCategory": "物流仓储"
-    },
-    {
-      "title": "韩国完善跨境电商监管体系 要求Temu、AliExpress、Shein等平台指定境内代表",
-      "summary": "韩国政府通过跨境电商监管改革方案，要求Temu、AliExpress、Shein等外国平台在韩指定境内代表，新规7月21日生效，境内代表须于2027年1月21日前到位，负责处理消费者投诉及配合监管调查。",
-      "publishedAt": "2026-07-16T02:31:00+08:00",
-      "source": "AMZ123跨境导航",
-      "url": "https://www.amz123.com/kx/Wf5IKYbf",
-      "subCategory": "关税法规",
-      "id": "trade-20260716-010"
-    },
-    {
-      "title": "Ozon本土卖家8月28日起佣金与物流费率同步调整",
-      "summary": "Ozon宣布自8月28日起调整本土卖家佣金及物流费率，FBS模式下300卢布以下商品佣金上调最高6个百分点（分别至20%和26%），偏远地区（远东）配送费涨幅达275%，9月起还将新增仓储费并下调部分快递费。",
-      "publishedAt": "2026-07-16T01:39:00+08:00",
-      "source": "AMZ123跨境导航",
-      "url": "https://www.amz123.com/kx/5p7X0Dzi",
-      "subCategory": "平台政策",
-      "id": "trade-20260716-011"
-    },
-    {
-      "id": "trade-20260716-301",
-      "title": "达飞与赫伯罗特接连调整附加费 最高达600美元/箱",
-      "summary": "达飞海运7月16日起取消中国至西非北线200美元/箱旺季附加费，西非中线调整为125美元/箱；赫伯罗特同期对亚洲至西南非航线加收最高600美元/箱附加费，多条航线运费同步上调。",
-      "publishedAt": "2026-07-16T01:29:00+08:00",
-      "source": "AMZ123跨境导航",
-      "url": "https://www.amz123.com/kx/koHmr2on",
-      "subCategory": "物流仓储"
-    },
-    {
-      "id": "trade-20260716-305",
-      "title": "亚马逊全球一测通GTO上线，一次检测覆盖美欧日澳等16大站点",
-      "summary": "亚马逊推出\"全球一测通\"（GTO）产品合规检测服务，卖家通过认可的第三方实验室完成一次检测，即可满足美、德、日、澳等16个站点的合规审核要求，目前优先覆盖玩具品类。",
-      "publishedAt": "2026-07-16",
-      "source": "AMZ123跨境导航",
-      "url": "https://www.amz123.com/kx/w0dsfdw4",
-      "subCategory": "平台政策"
-    },
-    {
-      "title": "2025年加拿大电商市场规模达到360亿欧元",
-      "summary": "数据显示2025年加拿大电商市场规模约达360亿欧元，预计2030年将增长至576.5亿欧元，亚马逊、沃尔玛及Canadian Tire、Best Buy等本土零售商是主要参与者，未来竞争将聚焦物流效率与本地化服务。",
-      "publishedAt": "2026-07-16",
-      "source": "AMZ123跨境导航",
-      "url": "https://www.amz123.com/kx/tL8GqpRH",
-      "subCategory": "新兴市场",
-      "id": "trade-20260716-014"
-    },
-    {
-      "title": "Shopee将清理非当地官方语言商品，超50%词汇不符将面临删品罚分",
-      "summary": "Shopee宣布将清理listing中使用非当地官方语言的商品，标题词汇超50%不符合当地官方语言要求的将被删除并计违规分，例如台湾站要求繁体中文，越南站等要求英文。",
-      "publishedAt": "2026-07-16",
-      "source": "AMZ123跨境导航",
-      "url": "https://www.amz123.com/kx/oeGRzB8W",
-      "subCategory": "平台政策",
-      "id": "trade-20260716-012"
     }
   ]
 }
