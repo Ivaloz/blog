@@ -168,6 +168,15 @@
       "subCategory": "机器人"
     },
     {
+      "id": "tech-20260721-027",
+      "title": "罗马尼亚土地与房产管理机构遭遇网络攻击，服务被迫中断",
+      "summary": "罗马尼亚国家地籍与不动产公示局遭遇网络攻击后隔离受影响系统，导致服务全面中断，技术与法律数据库未受影响，机构正将应用迁移至政务云，预计7月22日完成；攻击者ByteToBreach已将窃取数据挂网出售。",
+      "publishedAt": "2026-07-21T14:57:57+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/979/531.htm",
+      "subCategory": "安全漏洞"
+    },
+    {
       "id": "tech-20260721-029",
       "title": "新一代理想L6焕新登场：24.98万元起售，全方位升级打造极致体验",
       "summary": "理想汽车发布新一代L6车型，Ultra版起售价24.98万元，外观采用梯形进气格栅，配备骁龙8797处理器、29英寸6K全景屏及理想自研Mach M100芯片，增程系统含51kWh电池，纯电续航300公里，总续航超1250公里。",
@@ -564,13 +573,13 @@
       "id": "tech-20260720-010"
     },
     {
-      "title": "GitHub Code Quality is now generally available",
-      "summary": "GitHub Code Quality于7月20日从公开预览转为正式商用产品，结合CodeQL静态分析与AI辅助检测识别代码可维护性与可靠性问题，按每活跃提交者每月10美元收费。",
-      "publishedAt": "2026-07-20",
-      "source": "GitHub Blog",
-      "url": "https://github.blog/changelog/2026-07-20-github-code-quality-is-now-generally-available/",
-      "subCategory": "开发者工具",
-      "id": "tech-20260720-044"
+      "title": "Hackers stole 'significant' amount of data from tech firm relied on by thousands of US hospitals and pharmacies",
+      "summary": "英国医疗账单软件公司Craneware遭网络攻击，黑客窃取了大量员工、客户及合作伙伴数据，该公司软件被美国数千家医院与药房使用，公司称入侵者已被清除但调查仍在进行。",
+      "publishedAt": "2026-07-20T08:01:00-07:00",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/20/hackers-stole-significant-amount-of-data-from-tech-firm-relied-on-by-thousands-of-us-hospitals-and-pharmacies/",
+      "subCategory": "安全漏洞",
+      "id": "tech-20260720-043"
     },
     {
       "title": "索尼 SIE 前总裁肖恩·莱登担心 PS6 游戏机真卖 1000 美元，市场普及恐受阻",
@@ -654,6 +663,15 @@
       "id": "tech-20260720-012"
     },
     {
+      "title": "GitHub Code Quality is now generally available",
+      "summary": "GitHub Code Quality于7月20日从公开预览转为正式商用产品，结合CodeQL静态分析与AI辅助检测识别代码可维护性与可靠性问题，按每活跃提交者每月10美元收费。",
+      "publishedAt": "2026-07-20",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/changelog/2026-07-20-github-code-quality-is-now-generally-available/",
+      "subCategory": "开发者工具",
+      "id": "tech-20260720-044"
+    },
+    {
       "title": "月之暗面 Kimi：暂停 C 端新用户订阅，保障已订阅用户的全部权益不受影响",
       "summary": "月之暗面旗下Kimi宣布暂停C端新用户订阅，称KimiK3模型发布后过去48小时用户请求量大幅超出预估，需将全部算力优先保障已订阅用户权益，公司将加快基础设施扩容并逐步恢复开放订阅。",
       "publishedAt": "2026-07-19T23:08:04+08:00",
@@ -690,175 +708,22 @@
       "id": "tech-20260719-953"
     },
     {
-      "title": "总部设上海，世界人工智能合作组织未来将鼓励共建开源生态",
-      "summary": "总部设于上海的世界人工智能合作组织于7月16日由亚非拉欧29国签署成立协议正式落地，未来将重点推进AI能力建设国际合作、鼓励共建开源生态等务实协作，并推动公平的全球AI治理框架，成员国保留自主权。",
-      "publishedAt": "2026-07-19T21:50:45+08:00",
+      "title": "千里科技公布ASD 4.1进展，年底将推ASD 5.0并接入Step AOS",
+      "summary": "千里科技在2026世界人工智能大会上公布多项智能驾驶进展，预告ASD 4.1版本在全场景导航、语义理解及座舱驾驶融合方面的升级，并透露年底将推出ASD 5.0版本，同时计划将阶跃星辰的Step AOS车载操作系统接入汽车应用。",
+      "publishedAt": "2026-07-19T22:18:48+08:00",
       "source": "IT之家",
-      "url": "https://www.ithome.com/0/978/797.htm",
-      "subCategory": "开源生态",
-      "id": "tech-20260719-008"
-    },
-    {
-      "title": "面壁智能发布端侧模型 MiniCPM5-2B，AA-Index 榜单 4B 以下性能第一",
-      "summary": "面壁智能与OpenBMB联合发布端侧模型MiniCPM5-2B，在AA-Index榜单获得17分，成为全球4B以下参数模型最高得分，支持混合思考与512K超长上下文，具备工具调用等智能体能力，可部署于手机及PC，官方表示将很快开源。",
-      "publishedAt": "2026-07-19T21:40:52+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/978/796.htm",
-      "subCategory": "开发者工具",
-      "id": "tech-20260719-009"
-    },
-    {
-      "title": "重力星球推出瓦 75 LITE 夜隐电竞磁轴键盘，422 元",
-      "summary": "重力星球推出瓦75 LITE夜隐电竞磁轴键盘，售价422元，采用镂空骨架设计，支持8K扫描率，输入延迟低至0.25毫秒，配备自研星轴及16种RGB灯效，主打电竞场景性能表现。",
-      "publishedAt": "2026-07-19T21:28:09+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/978/794.htm",
-      "subCategory": "消费电子",
-      "id": "tech-20260719-010"
-    },
-    {
-      "title": "国内首台水下布料刮平一体化整平设备投入使用",
-      "summary": "中交二航局研发的国内首台水下布料刮平一体化整平设备在深圳小漠国际物流港防波堤项目投入使用，设备长28.3米，配备液压支腿、精密角度传感器及自动布石功能，作业效率较传统人工方式提升一倍，可在高60%的浪高条件下施工。",
-      "publishedAt": "2026-07-19T21:06:43+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/978/790.htm",
-      "subCategory": "机器人",
-      "id": "tech-20260719-965"
-    },
-    {
-      "title": "蔚来乐道L90完成第6万台交付",
-      "summary": "蔚来乐道L90在浙江湖州完成第6万台交付，用时不到一年，为30万元级纯电大型SUV细分市场销量最高车型。该车2025年7月31日上市，2026款于今年5月起全国交付，采用900V高压平台，CLTC综合续航600公里，支持25分钟快充与3分钟换电。",
-      "publishedAt": "2026-07-19T20:48:46+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/978/788.htm",
+      "url": "https://www.ithome.com/0/978/803.htm",
       "subCategory": "智能汽车",
-      "id": "tech-20260719-959"
+      "id": "tech-20260719-960"
     },
     {
-      "title": "长城全新坦克300上市，提供混动、汽油、柴油版本",
-      "summary": "长城全新坦克300正式上市，共推出五款车型，售价19.98万元起，包含Hi4-T、Hi4-Z混合动力及汽油、柴油版本，Hi4-Z纯电续航200公里、综合续航1122公里，加长版轴距较标准版增加260毫米，搭载咖啡智能领航3与咖啡OS 3系统。",
-      "publishedAt": "2026-07-19T20:22:27+08:00",
+      "title": "V社推送SteamOS 3.8.16更新修复Steam Deck黑屏问题",
+      "summary": "Valve为Steam Deck掌机推送SteamOS 3.8.16更新，回退此前导致《刺客信条：黑旗记忆重置》出现黑屏问题的HDR修复补丁，该补丁将保留在测试版渠道供开发者进一步排查，本次更新主要修复稳定性问题而非新增功能。",
+      "publishedAt": "2026-07-19T22:11:43+08:00",
       "source": "IT之家",
-      "url": "https://www.ithome.com/0/978/783.htm",
-      "subCategory": "智能汽车",
-      "id": "tech-20260719-958"
-    },
-    {
-      "title": "天数智芯发布通用GPU旗舰天垓300",
-      "summary": "天数智芯发布新一代通用GPU旗舰产品天垓300，采用SIMT架构，支持标量、向量与张量计算，Attention效率超90%，首token时延降低约20%。公司称该产品已具备规模化应用条件，正与国内云厂商、服务器厂商开展生态适配部署。",
-      "publishedAt": "2026-07-19T20:11:01+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/978/781.htm",
-      "subCategory": "芯片硬件",
-      "id": "tech-20260719-950"
-    },
-    {
-      "title": "Marshall推出ACTON III HENDRIX六十周年纪念版蓝牙音箱",
-      "summary": "Marshall发布ACTON III HENDRIX六十周年纪念版蓝牙音箱，纪念吉米·亨德里克斯相关主题，机身为紫色并饰有“上帝之眼”图腾，配备一枚30W低音单元与两枚15W高音单元，支持蓝牙5.2与Auracast广播音频，售价2399元。",
-      "publishedAt": "2026-07-19T19:34:39+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/978/777.htm",
-      "subCategory": "消费电子",
-      "id": "tech-20260719-956"
-    },
-    {
-      "title": "神舟二十三乘组在轨近两月，脑机相关实验进展顺利",
-      "summary": "神舟二十三号乘组朱杨柱、张志远、李佳颐在轨即将满两个月，期间使用脑电采集设备与VR眼镜开展弱刺激脑机、微重力直觉物理等实验，并采集唾液及环境微生物样本用于免疫代谢研究，同时完成应急决策与情绪状态相关测试。",
-      "publishedAt": "2026-07-19T19:29:58+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/978/776.htm",
-      "subCategory": "航空航天",
-      "id": "tech-20260719-964"
-    },
-    {
-      "title": "QCY推出Heroad V200有线头戴式耳机",
-      "summary": "QCY发布Heroad V200有线头戴式耳机，搭载50mm动圈单元，配备可插拔麦克风及一键静音按键，机身重252克，采用蛋白皮耳罩与人体工学头梁设计，提供游戏音效模式，天猫售价79.9元。",
-      "publishedAt": "2026-07-19T18:09:33+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/978/752.htm",
-      "subCategory": "消费电子",
-      "id": "tech-20260719-952"
-    },
-    {
-      "title": "SK集团会长崔泰源预测明年全球半导体需求增长超五成",
-      "summary": "SK集团会长崔泰源表示，预计明年全球半导体需求至少增长50%-60%，AI领域需求增幅或达60%-100%，但新增产能几乎为零，供需缺口可能扩大。他形容当前存储芯片供需局面接近“混乱”，呼吁韩国企业加快全球扩产。",
-      "publishedAt": "2026-07-19T17:36:07+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/978/744.htm",
-      "subCategory": "芯片硬件",
-      "id": "tech-20260719-951"
-    },
-    {
-      "title": "极氪9X五座版公布探野棕新色，7月28日上市",
-      "summary": "极氪公布9X五座版“探野棕”新色官图，将于7月28日上市，同时提供“勃艮第红”内饰选择。该车型二排腿部空间最大达1.4米，两个后排座椅支持零重力姿态，此前六座版已于2025年9月上市，起售价46.59万元。",
-      "publishedAt": "2026-07-19T17:08:15+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/978/737.htm",
-      "subCategory": "智能汽车",
-      "id": "tech-20260719-957"
-    },
-    {
-      "id": "tech-20260719-101",
-      "title": "比亚迪腾势Z9S路试实车曝光，轴距超3米",
-      "summary": "比亚迪腾势Z9S路试谍照曝光，车身长5090mm、轴距达3025mm，提供单电机920公里和三电机780公里两种续航版本，全系搭载102.3kWh电池，新增晨光紫配色。",
-      "publishedAt": "2026-07-19T16:37:04+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/978/733.htm",
-      "subCategory": "智能汽车"
-    },
-    {
-      "id": "tech-20260719-116",
-      "title": "JBL推出Vienna悬浮歌词音箱：100W功率、18.5英寸显示屏",
-      "summary": "JBL推出Vienna悬浮歌词音箱，搭载18.5英寸显示屏呈现悬浮歌词效果，2.1声道配置输出100W功率，支持蓝牙5.4与USB-C连接，京东售价8299元。",
-      "publishedAt": "2026-07-19T16:13:26+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/978/727.htm",
-      "subCategory": "消费电子"
-    },
-    {
-      "id": "tech-20260719-117",
-      "title": "HMD诺基亚300 4G Power Bank功能机完整规格曝光",
-      "summary": "HMD公布诺基亚300 4G Power Bank功能机完整规格，内置3700mAh电池支持5W反向充电，2.4英寸屏幕，IP65防护，菲律宾定价约合人民币218元。",
-      "publishedAt": "2026-07-19T16:04:00+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/978/724.htm",
-      "subCategory": "消费电子"
-    },
-    {
-      "id": "tech-20260719-102",
-      "title": "消息称三星Galaxy Z Fold8阔折叠机屏幕产量约280万块，超越传统大折叠Fold8 Ultra",
-      "summary": "消息称三星计划为Galaxy Z Fold8阔折叠机型生产约280万块屏幕，产量超过传统大折叠Fold8 Ultra与Flip8，新机采用4:3比例，内屏7.6英寸、外屏5.4英寸。",
-      "publishedAt": "2026-07-19T16:03:22+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/978/723.htm",
-      "subCategory": "消费电子"
-    },
-    {
-      "id": "tech-20260719-103",
-      "title": "美国联邦航空管理局允许波音自行签发737 MAX、787适航证",
-      "summary": "美国联邦航空管理局宣布，经过数月安全审查后，将允许波音在生产末端环节自行签发737 MAX和787机型的适航证书，此前该权限已受限约八个月。",
-      "publishedAt": "2026-07-19T15:39:00+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/978/717.htm",
-      "subCategory": "航空航天"
-    },
-    {
-      "id": "tech-20260719-104",
-      "title": "燧原科技联合中兴通讯发布云燧ESL64-O超节点",
-      "summary": "2026世界人工智能大会上，燧原科技联合中兴通讯发布云燧ESL64-O超节点，采用自研AI芯片与去电缆化架构创新，旨在降低互联成本、提升算力效率。",
-      "publishedAt": "2026-07-19T15:37:52+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/978/716.htm",
-      "subCategory": "芯片硬件"
-    },
-    {
-      "id": "tech-20260719-118",
-      "title": "讯飞AI眼镜获评WAIC镇馆之宝",
-      "summary": "科大讯飞AI眼镜在2026世界人工智能大会上获评镇馆之宝，产品支持122种语言实时翻译，重约40克，具备会议唇读降噪、自动生成会议纪要等功能。",
-      "publishedAt": "2026-07-19T15:26:39+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/978/713.htm",
-      "subCategory": "XR-AR-VR"
+      "url": "https://www.ithome.com/0/977/868.htm",
+      "subCategory": "操作系统",
+      "id": "tech-20260719-961"
     }
   ]
 }
