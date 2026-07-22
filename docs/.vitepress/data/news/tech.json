@@ -3,8 +3,125 @@
   "slug": "tech",
   "title": "科技新闻",
   "description": "前沿科技、互联网产品、芯片硬件、开源生态。",
-  "updatedAt": "2026-07-22T10:15:00+08:00",
+  "updatedAt": "2026-07-22T16:53:00+08:00",
   "items": [
+    {
+      "id": "tech-20260722-101",
+      "title": "惠科拟通过全资子公司涉足芯片先进封装及测试领域",
+      "summary": "惠科拟设立全资子公司浙江惠芯先进半导体，进军芯片先进封装测试领域，一期聚焦12英寸混合芯片封装测试，规划月产能2000万颗，注册资本40亿元。",
+      "publishedAt": "2026-07-22T16:39:18+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/980/146.htm",
+      "subCategory": "芯片硬件"
+    },
+    {
+      "id": "tech-20260722-102",
+      "title": "三星展示新型车载OLED面板：80mm大孔径开孔、可整合实体控制组件",
+      "summary": "三星在K-Display 2026展会展示车载OLED面板新技术，将此前用于手机摄像头开孔的HIAA工艺扩展至80mm直径，可将换挡杆、出风口等实体控制部件整合进屏幕区域。",
+      "publishedAt": "2026-07-22T16:36:34+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/980/143.htm",
+      "subCategory": "智能汽车"
+    },
+    {
+      "id": "tech-20260722-103",
+      "title": "9999→7749元：荣耀Magic V5折叠屏手机16+512G国补直降",
+      "summary": "荣耀Magic V5折叠屏手机16+512GB版本在京东经国家补贴直降至7749元，支持3期免息并附赠一年碎屏险，机身厚8.8mm，搭载骁龙8至尊版处理器。",
+      "publishedAt": "2026-07-22T16:33:43+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/980/140.htm",
+      "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260722-104",
+      "title": "联想推出ThinkVision P34WD-40显示器：34英寸1440P 120Hz，3999元",
+      "summary": "联想发布ThinkVision P34WD-40显示器，采用21:9 IPS-Black面板，3440×1440分辨率，最高120Hz刷新率，支持140W USB-C供电及2.5G网口，售价3999元。",
+      "publishedAt": "2026-07-22T16:30:00+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/980/136.htm",
+      "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260722-105",
+      "title": "V社为Steam客户端推出更新，新增Steam Machine主机认证相关功能",
+      "summary": "Valve为Steam客户端发布稳定版更新，新增游戏卡片及详情页的Steam Machine设备认证信息展示，并优化手柄陀螺仪校准、录制及桌面模式等多项功能。",
+      "publishedAt": "2026-07-22T16:27:42+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/979/821.htm",
+      "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260722-106",
+      "title": "Oracle恐需为威斯康星150亿美元数据中心提供70亿美元电力基建担保",
+      "summary": "威斯康星州公用事业委员会未批准Oracle豁免申请，其与OpenAI、Vantage合建的150亿美元、约1GW数据中心项目或需提供70亿美元电力基建担保，预计2027年底交付。",
+      "publishedAt": "2026-07-22T16:26:17+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/980/132.htm",
+      "subCategory": "云计算"
+    },
+    {
+      "id": "tech-20260722-107",
+      "title": "红旗HS6 PHEV 152智享版车型上市：CLTC综合续航1580km，18.28万元",
+      "summary": "一汽红旗HS6 PHEV 152智享版正式上市，售价18.28万元，纯电续航152公里，综合续航1580公里，配双15.6英寸联屏及骁龙8295P芯片。",
+      "publishedAt": "2026-07-22T16:25:23+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/980/130.htm",
+      "subCategory": "智能汽车"
+    },
+    {
+      "id": "tech-20260722-108",
+      "title": "微信发文解释公众号推荐机制：单篇内容推荐流量出现波动是正常现象",
+      "summary": "微信公众平台发文回应创作者关切，称单篇内容推荐流量波动是正常现象，不代表账号或内容被限制推荐，并说明账号自查功能及常见推荐疑问。",
+      "publishedAt": "2026-07-22T16:21:54+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/980/125.htm",
+      "subCategory": "互联网产品"
+    },
+    {
+      "id": "tech-20260722-109",
+      "title": "研究人员利用OpenAI GPT-5.6 Sol Ultra模型，挖掘出WordPress重大漏洞\"wp2shell\"",
+      "summary": "Searchlight Cyber研究人员使用GPT-5.6 Sol Ultra模型分析WordPress源码，发现编号CVE-2026-63030、CVSS评分9.8的未授权代码执行漏洞，耗时约6小时。",
+      "publishedAt": "2026-07-22T16:18:49+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/980/122.htm",
+      "subCategory": "安全漏洞"
+    },
+    {
+      "id": "tech-20260722-110",
+      "title": "消息称华为现在还处于回血状态，Mate 90系列手机+τ定律芯片是转折点",
+      "summary": "有博主分析称华为正处于业绩恢复阶段，Mate 90系列及自研τ定律芯片被视为关键转折点，新款麒麟芯片晶体管密度较传统二维设计提升53.5%。",
+      "publishedAt": "2026-07-22T16:15:17+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/980/116.htm",
+      "subCategory": "芯片硬件"
+    },
+    {
+      "id": "tech-20260722-111",
+      "title": "东擎为边缘平台导入Axelera AI Metis加速器，至高扩充214 TOPS算力",
+      "summary": "东擎与荷兰芯片厂商Axelera AI合作，将Metis AIPU加速器导入边缘AI平台，提供PCIe或M.2形式，基于三星5nm工艺，最高214 TOPS算力，功耗仅8至15瓦。",
+      "publishedAt": "2026-07-22T16:03:09+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/980/101.htm",
+      "subCategory": "芯片硬件"
+    },
+    {
+      "id": "tech-20260722-113",
+      "title": "英伟达披露Vera Rubin最新进展，芯片已交付OpenAI等企业",
+      "summary": "英伟达披露Vera Rubin平台最新进展，Vera CPU已于6月交付OpenAI、Anthropic及SpaceX等客户，该平台包含7款芯片及5种机架，供应链覆盖30个国家、350家工厂。",
+      "publishedAt": "2026-07-22T15:44:00+08:00",
+      "source": "36氪",
+      "url": "https://36kr.com/newsflashes/3906496056726918",
+      "subCategory": "芯片硬件"
+    },
+    {
+      "id": "tech-20260722-115",
+      "title": "一箭九星，引力一号遥四运载火箭发射成功",
+      "summary": "东方空间引力一号遥四运载火箭在东海海域发射，将东坡13-14、17-20、羲光二号01星等9颗卫星送入预定轨道，为该型火箭第三次飞行，标志其进入常态化商业发射阶段。",
+      "publishedAt": "2026-07-22T11:23:38+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/979/951.htm",
+      "subCategory": "航空航天"
+    },
     {
       "id": "tech-20260722-031",
       "title": "微星推出神影16魔龙姬限定款锐龙版游戏本，搭载8940HX+RTX 5060",
@@ -607,123 +724,6 @@
       "url": "https://www.ithome.com/0/979/259.htm",
       "subCategory": "智能汽车",
       "id": "tech-20260720-028"
-    },
-    {
-      "title": "AI 生成的盗版书泛滥，苹果图书和亚马逊上出现大量假冒作品",
-      "summary": "有科技记者发现苹果图书和亚马逊平台上出现大量AI生成的盗版书籍，包含伪造作者信息与仿冒封面，部分定价9.99至20.99美元，问题已从电子书蔓延至按需印刷渠道。",
-      "publishedAt": "2026-07-20T23:13:20+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/979/258.htm",
-      "subCategory": "互联网产品",
-      "id": "tech-20260720-029"
-    },
-    {
-      "title": "消息称 Bose QuietComfort 第二代头戴式降噪耳机 8 月发布，359 美元",
-      "summary": "据法国媒体报道，Bose第二代QuietComfort头戴式降噪耳机将于8月13日发布、7日开启预售，采用新造型并支持TrueSpatial空间音频与USB-C无损音频，售价359美元。",
-      "publishedAt": "2026-07-20T23:10:43+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/979/257.htm",
-      "subCategory": "消费电子",
-      "id": "tech-20260720-030"
-    },
-    {
-      "title": "ATK 推出烈空 X1 V2 大师版鼠标：PAW3955 MASTER，首发到手价 299.2 元",
-      "summary": "ATK推出烈空X1 V2大师版鼠标，搭载PAW3955 MASTER传感器与NORDIC 54L15芯片，支持有线及2.4G双8K回报率，7月21日20点开售，首发到手价299.2元。",
-      "publishedAt": "2026-07-20T22:32:59+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/979/254.htm",
-      "subCategory": "消费电子",
-      "id": "tech-20260720-031"
-    },
-    {
-      "title": "消息称谷歌正研发全新 Frozen v2 芯片，可大幅提升 Gemini 模型运行效率",
-      "summary": "据The Information报道，谷歌正研发代号Frozen v2的专用服务器芯片，将Gemini模型底层计算架构固化进硬件层，单位功耗token处理效率有望提升6到10倍，最早2028年部署。",
-      "publishedAt": "2026-07-20T22:09:27+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/979/251.htm",
-      "subCategory": "芯片硬件",
-      "id": "tech-20260720-032"
-    },
-    {
-      "title": "中国商飞：290 座级的 C929 宽体飞机设计工作正在稳步推进",
-      "summary": "中国商飞在范堡罗航展上表示，290座级C929宽体客机设计工作正稳步推进；此前90座C909已交付十余家客户，190座C919已进入三家国内航司商业运营，累计飞行超13万小时。",
-      "publishedAt": "2026-07-20T21:53:55+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/979/240.htm",
-      "subCategory": "航空航天",
-      "id": "tech-20260720-033"
-    },
-    {
-      "title": "微软将在 Azure 云服务上部署 AMD Helios 机架系统，用于 AI 推理",
-      "summary": "微软宣布在Azure云服务上部署AMD Helios机架系统，集成第六代EPYC Venice处理器与Instinct MI455X加速器，新增HDv2、HXv2、ND MI455X v7等虚拟机实例，用于AI推理等场景。",
-      "publishedAt": "2026-07-20T21:28:15+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/979/235.htm",
-      "subCategory": "云计算",
-      "id": "tech-20260720-034"
-    },
-    {
-      "title": "消息称比亚迪海狮 08 将于 8 月上市，有 5 座和 6 座车型版本",
-      "summary": "消息称比亚迪海狮08将于8月上市，提供5座和6座版本，纯电版续航分为800公里和900公里两档，搭载第二代刀片电池、闪充技术及云辇悬架系统等配置。",
-      "publishedAt": "2026-07-20T21:03:27+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/979/233.htm",
-      "subCategory": "智能汽车",
-      "id": "tech-20260720-035"
-    },
-    {
-      "title": "德国 DDR5 内存价格飙至历史新高，装机成本大幅提升",
-      "summary": "据3D Center数据，德国市场DDR5内存价格指数较2025年7月基准上涨至448%，创历史新高，部分规格套装月环比涨幅达16%腳17%，明显推高电脑装机成本。",
-      "publishedAt": "2026-07-20T20:39:53+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/979/226.htm",
-      "subCategory": "芯片硬件",
-      "id": "tech-20260720-039"
-    },
-    {
-      "title": "白帽子行为构成实质性安全侵害：小米发布 MiSRC 违规事件处置公告，奖励取消、保留法律追责权利",
-      "summary": "小米安全中心公告称，一名安全研究人员通过MiSRC平台提交漏洞报告时行为超出正常授权范围，构成实质性安全侵害，公司已取消其奖励并保留依法追究法律责任的权利。",
-      "publishedAt": "2026-07-20T20:36:01+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/979/225.htm",
-      "subCategory": "安全漏洞",
-      "id": "tech-20260720-036"
-    },
-    {
-      "title": "消息称荣耀 Robot Phone 形态有专利友商难跟进，行业预测 1TB 版价格在 15999 元左右",
-      "summary": "消息称荣耀Robot Phone采用专利保护的云台结构，友商短期内难以跟进；行业预测1TB版本售价约1.59万元，新机将于8月搭载第五代骁颙8至尊版芯片及AgenticOS系统发布。",
-      "publishedAt": "2026-07-20T20:23:37+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/979/221.htm",
-      "subCategory": "消费电子",
-      "id": "tech-20260720-037"
-    },
-    {
-      "title": "星河动力\"智神星一号\"中大型可重复使用液体运载火箭计划 8 月中下旬首飞",
-      "summary": "北京星河动力宣布中大型可重复使用液体运载火箭智神星一号计划8月中下旬首飞，起飞质量283吨，低轨运力7吨，一级箭体设计支持不少于25次重复使用。",
-      "publishedAt": "2026-07-20T20:15:10+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/979/218.htm",
-      "subCategory": "航空航天",
-      "id": "tech-20260720-038"
-    },
-    {
-      "title": "阿里云发布轻量应用服务器\"智能体专用型实例\"：2 亿 Token 包月活动价 262.5 元/月",
-      "summary": "阿里云推出面向AI Agent应用的轻量应用服务器智能体专用型实例，捐绑算力与大模型Token套餐，入门配置2核2GB搭配2亿Token，促销价262.5元/月，已在12个地域上线。",
-      "publishedAt": "2026-07-20T19:37:21+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/979/212.htm",
-      "subCategory": "云计算",
-      "id": "tech-20260720-040"
-    },
-    {
-      "title": "联想问天全球首款 RISC-V 服务器亮相 WAIC 2026，搭载蓝芯 LX500 处理器",
-      "summary": "联想问天在2026世界人工智能大会上展示全球首款RISC-V服务器问天WR5219 G5，搭载48核蓝芯LX500异构处理器，支持PCIe 5.0与DDR5，面向AI推理等场景。",
-      "publishedAt": "2026-07-20T18:22:36+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/979/200.htm",
-      "subCategory": "芯片硬件",
-      "id": "tech-20260720-041"
     }
   ]
 }
