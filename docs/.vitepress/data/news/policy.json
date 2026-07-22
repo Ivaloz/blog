@@ -3,8 +3,17 @@
   "slug": "policy",
   "title": "政策信息",
   "description": "国家与地方政策、监管动态、产业扶持与合规要求。",
-  "updatedAt": "2026-07-22T10:15:00+08:00",
+  "updatedAt": "2026-07-22T16:53:00+08:00",
   "items": [
+    {
+      "id": "policy-20260722-103",
+      "title": "推动涉民营经济案件精准办理 一批典型案例发布",
+      "summary": "国家发展改革委与最高人民检察院联合发布贯彻实施《民营经济促进法》第二批10件典型案例，涉及惩治侵害民企权益犯罪、监督纠正违规执法、协助企业挽回损失及平等保护等方面。",
+      "publishedAt": "2026-07-22T12:24:23+08:00",
+      "source": "中国新闻网",
+      "url": "https://www.chinanews.com.cn/gn/2026/07-22/10664175.shtml",
+      "subCategory": "产业政策"
+    },
     {
       "id": "policy-20260722-003",
       "title": "路透社援引英国《金融时报》：中国考虑收紧人工智能模型与芯片出口管制",
@@ -31,6 +40,15 @@
       "source": "大纪元",
       "url": "https://www.epochtimes.com/gb/26/7/21/n14814360.htm",
       "subCategory": "海外政策"
+    },
+    {
+      "id": "policy-20260722-104",
+      "title": "国家能源局发布2026年1-6月份全国电力统计数据",
+      "summary": "国家能源局公布上半年电力统计，截至6月底全国发电装机总容量40.4亿千瓦，同比增长10.8%，其中太阳能装机12.7亿千瓦、风电装机6.8亿千瓦，同比分别增长15.8%和18.5%。",
+      "publishedAt": "2026-07-22",
+      "source": "国家能源局",
+      "url": "https://www.nea.gov.cn/20260722/3b678308556b4df0a574537b59a28731/c.html",
+      "subCategory": "新能源政策"
     },
     {
       "id": "policy-20260722-002",
@@ -87,31 +105,13 @@
       "subCategory": "金融监管"
     },
     {
-      "id": "policy-20260720-013",
-      "title": "Fact Sheet: President Donald J. Trump Imposes Additional Tariffs on Canada",
-      "summary": "特朗普签署三项公告，依据关税法第338条对加拿大汽车、酒类及乳制品加征50%关税，以回应加拿大对美产品的歧视性贸易做法，新关税将于签署30天后生效。",
-      "publishedAt": "2026-07-20T21:00:00Z",
-      "source": "The White House",
-      "url": "https://www.whitehouse.gov/fact-sheets/2026/07/fact-sheet-president-donald-j-trump-imposes-additional-tariffs-on-canada/",
-      "subCategory": "跨境贸易"
-    },
-    {
-      "id": "policy-20260720-015",
-      "title": "Fact Sheet: President Donald J. Trump Takes Further Action To Adjust Imports Of Aluminum Into The United States",
-      "summary": "特朗普依据232条款签署公告，对在美国新建电解铝产能的企业给予关税减半优惠，并要求商务部监督企业履行落地生产承诺，防止不达标企业继续享受优惠。",
-      "publishedAt": "2026-07-20T19:44:17Z",
-      "source": "The White House",
-      "url": "https://www.whitehouse.gov/fact-sheets/2026/07/fact-sheet-president-donald-j-trump-takes-further-action-to-adjust-imports-of-aluminum-into-the-united-states/",
-      "subCategory": "跨境贸易"
-    },
-    {
-      "id": "policy-20260720-014",
-      "title": "Securing America's Defense Supply Chains and Ensuring Domestic Acquisition of Critical Materials",
-      "summary": "特朗普签署行政令，要求国防部强化军事采购关键材料的国内供应链审查，自2027年起限制外国不合规材料豁免，并要求承包商绘制供应链图谱、寻找替代来源。",
-      "publishedAt": "2026-07-20T19:38:18Z",
-      "source": "The White House",
-      "url": "https://www.whitehouse.gov/presidential-actions/2026/07/securing-americas-defense-supply-chains-and-ensuring-domestic-acquisition-of-critical-materials/",
-      "subCategory": "产业政策"
+      "id": "policy-20260722-102",
+      "title": "Student Loan Forgiveness Scammer Permanently Banned from Debt Relief Industry and Telemarketing",
+      "summary": "美国联邦贸易委员会宣布，学生贷款减免诈骗操盘手梅尔贾尼安被永久禁止从事债务减免和电话营销业务，此前她与同伙从消费者处非法获取超过4590万美元。",
+      "publishedAt": "2026-07-21",
+      "source": "Federal Trade Commission",
+      "url": "https://www.ftc.gov/news-events/news/press-releases/2026/07/student-loan-forgiveness-scammer-permanently-banned-debt-relief-industry-telemarketing",
+      "subCategory": "海外政策"
     },
     {
       "id": "policy-20260720-010",
@@ -204,6 +204,33 @@
       "subCategory": "数据安全"
     },
     {
+      "id": "policy-20260721-001",
+      "title": "Commission sends Statements of Objections to several companies and trade associations in suspected construction chemicals cartel",
+      "summary": "欧盟委员会向Cemex、Sika、Mapei等建筑化学品生产商及法国、德国、西班牙三国行业协会发出异议声明，初步认定其在2021至2022年就水泥、混凝土和砂浆化学添加剂协调涨价，涉嫌违反欧盟条约第101条反垄断规则。",
+      "publishedAt": "2026-07-19T22:00:00Z",
+      "source": "欧盟委员会",
+      "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1394",
+      "subCategory": "反垄断"
+    },
+    {
+      "id": "policy-20260720-001",
+      "title": "证监会今开座谈会 促进市场稳定健康发展",
+      "summary": "证监会7月20日召开座谈会，听取市场机构关于促进资本市场稳定健康发展的意见建议。此前一日，中国国新、中国诚通两家央企合计运用超600亿元资金增持境内股票资产，以支持资本市场平稳运行。",
+      "publishedAt": "2026-07-20T04:10:00+08:00",
+      "source": "证券时报",
+      "url": "https://finance.sina.com.cn/jjxw/2026-07-20/doc-iniiktnr3149502.shtml",
+      "subCategory": "金融监管"
+    },
+    {
+      "id": "policy-20260720-002",
+      "title": "2026世界人工智能大会观察",
+      "summary": "2026世界人工智能大会在沪举行，展览面积首次超10万平方米，展品超4400项；中国人形机器人2025年出货量占全球88.7%，人工智能核心产业规模超1.2万亿元，中国在全球人工智能专利中占比约六成。",
+      "publishedAt": "2026-07-20T00:14:00+08:00",
+      "source": "新华社",
+      "url": "https://www.news.cn/tech/20260720/653dbb72adff4930807c78b1fab22fad/c.html",
+      "subCategory": "AI监管"
+    },
+    {
       "id": "policy-20260720-006",
       "title": "UK invests in homegrown space tech to boost national resilience",
       "summary": "英国政府宣布投入6200万英镑支持本土太空科技发展，其中4200万英镑用于低轨道连接（C-LEO）项目卫星通信技术，2000万英镑用于国家太空创新计划，旨在增强国家韧性、减少对外部依赖，并提升卫星通信与太空态势感知能力。",
@@ -256,33 +283,6 @@
       "source": "国家市场监督管理总局",
       "url": "https://www.samr.gov.cn/xw/sj/art/2026/art_034fe3a706604d9dbb1af89a7833b84d.html",
       "subCategory": "新能源政策"
-    },
-    {
-      "id": "policy-20260721-001",
-      "title": "Commission sends Statements of Objections to several companies and trade associations in suspected construction chemicals cartel",
-      "summary": "欧盟委员会向Cemex、Sika、Mapei等建筑化学品生产商及法国、德国、西班牙三国行业协会发出异议声明，初步认定其在2021至2022年就水泥、混凝土和砂浆化学添加剂协调涨价，涉嫌违反欧盟条约第101条反垄断规则。",
-      "publishedAt": "2026-07-19T22:00:00Z",
-      "source": "欧盟委员会",
-      "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1394",
-      "subCategory": "反垄断"
-    },
-    {
-      "id": "policy-20260720-001",
-      "title": "证监会今开座谈会 促进市场稳定健康发展",
-      "summary": "证监会7月20日召开座谈会，听取市场机构关于促进资本市场稳定健康发展的意见建议。此前一日，中国国新、中国诚通两家央企合计运用超600亿元资金增持境内股票资产，以支持资本市场平稳运行。",
-      "publishedAt": "2026-07-20T04:10:00+08:00",
-      "source": "证券时报",
-      "url": "https://finance.sina.com.cn/jjxw/2026-07-20/doc-iniiktnr3149502.shtml",
-      "subCategory": "金融监管"
-    },
-    {
-      "id": "policy-20260720-002",
-      "title": "2026世界人工智能大会观察",
-      "summary": "2026世界人工智能大会在沪举行，展览面积首次超10万平方米，展品超4400项；中国人形机器人2025年出货量占全球88.7%，人工智能核心产业规模超1.2万亿元，中国在全球人工智能专利中占比约六成。",
-      "publishedAt": "2026-07-20T00:14:00+08:00",
-      "source": "新华社",
-      "url": "https://www.news.cn/tech/20260720/653dbb72adff4930807c78b1fab22fad/c.html",
-      "subCategory": "AI监管"
     },
     {
       "id": "policy-20260719-005",
@@ -697,33 +697,6 @@
       "source": "国家发展和改革委员会",
       "url": "https://www.ndrc.gov.cn/xxgk/jd/jd/202607/t20260714_1406508.html",
       "subCategory": "产业政策"
-    },
-    {
-      "id": "policy-20260716-003",
-      "title": "Public bodies mobilise £50 billion to drive UK economic growth and support over 802,000 jobs",
-      "summary": "英国现代产业战略实施一周年之际，四家公共金融机构两年内已投放至少500亿英镑资金，支持约80.2万个工作岗位，机构合计产能提升至1930亿英镑。",
-      "publishedAt": "2026-07-15",
-      "source": "英国政府（商业与贸易部）",
-      "url": "https://www.gov.uk/government/news/public-bodies-mobilise-50-billion-to-drive-uk-economic-growth-and-support-over-802000-jobs",
-      "subCategory": "产业政策"
-    },
-    {
-      "id": "policy-20260716-005",
-      "title": "New social media curfews and crackdown on addictive features to better protect 16- and 17-year-olds online",
-      "summary": "英国政府宣布对16、17岁青少年社交媒体账号默认设置午夜至清晨六点的宵禁，并默认关闭自动连播等易上瘾功能，作为未成年人网络保护措施的一部分。",
-      "publishedAt": "2026-07-15",
-      "source": "英国政府",
-      "url": "https://www.gov.uk/government/news/new-social-media-curfews-and-crackdown-on-addictive-features-to-better-protect-16-and-17-year-olds-online",
-      "subCategory": "海外政策"
-    },
-    {
-      "id": "policy-20260716-004",
-      "title": "Government delivers fairer deal for shoppers as Buy-Now, Pay-Later rules come into force",
-      "summary": "英国“先买后付”新规正式生效，相关产品纳入金融行为监管局监管，要求机构进行还款能力核查，并赋予消费者金融申诉专员服务等保护措施。",
-      "publishedAt": "2026-07-15",
-      "source": "英国财政部",
-      "url": "https://www.gov.uk/government/news/government-delivers-fairer-deal-for-shoppers-as-buy-now-pay-later-rules-come-into-force",
-      "subCategory": "金融监管"
     }
   ]
 }
