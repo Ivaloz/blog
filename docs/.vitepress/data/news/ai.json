@@ -3,8 +3,107 @@
   "slug": "ai",
   "title": "AI 与大模型",
   "description": "大模型、Agent、AI 编程、推理框架、开源模型的发布与落地。",
-  "updatedAt": "2026-07-22T10:15:00+08:00",
+  "updatedAt": "2026-07-22T16:53:00+08:00",
   "items": [
+    {
+      "id": "ai-20260722-114",
+      "title": "Substack接入Pangram检测工具，上线AI文本识别功能",
+      "summary": "内容平台Substack接入AI检测工具Pangram，在网页端与iOS端上线文本识别功能，可对文章、笔记等内容标注人工撰写、AI生成与AI辅助的比例，仅检测7月21日后发布且段落超过100词的内容，创作者可自行关闭该功能。",
+      "publishedAt": "2026-07-22T16:31:18+08:00",
+      "source": "AIBase",
+      "url": "https://news.aibase.com/zh/news/29801",
+      "subCategory": "AI应用"
+    },
+    {
+      "id": "ai-20260722-113",
+      "title": "三星拟投资10亿欧元加码Mistral AI D轮融资",
+      "summary": "据英国《金融时报》报道，三星正考虑向法国AI公司Mistral AI追加投资约10亿欧元，参与其D轮融资，该轮融资对其估值约200亿欧元，瑞典EQT旗下Scaleup Europe基金也参与其中，交易被视为对欧洲AI独立性的重新定价。",
+      "publishedAt": "2026-07-22T15:36:51+08:00",
+      "source": "AIBase",
+      "url": "https://news.aibase.com/zh/news/29799",
+      "subCategory": "大模型"
+    },
+    {
+      "id": "ai-20260722-112",
+      "title": "宇树王兴兴：人形机器人\"ChatGPT时刻\"最快两三年到来",
+      "summary": "宇树科技创始人兵CEO王兴兴在2026世界互联网大会数字丝路发展论坛表示，具身智能的\"ChatGPT时刻\"最快两三年内到来，届时机器人无需预先编排动作或人类远程操控即可在陌生环境中工作，宇树同期展示G1机器人多场景任务能力。",
+      "publishedAt": "2026-07-22T15:03:43+08:00",
+      "source": "AIBase",
+      "url": "https://news.aibase.com/zh/news/29797",
+      "subCategory": "具身智能"
+    },
+    {
+      "id": "ai-20260722-111",
+      "title": "地平线与大众深化合作，白盒授权AI基座大模型支撑L3/L4量产",
+      "summary": "地平线与大众汽车集团通过合资公司酷睡程（CARIZON）深化合作，采用白盒授权模式，让大众基于地平线AI基座大模型、C7H芯片及GAIA世界模型数据平台自主开发统一AI驾驶方案，服务大众L3、L4级自动驾驶量产。",
+      "publishedAt": "2026-07-22T14:51:43+08:00",
+      "source": "AIBase",
+      "url": "https://news.aibase.com/zh/news/29796",
+      "subCategory": "具身智能"
+    },
+    {
+      "id": "ai-20260722-110",
+      "title": "哈佛研究称女性生成式AI使用率比男性低22%",
+      "summary": "哈佛商学院对25个国家、超14.3万名参与者的荔集分析显示，女性使用生成式AI的可能性比男性低22%，科技岗位中男性占比71%、女性29%，企业AI培训获取率男性35%、女性27%，研究呼吁将AI培训纳入常规工作体系。",
+      "publishedAt": "2026-07-22T14:50:19+08:00",
+      "source": "AIBase",
+      "url": "https://news.aibase.com/zh/news/29795",
+      "subCategory": "论文进展"
+    },
+    {
+      "id": "ai-20260722-109",
+      "title": "腾讯 AI 创意智能体 Miora 全量上线，支持多智能体协同设计",
+      "summary": "腾讯旗下AI创意智能体Miora全量上线，支持多智能体协同完成设计任务，内置涵盖平面图片、动态视频、3D建模、UI界面等八项官方技能，面向设计新手、独立开发者、品牌设计师和营销视频从业者，新用户可获赠1000积分。",
+      "publishedAt": "2026-07-22T14:23:26+08:00",
+      "source": "AIBase",
+      "url": "https://news.aibase.com/zh/news/29794",
+      "subCategory": "Agent"
+    },
+    {
+      "id": "ai-20260722-107",
+      "title": "Poolside开源Laguna S2.1模型，118B MoE支持1M上下文",
+      "summary": "AI初创公司Poolside发布开源模型Laguna S2.1，采用118B参数MoE架构，支持最高1M token上下文，可在单台DGX Spark运行，以OpenMDW-1.1许可开源，Terminal-Bench2.1得分70.2%。",
+      "publishedAt": "2026-07-22T11:35:42+08:00",
+      "source": "AIBase",
+      "url": "https://news.aibase.com/zh/news/29791",
+      "subCategory": "开源模型"
+    },
+    {
+      "id": "ai-20260722-105",
+      "title": "OpenRouter推出Prompt Caching技术降低多轮Agent对话成本",
+      "summary": "OpenRouter推出Prompt Caching与Sticky Routing技术，降低多轮Agent对话成本，缓存读取价为正常输入价的0.1至0.5倍，如Claude Sonnet 4.6缓存读取价每百万token仅0.3美元。",
+      "publishedAt": "2026-07-22T11:24:12+08:00",
+      "source": "AIBase",
+      "url": "https://news.aibase.com/zh/news/29789",
+      "subCategory": "推理框架"
+    },
+    {
+      "id": "ai-20260722-104",
+      "title": "Google地图测试接入Gemini个人智能框架，联通Gmail与相册",
+      "summary": "据代码分析，Google正测试将基于Gemini的\"个人智能\"框架接入Google地图v26.30.00版本，新增对话式功能Ask Maps，可从Gmail、Workspace提取行程信息，并结合Photos地理标记照片给出目的地推荐。",
+      "publishedAt": "2026-07-22T10:59:48+08:00",
+      "source": "AIBase",
+      "url": "https://news.aibase.com/zh/news/29787",
+      "subCategory": "AI应用"
+    },
+    {
+      "id": "ai-20260722-103",
+      "title": "思科开源代码安全掃描模型Antares，助企业识别代码漏洞",
+      "summary": "思科开源代码安全掃描模型家族Antares，已发布350M和1B两个版本，可在15分钟内完成500个代码库掃描，成本低于1美元，支持企业本地部署以避免源代码外泄，更强的3B版本暂未开源，将整合进思科自有安全产品。",
+      "publishedAt": "2026-07-22T10:39:37+08:00",
+      "source": "AIBase",
+      "url": "https://news.aibase.com/zh/news/29786",
+      "subCategory": "开源模型"
+    },
+    {
+      "id": "ai-20260722-102",
+      "title": "OpenAI正式在ChatGPT中上线广告服务，Best Buy等率先试水",
+      "summary": "OpenAI宣布在ChatGPT中正式上线广告服务，Best Buy、Lowe's、VistaPrint为早期试点广告主。广告基于对话上下文而非关键词匹配投放，分创建广告、上传素材、效果衡量三步骤，并标注广告身份、提供用户数据控制选项。",
+      "publishedAt": "2026-07-22T10:12:34+08:00",
+      "source": "AIBase",
+      "url": "https://news.aibase.com/zh/news/29785",
+      "subCategory": "AI应用"
+    },
     {
       "id": "ai-20260722-025",
       "title": "小红书大模型dots-note-3.0在IMO竞赛中取得满分金牌，为中国模型首例",
@@ -34,7 +133,7 @@
     },
     {
       "id": "ai-20260722-011",
-      "title": "月之暗面拟8月开启IPO前最后一轮融资 投前估值瞄准500亿美元",
+      "title": "月之暗面拟8月开启IPO前最后一轮融资 投前估值瞬准500亿美元",
       "summary": "月之暗面计划近期完成新一轮投前估值315亿美元的融资，随后于8月启动上市前最后一轮股权融资，目标估值500亿美元，较此前上涨约60%，并计划半年内完成港股IPO。",
       "publishedAt": "2026-07-22T08:24:33+08:00",
       "source": "ITBear",
@@ -43,7 +142,7 @@
     },
     {
       "id": "ai-20260722-012",
-      "title": "Kimi K3引关注，回应马斯克喊话：期待Grok 4.5来较量，共促行业进步",
+      "title": "Kimi K3引关注，回应马斯克喇话：期待Grok 4.5来较量，共促行业进步",
       "summary": "月之暗面280亿参数开源模型Kimi K3引发马斯克公开称赞，官方回应期待与Grok 4.5展开技术较量，并强调SOTA级技术需匹配相应商业价值，拒绝低价策略。",
       "publishedAt": "2026-07-22T08:17:16+08:00",
       "source": "ITBear",
@@ -53,7 +152,7 @@
     {
       "id": "ai-20260722-013",
       "title": "Gemini 3.6 Flash发布：官方力推\"高效省本\"，网友却直呼\"不争气\"",
-      "summary": "谷歌发布Gemini 3.6 Flash、3.5 Flash-Lite及3.5 Flash Cyber三款新模型，官方主打高效低成本，但用户反馈相较前代提升有限且弱于竞品，旗舰3.5 Pro仍未发布。",
+      "summary": "谷歌发布Gemini 3.6 Flash、3.5 Flash-Lite及3.5 Flash Cyber三款新模型，官方主打高效低成本，但用户反馈相较前代提升有限且弱于竞品，旗舰印3.5 Pro仍未发布。",
       "publishedAt": "2026-07-22T08:07:32+08:00",
       "source": "ITBear",
       "url": "https://www.itbear.com.cn/html/2026-07/1457740.html",
@@ -66,6 +165,42 @@
       "publishedAt": "2026-07-22T08:00:45+08:00",
       "source": "ITBear",
       "url": "https://www.itbear.com.cn/html/2026-07/1457728.html",
+      "subCategory": "大模型"
+    },
+    {
+      "id": "ai-20260722-020",
+      "title": "AI平台可预测制备最佳量子点薄膜的溶剂组合",
+      "summary": "首尔大学研究人员开发出AI平台，可反向设计量子点薄膜制备条件并预测最佳溶剂组合，应用于QLED器件后使效率提升约一倍，使用寿命延长超40倍。",
+      "publishedAt": "2026-07-22T07:50:00+08:00",
+      "source": "36氪",
+      "url": "https://36kr.com/newsflashes/3906040663020930",
+      "subCategory": "论文进展"
+    },
+    {
+      "id": "ai-20260722-019",
+      "title": "OpenAI：ChatGPT Work和GPT-5.6今日起面向小型企业开放",
+      "summary": "OpenAI宣布推出面向小型企业的ChatGPT服务，ChatGPT Work与GPT-5.6两款产品于当日起正式向小型企业开放使用，扩大商业化服务覆盖范围。",
+      "publishedAt": "2026-07-22T07:46:00+08:00",
+      "source": "36氪",
+      "url": "https://36kr.com/newsflashes/3906028912776583",
+      "subCategory": "AI应用"
+    },
+    {
+      "id": "ai-20260722-015",
+      "title": "Kimi回应质疑：非蒸馏美国模型，国产AI不应低价",
+      "summary": "针对K3模型被指蒸馏自GPT、Opus等美国模型及定价过高的质疑，月之暗面业务负责人回应称K3性能突破源于底层架构原创创新，并强调开源与国产模型不应被贴上低价标签。",
+      "publishedAt": "2026-07-22T05:46:39+08:00",
+      "source": "ITBear",
+      "url": "https://www.itbear.com.cn/html/2026-07/1457663.html",
+      "subCategory": "开源模型"
+    },
+    {
+      "id": "ai-20260722-016",
+      "title": "阿里千问Qwen3.8-Max-Preview最新版本已上线",
+      "summary": "阿里千问宣布Qwen3.8-Max-Preview完成更新，重点提升前端Web开发能力，模型参数达2.4万亿，官方称其为除Fable 5外最强模型之一，已开放Token Plan、Qoder等平台测试。",
+      "publishedAt": "2026-07-22T05:46:17+08:00",
+      "source": "ITBear",
+      "url": "https://www.itbear.com.cn/html/2026-07/1457661.html",
       "subCategory": "大模型"
     },
     {
@@ -89,7 +224,7 @@
     {
       "id": "ai-20260722-023",
       "title": "智能眼镜Halliday发布第二代产品G2，取消摄像头主打实时会议辅助",
-      "summary": "Halliday发布第二代AI眼镜G2，售价599美元，预计9月发货，主打会议中的实时字幕、45种以上语言翻译及自动生成结构化记录，出于隐私考虑取消了摄像头。",
+      "summary": "Halliday发布第二代AI眼镜G2，售价599美元，预计9月发货，主打会议中的实时字幕45种以上语言翻译及自动生成结构化记录，出于隐私考虑取消了摄像头。",
       "publishedAt": "2026-07-22",
       "source": "AIBase",
       "url": "https://news.aibase.com/news/29780",
@@ -150,42 +285,6 @@
       "subCategory": "AI音频"
     },
     {
-      "id": "ai-20260722-020",
-      "title": "AI平台可预测制备最佳量子点薄膜的溶剂组合",
-      "summary": "首尔大学研究人员开发出AI平台，可反向设计量子点薄膜制备条件并预测最佳溶剂组合，应用于QLED器件后使效率提升约一倍，使用寿命延长超过40倍。",
-      "publishedAt": "2026-07-22T07:50:00+08:00",
-      "source": "36氪",
-      "url": "https://36kr.com/newsflashes/3906040663020930",
-      "subCategory": "论文进展"
-    },
-    {
-      "id": "ai-20260722-019",
-      "title": "OpenAI：ChatGPT Work和GPT-5.6今日起面向小型企业开放",
-      "summary": "OpenAI宣布推出面向小型企业的ChatGPT服务，ChatGPT Work与GPT-5.6两款产品于当日起正式向小型企业开放使用，扩大商业化服务覆盖范围。",
-      "publishedAt": "2026-07-22T07:46:00+08:00",
-      "source": "36氪",
-      "url": "https://36kr.com/newsflashes/3906028912776583",
-      "subCategory": "AI应用"
-    },
-    {
-      "id": "ai-20260722-015",
-      "title": "Kimi回应质疑：非蒸馏美国模型，国产AI不应低价",
-      "summary": "针对K3模型被指蒸馏自GPT、Opus等美国模型及定价过高的质疑，月之暗面业务负责人回应称K3性能突破源于底层架构原创创新，并强调开源与国产模型不应被贴上低价标签。",
-      "publishedAt": "2026-07-22T05:46:39+08:00",
-      "source": "ITBear",
-      "url": "https://www.itbear.com.cn/html/2026-07/1457663.html",
-      "subCategory": "开源模型"
-    },
-    {
-      "id": "ai-20260722-016",
-      "title": "阿里千问Qwen3.8-Max-Preview最新版本已上线",
-      "summary": "阿里千问宣布Qwen3.8-Max-Preview完成更新，重点提升前端Web开发能力，模型参数达2.4万亿，官方称其为除Fable 5外最强模型之一，已开放Token Plan、Qoder等平台测试。",
-      "publishedAt": "2026-07-22T05:46:17+08:00",
-      "source": "ITBear",
-      "url": "https://www.itbear.com.cn/html/2026-07/1457661.html",
-      "subCategory": "大模型"
-    },
-    {
       "id": "ai-20260722-001",
       "title": "宇树科技发布UnifoLM-OminiA-0.3，实现人形机器人多任务自主执行",
       "summary": "宇树科技发布多模态模型UnifoLM-OminiA-0.3，使人形机器人G1具备环境感知、任务理解与自主执行能力，支持语音指令和视觉识别完成复杂居家与照护类操作。",
@@ -205,7 +304,7 @@
     },
     {
       "id": "ai-20260722-002",
-      "title": "打破专用模型桎梏！谷歌 DeepMind 发布 GenCeption，一个 AI 搞定五大视觉任务",
+      "title": "打破专用模型桂梗！谷歌 DeepMind 发布 GenCeption，一个 AI 搞定五大视觉任务",
       "summary": "谷歌DeepMind推出统一视觉模型GenCeption，仅用7500个Blender合成视频训练，即可完成深度估计、图像分割、3D姿态估计等五项核心视觉任务，并可泛化至多人、动物与机器人场景。",
       "publishedAt": "2026-07-21T17:38:00+08:00",
       "source": "AIBase",
@@ -223,7 +322,7 @@
     },
     {
       "id": "ai-20260722-008",
-      "title": "WAIC成果｜智爱赛思全面升级并发布科研专属Token Plan",
+      "title": "WAIC成果｜智爱赛思全面升级并发布科研专属 Token Plan",
       "summary": "上海仪电旗下AI4S科研社区升级更名为智爱赛思社区，并推出面向科研场景的科研专属Token Plan，提供分级套餐、专属AI模型及科研工具与算力资源支持。",
       "publishedAt": "2026-07-21T17:21:55+08:00",
       "source": "量子位",
@@ -233,7 +332,7 @@
     {
       "id": "ai-20260722-003",
       "title": "消息称智元机器人据悉冲刺IPO，目标估值200亿美元",
-      "summary": "消息称智元机器人正推进IPO，目标估值约200亿美元，中信证券担任保荐机构，预计2026全年营收40亿元，公司在WAIC上发布五款新品并展示具身智能基础模型。",
+      "summary": "消息称智元机器人正推进IPO，目标估值约200亿美元，中信证券担任保荐机构，预计2026全年营敁40亿元，公司在WAIC上发布五款新品并展示具身智能基础模型。",
       "publishedAt": "2026-07-21T17:18:00+08:00",
       "source": "AIBase",
       "url": "https://news.aibase.com/zh/news/29764",
@@ -314,7 +413,7 @@
     {
       "id": "ai-20260721-005",
       "title": "Kimi K3登顶Arena前端开发榜，综合排名首入全球前十",
-      "summary": "据Arena最新一期（7月13日至19日）榜单，月之暗面Kimi K3综合排名首次跻身全球前十（第9，1486分），并以1679分登顶前端开发榜，领先第二名Claude Fable 5达48分，智谱GLM-5.2排名第四。",
+      "summary": "据Arena最新一期（7月13日至19日）榜单，月之暗面Kimi K3综合排名首次趻身全球前十（第9，1486分），并以1679分登顶前端开发榜，领先第二名Claude Fable 5达48分，智谱GLM-5.2排名第四。",
       "publishedAt": "2026-07-21T15:43:35+08:00",
       "source": "ITBear",
       "url": "https://www.itbear.com.cn/html/2026-07/1456284.html",
@@ -359,7 +458,7 @@
     {
       "id": "ai-20260721-010",
       "title": "《第九区》导演发布首部AI短片，字节Seedance 2.0助力制作",
-      "summary": "《第九区》导演尼尔·布洛姆坎普发布首部AI短片《阴兵》，时长约13分钟，全片使用字节跳动Seedance 2.0视频生成模型制作，共32位演员进行形象与声音授权，导演计划以同方式制作长片并已成立新AI影视工作室。",
+      "summary": "《第九区》导演尼尔·布洛姆坦坡发布首部AI短片《阴兵》，时长约13分钟，全片使用字节跳动Seedance 2.0视频生成模型制作，兲32位演员进行形象与声音授权，导演计划以同方式制作长片并已成立新AI影视工作室。",
       "publishedAt": "2026-07-21T15:12:00+08:00",
       "source": "AIBase",
       "url": "https://news.aibase.com/zh/news/29752",
@@ -385,8 +484,8 @@
     },
     {
       "id": "ai-20260721-013",
-      "title": "逐际动力张巍：人形机器人大脑已到GPT-3阶段，行业处指数拐点",
-      "summary": "在2026世界人工智能大会上，逐际动力创始人张巍表示人形机器人零部件仅为汽车十分之一，制造并非瓶颈，真正瓶颈在于基于真实物理数据训练的具身AI，目前机器人大脑智能水平已达GPT-3阶段，行业正处指数增长拐点。",
+      "title": "逐际动力张巫：人形机器人大脑已到GPT-3阶段，行业处指数拐点",
+      "summary": "在26世界人工智能大会上，逐际动力创始人张巫表示人形机器人零部件仅为汽车十分之一，制造并非瓶颈，真正瓶颈在于基于真实物理数据训练的具身智AI，目前机器人大脑智能水平已达GPT-3阶段，行业正处指数增长拐点。",
       "publishedAt": "2026-07-21T14:25:00+08:00",
       "source": "AIBase",
       "url": "https://news.aibase.com/zh/news/29749",
@@ -457,16 +556,16 @@
     },
     {
       "id": "ai-20260722-031",
-      "title": "日经调查：五大科技巨头“隐性债务”四年增至8倍，达1.65万亿美元",
-      "summary": "日经研究显示，美国主要科技公司围绕数据中心租赁与GPU供应协议形成的表外“隐性债务”四年增长约八倍，合计达1.65万亿美元，其中Meta一家隐性债务约4200亿美元，接近其账面债务的三倍。",
+      "title": "日经调查：五大科技巨头\"隐性债务\"四年增至8倍，达1.65万亿美元",
+      "summary": "日经研究显示，美国主要科技公司围绕数据中心租赁与GPU供应协议形成的表外\"隐性债务\"四年增长约八倍，合计达1.65万亿美元，其中Meta一家隐性债务约4200亿美元，接近其账面债务的三倍。",
       "publishedAt": "2026-07-21",
       "source": "AIBase",
       "url": "https://news.aibase.com/news/29767",
       "subCategory": "AI应用"
     },
     {
-      "title": "打砇15秒魔咒：智象未来发布全球首个无限时长内容创作智能体vivago R1，商业可用率拉到85%",
-      "summary": "智象未来在WAIC 2026发布vivago R1，打破行业15到30秒的视频时长限制，可连续生成短剧、宣传片等任意时长内容，依托自研HD-AgentOS多智能体系统实现85%内容可用率。",
+      "title": "打矇15秒魔咒：智象未来发布全球首个无限时长内容创作智能体vivago R1，商业可用率拉到85%",
+      "summary": "智象未来在WAIC 2026发布vivago R1，打破行业15到30秒时长限制，可连续生成短剧、宣传片等任意时长内容，依托自研HD-AgentOS多智能体系统实现85%内容可用率。",
       "publishedAt": "2026-07-20T21:04:06+08:00",
       "source": "ITBEAR科技资讯",
       "url": "https://www.itbear.com.cn/html/2026-07/1455005.html",
@@ -566,7 +665,7 @@
     {
       "id": "ai-20260720-004",
       "title": "WAIC 2026｜智象未来发布全球首个无限时长内容创作智能体——vivago R1",
-      "summary": "智象未来在WAIC 2026发布内容创作智能体vivago R1，称其为全球首个无限时长创作智能体，可突破常覓15-30秒时长限制，通过多智能体协同完成从剧本理解到成片输出全流程，内容可用率达85%，同时公布\"具身智能创新联盟\"等合作计划。",
+      "summary": "智象未来在WAIC 2026发布内容创作智能体vivago R1，称其为全球首个无限时长创作智能体，可突破常视15-30秒时长限制，通过多智能体协同完成从剧本理解到成片输出全流程，内容可用率达85%，同时公布\"具身智能创新联盟\"等合作计划。",
       "publishedAt": "2026-07-20T13:43:42+08:00",
       "source": "量子位",
       "url": "https://www.qbitai.com/2026/07/455434.html",
@@ -584,7 +683,7 @@
     {
       "id": "ai-20260720-002",
       "title": "刚刚，机器人顶会RSS三项最佳论文出炉！708篇送审，仅8篇杀入决赛",
-      "summary": "机器人顶会RSS 2026公布三项最佳论文：Best Paper为FlashSAC，Best Student Paper为Muninn（轨迹扩散模型缓存机制，提速最预4.6倍），Best Systems Paper为NeuralActuator（低成本机械臂力觉感知）。大会共收到708篇投稿，接受率29.7%，清华AIR、银河通用等机构论文入围决赛名单。",
+      "summary": "机器人顶会RSS 2026公布三项最佳论文：Best Paper为FlashSAC，Best Student Paper为Muninn（轨迹扩散模型缓存机制，提速最颔4.6倍），Best Systems Paper为NeuralActuator（低成本机械臂力觉感知）。大会共收到708篇投稿，接受率29.7%，清华AIR、银河通用等机构论文入围决赛名单。",
       "publishedAt": "2026-07-20T12:55:00+08:00",
       "source": "量子位",
       "url": "https://www.qbitai.com/2026/07/455277.html",
@@ -610,7 +709,7 @@
     },
     {
       "id": "ai-20260720-006",
-      "title": "Kimi K3上线48小时：模型爆火，GPU爆肝，会员停售",
+      "title": "Kimi K3上线48小时：模型爆火，GPU爆胝，会员做售",
       "summary": "Kimi K3上线48小时内涌入大量用户测试，GPU算力逼近上限，月之暗面宣布暂停新会员销售以保障现有用户使用，并调整会员体系将标准版访问与高强度编程功能解耦。文章披露K3发布后公司日销售额较此前增长约6倍。",
       "publishedAt": "2026-07-20T11:33:24+08:00",
       "source": "量子位",
@@ -618,103 +717,13 @@
       "subCategory": "大模型"
     },
     {
-      "title": "蚂蚁集团、阿里云等正式加入PyTorch基金会，携手全球开源力量推动AI普惠",
-      "summary": "蚂蚁集团、阿里云与Shopify正式成为PyTorch基金会成员，该基金会执行董事称社区已汇聚超2000家机构逾1.2万名贡献者，各方将共同推动AI基础设施开源与普惠应用。",
+      "title": "蟒蚁集团、阿里云等正式加入PyTorch基金会，携手全球开源力量推动AI普惠",
+      "summary": "蟒蚁集团、阿里云与Shopify正式成为PyTorch基金会成员，该基金会执行董事称社区已汇聚超2000家机构逗1.2万名贡献者，各方将共同推动AI基础设施开源与普惠应用。",
       "publishedAt": "2026-07-20T11:05:43+08:00",
       "source": "量子位",
       "url": "https://www.qbitai.com/2026/07/455130.html",
       "subCategory": "开源模型",
       "id": "ai-20260720-021"
-    },
-    {
-      "id": "ai-20260720-009",
-      "title": "88 million dollars with open source: Ollama enters 85% of the Fortune 500",
-      "summary": "本地大模型运行工具Ollama宣布获得由Benchmark、Theory Ventures和8VC领投的8800万美元融资，Docker创始人 Solomon Hykes等担任天使投资人。公司称产品已被85%的财富500强企业使用、覆盖890万开发者，计划投入混合推理能力建设与新模型快速支持。",
-      "publishedAt": "2026-07-20",
-      "source": "AIbase",
-      "url": "https://www.aibase.com/news/29718",
-      "subCategory": "推理框架"
-    },
-    {
-      "id": "ai-20260720-011",
-      "title": "Tencent WorkBuddy's Monthly Visits Exceed 20 Million in June, Leading the AI Office Intelligent Agent Market",
-      "summary": "《2026年二季度中国办公智能体平台市场洞察报告》显示，腾讯 WorkBuddy六月月访问量达2097万，超过第二、三名总和，居PC端AI原生办公智能体市场首位。当月该细分市场整体访问量超6000万，腾讯 CodeBuddy编程智能体也保持行业前列位置。",
-      "publishedAt": "2026-07-20",
-      "source": "AIbase",
-      "url": "https://www.aibase.com/news/29721",
-      "subCategory": "AI应用"
-    },
-    {
-      "id": "ai-20260720-012",
-      "title": "Hugging Face Discloses AI Agent Attack Incident, Uses GLM5.2 for Log Forensic Analysis",
-      "summary": "Hugging Face披露此前遭AI智能体发起攻击事件的处置细节：安全团队最初用某美国商用大模型API分析逸万条攻击日志，因模型无法区分应急人员与攻击者而拒绝配合，后改用本地部署的中国开源模型GLM5.2完成取证分析，凸显本地开源模型在数据安全与任务定制上的优势。",
-      "publishedAt": "2026-07-20",
-      "source": "AIbase",
-      "url": "https://www.aibase.com/news/29719",
-      "subCategory": "开源模型"
-    },
-    {
-      "title": "Apply for Anthropic's AI for Science rare disease research grants",
-      "summary": "Anthropic推出面向罕见病研究的AI for Science专项资助计划，入选者可获最高5万美元Claude额度用于六个月研究，涵盖基础科学合作与早期生物科技药物研发两个方向，申请截止8月2日。",
-      "publishedAt": "2026-07-20",
-      "source": "Anthropic",
-      "url": "https://www.anthropic.com/news/rare-disease-research-grants",
-      "subCategory": "AI应用",
-      "id": "ai-20260720-023"
-    },
-    {
-      "title": "冷门的哲学，成了\"治\"AI的热门",
-      "summary": "WAIC 2026上，多位哲学家、科学家与企业家探讨AI治理议题，认为随着AI具备科研生成论文、社会模拟及参与生产等能力，如何判断AI是否真正理解世界、分配技术收益并适配传统评价体系已成为治理领域新命题。",
-      "publishedAt": "2026-07-19T20:34:01+08:00",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/07/455041.html",
-      "subCategory": "大模型",
-      "id": "ai-20260719-004"
-    },
-    {
-      "title": "2026WAIC｜商汤科技正式发布旗舰级模型SenseNova U1 Pro",
-      "summary": "WAIC 2026上，商汤科技发布旗舰级多模态模型SenseNova U1 Pro，定位为面向长程任务的原生多模态智能体基座，支持8K原生分辨率输出与图文融合创作，预览版已启动邀请测试，正式版计划8月开放并推出商业化定价。",
-      "publishedAt": "2026-07-19T20:06:04+08:00",
-      "source": "北京商报",
-      "url": "https://www.163.com/dy/article/L27OM6OR0519DFFO.html",
-      "subCategory": "多模态",
-      "id": "ai-20260719-012"
-    },
-    {
-      "title": "面壁智能离AGI又近了一步 具身智能开启新篇章",
-      "summary": "面壁智能在WAIC 2026上首次发布并开源具身智能系列模型，包括15亿参数的通用VLA模型MiniCPM-RobotManip及9亿参数的跟踪导航模型MiniCPM-RobotTrack，后者可在Unitree Go2 Edu上实现5帧以上实时本地离线部署。",
-      "publishedAt": "2026-07-19T20:02:39+08:00",
-      "source": "中华网",
-      "url": "https://news.china.com/socialgd/10000169/20260719/49619643.html",
-      "subCategory": "具身智能",
-      "id": "ai-20260719-013"
-    },
-    {
-      "title": "围观WAIC模型「读心术」！现场火火火火火",
-      "summary": "WAIC 2026上，特斯联展示主观世界模型SWM，通过表达、故事、认知、行为四层数据训练模拟消费者决策与心理特征，据称行为模拟准确率达85%，作者认为大语言模型并不适合直接建模人类决策过程。",
-      "publishedAt": "2026-07-19T19:55:52+08:00",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/07/455031.html",
-      "subCategory": "AI应用",
-      "id": "ai-20260719-005"
-    },
-    {
-      "title": "不靠英伟达网卡，国产GPU直通方案实测出炉：吞吐飙升、延迟砍半",
-      "summary": "WAIC 2026上，奇异摩尔携手壁仞科技展示国产GPU直连国产RDMA网卡的IBGDA方案，实测显示小消息带宽提升、All-to-All通信延迟砍半，并发布光互连白皮书，探索光缩放I/O芯粒等下一代互连技术路线。",
-      "publishedAt": "2026-07-19T19:50:28+08:00",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/07/454932.html",
-      "subCategory": "推理框架",
-      "id": "ai-20260719-006"
-    },
-    {
-      "title": "逗了距WAIC，我只想说，AI在物理世界都快卷疯了……",
-      "summary": "WAIC 2026上，京东展示JoyAI模型矩阵，涵盖视觉、语音识别JoyAI-Talker及动作控制JoyAI-RA模型，并披露基于60万人参与、覆盖346项真实任务的具身数据采集体系，同时发布连接多类智能家居设备的JoyInside系统。",
-      "publishedAt": "2026-07-19T19:43:25+08:00",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/07/454802.html",
-      "subCategory": "具身智能",
-      "id": "ai-20260719-007"
     }
   ]
 }
