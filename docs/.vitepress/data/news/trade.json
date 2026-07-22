@@ -3,8 +3,71 @@
   "slug": "trade",
   "title": "外贸资讯",
   "description": "亚马逊、TikTok Shop、阿里国际站、Shopify 等平台政策与跨境电商市场、独立站、物流支付、关税法规、选品趋势。",
-  "updatedAt": "2026-07-22T10:15:00+08:00",
+  "updatedAt": "2026-07-22T16:53:00+08:00",
   "items": [
+    {
+      "id": "trade-20260722-106",
+      "title": "靠小众赛道年入10亿？这个宠物品牌凭什么拿捏全球铲屎官？",
+      "summary": "深圳宠物科技品牌PETLIBRO凭自动喂食器、饮水机等产品年营收超10亿元，累计销量超300万台，在亚马逊多个宠物用品类目位居前列，其增长得益于产品迭代、情感化营销及分层达人矩阵合作。",
+      "publishedAt": "2026-07-22T16:31:46+08:00",
+      "source": "出海网",
+      "url": "https://www.chwang.com/article/207984684935",
+      "subCategory": "选品趋势"
+    },
+    {
+      "id": "trade-20260722-107",
+      "title": "7天狂卖5800单，小众迷你充气泵销量狂飙",
+      "summary": "深圳品牌ETENWOLF推出的迷你充气泵单品7天内售出5800件，累计销量7.18万件，实现约145万美元GMV，产品仅重145克，集充电、照明、充气、抽真空功能于一体，超九成销量来自达人内容带货。",
+      "publishedAt": "2026-07-22T16:14:08+08:00",
+      "source": "出海网",
+      "url": "https://www.chwang.com/article/207984241307",
+      "subCategory": "选品趋势"
+    },
+    {
+      "id": "trade-20260722-105",
+      "title": "【万字新规干货】亚马逊标题75字符完整拆解",
+      "summary": "亚马逊将于7月27日起把除媒体品类外的商品标题字符上限从200字压缩至75字，同时新增或强化要点字段供补充信息，超长标题短期内不会被下架，但系统将逐步以AI建议替换，卖家需优先调整高销量、高广告投入的ASIN。",
+      "publishedAt": "2026-07-22T16:06:18+08:00",
+      "source": "出海网",
+      "url": "https://www.chwang.com/article/207984044288",
+      "subCategory": "平台政策"
+    },
+    {
+      "id": "trade-20260722-104",
+      "title": "一瓶香水卖99美元，年销10亿：会讲故事的独立站是真赚钱",
+      "summary": "美国香水品牌Phlur创立三年年销售额约1.5亿美元，其50毫升香水定价99美元，主打情感故事营销而非成分卖点，独立站直接流量占比15.52%，贡献超五成营收，毛利率超过70%。",
+      "publishedAt": "2026-07-22T15:01:47+08:00",
+      "source": "出海网",
+      "url": "https://www.chwang.com/article/207982420517",
+      "subCategory": "独立站"
+    },
+    {
+      "id": "trade-20260722-103",
+      "title": "伊朗称袭击美国亚马逊公司在巴林的数据基础设施",
+      "summary": "伊朗伊斯兰革命卫队称已用巡航导弹摧毁美国亚马逊在巴林的核心数据基础设施，称其为美军信息交换重要节点。此前3月亚马逊在阿联酋和巴林的数据设施曾遭无人机袭击受损，亚马逊尚未就此事公开回应。",
+      "publishedAt": "2026-07-22T14:37:34+08:00",
+      "source": "出海网",
+      "url": "https://www.chwang.com/news/207981811040",
+      "subCategory": "平台动态"
+    },
+    {
+      "id": "trade-20260722-102",
+      "title": "TikTok Shop全托管美区年中促生意同比增长1.5倍，这些商家为何\"赢麻了\"？",
+      "summary": "TikTok Shop美区年中大促期间，整体大盘同比增长近2倍，其中全托管业务同比增长1.5倍，平台指出内容力与选品质量成为影响商家增长的关键因素，AIGC工具助力商家提升本地化内容产出效率。",
+      "publishedAt": "2026-07-22T11:44:00+08:00",
+      "source": "雨果网",
+      "url": "https://www.cifnews.com/article/187675",
+      "subCategory": "平台动态"
+    },
+    {
+      "id": "trade-20260722-101",
+      "title": "TikTok Shop旺季选品怎么做？有人找到爆品，有人还在找货！",
+      "summary": "TikTok Shop推出以货找市活动，联动多个产业带对接卖家与厂商，重点推荐保健品、香薰及智能照明类目，强调产品需具备内容传播力与稳定供应链，深圳站将于7月28日举办旺季选品对接会。",
+      "publishedAt": "2026-07-22T09:55:00+08:00",
+      "source": "雨果网",
+      "url": "https://www.cifnews.com/article/187673",
+      "subCategory": "选品趋势"
+    },
     {
       "id": "trade-20260722-014",
       "title": "越南税局明确平台数据≠电子发票 中小卖家仍需逐笔开票合规",
@@ -330,33 +393,6 @@
       "subCategory": "物流仓储"
     },
     {
-      "id": "trade-20260721-019",
-      "title": "Ozon家居园艺品类需求激增，树苗销量同比增长8倍",
-      "summary": "Ozon平台家居园艺品类6月至7月中旬同比翻倍增长，树苗销量增长8倍，园艺工具增长7倍，约一半相关订单来自人口5万以下城镇地区，平台反映季节需求与物流基建改善共同驱动。",
-      "publishedAt": "2026-07-21T07:09:00+08:00",
-      "source": "AMZ123跨境导航",
-      "url": "https://www.amz123.com/kx/jQsQA3CQ",
-      "subCategory": "选品趋势"
-    },
-    {
-      "id": "trade-20260721-022",
-      "title": "俄罗斯美妆餐饮跨界营销升温，76%女性消费者愿参与联名",
-      "summary": "Anketolog对1800名俄罗斯女性消费者调查显示，仅12%曾参与美妆餐饮联名活动，但76%表示愿意参与，86%愿为获得美妆赠品购买指定食品，咖啡馆与烘焙店被视为最佳合作场景。",
-      "publishedAt": "2026-07-21T06:49:00+08:00",
-      "source": "AMZ123跨境导航",
-      "url": "https://www.amz123.com/kx/AhECIAvv",
-      "subCategory": "选品趋势"
-    },
-    {
-      "id": "trade-20260721-001",
-      "title": "EU Fines Alibaba's AliExpress €550 Million for Failing to Curb Illegal Goods",
-      "summary": "欧盟委员会以未能有效遏制平台上非法、不安全及假冒商品销售为由，对阿里巴巴旗下AliExpress处以5.5亿欧元罚款，要求其于10月20日前提交整改方案，欧洲数字服务委员会将在一个月内审核合规情况。",
-      "publishedAt": "2026-07-21T04:11:00+08:00",
-      "source": "Caixin Global",
-      "url": "https://www.caixinglobal.com/2026-07-21/eu-fines-alibabas-aliexpress-550-million-for-failing-to-curb-illegal-goods-102466372.html",
-      "subCategory": "平台政策"
-    },
-    {
       "id": "trade-20260720-022",
       "title": "TikTok Shop GMV Max测试销售额暴涨181%，世界杯带飞体育纪念品销量激增136%",
       "summary": "英国卖家15天GMV Max广告测试使店铺销售额从1.59万英镑增至4.46万英镑，增幅181%；今年1至6月体育纪念品销量同比激增136%，签名球衣带动增长，世界杯期间相关内容发布量超1570万条。",
@@ -661,69 +697,6 @@
       "source": "亿邦动力",
       "url": "https://finance.sina.com.cn/tech/roll/2026-07-19/doc-iniikhwy8143596.shtml",
       "subCategory": "物流仓储"
-    },
-    {
-      "id": "trade-20260719-011",
-      "title": "Amazon Haul卖家突破3000家 GMV约为20亿美元",
-      "summary": "据Marketplace Pulse数据，亚马逊低价平台Haul上线以来卖家数突破3287家，年GMV约20亿美元，75%订单从中国直发、11天内送达，规模仍远低于Temu与SHEIN，长期盈利面临补贴退坡等挑战。",
-      "publishedAt": "2026-07-19T22:32:00+08:00",
-      "source": "亿邦动力",
-      "url": "https://finance.sina.com.cn/tech/roll/2026-07-19/doc-iniikaqz0151879.shtml",
-      "subCategory": "平台动态"
-    },
-    {
-      "id": "trade-20260719-009",
-      "title": "亚马逊第三方卖家GMV达5750亿美元 年销额超1亿美元卖家增至235家",
-      "summary": "SmartScout报告显示，亚马逊全球活跃卖家约190万，第三方卖家GMV约5750亿美元，占平台总GMV69%；年销售额超1亿美元的卖家增至235家，四年前约50家，中国卖家贡献三方销售额35.1%。",
-      "publishedAt": "2026-07-19T22:06:00+08:00",
-      "source": "亿邦动力",
-      "url": "https://finance.sina.com.cn/tech/roll/2026-07-19/doc-iniikaqz0144716.shtml",
-      "subCategory": "平台动态"
-    },
-    {
-      "id": "trade-20260719-008",
-      "title": "亚马逊开始限制第三方比价网站展示历史价格数据",
-      "summary": "亚马逊要求联盟合作的第三方比价网站不得在价格追踪图表或提醒功能中展示其历史价格数据，同时上线Alexa购物助手官方历史价格查询功能，覆盖美国、英国、印度等市场，用户每月可免费查询三次。",
-      "publishedAt": "2026-07-19T21:59:00+08:00",
-      "source": "亿邦动力",
-      "url": "https://finance.sina.com.cn/tech/roll/2026-07-19/doc-iniikare5015962.shtml",
-      "subCategory": "平台政策"
-    },
-    {
-      "id": "trade-20260719-007",
-      "title": "顶流IP出手\"封杀\"，AI创作也会侵权",
-      "summary": "迪士尼等版权方近期在美国联邦法院起诉多名跨境卖家，涉及亚马逊、沃尔玛、Temu、eBay等平台数百家店铺，法院明确未经授权的AI生成角色图像也可能构成侵权，卖家面临账号冻结与高额赔偿风险。",
-      "publishedAt": "2026-07-19T17:28:00+08:00",
-      "source": "雨果网",
-      "url": "https://www.cifnews.com/article/187621",
-      "subCategory": "平台动态"
-    },
-    {
-      "id": "trade-20260719-006",
-      "title": "华人跨境大卖海外\"逃税\"被抓，营业额超10亿欧元",
-      "summary": "意大利检方以故意破产等罪名起诉一名华人跨境卖家，其通过频繁注销重开公司逃避增值税与公司税，涉案营业额超10亿欧元，造成约500万欧元债务无法追缴，案件将于9月在蒙扎法院简易审理。",
-      "publishedAt": "2026-07-19T17:24:00+08:00",
-      "source": "雨果网",
-      "url": "https://www.cifnews.com/article/187620",
-      "subCategory": "关税法规"
-    },
-    {
-      "id": "trade-20260718-021",
-      "title": "跨境隐性税务雷区随时\"引爆\"，旧财税玩法已无路可走？",
-      "summary": "亚马逊、速卖通等平台已按季度向税务部门报送经营数据，新规要求物流、报关、外汇及退税信息全面核验一致，依赖信息不对称的传统避税方式面临合规风险，行业加速转向合规出口与规范申报。",
-      "publishedAt": "2026-07-18",
-      "source": "雨果网",
-      "url": "https://www.cifnews.com/article/187613",
-      "subCategory": "关税法规"
-    },
-    {
-      "id": "trade-20260718-022",
-      "title": "30天爆卖近万件！7月这些产品突然大爆单",
-      "summary": "全球持续高温推动防晒降温类目热卖，防晒服、车用遮阳挡、户外遮阳伞及保温背包等产品在亚马逊、TikTok Shop、Shopee、Lazada等平台销量迅速攀升，部分单品30天内售出近万件。",
-      "publishedAt": "2026-07-18T17:51:00+08:00",
-      "source": "雨果网",
-      "url": "https://www.cifnews.com/article/187619",
-      "subCategory": "选品趋势"
     }
   ]
 }
