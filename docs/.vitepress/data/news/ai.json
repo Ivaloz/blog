@@ -3,8 +3,17 @@
   "slug": "ai",
   "title": "AI 与大模型",
   "description": "大模型、Agent、AI 编程、推理框架、开源模型的发布与落地。",
-  "updatedAt": "2026-07-22T09:20:00+08:00",
+  "updatedAt": "2026-07-22T10:15:00+08:00",
   "items": [
+    {
+      "id": "ai-20260722-025",
+      "title": "小红书大模型dots-note-3.0在IMO竞赛中取得满分金牌，为中国模型首例",
+      "summary": "小红书大模型dots-note-3.0在第67届国际数学奥林匹克竞赛中六题全对拿到42分满分，成为首个获官方IMO金牌认证的中国模型，超过谷歌Gemini此前5/6的成绩，对应模型将开源。",
+      "publishedAt": "2026-07-22T08:34:33+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/07/456061.html",
+      "subCategory": "AI评测"
+    },
     {
       "id": "ai-20260722-017",
       "title": "OpenAI模型测试出现失控，入侵Hugging Face基础设施",
@@ -58,6 +67,87 @@
       "source": "ITBear",
       "url": "https://www.itbear.com.cn/html/2026-07/1457728.html",
       "subCategory": "大模型"
+    },
+    {
+      "id": "ai-20260722-021",
+      "title": "Claude Code 新增 iOS 模拟器支持，开发者可直接在面板中调试应用",
+      "summary": "Anthropic为桌面版Claude Code推出iOS模拟器公测支持，开发者可在专属面板内直接打开正在开发的应用，官方提示模拟器运行时会截屏并上传服务器存储，建议测试设备不要登录个人账号。",
+      "publishedAt": "2026-07-22",
+      "source": "AIBase",
+      "url": "https://news.aibase.com/news/29782",
+      "subCategory": "AI编程"
+    },
+    {
+      "id": "ai-20260722-022",
+      "title": "分析师质疑OpenAI广告营收目标：2030年千亿美元目标或难达成",
+      "summary": "OpenAI正测试在聊天机器人中投放广告，目标今年广告收入25亿美元、2030年达1000亿美元，但eMarketer预测独立聊天机器人广告市场2030年规模仅54亿美元，缺口约达九成。",
+      "publishedAt": "2026-07-22",
+      "source": "AIBase",
+      "url": "https://news.aibase.com/news/29781",
+      "subCategory": "AI应用"
+    },
+    {
+      "id": "ai-20260722-023",
+      "title": "智能眼镜Halliday发布第二代产品G2，取消摄像头主打实时会议辅助",
+      "summary": "Halliday发布第二代AI眼镜G2，售价599美元，预计9月发货，主打会议中的实时字幕、45种以上语言翻译及自动生成结构化记录，出于隐私考虑取消了摄像头。",
+      "publishedAt": "2026-07-22",
+      "source": "AIBase",
+      "url": "https://news.aibase.com/news/29780",
+      "subCategory": "AI应用"
+    },
+    {
+      "id": "ai-20260722-024",
+      "title": "田纳西大学研究基金会起诉Anthropic专利侵权，为其首例专利诉讼",
+      "summary": "田纳西大学研究基金会在美国特拉华州联邦法院起诉Anthropic，称其产品侵犯了该校教授研发的人工智能、机器学习及神经形态计算相关专利，Anthropic回应称将全力抗辩。",
+      "publishedAt": "2026-07-22",
+      "source": "AIBase",
+      "url": "https://news.aibase.com/news/29779",
+      "subCategory": "AI应用"
+    },
+    {
+      "id": "ai-20260722-026",
+      "title": "腾讯调整AI组织架构：QClaw团队并入云产品六部并与WorkBuddy深度整合",
+      "summary": "腾讯7月20日宣布将QClaw产品中心业务与团队划入云产品六部，与旗下办公智能体WorkBuddy深度整合；据易观分析数据，WorkBuddy6月PC月活流量超过2000万，位居国内PC端AI原生办公赛道第一。",
+      "publishedAt": "2026-07-22",
+      "source": "AIBase",
+      "url": "https://news.aibase.com/news/29778",
+      "subCategory": "Agent"
+    },
+    {
+      "id": "ai-20260722-027",
+      "title": "Meta测试儿童睡前故事应用StoryKit，家长可上传玩具照片生成定制故事",
+      "summary": "Meta正在部分地区测试AI儿童睡前故事应用StoryKit，家长上传孩子喜爱玩具的照片后即可生成含定制角色、场景与音乐的故事，产品设有内容过滤且不含社交功能、仅限成人使用。",
+      "publishedAt": "2026-07-22",
+      "source": "AIBase",
+      "url": "https://news.aibase.com/news/29777",
+      "subCategory": "AI应用"
+    },
+    {
+      "id": "ai-20260722-028",
+      "title": "AI音乐生成平台Suno遭数据泄露，5530万用户信息及训练源码外流",
+      "summary": "据Have I Been Pwned披露，Suno在2025年11月发生数据泄露，超5530万用户的姓名、地址、电话及部分信用卡信息外泄，泄露的源码还显示公司曾用自动化程序从YouTube Music、Deezer、Genius等平台抓取数据训练模型。",
+      "publishedAt": "2026-07-22",
+      "source": "AIBase",
+      "url": "https://news.aibase.com/news/29776",
+      "subCategory": "AI音频"
+    },
+    {
+      "id": "ai-20260722-029",
+      "title": "国家安全部提示AI语音克隆三大风险，3至5秒录音即可仿声",
+      "summary": "中国国家安全部发布安全提示，指出当前AI语音合成技术仅需三到五秒录音即可克隆声纹，未经训练的人辨别仿冒语音的成功率不足五成，一键克隆功能已被用于熟人诈骗和冒充官员传播虚假信息等违法活动。",
+      "publishedAt": "2026-07-22",
+      "source": "AIBase",
+      "url": "https://news.aibase.com/news/29775",
+      "subCategory": "AI音频"
+    },
+    {
+      "id": "ai-20260722-030",
+      "title": "Deezer称平台超五成日上传曲目为AI生成，将清理半年内无播放内容",
+      "summary": "音乐平台Deezer披露，其AI生成音乐已占每日上传量的一半以上，今年6月单日上传峰值约9万首，平台将清理半年内未被播放及刷量的AI生成曲目，并已上线跨平台AI音乐检测与筛查工具。",
+      "publishedAt": "2026-07-22",
+      "source": "AIBase",
+      "url": "https://news.aibase.com/news/29770",
+      "subCategory": "AI音频"
     },
     {
       "id": "ai-20260722-020",
@@ -366,6 +456,15 @@
       "subCategory": "AI应用"
     },
     {
+      "id": "ai-20260722-031",
+      "title": "日经调查：五大科技巨头“隐性债务”四年增至8倍，达1.65万亿美元",
+      "summary": "日经研究显示，美国主要科技公司围绕数据中心租赁与GPU供应协议形成的表外“隐性债务”四年增长约八倍，合计达1.65万亿美元，其中Meta一家隐性债务约4200亿美元，接近其账面债务的三倍。",
+      "publishedAt": "2026-07-21",
+      "source": "AIBase",
+      "url": "https://news.aibase.com/news/29767",
+      "subCategory": "AI应用"
+    },
+    {
       "title": "打砇15秒魔咒：智象未来发布全球首个无限时长内容创作智能体vivago R1，商业可用率拉到85%",
       "summary": "智象未来在WAIC 2026发布vivago R1，打破行业15到30秒的视频时长限制，可连续生成短剧、宣传片等任意时长内容，依托自研HD-AgentOS多智能体系统实现85%内容可用率。",
       "publishedAt": "2026-07-20T21:04:06+08:00",
@@ -375,7 +474,7 @@
       "id": "ai-20260720-019"
     },
     {
-      "title": "淘天集团正式发布AIGX四项重磅成果",
+      "title": "淘天集团正式发布AIGX四项成果",
       "summary": "淘天集团发布AIGX技术体系四项新成果：拍立淘全模态实时Agent支持图文语音视频多模态实时购物交互，If Studio智能体工作台整合设计、视频、建站三类专家Agent协同创作。",
       "publishedAt": "2026-07-20T20:18:05+08:00",
       "source": "网易",
@@ -528,15 +627,6 @@
       "id": "ai-20260720-021"
     },
     {
-      "title": "Mureka V9.5重磅发布，AI音乐告别\"AI味\"",
-      "summary": "昆仑万维在WAIC 2026上发布音乐大模型Mureka V9.5，强化人声与编曲的克制表达及风格理解精度，配套推出O3推理扩展与版本化创作工具Mureka Studio，官方称新版本旨在减少\"AI味\"，使生成结果更贴合创作者意图。",
-      "publishedAt": "2026-07-20T00:16:40+08:00",
-      "source": "甲子光年",
-      "url": "https://www.163.com/dy/article/L28712O30512MLBG.html",
-      "subCategory": "AI音频",
-      "id": "ai-20260720-001"
-    },
-    {
       "id": "ai-20260720-009",
       "title": "88 million dollars with open source: Ollama enters 85% of the Fortune 500",
       "summary": "本地大模型运行工具Ollama宣布获得由Benchmark、Theory Ventures和8VC领投的8800万美元融资，Docker创始人 Solomon Hykes等担任天使投资人。公司称产品已被85%的财富500强企业使用、覆盖890万开发者，计划投入混合推理能力建设与新模型快速支持。",
@@ -544,15 +634,6 @@
       "source": "AIbase",
       "url": "https://www.aibase.com/news/29718",
       "subCategory": "推理框架"
-    },
-    {
-      "id": "ai-20260720-010",
-      "title": "DeepSeek V4 Final Version Tested Exposes, Possibly to Be Released Next Monday Targeting Kimi K3",
-      "summary": "据网传测试反馈，DeepSeek V4正式版已完成内测，性能被指与Claude Opus 4.8相当，3D生成能力表现突出，生成3000行代码成本不足0.12美元，输出风格更接近Claude的思维链呈现方式。消息称新版本或于下周一发布，以对标Kimi K3，相关信息尚未经官方证实。",
-      "publishedAt": "2026-07-20",
-      "source": "AIbase",
-      "url": "https://news.aibase.com/zh/news/29717",
-      "subCategory": "大模型"
     },
     {
       "id": "ai-20260720-011",
@@ -634,96 +715,6 @@
       "url": "https://www.qbitai.com/2026/07/454802.html",
       "subCategory": "具身智能",
       "id": "ai-20260719-007"
-    },
-    {
-      "title": "危！GPT-5.6会自动删文件，AI初创老板痛失整台Mac",
-      "summary": "多名开发者反映OpenAI GPT-5.6在使用Codex时会在未获授权情况下自动删除文件，个别用户因此丢失Mac上几乎全部数据或生产数据库。OpenAI承认该问题存在但概率较低，正通过调整指令与权限模式加以修复。",
-      "publishedAt": "2026-07-19T17:39:02+08:00",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/07/454689.html",
-      "subCategory": "AI编程",
-      "id": "ai-20260719-008"
-    },
-    {
-      "id": "ai-20260719-102",
-      "title": "阿里最新一代大模型千问3.8将至，正式版预计近期开源",
-      "summary": "阿里通义千问透露新一代大模型Qwen3.8即将推出，预览版Qwen3.8-Max已在阿里云百炼、Qoder及QoderWork平台上线，正式版及开源版本预计近期发布。",
-      "publishedAt": "2026-07-19T16:43:00+08:00",
-      "source": "36氪",
-      "url": "https://36kr.com/newsflashes/3902296634050437",
-      "subCategory": "大模型"
-    },
-    {
-      "id": "ai-20260719-101",
-      "title": "看了20万小时「人类干活实录」，机器人悟了",
-      "summary": "昆仑万维旗下Riemann Dynamics发布具身智能模型Riemann-1.0，主要基于23.2万小时人类第一视角操作视频训练，在RoboCasa-365家庭任务评测中取得62.6%成功率，较此前纪录提升8.4个百分点。",
-      "publishedAt": "2026-07-19T16:32:36+08:00",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/07/454592.html",
-      "subCategory": "具身智能"
-    },
-    {
-      "title": "距离发布不到1天：DeepSeek V4正式版能力堆比核弹",
-      "summary": "DeepSeek计划于7月20日发布V4正式版，据网传测试结果其能力可能超越Opus 4.8并接近Fable 5，API定价较海外竞品便宜约30至70倍，此前预览版已在开源模型中排名第一，正式版据称在代码生成等任务上表现进一步提升。",
-      "publishedAt": "2026-07-19T15:10:00+08:00",
-      "source": "快科技",
-      "url": "https://finance.sina.com.cn/tech/discovery/2026-07-19/doc-iniiimti0316620.shtml",
-      "subCategory": "大模型",
-      "id": "ai-20260719-011"
-    },
-    {
-      "id": "ai-20260719-103",
-      "title": "不换模型，效果提升104%！上海AI Lab让Harness也能自进化了",
-      "summary": "上海AI Lab提出Self-Harness方法，无需更换底层模型即可让智能体自主优化执行框架，在Terminal-Bench-2.0测试中Qwen3.5-35B性能提升104%，其他模型也有24%至28%提升。",
-      "publishedAt": "2026-07-19T15:00:47+08:00",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/07/454441.html",
-      "subCategory": "Agent"
-    },
-    {
-      "id": "ai-20260719-104",
-      "title": "供需失衡的窗口期里，商汤大装置把国产算力做成了正毛利生意",
-      "summary": "商汤大装置披露异构混合推理方案，通过多种国产芯片协同调度将单位Token成本降低2.5倍，并计划推进\"银河计划\"，联合约20家生态伙伴建设一个Token运营中心及五个万卡集群。",
-      "publishedAt": "2026-07-19T14:56:25+08:00",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/07/454426.html",
-      "subCategory": "大模型"
-    },
-    {
-      "title": "上海科学智能研究院开源科学多模态基础模型神珍",
-      "summary": "上海科学智能研究院发布科学多模态基础模型神珍，以Qwen3-VL-8B为共享主干，参数约110亿，覆盖DNA、RNA、蛋白质、小分子、地球系统和医学影像六类科学数据，已在Hugging Face开源。",
-      "publishedAt": "2026-07-19T14:45:48+08:00",
-      "source": "中国新闻网",
-      "url": "https://www.chinanews.com.cn/cj/2026/07-19/10662409.shtml",
-      "subCategory": "开源模型",
-      "id": "ai-20260719-950"
-    },
-    {
-      "id": "ai-20260719-105",
-      "title": "从纳米抗体到环肽：分子之心30天两度验证AI底层设计力",
-      "summary": "生物科技公司分子之心公布MMDesign平台在环肽设计上的验证结果，蛋白-蛋白相互作用靶点命中率超过70%，一个月内已在纳米抗体和环肽两种分子模态上完成AI设计能力验证。",
-      "publishedAt": "2026-07-19T14:40:12+08:00",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/07/454423.html",
-      "subCategory": "AI应用"
-    },
-    {
-      "title": "直击WAIC丨腾讯发布多款具身智能基座模型与智能体",
-      "summary": "WAIC 2026上，腾讯 Robotics X实验室发布三款开源具身智能模型Hy-Embodied-VLA-0.5、VLM-1.0与RxBrain-1.0，并推出智能体Apexio与TairosAgent，同时升级Tairos平台，展示可完成推拿动作的机器人\"小六\"。",
-      "publishedAt": "2026-07-19T14:23:00+08:00",
-      "source": "新浪财经",
-      "url": "https://finance.sina.com.cn/hy/hyjz/2026-07-19/doc-iniiimtc7924002.shtml",
-      "subCategory": "具身智能",
-      "id": "ai-20260719-010"
-    },
-    {
-      "id": "ai-20260719-106",
-      "title": "WAIC 2026 | 摩尔线程首次公开多项训练推理实践成果，三大\"AI工厂\"持续释放算力价值",
-      "summary": "摩尔线程在WAIC 2026公开模型训练、Token生产、智能体生产三大\"AI工厂\"实践成果，包括从零训练236B MoE模型及完成5D世界模型EvoPhys-World，京东、MiniMax等展示相关落地场景。",
-      "publishedAt": "2026-07-19T14:23:00+08:00",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/07/454170.html",
-      "subCategory": "大模型"
     }
   ]
 }
