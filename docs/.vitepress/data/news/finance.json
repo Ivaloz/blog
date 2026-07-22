@@ -724,69 +724,6 @@
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/markets/stocks/articles/kimi-k3-just-triggered-deepseek-175532711.html",
       "subCategory": "美股"
-    },
-    {
-      "id": "finance-20260717-950",
-      "title": "市值从超工行2500亿到少5600亿，\"易中天\"一个月极致反转",
-      "summary": "由半导体、光模块等AI概念股组成的\"易中天\"板块市值6月18日曾衈2.7万亿元超过工商银行，7月17日已较工行低约5600亿元，中证银行指数7月内上涨6.48%而大盘同期下跌8.47%，机构认为估值扩张后正回归理性。",
-      "publishedAt": "2026-07-17T22:31:23+08:00",
-      "source": "第一财经",
-      "url": "https://www.yicai.com/news/103280765.html",
-      "subCategory": "A股"
-    },
-    {
-      "id": "finance-20260718-005",
-      "title": "美国7月密歇根消费者信心指数初值升至54.4，创五个月新高",
-      "summary": "美国7月密歇根大学消费者信心指数初值报54.4，高于预期51.0及6月终值49.5，主要受汽油价格下降提振；未来一年通胀预期从4.6%降至4.2%，调查完成时美伊停火尚未破裂。",
-      "publishedAt": "2026-07-17T22:21:00+08:00",
-      "source": "Investing.com",
-      "url": "https://cn.investing.com/news/economy-news/article-3466858",
-      "subCategory": "宏观经济"
-    },
-    {
-      "id": "finance-20260717-908",
-      "title": "恒指跌超1.7%！中际旭创通过港交所聊讯，或成今年港股最大IPO",
-      "summary": "中际旭创通过港交所上市聊讯，拟募资约70亿美元（约546亿港元），若达成将超越立讯精密成为2026年以来港股最大规模IPO，消息当日其A股股价跌超12%，收报979.46元。",
-      "publishedAt": "2026-07-17T18:48:28+08:00",
-      "source": "每日经济新闻",
-      "url": "https://www.nbd.com.cn/articles/2026-07-17/4476068.html",
-      "subCategory": "一级市场"
-    },
-    {
-      "id": "finance-20260717-907",
-      "title": "港股收评：恒生指数跌1.78% 恒生科技指数跌4.37%",
-      "summary": "7月17日港股收盘，恒生指数跌1.78%报24562.24点，恒生科技指数跌4.37%；存储芯片板块领跌，中芯国际跌近10%，AI概念股智谱跌超28%、MiniMax跌超15%，机器人概念股跌超17%。",
-      "publishedAt": "2026-07-17T16:15:00+08:00",
-      "source": "证券时报",
-      "url": "https://www.stcn.com/article/detail/4025799.html",
-      "subCategory": "港股"
-    },
-    {
-      "id": "finance-20260717-904",
-      "title": "A股科技股重挖，半导体、CPO、PCB批量跌停，长光华芯20cm跌停",
-      "summary": "7月17日A股三大指数大幅下挖，上证指数跌破3800点，创业板指跌超7%，科创50指数跌超7%，沪深两市成交额达2.65万亿元，全市场近5000只个股下跌、近200只跌停，半导体、存储芯片、CPO、PCB板块领跌。",
-      "publishedAt": "2026-07-17T15:37:00+08:00",
-      "source": "新浪财经",
-      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-07-17/doc-iniiaxny7451587.shtml",
-      "subCategory": "A股"
-    },
-    {
-      "id": "finance-20260717-150",
-      "title": "沪指失守3800点 创业板指跌7.15%创年内最大单日跌幅",
-      "summary": "7月17日A股全天走弱，沪指跌3.05%失守3800点创年内新低，深成指跌5.4%，创业板指跌7.15%为年内最大单日跌幅，全市场超5000只个股下跌，沪深两市成交额达2.65万亿元。",
-      "publishedAt": "2026-07-17T15:24:57+08:00",
-      "source": "每日经济新闻",
-      "url": "https://www.nbd.com.cn/articles/2026-07-17/4475918.html",
-      "subCategory": "A股"
-    },
-    {
-      "id": "finance-20260717-906",
-      "title": "半导体牛股，多只逸净卖出",
-      "summary": "数据显示A股两融余额降至2.84万亿元，较前一日减少286.53亿元，为连续第11个交易日下降，兆易创新遭融资净卖出10.84亿元，澜起科技、香农芯创、通富微电净卖出均超7亿元，逸 30只半导体股较 7月高点回撤超40%。",
-      "publishedAt": "2026-07-17T12:32:00+08:00",
-      "source": "证券时报",
-      "url": "https://www.stcn.com/article/detail/4024912.html",
-      "subCategory": "A股"
     }
   ]
 }
