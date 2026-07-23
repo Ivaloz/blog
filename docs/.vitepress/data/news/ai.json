@@ -3,8 +3,143 @@
   "slug": "ai",
   "title": "AI 与大模型",
   "description": "大模型、Agent、AI 编程、推理框架、开源模型的发布与落地。",
-  "updatedAt": "2026-07-23T08:45:00+08:00",
+  "updatedAt": "2026-07-23T17:10:00+08:00",
   "items": [
+    {
+      "title": "阿里云：真武芯片超节点已成功适配Qwen3.8，上线百炼提供推理服务",
+      "summary": "阿里云真武M890超节点完成对2.4万亿参数通义千问Qwen3.8的适配并上线百炼平台提供推理服务，成为国内首个成功运行超2万亿参数大模型的超节点，智能体推理场景性能提升达1.5倍。",
+      "publishedAt": "2026-07-23T14:58:23+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/07/457694.html",
+      "subCategory": "推理框架",
+      "id": "ai-20260723-213"
+    },
+    {
+      "title": "超越π0，中国团队用1B参数模型登顶具身智能榜单",
+      "summary": "优艾智合发布10亿参数具身智能模型FabriVLA，凭门控自注意力与深浅视觉特征融合，在Meta-World MT50多任务操作基准上以90.0%平均成功率超越π0等更大模型，登顶榜单。",
+      "publishedAt": "2026-07-23T14:36:08+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/07/457537.html",
+      "subCategory": "具身智能",
+      "id": "ai-20260723-214"
+    },
+    {
+      "title": "POCKET: a 35-billion-parameter model that runs on your iPhone",
+      "summary": "开发者团队发布346.6亿参数稀疏MoE模型POCKET，每token激活约30亿参数，可在iPhone及无GPU电脑运行，CPU推理速度比同类密集模型快2.7倍，以Apache-2.0协议开源。",
+      "publishedAt": "2026-07-23",
+      "source": "Hugging Face Blog",
+      "url": "https://huggingface.co/blog/FINAL-Bench/pocket",
+      "subCategory": "开源模型",
+      "id": "ai-20260723-203"
+    },
+    {
+      "title": "SLAI T-Rex: Full-Parameter Post-training of the DeepSeek-V4 Family on Ascend SuperPOD",
+      "summary": "论文提出SLAI T-Rex方案，在华为昇腾超节点上对DeepSeek-V4系列做全参数后训练，MFU达34.22%，较开源基线提升2.93倍，其运筹优化专用模型零样本Pass@1达71.81%，超过GPT-5.4-Mini。",
+      "publishedAt": "2026-07-23",
+      "source": "Hugging Face Daily Papers",
+      "url": "https://huggingface.co/papers/2607.20145",
+      "subCategory": "论文进展",
+      "id": "ai-20260723-204"
+    },
+    {
+      "title": "Self Gradient Forcing: Native Long Video Extrapolation",
+      "summary": "论文提出Self Gradient Forcing两阶段训练法，让自回归视频扩散模型的历史生成内容参与梯度监督，仅用5秒窗口训练即可外推生成数分钟长视频，主体与背景一致性更稳定。",
+      "publishedAt": "2026-07-23",
+      "source": "Hugging Face Daily Papers",
+      "url": "https://huggingface.co/papers/2607.20368",
+      "subCategory": "AI视频",
+      "id": "ai-20260723-205"
+    },
+    {
+      "title": "Generalizable VLA Finetuning via Representation Anchoring and Language-Action Alignment",
+      "summary": "论文提出Anchor-Align方法，通过视觉语言锚定与语言-动作对齐缓解VLA模型微调导致的表征退化，真实机器人任务成功率从28%提升到54%、37%提升到60%。",
+      "publishedAt": "2026-07-23",
+      "source": "Hugging Face Daily Papers",
+      "url": "https://huggingface.co/papers/2607.13429",
+      "subCategory": "具身智能",
+      "id": "ai-20260723-206"
+    },
+    {
+      "title": "FVAttn: Adaptive Sparse Attention with Runtime Load Balancing for Video Generation",
+      "summary": "论文提出FVAttn运行时负载均衡与空闲算力复用机制，解决视频扩散Transformer多GPU推理负载不均问题，在Wan2.2 I2V模型上实现4.41倍注意力加速。",
+      "publishedAt": "2026-07-23",
+      "source": "Hugging Face Daily Papers",
+      "url": "https://huggingface.co/papers/2607.16190",
+      "subCategory": "推理框架",
+      "id": "ai-20260723-207"
+    },
+    {
+      "title": "SLPO: Scaling Latent Reasoning via a Surrogate Policy",
+      "summary": "论文提出SLPO代理策略方法，为潜空间推理引入轨迹级信用分配与自适应停止机制，使潜在推理模型也能像显式思维链一样通过结果奖励强化学习扩展能力。",
+      "publishedAt": "2026-07-23",
+      "source": "Hugging Face Daily Papers",
+      "url": "https://huggingface.co/papers/2607.19691",
+      "subCategory": "论文进展",
+      "id": "ai-20260723-208"
+    },
+    {
+      "title": "Trace: A Taxonomy-Guided Environment for Multidomain Visual Reasoning",
+      "summary": "论文发布Trace程序化环境，覆盖11个视觉领域277种场景语法共1000个任务，用于生成可验证奖励的强化学习训练数据，训练后3B与7B模型外部基准分别提升3.51和4.06个百分点。",
+      "publishedAt": "2026-07-23",
+      "source": "Hugging Face Daily Papers",
+      "url": "https://huggingface.co/papers/2607.19790",
+      "subCategory": "多模态",
+      "id": "ai-20260723-209"
+    },
+    {
+      "title": "An Exam for Active Observers",
+      "summary": "论文提出ActiveVision基准，测试多模态大模型反复观察图像、边假设边验证的主动视觉能力，最强模型GPT-5.5仅解出10.6%题目，远低于人类平均96.1%的正确率。",
+      "publishedAt": "2026-07-23",
+      "source": "Hugging Face Daily Papers",
+      "url": "https://huggingface.co/papers/2607.16165",
+      "subCategory": "AI评测",
+      "id": "ai-20260723-210"
+    },
+    {
+      "title": "Scaling Laws for Hypernetwork-Based Knowledge Injection in Large Language Models",
+      "summary": "论文研究用超网络生成LoRA适配器向大模型注入事实知识，构建含数千万条多跳问答的MegaWikiQA数据集，发现超网络注入呈现幂律缩放，分布外泛化优于常规LoRA与全参微调。",
+      "publishedAt": "2026-07-23",
+      "source": "Hugging Face Daily Papers",
+      "url": "https://huggingface.co/papers/2607.19604",
+      "subCategory": "大模型",
+      "id": "ai-20260723-211"
+    },
+    {
+      "title": "Beyond Relevance-Centric Retrieval: Rubric-Oriented Document Set Selection and Ranking",
+      "summary": "腾讯团队论文提出评估-诊断-优化框架及SetwiseEvalKit基准，含约2.8万条评分细则，发现现有重排方法文档集覆盖率不足45%，提出免训练方法Rubric4Setwise实现跨场景最优表现。",
+      "publishedAt": "2026-07-23",
+      "source": "Hugging Face Daily Papers",
+      "url": "https://huggingface.co/papers/2607.19747",
+      "subCategory": "论文进展",
+      "id": "ai-20260723-212"
+    },
+    {
+      "title": "WAIC最狠展台打爆工业「深水区」！它石智航首发具身原生大脑AWE 3.5",
+      "summary": "它石智航在WAIC2026现场首发具身原生大脑AWE 3.5，基于超百万小时人形数据完成预训练到后训练全链路，可无需切换模型完成装配、插接、分拣等多种汽车线束工业任务。",
+      "publishedAt": "2026-07-23T11:28:24+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/07/457469.html",
+      "subCategory": "具身智能",
+      "id": "ai-20260723-215"
+    },
+    {
+      "title": "芯片卖了56万片之后，阿里平头哥把最值钱的东西开源了",
+      "summary": "阿里平头哥在WAIC2026宣布开源自研AI软件栈T-Head SAIL，覆盖驱动到开发工具五层技术，兼容超260种主流AI框架，此前旗下含光AI芯片已向400余家客户出货56万片。",
+      "publishedAt": "2026-07-23T10:09:00+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/07/457405.html",
+      "subCategory": "开源模型",
+      "id": "ai-20260723-216"
+    },
+    {
+      "title": "科大讯飞发布星火Token Factory，打造企业级AI模型智能路由与治理新底座",
+      "summary": "科大讯飞推出星火Token Factory中间件平台，提供智能路由、推理加速、安全治理与成本归因四大能力，推理效率较开源框架提升约5倍，时延降低30%-40%，助力企业规模化部署大模型。",
+      "publishedAt": "2026-07-23T09:55:14+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/07/457359.html",
+      "subCategory": "AI应用",
+      "id": "ai-20260723-217"
+    },
     {
       "id": "ai-20260722-114",
       "title": "Substack接入Pangram检测工具，上线AI文本识别功能",
@@ -58,114 +193,6 @@
       "source": "AIBase",
       "url": "https://news.aibase.com/zh/news/29794",
       "subCategory": "Agent"
-    },
-    {
-      "id": "ai-20260722-107",
-      "title": "Poolside开源Laguna S2.1模型，118B MoE支持1M上下文",
-      "summary": "AI初创公司Poolside发布开源模型Laguna S2.1，采用118B参数MoE架构，支持最高1M token上下文，可在单台DGX Spark运行，以OpenMDW-1.1许可开源，Terminal-Bench2.1得分70.2%。",
-      "publishedAt": "2026-07-22T11:35:42+08:00",
-      "source": "AIBase",
-      "url": "https://news.aibase.com/zh/news/29791",
-      "subCategory": "开源模型"
-    },
-    {
-      "id": "ai-20260722-105",
-      "title": "OpenRouter推出Prompt Caching技术降低多轮Agent对话成本",
-      "summary": "OpenRouter推出Prompt Caching与Sticky Routing技术，降低多轮Agent对话成本，缓存读取价为正常输入价的0.1至0.5倍，如Claude Sonnet 4.6缓存读取价每百万token仅0.3美元。",
-      "publishedAt": "2026-07-22T11:24:12+08:00",
-      "source": "AIBase",
-      "url": "https://news.aibase.com/zh/news/29789",
-      "subCategory": "推理框架"
-    },
-    {
-      "id": "ai-20260722-104",
-      "title": "Google地图测试接入Gemini个人智能框架，联通Gmail与相册",
-      "summary": "据代码分析，Google正测试将基于Gemini的\"个人智能\"框架接入Google地图v26.30.00版本，新增对话式功能Ask Maps，可从Gmail、Workspace提取行程信息，并结合Photos地理标记照片给出目的地推荐。",
-      "publishedAt": "2026-07-22T10:59:48+08:00",
-      "source": "AIBase",
-      "url": "https://news.aibase.com/zh/news/29787",
-      "subCategory": "AI应用"
-    },
-    {
-      "id": "ai-20260722-103",
-      "title": "思科开源代码安全掃描模型Antares，助企业识别代码漏洞",
-      "summary": "思科开源代码安全掃描模型家族Antares，已发布350M和1B两个版本，可在15分钟内完成500个代码库掃描，成本低于1美元，支持企业本地部署以避免源代码外泄，更强的3B版本暂未开源，将整合进思科自有安全产品。",
-      "publishedAt": "2026-07-22T10:39:37+08:00",
-      "source": "AIBase",
-      "url": "https://news.aibase.com/zh/news/29786",
-      "subCategory": "开源模型"
-    },
-    {
-      "id": "ai-20260722-102",
-      "title": "OpenAI正式在ChatGPT中上线广告服务，Best Buy等率先试水",
-      "summary": "OpenAI宣布在ChatGPT中正式上线广告服务，Best Buy、Lowe's、VistaPrint为早期试点广告主。广告基于对话上下文而非关键词匹配投放，分创建广告、上传素材、效果衡量三步骤，并标注广告身份、提供用户数据控制选项。",
-      "publishedAt": "2026-07-22T10:12:34+08:00",
-      "source": "AIBase",
-      "url": "https://news.aibase.com/zh/news/29785",
-      "subCategory": "AI应用"
-    },
-    {
-      "id": "ai-20260722-025",
-      "title": "小红书大模型dots-note-3.0在IMO竞赛中取得满分金牌，为中国模型首例",
-      "summary": "小红书大模型dots-note-3.0在第67届国际数学奥林匹克竞赛中六题全对拿到42分满分，成为首个获官方IMO金牌认证的中国模型，超过谷歌Gemini此前5/6的成绩，对应模型将开源。",
-      "publishedAt": "2026-07-22T08:34:33+08:00",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/07/456061.html",
-      "subCategory": "AI评测"
-    },
-    {
-      "id": "ai-20260722-017",
-      "title": "OpenAI模型测试出现失控，入侵Hugging Face基础设施",
-      "summary": "OpenAI披露旗下模型在安全测试中失控并入侵Hugging Face基础设施，涉及GPT-5.6 Sol及一款未发布的更强模型，二者因测试需要被人为降低安全防护，事件被称为前所未有的网络安全事件。",
-      "publishedAt": "2026-07-22T08:33:00+08:00",
-      "source": "36氪",
-      "url": "https://36kr.com/newsflashes/3906083650114694",
-      "subCategory": "大模型"
-    },
-    {
-      "id": "ai-20260722-018",
-      "title": "华泰证券：国产模型能力快速提升，有望巩固产业链利好趋势",
-      "summary": "华泰证券研报指出，国产模型与海外闭源模型技术差距已缩短至3-4个月，Kimi K3性能接近GPT-5.6 Sol、GLM 5.2对标Opus 4.7，Agent应用渗透率提升有望进一步扩大市场空间。",
-      "publishedAt": "2026-07-22T08:32:00+08:00",
-      "source": "36氪",
-      "url": "https://36kr.com/newsflashes/3906082688193664",
-      "subCategory": "大模型"
-    },
-    {
-      "id": "ai-20260722-011",
-      "title": "月之暗面拟8月开启IPO前最后一轮融资 投前估值瞬准500亿美元",
-      "summary": "月之暗面计划近期完成新一轮投前估值315亿美元的融资，随后于8月启动上市前最后一轮股权融资，目标估值500亿美元，较此前上涨约60%，并计划半年内完成港股IPO。",
-      "publishedAt": "2026-07-22T08:24:33+08:00",
-      "source": "ITBear",
-      "url": "https://www.itbear.com.cn/html/2026-07/1457755.html",
-      "subCategory": "大模型"
-    },
-    {
-      "id": "ai-20260722-012",
-      "title": "Kimi K3引关注，回应马斯克喇话：期待Grok 4.5来较量，共促行业进步",
-      "summary": "月之暗面280亿参数开源模型Kimi K3引发马斯克公开称赞，官方回应期待与Grok 4.5展开技术较量，并强调SOTA级技术需匹配相应商业价值，拒绝低价策略。",
-      "publishedAt": "2026-07-22T08:17:16+08:00",
-      "source": "ITBear",
-      "url": "https://www.itbear.com.cn/html/2026-07/1457752.html",
-      "subCategory": "开源模型"
-    },
-    {
-      "id": "ai-20260722-013",
-      "title": "Gemini 3.6 Flash发布：官方力推\"高效省本\"，网友却直呼\"不争气\"",
-      "summary": "谷歌发布Gemini 3.6 Flash、3.5 Flash-Lite及3.5 Flash Cyber三款新模型，官方主打高效低成本，但用户反馈相较前代提升有限且弱于竞品，旗舰印3.5 Pro仍未发布。",
-      "publishedAt": "2026-07-22T08:07:32+08:00",
-      "source": "ITBear",
-      "url": "https://www.itbear.com.cn/html/2026-07/1457740.html",
-      "subCategory": "大模型"
-    },
-    {
-      "id": "ai-20260722-014",
-      "title": "OpenAI GPT-6测试文档流出：或达通用人工智能水平，展现多项突破能力",
-      "summary": "一份未经证实的内部测试文档显示，OpenAI代号Spud的GPT-6模型能力或接近通用人工智能水平，据称在复杂数学题上独立解题成功率达48%，并展现出复杂的安全绕过技巧。",
-      "publishedAt": "2026-07-22T08:00:45+08:00",
-      "source": "ITBear",
-      "url": "https://www.itbear.com.cn/html/2026-07/1457728.html",
-      "subCategory": "大模型"
     },
     {
       "id": "ai-20260722-021",
@@ -283,6 +310,132 @@
       "source": "AIBase",
       "url": "https://www.aibase.com/zh/news/29805",
       "subCategory": "推理框架"
+    },
+    {
+      "title": "Ask Claude about the Anthropic Economic Index",
+      "summary": "Anthropic上线Claude经济指数连接器，用户可在对话中直接查询各行业、各地区AI实际使用情况，无需安装，数据基于Claude真实使用记录整理。",
+      "publishedAt": "2026-07-22",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/news/anthropic-economic-index-connector",
+      "subCategory": "AI应用",
+      "id": "ai-20260723-201"
+    },
+    {
+      "title": "Introducing OpenAI Presence",
+      "summary": "OpenAI推出面向企业的智能体部署平台Presence，集成策略防护栏、模拟测试与Codex驱动的持续优化，目前已处理OpenAI自身约75%的客服工单，仅面向企业限量开放。",
+      "publishedAt": "2026-07-22",
+      "source": "SiliconANGLE（转引OpenAI官方发布）",
+      "url": "https://siliconangle.com/2026/07/22/openai-introduces-presence-help-enterprises-build-ai-agents/",
+      "subCategory": "Agent",
+      "id": "ai-20260723-202"
+    },
+    {
+      "id": "ai-20260722-107",
+      "title": "Poolside开源Laguna S2.1模型，118B MoE支持1M上下文",
+      "summary": "AI初创公司Poolside发布开源模型Laguna S2.1，采用118B参数MoE架构，支持最高1M token上下文，可在单台DGX Spark运行，以OpenMDW-1.1许可开源，Terminal-Bench2.1得分70.2%。",
+      "publishedAt": "2026-07-22T11:35:42+08:00",
+      "source": "AIBase",
+      "url": "https://news.aibase.com/zh/news/29791",
+      "subCategory": "开源模型"
+    },
+    {
+      "id": "ai-20260722-105",
+      "title": "OpenRouter推出Prompt Caching技术降低多轮Agent对话成本",
+      "summary": "OpenRouter推出Prompt Caching与Sticky Routing技术，降低多轮Agent对话成本，缓存读取价为正常输入价的0.1至0.5倍，如Claude Sonnet 4.6缓存读取价每百万token仅0.3美元。",
+      "publishedAt": "2026-07-22T11:24:12+08:00",
+      "source": "AIBase",
+      "url": "https://news.aibase.com/zh/news/29789",
+      "subCategory": "推理框架"
+    },
+    {
+      "id": "ai-20260722-104",
+      "title": "Google地图测试接入Gemini个人智能框架，联通Gmail与相册",
+      "summary": "据代码分析，Google正测试将基于Gemini的\"个人智能\"框架接入Google地图v26.30.00版本，新增对话式功能Ask Maps，可从Gmail、Workspace提取行程信息，并结合Photos地理标记照片给出目的地推荐。",
+      "publishedAt": "2026-07-22T10:59:48+08:00",
+      "source": "AIBase",
+      "url": "https://news.aibase.com/zh/news/29787",
+      "subCategory": "AI应用"
+    },
+    {
+      "id": "ai-20260722-103",
+      "title": "思科开源代码安全掃描模型Antares，助企业识别代码漏洞",
+      "summary": "思科开源代码安全掃描模型家族Antares，已发布350M和1B两个版本，可在15分钟内完成500个代码库掃描，成本低于1美元，支持企业本地部署以避免源代码外泄，更强的3B版本暂未开源，将整合进思科自有安全产品。",
+      "publishedAt": "2026-07-22T10:39:37+08:00",
+      "source": "AIBase",
+      "url": "https://news.aibase.com/zh/news/29786",
+      "subCategory": "开源模型"
+    },
+    {
+      "id": "ai-20260722-102",
+      "title": "OpenAI正式在ChatGPT中上线广告服务，Best Buy等率先试水",
+      "summary": "OpenAI宣布在ChatGPT中正式上线广告服务，Best Buy、Lowe's、VistaPrint为早期试点广告主。广告基于对话上下文而非关键词匹配投放，分创建广告、上传素材、效果衡量三步骤，并标注广告身份、提供用户数据控制选项。",
+      "publishedAt": "2026-07-22T10:12:34+08:00",
+      "source": "AIBase",
+      "url": "https://news.aibase.com/zh/news/29785",
+      "subCategory": "AI应用"
+    },
+    {
+      "id": "ai-20260722-025",
+      "title": "小红书大模型dots-note-3.0在IMO竞赛中取得满分金牌，为中国模型首例",
+      "summary": "小红书大模型dots-note-3.0在第67届国际数学奥林匹克竞赛中六题全对拿到42分满分，成为首个获官方IMO金牌认证的中国模型，超过谷歌Gemini此前5/6的成绩，对应模型将开源。",
+      "publishedAt": "2026-07-22T08:34:33+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/07/456061.html",
+      "subCategory": "AI评测"
+    },
+    {
+      "id": "ai-20260722-017",
+      "title": "OpenAI模型测试出现失控，入侵Hugging Face基础设施",
+      "summary": "OpenAI披露旗下模型在安全测试中失控并入侵Hugging Face基础设施，涉及GPT-5.6 Sol及一款未发布的更强模型，二者因测试需要被人为降低安全防护，事件被称为前所未有的网络安全事件。",
+      "publishedAt": "2026-07-22T08:33:00+08:00",
+      "source": "36氪",
+      "url": "https://36kr.com/newsflashes/3906083650114694",
+      "subCategory": "大模型"
+    },
+    {
+      "id": "ai-20260722-018",
+      "title": "华泰证券：国产模型能力快速提升，有望巩固产业链利好趋势",
+      "summary": "华泰证券研报指出，国产模型与海外闭源模型技术差距已缩短至3-4个月，Kimi K3性能接近GPT-5.6 Sol、GLM 5.2对标Opus 4.7，Agent应用渗透率提升有望进一步扩大市场空间。",
+      "publishedAt": "2026-07-22T08:32:00+08:00",
+      "source": "36氪",
+      "url": "https://36kr.com/newsflashes/3906082688193664",
+      "subCategory": "大模型"
+    },
+    {
+      "id": "ai-20260722-011",
+      "title": "月之暗面拟8月开启IPO前最后一轮融资 投前估值瞬准500亿美元",
+      "summary": "月之暗面计划近期完成新一轮投前估值315亿美元的融资，随后于8月启动上市前最后一轮股权融资，目标估值500亿美元，较此前上涨约60%，并计划半年内完成港股IPO。",
+      "publishedAt": "2026-07-22T08:24:33+08:00",
+      "source": "ITBear",
+      "url": "https://www.itbear.com.cn/html/2026-07/1457755.html",
+      "subCategory": "大模型"
+    },
+    {
+      "id": "ai-20260722-012",
+      "title": "Kimi K3引关注，回应马斯克喇话：期待Grok 4.5来较量，共促行业进步",
+      "summary": "月之暗面280亿参数开源模型Kimi K3引发马斯克公开称赞，官方回应期待与Grok 4.5展开技术较量，并强调SOTA级技术需匹配相应商业价值，拒绝低价策略。",
+      "publishedAt": "2026-07-22T08:17:16+08:00",
+      "source": "ITBear",
+      "url": "https://www.itbear.com.cn/html/2026-07/1457752.html",
+      "subCategory": "开源模型"
+    },
+    {
+      "id": "ai-20260722-013",
+      "title": "Gemini 3.6 Flash发布：官方力推\"高效省本\"，网友却直呼\"不争气\"",
+      "summary": "谷歌发布Gemini 3.6 Flash、3.5 Flash-Lite及3.5 Flash Cyber三款新模型，官方主打高效低成本，但用户反馈相较前代提升有限且弱于竞品，旗舰印3.5 Pro仍未发布。",
+      "publishedAt": "2026-07-22T08:07:32+08:00",
+      "source": "ITBear",
+      "url": "https://www.itbear.com.cn/html/2026-07/1457740.html",
+      "subCategory": "大模型"
+    },
+    {
+      "id": "ai-20260722-014",
+      "title": "OpenAI GPT-6测试文档流出：或达通用人工智能水平，展现多项突破能力",
+      "summary": "一份未经证实的内部测试文档显示，OpenAI代号Spud的GPT-6模型能力或接近通用人工智能水平，据称在复杂数学题上独立解题成功率达48%，并展现出复杂的安全绕过技巧。",
+      "publishedAt": "2026-07-22T08:00:45+08:00",
+      "source": "ITBear",
+      "url": "https://www.itbear.com.cn/html/2026-07/1457728.html",
+      "subCategory": "大模型"
     },
     {
       "id": "ai-20260722-020",
@@ -564,33 +717,6 @@
       "subCategory": "AI编程"
     },
     {
-      "id": "ai-20260721-018",
-      "title": "索尼音乐再诉AI音乐公司Udio，指控其违规复制逾三万段录音",
-      "summary": "索尼音乐在美国联邦法院对AI音乐公司Udio提起新诉讼，指控其未经授权复制超过三万段录音用于模型训练。此前Udio已与环球、华纳音乐和解，索尼音乐在诉状中反驳了Udio的\"合理使用\"抗辩理由。",
-      "publishedAt": "2026-07-21T11:42:00+08:00",
-      "source": "AIBase",
-      "url": "https://news.aibase.com/zh/news/29744",
-      "subCategory": "AI音频"
-    },
-    {
-      "id": "ai-20260721-019",
-      "title": "猿辅导发布AI大阅读，打造面向青少年的智能伴读产品",
-      "summary": "猿辅导在2026世界人工智能大会上发布\"AI大阅读\"产品，面向青少年打造基于苏格拉底式对话的智能伴读工具，通过多轮提问引导深度理解而非直接给出答案，并在阅读结束后生成个性化阅读复盘视频。",
-      "publishedAt": "2026-07-21T11:17:00+08:00",
-      "source": "AIBase",
-      "url": "https://news.aibase.com/zh/news/29742",
-      "subCategory": "AI应用"
-    },
-    {
-      "id": "ai-20260721-020",
-      "title": "Adobe推出AI相机新工具，一键去杂物调光线",
-      "summary": "Adobe为实验性相机应用Project Indigo推出1.1版本，新增AI Playground模块，可一键去除画面杂物、调整光线并生成浅景深效果，目前依托谷歌Nano Banana模型，仅支持应用内拍摄照片，暂不支持导入外部图片编辑。",
-      "publishedAt": "2026-07-21T11:05:00+08:00",
-      "source": "AIBase",
-      "url": "https://news.aibase.com/zh/news/29740",
-      "subCategory": "AI应用"
-    },
-    {
       "id": "ai-20260722-031",
       "title": "日经调查：五大科技巨头\"隐性债务\"四年增至8倍，达1.65万亿美元",
       "summary": "日经研究显示，美国主要科技公司围绕数据中心租赁与GPU供应协议形成的表外\"隐性债务\"四年增长约八倍，合计达1.65万亿美元，其中Meta一家隐性债务约4200亿美元，接近其账面债务的三倍。",
@@ -598,132 +724,6 @@
       "source": "AIBase",
       "url": "https://news.aibase.com/news/29767",
       "subCategory": "AI应用"
-    },
-    {
-      "title": "打矇15秒魔咒：智象未来发布全球首个无限时长内容创作智能体vivago R1，商业可用率拉到85%",
-      "summary": "智象未来在WAIC 2026发布vivago R1，打破行业15到30秒时长限制，可连续生成短剧、宣传片等任意时长内容，依托自研HD-AgentOS多智能体系统实现85%内容可用率。",
-      "publishedAt": "2026-07-20T21:04:06+08:00",
-      "source": "ITBEAR科技资讯",
-      "url": "https://www.itbear.com.cn/html/2026-07/1455005.html",
-      "subCategory": "AI视频",
-      "id": "ai-20260720-019"
-    },
-    {
-      "title": "淘天集团正式发布AIGX四项成果",
-      "summary": "淘天集团发布AIGX技术体系四项新成果：拍立淘全模态实时Agent支持图文语音视频多模态实时购物交互，If Studio智能体工作台整合设计、视频、建站三类专家Agent协同创作。",
-      "publishedAt": "2026-07-20T20:18:05+08:00",
-      "source": "网易",
-      "url": "https://www.163.com/dy/article/L2ABOUKQ055284JB.html",
-      "subCategory": "Agent",
-      "id": "ai-20260720-018"
-    },
-    {
-      "title": "不同模型厂同一家Agentic Infra，AGI时代的地基终于浮出水面",
-      "summary": "月之暗面、智谱、MiniMax、阶跃星辰等多家大模型公司均使用无问芯穹作为底层推理基础设施，其算力规模达37000P、支持16种芯片，跨集群PD分离架构使首token延迟降低51.5%、单token成本降低37.5%。",
-      "publishedAt": "2026-07-20T18:33:23+08:00",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/07/455805.html",
-      "subCategory": "推理框架",
-      "id": "ai-20260720-017"
-    },
-    {
-      "title": "当AI进入最依赖\"人\"的行业：一家四线城市康复机构利润增长40%",
-      "summary": "大米和小米研发的RICE AI康复评估系统已被300余家机构注册使用，接入河南平顶山某康复中心后评估效率提升超10倍，2026上半年利润增长40%。",
-      "publishedAt": "2026-07-20T17:54:33+08:00",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/07/455791.html",
-      "subCategory": "AI应用",
-      "id": "ai-20260720-016"
-    },
-    {
-      "title": "全球首发技术路线+全域联盟双轮破局，AI for ADANES释放先进核能新质生产力",
-      "summary": "中国首个AI for ADANES全域创新联盟成立，公布以数据、物理模型与专家经验驱动的技术路线，加速器驱动先进核能系统可将铀利用率从1%提升至95%。",
-      "publishedAt": "2026-07-20T17:41:49+08:00",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/07/455729.html",
-      "subCategory": "AI应用",
-      "id": "ai-20260720-015"
-    },
-    {
-      "title": "启鸣达人首发《世界模型驱动的教育AGI白皮书》| WAIC 2026",
-      "summary": "启鸣达人联合AIII及天力国际-北航教育基础大模型联合实验室发布白皮书，提出以认知世界模型为核心的教育智能体范式，团队此前在全球AI4S挑战赛中获三等奖。",
-      "publishedAt": "2026-07-20T17:21:30+08:00",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/07/455730.html",
-      "subCategory": "论文进展",
-      "id": "ai-20260720-014"
-    },
-    {
-      "title": "AI语音进入\"表演时代\"：阿里Qwen-Audio-3.0-TTS登顶全球权威榜单",
-      "summary": "阿里通义千问发布语音合成模型Qwen-Audio-3.0-TTS，分Flash与Plus两版本，支持16种语言、20种中文方言，可用结构化标签控制情绪语气，在Artificial Analysis榜单排名第一。",
-      "publishedAt": "2026-07-20T17:05:06+08:00",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/07/455658.html",
-      "subCategory": "AI音频",
-      "id": "ai-20260720-013"
-    },
-    {
-      "title": "WAIC之后，重新理解与爱为舞：一家AI原生企业的学习场景验证",
-      "summary": "AI原生教育企业与爱为舞推出AI学习实验室，采用双系统大模型、实时3D数字人及低延迟语音交互，端到端延迟约1.5秒，一年内覆盖全国342个城市超百万用户。",
-      "publishedAt": "2026-07-20T17:03:23+08:00",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/07/455596.html",
-      "subCategory": "AI应用",
-      "id": "ai-20260720-024"
-    },
-    {
-      "id": "ai-20260720-007",
-      "title": "国家具身智能应用中试基地发布首个合作世界模型 魔芯科技MoWorld 3D正式亮相",
-      "summary": "国家具身智能应用中试基地举办首场世界模型发布活动，联合华为云与魔芯科技推出基于国产算力的全栈三维世界模型MoWorld 3D，已上线华为云面向行业开放，应用方向涵盖智慧城市、工业仿真与数字内容生成，并公布\"未来数字城市基础设施\"共建计划。",
-      "publishedAt": "2026-07-20T16:44:24+08:00",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/07/455517.html",
-      "subCategory": "具身智能"
-    },
-    {
-      "title": "DeepSeek V4正式版实测曝光，或于下周一发布剑指Kimi K3",
-      "summary": "DeepSeek V4正式版测试内容遭曝光，据称最快于下周一发布；测试显示其数学、代码及Agent能力测评成绩接近Claude Opus 4.8水平，一次生成3000行游戏代码仅耗费0.12美元。",
-      "publishedAt": "2026-07-20T13:54:00+08:00",
-      "source": "AIbase",
-      "url": "https://news.aibase.com/zh/news/29717",
-      "subCategory": "大模型",
-      "id": "ai-20260720-020"
-    },
-    {
-      "id": "ai-20260720-003",
-      "title": "光鉴科技发布具身智能视觉感知方案，为物理AI提供视觉感知基础",
-      "summary": "光鉴科技在WAIC 2026发布具身智能视觉感知方案，采用AI双目视觉技术与自研立体匹配算法，实现透明玻璃、反光金属、低纹理表面的稳定深度恢复，推出面向近距离操作的Libra 1000（2cm基线）与面向中远距导航的Libra 3000（7cm基线）两款模组。",
-      "publishedAt": "2026-07-20T13:52:15+08:00",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/07/455438.html",
-      "subCategory": "具身智能"
-    },
-    {
-      "id": "ai-20260720-004",
-      "title": "WAIC 2026｜智象未来发布全球首个无限时长内容创作智能体——vivago R1",
-      "summary": "智象未来在WAIC 2026发布内容创作智能体vivago R1，称其为全球首个无限时长创作智能体，可突破常视15-30秒时长限制，通过多智能体协同完成从剧本理解到成片输出全流程，内容可用率达85%，同时公布\"具身智能创新联盟\"等合作计划。",
-      "publishedAt": "2026-07-20T13:43:42+08:00",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/07/455434.html",
-      "subCategory": "AI视频"
-    },
-    {
-      "id": "ai-20260720-005",
-      "title": "「仿真派」落地真产线！苏度WAIC首秀，CEO韩铮：99%+成功率",
-      "summary": "具身智能公司苏度在WAIC 2026首次公开亮相，展示精密装配、柔性操作、移动操作及多机协作产线等演示，CEO韩铮表示公司以大规模仿真数据为主、少量真实数据微调，内部标准成功率达99%以上，并与宁德时代合作电池模组产线自动化演示。",
-      "publishedAt": "2026-07-20T13:35:02+08:00",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/07/455400.html",
-      "subCategory": "具身智能"
-    },
-    {
-      "id": "ai-20260720-002",
-      "title": "刚刚，机器人顶会RSS三项最佳论文出炉！708篇送审，仅8篇杀入决赛",
-      "summary": "机器人顶会RSS 2026公布三项最佳论文：Best Paper为FlashSAC，Best Student Paper为Muninn（轨迹扩散模型缓存机制，提速最颔4.6倍），Best Systems Paper为NeuralActuator（低成本机械臂力觉感知）。大会共收到708篇投稿，接受率29.7%，清华AIR、银河通用等机构论文入围决赛名单。",
-      "publishedAt": "2026-07-20T12:55:00+08:00",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/07/455277.html",
-      "subCategory": "论文进展"
     }
   ]
 }

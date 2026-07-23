@@ -3,8 +3,107 @@
   "slug": "trade",
   "title": "外贸资讯",
   "description": "亚马逊、TikTok Shop、阿里国际站、Shopify 等平台政策与跨境电商市场、独立站、物流支付、关税法规、选品趋势。",
-  "updatedAt": "2026-07-23T08:45:00+08:00",
+  "updatedAt": "2026-07-23T17:10:00+08:00",
   "items": [
+    {
+      "title": "成本不到8美元、售价超22美元，中国卖家正在TikTok Shop氛围灯上拿下442亿美元市场",
+      "summary": "中国卖家凭借成熟LED生产与柔性供应链，在TikTok Shop氛围灯品类中以不到8美元成本卖出超22美元售价，星空投影灯等产品部分单品月销破万件，欧美消费者需求旺盛。",
+      "publishedAt": "2026-07-23T10:36:00+08:00",
+      "source": "雨果网",
+      "url": "https://www.cifnews.com/article/187687",
+      "subCategory": "选品趋势",
+      "id": "trade-20260723-211"
+    },
+    {
+      "title": "亚马逊新规范：涉及产品图里有AI人物画像需加标签",
+      "summary": "亚马逊要求卖家为含AI生成逼真人物的商品图片添加IPTC元数据标签，以便向消费者展示相应提示，真人拍摄图片或非写实形象不适用该新规。",
+      "publishedAt": "2026-07-23T09:14:00+08:00",
+      "source": "雨果网",
+      "url": "https://www.cifnews.com/article/187684",
+      "subCategory": "平台政策",
+      "id": "trade-20260723-212"
+    },
+    {
+      "title": "巴拿马运河因极强厄尔尼诺调降吃水限航及附加费调整",
+      "summary": "巴拿马运河管理局因预判下半年出现极强厄尔尼诺现象，7月24日起将新巴拿马型船舶最大吃水从49.5英尺降至49英尺，多家船公司同步上调亚洲至美国航线附加费。",
+      "publishedAt": "2026-07-23T06:36:00+08:00",
+      "source": "AMZ123跨境导航",
+      "url": "https://www.amz123.com/kx/XZo10OoC",
+      "subCategory": "物流仓储",
+      "id": "trade-20260723-203"
+    },
+    {
+      "title": "eBay国际配送服务扩展至英国，8月正式上线",
+      "summary": "eBay宣布将eBay国际配送服务从北美市场扩展至英国，8月起替代原有全球配送计划，卖家发货至英国中转仓后由平台统一处理清关、税费与国际运输及退换货服务。",
+      "publishedAt": "2026-07-23T06:35:00+08:00",
+      "source": "AMZ123跨境导航",
+      "url": "https://www.amz123.com/kx/voqRelZf",
+      "subCategory": "物流仓储",
+      "id": "trade-20260723-202"
+    },
+    {
+      "title": "亚马逊宣称2025年均价较竞争对手低14%，节省用户500亿美元",
+      "summary": "亚马逊称其自营商品2025年均价较其他主要零售商低14%，为用户节省超500亿美元，但数据未经第三方审计，且超六成商品由第三方卖家自主定价，广告收入同期大幅增长。",
+      "publishedAt": "2026-07-23T06:25:00+08:00",
+      "source": "AMZ123跨境导航",
+      "url": "https://www.amz123.com/kx/MNTUAI6C",
+      "subCategory": "平台动态",
+      "id": "trade-20260723-204"
+    },
+    {
+      "title": "孟加拉电商渗透率仅3%，市场规模预计2029年突破124.4亿美元",
+      "summary": "孟加拉国电商渗透率目前仅为3%，低于全球平均水平，但市场规模预计将从2024年75亿美元增至2029年124.4亿美元，Daraz等平台正加码信任体系与全境配送建设。",
+      "publishedAt": "2026-07-23T03:30:00+08:00",
+      "source": "AMZ123跨境导航",
+      "url": "https://www.amz123.com/kx/j0mqaVzM",
+      "subCategory": "新兴市场",
+      "id": "trade-20260723-208"
+    },
+    {
+      "title": "亚马逊北美站收紧锂电池小家电合规要求",
+      "summary": "亚马逊向北美站锂电池小家电卖家发出合规警告，要求30天内提供最低100万美元商业责任险及第三方TIC机构出具的检测报告，新规已于6月30日生效，8月30日为整改截止日。",
+      "publishedAt": "2026-07-23T03:20:00+08:00",
+      "source": "AMZ123跨境导航",
+      "url": "https://www.amz123.com/kx/ZTxldODD",
+      "subCategory": "平台政策",
+      "id": "trade-20260723-209"
+    },
+    {
+      "title": "胡塞武装宣布禁运沙特港口船舶，红海航运风险进一步上升",
+      "summary": "也门胡塞武装宣布对沙特实施港口船舶禁运，并称已用导弹和无人机袭击两艘沙特油轮致其起火，约十艘船只被迫改道，红海航线风险进一步上升。",
+      "publishedAt": "2026-07-23T02:09:00+08:00",
+      "source": "AMZ123跨境导航",
+      "url": "https://www.amz123.com/kx/rrfUA1tx",
+      "subCategory": "物流仓储",
+      "id": "trade-20260723-207"
+    },
+    {
+      "title": "SHEIN发布秋冬厨电招品清单，煮蛋器空气炸锅咖啡机成重点布局品类",
+      "summary": "SHEIN针对欧洲秋冬家居需求发布厨房小家电招商清单，重点招募煮蛋器、电热饭盒、空气炸锅等代发模式产品，半托管模式则聚焦咖啡机、厨师机等大件厨电。",
+      "publishedAt": "2026-07-23T01:59:00+08:00",
+      "source": "AMZ123跨境导航",
+      "url": "https://www.amz123.com/kx/9qAVxq7s",
+      "subCategory": "选品趋势",
+      "id": "trade-20260723-206"
+    },
+    {
+      "title": "美贸易欺诈工作组成立不足10个月，追罚金额超70亿元",
+      "summary": "美国司法部与国土安全部称，成立不足10个月的贸易欺诈工作组已通过刑事诉讼、民事三倍罚款及货物扣押追回超70亿元罚金，涉及原产地造假、转口贸易等18类违规行为。",
+      "publishedAt": "2026-07-23T01:58:00+08:00",
+      "source": "AMZ123跨境导航",
+      "url": "https://www.amz123.com/kx/wXjTLIIi",
+      "subCategory": "关税法规",
+      "id": "trade-20260723-210"
+    },
+    {
+      "title": "美国12.5%新关税或将落地，卖家需重新定价",
+      "summary": "现行10%普遍关税7月24日到期，美国拟依据301条款推出覆盖60多个国家、约99%贸易量的新关税框架，中国税率最高达12.5%，卖家被建议调整定价与产品结构应对成本上涨。",
+      "publishedAt": "2026-07-22T18:00:00+08:00",
+      "source": "雨果网",
+      "url": "https://www.cifnews.com/article/187680",
+      "subCategory": "关税法规",
+      "id": "trade-20260723-213"
+    },
     {
       "id": "trade-20260722-108",
       "title": "速卖通日本新政落地：海外托管0保证金+15天回款",
@@ -78,6 +177,15 @@
       "subCategory": "平台动态"
     },
     {
+      "title": "Grumpy Cat商标权利方已起诉冻结313家跨境店铺",
+      "summary": "品牌方Grumpy Cat Limited今年5月至6月连续发起两起商标侵权诉讼，已导致313家跨境店铺遭冻结，文章同时列举五起近期知识产权纠纷提醒卖家排查侵权风险。",
+      "publishedAt": "2026-07-22T14:29:00+08:00",
+      "source": "雨果网",
+      "url": "https://www.cifnews.com/article/187676",
+      "subCategory": "平台政策",
+      "id": "trade-20260723-215"
+    },
+    {
       "id": "trade-20260722-102",
       "title": "TikTok Shop全托管美区年中促生意同比增长1.5倍，这些商家为何\"赢麻了\"？",
       "summary": "TikTok Shop美区年中大促期间，整体大盘同比增长近2倍，其中全托管业务同比增长1.5倍，平台指出内容力与选品质量成为影响商家增长的关键因素，AIGC工具助力商家提升本地化内容产出效率。",
@@ -85,6 +193,24 @@
       "source": "雨果网",
       "url": "https://www.cifnews.com/article/187675",
       "subCategory": "平台动态"
+    },
+    {
+      "title": "今年上半年我国1.4亿人通过跨境电商全球购物",
+      "summary": "国务院新闻办新闻发布会上，海关总署介绍今年上半年我国跨境电商出口海外仓货值增长3.3倍，约1.4亿人次消费者通过跨境电商实现全球购物。",
+      "publishedAt": "2026-07-22T11:35:00+08:00",
+      "source": "中国新闻网",
+      "url": "https://www.chinanews.com.cn/cj/2026/07-22/10664119.shtml",
+      "subCategory": "海关数据",
+      "id": "trade-20260723-201"
+    },
+    {
+      "title": "亚马逊AWD欧洲站定档开放入仓，印尼税务严查拆店避税",
+      "summary": "亚马逊AWD欧洲站8月17日起正式开放入仓，费率低至每立方米每月11.09欧元；印尼税务部门同时警告卖家利用多店铺拆分收入避税的行为，将汇总各平台交易数据统一核查。",
+      "publishedAt": "2026-07-22T10:07:00+08:00",
+      "source": "雨果网",
+      "url": "https://www.cifnews.com/article/187674",
+      "subCategory": "物流仓储",
+      "id": "trade-20260723-214"
     },
     {
       "id": "trade-20260722-101",
@@ -139,6 +265,15 @@
       "source": "出海网",
       "url": "https://www.chwang.com/news/207973930813",
       "subCategory": "物流仓储"
+    },
+    {
+      "title": "4天内6座仓库遭袭！Wildberries俄区多地物流中心受影响",
+      "summary": "俄罗斯电商平台Wildberries四天内6座仓库遭遇袭击或异常事件，7月18日仓库遇袭致8死62伤，平台已对受影响仓库免除仓储费并提供转仓或取消服务。",
+      "publishedAt": "2026-07-22T09:24:00+08:00",
+      "source": "AMZ123跨境导航",
+      "url": "https://www.amz123.com/kx/Ce3ryDa1",
+      "subCategory": "物流仓储",
+      "id": "trade-20260723-205"
     },
     {
       "id": "trade-20260722-018",
@@ -339,6 +474,24 @@
       "subCategory": "平台动态"
     },
     {
+      "id": "trade-20260721-020",
+      "title": "Wildberries开放免费改运通道，卖家可将货物转至替代仓库至7月26日",
+      "summary": "因莫斯科州、坦波夫州仓库遭无人机袭击，Wildberries允许卖家在7月26日前免费将货物改运至梁赞、沃罗涅日等替代仓库，同时缩短卖家回款周期以缓解资金压力。",
+      "publishedAt": "2026-07-21",
+      "source": "AMZ123跨境导航",
+      "url": "https://www.amz123.com/kx/95secwm6",
+      "subCategory": "物流仓储"
+    },
+    {
+      "id": "trade-20260721-021",
+      "title": "俄罗斯集装箱市场上半年增长6%至347万TEU",
+      "summary": "据Fesco数据，2026年上半年俄罗斯集装箱运输量同比增长6%至347万TEU，其中进口增长14%达152万TEU，6月单月运输量同比增长8.9%，此前2025年多项指标为下滑。",
+      "publishedAt": "2026-07-21",
+      "source": "AMZ123跨境导航",
+      "url": "https://www.amz123.com/kx/dMvt4IOR",
+      "subCategory": "物流仓储"
+    },
+    {
       "id": "trade-20260721-032",
       "title": "无人机配送企业Zipline全球累计完成超2.5亿次商业配送",
       "summary": "美国无人机配送公司Zipline加速全球化扩张，招募特斯拉、Waymo、Uber前高管，累计完成超2.5亿次商业配送并与沃尔玛等零售商合作，普华永道预测行业2024至2034年复合增长率达65%。",
@@ -400,24 +553,6 @@
       "source": "出海网",
       "url": "https://www.chwang.com/news/207938536867",
       "subCategory": "关税法规"
-    },
-    {
-      "id": "trade-20260721-020",
-      "title": "Wildberries开放免费改运通道，卖家可将货物转至替代仓库至7月26日",
-      "summary": "因莫斯科州、坦波夫州仓库遭无人机袭击，Wildberries允许卖家在7月26日前免费将货物改运至梁赞、沃罗涅日等替代仓库，同时缩短卖家回款周期以缓解资金压力。",
-      "publishedAt": "2026-07-21",
-      "source": "AMZ123跨境导航",
-      "url": "https://www.amz123.com/kx/95secwm6",
-      "subCategory": "物流仓储"
-    },
-    {
-      "id": "trade-20260721-021",
-      "title": "俄罗斯集装箱市场上半年增长6%至347万TEU",
-      "summary": "据Fesco数据，2026年上半年俄罗斯集装箱运输量同比增长6%至347万TEU，其中进口增长14%达152万TEU，6月单月运输量同比增长8.9%，此前2025年多项指标为下滑。",
-      "publishedAt": "2026-07-21",
-      "source": "AMZ123跨境导航",
-      "url": "https://www.amz123.com/kx/dMvt4IOR",
-      "subCategory": "物流仓储"
     },
     {
       "id": "trade-20260720-022",
@@ -589,141 +724,6 @@
       "source": "AMZ123跨境导航",
       "url": "https://www.amz123.com/kx/VlbymWad",
       "subCategory": "平台政策"
-    },
-    {
-      "id": "trade-20260720-007",
-      "title": "POIZON俄区调研显示85.3%消费者愿复购中国品牌",
-      "summary": "潮流电商平台POIZON对1059名俄罗斯用户的调研显示，85.3%消费者愿意再次购买中国品牌产品，产品质量平均评分4.66分，性价比是首要购买因素，李宁、安蹆、小米等品牌认知度较高。",
-      "publishedAt": "2026-07-20T11:28:36+08:00",
-      "source": "AMZ123跨境导航",
-      "url": "https://www.amz123.com/kx/EO2943Ck",
-      "subCategory": "新兴市场"
-    },
-    {
-      "id": "trade-20260720-008",
-      "title": "eBay收购Depop获英国CMA批准",
-      "summary": "英国竞争与市场管理局7月15日完成第一阶段审查，批准eBay以约12亿美元现金收购Etsy旗下二手时尚平台Depop，交易计划7月30日完成，此前已获澳大利亚、美国及德国监管部门批准，Depop收购后将保留独立品牌运营。",
-      "publishedAt": "2026-07-20T11:18:20+08:00",
-      "source": "AMZ123跨境导航",
-      "url": "https://www.amz123.com/kx/lxW6GzQK",
-      "subCategory": "平台动态"
-    },
-    {
-      "id": "trade-20260720-009",
-      "title": "TikTok Shop墨西哥跨境千人大会7月23日登陆深圳",
-      "summary": "TikTok Shop墨西哥跨境千人大会将于7月23日在深圳举办，聚焦拉美市场机遇，展示3C、服饰、香水等品类卖家案例，汇聚30余家TSP、TAP、CAP等官方认证机构，为卖家提供拓展墨西哥市场的资源对接。",
-      "publishedAt": "2026-07-20T11:08:09+08:00",
-      "source": "AMZ123跨境导航",
-      "url": "https://www.amz123.com/kx/KPPbK4xp",
-      "subCategory": "新兴市场"
-    },
-    {
-      "id": "trade-20260720-033",
-      "title": "功能大更新！亚马逊一周事件盘点",
-      "summary": "亚马逊本周推出多项功能更新，包括扩展Alexa Shopping支持自然语言定制商品、测试限制未登录用户查看完整评论、FBA无需退货自动退款方案扩容，以及全新卖家平台界面改版。",
-      "publishedAt": "2026-07-20T11:00:00+08:00",
-      "source": "雨果网",
-      "url": "https://www.cifnews.com/article/187628",
-      "subCategory": "平台动态"
-    },
-    {
-      "id": "trade-20260720-023",
-      "title": "TikTok Shop GMV Max测试销售额增长181%，世界杯推动体育纪念品销量激增",
-      "summary": "一英国卖家测试TikTok Shop GMV Max广告工具，15天内店铺销售额从1.59万英镑增至4.46万英镑，广告贡献占比81%，ROAS超60倍；世界杯带动体育纪念品销量半年增长136%，球衣搜索量增长3倍。",
-      "publishedAt": "2026-07-20T10:01:00+08:00",
-      "source": "AMZ123跨境导航",
-      "url": "https://www.amz123.com/kx/qak2kAdf",
-      "subCategory": "平台动态"
-    },
-    {
-      "id": "trade-20260720-026",
-      "title": "TikTok Shop CBT揽收服务扩展至佛州迈阿密 全美九大核心区域物流费率低至2.99美元",
-      "summary": "TikTok Shop宣布CBT揽收服务于7月28日起扩展至迈阿密，覆盖全美九大核心区域，运费低至2.99美元，超过每日200单的商家一至四区订单费用降至0.5美元。",
-      "publishedAt": "2026-07-20T09:51:02+08:00",
-      "source": "AMZ123跨境导航",
-      "url": "https://www.amz123.com/kx/cOw7lpq9",
-      "subCategory": "物流仓储"
-    },
-    {
-      "id": "trade-20260720-025",
-      "title": "海外品牌退出释放市场空间 俄罗斯运动消费全年持续 六大类目成为跨境卖家新方向",
-      "summary": "国际运动品牌退出俄罗斯后市场空间释放，当地运动消费全年保持需求，露营钓具、滑雪防护、家庭健身器材等六大品类被列为跨境卖家新增长方向。",
-      "publishedAt": "2026-07-20T09:51:01+08:00",
-      "source": "AMZ123跨境导航",
-      "url": "https://www.amz123.com/kx/rDeoUKzX",
-      "subCategory": "新兴市场"
-    },
-    {
-      "id": "trade-20260720-024",
-      "title": "美区TikTok净水棉套月销破150万 GMV 水质焦虑推动低价净水产品走红",
-      "summary": "一款售价18.88美元起、含50枚滤芯的净水棉套产品在TikTok美区上线约一个月内实现约22.66万美元GMV，得益于波托马克河污水事件引发的水质焦虑，相关搜索量同比增长180%。",
-      "publishedAt": "2026-07-20T09:51:00+08:00",
-      "source": "AMZ123跨境导航",
-      "url": "https://www.amz123.com/kx/kZPfNqRs",
-      "subCategory": "选品趋势"
-    },
-    {
-      "id": "trade-20260720-027",
-      "title": "TikTok Shop占巴西线上成交6.5% 社交电商潜力持续释放",
-      "summary": "据Optimiza Marketing报告，TikTok Shop占巴西线上最终成交订单的6.5%，落后于传统电商平台的46%，但在Z世代群体转化率上表现优于Instagram的8.9%。",
-      "publishedAt": "2026-07-20T09:37:00+08:00",
-      "source": "AMZ123跨境导航",
-      "url": "https://www.amz123.com/kx/twdtzUPo",
-      "subCategory": "新兴市场"
-    },
-    {
-      "id": "trade-20260720-029",
-      "title": "TikTok Shop全托管夏季促销在欧洲圆满结束",
-      "summary": "TikTok Shop全托管模式夏季促销在英国及德法意西四国收官，英国夏季品类销售额环比增长1.5倍，欧盟四国增长1.2倍，波兰、荷兰等新兴市场业务增长迅速。",
-      "publishedAt": "2026-07-20T09:27:01+08:00",
-      "source": "AMZ123跨境导航",
-      "url": "https://www.amz123.com/kx/danSPcrN",
-      "subCategory": "平台动态"
-    },
-    {
-      "id": "trade-20260720-028",
-      "title": "eBay亿选之星揭榜英德7月汽配刚需件",
-      "summary": "eBay\"亿选之星\"栏目公布7月英德市场六大汽配刚需品类，包括散热器、拖车挂钩、遮阳挡、轮眉、油箱盖及车门配件，均需符合当地认证标准。",
-      "publishedAt": "2026-07-20T09:27:00+08:00",
-      "source": "AMZ123跨境导航",
-      "url": "https://www.amz123.com/kx/elkvnzT2",
-      "subCategory": "选品趋势"
-    },
-    {
-      "id": "trade-20260720-030",
-      "title": "Wildberries推出AI珠宝饰品虚拟试戴功能",
-      "summary": "俄罗斯电商平台Wildberries在移动端上线AI珠宝饰品虚拟试戴功能，用户上传照片后可自动识别面部特征展示耳环、项链等佩戴效果，并新增支持该功能的商品筛选项。",
-      "publishedAt": "2026-07-20T09:26:00+08:00",
-      "source": "AMZ123跨境导航",
-      "url": "https://www.amz123.com/kx/kNFkRtY0",
-      "subCategory": "平台动态"
-    },
-    {
-      "id": "trade-20260720-032",
-      "title": "抢运潮退烧 SCFI连续下跌，美西运价周挫8%",
-      "summary": "上海出口集装箱运价指数（SCFI）连续下跌，本周报3080.31点，环比跌3.28%，其中美西航线跌8%至5721美元/FEU，美东航线微涨0.47%，南美航线跌9.7%。",
-      "publishedAt": "2026-07-20T09:16:01+08:00",
-      "source": "AMZ123跨境导航",
-      "url": "https://www.amz123.com/kx/kEN7qT9k",
-      "subCategory": "物流仓储"
-    },
-    {
-      "id": "trade-20260720-031",
-      "title": "亚马逊大规模下架\"包子捏捏乐\" 产品因超标苯化合物在欧美多站同步清退",
-      "summary": "亚马逊以苯化合物超标为由，在欧美多个站点同步下架\"包子捏捏乐\"类玩具产品，要求卖家60天内自行下架否则将产生销毁费用，此前英国OPSS检测样品苯含量达20mg/kg。",
-      "publishedAt": "2026-07-20T09:16:00+08:00",
-      "source": "AMZ123跨境导航",
-      "url": "https://www.amz123.com/kx/xgRvsGOI",
-      "subCategory": "平台政策"
-    },
-    {
-      "id": "trade-20260719-010",
-      "title": "亚马逊美国AWD全面拒收大件：超规产品需改道入仓FBA或GWD",
-      "summary": "亚马逊宣布美国站AWD仓储服务自7月31日起仅接受标准尺寸商品，长宽高分别达18/14/8英寸或重量20磅以上商品将无法入仓，家具、健身器材等品类卖家受影响，卖家可改用FBA或GWD发货应对。",
-      "publishedAt": "2026-07-19T22:47:00+08:00",
-      "source": "亿邦动力",
-      "url": "https://finance.sina.com.cn/tech/roll/2026-07-19/doc-iniikhwy8143596.shtml",
-      "subCategory": "物流仓储"
     }
   ]
 }
