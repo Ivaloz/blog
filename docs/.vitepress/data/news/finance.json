@@ -3,8 +3,80 @@
   "slug": "finance",
   "title": "投资与财经",
   "description": "宏观经济、A 股 / 港股 / 美股、一级市场融资、行业研报观点。",
-  "updatedAt": "2026-07-23T17:10:00+08:00",
+  "updatedAt": "2026-07-24T00:10:00+08:00",
   "items": [
+    {
+      "title": "AI开支引发回报疑虑，纳指跌幅扩大至2%，特斯拉跌超13%，布油触及百元关口，美国长债承压",
+      "summary": "美股周四夜盘走低，纳指跌幅扩大至2%，标普500跌1.1%，道指跌超1%，银行股跌超1.6%，特斯拉跌超13%。市场担忧AI基建投资能否产生足够回报，同时布伦特原油盘中触及每桶100美元，通胀担忧升温。",
+      "publishedAt": "2026-07-23T22:32:00+08:00",
+      "source": "华尔街见闻",
+      "url": "https://wallstreetcn.com/articles/3777754",
+      "subCategory": "美股",
+      "id": "finance-20260723-301"
+    },
+    {
+      "title": "7月27日登陆科创板！长鑫科技投资价值怎么看？",
+      "summary": "存储芯片厂商长鑫科技将于7月27日在科创板挂牌，发行价8.66元/股，发行股数66.88亿股，上市后总市值约5791.88亿元；一季度营收508亿元，同比增长719%。",
+      "publishedAt": "2026-07-23T22:22:00+08:00",
+      "source": "财联社",
+      "url": "https://www.cls.cn/detail/2435567",
+      "subCategory": "一级市场",
+      "id": "finance-20260723-305"
+    },
+    {
+      "title": "Iraq-Kuwait Border Crossing Hit by Iran; Trump Threatens \"Major Military Punishment\"",
+      "summary": "伊拉克与科威特间阿卜杜拉边境口岸遭袭，此前沙特油轮在红海遭胡塞武装袭击起火（船员安全）；特朗普警告若沙特船只再遭袭击，美方将对伊朗和胡塞武装实施\"重大军事惩罚\"，美军已向中东增派部队。",
+      "publishedAt": "2026-07-23T21:33:00+08:00",
+      "source": "华尔街见闻",
+      "url": "https://wallstreetcn.com/articles/3777791",
+      "subCategory": "风险事件",
+      "id": "finance-20260723-308"
+    },
+    {
+      "title": "Alphabet现金流首度转负 AI资本支出压力考验科技巨头财报",
+      "summary": "Alphabet二季度自由现金流历史上首次转负，单季消耗现金59亿美元，尽管谷歌云业务增长82%创纪录；公司将2026年资本支出指引上调至1950亿至2050亿美元，股价应声下跌5%。",
+      "publishedAt": "2026-07-23T21:23:00+08:00",
+      "source": "财联社",
+      "url": "https://www.cls.cn/detail/2435521",
+      "subCategory": "公司财报",
+      "id": "finance-20260723-303"
+    },
+    {
+      "title": "原油飙升加剧通胀担忧！美债收益率集体暴涨，10年期突破4.7%创18个月新高",
+      "summary": "受中东局势推高油价、美国首申失业金人数意外降至18.7万及科技巨头发债融资AI资本支出等因素影响，美国10年期国债收益率升至4.71%，创18个月新高，30年期收益率连续12个交易日高于5%。",
+      "publishedAt": "2026-07-23T21:09:00+08:00",
+      "source": "华尔街见闻",
+      "url": "https://wallstreetcn.com/articles/3777802",
+      "subCategory": "宏观经济",
+      "id": "finance-20260723-310"
+    },
+    {
+      "title": "Brent Oil Touches $100 Mark! RBC Warns: War Enters Dangerous Stage",
+      "summary": "布伦特原油周四盘中一度触及每桶100美元，单日涨幅接近5%，受红海胡塞武装袭击沙特油轮及霍尔木兹、曼德海峡承压推动；RBC警告油价或挑战2008年146美元历史高点。",
+      "publishedAt": "2026-07-23T21:08:00+08:00",
+      "source": "华尔街见闻",
+      "url": "https://wallstreetcn.com/articles/3777797",
+      "subCategory": "大宗商品",
+      "id": "finance-20260723-306"
+    },
+    {
+      "title": "创1969年以来最低！美国上周首申人数降至18.7万，大幅超预期",
+      "summary": "美国截至7月18日当周初请失业金人数降至18.7万人，创1969年以来新低，较前一周减少2.2万人，远低于彭博经济学家预测中值21万人；持续申请失业金人数降至159.6万人，跌破180万关口。",
+      "publishedAt": "2026-07-23T20:55:00+08:00",
+      "source": "华尔街见闻",
+      "url": "https://wallstreetcn.com/articles/3777798",
+      "subCategory": "宏观经济",
+      "id": "finance-20260723-309"
+    },
+    {
+      "title": "图解期货 | 金价失守4100美元！贵金属反弹能否持续",
+      "summary": "截至7月23日收盘，国内贵金属板块内部涨跌分化，现货黄金盘后跌破4100美元/盎司，此前一交易日金价一度突破4100美元并带动贵金属板块普遍反弹，市场关注反弹能否延续。",
+      "publishedAt": "2026-07-23T16:38:00+08:00",
+      "source": "东方财富网",
+      "url": "https://finance.eastmoney.com/a/202607233818966535.html",
+      "subCategory": "大宗商品",
+      "id": "finance-20260723-307"
+    },
     {
       "title": "港股收评：恒指涨1.28% 科指涨0.65% 科网股普涨 有色金属板块大涨",
       "summary": "7月23日港股全线收涨，恒生指数涨1.28%报25210.81点，恒生科技指数涨0.65%。科网股普涨，美团涨超4%；有色金属板块大涨，赣锋锂业涨超9%；半导体股回调，华虹半导体跌超7%。",
@@ -22,6 +94,15 @@
       "url": "https://finance.sina.com.cn/tob/2026-07-23/doc-iniiunce7864577.shtml",
       "subCategory": "A股",
       "id": "finance-20260723-203"
+    },
+    {
+      "title": "Tech stocks live: Tesla's earnings miss, Google's big spend sends both stocks lower",
+      "summary": "特斯拉公布2026年第二季度业绩，营收282.4亿美元，超市场预期的263.2亿美元，但调整后每股收益0.33美元，远低于预期的0.50美元；受此影响，股价盘前一度下跌约7%。",
+      "publishedAt": "2026-07-23T09:19:00-05:00",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/live/tech-stocks-live-tech-heavy-nasdaq-climbs-ahead-of-big-tech-earnings-kickoff-164334720.html",
+      "subCategory": "公司财报",
+      "id": "finance-20260723-302"
     },
     {
       "id": "finance-20260723-001",
@@ -105,24 +186,6 @@
       "subCategory": "港股"
     },
     {
-      "id": "finance-20260722-008",
-      "title": "COMEX黄金期货涨1.69%戱4083.7美元/盎司，白银涨4.23%",
-      "summary": "COMEX黄金期货收涨1.69%，报每盎司4083.7美元；COMEX白银期货涨4.23%，报每盎司59.065美元。",
-      "publishedAt": "2026-07-22",
-      "source": "东方财富网",
-      "url": "https://wap.eastmoney.com/a/202607223816096343.html",
-      "subCategory": "大宗商品"
-    },
-    {
-      "title": "ServiceNow Reports Second Quarter 2026 Financial Results",
-      "summary": "ServiceNow公布第二季度订阅收入38.77亿美元，同比增长24.5%，总营收39.87亿美元增长24%，均超此前指引。非美国通用会计准则每股收益0.90美元，公司将全年订阅收入指引上调至157.6亿至157.8亿美元。",
-      "publishedAt": "2026-07-22",
-      "source": "ServiceNow Newsroom",
-      "url": "https://newsroom.servicenow.com/press-releases/details/2026/ServiceNow-Reports-Second-Quarter-2026-Financial-Results/default.aspx",
-      "subCategory": "公司财报",
-      "id": "finance-20260723-205"
-    },
-    {
       "title": "Travis Kalanick's robotics company raises $1.7B, led by a16z",
       "summary": "前Uber创始人特拉维斯·卡兰尼克旗下机器人与工业自动化公司Atoms完成17亿美元融资，由a16z领投，贝恩资本、Fifth Wall及Uber等参投。该公司由Cloud Kitchens更名并收购工业自动化企业Pronto而来。",
       "publishedAt": "2026-07-22T11:50:00-07:00",
@@ -166,6 +229,15 @@
       "source": "中国新闻网",
       "url": "https://www.chinanews.com.cn/gj/2026/07-22/10663981.shtml",
       "subCategory": "风险事件"
+    },
+    {
+      "title": "AMD and Anthropic sign chip deal worth up to $5 billion",
+      "summary": "AMD宣布对Anthropic进行最高50亿美元战略股权投资，Anthropic将部署最高2吉瓦AMD Instinct MI450系列GPU，首批1吉瓦计划于2027年上半年投入使用，消息公布当日AMD股价上涨8.11%。",
+      "publishedAt": "2026-07-22T08:09:00-05:00",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/ai/articles/amd-anthropic-sign-chip-deal-130953920.html",
+      "subCategory": "一级市场",
+      "id": "finance-20260723-304"
     },
     {
       "id": "finance-20260722-011",
@@ -247,6 +319,24 @@
       "source": "证券日报（东方财富网）",
       "url": "https://finance.eastmoney.com/a/202607213816067934.html",
       "subCategory": "A股"
+    },
+    {
+      "id": "finance-20260722-008",
+      "title": "COMEX黄金期货涨1.69%戱4083.7美元/盎司，白银涨4.23%",
+      "summary": "COMEX黄金期货收涨1.69%，报每盎司4083.7美元；COMEX白银期货涨4.23%，报每盎司59.065美元。",
+      "publishedAt": "2026-07-22",
+      "source": "东方财富网",
+      "url": "https://wap.eastmoney.com/a/202607223816096343.html",
+      "subCategory": "大宗商品"
+    },
+    {
+      "title": "ServiceNow Reports Second Quarter 2026 Financial Results",
+      "summary": "ServiceNow公布第二季度订阅收入38.77亿美元，同比增长24.5%，总营收39.87亿美元增长24%，均超此前指引。非美国通用会计准则每股收益0.90美元，公司将全年订阅收入指引上调至157.6亿至157.8亿美元。",
+      "publishedAt": "2026-07-22",
+      "source": "ServiceNow Newsroom",
+      "url": "https://newsroom.servicenow.com/press-releases/details/2026/ServiceNow-Reports-Second-Quarter-2026-Financial-Results/default.aspx",
+      "subCategory": "公司财报",
+      "id": "finance-20260723-205"
     },
     {
       "id": "finance-20260722-005",
@@ -591,33 +681,6 @@
       "subCategory": "一级市场"
     },
     {
-      "id": "finance-20260720-009",
-      "title": "Technology growth fuels Shanghai's 5.6% GDP growth in H1 2026",
-      "summary": "上海市统计局7月20日发布数据，上半年上海地区生产总值约2.79万亿元，按不变价格计算同比增长5.6%，其中信息技术和软件服务业增长9.1%，集成电路制造业和人工智能制造业产值增速均约20%。",
-      "publishedAt": "2026-07-20",
-      "source": "China Daily",
-      "url": "https://www.chinadaily.com.cn/a/202607/20/WS6a5dbefda310986e2b466337.html",
-      "subCategory": "宏观经济"
-    },
-    {
-      "id": "finance-20260720-015",
-      "title": "Nvidia Stock NVDA Tests $200 Support as Chinese AI Competition Shakes the Chip Rally",
-      "summary": "受中国人工智能企业竞争加剧及AI支出前景担忧影响，英伟达股价回落测试200美元关键支撑位，费城半导体指数当周跌幅约10%并跌入技术性熊市，英伟达较2026年高点回落约14%。",
-      "publishedAt": "2026-07-20",
-      "source": "FX Leaders",
-      "url": "https://www.fxleaders.com/news/2026/07/20/nvidia-stock-nvda-tests-200-support-as-chinese-ai-competition-shakes-the-chip-rally/",
-      "subCategory": "美股"
-    },
-    {
-      "id": "finance-20260720-030",
-      "title": "Amillex安迈每日汇评｜原油跳空高开，市场通胀隐忧与利率预期压制金价表现",
-      "summary": "7月20日，美原油开盘跳空高开近3%，一度触及84.60美元/桶的一个月高位，随后在84.22美元/桶附近震荡，涨幅2.25%。价格上涨主要受中东地缘政治风险溢价上升及OPEC+减产合规超预期影响。",
-      "publishedAt": "2026-07-20",
-      "source": "Amillex",
-      "url": "https://www.amillex.com/2026/07/20/amillex%E5%AE%89%E8%BF%88%E6%AF%8F%E6%97%A5%E6%B1%87%E8%AF%84%EF%BD%9C%E5%8E%9F%E6%B2%B9%E8%B7%B3%E7%A9%BA%E9%AB%98%E5%BC%80%EF%BC%8C%E5%B8%82%E5%9C%BA%E9%80%9A%E8%83%80%E9%9A%90%E5%BF%A7%E4%B8%8E/",
-      "subCategory": "大宗商品"
-    },
-    {
       "id": "finance-20260720-013",
       "title": "首发｜\"国家队\"做量子计算，3个月完成2轮融资",
       "summary": "源自中科院计算所的量子计算公司中科量枢3个月内完成天使轮与天使+轮两轮融资，天使轮由普华资本、知一投资领投，九坤20探跡。",
@@ -661,69 +724,6 @@
       "source": "东方财富网",
       "url": "https://finance.eastmoney.com/a/202607203812679921.html",
       "subCategory": "A股"
-    },
-    {
-      "id": "finance-20260720-027",
-      "title": "Judge pauses $110B Paramount-Warner Bros. merger",
-      "summary": "美国联邦法官应加州总检察长Rob Bonta领衦15个州总检察长起诉，临时叫停帕拉蒙Skydance收购华纳兄弟探索公司的1100亿美元交易，为期14天，理由是该并购可能损害院线发行及有线电视授权市场竞争。",
-      "publishedAt": "2026-07-20T10:58:00-07:00",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/20/judge-pauses-110b-paramount-warner-bros-merger/",
-      "subCategory": "风险事件"
-    },
-    {
-      "id": "finance-20260720-011",
-      "title": "港股開市｜初段造好 恒指升272點報24,835點 阿里巴巴高開逗3%",
-      "summary": "7月20日港股开盘走高，恒生指数高开272点报24835点，涨幅1.11%；恒生科技指数开盘涨2.2%，国企指数涨1.43%；阿里巴巴因发布新AI模型消息高开逗3%，部分公用事业及地产股小幅下跌。",
-      "publishedAt": "2026-07-20T09:26:00+08:00",
-      "source": "巴士的报",
-      "url": "https://www.bastillepost.com/hongkong/article/16398512",
-      "subCategory": "港股"
-    },
-    {
-      "id": "finance-20260720-029",
-      "title": "2026年7月20日黄金市场交易指南：全维度盘面数据一览",
-      "summary": "7月20日，伦敦现货黄金报4016.64美元/盎司，涨0.01%；COMEX黄金期货报4021.20美元/盎司，跌0.04%；国内沪金主力报876.96元/克，涨0.58%；现货白银涨1.59%至56.78美元/盎司。",
-      "publishedAt": "2026-07-20T09:10:09+08:00",
-      "source": "金投网",
-      "url": "https://www.cngold.org/c/2026-07-20/c10633243.html",
-      "subCategory": "大宗商品"
-    },
-    {
-      "id": "finance-20260720-020",
-      "title": "Current price of gold as of July 20, 2026",
-      "summary": "截至美东时间上午8时55分，现货黄金报每盎司4010美元，较7月17日的3972美元上涨38美元；现货白银扗57美元/盎司，铂金1587美元，钯金1261美元，贵金属市场持续获避险需求支撑。",
-      "publishedAt": "2026-07-20T09:01:00-04:00",
-      "source": "Fortune",
-      "url": "https://fortune.com/article/current-price-of-gold-07-20-202/",
-      "subCategory": "大宗商品"
-    },
-    {
-      "id": "finance-20260720-016",
-      "title": "Inference startup Infinity raises $15M from Touring Capital, OpenAI and Anthropic researchers",
-      "summary": "AI推理初创公司Infinity完成1500万美元融资，估值达1亿美元，投资方包括Touring Capital及OpenAI、Anthropic的员工个人。公司开发跨芯片AI推理内核软件，客户包括AI芯片商D-Matrix，团队规模26人。",
-      "publishedAt": "2026-07-20T08:15:00-07:00",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/20/inference-startup-infinity-raises-15m-from-touring-capital-openai-and-athropic-researchers/",
-      "subCategory": "一级市场"
-    },
-    {
-      "id": "finance-20260720-001",
-      "title": "股海导航：2026年7月20日沪深股市公告与交易提示",
-      "summary": "沪深股市7月20日早间公告摘要显示，多只个股复牌交易，中国神华披頲6月商品煤产量4270万吨、销量5050万吨同比下降，另有多家公司发布股份回购计划及2026年上半年业绩预告，预增幅度20%到486%不等。",
-      "publishedAt": "2026-07-20T07:12:00+08:00",
-      "source": "新浪财经",
-      "url": "https://finance.sina.com.cn/stock/s/2026-07-20/doc-iniikxus8148270.shtml",
-      "subCategory": "A股"
-    },
-    {
-      "id": "finance-20260720-019",
-      "title": "Current price of oil as of July 20, 2026",
-      "summary": "截至美东时间上午5时45分，布伦特原油报每桶88.22美元，较前一交易日的91.00美元下跌2.78美元，跌幅3.05%，美伊冲突持续扰动市场，油价波动加剧。",
-      "publishedAt": "2026-07-20T04:46:00-05:00",
-      "source": "Fortune",
-      "url": "https://uk.finance.yahoo.com/news/current-price-oil-july-20-094645330.html",
-      "subCategory": "大宗商品"
     }
   ]
 }

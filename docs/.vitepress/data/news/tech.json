@@ -3,8 +3,80 @@
   "slug": "tech",
   "title": "科技新闻",
   "description": "前沿科技、互联网产品、芯片硬件、开源生态。",
-  "updatedAt": "2026-07-23T17:10:00+08:00",
+  "updatedAt": "2026-07-24T00:10:00+08:00",
   "items": [
+    {
+      "title": "英伟达 Jetson 芯片将登陆月球，驱动月面机器人自主运行",
+      "summary": "美国初创公司 Lunar Outpost 宣布将在其月球车上搭载英伟达 Jetson 芯片管理激光雷达系统，或成为首个登陆月球表面的 GPU，用于支持 NASA 商业月球有效载荷服务计划；英伟达还与 Firefly Aerospace 合作，将 Jetson 平台部署于月球轨道卫星用于图像处理。",
+      "publishedAt": "2026-07-23T23:15:56+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/980/866.htm",
+      "subCategory": "航空航天",
+      "id": "tech-20260723-301"
+    },
+    {
+      "title": "先马推出 S300-360 一体式水冷散热器，黑白双色均售 499 元",
+      "summary": "先马发布 S300-360 一体式水冷散热器，冷头配备支持自定义画面的 6 英寸磁吸屏，兼容 Intel LGA1700/1851 及 AMD AM4/AM5 平台，水泵转速 1800-2600 转，提供 6 年质保，黑白双色售价均为 499 元。",
+      "publishedAt": "2026-07-23T22:58:08+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/980/862.htm",
+      "subCategory": "消费电子",
+      "id": "tech-20260723-307"
+    },
+    {
+      "title": "2026 款微星泰坦 16 笔记本新增酷睿 Ultra 7 255HX + RTX 5070Ti 配置版本，售价 18599 元",
+      "summary": "微星为 2026 款泰坦 16 游戏笔记本新增一款配置，搭载酷睿 Ultra 7 255HX 处理器、16GB 内存、1TB 固态硬盘及 RTX 5070Ti 显卡，配备 2560x1600 分辨率 240Hz 屏幕，支持雷电 4 接口及 140W 快充，售价 18599 元。",
+      "publishedAt": "2026-07-23T22:39:03+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/980/860.htm",
+      "subCategory": "消费电子",
+      "id": "tech-20260723-306"
+    },
+    {
+      "title": "领克家族首款旅行车 07GT 上市，售价 15.78 万元起",
+      "summary": "领克品牌首款旅行车 07GT 正式上市，搭载 1.5T 插电混动系统，四驱版综合功率达 390kW，零百加速约 4 秒，综合续航最高 1422 公里；四驱版配备同级独有 MRC 磁流变悬架，并搭载激光雷达与千里浩瀚 H5 智能驾驶辅助系统。",
+      "publishedAt": "2026-07-23T20:18:00+08:00",
+      "source": "新浪科技",
+      "url": "https://finance.sina.com.cn/tech/digi/2026-07-23/doc-iniivayy4581082.shtml",
+      "subCategory": "智能汽车",
+      "id": "tech-20260723-302"
+    },
+    {
+      "title": "新型 RefluXFS 漏洞可令攻击者在 Linux 系统获取 root 权限",
+      "summary": "安全研究人员发现一个存在九年之久的 Linux 内核 XFS 文件系统竞态条件漏洞（CVE-2026-64600），本地攻击者可借此覆盖 root 拥有的受保护文件并获取持久 root 权限，影响 RHEL、Oracle Linux、Amazon Linux、Fedora 等发行版，该漏洞已于 7 月 16 日修复，Qualys 估计影响系统超过 1640 万台。",
+      "publishedAt": "2026-07-23T19:40:00+08:00",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/linux/new-refluxfs-linux-flaw-lets-attackers-gain-root-privileges/",
+      "subCategory": "安全漏洞",
+      "id": "tech-20260723-308"
+    },
+    {
+      "title": "中国移动：已全面适配国行三星 Galaxy Z Flip8/Fold8 系列手机 eSIM",
+      "summary": "中国移动宣布已全面适配国行三星 Galaxy Z Fold8 Ultra、Galaxy Z Fold8、Galaxy Z Flip8 系列手机的 eSIM 功能，至此其 eSIM 业务已覆盖苹果、华为、三星等品牌共 16 款旗舰机型，其中三星占 6 款。",
+      "publishedAt": "2026-07-23T19:01:22+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/980/809.htm",
+      "subCategory": "消费电子",
+      "id": "tech-20260723-304"
+    },
+    {
+      "title": "谷歌现在允许用户通过自拍视频登录账号",
+      "summary": "谷歌上线名为\"自拍视频\"的账号恢复新方式，用户可预先录制含头部动作的短视频，日后在其他找回方式不可用时用于身份验证，系统采用活体检测防范深度伪造。该功能不支持 Workspace 企业账号、儿童账号及加入高级保护计划的账号。",
+      "publishedAt": "2026-07-23T18:48:47+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/980/806.htm",
+      "subCategory": "互联网产品",
+      "id": "tech-20260723-303"
+    },
+    {
+      "title": "荣耀 Magic V6 折叠屏手机开启 MagicOS 11 先锋招募",
+      "summary": "荣耀公布 MagicOS 11 液态玻璃先锋版第二期招募计划，新增 Magic V6 折叠屏机型，招募时间为 7 月 23 日至 26 日，预计不晚于 7 月 29 日推送。该系统首创安卓动态全屏通透效果，并引入具备第三方应用控制与长期记忆能力的 YOYO Next 智能助手。",
+      "publishedAt": "2026-07-23T18:35:47+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/980/803.htm",
+      "subCategory": "操作系统",
+      "id": "tech-20260723-305"
+    },
     {
       "title": "飞利浦27M2N5500X 27英寸显示器发售：2K 425Hz、圆偏光护眼技术",
       "summary": "飞利浦推出27M2N5500X显示器，采用2560×1440分辨率Fast IPS面板，425Hz刷新率，0.3ms响应时间，配备圆偏光护眼技术，支持10bit色彩及96% DCI-P3色域，京东售价1899元。",
@@ -123,6 +195,24 @@
       "subCategory": "智能汽车"
     },
     {
+      "title": "Check Point 修复 SmartConsole 被利用的高危认证绕过漏洞",
+      "summary": "Check Point 修复了 Security Management 及多域管理产品中的三个高危漏洞，其中 CVE-2026-16232（CVSS 9.3）为 SmartConsole 登录流程认证绕过漏洞，未经身份验证的远程攻击者可借此获取应用登录令牌并以完全管理员权限登录；该漏洞已被小范围在野利用，CISA 已将其列入已知被利用漏洞目录。",
+      "publishedAt": "2026-07-23",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/07/check-point-patches-exploited.html",
+      "subCategory": "安全漏洞",
+      "id": "tech-20260723-309"
+    },
+    {
+      "title": "中国背景 JadeProx 组织使用新型 TriBack 加载器攻击政府与医疗机构",
+      "summary": "安全公司 Group-IB 通过一台暴露的阿里云新加坡服务器，发现具有中国背景的攻击组织 JadeProx 使用此前未公开的 Windows 加载器 TriBack Loader，针对亚洲及拉美的政府、医疗、教育机构发动攻击，已确认攻陷越南一家公立医院医学影像系统及马来西亚外交部。",
+      "publishedAt": "2026-07-23",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/07/china-nexus-jadeprox-uses-new-triback.html",
+      "subCategory": "安全漏洞",
+      "id": "tech-20260723-310"
+    },
+    {
       "id": "tech-20260722-101",
       "title": "惠科拟通过全资子公司涉足芯片先进封装及测试领域",
       "summary": "惠科拟设立全资子公司浙江惠芯先进半导体，进军芯片先进封装测试领域，一期聚焦12英寸混合芯片封装测试，规划月产能2000万颗，注册资本40亿元。",
@@ -229,24 +319,6 @@
       "source": "36氪",
       "url": "https://36kr.com/newsflashes/3906496056726918",
       "subCategory": "芯片硬件"
-    },
-    {
-      "title": "SharePoint远程代码执行漏洞CVE-2026-50522遭活跃利用，已被CISA列入KEV目录",
-      "summary": "CVE-2026-50522是微软SharePoint服务器一处反序列化漏洞，CVSS评分9.8，公开PoC发布后遭活跃利用，攻击者可窃取机器密钥维持权限。CISA已于7月22日将其列入已知被利用漏洞目录，要求联邦机构7月25日前完成修复。",
-      "publishedAt": "2026-07-22",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/07/critical-sharepoint-rce-cve-2026-50522.html",
-      "subCategory": "安全漏洞",
-      "id": "tech-20260723-211"
-    },
-    {
-      "title": "英伟达向美国海军研究生院捐赠DGX GB300超级计算机",
-      "summary": "英伟达创始人黄仁勋亲赴加州蒙特雷海军研究生院，为该校获捐的DGX GB300超级计算机举行启用仪式。该系统搭载72颗Blackwell Ultra GPU及36颗Grace CPU，将支持1500余名学生和600余名教职工开展气象预测、网络安全及灾害应对等AI模型训练与推理。",
-      "publishedAt": "2026-07-22",
-      "source": "NVIDIA Blog",
-      "url": "https://blogs.nvidia.com/blog/naval-postgraduate-school-dgx-ai-supercomputer/",
-      "subCategory": "芯片硬件",
-      "id": "tech-20260723-212"
     },
     {
       "id": "tech-20260722-115",
@@ -483,6 +555,24 @@
       "subCategory": "消费电子"
     },
     {
+      "title": "SharePoint远程代码执行漏洞CVE-2026-50522遭活跃利用，已被CISA列入KEV目录",
+      "summary": "CVE-2026-50522是微软SharePoint服务器一处反序列化漏洞，CVSS评分9.8，公开PoC发布后遭活跃利用，攻击者可窃取机器密钥维持权限。CISA已于7月22日将其列入已知被利用漏洞目录，要求联邦机构7月25日前完成修复。",
+      "publishedAt": "2026-07-22",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/07/critical-sharepoint-rce-cve-2026-50522.html",
+      "subCategory": "安全漏洞",
+      "id": "tech-20260723-211"
+    },
+    {
+      "title": "英伟达向美国海军研究生院捐赠DGX GB300超级计算机",
+      "summary": "英伟达创始人黄仁勋亲赴加州蒙特雷海军研究生院，为该校获捐的DGX GB300超级计算机举行启用仪式。该系统搭载72颗Blackwell Ultra GPU及36颗Grace CPU，将支持1500余名学生和600余名教职工开展气象预测、网络安全及灾害应对等AI模型训练与推理。",
+      "publishedAt": "2026-07-22",
+      "source": "NVIDIA Blog",
+      "url": "https://blogs.nvidia.com/blog/naval-postgraduate-school-dgx-ai-supercomputer/",
+      "subCategory": "芯片硬件",
+      "id": "tech-20260723-212"
+    },
+    {
       "id": "tech-20260722-016",
       "title": "华为鸿蒙 HarmonyOS 6.1.0.135 版本\"隐藏\"特性曝光：默认图标优化、耳机控制页面布局调整",
       "summary": "华为鸿蒙HarmonyOS 6.1.0.135版本面向Mate 80、Mate X7、Pura X系列推送，官方称优化图库AI编辑功能，IT之家测试还发现默认图标、智慧生活App耳机控制布局及单App音量控制等隐藏改动。",
@@ -633,96 +723,6 @@
       "publishedAt": "2026-07-21T16:26:37+08:00",
       "source": "IT之家",
       "url": "https://www.ithome.com/0/979/649.htm",
-      "subCategory": "智能汽车"
-    },
-    {
-      "id": "tech-20260721-015",
-      "title": "抖音生活服务上线直播间消费者被动入镜保护功能，面部自动模糊",
-      "summary": "抖音生活服务上线直播间人脸保护功能，商家可开播前后开启，系统自动模糊未登记路人面容，商家及邀请嘉宾可通过人脸录入豁免模糊，违规拍摄或骚扰消费者行为将被警告、断播或封号。",
-      "publishedAt": "2026-07-21T16:18:43+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/979/638.htm",
-      "subCategory": "互联网产品"
-    },
-    {
-      "id": "tech-20260721-016",
-      "title": "TrendForce 预测：NAND 闪存紧缺压力有望 2027H2 缓解",
-      "summary": "集邦咨询预测NAND闪存供应紧张将于2027年下半年改善，今年供应短缺约4%-5%，服务器需求持续增长而消费电子手机、笔记本电脑产量分别下滑15%-20%和10%，明年产能增速将超过需求增速。",
-      "publishedAt": "2026-07-21T16:08:56+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/979/627.htm",
-      "subCategory": "芯片硬件"
-    },
-    {
-      "id": "tech-20260721-017",
-      "title": "雷军：小米澎程系列车型 WLTC 亏电油耗最低至 5.7L/100km，长途出行偶尔用油也很省",
-      "summary": "小米董事长雷军公布小米澎程系列车型数据，插电增程车型WLTC亏电油耗最低5.7L/100km，CLTC纯电续航最高505公里，电池容量最高76kWh，1.5L增程器功率112kW，共N70、N70 Max、N90、N90 Max四款车型。",
-      "publishedAt": "2026-07-21T16:06:38+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/979/626.htm",
-      "subCategory": "智能汽车"
-    },
-    {
-      "id": "tech-20260721-018",
-      "title": "腾讯云：将大规模部署国产化算力，布局 NPO 超级节点",
-      "summary": "腾讯云在世界人工智能大会上表示将大规模部署国产化算力以降低推理成本，计划四季度部署NPO超级节点并呼吁建立统一行业标准；光电共封装芯片直接置于计算芯片同一电路板，被视为国产GPU超节点更务实的技术路线。",
-      "publishedAt": "2026-07-21T16:01:38+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/979/624.htm",
-      "subCategory": "云计算"
-    },
-    {
-      "id": "tech-20260721-019",
-      "title": "消息称索尼 FX5 电影摄影机明日发布：使用 A7R VI 同款电池、750g 重，5399 欧元起",
-      "summary": "据爆料，索尼将于7月22日发布FX5电影摄影机，配备1660万像素全画幅堆栈式传感器与BIONZ XR 2处理器，支持5K开放门记录及16位RAW视频，重约750克，与A7R VI共用电池，欧洲售价5399欧元起。",
-      "publishedAt": "2026-07-21T15:54:29+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/979/619.htm",
-      "subCategory": "消费电子"
-    },
-    {
-      "id": "tech-20260721-020",
-      "title": "百时美施贵宝采购英伟达最新 Vera Rubin 架构计算系统，用 AI 加速药物研发",
-      "summary": "百时美施贵宝宣布采购基于英伟达Vera Rubin架构的DGX SuperPOD计算系统，用于加速新药研发各环节，成为生命科学行业首家采购该系统的企业，此前公司已借助AI工具将临床试验准备时间缩短20%-30%。",
-      "publishedAt": "2026-07-21T15:50:05+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/979/611.htm",
-      "subCategory": "芯片硬件"
-    },
-    {
-      "id": "tech-20260721-021",
-      "title": "韩国 800 万亿韩元半导体园区项目遇阻：电力与水资源成最大瓶颈",
-      "summary": "韩国规划中的湖南半导体产业园项目预计投资逗800万亿韩元，因用电量需求相当于周边三省年用电量的70%-80%、日用工业水约65万吨，遇到当地居民对输电线路及核电设施建设的反对，政府目标2030年建成。",
-      "publishedAt": "2026-07-21T15:38:02+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/979/595.htm",
-      "subCategory": "芯片硬件"
-    },
-    {
-      "id": "tech-20260721-022",
-      "title": "荣耀亲选 HONOR Life 5G 随身 WiFi 上市：搭载华为海思芯片、5000mAh 电池，售价 199 元",
-      "summary": "荣耀亲选推出HONOR Life 5G随身WiFi，售价199元，搭载华为海思芯片，重约140克，下载速率最高286Mbps，支持最多16台设备连接及WiFi 6双频，内置5000mAh电池并配备实时显示网速与电量的彩色屏幕。",
-      "publishedAt": "2026-07-21T15:37:07+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/979/593.htm",
-      "subCategory": "消费电子"
-    },
-    {
-      "id": "tech-20260721-023",
-      "title": "苹果 iPhone 18 Pro/Max 爆料汇总：A20 芯片、可变光圈等",
-      "summary": "爆料显示苹果iPhone 18 Pro/Max将于2026年9月发布，配2nm A20 Pro芯片、可变光圈镜头与索尼IMX905主传感器，灵动岛缩窄，电池容量分别为4056mAh及5391mAh，机身变厚，标准版iPhone18将推迟至2027年发布。",
-      "publishedAt": "2026-07-21T15:34:16+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/979/589.htm",
-      "subCategory": "消费电子"
-    },
-    {
-      "id": "tech-20260721-024",
-      "title": "全新迈巴赫 GLS 首秀：中国版支持车位到车位辅助驾驶，还能\"读心\"",
-      "summary": "梅赛德斯-迈巴赫发布全新GLS 680，搭载4.0L双涡轮V8发动机，最大功率450千瓦、扭矩850牛米，中国版本基于MB.OS架构，支持城区及高速场景的车位到车位辅助驾驶，并配备可预判乘客需求的AI后排娱乐系统。",
-      "publishedAt": "2026-07-21T15:30:37+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/979/585.htm",
       "subCategory": "智能汽车"
     }
   ]
