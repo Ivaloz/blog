@@ -3,8 +3,71 @@
   "slug": "finance",
   "title": "投资与财经",
   "description": "宏观经济、A 股 / 港股 / 美股、一级市场融资、行业研报观点。",
-  "updatedAt": "2026-07-24T09:15:00+08:00",
+  "updatedAt": "2026-07-24T17:10:00+08:00",
   "items": [
+    {
+      "id": "finance-20260724-101",
+      "title": "沪指收跌1.61%报3814.20点，全市场超4900股下跌",
+      "summary": "7月24日A股收盘，上证指数跌1.61%报3814.20点，深证成指跌2.47%，创业板指跌2.65%，三市成交额1.94万亿元，较前一日缩量2650亿元，半导体芯片股逆势上涨，贵金属板块走低。",
+      "publishedAt": "2026-07-24T15:45:51+08:00",
+      "source": "每日经济新闻",
+      "url": "https://www.nbd.com.cn/articles/2026-07-24/4511071.html",
+      "subCategory": "A股"
+    },
+    {
+      "id": "finance-20260724-108",
+      "title": "Meta为得州数据中心再融资120亿美元，借款成本明显上升",
+      "summary": "Meta计划通过发债为其在得州艾尔帕索建设的近1吉瓦数据中心融资120亿美元，由贝莱德牵头，初步讨论收益率超过7%，较去年10月项目融资成本上升约0.4个百分点（估算）。",
+      "publishedAt": "2026-07-24T11:34:00+08:00",
+      "source": "华尔街见闻",
+      "url": "https://wallstreetcn.com/articles/3777847",
+      "subCategory": "风险事件"
+    },
+    {
+      "id": "finance-20260724-104",
+      "title": "6月末公募基金总规模达39.67万亿元续创新高",
+      "summary": "中国证券投资基金业协会数据显示，截至6月末，165家公募基金管理机构管理的资产净值合计39.67万亿元，较5月底增加0.19万亿元，连续三个月刷新历史纪录。",
+      "publishedAt": "2026-07-24T08:06:00+08:00",
+      "source": "证券时报",
+      "url": "https://www.stcn.com/article/detail/4038742.html",
+      "subCategory": "宏观经济"
+    },
+    {
+      "id": "finance-20260724-103",
+      "title": "恒指午盘跌1.27%报24891.84点，阿里巴巴跌超5%",
+      "summary": "7月24日港股午盘，恒生指数跌1.27%报24891.84点，恒生科技指数跌1.69%，阿里巴巴、快手、腾讯、哔哩哔哩、百度等科网股跌超2%，黄金股普遍下跌。",
+      "publishedAt": "2026-07-24",
+      "source": "新浪财经",
+      "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-07-24/doc-iniiwram4906959.shtml",
+      "subCategory": "港股"
+    },
+    {
+      "id": "finance-20260724-105",
+      "title": "央行7月24日开展5000亿元MLF操作",
+      "summary": "中国人民银行公告，为保持银行体系流动性充裕，7月24日以固定数量、利率招标、多重价位中标方式开展5000亿元1年期MLF操作，当月到期4000亿元，实现净投放1000亿元。",
+      "publishedAt": "2026-07-24T07:00:14+08:00",
+      "source": "每日经济新闻",
+      "url": "https://www.nbd.com.cn/articles/2026-07-23/4504778.html",
+      "subCategory": "政策利率"
+    },
+    {
+      "id": "finance-20260724-107",
+      "title": "AMD预计2030年AI加速器市场规模将达1.4万亿美元",
+      "summary": "AMD发布新一代Helios AI机架系统时表示，预计到2030年全球AI加速器市场规模将达约1.4万亿美元，接近当前整个半导体行业规模，客户包括OpenAI、Meta、甲骨文等。",
+      "publishedAt": "2026-07-23T13:33:00-07:00",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system/",
+      "subCategory": "美股"
+    },
+    {
+      "id": "finance-20260724-106",
+      "title": "保险科技公司Corgi八周内完成第三轮融资，估值达40亿美元",
+      "summary": "AI保险科技公司Corgi据报道完成新一轮融资，估值达40亿美元，为其B轮的第二次延伸，也是过去八周内的第三轮融资，投资方包括TCV和Kindred Ventures。",
+      "publishedAt": "2026-07-23T13:13:00-07:00",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/23/insurance-startup-corgi-reportedly-raised-more-money-at-4b-its-third-round-in-eight-weeks/",
+      "subCategory": "一级市场"
+    },
     {
       "id": "finance-20260724-010",
       "title": "英特尔第二季度营收增长25%，创十五年最快增速",
@@ -177,6 +240,24 @@
       "subCategory": "A股"
     },
     {
+      "id": "finance-20260724-009",
+      "title": "AI芯片初创公司Etched完成3亿美元C轮融资，估值103亿美元",
+      "summary": "AI芯片初创公司Etched完成3亿美元C轮融资，估值达103亿美元，由红杉资本领投，a16z、SK海力士、Jane Street等参投，较2025年12月的50亿美元估值翻倍。该公司专注于为AI推理阶段设计专用芯片，目前已获得10亿美元订单，在圣何塞及米尔皮塔斯运营数据中心。",
+      "publishedAt": "2026-07-23",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/23/ai-chip-startup-etched-defies-skeptics-hits-10-3b-valuation-from-big-name-investors/",
+      "subCategory": "一级市场"
+    },
+    {
+      "id": "finance-20260724-102",
+      "title": "香港交易所新增马来西亚交易所为认可证券交易所",
+      "summary": "香港联交所宣布马来西亚交易所成为其认可证券交易所，允许马来西亚上市公司在港进行第二上市，成为第21家获认可交易所，覆盖19个国家和地区。",
+      "publishedAt": "2026-07-23",
+      "source": "香港交易所",
+      "url": "https://www.hkex.com.hk/News/News-Release/2026/260723news?sc_lang=en",
+      "subCategory": "港股"
+    },
+    {
       "id": "finance-20260724-002",
       "title": "证监会表态维护市场稳定，多家私募宣布自购产品",
       "summary": "证监会表示将坚决维护资本市场平稳健康运行，欢迎境外机构投资者增加参与；思源投资、晨曦基金、引诺资产等私募宣布自购旗下产品；北京国有资本运营管理公司称已累计投资股市近千亿元并将继续增持；多家电子及半导体企业上半年净利润预增超50%。",
@@ -229,15 +310,6 @@
       "url": "https://finance.biggo.com/news/8c7b5541-46b4-4ad5-99ec-9505f56d401d",
       "subCategory": "公司财报",
       "id": "finance-20260723-206"
-    },
-    {
-      "id": "finance-20260724-009",
-      "title": "AI芯片初创公司Etched完成3亿美元C轮融资，估值103亿美元",
-      "summary": "AI芯片初创公司Etched完成3亿美元C轮融资，估值达103亿美元，由红杉资本领投，a16z、SK海力士、Jane Street等参投，较2025年12月的50亿美元估值翻倍。该公司专注于为AI推理阶段设计专用芯片，目前已获得10亿美元订单，在圣何塞及米尔皮塔斯运营数据中心。",
-      "publishedAt": "2026-07-23",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/23/ai-chip-startup-etched-defies-skeptics-hits-10-3b-valuation-from-big-name-investors/",
-      "subCategory": "一级市场"
     },
     {
       "id": "finance-20260722-112",
@@ -348,6 +420,24 @@
       "subCategory": "一级市场"
     },
     {
+      "id": "finance-20260722-008",
+      "title": "COMEX黄金期货涨1.69%戱4083.7美元/盎司，白银涨4.23%",
+      "summary": "COMEX黄金期货收涨1.69%，报每盎司4083.7美元；COMEX白银期货涨4.23%，报每盎司59.065美元。",
+      "publishedAt": "2026-07-22",
+      "source": "东方财富网",
+      "url": "https://wap.eastmoney.com/a/202607223816096343.html",
+      "subCategory": "大宗商品"
+    },
+    {
+      "title": "ServiceNow Reports Second Quarter 2026 Financial Results",
+      "summary": "ServiceNow公布第二季度订阅收入38.77亿美元，同比增长24.5%，总营收39.87亿美元增长24%，均超此前指引。非美国通用会计准则每股收益0.90美元，公司将全年订阅收入指引上调至157.6亿至157.8亿美元。",
+      "publishedAt": "2026-07-22",
+      "source": "ServiceNow Newsroom",
+      "url": "https://newsroom.servicenow.com/press-releases/details/2026/ServiceNow-Reports-Second-Quarter-2026-Financial-Results/default.aspx",
+      "subCategory": "公司财报",
+      "id": "finance-20260723-205"
+    },
+    {
       "id": "finance-20260722-007",
       "title": "财经早报：增强市场内在稳定性！证监会两日连开座谈会，长锅科技战配股数\"腾斩\"",
       "summary": "新浪财经早报（7月22日）报道，7月21日A股沪指涨1.79%、深成指涨4.81%、创业板指涨7.05%、科创50指数涨10.73%创一年最大单日涨幅，股票型ETF连续11个交易日净流入累计3567亿元；证监会7月20日至21日连续两日召开座谈会促进资本市场平稳健康发展。",
@@ -409,24 +499,6 @@
       "source": "证券日报（东方财富网）",
       "url": "https://finance.eastmoney.com/a/202607213816067934.html",
       "subCategory": "A股"
-    },
-    {
-      "id": "finance-20260722-008",
-      "title": "COMEX黄金期货涨1.69%戱4083.7美元/盎司，白银涨4.23%",
-      "summary": "COMEX黄金期货收涨1.69%，报每盎司4083.7美元；COMEX白银期货涨4.23%，报每盎司59.065美元。",
-      "publishedAt": "2026-07-22",
-      "source": "东方财富网",
-      "url": "https://wap.eastmoney.com/a/202607223816096343.html",
-      "subCategory": "大宗商品"
-    },
-    {
-      "title": "ServiceNow Reports Second Quarter 2026 Financial Results",
-      "summary": "ServiceNow公布第二季度订阅收入38.77亿美元，同比增长24.5%，总营收39.87亿美元增长24%，均超此前指引。非美国通用会计准则每股收益0.90美元，公司将全年订阅收入指引上调至157.6亿至157.8亿美元。",
-      "publishedAt": "2026-07-22",
-      "source": "ServiceNow Newsroom",
-      "url": "https://newsroom.servicenow.com/press-releases/details/2026/ServiceNow-Reports-Second-Quarter-2026-Financial-Results/default.aspx",
-      "subCategory": "公司财报",
-      "id": "finance-20260723-205"
     },
     {
       "id": "finance-20260722-002",
@@ -652,78 +724,6 @@
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-july-20-dow-sp-500-nasdaq-111429441.html",
       "subCategory": "美股"
-    },
-    {
-      "id": "finance-20260720-028",
-      "title": "国家队入场 A股仍普跌 超200只个股跌停",
-      "summary": "7月20日A股尾盘\"国家队\"资金入场支撑宽基ETF，但全市场仍呈普跌格局，3710只个股下跌、1740只上涨，超200只个股跌停，全天资金净流出617.83亿元。",
-      "publishedAt": "2026-07-20T23:52:00+08:00",
-      "source": "大纪元",
-      "url": "https://www.epochtimes.com/gb/26/7/20/n14813399.htm",
-      "subCategory": "风险事件"
-    },
-    {
-      "id": "finance-20260720-021",
-      "title": "AMC ENTERTAINMENT HOLDINGS ($AMC) Releases Q2 2026 Earnings",
-      "summary": "AMC院线公布2026年第二季度财报，每股收益0.14美元，大幅超市场预期的-0.06美元；营敁15.967亿美元，超出市场预期的14.888亿美元约1.079亿美元，创公司历史业绩纪录。",
-      "publishedAt": "2026-07-20T11:30:00Z",
-      "source": "QuiverQuant",
-      "url": "https://www.quiverquant.com/news/AMC+ENTERTAINMENT+HOLDINGS+($AMC)+Releases+Q2+2026+Earnings",
-      "subCategory": "公司财报"
-    },
-    {
-      "id": "finance-20260720-022",
-      "title": "晚间公告｜7月20日这些公告有看头",
-      "summary": "新华保险、中国太保发布公告，表态将发挥保险资金长期资本、耐心资本作用，加大对战略性新兴产业等领域权益投资，支持资本市场稳定发展；国家能源投资集团与宁德时代合作开发雅根二级水电站，装机240万千瓦，总投资333.94亿元。",
-      "publishedAt": "2026-07-20T18:44:59+08:00",
-      "source": "第一财经",
-      "url": "https://www.yicai.com/news/103283712.html",
-      "subCategory": "A股"
-    },
-    {
-      "id": "finance-20260720-017",
-      "title": "港股20日涨2.36% 收报25143.05点",
-      "summary": "香港恒生指数2月20日收盘上涨580.81点，涨幅2.36%，报25143.05点，主板全日成交3064.13亿港元；国企指数涨3.01%，恒生科技指数涨2.79%，腾讯控股涨3.51%，中国海洋石油涨5.19%。",
-      "publishedAt": "2026-07-20T18:15:44+08:00",
-      "source": "新华网",
-      "url": "http://www.xinhuanet.com/20260720/64df01b639b74b84975e72fe25856912/c.html",
-      "subCategory": "港股"
-    },
-    {
-      "id": "finance-20260720-025",
-      "title": "VC/PE周报｜险资出手40亿设立新基金，美团领投灵巧手公司",
-      "summary": "泰康投资登记设立两只关40亿元基金；具身智能公司曦诺未来完成美团领投的5亿元A+轮融资；逐际动力完成近2亿美元Pre-IPO轮融资，投资方包括IDG资本、蓝鲸科技等。",
-      "publishedAt": "2026-07-20T17:35:27+08:00",
-      "source": "每经网",
-      "url": "https://www.nbd.com.cn/articles/2026-07-20/4482544.html",
-      "subCategory": "一级市场"
-    },
-    {
-      "id": "finance-20260720-023",
-      "title": "7月20日港股收盘：恒指涨2.36% 恒生科技指数涨2.79%",
-      "summary": "7月20日，恒生指数收报25143.05点，上涨580.81点，涨幅2.36%；恒生科技指数收报4752.15点，涨128.98点，涨幅2.79%。中国海洋石油等能源股领涨，科网股普遍走强。",
-      "publishedAt": "2026-07-20T16:10:00+08:00",
-      "source": "东方财富网",
-      "url": "https://wap.eastmoney.com/a/202607203813276536.html",
-      "subCategory": "港股"
-    },
-    {
-      "id": "finance-20260720-024",
-      "title": "沪指、创业板指飘红，油气煤炭电力白酒板块大涨，茅台涨近6%，芯片PCB概念股下挖",
-      "summary": "7月20日A股收盘，上证指数涨0.85%，全天成交顗2.7万亿元。油气、煤炭、电力、白酒板块走强，贵州茅台涨近6%，古井贡酒等涨停；半导体、PCB概念股走弱，德明利连续4日下跌。",
-      "publishedAt": "2026-07-20T15:29:50+08:00",
-      "source": "每经网",
-      "url": "https://www.nbd.com.cn/articles/2026-07-20/4482021.html",
-      "subCategory": "A股"
-    },
-    {
-      "id": "finance-20260720-007",
-      "title": "最新LPR出炉：1年期3%，5年期以上3.5%，均不变",
-      "summary": "中国人民银行7月20日授权全国银行间同业拆借中心公布，1年期贷款市场报价利率（LPR）为3.00%，5年期以上为3.50%，均与上月持平，为连续第14个月维持不变，7天期逆回购利率同步保持不变。",
-      "publishedAt": "2026-07-20T14:32:41+08:00",
-      "source": "每日经济新闻",
-      "url": "https://www.nbd.com.cn/articles/2026-07-20/4481293.html",
-      "subCategory": "政策利率"
     }
   ]
 }

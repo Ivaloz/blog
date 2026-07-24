@@ -285,6 +285,15 @@
       "subCategory": "金融监管"
     },
     {
+      "id": "policy-20260722-005",
+      "title": "美贸易代表格里尔暗示本周五前将对数十个经济体加征新关税",
+      "summary": "美国贸易代表格里尔表示，针对约60个贸易伙伴、以“强迫劳动”为由的新关税最快将在现行10%全球关税7月24日到期前公布，税率或达12.5%，具体时间表尚未确定。",
+      "publishedAt": "2026-07-22T03:03:00+08:00",
+      "source": "大纪元",
+      "url": "https://www.epochtimes.com/gb/26/7/21/n14814360.htm",
+      "subCategory": "海外政策"
+    },
+    {
       "id": "policy-20260722-002",
       "title": "证监会召开上市公司、行业机构、专家学者系列座谈会听取意见建议",
       "summary": "7月20日至21日，证监会党委班子成员召开系列座谈会，听取来自上市公司、证券基金机构和专家学者的29位代表关于促进资本市场稳定健康发展的意见建议，涉及基础制度建设、量化交易监管等议题。",
@@ -454,6 +463,60 @@
       "source": "中央网络安全和信息化委员会办公室",
       "url": "https://www.cac.gov.cn/2026-07/20/c_1786294052406609.htm",
       "subCategory": "数据安全"
+    },
+    {
+      "id": "policy-20260720-006",
+      "title": "UK invests in homegrown space tech to boost national resilience",
+      "summary": "英国政府宣布投入6200万英镑支持本土太空科技发展，其中4200万英镑用于低轨道连接（C-LEO）项目卫星通信技术，2000万英镑用于国家太空创新计划，旨在增强国家韧性、减少对外部依赖，并提升卫星通信与太空态势感知能力。",
+      "publishedAt": "2026-07-20",
+      "source": "英国政府（GOV.UK）",
+      "url": "https://www.gov.uk/government/news/uk-invests-in-homegrown-space-tech-to-boost-national-resilience",
+      "subCategory": "海外政策"
+    },
+    {
+      "id": "policy-20260720-007",
+      "title": "商务部与柬埔寨商业部签署《关于在第三国贸易措施背景下加强合作与相互理解的谅解备忘录》",
+      "summary": "7月20日，商务部部长王文涛与柬埔寨商业部部长签署谅解备忘录，双方就第三国贸易措施背景下加强合作与相互理解达成一致，柬方承诺不采取针对中国的歧视性贸易措施，不损害中柬及中国-东盟经贸合作关系。",
+      "publishedAt": "2026-07-20",
+      "source": "中华人民共和国商务部",
+      "url": "https://www.mofcom.gov.cn/xwfb/bldhd/art/2026/art_ee6df458706e41969520e0c41a2a97c1.html",
+      "subCategory": "跨境贸易"
+    },
+    {
+      "id": "policy-20260720-008",
+      "title": "中国与泰国签署加强产供链经济合作的谅解备忘录",
+      "summary": "7月20日，在两国总理见证下，中国商务部与泰国商务部签署产供链经济合作谅解备忘录，双方约定定期举行会议、加强交流，推进两国产业链供应链经济合作，维护贸易安全与韧性。",
+      "publishedAt": "2026-07-20",
+      "source": "中华人民共和国商务部",
+      "url": "https://www.mofcom.gov.cn/xwfb/bldhd/art/2026/art_47337fad674f4d0282b5af9545f3fb0b.html",
+      "subCategory": "跨境贸易"
+    },
+    {
+      "id": "policy-20260720-012",
+      "title": "2026年7月20日全国银行间同业拆借中心受权公布贷款市场报价利率（LPR）公告",
+      "summary": "全国银行间同业拆借中心受权公布7月贷款市场报价利率，1年期LPR为3.0%，5年期以上LPR为3.5%，两个期限品种均与上月持平，维持不变。",
+      "publishedAt": "2026-07-20",
+      "source": "中国人民银行",
+      "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125440/3876551/2026072008093186869/index.html",
+      "subCategory": "金融监管"
+    },
+    {
+      "id": "policy-20260721-002",
+      "title": "Founders of Celsius Network Ordered to Pay $16.5 Million to Resolve FTC Charges",
+      "summary": "美国联邦贸易委员会宣布，Celsius Network三名前高管因就加密货币存款安全性和可提现性作虚假宣传，被责令合计支付1650万美元，其中前CEO Mashinsky支付1000万美元，三人均被禁止从事相关产品营销。",
+      "publishedAt": "2026-07-20",
+      "source": "美国联邦贸易委员会（FTC）",
+      "url": "https://www.ftc.gov/news-events/news/press-releases/2026/07/founders-celsius-network-ordered-pay-165-million-resolve-ftc-charges",
+      "subCategory": "海外政策"
+    },
+    {
+      "id": "policy-20260721-006",
+      "title": "《新能源汽车维修作业安全要求》国家标准8月1日起实施",
+      "summary": "市场监管总局发布国家标准GB/T 47439—2026《新能源汽车维修作业安全要求》，自2026年8月1日起实施，对电动及氢燃料电池汽车维修的人员资质、场地条件、作业前准备、风险识别及高压系统维修等作出规范，旨在提升维修企业安全管理水平。",
+      "publishedAt": "2026-07-20",
+      "source": "国家市场监督管理总局",
+      "url": "https://www.samr.gov.cn/xw/sj/art/2026/art_034fe3a706604d9dbb1af89a7833b84d.html",
+      "subCategory": "新能源政策"
     },
     {
       "id": "policy-20260721-001",

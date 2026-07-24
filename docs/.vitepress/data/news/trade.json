@@ -3,8 +3,80 @@
   "slug": "trade",
   "title": "外贸资讯",
   "description": "亚马逊、TikTok Shop、阿里国际站、Shopify 等平台政策与跨境电商市场、独立站、物流支付、关税法规、选品趋势。",
-  "updatedAt": "2026-07-24T09:15:00+08:00",
+  "updatedAt": "2026-07-24T17:10:00+08:00",
   "items": [
+    {
+      "id": "trade-20260724-102",
+      "title": "NRF：62%美国家庭7月初已开返校采购",
+      "summary": "NRF数据显示62%美国家庭截至7月初已开始返校采购，高于去年同期的55%，Pacsun、Kohl's等零售商提前促销并延长活动至7月至9月，牛仔类服饰仍是返校消费主力品类。",
+      "publishedAt": "2026-07-24T14:15:11+08:00",
+      "source": "出海网",
+      "url": "https://www.chwang.com/news/208053725142",
+      "subCategory": "选品趋势"
+    },
+    {
+      "id": "trade-20260724-105",
+      "title": "Shopee马来升级Lindung Niaga计划，新卖60天免平台费、免佣单上限提至200单",
+      "summary": "Shopee马来升级Lindung Niaga扶持计划，新卖家可获60天平台支持费减免，免佣订单上限从100单提高到200单、最长持续120天，广告金增加50%，并扩大60余个民生品类的佣金减免。",
+      "publishedAt": "2026-07-24T14:07:54+08:00",
+      "source": "出海网",
+      "url": "https://www.chwang.com/news/208053542018",
+      "subCategory": "平台政策"
+    },
+    {
+      "id": "trade-20260724-103",
+      "title": "亚马逊美区庭院榜10款月销过万，Eden洒水器单品月GMV近63万美元领跑",
+      "summary": "亚马逊美区庭院类目10款单品月销过万，Eden摆动洒水器以3.6万+销量、约62.94万美元月GMV居首，产品聚焦草坪灌溉、防虫、修剪等场景，定价集中在20-60美元区间。",
+      "publishedAt": "2026-07-24T14:05:36+08:00",
+      "source": "出海网",
+      "url": "https://www.chwang.com/news/208053484018",
+      "subCategory": "选品趋势"
+    },
+    {
+      "id": "trade-20260724-104",
+      "title": "TikTok美区净水棉套月销153万元 自来水污染焦虑催生20美元\"免装滤芯\"爆款",
+      "summary": "TikTok美区一款龙头净水棉套单品4周内售出约1.22万件、GMV约153万元，凭借免安装、可视化滤芯拆解演示及低于传统净水器的日均成本，抓住水质污染焦虑带来的需求。",
+      "publishedAt": "2026-07-24T14:00:43+08:00",
+      "source": "出海网",
+      "url": "https://www.chwang.com/news/208053361141",
+      "subCategory": "选品趋势"
+    },
+    {
+      "id": "trade-20260724-108",
+      "title": "OFAC制裁海领船务Sea Lead及50余艘船舶",
+      "summary": "美国财政部OFAC宣布制裁一个伊朗关联航运网络，将新加坡注册的海领船务及其子公司列为核心集装箱航运实体，50余艘船舶及多名人员实体被冻结资产并限制交易，涉伊朗石油出口相关运输。",
+      "publishedAt": "2026-07-24T13:42:15+08:00",
+      "source": "出海网",
+      "url": "https://www.chwang.com/news/208052896464",
+      "subCategory": "物流仓储"
+    },
+    {
+      "id": "trade-20260724-109",
+      "title": "拉瓜伊拉港震后近一月重启",
+      "summary": "委内瑞拉最大港口拉瓜伊拉港在6月24日地震后分阶段恢复运营，马士基公告显示第30周先做空箱疏散、第31周仅卸进口重箱，8月3日起全面恢复进出口，但码头结构受损令时间表仍存不确定性。",
+      "publishedAt": "2026-07-24T13:36:18+08:00",
+      "source": "出海网",
+      "url": "https://www.chwang.com/news/208052746422",
+      "subCategory": "物流仓储"
+    },
+    {
+      "id": "trade-20260724-110",
+      "title": "Ozon取货点补贴延至12个月、上限528万卢布",
+      "summary": "Ozon将取货点合作伙伴补贴期限从9个月延长至12个月，补贴上限从450万卢布提高到528万卢布，旨在巩固其覆盖约1.3亿居民、超8.5万个取货点的网络，与对手争夺低密度市场。",
+      "publishedAt": "2026-07-24T11:42:46+08:00",
+      "source": "出海网",
+      "url": "https://www.chwang.com/news/208049889359",
+      "subCategory": "物流仓储"
+    },
+    {
+      "id": "trade-20260724-101",
+      "title": "美国301关税落地，对中国征12.5%",
+      "summary": "美国援引1974年贸易法301条款，对60个经济体加征10%-12.5%关税，中国适用12.5%税率，覆盖99.4%美国进口商品，7月28日为在途货物设宽限期，部分能源、汽车零部件获豁免。",
+      "publishedAt": "2026-07-24T10:20:25+08:00",
+      "source": "出海网",
+      "url": "https://www.chwang.com/news/208047817069",
+      "subCategory": "关税法规"
+    },
     {
       "title": "预警！美西多个集装箱码头突发停摆",
       "summary": "美国奥克兰港TraPac、OICT、Matson等多个集装箱码头7月21日因码头工人声援其他工会罢工突发停摆，仲裁裁定该行动违反劳动合同后次日恢复作业，但货柜积压等影响仍持续。",
@@ -114,6 +186,24 @@
       "id": "trade-20260723-304"
     },
     {
+      "id": "trade-20260724-107",
+      "title": "亚马逊跟卖入口或将取消？",
+      "summary": "亚马逊被发现在部分商品详情页购物车下方不再展示\"Other Sellers on Amazon\"跟卖入口，疑似正进行A/B测试，此举更强调Buy Box竞争，可能削弱主打低价跟卖卖家的曝光。",
+      "publishedAt": "2026-07-23T13:37:33+08:00",
+      "source": "出海网",
+      "url": "https://www.chwang.com/news/208016539538",
+      "subCategory": "平台动态"
+    },
+    {
+      "id": "trade-20260724-106",
+      "title": "Yandex Market更新卖家协议：无人机袭击损货平台不赔，WB则启动8.8万卖家赔付",
+      "summary": "Yandex Market修订卖家协议，将无人机袭击等军事打击列为不可抗力，平台不再赔偿受损货物；Wildberries则相反，宣布对仓库遇袭受损的逾8.8万小卖家启动赔付并协商支持措施。",
+      "publishedAt": "2026-07-23T11:55:26+08:00",
+      "source": "出海网",
+      "url": "https://www.chwang.com/news/208013969448",
+      "subCategory": "平台政策"
+    },
+    {
       "title": "成本不到8美元、售价超22美元，中国卖家正在TikTok Shop氛围灯上拿下442亿美元市场",
       "summary": "中国卖家凭借成熟LED生产与柔性供应链，在TikTok Shop氛围灯品类中以不到8美元成本卖出超22美元售价，星空投影灯等产品部分单品月销破万件，欧美消费者需求旺盛。",
       "publishedAt": "2026-07-23T10:36:00+08:00",
@@ -148,6 +238,15 @@
       "url": "https://www.cifnews.com/article/187684",
       "subCategory": "平台政策",
       "id": "trade-20260723-212"
+    },
+    {
+      "title": "Amazon Business Reaches $60 Billion",
+      "summary": "据Marketplace Pulse披露，亚马逊企业采购业务年化销售额已达600亿美元，较2023年披露的350亿美元增长，其中第三方卖家贡献超半数、约300亿美元。",
+      "publishedAt": "2026-07-23",
+      "source": "Marketplace Pulse",
+      "url": "https://www.marketplacepulse.com/articles/amazon-business-reaches-60-billion",
+      "subCategory": "平台动态",
+      "id": "trade-20260723-312"
     },
     {
       "id": "trade-20260724-001",
@@ -229,15 +328,6 @@
       "url": "https://www.amz123.com/kx/wXjTLIIi",
       "subCategory": "关税法规",
       "id": "trade-20260723-210"
-    },
-    {
-      "title": "Amazon Business Reaches $60 Billion",
-      "summary": "据Marketplace Pulse披露，亚马逊企业采购业务年化销售额已达600亿美元，较2023年披露的350亿美元增长，其中第三方卖家贡献超半数、约300亿美元。",
-      "publishedAt": "2026-07-23",
-      "source": "Marketplace Pulse",
-      "url": "https://www.marketplacepulse.com/articles/amazon-business-reaches-60-billion",
-      "subCategory": "平台动态",
-      "id": "trade-20260723-312"
     },
     {
       "title": "美国12.5%新关税或将落地，卖家需重新定价",
@@ -634,96 +724,6 @@
       "source": "出海网(chwang.com)",
       "url": "https://www.chwang.com/news/207944758259",
       "subCategory": "选品趋势"
-    },
-    {
-      "id": "trade-20260721-031",
-      "title": "Wildberries将于24小时内修正被炸仓库库存显示异常",
-      "summary": "Wildberries电斯特罗夫、坦波夫仓库遭无人机袭击后，平台宣布7月21日起24小时内修正电斯特罗夫仓库库存显示，卖家澄清货物并未实际找回，仅为系统显示修复而非物理复原。",
-      "publishedAt": "2026-07-21T13:51:43+08:00",
-      "source": "出海网(chwang.com)",
-      "url": "https://www.chwang.com/news/207944417739",
-      "subCategory": "平台动态"
-    },
-    {
-      "id": "trade-20260721-032",
-      "title": "无人机配送企业Zipline全球累计完成超2.5亿次商业配送",
-      "summary": "美国无人机配送公司Zipline加速全球化扩张，招募特斯拉、Waymo、Uber前高管，累计完成超2.5亿次商业配送并与沃尔玛等零售商合作，普华永道预测行业2024至2034年复合增长率达65%。",
-      "publishedAt": "2026-07-21T10:48:26+08:00",
-      "source": "出海网(chwang.com)",
-      "url": "https://www.chwang.com/news/207939805364",
-      "subCategory": "物流仓储"
-    },
-    {
-      "id": "trade-20260721-030",
-      "title": "Prime Day前移带动6月美国线上消费达1426.7亿美元，同比增长14.2%",
-      "summary": "亚马逊将2026年夏季Prime Day提前至6月并带动整体电商，美国6月线上销售额约1426.7亿美元，同比增长14.2%，为四年来首次两位数增长，当月电商渗透率达18.56%。",
-      "publishedAt": "2026-07-21T10:44:53+08:00",
-      "source": "出海网(chwang.com)",
-      "url": "https://www.chwang.com/news/207939716008",
-      "subCategory": "平台动态"
-    },
-    {
-      "id": "trade-20260721-033",
-      "title": "SCFI综合指数连跌两周至3080.31点，美西航线运价重挫8%",
-      "summary": "上海出口集装箱运价指数连续第二周下跌，环比跌3.28%至3080.31点，美西航线报5721美元/FEU周跌8%，南美航线报6187美元/TEU周跌9.7%，此前高位航线出现明显回调。",
-      "publishedAt": "2026-07-21T10:33:00+08:00",
-      "source": "出海网(chwang.com)",
-      "url": "https://www.chwang.com/news/207939418734",
-      "subCategory": "物流仓储"
-    },
-    {
-      "id": "trade-20260721-034",
-      "title": "香港机场第15年蝉联全球最繁忙货运枢纽",
-      "summary": "香港国际机场全年处理货物及航空邮件510万吨，同比增长2.7%，航班起降量增长7.1%至约39.95万架次，旅客吞吐量增长14.7%至6300万人次，自2010年起连续15年居全球货运吞吐量首位。",
-      "publishedAt": "2026-07-21T10:29:00+08:00",
-      "source": "出海网(chwang.com)",
-      "url": "https://www.chwang.com/news/207939320644",
-      "subCategory": "物流仓储"
-    },
-    {
-      "id": "trade-20260721-035",
-      "title": "TikTok Shop CBT揽收服务扩至迈阿密，覆盖全美九大核心区",
-      "summary": "TikTok Shop跨境揽收(CBT)服务7月28日起扩展至佛州迈阿密，商家可自7月17日起报名，服务网络已覆盖南加州、纽约、新泽西、德州等全美九大核心地区，标志物流网基本成型。",
-      "publishedAt": "2026-07-21T10:26:13+08:00",
-      "source": "出海网(chwang.com)",
-      "url": "https://www.chwang.com/news/207939246278",
-      "subCategory": "物流仓储"
-    },
-    {
-      "id": "trade-20260721-036",
-      "title": "Ozon物流全面对外开放，8.5万个自提点向站外商户敞开",
-      "summary": "Ozon宣布物流服务全面对外开放，非平台商户也可使用其8.5万个自提点及配送网络，推出两种合作模式，标志Ozon从单一交易平台向开放物流基础设施提供商转型。",
-      "publishedAt": "2026-07-21T10:23:07+08:00",
-      "source": "出海网(chwang.com)",
-      "url": "https://www.chwang.com/news/207939168329",
-      "subCategory": "平台动态"
-    },
-    {
-      "id": "trade-20260722-020",
-      "title": "印尼税务总局警告：多平台拆店避税行不通，跨店营业额将合并监测",
-      "summary": "印尼税务总局表示已具备汇总卖家在各电商平台交易数据的能力，通过多平台分散开店规避营业额门槛的做法将无法逃避纳税义务。",
-      "publishedAt": "2026-07-21T09:58:02+08:00",
-      "source": "出海网",
-      "url": "https://www.chwang.com/news/207938536867",
-      "subCategory": "关税法规"
-    },
-    {
-      "id": "trade-20260721-020",
-      "title": "Wildberries开放免费改运通道，卖家可将货物转至替代仓库至7月26日",
-      "summary": "因莫斯科州、坦波夫州仓库遭无人机袭击，Wildberries允许卖家在7月26日前免费将货物改运至梁赞、沃罗涅日等替代仓库，同时缩短卖家回款周期以缓解资金压力。",
-      "publishedAt": "2026-07-21",
-      "source": "AMZ123跨境导航",
-      "url": "https://www.amz123.com/kx/95secwm6",
-      "subCategory": "物流仓储"
-    },
-    {
-      "id": "trade-20260721-021",
-      "title": "俄罗斯集装箱市场上半年增长6%至347万TEU",
-      "summary": "据Fesco数据，2026年上半年俄罗斯集装箱运输量同比增长6%至347万TEU，其中进口增长14%达152万TEU，6月单月运输量同比增长8.9%，此前2025年多项指标为下滑。",
-      "publishedAt": "2026-07-21",
-      "source": "AMZ123跨境导航",
-      "url": "https://www.amz123.com/kx/dMvt4IOR",
-      "subCategory": "物流仓储"
     }
   ]
 }
