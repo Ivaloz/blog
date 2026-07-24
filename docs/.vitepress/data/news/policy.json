@@ -3,8 +3,35 @@
   "slug": "policy",
   "title": "政策信息",
   "description": "国家与地方政策、监管动态、产业扶持与合规要求。",
-  "updatedAt": "2026-07-24T09:15:00+08:00",
+  "updatedAt": "2026-07-24T17:10:00+08:00",
   "items": [
+    {
+      "id": "policy-20260724-104",
+      "title": "商务部公告2026年第30号 公布将14家欧盟实体列入出口管制管控名单",
+      "summary": "商务部公告将来自意大利、德国、法国、波兰等国的14家欧盟实体列入出口管制管控名单，禁止中国出口商向其提供两用物项，例外情形须经专项审批，公告即日生效。",
+      "publishedAt": "2026-07-24T16:00:00+08:00",
+      "source": "商务部",
+      "url": "https://www.mofcom.gov.cn/zwgk/zcfb/art/2026/art_2c9a32aa73bf4f5ea80ffa83e62fb259.html",
+      "subCategory": "跨境贸易"
+    },
+    {
+      "id": "policy-20260724-102",
+      "title": "市场监管总局部署开展企业海外反垄断合规能力提升专项行动",
+      "summary": "市场监管总局部署企业海外反垄断合规能力提升专项行动，聚焦海外投资、跨境并购、产品出口等场景，推动修订合规指引并鼓励企业自查自纠，力争一年内合规能力明显提升。",
+      "publishedAt": "2026-07-23T17:30:00+08:00",
+      "source": "国家市场监督管理总局",
+      "url": "https://www.samr.gov.cn/xw/zj/art/2026/art_ae54281cd83e45eca57b802fb71c06b2.html",
+      "subCategory": "反垄断"
+    },
+    {
+      "id": "policy-20260724-101",
+      "title": "《中医药振兴发展\"十五五\"规划》发布",
+      "summary": "国家中医药局、国家发展改革委联合印发《中医药振兴发展\"十五五\"规划》，提出到2030年建成覆盖全民和全生命周期的中医药服务体系，实现人人享有中医药服务。",
+      "publishedAt": "2026-07-23T11:13:00+08:00",
+      "source": "中国新闻网",
+      "url": "https://www.chinanews.com.cn/gn/2026/07-23/10664808.shtml",
+      "subCategory": "产业政策"
+    },
     {
       "title": "国新办发布会聚焦\"十五五\"时期海关现代化新局面",
       "summary": "国务院新闻办公室7月22日举行\"开局起步'十五五'\"系列主题新闻发布会，海关总署署长孙梅君介绍海关工作现代化助力\"十五五\"高质量开局起步有关情况。上半年我国货物贸易进出口总值超25万亿元，同比增长16.9%，出口增长13.4%，进口增长22.1%。",
@@ -87,6 +114,24 @@
       "subCategory": "反垄断"
     },
     {
+      "id": "policy-20260724-103",
+      "title": "市场监管总局集中纠治不当实施信用评价设置招标投标区域壁垒卡点堵点问题",
+      "summary": "市场监管总局通报全国统一大市场建设专项行动成果，纠治部分地区以本地企业业绩、获奖情况设置信用评价门槛、抬高外地企业招投标成本等地方保护问题，推动政策修订。",
+      "publishedAt": "2026-07-23",
+      "source": "国家市场监督管理总局",
+      "url": "https://www.samr.gov.cn/xw/zj/art/2026/art_b1c926fee166451baec164880c36871c.html",
+      "subCategory": "产业政策"
+    },
+    {
+      "id": "policy-20260724-105",
+      "title": "关于做好新修改注册会计师法贯彻实施工作的通知",
+      "summary": "财政部印发通知部署新修改《注册会计师法》贯彻实施工作，要求加强党的领导、完善监管措施、加大责任追究力度，推动地方修订配套制度并加强部门协同监管机制建设。",
+      "publishedAt": "2026-07-23",
+      "source": "中华人民共和国财政部",
+      "url": "http://kjs.mof.gov.cn/gongzuotongzhi/202607/t20260722_3994001.htm",
+      "subCategory": "金融监管"
+    },
+    {
       "id": "policy-20260722-107",
       "title": "特朗普宣布两年后对仿制药征收100%关税，目的是推动仿制药生产回流美国",
       "summary": "美国总统特朗普宣布将从两年后起对进口仿制药征收100%关税，旨在推动仿制药生产回流美国本土，政策具体覆盖范围与实施细则尚待明确。",
@@ -147,15 +192,6 @@
       "publishedAt": "2026-07-21T21:10:00-04:00",
       "source": "SiliconANGLE",
       "url": "https://siliconangle.com/2026/07/21/u-s-treasury-secretary-bessent-threatens-sanctions-chinese-ai-model-makers/",
-      "subCategory": "海外政策"
-    },
-    {
-      "id": "policy-20260722-005",
-      "title": "美贸易代表格里尔暗示本周五前将对数十个经济体加征新关税",
-      "summary": "美国贸易代表格里尔表示，针对约60个贸易伙伴、以“强迫劳动”为由的新关税最快将在现行10%全球关税7月24日到期前公布，税率或达12.5%，具体时间表尚未确定。",
-      "publishedAt": "2026-07-22T03:03:00+08:00",
-      "source": "大纪元",
-      "url": "https://www.epochtimes.com/gb/26/7/21/n14814360.htm",
       "subCategory": "海外政策"
     },
     {
@@ -447,60 +483,6 @@
       "subCategory": "AI监管"
     },
     {
-      "id": "policy-20260720-006",
-      "title": "UK invests in homegrown space tech to boost national resilience",
-      "summary": "英国政府宣布投入6200万英镑支持本土太空科技发展，其中4200万英镑用于低轨道连接（C-LEO）项目卫星通信技术，2000万英镑用于国家太空创新计划，旨在增强国家韧性、减少对外部依赖，并提升卫星通信与太空态势感知能力。",
-      "publishedAt": "2026-07-20",
-      "source": "英国政府（GOV.UK）",
-      "url": "https://www.gov.uk/government/news/uk-invests-in-homegrown-space-tech-to-boost-national-resilience",
-      "subCategory": "海外政策"
-    },
-    {
-      "id": "policy-20260720-007",
-      "title": "商务部与柬埔寨商业部签署《关于在第三国贸易措施背景下加强合作与相互理解的谅解备忘录》",
-      "summary": "7月20日，商务部部长王文涛与柬埔寨商业部部长签署谅解备忘录，双方就第三国贸易措施背景下加强合作与相互理解达成一致，柬方承诺不采取针对中国的歧视性贸易措施，不损害中柬及中国-东盟经贸合作关系。",
-      "publishedAt": "2026-07-20",
-      "source": "中华人民共和国商务部",
-      "url": "https://www.mofcom.gov.cn/xwfb/bldhd/art/2026/art_ee6df458706e41969520e0c41a2a97c1.html",
-      "subCategory": "跨境贸易"
-    },
-    {
-      "id": "policy-20260720-008",
-      "title": "中国与泰国签署加强产供链经济合作的谅解备忘录",
-      "summary": "7月20日，在两国总理见证下，中国商务部与泰国商务部签署产供链经济合作谅解备忘录，双方约定定期举行会议、加强交流，推进两国产业链供应链经济合作，维护贸易安全与韧性。",
-      "publishedAt": "2026-07-20",
-      "source": "中华人民共和国商务部",
-      "url": "https://www.mofcom.gov.cn/xwfb/bldhd/art/2026/art_47337fad674f4d0282b5af9545f3fb0b.html",
-      "subCategory": "跨境贸易"
-    },
-    {
-      "id": "policy-20260720-012",
-      "title": "2026年7月20日全国银行间同业拆借中心受权公布贷款市场报价利率（LPR）公告",
-      "summary": "全国银行间同业拆借中心受权公布7月贷款市场报价利率，1年期LPR为3.0%，5年期以上LPR为3.5%，两个期限品种均与上月持平，维持不变。",
-      "publishedAt": "2026-07-20",
-      "source": "中国人民银行",
-      "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125440/3876551/2026072008093186869/index.html",
-      "subCategory": "金融监管"
-    },
-    {
-      "id": "policy-20260721-002",
-      "title": "Founders of Celsius Network Ordered to Pay $16.5 Million to Resolve FTC Charges",
-      "summary": "美国联邦贸易委员会宣布，Celsius Network三名前高管因就加密货币存款安全性和可提现性作虚假宣传，被责令合计支付1650万美元，其中前CEO Mashinsky支付1000万美元，三人均被禁止从事相关产品营销。",
-      "publishedAt": "2026-07-20",
-      "source": "美国联邦贸易委员会（FTC）",
-      "url": "https://www.ftc.gov/news-events/news/press-releases/2026/07/founders-celsius-network-ordered-pay-165-million-resolve-ftc-charges",
-      "subCategory": "海外政策"
-    },
-    {
-      "id": "policy-20260721-006",
-      "title": "《新能源汽车维修作业安全要求》国家标准8月1日起实施",
-      "summary": "市场监管总局发布国家标准GB/T 47439—2026《新能源汽车维修作业安全要求》，自2026年8月1日起实施，对电动及氢燃料电池汽车维修的人员资质、场地条件、作业前准备、风险识别及高压系统维修等作出规范，旨在提升维修企业安全管理水平。",
-      "publishedAt": "2026-07-20",
-      "source": "国家市场监督管理总局",
-      "url": "https://www.samr.gov.cn/xw/sj/art/2026/art_034fe3a706604d9dbb1af89a7833b84d.html",
-      "subCategory": "新能源政策"
-    },
-    {
       "id": "policy-20260719-005",
       "title": "钠离子电池等新型电池免税到什么时候？",
       "summary": "财政部、海关总署、税务总局公告明确，2026年9月1日至2028年12月31日，钠离子电池、固态电池、燃料电池及钙钛矿、叠层、砷化镓光伏电池免征消费税；而锂离子蓄电池等成熟电池品类将恢复征收2%消费税，2027年9月起升至4%。",
@@ -679,51 +661,6 @@
       "source": "中国证券监督管理委员会",
       "url": "https://www.csrc.gov.cn/csrc/c100028/c7646105/content.shtml",
       "subCategory": "金融监管"
-    },
-    {
-      "id": "policy-20260718-001",
-      "title": "2026年7月17日国内成品油价格调整",
-      "summary": "国家发展改革委发布通知，自7月17日24时起国内汽油、柴油（标准品）价格每吨分别上调300元、290元，为年内第14次调价，要求中石油、中石化、中海油等企业保障市场供应，地方加强价格监管。",
-      "publishedAt": "2026-07-17",
-      "source": "国家发展和改革委员会",
-      "url": "https://www.ndrc.gov.cn/xwdt/xwfb/202607/t20260717_1406559.html",
-      "subCategory": "产业政策"
-    },
-    {
-      "id": "policy-20260718-003",
-      "title": "国新办举行新闻发布会介绍2026年上半年外汇收支数据情况",
-      "summary": "国家外汇管理局在国新办发布会上介绍，今年上半年银行代客涉外收入和支出合计9.2万亿美元，同比增长21%，创历史同期新高；6月末外汇储备余额3.4163万亿美元，较2025年末增加584亿美元。",
-      "publishedAt": "2026-07-17",
-      "source": "国家外汇管理局",
-      "url": "https://www.safe.gov.cn/safe/2026/0717/27705.html",
-      "subCategory": "金融监管"
-    },
-    {
-      "id": "policy-20260717-101",
-      "title": "三部门部署加快推进海水淡化产业高质量发展",
-      "summary": "国家发展改革委、自然资源部、水利部联合印发《海水淡化产业发展行动方案》，提出到2030年全国海水淡化工程规模达到450万吨/日以上，新增规模150万吨/日以上，部署城市水安全、海岛供水、产业扩规模等七大行动。",
-      "publishedAt": "2026-07-16T22:57:24+08:00",
-      "source": "新华网",
-      "url": "https://www.news.cn/politics/20260716/9943cacbe72a4fd48195539e8f80fe93/c.html",
-      "subCategory": "产业政策"
-    },
-    {
-      "id": "policy-20260716-205",
-      "title": "29 countries sign agreement on establishing World AI Cooperation Organization",
-      "summary": "29个国家在上海签署协定，宣布成立世界人工智能合作组织，各国代表出席签约仪式，共同为人工智能全球治理与国际合作搭建新的多边平台。",
-      "publishedAt": "2026-07-16T21:54:30+08:00",
-      "source": "新华社",
-      "url": "https://english.news.cn/20260716/2fb3c068a5ec4efbbeb6a88acf155175/c.html",
-      "subCategory": "AI监管"
-    },
-    {
-      "id": "policy-20260716-903",
-      "title": "2026年上半年市场监管总局完成经营者集中反垄断审查298件",
-      "summary": "市场监管总局公布数据显示，今年上半年共完成经营者集中反垄断审查298件，其中无条件批准283件、附加限制性条件批准2件、禁止1件，涉及交易金额超22.3万亿元。",
-      "publishedAt": "2026-07-16T15:00:00+08:00",
-      "source": "国家市场监督管理总局",
-      "url": "https://www.samr.gov.cn/xw/sj/art/2026/art_489ab34e36b144958c83e3e73f45dc1d.html",
-      "subCategory": "反垄断"
     }
   ]
 }
