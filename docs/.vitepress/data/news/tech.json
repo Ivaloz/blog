@@ -3,8 +3,62 @@
   "slug": "tech",
   "title": "科技新闻",
   "description": "前沿科技、互联网产品、芯片硬件、开源生态。",
-  "updatedAt": "2026-07-24T00:10:00+08:00",
+  "updatedAt": "2026-07-24T09:15:00+08:00",
   "items": [
+    {
+      "id": "tech-20260724-002",
+      "title": "特斯拉在美回购15辆加拿大规格进口Model 3/Y",
+      "summary": "特斯拉在美回购15辆由加拿大进口、中国上海及德国柏林工厂生产的Model 3/Y，因车辆按加拿大规格制造未完全满足美国联邦机动车安全标准，主要涉及驾驶员膝部气囊缺失及碰撞测试未完成，特斯拉将免费回购涉事车辆，暂未收到相关事故或索赔报告。",
+      "publishedAt": "2026-07-24T08:31:00+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/980/907.htm",
+      "subCategory": "智能汽车"
+    },
+    {
+      "id": "tech-20260724-011",
+      "title": "力箭一号一箭五星发射天仪48等卫星",
+      "summary": "我国在东风商业航天创新试验区使用力箭一号遥十五运载火箭，以一箭五星方式将天仪48、感德一号01、西光二号03、极天星A-04及应龙分光一号卫星送入预定轨道，发射取得圆满成功，这是力箭一号运载火箭第十五次飞行任务。",
+      "publishedAt": "2026-07-24T08:02:00+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/980/901.htm",
+      "subCategory": "航空航天"
+    },
+    {
+      "id": "tech-20260724-006",
+      "title": "新型远控木马Dolphin X使用AI为受害设备排序打分",
+      "summary": "安全公司Varonis披露新型远控木马Dolphin X，内置AI行为画像功能，可根据应用使用情况、浏览器域名及已安装软件为受感染设备打分排序高价值目标，该木马同时针对超过300款浏览器、加密钱包及密码管理器窃取凭据。",
+      "publishedAt": "2026-07-23T17:20:00-04:00",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/new-dolphin-x-malware-uses-ai-to-rank-high-value-targets/",
+      "subCategory": "安全漏洞"
+    },
+    {
+      "id": "tech-20260724-003",
+      "title": "AMD在Advancing AI 2026大会发布Helios机架方案及AI/HPC路线图",
+      "summary": "AMD在旧金山Advancing AI 2026大会上发布Helios机架级方案（含72颗MI455X GPU与18颗第六代EPYC CPU）、Instinct MI400系列及面向科学计算的MI430X加速器，并公布延伸至2030年的路线图，CPU两年一代、GPU一年一代，后续将推出MI500、MI600系列。",
+      "publishedAt": "2026-07-23T14:30:00-04:00",
+      "source": "AMD (ir.amd.com)",
+      "url": "https://ir.amd.com/news-events/press-releases/detail/1294/aai-2026-amd-delivers-full-stack-compute-for-the-agentic-ai-era",
+      "subCategory": "芯片硬件"
+    },
+    {
+      "id": "tech-20260724-005",
+      "title": "俄罗斯背景黑客组织利用Zimbra零点击漏洞窃取邮件",
+      "summary": "研究人员披露俄罗斯背景黑客组织Laundry Bear（微软命名Void Blizzard）利用Zimbra协作套件经典界面中的跨站脚本漏洞CVE-2025-66376，通过恶意邮件实现零点击自动窃取受害者近90天邮件、凭据及双因素令牌，目标涵盖国防、政府、教育等多个行业。",
+      "publishedAt": "2026-07-23T12:49:00-04:00",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/russian-hackers-exploit-zimbra-zero-click-flaw-for-email-theft/",
+      "subCategory": "安全漏洞"
+    },
+    {
+      "id": "tech-20260724-007",
+      "title": "微软365服务出现故障，Teams、SharePoint受影响",
+      "summary": "微软365于美东时间7月23日上午10时44分起出现故障，Teams聊天与图片加载异常、SharePoint报错、OneDrive及Power Automate等服务受影响，故障主要波及北美用户，微软表示正调查网络路由异常并部署缓解措施。",
+      "publishedAt": "2026-07-23T11:34:00-04:00",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-365-outage-affects-teams-sharepoint-and-other-services/",
+      "subCategory": "网络基础设施"
+    },
     {
       "title": "英伟达 Jetson 芯片将登陆月球，驱动月面机器人自主运行",
       "summary": "美国初创公司 Lunar Outpost 宣布将在其月球车上搭载英伟达 Jetson 芯片管理激光雷达系统，或成为首个登陆月球表面的 GPU，用于支持 NASA 商业月球有效载荷服务计划；英伟达还与 Firefly Aerospace 合作，将 Jetson 平台部署于月球轨道卫星用于图像处理。",
@@ -22,6 +76,15 @@
       "url": "https://www.ithome.com/0/980/862.htm",
       "subCategory": "消费电子",
       "id": "tech-20260723-307"
+    },
+    {
+      "id": "tech-20260724-009",
+      "title": "亚马逊将云游戏服务Luna整合进Prime Video",
+      "summary": "亚马逊宣布将云游戏服务Luna整合进Prime Video，美国和英国Fire TV用户可在观影界面新增的Games标签内直接进入游玩《霍格沃茨之遗》《EA Sports FC 26》等作品，亚马逊计划每月上新游戏并逐步扩展至更多设备与地区。",
+      "publishedAt": "2026-07-23T07:49:00-07:00",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/23/amazon-is-bringing-games-to-prime-video/",
+      "subCategory": "互联网产品"
     },
     {
       "title": "2026 款微星泰坦 16 笔记本新增酷睿 Ultra 7 255HX + RTX 5070Ti 配置版本，售价 18599 元",
@@ -213,6 +276,42 @@
       "id": "tech-20260723-310"
     },
     {
+      "id": "tech-20260724-001",
+      "title": "Apple Maps 将接入福特 Universal EV 平台",
+      "summary": "苹果与福特宣布，Apple Maps将通过新推出的MapKit for Automotive SDK接入福特2027年上市的Universal EV平台，提供导航、路况及智能电动车路线规划，福特Latitude AI团队还将借助道路级地图数据强化新一代BlueCruise脱手驾驶系统。",
+      "publishedAt": "2026-07-23",
+      "source": "Apple Newsroom",
+      "url": "https://www.apple.com/newsroom/2026/07/apple-maps-to-power-navigation-experience-for-ford-uev-platform/",
+      "subCategory": "智能汽车"
+    },
+    {
+      "id": "tech-20260724-010",
+      "title": "三星Galaxy Unpacked发布搭载Gemini的智能眼镜",
+      "summary": "三星在伦敦Galaxy Unpacked上发布搭载谷歌Gemini的智能眼镜，与Gentle Monster、Warby Parker联合设计多款镜框，采用高通骁龙AR1 Gen1平台运行Android XR，单次续航约9小时，配合充电盒可再充电7次，支持实时翻译等功能，暂未公布售价。",
+      "publishedAt": "2026-07-23",
+      "source": "Auganix",
+      "url": "https://www.auganix.org/xr-news-samsung-smart-glasses-galaxy-unpacked-2026/",
+      "subCategory": "XR-AR-VR"
+    },
+    {
+      "id": "tech-20260724-012",
+      "title": "GitHub Copilot云端代理接入Linear正式全面上线",
+      "summary": "GitHub宣布Copilot云端代理对Linear的支持正式全面上线，用户可将Linear任务直接分配给该代理，由其在GitHub Actions驱动的独立环境中分析问题并提交草稿PR，支持模型选择、自定义代理及通过评论实时引导，面向Pro及以上订阅用户开放。",
+      "publishedAt": "2026-07-23",
+      "source": "GitHub Changelog",
+      "url": "https://github.blog/changelog/2026-07-23-copilot-cloud-agent-for-linear-is-now-generally-available/",
+      "subCategory": "开发者工具"
+    },
+    {
+      "id": "tech-20260722-116",
+      "title": "AMD与Anthropic宣布战略合作，将部署至多2吉瓦AMD Instinct MI450系列GPU",
+      "summary": "AMD与Anthropic宣布战略合作，Anthropic将部署至多2吉瓦AMD Instinct MI450系列GPU，首个1吉瓦部署预计2027年上半年启动；双方将开展多年工程合作以优化Claude在AMD硬件上的运行并加速ROCm软件开发，AMD同时承诺对Anthropic进行最高50亿美元的战略股权投资。",
+      "publishedAt": "2026-07-22T09:00:00-04:00",
+      "source": "AMD（企业官网）",
+      "url": "https://ir.amd.com/news-events/press-releases/detail/1292/amd-and-anthropic-announce-strategic-partnership-to-deploy-up-to-2-gigawatts-of-amd-instinct-mi450-series-gpus",
+      "subCategory": "芯片硬件"
+    },
+    {
       "id": "tech-20260722-101",
       "title": "惠科拟通过全资子公司涉足芯片先进封装及测试领域",
       "summary": "惠科拟设立全资子公司浙江惠芯先进半导体，进军芯片先进封装测试领域，一期聚焦12英寸混合芯片封装测试，规划月产能2000万颗，注册资本40亿元。",
@@ -382,15 +481,6 @@
       "source": "IT之家",
       "url": "https://www.ithome.com/0/979/847.htm",
       "subCategory": "安全漏洞"
-    },
-    {
-      "id": "tech-20260722-116",
-      "title": "AMD与Anthropic宣布战略合作，将部署至多2吉瓦AMD Instinct MI450系列GPU",
-      "summary": "AMD与Anthropic宣布战略合作，Anthropic将部署至多2吉瓦AMD Instinct MI450系列GPU，首个1吉瓦部署预计2027年上半年启动；双方将开展多年工程合作以优化Claude在AMD硬件上的运行并加速ROCm软件开发，AMD同时承诺对Anthropic进行最高50亿美元的战略股权投资。",
-      "publishedAt": "2026-07-22T09:00:00-04:00",
-      "source": "AMD（企业官网）",
-      "url": "https://ir.amd.com/news-events/press-releases/detail/1292/amd-and-anthropic-announce-strategic-partnership-to-deploy-up-to-2-gigawatts-of-amd-instinct-mi450-series-gpus",
-      "subCategory": "芯片硬件"
     },
     {
       "id": "tech-20260722-036",
@@ -634,96 +724,6 @@
       "source": "IT之家",
       "url": "https://www.ithome.com/0/979/793.htm",
       "subCategory": "芯片硬件"
-    },
-    {
-      "id": "tech-20260722-023",
-      "title": "102.4Tbps：英伟达 Spectrum-6 交换系统落地全球超大规模 AI 工厂",
-      "summary": "英伟达发布面向Vera Rubin平台的Spectrum-6交换系统，带宽达102.4Tbps，为上一代两倍，CoreWeave、微软、Nebius、SpaceX AI及特斯拉等已部署或计划率先采用该系统。",
-      "publishedAt": "2026-07-21T23:04:49+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/979/791.htm",
-      "subCategory": "网络基础设施"
-    },
-    {
-      "id": "tech-20260722-024",
-      "title": "财报前夕，特斯拉将 Robotaxi 自动驾驶出租车服务扩展至美国奥兰多和坦帕",
-      "summary": "特斯拉在第二季度财报发布前夕，宣布将Robotaxi自动驾驶出租车服务扩展至美国佛罗里达州奥兰多和坦帕，此前已在奥斯汀、达拉斯、休斯敦及迈阿密上线，湾区仍处于有人监督测试阶段。",
-      "publishedAt": "2026-07-21T22:40:49+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/979/786.htm",
-      "subCategory": "智能汽车"
-    },
-    {
-      "id": "tech-20260722-025",
-      "title": "理想汽车回应\"新一代 L6 超充是否会伤电池\"",
-      "summary": "理想汽车回应新一代L6超充是否伤电池质疑，称测试显示持续超充等效行驶50万公里后电池容量仍保有80%以上，新车峰值充电功率260kW，5C/4C双枪可12分钟充至80%，售价24.98万元。",
-      "publishedAt": "2026-07-21T22:37:13+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/979/785.htm",
-      "subCategory": "智能汽车"
-    },
-    {
-      "id": "tech-20260722-026",
-      "title": "极空间预告行业首款\"国芯国算\"全链路自研 NAS 产品",
-      "summary": "极空间宣布与RISC-V芯片厂商亿咗（Eswin）合作，推出行业首款全自研国产芯片与算力架构NAS产品，搭载四栄64位RISC-V处理器及自研NPU，4+2盘位设计，最大可扩展144TB，预计2026年第四季度发布。",
-      "publishedAt": "2026-07-21T22:09:06+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/979/782.htm",
-      "subCategory": "消费电子"
-    },
-    {
-      "id": "tech-20260722-027",
-      "title": "佳明推出 CIRQA 无屏健康管理手环",
-      "summary": "佳明推出无屏健康管理手环CIRQA，可全天候监测心率、血氧及体力电量，评估HRV、压力与睡眠阶段等睡眠质量指标，智能识别记录运动，续航长达10天且无需付费订阅，价格与发售日期未公布。",
-      "publishedAt": "2026-07-21T22:04:05+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/979/781.htm",
-      "subCategory": "消费电子"
-    },
-    {
-      "id": "tech-20260721-010",
-      "title": "摄影师分享找回手机神奇经历，华为李小龙称部分机型还支持在关机状态下被强制响铃",
-      "summary": "摄影师分享在慕尼黑机场用离线查找功能找回华为Pura X Max手机的经历，华为高管李小龙介绍华为手机支持关机后48小时内的超宽带与蓝牙定位，部分机型可在关机状态下被强制响铃，定位精度约2米。",
-      "publishedAt": "2026-07-21T16:37:14+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/979/659.htm",
-      "subCategory": "消费电子"
-    },
-    {
-      "id": "tech-20260721-011",
-      "title": "消息称台积电计划 2027 年起将芯片代工价格提高最多 10%",
-      "summary": "有消息称台积电将于2027年起上调先进及成熟制程代工价格最高10%，原因包括海外建厂成本上升、供应链压力及AI芯片需求推动的资本开支增加，第二季度营收1270.4亿新台币，同比增长36%。",
-      "publishedAt": "2026-07-21T16:35:44+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/979/658.htm",
-      "subCategory": "芯片硬件"
-    },
-    {
-      "id": "tech-20260721-012",
-      "title": "友达 2026 财年第二财季营收 708.9 亿元新台币，同比增长 2.40%",
-      "summary": "面板厂友达公布2026年第二季度合并营收708.9亿元新台币，同比增长2.4%，环比增长2.7%；上半年累计营收1399.23亿元新台币，同比小幅下滑1.0%，完整财报将于7月30日提交董事会。",
-      "publishedAt": "2026-07-21T16:30:57+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/979/656.htm",
-      "subCategory": "芯片硬件"
-    },
-    {
-      "id": "tech-20260721-013",
-      "title": "消息称四大台系 DIY 主板制造商再度下调出货预测，华擎同比锐减近 60%",
-      "summary": "据台媒报道，华硕、技嘉、微星、华擎四大DIY主板厂商年内第二次下调2026年出货预测，因内存涨价、显卡价格居高及处理器需求疲软，华硕技嘉预测跌破千万台，华擎同比降幅扩大至近60%。",
-      "publishedAt": "2026-07-21T16:26:45+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/979/650.htm",
-      "subCategory": "芯片硬件"
-    },
-    {
-      "id": "tech-20260721-014",
-      "title": "FSD 自动驾驶超速被交警拦下开罚单，车主抱怨特斯拉亲删了一项好用功能",
-      "summary": "Electrek编辑Fred Lambert在魁北克使用特斯拉FSD标准模式演示时以78公里时速行驶于限速50公里路段被交警开罚，他批评特斯拉已于2024年10月取消自定义限速偏移功能，仅保留固定驾驶模式选项。",
-      "publishedAt": "2026-07-21T16:26:37+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/979/649.htm",
-      "subCategory": "智能汽车"
     }
   ]
 }

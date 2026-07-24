@@ -3,8 +3,17 @@
   "slug": "ai",
   "title": "AI 与大模型",
   "description": "大模型、Agent、AI 编程、推理框架、开源模型的发布与落地。",
-  "updatedAt": "2026-07-24T00:10:00+08:00",
+  "updatedAt": "2026-07-24T09:15:00+08:00",
   "items": [
+    {
+      "id": "ai-20260724-011",
+      "title": "微软发布自研图像生成模型MAI-Image-2.5-Pro",
+      "summary": "微软发布自研图像生成模型MAI-Image-2.5-Pro，支持文本渲染与自然语言编辑，定价为每百万token 5至106美元不等。微软表示该模型基于自有训练数据打造，未蒸馏第三方产品，目前已应用于Bing图像创作工具、PowerPoint图像编辑及OneDrive等场景。",
+      "publishedAt": "2026-07-24T08:00:53+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/980/899.htm",
+      "subCategory": "多模态"
+    },
     {
       "title": "国内首套智能体全生命周期互联标准发布 2000余智能体获数字身份证",
       "summary": "国内首套智能体全生命周期互联标准体系在北京中关村发布，GB/Z185-2026系列七项指南标准正式出台，为金融、医疗、制造等领域超2000个智能体颁发数字身份编码，旨在降低跨平台协作开发成本。",
@@ -24,6 +33,15 @@
       "id": "ai-20260723-310"
     },
     {
+      "id": "ai-20260724-004",
+      "title": "专家质疑月之暗面\"蒸馏\"Anthropic模型开发Kimi K3的说法",
+      "summary": "白宫官员此前指控月之暗面通过蒸馏Anthropic的Fable模型开发Kimi K3，但Snorkel AI与艾伦人工智能研究所的专家提出质疑，指出Fable模型自7月1日才可用，时间线难以支撑该说法，认为达到K3水平更可能需要强化学习等成本更高的训练方式。",
+      "publishedAt": "2026-07-23T04:00:00-07:00",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/23/experts-say-exploiting-anthropics-fable-isnt-how-kimi-k3-got-so-good/",
+      "subCategory": "大模型"
+    },
+    {
       "title": "国产端侧大模型第一次登上全球旗舰：面壁MiniCPM装进三星Galaxy Z Fold8系列",
       "summary": "面壁智能宣布其MiniCPM端侧大模型将搭载于三星Galaxy Z Fold8及Z Fold8 Ultra机型，为Galaxy AI提供本地文本理解与多模态感知能力，系国产端侧大模型首次进入国际旗舰手机产品线。",
       "publishedAt": "2026-07-23T18:20:36+08:00",
@@ -40,6 +58,24 @@
       "url": "https://www.chinaz.com/ainews/29843.shtml",
       "subCategory": "AI应用",
       "id": "ai-20260723-303"
+    },
+    {
+      "id": "ai-20260724-007",
+      "title": "科大讯飞成立新公司爻方智能，提出机器人\"本体认知\"缺失问题",
+      "summary": "科大讯飞成立注册资本3亿元的新公司爻方智能，由讯飞科学家潘嘉带队研发机器人大脑。公司发布技术报告称，现有VLA模型缺乏对未来结果的预测能力，世界动作模型也缺少\"本体认知\"，即对机器人自身身体状态与运动能力的理解，并提出将逆运动学作为显式任务训练的解决方案。",
+      "publishedAt": "2026-07-23T16:23:49+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/07/457698.html",
+      "subCategory": "具身智能"
+    },
+    {
+      "id": "ai-20260724-006",
+      "title": "Grok 4.5在8分钟内推翻存在30年的图论猜想",
+      "summary": "xAI的Grok 4.5在一次内部Slack讨论中，用时8分钟为存在约30年的图论猜想（Graffiti Conjecture 284）构造出反例，通过展示分数流成本与不可分流成本之间的差距推翻该猜想。埃隆·马斯克在社交媒体公布该结果，OpenAI的GPT-5也几乎同时独立解出同一猜想。",
+      "publishedAt": "2026-07-23T07:56:32Z",
+      "source": "BigGo Finance",
+      "url": "https://finance.biggo.com/news/470b3b6b-7dea-4bde-9b29-0d6a6bf12daf",
+      "subCategory": "论文进展"
     },
     {
       "title": "腾讯云CodeBuddy NPC智能体发布：Token降幅超90%",
@@ -211,6 +247,33 @@
       "url": "https://huggingface.co/blog/nunchaku-diffusers",
       "subCategory": "推理框架",
       "id": "ai-20260723-311"
+    },
+    {
+      "id": "ai-20260724-001",
+      "title": "OpenAI宣布ChatGPT Health向所有美国用户开放",
+      "summary": "OpenAI宣布ChatGPT Health面向美国所有年满18岁用户开放，覆盖免费、Go、Plus、Pro各订阅层级的网页端与iOS端，可整合Apple Health、MyFitnessPal、Epic、One Medical等平台的健康数据。公司称健康相关查询量已从测试期的2.3亿次增至每周3亿次，并强调该功能不用于疾病诊断或治疗。",
+      "publishedAt": "2026-07-23",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/23/openai-makes-chatgpt-health-available-to-all-u-s-users/",
+      "subCategory": "AI应用"
+    },
+    {
+      "id": "ai-20260724-009",
+      "title": "小红书开源多模态训练框架BigMac",
+      "summary": "小红书Dots Infra团队开源多模态训练框架BigMac，通过在优化后的LLM流水线中插入编码器与生成器计算，将模态激活内存需求降至O(1)复杂度，解决多模态训练中速度与内存难以兼顾的问题。测试显示其比计算高效方案快1.08至1.1倍，比内存高效方案快1.5至1.9倍，目前已在小红书生产环境中运行。",
+      "publishedAt": "2026-07-23",
+      "source": "AIBase",
+      "url": "https://news.aibase.com/news/29824",
+      "subCategory": "开源模型"
+    },
+    {
+      "id": "ai-20260724-010",
+      "title": "NTT DATA部署OpenAI Codex，故障分析时间从3天缩短至30分钟",
+      "summary": "日本IT服务商NTT DATA在与OpenAI合作基础上将Codex Agent部署至约9000名员工，涵盖技术与非技术岗位，用于故障分析、数据提取、报告生成等任务。此前需5名资深工程师耗时3天完成的故障分析，现可在30分钟内完成，公司还设立内部卓越中心制定数据使用与权限管理安全准则。",
+      "publishedAt": "2026-07-23",
+      "source": "AIBase",
+      "url": "https://news.aibase.com/news/29832",
+      "subCategory": "AI编程"
     },
     {
       "id": "ai-20260722-114",
@@ -661,69 +724,6 @@
       "source": "AIBase",
       "url": "https://news.aibase.com/zh/news/29762",
       "subCategory": "AI应用"
-    },
-    {
-      "id": "ai-20260721-001",
-      "title": "分析：Anthropic旗舰模型Fable 5推理成本三倍于开源模型，面临竞争挑战",
-      "summary": "分析师指出，Anthropic旗舰模型Fable 5的推理成本约为OpenAI及开源模型的三倍，在基准表现趋同、月之暗面Kimi K3与阿里Qwen 3.8等开源模型迅速逼近的背景下，成本劣势可能削弱其市场竞争力。",
-      "publishedAt": "2026-07-21T16:30:00+08:00",
-      "source": "AIBase",
-      "url": "https://news.aibase.com/zh/news/29760",
-      "subCategory": "大模型"
-    },
-    {
-      "id": "ai-20260721-002",
-      "title": "OpenAI扩大ChatGPT家长通知，青少年暴力违规将触发提醒",
-      "summary": "OpenAI宣布扩大ChatGPT家长通知功能，青少年账号触发暴力威胁或网络霸凌相关违规时，绑定家长将收到提醒，该功能与网络欺凌监测机构Moonshot合作开发，此前已支持自残风险预警。",
-      "publishedAt": "2026-07-21T16:06:00+08:00",
-      "source": "AIBase",
-      "url": "https://news.aibase.com/zh/news/29759",
-      "subCategory": "AI应用"
-    },
-    {
-      "id": "ai-20260721-003",
-      "title": "腾讯提出ProLaViT框架，让多模态大模型在隐空间中分步视觉推理",
-      "summary": "腾讯提出ProLaViT框架，使多模态大模型在连续隐空间中进行分步视觉推理，采用\"定位-聚焦-隔离\"与\"假设-批判-验证\"两类推理链路，在MMVP等基准上平均准确率达75.11%，论文已被ECCV 2026收录。",
-      "publishedAt": "2026-07-21T15:59:07+08:00",
-      "source": "网易",
-      "url": "https://www.163.com/dy/article/L2CFBEJB0511AQHO.html",
-      "subCategory": "论文进展"
-    },
-    {
-      "id": "ai-20260721-004",
-      "title": "YouTube收紧政策，严打模板化与误导性AI内容",
-      "summary": "YouTube宣布严打模板化生成、刻意制造恐慌情绪以及利用AI虚拟形象讨论医疗财经等敏感话题的低质内容，相关频道将被取消合作伙伴计划资格，无法继续获得广告分成。",
-      "publishedAt": "2026-07-21T15:48:00+08:00",
-      "source": "AIBase",
-      "url": "https://news.aibase.com/zh/news/29757",
-      "subCategory": "AI应用"
-    },
-    {
-      "id": "ai-20260721-005",
-      "title": "Kimi K3登顶Arena前端开发榜，综合排名首入全球前十",
-      "summary": "据Arena最新一期（7月13日至19日）榜单，月之暗面Kimi K3综合排名首次趻身全球前十（第9，1486分），并以1679分登顶前端开发榜，领先第二名Claude Fable 5达48分，智谱GLM-5.2排名第四。",
-      "publishedAt": "2026-07-21T15:43:35+08:00",
-      "source": "ITBear",
-      "url": "https://www.itbear.com.cn/html/2026-07/1456284.html",
-      "subCategory": "AI评测"
-    },
-    {
-      "id": "ai-20260721-006",
-      "title": "消息称阿里将推出千问办公，整合三款智能体布局AI办公市场",
-      "summary": "有消息称阿里将整合QoderWork、悟空、MuleRun三款智能体产品推出\"千问办公\"，由新任钉钉CEO陈玉森统筹，布局企业级AI办公市场，其中QoderWork因用户基础最大将作为主平台。",
-      "publishedAt": "2026-07-21T15:42:00+08:00",
-      "source": "AIBase",
-      "url": "https://news.aibase.com/zh/news/29756",
-      "subCategory": "Agent"
-    },
-    {
-      "id": "ai-20260721-007",
-      "title": "Kimi3引发访问热潮，月之暗面回应资源紧张优先保障付费用户",
-      "summary": "月之暗面表示新发布的Kimi3模型引发访问热潮，实际用户增长与API调用量超出预期导致算力资源紧张，公司已暂停新用户注册，优先保障现有付费用户服务体验，同时推进模型效率优化与算力扩容。",
-      "publishedAt": "2026-07-21T15:38:00+08:00",
-      "source": "AIBase",
-      "url": "https://news.aibase.com/zh/news/29755",
-      "subCategory": "大模型"
     }
   ]
 }

@@ -150,6 +150,105 @@
       "subCategory": "海外政策"
     },
     {
+      "id": "policy-20260722-005",
+      "title": "美贸易代表格里尔暗示本周五前将对数十个经济体加征新关税",
+      "summary": "美国贸易代表格里尔表示，针对约60个贸易伙伴、以“强迫劳动”为由的新关税最快将在现行10%全球关税7月24日到期前公布，税率或达12.5%，具体时间表尚未确定。",
+      "publishedAt": "2026-07-22T03:03:00+08:00",
+      "source": "大纪元",
+      "url": "https://www.epochtimes.com/gb/26/7/21/n14814360.htm",
+      "subCategory": "海外政策"
+    },
+    {
+      "id": "policy-20260722-104",
+      "title": "国家能源局发布2026年1-6月份全国电力统计数据",
+      "summary": "国家能源局公布上半年电力统计，截至6月底全国发电装机总容量40.4亿千瓦，同比增长10.8%，其中太阳能装机12.7亿千瓦、风电装机6.8亿千瓦，同比分别增长15.8%和18.5%。",
+      "publishedAt": "2026-07-22",
+      "source": "国家能源局",
+      "url": "https://www.nea.gov.cn/20260722/3b678308556b4df0a574537b59a28731/c.html",
+      "subCategory": "新能源政策"
+    },
+    {
+      "title": "工业和信息化部办公厅关于组织开展国家级零碳工厂建设工作的通知",
+      "summary": "工信部办公厅印发通知，组织开展国家级零碳工厂和零碳算力设施建设，要求申报企业年综合能耗不低于1000吨标准煤，算力设施不低于3000标准机架，2030年前单位能耗碳排放不超过0.2吨CO2/吨标煤，非化石能源消费占比不低于95%，申报截止8月15日。",
+      "publishedAt": "2026-07-22",
+      "source": "工业和信息化部",
+      "url": "https://www.ncsti.gov.cn/kjdt/tzgg/202607/t20260722_251729.html",
+      "subCategory": "产业政策",
+      "id": "policy-20260723-201"
+    },
+    {
+      "title": "吴清主席会见加拿大养老基金投资公司总裁兼首席执行官格雷厄姆",
+      "summary": "证监会主席吴清会见加拿大养老基金投资公司总裁兼首席执行官格雷厄姆，介绍中国资本市场上半年运行情况，欢迎境外机构投资者加大对华投资；格雷厄姆表示看好中国市场，愿寻求价值投资机会。",
+      "publishedAt": "2026-07-22",
+      "source": "中国证券监督管理委员会",
+      "url": "https://www.csrc.gov.cn/csrc/c106311/c7646825/content.shtml",
+      "subCategory": "金融监管",
+      "id": "policy-20260723-203"
+    },
+    {
+      "title": "2026年上半年财政收支情况新闻发布会文字实录",
+      "summary": "财政部发布会介绍，上半年全国一般公共预算收入121047亿元、同比增长4.7%，其中个人所得税增长13.1%、证券交易印花税增长97.3%；一般公共预算支出143329亿元、增长1.5%；国有土地使用权出让收入下降31.5%。",
+      "publishedAt": "2026-07-22",
+      "source": "财政部",
+      "url": "https://www.mof.gov.cn/zhengwuxinxi/caizhengxinwen/202607/t20260722_3994019.htm",
+      "subCategory": "产业政策",
+      "id": "policy-20260723-205"
+    },
+    {
+      "title": "FTC Returns Money to Consumers Harmed by Trend Deploy's Deceptive Marketing",
+      "summary": "美国联邦贸易委员会向9419名消费者寄送超过67.2万美元退款支票，追偿Trend Deploy运营者涉及欺骗性营销和邮购规则违规造成的损失，消费者需在90天内兑现支票。",
+      "publishedAt": "2026-07-22",
+      "source": "美国联邦贸易委员会",
+      "url": "https://www.ftc.gov/news-events/news/press-releases/2026/07/ftc-returns-money-consumers-harmed-trend-deploys-deceptive-marketing",
+      "subCategory": "海外政策",
+      "id": "policy-20260723-207"
+    },
+    {
+      "title": "Business Secretary: \"I'm backing investment and innovation to power good growth in every corner of the UK\"",
+      "summary": "英国商业、创新、科学与贸易大臣在范堡罗国际航展宣布6亿英镑航空航天产业支持方案，含逾5亿英镑用于绿色航空研发、1亿英镑用于航空供应链基金，并与巴西航空工业公司Embraer开展合作。",
+      "publishedAt": "2026-07-22",
+      "source": "英国商业与贸易部",
+      "url": "https://www.gov.uk/government/news/business-secretary-im-backing-investment-and-innovation-to-power-good-growth-in-every-corner-of-the-uk",
+      "subCategory": "海外政策",
+      "id": "policy-20260723-208"
+    },
+    {
+      "title": "关于印发贯彻实施民营经济促进法典型案例(第二批)的通知",
+      "summary": "国家发展改革委、最高人民检察院联合印发《贯彻实施民营经济促进法典型案例（第二批）》（发改民营〔2026〕1093号），发布十件民营经济促进法实施典型案例，以案释法、以案示导，推动《民营经济促进法》贯彻落实。",
+      "publishedAt": "2026-07-22",
+      "source": "国家发展和改革委员会",
+      "url": "https://www.ndrc.gov.cn/xxgk/zcfb/tz/202607/t20260722_1406623.html",
+      "subCategory": "产业政策",
+      "id": "policy-20260723-305"
+    },
+    {
+      "title": "Machinery of Government changes: Fact Sheet",
+      "summary": "英国内阁办公室发布政府机构改革说明，宣布首相设立\"10号唐宁街北方办公室\"统筹地方增长与放权，并组建\"首相与内阁办公室\"；数字身份职能划入数字文化媒体和体育部，商业贸易部更名为商业创新科学贸易部。",
+      "publishedAt": "2026-07-22",
+      "source": "GOV.UK (Cabinet Office)",
+      "url": "https://www.gov.uk/government/news/machinery-of-government-changes-fact-sheet",
+      "subCategory": "海外政策",
+      "id": "policy-20260723-306"
+    },
+    {
+      "id": "policy-20260724-004",
+      "title": "美国政府宣布追加逾50亿美元资金支持\"创世纪使命\"AI科研计划",
+      "summary": "白宫宣布追加超50亿美元联邦资金，扩大2025年11月启动的跨部门\"创世纪使命\"计划，逾15个联邦机构将提供科研经费、数据集与设施，聚焦医疗、能源基础设施、半导体制造、科学发现与国家安全五大重点领域的人工智能应用。",
+      "publishedAt": "2026-07-22",
+      "source": "The White House",
+      "url": "https://www.whitehouse.gov/releases/2026/07/45502/",
+      "subCategory": "AI监管"
+    },
+    {
+      "id": "policy-20260724-006",
+      "title": "SEC专员发布关于加密货币金库产品与链上借贷策略适用证券法的声明",
+      "summary": "美国证券交易委员会专员赫斯特·皮尔斯发布声明，说明加密货币金库产品和链上借贷策略需按现有联邦证券法规则进行分析，指出资产上链本身不能使相关活动脱离证券监管范围，呼吁市场参与者就合规问题与监管机构沟通。",
+      "publishedAt": "2026-07-22",
+      "source": "U.S. Securities and Exchange Commission",
+      "url": "https://www.sec.gov/newsroom/speeches-statements/peirce-statement-crypto-vaults-lending-strategies-072226",
+      "subCategory": "金融监管"
+    },
+    {
       "id": "policy-20260722-002",
       "title": "证监会召开上市公司、行业机构、专家学者系列座谈会听取意见建议",
       "summary": "7月20日至21日，证监会党委班子成员召开系列座谈会，听取来自上市公司、证券基金机构和专家学者的29位代表关于促进资本市场稳定健康发展的意见建议，涉及基础制度建设、量化交易监管等议题。",
@@ -319,6 +418,15 @@
       "source": "中央网络安全和信息化委员会办公室",
       "url": "https://www.cac.gov.cn/2026-07/20/c_1786294052406609.htm",
       "subCategory": "数据安全"
+    },
+    {
+      "id": "policy-20260721-001",
+      "title": "Commission sends Statements of Objections to several companies and trade associations in suspected construction chemicals cartel",
+      "summary": "欧盟委员会向Cemex、Sika、Mapei等建筑化学品生产商及法国、德国、西班牙三国行业协会发出异议声明，初步认定其在2021至2022年就水泥、混凝土和砂浆化学添加剂协调涨价，涉嫌违反欧盟条约第101条反垄断规则。",
+      "publishedAt": "2026-07-19T22:00:00Z",
+      "source": "欧盟委员会",
+      "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1394",
+      "subCategory": "反垄断"
     },
     {
       "id": "policy-20260720-001",
@@ -616,60 +724,6 @@
       "source": "国家市场监督管理总局",
       "url": "https://www.samr.gov.cn/xw/sj/art/2026/art_489ab34e36b144958c83e3e73f45dc1d.html",
       "subCategory": "反垄断"
-    },
-    {
-      "id": "policy-20260716-206",
-      "title": "市场监管总局批准发布一批重要国家标准",
-      "summary": "国家市场监督管理总局批准发布508项重要国家标准，涵盖人工智能、机器人、智能制造、碳足迹核算、电动自行车安全等领域，旨在提升产业竞争力和安全保障水平。",
-      "publishedAt": "2026-07-16T14:00:00+08:00",
-      "source": "国家市场监督管理总局",
-      "url": "https://www.samr.gov.cn/xw/zj/art/2026/art_8a0b40b4b84a4386937b36c84e549649.html",
-      "subCategory": "产业政策"
-    },
-    {
-      "id": "policy-20260716-202",
-      "title": "SEC Proposes New E-Delivery Approach to Make Information More Readily Accessible and Useful for Investors",
-      "summary": "美国证监会提出Regulation E-Delivery新规，拟将电子送达设为信息披露默认方式，覆盖招股说明书、股东报告、委托声明书、交易确认书等文件，纸质版本改为按需提供，公众意见征询期为联邦公报刊登后60天。",
-      "publishedAt": "2026-07-16",
-      "source": "U.S. Securities and Exchange Commission",
-      "url": "https://www.sec.gov/newsroom/press-releases/2026-67-sec-proposes-new-e-delivery-approach-make-information-more-readily-accessible-useful-investors",
-      "subCategory": "金融监管"
-    },
-    {
-      "id": "policy-20260716-201",
-      "title": "国家发展改革委等部门印发《海水淡化产业发展行动方案》",
-      "summary": "国家发展改革委等部门联合印发《海水淡化产业发展行动方案》，提出加快推进海水淡化产业高质量发展、促进海水淡化规模化利用，涉及上海、浙江、福建、山东、广西、海南等沿海省份。",
-      "publishedAt": "2026-07-16",
-      "source": "国家发展和改革委员会",
-      "url": "https://www.ndrc.gov.cn/xxgk/zcfb/tz/202607/t20260716_1406539.html",
-      "subCategory": "产业政策"
-    },
-    {
-      "id": "policy-20260716-900",
-      "title": "国家发展改革委等三部门联合印发《海水淡化产业发展行动方案》",
-      "summary": "国家发展改革委、自然资源部、水利部联合印发行动方案，部署城市供水强韧性、海岛供水、工业利用等七方面行动，提出到2030年全国海水淡化工程规模达到450万吨/日以上。",
-      "publishedAt": "2026-07-16",
-      "source": "国家发展和改革委员会",
-      "url": "https://www.ndrc.gov.cn/xwdt/tzgg/202607/t20260716_1406549.html",
-      "subCategory": "产业政策"
-    },
-    {
-      "id": "policy-20260716-012",
-      "title": "商务部召开例行新闻发布会（2026年7月16日）",
-      "summary": "商务部新闻发言人何亚东7月16日表示，受台风“杨柳”“巴威”影响，全国生活必需品市场总体供应充足，商务部门正监测粮油肉蛋菜市场并做好受灾地区运输保障。发言人还提及7月7日中荷经贸联委会会议中双方就半导体供应链稳定达成的共识。",
-      "publishedAt": "2026-07-16",
-      "source": "中华人民共和国商务部",
-      "url": "https://www.mofcom.gov.cn/xwfbzt/2026/swbzklxxwfbh2026n7y16r/index.html",
-      "subCategory": "跨境贸易"
-    },
-    {
-      "id": "policy-20260716-011",
-      "title": "Parking charges: CMA takes action to drive improvements for motorists",
-      "summary": "英国竞争与市场管理局（CMA）7月16日宣布对私营停车运营商采取行动，将调查Euro Car Parks在加油站等场景的收费与申诉处理是否违反消费者保护法，并致函其他运营商。数据显示2024/25年度私营停车罚单约1440万张，是六年前的两倍多。",
-      "publishedAt": "2026-07-16",
-      "source": "英国竞争与市场管理局（CMA）",
-      "url": "https://www.gov.uk/government/news/parking-charges-cma-takes-action-to-drive-improvements-for-motorists",
-      "subCategory": "海外政策"
     }
   ]
 }
