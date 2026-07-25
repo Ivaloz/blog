@@ -3,7 +3,7 @@
   "slug": "finance",
   "title": "投资与财经",
   "description": "宏观经济、A 股 / 港股 / 美股、一级市场融资、行业研报观点。",
-  "updatedAt": "2026-07-24T23:50:00+08:00",
+  "updatedAt": "2026-07-25T09:15:00+08:00",
   "items": [
     {
       "id": "finance-20260724-153",
@@ -13,6 +13,33 @@
       "source": "财新网",
       "url": "https://finance.caixin.com/2026-07-24/102467861.html",
       "subCategory": "风险事件"
+    },
+    {
+      "id": "finance-20260725-001",
+      "title": "热门中概股美股盘前普跌，阿里巴巴跌超1%",
+      "summary": "美股盘前中概股普遍走低，阿里巴巴、百度、微博、哔哩哔哩、名创优品跌幅均超1%；同期部分大型科技股逆势上涨，英特尔涨超2%，微软涨超1%。",
+      "publishedAt": "2026-07-24T20:53:00+08:00",
+      "source": "36氪",
+      "url": "https://36kr.com/newsflashes/3909642046412167",
+      "subCategory": "美股"
+    },
+    {
+      "id": "finance-20260725-002",
+      "title": "美股大型科技股盘前多数上涨，微软涨超1%",
+      "summary": "美股盘前大型科技股多数上涨，英特尔涨超2%，微软涨超1%，特斯拉涨0.45%，奈飞涨0.32%，苹果涨0.16%，亚马逊涨0.15%，谷歌涨0.11%；Meta跌0.34%，英伟达跌0.29%。",
+      "publishedAt": "2026-07-24T20:48:00+08:00",
+      "source": "36氪",
+      "url": "https://36kr.com/newsflashes/3909637385049480",
+      "subCategory": "美股"
+    },
+    {
+      "id": "finance-20260725-003",
+      "title": "日月明：拟2880万元—5760万元回购公司股份",
+      "summary": "日月明公告拟以2880万元至5760万元回购公司股份，回购价格上限为每股36元，公司称此举系维护公司价值及股东权益所必需。",
+      "publishedAt": "2026-07-24T20:45:00+08:00",
+      "source": "36氪",
+      "url": "https://36kr.com/newsflashes/3909634025084041",
+      "subCategory": "A股"
     },
     {
       "id": "finance-20260724-154",
@@ -697,33 +724,6 @@
       "source": "财联社",
       "url": "https://www.cls.cn/detail/2432425",
       "subCategory": "美股"
-    },
-    {
-      "id": "finance-20260722-109",
-      "title": "Bucking EV slowdown, Sila raises $300M to expand battery materials factory",
-      "summary": "电池材料企业Sila于7月21日宣布完成3亿美元融资，由Atreides Management与Sutter Hill Ventures领投，资金将用于扩大华盛顿州硅碳负极材料工厂产能，公司与奔驰、松下等已签有供应协议。",
-      "publishedAt": "2026-07-21T12:36:00-07:00",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/21/bucking-ev-slowdown-sila-raises-300m-to-expand-battery-materials-factory/",
-      "subCategory": "一级市场"
-    },
-    {
-      "id": "finance-20260721-004",
-      "title": "美股股指期货走高，纳指100期货涨幅扩大至1%",
-      "summary": "美股股指期货盘前走高，纳斯达克100指数期货涨幅扩大至1%，道指期货涨0.3%，标普500指数期货涨0.4%。",
-      "publishedAt": "2026-07-21T11:49:31+08:00",
-      "source": "财联社",
-      "url": "https://www.cls.cn/detail/2432267",
-      "subCategory": "美股"
-    },
-    {
-      "id": "finance-20260721-003",
-      "title": "午盘播报：碳酸锂跌超4%，沪银涨超3%",
-      "summary": "国内商品期货午盘多数下跌，碳酸锂跌超4%，低硫燃油跌超3%，焰炭、LPG、对二甲苯、焰煄、鸡蛋跌超2%；沪银涨超3%，国际铜、锂、苹果、豆粕、菜粕涨超1%。",
-      "publishedAt": "2026-07-21T11:30:00+08:00",
-      "source": "东方财富网",
-      "url": "https://finance.eastmoney.com/a/202607213815054694.html",
-      "subCategory": "大宗商品"
     }
   ]
 }

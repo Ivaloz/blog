@@ -3,8 +3,44 @@
   "slug": "tech",
   "title": "科技新闻",
   "description": "前沿科技、互联网产品、芯片硬件、开源生态。",
-  "updatedAt": "2026-07-24T23:50:00+08:00",
+  "updatedAt": "2026-07-25T09:15:00+08:00",
   "items": [
+    {
+      "id": "tech-20260725-001",
+      "title": "黄仁勋入驻X首条推文：英伟达等25家公司力挺开源AI",
+      "summary": "英伟达CEO黄仁勋在X平台发布首条推文，力挺英伟达、微软、Meta、IBM、戴尔、Palantir、Hugging Face等25家公司联署的公开信，强调开源模型权重可防止大型机构垄断并通过同行评审增强整体安全性。",
+      "publishedAt": "2026-07-25T08:34:57+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/981/423.htm",
+      "subCategory": "开源生态"
+    },
+    {
+      "id": "tech-20260725-002",
+      "title": "R星确认：日本地区的《GTA6》PS5版下载码有效期只有170天",
+      "summary": "Rockstar Games确认，日本地区《GTA6》PS5版下载码将在游戏11月19日发售后170天内有效，原因是当地法规限制，建议玩家按PSN账号所在地区购买；Xbox数字版下载码则不受地区限制。",
+      "publishedAt": "2026-07-25T08:29:15+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/981/422.htm",
+      "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260725-003",
+      "title": "全新梅赛德斯-奔驰GLA将于7月30日首秀，纯电版正式接替EQA",
+      "summary": "梅赛德斯-奔驰第三代GLA将于7月29日至30日发布，提供燃油与纯电两种动力版本，纯电版接替EQA，车内采用与GLB相似的三联屏布局，含10.3英寸仪表及两块14英寸触屏，并配备隐藏式门把手。",
+      "publishedAt": "2026-07-25T08:25:28+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/981/421.htm",
+      "subCategory": "智能汽车"
+    },
+    {
+      "id": "tech-20260725-004",
+      "title": "Waymo计划独立进入两地Robotaxi市场，放弃与Uber合作",
+      "summary": "Alphabet旗下Waymo宣布计划于2028年1月独立进入奥斯汀和亚特兰大Robotaxi市场，与Uber平台合作将持续至2028年5月结束，此前双方已于2026年5月终止在凤凰城的合作，期间在路线规划及车辆调度上存在分歧。",
+      "publishedAt": "2026-07-25T08:16:53+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/981/419.htm",
+      "subCategory": "智能汽车"
+    },
     {
       "id": "tech-20260724-154",
       "title": "谷歌签署欧盟 AI 生成内容透明度行为准则，并呼吁避免监管复杂化",
@@ -222,42 +258,6 @@
       "subCategory": "航空航天"
     },
     {
-      "id": "tech-20260724-006",
-      "title": "新型远控木马Dolphin X使用AI为受害设备排序打分",
-      "summary": "安全公司Varonis披露新型远控木马Dolphin X，内置AI行为画像功能，可根据应用使用情况、浏览器域名及已安装软件为受感染设备打分排序高价值目标，该木马同时针对超过300款浏览器、加密钱包及密码管理器窃取凭据。",
-      "publishedAt": "2026-07-23T17:20:00-04:00",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/new-dolphin-x-malware-uses-ai-to-rank-high-value-targets/",
-      "subCategory": "安全漏洞"
-    },
-    {
-      "id": "tech-20260724-003",
-      "title": "AMD在Advancing AI 2026大会发布Helios机架方案及AI/HPC路线图",
-      "summary": "AMD在旧金山Advancing AI 2026大会上发布Helios机架级方案（含72颗MI455X GPU与18颗第六代EPYC CPU）、Instinct MI400系列及面向科学计算的MI430X加速器，并公布延伸至2030年的路线图，CPU两年一代、GPU一年一代，后续将推出MI500、MI600系列。",
-      "publishedAt": "2026-07-23T14:30:00-04:00",
-      "source": "AMD (ir.amd.com)",
-      "url": "https://ir.amd.com/news-events/press-releases/detail/1294/aai-2026-amd-delivers-full-stack-compute-for-the-agentic-ai-era",
-      "subCategory": "芯片硬件"
-    },
-    {
-      "id": "tech-20260724-005",
-      "title": "俄罗斯背景黑客组织利用Zimbra零点击漏洞窃取邮件",
-      "summary": "研究人员披露俄罗斯背景黑客组织Laundry Bear（微软命名Void Blizzard）利用Zimbra协作套件经典界面中的跨站脚本漏洞CVE-2025-66376，通过恶意邮件实现零点击自动窃取受害者近90天邮件、凭据及双因素令牌，目标涵盖国防、政府、教育等多个行业。",
-      "publishedAt": "2026-07-23T12:49:00-04:00",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/russian-hackers-exploit-zimbra-zero-click-flaw-for-email-theft/",
-      "subCategory": "安全漏洞"
-    },
-    {
-      "id": "tech-20260724-007",
-      "title": "微软365服务出现故障，Teams、SharePoint受影响",
-      "summary": "微软365于美东时间7月23日上午10时44分起出现故障，Teams聊天与图片加载异常、SharePoint报错、OneDrive及Power Automate等服务受影响，故障主要波及北美用户，微软表示正调查网络路由异常并部署缓解措施。",
-      "publishedAt": "2026-07-23T11:34:00-04:00",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-365-outage-affects-teams-sharepoint-and-other-services/",
-      "subCategory": "网络基础设施"
-    },
-    {
       "title": "英伟达 Jetson 芯片将登陆月球，驱动月面机器人自主运行",
       "summary": "美国初创公司 Lunar Outpost 宣布将在其月球车上搭载英伟达 Jetson 芯片管理激光雷达系统，或成为首个登陆月球表面的 GPU，用于支持 NASA 商业月球有效载荷服务计划；英伟达还与 Firefly Aerospace 合作，将 Jetson 平台部署于月球轨道卫星用于图像处理。",
       "publishedAt": "2026-07-23T23:15:56+08:00",
@@ -274,15 +274,6 @@
       "url": "https://www.ithome.com/0/980/862.htm",
       "subCategory": "消费电子",
       "id": "tech-20260723-307"
-    },
-    {
-      "id": "tech-20260724-009",
-      "title": "亚马逊将云游戏服务Luna整合进Prime Video",
-      "summary": "亚马逊宣布将云游戏服务Luna整合进Prime Video，美国和英国Fire TV用户可在观影界面新增的Games标签内直接进入游玩《霍格沃茨之遗》《EA Sports FC 26》等作品，亚马逊计划每月上新游戏并逐步扩展至更多设备与地区。",
-      "publishedAt": "2026-07-23T07:49:00-07:00",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/23/amazon-is-bringing-games-to-prime-video/",
-      "subCategory": "互联网产品"
     },
     {
       "title": "2026 款微星泰坦 16 笔记本新增酷睿 Ultra 7 255HX + RTX 5070Ti 配置版本，售价 18599 元",
@@ -337,6 +328,15 @@
       "url": "https://www.ithome.com/0/980/803.htm",
       "subCategory": "操作系统",
       "id": "tech-20260723-305"
+    },
+    {
+      "id": "tech-20260724-006",
+      "title": "新型远控木马Dolphin X使用AI为受害设备排序打分",
+      "summary": "安全公司Varonis披露新型远控木马Dolphin X，内置AI行为画像功能，可根据应用使用情况、浏览器域名及已安装软件为受感染设备打分排序高价值目标，该木马同时针对超过300款浏览器、加密钱包及密码管理器窃取凭据。",
+      "publishedAt": "2026-07-23T17:20:00-04:00",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/new-dolphin-x-malware-uses-ai-to-rank-high-value-targets/",
+      "subCategory": "安全漏洞"
     },
     {
       "title": "飞利浦27M2N5500X 27英寸显示器发售：2K 425Hz、圆偏光护眼技术",
@@ -420,6 +420,15 @@
       "id": "tech-20260723-209"
     },
     {
+      "id": "tech-20260724-003",
+      "title": "AMD在Advancing AI 2026大会发布Helios机架方案及AI/HPC路线图",
+      "summary": "AMD在旧金山Advancing AI 2026大会上发布Helios机架级方案（含72颗MI455X GPU与18颗第六代EPYC CPU）、Instinct MI400系列及面向科学计算的MI430X加速器，并公布延伸至2030年的路线图，CPU两年一代、GPU一年一代，后续将推出MI500、MI600系列。",
+      "publishedAt": "2026-07-23T14:30:00-04:00",
+      "source": "AMD (ir.amd.com)",
+      "url": "https://ir.amd.com/news-events/press-releases/detail/1294/aai-2026-amd-delivers-full-stack-compute-for-the-agentic-ai-era",
+      "subCategory": "芯片硬件"
+    },
+    {
       "title": "苹果首款触控屏MacBook笔记本前瞻：M5 Pro/Max芯片，最快年底登场",
       "summary": "据彭博社马克·古尔曼报道，苹果首款触控屏MacBook或命名为\"MacBook Ultra\"，采用OLED打孔屏设计、改进铰链，搭载M5 Pro/Max芯片与自研C1X 5G基带，macOS 27将优化触控交互，最快今年底或2027年初发布。",
       "publishedAt": "2026-07-23T13:59:00+08:00",
@@ -427,6 +436,24 @@
       "url": "https://finance.sina.com.cn/tech/digi/2026-07-23/doc-iniiunch4582118.shtml",
       "subCategory": "消费电子",
       "id": "tech-20260723-210"
+    },
+    {
+      "id": "tech-20260724-005",
+      "title": "俄罗斯背景黑客组织利用Zimbra零点击漏洞窃取邮件",
+      "summary": "研究人员披露俄罗斯背景黑客组织Laundry Bear（微软命名Void Blizzard）利用Zimbra协作套件经典界面中的跨站脚本漏洞CVE-2025-66376，通过恶意邮件实现零点击自动窃取受害者近90天邮件、凭据及双因素令牌，目标涵盖国防、政府、教育等多个行业。",
+      "publishedAt": "2026-07-23T12:49:00-04:00",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/russian-hackers-exploit-zimbra-zero-click-flaw-for-email-theft/",
+      "subCategory": "安全漏洞"
+    },
+    {
+      "id": "tech-20260724-007",
+      "title": "微软365服务出现故障，Teams、SharePoint受影响",
+      "summary": "微软365于美东时间7月23日上午10时44分起出现故障，Teams聊天与图片加载异常、SharePoint报错、OneDrive及Power Automate等服务受影响，故障主要波及北美用户，微软表示正调查网络路由异常并部署缓解措施。",
+      "publishedAt": "2026-07-23T11:34:00-04:00",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-365-outage-affects-teams-sharepoint-and-other-services/",
+      "subCategory": "网络基础设施"
     },
     {
       "id": "tech-20260723-001",
@@ -454,6 +481,15 @@
       "source": "IT之家",
       "url": "https://www.ithome.com/0/980/369.htm",
       "subCategory": "智能汽车"
+    },
+    {
+      "id": "tech-20260724-009",
+      "title": "亚马逊将云游戏服务Luna整合进Prime Video",
+      "summary": "亚马逊宣布将云游戏服务Luna整合进Prime Video，美国和英国Fire TV用户可在观影界面新增的Games标签内直接进入游玩《霍格沃茨之遗》《EA Sports FC 26》等作品，亚马逊计划每月上新游戏并逐步扩展至更多设备与地区。",
+      "publishedAt": "2026-07-23T07:49:00-07:00",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/23/amazon-is-bringing-games-to-prime-video/",
+      "subCategory": "互联网产品"
     },
     {
       "title": "Check Point 修复 SmartConsole 被利用的高危认证绕过漏洞",
@@ -499,15 +535,6 @@
       "source": "GitHub Changelog",
       "url": "https://github.blog/changelog/2026-07-23-copilot-cloud-agent-for-linear-is-now-generally-available/",
       "subCategory": "开发者工具"
-    },
-    {
-      "id": "tech-20260722-116",
-      "title": "AMD与Anthropic宣布战略合作，将部署至多2吉瓦AMD Instinct MI450系列GPU",
-      "summary": "AMD与Anthropic宣布战略合作，Anthropic将部署至多2吉瓦AMD Instinct MI450系列GPU，首个1吉瓦部署预计2027年上半年启动；双方将开展多年工程合作以优化Claude在AMD硬件上的运行并加速ROCm软件开发，AMD同时承诺对Anthropic进行最高50亿美元的战略股权投资。",
-      "publishedAt": "2026-07-22T09:00:00-04:00",
-      "source": "AMD（企业官网）",
-      "url": "https://ir.amd.com/news-events/press-releases/detail/1292/amd-and-anthropic-announce-strategic-partnership-to-deploy-up-to-2-gigawatts-of-amd-instinct-mi450-series-gpus",
-      "subCategory": "芯片硬件"
     },
     {
       "id": "tech-20260722-101",
@@ -681,6 +708,15 @@
       "subCategory": "安全漏洞"
     },
     {
+      "id": "tech-20260722-116",
+      "title": "AMD与Anthropic宣布战略合作，将部署至多2吉瓦AMD Instinct MI450系列GPU",
+      "summary": "AMD与Anthropic宣布战略合作，Anthropic将部署至多2吉瓦AMD Instinct MI450系列GPU，首个1吉瓦部署预计2027年上半年启动；双方将开展多年工程合作以优化Claude在AMD硬件上的运行并加速ROCm软件开发，AMD同时承诺对Anthropic进行最高50亿美元的战略股权投资。",
+      "publishedAt": "2026-07-22T09:00:00-04:00",
+      "source": "AMD（企业官网）",
+      "url": "https://ir.amd.com/news-events/press-releases/detail/1292/amd-and-anthropic-announce-strategic-partnership-to-deploy-up-to-2-gigawatts-of-amd-instinct-mi450-series-gpus",
+      "subCategory": "芯片硬件"
+    },
+    {
       "id": "tech-20260722-036",
       "title": "英伟达Jetson系列全线涨价，部分型号价格翻倍",
       "summary": "英伟达悬然上调Jetson系列全部产品价格，部分老款型号涨幅高达101%，官方未作解释，业内推测与内存成本上涨有关，涉及开发者套件及量产模组。",
@@ -688,42 +724,6 @@
       "source": "IT之家",
       "url": "https://www.ithome.com/0/979/840.htm",
       "subCategory": "机器人"
-    },
-    {
-      "id": "tech-20260722-032",
-      "title": "今年6月电动汽车在欧洲市场份额已达四分之一",
-      "summary": "2026年6月欧洲17个市场共注册27.506万辆纯电动车，同比大增39.5%，市场份额首次超过四分之一，德国和法国销量领先。",
-      "publishedAt": "2026-07-22T08:42:48+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/979/838.htm",
-      "subCategory": "智能汽车"
-    },
-    {
-      "id": "tech-20260722-001",
-      "title": "智能体 AI 测试：英伟达 Vera CPU 比英特尔 Sapphire Rapids 快 2.2 倍",
-      "summary": "DeepInfra基准测试显示，容器运行时延迟测试中英伟达Vera CPU使用runc耗时29毫秒，英特尔Sapphire Rapids为64毫秒，快2.2倍；Vera CPU的IPC达3.62，高于英特尔的2.44，并较AMD Turin 9755快80%。",
-      "publishedAt": "2026-07-22T08:37:53+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/979/837.htm",
-      "subCategory": "芯片硬件"
-    },
-    {
-      "id": "tech-20260722-002",
-      "title": "英伟达详解 Vera CPU：专为智能体 AI 构建，88 个 Olympus 核心",
-      "summary": "英伟达披露Vera CPU技术细节，采用88个Olympus核心、176个SMT线程，通过SOCAMM2 LPDDR5X实现聚合内存带宽1.2TB/s，配备164MB统一三级缓存，针对智能体AI的不规则控制流与并发延迟需求设计。",
-      "publishedAt": "2026-07-22T08:20:48+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/979/834.htm",
-      "subCategory": "芯片硬件"
-    },
-    {
-      "id": "tech-20260722-003",
-      "title": "Twitch 强化家长控制功能，可直接禁止自家子女开播",
-      "summary": "Twitch新增家长控制功能，家长可关肉13至17岁未成年子女账号，禁止其开播、接收每周观看活动邮件报告、关闭私信功能，并可设置每日各设备使用时长及过滤赌博、成人内容。",
-      "publishedAt": "2026-07-22T08:10:35+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/979/833.htm",
-      "subCategory": "互联网产品"
     }
   ]
 }
