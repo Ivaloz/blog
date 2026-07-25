@@ -3,8 +3,35 @@
   "slug": "trade",
   "title": "外贸资讯",
   "description": "亚马逊、TikTok Shop、阿里国际站、Shopify 等平台政策与跨境电商市场、独立站、物流支付、关税法规、选品趋势。",
-  "updatedAt": "2026-07-25T09:15:00+08:00",
+  "updatedAt": "2026-07-25T16:55:00+08:00",
   "items": [
+    {
+      "id": "trade-20260725-009",
+      "title": "一张税务稽查通知书，正让无数跨境卖家夜不能寐",
+      "summary": "2026年上半年跨境出口企业收到的税务稽查通知同比增长197%，其中68%被稽查企业此前未做合规准备。新规允许税务机关对私户收款、未申报境外所得等行为追溯稽查三年，金税四期要求跨境平台数据同步报送核查。",
+      "publishedAt": "2026-07-24T18:30:00+08:00",
+      "source": "雨果网",
+      "url": "https://www.cifnews.com/article/187733",
+      "subCategory": "关税法规"
+    },
+    {
+      "id": "trade-20260725-008",
+      "title": "只卖一款花洒、年收4600万美金！卫浴单品凭什么卖爆？",
+      "summary": "一家聚焦过滤花洒的DTC品牌年收入达4600万美元，毛利率约85%。文章介绍南安产业带跨境出海活动，该产业带占中国热水与卫浴产品约七成市场份额，覆盖700余家企业和3000多款产品，全球卫浴市场规模预计2026年达1.034万亿美元。",
+      "publishedAt": "2026-07-24T18:10:00+08:00",
+      "source": "雨果网",
+      "url": "https://www.cifnews.com/article/187703",
+      "subCategory": "选品趋势"
+    },
+    {
+      "id": "trade-20260725-007",
+      "title": "一年卖出10万台！又一产品引爆欧洲热潮",
+      "summary": "泳池机器人品牌思傲拓年出货量达10万台，年收入超1亿元，2024年跻身速卖通618家电品类销量榜第四，主力机型SAT40售价499美元，逾七成欧洲订单来自速卖通，西班牙、法国为主要市场。",
+      "publishedAt": "2026-07-24T17:50:00+08:00",
+      "source": "雨果网",
+      "url": "https://www.cifnews.com/article/187765",
+      "subCategory": "选品趋势"
+    },
     {
       "id": "trade-20260724-151",
       "title": "Shopify澳洲上线Shop Campaigns 按成交付费广告工具跳出美加走向南半球",
@@ -321,6 +348,15 @@
       "subCategory": "平台动态"
     },
     {
+      "title": "Amazon Business Reaches $60 Billion",
+      "summary": "据Marketplace Pulse披露，亚马逊企业采购业务年化销售额已达600亿美元，较2023年披露的350亿美元增长，其中第三方卖家贡献超半数、约300亿美元。",
+      "publishedAt": "2026-07-23",
+      "source": "Marketplace Pulse",
+      "url": "https://www.marketplacepulse.com/articles/amazon-business-reaches-60-billion",
+      "subCategory": "平台动态",
+      "id": "trade-20260723-312"
+    },
+    {
       "id": "trade-20260724-106",
       "title": "Yandex Market更新卖家协议：无人机袖击损货平台不赔，WB则启动8.8万卖家赔付",
       "summary": "Yandex Market修订卖家协议，将无人机袖击等军事打击列为不可抗力，平台不再赔偿受损货物；Wildberries则相反，宣布对仓库遇袖受损的逗吼万8.8万小卖家启动赔付并协商支持措施。",
@@ -445,15 +481,6 @@
       "url": "https://www.amz123.com/kx/wXjTLIIi",
       "subCategory": "关税法规",
       "id": "trade-20260723-210"
-    },
-    {
-      "title": "Amazon Business Reaches $60 Billion",
-      "summary": "据Marketplace Pulse披露，亚马逊企业采购业务年化销售额已达600亿美元，较2023年披露的350亿美元增长，其中第三方卖家贡献超半数、约300亿美元。",
-      "publishedAt": "2026-07-23",
-      "source": "Marketplace Pulse",
-      "url": "https://www.marketplacepulse.com/articles/amazon-business-reaches-60-billion",
-      "subCategory": "平台动态",
-      "id": "trade-20260723-312"
     },
     {
       "title": "美国12.5%新关税或将落地，卖家需重新定价",
@@ -697,33 +724,6 @@
       "source": "雨果网",
       "url": "https://www.cifnews.com/article/187669",
       "subCategory": "选品趋势"
-    },
-    {
-      "id": "trade-20260722-013",
-      "title": "链接变狗！亚马逊正在批量下架这一热销产品",
-      "summary": "亚马逊确认凝胶与液体填充解压玩具存在儿童安全风险，已下架相关链接及FBA库存，卖家有60天申请退仓，逾期未处理库存或被销毁。",
-      "publishedAt": "2026-07-21T18:11:00+08:00",
-      "source": "雨果网",
-      "url": "https://www.cifnews.com/article/187668",
-      "subCategory": "平台政策"
-    },
-    {
-      "id": "trade-20260722-001",
-      "title": "Temu波兰用户半年流失360万",
-      "summary": "报告显示Temu在波兰的月活跃用扃6月降至1668万，较1月2034万峰值下降超360万，当月广告曝光量环比下滑25%，同期本土平台Allegro增长23%。",
-      "publishedAt": "2026-07-21T17:41:04+08:00",
-      "source": "出海网",
-      "url": "https://www.chwang.com/news/207950190656",
-      "subCategory": "平台动态"
-    },
-    {
-      "id": "trade-20260722-002",
-      "title": "eBay发布直播购物入门指南 预测2030年全球市场规模将达3.7万亿美元",
-      "summary": "eBay发布直播购物入门指南，称直播互动量为普通视频的10倍，转化率最高提升15%，并预测2030年全球直播电商市场规模将达3.7万亿美元。",
-      "publishedAt": "2026-07-21T17:38:23+08:00",
-      "source": "出海网",
-      "url": "https://www.chwang.com/news/207950123004",
-      "subCategory": "平台动态"
     }
   ]
 }
