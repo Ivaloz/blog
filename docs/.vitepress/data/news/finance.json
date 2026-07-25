@@ -3,8 +3,26 @@
   "slug": "finance",
   "title": "投资与财经",
   "description": "宏观经济、A 股 / 港股 / 美股、一级市场融资、行业研报观点。",
-  "updatedAt": "2026-07-25T16:55:00+08:00",
+  "updatedAt": "2026-07-26T00:45:00+08:00",
   "items": [
+    {
+      "title": "中基协私募证券基金专业委员会回应“量化砸盘”质疑，解读A股量化交易机制",
+      "summary": "中国证券投资基金业协会私募证券投资基金专业委员会就近期科技股下跌是否与量化交易相关作出说明，指出监测显示头部量化机构近期为净买入，量化策略持仓分散、频繁集中抛售不具经济合理性。",
+      "publishedAt": "2026-07-25T19:17:34+08:00",
+      "source": "第一财经",
+      "url": "https://www.yicai.com/news/103292185.html",
+      "subCategory": "A股",
+      "id": "finance-20260726-001"
+    },
+    {
+      "title": "宁德时代、海康威视等7家公司披露半年度分红方案，合计拟派现120.69亿元",
+      "summary": "7家A股上市公司同日披露2026年中期分红方案，合计拟派现120.69亿元；其中宁德时代每10股派14.11元（含税），拟派现64.93亿元，海康威视拟派现50.41亿元。",
+      "publishedAt": "2026-07-25T18:26:00+08:00",
+      "source": "新浪财经",
+      "url": "https://finance.sina.cn/2026-07-25/detail-iniizkwy9034636.d.html",
+      "subCategory": "公司财报",
+      "id": "finance-20260726-002"
+    },
     {
       "id": "finance-20260725-006",
       "title": "特斯拉单周大跌18%，马斯克身家一周缩水8800亿元",
@@ -67,15 +85,6 @@
       "source": "财联社",
       "url": "https://www.cls.cn/detail/2436735",
       "subCategory": "美股"
-    },
-    {
-      "id": "finance-20260724-152",
-      "title": "American Express Q2 profit rises driven by higher spending and fewer delinquencies",
-      "summary": "美国运通公布第二季度业绩，净利润31.1亿美元，同比增长8%，每股收益4.53美元，超市场预期的4.40美元；营收同比增长10%，主要受持卡人消费增加及坏账率下降推动，公司上调全年营收增长预期但维持全年利润指引不变。",
-      "publishedAt": "2026-07-24T08:27:00-05:00",
-      "source": "美联社(AP)",
-      "url": "https://www.ksat.com/business/2026/07/24/american-express-q2-profit-rises-driven-by-higher-spending-and-fewer-delinquencies/",
-      "subCategory": "公司财报"
     },
     {
       "id": "finance-20260725-001",
@@ -186,6 +195,15 @@
       "subCategory": "风险事件"
     },
     {
+      "id": "finance-20260724-152",
+      "title": "American Express Q2 profit rises driven by higher spending and fewer delinquencies",
+      "summary": "美国运通公布第二季度业绩，净利润31.1亿美元，同比增长8%，每股收益4.53美元，超市场预期的4.40美元；营收同比增长10%，主要受持卡人消费增加及坏账率下降推动，公司上调全年营收增长预期但维持全年利润指引不变。",
+      "publishedAt": "2026-07-24T08:27:00-05:00",
+      "source": "美联社(AP)",
+      "url": "https://www.ksat.com/business/2026/07/24/american-express-q2-profit-rises-driven-by-higher-spending-and-fewer-delinquencies/",
+      "subCategory": "公司财报"
+    },
+    {
       "id": "finance-20260724-104",
       "title": "6月末公募基金总规模达39.67万亿元续创新高",
       "summary": "中国证券投资基金业协会数据显示，截至6月末，165家公募基金管理机构管理的资产净值合计39.67万亿元，较5月底增加0.19万亿元，连续三个月刷新历史纪录。",
@@ -204,33 +222,6 @@
       "subCategory": "政策利率"
     },
     {
-      "id": "finance-20260724-107",
-      "title": "AMD预计2030年AI加速器市场规模将达1.4万亿美元",
-      "summary": "AMD发布新一代Helios AI机架系统时表示，预计到2030年全球AI加速器市场规模将达约1.4万亿美元，接近当前整个半导体行业规模，客户包括OpenAI、Meta、甲骨文等。",
-      "publishedAt": "2026-07-23T13:33:00-07:00",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system/",
-      "subCategory": "美股"
-    },
-    {
-      "id": "finance-20260724-106",
-      "title": "保险科技公司Corgi八周内完成第三轮融资，估值达40亿美元",
-      "summary": "AI保险科技公司Corgi据报道完成新一轮融资，估值达40亿美元，为其B轮的第二次延伸，也是过去八周内的第三轮融资，投资方包括TCV和Kindred Ventures。",
-      "publishedAt": "2026-07-23T13:13:00-07:00",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/23/insurance-startup-corgi-reportedly-raised-more-money-at-4b-its-third-round-in-eight-weeks/",
-      "subCategory": "一级市场"
-    },
-    {
-      "id": "finance-20260724-010",
-      "title": "英特尔第二季度营收增长25%，创十五年最快增速",
-      "summary": "英特尔公布2026年第二季度财报，营收161亿美元，同比增长25%，为逾十五年来最快增速；non-GAAP每股收益0.42美元；受CHIPS法案相关非现金费用影响，GAAP每股亏损2.16美元。公司指引第三季度营收158亿至168亿美元。",
-      "publishedAt": "2026-07-23T16:01:00-04:00",
-      "source": "Intel Corporation",
-      "url": "https://www.intc.com/news-events/press-releases/detail/1776/intel-reports-second-quarter-2026-financial-results",
-      "subCategory": "公司财报"
-    },
-    {
       "title": "AI开支引发回报疑虑，纳指跌幅扩大至2%，特斯拉跌超13%，布油触及百元关口，美国长债承压",
       "summary": "美股周四夜盘走低，纳指跌幅扩大至2%，标普500跌1.1%，道指跌超1%，银行股跌超1.6%，特斯拉跌超13%。市场担忧AI基建投资能否产生足够回报，同时布伦特原油盘中触及每桶100美元，通胀担忧升温。",
       "publishedAt": "2026-07-23T22:32:00+08:00",
@@ -247,24 +238,6 @@
       "url": "https://www.cls.cn/detail/2435567",
       "subCategory": "一级市场",
       "id": "finance-20260723-305"
-    },
-    {
-      "title": "Tech stocks live: Tesla's earnings miss, Google's big spend sends both stocks lower",
-      "summary": "特斯拉公布2026年第二季度业绩，营收282.4亿美元，超市场预期的263.2亿美元，但调整后每股收益0.33美元，远低于预期的0.50美元；受此影响，股价盘前一度下跌约7%。",
-      "publishedAt": "2026-07-23T09:19:00-05:00",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/technology/live/tech-stocks-live-tech-heavy-nasdaq-climbs-ahead-of-big-tech-earnings-kickoff-164334720.html",
-      "subCategory": "公司财报",
-      "id": "finance-20260723-302"
-    },
-    {
-      "id": "finance-20260724-008",
-      "title": "黑石集团第二季度可分配收益同比增长26%，管理资产近1.35万亿美元",
-      "summary": "黑石集团公布2026年第二季度业绩，可分配收益为每股1.52美元，同比增长26%，超市场预期；营收50.4亿美元，同比增长36%；管理资产规模近1.35万亿美元，创纪录。公司将业绩增长归因于人工智能相关投资布局，包括对Anthropic、SpaceX及数据中心资产的持仓。",
-      "publishedAt": "2026-07-23T08:38:00-05:00",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/technology/ai/articles/blackstone-q2-2026-earnings-beat-133859733.html",
-      "subCategory": "公司财报"
     },
     {
       "title": "Iraq-Kuwait Border Crossing Hit by Iran; Trump Threatens \"Major Military Punishment\"",
@@ -312,24 +285,6 @@
       "id": "finance-20260723-309"
     },
     {
-      "id": "finance-20260724-007",
-      "title": "洛克希德·马丁上调全年业绩指引，订单储备达2300亿美元",
-      "summary": "洛克希德·马丁公布2026年第二季度业绩，销售额201亿美元，同比增长11%；净利润18亿美元，合每股收益7.94美元；经营现金流32亿美元，自由现金流29亿美元。公司上调全年销售及每股收益指引，并披露包含35亿美元萨德拦截弹合同在内的2300亿美元创纪录订单储备。",
-      "publishedAt": "2026-07-23T06:29:00-04:00",
-      "source": "PR Newswire",
-      "url": "https://www.prnewswire.com/news-releases/lockheed-martin-reports-second-quarter-2026-financial-results-302833219.html",
-      "subCategory": "公司财报"
-    },
-    {
-      "id": "finance-20260724-006",
-      "title": "陶氏化学第二季度净销售额同比增长20%",
-      "summary": "陶氏化学公布2026年第二季度业绩，净销售额121亿美元，同比增长20%；GAAP净利润8.02亿美元，摊薄每股收益0.99美元；经营活动产生现金流13亿美元。公司称包装及特种塑料部门销售额增长27%，产品价格上涨及自救措施成效显著。",
-      "publishedAt": "2026-07-23T06:00:00-04:00",
-      "source": "PR Newswire",
-      "url": "http://www.prnewswire.com/news-releases/dow-reports-second-quarter-2026-results-302833191.html",
-      "subCategory": "公司财报"
-    },
-    {
       "id": "finance-20260724-005",
       "title": "南下资金净卖出港股42亿港元，连续5日减持腾讯",
       "summary": "7月23日，南下资金净卖出港股42.26亿港元，其中腾讯遭净卖出15.4亿港元，为连续第5个交易日净卖出，五日累计净卖出61.76亿港元；阿里巴巴净卖出10.96亿港元。同时美团、智谱AI获净买入，中芯国际等遭净卖出。",
@@ -357,6 +312,15 @@
       "id": "finance-20260723-202"
     },
     {
+      "id": "finance-20260724-010",
+      "title": "英特尔第二季度营收增长25%，创十五年最快增速",
+      "summary": "英特尔公布2026年第二季度财报，营收161亿美元，同比增长25%，为逾十五年来最快增速；non-GAAP每股收益0.42美元；受CHIPS法案相关非现金费用影响，GAAP每股亏损2.16美元。公司指引第三季度营收158亿至168亿美元。",
+      "publishedAt": "2026-07-23T16:01:00-04:00",
+      "source": "Intel Corporation",
+      "url": "https://www.intc.com/news-events/press-releases/detail/1776/intel-reports-second-quarter-2026-financial-results",
+      "subCategory": "公司财报"
+    },
+    {
       "id": "finance-20260724-004",
       "title": "商务部：中美探讨推进各自300亿美元规模对等降税框架",
       "summary": "商务部外资司司长孟华婷在国新办发布会上表示，中美经贸团队正就贸易理事会、投资理事会的架构、职能等具体安排保持沟通，并探讨推进各自300亿美元规模的对等降税框架安排，中方正就相关降税安排向企业、行业协会等征求意见。",
@@ -373,6 +337,24 @@
       "url": "https://finance.sina.com.cn/tob/2026-07-23/doc-iniiunce7864577.shtml",
       "subCategory": "A股",
       "id": "finance-20260723-203"
+    },
+    {
+      "id": "finance-20260724-107",
+      "title": "AMD预计2030年AI加速器市场规模将达1.4万亿美元",
+      "summary": "AMD发布新一代Helios AI机架系统时表示，预计到2030年全球AI加速器市场规模将达约1.4万亿美元，接近当前整个半导体行业规模，客户包括OpenAI、Meta、甲骨文等。",
+      "publishedAt": "2026-07-23T13:33:00-07:00",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system/",
+      "subCategory": "美股"
+    },
+    {
+      "id": "finance-20260724-106",
+      "title": "保险科技公司Corgi八周内完成第三轮融资，估值达40亿美元",
+      "summary": "AI保险科技公司Corgi据报道完成新一轮融资，估值达40亿美元，为其B轮的第二次延伸，也是过去八周内的第三轮融资，投资方包括TCV和Kindred Ventures。",
+      "publishedAt": "2026-07-23T13:13:00-07:00",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/23/insurance-startup-corgi-reportedly-raised-more-money-at-4b-its-third-round-in-eight-weeks/",
+      "subCategory": "一级市场"
     },
     {
       "id": "finance-20260724-009",
@@ -393,6 +375,15 @@
       "subCategory": "港股"
     },
     {
+      "title": "Tech stocks live: Tesla's earnings miss, Google's big spend sends both stocks lower",
+      "summary": "特斯拉公布2026年第二季度业绩，营收282.4亿美元，超市场预期的263.2亿美元，但调整后每股收益0.33美元，远低于预期的0.50美元；受此影响，股价盘前一度下跌约7%。",
+      "publishedAt": "2026-07-23T09:19:00-05:00",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/live/tech-stocks-live-tech-heavy-nasdaq-climbs-ahead-of-big-tech-earnings-kickoff-164334720.html",
+      "subCategory": "公司财报",
+      "id": "finance-20260723-302"
+    },
+    {
       "id": "finance-20260724-003",
       "title": "立新能源澄清算力业务，东山精密确认光模块被盗，苏泊尔净利下滑",
       "summary": "7月23日盘前，立新能源澄清公司无算力产业相关业务及数据中心专属供电服务，此前该股已录得5个交易日涨停；东山精密确认海外仓库光模块被盗，但称实际损失远低于网传数额；苏泊尔公布上半年净利润8.68亿元，同比下降7.7%。",
@@ -400,6 +391,15 @@
       "source": "腾讯新闻",
       "url": "https://news.qq.com/rain/a/20260723A042KK00",
       "subCategory": "风险事件"
+    },
+    {
+      "id": "finance-20260724-008",
+      "title": "黑石集团第二季度可分配收益同比增长26%，管理资产近1.35万亿美元",
+      "summary": "黑石集团公布2026年第二季度业绩，可分配收益为每股1.52美元，同比增长26%，超市场预期；营收50.4亿美元，同比增长36%；管理资产规模近1.35万亿美元，创纪录。公司将业绩增长归因于人工智能相关投资布局，包括对Anthropic、SpaceX及数据中心资产的持仓。",
+      "publishedAt": "2026-07-23T08:38:00-05:00",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/ai/articles/blackstone-q2-2026-earnings-beat-133859733.html",
+      "subCategory": "公司财报"
     },
     {
       "id": "finance-20260723-001",
@@ -420,49 +420,22 @@
       "subCategory": "A股"
     },
     {
-      "id": "finance-20260722-111",
-      "title": "特斯拉发布2026年第二季度财报，营收创纪录但利润大幅不及预期",
-      "summary": "特斯拉公布2026年第二季度营收282.4亿美元，同比增长26%，创历史新高，超出市场预期；但非美国通用会计准则每股收益仅0.33美元，同比下降18%，主因监管积分收入骤降67%及营业利润下滑57%，当季交付480126辆创纪录。",
-      "publishedAt": "2026-07-22T13:13:00-07:00",
-      "source": "Electrek",
-      "url": "https://electrek.co/2026/07/22/tesla-tsla-q2-2026-financial-results/",
+      "id": "finance-20260724-007",
+      "title": "洛克希德·马丁上调全年业绩指引，订单储备达2300亿美元",
+      "summary": "洛克希德·马丁公布2026年第二季度业绩，销售额201亿美元，同比增长11%；净利润18亿美元，合每股收益7.94美元；经营现金流32亿美元，自由现金流29亿美元。公司上调全年销售及每股收益指引，并披露包含35亿美元萨德拦截弹合同在内的2300亿美元创纪录订单储备。",
+      "publishedAt": "2026-07-23T06:29:00-04:00",
+      "source": "PR Newswire",
+      "url": "https://www.prnewswire.com/news-releases/lockheed-martin-reports-second-quarter-2026-financial-results-302833219.html",
       "subCategory": "公司财报"
     },
     {
-      "title": "IBM Q2 Revenue Hits $17.2B, Updates 2026 Outlook",
-      "summary": "IBM公布第二季度营收172亿美元，同比增长1%，摊薄每股收益2.27美元，同比下滑2%，低于市场预期。软件业务收入78亿美元增长5%，基础设施收入38亿美元下滑7%，公司将全年营收增速指引下调至4%至5%。",
-      "publishedAt": "2026-07-22T16:08:00-04:00",
-      "source": "StockTitan",
-      "url": "https://www.stocktitan.net/news/IBM/ibm-releases-second-quarter-ak9qv75fd5eq.html",
-      "subCategory": "公司财报",
-      "id": "finance-20260723-204"
-    },
-    {
-      "id": "finance-20260722-110",
-      "title": "Alphabet发布2026年第二季度财报，营收1198亿美元同比增长24%",
-      "summary": "谷歌母公司Alphabet公布2026年第二季度营收1198亿美元，同比增长24%，为连续第12个季度实现两位数增长；谷歌云营收增长82%至248亿美元，运营利润率提升2个百分点至34%，全球近九成财富100强企业已使用Gemini Enterprise。",
-      "publishedAt": "2026-07-22T13:03:00-07:00",
-      "source": "9to5Google",
-      "url": "https://9to5google.com/2026/07/22/alphabet-q2-2026-earnings/",
+      "id": "finance-20260724-006",
+      "title": "陶氏化学第二季度净销售额同比增长20%",
+      "summary": "陶氏化学公布2026年第二季度业绩，净销售额121亿美元，同比增长20%；GAAP净利润8.02亿美元，摊薄每股收益0.99美元；经营活动产生现金流13亿美元。公司称包装及特种塑料部门销售额增长27%，产品价格上涨及自救措施成效显著。",
+      "publishedAt": "2026-07-23T06:00:00-04:00",
+      "source": "PR Newswire",
+      "url": "http://www.prnewswire.com/news-releases/dow-reports-second-quarter-2026-results-302833191.html",
       "subCategory": "公司财报"
-    },
-    {
-      "title": "Travis Kalanick's robotics company raises $1.7B, led by a16z",
-      "summary": "前Uber创始人特拉维斯·卡兰尼克旗下机器人与工业自动化公司Atoms完成17亿美元融资，由a16z领投，贝恩资本、Fifth Wall及Uber等参投。该公司由Cloud Kitchens更名并收购工业自动化企业Pronto而来。",
-      "publishedAt": "2026-07-22T11:50:00-07:00",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/22/travis-kalanicks-robotics-company-raises-1-7b-led-by-a16z/",
-      "subCategory": "一级市场",
-      "id": "finance-20260723-207"
-    },
-    {
-      "title": "Amazon Slashes AGI Unit Jobs in Strategic Pivot, Stock Extends Decline",
-      "summary": "亚马逊在通用人工智能部门裁减部分岗位，主要涉及数据服务和信息团队，受影响的美国员工可获90天薪酬及遣散福利。公司称正聚焦对客户最重要的项目，当日股价下跌1.5%。",
-      "publishedAt": "2026-07-22T18:28:00Z",
-      "source": "BigGo Finance",
-      "url": "https://finance.biggo.com/news/8c7b5541-46b4-4ad5-99ec-9505f56d401d",
-      "subCategory": "公司财报",
-      "id": "finance-20260723-206"
     },
     {
       "id": "finance-20260722-112",
@@ -474,22 +447,22 @@
       "subCategory": "公司财报"
     },
     {
-      "title": "AMD and Anthropic sign chip deal worth up to $5 billion",
-      "summary": "AMD宣布对Anthropic进行最高50亿美元战略股权投资，Anthropic将部署最高2吉瓦AMD Instinct MI450系列GPU，首批1吉瓦计划于2027年上半年投入使用，消息公布当日AMD股价上涨8.11%。",
-      "publishedAt": "2026-07-22T08:09:00-05:00",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/technology/ai/articles/amd-anthropic-sign-chip-deal-130953920.html",
-      "subCategory": "一级市场",
-      "id": "finance-20260723-304"
+      "title": "Amazon Slashes AGI Unit Jobs in Strategic Pivot, Stock Extends Decline",
+      "summary": "亚马逊在通用人工智能部门裁减部分岗位，主要涉及数据服务和信息团队，受影响的美国员工可获90天薪酬及遣散福利。公司称正聚焦对客户最重要的项目，当日股价下跌1.5%。",
+      "publishedAt": "2026-07-22T18:28:00Z",
+      "source": "BigGo Finance",
+      "url": "https://finance.biggo.com/news/8c7b5541-46b4-4ad5-99ec-9505f56d401d",
+      "subCategory": "公司财报",
+      "id": "finance-20260723-206"
     },
     {
-      "title": "Glow emerges from stealth at $1.2B valuation to challenge endpoint security in the AI era",
-      "summary": "总部位于帕洛阿托的网络安全初创公司Glow结束隐身状态，宣布完成1.8亿美元A轮融资，估值达12亿美元，由红杉资本、Cyberstarts、Greenoaks和Redpoint Ventures领投，产品聚焦AI时代的终端安全防护。",
-      "publishedAt": "2026-07-22T03:00:00-07:00",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/22/glow-emerges-from-stealth-at-1-2b-valuation-to-challenge-endpoint-security-in-the-ai-era/",
-      "subCategory": "一级市场",
-      "id": "finance-20260723-208"
+      "title": "IBM Q2 Revenue Hits $17.2B, Updates 2026 Outlook",
+      "summary": "IBM公布第二季度营收172亿美元，同比增长1%，摊薄每股收益2.27美元，同比下滑2%，低于市场预期。软件业务收入78亿美元增长5%，基础设施收入38亿美元下滑7%，公司将全年营收增速指引下调至4%至5%。",
+      "publishedAt": "2026-07-22T16:08:00-04:00",
+      "source": "StockTitan",
+      "url": "https://www.stocktitan.net/news/IBM/ibm-releases-second-quarter-ak9qv75fd5eq.html",
+      "subCategory": "公司财报",
+      "id": "finance-20260723-204"
     },
     {
       "id": "finance-20260722-105",
@@ -508,6 +481,24 @@
       "source": "新浪财经",
       "url": "https://finance.sina.com.cn/tob/2026-07-22/doc-iniisicz1986108.shtml",
       "subCategory": "A股"
+    },
+    {
+      "id": "finance-20260722-111",
+      "title": "特斯拉发布2026年第二季度财报，营收创纪录但利润大幅不及预期",
+      "summary": "特斯拉公布2026年第二季度营收282.4亿美元，同比增长26%，创历史新高，超出市场预期；但非美国通用会计准则每股收益仅0.33美元，同比下降18%，主因监管积分收入骤降67%及营业利润下滑57%，当季交付480126辆创纪录。",
+      "publishedAt": "2026-07-22T13:13:00-07:00",
+      "source": "Electrek",
+      "url": "https://electrek.co/2026/07/22/tesla-tsla-q2-2026-financial-results/",
+      "subCategory": "公司财报"
+    },
+    {
+      "id": "finance-20260722-110",
+      "title": "Alphabet发布2026年第二季度财报，营收1198亿美元同比增长24%",
+      "summary": "谷歌母公司Alphabet公布2026年第二季度营收1198亿美元，同比增长24%，为连续第12个季度实现两位数增长；谷歌云营收增长82%至248亿美元，运营利润率提升2个百分点至34%，全球近九成财富100强企业已使用Gemini Enterprise。",
+      "publishedAt": "2026-07-22T13:03:00-07:00",
+      "source": "9to5Google",
+      "url": "https://9to5google.com/2026/07/22/alphabet-q2-2026-earnings/",
+      "subCategory": "公司财报"
     },
     {
       "id": "finance-20260722-103",
@@ -535,6 +526,15 @@
       "url": "https://newsroom.servicenow.com/press-releases/details/2026/ServiceNow-Reports-Second-Quarter-2026-Financial-Results/default.aspx",
       "subCategory": "公司财报",
       "id": "finance-20260723-205"
+    },
+    {
+      "title": "Travis Kalanick's robotics company raises $1.7B, led by a16z",
+      "summary": "前Uber创始人特拉维斯·卡兰尼克旗下机器人与工业自动化公司Atoms完成17亿美元融资，由a16z领投，贝恩资本、Fifth Wall及Uber等参投。该公司由Cloud Kitchens更名并收购工业自动化企业Pronto而来。",
+      "publishedAt": "2026-07-22T11:50:00-07:00",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/22/travis-kalanicks-robotics-company-raises-1-7b-led-by-a16z/",
+      "subCategory": "一级市场",
+      "id": "finance-20260723-207"
     },
     {
       "id": "finance-20260722-106",
@@ -571,6 +571,15 @@
       "source": "中国新闻网",
       "url": "https://www.chinanews.com.cn/gj/2026/07-22/10663981.shtml",
       "subCategory": "风险事件"
+    },
+    {
+      "title": "AMD and Anthropic sign chip deal worth up to $5 billion",
+      "summary": "AMD宣布对Anthropic进行最高50亿美元战略股权投资，Anthropic将部署最高2吉瓦AMD Instinct MI450系列GPU，首批1吉瓦计划于2027年上半年投入使用，消息公布当日AMD股价上涨8.11%。",
+      "publishedAt": "2026-07-22T08:09:00-05:00",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/ai/articles/amd-anthropic-sign-chip-deal-130953920.html",
+      "subCategory": "一级市场",
+      "id": "finance-20260723-304"
     },
     {
       "id": "finance-20260722-011",
@@ -634,6 +643,15 @@
       "source": "财联社",
       "url": "https://www.cls.cn/detail/2433205",
       "subCategory": "美股"
+    },
+    {
+      "title": "Glow emerges from stealth at $1.2B valuation to challenge endpoint security in the AI era",
+      "summary": "总部位于帕洛阿托的网络安全初创公司Glow结束隐身状态，宣布完成1.8亿美元A轮融资，估值达12亿美元，由红杉资本、Cyberstarts、Greenoaks和Redpoint Ventures领投，产品聚焦AI时代的终端安全防护。",
+      "publishedAt": "2026-07-22T03:00:00-07:00",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/22/glow-emerges-from-stealth-at-1-2b-valuation-to-challenge-endpoint-security-in-the-ai-era/",
+      "subCategory": "一级市场",
+      "id": "finance-20260723-208"
     },
     {
       "id": "finance-20260722-013",
@@ -706,24 +724,6 @@
       "source": "财联社",
       "url": "https://www.cls.cn/detail/2432640",
       "subCategory": "大宗商品"
-    },
-    {
-      "id": "finance-20260721-013",
-      "title": "伦敦金属交易所库存重要金属普遍减少",
-      "summary": "财联社援引伦敦金属交易所(LME)数据显示，当日铜库存减少4350吨，铅减少2025吨，锡减少30吨，铝减少1500吨，锌减少650吨，镓减少1182吨，六种基本金属库存同步下滑。",
-      "publishedAt": "2026-07-21T16:06:23+08:00",
-      "source": "财联社",
-      "url": "https://www.cls.cn/detail/2432639",
-      "subCategory": "大宗商品"
-    },
-    {
-      "id": "finance-20260721-012",
-      "title": "多国提议美伊十天停火，原油价格逆转上涨势头",
-      "summary": "卡塔尔、埃及、巴基斯坦等调解方向美伊提出为期10天的停火提议，双方尚未接受。受此影响，布伦特原油价格下跌0.6%至88.67美元/桶，WTI下跌0.2%至82.29美元/桶。若停火达成将就霍尔木兹海峡长期安排展开谈判。",
-      "publishedAt": "2026-07-21T15:59:00+08:00",
-      "source": "财联社",
-      "url": "https://www.cls.cn/detail/2432596",
-      "subCategory": "风险事件"
     }
   ]
 }

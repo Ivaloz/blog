@@ -7,7 +7,7 @@
   "items": [
     {
       "title": "飞利浦推出26.5英寸QHD 144Hz QD-OLED显示器",
-      "summary": "飞利浦Evnia 27M2N6500NS/11 QD-OLED显示器登陆日本市场，26.5英寸2560×1440分辨率，144Hz刷新率，0.03ms响应时间，支持99% DCI-P3色域与HDR10，售价约62800日元（约合人民币2599元）。",
+      "summary": "飞利浦Evnia 27M2N6500NS/11 QD-OLED显示器登陆日本市场，26.5英寸2560×1440分辨率，144Hz刷新率、0.03ms响应时间，支持99% DCI-P3色域与HDR10，售价约62800日元（约合人民币2599元）。",
       "publishedAt": "2026-07-25T23:54:32+08:00",
       "source": "IT之家",
       "url": "https://www.ithome.com/0/981/604.htm",
@@ -492,6 +492,15 @@
       "subCategory": "消费电子"
     },
     {
+      "id": "tech-20260724-153",
+      "title": "微软、英伟达、Meta 等 25 家公司签署公开信，呼吁美国政府支持 AI 开源模型发展",
+      "summary": "微软、英伟达、Meta等25家美国科技公司联合签署公开信，呼吁政府支持开放权重AI模型发展，认为开源模型有助于普及AI应用、促进竞争并增强安全性，呼吁扩大初创企业与研究者的算力获取渠道。",
+      "publishedAt": "2026-07-24T22:09:10+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/981/384.htm",
+      "subCategory": "开源生态"
+    },
+    {
       "id": "tech-20260724-157",
       "title": "Certighost Exploit Lets Low-Privileged Active Directory Users Impersonate a Domain Controller",
       "summary": "安全研究人员公开了CVE-2026-54121漏洞利用代码，该漏洞影响Active Directory证书服务，允许低权限域用户伪造域控制器证书用于身份冒充。微软已于7月14日发布补丁，CVSS评分8.8，目前尚未发现在野利用。",
@@ -672,42 +681,6 @@
       "subCategory": "航空航天"
     },
     {
-      "id": "tech-20260724-006",
-      "title": "新型远控木马Dolphin X使用AI为受害设备排序打分",
-      "summary": "安全公司Varonis披露新型远控木马Dolphin X，内置AI行为画像功能，可根据应用使用情况、浏览器域名及已安装软件为受感染设备打分排序高价值目标，该木马同时针对超过300款浏览器、加密钱包及密码管理器窃取凭据。",
-      "publishedAt": "2026-07-23T17:20:00-04:00",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/new-dolphin-x-malware-uses-ai-to-rank-high-value-targets/",
-      "subCategory": "安全漏洞"
-    },
-    {
-      "id": "tech-20260724-003",
-      "title": "AMD在Advancing AI 2026大会发布Helios机架方案及AI/HPC路线图",
-      "summary": "AMD在旧金山Advancing AI 2026大会上发布Helios机架级方案（含72颗MI455X GPU与18颗第六代EPYC CPU）、Instinct MI400系列及面向科学计算的MI430X加速器，并公布延伸至2030年的路线图，CPU两年一代、GPU一年一代，后续将推出MI500、MI600系列。",
-      "publishedAt": "2026-07-23T14:30:00-04:00",
-      "source": "AMD (ir.amd.com)",
-      "url": "https://ir.amd.com/news-events/press-releases/detail/1294/aai-2026-amd-delivers-full-stack-compute-for-the-agentic-ai-era",
-      "subCategory": "芯片硬件"
-    },
-    {
-      "id": "tech-20260724-005",
-      "title": "俄罗斯背景黑客组织利用Zimbra零点击漏洞窃取邮件",
-      "summary": "研究人员披露俄罗斯背景黑客组织Laundry Bear（微软命名Void Blizzard）利用Zimbra协作套件经典界面中的跨站脚本漏洞CVE-2025-66376，通过恶意邮件实现零点击自动窃取受害者近90天邮件、凭据及双因素令牌，目标涵盖国防、政府、教育等多个行业。",
-      "publishedAt": "2026-07-23T12:49:00-04:00",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/russian-hackers-exploit-zimbra-zero-click-flaw-for-email-theft/",
-      "subCategory": "安全漏洞"
-    },
-    {
-      "id": "tech-20260724-007",
-      "title": "微软365服务出现故障，Teams、SharePoint受影响",
-      "summary": "微软365于美东时间7月23日上午10时44分起出现故障，Teams聊天与图片加载异常、SharePoint报错、OneDrive及Power Automate等服务受影响，故障主要波及北美用户，微软表示正调查网络路由异常并部署缓解措施。",
-      "publishedAt": "2026-07-23T11:34:00-04:00",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-365-outage-affects-teams-sharepoint-and-other-services/",
-      "subCategory": "网络基础设施"
-    },
-    {
       "title": "英伟达 Jetson 芯片将登陆月球，驱动月面机器人自主运行",
       "summary": "美国初创公司 Lunar Outpost 宣布将在其月球车上搭载英伟达 Jetson 芯片管理激光雷达系统，或成为首个登陆月球表面的 GPU，用于支持 NASA 商业月球有效载荷服务计划；英伟达还与 Firefly Aerospace 合作，将 Jetson 平台部署于月球轨道卫星用于图像处理。",
       "publishedAt": "2026-07-23T23:15:56+08:00",
@@ -724,15 +697,6 @@
       "url": "https://www.ithome.com/0/980/862.htm",
       "subCategory": "消费电子",
       "id": "tech-20260723-307"
-    },
-    {
-      "id": "tech-20260724-009",
-      "title": "亚马逊将云游戏服务Luna整合进Prime Video",
-      "summary": "亚马逊宣布将云游戏服务Luna整合进Prime Video，美国和英国Fire TV用户可在观影界面新增的Games标签内直接进入游玩《霍格沃茨之遗》《EA Sports FC 26》等作品，亚马逊计划每月上新游戏并逐步扩展至更多设备与地区。",
-      "publishedAt": "2026-07-23T07:49:00-07:00",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/23/amazon-is-bringing-games-to-prime-video/",
-      "subCategory": "互联网产品"
     },
     {
       "title": "2026 款微星泰坦 16 笔记本新增酷睿 Ultra 7 255HX + RTX 5070Ti 配置版本，售价 18599 元",
@@ -760,78 +724,6 @@
       "url": "https://www.bleepingcomputer.com/news/linux/new-refluxfs-linux-flaw-lets-attackers-gain-root-privileges/",
       "subCategory": "安全漏洞",
       "id": "tech-20260723-308"
-    },
-    {
-      "title": "中国移动：已全面适配国行三星 Galaxy Z Flip8/Fold8 系列手机 eSIM",
-      "summary": "中国移动宣布已全面适配国行三星 Galaxy Z Fold8 Ultra、Galaxy Z Fold8、Galaxy Z Flip8 系列手机的 eSIM 功能，至此其 eSIM 业务已覆盖苹果、华为、三星等品牌共 16 款旗舰机型，其中三星占 6 款。",
-      "publishedAt": "2026-07-23T19:01:22+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/980/809.htm",
-      "subCategory": "消费电子",
-      "id": "tech-20260723-304"
-    },
-    {
-      "title": "谷歌现在允许用户通过自拍视频登录账号",
-      "summary": "谷歌上线名为\"自拍视频\"的账号恢复新方式，用户可预先录制含头部动作的短视频，日后在其他找回方式不可用时用于身份验证，系统采用活体检测防范深度伪造。该功能不支持 Workspace 企业账号、儿童账号及加入高级保护计划的账号。",
-      "publishedAt": "2026-07-23T18:48:47+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/980/806.htm",
-      "subCategory": "互联网产品",
-      "id": "tech-20260723-303"
-    },
-    {
-      "title": "荣耀 Magic V6 折叠屏手机开启 MagicOS 11 先锋招募",
-      "summary": "荣耀公布 MagicOS 11 液态玻璃先锋版第二期招募计划，新增 Magic V6 折叠屏机型，招募时间为 7 月 23 日至 26 日，预计不晚于 7 月 29 日推送。该系统首创安卓动态全屏通透效果，并引入具备第三方应用控制与长期记忆能力的 YOYO Next 智能助手。",
-      "publishedAt": "2026-07-23T18:35:47+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/980/803.htm",
-      "subCategory": "操作系统",
-      "id": "tech-20260723-305"
-    },
-    {
-      "title": "飞利浦27M2N5500X 27英寸显示器发售：2K 425Hz、圆偏光护眼技术",
-      "summary": "飞利浦推出27M2N5500X显示器，采用2560×1440分辨率Fast IPS面板，425Hz刷新率，0.3ms响应时间，配备圆偏光护眼技术，支持10bit色彩及96% DCI-P3色域，京东售价1899元。",
-      "publishedAt": "2026-07-23T16:44:38+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/980/713.htm",
-      "subCategory": "消费电子",
-      "id": "tech-20260723-201"
-    },
-    {
-      "title": "高通骁龙8E5处理器还有新版本：曝年内更新，参数设定相对甜点",
-      "summary": "博主爆料高通将于今年下半年推出骁龙8E5第四款版本SM8850-1-AB，理论跑分约单核3600、多核11300分，沿用现有Oryon架构，主打4K价位段甜点定位，预计搭载于多款次旗舰机型。",
-      "publishedAt": "2026-07-23T16:44:09+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/980/712.htm",
-      "subCategory": "芯片硬件",
-      "id": "tech-20260723-202"
-    },
-    {
-      "title": "李肖爽：小米澎程增程器7个核心零部件全部重新选型、重点开发",
-      "summary": "小米技术委员会李肖爽介绍，澎程系列增程器7个核心零部件全部重新选型并重点开发，新一代M15DRE发动机与东安动力联合开发，WLTC工况油耗低至5.7L/100km，保养周期延长至3年或3万公里。",
-      "publishedAt": "2026-07-23T16:43:15+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/980/711.htm",
-      "subCategory": "智能汽车",
-      "id": "tech-20260723-203"
-    },
-    {
-      "title": "SpaceX人工智能部门计划在得克萨斯州大规模扩建数据中心",
-      "summary": "据三位知情人士透露，马斯克旗下SpaceX AI正筹备在得克萨斯州建设至少一座全新大型数据中心，以扩大现有位于田纳西州孟菲斯的算力枢纽规模，试图跻身主流云服务商行列，此前已开始对外出租算力资源。",
-      "publishedAt": "2026-07-23T16:41:00+08:00",
-      "source": "36氪",
-      "url": "https://36kr.com/newsflashes/3907960655975815",
-      "subCategory": "云计算",
-      "id": "tech-20260723-207"
-    },
-    {
-      "title": "阿斯加特V7 SSD上架：读速达7000MB/s、提供1/2TB可选，999元起",
-      "summary": "阿斯加特V7 SSD已在京东上架，采用M.2 NVMe接口及PCIe 4.0协议，持续读速达7000MB/s、写速6500MB/s，TBW标称640TB，1TB版本售价999元、2TB版本1999元，提供五年质保。",
-      "publishedAt": "2026-07-23T16:38:04+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/980/710.htm",
-      "subCategory": "消费电子",
-      "id": "tech-20260723-204"
     }
   ]
 }

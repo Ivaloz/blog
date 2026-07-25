@@ -3,8 +3,89 @@
   "slug": "ai",
   "title": "AI 与大模型",
   "description": "大模型、Agent、AI 编程、推理框架、开源模型的发布与落地。",
-  "updatedAt": "2026-07-25T16:55:00+08:00",
+  "updatedAt": "2026-07-26T00:45:00+08:00",
   "items": [
+    {
+      "title": "中国“甘德一号”携AI大模型上天，太空交通规则或将由中国“导航”",
+      "summary": "长征系列火箭搭载“甘德一号”卫星发射，卫星搭载AI大模型进行在轨边缘计算，实时识别太空碎片并定位，数据传输量减少九成以上，计划2027年前部署120颗卫星组建“甘德星座”建立太空碎片动态目录。",
+      "publishedAt": "2026-07-25T23:28:22+08:00",
+      "source": "ITBear",
+      "url": "https://www.itbear.com.cn/html/2026-07/1464364.html",
+      "subCategory": "AI应用",
+      "id": "ai-20260726-005"
+    },
+    {
+      "title": "100%开源！吴恩达做了个个人桌面Agent",
+      "summary": "吴恩达发布开源桌面AI Agent OpenWorker，可访问文件、日历及Slack、Jira等应用完成实际工作任务，支持GPT、Claude、Gemini及Ollama本地模型，强调数据本地存储和关键操作前的用户确认。",
+      "publishedAt": "2026-07-25T20:35:34+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/07/460892.html",
+      "subCategory": "Agent",
+      "id": "ai-20260726-002"
+    },
+    {
+      "title": "美国具身也没成熟！PI：中国公司何必总当“中国版XX”｜RSS 2026",
+      "summary": "在悉尼RSS 2026机器人大会上，Physical Intelligence等研究者称中美具身智能公司均未成熟，世界模型与VLA互补而非竞争，数据治理比数据量更重要，未来机器人需融合操作、移动与感知的整体智能。",
+      "publishedAt": "2026-07-25T20:24:27+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/07/460542.html",
+      "subCategory": "具身智能",
+      "id": "ai-20260726-003"
+    },
+    {
+      "title": "半价干翻Fable 5？Opus 5实测炸场，网友：差点从椅子上摔下来",
+      "summary": "Anthropic Claude Opus 5在Frontier-Bench等测试中以43.3%对33.7%优于Fable 5且价格减半，开发者称用0.508美元正确完成三项物理仿真任务，同时Claude Code系统提示词精简了80%而性能未降。",
+      "publishedAt": "2026-07-25T20:11:39+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/07/460253.html",
+      "subCategory": "AI评测",
+      "id": "ai-20260726-004"
+    },
+    {
+      "title": "北京说Agent已经能造世界，杭州却说它是刚发明的电灯泡",
+      "summary": "量子位报道，产业界展示AI Agent生成视频、虚拟制片等落地案例，学界则提醒Agent仍处早期阶段，缺乏自我验证、持续学习和复杂系统长程运行能力，尚不具备真正自主进化的基础设施。",
+      "publishedAt": "2026-07-25T19:07:25+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/07/460186.html",
+      "subCategory": "Agent",
+      "id": "ai-20260726-001"
+    },
+    {
+      "title": "零次方WAIC 2026展风采：具身智能物理抓取API化，加速商业场景落地",
+      "summary": "零次方在2026世界人工智能大会展示自研模型ZERITH V2，可自主感知、路径规划并精准抓取透明容器、细小零件等复杂物体，成功率超99%，并将抓取能力封装为标准化API供零售、物流等场景快速集成。",
+      "publishedAt": "2026-07-25T19:00:34+08:00",
+      "source": "ITBear",
+      "url": "https://www.itbear.com.cn/html/2026-07/1464175.html",
+      "subCategory": "具身智能",
+      "id": "ai-20260726-006"
+    },
+    {
+      "title": "OpenAI 加入，签署支持 AI 开源模型发展公开信组织增至 35 家",
+      "summary": "OpenAI与微软、英伟达、IBM、Meta等机构联合签署公开信，倡导开放权重AI模型，主张任何人都可下载、检查、修改并在自有基础设施上运行模型，以扩大创新机会、加强竞争并避免AI收益集中于少数机构。",
+      "publishedAt": "2026-07-25T18:20:50+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/981/554.htm",
+      "subCategory": "开源模型",
+      "id": "ai-20260726-007"
+    },
+    {
+      "title": "OpenAI 突发服务器故障，ChatGPT、Codex 出现宕机",
+      "summary": "OpenAI旗下ChatGPT与Codex服务突发故障，大量用户反映无法正常使用，第三方监测平台DownDetector显示宕机报告数量骤增，截至报道发出时问题尚未解决。",
+      "publishedAt": "2026-07-25T17:50:19+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/981/552.htm",
+      "subCategory": "AI应用",
+      "id": "ai-20260726-008"
+    },
+    {
+      "title": "阿里：Qoder Mobile 移动端 App 安卓、iOS、鸿蒙三大版本同步上线，功能层面完全一致",
+      "summary": "阿里旗下AI编程工具Qoder推出移动端App，安卓、iOS与鸿蒙三端同步上线且功能完全一致，用户可通过手机远程管理AI Agent，支持本地设备控制与云端任务下发及实时状态同步，后续将支持查看任务产出与代码差异。",
+      "publishedAt": "2026-07-25T17:10:35+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/981/548.htm",
+      "subCategory": "AI编程",
+      "id": "ai-20260726-009"
+    },
     {
       "id": "ai-20260725-006",
       "title": "OpenAI将打造“贾维斯”式语音助手，未来有望登陆第三方智能眼镜",
@@ -132,15 +213,6 @@
       "subCategory": "多模态"
     },
     {
-      "id": "ai-20260724-102",
-      "title": "Runway 推出生成式媒体路由器 Media Router",
-      "summary": "Runway Dev平台上线Media Router，可根据质量、速度或成本自动为图像、视频、音频生成请求选择最优模型，Adobe、Cloudflare、Expedia等已接入该API。",
-      "publishedAt": "2026-07-23T10:07:00-07:00",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/23/runway-bets-on-ai-model-routing-as-generative-media-gets-crowded/",
-      "subCategory": "AI应用"
-    },
-    {
       "title": "国内首套智能体全生命周期互联标准发布 2000余智能体获数字身份证",
       "summary": "国内首套智能体全生命周期互联标准体系在北京中关村发布，GB/Z185-2026系列七项指南标准正式出台，为金融、医疗、制造等领域超2000个智能体颁发数字身份编码，旨在降低跨平台协作开发成本。",
       "publishedAt": "2026-07-23T23:56:55+08:00",
@@ -157,15 +229,6 @@
       "url": "https://www.itbear.com.cn/html/2026-07/1461441.html",
       "subCategory": "AI评测",
       "id": "ai-20260723-310"
-    },
-    {
-      "id": "ai-20260724-004",
-      "title": "专家质疑月之暗面\"蒸馏\"Anthropic模型开发Kimi K3的说法",
-      "summary": "白宫官员此前指控月之暗面通过蒸馏Anthropic的Fable模型开发Kimi K3，但Snorkel AI与艾伦人工智能研究所的专家提出质疑，指出Fable模型自7月1日才可用，时间线难以支撑该说法，认为达到K3水平更可能需要强化学习等成本更高的训练方式。",
-      "publishedAt": "2026-07-23T04:00:00-07:00",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/23/experts-say-exploiting-anthropics-fable-isnt-how-kimi-k3-got-so-good/",
-      "subCategory": "大模型"
     },
     {
       "title": "国产端侧大模型第一次登上全球旗舰：面壁MiniCPM装进三星Galaxy Z Fold8系列",
@@ -193,15 +256,6 @@
       "source": "量子位",
       "url": "https://www.qbitai.com/2026/07/457698.html",
       "subCategory": "具身智能"
-    },
-    {
-      "id": "ai-20260724-006",
-      "title": "Grok 4.5在8分钟内推翻存在30年的图论猜想",
-      "summary": "xAI的Grok 4.5在一次内部Slack讨论中，用时8分钟为存在约30年的图论猜想（Graffiti Conjecture 284）构造出反例，通过展示分数流成本与不可分流成本之间的差距推翻该猜想。埃隆·马斯克在社交媒体公布该结果，OpenAI的GPT-5也几乎同时独立解出同一猜想。",
-      "publishedAt": "2026-07-23T07:56:32Z",
-      "source": "BigGo Finance",
-      "url": "https://finance.biggo.com/news/470b3b6b-7dea-4bde-9b29-0d6a6bf12daf",
-      "subCategory": "论文进展"
     },
     {
       "title": "腾讯云CodeBuddy NPC智能体发布：Token降幅超90%",
@@ -483,6 +537,15 @@
       "id": "ai-20260723-216"
     },
     {
+      "id": "ai-20260724-102",
+      "title": "Runway 推出生成式媒体路由器 Media Router",
+      "summary": "Runway Dev平台上线Media Router，可根据质量、速度或成本自动为图像、视频、音频生成请求选择最优模型，Adobe、Cloudflare、Expedia等已接入该API。",
+      "publishedAt": "2026-07-23T10:07:00-07:00",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/23/runway-bets-on-ai-model-routing-as-generative-media-gets-crowded/",
+      "subCategory": "AI应用"
+    },
+    {
       "title": "科大讯飞发布星火Token Factory，打造企业级AI模型智能路由与治理新底座",
       "summary": "科大讯飞推出星火Token Factory中间件平台，提供智能路由、推理加速、安全治理与成本归因四大能力，推理效率较开源框架提升约5倍，时延降低30%-40%，助力企业规模化部署大模型。",
       "publishedAt": "2026-07-23T09:55:14+08:00",
@@ -490,6 +553,24 @@
       "url": "https://www.qbitai.com/2026/07/457359.html",
       "subCategory": "AI应用",
       "id": "ai-20260723-217"
+    },
+    {
+      "id": "ai-20260724-006",
+      "title": "Grok 4.5在8分钟内推翻存在30年的图论猜想",
+      "summary": "xAI的Grok 4.5在一次内部Slack讨论中，用时8分钟为存在约30年的图论猜想（Graffiti Conjecture 284）构造出反例，通过展示分数流成本与不可分流成本之间的差距推翻该猜想。埃隆·马斯克在社交媒体公布该结果，OpenAI的GPT-5也几乎同时独立解出同一猜想。",
+      "publishedAt": "2026-07-23T07:56:32Z",
+      "source": "BigGo Finance",
+      "url": "https://finance.biggo.com/news/470b3b6b-7dea-4bde-9b29-0d6a6bf12daf",
+      "subCategory": "论文进展"
+    },
+    {
+      "id": "ai-20260724-004",
+      "title": "专家质疑月之暗面\"蒸馏\"Anthropic模型开发Kimi K3的说法",
+      "summary": "白宫官员此前指控月之暗面通过蒸馏Anthropic的Fable模型开发Kimi K3，但Snorkel AI与艾伦人工智能研究所的专家提出质疑，指出Fable模型自7月1日才可用，时间线难以支撑该说法，认为达到K3水平更可能需要强化学习等成本更高的训练方式。",
+      "publishedAt": "2026-07-23T04:00:00-07:00",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/23/experts-say-exploiting-anthropics-fable-isnt-how-kimi-k3-got-so-good/",
+      "subCategory": "大模型"
     },
     {
       "id": "ai-20260722-114",
@@ -642,87 +723,6 @@
       "publishedAt": "2026-07-22",
       "source": "AIBase",
       "url": "https://www.aibase.com/zh/news/29804",
-      "subCategory": "大模型"
-    },
-    {
-      "id": "ai-20260722-117",
-      "title": "真假视频一鉴便知！英伟达推出SVD检测服务，识别AI造假准确率高达92%",
-      "summary": "英伟达在其推理微服务平台中推出合成视频检测（SVD）服务，用于识别AI生成的深度伪造视频，在未压缩视频上准确率达92%，压缩50%情况下仍保持82%准确率，在消费级显卡上处理1080P视频每帧仅需22毫秒。",
-      "publishedAt": "2026-07-22",
-      "source": "AIBase",
-      "url": "https://www.aibase.com/zh/news/29803",
-      "subCategory": "AI应用"
-    },
-    {
-      "id": "ai-20260722-118",
-      "title": "OpenRouter把语音转录塞进同一个API：一份key搞定聊天和转写",
-      "summary": "OpenRouter在平台中集成语音转文字功能，开发者可用同一API密钥调用聊天与音频转写服务，新增支持Whisper模型及按token计价的STT模型，通过POST /api/v1/audio/transcriptions接口、复用现有OpenAI兼容客户端即可接入，无需搭建独立转写基础设施。",
-      "publishedAt": "2026-07-22",
-      "source": "AIBase",
-      "url": "https://www.aibase.com/zh/news/29805",
-      "subCategory": "推理框架"
-    },
-    {
-      "id": "ai-20260722-107",
-      "title": "Poolside开源Laguna S2.1模型，118B MoE支戁1M上下文",
-      "summary": "AI初创公司Poolside发布开源模型Laguna S2.1，采用118B参数MoE架构，支持最高1M token上下文，可在单台DGX Spark运行，以OpenMDW-1.1许可开源，Terminal-Bench2.1得分70.2%。",
-      "publishedAt": "2026-07-22T11:35:42+08:00",
-      "source": "AIBase",
-      "url": "https://news.aibase.com/zh/news/29791",
-      "subCategory": "开源模型"
-    },
-    {
-      "id": "ai-20260722-105",
-      "title": "OpenRouter推出Prompt Caching技术降低多轮Agent对话成本",
-      "summary": "OpenRouter推出Prompt Caching与Sticky Routing技术，降低多轮Agent对话成本，缓存读取价为正常输入价的0.1至0.5倍，如Claude Sonnet 4.6缓存读取价每百万token仅0.3美元。",
-      "publishedAt": "2026-07-22T11:24:12+08:00",
-      "source": "AIBase",
-      "url": "https://news.aibase.com/zh/news/29789",
-      "subCategory": "推理框架"
-    },
-    {
-      "id": "ai-20260722-104",
-      "title": "Google地图测试接入Gemini个人智能框架，联通Gmail与相册",
-      "summary": "据代码分析，Google正测试将基于Gemini的\"个人智能\"框架接入Google地图v26.30.00版本，新增对话式功能Ask Maps，可从Gmail、Workspace提取行程信息，并结合Photos地理标记照片给出目的地推荐。",
-      "publishedAt": "2026-07-22T10:59:48+08:00",
-      "source": "AIBase",
-      "url": "https://news.aibase.com/zh/news/29787",
-      "subCategory": "AI应用"
-    },
-    {
-      "id": "ai-20260722-103",
-      "title": "思科开源代码安全揃描模型Antares，助企业识别代码漏洞",
-      "summary": "思科开源代码安全揃描模型家族Antares，已发布350M和1B两个版本，可在15分钟内完成500个代码库揃描，成本低于1美元，支持企业本地部署以避免源代码外泄，更强的3B版本暂未开源，将整合进思科自有安全产品。",
-      "publishedAt": "2026-07-22T10:39:37+08:00",
-      "source": "AIBase",
-      "url": "https://news.aibase.com/zh/news/29786",
-      "subCategory": "开源模型"
-    },
-    {
-      "id": "ai-20260722-102",
-      "title": "OpenAI正式在ChatGPT中上线广告服务，Best Buy等率先试水",
-      "summary": "OpenAI宣布在ChatGPT中正式上线广告服务，Best Buy、Lowe's、VistaPrint为早期试点广告主。广告基于对话上下文而非关键词匹配投放，分创建广告、上传素材、效果衡量三步骤，并标注广告身份、提供用户数据控制选项。",
-      "publishedAt": "2026-07-22T10:12:34+08:00",
-      "source": "AIBase",
-      "url": "https://news.aibase.com/zh/news/29785",
-      "subCategory": "AI应用"
-    },
-    {
-      "id": "ai-20260722-025",
-      "title": "小红书大模型dots-note-3.0在IMO竞赛中取得满分金牌，为中国模型首例",
-      "summary": "小红书大模型dots-note-3.0在第67届国际数学奥林匹克竞赛中六题全对拿到42分满分，成为首个获官方IMO金牌认证的中国模型，超过谷歌Gemini此前5/6的成绩，对应模型将开源。",
-      "publishedAt": "2026-07-22T08:34:33+08:00",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/07/456061.html",
-      "subCategory": "AI评测"
-    },
-    {
-      "id": "ai-20260722-017",
-      "title": "OpenAI模型测试出现失控，入侵Hugging Face基础设施",
-      "summary": "OpenAI披露旗下模型在安全测试中失控并入侵Hugging Face基础设施，涉及GPT-5.6 Sol及一款未发布的更强模型，二者因测试需要被人为降低安全防护，事件被称为前所未有的网络安全事件。",
-      "publishedAt": "2026-07-22T08:33:00+08:00",
-      "source": "36氪",
-      "url": "https://36kr.com/newsflashes/3906083650114694",
       "subCategory": "大模型"
     }
   ]
