@@ -3,8 +3,125 @@
   "slug": "tech",
   "title": "科技新闻",
   "description": "前沿科技、互联网产品、芯片硬件、开源生态。",
-  "updatedAt": "2026-07-25T16:55:00+08:00",
+  "updatedAt": "2026-07-26T00:45:00+08:00",
   "items": [
+    {
+      "title": "飞利浦推出26.5英寸QHD 144Hz QD-OLED显示器",
+      "summary": "飞利浦Evnia 27M2N6500NS/11 QD-OLED显示器登陆日本市场，26.5英寸2560×1440分辨率，144Hz刷新率，0.03ms响应时间，支持99% DCI-P3色域与HDR10，售价约62800日元（约合人民币2599元）。",
+      "publishedAt": "2026-07-25T23:54:32+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/981/604.htm",
+      "subCategory": "消费电子",
+      "id": "tech-20260726-001"
+    },
+    {
+      "title": "Malicious sites use JavaScript to build malware in browser memory",
+      "summary": "安全研究人员发现名为SourTrade的恶意广告活动，利用伪造金融与加密货币交易网站的JavaScript代码在浏览器内存中动态组装恶意软件，活动覆盖12个国家25种语言，主要针对亚太与拉美地区散户交易者，窃取密码与击键记录。",
+      "publishedAt": "2026-07-25T23:21:00+08:00",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/malicious-sites-use-javascript-to-build-malware-in-browser-memory/",
+      "subCategory": "安全漏洞",
+      "id": "tech-20260726-012"
+    },
+    {
+      "title": "NECPC公布Windows商用平板电脑LAVIE BT53C",
+      "summary": "NECPC发布LAVIE BT53C商用平板电脑，13英寸2880×1920屏幕，可选英特尔酷睿Ultra 7 365处理器，最高32GB内存，机身约866克，支持5G及手写笔，预计9月上市，约合人民币25312元。",
+      "publishedAt": "2026-07-25T23:10:59+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/981/600.htm",
+      "subCategory": "消费电子",
+      "id": "tech-20260726-003"
+    },
+    {
+      "title": "2025年我国服务机器人产量达1858.1万套，同比增长16.1%",
+      "summary": "据官方发布的信息化发展报告，2025年我国服务机器人产量达1858.1万套，同比增长16.1%，数字经济核心产业增加值占GDP比重超过10.5%，AI手机、AI电脑、智能眼镜等产品加速普及。",
+      "publishedAt": "2026-07-25T23:07:25+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/981/599.htm",
+      "subCategory": "机器人",
+      "id": "tech-20260726-008"
+    },
+    {
+      "title": "Nothing联合创始人回应裁员传闻：数字被严重夸大",
+      "summary": "Nothing联合创始人Akis Evangelidis否认公司退出市场传闻，称公司正在进行组织架构调整以备未来发展，网传裁员数字被严重夸大，并透露Nothing Phone(4b)首日销量达29537台，创同价位记录。",
+      "publishedAt": "2026-07-25T22:49:25+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/981/598.htm",
+      "subCategory": "消费电子",
+      "id": "tech-20260726-006"
+    },
+    {
+      "title": "WALLHACK公布首款键盘K-001",
+      "summary": "此前以电竞玻璃鼠标垫知名的WALLHACK推出首款键盘K-001，采用65%配列与铝合金机身，支持角度可调支架，搭载Gateron KS-TR线性磁轴，报点率达8kHz，输入延迟0.13毫秒。",
+      "publishedAt": "2026-07-25T22:32:25+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/981/597.htm",
+      "subCategory": "消费电子",
+      "id": "tech-20260726-005"
+    },
+    {
+      "title": "华为AI眼镜推送6.0.0.157 SP2版本更新，支持“看一下支付宝小蓝环”支付",
+      "summary": "华为AI眼镜推送6.0.0.157 SP2版本更新，新增“看一下支付宝小蓝环”免密支付功能，同时增加AI快捷键拍照识别、录制起止语音提示、优化视频导入体验及电池续航表现。",
+      "publishedAt": "2026-07-25T22:25:57+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/981/595.htm",
+      "subCategory": "XR-AR-VR",
+      "id": "tech-20260726-009"
+    },
+    {
+      "title": "ShinyHunters data leaks fuel $2,000 sextortion email scam",
+      "summary": "攻击者利用ShinyHunters此前泄露数据中的邮箱地址，发起大规模性勒索邮件诈骗活动，谎称已入侵受害者设备并录制不雅视频，要求48小时内支付2000美元比特币，目前无证据显示设备真的遭到入侵。",
+      "publishedAt": "2026-07-25T22:16:00+08:00",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/shinyhunters-data-leaks-fuel-2-000-sextortion-email-scam/",
+      "subCategory": "安全漏洞",
+      "id": "tech-20260726-013"
+    },
+    {
+      "title": "Keychron公布磁光微动鼠标G6 HE UltraLight",
+      "summary": "Keychron发布G6 HE UltraLight鼠标，采用MagOptic电磁光学微动开关，寿命达1亿次点击，提供42克固定电池版与46克可换电模块化版本（配重可达62克），蓝牙续航340小时。",
+      "publishedAt": "2026-07-25T21:42:10+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/981/591.htm",
+      "subCategory": "消费电子",
+      "id": "tech-20260726-002"
+    },
+    {
+      "title": "ACEMAGIC公布2.1L迷你工作站F9A，搭载AMD锐龙AI Max+395",
+      "summary": "ACEMAGIC推出2.1升迷你工作站F9A，搭载AMD锐龙AI Max+395处理器，峰值功耗140W，最高支持128GB内存与双M.2 PCIe4.0硬盘位，配备Wi-Fi 7及双2.5G网口等接口。",
+      "publishedAt": "2026-07-25T21:21:15+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/981/588.htm",
+      "subCategory": "消费电子",
+      "id": "tech-20260726-004"
+    },
+    {
+      "title": "消息称五大半导体制造设备供应商产品交付周期延长50~100%",
+      "summary": "据韩媒报道，应用材料、ASML、泛林集团、东京电子、科磊等五大半导体设备商主要产品交付周期已延长50%至100%，部分设备交期由半年延长至一年，原因是AI驱动的产能需求激增，三星、SK海力士等厂商受到影响。",
+      "publishedAt": "2026-07-25T21:09:02+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/981/587.htm",
+      "subCategory": "芯片硬件",
+      "id": "tech-20260726-007"
+    },
+    {
+      "title": "奇瑞风云A9纯电轿跑上市，超级置换价10.69万元起",
+      "summary": "奇瑞风云A9纯电轿跑正式上市，官方指导价10.99万元起，超级置换价10.69万元起，续航655公里，电机功率178kW，搭载配备激光雷达等多传感器的猎鹰智驾系统。",
+      "publishedAt": "2026-07-25T19:41:24+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/981/575.htm",
+      "subCategory": "智能汽车",
+      "id": "tech-20260726-010"
+    },
+    {
+      "title": "比亚迪方程豹钛7 EV闪充版本月交付量明显提升",
+      "summary": "比亚迪方程豹事业部总经理熊甜波表示，方程豹钛7 EV闪充版车型本月交付量已明显提升，4月大部分订单已完成交付，该车型于2026年4月上市，起售价19.98万元。",
+      "publishedAt": "2026-07-25T18:29:22+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/981/555.htm",
+      "subCategory": "智能汽车",
+      "id": "tech-20260726-011"
+    },
     {
       "id": "tech-20260725-019",
       "title": "黑格G1系列破年内科技造物众筹首日记录",
@@ -382,15 +499,6 @@
       "source": "The Hacker News",
       "url": "https://thehackernews.com/2026/07/certighost-exploit-lets-low-privileged.html",
       "subCategory": "安全漏洞"
-    },
-    {
-      "id": "tech-20260724-153",
-      "title": "微软、英伟达、Meta 等 25 家公司签署公开信，呼吁美国政府支持 AI 开源模型发展",
-      "summary": "微软、英伟达、Meta等25家美国科技公司联合签署公开信，呼吁政府支持开放权重AI模型发展，认为开源模型有助于普及AI应用、促进竞争并增强安全性，呼吁扩大初创企业与研究者的算力获取渠道。",
-      "publishedAt": "2026-07-24T22:09:10+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/981/384.htm",
-      "subCategory": "开源生态"
     },
     {
       "id": "tech-20260724-155",
