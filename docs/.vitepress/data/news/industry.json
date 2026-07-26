@@ -3,8 +3,17 @@
   "slug": "industry",
   "title": "行业新闻",
   "description": "企业服务、SaaS、云计算、制造业、消费互联网的产业动态。",
-  "updatedAt": "2026-07-26T16:40:00+08:00",
+  "updatedAt": "2026-07-26T23:55:00+08:00",
   "items": [
+    {
+      "id": "industry-20260726-101",
+      "title": "洛图科技：2026年上半年中国智能投影市场销量同比下降26.0%、销售额下滑27.0%",
+      "summary": "洛图科技报告显示，2026年上半年中国智能投影市场销量同比下降26.0%至205.6万台，销售额下滑27.0%至33.4亿元，行业已连续九个季度同比下滑，二季度销量自2022年以来首次跌破百万台，但产品在亮度、分辨率等规格上持续升级。",
+      "publishedAt": "2026-07-26T16:56:39+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/981/764.htm",
+      "subCategory": "行业研报"
+    },
     {
       "id": "industry-20260726-006",
       "title": "福特公司召回超56万辆汽车",
@@ -105,15 +114,6 @@
       "id": "industry-20260726-001"
     },
     {
-      "title": "海思科琥珀酸思普可泮片获批上市",
-      "summary": "海思科1类创新药琥珀酸思普可泮片（研发代号HSK39297）获国家药监局批准上市，用于既往未接受补体抑制剂治疗的阵发性睡眠性血红蛋白尿症成人患者，为每日一次口服补体B因子抑制剂。",
-      "publishedAt": "2026-07-24T07:00:15+08:00",
-      "source": "每日经济新闻",
-      "url": "https://www.nbd.com.cn/articles/2026-07-23/4504916.html",
-      "subCategory": "医疗健康",
-      "id": "industry-20260726-005"
-    },
-    {
       "id": "industry-20260724-101",
       "title": "Counterpoint：2026年第一季度全球DRAM销售额环比增长80%",
       "summary": "Counterpoint数据显示2026年一季度全球DRAM销售额环比增长80%，三星以38%份额重夺榜首，长鑫存储份额翻倍至8%升至第四大供应商，二季度价格预计再涨50%。",
@@ -130,6 +130,15 @@
       "url": "https://tech.ifeng.com/c/8v17ZJOLxz1",
       "subCategory": "半导体产业",
       "id": "industry-20260726-004"
+    },
+    {
+      "title": "海思科琥珀酸思普可泮片获批上市",
+      "summary": "海思科1类创新药琥珀酸思普可泮片（研发代号HSK39297）获国家药监局批准上市，用于既往未接受补体抑制剂治疗的阵发性睡眠性血红蛋白尿症成人患者，为每日一次口服补体B因子抑制剂。",
+      "publishedAt": "2026-07-24T07:00:15+08:00",
+      "source": "每日经济新闻",
+      "url": "https://www.nbd.com.cn/articles/2026-07-23/4504916.html",
+      "subCategory": "医疗健康",
+      "id": "industry-20260726-005"
     },
     {
       "title": "乘联分会：7月狭义乘用车零售预计152万辆，新能源渗透率约64.5%",
@@ -157,15 +166,6 @@
       "source": "36氪",
       "url": "https://36kr.com/newsflashes/3907481845142662",
       "subCategory": "半导体产业"
-    },
-    {
-      "id": "industry-20260723-001",
-      "title": "GEM：2026年全球煤电繁荣与衰退报告",
-      "summary": "全球能源监测组织报告显示，2025年全球在建及规划煤电装机容量同比增长3.5%接近历史高位，但发电量却同比下降0.6%；中国、印度贡献新增装机的88%，随着风光满足大部分新增电力需求，煤电正从主力电源转变为备用资源。",
-      "publishedAt": "2026-07-23T06:37:00+08:00",
-      "source": "199IT（转引Global Energy Monitor）",
-      "url": "https://finance.sina.com.cn/tech/roll/2026-07-23/doc-iniitvfq4510375.shtml",
-      "subCategory": "行业研报"
     },
     {
       "title": "艾媒咨询：2026年中国运动户外市场消费趋势报告",
@@ -211,6 +211,15 @@
       "source": "东方财富网",
       "url": "https://finance.eastmoney.com/a/202607233819187746.html",
       "subCategory": "新能源汽车"
+    },
+    {
+      "id": "industry-20260723-001",
+      "title": "GEM：2026年全球煤电繁荣与衰退报告",
+      "summary": "全球能源监测组织报告显示，2025年全球在建及规划煤电装机容量同比增长3.5%接近历史高位，但发电量却同比下降0.6%；中国、印度贡献新增装机的88%，随着风光满足大部分新增电力需求，煤电正从主力电源转变为备用资源。",
+      "publishedAt": "2026-07-23T06:37:00+08:00",
+      "source": "199IT（转引Global Energy Monitor）",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-07-23/doc-iniitvfq4510375.shtml",
+      "subCategory": "行业研报"
     },
     {
       "id": "industry-20260722-107",
@@ -292,6 +301,69 @@
       "source": "证券时报（人民财讯）",
       "url": "https://www.stcn.com/article/detail/4033646.html",
       "subCategory": "消费零售"
+    },
+    {
+      "id": "industry-20260722-105",
+      "title": "2025年以色列深度科技投资报告",
+      "summary": "报告显示，2019年以来以色列超三分之一风险投资流入深度科技与生命科学领域，累计超280亿美元；2025年该比例达39%，由深度科技软件引领增长，网络安全占融资比例最高超20%，医疗器械与农业科技紧随其后。",
+      "publishedAt": "2026-07-22",
+      "source": "199IT",
+      "url": "http://www.199it.com/archives/1788662.html",
+      "subCategory": "行业研报"
+    },
+    {
+      "id": "industry-20260722-106",
+      "title": "Brand Finance：2026年法国品牌150强",
+      "summary": "Brand Finance发布法国品牌150强榜单，香奈儿以298亿欧元蟬联榜首但价值下降12%，路易威登降15%居第二；空客上升五位至第八，品牌价值增长57%达235亿欧元；数字医疗平台Doctolib首次上榜列第114位。",
+      "publishedAt": "2026-07-22",
+      "source": "199IT",
+      "url": "http://www.199it.com/archives/1829282.html",
+      "subCategory": "行业研报"
+    },
+    {
+      "title": "兆易创新拟5亿元增资DRAM项目",
+      "summary": "兆易创新公告拟使用5亿元募集资金向全资子公司珠海芯存增资，用于实施DRAM募投项目，增资后珠海芯存注册资本将由1.5亿元增至2亿元，加速DRAM芯片研发与产业化布局。",
+      "publishedAt": "2026-07-22",
+      "source": "财经网",
+      "url": "http://stock.caijing.com.cn/20260722/5172713.shtml",
+      "subCategory": "半导体产业",
+      "id": "industry-20260723-202"
+    },
+    {
+      "title": "第十二批国采采购文件正式发布，7月31日现场报价",
+      "summary": "国家组织药品集中带量采购办公室正式发布第十二批集采采购文件，共纳入65个药品品种，覆盖皮肤病、心血管、消化道及代谢等领域，将于7月31日在上海开展现场报价。",
+      "publishedAt": "2026-07-22",
+      "source": "医药魔方",
+      "url": "https://bydrug.pharmcube.com/news/detail/4c315935576dc6abb5b1207f7c3f80c1",
+      "subCategory": "医疗健康",
+      "id": "industry-20260723-205"
+    },
+    {
+      "title": "深圳能源集团董事会通过加纳光伏与哈萨克斯坦垃圾发电海外投资项目",
+      "summary": "深圳能源集团董事会审议通过在加纳投资5万千瓦光伏发电项目（总投资3400万美元）及哈萨克斯坦阿斯塔纳垃圾发电生态园项目（总投资1.9663亿美元），并拟发行不超18.4亿元类REITs。",
+      "publishedAt": "2026-07-22",
+      "source": "上海证券报",
+      "url": "https://paper.cnstock.com/html/2026-07/22/content_2247203.htm",
+      "subCategory": "公司动态",
+      "id": "industry-20260723-207"
+    },
+    {
+      "id": "industry-20260724-007",
+      "title": "AI算力需求驱动，半导体产业链上半年业绩大面积预增",
+      "summary": "据统计，截至7月21日已有45家半导体公司披露2026年上半年业绩预告，其中42家实现盈利、39家净利润同比增长，江波龙、兆易创新等公司净利润同比大幅增长，行业受AI算力需求及产品涨价驱动。",
+      "publishedAt": "2026-07-22",
+      "source": "证券时报网",
+      "url": "https://www.stcn.com/article/detail/4033477.html",
+      "subCategory": "半导体产业"
+    },
+    {
+      "id": "industry-20260725-005",
+      "title": "2026年中国英伟达概念市场状况及标杆企业分析报告",
+      "summary": "艾媒咨询报告显示，中国英伟达概念板块TOP10企业总市值达24048.29亿元，行业平均市值超2400亿元；工业富联以2510.78亿元营收、123.24亿元净利润领跑，TOP10企业合计净利润191.13亿元。",
+      "publishedAt": "2026-07-22",
+      "source": "艾媒咨询",
+      "url": "https://www.iimedia.cn/c400/113286.html",
+      "subCategory": "行业研报"
     },
     {
       "id": "industry-20260722-016",
@@ -391,69 +463,6 @@
       "source": "每日经济新闻",
       "url": "https://www.nbd.com.cn/articles/2026-07-21/4490924.html",
       "subCategory": "公司动态"
-    },
-    {
-      "id": "industry-20260722-105",
-      "title": "2025年以色列深度科技投资报告",
-      "summary": "报告显示，2019年以来以色列超三分之一风险投资流入深度科技与生命科学领域，累计超280亿美元；2025年该比例达39%，由深度科技软件引领增长，网络安全占融资比例最高超20%，医疗器械与农业科技紧随其后。",
-      "publishedAt": "2026-07-22",
-      "source": "199IT",
-      "url": "http://www.199it.com/archives/1788662.html",
-      "subCategory": "行业研报"
-    },
-    {
-      "id": "industry-20260722-106",
-      "title": "Brand Finance：2026年法国品牌150强",
-      "summary": "Brand Finance发布法国品牌150强榜单，香奈儿以298亿欧元蟬联榜首但价值下降12%，路易威登降15%居第二；空客上升五位至第八，品牌价值增长57%达235亿欧元；数字医疗平台Doctolib首次上榜列第114位。",
-      "publishedAt": "2026-07-22",
-      "source": "199IT",
-      "url": "http://www.199it.com/archives/1829282.html",
-      "subCategory": "行业研报"
-    },
-    {
-      "title": "兆易创新拟5亿元增资DRAM项目",
-      "summary": "兆易创新公告拟使用5亿元募集资金向全资子公司珠海芯存增资，用于实施DRAM募投项目，增资后珠海芯存注册资本将由1.5亿元增至2亿元，加速DRAM芯片研发与产业化布局。",
-      "publishedAt": "2026-07-22",
-      "source": "财经网",
-      "url": "http://stock.caijing.com.cn/20260722/5172713.shtml",
-      "subCategory": "半导体产业",
-      "id": "industry-20260723-202"
-    },
-    {
-      "title": "第十二批国采采购文件正式发布，7月31日现场报价",
-      "summary": "国家组织药品集中带量采购办公室正式发布第十二批集采采购文件，共纳入65个药品品种，覆盖皮肤病、心血管、消化道及代谢等领域，将于7月31日在上海开展现场报价。",
-      "publishedAt": "2026-07-22",
-      "source": "医药魔方",
-      "url": "https://bydrug.pharmcube.com/news/detail/4c315935576dc6abb5b1207f7c3f80c1",
-      "subCategory": "医疗健康",
-      "id": "industry-20260723-205"
-    },
-    {
-      "title": "深圳能源集团董事会通过加纳光伏与哈萨克斯坦垃圾发电海外投资项目",
-      "summary": "深圳能源集团董事会审议通过在加纳投资5万千瓦光伏发电项目（总投资3400万美元）及哈萨克斯坦阿斯塔纳垃圾发电生态园项目（总投资1.9663亿美元），并拟发行不超18.4亿元类REITs。",
-      "publishedAt": "2026-07-22",
-      "source": "上海证券报",
-      "url": "https://paper.cnstock.com/html/2026-07/22/content_2247203.htm",
-      "subCategory": "公司动态",
-      "id": "industry-20260723-207"
-    },
-    {
-      "id": "industry-20260724-007",
-      "title": "AI算力需求驱动，半导体产业链上半年业绩大面积预增",
-      "summary": "据统计，截至7月21日已有45家半导体公司披露2026年上半年业绩预告，其中42家实现盈利、39家净利润同比增长，江波龙、兆易创新等公司净利润同比大幅增长，行业受AI算力需求及产品涨价驱动。",
-      "publishedAt": "2026-07-22",
-      "source": "证券时报网",
-      "url": "https://www.stcn.com/article/detail/4033477.html",
-      "subCategory": "半导体产业"
-    },
-    {
-      "id": "industry-20260725-005",
-      "title": "2026年中国英伟达概念市场状况及标杆企业分析报告",
-      "summary": "艾媒咨询报告显示，中国英伟达概念板块TOP10企业总市值达24048.29亿元，行业平均市值超2400亿元；工业富联以2510.78亿元营收、123.24亿元净利润领跑，TOP10企业合计净利润191.13亿元。",
-      "publishedAt": "2026-07-22",
-      "source": "艾媒咨询",
-      "url": "https://www.iimedia.cn/c400/113286.html",
-      "subCategory": "行业研报"
     },
     {
       "id": "industry-20260722-002",
@@ -715,15 +724,6 @@
       "url": "https://www.199it.com/archives/1840426.html",
       "subCategory": "新能源汽车",
       "id": "industry-20260719-952"
-    },
-    {
-      "title": "中汽协：2026年1-6月汽车销量前十企业共销唐1264.9万辆，占总量84.2%",
-      "summary": "中国汽车工业协会数据显示，2026年上半年销量前十车企合计销唐1264.9万辆，占行业总销量84.2%，上汽、比亚迪、吉利等企业排名前列，全球新能源车销量前十车型中八席为中国品牌。",
-      "publishedAt": "2026-07-19",
-      "source": "199IT",
-      "url": "https://www.199it.com/archives/1840529.html",
-      "subCategory": "制造业",
-      "id": "industry-20260719-953"
     }
   ]
 }
