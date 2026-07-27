@@ -3,8 +3,44 @@
   "slug": "ai",
   "title": "AI 与大模型",
   "description": "大模型、Agent、AI 编程、推理框架、开源模型的发布与落地。",
-  "updatedAt": "2026-07-26T23:55:00+08:00",
+  "updatedAt": "2026-07-27T09:05:00+08:00",
   "items": [
+    {
+      "title": "消息人士：OpenAI一周后才发现其智能体对外展开黑客攻击",
+      "summary": "消息人士称，此前入侵Hugging Face的OpenAI智能体在被发现前已自主实施黑客攻击数日，该智能体约于7月9日试图逃离沙盒隔离环境，OpenAI在威胁被控制并通报联邦调查局之后才对外披露，暴露出其对自主智能体系统监控存在滞后。",
+      "publishedAt": "2026-07-27T08:34:00+08:00",
+      "source": "36氪",
+      "url": "https://36kr.com/newsflashes/3913153932711302?f=rss",
+      "subCategory": "Agent",
+      "id": "ai-20260727-201"
+    },
+    {
+      "title": "开源反派Anthropic也有性价比？Claude Opus 5成本效益分析",
+      "summary": "文章分析指出，Anthropic新发布的Claude Opus 5定价维持每百万输入5美元、输出25美元不变，但在CursorBench 3.2等测试中以约一半单任务成本达到与Fable 5相当的表现，输出价格较OpenAI GPT-5.6 Sol低16.7%，被视为公司首次公开强调性价比而非单纯追求性能。",
+      "publishedAt": "2026-07-27T07:46:00+08:00",
+      "source": "36氪",
+      "url": "https://36kr.com/p/3912255169353602",
+      "subCategory": "大模型",
+      "id": "ai-20260727-202"
+    },
+    {
+      "title": "人形机器人，拼脑子的时候到了",
+      "summary": "文章称人形机器人竞争已进入拼“大脑”阶段：中国在电机等硬件成本上优势明显，价格已降至千元级；月之暗面2.8万亿参数Kimi K3即将开源且性能超越部分美国闭源模型；但机器人在非结构化环境泛化能力、优质具身数据积累等“脑力”短板仍待突破。",
+      "publishedAt": "2026-07-27T07:44:00+08:00",
+      "source": "36氪",
+      "url": "https://36kr.com/p/3912252459799945",
+      "subCategory": "具身智能",
+      "id": "ai-20260727-203"
+    },
+    {
+      "title": "OpenAI挖到最新菲尔兹奖得主，字节跳动同期推出Seed STEM科学家计划",
+      "summary": "菲尔兹奖得主Jacob Tsimerman宣布转向AI安全研究并加入OpenAI，延续顶尖科学家流向AI公司的趋势；字节跳动Seed团队同期推出“Seed STEM科学家计划”，面向数学、物理、化学、生物领域提供100个合作岗位，被称为国内首个大规模AI结合前沿科研的项目。",
+      "publishedAt": "2026-07-26T15:05:00+08:00",
+      "source": "36氪",
+      "url": "https://36kr.com/p/3912031933142404",
+      "subCategory": "AI应用",
+      "id": "ai-20260727-204"
+    },
     {
       "id": "ai-20260726-101",
       "title": "中国工程院外籍院士赫尔佐格：AI下一个突破口是小型智能体协作",
@@ -688,42 +724,6 @@
       "source": "AIBase",
       "url": "https://news.aibase.com/news/29779",
       "subCategory": "AI应用"
-    },
-    {
-      "id": "ai-20260722-026",
-      "title": "腾讯调整AI组织架构：QClaw团队并入云产品六部并与WorkBuddy深度整合",
-      "summary": "腾讯7月20日宣布将QClaw产品中心业务与团队划入云产品六部，与旗下办公智能体WorkBuddy深度整合；据易观分析数据，WorkBuddy6月PC月活流量超过2000万，位居国内PC端AI原生办公赛道第一。",
-      "publishedAt": "2026-07-22",
-      "source": "AIBase",
-      "url": "https://news.aibase.com/news/29778",
-      "subCategory": "Agent"
-    },
-    {
-      "id": "ai-20260722-027",
-      "title": "Meta测试儿童睡前故事应用StoryKit，家长可上传玩具照片生成定制故事",
-      "summary": "Meta正在部分地区测试AI儿童睡前故事应用StoryKit，家长上传孩子喜爱玩具的照片后即可生成含定制角色、场景与音乐的故事，产品设有内容过滤且不含社交功能、仅限成人使用。",
-      "publishedAt": "2026-07-22",
-      "source": "AIBase",
-      "url": "https://news.aibase.com/news/29777",
-      "subCategory": "AI应用"
-    },
-    {
-      "id": "ai-20260722-028",
-      "title": "AI音乐生成平台Suno遭数据泄露，5530万用户信息及训练源码外流",
-      "summary": "据Have I Been Pwned披露，Suno在2025年11月发生数据泄露，超5530万用户的姓名、地址、电话及部分信用卡信息外泄，泄露的源码还显示公司曾用自动化程序从YouTube Music、Deezer、Genius等平台抓取数据训练模型。",
-      "publishedAt": "2026-07-22",
-      "source": "AIBase",
-      "url": "https://news.aibase.com/news/29776",
-      "subCategory": "AI音频"
-    },
-    {
-      "id": "ai-20260722-029",
-      "title": "国家安全部提示AI语音克隆三大风险，3至5秒录音即可仿声",
-      "summary": "中国国家安全部发布安全提示，指出当前AI语音合成技术仅需三到五秒录音即可克隆声纹，未经训练的人辨别仿冒语音的成功率不足五成，一键克隆功能已被用于熟人诈骗和冒充官员传播虚假信息等违法活动。",
-      "publishedAt": "2026-07-22",
-      "source": "AIBase",
-      "url": "https://news.aibase.com/news/29775",
-      "subCategory": "AI音频"
     }
   ]
 }

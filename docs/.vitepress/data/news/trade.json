@@ -3,8 +3,62 @@
   "slug": "trade",
   "title": "外贸资讯",
   "description": "亚马逊、TikTok Shop、阿里国际站、Shopify 等平台政策与跨境电商市场、独立站、物流支付、关税法规、选品趋势。",
-  "updatedAt": "2026-07-26T23:55:00+08:00",
+  "updatedAt": "2026-07-27T09:05:00+08:00",
   "items": [
+    {
+      "title": "TikTok Tests Prime-Style Shopping Membership Service",
+      "summary": "TikTok正测试名为TikTok Shop Plus的会员订阅服务，月费6至15美元，为会员提供包邮、折扣和优惠券，被视为对标亚马逊Prime、争夺电商转化环节的举措。",
+      "publishedAt": "2026-07-26",
+      "source": "PYMNTS",
+      "url": "https://www.pymnts.com/commerce/ecommerce/2026/tiktok-tests-prime-style-shopping-membership-service/",
+      "subCategory": "平台动态",
+      "id": "trade-20260727-201"
+    },
+    {
+      "title": "横跨太平洋！嘉兴南湖机场—洛杉矶国际货运航线正式开通",
+      "summary": "7月26日，浙江嘉兴南湖机场首条北美货运航线正式开通，一架波音747全货机搭载逾100吨跨境电商及电子产品货物飞往洛杉矶，为该机场第三条国际货运航线。",
+      "publishedAt": "2026-07-26T14:07:00+08:00",
+      "source": "潮新闻（腾讯新闻）",
+      "url": "https://news.qq.com/rain/a/20260726A06DUL00",
+      "subCategory": "物流仓储",
+      "id": "trade-20260727-202"
+    },
+    {
+      "title": "美客多加码全托管流量赋能：推出50%专属大额券补贴及多项引流利好政策",
+      "summary": "美客多（Mercado Libre）推出全托管卖家扶持政策，为入驻商品提供50%专属大额优惠券补贴，并叠加App推送、达人营销及搜索流量倾斜等多项引流支持。",
+      "publishedAt": "2026-07-26T18:32:00+08:00",
+      "source": "亿邦动力",
+      "url": "https://m.ebrun.com/690333.html",
+      "subCategory": "平台政策",
+      "id": "trade-20260727-203"
+    },
+    {
+      "title": "HUboo完成2.7亿美元A轮融资",
+      "summary": "跨境服务商Huboo完成2.7亿美元A轮融资，由Founders Fund领投，SV Angel、Index Ventures跟投，资金将用于扩展北美仓配网络及技术平台升级。",
+      "publishedAt": "2026-07-27T06:47:00+08:00",
+      "source": "亿邦动力",
+      "url": "https://m.ebrun.com/ebrungo/zb/690345.html",
+      "subCategory": "物流仓储",
+      "id": "trade-20260727-204"
+    },
+    {
+      "title": "零关税红利持续释放 闽货深耕非洲激活外贸新动能",
+      "summary": "福建对非洲53国零关税政策持续释放红利，莆田制鞋企业等对非出口物流时效提升近三成，福建对非汽车出口上半年同比增长41.8%，达20.8亿元。",
+      "publishedAt": "2026-07-26T13:41:00+08:00",
+      "source": "东南网",
+      "url": "https://fjnews.fjsen.com/2026-07/26/content_32225121.htm",
+      "subCategory": "新兴市场",
+      "id": "trade-20260727-205"
+    },
+    {
+      "title": "KB国民银行将接入摩根大通Kinexys区块链企业跨境支付服务",
+      "summary": "韩国国民银行宣布接入摩根大通Kinexys区块链网络，8月起为进出口企业提供覆盖韩、美、新加坡等10个国家的全天候美元跨境支付结算服务。",
+      "publishedAt": "2026-07-26T15:51:00+08:00",
+      "source": "移动支付网",
+      "url": "https://www.mpaypass.com.cn/news/202607/26160807.html",
+      "subCategory": "跨境支付",
+      "id": "trade-20260727-206"
+    },
     {
       "id": "trade-20260725-009",
       "title": "一张税务稽查通知书，正让无数跨境卖家夜不能寐",
@@ -669,60 +723,6 @@
       "publishedAt": "2026-07-22T09:24:00+08:00",
       "source": "AMZ123跨境导航",
       "url": "https://www.amz123.com/kx/OHDQy0VG",
-      "subCategory": "选品趋势"
-    },
-    {
-      "id": "trade-20260724-008",
-      "title": "Lazada泰国站8月起上调跨境佣金，非Premium卖家统一涤4.5%",
-      "summary": "Lazada泰国站宣布自2026年8月1日起，未加入Premium Package的Mall及非Mall卖家在跨境直邮 LGS、FBL、Lite/3PF等履约方式下基础佣金统一上调4.5%；已加入Premium Package的卖家佣金由7%上调至8%。",
-      "publishedAt": "2026-07-22T09:24:00+08:00",
-      "source": "AMZ123跨境导航",
-      "url": "https://www.amz123.com/kx/17hVxG7b",
-      "subCategory": "平台政策"
-    },
-    {
-      "id": "trade-20260724-010",
-      "title": "印尼将于9月起全面实施大宗商品单一出口管控",
-      "summary": "印尼总统普拉博沃宣布，由新成立国企Danantara（DSI）主导的大宗商品单一出口管控体系将于2026年9月1日全面实施，重点整治棕榆油等商品低价出口套利问题，DSI运蜠1.5个月已管理超105亿美元外汇流入。",
-      "publishedAt": "2026-07-22T09:24:00+08:00",
-      "source": "AMZ123跨境导航",
-      "url": "https://www.amz123.com/kx/4tTz1dDR",
-      "subCategory": "关税法规"
-    },
-    {
-      "id": "trade-20260722-018",
-      "title": "美线物流再响警报：ISF合规问题引发2R禁装代码，大批货物起运港遭海关拦截",
-      "summary": "美国海关近期密集签发\"2R\"禁装代码，因ISF申报数据不匹配、进口商资质等问题导致货物在起运港被拒装，违规将面临5000至1万美元罚款及仓储扣留费。",
-      "publishedAt": "2026-07-22T09:21:03+08:00",
-      "source": "出海网",
-      "url": "https://www.chwang.com/news/207973845791",
-      "subCategory": "物流仓储"
-    },
-    {
-      "id": "trade-20260722-010",
-      "title": "一次假货跟卖亏掉10008美金！Prime Day损失账单警醒所有亚马逊品牌卖家",
-      "summary": "一亚马逊卖家因跟卖假货被迫退出Prime Day促销，损失促销销售额约8568美元及额外广告费1440美元，文章建议加入透明计划防范跟卖。",
-      "publishedAt": "2026-07-21T19:11:00+08:00",
-      "source": "雨果网",
-      "url": "https://www.cifnews.com/article/187671",
-      "subCategory": "平台动态"
-    },
-    {
-      "id": "trade-20260722-011",
-      "title": "入驻亚马逊三年做到销售额破亿？标杆孵化计划把成功路径标准化",
-      "summary": "雨果网报道亚马逊标杆孵化计划旨在将卖家三年做到销售破亿的成功路径标准化，由官方客户经理提供运营指导图谱与一对一诊断服务。",
-      "publishedAt": "2026-07-21T18:56:00+08:00",
-      "source": "雨果网",
-      "url": "https://www.cifnews.com/article/187670",
-      "subCategory": "平台政策"
-    },
-    {
-      "id": "trade-20260722-012",
-      "title": "月销过千、供不应求：一件10美元的\"小球衣\"，藏着怎样的大生意？",
-      "summary": "报道称全球宠物服饰市场预计2026年衘72.9亿美元，宠物球衣类产品价格多在5至15美元，经由亚马逊、TikTok、Temu等渠道热销。",
-      "publishedAt": "2026-07-21T18:19:00+08:00",
-      "source": "雨果网",
-      "url": "https://www.cifnews.com/article/187669",
       "subCategory": "选品趋势"
     }
   ]

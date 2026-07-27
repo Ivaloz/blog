@@ -3,8 +3,98 @@
   "slug": "tech",
   "title": "科技新闻",
   "description": "前沿科技、互联网产品、芯片硬件、开源生态。",
-  "updatedAt": "2026-07-26T23:55:00+08:00",
+  "updatedAt": "2026-07-27T09:05:00+08:00",
   "items": [
+    {
+      "title": "英伟达与韩国互联网巨头 Naver 达成 10 亿美元投资协议，扩容 200 兆瓦 AI 算力工厂",
+      "summary": "英伟达宣布与韩国Naver达成10亿美元投资协议，将现有AI算力工厂扩容至200兆瓦，并与Brookfield联合提供最高90亿美元融资支持，采用Vera Rubin与Blackwell平台，未来规划扩容至1吉瓦。",
+      "publishedAt": "2026-07-27T08:17:08+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/981/825.htm",
+      "subCategory": "芯片硬件",
+      "id": "tech-20260727-201"
+    },
+    {
+      "title": "曝华为畅连 App 无网「实时对讲」功能将在 HarmonyOS 7.0 后续版本上线",
+      "summary": "华为畅连App已在HarmonyOS 6.1加入实时对讲功能，但目前需联网使用；据博主爆料，后续HarmonyOS 7.0版本将为Mate 80、Mate X7、nova 15等支持星闪技术的机型加入离线对讲能力。",
+      "publishedAt": "2026-07-27T07:26:13+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/981/819.htm",
+      "subCategory": "操作系统",
+      "id": "tech-20260727-202"
+    },
+    {
+      "title": "微软承认 Win11 系统原生应用内存占用过高",
+      "summary": "微软表示将在推出重新设计的开始菜单前优化WinUI性能，工程师称将降低原生应用内存占用并提升稳定性，同时计划把WinUI进一步集成进Windows Shell，未来加入DataGrid、Charting等新控件。",
+      "publishedAt": "2026-07-27T07:05:31+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/981/816.htm",
+      "subCategory": "操作系统",
+      "id": "tech-20260727-203"
+    },
+    {
+      "title": "古尔曼：苹果 Apple Upgrade 设备租赁计划预计明天在美国上线，覆盖 iPhone / Mac 等多款产品",
+      "summary": "据古尔曼透露，苹果新设备租赁计划Apple Upgrade将于明日在美国上线并取代原iPhone Upgrade Program，与Klarna合作，覆盖iPhone、iPad、Mac及Apple Watch，iPhone与Watch租期2年，iPad与Mac为3年，到期可换新或买断。",
+      "publishedAt": "2026-07-27T06:43:59+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/981/815.htm",
+      "subCategory": "消费电子",
+      "id": "tech-20260727-204"
+    },
+    {
+      "title": "小米汽车第二个系列：澎程官宣 7 月 30 日晚 7 点见，两款智能可变大空间 SUV 将正式登场",
+      "summary": "小米汽车第二品牌澎程宣布将于7月30日晚7点发布“昆仑技术架构”，推出七座旗舰N90 Max与五座双电机N70 Max两款增程SUV，此前已完成566台测试车、累计428万公里路测。",
+      "publishedAt": "2026-07-27T08:04:35+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/981/824.htm",
+      "subCategory": "智能汽车",
+      "id": "tech-20260727-205"
+    },
+    {
+      "title": "GitHub, PyPI add time-based defenses against supply chain attacks",
+      "summary": "GitHub为Dependabot新增默认三天冷却期以防范恶意依赖被自动引入，PyPI则禁止在发布14天后再向该版本上传新文件，两平台均称此举意在应对近期多起开源供应链投毒攻击。",
+      "publishedAt": "2026-07-26T10:13:00-04:00",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/github-pypi-add-time-absed-defenses-against-supply-chain-attacks/",
+      "subCategory": "安全漏洞",
+      "id": "tech-20260727-206"
+    },
+    {
+      "title": "俄罗斯「联盟 MS-28」飞船载美俄航天员返回地球，完成 8 个月国际空间站驻留任务",
+      "summary": "载有俄罗斯航天员谢尔盖·库楚科夫、谢尔盖·米卡耶夫及美国航天员克里斯托弗·威廉姆斯的联盟MS-28飞船，于7月26日在哈萨克斯坦杰兹卡兹甘附近着陆，此前于2025年11月27日自拜科努尔发射升空。",
+      "publishedAt": "2026-07-26T21:34:14+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/981/809.htm",
+      "subCategory": "航空航天",
+      "id": "tech-20260727-207"
+    },
+    {
+      "title": "上纬新材子公司启元新创落户上海，计划每年推出不少于 2 款全新消费级机器人",
+      "summary": "上纬新材全资子公司启元新创正式落户上海浦东，作为上海市人工智能重点项目，未来三年将加大研发投入，计划每年推出至少2款消费级机器人。此前该公司已发布人形机器人启元Q1与可变形个人机器人启元T1，由彭志辉出任董事长。",
+      "publishedAt": "2026-07-26T21:23:38+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/981/801.htm",
+      "subCategory": "机器人",
+      "id": "tech-20260727-208"
+    },
+    {
+      "title": "vivo X300 E 手机完整参数曝光：6.59 英寸 1.5K OLED 屏，骁龙 8 Gen 5 处理器",
+      "summary": "vivo X300E手机完整参数曝光，将于7月27日开启预售，搭载骁龙8 Gen5处理器，配备6.59英寸1.5K OLED屏、5000万像素主摄、7200毫安电池及90瓦快充，机身厚7.99毫米、重203克。",
+      "publishedAt": "2026-07-26T21:21:40+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/981/800.htm",
+      "subCategory": "消费电子",
+      "id": "tech-20260727-209"
+    },
+    {
+      "title": "蔡司半导体制造技术部门德国总部扩建 2.5 万平方米，办公楼本月启用",
+      "summary": "蔡司半导体制造技术（SMT）部门在德国奥博科亨总部新建的2.5万平方米扩建工程本月起分阶段启用，该项目2022年5月动工。公司称此举是为应对AI驱动的先进芯片需求增长而进行的前瞻投资，同时在韦茨拉尔和耶拿推进新设施建设。",
+      "publishedAt": "2026-07-26T21:54:16+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/981/805.htm",
+      "subCategory": "芯片硬件",
+      "id": "tech-20260727-210"
+    },
     {
       "id": "tech-20260726-101",
       "title": "古尔曼：苹果智能眼镜计划最早在明年WWDC27上亮相、同年秋季发布，隐私保护是重中之重",
@@ -634,96 +724,6 @@
       "source": "IT之家",
       "url": "https://www.ithome.com/0/981/172.htm",
       "subCategory": "芯片硬件"
-    },
-    {
-      "id": "tech-20260724-105",
-      "title": "技嘉全系DDR5主板现已支持基于长鑫存储DRAM芯片的内存",
-      "summary": "技嘉宣布旗下全系DDR5主板现已支持基于长鑫存储DRAM芯片的内存，Intel 800/700系主板已内置BIOS支持，AMD 800/600系主板经AGESA更新后可支持最高8200MT/s，兼容16Gb与24Gb两种Die规格。",
-      "publishedAt": "2026-07-24T15:30:31+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/981/170.htm",
-      "subCategory": "芯片硬件"
-    },
-    {
-      "id": "tech-20260724-106",
-      "title": "影石Luna Ultra云台相机等产品入驻苹果授权专营店",
-      "summary": "影石宣布Luna Ultra云台相机、GO Ultra人气套装及Snap补光灯版等产品正式入驻全国约500家苹果授权专营店，双方合作已从生态集成延伸至线下门店直接铺货。",
-      "publishedAt": "2026-07-24T15:29:37+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/981/167.htm",
-      "subCategory": "消费电子"
-    },
-    {
-      "id": "tech-20260724-111",
-      "title": "宇树科技CEO王兴兴登上《时代》杂志封面",
-      "summary": "宇树科技创始人兼CEO王兴兴登上《时代》杂志封面，封面配以近2.7米高的GD01载人机甲，标题为\"机器人时代已来\"，GD01为全球首款量产载人外骨骼机甲，重约半吨，具备双足与四足行走能力。",
-      "publishedAt": "2026-07-24T15:13:06+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/981/153.htm",
-      "subCategory": "机器人"
-    },
-    {
-      "id": "tech-20260724-107",
-      "title": "戴尔XPS 13笔记本2026款国内首销",
-      "summary": "戴尔XPS 13笔记本2026款国内首销，搭载酷睿5 320处理器，16GB+512GB版本官方售价8999元，补贴后7649.15元，配13.4英寸2.5K 30-120Hz触控屏，支持Wi-Fi 7、蓝牙6.0，电池容量52Wh。",
-      "publishedAt": "2026-07-24T15:10:29+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/981/152.htm",
-      "subCategory": "消费电子"
-    },
-    {
-      "id": "tech-20260724-109",
-      "title": "盈通推出RTX5060-8G D7大地之神GC显卡",
-      "summary": "盈通推出RTX5060-8G D7大地之神GC显卡，白色外观，基于GB205核心，8GB显存，配双96mm静音风扇及双6mm镀镍热管，全尺寸金属背板，需单8Pin外接供电，尺寸244×124×45mm。",
-      "publishedAt": "2026-07-24T14:53:38+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/981/141.htm",
-      "subCategory": "芯片硬件"
-    },
-    {
-      "id": "tech-20260724-113",
-      "title": "绿联FineTrack Slim Duo 2卡片追踪器发布：续航最长7年",
-      "summary": "绿联发布FineTrack Slim Duo 2卡片追踪器，厚度仅1.7mm，支持苹果\"查找\"和谷歌Find Hub双生态，续航最长7年，蜂鸣器最高110分贝，具备IP68防尘防水及主动式RFID防护，美欧售价29.99美元/欧元。",
-      "publishedAt": "2026-07-24T14:46:36+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/981/135.htm",
-      "subCategory": "消费电子"
-    },
-    {
-      "id": "tech-20260724-112",
-      "title": "消息称小鹏人形机器人正小批量试生产，量产产线进入最后联调阶段",
-      "summary": "消息称小鹏人形机器人已在广州工厂启动小批量试生产，量产产线进入最后联调阶段，公司计划2026年实现量产，2027年起逐步进入小鹏门店及商业场景执行导购、讲解等任务。",
-      "publishedAt": "2026-07-24T14:38:26+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/981/130.htm",
-      "subCategory": "机器人"
-    },
-    {
-      "id": "tech-20260724-114",
-      "title": "联想拯救者推出RGB电竞鼠标Y7MG",
-      "summary": "联想拯救者推出RGB电竞鼠标Y7MG，搭载PAW3950传感器，铝镁合金外壳约59g，500mAh电池，支持USB-C有线及2.4GHz 8k回报率无线双模，凯华100M光轴，售价499元，与R7 RT75磁轴键盘同步发布。",
-      "publishedAt": "2026-07-24T14:37:54+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/981/129.htm",
-      "subCategory": "消费电子"
-    },
-    {
-      "id": "tech-20260724-115",
-      "title": "一加调整深度测试Bootloader解锁申请条件",
-      "summary": "一加针对ColorOS 16+深度测试Bootloader解锁收紧条件：账号需注册满60天且无违规、需连续登录设备7天、完成实名及人脸识别验证，每人每年最多解锁4台设备，新政策9月起面向存量支持机型推行。",
-      "publishedAt": "2026-07-24T14:36:37+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/981/128.htm",
-      "subCategory": "操作系统"
-    },
-    {
-      "id": "tech-20260724-002",
-      "title": "特斯拉在美回购15辆加拿大规格进口Model 3/Y",
-      "summary": "特斯拉在美回购15辆由加拿大进口、中国上海及德国柏林工厂生产的Model 3/Y，因车辆按加拿大规格制造未完全满足美国联邦机动车安全标准，主要涉及驾驶员膝部气囊缺失及碰撞测试未完成，特斯拉将免费回购涉事车辆，暂未收到相关事故或索赔报告。",
-      "publishedAt": "2026-07-24T08:31:00+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/980/907.htm",
-      "subCategory": "智能汽车"
     }
   ]
 }
