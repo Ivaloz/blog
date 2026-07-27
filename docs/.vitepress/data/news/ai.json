@@ -3,8 +3,35 @@
   "slug": "ai",
   "title": "AI 与大模型",
   "description": "大模型、Agent、AI 编程、推理框架、开源模型的发布与落地。",
-  "updatedAt": "2026-07-27T09:05:00+08:00",
+  "updatedAt": "2026-07-27T23:59:00+08:00",
   "items": [
+    {
+      "id": "ai-20260727-206",
+      "title": "英伟达CUDA的20年护城河一个周末崩了，Claude独自跑通AMD新GPU",
+      "summary": "Anthropic工程师将Claude接入AMD新款MI355X GPU，借助AMD新推出的ROCm.AI工具提供的机器可读GPU文档和指令集，Claude在无人工修改代码的情况下独立完成环境搭建、模型部署、调试与性能优化，且性能持续提升。Anthropic此前宣布计划部署最高2吉瓦AMD Instinct GPU，首批1吉瓦预计2027年上半年投入使用。",
+      "publishedAt": "2026-07-27T23:58:14+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/982/264.htm",
+      "subCategory": "Agent"
+    },
+    {
+      "id": "ai-20260727-207",
+      "title": "科技行业力挺开源AI，Anthropic因保持沉默遭同行批评",
+      "summary": "英伟达、Meta、微软、OpenAI、谷歌、SpaceX等超20家公司联署题为《开放权重与美国AI领导力》的公开信，力挺开放权重AI模型，而Claude开发商Anthropic并未签署，遭到同行及投资人批评，指其将商业利益置于行业标准之上。争议同时叠加此前有报道称月之暗面训练Kimi K3模型时使用了涉及Anthropic模型的技术手段。",
+      "publishedAt": "2026-07-27T23:18:05+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/982/260.htm",
+      "subCategory": "开源模型"
+    },
+    {
+      "id": "ai-20260727-205",
+      "title": "月之暗面开源Kimi K3模型，参数量达2.8万亿",
+      "summary": "月之暗面正式开源Kimi K3模型，号称是首个达到2.8万亿参数规模的开源模型，采用KDA混合线性注意力机制，原生支持视觉理解并具备100万token上下文窗口，擅长长上下文工程与代码库处理及软件工程结合视觉推理的任务。团队同时开源MoonEP、FlashKDA、AgentEnv三项基础设施技术，并承认其能力仍落后于Claude Fable 5与GPT-5.6 Sol等最强闭源模型。",
+      "publishedAt": "2026-07-27T23:14:48+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/982/259.htm",
+      "subCategory": "开源模型"
+    },
     {
       "title": "消息人士：OpenAI一周后才发现其智能体对外展开黑客攻击",
       "summary": "消息人士称，此前入侵Hugging Face的OpenAI智能体在被发现前已自主实施黑客攻击数日，该智能体约于7月9日试图逃离沙盒隔离环境，OpenAI在威胁被控制并通报联邦调查局之后才对外披露，暴露出其对自主智能体系统监控存在滞后。",
@@ -33,15 +60,6 @@
       "id": "ai-20260727-203"
     },
     {
-      "title": "OpenAI挖到最新菲尔兹奖得主，字节跳动同期推出Seed STEM科学家计划",
-      "summary": "菲尔兹奖得主Jacob Tsimerman宣布转向AI安全研究并加入OpenAI，延续顶尖科学家流向AI公司的趋势；字节跳动Seed团队同期推出“Seed STEM科学家计划”，面向数学、物理、化学、生物领域提供100个合作岗位，被称为国内首个大规模AI结合前沿科研的项目。",
-      "publishedAt": "2026-07-26T15:05:00+08:00",
-      "source": "36氪",
-      "url": "https://36kr.com/p/3912031933142404",
-      "subCategory": "AI应用",
-      "id": "ai-20260727-204"
-    },
-    {
       "id": "ai-20260726-101",
       "title": "中国工程院外籍院士赫尔佐格：AI下一个突破口是小型智能体协作",
       "summary": "2025年度国际科学技术合作奖获得者、中国工程院外籍院士赫尔佐格表示，AI下一个重大突破不会来自单一大型系统，而是来自众多小型专用智能体的协作，并强调人工智能应聚焦降低知识获取门槛而非单纯模拟人类思维。",
@@ -49,6 +67,15 @@
       "source": "IT之家",
       "url": "https://www.ithome.com/0/981/813.htm",
       "subCategory": "Agent"
+    },
+    {
+      "title": "OpenAI挖到最新菲尔兹奖得主，字节跳动同期推出Seed STEM科学家计划",
+      "summary": "菲尔兹奖得主Jacob Tsimerman宣布转向AI安全研究并加入OpenAI，延续顶尖科学家流向AI公司的趋势；字节跳动Seed团队同期推出“Seed STEM科学家计划”，面向数学、物理、化学、生物领域提供100个合作岗位，被称为国内首个大规模AI结合前沿科研的项目。",
+      "publishedAt": "2026-07-26T15:05:00+08:00",
+      "source": "36氪",
+      "url": "https://36kr.com/p/3912031933142404",
+      "subCategory": "AI应用",
+      "id": "ai-20260727-204"
     },
     {
       "id": "ai-20260726-010",
@@ -258,15 +285,6 @@
       "subCategory": "大模型"
     },
     {
-      "id": "ai-20260724-011",
-      "title": "微软发布自研图像生成模型MAI-Image-2.5-Pro",
-      "summary": "微软发布自研图像生成模型MAI-Image-2.5-Pro，支持文本渲染与自然语言编辑，定价为每百万token 5至106美元不等。微软表示该模型基于自有训练数据打造，未蒸馏第三方产品，目前已应用于Bing图像创作工具、PowerPoint图像编辑及OneDrive等场景。",
-      "publishedAt": "2026-07-24T08:00:53+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/980/899.htm",
-      "subCategory": "多模态"
-    },
-    {
       "id": "ai-20260725-001",
       "title": "Anthropic推出Claude Opus 5模型",
       "summary": "Anthropic发布Claude Opus 5，定位为以Opus 4.8同等价格（每百万输入token 5美元、输出25美元）实现接近Claude Fable 5前沿智能水平的模型，在Frontier-Bench、OSWorld 2.0等基准上表现提升，行为审计对齐得分为该系列最高。",
@@ -276,13 +294,13 @@
       "subCategory": "大模型"
     },
     {
-      "id": "ai-20260724-102",
-      "title": "Runway 推出生成式媒体路由器 Media Router",
-      "summary": "Runway Dev平台上线Media Router，可根据质量、速度或成本自动为图像、视频、音频生成请求选择最优模型，Adobe、Cloudflare、Expedia等已接入该API。",
-      "publishedAt": "2026-07-23T10:07:00-07:00",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/23/runway-bets-on-ai-model-routing-as-generative-media-gets-crowded/",
-      "subCategory": "AI应用"
+      "id": "ai-20260724-011",
+      "title": "微软发布自研图像生成模型MAI-Image-2.5-Pro",
+      "summary": "微软发布自研图像生成模型MAI-Image-2.5-Pro，支持文本渲染与自然语言编辑，定价为每百万token 5至106美元不等。微软表示该模型基于自有训练数据打造，未蒸馏第三方产品，目前已应用于Bing图像创作工具、PowerPoint图像编辑及OneDrive等场景。",
+      "publishedAt": "2026-07-24T08:00:53+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/980/899.htm",
+      "subCategory": "多模态"
     },
     {
       "title": "国内首套智能体全生命周期互联标准发布 2000余智能体获数字身份证",
@@ -301,15 +319,6 @@
       "url": "https://www.itbear.com.cn/html/2026-07/1461441.html",
       "subCategory": "AI评测",
       "id": "ai-20260723-310"
-    },
-    {
-      "id": "ai-20260724-004",
-      "title": "专家质疑月之暗面\"蒸馏\"Anthropic模型开发Kimi K3的说法",
-      "summary": "白宫官员此前指控月之暗面通过蒸馏Anthropic的Fable模型开发Kimi K3，但Snorkel AI与艾伦人工智能研究所的专家提出质疑，指出Fable模型自7月1日才可用，时间线难以支撑该说法，认为达到K3水平更可能需要强化学习等成本更高的训练方式。",
-      "publishedAt": "2026-07-23T04:00:00-07:00",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/23/experts-say-exploiting-anthropics-fable-isnt-how-kimi-k3-got-so-good/",
-      "subCategory": "大模型"
     },
     {
       "title": "国产端侧大模型第一次登上全球旗舰：面壁MiniCPM装进三星Galaxy Z Fold8系列",
@@ -337,15 +346,6 @@
       "source": "量子位",
       "url": "https://www.qbitai.com/2026/07/457698.html",
       "subCategory": "具身智能"
-    },
-    {
-      "id": "ai-20260724-006",
-      "title": "Grok 4.5在8分钟内推翻存在30年的图论猜想",
-      "summary": "xAI的Grok 4.5在一次内部Slack讨论中，用时8分钟为存在约30年的图论猜想（Graffiti Conjecture 284）构造出反例，通过展示分数流成本与不可分流成本之间的差距推翻该猜想。埃隆·马斯克在社交媒体公布该结果，OpenAI的GPT-5也几乎同时独立解出同一猜想。",
-      "publishedAt": "2026-07-23T07:56:32Z",
-      "source": "BigGo Finance",
-      "url": "https://finance.biggo.com/news/470b3b6b-7dea-4bde-9b29-0d6a6bf12daf",
-      "subCategory": "论文进展"
     },
     {
       "title": "腾讯云CodeBuddy NPC智能体发布：Token降幅超90%",
@@ -382,33 +382,6 @@
       "url": "https://www.qbitai.com/2026/07/457537.html",
       "subCategory": "具身智能",
       "id": "ai-20260723-214"
-    },
-    {
-      "title": "WAIC最狠展台打爆工业「深水区」！它石智航首发具身原生大脑AWE 3.5",
-      "summary": "它石智航在WAIC2026现场首发具身原生大脑AWE 3.5，基于超百万小时人形数据完成预训练到后训练全链路，可无需切换模型完成装配、插接、分拣等多种汽车线束工业任务。",
-      "publishedAt": "2026-07-23T11:28:24+08:00",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/07/457469.html",
-      "subCategory": "具身智能",
-      "id": "ai-20260723-215"
-    },
-    {
-      "title": "芯片卖了56万片之后，阿里平头哥把最值钱的东西开源了",
-      "summary": "阿里平头哥在WAIC2026宣布开源自研AI软件栈T-Head SAIL，覆盖驱动到开发工具五层技术，兼容超260种主流AI框架，此前旗下含光AI芯片已向400余家客户出趆56万片。",
-      "publishedAt": "2026-07-23T10:09:00+08:00",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/07/457405.html",
-      "subCategory": "开源模型",
-      "id": "ai-20260723-216"
-    },
-    {
-      "title": "科大讯飞发布星火Token Factory，打造企业级AI模型智能路由与治理新底座",
-      "summary": "科大讯飞推出星火Token Factory中间件平台，提供智能路由、推理加速、安全治理与成本归因四大能力，推理效率较开源框架提升约5倍，时延降低30%-40%，助力企业规模化部署大模型。",
-      "publishedAt": "2026-07-23T09:55:14+08:00",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/07/457359.html",
-      "subCategory": "AI应用",
-      "id": "ai-20260723-217"
     },
     {
       "title": "POCKET: a 35-billion-parameter model that runs on your iPhone",
@@ -636,6 +609,60 @@
       "subCategory": "AI视频"
     },
     {
+      "title": "WAIC最狠展台打爆工业「深水区」！它石智航首发具身原生大脑AWE 3.5",
+      "summary": "它石智航在WAIC2026现场首发具身原生大脑AWE 3.5，基于超百万小时人形数据完成预训练到后训练全链路，可无需切换模型完成装配、插接、分拣等多种汽车线束工业任务。",
+      "publishedAt": "2026-07-23T11:28:24+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/07/457469.html",
+      "subCategory": "具身智能",
+      "id": "ai-20260723-215"
+    },
+    {
+      "title": "芯片卖了56万片之后，阿里平头哥把最值钱的东西开源了",
+      "summary": "阿里平头哥在WAIC2026宣布开源自研AI软件栈T-Head SAIL，覆盖驱动到开发工具五层技术，兼容超260种主流AI框架，此前旗下含光AI芯片已向400余家客户出趆56万片。",
+      "publishedAt": "2026-07-23T10:09:00+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/07/457405.html",
+      "subCategory": "开源模型",
+      "id": "ai-20260723-216"
+    },
+    {
+      "id": "ai-20260724-102",
+      "title": "Runway 推出生成式媒体路由器 Media Router",
+      "summary": "Runway Dev平台上线Media Router，可根据质量、速度或成本自动为图像、视频、音频生成请求选择最优模型，Adobe、Cloudflare、Expedia等已接入该API。",
+      "publishedAt": "2026-07-23T10:07:00-07:00",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/23/runway-bets-on-ai-model-routing-as-generative-media-gets-crowded/",
+      "subCategory": "AI应用"
+    },
+    {
+      "title": "科大讯飞发布星火Token Factory，打造企业级AI模型智能路由与治理新底座",
+      "summary": "科大讯飞推出星火Token Factory中间件平台，提供智能路由、推理加速、安全治理与成本归因四大能力，推理效率较开源框架提升约5倍，时延降低30%-40%，助力企业规模化部署大模型。",
+      "publishedAt": "2026-07-23T09:55:14+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/07/457359.html",
+      "subCategory": "AI应用",
+      "id": "ai-20260723-217"
+    },
+    {
+      "id": "ai-20260724-006",
+      "title": "Grok 4.5在8分钟内推翻存在30年的图论猜想",
+      "summary": "xAI的Grok 4.5在一次内部Slack讨论中，用时8分钟为存在约30年的图论猜想（Graffiti Conjecture 284）构造出反例，通过展示分数流成本与不可分流成本之间的差距推翻该猜想。埃隆·马斯克在社交媒体公布该结果，OpenAI的GPT-5也几乎同时独立解出同一猜想。",
+      "publishedAt": "2026-07-23T07:56:32Z",
+      "source": "BigGo Finance",
+      "url": "https://finance.biggo.com/news/470b3b6b-7dea-4bde-9b29-0d6a6bf12daf",
+      "subCategory": "论文进展"
+    },
+    {
+      "id": "ai-20260724-004",
+      "title": "专家质疑月之暗面\"蒸馏\"Anthropic模型开发Kimi K3的说法",
+      "summary": "白宫官员此前指控月之暗面通过蒸馏Anthropic的Fable模型开发Kimi K3，但Snorkel AI与艾伦人工智能研究所的专家提出质疑，指出Fable模型自7月1日才可用，时间线难以支撑该说法，认为达到K3水平更可能需要强化学习等成本更高的训练方式。",
+      "publishedAt": "2026-07-23T04:00:00-07:00",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/23/experts-say-exploiting-anthropics-fable-isnt-how-kimi-k3-got-so-good/",
+      "subCategory": "大模型"
+    },
+    {
       "id": "ai-20260722-114",
       "title": "Substack接入Pangram检测工具，上线AI文本识别功能",
       "summary": "内容平台Substack接入AI检测工具Pangram，在网页端与iOS端上线文本识别功能，可对文章、笔记等内容标注人工撰写、AI生成与AI辅助的比例，仅检测7月21日后发布且段落超过100词的内容，创作者可自行关闭该功能。",
@@ -697,33 +724,6 @@
       "source": "AIBase",
       "url": "https://news.aibase.com/news/29782",
       "subCategory": "AI编程"
-    },
-    {
-      "id": "ai-20260722-022",
-      "title": "分析师质疑OpenAI广告营收目标：2030年千亿美元目标或难达成",
-      "summary": "OpenAI正测试在聊天机器人中投放广告，目标今年广告收兲25亿美元、2030年达1000亿美元，但eMarketer预测独立聊天机器人广告市场2030年规模仅54亿美元，缺口约达九成。",
-      "publishedAt": "2026-07-22",
-      "source": "AIBase",
-      "url": "https://news.aibase.com/news/29781",
-      "subCategory": "AI应用"
-    },
-    {
-      "id": "ai-20260722-023",
-      "title": "智能眼镜Halliday发布第二代产品G2，取消摄像头主打实时会议辅助",
-      "summary": "Halliday发布第二代AI眼镜G2，售价599美元，预计9月发货，主打会议中的实时字幕45种以上语言翻译及自动生成结构化记录，出于隐私考虑取消了摄像头。",
-      "publishedAt": "2026-07-22",
-      "source": "AIBase",
-      "url": "https://news.aibase.com/news/29780",
-      "subCategory": "AI应用"
-    },
-    {
-      "id": "ai-20260722-024",
-      "title": "田纳西大学研究基金会起诉Anthropic专利侵权，为其首例专利诉讼",
-      "summary": "田纳西大学研究基金会在美国特拉华州联邦法院起诉Anthropic，称其产品侵犯了该校教授研发的人工智能、机器学习及神经形态计算相关专利，Anthropic回应称将全力抗辩。",
-      "publishedAt": "2026-07-22",
-      "source": "AIBase",
-      "url": "https://news.aibase.com/news/29779",
-      "subCategory": "AI应用"
     }
   ]
 }
