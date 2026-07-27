@@ -3,8 +3,26 @@
   "slug": "tech",
   "title": "科技新闻",
   "description": "前沿科技、互联网产品、芯片硬件、开源生态。",
-  "updatedAt": "2026-07-27T09:05:00+08:00",
+  "updatedAt": "2026-07-27T23:59:00+08:00",
   "items": [
+    {
+      "id": "tech-20260727-212",
+      "title": "大众汽车否认呼吁欧盟对中国混动汽车加征关税",
+      "summary": "大众汽车集团发表声明澄清，CEO奥博穆在一场财经会议上并未明确呼吁加征关税，而是主张全面考虑多种方案以保证欧洲与其他地区的公平竞争，支持中国车企在欧洲本地化生产；若欧盟对中国混动车加征关税，其税率不应超过现行纯电动车关税水平。",
+      "publishedAt": "2026-07-27T23:19:20+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/982/261.htm",
+      "subCategory": "智能汽车"
+    },
+    {
+      "id": "tech-20260727-211",
+      "title": "\"中国天眼\"FAST 望远镜已找到 1284 颗脉冲星，远超同时期国际其他望远镜总和",
+      "summary": "位于贵州的中国天眼FAST望远镜累计已找到1284颗脉冲星，远超同时期国际上所有其他望远镜发现数量的总和。该望远镜自2016年建成以来推动中国射电天文学从依赖国外数据转向自主产出核心观测数据，近期完成六根钢索维护后已恢复新一轮观测。",
+      "publishedAt": "2026-07-27T22:39:50+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/982/258.htm",
+      "subCategory": "航空航天"
+    },
     {
       "title": "英伟达与韩国互联网巨头 Naver 达成 10 亿美元投资协议，扩容 200 兆瓦 AI 算力工厂",
       "summary": "英伟达宣布与韩国Naver达成10亿美元投资协议，将现有AI算力工厂扩容至200兆瓦，并与Brookfield联合提供最高90亿美元融资支持，采用Vera Rubin与Blackwell平台，未来规划扩容至1吉瓦。",
@@ -13,6 +31,15 @@
       "url": "https://www.ithome.com/0/981/825.htm",
       "subCategory": "芯片硬件",
       "id": "tech-20260727-201"
+    },
+    {
+      "title": "小米汽车第二个系列：澎程官宣 7 月 30 日晚 7 点见，两款智能可变大空间 SUV 将正式登场",
+      "summary": "小米汽车第二品牌澎程宣布将于7月30日晚7点发布“昆仑技术架构”，推出七座旗舰N90 Max与五座双电机N70 Max两款增程SUV，此前已完成566台测试车、累计428万公里路测。",
+      "publishedAt": "2026-07-27T08:04:35+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/981/824.htm",
+      "subCategory": "智能汽车",
+      "id": "tech-20260727-205"
     },
     {
       "title": "曝华为畅连 App 无网「实时对讲」功能将在 HarmonyOS 7.0 后续版本上线",
@@ -42,22 +69,22 @@
       "id": "tech-20260727-204"
     },
     {
-      "title": "小米汽车第二个系列：澎程官宣 7 月 30 日晚 7 点见，两款智能可变大空间 SUV 将正式登场",
-      "summary": "小米汽车第二品牌澎程宣布将于7月30日晚7点发布“昆仑技术架构”，推出七座旗舰N90 Max与五座双电机N70 Max两款增程SUV，此前已完成566台测试车、累计428万公里路测。",
-      "publishedAt": "2026-07-27T08:04:35+08:00",
+      "id": "tech-20260726-101",
+      "title": "古尔曼：苹果智能眼镜计划最早在明年WWDC27上亮相、同年秋季发布，隐私保护是重中之重",
+      "summary": "据彭博社记者古尔曼消息，苹果代号N50的智能眼镜项目最早将于明年6月WWDC27大会亮相，并于同年秋季正式发布，较原定2026年底计划推迟，苹果正考虑取消摄像头或禁用拍照录像功能等方案以强化隐私保护。",
+      "publishedAt": "2026-07-26T22:41:41+08:00",
       "source": "IT之家",
-      "url": "https://www.ithome.com/0/981/824.htm",
-      "subCategory": "智能汽车",
-      "id": "tech-20260727-205"
+      "url": "https://www.ithome.com/0/981/811.htm",
+      "subCategory": "XR-AR-VR"
     },
     {
-      "title": "GitHub, PyPI add time-based defenses against supply chain attacks",
-      "summary": "GitHub为Dependabot新增默认三天冷却期以防范恶意依赖被自动引入，PyPI则禁止在发布14天后再向该版本上传新文件，两平台均称此举意在应对近期多起开源供应链投毒攻击。",
-      "publishedAt": "2026-07-26T10:13:00-04:00",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/github-pypi-add-time-absed-defenses-against-supply-chain-attacks/",
-      "subCategory": "安全漏洞",
-      "id": "tech-20260727-206"
+      "title": "蔡司半导体制造技术部门德国总部扩建 2.5 万平方米，办公楼本月启用",
+      "summary": "蔡司半导体制造技术（SMT）部门在德国奥博科亨总部新建的2.5万平方米扩建工程本月起分阶段启用，该项目2022年5月动工。公司称此举是为应对AI驱动的先进芯片需求增长而进行的前瞻投资，同时在韦茨拉尔和耶拿推进新设施建设。",
+      "publishedAt": "2026-07-26T21:54:16+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/981/805.htm",
+      "subCategory": "芯片硬件",
+      "id": "tech-20260727-210"
     },
     {
       "title": "俄罗斯「联盟 MS-28」飞船载美俄航天员返回地球，完成 8 个月国际空间站驻留任务",
@@ -87,48 +114,12 @@
       "id": "tech-20260727-209"
     },
     {
-      "title": "蔡司半导体制造技术部门德国总部扩建 2.5 万平方米，办公楼本月启用",
-      "summary": "蔡司半导体制造技术（SMT）部门在德国奥博科亨总部新建的2.5万平方米扩建工程本月起分阶段启用，该项目2022年5月动工。公司称此举是为应对AI驱动的先进芯片需求增长而进行的前瞻投资，同时在韦茨拉尔和耶拿推进新设施建设。",
-      "publishedAt": "2026-07-26T21:54:16+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/981/805.htm",
-      "subCategory": "芯片硬件",
-      "id": "tech-20260727-210"
-    },
-    {
-      "id": "tech-20260726-101",
-      "title": "古尔曼：苹果智能眼镜计划最早在明年WWDC27上亮相、同年秋季发布，隐私保护是重中之重",
-      "summary": "据彭博社记者古尔曼消息，苹果代号N50的智能眼镜项目最早将于明年6月WWDC27大会亮相，并于同年秋季正式发布，较原定2026年底计划推迟，苹果正考虑取消摄像头或禁用拍照录像功能等方案以强化隐私保护。",
-      "publishedAt": "2026-07-26T22:41:41+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/981/811.htm",
-      "subCategory": "XR-AR-VR"
-    },
-    {
-      "id": "tech-20260726-103",
-      "title": "SK集团与英伟达达成5000亿美元合作，2027年上线首个AI工厂",
-      "summary": "SK集团与英伟达宣布达成超5000亿美元合作，SK电讯将采用英伟达Vera Rubin DSX平台及SK海力士HBM4内存技术建设2吉瓦AI数据中心，首座设施计划2027年投运，双方还将联合研发下一代AI内存技术。",
-      "publishedAt": "2026-07-26T19:49:37+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/981/787.htm",
-      "subCategory": "芯片硬件"
-    },
-    {
-      "id": "tech-20260726-104",
-      "title": "勒索组织Anubis声称对可口可乐旗下超滤奶品牌fairlife黑客攻击事件负责",
-      "summary": "勒索软件团伙Anubis宣称对可口可乐旗下fairlife超滤奶品牌的黑客攻击负责，声称窃取约1TB机密数据并限期约一周内要求支付赎金，这是可口可乐继2022年遭Stormous攻击后又一起重大安全事件。",
-      "publishedAt": "2026-07-26T18:02:02+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/981/774.htm",
-      "subCategory": "安全漏洞"
-    },
-    {
-      "id": "tech-20260726-102",
-      "title": "消息称下一代三星Galaxy Z TriFold三折叠手机将于明年推出，备货量有望增加",
-      "summary": "消息称三星正筹备下一代Galaxy Z TriFold三折叠手机，备货量有望较首代约3万台明显增加，公司计划通过\"4+4\"策略每年推出四款折叠屏机型，新机或于明年7月前后与Galaxy Z9系列一同发布。",
-      "publishedAt": "2026-07-26T17:21:47+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/981/767.htm",
+      "id": "tech-20260725-019",
+      "title": "黑格G1系列破年内科技造物众筹首日记录",
+      "summary": "黑格科技（HeyGears）旗下桌面级全彩3D及UV打印机G1系列登陆Kickstarter众筹平台，24小时众筹金额突破722万美元（约合人民币4900万元），创下年内科技造物品类全球首日众筹纪录。",
+      "publishedAt": "2026-07-25T16:44:00+08:00",
+      "source": "36氪",
+      "url": "https://36kr.com/newsflashes/3910478626804868",
       "subCategory": "消费电子"
     },
     {
@@ -267,15 +258,6 @@
       "id": "tech-20260726-011"
     },
     {
-      "id": "tech-20260725-019",
-      "title": "黑格G1系列破年内科技造物众筹首日记录",
-      "summary": "黑格科技（HeyGears）旗下桌面级全彩3D及UV打印机G1系列登陆Kickstarter众筹平台，24小时众筹金额突破722万美元（约合人民币4900万元），创下年内科技造物品类全球首日众筹纪录。",
-      "publishedAt": "2026-07-25T16:44:00+08:00",
-      "source": "36氪",
-      "url": "https://36kr.com/newsflashes/3910478626804868",
-      "subCategory": "消费电子"
-    },
-    {
       "id": "tech-20260725-020",
       "title": "Researcher Publishes GitLab RCE PoC Letting Authenticated Users Run Commands as Git",
       "summary": "安全研究员Yuhang Wu公开针对未打补丁自建GitLab 18.11.3服务器的可用RCE概念验证漏洞利用，认证用户提交两个精心构造的Jupyter笔记本文件并请求差异对比即可以git权限执行命令，官方已发布修复版本。",
@@ -393,7 +375,7 @@
       "subCategory": "操作系统"
     },
     {
-      "id": "tech-20260725-018",
+      "id": "tech-20260725-022",
       "title": "TCL科技收购广州华星半导体45%股权事宜获深交所审议通过",
       "summary": "TCL科技公告称，公司收购广州华星半导体45%股权事项已获深交所审核通过，交易完成后TCL科技将直接及间接持有其100%股权，该公司为TCL华星t9产线运营主体，今年上半年营收79.26亿元，净利润同比增长203.99%。",
       "publishedAt": "2026-07-25T12:53:01+08:00",
