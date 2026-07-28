@@ -3,8 +3,26 @@
   "slug": "tech",
   "title": "科技新闻",
   "description": "前沿科技、互联网产品、芯片硬件、开源生态。",
-  "updatedAt": "2026-07-28T09:45:00+08:00",
+  "updatedAt": "2026-07-28T16:45:00+08:00",
   "items": [
+    {
+      "id": "tech-20260728-101",
+      "title": "因强烈反对，美国纽约州暂停人形机器人教学试点计划",
+      "summary": "纽约州萨拉曼卡中央学区叫停与加拿大公司Realbotix合作、在高中课堂引入人形机器人的试点项目，称需进一步完善学生数据隐私保护协议；纽约州联合教师工会此前公开反对，担忧厂商背景及机器人录音录像功能引发的数据隐私问题。",
+      "publishedAt": "2026-07-28T16:26:43+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/982/619.htm",
+      "subCategory": "机器人"
+    },
+    {
+      "id": "tech-20260728-102",
+      "title": "华为官宣昇腾 0day 支持 Kimi K3 的训练适配及推理部署",
+      "summary": "华为宣布昇腾平台对月之暗面开源的2.8万亿参数模型Kimi K3实现“0day”适配支持，训练侧基于Atlas硬件用MindSpeed MM优化算子、并行加速与显存效率，推理侧依托vLLM Ascend与SGLang引擎，昇腾950超节点原生支持K3的mxFP4量化权重及FP8、MXFP8等多精度格式。",
+      "publishedAt": "2026-07-28T16:17:30+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/982/615.htm",
+      "subCategory": "芯片硬件"
+    },
     {
       "title": "小米 REDMI 17 4G 手机曝光：联发科 Helio G91-Ultra 芯片，7500mAh 电池",
       "summary": "小米REDMI 17 4G通过马来西亚SIRIM认证，型号为2606FRN72Y，配备6.9英寸120Hz屏幕、联发科Helio G91-Ultra处理器及7500mAh电池，支持45W快充，后置5000万像素摄像头，前置800万像素。",
@@ -706,24 +724,6 @@
       "source": "IT之家",
       "url": "https://www.ithome.com/0/981/434.htm",
       "subCategory": "消费电子"
-    },
-    {
-      "id": "tech-20260725-033",
-      "title": "报告称苹果 iOS 27 增强输入法，简化粘贴文本/链接/图片操作",
-      "summary": "科技媒体Cult of Mac报道称，苹果在iOS 27系统输入法上方新增粘贴快捷按钮，用户复制文本、Safari链接或图片后切换到输入界面，系统会自动识别内容类型并显示对应粘贴选项，一键完成粘贴操作。",
-      "publishedAt": "2026-07-25T09:05:58+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/981/430.htm",
-      "subCategory": "操作系统"
-    },
-    {
-      "id": "tech-20260725-034",
-      "title": "微软 Win11 新增触控板右键区域调整功能，可自定义点击范围",
-      "summary": "微软已向Windows 11正式版推送触控板右键区域调整功能，用户可在“设置-蓝牙和设备-触控板”中自定义右下角右键点击区域大小，该功能已随7月14日发布的KB5101650补丁进入24H2与25H2正式版。",
-      "publishedAt": "2026-07-25T08:49:06+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/981/427.htm",
-      "subCategory": "操作系统"
     }
   ]
 }
