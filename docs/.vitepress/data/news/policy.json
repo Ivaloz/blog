@@ -3,8 +3,17 @@
   "slug": "policy",
   "title": "政策信息",
   "description": "国家与地方政策、监管动态、产业扶持与合规要求。",
-  "updatedAt": "2026-07-28T16:45:00+08:00",
+  "updatedAt": "2026-07-28T23:10:00+08:00",
   "items": [
+    {
+      "id": "policy-20260729-001",
+      "title": "商务部：中方愿通过中欧贸易投资磋商机制加强与欧方对话磋商",
+      "summary": "商务部对外贸易司相关负责人在国新办发布会上表示，2026年上半年中欧贸易额达4478.8亿美元，同比增长14.2%，中方在汇率问题上保持负责任立场，不会通过人为压低汇率获取竞争优势，愿通过中欧贸易投资磋商机制加强与欧方对话协商。",
+      "publishedAt": "2026-07-28T15:56:29+08:00",
+      "source": "中国新闻网",
+      "url": "https://www.chinanews.com.cn/cj/2026/07-28/10667903.shtml",
+      "subCategory": "跨境贸易"
+    },
     {
       "id": "policy-20260728-102",
       "title": "商务部发布《关于所谓“产能过剩”问题的中方立场》",
@@ -357,21 +366,12 @@
       "subCategory": "产业政策"
     },
     {
-      "id": "policy-20260722-003",
-      "title": "路透社援引英国《金融时报》：中国考虑收紧人工智能模型与芯片出口管制",
-      "summary": "据报道，中国商务部已就限制向境外转移模型权重、训练数据及芯片设计等措施征求阿里巴巴、字节跳动、智谱等企业意见，措施可能纳入出口管制目录修订，尚未最终确定。",
-      "publishedAt": "2026-07-21T23:11:00-05:00",
-      "source": "路透社（Yahoo Finance转载）",
-      "url": "https://finance.yahoo.com/technology/ai/articles/china-considers-tighter-export-controls-041139427.html",
-      "subCategory": "半导体出口管制"
-    },
-    {
-      "id": "policy-20260722-004",
-      "title": "美财长贝森特：若中国AI模型确认窃取知识产权将考虑制裁",
-      "summary": "美国财政部长贝森特在采访中表示，白宫将审查中国开源大模型是否窃取美方前沿实验室知识产权，如证据成立不排除对相关中国公司实施制裁，暂未设定具体时间表。",
-      "publishedAt": "2026-07-21T21:10:00-04:00",
-      "source": "SiliconANGLE",
-      "url": "https://siliconangle.com/2026/07/21/u-s-treasury-secretary-bessent-threatens-sanctions-chinese-ai-model-makers/",
+      "id": "policy-20260722-005",
+      "title": "美贸易代表格里尔暗示本周五前将对数十个经济体加征新关税",
+      "summary": "美国贸易代表格里尔表示，针对约60个贸易伙伴、以“强迫劳动”为由的新关税最快将在现行10%全球关税7月24日到期前公布，税率或达12.5%，具体时间表尚未确定。",
+      "publishedAt": "2026-07-22T03:03:00+08:00",
+      "source": "大纪元",
+      "url": "https://www.epochtimes.com/gb/26/7/21/n14814360.htm",
       "subCategory": "海外政策"
     },
     {
@@ -465,40 +465,13 @@
       "subCategory": "金融监管"
     },
     {
-      "id": "policy-20260722-005",
-      "title": "美贸易代表格里尔暗示本周五前将对数十个经济体加征新关税",
-      "summary": "美国贸易代表格里尔表示，针对约60个贸易伙伴、以“强迫劳动”为由的新关税最快将在现行10%全球关税7月24日到期前公布，税率或达12.5%，具体时间表尚未确定。",
-      "publishedAt": "2026-07-22T03:03:00+08:00",
-      "source": "大纪元",
-      "url": "https://www.epochtimes.com/gb/26/7/21/n14814360.htm",
-      "subCategory": "海外政策"
-    },
-    {
-      "id": "policy-20260722-002",
-      "title": "证监会召开上市公司、行业机构、专家学者系列座谈会听取意见建议",
-      "summary": "7月20日至21日，证监会党委班子成员召开系列座谈会，听取来自上市公司、证券基金机构和专家学者的29位代表关于促进资本市场稳定健康发展的意见建议，涉及基础制度建设、量化交易监管等议题。",
-      "publishedAt": "2026-07-21T19:18:21+08:00",
-      "source": "中国证券监督管理委员会",
-      "url": "https://www.csrc.gov.cn/csrc/c100028/c7646684/content.shtml",
-      "subCategory": "金融监管"
-    },
-    {
-      "id": "policy-20260722-007",
-      "title": "中央网信办等部门印发2026—2030年IPv6技术创新和融合应用实施方案",
-      "summary": "方案部署10方面36项重点任务，提出到2027年IPv6活跃用户数达9亿、网络流量占比38%，到2030年活跃用户数达9.5亿、流量占比42%的目标。",
-      "publishedAt": "2026-07-21T19:05:00+08:00",
-      "source": "中国新闻网",
-      "url": "https://www.chinanews.com.cn/cj/2026/07-21/10663768.shtml",
-      "subCategory": "数字经济"
-    },
-    {
-      "title": "国家互联网信息办公室关于发布第二十四批境内区块链信息服务备案编号的公告",
-      "summary": "国家网信办根据《区块链信息服务管理规定》发布第二十四批共38个境内区块链信息服务名称及备案编号，公众可对相关服务提出异议并提供证明材料。",
-      "publishedAt": "2026-07-21T17:00:00+08:00",
-      "source": "中央网络安全和信息化委员会办公室",
-      "url": "https://www.cac.gov.cn/2026-07/21/c_1786380772942179.htm",
-      "subCategory": "数据安全",
-      "id": "policy-20260723-204"
+      "id": "policy-20260722-006",
+      "title": "商务部等九部门印发政策措施促进家政服务业高质量发展",
+      "summary": "商务部等九部门7月20日联合印发政策文件，从企业支持、制度创新、职业技能培训、信用平台建设等五方面提出19条措施，覆盖用工到定价全链条环节。",
+      "publishedAt": "2026-07-21T10:36:18+08:00",
+      "source": "经济参考报（新华网）",
+      "url": "https://www.news.cn/20260721/6f2334f2c0b24f48a7c114eac6318918/c.html",
+      "subCategory": "产业政策"
     },
     {
       "id": "policy-20260722-008",
@@ -507,15 +480,6 @@
       "publishedAt": "2026-07-21T16:20:00+08:00",
       "source": "网易财经（观点机构）",
       "url": "https://www.163.com/dy/article/L2CGI4GM0519D45U.html",
-      "subCategory": "产业政策"
-    },
-    {
-      "id": "policy-20260722-006",
-      "title": "商务部等九部门印发政策措施促进家政服务业高质量发展",
-      "summary": "商务部等九部门7月20日联合印发政策文件，从企业支持、制度创新、职业技能培训、信用平台建设等五方面提出19条措施，覆盖用工到定价全链条环节。",
-      "publishedAt": "2026-07-21T10:36:18+08:00",
-      "source": "经济参考报（新华网）",
-      "url": "https://www.news.cn/20260721/6f2334f2c0b24f48a7c114eac6318918/c.html",
       "subCategory": "产业政策"
     },
     {
@@ -544,15 +508,6 @@
       "source": "Federal Trade Commission",
       "url": "https://www.ftc.gov/news-events/news/press-releases/2026/07/student-loan-forgiveness-scammer-permanently-banned-debt-relief-industry-telemarketing",
       "subCategory": "海外政策"
-    },
-    {
-      "title": "中央网络安全和信息化委员会印发《深化互联网协议第六版（IPv6）技术创新和融合应用实施方案（2026—2030年）》",
-      "summary": "中央网络安全和信息化委员会印发《深化互联网协议第六版（IPv6）技术创新和融合应用实施方案（2026—2030年）》，明确到2027年IPv6活跃用户数达9亿、网络流量占比达38%，到2030年活跃用户数达9.5亿、流量占比达42%，部署技术研发、标准制定、单栈攻关等十方面36项重点任务。",
-      "publishedAt": "2026-07-21",
-      "source": "中央网络安全和信息化委员会办公室",
-      "url": "https://www.cac.gov.cn/2026-07/21/c_1786380789785396.htm",
-      "subCategory": "数字经济",
-      "id": "policy-20260723-301"
     },
     {
       "id": "policy-20260720-010",
@@ -697,33 +652,6 @@
       "source": "国家市场监督管理总局",
       "url": "https://www.samr.gov.cn/xw/sj/art/2026/art_034fe3a706604d9dbb1af89a7833b84d.html",
       "subCategory": "新能源政策"
-    },
-    {
-      "id": "policy-20260721-001",
-      "title": "Commission sends Statements of Objections to several companies and trade associations in suspected construction chemicals cartel",
-      "summary": "欧盟委员会向Cemex、Sika、Mapei等建筑化学品生产商及法国、德国、西班牙三国行业协会发出异议声明，初步认定其在2021至2022年就水泥、混凝土和砂浆化学添加剂协调涨价，涉嫌违反欧盟条约第101条反垄断规则。",
-      "publishedAt": "2026-07-19T22:00:00Z",
-      "source": "欧盟委员会",
-      "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1394",
-      "subCategory": "反垄断"
-    },
-    {
-      "id": "policy-20260720-001",
-      "title": "证监会今开座谈会 促进市场稳定健康发展",
-      "summary": "证监会7月20日召开座谈会，听取市场机构关于促进资本市场稳定健康发展的意见建议。此前一日，中国国新、中国诚通两家央企合计运用超600亿元资金增持境内股票资产，以支持资本市场平稳运行。",
-      "publishedAt": "2026-07-20T04:10:00+08:00",
-      "source": "证券时报",
-      "url": "https://finance.sina.com.cn/jjxw/2026-07-20/doc-iniiktnr3149502.shtml",
-      "subCategory": "金融监管"
-    },
-    {
-      "id": "policy-20260720-002",
-      "title": "2026世界人工智能大会观察",
-      "summary": "2026世界人工智能大会在沪举行，展览面积首次超10万平方米，展品超4400项；中国人形机器人2025年出货量占全球88.7%，人工智能核心产业规模超1.2万亿元，中国在全球人工智能专利中占比约六成。",
-      "publishedAt": "2026-07-20T00:14:00+08:00",
-      "source": "新华社",
-      "url": "https://www.news.cn/tech/20260720/653dbb72adff4930807c78b1fab22fad/c.html",
-      "subCategory": "AI监管"
     }
   ]
 }
