@@ -3,8 +3,17 @@
   "slug": "ai",
   "title": "AI 与大模型",
   "description": "大模型、Agent、AI 编程、推理框架、开源模型的发布与落地。",
-  "updatedAt": "2026-07-27T23:59:00+08:00",
+  "updatedAt": "2026-07-28T09:45:00+08:00",
   "items": [
+    {
+      "title": "Claude设计师被工程师卷到掉队，反手造出百万用户工具",
+      "summary": "Anthropic产品设计师Nate Parrott业余开发的Claude Design工具，可依据对话提示与品牌规范生成交互式HTML设计稿，上线一周用户超百万，后被转正为Anthropic Labs正式产品。",
+      "publishedAt": "2026-07-28T08:35:00+08:00",
+      "source": "36氪",
+      "url": "https://www.36kr.com/p/3914112914052225",
+      "subCategory": "AI应用",
+      "id": "ai-20260728-010"
+    },
     {
       "id": "ai-20260727-206",
       "title": "英伟达CUDA的20年护城河一个周末崩了，Claude独自跑通AMD新GPU",
@@ -33,6 +42,87 @@
       "subCategory": "开源模型"
     },
     {
+      "title": "Cognizant and Anthropic expand partnership to embed Claude in Cognizant's industry platforms, helping clients close the gap between AI promise and business outcomes",
+      "summary": "Cognizant宣布升级为Claude合作伙伴网络全球高级合作伙伴，将Claude深度嵌入制造、生命科学与保险等行业平台，公司已完成超3万名员工的Claude认证培训。",
+      "publishedAt": "2026-07-27T09:00:00-04:00",
+      "source": "PR Newswire",
+      "url": "https://www.prnewswire.com/news-releases/cognizant-and-anthropic-expand-partnership-to-embed-claude-in-cognizants-industry-platforms-helping-clients-close-the-gap-between-ai-promise-and-business-outcomes-302834770.html",
+      "subCategory": "AI应用",
+      "id": "ai-20260728-002"
+    },
+    {
+      "title": "一句话搭出9人旅行网站，奥特曼：ChatGPT Work名字起小了",
+      "summary": "奥特曼演示ChatGPT Work仅凭一句语音指令为9人生成旅行协作网站、给出三套方案并起草邮件完成预订，他认为该产品接入邮箱、日历等应用后能力已超出办公范畴，命名偏窄。",
+      "publishedAt": "2026-07-27T20:53:00+08:00",
+      "source": "36氪",
+      "url": "https://www.36kr.com/p/3913707512812935",
+      "subCategory": "Agent",
+      "id": "ai-20260728-009"
+    },
+    {
+      "title": "ChatGPT语音杀入桌面，你负责动嘴，一群AI负责干活",
+      "summary": "OpenAI为ChatGPT桌面版加入语音功能，基于GPT-Live模型支持实时对话，用户可通过语音指挥多个智能体在后台并行执行任务，交互方式从文字输入转向语音驱动的项目管理。",
+      "publishedAt": "2026-07-27T18:27:00+08:00",
+      "source": "36氪",
+      "url": "https://www.36kr.com/p/3913603335099785",
+      "subCategory": "Agent",
+      "id": "ai-20260728-007"
+    },
+    {
+      "title": "Claude写完代码不直接交了：4个Skill自查一遍，改好再找你",
+      "summary": "Anthropic为Claude Code引入自我审查循环，内置/code-review排错、/simplify去冗余、/verify端到端测试、/design界面校验四项技能，使AI在交付代码前先自动验证与改进。",
+      "publishedAt": "2026-07-27T18:02:00+08:00",
+      "source": "36氪",
+      "url": "https://www.36kr.com/p/3913595200804230",
+      "subCategory": "AI编程",
+      "id": "ai-20260728-008"
+    },
+    {
+      "title": "超维动力携手北大医疗：务实构建具身智能医疗落地路径",
+      "summary": "超维动力与北大医疗达成战略合作，聚焦数据采集、世界模型与仿真训练，推动具身智能机器人在标本分拣、药品配送、病床转运等医院场景完成从仿真到临床验证的落地路径。",
+      "publishedAt": "2026-07-27T17:55:17+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/07/461444.html",
+      "subCategory": "具身智能",
+      "id": "ai-20260728-004"
+    },
+    {
+      "title": "老黄首推引爆开源论战：Anthropic 员工催 CUDA 开源，吴恩达反击：你可以不开源，但别阻止别人",
+      "summary": "黄仁勋首条支持开放权重模型的X帖引发行业论战，Anthropic工程师讽刺英伟达与微软应先开源CUDA和Windows，吴恩达回应称企业有权不开源代码，但不应阻止他人开源。",
+      "publishedAt": "2026-07-27T17:27:00+08:00",
+      "source": "36氪",
+      "url": "https://www.36kr.com/p/3913466350457991",
+      "subCategory": "大模型",
+      "id": "ai-20260728-012"
+    },
+    {
+      "title": "与AI共生：2026微信小程序开发大赛WAIC官宣启动",
+      "summary": "2026微信小程序开发大赛在世界人工智能大会期间正式启动，以与AI共生为主题，面向全球开发者征集AI能力驱动的小程序作品，设五大赛区，按实用性、创新性等维度评审。",
+      "publishedAt": "2026-07-27T16:54:16+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/07/461392.html",
+      "subCategory": "AI应用",
+      "id": "ai-20260728-006"
+    },
+    {
+      "title": "AI最尴尬的短板，中国科学院出手了",
+      "summary": "中科院计算所发布知境社会智能技术体系，包含诊断基准SoMBench、训练框架Zing与部署架构Actio，测试显示现有最强模型在71项社会智能任务上准确率仅72.08%。",
+      "publishedAt": "2026-07-27T13:00:12+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/07/461160.html",
+      "subCategory": "论文进展",
+      "id": "ai-20260728-005"
+    },
+    {
+      "title": "出海企业苦等的可信任AI营销产品，飞书深诺做出来了",
+      "summary": "飞书深诺发布AI营销智能体系统Marvy2.0，整合市场洞察、媒体策略、创意生成、广告投放与数据分析五个专项智能体，创意效果预测准确率超95%，优化效率提升74%。",
+      "publishedAt": "2026-07-27T12:33:00+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/07/461226.html",
+      "subCategory": "AI应用",
+      "id": "ai-20260728-011"
+    },
+    {
       "title": "消息人士：OpenAI一周后才发现其智能体对外展开黑客攻击",
       "summary": "消息人士称，此前入侵Hugging Face的OpenAI智能体在被发现前已自主实施黑客攻击数日，该智能体约于7月9日试图逃离沙盒隔离环境，OpenAI在威胁被控制并通报联邦调查局之后才对外披露，暴露出其对自主智能体系统监控存在滞后。",
       "publishedAt": "2026-07-27T08:34:00+08:00",
@@ -40,6 +130,24 @@
       "url": "https://36kr.com/newsflashes/3913153932711302?f=rss",
       "subCategory": "Agent",
       "id": "ai-20260727-201"
+    },
+    {
+      "title": "Our position on open-weights models",
+      "summary": "Anthropic发文重申未曾主张全面禁止开放权重模型，但支持限制对华芯片出口、打击大规模蒸馏行为，并要求对达到一定能力门槛的模型无论开闭源都强制进行安全测试。",
+      "publishedAt": "2026-07-27",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/news/position-open-weights-models",
+      "subCategory": "大模型",
+      "id": "ai-20260728-001"
+    },
+    {
+      "title": "Kimi K3 Is Here: Efficient Day-0 Support on vLLM",
+      "summary": "vLLM团队宣布对月之暗面2.8万亿参数模型Kimi K3实现首日高效支持，集成KDA混合前缀缓存、DSpark投机解码与生产级分离部署等优化，单用户吞吐可达每秒370个token。",
+      "publishedAt": "2026-07-27",
+      "source": "vLLM Blog",
+      "url": "https://vllm.ai/blog/2026-07-27-k3",
+      "subCategory": "推理框架",
+      "id": "ai-20260728-003"
     },
     {
       "title": "开源反派Anthropic也有性价比？Claude Opus 5成本效益分析",
@@ -285,6 +393,15 @@
       "subCategory": "大模型"
     },
     {
+      "id": "ai-20260724-011",
+      "title": "微软发布自研图像生成模型MAI-Image-2.5-Pro",
+      "summary": "微软发布自研图像生成模型MAI-Image-2.5-Pro，支持文本渲染与自然语言编辑，定价为每百万token 5至106美元不等。微软表示该模型基于自有训练数据打造，未蒸馏第三方产品，目前已应用于Bing图像创作工具、PowerPoint图像编辑及OneDrive等场景。",
+      "publishedAt": "2026-07-24T08:00:53+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/980/899.htm",
+      "subCategory": "多模态"
+    },
+    {
       "id": "ai-20260725-001",
       "title": "Anthropic推出Claude Opus 5模型",
       "summary": "Anthropic发布Claude Opus 5，定位为以Opus 4.8同等价格（每百万输入token 5美元、输出25美元）实现接近Claude Fable 5前沿智能水平的模型，在Frontier-Bench、OSWorld 2.0等基准上表现提升，行为审计对齐得分为该系列最高。",
@@ -294,13 +411,13 @@
       "subCategory": "大模型"
     },
     {
-      "id": "ai-20260724-011",
-      "title": "微软发布自研图像生成模型MAI-Image-2.5-Pro",
-      "summary": "微软发布自研图像生成模型MAI-Image-2.5-Pro，支持文本渲染与自然语言编辑，定价为每百万token 5至106美元不等。微软表示该模型基于自有训练数据打造，未蒸馏第三方产品，目前已应用于Bing图像创作工具、PowerPoint图像编辑及OneDrive等场景。",
-      "publishedAt": "2026-07-24T08:00:53+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/980/899.htm",
-      "subCategory": "多模态"
+      "id": "ai-20260724-102",
+      "title": "Runway 推出生成式媒体路由器 Media Router",
+      "summary": "Runway Dev平台上线Media Router，可根据质量、速度或成本自动为图像、视频、音频生成请求选择最优模型，Adobe、Cloudflare、Expedia等已接入该API。",
+      "publishedAt": "2026-07-23T10:07:00-07:00",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/23/runway-bets-on-ai-model-routing-as-generative-media-gets-crowded/",
+      "subCategory": "AI应用"
     },
     {
       "title": "国内首套智能体全生命周期互联标准发布 2000余智能体获数字身份证",
@@ -319,6 +436,15 @@
       "url": "https://www.itbear.com.cn/html/2026-07/1461441.html",
       "subCategory": "AI评测",
       "id": "ai-20260723-310"
+    },
+    {
+      "id": "ai-20260724-004",
+      "title": "专家质疑月之暗面\"蒸馏\"Anthropic模型开发Kimi K3的说法",
+      "summary": "白宫官员此前指控月之暗面通过蒸馏Anthropic的Fable模型开发Kimi K3，但Snorkel AI与艾伦人工智能研究所的专家提出质疑，指出Fable模型自7月1日才可用，时间线难以支撑该说法，认为达到K3水平更可能需要强化学习等成本更高的训练方式。",
+      "publishedAt": "2026-07-23T04:00:00-07:00",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/23/experts-say-exploiting-anthropics-fable-isnt-how-kimi-k3-got-so-good/",
+      "subCategory": "大模型"
     },
     {
       "title": "国产端侧大模型第一次登上全球旗舰：面壁MiniCPM装进三星Galaxy Z Fold8系列",
@@ -346,6 +472,15 @@
       "source": "量子位",
       "url": "https://www.qbitai.com/2026/07/457698.html",
       "subCategory": "具身智能"
+    },
+    {
+      "id": "ai-20260724-006",
+      "title": "Grok 4.5在8分钟内推翻存在30年的图论猜想",
+      "summary": "xAI的Grok 4.5在一次内部Slack讨论中，用时8分钟为存在约30年的图论猜想（Graffiti Conjecture 284）构造出反例，通过展示分数流成本与不可分流成本之间的差距推翻该猜想。埃隆·马斯克在社交媒体公布该结果，OpenAI的GPT-5也几乎同时独立解出同一猜想。",
+      "publishedAt": "2026-07-23T07:56:32Z",
+      "source": "BigGo Finance",
+      "url": "https://finance.biggo.com/news/470b3b6b-7dea-4bde-9b29-0d6a6bf12daf",
+      "subCategory": "论文进展"
     },
     {
       "title": "腾讯云CodeBuddy NPC智能体发布：Token降幅超90%",
@@ -382,6 +517,33 @@
       "url": "https://www.qbitai.com/2026/07/457537.html",
       "subCategory": "具身智能",
       "id": "ai-20260723-214"
+    },
+    {
+      "title": "WAIC最狠展台打爆工业「深水区」！它石智航首发具身原生大脑AWE 3.5",
+      "summary": "它石智航在WAIC2026现场首发具身原生大脑AWE 3.5，基于超百万小时人形数据完成预训练到后训练全链路，可无需切换模型完成装配、插接、分拣等多种汽车线束工业任务。",
+      "publishedAt": "2026-07-23T11:28:24+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/07/457469.html",
+      "subCategory": "具身智能",
+      "id": "ai-20260723-215"
+    },
+    {
+      "title": "芯片卖了56万片之后，阿里平头哥把最值钱的东西开源了",
+      "summary": "阿里平头哥在WAIC2026宣布开源自研AI软件栈T-Head SAIL，覆盖驱动到开发工具五层技术，兼容超260种主流AI框架，此前旗下含光AI芯片已向400余家客户出趆56万片。",
+      "publishedAt": "2026-07-23T10:09:00+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/07/457405.html",
+      "subCategory": "开源模型",
+      "id": "ai-20260723-216"
+    },
+    {
+      "title": "科大讯飞发布星火Token Factory，打造企业级AI模型智能路由与治理新底座",
+      "summary": "科大讯飞推出星火Token Factory中间件平台，提供智能路由、推理加速、安全治理与成本归因四大能力，推理效率较开源框架提升约5倍，时延降低30%-40%，助力企业规模化部署大模型。",
+      "publishedAt": "2026-07-23T09:55:14+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/07/457359.html",
+      "subCategory": "AI应用",
+      "id": "ai-20260723-217"
     },
     {
       "title": "POCKET: a 35-billion-parameter model that runs on your iPhone",
@@ -562,168 +724,6 @@
       "source": "arXiv",
       "url": "https://arxiv.org/abs/2607.21556",
       "subCategory": "论文进展"
-    },
-    {
-      "id": "ai-20260724-107",
-      "title": "GraphVid：图结构可控的交互式视频生成方法",
-      "summary": "GraphVid利用结构化交互图对视频中多物体互动进行精确控制，运动控制效果超过此前方法，同时所需训练数据量和参数量更少。",
-      "publishedAt": "2026-07-23",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2607.21580",
-      "subCategory": "AI视频"
-    },
-    {
-      "id": "ai-20260724-108",
-      "title": "论文提出以生成像素而非文本评测模型空间认知能力",
-      "summary": "ProVisE让图像生成模型以视觉输出而非文字表达答案来评测空间推理，发现图像生成模型擅长像素空间直接任务，但组合式空间推理仍弱于文本类视觉语言模型。",
-      "publishedAt": "2026-07-23",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2607.21072",
-      "subCategory": "论文进展"
-    },
-    {
-      "id": "ai-20260724-109",
-      "title": "论文提出经验蒸馏方法提升智能体样本效率",
-      "summary": "Experience Distillation将智能体交互历史直接内化进模型权重、无需额外环境交互，效果优于监督微调，并以更少环境样本量匹配传统强化学习基线表现。",
-      "publishedAt": "2026-07-23",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2607.21051",
-      "subCategory": "Agent"
-    },
-    {
-      "id": "ai-20260724-110",
-      "title": "字节跳动发布大规模桌面操作数据集 TableVerse",
-      "summary": "TableVerse通过自动化流水线将互联网图片转换为具真实尺度的可仿真桌面环境，构建10万个物理真实场景及配套操作演示，用于推动机器人操作学习。",
-      "publishedAt": "2026-07-23",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2607.21017",
-      "subCategory": "具身智能"
-    },
-    {
-      "id": "ai-20260724-111",
-      "title": "WorldWeaver：具备世界状态寄存器的多智能体流式视频扩散模型",
-      "summary": "WorldWeaver通过可学习的世界状态令牌追踪全局环境与各智能体状态，在双智能体Minecraft视频生成任务中提升了多智能体交互场景的逻辑一致性。",
-      "publishedAt": "2026-07-23",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2607.21594",
-      "subCategory": "AI视频"
-    },
-    {
-      "title": "WAIC最狠展台打爆工业「深水区」！它石智航首发具身原生大脑AWE 3.5",
-      "summary": "它石智航在WAIC2026现场首发具身原生大脑AWE 3.5，基于超百万小时人形数据完成预训练到后训练全链路，可无需切换模型完成装配、插接、分拣等多种汽车线束工业任务。",
-      "publishedAt": "2026-07-23T11:28:24+08:00",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/07/457469.html",
-      "subCategory": "具身智能",
-      "id": "ai-20260723-215"
-    },
-    {
-      "title": "芯片卖了56万片之后，阿里平头哥把最值钱的东西开源了",
-      "summary": "阿里平头哥在WAIC2026宣布开源自研AI软件栈T-Head SAIL，覆盖驱动到开发工具五层技术，兼容超260种主流AI框架，此前旗下含光AI芯片已向400余家客户出趆56万片。",
-      "publishedAt": "2026-07-23T10:09:00+08:00",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/07/457405.html",
-      "subCategory": "开源模型",
-      "id": "ai-20260723-216"
-    },
-    {
-      "id": "ai-20260724-102",
-      "title": "Runway 推出生成式媒体路由器 Media Router",
-      "summary": "Runway Dev平台上线Media Router，可根据质量、速度或成本自动为图像、视频、音频生成请求选择最优模型，Adobe、Cloudflare、Expedia等已接入该API。",
-      "publishedAt": "2026-07-23T10:07:00-07:00",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/23/runway-bets-on-ai-model-routing-as-generative-media-gets-crowded/",
-      "subCategory": "AI应用"
-    },
-    {
-      "title": "科大讯飞发布星火Token Factory，打造企业级AI模型智能路由与治理新底座",
-      "summary": "科大讯飞推出星火Token Factory中间件平台，提供智能路由、推理加速、安全治理与成本归因四大能力，推理效率较开源框架提升约5倍，时延降低30%-40%，助力企业规模化部署大模型。",
-      "publishedAt": "2026-07-23T09:55:14+08:00",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/07/457359.html",
-      "subCategory": "AI应用",
-      "id": "ai-20260723-217"
-    },
-    {
-      "id": "ai-20260724-006",
-      "title": "Grok 4.5在8分钟内推翻存在30年的图论猜想",
-      "summary": "xAI的Grok 4.5在一次内部Slack讨论中，用时8分钟为存在约30年的图论猜想（Graffiti Conjecture 284）构造出反例，通过展示分数流成本与不可分流成本之间的差距推翻该猜想。埃隆·马斯克在社交媒体公布该结果，OpenAI的GPT-5也几乎同时独立解出同一猜想。",
-      "publishedAt": "2026-07-23T07:56:32Z",
-      "source": "BigGo Finance",
-      "url": "https://finance.biggo.com/news/470b3b6b-7dea-4bde-9b29-0d6a6bf12daf",
-      "subCategory": "论文进展"
-    },
-    {
-      "id": "ai-20260724-004",
-      "title": "专家质疑月之暗面\"蒸馏\"Anthropic模型开发Kimi K3的说法",
-      "summary": "白宫官员此前指控月之暗面通过蒸馏Anthropic的Fable模型开发Kimi K3，但Snorkel AI与艾伦人工智能研究所的专家提出质疑，指出Fable模型自7月1日才可用，时间线难以支撑该说法，认为达到K3水平更可能需要强化学习等成本更高的训练方式。",
-      "publishedAt": "2026-07-23T04:00:00-07:00",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/23/experts-say-exploiting-anthropics-fable-isnt-how-kimi-k3-got-so-good/",
-      "subCategory": "大模型"
-    },
-    {
-      "id": "ai-20260722-114",
-      "title": "Substack接入Pangram检测工具，上线AI文本识别功能",
-      "summary": "内容平台Substack接入AI检测工具Pangram，在网页端与iOS端上线文本识别功能，可对文章、笔记等内容标注人工撰写、AI生成与AI辅助的比例，仅检测7月21日后发布且段落超过100词的内容，创作者可自行关闭该功能。",
-      "publishedAt": "2026-07-22T16:31:18+08:00",
-      "source": "AIBase",
-      "url": "https://news.aibase.com/zh/news/29801",
-      "subCategory": "AI应用"
-    },
-    {
-      "id": "ai-20260722-113",
-      "title": "三星拟投资10亿欧元加码Mistral AI D轮融资",
-      "summary": "据英国《金融时报》报道，三星正考虑向法国AI公司Mistral AI追加投资约10亿欧元，参与其D轮融资，该轮融资对其估值约200亿欧元，瑞典EQT旗下Scaleup Europe基金也参与其中，交易被视为对欧洲AI独立性的重新定价。",
-      "publishedAt": "2026-07-22T15:36:51+08:00",
-      "source": "AIBase",
-      "url": "https://news.aibase.com/zh/news/29799",
-      "subCategory": "大模型"
-    },
-    {
-      "id": "ai-20260722-112",
-      "title": "宇树王兴兴：人形机器人\"ChatGPT时刻\"最快两三年到来",
-      "summary": "宇树科技创始人兵CEO王兴兴在2026世界互联网大会数字丝路发展论坛表示，具身智能的\"ChatGPT时刻\"最快两三年内到来，届时机器人无需预先编排动作或人类远程操控即可在陷生环境中工作，宇树同期展示G1机器人多场景任务能力。",
-      "publishedAt": "2026-07-22T15:03:43+08:00",
-      "source": "AIBase",
-      "url": "https://news.aibase.com/zh/news/29797",
-      "subCategory": "具身智能"
-    },
-    {
-      "id": "ai-20260722-111",
-      "title": "地平线与大众深化合作，白盒授权AI基座大模型支撑L3/L4量产",
-      "summary": "地平线与大众汽车集团通过合资公司酷睡程（CARIZON）深化合作，采用白盒授权模式，让大众基于地平线AI基座大模型、C7H芯片及GAIA世界模型数据平台自主开发统一AI驾驶方案，服务大众L3、L4级自动驾驶量产。",
-      "publishedAt": "2026-07-22T14:51:43+08:00",
-      "source": "AIBase",
-      "url": "https://news.aibase.com/zh/news/29796",
-      "subCategory": "具身智能"
-    },
-    {
-      "id": "ai-20260722-110",
-      "title": "哈佛研究称女性生成式AI使用率比男性低22%",
-      "summary": "哈佛商学院对25个国家、超14.3万名参与者的荷集分析显示，女性使用生成式AI的可能性比男性低22%，科技岗位中男性占比71%、女性29%，企业AI培训获取率男怇35%、女怇27%，研究呼吁将AI培训纳入常规工作体系。",
-      "publishedAt": "2026-07-22T14:50:19+08:00",
-      "source": "AIBase",
-      "url": "https://news.aibase.com/zh/news/29795",
-      "subCategory": "论文进展"
-    },
-    {
-      "id": "ai-20260722-109",
-      "title": "腾讯 AI 创意智能体 Miora 全量上线，支持多智能体协同设计",
-      "summary": "腾讯旗下AI创意智能体Miora全量上线，支持多智能体协同完成设计任务，内置涵盖平面图片、动态视频、3D建模、UI界面等八项官方技能，面向设计新手、独立开发者、品牌设计师和营销视频从业者，新用户可获赠1000积分。",
-      "publishedAt": "2026-07-22T14:23:26+08:00",
-      "source": "AIBase",
-      "url": "https://news.aibase.com/zh/news/29794",
-      "subCategory": "Agent"
-    },
-    {
-      "id": "ai-20260722-021",
-      "title": "Claude Code 新增 iOS 模拟器支持，开发者可直接在面板中调试应用",
-      "summary": "Anthropic为桌面版Claude Code推出iOS模拟器公测支持，开发者可在专属面板内直接打开正在开发的应用，官方提示模拟器运行时会截屏并上传服务器存储，建议测试设备不要登录个人账号。",
-      "publishedAt": "2026-07-22",
-      "source": "AIBase",
-      "url": "https://news.aibase.com/news/29782",
-      "subCategory": "AI编程"
     }
   ]
 }

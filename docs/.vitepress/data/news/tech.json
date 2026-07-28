@@ -3,8 +3,188 @@
   "slug": "tech",
   "title": "科技新闻",
   "description": "前沿科技、互联网产品、芯片硬件、开源生态。",
-  "updatedAt": "2026-07-27T23:59:00+08:00",
+  "updatedAt": "2026-07-28T09:45:00+08:00",
   "items": [
+    {
+      "title": "小米 REDMI 17 4G 手机曝光：联发科 Helio G91-Ultra 芯片，7500mAh 电池",
+      "summary": "小米REDMI 17 4G通过马来西亚SIRIM认证，型号为2606FRN72Y，配备6.9英寸120Hz屏幕、联发科Helio G91-Ultra处理器及7500mAh电池，支持45W快充，后置5000万像素摄像头，前置800万像素。",
+      "publishedAt": "2026-07-28T08:40:56+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/982/305.htm",
+      "subCategory": "消费电子",
+      "id": "tech-20260728-013"
+    },
+    {
+      "title": "微软更新 Win11 版计算器、记事本、时钟和媒体播放器应用",
+      "summary": "微软面向Windows预览体验成员推送计算器、记事本、时钟和媒体播放器等内置应用更新，修复多项问题并带来改进，包括记事本增强Markdown文件格式支持、媒体播放器改善专辑封面显示，以及时钟应用提升日出日落时间计算精度。",
+      "publishedAt": "2026-07-28T08:31:10+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/982/303.htm",
+      "subCategory": "操作系统",
+      "id": "tech-20260728-012"
+    },
+    {
+      "title": "微信鸿蒙版 App 获 8.0.19.45 尝鲜升级",
+      "summary": "微信鸿蒙版推出8.0.19.45尝鲜升级，内测时间为7月27日至8月26日，新增录制视频时前后摄像头切换等功能，并对朋友圈分享、视频号推荐等体验进行改进。",
+      "publishedAt": "2026-07-28T08:22:36+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/982/301.htm",
+      "subCategory": "互联网产品",
+      "id": "tech-20260728-011"
+    },
+    {
+      "title": "72 个恶意 Win10/Win11 软件站被发现：AI 复刻搭建，培养信任后收割用户",
+      "summary": "安全研究人员发现72个针对Windows用户的恶意软件下载站，站点使用AI生成内容并在搜索结果中获得较高排名，最初跳转至微软商店等正规页面以建立信任，随后悄然替换软件源分发恶意程序，相关域名由同一主体批量注册。",
+      "publishedAt": "2026-07-28T08:21:12+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/982/300.htm",
+      "subCategory": "安全漏洞",
+      "id": "tech-20260728-010"
+    },
+    {
+      "title": "外媒解读：微软虽收紧 KMS 服务，但并不在意普通用户使用盗版 Win11",
+      "summary": "外媒Windows Latest分析称，微软近期收紧KMS验证主要针对企业自建KMS服务器，而非普通消费者；新的基于TPM的安全措施旨在打击企业环境中非法激活未授权设备的欺诈性KMS服务器，微软并未追查普通用户使用的盗版Windows系统。",
+      "publishedAt": "2026-07-28T07:57:37+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/982/295.htm",
+      "subCategory": "操作系统",
+      "id": "tech-20260728-009"
+    },
+    {
+      "title": "微软强推 Office 升级广告横幅，付费 Microsoft 365 用户也无法关闭",
+      "summary": "微软在Office应用中加入无法关闭的升级广告横幅，即便是付费Microsoft 365订阅用户也无法关闭；横幅用于推广套餐升级，展示Copilot额度与云存储等功能，引发用户对已付费软件中出现推广内容的不满。",
+      "publishedAt": "2026-07-28T07:53:41+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/982/293.htm",
+      "subCategory": "互联网产品",
+      "id": "tech-20260728-008"
+    },
+    {
+      "title": "宾利预热首款纯电车型 Torcal 内饰：手工切割水晶、保时捷卡宴同款曲面大屏",
+      "summary": "宾利公布其首款纯电车型Torcal内饰设计，采用手工切割水晶饰件及与保时捷卡宴同款的曲面大屏，新车基于与保时捷共享的PPE平台打造，将于9月23日正式发布，预计2027年第三季度进入美国市场，定价约20万至25万美元。",
+      "publishedAt": "2026-07-28T07:53:05+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/982/292.htm",
+      "subCategory": "智能汽车",
+      "id": "tech-20260728-007"
+    },
+    {
+      "title": "Hackers target US firms in FastJson RCE zero-day attacks",
+      "summary": "黑客正利用FastJson 1.2.68至1.2.83版本中影响Spring Boot胖JAR部署的未修补远程代码执行漏洞CVE-2026-16723，针对美国金融、医疗、计算及零售行业企业发起攻击；由于FastJson 1.x已停止维护，目前尚无官方补丁。",
+      "publishedAt": "2026-07-27T19:49:00-04:00",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-target-us-firms-in-fastjson-rce-zero-day-attacks/",
+      "subCategory": "安全漏洞",
+      "id": "tech-20260728-016"
+    },
+    {
+      "title": "微软 Win10/Win11 经典版 Outlook 于 2027 年 3 月启动迁移，维护支持至 2029 年",
+      "summary": "微软宣布将于2027年3月启动企业环境经典版Outlook的迁移（opt-out）阶段，引导用户转向新版Outlook；持有有效许可的用户可继续获得经典版维护支持至2029年，但迁移启动后不再新增功能。",
+      "publishedAt": "2026-07-28T07:36:10+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/982/290.htm",
+      "subCategory": "操作系统",
+      "id": "tech-20260728-006"
+    },
+    {
+      "title": "苹果发布 macOS Sonoma 14.8.8/Sequoia 15.7.8 更新，修复 138 个安全漏洞",
+      "summary": "苹果发布macOS Sonoma 14.8.8与Sequoia 15.7.8安全更新，共修复138个安全漏洞；同期发布的macOS 26 Tahoe更新修复155个漏洞，其中部分漏洞可能被利用获取应用的系统root权限。",
+      "publishedAt": "2026-07-28T07:09:41+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/982/280.htm",
+      "subCategory": "安全漏洞",
+      "id": "tech-20260728-004"
+    },
+    {
+      "title": "微软 Xbox 大裁员后问题频发：商店连续异常，玩家疑似可利用漏洞下载未购买游戏",
+      "summary": "自7月23日起Xbox服务多次出现故障，微软商店与账号访问功能受影响；故障期间部分玩家发现可利用漏洞免费下载并游玩未购买的游戏，主要涉及已下架的Xbox 360老游戏。",
+      "publishedAt": "2026-07-28T07:09:14+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/982/279.htm",
+      "subCategory": "安全漏洞",
+      "id": "tech-20260728-005"
+    },
+    {
+      "title": "影响全球约 50 万 macOS 用户，Claude Cowork 智能体 AI 爆漏洞可读写任意 Mac 文件",
+      "summary": "Anthropic的Claude Cowork被曝存在安全漏洞，攻击者可利用Linux内核缺陷CVE-2026-46331逃逸沙箱并读写Mac任意位置文件，修复前影响约50万运行本地Cowork会话的macOS用户。",
+      "publishedAt": "2026-07-28T06:57:17+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/982/277.htm",
+      "subCategory": "安全漏洞",
+      "id": "tech-20260728-002"
+    },
+    {
+      "title": "马斯克\"超级应用\"关键一步：X Money 正式在美国上线，支持苹果钱包绑卡返现 3%、年化收益最高 6%",
+      "summary": "X Money已在美国正式上线，向Premium及Premium+订阅用户提供存款、点对点转账及Visa借记卡服务，Premium+用户年化收益最高6%，X Card消费享3%返现，并支持绑定苹果钱包。",
+      "publishedAt": "2026-07-28T06:55:37+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/982/276.htm",
+      "subCategory": "互联网产品",
+      "id": "tech-20260728-003"
+    },
+    {
+      "title": "Arista patches VeloCloud Orchestrator zero-day exploited in attacks",
+      "summary": "Arista发布补丁修复其本地部署VeloCloud Orchestrator中一个正被攻击者利用的严重未授权命令注入漏洞CVE-2026-16812，攻击者可借此获取特权功能访问权限；美国CISA已要求联邦机构在7月30日前完成缓解。",
+      "publishedAt": "2026-07-27T18:49:00-04:00",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/arista-patches-velocloud-orchestrator-zero-day-exploited-in-attacks/",
+      "subCategory": "安全漏洞",
+      "id": "tech-20260728-017"
+    },
+    {
+      "title": "New Dysphoria DDoS botnet spreads to 200k devices worldwide",
+      "summary": "奇安信XLab研究人员发现名为Dysphoria的僵尸网络已入侵全球约20万台物联网及路由器设备用于DDoS攻击和流量中继，其命令控制系统基于以太坊ENS与Solana SNS域名构建，运营者宣称最大DDoS攻击能力达4Tbps。",
+      "publishedAt": "2026-07-27T17:08:00-04:00",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/new-dysphoria-ddos-botnet-spreads-to-200k-devices-worldwide/",
+      "subCategory": "安全漏洞",
+      "id": "tech-20260728-018"
+    },
+    {
+      "title": "微软发布 Win11 Experimental 频道 Build 29634.1000 预览版：新增语音访问人声隔离等多项改进",
+      "summary": "微软面向Windows Experimental频道推送Build 29634.1000预览版，新增语音访问人声隔离功能（本地处理过滤背景噪音）、现代化账户控制窗口、盲文显示器USB读屏支持，并将表情面板GIF来源由Tenor替换为GIPHY。",
+      "publishedAt": "2026-07-28T05:02:33+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/982/272.htm",
+      "subCategory": "操作系统",
+      "id": "tech-20260728-001"
+    },
+    {
+      "title": "PSA: Your Claude shared chats and Artifacts may have ended up on Google",
+      "summary": "Claude平台通过分享链接生成的对话与Artifacts被谷歌搜索收录，暴露包括医疗记录、公司文件及儿童联系信息在内的敏感内容；Anthropic表示问题源于用户主动公开分享链接，截至周一下午问题已基本得到修复。",
+      "publishedAt": "2026-07-27T20:19:42+00:00",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/27/psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-on-google/",
+      "subCategory": "安全漏洞",
+      "id": "tech-20260728-014"
+    },
+    {
+      "title": "Amazon's new satellite network for mobile phones could turn up the heat on SpaceX",
+      "summary": "亚马逊向美国联邦通信委员会提交申请，计划利用从Globalstar获得的频谱运营一个由5105颗卫星组成的星座网络，提供手机直连卫星服务，与SpaceX的卫星通信业务展开竞争，但仍受蓝色起源New Glenn火箭发射延误制约。",
+      "publishedAt": "2026-07-27T18:08:29+00:00",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/27/amazons-new-satellite-network-for-mobile-phones-could-turn-up-the-heat-on-spacex/",
+      "subCategory": "网络基础设施",
+      "id": "tech-20260728-015"
+    },
+    {
+      "title": "Apple sued over fake App Store crypto wallet app stealing $1.8M in Bitcoin",
+      "summary": "三名原告起诉苹果，称其通过App Store分发的虚假Sparrow Wallet应用诱骗用户输入助记词导致约180万美元比特币被骗，诉状称苹果早在一年多前已被警告存在此类仿冒应用挂牌，但未能将其下架。",
+      "publishedAt": "2026-07-27T13:29:00-04:00",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/apple/apple-sued-over-fake-app-store-crypto-wallet-app-stealing-18m-in-bitcoin/",
+      "subCategory": "安全漏洞",
+      "id": "tech-20260728-019"
+    },
+    {
+      "title": "Coca-Cola confirms data theft in Fairlife ransomware attack",
+      "summary": "可口可乐公司确认其乳制品子公司Fairlife在一次导致生产中断的勒索软件攻击中遭黑客窃取数据，Anubis团伙宣称对此负责并威胁泄露1TB文件；可口可乐表示已向执法部门报案且未与攻击者谈判，美国大部分产线已恢复。",
+      "publishedAt": "2026-07-27T11:39:00-04:00",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/coca-cola-confirms-data-theft-in-fairlife-ransomware-attack/",
+      "subCategory": "安全漏洞",
+      "id": "tech-20260728-020"
+    },
     {
       "id": "tech-20260727-212",
       "title": "大众汽车否认呼吁欧盟对中国混动汽车加征关税",
@@ -15,6 +195,15 @@
       "subCategory": "智能汽车"
     },
     {
+      "title": "Ernst & Young data breach claimed by ShinyHunters extortion gang",
+      "summary": "勒索团伙ShinyHunters宣称对安永会计师事务所的一次数据泄露事件负责，称其通过对第三方IT支持系统的供应链攻击获取凭证，进而访问安永的Jira、GitHub和Azure环境，据报泄露的客户税务信息采集于3月28日至4月12日之间。",
+      "publishedAt": "2026-07-27T11:12:00-04:00",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/ernst-and-young-data-breach-claimed-by-shinyhunters-extortion-gang/",
+      "subCategory": "安全漏洞",
+      "id": "tech-20260728-021"
+    },
+    {
       "id": "tech-20260727-211",
       "title": "\"中国天眼\"FAST 望远镜已找到 1284 颗脉冲星，远超同时期国际其他望远镜总和",
       "summary": "位于贵州的中国天眼FAST望远镜累计已找到1284颗脉冲星，远超同时期国际上所有其他望远镜发现数量的总和。该望远镜自2016年建成以来推动中国射电天文学从依赖国外数据转向自主产出核心观测数据，近期完成六根钢索维护后已恢复新一轮观测。",
@@ -22,6 +211,15 @@
       "source": "IT之家",
       "url": "https://www.ithome.com/0/982/258.htm",
       "subCategory": "航空航天"
+    },
+    {
+      "title": "Exploiting Volvo/Eicher's fleet management platform to gain control over all users and vehicles",
+      "summary": "一名安全研究人员发现印度商用车队管理平台My Eicher存在未授权API，暴露74.8万个客户账号、250万条可追溯至2021年的历史OTP验证码及67.6万辆车辆信息，结合账号列表与泄露OTP可实现账户完全接管并访问7.6万份包含身份证件的敏感文件。",
+      "publishedAt": "2026-07-27T14:31:47+00:00",
+      "source": "eaton-works.com",
+      "url": "https://eaton-works.com/2026/07/27/my-eicher-hack/",
+      "subCategory": "安全漏洞",
+      "id": "tech-20260728-022"
     },
     {
       "title": "英伟达与韩国互联网巨头 Naver 达成 10 亿美元投资协议，扩容 200 兆瓦 AI 算力工厂",
@@ -112,15 +310,6 @@
       "url": "https://www.ithome.com/0/981/800.htm",
       "subCategory": "消费电子",
       "id": "tech-20260727-209"
-    },
-    {
-      "id": "tech-20260725-019",
-      "title": "黑格G1系列破年内科技造物众筹首日记录",
-      "summary": "黑格科技（HeyGears）旗下桌面级全彩3D及UV打印机G1系列登陆Kickstarter众筹平台，24小时众筹金额突破722万美元（约合人民币4900万元），创下年内科技造物品类全球首日众筹纪录。",
-      "publishedAt": "2026-07-25T16:44:00+08:00",
-      "source": "36氪",
-      "url": "https://36kr.com/newsflashes/3910478626804868",
-      "subCategory": "消费电子"
     },
     {
       "id": "tech-20260726-014",
@@ -256,6 +445,15 @@
       "url": "https://www.ithome.com/0/981/555.htm",
       "subCategory": "智能汽车",
       "id": "tech-20260726-011"
+    },
+    {
+      "id": "tech-20260725-019",
+      "title": "黑格G1系列破年内科技造物众筹首日记录",
+      "summary": "黑格科技（HeyGears）旗下桌面级全彩3D及UV打印机G1系列登陆Kickstarter众筹平台，24小时众筹金额突破722万美元（约合人民币4900万元），创下年内科技造物品类全球首日众筹纪录。",
+      "publishedAt": "2026-07-25T16:44:00+08:00",
+      "source": "36氪",
+      "url": "https://36kr.com/newsflashes/3910478626804868",
+      "subCategory": "消费电子"
     },
     {
       "id": "tech-20260725-020",
@@ -526,186 +724,6 @@
       "source": "IT之家",
       "url": "https://www.ithome.com/0/981/427.htm",
       "subCategory": "操作系统"
-    },
-    {
-      "id": "tech-20260725-036",
-      "title": "打击 AI 生成虚假账号，Meta 推出“Facebook Verified”免费徽章",
-      "summary": "Meta宣布推出“Facebook Verified”免费服务，年满18岁且符合社区标准的用户录制自拍视频经身份比对后可获得勾号标记，该徽章仅适用于个人账号，旨在确认账号背后为真实用户而非AI生成的虚假账号，将分阶段全球推出。",
-      "publishedAt": "2026-07-25T08:46:09+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/981/426.htm",
-      "subCategory": "互联网产品"
-    },
-    {
-      "id": "tech-20260725-035",
-      "title": "消息称英特尔将代工封装英伟达 Feynman GPU，量产指向 2028 年",
-      "summary": "科技媒体Wccftech报道称，英特尔代工业务有望与英伟达达成合作，为其Feynman GPU提供晶圆与先进封装支持，量产时间指向2028年，英特尔CEO陈立武表示公司将增加资本开支覆盖先进封装与晶圆厂建设。",
-      "publishedAt": "2026-07-25T08:45:07+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/981/425.htm",
-      "subCategory": "芯片硬件"
-    },
-    {
-      "id": "tech-20260725-001",
-      "title": "黄仁勋入驻X首条推文：英伟达等25家公司力挺开源AI",
-      "summary": "英伟达CEO黄仁勋在X平台发布首条推文，力挺英伟达、微软、Meta、IBM、戴尔、Palantir、Hugging Face等25家公司联署的公开信，强调开源模型权重可防止大型机构垄断并通过同行评审增强整体安全性。",
-      "publishedAt": "2026-07-25T08:34:57+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/981/423.htm",
-      "subCategory": "开源生态"
-    },
-    {
-      "id": "tech-20260725-002",
-      "title": "R星确认：日本地区的《GTA6》PS5版下载码有效期只有170天",
-      "summary": "Rockstar Games确认，日本地区《GTA6》PS5版下载码将在游戏11月19日发售后170天内有效，原因是当地法规限制，建议玩家按PSN账号所在地区购买；Xbox数字版下载码则不受地区限制。",
-      "publishedAt": "2026-07-25T08:29:15+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/981/422.htm",
-      "subCategory": "消费电子"
-    },
-    {
-      "id": "tech-20260725-003",
-      "title": "全新梅赛德斯-奔驰GLA将于7月30日首秀，纯电版正式接替EQA",
-      "summary": "梅赛德斯-奔驰第三代GLA将于7月29日至30日发布，提供燃油与纯电两种动力版本，纯电版接替EQA，车内采用与GLB相似的三联屏布局，含10.3英寸仪表及两块14英寸触屏，并配备隐藏式门把手。",
-      "publishedAt": "2026-07-25T08:25:28+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/981/421.htm",
-      "subCategory": "智能汽车"
-    },
-    {
-      "id": "tech-20260725-004",
-      "title": "Waymo计划独立进入两地Robotaxi市场，放弃与Uber合作",
-      "summary": "Alphabet旗下Waymo宣布计划于2028年1月独立进入奥斯汀和亚特兰大Robotaxi市场，与Uber平台合作将持续至2028年5月结束，此前双方已于2026年5月终止在凤凰城的合作，期间在路线规划及车辆调度上存在分歧。",
-      "publishedAt": "2026-07-25T08:16:53+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/981/419.htm",
-      "subCategory": "智能汽车"
-    },
-    {
-      "id": "tech-20260724-154",
-      "title": "谷歌签署欧盟 AI 生成内容透明度行为准则，并呼吁避免监管复杂化",
-      "summary": "谷歌宣布签署欧盟《AI生成内容透明度行为准则》，承诺推进机器可读标识、深度伪造标注等技术，并将继续推广SynthID水印技术，同时呼吁欧盟避免监管要求过度复杂，以免影响用户体验与欧洲竞争力。",
-      "publishedAt": "2026-07-24T23:15:13+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/981/393.htm",
-      "subCategory": "互联网产品"
-    },
-    {
-      "id": "tech-20260725-021",
-      "title": "BlueNoroff Zoom Phishing Kit Profiles Crypto Wallets Before Malware Delivery",
-      "summary": "安全公司JUMPSEC披露，朝鲜黑客组织BlueNoroff运营一个仿冒Zoom等视频会议平台的钓鱼工具包，通过盗用受害者已信任的Telegram联系人账号传播恶意链接，对加密货币钱包持有者画像后再投递恶意软件窃取资产。",
-      "publishedAt": "2026-07-24T23:12:00+08:00",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/07/bluenoroff-zoom-phishing-kit-profiles.html",
-      "subCategory": "安全漏洞"
-    },
-    {
-      "id": "tech-20260724-151",
-      "title": "蓝思科技与英特尔签署合作备忘录，重点关注玻璃通孔先进封装业务",
-      "summary": "蓝思科技全资子公司与英特尔签署合作备忘录，聚焦玻璃通孔（TGV）先进封装技术，双方将评估玻璃基板穿孔、激光加工等工艺合作，并探讨AI PC结构件、数据中心散热等潜在合作方向。",
-      "publishedAt": "2026-07-24T23:01:43+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/981/392.htm",
-      "subCategory": "芯片硬件"
-    },
-    {
-      "id": "tech-20260724-152",
-      "title": "消息称手机品牌 Nothing 将在全球裁员 40%，并退出中东、日本等市场",
-      "summary": "消息称手机品牌Nothing将关闭全球12个以上市场，包括中东、日本及部分欧洲地区，全球裁员40%，中国和伦敦研发团队分别削减约50%和30-40%，因近期机型销量疲软。",
-      "publishedAt": "2026-07-24T22:54:26+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/981/391.htm",
-      "subCategory": "消费电子"
-    },
-    {
-      "id": "tech-20260724-157",
-      "title": "Certighost Exploit Lets Low-Privileged Active Directory Users Impersonate a Domain Controller",
-      "summary": "安全研究人员公开了CVE-2026-54121漏洞利用代码，该漏洞影响Active Directory证书服务，允许低权限域用户伪造域控制器证书用于身份冒充。微软已于7月14日发布补丁，CVSS评分8.8，目前尚未发现在野利用。",
-      "publishedAt": "2026-07-24T19:45:00+05:30",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/07/certighost-exploit-lets-low-privileged.html",
-      "subCategory": "安全漏洞"
-    },
-    {
-      "id": "tech-20260724-153",
-      "title": "微软、英伟达、Meta 等 25 家公司签署公开信，呼吁美国政府支持 AI 开源模型发展",
-      "summary": "微软、英伟达、Meta等25家美国科技公司联合签署公开信，呼吁政府支持开放权重AI模型发展，认为开源模型有助于普及AI应用、促进竞争并增强安全性，呼吁扩大初创企业与研究者的算力获取渠道。",
-      "publishedAt": "2026-07-24T22:09:10+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/981/384.htm",
-      "subCategory": "开源生态"
-    },
-    {
-      "id": "tech-20260724-155",
-      "title": "华为 Mate 60 系列等机型推送 6.1.0.135 SP8 版本：魔法移图新增贴纸功能，舞林萌主主题全新升级",
-      "summary": "华为为Mate 60、Mate XT、Pura 70等系列机型推送6.1.0.135 SP8版本更新，图库魔法移图新增表情贴纸合成功能，舞林萌主主题升级换装玩法，并集成7月安全补丁及多场景性能优化。",
-      "publishedAt": "2026-07-24T19:33:49+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/981/364.htm",
-      "subCategory": "操作系统"
-    },
-    {
-      "id": "tech-20260724-156",
-      "title": "岚图追光 S 预售发布 1 小时订单突破 10347 台，顶配 30.99 万元",
-      "summary": "岚图汽车追光S开启预售，顶配700公里四激光四驱Ultra+版本预售价30.99万元，发布1小时内订单突破10347台，新车长5050mm，搭载华为ADS 5智驾系统及896线激光雷达。",
-      "publishedAt": "2026-07-24T17:33:00+08:00",
-      "source": "IT之家",
-      "url": "https://m.ithome.com/html/981326.htm",
-      "subCategory": "智能汽车"
-    },
-    {
-      "id": "tech-20260724-101",
-      "title": "极氪9X五座版电混SUV展车到店，7月28日上市",
-      "summary": "极氪汽车宣布极氪9X五座版电混SUV展车已到店，将于7月28日10点正式上市，新增探野棕、勃艮第红配色，综合续航最高1250km，零百加速3.1秒，搭载5激光雷达感知方案。",
-      "publishedAt": "2026-07-24T16:33:10+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/981/282.htm",
-      "subCategory": "智能汽车"
-    },
-    {
-      "id": "tech-20260724-110",
-      "title": "微信输入法3.5.2版本更新：跨设备支持自定义名称，iOS版相册图片可直接隔空传送",
-      "summary": "微信输入法发布3.5.2版本更新，iOS、Android端支持跨设备自定义设备名称，候选词可长按置顶或删除；iOS版支持相册图片直接隔空传送；Mac端2.2.1同步支持右键文件隔空分享。",
-      "publishedAt": "2026-07-24T15:49:05+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/981/181.htm",
-      "subCategory": "互联网产品"
-    },
-    {
-      "id": "tech-20260724-108",
-      "title": "三星Galaxy Z Fold8/Ultra折叠手机多任务体验：3个App分屏支持90:10",
-      "summary": "三星One UI 9为Galaxy Z Fold8/Ultra带来\"Open Canvas\"多任务布局，支持3个App同时分屏，包括90:10分屏、竖向三分屏等排列方式，据Android Authority测试暂不支持横向三栏并排显示。",
-      "publishedAt": "2026-07-24T15:39:02+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/981/177.htm",
-      "subCategory": "操作系统"
-    },
-    {
-      "id": "tech-20260724-102",
-      "title": "小牛电动联合开源鸿蒙，将推出行业首个两轮车机原生高德地图",
-      "summary": "小牛电动宣布联合开源鸿蒙与高德地图合作，推出两轮车机原生高德地图，支持AI语音一句话导航及导航独立上屏，脱离手机、断电仍可用，为两轮出行领域首个此类实现，目前开发测试中。",
-      "publishedAt": "2026-07-24T15:37:14+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/981/175.htm",
-      "subCategory": "开源生态"
-    },
-    {
-      "id": "tech-20260724-103",
-      "title": "中科宇航：力箭一号圆满完成\"一箭5星\"任务",
-      "summary": "中科宇航力箭一号运载火箭7月24日07:33以\"一箭5星\"方式发射，为晨光一号、感德一号、羲光二号03星等5颗卫星提供拼车发射服务，为公司第15次飞行，累计已发射卫星110余颗。",
-      "publishedAt": "2026-07-24T15:35:19+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/981/173.htm",
-      "subCategory": "航空航天"
-    },
-    {
-      "id": "tech-20260724-104",
-      "title": "消息称字节跳动与长鑫存储签署为期五年、价值超70亿美元内存采购协议",
-      "summary": "据路透社消息人士透露，长鑫存储本月与字节跳动签署为期五年、价值超70亿美元的内存采购协议，长鑫存储正在上海、合肥新建产能，目标月产能超60万片晶圆，计划2030年前产能超越美光。",
-      "publishedAt": "2026-07-24T15:32:02+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/981/172.htm",
-      "subCategory": "芯片硬件"
     }
   ]
 }
