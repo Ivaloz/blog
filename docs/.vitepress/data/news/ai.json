@@ -3,8 +3,35 @@
   "slug": "ai",
   "title": "AI 与大模型",
   "description": "大模型、Agent、AI 编程、推理框架、开源模型的发布与落地。",
-  "updatedAt": "2026-07-28T09:45:00+08:00",
+  "updatedAt": "2026-07-28T16:45:00+08:00",
   "items": [
+    {
+      "id": "ai-20260728-103",
+      "title": "Kimi K3、Unlimited OCR包揭全球开源榜单前二，中国开源模型持续刷屏海外",
+      "summary": "月之暗面Kimi K3发布后数分钟即登顶Hugging Face热榜，百度Unlimited OCR位居第二；Unlimited OCR采用“参考滑动窗口注意力”技术实现多页文档连续解析且显存占用恒定，项目已获超1.97万GitHub星标及265万次Hugging Face下载，发布约一月后再度重返热榜榜首。",
+      "publishedAt": "2026-07-28T16:17:05+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/07/461949.html",
+      "subCategory": "开源模型"
+    },
+    {
+      "id": "ai-20260728-101",
+      "title": "阿里云 Qoder 上线实时语音交互智能体 QoderVoice，支持讨论式交互",
+      "summary": "阿里云Qoder平台上线实时语音交互智能体QoderVoice，基于全双工Qwen-Audio-3.0-Realtime模型，用户可随时以语音唤醒智能体下达指令并进行讨论式协作，语音指令与任务执行同步进行、支持中途打断调整，国际版已开敶3天免费试用，中国版将陆续上线。",
+      "publishedAt": "2026-07-28T16:14:49+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/982/614.htm",
+      "subCategory": "AI编程"
+    },
+    {
+      "id": "ai-20260728-102",
+      "title": "蚂蚁集团inclusionAI团队发布全球首个Agentic扩散模型LLaDA2.2",
+      "summary": "蚂蚁集团inclusionAI团队推出LLaDA2.2，称为全球首个大规模Agentic扩散模型，具备动态编辑生成token的Levenshtein编辑能力，在SWE-bench上取得8.6个百分点绝对提升；L-EBPO机制结合强化学习与环境反馈实现多轮交互自我纠错，BlockRouting架构支持128K原生上下文并将推理吞吐提厇1.64倍。",
+      "publishedAt": "2026-07-28T12:18:15+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/07/461650.html",
+      "subCategory": "Agent"
+    },
     {
       "title": "Claude设计师被工程师卷到掉队，反手造出百万用户工具",
       "summary": "Anthropic产品设计师Nate Parrott业余开发的Claude Design工具，可依据对话提示与品牌规范生成交互式HTML设计稿，上线一周用户超百万，后被转正为Anthropic Labs正式产品。",
@@ -17,7 +44,7 @@
     {
       "id": "ai-20260727-206",
       "title": "英伟达CUDA的20年护城河一个周末崩了，Claude独自跑通AMD新GPU",
-      "summary": "Anthropic工程师将Claude接入AMD新款MI355X GPU，借助AMD新推出的ROCm.AI工具提供的机器可读GPU文档和指令集，Claude在无人工修改代码的情况下独立完成环境搭建、模型部署、调试与性能优化，且性能持续提升。Anthropic此前宣布计划部署最高2吉瓦AMD Instinct GPU，首批1吉瓦预计2027年上半年投入使用。",
+      "summary": "Anthropic工程师将Claude接入AMD新款MI355X GPU，借助AMD新推出的ROCm.AI工具提供的机器可读GPU文档和指令集，Claude在无人工修改代码的情况下独立完成环境搭建、模型部署、调试与性能优化，且性能持续提升。Anthropic此前宣布计划部署最頇2吉瓦AMD Instinct GPU，首戹1吉瓦预计2027年上半年投入使用。",
       "publishedAt": "2026-07-27T23:58:14+08:00",
       "source": "IT之家",
       "url": "https://www.ithome.com/0/982/264.htm",
@@ -160,7 +187,7 @@
     },
     {
       "title": "人形机器人，拼脑子的时候到了",
-      "summary": "文章称人形机器人竞争已进入拼“大脑”阶段：中国在电机等硬件成本上优势明显，价格已降至千元级；月之暗面2.8万亿参数Kimi K3即将开源且性能超越部分美国闭源模型；但机器人在非结构化环境泛化能力、优质具身数据积累等“脑力”短板仍待突破。",
+      "summary": "文章称人形机器人竞争已进入拼“大脑”阶段：中国在电机等硬件成本上优势明显，价格已降至千元级；月之暗院2.8万亿参数Kimi K3即将开源且性能超越部分美国闭源模型；但机器人在非结构化环境泛化能力、优质具身数据积累等“脑力”短板仍待突破。",
       "publishedAt": "2026-07-27T07:44:00+08:00",
       "source": "36氪",
       "url": "https://36kr.com/p/3912252459799945",
@@ -214,7 +241,7 @@
     },
     {
       "title": "美国具身也没成熟！PI：中国公司何必总当“中国版XX”｜RSS 2026",
-      "summary": "在悉尼RSS 2026机器人大会上，Physical Intelligence等研究者称中美具身智能公司均未成熟，世界模型与VLA互补而非竞争，数据治理比数据量更重要，未来机器人需融合操作、移动与感知的整体智能。",
+      "summary": "在惉尼 RSS 2026机器人大会上，Physical Intelligence等研究者称中美具身智能公司均未成熟，世界模型与VLA互补而非竞争，数据治理比数据量更重要，未来机器人需融合操作、移动与感知的整体智能。",
       "publishedAt": "2026-07-25T20:24:27+08:00",
       "source": "量子位",
       "url": "https://www.qbitai.com/2026/07/460542.html",
@@ -222,7 +249,7 @@
       "id": "ai-20260726-003"
     },
     {
-      "title": "半价干翻Fable 5？Opus 5实测炸场，网友：差点从椅子上摔下来",
+      "title": "半价干翻 Fable 5？Opus 5实测炸场，网友：差点从椅子上摆下来",
       "summary": "Anthropic Claude Opus 5在Frontier-Bench等测试中以43.3%对33.7%优于Fable 5且价格减半，开发者称用0.508美元正确完成三项物理仿真任务，同时Claude Code系统提示词精简了80%而性能未降。",
       "publishedAt": "2026-07-25T20:11:39+08:00",
       "source": "量子位",
@@ -287,7 +314,7 @@
     {
       "id": "ai-20260725-006",
       "title": "OpenAI将打造“贾维斯”式语音助手，未来有望登陆第三方智能眼镜",
-      "summary": "OpenAI总裁格雷格·布罗克曼透露公司计划打造类似“贾维斯”的语音助手，将整合进ChatGPT升级后的语音交互界面，未来有望支持第三方智能眼镜等可穿戴设备，成为跨设备统一交互入口。",
+      "summary": "OpenAI总裁格雷格·布洛克曼透露公司计划打造类似“贾维斯”的语音助手，将整合进ChatGPT升级后的语音交互界面，未来有望支持第三方智能眼镜等可穿戴设备，成为跨设备统一交互入口。",
       "publishedAt": "2026-07-25T16:06:32+08:00",
       "source": "ITBear科技资讯",
       "url": "https://www.itbear.com.cn/html/2026-07/1464086.html",
@@ -350,7 +377,7 @@
     {
       "id": "ai-20260725-011",
       "title": "国产世界模型登顶李飞飞团队榜单！适配国产昇腾算力、代码权重全开源",
-      "summary": "国内团队（拖拽智能、北京大学与鹏城实验室）发布世界模型UniWorld-View，可基于单张图像或视频生成新视角，支持推拉摇移及360度环绕；团队提出遮挡感知点云渲染与双流条件注入技术处理大基线视角合成，代码权重已开源并适配国产昇腾算力。",
+      "summary": "国内团队（拖拽智能、北京大学与鹏城实验室）发布世界模型UniWorld-View，可基于单张图像或视频生成新视角，支持推拉摇移及360度环绕；团队提出遮遮感知点云渲染与双流条件注入技术处理大基线视角合成，代码权重已开源并适配国产昇腾算力。",
       "publishedAt": "2026-07-24T22:19:06+08:00",
       "source": "量子位",
       "url": "https://www.qbitai.com/2026/07/460041.html",
@@ -429,8 +456,8 @@
       "id": "ai-20260723-309"
     },
     {
-      "title": "谷歌Gemini新模型智能表现平平：旗舶3.5 Pro未现身，开发者反馈分化",
-      "summary": "谷歌发布Gemini 3.6 Flash等三款轻量模型，旗舶3.5 Pro缺席。第三方评测显示，3.6 Flash在Arena前端代码测试中排名第12，Artificial Analysis智能指数与上代持平，开发者对其推理能力评价分化。",
+      "title": "谷歌Gemini新模型智能表现平平：旗舰矣㌈3.5 Pro未现身，开发者反馈分化",
+      "summary": "谷歌发布Gemini 3.6 Flash等三款轻量模型，旗舰矣⌈3.5 Pro缺席。第三方评测显示，3.6 Flash在Arena前端代码测试中排名第12，Artificial Analysis智能指数与上代持平，开发者对其推理能力评价分化。",
       "publishedAt": "2026-07-23T23:51:40+08:00",
       "source": "ITBear科技资讯",
       "url": "https://www.itbear.com.cn/html/2026-07/1461441.html",
@@ -511,7 +538,7 @@
     },
     {
       "title": "超越π0，中国团队用1B参数模型登顶具身智能榜单",
-      "summary": "优艾智合发垃10亿参数具身智能模型FabriVLA，凭门控自注意力与深浅视觉特征融合，在Meta-World MT50多任务操作基准上以90.0%平均成功率超越π0等更大模型，登顶榜单。",
+      "summary": "优艾智合发垣10亿参数具身智能模型FabriVLA，凭门控自注意力与深浅视觉特征融合，在Meta-World MT50多任务操作基准上以90.0%平均成功率超越π0等更大模型，登顶榜单。",
       "publishedAt": "2026-07-23T14:36:08+08:00",
       "source": "量子位",
       "url": "https://www.qbitai.com/2026/07/457537.html",
@@ -529,7 +556,7 @@
     },
     {
       "title": "芯片卖了56万片之后，阿里平头哥把最值钱的东西开源了",
-      "summary": "阿里平头哥在WAIC2026宣布开源自研AI软件栈T-Head SAIL，覆盖驱动到开发工具五层技术，兼容超260种主流AI框架，此前旗下含光AI芯片已向400余家客户出趆56万片。",
+      "summary": "阿里平头哥在WAIC2026宣布开源自研AI软件栈T-Head SAIL，覆盖驱动到开发工具五层技术，兼容超260种主流AI框架，此前旗下含光AI芯片已向400余家客户出趜56万片。",
       "publishedAt": "2026-07-23T10:09:00+08:00",
       "source": "量子位",
       "url": "https://www.qbitai.com/2026/07/457405.html",
@@ -537,7 +564,7 @@
       "id": "ai-20260723-216"
     },
     {
-      "title": "科大讯飞发布星火Token Factory，打造企业级AI模型智能路由与治理新底座",
+      "title": "科大讯飞发布星火 Token Factory，打造企业级AI模型智能路由与治理新底座",
       "summary": "科大讯飞推出星火Token Factory中间件平台，提供智能路由、推理加速、安全治理与成本归因四大能力，推理效率较开源框架提升约5倍，时延降低30%-40%，助力企业规模化部署大模型。",
       "publishedAt": "2026-07-23T09:55:14+08:00",
       "source": "量子位",
@@ -547,7 +574,7 @@
     },
     {
       "title": "POCKET: a 35-billion-parameter model that runs on your iPhone",
-      "summary": "开发者团队发布346.6亿参数稀疏MoE模型POCKET，每token激活约30亿参数，可在iPhone及无GPU电脑运行，CPU推理速度比同类密集模型快2.7倍，以Apache-2.0协议开源。",
+      "summary": "开发者团队发布346.6亿参数稀疏MoE模型POCKET，每 token激活约30亿参数，可在iPhone及无GPU电脑运行，CPU推理速度比同类密集模型快2.7倍，以Apache-2.0协议开源。",
       "publishedAt": "2026-07-23",
       "source": "Hugging Face Blog",
       "url": "https://huggingface.co/blog/FINAL-Bench/pocket",
@@ -574,7 +601,7 @@
     },
     {
       "title": "Generalizable VLA Finetuning via Representation Anchoring and Language-Action Alignment",
-      "summary": "论文提出Anchor-Align方法，通过视觉语言锚定与语言-动作对齐缓解VLA模型微调导致的表征退化，真实机器人任务成功率从28%提升到54%、37%提升到60%。",
+      "summary": "论文提出Anchor-Align方法，通过视觉语言锤定与语言-动作对齐缓解VLA模型微调导致的表征退化，真实机器人任务成功率从28%提升到54%、37%提升到60%。",
       "publishedAt": "2026-07-23",
       "source": "Hugging Face Daily Papers",
       "url": "https://huggingface.co/papers/2607.13429",
@@ -637,7 +664,7 @@
     },
     {
       "title": "iQIYI launches China's first licensed AIGC online story film",
-      "summary": "爱奇艺上线时长超60分钟的AIGC网络电影《奇谛：纸刃渡荒墟》，为国内首部获得网络电影发行许可证并上线的AIGC作品，甠20余人团队借助AI完成概念设计、视觉资产生成及后期制作，系奇谛三部曲首部。",
+      "summary": "爱奇艺上线时长超60分钟的AIGC网络电影《奇谥：纸刃渡荒墟》，为国内首部获得网络电影发行许可证并上线的AIGC作品，疺20余人团队借助AI完成概念设计、视觉资产生成及后期制作，系奇谥三部曲首部。",
       "publishedAt": "2026-07-23",
       "source": "TechNode",
       "url": "https://technode.com/2026/07/23/iqiyi-launches-chinas-first-licensed-aigc-online-story-film/",
@@ -673,8 +700,8 @@
     },
     {
       "id": "ai-20260724-010",
-      "title": "NTT DATA部署OpenAI Codex，故障分析时间从3天缩短至30分钟",
-      "summary": "日本IT服务商NTT DATA在与OpenAI合作基础上将Codex Agent部署至约9000名员工，涵盖技术与非技术岗位，用于故障分析、数据提取、报告生成等任务。此前需5名资深工程师耗时3天完成的故障分析，现可在30分钟内完成，公司还设立内部卓越中心制定数据使用与权限管理安全准则。",
+      "title": "NTT DATA部署OpenAI Codex，故障分析时间从3天缩短到30分钟",
+      "summary": "日本IT服务商NTT DATA在与OpenAI合作基础上将Codex Agent部署至约9000名员工，涵盖技术与非技术岗位，用于故障分析、数据提取、报告生成等任务。此前需 5名资深工程师耗时3天完成的故障分析，现可在30分钟内完成，公司还设立内部卓越中心制定数据使用与权限管理安全准则。",
       "publishedAt": "2026-07-23",
       "source": "AIBase",
       "url": "https://news.aibase.com/news/29832",
