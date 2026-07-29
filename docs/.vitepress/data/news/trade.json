@@ -3,16 +3,124 @@
   "slug": "trade",
   "title": "外贸资讯",
   "description": "亚马逊、TikTok Shop、阿里国际站、Shopify 等平台政策与跨境电商市场、独立站、物流支付、关税法规、选品趋势。",
-  "updatedAt": "2026-07-29T09:15:00+08:00",
+  "updatedAt": "2026-07-29T20:45:00+08:00",
   "items": [
     {
-      "id": "trade-20260729-001",
-      "title": "商务部：人工智能相关产品成为中国外贸\"新名片\"",
-      "summary": "商务部外贸司副司长贺少军在国新办发布会上表示，据海关统计，今年上半年我国工业机器人、3D打印机等人工智能相关产品出口分别同比增长18.6%、109.3%，成为中国外贸新的增长点。",
-      "publishedAt": "2026-07-28",
-      "source": "中国新闻网",
-      "url": "https://www.chinanews.com.cn/cj/2026/07-28/10667904.shtml",
-      "subCategory": "海关数据"
+      "title": "BPJPH警告2026年10月强制执行清真认证",
+      "summary": "印尼清真产品保证机构负责人警告，2026年10月起清真认证进入强制执行阶段，涉及食品、化妆品、药品及含动物源成分日化产品的卖家须尽快完成BPJPH认证，逾期企业将面临下架、罚没及品牌信任受损风险，清真产业已占印尼GDP约27%。",
+      "publishedAt": "2026-07-29T17:34:00+08:00",
+      "source": "出海网",
+      "url": "https://www.chwang.com/news/208239929045",
+      "subCategory": "关税法规",
+      "id": "trade-20260729-711"
+    },
+    {
+      "title": "泰国内阁再延7%增值税至2027年9月30日",
+      "summary": "泰国内阁决定将现行7%增值税优惠税率延长一年，自2026年10月1日起接续实施至2027年9月30日，避免税率回归法定10%标准，涵盖商品、服务及进口货品，跨境电商卖家无需就此调整含税定价及清关计税方式。",
+      "publishedAt": "2026-07-29T17:32:00+08:00",
+      "source": "出海网",
+      "url": "https://www.chwang.com/news/208239890503",
+      "subCategory": "关税法规",
+      "id": "trade-20260729-710"
+    },
+    {
+      "title": "Shopee印尼7月31日关停主APP\"我的商店\"，卖家运营全面迁移独立卖家中心APP",
+      "summary": "Shopee印尼宣布自7月31日起关闭主应用内的我的商店入口，商家须将商品上架、订单发货、绩效查询等运营操作全部迁移至独立的Shopee卖家中心应用，平台建议商家提前更新应用版本以避免大促期间订单处理中断。",
+      "publishedAt": "2026-07-29T17:28:00+08:00",
+      "source": "出海网",
+      "url": "https://www.chwang.com/news/208239789080",
+      "subCategory": "平台动态",
+      "id": "trade-20260729-713"
+    },
+    {
+      "title": "海关高新货查验模式全国铺开：真空包装件改目的地无尘查，口岸3天缩至当日办结",
+      "summary": "中国海关总署将真空包装等高新技术货物布控查验模式从长三角试点扩大至全国海陆空铁全运输方式，允许AI芯片、生物医药等敏感货物在企业自有无尘车间查验，口岸作业时间由3-4天压缩至当日办结，目前已惠及551家高新企业。",
+      "publishedAt": "2026-07-29T17:09:00+08:00",
+      "source": "出海网",
+      "url": "https://www.chwang.com/news/208239294358",
+      "subCategory": "海关数据",
+      "id": "trade-20260729-712"
+    },
+    {
+      "title": "Shopee巴西站8月1日起实施联盟佣金开票新规",
+      "summary": "Shopee巴西站宣布自8月1日起，企业身份的联盟达人须为每笔佣金分别开具以卖家CNPJ为抬头的电子服务发票，替代此前统一提供的收入证明，卖家每月将收到多张合规发票，佣金结算与付款时间不受影响。",
+      "publishedAt": "2026-07-29T09:17:00+08:00",
+      "source": "AMZ123跨境导航",
+      "url": "https://www.amz123.com/kx/FYwoJn0u",
+      "subCategory": "平台政策",
+      "id": "trade-20260729-700"
+    },
+    {
+      "title": "美国海关强化进口商监管，036账号大幅缩减，共享Bond面临集中失效",
+      "summary": "美国CBP持续收紧进口商监管，担保公司036的清关账号从1500个降至800个以下，054公司年度新批账号不足20个，多个共享或空壳Bond被强制注销，美国政府新规要求连续担保只能由美国公民或绿卡持有者持有。",
+      "publishedAt": "2026-07-29T09:07:00+08:00",
+      "source": "AMZ123跨境导航",
+      "url": "https://www.amz123.com/kx/25ndko49",
+      "subCategory": "关税法规",
+      "id": "trade-20260729-701"
+    },
+    {
+      "title": "吉大港4倍集装箱堆存费暂缓执行，行业压力得到阶段性缓解",
+      "summary": "孟加拉国吉大港港务局原计划将集装箱超期堆存费最高上调至现行标准4倍，在航运、进出口及物流企业反对后宣布暂缓调整，继续执行现行收费标准，业内提示清关及集疏运效率问题仍可能促使费用政策重启。",
+      "publishedAt": "2026-07-29T09:07:00+08:00",
+      "source": "AMZ123跨境导航",
+      "url": "https://www.amz123.com/kx/T7Wd0Krv",
+      "subCategory": "物流仓储",
+      "id": "trade-20260729-702"
+    },
+    {
+      "title": "TikTok Shop日本站首年用户规模增长30倍，直播贡献六成GMV",
+      "summary": "TikTok Shop日本站自2025年6月上线至2026年6月，用户规模增长超30倍，直播贡献约六成GMV，短视频与直播内容场景合计占七成以上销售额，Crocs Japan、Gap Japan等头部商家直播销售增幅显著，平台同步启动中小企业本地化扶持计划。",
+      "publishedAt": "2026-07-29T06:36:00+08:00",
+      "source": "AMZ123跨境导航",
+      "url": "https://www.amz123.com/kx/xhTsBrfC",
+      "subCategory": "平台动态",
+      "id": "trade-20260729-703"
+    },
+    {
+      "title": "巴西上半年电商销售额达2084亿雷亚尔，同比增长16.9%",
+      "summary": "巴西电商市场2026年上半年销售额达2084亿雷亚尔，同比增长16.9%，订单量增长34.8%，但客单价下降13.3%，呈现高频次低件数消费特征，鞋类退货率最高，健康品类中减肥针销售额同比增长213%，全年规模预计4625亿雷亚尔。",
+      "publishedAt": "2026-07-29T06:26:00+08:00",
+      "source": "AMZ123跨境导航",
+      "url": "https://www.amz123.com/kx/1cGMsRXi",
+      "subCategory": "新兴市场",
+      "id": "trade-20260729-714"
+    },
+    {
+      "title": "俄罗斯将于9月1日起强制推行通用二维码支付",
+      "summary": "俄罗斯国家支付卡系统宣布，9月1日起所有支持二维码和NFC支付的银行须接入统一二维码体系，收银终端整合为单一入口，用户可选择快速支付系统、银行直付或数字卢布，相关基础设施已覆盖超200家银行和480万零售网点。",
+      "publishedAt": "2026-07-29T03:24:00+08:00",
+      "source": "AMZ123跨境导航",
+      "url": "https://www.amz123.com/kx/hYPwsuDT",
+      "subCategory": "跨境支付",
+      "id": "trade-20260729-704"
+    },
+    {
+      "title": "速卖通Z世代品牌吸引力增速位居美国第一",
+      "summary": "据Ad Age与Harris Poll联合发布的2026年Q2美国Z世代品牌追踪榜，速卖通品牌综合评分环比提升17.2分至52.5，增速居榜首，超过多个知名消费品牌，增长主要得益于2025年9月推出的Brand+品牌出海计划及海外仓次日达服务。",
+      "publishedAt": "2026-07-29T02:12:00+08:00",
+      "source": "AMZ123跨境导航",
+      "url": "https://www.amz123.com/kx/Gb0vHk1x",
+      "subCategory": "选品趋势",
+      "id": "trade-20260729-705"
+    },
+    {
+      "title": "印尼对TikTok Shop与Tokopedia合并案调查进入最后阶段",
+      "summary": "印尼商业竞争监管委员会对TikTok Shop与Tokopedia合并涉嫌垄断的调查已接近完成，案件源于印尼电商物流协会今年4月投诉两平台通过流量、支付、物流闭环实施自我优待和低价倾销，调查完成后材料将提交委员会正式审理。",
+      "publishedAt": "2026-07-29T01:52:00+08:00",
+      "source": "AMZ123跨境导航",
+      "url": "https://www.amz123.com/kx/HTaL03f5",
+      "subCategory": "新兴市场",
+      "id": "trade-20260729-708"
+    },
+    {
+      "title": "阿里国际站Accio Work上线\"商机雷达\"功能",
+      "summary": "阿里国际站生态工具Accio Work新增商机雷达功能，卖家可用自然语言指令筛选特定时间窗口内的采购询盘商机，系统自动分析主营产品并生成匹配关键词，支持定时监测和消息推送，未来计划整合TikTok、LinkedIn等平台商机资源。",
+      "publishedAt": "2026-07-29T01:31:00+08:00",
+      "source": "AMZ123跨境导航",
+      "url": "https://www.amz123.com/kx/Ad2XWwCq",
+      "subCategory": "平台动态",
+      "id": "trade-20260729-709"
     },
     {
       "id": "trade-20260729-002",
@@ -24,40 +132,31 @@
       "subCategory": "关税法规"
     },
     {
-      "title": "台风红霞25日夜袍珠漳一线，盐田蛇口大铲湶25日零时起暂停交提柜",
-      "summary": "台风\"红霞\"于7月25日夜间登陆珠海至漳浦一带，盐田港、蛇口系列码头自25日零时起暂停交还柜作业，大铲湾自当日8时起暂停，华南及福建航线船期普遍延误，预计影响物流3至5天。",
-      "publishedAt": "2026-07-27",
+      "title": "ABOUT YOU在波兰上线第三方卖家业务，扩展Marketplace布局",
+      "summary": "Zalando旗下时尚电商平台ABOUT YOU在波兰正式开放第三方卖家入驻模式，已吸引约600个品牌、近10万件商品上线，商家可通过直传、Shopify、BaseLinker或API对接，覆盖欧洲26国逾1300万活跃用户，同时保留自主履约选项。",
+      "publishedAt": "2026-07-28T06:25:00+08:00",
       "source": "AMZ123跨境导航",
-      "url": "https://www.amz123.com/kx/IQwmEouX",
-      "subCategory": "物流仓储",
-      "id": "trade-20260728-008"
+      "url": "https://www.amz123.com/kx/UdEaDkN4",
+      "subCategory": "独立站",
+      "id": "trade-20260728-707"
     },
     {
-      "title": "马士基调整中东航线安排，经霍尔木兹每箱新堀1000美元附加费",
-      "summary": "马士基发布第40期中东航线运营更新，维持前往海湾部分港口的陆运收缩安排，新增经霍尔木兹海峡每箱一千美元附加费；公司说明目前尚无船舶实际通行该海峡，费用仅作应急预留项。",
-      "publishedAt": "2026-07-27",
-      "source": "AMZ123跨境导航",
-      "url": "https://www.amz123.com/kx/ZYkiLgtn",
-      "subCategory": "物流仓储",
-      "id": "trade-20260728-009"
+      "title": "eBay发布SpeedPAK关于美国进口关税政策调整的服务安排通知",
+      "summary": "SpeedPAK就美国CBP新一轮301关税公告发布服务说明，全球10%临时关税已于7月24日到期，新的301强迫劳动附加关税对中国大陆及香港原产商品加征12.5%长期从价税，大陆始发账户将冻结申报货值30%作为关税保证金，香港始发账户冻结15%。",
+      "publishedAt": "2026-07-28T01:30:00+08:00",
+      "source": "AMZ123跨境导航（eBay SpeedPAK公告）",
+      "url": "https://www.amz123.com/kx/RAYGU1Hq",
+      "subCategory": "关税法规",
+      "id": "trade-20260728-706"
     },
     {
-      "title": "亚马逊ShipTrack扩展至墨西哥站和印度站，Amazon SEND完成领星企淨ERP对接",
-      "summary": "亚马逊物流追踪系统ShipTrack已扩展至墨西哥站（6月12日）和印度站（7月10日），此前4月已上线澳大利亚站，可实现发货、清关、入库等环节实时追踪；同期Amazon SEND完成与领星企淨ERP系统对接。",
-      "publishedAt": "2026-07-27",
-      "source": "AMZ123跨境导航",
-      "url": "https://www.amz123.com/kx/ILQAv9Kb",
-      "subCategory": "平台动态",
-      "id": "trade-20260728-013"
-    },
-    {
-      "title": "Etsy率先接入英国皇家邮政新服务，欧盟订单支持预缴关税",
-      "summary": "Etsy成为首个接入英国皇家邮政PDDP服务的电商平台，卖家购买运单时可提前计算并缴纳关税，覆盖17个欧盟目的地国家，标准手续费每包裹1英镑（爱尔傊0.5英镑），减少买家到货时被追加征税的情况。",
-      "publishedAt": "2026-07-27",
-      "source": "AMZ123跨境导航",
-      "url": "https://www.amz123.com/kx/qhseXNFp",
-      "subCategory": "物流仓储",
-      "id": "trade-20260728-015"
+      "id": "trade-20260729-001",
+      "title": "商务部：人工智能相关产品成为中国外贸\"新名片\"",
+      "summary": "商务部外贸司副司长贺少军在国新办发布会上表示，据海关统计，今年上半年我国工业机器人、3D打印机等人工智能相关产品出口分别同比增长18.6%、109.3%，成为中国外贸新的增长点。",
+      "publishedAt": "2026-07-28",
+      "source": "中国新闻网",
+      "url": "https://www.chinanews.com.cn/cj/2026/07-28/10667904.shtml",
+      "subCategory": "海关数据"
     },
     {
       "id": "trade-20260727-207",
@@ -213,13 +312,40 @@
       "id": "trade-20260728-001"
     },
     {
-      "title": "TikTok Tests Prime-Style Shopping Membership Service",
-      "summary": "TikTok正测试名为TikTok Shop Plus的会员订阅服务，月费6至15美元，为会员提供包邮、折扣和优惠券，被视为对标亚马逊Prime、争夺电商转化环节的举措。",
-      "publishedAt": "2026-07-26",
-      "source": "PYMNTS",
-      "url": "https://www.pymnts.com/commerce/ecommerce/2026/tiktok-tests-prime-style-shopping-membership-service/",
+      "title": "台风红霞25日夜袍珠漳一线，盐田蛇口大铲湶25日零时起暂停交提柜",
+      "summary": "台风\"红霞\"于7月25日夜间登陆珠海至漳浦一带，盐田港、蛇口系列码头自25日零时起暂停交还柜作业，大铲湾自当日8时起暂停，华南及福建航线船期普遍延误，预计影响物流3至5天。",
+      "publishedAt": "2026-07-27",
+      "source": "AMZ123跨境导航",
+      "url": "https://www.amz123.com/kx/IQwmEouX",
+      "subCategory": "物流仓储",
+      "id": "trade-20260728-008"
+    },
+    {
+      "title": "马士基调整中东航线安排，经霍尔木兹每箱新堀1000美元附加费",
+      "summary": "马士基发布第40期中东航线运营更新，维持前往海湾部分港口的陆运收缩安排，新增经霍尔木兹海峡每箱一千美元附加费；公司说明目前尚无船舶实际通行该海峡，费用仅作应急预留项。",
+      "publishedAt": "2026-07-27",
+      "source": "AMZ123跨境导航",
+      "url": "https://www.amz123.com/kx/ZYkiLgtn",
+      "subCategory": "物流仓储",
+      "id": "trade-20260728-009"
+    },
+    {
+      "title": "亚马逊ShipTrack扩展至墨西哥站和印度站，Amazon SEND完成领星企淨ERP对接",
+      "summary": "亚马逊物流追踪系统ShipTrack已扩展至墨西哥站（6月12日）和印度站（7月10日），此前4月已上线澳大利亚站，可实现发货、清关、入库等环节实时追踪；同期Amazon SEND完成与领星企淨ERP系统对接。",
+      "publishedAt": "2026-07-27",
+      "source": "AMZ123跨境导航",
+      "url": "https://www.amz123.com/kx/ILQAv9Kb",
       "subCategory": "平台动态",
-      "id": "trade-20260727-201"
+      "id": "trade-20260728-013"
+    },
+    {
+      "title": "Etsy率先接入英国皇家邮政新服务，欧盟订单支持预缴关税",
+      "summary": "Etsy成为首个接入英国皇家邮政PDDP服务的电商平台，卖家购买运单时可提前计算并缴纳关税，覆盖17个欧盟目的地国家，标准手续费每包裹1英镑（爱尔傊0.5英镑），减少买家到货时被追加征税的情况。",
+      "publishedAt": "2026-07-27",
+      "source": "AMZ123跨境导航",
+      "url": "https://www.amz123.com/kx/qhseXNFp",
+      "subCategory": "物流仓储",
+      "id": "trade-20260728-015"
     },
     {
       "title": "美客多加码全托管流量赋能：推出50%专属大额券补贴及多项引流利好政策",
@@ -256,6 +382,15 @@
       "url": "https://fjnews.fjsen.com/2026-07/26/content_32225121.htm",
       "subCategory": "新兴市场",
       "id": "trade-20260727-205"
+    },
+    {
+      "title": "TikTok Tests Prime-Style Shopping Membership Service",
+      "summary": "TikTok正测试名为TikTok Shop Plus的会员订阅服务，月费6至15美元，为会员提供包邮、折扣和优惠券，被视为对标亚马逊Prime、争夺电商转化环节的举措。",
+      "publishedAt": "2026-07-26",
+      "source": "PYMNTS",
+      "url": "https://www.pymnts.com/commerce/ecommerce/2026/tiktok-tests-prime-style-shopping-membership-service/",
+      "subCategory": "平台动态",
+      "id": "trade-20260727-201"
     },
     {
       "id": "trade-20260725-009",
@@ -589,141 +724,6 @@
       "url": "https://www.chwang.com/news/208021648387",
       "subCategory": "关税法规",
       "id": "trade-20260723-304"
-    },
-    {
-      "id": "trade-20260724-107",
-      "title": "亚马逊跟卖入口或将取消？",
-      "summary": "亚马逊被发现在部分商品详情页购物车下方不再展示\"Other Sellers on Amazon\"跟卖入口，疑似正进行A/B测试，此举更强调Buy Box竞争，可能削弱主打低价跟卖卖家的曝光。",
-      "publishedAt": "2026-07-23T13:37:33+08:00",
-      "source": "出海网",
-      "url": "https://www.chwang.com/news/208016539538",
-      "subCategory": "平台动态"
-    },
-    {
-      "id": "trade-20260724-106",
-      "title": "Yandex Market更新卖家协议：无人机袖击损货平台不赔，WB则启动8.8万卖家赔付",
-      "summary": "Yandex Market修订卖家协议，将无人机袖击等军事打击列为不可抗力，平台不再赔偿受损货物；Wildberries则相反，宣布对仓库遇袖受损的逸呕万8.8万小卖家启动赔付并协商支持措施。",
-      "publishedAt": "2026-07-23T11:55:26+08:00",
-      "source": "出海网",
-      "url": "https://www.chwang.com/news/208013969448",
-      "subCategory": "平台政策"
-    },
-    {
-      "title": "成本不到8美元、售价超22美元，中国卖家正在TikTok Shop氛围灯上拿下442亿美元市场",
-      "summary": "中国卖家凭借成熟 LED生产与柔性供应链，在TikTok Shop氛围灯品类中以不到美元成本卖出超22美元售价，星空投影灯等产品部分单品月销破万件，欧美消费者需求旺盛。",
-      "publishedAt": "2026-07-23T10:36:00+08:00",
-      "source": "雨果网",
-      "url": "https://www.cifnews.com/article/187687",
-      "subCategory": "选品趋势",
-      "id": "trade-20260723-211"
-    },
-    {
-      "id": "trade-20260724-004",
-      "title": "星商创新12.9亿元收购浙江美大控制权，跨境电商大卖谋求A股上市",
-      "summary": "跨境电商企业星商创新旗下深圳星蓝图以约12.9亿元受让浙江美大29.99%股权成为其控股股东；浙江美大预计2025年营收同比降48%，星商创新同期营收约141.7亿元，交易被视为跨境电商大卖借壳寻求A股上市的信号。",
-      "publishedAt": "2026-07-23T09:50:00+08:00",
-      "source": "AMZ123跨境导航",
-      "url": "https://www.amz123.com/kx/PsMsyHVX",
-      "subCategory": "平台动态"
-    },
-    {
-      "id": "trade-20260724-005",
-      "title": "报告称TikTok预计2025年为英国贡献百亿英镑经济增加值",
-      "summary": "Public First与安永联合报告显示，TikTok预计2025年为英国经济贡献至少100亿英镑增加值，支持约15.3万个工作岗位；TikTok Shop已吸引超30万中小卖家入驻，91%商家反馈营收增长，平台直播购物同比增长55%。",
-      "publishedAt": "2026-07-23T09:50:00+08:00",
-      "source": "AMZ123跨境导航",
-      "url": "https://www.amz123.com/kx/i8Cf9KgN",
-      "subCategory": "平台动态"
-    },
-    {
-      "title": "亚马逊新规范：涉及产品图里有AI人物画像需加标签",
-      "summary": "亚马逊要求卖家为含AI生成逼真人物的商品图片添加IPTC元数据标签，以便向消费者展示相应提示，真人拍摄图片或非写实形象不适用该新规。",
-      "publishedAt": "2026-07-23T09:14:00+08:00",
-      "source": "雨果网",
-      "url": "https://www.cifnews.com/article/187684",
-      "subCategory": "平台政策",
-      "id": "trade-20260723-212"
-    },
-    {
-      "id": "trade-20260724-001",
-      "title": "中国银行厦门分行完成全国首笔中马双边数字人民币跨境汇出结算",
-      "summary": "中国银行厦门分行与马来西亚纳闽分行协同完成全国首笔中马双边数字人民币跨境汇出结算，涉及4.3万元人民币榜莲进口货款支付，标志中马数字人民币双向交易能力全面打通；工商银行同期参与的多边央行数字货币桥（mBridge）交易额已超1130亿元人民币。",
-      "publishedAt": "2026-07-23T06:53:00+08:00",
-      "source": "证券时报",
-      "url": "https://www.stcn.com/article/detail/4036086.html",
-      "subCategory": "跨境支付"
-    },
-    {
-      "title": "巴拿马运河因极强厄尔尼诺调降吃水限航及附加费调整",
-      "summary": "巴拿马运河管理局因预判下半年出现极强厄尔尼诺现象，7月24日起将新巴拿马型船舶最大吃水从49.5英尺降至49英尺，多家船公司同步上调亚洲至美国航线附加费。",
-      "publishedAt": "2026-07-23T06:36:00+08:00",
-      "source": "AMZ123跨境导航",
-      "url": "https://www.amz123.com/kx/XZo10OoC",
-      "subCategory": "物流仓储",
-      "id": "trade-20260723-203"
-    },
-    {
-      "title": "eBay国际配送服务扩展至英国，8月正式上线",
-      "summary": "eBay宣布将eBay国际配送服务从北美市场扩展至英国，8月起替代原有全球配送计划，卖家发货至英国中转仓后由平台统一处理清关、税费与国际运输及退换货服务。",
-      "publishedAt": "2026-07-23T06:35:00+08:00",
-      "source": "AMZ123跨境导航",
-      "url": "https://www.amz123.com/kx/voqRelZf",
-      "subCategory": "物流仓储",
-      "id": "trade-20260723-202"
-    },
-    {
-      "title": "亚马逊宣称2025年均价较竞争对手低14%，节省用户500亿美元",
-      "summary": "亚马逊称其自营商品2025年均价较其他主要零售商低14%，为用户节省超500亿美元，但数据未经第三方审计，且超六成商品由第三方卖家自主定价，广告收入同期大幅增长。",
-      "publishedAt": "2026-07-23T06:25:00+08:00",
-      "source": "AMZ123跨境导航",
-      "url": "https://www.amz123.com/kx/MNTUAI6C",
-      "subCategory": "平台动态",
-      "id": "trade-20260723-204"
-    },
-    {
-      "title": "孟加拉电商渗透率仅3%，市场规模预计2029年突破124.4亿美元",
-      "summary": "孟加拉国电商渗透率目前仅为3%，低于全球平均水平，但市场规模预计将从2024年75亿美元增至2029年124.4亿美元，Daraz等平台正加码信任体系与全境配送建设。",
-      "publishedAt": "2026-07-23T03:30:00+08:00",
-      "source": "AMZ123跨境导航",
-      "url": "https://www.amz123.com/kx/j0mqaVzM",
-      "subCategory": "新兴市场",
-      "id": "trade-20260723-208"
-    },
-    {
-      "title": "亚马逊北美站收紧锂电池小家电合规要求",
-      "summary": "亚马逊向北美站锂电池小家电卖家发出合规警告，要求30天内提供最低100万美元商业责任险及第三方TIC机构出具的检测报告，新规已于6月30日生效，8月30日为整改截止日。",
-      "publishedAt": "2026-07-23T03:20:00+08:00",
-      "source": "AMZ123跨境导航",
-      "url": "https://www.amz123.com/kx/ZTxldODD",
-      "subCategory": "平台政策",
-      "id": "trade-20260723-209"
-    },
-    {
-      "title": "胡塞武装宣布禁运沙特港口船舶，红海航运风险进一步上升",
-      "summary": "也门胡塞武装宣布对沙特实施港口船舶禁运，并称已用导弹和无人机袖击两舶沙特油轮致其起火，约十舶船只被迫改道，红海航线风险进一步上升。",
-      "publishedAt": "2026-07-23T02:09:00+08:00",
-      "source": "AMZ123跨境导航",
-      "url": "https://www.amz123.com/kx/rrfUA1tx",
-      "subCategory": "物流仓储",
-      "id": "trade-20260723-207"
-    },
-    {
-      "title": "SHEIN发布秋冬厨电招品清单，煮蛋器空气炸锅咖啡机成重点布局品类",
-      "summary": "SHEIN针对欧洲秋冬家居需求发布厨房小家电招商清单，重点招募煮蛋器、电热饭盒、空气炸锅等代发模式产品，半托管模式则聚焦咖啡机、厨师机等大件厨电。",
-      "publishedAt": "2026-07-23T01:59:00+08:00",
-      "source": "AMZ123跨境导航",
-      "url": "https://www.amz123.com/kx/9qAVxq7s",
-      "subCategory": "选品趋势",
-      "id": "trade-20260723-206"
-    },
-    {
-      "title": "美贸易欺诈工作组成立不足10个月，追罚金额超70亿元",
-      "summary": "美国司法部与国土安全部称，成立不足10个月的贸易欺诈工作组已通过刑事诉讼、民事三倍罚款及货物扣押追回超70亿元罚金，涉及原产地造假、转口贸易逸刘18类违规行为。",
-      "publishedAt": "2026-07-23T01:58:00+08:00",
-      "source": "AMZ123跨境导航",
-      "url": "https://www.amz123.com/kx/wXjTLIIi",
-      "subCategory": "关税法规",
-      "id": "trade-20260723-210"
     }
   ]
 }
