@@ -1,1 +1,729 @@
-__FINANCE__
+{
+  "$schema": "./schema.json",
+  "slug": "finance",
+  "title": "投资与财经",
+  "description": "宏观经济、A 股 / 港股 / 美股、一级市场融资、行业研报观点。",
+  "updatedAt": "2026-07-29T09:15:00+08:00",
+  "items": [
+    {
+      "title": "NXP Semiconductors Reports Second Quarter 2026 Results",
+      "summary": "NXP恩智浦公布2026年第二季度财报，营收35亿美元同比增长19%，非GAAP每股收益3.61美元均超市场预期，公司预计三季度营收36.5亿至38.5亿美元。",
+      "publishedAt": "2026-07-29T04:31:37+08:00",
+      "source": "GlobeNewswire",
+      "url": "https://www.manilatimes.net/2026/07/29/tmt-newswire/globenewswire/nxp-semiconductors-reports-second-quarter-2026-results/2393515",
+      "subCategory": "公司财报",
+      "id": "finance-20260729-502"
+    },
+    {
+      "title": "Seagate Technology Reports Fiscal Fourth Quarter and Fiscal Year 2026 Financial Results",
+      "summary": "希捷科技公布2026财年第四季度财报，营收36亿美元，非GAAP每股收益5.71美元，全年营收122亿美元同比增长34%，自由现金流达31亿美元创纪录，管理层称业绩超出预期。",
+      "publishedAt": "2026-07-28",
+      "source": "Seagate Investor Relations",
+      "url": "https://investors.seagate.com/news/news-details/2026/Seagate-Technology-Reports-Fiscal-Fourth-Quarter-and-Fiscal-Year-2026-Financial-Results/default.aspx",
+      "subCategory": "公司财报",
+      "id": "finance-20260729-503"
+    },
+    {
+      "title": "Claros Technologies Raises $55 Million Series B Financing to Accelerate Global Commercialization of PFAS Destruction Technology",
+      "summary": "美国PFAS污染物处理企业Claros Technologies完成5500万美元B轮融资，由Treehouse Family Capital领投，大金美国、Veralto等参投，资金将用于加速PFAS破坏技术全球商业化及扩大实验室业务。",
+      "publishedAt": "2026-07-28",
+      "source": "PR Newswire",
+      "url": "https://www.prnewswire.com/news-releases/claros-technologies-raises-55-million-series-b-financing-to-accelerate-global-commercialization-of-pfas-destruction-technology-302835890.html",
+      "subCategory": "一级市场",
+      "id": "finance-20260729-504"
+    },
+    {
+      "id": "finance-20260729-001",
+      "title": "Meta宣布与贝莱德达成战略合作，将在埃尔帕索开发数据中心",
+      "summary": "Meta与贝莱德成立合资公司在得州埃尔帕索开发数据中心，贝莱德旗下基金持股80%、Meta持股20%，双方合计投资约140亿美元用于建设及配套电力、制冷与连接基础设施；Meta将以初始4年期、含4次续约选项的方式租赁整个数据中心园区，租期最长可达20年。",
+      "publishedAt": "2026-07-28T18:01:00+08:00",
+      "source": "36氪",
+      "url": "https://36kr.com/newsflashes/3915125531333760",
+      "subCategory": "美股"
+    },
+    {
+      "title": "央行：二季度末金融机构人民币各项贷款余额282.63万亿元",
+      "summary": "中国人民银行发布《2026年二季度金融机构贷款投向统计报告》，二季度末金融机构人民币各项贷款余额282.63万亿元，同比增长5.2%，上半年新增贷款10.72万亿元，房地产贷款余额同比下降4.9%。",
+      "publishedAt": "2026-07-28T17:27:51+08:00",
+      "source": "金融界",
+      "url": "https://finance.jrj.com.cn/2026/07/28172757927954.shtml",
+      "subCategory": "宏观经济",
+      "id": "finance-20260729-501"
+    },
+    {
+      "id": "finance-20260728-102",
+      "title": "全球科技股巨震！“易中天”同日大跌，中际旭创跌15.69%、新易盛跌17.13%",
+      "summary": "7月28日光模块龙头股集体重挖，中际旭创跌15.69%、新易盛跌17.13%、天孚通信跌13.21%，通信ETF触及跌停；市场担忧AI基础设施循环融资风险、美联储政策不确定性及存储芯片厂商与科技巨头即将披露的财报，全市场超2700只个股下跌，成交额2.03万亿元。",
+      "publishedAt": "2026-07-28T15:30:08+08:00",
+      "source": "每日经济新闻",
+      "url": "https://www.nbd.com.cn/articles/2026-07-28/4523878.html",
+      "subCategory": "风险事件"
+    },
+    {
+      "id": "finance-20260728-101",
+      "title": "A股收评：三大指数集体收跌，创业板指跌7.35%，CPO存储芯片概念股重挘",
+      "summary": "7月28日A股收盘，上证指数跌1.16%，深证成指跌4.52%，创业板指跌7.35%，科创50跌6.33%，全市场超2700只个股下跌，成交额2.04万亿元；CPO、存储芯片、通信设备等板块领跌，白酒、教育、银行、餐饮旅游等板块逆势上涨。",
+      "publishedAt": "2026-07-28T15:13:00+08:00",
+      "source": "中国新闻网",
+      "url": "https://www.chinanews.com.cn/cj/2026/07-28/10667875.shtml",
+      "subCategory": "A股"
+    },
+    {
+      "title": "ST恒镶及实际控制人被证监会立案调查",
+      "summary": "据7月28日早间股市信息汇总披露，创业板公司ST恒镶及其实际控制人因涉嫌信息披露违规，已被中国证监会立案调查，具体案由尚未进一步披露。",
+      "publishedAt": "2026-07-28T08:06:00+08:00",
+      "source": "新浪财经",
+      "url": "https://finance.sina.com.cn/stock/cpbd/2026-07-28/doc-inikiewn9407205.shtml",
+      "subCategory": "风险事件",
+      "id": "finance-20260728-014"
+    },
+    {
+      "title": "国际油价大幅跳水",
+      "summary": "7月27日国际原油价格大幅回落，WTI原油期货一度跌8%报约82美元/桶，布伦特原油跌超7.5%，主因中东地缘紧张局势缓和、美伊外交对话仍在继续。",
+      "publishedAt": "2026-07-27T21:07:00+08:00",
+      "source": "新浪财经",
+      "url": "https://finance.sina.com.cn/roll/2026-07-27/doc-inikhcky9818571.shtml",
+      "subCategory": "大宗商品",
+      "id": "finance-20260728-006"
+    },
+    {
+      "id": "finance-20260727-207",
+      "title": "东方证券拟251.2亿元收购上海证券100%股权",
+      "summary": "东方证券公告拟通过发行股份及支付现金相结合的方式收购上海证券100%股权，交易作价251.2亿元，其中股份对价235.5亿元、现金对价15.7亿元，发行价格10.29元/股，共计发行约22.89亿股，占发行后总股本的21.22%。",
+      "publishedAt": "2026-07-27T20:34:00+08:00",
+      "source": "36氪",
+      "url": "https://36kr.com/newsflashes/3913869684381060",
+      "subCategory": "A股"
+    },
+    {
+      "id": "finance-20260727-210",
+      "title": "ST恒信：公司及实控人因信披违规被证监会立案",
+      "summary": "ST恒信公告称，公司及实际控制人孟宪民因涉嫌信息披露违法违规，收到中国证监会立案告知书，公司表示各项生产经营活动均正常开展，该事项不会对公司生产经营产生重大影响。",
+      "publishedAt": "2026-07-27T20:27:00+08:00",
+      "source": "36氪",
+      "url": "https://36kr.com/newsflashes/3913863639799168",
+      "subCategory": "风险事件"
+    },
+    {
+      "title": "Strategy Inc（MSTR）7月27日提交8-K：ATM增发5.445亿美元，比特币持仓84.3775万枚",
+      "summary": "Strategy Inc于7月27日向SEC提交8-K文件，披露一周内经ATM计划减持542.916万股普通股，净筹资5.445亿美元，公司比特币持仓84.3775万枚，期间未增持。",
+      "publishedAt": "2026-07-27",
+      "source": "SEC EDGAR",
+      "url": "https://www.sec.gov/Archives/edgar/data/1050446/000119312526316917/mstr-20260727.htm",
+      "subCategory": "公司财报",
+      "id": "finance-20260728-011"
+    },
+    {
+      "title": "苹果7月27日反超英伟达重夺全球市值最高公司",
+      "summary": "7月27日，苹果股价上涨约1.17%，收于336.91美元，市值达4.95万亿美元，超过英伟达（收盘市值约4.76万亿美元，当日跌近5%），重夺全球市值最高公司地位。",
+      "publishedAt": "2026-07-27",
+      "source": "stockanalysis.com",
+      "url": "https://stockanalysis.com/stocks/AAPL/",
+      "subCategory": "美股",
+      "id": "finance-20260728-012"
+    },
+    {
+      "title": "英伟达等半导体股7月27日集体重挘，SK海力士跌破发行价",
+      "summary": "7月27日英伟达股价收跌4.99%报196.51美元，费城半导体指数跌超2%创5月20日以来新低；同日SK海力士美股ADR收于143.02美元，跌7.47%，首次跌破149美元发行价。",
+      "publishedAt": "2026-07-27",
+      "source": "stockanalysis.com",
+      "url": "https://stockanalysis.com/stocks/NVDA/",
+      "subCategory": "风险事件",
+      "id": "finance-20260728-013"
+    },
+    {
+      "id": "finance-20260727-209",
+      "title": "工业富联：拟10亿元—20亿元回购股份",
+      "summary": "工业富联公告拟通过集中竞价交易方式回购公司股份，回购金额区间为10亿元至20亿元，回购价格上限为每股103元，公司表示此举旨在维护公司价值及股东权益，回购股份将依规转售或注销。",
+      "publishedAt": "2026-07-27T16:41:00+08:00",
+      "source": "36氪",
+      "url": "https://36kr.com/newsflashes/3913641029735560",
+      "subCategory": "公司财报"
+    },
+    {
+      "title": "港股收盘：恒指涨0.98% 科指涨1.57% 科网股、黄金股普涨",
+      "summary": "7月27日港股收盘，恒生指数涨0.98%报25207.18点，恒生科技指数涨1.57%，全日成交额2105亿港元，小米涨超7%，美团涨3%，黄金股受避险情绪提振集体走强。",
+      "publishedAt": "2026-07-27T16:08:00+08:00",
+      "source": "新浪财经",
+      "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-07-27/doc-inikfsve9887858.shtml",
+      "subCategory": "港股",
+      "id": "finance-20260728-004"
+    },
+    {
+      "title": "5亿，天河智能生态基金落地天津",
+      "summary": "总规模5亿元、首期1亿元的天河智能生态基金7月27日在天津落地，由天津城投旗下市政投资公司牵头，联合武清区、海河产业基金及博通资本共同发起，已投资星络智联芯片项目。",
+      "publishedAt": "2026-07-27T15:50:00+08:00",
+      "source": "投资界",
+      "url": "https://news.pedaily.cn/202607/566872.shtml",
+      "subCategory": "一级市场",
+      "id": "finance-20260728-009"
+    },
+    {
+      "title": "智谷天厨获近亿元战略融资，招商局创投领投",
+      "summary": "智能烹饪机器人企业智谷天厨7月27日宣布完成近亿元战略融资，由招商局创投领投，跃迁资本跟投，云启资本、启赋资本等老股东超额追投，公司预计2026年营收增速达300%。",
+      "publishedAt": "2026-07-27T15:26:00+08:00",
+      "source": "投资界",
+      "url": "https://news.pedaily.cn/202607/566865.shtml",
+      "subCategory": "一级市场",
+      "id": "finance-20260728-007"
+    },
+    {
+      "title": "苏州人工智能产业专项母基金拟出资",
+      "summary": "苏州国发资产管理7月27日公示，拟参股设立目标规模10亿元的苏州苏创战新人工智能基金，存续期8年，重点投向人工智能领域前沿技术企业及产业链上下游优质企业。",
+      "publishedAt": "2026-07-27T15:24:00+08:00",
+      "source": "投资界",
+      "url": "https://news.pedaily.cn/202607/566868.shtml",
+      "subCategory": "一级市场",
+      "id": "finance-20260728-008"
+    },
+    {
+      "title": "2026年7月27日（周一）A股收盘全景复盘",
+      "summary": "7月27日A股三大指数集体上涨，上证指数涨1.15%报3858.25点，深成指涨2.72%，创业板指涨3.16%，全市场超九成个股上涨，涨停121家跌停7家。",
+      "publishedAt": "2026-07-27T15:07:00+08:00",
+      "source": "东方财富网",
+      "url": "https://caifuhao.eastmoney.com/news/20260727150740957096280",
+      "subCategory": "A股",
+      "id": "finance-20260728-002"
+    },
+    {
+      "id": "finance-20260727-208",
+      "title": "A股三大指数集体收涨，长鑫科技全天成交超1400亿元刷新纪录",
+      "summary": "长鑫科技科创板上市首日大涨超465%，全天成交额超1400亿元，刷新A股纪录，总市值超越工商银行成为A股市值第一。",
+      "publishedAt": "2026-07-27T15:02:00+08:00",
+      "source": "36氪",
+      "url": "https://36kr.com/newsflashes/3913543572657286",
+      "subCategory": "一级市场"
+    },
+    {
+      "id": "finance-20260728-103",
+      "title": "Shein一季度由盈转亏，净亏捐9900万美元，赴港上市前景蒙阴影",
+      "summary": "Shein公布截至3月的2026年第一季度业绩，由上年同期3.95亿美元盈利转为9900万美元亏损，净收入同比微增1.1%至90.5亿美元；受美国取消小额包裹免税政策拖累，美国地区收入下降14.3%，公司同时面临欧盟新征每票3欧元低值包裹费用及中东局势等多重压力，业绩发布正值其筹备香港上市前夕。",
+      "publishedAt": "2026-07-27T11:00:00+08:00",
+      "source": "South China Morning Post",
+      "url": "https://www.scmp.com/business/banking-finance/article/3361931/fast-fashion-giant-shein-swings-us99m-first-quarter-loss-ahead-hong-kong-listing",
+      "subCategory": "公司财报"
+    },
+    {
+      "title": "国家统计局：上半年全国规模以上工业企业利润增长18.7%",
+      "summary": "国家统计局7月27日公布，今年1至6月全国规模以上工业企业实现利润总颖3.948万亿元，同比增长18.7%，其中6月单月利润同比增长15.1%，营业收入同比增长6.5%。",
+      "publishedAt": "2026-07-27T10:44:00+08:00",
+      "source": "新浪财经",
+      "url": "https://finance.sina.com.cn/jjxw/2026-07-27/doc-inikfhfp0684710.shtml",
+      "subCategory": "宏观经济",
+      "id": "finance-20260728-003"
+    },
+    {
+      "title": "长鑫科技正式登陆科创板！首日市值登顶A股",
+      "summary": "长鑫科技7月27日登陆科创板，开盘涨471.59%，总市值达3.31万亿元，超工商银行成为A股市值最高公司，IPO募资666.07亿元居科创板第一。",
+      "publishedAt": "2026-07-27T09:55:00+08:00",
+      "source": "财联社",
+      "url": "https://www.cls.cn/detail/2437447",
+      "subCategory": "A股",
+      "id": "finance-20260728-001"
+    },
+    {
+      "title": "科创板公司密集披露公告传递信心",
+      "summary": "7月20日至26日一周内，科创板超30家公司披露回购计划，20余家公司发布中报预喜；金山办公拟回购不超5亿元已完成约7500万元，普冔半导体预计上半年净利润约8.25亿元，同比增长超19倍。",
+      "publishedAt": "2026-07-27T09:17:00+08:00",
+      "source": "证券时报",
+      "url": "https://www.stcn.com/article/detail/4042090.html",
+      "subCategory": "公司财报",
+      "id": "finance-20260728-010"
+    },
+    {
+      "title": "2026年7月27日黄金市场交易指南",
+      "summary": "7月27日现货黄金价格上涨，伦敦金一度触及4115.89美元/盎司，突破4100美元关口，日内涨幅超1%，受美伊局势缓和及美元指数走弱等因素影响。",
+      "publishedAt": "2026-07-27T09:10:09+08:00",
+      "source": "金投网",
+      "url": "https://www.cngold.org/c/2026-07-27/c10648192.html",
+      "subCategory": "大宗商品",
+      "id": "finance-20260728-005"
+    },
+    {
+      "title": "美伊突传重磅！国际油价重挫，黄金高开",
+      "summary": "美国宣布暂停对伊朗的军事打击以为外交谈判留出空间，国际油价大幅下挖，WTI原油一度跌破84美元/桶，截至发稿跌4.79%报85.03美元，布伦特跌4.2%报87.83美元；伦敦现货黄金涨0.79%至4084.67美元/盎司，白银同步上涨。",
+      "publishedAt": "2026-07-27T08:32:00+08:00",
+      "source": "上海证券报（搜狐财经转载）",
+      "url": "https://www.sohu.com/a/1055119689_120988576",
+      "subCategory": "大宗商品",
+      "id": "finance-20260727-201"
+    },
+    {
+      "title": "市场“震荡再平衡”，静待月底大事落地，十大券商策略出炉",
+      "summary": "财联社汇总十大券商最新策略观点，多数机构认为A股将进入“震荡再平衡”阶段，需关注月底政治局会议及美股科技巨头财报等事件；机构提及的方向包括有订单支撑的AI硬件、出口链高端制造及大宗商品估值修复板块。",
+      "publishedAt": "2026-07-26T19:54:00+08:00",
+      "source": "财联社",
+      "url": "https://www.cls.cn/detail/2437214",
+      "subCategory": "A股",
+      "id": "finance-20260727-206"
+    },
+    {
+      "title": "美伊暂停互衷，美方连续两晚停止空袭，伊军方称暂停对等打击",
+      "summary": "特朗普下令美军暂停已持续13天的对伊朗空袭，伊朗军方证实同步暂停对等反击，双方进入短暂停火窗口；伊朗与阿曼就需尔穆兹海峡通行安全的谈判据报也取得进展。",
+      "publishedAt": "2026-07-26T19:39:00+08:00",
+      "source": "华尔街见闻",
+      "url": "https://wallstreetcn.com/articles/3777962",
+      "subCategory": "大宗商品",
+      "id": "finance-20260727-202"
+    },
+    {
+      "id": "finance-20260726-101",
+      "title": "SHEIN希音通过港交所上市聊讯，有望成为2026年港股规模最大的跨境电商IPO",
+      "summary": "SHEIN希音国际控股已通过香港联交所上市聊讯，有望成为2026年港股规模最大的跨境电商IPO，公司披頠2025年营收418亿美元，活跃用户约27.3亿，覆盖约160个市场，若顺利上市计划募资数十亿美元，尚待监管批准及市场条件确认。",
+      "publishedAt": "2026-07-26T19:36:27+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/981/785.htm",
+      "subCategory": "一级市场"
+    },
+    {
+      "title": "中信证券：二次原油冲击不改发行业情绪修复趋势",
+      "summary": "中信证券研报指出，当前中东原油冲击属于缓冲耗尽后的二次冲击，与一季度性质不同，美国战略石油储备已降至约3.11亿桶的40年低位，机构持仓已从工业股集中转向科技股，研判 8月市场或现板块轮动修复。",
+      "publishedAt": "2026-07-26T16:50:00+08:00",
+      "source": "中国证券报（金融界转载）",
+      "url": "https://finance.jrj.com.cn/2026/07/26165057905164.shtml",
+      "subCategory": "A股",
+      "id": "finance-20260727-205"
+    },
+    {
+      "id": "finance-20260726-003",
+      "title": "马斯克警告 SpaceX 空头风险",
+      "summary": "特斯拉二季度业绩不佳致股价下跌约14.5%、市值蒸发约2145亿美元；SpaceX上市一个多月后股价跌破发行价，空头仓位升至流通股约32%。马斯克警告称长期维持SpaceX大规模空头仓位的机构生存概率很低，市场同时关注两家公司是否存在合并可能。",
+      "publishedAt": "2026-07-26T16:37:00+08:00",
+      "source": "36氪（转引自央视财经）",
+      "url": "https://www.36kr.com/newsflashes/3912221918107015",
+      "subCategory": "美股"
+    },
+    {
+      "title": "三星电子与博通签署超2000亿美元芯片代工协议",
+      "summary": "三星电子与博通达成为期五年、总值超2000亿美元的芯片代工协议，协议延续至2030年，聚焦2纳米及以下先进制程，涵盖HBM存储与先进封装技术，将为博通下一代AI加速器提供代工与存储支持。",
+      "publishedAt": "2026-07-26T11:51:00+08:00",
+      "source": "腾讯新闻（ZAKER科技）",
+      "url": "https://news.qq.com/rain/a/20260726A05HFE00",
+      "subCategory": "美股",
+      "id": "finance-20260727-203"
+    },
+    {
+      "title": "事关A股，内幕交易刑事司法解释重磅新规7月27日起施行",
+      "summary": "最高人民法院、最高人民检察院联合发布修改内幕交易、泄露内幕信息刑事案件司法解释的决定，自7月27日起施行，为该解释2012年施行以来的首次系统性修改，前移内幕信息形成时点认定并收紧违法性抗辩条件。",
+      "publishedAt": "2026-07-26T10:16:00+08:00",
+      "source": "新浪财经",
+      "url": "https://finance.sina.cn/2026-07-26/detail-inikawyp0595657.d.html",
+      "subCategory": "风险事件",
+      "id": "finance-20260727-204"
+    },
+    {
+      "title": "中基协私募证券基金专业委员会回应“量化砍盘”质疑，解读A股量化交易机制",
+      "summary": "中国证券投资基金业协会私募证券投资基金专业委员会就近期科技股下跌是否与量化交易相关作出说明，指出监测显示头部量化机构近期为净买入，量化策略持仓分散、频繁集中抛售不具经济合理性。",
+      "publishedAt": "2026-07-25T19:17:34+08:00",
+      "source": "第一财经",
+      "url": "https://www.yicai.com/news/103292185.html",
+      "subCategory": "A股",
+      "id": "finance-20260726-001"
+    },
+    {
+      "title": "宁德时代、海康威视等7家公司披露半年度分红方案，合计拟派现120.69亿元",
+      "summary": "7家A股上市公司同日披頠2026年中期分红方案，合计拟派现120.69亿元；其中宁德时代每10股派14.11元（含税），拟派现64.93亿元，海康威视拟派现50.41亿元。",
+      "publishedAt": "2026-07-25T18:26:00+08:00",
+      "source": "新浪财经",
+      "url": "https://finance.sina.cn/2026-07-25/detail-iniizkwy9034636.d.html",
+      "subCategory": "公司财报",
+      "id": "finance-20260726-002"
+    },
+    {
+      "id": "finance-20260725-006",
+      "title": "特斯拉单周大跌18%，马斯克身家一周缩恬8800亿元",
+      "summary": "特斯拉股价当周下跌近18%，为2022年以来最大单周跌幅，此前因财报利润不及预期单日一度重挘逸跌14%；受此及SpaceX持股同步下跌拖累，马斯克身家一周蒸发约8800亿元，其本人在社交媒体自嗲为“前万亿富翁”。",
+      "publishedAt": "2026-07-25T14:57:00+08:00",
+      "source": "新浪财经",
+      "url": "https://finance.sina.com.cn/jjxw/2026-07-25/doc-iniizerf4363034.shtml",
+      "subCategory": "美股"
+    },
+    {
+      "id": "finance-20260726-102",
+      "title": "DA Davidson将英特尔目标价从77美元上调至100美元",
+      "summary": "财联社消息，投行DA Davidson将英特尔目标股价从每股77美元上调至100美元，反映其对该半导体公司估值预期的显著上修。",
+      "publishedAt": "2026-07-25T10:04:14+08:00",
+      "source": "财联社",
+      "url": "https://www.cls.cn/detail/2436906",
+      "subCategory": "美股"
+    },
+    {
+      "id": "finance-20260726-103",
+      "title": "瑞颀将AMD目标价从700美元上调至730美元",
+      "summary": "财联社消息，瑞颀将AMD目标股价从700美元上调至730美元，反映该行对这家半导体公司估值预期的进一步上调。",
+      "publishedAt": "2026-07-25T09:38:38+08:00",
+      "source": "财联社",
+      "url": "https://www.cls.cn/detail/2436903",
+      "subCategory": "美股"
+    },
+    {
+      "id": "finance-20260725-009",
+      "title": "AI实验室Prentis洽谈融资1亿美元，由Reid Hoffman、Mark Pincus共同创办",
+      "summary": "由Reid Hoffman与Mark Pincus参与创办的AI实验室Prentis正洽谈以10亿美元估值融资1亿美元，该公司专注电脑操作类AI代理模型，已签约最頀5000万美元合同，预计2026年三季度年化营收蝐7500万美元。",
+      "publishedAt": "2026-07-25T06:25:00+08:00",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m/",
+      "subCategory": "一级市场"
+    },
+    {
+      "id": "finance-20260725-005",
+      "title": "美股收盘：三大指数走势分化，存储与光通信股重挘，闪盘跌超10%",
+      "summary": "美股7月24日收盘涨跌互现，道指涨0.46%报51947.25点，标普500涨0.05%报7411.98点，纳指跌0.64%报24975.82点；费城半导体指数跌4.25%，闪盘跌10.79%，存储与光通信股全线重挘。",
+      "publishedAt": "2026-07-25T06:18:00+08:00",
+      "source": "财联社",
+      "url": "https://www.cls.cn/detail/2436875",
+      "subCategory": "美股"
+    },
+    {
+      "id": "finance-20260726-104",
+      "title": "穆迪警告AI投资潮冲击信用质量，科技巨头迈入\"重资产时代\"",
+      "summary": "穆迪警告称，大规模AI基础设施投资正侵蚀超大规模云服务商的自由现金流，六大科技公司2026年资本开支预计达7850亿美元，2027年或蠆1万亿美元，从轻资产软件模式转向重资产AI基础设施对全行业信用质量构成威胁，评级较低的甲骨文、CoreWeave等公司面临压力大于微软、亚马逊。",
+      "publishedAt": "2026-07-25T05:06:00+08:00",
+      "source": "财联社",
+      "url": "https://www.cls.cn/detail/2436858",
+      "subCategory": "宏观经济"
+    },
+    {
+      "id": "finance-20260725-008",
+      "title": "Anduril据悉洽谈新融资，估值将达1000亿美元，逗去年5月估值三倍",
+      "summary": "据路透社消息，防务科技公司Anduril正洽谈新一轮融资，估值或达1000亿美元，较其5月时610亿美元估值增长逗三倍，该轮融资可能分两阶段完成；公司称2025年营收增至22亿美元，尚未就未来融资做出任何决定。",
+      "publishedAt": "2026-07-25T01:33:00+08:00",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/24/anduril-reportedly-in-talks-to-raise-funding-at-100b-valuation-more-than-3x-last-years-mark/",
+      "subCategory": "一级市场"
+    },
+    {
+      "id": "finance-20260725-010",
+      "title": "Sam Altman旗下生物识别初创公司World通过加密代币销售融衣畲5250万美元",
+      "summary": "生物识别验证初创公司World（Sam Altman、Alex Blania创立）通过WLD代币销售融衣畲5250万美元，Pantera Capital领投，参投方含Bain Capital Crypto，锁仓期12个月，资金用于网络扩展。",
+      "publishedAt": "2026-07-25T00:11:00+08:00",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/24/sam-altmans-biometric-startup-world-raises-52-5-million-via-crypto-sale/",
+      "subCategory": "一级市场"
+    },
+    {
+      "id": "finance-20260724-153",
+      "title": "证监会又一前副主席落马 方星海退休两年后被查",
+      "summary": "中央纪委国监委消息，中国证监会原党委委员、副主席方星海涉嫌严重违纪违法，正接受纪律审查和监察调查，距其2024年7月卸任已两年。他此前分管国际业务等重要部门，是继王建军之后第二位被查的证监会原副主席。",
+      "publishedAt": "2026-07-24T22:33:00+08:00",
+      "source": "财新网",
+      "url": "https://finance.caixin.com/2026-07-24/102467861.html",
+      "subCategory": "风险事件"
+    },
+    {
+      "id": "finance-20260725-004",
+      "title": "美银将AMD目标价从560美元上调至620美元",
+      "summary": "财联社7月24日消息，美银全球研究将半导体公司AMD目标股价由1560美元上调至620美元，较此前目标价上修约10.7%，反映机构对其后续股价表现更为乐观。",
+      "publishedAt": "2026-07-24T21:38:24+08:00",
+      "source": "财联社",
+      "url": "https://www.cls.cn/detail/2436735",
+      "subCategory": "美股"
+    },
+    {
+      "id": "finance-20260724-152",
+      "title": "American Express Q2 profit rises driven by higher spending and fewer delinquencies",
+      "summary": "美国运通公布第二季度业绩，净利润31.1亿美元，同比增长8%，每股收益4.53美元，超市场预期的4.40美元；营收同比增长10%，主要受持卡人消费增加及坏账率下降推动，公司上调全年营收增长预期但维持全年利润指引不变。",
+      "publishedAt": "2026-07-24T08:27:00-05:00",
+      "source": "美联社(AP)",
+      "url": "https://www.ksat.com/business/2026/07/24/american-express-q2-profit-rises-driven-by-higher-spending-and-fewer-delinquencies/",
+      "subCategory": "公司财报"
+    },
+    {
+      "id": "finance-20260725-001",
+      "title": "热门中概股美股盘前普跌，阿里巴巴跌超1%",
+      "summary": "美股盘前中概股普遍走低，阿里巴巴、百度、微博、哔哩哔哩、名创优品跌幅均超1%；同期部分大型科技股逆势上涨，英特尔涨超2%，微软涨超1%。",
+      "publishedAt": "2026-07-24T20:53:00+08:00",
+      "source": "36氪",
+      "url": "https://36kr.com/newsflashes/3909642046412167",
+      "subCategory": "美股"
+    },
+    {
+      "id": "finance-20260725-002",
+      "title": "美股大型科技股盘前多数上涨，微软涨超1%",
+      "summary": "美股盘前大型科技股多数上涨，英特尔涨超2%，微软涨超1%，特斯拉涨0.45%，奇飞涨0.32%，苹果涨0.16%，亚马逊涨0.15%，谷歌涨0.11%；Meta跌0.34%，英伟达跌0.29%。",
+      "publishedAt": "2026-07-24T20:48:00+08:00",
+      "source": "36氪",
+      "url": "https://36kr.com/newsflashes/3909637385049480",
+      "subCategory": "美股"
+    },
+    {
+      "id": "finance-20260725-003",
+      "title": "日月明：拟2880万元—5760万元回购公司股份",
+      "summary": "日月明公告拟以2880万元至5760万元回购公司股份，回购价格上限为每股36元，公司称此举系维护公司价值及股东权益所必需。",
+      "publishedAt": "2026-07-24T20:45:00+08:00",
+      "source": "36氪",
+      "url": "https://36kr.com/newsflashes/3909634025084041",
+      "subCategory": "A股"
+    },
+    {
+      "id": "finance-20260724-154",
+      "title": "晚间公告｜7月24日这些公告有看头",
+      "summary": "7月24日晚间多家A股公司发布公告：亿纬锂能否认LG新能源在美起诉其专利侵权；欣天科技、普联软件因控制权变更于7月27日起停牌；嘉必优因经营受海外市场及监管变化影响将被实施其他风险警示；厦门钨业拟收购江西巨通1.35%股权。",
+      "publishedAt": "2026-07-24T20:03:10+08:00",
+      "source": "第一财经",
+      "url": "https://www.yicai.com/news/103291572.html",
+      "subCategory": "A股"
+    },
+    {
+      "id": "finance-20260724-103",
+      "title": "恒指午盘跌1.27%扈2489茅1.84点，阿里巴巴跌超5%",
+      "summary": "7月24日港股午盘，恒生指数跌1.27%扈2489茅1.84点，恒生科技指数跌1.69%，阿里巴巴、快手、腾讯、哔哩哔哩、百度等科网股跌超2%，黄金股普遍下跌。",
+      "publishedAt": "2026-07-24",
+      "source": "新浪财经",
+      "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-07-24/doc-iniiwram4906959.shtml",
+      "subCategory": "港股"
+    },
+    {
+      "id": "finance-20260725-007",
+      "title": "美联储会加息吗？专家预测7月29日会议结果",
+      "summary": "据CBS新闻报道，市场普遍预期美联储会将于7月29日会议上连续第五次维持3.5%—3.75%利率区间不变；受油价突破每桶100美元推高通胀预期影响，CME数据显示加息概率已由一周前的12%升至38%，但仍属小概率事件。",
+      "publishedAt": "2026-07-24",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/fed-interest-rate-decision-july-meeting/",
+      "subCategory": "政策利率"
+    },
+    {
+      "id": "finance-20260724-156",
+      "title": "港交所重磅新规落地！秘密递表扩大到所有拟 IPO 公司",
+      "summary": "港交所 7月24日正式实施上市机制改革，所有新申请人均可非公开形式递交上市申请，秘密递表适用范围扩大至全部拟上市公司；同股不同权市值门槛下调，差异化投票权比例最高可达20比1。",
+      "publishedAt": "2026-07-24T19:57:00+08:00",
+      "source": "证券时报",
+      "url": "https://www.stcn.com/article/detail/4040966.html",
+      "subCategory": "港股"
+    },
+    {
+      "id": "finance-20260724-155",
+      "title": "宁德时代：拟以200亿元至400亿元回购股份用于注销",
+      "summary": "宁德时代公告拟以200亿元至400亿元回购A股股份并注销，回购价格上限573元/股。公司同期披露上半年营业收入2769.17亿元，同比增长54.8%，净利润432.84亿元，同比增长41.98%。",
+      "publishedAt": "2026-07-24T19:29:59+08:00",
+      "source": "每日经济新闻",
+      "url": "https://www.nbd.com.cn/articles/2026-07-24/4511443.html",
+      "subCategory": "公司财报"
+    },
+    {
+      "id": "finance-20260724-157",
+      "title": "全聚德：上半年扣非净利润预增82.05%—135.90%，品牌年轻化与多元场景拓展释放动能",
+      "summary": "全聚德发吼2026年半年度业绩预告，预计上半年净利润1280万至1550万元，同比增长3.39%至25.2%，扣非净利润同比预增82.05%至135.90%，主要受益于降本增效及多元消费场景拓展。",
+      "publishedAt": "2026-07-24T19:11:00+08:00",
+      "source": "证券时报",
+      "url": "https://www.stcn.com/article/detail/4040819.html",
+      "subCategory": "公司财报"
+    },
+    {
+      "id": "finance-20260724-151",
+      "title": "港股收報24963點　銀行股逆市升",
+      "summary": "恒生指数 24日收戂5’963点，跌247点，全周仍录得约400点涨幅，连续四周上涨；科网股普跌，阿里巴巴跌4.3%，腾讯跌2.4%；银行股逆市走强，中银香港获大摩上调评级后涨6%，市场分析认为受中东局势紧张及油价上涨拖累。",
+      "publishedAt": "2026-07-24T17:49:00+08:00",
+      "source": "香港中通社",
+      "url": "https://www.hkcna.hk/docDetail.jsp?id=101378307&channel=2813",
+      "subCategory": "港股"
+    },
+    {
+      "id": "finance-20260724-101",
+      "title": "沪指收跌1.61%扈3814.20点，全市场超4900股下跌",
+      "summary": "7月24日A股收盘，上证指数跌1.61%扈3814.20点，深证成指跌2.47%，创业板指跌2.65%，三市成交额1.94万亿元，较前一日缩量2650亿元，半导体芯片股逆势上涨，贵金属板块走低。",
+      "publishedAt": "2026-07-24T15:45:51+08:00",
+      "source": "每日经济新闻",
+      "url": "https://www.nbd.com.cn/articles/2026-07-24/4511071.html",
+      "subCategory": "A股"
+    },
+    {
+      "id": "finance-20260724-108",
+      "title": "Meta为得州数据中心再融资120亿美元，借款成本明显上升",
+      "summary": "Meta计划通过发债为其在得州艾尔帕索建设的近1吉瓦数据中心融资120亿美元，由贝莱德牌头，初步讨论收益率超过7%，较去年10月项目融资成本上升约0.4个百分点（估算）。",
+      "publishedAt": "2026-07-24T11:34:00+08:00",
+      "source": "华尔街见闻",
+      "url": "https://wallstreetcn.com/articles/3777847",
+      "subCategory": "风险事件"
+    },
+    {
+      "id": "finance-20260724-104",
+      "title": "6月末公募基金总规模达39.67万亿元续创新高",
+      "summary": "中国证券投资基金业协会数据显示，截至6月末，165家公募基金管理机构管理的资产净值合计39.67万亿元，较 5月底增加0.19万亿元，连续三个月刷新历史纪录。",
+      "publishedAt": "2026-07-24T08:06:00+08:00",
+      "source": "证券时报",
+      "url": "https://www.stcn.com/article/detail/4038742.html",
+      "subCategory": "宏观经济"
+    },
+    {
+      "id": "finance-20260724-105",
+      "title": "央行7月24日开展5000亿元MLF操作",
+      "summary": "中国人民银行公告，为保持银行体系流动性充裕，7月24日以固定数量、利率标标、多重价位中标方式开展5000亿元1年期MLF操作，当月到期4000亿元，实现净投放1000亿元。",
+      "publishedAt": "2026-07-24T07:00:14+08:00",
+      "source": "每日经济新闻",
+      "url": "https://www.nbd.com.cn/articles/2026-07-23/4504778.html",
+      "subCategory": "政策利率"
+    },
+    {
+      "id": "finance-20260724-107",
+      "title": "AMD预计2030年AI加速器市场规模将达1.4万亿美元",
+      "summary": "AMD发布新一代Helios AI机架系统时表示，预计到2030年全球AI加速器市场规模将达约1.4万亿美元，接近当前整个半导体行业规模，客户包括OpenAI、Meta、甲骨文等。",
+      "publishedAt": "2026-07-23T13:33:00-07:00",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system/",
+      "subCategory": "美股"
+    },
+    {
+      "id": "finance-20260724-106",
+      "title": "保险科技公司Corgi八周内完成第三轮融资，估值达40亿美元",
+      "summary": "AI保险科技公司Corgi据报道完成新一轮融资，估值达40亿美元，为其B轮的第二次延伸，也是过去八周内的第三轮融资，投资方包括TCV和Kindred Ventures。",
+      "publishedAt": "2026-07-23T13:13:00-07:00",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/23/insurance-startup-corgi-reportedly-raised-more-money-at-4b-its-third-round-in-eight-weeks/",
+      "subCategory": "一级市场"
+    },
+    {
+      "id": "finance-20260724-010",
+      "title": "英特尔第二季度营收增长25%，创十五年最快增速",
+      "summary": "英特尔公布2026年第二季度财报，营收161亿美元，同比增长25%，为逸十五年来最快增速；non-GAAP每股收益0.42美元；受CHIPS法案相关非现金费用影响，GAAP每股亏捐2.16美元。公司指引第三季度营收158亿至168亿美元。",
+      "publishedAt": "2026-07-23T16:01:00-04:00",
+      "source": "Intel Corporation",
+      "url": "https://www.intc.com/news-events/press-releases/detail/1776/intel-reports-second-quarter-2026-financial-results",
+      "subCategory": "公司财报"
+    },
+    {
+      "title": "AI开支引发回报疑虑，纳指跌幅扩大至2%，特斯拉跌超13%，布油触及百元关口，美国长债承压",
+      "summary": "美股周四夜盘走低，纳指跌幅扩大至2%，标普500跌1.1%，道指跌超1%，银行股跌超1.6%，特斯拉跌超13%。市场担忧AI基建投资能否产生足够回报，同时布伦特原油盘中触及每桶100美元，通胀担忧升温。",
+      "publishedAt": "2026-07-23T22:32:00+08:00",
+      "source": "华尔街见闻",
+      "url": "https://wallstreetcn.com/articles/3777754",
+      "subCategory": "美股",
+      "id": "finance-20260723-301"
+    },
+    {
+      "title": "7月27日登陆科创板！长鑫科技投资价值怎么看？",
+      "summary": "存储芯片厂商长鑫科技将于7月27日在科创板挂牌，发行价8.66元/股，发行股数 66.88亿股，上市后总市值约5791.88亿元；一季度营收508亿元，同比增长719%。",
+      "publishedAt": "2026-07-23T22:22:00+08:00",
+      "source": "财联社",
+      "url": "https://www.cls.cn/detail/2435567",
+      "subCategory": "一级市场",
+      "id": "finance-20260723-305"
+    },
+    {
+      "title": "Tech stocks live: Tesla's earnings miss, Google's big spend sends both stocks lower",
+      "summary": "特斯拉公布2026年第二季度业绩，营收282.4亿美元，超市场预期的263.2亿美元，但调整后每股收益0.33美元，远低于预期的0.50美元；受此影响，股价盘前一度下跌约7%。",
+      "publishedAt": "2026-07-23T09:19:00-05:00",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/live/tech-stocks-live-tech-heavy-nasdaq-climbs-ahead-of-big-tech-earnings-kickoff-164334720.html",
+      "subCategory": "公司财报",
+      "id": "finance-20260723-302"
+    },
+    {
+      "id": "finance-20260724-008",
+      "title": "黑石集团第二季度可分配收益同比增长26%，管理资产近1.35万亿美元",
+      "summary": "黑石集团公布2026年第二季度业绩，可分配收益为每股1.52美元，同比增长26%，超市场预期；营收50.4亿美元，同比增长36%；管理资产规模近1.35万亿美元，创纪录。公司将业绩增长归因于人工智能相关投资布局，包括对Anthropic、SpaceX及数据中心资产的持仓。",
+      "publishedAt": "2026-07-23T08:38:00-05:00",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/ai/articles/blackstone-q2-2026-earnings-beat-133859733.html",
+      "subCategory": "公司财报"
+    },
+    {
+      "title": "Iraq-Kuwait Border Crossing Hit by Iran; Trump Threatens \"Major Military Punishment\"",
+      "summary": "伊拉克与科威特间阿卡德拉边境口岸遭袍，此前沙特油轮在红海遭胡塞武装袋击起火（船员安全）；特朗普警告若沙特船只再遭袍击，美方将对伊朗和胡塞武装实施\"重大军事惩罚\"，美军已向中东增派部队。",
+      "publishedAt": "2026-07-23T21:33:00+08:00",
+      "source": "华尔街见闻",
+      "url": "https://wallstreetcn.com/articles/3777791",
+      "subCategory": "风险事件",
+      "id": "finance-20260723-308"
+    },
+    {
+      "title": "Alphabet现金流首度转负 AI资本支出压力考验科技巨头财报",
+      "summary": "Alphabet二季度自由现金流历史上首次转负，单季消耗现金59亿美元，尽管谷歌云业务增长82%创纪录；公司将2026年资本支出指引上调至1950至2050亿美元，股价应声下跌5%。",
+      "publishedAt": "2026-07-23T21:23:00+08:00",
+      "source": "财联社",
+      "url": "https://www.cls.cn/detail/2435521",
+      "subCategory": "公司财报",
+      "id": "finance-20260723-303"
+    },
+    {
+      "title": "原油飘升加剧通胀担忧！美债收益率集体暴涨，10年期突破4.7%刘月18个月新高",
+      "summary": "受中东局势推高油价、美国首申失业金人数意外降至18.7万及科技巨头发债融资AI资本支出等因素影响，美国10年期国债收益率升至4.71%，刘月18个月新高，30年期收益率连续12个交易日高于5%。",
+      "publishedAt": "2026-07-23T21:09:00+08:00",
+      "source": "华尔街见闻",
+      "url": "https://wallstreetcn.com/articles/3777802",
+      "subCategory": "宏观经济",
+      "id": "finance-20260723-310"
+    },
+    {
+      "title": "Brent Oil Touches $100 Mark! RBC Warns: War Enters Dangerous Stage",
+      "summary": "布伦特原油周四盘中一度触及每桶100美元，单日涨幅接近5%，受红海胡塞武装袋击沙特油轮及霍尔穆兹、曼德海峡承压推动；RBC警告油价或挑战2008年146美元历史高点。",
+      "publishedAt": "2026-07-23T21:08:00+08:00",
+      "source": "华尔街见闻",
+      "url": "https://wallstreetcn.com/articles/3777797",
+      "subCategory": "大宗商品",
+      "id": "finance-20260723-306"
+    },
+    {
+      "title": "刕1969年以来最低！美国上周首申人数降至18.7万，大幅超预期",
+      "summary": "美国截至7月18日当周初请失业金人数降至18.7万人，创1969年以来新低，较前一周减到2.2万人，远低于彭博博经济学家预测中值21万人；持续申请失业金人数降至159.6万人，跌破180万关口。",
+      "publishedAt": "2026-07-23T20:55:00+08:00",
+      "source": "华尔街见闻",
+      "url": "https://wallstreetcn.com/articles/3777798",
+      "subCategory": "宏观经济",
+      "id": "finance-20260723-309"
+    },
+    {
+      "id": "finance-20260724-009",
+      "title": "AI芯片初创公司Etched完成3亿美元C轮融资，估值103亿美元",
+      "summary": "AI芯片初创公司Etched完成3亿美元C轮融资，估值达103亿美元，由红杞资本领投，a16z、SK海力士、Jane Street等参投，较2025年12月的50亿美元估值翛倍。该公司专注于AI推理阶段设计专用芯片，目前已获10亿美元订单，在圣何塞及米尔皮蒂斯运营数据中心。",
+      "publishedAt": "2026-07-23",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/23/ai-chip-startup-etched-defies-skeptics-hits-10-3b-valuation-from-big-name-investors/",
+      "subCategory": "一级市场"
+    },
+    {
+      "id": "finance-20260724-007",
+      "title": "洛克希德·马丁上调全年业绩指引，订单储备达2300亿美元",
+      "summary": "洛克希德·马丁公布2026年第二季度业绩，销售额201亿美元，同比增长11%；净利润18亿美元，合每股收益7.94美元；经营现金流32亿美元，自由现金流29亿美元。公司上调全年销售及每股收益指引，并披露包含35亿美元萨德拦截弹合同在内的2300亿美元创纪录订单储备。",
+      "publishedAt": "2026-07-23T06:29:00-04:00",
+      "source": "PR Newswire",
+      "url": "https://www.prnewswire.com/news-releases/lockheed-martin-reports-second-quarter-2026-financial-results-302833219.html",
+      "subCategory": "公司财报"
+    },
+    {
+      "id": "finance-20260724-006",
+      "title": "陶氏化学第二季度净销售额同比增长20%",
+      "summary": "陶氏化学公布2026年第二季度业绩，净销售额121亿美元，同比增长20%；GAAP净利润8.02亿美元，摏薄每股收益0.99美元；经营活动产生现金流13亿美元。公司称包装及特种塑料部门销售额增长27%，产品价格上涨及自救措施成效显著。",
+      "publishedAt": "2026-07-23T06:00:00-04:00",
+      "source": "PR Newswire",
+      "url": "http://www.prnewswire.com/news-releases/dow-reports-second-quarter-2026-results-302833191.html",
+      "subCategory": "公司财报"
+    },
+    {
+      "id": "finance-20260724-005",
+      "title": "南下资金净卖出港股42亿港元，连续5日减持腾讯",
+      "summary": "7月23日，南下资金净卖出港股42.26亿港元，其中腾讯道净卖出15.4亿港元，为连续第5个交易日净卖出，五日累计净卖出61.76亿港元；阿里巴巴净卖出10.96亿港元。同时美团、智谱AI获净买入，中芯国际等遡净卖出。",
+      "publishedAt": "2026-07-23T17:54:00+08:00",
+      "source": "新浪财经",
+      "url": "https://finance.sina.com.cn/stock/bxjj/2026-07-23/doc-iniiuwta4585619.shtml",
+      "subCategory": "港股"
+    },
+    {
+      "title": "图解期货 | 金价失守4100美元！贵金属反弹能否持续",
+      "summary": "截至7月23日收盘，国内贵金属板块内部涨跌分化，现货黄金盘后跌破4100美元/盎司，此前一交易日金价一度突破4100美元并带动贵金属板块普遍反弹，市场关注反弹能否延续。",
+      "publishedAt": "2026-07-23T16:38:00+08:00",
+      "source": "东方财富网",
+      "url": "https://finance.eastmoney.com/a/202607233818966535.html",
+      "subCategory": "大宗商品",
+      "id": "finance-20260723-307"
+    },
+    {
+      "title": "港股收评：恒指涨1.28% 科指涨0.65% 科网股普涨 有色金属板块大涨",
+      "summary": "7月23日港股全线收涨，恒生指数涨1.28%报25210.81点，恒生科技指数涨0.65%。科网股普涨，美团涨超4%；有色金属板块大涨，赣锋锂业涨超9%；半导体股回调，华红半导体跌超7%。",
+      "publishedAt": "2026-07-23T16:08:00+08:00",
+      "source": "新浪财经",
+      "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-07-23/doc-iniiusma7829010.shtml",
+      "subCategory": "港股",
+      "id": "finance-20260723-202"
+    },
+    {
+      "id": "finance-20260724-004",
+      "title": "商务部：中美探讨推进各自300亿美元规模对等降税框架",
+      "summary": "商务部外资司司长孟华婷在国新办发布会上表示，中美经贸团队正就贸易理事会、投资理事会的架构、职能等具体安排保持沟通，并探讨推进各自300亿美元规模的对等降税框架安排，中方正就相关降税安排向企业、行业协会等征求意见。",
+      "publishedAt": "2026-07-23T15:47:00+08:00",
+      "source": "东方财富网",
+      "url": "https://finance.eastmoney.com/a/202607233818900078.html",
+      "subCategory": "宏观经济"
+    }
+  ]
+}
