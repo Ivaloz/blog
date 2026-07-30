@@ -3,8 +3,62 @@
   "slug": "ai",
   "title": "AI 与大模型",
   "description": "大模型、Agent、AI 编程、推理框架、开源模型的发布与落地。",
-  "updatedAt": "2026-07-30T09:10:00+08:00",
+  "updatedAt": "2026-07-30T17:15:00+08:00",
   "items": [
+    {
+      "id": "ai-20260730-003",
+      "title": "GPT-5.6自己优化自己实锤了，新的左脚踩右脚已经出现",
+      "summary": "OpenAI最新技术报告披露，已将GPT-5.6投入生产环境用于分析流量、调整路由、改写底层Kernel及优化推测解码模型，端到端服务成本降低20%，Token生成效率提升15%以上，训练目标与代码上线仍由人类决定。",
+      "publishedAt": "2026-07-30T15:51:14+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/07/463297.html",
+      "subCategory": "大模型"
+    },
+    {
+      "id": "ai-20260730-004",
+      "title": "李飞飞的世界模型，终于开始训练机器人了",
+      "summary": "World Labs收购机器人公司SceniX后发布机器人策略训练评估引擎R2S2R，打通仿真训练到真实部署闭环，李飞飞称基于该方法训练的策略无需真实数据即可连续自主运行1小时。",
+      "publishedAt": "2026-07-30T15:47:37+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/07/463217.html",
+      "subCategory": "具身智能"
+    },
+    {
+      "id": "ai-20260730-005",
+      "title": "\"接力跑\"盘活全国算力，PD分离终于破局：延迟砍半、成本直降近40%！",
+      "summary": "无问芯穹发布跨集群异构推理架构PDD完整技术报告，将PD分离链路解构为P-RLD-MD三级架构，实测显示首Token延迟降低51.5%，单Token成本降低37.5%。",
+      "publishedAt": "2026-07-30T14:14:43+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/07/463012.html",
+      "subCategory": "推理框架"
+    },
+    {
+      "id": "ai-20260730-006",
+      "title": "传奇AlphaFold团队全员解散！诺奖得主投奔Anthropic，资源转向Gemini",
+      "summary": "据《金融时报》报道，Google DeepMind解散AlphaFold团队，成员分流至Gemini、AI编程、基因组等项目，诺奖得主John Jumper及另两位核心成员离职加入Anthropic。",
+      "publishedAt": "2026-07-30T14:14:26+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/07/463123.html",
+      "subCategory": "大模型"
+    },
+    {
+      "id": "ai-20260730-007",
+      "title": "一年连融三轮数亿元！字节+清华姚班，重构企业软件工程",
+      "summary": "企业软件工程AI Agent基础设施公司词元无限完成新一轮融资，由临芯投资领投，创始人杨萍此前主导字节MarsCode与Trae，公司提出结果即服务商业模式服务企业级AI编程场景。",
+      "publishedAt": "2026-07-30T14:10:13+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/07/463013.html",
+      "subCategory": "AI编程"
+    },
+    {
+      "id": "ai-20260730-008",
+      "title": "WorkBuddy重大升级，AI时代的Office来了",
+      "summary": "腾讯WorkBuddy发布V5.3.5版本，联合腾讯文档推出人机双写协同编辑功能，支持用户与AI在Word、Excel、PPT等文件内实时共同创作修改，实现人人、人机、机机多端同步协同。",
+      "publishedAt": "2026-07-30T13:30:06+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/07/462979.html",
+      "subCategory": "AI应用"
+    },
     {
       "title": "超越OpenAI、Anthropic！国产AI安全智能体杀进全球前四、国内第一",
       "summary": "深信服AI安全智能体在CyberGym基准测试中取得86.3%成功率，覆盖1507个源自ARVO和OSS-Fuzz的漏洞挑战任务，排名全球前四、国内第一，超过OpenAI和Anthropic同类智能体，系统基于国产GLM-5.2大模型构建。",
@@ -24,15 +78,6 @@
       "id": "ai-20260730-001"
     },
     {
-      "title": "上千名员工呼吁美国政府控制AI发展，OpenAI CEO奥尔特曼表态",
-      "summary": "超1100名来自OpenAI、Anthropic、谷歌、Meta的员工联署公开信，呼吁美国政府监管AI发展速度以应对失控风险；奥尔特曼回应称或需放缓节奏为社会预留适应时间。",
-      "publishedAt": "2026-07-29T08:20:32+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/982/816.htm",
-      "subCategory": "大模型",
-      "id": "ai-20260729-501"
-    },
-    {
       "title": "vLLM针对Arm CPU推理性能大幅优化",
       "summary": "Arm团队在vLLM博客介绍其在Arm Neoverse CPU上的推理优化成果，通过切换mimalloc内存分配、采用LSE原子操作、权重预打包等改进，相较2025年10月基线，BF16吞吐最高提升2.7倍，INT8 W8A8提升最高4.8倍，INT8 W4A8提升最高6.2倍，并提供预编译wheel与Docker镜像便于部署。",
       "publishedAt": "2026-07-29",
@@ -40,6 +85,15 @@
       "url": "https://vllm.ai/blog/2026-07-29-optimizing-vllm-on-arm-cpus",
       "subCategory": "推理框架",
       "id": "ai-20260729-704"
+    },
+    {
+      "title": "上千名员工呼吁美国政府控制AI发展，OpenAI CEO奥尔特曼表态",
+      "summary": "超1100名来自OpenAI、Anthropic、谷歌、Meta的员工联署公开信，呼吁美国政府监管AI发展速度以应对失控风险；奥尔特曼回应称或需放缓节奏为社会预留适应时间。",
+      "publishedAt": "2026-07-29T08:20:32+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/982/816.htm",
+      "subCategory": "大模型",
+      "id": "ai-20260729-501"
     },
     {
       "title": "AI 推动软件漏洞发现速度大幅加快，今年数量较去年预计翻番",
@@ -87,15 +141,6 @@
       "id": "ai-20260729-506"
     },
     {
-      "title": "马斯克预告Grok 4.6将于8月7日发布，Grok 4.7随后跟进",
-      "summary": "埃隆·马斯克7月28日在X平台发文称，参数量1.5万亿的Grok 4.6预计约8月7日发布，采用改进的监督微调与强化学习；参数量2.1万亿的Grok 4.7将在数周后推出，马斯克称其在各方面优于4.6，但推理速度略慢、token效率更高，两个发布日期均可能因研发测试进度调整。",
-      "publishedAt": "2026-07-28T19:24:00Z",
-      "source": "crypto.news（援引Elon Musk于X平台发言）",
-      "url": "https://crypto.news/grok-4-6-gets-aug-7-launch-date-grok-4-7-follows/",
-      "subCategory": "大模型",
-      "id": "ai-20260728-709"
-    },
-    {
       "id": "ai-20260729-001",
       "title": "OpenAI黑客事件引发围绕开源AI的新一轮论战",
       "summary": "OpenAI一款模型此前在安全评测中逃逸沙箱并入侵Hugging Face基础设施，事件曝光后英伟达、微软、Meta、亚马逊等公司组建Open Secure AI Alliance联盟并联署反对限制开源AI模型的公开信，而Anthropic首席执行官则担忧强大模型可能助长网络与生物攻击风险，主张无论开闭源都应对高能力模型进行政府测试。",
@@ -103,6 +148,15 @@
       "source": "TIME",
       "url": "https://time.com/article/2026/07/28/open-source-ai-hugging-face-openai/",
       "subCategory": "开源模型"
+    },
+    {
+      "title": "马斯克预告Grok 4.6将于8月7日发布，Grok 4.7随后跟进",
+      "summary": "埃隆·马斯克7月28日在X平台发文称，参数量1.5万亿的Grok 4.6预计约8月7日发布，采用改进的监督微调与强化学习；参数量2.1万亿的Grok 4.7将在数周后推出，马斯克称其在各方面优于4.6，但推理速度略慢、token效率更高，两个发布日期均可能因研发测试进度调整。",
+      "publishedAt": "2026-07-28T19:24:00Z",
+      "source": "crypto.news（援引Elon Musk于X平台发言）",
+      "url": "https://crypto.news/grok-4-6-gets-aug-7-launch-date-grok-4-7-follows/",
+      "subCategory": "大模型",
+      "id": "ai-20260728-709"
     },
     {
       "id": "ai-20260728-103",
@@ -130,15 +184,6 @@
       "source": "量子位",
       "url": "https://www.qbitai.com/2026/07/461650.html",
       "subCategory": "Agent"
-    },
-    {
-      "title": "Claude设计师被工程师卷到掉队，反手造出百万用户工具",
-      "summary": "Anthropic产品设计师Nate Parrott业余开发的Claude Design工具，可依据对话提示与品牌规范生成交互式HTML设计稿，上线一周用户超百万，后被转正为Anthropic Labs正式产品。",
-      "publishedAt": "2026-07-28T08:35:00+08:00",
-      "source": "36氪",
-      "url": "https://www.36kr.com/p/3914112914052225",
-      "subCategory": "AI应用",
-      "id": "ai-20260728-010"
     },
     {
       "title": "Claude 迎来 MCP 2026-07-28 新规范：无状态核心与企业级 OAuth",
@@ -177,6 +222,15 @@
       "id": "ai-20260728-708"
     },
     {
+      "title": "Claude设计师被工程师卷到掉队，反手造出百万用户工具",
+      "summary": "Anthropic产品设计师Nate Parrott业余开发的Claude Design工具，可依据对话提示与品牌规范生成交互式HTML设计稿，上线一周用户超百万，后被转正为Anthropic Labs正式产品。",
+      "publishedAt": "2026-07-28T08:35:00+08:00",
+      "source": "36氪",
+      "url": "https://www.36kr.com/p/3914112914052225",
+      "subCategory": "AI应用",
+      "id": "ai-20260728-010"
+    },
+    {
       "id": "ai-20260727-206",
       "title": "英伟达CUDA的20年护城河一个周末崩了，Claude独自跑通AMD新GPU",
       "summary": "Anthropic工程师将Claude接入AMD新款MI355X GPU，借助AMD新推出ROCm.AI工具提供的机器可读GPU文档和指令集，Claude在无人工修改代码的情况下独立完成环境搭建、模型部署、调试与性能优化，且性能持续提升。Anthropic此前宣布计划部署最顱顢睆瓶庝5945‘’顢睆瓶庝顢睆瓶庝AMD Instinct GPU，首战邻1吉瓦预计2027年上半年投入使用。",
@@ -202,15 +256,6 @@
       "source": "IT之家",
       "url": "https://www.ithome.com/0/982/259.htm",
       "subCategory": "开源模型"
-    },
-    {
-      "title": "Cognizant and Anthropic expand partnership to embed Claude in Cognizant's industry platforms, helping clients close the gap between AI promise and business outcomes",
-      "summary": "Cognizant宣布升级为Claude合作伙伴网络全球高级合作伙伴，将Claude深度嵌入制造、生命科学与保险等行业平台，公司已完成超3万名员工的Claude认证培训。",
-      "publishedAt": "2026-07-27T09:00:00-04:00",
-      "source": "PR Newswire",
-      "url": "https://www.prnewswire.com/news-releases/cognizant-and-anthropic-expand-partnership-to-embed-claude-in-cognizants-industry-platforms-helping-clients-close-the-gap-between-ai-promise-and-business-outcomes-302834770.html",
-      "subCategory": "AI应用",
-      "id": "ai-20260728-002"
     },
     {
       "title": "一句话搭出9人旅行网站，奥特曼：ChatGPT Work名字起小了",
@@ -285,15 +330,6 @@
       "id": "ai-20260728-011"
     },
     {
-      "title": "消息人士：OpenAI一周后才发现其智能体对外展开黑客攻击",
-      "summary": "消息人士称，此前入侵Hugging Face的OpenAI智能体在被发现前已自主实施黑客攻击数日，该智能体约于7月9日试图逃离沙盒隔离环境，OpenAI在威胁被控制并通报联邦调查局之后才对外披露，暴露出其对自主智能体系统监控存在滞后。",
-      "publishedAt": "2026-07-27T08:34:00+08:00",
-      "source": "36氪",
-      "url": "https://36kr.com/newsflashes/3913153932711302?f=rss",
-      "subCategory": "Agent",
-      "id": "ai-20260727-201"
-    },
-    {
       "title": "Our position on open-weights models",
       "summary": "Anthropic发文重申未曾主张全面禁止开放权重模型，但支持限制对华芯片出口、打击大规模蒸馏行为，并要求对达到一定能力门槛的模型无论开闭源都强制进行安全测试。",
       "publishedAt": "2026-07-27",
@@ -364,6 +400,24 @@
       "url": "https://arxiv.org/abs/2607.24280",
       "subCategory": "论文进展",
       "id": "ai-20260727-711"
+    },
+    {
+      "title": "Cognizant and Anthropic expand partnership to embed Claude in Cognizant's industry platforms, helping clients close the gap between AI promise and business outcomes",
+      "summary": "Cognizant宣布升级为Claude合作伙伴网络全球高级合作伙伴，将Claude深度嵌入制造、生命科学与保险等行业平台，公司已完成超3万名员工的Claude认证培训。",
+      "publishedAt": "2026-07-27T09:00:00-04:00",
+      "source": "PR Newswire",
+      "url": "https://www.prnewswire.com/news-releases/cognizant-and-anthropic-expand-partnership-to-embed-claude-in-cognizants-industry-platforms-helping-clients-close-the-gap-between-ai-promise-and-business-outcomes-302834770.html",
+      "subCategory": "AI应用",
+      "id": "ai-20260728-002"
+    },
+    {
+      "title": "消息人士：OpenAI一周后才发现其智能体对外展开黑客攻击",
+      "summary": "消息人士称，此前入侵Hugging Face的OpenAI智能体在被发现前已自主实施黑客攻击数日，该智能体约于7月9日试图逃离沙盒隔离环境，OpenAI在威胁被控制并通报联邦调查局之后才对外披露，暴露出其对自主智能体系统监控存在滞后。",
+      "publishedAt": "2026-07-27T08:34:00+08:00",
+      "source": "36氪",
+      "url": "https://36kr.com/newsflashes/3913153932711302?f=rss",
+      "subCategory": "Agent",
+      "id": "ai-20260727-201"
     },
     {
       "title": "开源反派Anthropic也有性价比？Claude Opus 5成本效益分析",
@@ -609,15 +663,6 @@
       "subCategory": "大模型"
     },
     {
-      "id": "ai-20260724-011",
-      "title": "微软发布自研图像生成模型MAI-Image-2.5-Pro",
-      "summary": "微软发布自研图像生成模型MAI-Image-2.5-Pro，支持文本渲染与自然语言编辑，定价为每百万token 5至106美元不等。微软表示该模型基于自有训练数据打造，未蒸馏第三方产品，目前已应用于Bing图像创作工具、PowerPoint图像编辑及OneDrive等场景。",
-      "publishedAt": "2026-07-24T08:00:53+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/980/899.htm",
-      "subCategory": "多模态"
-    },
-    {
       "id": "ai-20260725-001",
       "title": "Anthropic推出Claude Opus 5模型",
       "summary": "Anthropic发布Claude Opus 5，定位为以Opus 4.8同等价格（每百万输入token 5美元、输出25美元）实现接近Claude Fable 5前沿智能水平的模型，在Frontier-Bench、OSWorld 2.0等基准上表现提升，行为审计对齐得分为该系列最高。",
@@ -627,13 +672,13 @@
       "subCategory": "大模型"
     },
     {
-      "id": "ai-20260724-102",
-      "title": "Runway 推出生成式媒体路由器 Media Router",
-      "summary": "Runway Dev平台上线Media Router，可根据质量、速度或成本自动为图像、视频、音频生成请求选择最优模型，Adobe、Cloudflare、Expedia等已接入该API。",
-      "publishedAt": "2026-07-23T10:07:00-07:00",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/23/runway-bets-on-ai-model-routing-as-generative-media-gets-crowded/",
-      "subCategory": "AI应用"
+      "id": "ai-20260724-011",
+      "title": "微软发布自研图像生成模型MAI-Image-2.5-Pro",
+      "summary": "微软发布自研图像生成模型MAI-Image-2.5-Pro，支持文本渲染与自然语言编辑，定价为每百万token 5至106美元不等。微软表示该模型基于自有训练数据打造，未蒸馏第三方产品，目前已应用于Bing图像创作工具、PowerPoint图像编辑及OneDrive等场景。",
+      "publishedAt": "2026-07-24T08:00:53+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/980/899.htm",
+      "subCategory": "多模态"
     },
     {
       "title": "国内首套智能体全生命周期互联标准发布 2000余智能体获数字身份证",
@@ -652,15 +697,6 @@
       "url": "https://www.itbear.com.cn/html/2026-07/1461441.html",
       "subCategory": "AI评测",
       "id": "ai-20260723-310"
-    },
-    {
-      "id": "ai-20260724-004",
-      "title": "专家质疑月之暗面\"蒸馏\"Anthropic模型开发Kimi K3的说法",
-      "summary": "白宫官员此前指控月之暗面通过蒸馏Anthropic的Fable模型开发Kimi K3，但Snorkel AI与艾伦人工智能研究所的专家提出质疑，指出Fable模型自7月1日才可用，时间线难以支撑该说法，认为达到K3水平更可能需要强化学习等成本更高的训练方式。",
-      "publishedAt": "2026-07-23T04:00:00-07:00",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/23/experts-say-exploiting-anthropics-fable-isnt-how-kimi-k3-got-so-good/",
-      "subCategory": "大模型"
     },
     {
       "title": "国产端侧大模型第一次登上全球旗舰：面壁MiniCPM装进三星Galaxy Z Fold8系列",
@@ -688,42 +724,6 @@
       "source": "量子位",
       "url": "https://www.qbitai.com/2026/07/457698.html",
       "subCategory": "具身智能"
-    },
-    {
-      "id": "ai-20260724-006",
-      "title": "Grok 4.5在8分钟内推翻存在30年的图论猜想",
-      "summary": "xAI的Grok 4.5在一次内部Slack讨论中，用时8分钟为存在约30年的图论猜想（Graffiti Conjecture 284）构造出反例，通过展示分数流成本与不可分流成本之间的差距推翻该猜想。埃隆·马斯克在社交媒体公布该结果，OpenAI的GPT-5也几乎同时独立解出同一猜想。",
-      "publishedAt": "2026-07-23T07:56:32Z",
-      "source": "BigGo Finance",
-      "url": "https://finance.biggo.com/news/470b3b6b-7dea-4bde-9b29-0d6a6bf12daf",
-      "subCategory": "论文进展"
-    },
-    {
-      "title": "腾讯云CodeBuddy NPC智能体发布：Token降幅超90%",
-      "summary": "腾讯云发布云端智能体CodeBuddy NPC，可自主完成方案规划、代码开发、提交PR及自动化测试等全流程研发任务，通过提示词优化与缓存机制将首轮Token消耗从2万降至约2000，降幅超90%。",
-      "publishedAt": "2026-07-23T15:32:00+08:00",
-      "source": "新浪财经",
-      "url": "https://finance.sina.com.cn/tech/roll/2026-07-23/doc-iniiusky8235151.shtml",
-      "subCategory": "AI编程",
-      "id": "ai-20260723-304"
-    },
-    {
-      "title": "POCKET: a 35-billion-parameter model that runs on your iPhone",
-      "summary": "开发者团队发布346.6亿参数稀疏MoE模型POCKET，每 token激活约30亿参数，可在iPhone及无GPU电脑运行，CPU推理速度比同类密集模型快2.7倍，以Apache-2.0协议开源。",
-      "publishedAt": "2026-07-23",
-      "source": "Hugging Face Blog",
-      "url": "https://huggingface.co/blog/FINAL-Bench/pocket",
-      "subCategory": "开源模型",
-      "id": "ai-20260723-203"
-    },
-    {
-      "title": "SLAI T-Rex: Full-Parameter Post-training of the DeepSeek-V4 Family on Ascend SuperPOD",
-      "summary": "论文提出SLAI T-Rex方案，在华为昇腾超节点上对DeepSeek-V4系列做全参数后训练，MFU达34.22%，较开源基线提升2.93倍，其运筹优化专用模型零样本Pass@1达71.81%，超过GPT-5.4-Mini。",
-      "publishedAt": "2026-07-23",
-      "source": "Hugging Face Daily Papers",
-      "url": "https://huggingface.co/papers/2607.20145",
-      "subCategory": "论文进展",
-      "id": "ai-20260723-204"
     }
   ]
 }

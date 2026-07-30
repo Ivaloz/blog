@@ -3,8 +3,89 @@
   "slug": "tech",
   "title": "科技新闻",
   "description": "前沿科技、互联网产品、芯片硬件、开源生态。",
-  "updatedAt": "2026-07-30T09:10:00+08:00",
+  "updatedAt": "2026-07-30T17:15:00+08:00",
   "items": [
+    {
+      "id": "tech-20260730-019",
+      "title": "三星SDI：全固态电池按既定计划2027年下半年量产，首单很可能来自人形机器人",
+      "summary": "三星SDI在二季度财报会上表示，全固态电池商业化仍按计划推进，预计2027年下半年量产，首个商用订单很可能来自人形机器人，客户验证通过后计划于2026年下半年交付样品。公司二季度经营利润环比增长740.5%，为七个季度以来首次实现正经营利润。",
+      "publishedAt": "2026-07-30T16:38:23+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/983/722.htm",
+      "subCategory": "芯片硬件"
+    },
+    {
+      "id": "tech-20260730-014",
+      "title": "三星AI家用机器人Ballie配套应用设计草图曝光：支持家庭监控、迎宾等功能",
+      "summary": "三星AI家用机器人Ballie的配套应用设计草图曝光，主界面显示电量、位置与工作状态，支持远程摄像头串流、家庭监控及可自定义的迎宾问候功能，设置时会扫描家庭环境生成地图并识别投影位置，该产品仍未正式发布。",
+      "publishedAt": "2026-07-30T16:26:55+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/983/721.htm",
+      "subCategory": "机器人"
+    },
+    {
+      "id": "tech-20260730-015",
+      "title": "华为Pura X Max系列折叠屏手机销量破60万台，高价版更受欢迎",
+      "summary": "据博主爆料，截至2026年第29周，华为Pura X Max约售28.59万台、典藏版约32.59万台，合计超60万台。售价更高的典藏版反而多卖约4万台。该系列4月25日上市，起售价10999元，搭载麒麟9030 Pro处理器。",
+      "publishedAt": "2026-07-30T16:22:34+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/983/718.htm",
+      "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260730-016",
+      "title": "荣耀官宣MagicOS 11先锋品鉴会8月6日举行",
+      "summary": "荣耀宣布MagicOS 11先锋品鉴会将于8月6日在北京举行。新系统带来重新设计的YOYO智能体，支持自定义AI大模型并可操控第三方应用完成复杂任务，界面采用全屏通透视觉设计并结合动态液态玻璃效果。",
+      "publishedAt": "2026-07-30T16:20:12+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/983/715.htm",
+      "subCategory": "操作系统"
+    },
+    {
+      "id": "tech-20260730-020",
+      "title": "铠侠公布首款PCIe Gen6固态硬盘CM10，导入最新BiCS10 TLC",
+      "summary": "铠侠发布首款PCIe Gen6企业级固态硬盘CM10，导入最新BiCS10 TLC闪存，顺序读取性能提升92%，随机读取性能提升85%。产品提供多种形态，容量2TB至64TB，符合NVMe 2.1规范，部分型号支持液冷，已向客户送样。",
+      "publishedAt": "2026-07-30T16:12:10+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/983/692.htm",
+      "subCategory": "芯片硬件"
+    },
+    {
+      "id": "tech-20260730-018",
+      "title": "沃尔沃放弃激光雷达，马斯克称早就警告过他们",
+      "summary": "因激光雷达供应商Luminar申请破产，沃尔沃在多个市场为EX90、ES90车型停用激光雷达功能，挪威已购车用户将获约1800欧元补偿。马斯克在X上回应称此前曾警告过沃尔沃，并重申自动驾驶无需激光雷达。",
+      "publishedAt": "2026-07-30T15:59:41+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/983/668.htm",
+      "subCategory": "智能汽车"
+    },
+    {
+      "id": "tech-20260730-022",
+      "title": "一加手机2026上半年销量同比增13%",
+      "summary": "36氪援引消息称，一加中国区品牌总经理刘宝有在骁龙游戏技术赏活动上透露，2026年上半年一加手机销量同比增长13%，增速位列整个手机行业第一位。",
+      "publishedAt": "2026-07-30T15:51:00+08:00",
+      "source": "36氪",
+      "url": "https://36kr.com/newsflashes/3917838606445960",
+      "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260730-021",
+      "title": "SpaceX星舰第13次试飞成功，马斯克称着陆精度已达塔架回收标准",
+      "summary": "SpaceX星舰完成第13次试飞，成功部署20颗星链V3卫星，并在溅落前于太空完成发动机重新点火。马斯克称此次着陆精度之高足以被发射塔机械臂捕获，SpaceX计划在第14次试飞中尝试机械臂直接回收飞船。",
+      "publishedAt": "2026-07-30T15:21:44+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/983/644.htm",
+      "subCategory": "航空航天"
+    },
+    {
+      "id": "tech-20260730-017",
+      "title": "特斯拉全球第1000万辆电动车下线",
+      "summary": "特斯拉宣布第1000万辆电动车在全球下线，距去年12月达成第900万辆仅过去七个月。上海超级工厂贡献了特斯拉全球近一半产量，其自身产量截至去年12月已达400万辆，今年二季度特斯拉产量45.18万辆、交付48.01万辆。",
+      "publishedAt": "2026-07-30T15:14:34+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/983/640.htm",
+      "subCategory": "智能汽车"
+    },
     {
       "title": "华为 MatePad Pro 2026 旗舰平板官宣 8 月 5 日亮相",
       "summary": "华为宣布MatePad Pro 2026将于8月5日全场景新品发布会亮相，此前曝光信息显示其配备11.95/12英寸OLED屏、66W快充、T93系列芯片，并支持北斗短报文卫星通信。",
@@ -58,15 +139,6 @@
       "url": "https://www.ithome.com/0/983/379.htm",
       "subCategory": "智能汽车",
       "id": "tech-20260730-010"
-    },
-    {
-      "title": "Russian hackers exploit Exchange OWA zero-day for long-term mailbox access",
-      "summary": "研究机构Proofpoint发现俄罗斯背景黑客组织Laundry Bear利用微软Exchange OWA跨站脚本零日漏洞CVE-2026-42897投放OWAReaper后门，针对欧美政府、电信、金融等机构邮箱实施长期隐蔽访问。",
-      "publishedAt": "2026-07-29T19:44:00-04:00",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/russian-hackers-exploit-exchange-owa-zero-day-for-long-term-mailbox-access/",
-      "subCategory": "安全漏洞",
-      "id": "tech-20260730-013"
     },
     {
       "title": "马斯克 SpaceX 再获 16 亿美元订单，由猎鹰 9 号执行美国太空军 18 次发射任务",
@@ -123,40 +195,13 @@
       "id": "tech-20260730-008"
     },
     {
-      "title": "国产大飞机 C919 高原型首架机起飞",
-      "summary": "C919高原型首架机于7月29日7时59分从上海浦东国际机场第四跑道起飞，开始首飞验证工作；截至目前C919已累计交付41架，安全飞行时间超13万小时。",
-      "publishedAt": "2026-07-29T08:25:23+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/982/818.htm",
-      "subCategory": "航空航天",
-      "id": "tech-20260729-501"
-    },
-    {
-      "title": "古尔曼爆料苹果今秋推 2026 款 Apple TV 和 HomePod mini，主打 Siri AI",
-      "summary": "古尔曼透露苹果今秋将推新款Apple TV 4K（升级A17 Pro芯片、支持Wi-Fi 7与蓝牙6.0）、HomePod mini 2（换装S10芯片）及全新智能家居中枢设备，后者搭载A18芯片与Face ID。",
-      "publishedAt": "2026-07-29T08:25:20+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/982/817.htm",
-      "subCategory": "消费电子",
-      "id": "tech-20260729-502"
-    },
-    {
-      "title": "谷歌 Pixel 11 Pro XL 手机曝光：256GB 起步，电池降幅 1.6%",
-      "summary": "爆料者Roland Quandt透露谷歌Pixel 11系列存储全系升级至256GB起步，Pixel 11 Pro XL英国售价1279英镑，电池容量较上代减少85mAh，降幅1.6%，标准版则小幅提升。",
-      "publishedAt": "2026-07-29T08:12:32+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/982/815.htm",
-      "subCategory": "消费电子",
-      "id": "tech-20260729-503"
-    },
-    {
-      "title": "美国航空 IT 系统宕机致全美航班停飞，约 48 分钟后恢复运营",
-      "summary": "美国航空7月28日晚部分系统出现连接故障，美国联邦航空局对其全部国内航班下达约48分钟的地面停飞令，据FlightAware统计当日共1100架次延误、221架次取消，东海岸雷暴天气加剧了影响。",
-      "publishedAt": "2026-07-29T08:12:13+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/982/814.htm",
-      "subCategory": "网络基础设施",
-      "id": "tech-20260729-504"
+      "title": "Russian hackers exploit Exchange OWA zero-day for long-term mailbox access",
+      "summary": "研究机构Proofpoint发现俄罗斯背景黑客组织Laundry Bear利用微软Exchange OWA跨站脚本零日漏洞CVE-2026-42897投放OWAReaper后门，针对欧美政府、电信、金融等机构邮箱实施长期隐蔽访问。",
+      "publishedAt": "2026-07-29T19:44:00-04:00",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/russian-hackers-exploit-exchange-owa-zero-day-for-long-term-mailbox-access/",
+      "subCategory": "安全漏洞",
+      "id": "tech-20260730-013"
     },
     {
       "title": "荣耀起诉电商商家手机壳商标侵权，双方达成和解",
@@ -231,13 +276,40 @@
       "id": "tech-20260729-712"
     },
     {
-      "title": "无人机厂商CubePilot遭DNS劫持攻击，用户凭证可能被截获",
-      "summary": "澳大利亚无人机飞控厂商CubePilot证实其cubepilot.org域名于7月24日遭DNS劫持，攻击者借此获取覆盖所有子域名的TLS证书并可能截获访问其门户与论坛用户输入的凭证，公司已收回域名控制权并报案。",
-      "publishedAt": "2026-07-28T17:17:00-04:00",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/cubepilot-drone-software-dev-hit-by-dns-hijacking-to-intercept-traffic/",
-      "subCategory": "安全漏洞",
-      "id": "tech-20260729-505"
+      "title": "国产大飞机 C919 高原型首架机起飞",
+      "summary": "C919高原型首架机于7月29日7时59分从上海浦东国际机场第四跑道起飞，开始首飞验证工作；截至目前C919已累计交付41架，安全飞行时间超13万小时。",
+      "publishedAt": "2026-07-29T08:25:23+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/982/818.htm",
+      "subCategory": "航空航天",
+      "id": "tech-20260729-501"
+    },
+    {
+      "title": "古尔曼爆料苹果今秋推 2026 款 Apple TV 和 HomePod mini，主打 Siri AI",
+      "summary": "古尔曼透露苹果今秋将推新款Apple TV 4K（升级A17 Pro芯片、支持Wi-Fi 7与蓝牙6.0）、HomePod mini 2（换装S10芯片）及全新智能家居中枢设备，后者搭载A18芯片与Face ID。",
+      "publishedAt": "2026-07-29T08:25:20+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/982/817.htm",
+      "subCategory": "消费电子",
+      "id": "tech-20260729-502"
+    },
+    {
+      "title": "谷歌 Pixel 11 Pro XL 手机曝光：256GB 起步，电池降幅 1.6%",
+      "summary": "爆料者Roland Quandt透露谷歌Pixel 11系列存储全系升级至256GB起步，Pixel 11 Pro XL英国售价1279英镑，电池容量较上代减少85mAh，降幅1.6%，标准版则小幅提升。",
+      "publishedAt": "2026-07-29T08:12:32+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/982/815.htm",
+      "subCategory": "消费电子",
+      "id": "tech-20260729-503"
+    },
+    {
+      "title": "美国航空 IT 系统宕机致全美航班停飞，约 48 分钟后恢复运营",
+      "summary": "美国航空7月28日晚部分系统出现连接故障，美国联邦航空局对其全部国内航班下达约48分钟的地面停飞令，据FlightAware统计当日共1100架次延误、221架次取消，东海岸雷暴天气加剧了影响。",
+      "publishedAt": "2026-07-29T08:12:13+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/982/814.htm",
+      "subCategory": "网络基础设施",
+      "id": "tech-20260729-504"
     },
     {
       "title": "NASA委托太空机器人LINK在轨失控翻滚，原计划为老化卫星提升轨道",
@@ -267,6 +339,15 @@
       "id": "tech-20260729-508"
     },
     {
+      "title": "无人机厂商CubePilot遭DNS劫持攻击，用户凭证可能被截获",
+      "summary": "澳大利亚无人机飞控厂商CubePilot证实其cubepilot.org域名于7月24日遭DNS劫持，攻击者借此获取覆盖所有子域名的TLS证书并可能截获访问其门户与论坛用户输入的凭证，公司已收回域名控制权并报案。",
+      "publishedAt": "2026-07-28T17:17:00-04:00",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/cubepilot-drone-software-dev-hit-by-dns-hijacking-to-intercept-traffic/",
+      "subCategory": "安全漏洞",
+      "id": "tech-20260729-505"
+    },
+    {
       "id": "tech-20260729-004",
       "title": "传亚马逊正全面改革AI战略并重组团队",
       "summary": "据报道，亚马逊正对其人工智能战略进行全面改革并重组相关团队，逐步淘汰内部多款AI模型，具体调整方向尚未披露更多细节。",
@@ -292,42 +373,6 @@
       "source": "IT之家",
       "url": "https://www.ithome.com/0/982/615.htm",
       "subCategory": "芯片硬件"
-    },
-    {
-      "title": "小米 REDMI 17 4G 手机曝光：联发科 Helio G91-Ultra 芯片，7500mAh 电池",
-      "summary": "小米REDMI 17 4G通过马来西亚SIRIM认证，型号为2606FRN72Y，配备6.9英寸120Hz屏幕、联发科Helio G91-Ultra处理器及7500mAh电池，支持45W快充，后置5000万像素摄像头，前置800万像素。",
-      "publishedAt": "2026-07-28T08:40:56+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/982/305.htm",
-      "subCategory": "消费电子",
-      "id": "tech-20260728-013"
-    },
-    {
-      "title": "微软更新 Win11 版计算器、记事本、时钟和媒体播放器应用",
-      "summary": "微软面向Windows预览体验成员推送计算器、记事本、时钟和媒体播放器等内置应用更新，修复多项问题并带来改进，包括记事本增强Markdown文件格式支持、媒体播放器改善专辑封面显示，以及时钟应用提升日出日落时间计算精度。",
-      "publishedAt": "2026-07-28T08:31:10+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/982/303.htm",
-      "subCategory": "操作系统",
-      "id": "tech-20260728-012"
-    },
-    {
-      "title": "微信鸿蒙版 App 获 8.0.19.45 尝鲜升级",
-      "summary": "微信鸿蒙版推出8.0.19.45尝鲜升级，内测时间为7月27日至8月26日，新增录制视频时前后摄像头切换等功能，并对朋友圈分享、视频号推荐等体验进行改进。",
-      "publishedAt": "2026-07-28T08:22:36+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/982/301.htm",
-      "subCategory": "互联网产品",
-      "id": "tech-20260728-011"
-    },
-    {
-      "title": "72 个恶意 Win10/Win11 软件站被发现：AI 复刻搭建，培养信任后收割用户",
-      "summary": "安全研究人员发现72个针对Windows用户的恶意软件下载站，站点使用AI生成内容并在搜索结果中获得较高排名，最初跳转至微软商店等正规页面以建立信任，随后悄然替换软件源分发恶意程序，相关域名由同一主体批量注册。",
-      "publishedAt": "2026-07-28T08:21:12+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/982/300.htm",
-      "subCategory": "安全漏洞",
-      "id": "tech-20260728-010"
     },
     {
       "title": "爆料称Nothing将于9月推出旗下首款智能手表",
@@ -384,6 +429,42 @@
       "id": "tech-20260728-713"
     },
     {
+      "title": "小米 REDMI 17 4G 手机曝光：联发科 Helio G91-Ultra 芯片，7500mAh 电池",
+      "summary": "小米REDMI 17 4G通过马来西亚SIRIM认证，型号为2606FRN72Y，配备6.9英寸120Hz屏幕、联发科Helio G91-Ultra处理器及7500mAh电池，支持45W快充，后置5000万像素摄像头，前置800万像素。",
+      "publishedAt": "2026-07-28T08:40:56+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/982/305.htm",
+      "subCategory": "消费电子",
+      "id": "tech-20260728-013"
+    },
+    {
+      "title": "微软更新 Win11 版计算器、记事本、时钟和媒体播放器应用",
+      "summary": "微软面向Windows预览体验成员推送计算器、记事本、时钟和媒体播放器等内置应用更新，修复多项问题并带来改进，包括记事本增强Markdown文件格式支持、媒体播放器改善专辑封面显示，以及时钟应用提升日出日落时间计算精度。",
+      "publishedAt": "2026-07-28T08:31:10+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/982/303.htm",
+      "subCategory": "操作系统",
+      "id": "tech-20260728-012"
+    },
+    {
+      "title": "微信鸿蒙版 App 获 8.0.19.45 尝鲜升级",
+      "summary": "微信鸿蒙版推出8.0.19.45尝鲜升级，内测时间为7月27日至8月26日，新增录制视频时前后摄像头切换等功能，并对朋友圈分享、视频号推荐等体验进行改进。",
+      "publishedAt": "2026-07-28T08:22:36+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/982/301.htm",
+      "subCategory": "互联网产品",
+      "id": "tech-20260728-011"
+    },
+    {
+      "title": "72 个恶意 Win10/Win11 软件站被发现：AI 复刻搭建，培养信任后收割用户",
+      "summary": "安全研究人员发现72个针对Windows用户的恶意软件下载站，站点使用AI生成内容并在搜索结果中获得较高排名，最初跳转至微软商店等正规页面以建立信任，随后悄然替换软件源分发恶意程序，相关域名由同一主体批量注册。",
+      "publishedAt": "2026-07-28T08:21:12+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/982/300.htm",
+      "subCategory": "安全漏洞",
+      "id": "tech-20260728-010"
+    },
+    {
       "title": "外媒解读：微软虽收紧 KMS 服务，但并不在意普通用户使用盗版 Win11",
       "summary": "外媒Windows Latest分析称，微软近期收紧KMS验证主要针对企业自建KMS服务器，而非普通消费者；新的基于TPM的安全措施旨在打击企业环境中非法激活未授权设备的欺诈性KMS服务器，微软并未追查普通用户使用的盗版Windows系统。",
       "publishedAt": "2026-07-28T07:57:37+08:00",
@@ -409,15 +490,6 @@
       "url": "https://www.ithome.com/0/982/292.htm",
       "subCategory": "智能汽车",
       "id": "tech-20260728-007"
-    },
-    {
-      "title": "Hackers target US firms in FastJson RCE zero-day attacks",
-      "summary": "黑客正利用FastJson 1.2.68至1.2.83版本中影响Spring Boot胖JAR部署的未修补远程代码执行漏洞CVE-2026-16723，针对美国金融、医疗、计算及零售行业企业发起攻击；由于FastJson 1.x已停止维护，目前尚无官方补丁。",
-      "publishedAt": "2026-07-27T19:49:00-04:00",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-target-us-firms-in-fastjson-rce-zero-day-attacks/",
-      "subCategory": "安全漏洞",
-      "id": "tech-20260728-016"
     },
     {
       "title": "微软 Win10/Win11 经典版 Outlook 于 2027 年 3 月启动迁移，维护支持至 2029 年",
@@ -465,24 +537,6 @@
       "id": "tech-20260728-003"
     },
     {
-      "title": "Arista patches VeloCloud Orchestrator zero-day exploited in attacks",
-      "summary": "Arista发布补丁修复其本地部署VeloCloud Orchestrator中一个正被攻击者利用的严重未授权命令注入漏洞CVE-2026-16812，攻击者可借此获取特权功能访问权限；美国CISA已要求联邦机构在7月30日前完成缓解。",
-      "publishedAt": "2026-07-27T18:49:00-04:00",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/arista-patches-velocloud-orchestrator-zero-day-exploited-in-attacks/",
-      "subCategory": "安全漏洞",
-      "id": "tech-20260728-017"
-    },
-    {
-      "title": "New Dysphoria DDoS botnet spreads to 200k devices worldwide",
-      "summary": "奇安信XLab研究人员发现名为Dysphoria的僵尸网络已入侵全球约20万台物联网及路由器设备用于DDoS攻击和流量中继，其命令控制系统基于以太坊ENS与Solana SNS域名构建，运营者宣称最大DDoS攻击能力达4Tbps。",
-      "publishedAt": "2026-07-27T17:08:00-04:00",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/new-dysphoria-ddos-botnet-spreads-to-200k-devices-worldwide/",
-      "subCategory": "安全漏洞",
-      "id": "tech-20260728-018"
-    },
-    {
       "title": "微软发布 Win11 Experimental 频道 Build 29634.1000 预览版：新增语音访问人声隔离等多项改进",
       "summary": "微软面向Windows Experimental频道推送Build 29634.1000预览版，新增语音访问人声隔离功能（本地处理过滤背景噪音）、现代化账户控制窗口、盲文显示器USB读屏支持，并将表情面板GIF来源由Tenor替换为GIPHY。",
       "publishedAt": "2026-07-28T05:02:33+08:00",
@@ -490,6 +544,24 @@
       "url": "https://www.ithome.com/0/982/272.htm",
       "subCategory": "操作系统",
       "id": "tech-20260728-001"
+    },
+    {
+      "id": "tech-20260727-212",
+      "title": "大众汽车否认呼吁欧盟对中国混动汽车加征关税",
+      "summary": "大众汽车集团发表声明澄清，CEO奥博穆在一场财经会议上并未明确呼吁加征关税，而是主张全面考虑多种方案以保证欧洲与其他地区的公平竞争，支持中国车企在欧洲本地化生产；若欧盟对中国混动车加征关税，其税率不应超过现行纯电动车关税水平。",
+      "publishedAt": "2026-07-27T23:19:20+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/982/261.htm",
+      "subCategory": "智能汽车"
+    },
+    {
+      "id": "tech-20260727-211",
+      "title": "\"中国天眼\"FAST 望远镜已找到 1284 颗脉冲星，远超同时期国际其他望远镜总和",
+      "summary": "位于贵州的中国天眼FAST望远镜累计已找到1284颗脉冲星，远超同时期国际上所有其他望远镜发现数量的总和。该望远镜自2016年建成以来推动中国射电天文学从依赖国外数据转向自主产出核心观测数据，近期完成六根钢索维护后已恢复新一轮观测。",
+      "publishedAt": "2026-07-27T22:39:50+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/982/258.htm",
+      "subCategory": "航空航天"
     },
     {
       "title": "PSA: Your Claude shared chats and Artifacts may have ended up on Google",
@@ -501,6 +573,24 @@
       "id": "tech-20260728-014"
     },
     {
+      "title": "Hackers target US firms in FastJson RCE zero-day attacks",
+      "summary": "黑客正利用FastJson 1.2.68至1.2.83版本中影响Spring Boot胖JAR部署的未修补远程代码执行漏洞CVE-2026-16723，针对美国金融、医疗、计算及零售行业企业发起攻击；由于FastJson 1.x已停止维护，目前尚无官方补丁。",
+      "publishedAt": "2026-07-27T19:49:00-04:00",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-target-us-firms-in-fastjson-rce-zero-day-attacks/",
+      "subCategory": "安全漏洞",
+      "id": "tech-20260728-016"
+    },
+    {
+      "title": "Arista patches VeloCloud Orchestrator zero-day exploited in attacks",
+      "summary": "Arista发布补丁修复其本地部署VeloCloud Orchestrator中一个正被攻击者利用的严重未授权命令注入漏洞CVE-2026-16812，攻击者可借此获取特权功能访问权限；美国CISA已要求联邦机构在7月30日前完成缓解。",
+      "publishedAt": "2026-07-27T18:49:00-04:00",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/arista-patches-velocloud-orchestrator-zero-day-exploited-in-attacks/",
+      "subCategory": "安全漏洞",
+      "id": "tech-20260728-017"
+    },
+    {
       "title": "Amazon's new satellite network for mobile phones could turn up the heat on SpaceX",
       "summary": "亚马逊向美国联邦通信委员会提交申请，计划利用从Globalstar获得的频谱运营一个由5105颗卫星组成的星座网络，提供手机直连卫星服务，与SpaceX的卫星通信业务展开竞争，但仍受蓝色起源New Glenn火箭发射延误制约。",
       "publishedAt": "2026-07-27T18:08:29+00:00",
@@ -508,6 +598,33 @@
       "url": "https://techcrunch.com/2026/07/27/amazons-new-satellite-network-for-mobile-phones-could-turn-up-the-heat-on-spacex/",
       "subCategory": "网络基础设施",
       "id": "tech-20260728-015"
+    },
+    {
+      "id": "tech-20260729-003",
+      "title": "极氪法务部：尊重用户围绕\"出境安全守护\"功能提出真实意见和批评，传播过程中部分失实信息正在核查",
+      "summary": "极氪法务部就\"出境安全守护\"功能引发的争议发布声明，回应车主反映在境外部分地区行驶时车机功能受限的问题，强调车辆动力与制动系统不受影响、车辆仍可正常行驶，并称该机制为符合国际惯例的防盗保护措施，将推出\"跨境守护\"快捷解锁功能优化体验。",
+      "publishedAt": "2026-07-27T17:12:18+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/982/151.htm",
+      "subCategory": "智能汽车"
+    },
+    {
+      "title": "New Dysphoria DDoS botnet spreads to 200k devices worldwide",
+      "summary": "奇安信XLab研究人员发现名为Dysphoria的僵尸网络已入侵全球约20万台物联网及路由器设备用于DDoS攻击和流量中继，其命令控制系统基于以太坊ENS与Solana SNS域名构建，运营者宣称最大DDoS攻击能力达4Tbps。",
+      "publishedAt": "2026-07-27T17:08:00-04:00",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/new-dysphoria-ddos-botnet-spreads-to-200k-devices-worldwide/",
+      "subCategory": "安全漏洞",
+      "id": "tech-20260728-018"
+    },
+    {
+      "title": "Exploiting Volvo/Eicher's fleet management platform to gain control over all users and vehicles",
+      "summary": "一名安全研究人员发现印度商用车队管理平台My Eicher存在未授权API，暴露74.8万个客户账号、250万条可追溯至2021年的历史OTP验证码及67.6万辆车辆信息，结合账号列表与泄露OTP可实现账户完全接管并访问7.6万份包含身份证件的敏感文件。",
+      "publishedAt": "2026-07-27T14:31:47+00:00",
+      "source": "eaton-works.com",
+      "url": "https://eaton-works.com/2026/07/27/my-eicher-hack/",
+      "subCategory": "安全漏洞",
+      "id": "tech-20260728-022"
     },
     {
       "title": "Apple sued over fake App Store crypto wallet app stealing $1.8M in Bitcoin",
@@ -528,15 +645,6 @@
       "id": "tech-20260728-020"
     },
     {
-      "id": "tech-20260727-212",
-      "title": "大众汽车否认呼吁欧盟对中国混动汽车加征关税",
-      "summary": "大众汽车集团发表声明澄清，CEO奥博穆在一场财经会议上并未明确呼吁加征关税，而是主张全面考虑多种方案以保证欧洲与其他地区的公平竞争，支持中国车企在欧洲本地化生产；若欧盟对中国混动车加征关税，其税率不应超过现行纯电动车关税水平。",
-      "publishedAt": "2026-07-27T23:19:20+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/982/261.htm",
-      "subCategory": "智能汽车"
-    },
-    {
       "title": "Ernst & Young data breach claimed by ShinyHunters extortion gang",
       "summary": "勒索团伙ShinyHunters宣称对安永会计师事务所的一次数据泄露事件负责，称其通过对第三方IT支持系统的供应链攻击获取凭证，进而访问安永的Jira、GitHub和Azure环境，据报泄露的客户税务信息采集于3月28日至4月12日之间。",
       "publishedAt": "2026-07-27T11:12:00-04:00",
@@ -544,33 +652,6 @@
       "url": "https://www.bleepingcomputer.com/news/security/ernst-and-young-data-breach-claimed-by-shinyhunters-extortion-gang/",
       "subCategory": "安全漏洞",
       "id": "tech-20260728-021"
-    },
-    {
-      "id": "tech-20260727-211",
-      "title": "\"中国天眼\"FAST 望远镜已找到 1284 颗脉冲星，远超同时期国际其他望远镜总和",
-      "summary": "位于贵州的中国天眼FAST望远镜累计已找到1284颗脉冲星，远超同时期国际上所有其他望远镜发现数量的总和。该望远镜自2016年建成以来推动中国射电天文学从依赖国外数据转向自主产出核心观测数据，近期完成六根钢索维护后已恢复新一轮观测。",
-      "publishedAt": "2026-07-27T22:39:50+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/982/258.htm",
-      "subCategory": "航空航天"
-    },
-    {
-      "title": "Exploiting Volvo/Eicher's fleet management platform to gain control over all users and vehicles",
-      "summary": "一名安全研究人员发现印度商用车队管理平台My Eicher存在未授权API，暴露74.8万个客户账号、250万条可追溯至2021年的历史OTP验证码及67.6万辆车辆信息，结合账号列表与泄露OTP可实现账户完全接管并访问7.6万份包含身份证件的敏感文件。",
-      "publishedAt": "2026-07-27T14:31:47+00:00",
-      "source": "eaton-works.com",
-      "url": "https://eaton-works.com/2026/07/27/my-eicher-hack/",
-      "subCategory": "安全漏洞",
-      "id": "tech-20260728-022"
-    },
-    {
-      "id": "tech-20260729-003",
-      "title": "极氪法务部：尊重用户围绕\"出境安全守护\"功能提出真实意见和批评，传播过程中部分失实信息正在核查",
-      "summary": "极氪法务部就\"出境安全守护\"功能引发的争议发布声明，回应车主反映在境外部分地区行驶时车机功能受限的问题，强调车辆动力与制动系统不受影响、车辆仍可正常行驶，并称该机制为符合国际惯例的防盗保护措施，将推出\"跨境守护\"快捷解锁功能优化体验。",
-      "publishedAt": "2026-07-27T17:12:18+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/982/151.htm",
-      "subCategory": "智能汽车"
     },
     {
       "id": "tech-20260729-002",
@@ -643,87 +724,6 @@
       "source": "IT之家",
       "url": "https://www.ithome.com/0/981/811.htm",
       "subCategory": "XR-AR-VR"
-    },
-    {
-      "title": "蔡司半导体制造技术部门德国总部扩建 2.5 万平方米，办公楼本月启用",
-      "summary": "蔡司半导体制造技术（SMT）部门在德国奥博科亨总部新建的2.5万平方米扩建工程本月起分阶段启用，该项目2022年5月动工。公司称此举是为应对AI驱动的先进芯片需求增长而进行的前瞻投资，同时在韦茨拉尔和耶拿推进新设施建设。",
-      "publishedAt": "2026-07-26T21:54:16+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/981/805.htm",
-      "subCategory": "芯片硬件",
-      "id": "tech-20260727-210"
-    },
-    {
-      "title": "俄罗斯「联盟 MS-28」飞船载美俄航天员返回地球，完成 8 个月国际空间站驻留任务",
-      "summary": "载有俄罗斯航天员谢尔盖·库楚科夫、谢尔盖·米卡耶夫及美国航天员克里斯托弗·威廉姆斯的联盟MS-28飞船，于7月26日在哈萨克斯坦杰兹卡兹甘附近着陆，此前于2025年11月27日自拜科努尔发射升空。",
-      "publishedAt": "2026-07-26T21:34:14+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/981/809.htm",
-      "subCategory": "航空航天",
-      "id": "tech-20260727-207"
-    },
-    {
-      "title": "上纬新材子公司启元新创落户上海，计划每年推出不少于 2 款全新消费级机器人",
-      "summary": "上纬新材全资子公司启元新创正式落户上海浦东，作为上海市人工智能重点项目，未来三年将加大研发投入，计划每年推出至少2款消费级机器人。此前该公司已发布人形机器人启元Q1与可变形个人机器人启元T1，由彭志辉出任董事长。",
-      "publishedAt": "2026-07-26T21:23:38+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/981/801.htm",
-      "subCategory": "机器人",
-      "id": "tech-20260727-208"
-    },
-    {
-      "title": "vivo X300 E 手机完整参数曝光：6.59 英寸 1.5K OLED 屏，骁龙 8 Gen 5 处理器",
-      "summary": "vivo X300E手机完整参数曝光，将于7月27日开启预售，搭载骁龙8 Gen5处理器，配备6.59英寸1.5K OLED屏、5000万像素主摄、7200毫安电池及90瓦快充，机身厚7.99毫米、重203克。",
-      "publishedAt": "2026-07-26T21:21:40+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/981/800.htm",
-      "subCategory": "消费电子",
-      "id": "tech-20260727-209"
-    },
-    {
-      "id": "tech-20260726-014",
-      "title": "华为鸿蒙\"龙虾\"小艺 Claw 上线\"新人福利\"，新用户首次订阅连续包月享 7 天免费体验",
-      "summary": "华为为鸿蒙小艺Claw推出新用户优惠，持有HarmonyOS 6及以上系统的手机、平板用户升级小艺应用后，首次订阅连续包月可享7天免费体验并获得500 AI点数；同时小艺Claw在PPT生成、编码能力等方面进行了优化升级，并扩展了Skills市场功能。",
-      "publishedAt": "2026-07-26T16:22:38+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/981/756.htm",
-      "subCategory": "互联网产品"
-    },
-    {
-      "title": "飞利浦推出26.5英寸QHD 144Hz QD-OLED显示器",
-      "summary": "飞利浦Evnia 27M2N6500NS/11 QD-OLED显示器登陆日本市场，26.5英寸2560×1440分辨率，144Hz刷新率、0.03ms响应时间，支持99% DCI-P3色域与HDR10，售价约62800日元（约合人民币2599元）。",
-      "publishedAt": "2026-07-25T23:54:32+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/981/604.htm",
-      "subCategory": "消费电子",
-      "id": "tech-20260726-001"
-    },
-    {
-      "title": "Malicious sites use JavaScript to build malware in browser memory",
-      "summary": "安全研究人员发现名为SourTrade的恶意广告活动，利用伪造金融与加密货币交易网站的JavaScript代码在浏览器内存中动态组装恶意软件，活动覆盖12个国家25种语言，主要针对亚太与拉美地区散户交易者，窃取密码与击键记录。",
-      "publishedAt": "2026-07-25T23:21:00+08:00",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/malicious-sites-use-javascript-to-build-malware-in-browser-memory/",
-      "subCategory": "安全漏洞",
-      "id": "tech-20260726-012"
-    },
-    {
-      "title": "NECPC公布Windows商用平板电脑LAVIE BT53C",
-      "summary": "NECPC发布LAVIE BT53C商用平板电脑，13英寸2880×1920屏幕，可选英特尔酷睿Ultra 7 365处理器，最高32GB内存，机身约866克，支持5G及手写笔，预计9月上市，约合人民币25312元。",
-      "publishedAt": "2026-07-25T23:10:59+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/981/600.htm",
-      "subCategory": "消费电子",
-      "id": "tech-20260726-003"
-    },
-    {
-      "id": "tech-20260726-015",
-      "title": "日方拆解宇树机器人后坦言：我们短期内赶不上中国",
-      "summary": "据报道，日本技术人员对中国宇树科技机器人产品进行拆解分析后表示，短期内技术水平难以赶上中国，反映出中国机器人产业在核心技术方面已获得国际同行认可。",
-      "publishedAt": "2026-07-25T23:09:52+08:00",
-      "source": "每日经济新闻",
-      "url": "https://www.nbd.com.cn/articles/2026-07-25/4512079.html",
-      "subCategory": "机器人"
     }
   ]
 }
