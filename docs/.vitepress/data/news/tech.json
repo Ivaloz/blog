@@ -3,8 +3,125 @@
   "slug": "tech",
   "title": "科技新闻",
   "description": "前沿科技、互联网产品、芯片硬件、开源生态。",
-  "updatedAt": "2026-07-29T20:45:00+08:00",
+  "updatedAt": "2026-07-30T09:10:00+08:00",
   "items": [
+    {
+      "title": "华为 MatePad Pro 2026 旗舰平板官宣 8 月 5 日亮相",
+      "summary": "华为宣布MatePad Pro 2026将于8月5日全场景新品发布会亮相，此前曝光信息显示其配备11.95/12英寸OLED屏、66W快充、T93系列芯片，并支持北斗短报文卫星通信。",
+      "publishedAt": "2026-07-30T08:33:31+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/983/391.htm",
+      "subCategory": "消费电子",
+      "id": "tech-20260730-001"
+    },
+    {
+      "title": "研扬发布 MIX-Q870A1 主板：AI 算力最高 36 TOPS，配双网口",
+      "summary": "研扬科技发布Mini-ITX主板MIX-Q870A1，支持英特尔酷睿Ultra 200S处理器（最高65W），借助NPU与Xe LPG核显实现最高36 TOPS算力，并配备双M.2插槽及1GbE/2.5GbE双网口。",
+      "publishedAt": "2026-07-30T08:32:59+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/983/389.htm",
+      "subCategory": "芯片硬件",
+      "id": "tech-20260730-002"
+    },
+    {
+      "title": "马自达确认下一代 MX-5 将电动化，更高端的跑车也在筹备中",
+      "summary": "马自达CEO宣布下一代MX-5（代号NE）将从研发阶段起纳入电动化方案，目标整备质量控制在1000-1200公斤以内，预计2028年前后推出，同时公司正筹备一款更高端的旗舰跑车。",
+      "publishedAt": "2026-07-30T08:29:40+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/983/388.htm",
+      "subCategory": "智能汽车",
+      "id": "tech-20260730-009"
+    },
+    {
+      "title": "文昌航天发射场实现第 50 次发射，今年还将执行嫦娥七号等重大任务",
+      "summary": "中国7月29日在文昌航天发射场用长征七号甲运载火箭成功发射天链三号01星，这是该发射场建成以来的第50次发射，官方称今年还将执行嫦娥七号等任务。",
+      "publishedAt": "2026-07-30T08:22:54+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/983/386.htm",
+      "subCategory": "航空航天",
+      "id": "tech-20260730-003"
+    },
+    {
+      "title": "谷歌 Waymo 展示网约车 Ojai：整合 Gemini AI，三屏协同显示",
+      "summary": "Waymo展示旗下网约车Ojai座舱升级，引入车内AI助手并配备三块协同显示屏，可根据乘客座位调整内容，另设“静音模式”仅显示行程信息，该AI助手不参与车辆驾驶决策。",
+      "publishedAt": "2026-07-30T07:59:21+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/983/381.htm",
+      "subCategory": "智能汽车",
+      "id": "tech-20260730-012"
+    },
+    {
+      "title": "MINI 全新硬派越野版 Countryman 启动测试，今年 10 月首秀",
+      "summary": "MINI正在美国科罗拉多落基山脉测试一款越野版Countryman，车身离地间隙明显提升，配黑色轮毂与全地形轮胎，预计今年10月首秀，随后将参加2026年Rebelle女子越野拉力赛。",
+      "publishedAt": "2026-07-30T07:49:12+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/983/379.htm",
+      "subCategory": "智能汽车",
+      "id": "tech-20260730-010"
+    },
+    {
+      "title": "Russian hackers exploit Exchange OWA zero-day for long-term mailbox access",
+      "summary": "研究机构Proofpoint发现俄罗斯背景黑客组织Laundry Bear利用微软Exchange OWA跨站脚本零日漏洞CVE-2026-42897投放OWAReaper后门，针对欧美政府、电信、金融等机构邮箱实施长期隐蔽访问。",
+      "publishedAt": "2026-07-29T19:44:00-04:00",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/russian-hackers-exploit-exchange-owa-zero-day-for-long-term-mailbox-access/",
+      "subCategory": "安全漏洞",
+      "id": "tech-20260730-013"
+    },
+    {
+      "title": "马斯克 SpaceX 再获 16 亿美元订单，由猎鹰 9 号执行美国太空军 18 次发射任务",
+      "summary": "SpaceX获得美国太空军价值16亿美元合同，将使用猎鹰9号火箭执行18次发射任务，部署用于空中目标探测与追踪的军用卫星，使其今年获得的五角大楼合同总额至少达70亿美元。",
+      "publishedAt": "2026-07-30T07:34:29+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/983/375.htm",
+      "subCategory": "航空航天",
+      "id": "tech-20260730-004"
+    },
+    {
+      "title": "三星首款耳夹式耳机 Galaxy Buds On 示意图曝光",
+      "summary": "三星应用程序中曝光其首款耳夹式耳机设计图，暂命名Galaxy Buds On或Buds Able，采用圆形模块与弧形支架挂耳结构，充电盒配LED指示灯，推测为开放式耳机而非骨传导产品。",
+      "publishedAt": "2026-07-30T07:28:32+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/983/373.htm",
+      "subCategory": "消费电子",
+      "id": "tech-20260730-011"
+    },
+    {
+      "title": "奔驰“最小 SUV”迎来电动化换代，全新 GLA 正式首秀",
+      "summary": "奔驰发布换代GLA紧凑型SUV，作为2028年款车型提供纯电与混动版本，纯电版搭载85.0kWh电池，GLA 250+功率200kW，GLA 350 4MATIC零百加速5.3秒，WLTP续航最高657公里。",
+      "publishedAt": "2026-07-30T07:26:08+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/983/370.htm",
+      "subCategory": "智能汽车",
+      "id": "tech-20260730-005"
+    },
+    {
+      "title": "七彩虹发布 Rimbook L1 Plus 笔记本电脑：16 英寸 120Hz 屏幕，AMD Ryzen 7 7735HS 处理器",
+      "summary": "七彩虹推出Rimbook L1 Plus笔记本电脑，搭载AMD锐龙7 7735HS处理器及核显Radeon 680M，配16GB LPDDR5内存、512GB PCIe4.0固态硬盘，16英寸2560×1600分辨率120Hz屏幕，机身重约1.4kg。",
+      "publishedAt": "2026-07-30T07:17:34+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/983/369.htm",
+      "subCategory": "消费电子",
+      "id": "tech-20260730-006"
+    },
+    {
+      "title": "长江存储深夜辟谣：网传核心 3D NAND 专利全部无效系严重误导",
+      "summary": "长江存储发布声明，否认网传其核心3D NAND专利19项权利要求被美国专利商标局全部裁定无效的说法，称该消息严重误导，并表示已就相关专利对美光提起侵权诉讼，将追究传播者责任。",
+      "publishedAt": "2026-07-30T06:57:27+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/983/365.htm",
+      "subCategory": "芯片硬件",
+      "id": "tech-20260730-007"
+    },
+    {
+      "title": "苹果首次上架翻新 Studio Display XDR，八五折 2459 美元起",
+      "summary": "苹果首次在美国、澳大利亚、加拿大、日本等市场上架官方认证翻新版Studio Display XDR显示器，基础款起价2459美元，较原价2899美元优惠约15%，提供一年保修。",
+      "publishedAt": "2026-07-30T06:56:46+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/983/364.htm",
+      "subCategory": "消费电子",
+      "id": "tech-20260730-008"
+    },
     {
       "title": "国产大飞机 C919 高原型首架机起飞",
       "summary": "C919高原型首架机于7月29日7时59分从上海浦东国际机场第四跑道起飞，开始首飞验证工作；截至目前C919已累计交付41架，安全飞行时间超13万小时。",
@@ -40,24 +157,6 @@
       "url": "https://www.ithome.com/0/982/814.htm",
       "subCategory": "网络基础设施",
       "id": "tech-20260729-504"
-    },
-    {
-      "title": "NASA委托太空机器人LINK在轨失控翻滚，原计划为老化卫星提升轨道",
-      "summary": "Katalyst Space公司为NASA打造的LINK飞行器7月3日发射后在在轨测试阶段失控翻滚，三个反作用轮中两个失效且一套推进系统出现故障，团队正尝试用备用推进器恢复姿态，该任务原计划将老化的雨燕天文卫星推升至更高轨道。",
-      "publishedAt": "2026-07-29T03:07:31+08:00",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/28/the-robot-nasa-hired-to-lift-a-orbital-telescope-is-tumbling-out-of-control/",
-      "subCategory": "航空航天",
-      "id": "tech-20260729-507"
-    },
-    {
-      "title": "Waymo等自动驾驶出租车运营商因阻碍应急响应遭美国国会新法案审查",
-      "summary": "针对Waymo等无人驾驶车辆多次阻挡救护车消防车、误入事故现场的问题，美国众议员提出AV应急响应协调法案，拟要求建立应急协议、24小时官员热线及NHTSA统一安全标准，Waymo表示支持联邦统一规范。",
-      "publishedAt": "2026-07-29T03:06:33+08:00",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/28/waymo-robotaxi-operators-face-fresh-scrutiny-over-emergency-response-failures/",
-      "subCategory": "智能汽车",
-      "id": "tech-20260729-506"
     },
     {
       "title": "荣耀起诉电商商家手机壳商标侵权，双方达成和解",
@@ -132,15 +231,6 @@
       "id": "tech-20260729-712"
     },
     {
-      "title": "美国最大电网PJM将对大型数据中心实施临时限电以防止大范围停电",
-      "summary": "服务弗吉尼亚至伊利诺伊州6700万用户的PJM电网计划从2027年6月起，在电力紧张时对50兆瓦以上大型数据中心实施临时限电并提前通知与补偿，原因是数据中心用电激增导致容量拍卖不足、批发电价近一年内几乎翻倍。",
-      "publishedAt": "2026-07-28T23:42:26+08:00",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/28/data-centers-may-face-temporary-power-cuts-to-prevent-blackouts-on-largest-us-grid/",
-      "subCategory": "云计算",
-      "id": "tech-20260729-508"
-    },
-    {
       "title": "无人机厂商CubePilot遭DNS劫持攻击，用户凭证可能被截获",
       "summary": "澳大利亚无人机飞控厂商CubePilot证实其cubepilot.org域名于7月24日遭DNS劫持，攻击者借此获取覆盖所有子域名的TLS证书并可能截获访问其门户与论坛用户输入的凭证，公司已收回域名控制权并报案。",
       "publishedAt": "2026-07-28T17:17:00-04:00",
@@ -148,6 +238,33 @@
       "url": "https://www.bleepingcomputer.com/news/security/cubepilot-drone-software-dev-hit-by-dns-hijacking-to-intercept-traffic/",
       "subCategory": "安全漏洞",
       "id": "tech-20260729-505"
+    },
+    {
+      "title": "NASA委托太空机器人LINK在轨失控翻滚，原计划为老化卫星提升轨道",
+      "summary": "Katalyst Space公司为NASA打造的LINK飞行器7月3日发射后在在轨测试阶段失控翻滚，三个反作用轮中两个失效且一套推进系统出现故障，团队正尝试用备用推进器恢复姿态，该任务原计划将老化的雨燕天文卫星推升至更高轨道。",
+      "publishedAt": "2026-07-29T03:07:31+08:00",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/28/the-robot-nasa-hired-to-lift-a-orbital-telescope-is-tumbling-out-of-control/",
+      "subCategory": "航空航天",
+      "id": "tech-20260729-507"
+    },
+    {
+      "title": "Waymo等自动驾驶出租车运营商因阻碍应急响应遭美国国会新法案审查",
+      "summary": "针对Waymo等无人驾驶车辆多次阻挡救护车消防车、误入事故现场的问题，美国众议员提出AV应急响应协调法案，拟要求建立应急协议、24小时官员热线及NHTSA统一安全标准，Waymo表示支持联邦统一规范。",
+      "publishedAt": "2026-07-29T03:06:33+08:00",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/28/waymo-robotaxi-operators-face-fresh-scrutiny-over-emergency-response-failures/",
+      "subCategory": "智能汽车",
+      "id": "tech-20260729-506"
+    },
+    {
+      "title": "美国最大电网PJM将对大型数据中心实施临时限电以防止大范围停电",
+      "summary": "服务弗吉尼亚至伊利诺伊州6700万用户的PJM电网计划从2027年6月起，在电力紧张时对50兆瓦以上大型数据中心实施临时限电并提前通知与补偿，原因是数据中心用电激增导致容量拍卖不足、批发电价近一年内几乎翻倍。",
+      "publishedAt": "2026-07-28T23:42:26+08:00",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/28/data-centers-may-face-temporary-power-cuts-to-prevent-blackouts-on-largest-us-grid/",
+      "subCategory": "云计算",
+      "id": "tech-20260729-508"
     },
     {
       "id": "tech-20260729-004",
@@ -213,87 +330,6 @@
       "id": "tech-20260728-010"
     },
     {
-      "title": "外媒解读：微软虽收紧 KMS 服务，但并不在意普通用户使用盗版 Win11",
-      "summary": "外媒Windows Latest分析称，微软近期收紧KMS验证主要针对企业自建KMS服务器，而非普通消费者；新的基于TPM的安全措施旨在打击企业环境中非法激活未授权设备的欺诈性KMS服务器，微软并未追查普通用户使用的盗版Windows系统。",
-      "publishedAt": "2026-07-28T07:57:37+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/982/295.htm",
-      "subCategory": "操作系统",
-      "id": "tech-20260728-009"
-    },
-    {
-      "title": "微软强推 Office 升级广告横幅，付费 Microsoft 365 用户也无法关闭",
-      "summary": "微软在Office应用中加入无法关闭的升级广告横幅，即便是付费Microsoft 365订阅用户也无法关闭；横幅用于推广套餐升级，展示Copilot额度与云存储等功能，引发用户对已付费软件中出现推广内容的不满。",
-      "publishedAt": "2026-07-28T07:53:41+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/982/293.htm",
-      "subCategory": "互联网产品",
-      "id": "tech-20260728-008"
-    },
-    {
-      "title": "宾利预热首款纯电车型 Torcal 内饰：手工切割水晶、保时捷卡宴同款曲面大屏",
-      "summary": "宾利公布其首款纯电车型Torcal内饰设计，采用手工切割水晶饰件及与保时捷卡宴同款的曲面大屏，新车基于与保时捷共享的PPE平台打造，将于9月23日正式发布，预计2027年第三季度进入美国市场，定价约20万至25万美元。",
-      "publishedAt": "2026-07-28T07:53:05+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/982/292.htm",
-      "subCategory": "智能汽车",
-      "id": "tech-20260728-007"
-    },
-    {
-      "title": "微软 Win10/Win11 经典版 Outlook 于 2027 年 3 月启动迁移，维护支持至 2029 年",
-      "summary": "微软宣布将于2027年3月启动企业环境经典版Outlook的迁移（opt-out）阶段，引导用户转向新版Outlook；持有有效许可的用户可继续获得经典版维护支持至2029年，但迁移启动后不再新增功能。",
-      "publishedAt": "2026-07-28T07:36:10+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/982/290.htm",
-      "subCategory": "操作系统",
-      "id": "tech-20260728-006"
-    },
-    {
-      "title": "苹果发布 macOS Sonoma 14.8.8/Sequoia 15.7.8 更新，修复 138 个安全漏洞",
-      "summary": "苹果发布macOS Sonoma 14.8.8与Sequoia 15.7.8安全更新，共修复138个安全漏洞；同期发布的macOS 26 Tahoe更新修复155个漏洞，其中部分漏洞可能被利用获取应用的系统root权限。",
-      "publishedAt": "2026-07-28T07:09:41+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/982/280.htm",
-      "subCategory": "安全漏洞",
-      "id": "tech-20260728-004"
-    },
-    {
-      "title": "微软 Xbox 大裁员后问题频发：商店连续异常，玩家疑似可利用漏洞下载未购买游戏",
-      "summary": "自7月23日起Xbox服务多次出现故障，微软商店与账号访问功能受影响；故障期间部分玩家发现可利用漏洞免费下载并游玩未购买的游戏，主要涉及已下架的Xbox 360老游戏。",
-      "publishedAt": "2026-07-28T07:09:14+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/982/279.htm",
-      "subCategory": "安全漏洞",
-      "id": "tech-20260728-005"
-    },
-    {
-      "title": "影响全球约 50 万 macOS 用户，Claude Cowork 智能体 AI 爆漏洞可读写任意 Mac 文件",
-      "summary": "Anthropic的Claude Cowork被曝存在安全漏洞，攻击者可利用Linux内核缺陷CVE-2026-46331逃逸沙箱并读写Mac任意位置文件，修复前影响约50万运行本地Cowork会话的macOS用户。",
-      "publishedAt": "2026-07-28T06:57:17+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/982/277.htm",
-      "subCategory": "安全漏洞",
-      "id": "tech-20260728-002"
-    },
-    {
-      "title": "马斯克\"超级应用\"关键一步：X Money 正式在美国上线，支持苹果钱包绑卡返现 3%、年化收益最高 6%",
-      "summary": "X Money已在美国正式上线，向Premium及Premium+订阅用户提供存款、点对点转账及Visa借记卡服务，Premium+用户年化收益最高6%，X Card消费享3%返现，并支持绑定苹果钱包。",
-      "publishedAt": "2026-07-28T06:55:37+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/982/276.htm",
-      "subCategory": "互联网产品",
-      "id": "tech-20260728-003"
-    },
-    {
-      "title": "微软发布 Win11 Experimental 频道 Build 29634.1000 预览版：新增语音访问人声隔离等多项改进",
-      "summary": "微软面向Windows Experimental频道推送Build 29634.1000预览版，新增语音访问人声隔离功能（本地处理过滤背景噪音）、现代化账户控制窗口、盲文显示器USB读屏支持，并将表情面板GIF来源由Tenor替换为GIPHY。",
-      "publishedAt": "2026-07-28T05:02:33+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/982/272.htm",
-      "subCategory": "操作系统",
-      "id": "tech-20260728-001"
-    },
-    {
       "title": "爆料称Nothing将于9月推出旗下首款智能手表",
       "summary": "据爆料者Yogesh Brar透露，Nothing正研发旗下首款自主品牌智能手表，预计9月发布，采用透明设计语言，定价低于300美元，可能运行Wear OS，区别于CMF子品牌产品。",
       "publishedAt": "2026-07-28",
@@ -348,31 +384,31 @@
       "id": "tech-20260728-713"
     },
     {
-      "id": "tech-20260727-212",
-      "title": "大众汽车否认呼吁欧盟对中国混动汽车加征关税",
-      "summary": "大众汽车集团发表声明澄清，CEO奥博穆在一场财经会议上并未明确呼吁加征关税，而是主张全面考虑多种方案以保证欧洲与其他地区的公平竞争，支持中国车企在欧洲本地化生产；若欧盟对中国混动车加征关税，其税率不应超过现行纯电动车关税水平。",
-      "publishedAt": "2026-07-27T23:19:20+08:00",
+      "title": "外媒解读：微软虽收紧 KMS 服务，但并不在意普通用户使用盗版 Win11",
+      "summary": "外媒Windows Latest分析称，微软近期收紧KMS验证主要针对企业自建KMS服务器，而非普通消费者；新的基于TPM的安全措施旨在打击企业环境中非法激活未授权设备的欺诈性KMS服务器，微软并未追查普通用户使用的盗版Windows系统。",
+      "publishedAt": "2026-07-28T07:57:37+08:00",
       "source": "IT之家",
-      "url": "https://www.ithome.com/0/982/261.htm",
-      "subCategory": "智能汽车"
+      "url": "https://www.ithome.com/0/982/295.htm",
+      "subCategory": "操作系统",
+      "id": "tech-20260728-009"
     },
     {
-      "id": "tech-20260727-211",
-      "title": "\"中国天眼\"FAST 望远镜已找到 1284 颗脉冲星，远超同时期国际其他望远镜总和",
-      "summary": "位于贵州的中国天眼FAST望远镜累计已找到1284颗脉冲星，远超同时期国际上所有其他望远镜发现数量的总和。该望远镜自2016年建成以来推动中国射电天文学从依赖国外数据转向自主产出核心观测数据，近期完成六根钢索维护后已恢复新一轮观测。",
-      "publishedAt": "2026-07-27T22:39:50+08:00",
+      "title": "微软强推 Office 升级广告横幅，付费 Microsoft 365 用户也无法关闭",
+      "summary": "微软在Office应用中加入无法关闭的升级广告横幅，即便是付费Microsoft 365订阅用户也无法关闭；横幅用于推广套餐升级，展示Copilot额度与云存储等功能，引发用户对已付费软件中出现推广内容的不满。",
+      "publishedAt": "2026-07-28T07:53:41+08:00",
       "source": "IT之家",
-      "url": "https://www.ithome.com/0/982/258.htm",
-      "subCategory": "航空航天"
+      "url": "https://www.ithome.com/0/982/293.htm",
+      "subCategory": "互联网产品",
+      "id": "tech-20260728-008"
     },
     {
-      "title": "PSA: Your Claude shared chats and Artifacts may have ended up on Google",
-      "summary": "Claude平台通过分享链接生成的对话与Artifacts被谷歌搜索收录，暴露包括医疗记录、公司文件及儿童联系信息在内的敏感内容；Anthropic表示问题源于用户主动公开分享链接，截至周一下午问题已基本得到修复。",
-      "publishedAt": "2026-07-27T20:19:42+00:00",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/27/psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-on-google/",
-      "subCategory": "安全漏洞",
-      "id": "tech-20260728-014"
+      "title": "宾利预热首款纯电车型 Torcal 内饰：手工切割水晶、保时捷卡宴同款曲面大屏",
+      "summary": "宾利公布其首款纯电车型Torcal内饰设计，采用手工切割水晶饰件及与保时捷卡宴同款的曲面大屏，新车基于与保时捷共享的PPE平台打造，将于9月23日正式发布，预计2027年第三季度进入美国市场，定价约20万至25万美元。",
+      "publishedAt": "2026-07-28T07:53:05+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/982/292.htm",
+      "subCategory": "智能汽车",
+      "id": "tech-20260728-007"
     },
     {
       "title": "Hackers target US firms in FastJson RCE zero-day attacks",
@@ -384,6 +420,51 @@
       "id": "tech-20260728-016"
     },
     {
+      "title": "微软 Win10/Win11 经典版 Outlook 于 2027 年 3 月启动迁移，维护支持至 2029 年",
+      "summary": "微软宣布将于2027年3月启动企业环境经典版Outlook的迁移（opt-out）阶段，引导用户转向新版Outlook；持有有效许可的用户可继续获得经典版维护支持至2029年，但迁移启动后不再新增功能。",
+      "publishedAt": "2026-07-28T07:36:10+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/982/290.htm",
+      "subCategory": "操作系统",
+      "id": "tech-20260728-006"
+    },
+    {
+      "title": "苹果发布 macOS Sonoma 14.8.8/Sequoia 15.7.8 更新，修复 138 个安全漏洞",
+      "summary": "苹果发布macOS Sonoma 14.8.8与Sequoia 15.7.8安全更新，共修复138个安全漏洞；同期发布的macOS 26 Tahoe更新修复155个漏洞，其中部分漏洞可能被利用获取应用的系统root权限。",
+      "publishedAt": "2026-07-28T07:09:41+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/982/280.htm",
+      "subCategory": "安全漏洞",
+      "id": "tech-20260728-004"
+    },
+    {
+      "title": "微软 Xbox 大裁员后问题频发：商店连续异常，玩家疑似可利用漏洞下载未购买游戏",
+      "summary": "自7月23日起Xbox服务多次出现故障，微软商店与账号访问功能受影响；故障期间部分玩家发现可利用漏洞免费下载并游玩未购买的游戏，主要涉及已下架的Xbox 360老游戏。",
+      "publishedAt": "2026-07-28T07:09:14+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/982/279.htm",
+      "subCategory": "安全漏洞",
+      "id": "tech-20260728-005"
+    },
+    {
+      "title": "影响全球约 50 万 macOS 用户，Claude Cowork 智能体 AI 爆漏洞可读写任意 Mac 文件",
+      "summary": "Anthropic的Claude Cowork被曝存在安全漏洞，攻击者可利用Linux内核缺陷CVE-2026-46331逃逸沙箱并读写Mac任意位置文件，修复前影响约50万运行本地Cowork会话的macOS用户。",
+      "publishedAt": "2026-07-28T06:57:17+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/982/277.htm",
+      "subCategory": "安全漏洞",
+      "id": "tech-20260728-002"
+    },
+    {
+      "title": "马斯克\"超级应用\"关键一步：X Money 正式在美国上线，支持苹果钱包绑卡返现 3%、年化收益最高 6%",
+      "summary": "X Money已在美国正式上线，向Premium及Premium+订阅用户提供存款、点对点转账及Visa借记卡服务，Premium+用户年化收益最高6%，X Card消费享3%返现，并支持绑定苹果钱包。",
+      "publishedAt": "2026-07-28T06:55:37+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/982/276.htm",
+      "subCategory": "互联网产品",
+      "id": "tech-20260728-003"
+    },
+    {
       "title": "Arista patches VeloCloud Orchestrator zero-day exploited in attacks",
       "summary": "Arista发布补丁修复其本地部署VeloCloud Orchestrator中一个正被攻击者利用的严重未授权命令注入漏洞CVE-2026-16812，攻击者可借此获取特权功能访问权限；美国CISA已要求联邦机构在7月30日前完成缓解。",
       "publishedAt": "2026-07-27T18:49:00-04:00",
@@ -391,24 +472,6 @@
       "url": "https://www.bleepingcomputer.com/news/security/arista-patches-velocloud-orchestrator-zero-day-exploited-in-attacks/",
       "subCategory": "安全漏洞",
       "id": "tech-20260728-017"
-    },
-    {
-      "title": "Amazon's new satellite network for mobile phones could turn up the heat on SpaceX",
-      "summary": "亚马逊向美国联邦通信委员会提交申请，计划利用从Globalstar获得的频谱运营一个由5105颗卫星组成的星座网络，提供手机直连卫星服务，与SpaceX的卫星通信业务展开竞争，但仍受蓝色起源New Glenn火箭发射延误制约。",
-      "publishedAt": "2026-07-27T18:08:29+00:00",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/27/amazons-new-satellite-network-for-mobile-phones-could-turn-up-the-heat-on-spacex/",
-      "subCategory": "网络基础设施",
-      "id": "tech-20260728-015"
-    },
-    {
-      "id": "tech-20260729-003",
-      "title": "极氪法务部：尊重用户围绕\"出境安全守护\"功能提出真实意见和批评，传播过程中部分失实信息正在核查",
-      "summary": "极氪法务部就\"出境安全守护\"功能引发的争议发布声明，回应车主反映在境外部分地区行驶时车机功能受限的问题，强调车辆动力与制动系统不受影响、车辆仍可正常行驶，并称该机制为符合国际惯例的防盗保护措施，将推出\"跨境守护\"快捷解锁功能优化体验。",
-      "publishedAt": "2026-07-27T17:12:18+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/982/151.htm",
-      "subCategory": "智能汽车"
     },
     {
       "title": "New Dysphoria DDoS botnet spreads to 200k devices worldwide",
@@ -420,13 +483,31 @@
       "id": "tech-20260728-018"
     },
     {
-      "title": "Exploiting Volvo/Eicher's fleet management platform to gain control over all users and vehicles",
-      "summary": "一名安全研究人员发现印度商用车队管理平台My Eicher存在未授权API，暴露74.8万个客户账号、250万条可追溯至2021年的历史OTP验证码及67.6万辆车辆信息，结合账号列表与泄露OTP可实现账户完全接管并访问7.6万份包含身份证件的敏感文件。",
-      "publishedAt": "2026-07-27T14:31:47+00:00",
-      "source": "eaton-works.com",
-      "url": "https://eaton-works.com/2026/07/27/my-eicher-hack/",
+      "title": "微软发布 Win11 Experimental 频道 Build 29634.1000 预览版：新增语音访问人声隔离等多项改进",
+      "summary": "微软面向Windows Experimental频道推送Build 29634.1000预览版，新增语音访问人声隔离功能（本地处理过滤背景噪音）、现代化账户控制窗口、盲文显示器USB读屏支持，并将表情面板GIF来源由Tenor替换为GIPHY。",
+      "publishedAt": "2026-07-28T05:02:33+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/982/272.htm",
+      "subCategory": "操作系统",
+      "id": "tech-20260728-001"
+    },
+    {
+      "title": "PSA: Your Claude shared chats and Artifacts may have ended up on Google",
+      "summary": "Claude平台通过分享链接生成的对话与Artifacts被谷歌搜索收录，暴露包括医疗记录、公司文件及儿童联系信息在内的敏感内容；Anthropic表示问题源于用户主动公开分享链接，截至周一下午问题已基本得到修复。",
+      "publishedAt": "2026-07-27T20:19:42+00:00",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/27/psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-on-google/",
       "subCategory": "安全漏洞",
-      "id": "tech-20260728-022"
+      "id": "tech-20260728-014"
+    },
+    {
+      "title": "Amazon's new satellite network for mobile phones could turn up the heat on SpaceX",
+      "summary": "亚马逊向美国联邦通信委员会提交申请，计划利用从Globalstar获得的频谱运营一个由5105颗卫星组成的星座网络，提供手机直连卫星服务，与SpaceX的卫星通信业务展开竞争，但仍受蓝色起源New Glenn火箭发射延误制约。",
+      "publishedAt": "2026-07-27T18:08:29+00:00",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/27/amazons-new-satellite-network-for-mobile-phones-could-turn-up-the-heat-on-spacex/",
+      "subCategory": "网络基础设施",
+      "id": "tech-20260728-015"
     },
     {
       "title": "Apple sued over fake App Store crypto wallet app stealing $1.8M in Bitcoin",
@@ -447,6 +528,15 @@
       "id": "tech-20260728-020"
     },
     {
+      "id": "tech-20260727-212",
+      "title": "大众汽车否认呼吁欧盟对中国混动汽车加征关税",
+      "summary": "大众汽车集团发表声明澄清，CEO奥博穆在一场财经会议上并未明确呼吁加征关税，而是主张全面考虑多种方案以保证欧洲与其他地区的公平竞争，支持中国车企在欧洲本地化生产；若欧盟对中国混动车加征关税，其税率不应超过现行纯电动车关税水平。",
+      "publishedAt": "2026-07-27T23:19:20+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/982/261.htm",
+      "subCategory": "智能汽车"
+    },
+    {
       "title": "Ernst & Young data breach claimed by ShinyHunters extortion gang",
       "summary": "勒索团伙ShinyHunters宣称对安永会计师事务所的一次数据泄露事件负责，称其通过对第三方IT支持系统的供应链攻击获取凭证，进而访问安永的Jira、GitHub和Azure环境，据报泄露的客户税务信息采集于3月28日至4月12日之间。",
       "publishedAt": "2026-07-27T11:12:00-04:00",
@@ -454,6 +544,33 @@
       "url": "https://www.bleepingcomputer.com/news/security/ernst-and-young-data-breach-claimed-by-shinyhunters-extortion-gang/",
       "subCategory": "安全漏洞",
       "id": "tech-20260728-021"
+    },
+    {
+      "id": "tech-20260727-211",
+      "title": "\"中国天眼\"FAST 望远镜已找到 1284 颗脉冲星，远超同时期国际其他望远镜总和",
+      "summary": "位于贵州的中国天眼FAST望远镜累计已找到1284颗脉冲星，远超同时期国际上所有其他望远镜发现数量的总和。该望远镜自2016年建成以来推动中国射电天文学从依赖国外数据转向自主产出核心观测数据，近期完成六根钢索维护后已恢复新一轮观测。",
+      "publishedAt": "2026-07-27T22:39:50+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/982/258.htm",
+      "subCategory": "航空航天"
+    },
+    {
+      "title": "Exploiting Volvo/Eicher's fleet management platform to gain control over all users and vehicles",
+      "summary": "一名安全研究人员发现印度商用车队管理平台My Eicher存在未授权API，暴露74.8万个客户账号、250万条可追溯至2021年的历史OTP验证码及67.6万辆车辆信息，结合账号列表与泄露OTP可实现账户完全接管并访问7.6万份包含身份证件的敏感文件。",
+      "publishedAt": "2026-07-27T14:31:47+00:00",
+      "source": "eaton-works.com",
+      "url": "https://eaton-works.com/2026/07/27/my-eicher-hack/",
+      "subCategory": "安全漏洞",
+      "id": "tech-20260728-022"
+    },
+    {
+      "id": "tech-20260729-003",
+      "title": "极氪法务部：尊重用户围绕\"出境安全守护\"功能提出真实意见和批评，传播过程中部分失实信息正在核查",
+      "summary": "极氪法务部就\"出境安全守护\"功能引发的争议发布声明，回应车主反映在境外部分地区行驶时车机功能受限的问题，强调车辆动力与制动系统不受影响、车辆仍可正常行驶，并称该机制为符合国际惯例的防盗保护措施，将推出\"跨境守护\"快捷解锁功能优化体验。",
+      "publishedAt": "2026-07-27T17:12:18+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/982/151.htm",
+      "subCategory": "智能汽车"
     },
     {
       "id": "tech-20260729-002",
@@ -607,123 +724,6 @@
       "source": "每日经济新闻",
       "url": "https://www.nbd.com.cn/articles/2026-07-25/4512079.html",
       "subCategory": "机器人"
-    },
-    {
-      "title": "2025年我国服务机器人产量达1858.1万套，同比增长16.1%",
-      "summary": "据官方发布的信息化发展报告，2025年我国服务机器人产量达1858.1万套，同比增长16.1%，数字经济核心产业增加值占GDP比重超过10.5%，AI手机、AI电脑、智能眼镜等产品加速普及。",
-      "publishedAt": "2026-07-25T23:07:25+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/981/599.htm",
-      "subCategory": "机器人",
-      "id": "tech-20260726-008"
-    },
-    {
-      "title": "Nothing联合创始人回应裁员传闻：数字被严重夸大",
-      "summary": "Nothing联合创始人Akis Evangelidis否认公司退出市场传闻，称公司正在进行组织架构调整以备未来发展，网传裁员数字被严重夸大，并透露Nothing Phone(4b)首日销量达29537台，创同价位记录。",
-      "publishedAt": "2026-07-25T22:49:25+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/981/598.htm",
-      "subCategory": "消费电子",
-      "id": "tech-20260726-006"
-    },
-    {
-      "title": "WALLHACK公布首款键盘K-001",
-      "summary": "此前以电竞玻璃鼠标垫知名的WALLHACK推出首款键盘K-001，采用65%配列与铝合金机身，支持角度可调支架，搭载Gateron KS-TR线性磁轴，报点率达8kHz，输入延迟0.13毫秒。",
-      "publishedAt": "2026-07-25T22:32:25+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/981/597.htm",
-      "subCategory": "消费电子",
-      "id": "tech-20260726-005"
-    },
-    {
-      "title": "华为AI眼镜推送6.0.0.157 SP2版本更新，支持“看一下支付宝小蓝环”支付",
-      "summary": "华为AI眼镜推送6.0.0.157 SP2版本更新，新增“看一下支付宝小蓝环”免密支付功能，同时增加AI快捷键拍照识别、录制起止语音提示、优化视频导入体验及电池续航表现。",
-      "publishedAt": "2026-07-25T22:25:57+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/981/595.htm",
-      "subCategory": "XR-AR-VR",
-      "id": "tech-20260726-009"
-    },
-    {
-      "title": "ShinyHunters data leaks fuel $2,000 sextortion email scam",
-      "summary": "攻击者利用ShinyHunters此前泄露数据中的邮箱地址，发起大规模性勒索邮件诈骗活动，谎称已入侵受害者设备并录制不雅视频，要求48小时内支付2000美元比特币，目前无证据显示设备真的遭到入侵。",
-      "publishedAt": "2026-07-25T22:16:00+08:00",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/shinyhunters-data-leaks-fuel-2-000-sextortion-email-scam/",
-      "subCategory": "安全漏洞",
-      "id": "tech-20260726-013"
-    },
-    {
-      "title": "Keychron公布磁光微动鼠标G6 HE UltraLight",
-      "summary": "Keychron发布G6 HE UltraLight鼠标，采用MagOptic电磁光学微动开关，寿命达1亿次点击，提供42克固定电池版与46克可换电模块化版本（配重可达62克），蓝牙续航340小时。",
-      "publishedAt": "2026-07-25T21:42:10+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/981/591.htm",
-      "subCategory": "消费电子",
-      "id": "tech-20260726-002"
-    },
-    {
-      "title": "ACEMAGIC公布2.1L迷你工作站F9A，搭载AMD锐龙AI Max+395",
-      "summary": "ACEMAGIC推出2.1升迷你工作站F9A，搭载AMD锐龙AI Max+395处理器，峰值功耗140W，最高支持128GB内存与双M.2 PCIe4.0硬盘位，配备Wi-Fi 7及双2.5G网口等接口。",
-      "publishedAt": "2026-07-25T21:21:15+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/981/588.htm",
-      "subCategory": "消费电子",
-      "id": "tech-20260726-004"
-    },
-    {
-      "title": "消息称五大半导体制造设备供应商产品交付周期延长50~100%",
-      "summary": "据韩媒报道，应用材料、ASML、泛林集团、东京电子、科磊等五大半导体设备商主要产品交付周期已延长50%至100%，部分设备交期由半年延长至一年，原因是AI驱动的产能需求激增，三星、SK海力士等厂商受到影响。",
-      "publishedAt": "2026-07-25T21:09:02+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/981/587.htm",
-      "subCategory": "芯片硬件",
-      "id": "tech-20260726-007"
-    },
-    {
-      "title": "奇瑞风云A9纯电轿跑上市，超级置换价10.69万元起",
-      "summary": "奇瑞风云A9纯电轿跑正式上市，官方指导价10.99万元起，超级置换价10.69万元起，续航655公里，电机功率178kW，搭载配备激光雷达等多传感器的猎鹰智驾系统。",
-      "publishedAt": "2026-07-25T19:41:24+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/981/575.htm",
-      "subCategory": "智能汽车",
-      "id": "tech-20260726-010"
-    },
-    {
-      "title": "比亚迪方程豹钛7 EV闪充版本月交付量明显提升",
-      "summary": "比亚迪方程豹事业部总经理熊甜波表示，方程豹钛7 EV闪充版车型本月交付量已明显提升，4月大部分订单已完成交付，该车型于2026年4月上市，起售价19.98万元。",
-      "publishedAt": "2026-07-25T18:29:22+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/981/555.htm",
-      "subCategory": "智能汽车",
-      "id": "tech-20260726-011"
-    },
-    {
-      "id": "tech-20260725-019",
-      "title": "黑格G1系列破年内科技造物众筹首日记录",
-      "summary": "黑格科技（HeyGears）旗下桌面级全彩3D及UV打印机G1系列登陆Kickstarter众筹平台，24小时众筹金额突破722万美元（约合人民币4900万元），创下年内科技造物品类全球首日众筹纪录。",
-      "publishedAt": "2026-07-25T16:44:00+08:00",
-      "source": "36氪",
-      "url": "https://36kr.com/newsflashes/3910478626804868",
-      "subCategory": "消费电子"
-    },
-    {
-      "id": "tech-20260725-020",
-      "title": "Researcher Publishes GitLab RCE PoC Letting Authenticated Users Run Commands as Git",
-      "summary": "安全研究员Yuhang Wu公开针对未打补丁自建GitLab 18.11.3服务器的可用RCE概念验证漏洞利用，认证用户提交两个精心构造的Jupyter笔记本文件并请求差异对比即可以git权限执行命令，官方已发布修复版本。",
-      "publishedAt": "2026-07-25T16:34:00+08:00",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/07/researcher-publishes-gitlab-rce-poc.html",
-      "subCategory": "安全漏洞"
-    },
-    {
-      "id": "tech-20260725-005",
-      "title": "雷鸟推出“25Q6A Pro”24.5 英寸 2K 360Hz Mini LED 显示器，1649 元",
-      "summary": "雷鸟推出“25Q6A Pro”电竞显示器，24.5英寸2K分辨率Fast IPS面板，360Hz原生刷新率，180分区Mini LED背光，800尼特峰值亮度，支持DisplayHDR 600认证，7月31日开售，官方定价1649元。",
-      "publishedAt": "2026-07-25T16:30:43+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/981/541.htm",
-      "subCategory": "消费电子"
     }
   ]
 }

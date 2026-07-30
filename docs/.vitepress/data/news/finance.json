@@ -3,8 +3,53 @@
   "slug": "finance",
   "title": "投资与财经",
   "description": "宏观经济、A 股 / 港股 / 美股、一级市场融资、行业研报观点。",
-  "updatedAt": "2026-07-29T20:45:00+08:00",
+  "updatedAt": "2026-07-30T09:10:00+08:00",
   "items": [
+    {
+      "title": "美联储9票赞成3票反对维持利率不变，美股大跌道指跌超1100点",
+      "summary": "美联储FOMC以9票赞成3票反对，维持联邦基金利率目标区间在3.50%-3.75%不变，三位地方联储主席主张加息25个基点。决议公布后美股大跌，道指跌超1100点跌2.19%，纳指跌1.74%，英伟达跌超3.5%，美光跌近10%。",
+      "publishedAt": "2026-07-30T08:08:31+08:00",
+      "source": "每日经济新闻",
+      "url": "https://www.nbd.com.cn/articles/2026-07-30/4526211.html",
+      "subCategory": "政策利率",
+      "id": "finance-20260730-001"
+    },
+    {
+      "title": "中际旭创港交所上市前暗盘破发，A股回购计划促涨超4%",
+      "summary": "中际旭创港股上市前暗盘交易一度跌破980港元发行价，收报971港元跌0.92%；同期公司公告A股回购计划，金额不低于40亿元、不超过80亿元，用于股权激励或员工持股，当日A股股价涨超4%。",
+      "publishedAt": "2026-07-29T20:33:55+08:00",
+      "source": "每日经济新闻",
+      "url": "https://www.nbd.com.cn/articles/2026-07-29/4525739.html",
+      "subCategory": "港股",
+      "id": "finance-20260730-002"
+    },
+    {
+      "title": "兆易创新董事长提议回购A股股份，资金总额不超过20亿元",
+      "summary": "兆易创新公告，董事长朱一明提议通过集中竞价方式回购A股股份并注销，回购资金总额不低于10亿元、不超过20亿元；朱一明另拟自2026年12月至2027年7月增持公司股份不低于10亿元。",
+      "publishedAt": "2026-07-29T20:33:00+08:00",
+      "source": "东方财富网",
+      "url": "https://finance.eastmoney.com/a/202607293825315290.html",
+      "subCategory": "A股",
+      "id": "finance-20260730-003"
+    },
+    {
+      "title": "华锦股份副总经理闫增辉被立案调查并留置",
+      "summary": "华锦股份公告，公司副总经理闫增辉因涉嫌严重违纪违法，被监察机关立案调查并实施留置措施。公司表示已对其分管工作作出妥善安排，董事及其他高管正常履职，生产经营未受影响。",
+      "publishedAt": "2026-07-29T19:31:00+08:00",
+      "source": "新浪财经",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-07-29/doc-iniknrrf5745407.shtml",
+      "subCategory": "风险事件",
+      "id": "finance-20260730-004"
+    },
+    {
+      "title": "Brent Crude Oil Price",
+      "summary": "受中东地缘局势持续升级影响，布伦特原油期货价格7月29日大涨7.33%，报每桶90.25美元，市场担忧地区冲突可能进一步扰乱能源供应及主要航运通道运输。",
+      "publishedAt": "2026-07-29",
+      "source": "Trading Economics",
+      "url": "https://tradingeconomics.com/commodity/brent-crude-oil",
+      "subCategory": "大宗商品",
+      "id": "finance-20260729-707"
+    },
     {
       "title": "寒武纪发布2026年限制性股票激励计划",
       "summary": "芯片设计公司寒武纪推出2026年限制性股票激励计划，拟授予限制性股票500万股，约占公司总股本0.80%，授予价格为每股750元，较7月28日收盘价折价约33.51%。",
@@ -40,15 +85,6 @@
       "url": "https://www.manilatimes.net/2026/07/29/tmt-newswire/globenewswire/nxp-semiconductors-reports-second-quarter-2026-results/2393515",
       "subCategory": "公司财报",
       "id": "finance-20260729-502"
-    },
-    {
-      "title": "Brent Crude Oil Price",
-      "summary": "受中东地缘局势持续升级影响，布伦特原油期货价格7月29日大涨7.33%，报每桶90.25美元，市场担忧地区冲突可能进一步扰乱能源供应及主要航运通道运输。",
-      "publishedAt": "2026-07-29",
-      "source": "Trading Economics",
-      "url": "https://tradingeconomics.com/commodity/brent-crude-oil",
-      "subCategory": "大宗商品",
-      "id": "finance-20260729-707"
     },
     {
       "title": "Fish Audio raises $52M seed to build AI voice models for creators and enterprises",
@@ -546,6 +582,15 @@
       "subCategory": "美股"
     },
     {
+      "id": "finance-20260724-152",
+      "title": "American Express Q2 profit rises driven by higher spending and fewer delinquencies",
+      "summary": "美国运通公布第二季度业绩，净利润31.1亿美元，同比增长8%，每股收益4.53美元，超市场预期的4.40美元；营收同比增长10%，主要受持卡人消费增加及坏账率下降推动，公司上调全年营收增长预期但维持全年利润指引不变。",
+      "publishedAt": "2026-07-24T08:27:00-05:00",
+      "source": "美联社(AP)",
+      "url": "https://www.ksat.com/business/2026/07/24/american-express-q2-profit-rises-driven-by-higher-spending-and-fewer-delinquencies/",
+      "subCategory": "公司财报"
+    },
+    {
       "id": "finance-20260725-001",
       "title": "热门中概股美股盘前普跌，阿里巴巴跌超1%",
       "summary": "美股盘前中概股普遍走低，阿里巴巴、百度、微博、哔哩哔哩、名创优品跌幅均超1%；同期部分大型科技股逆势上涨，英特尔涨超2%，微软涨超1%。",
@@ -636,15 +681,6 @@
       "subCategory": "风险事件"
     },
     {
-      "id": "finance-20260724-152",
-      "title": "American Express Q2 profit rises driven by higher spending and fewer delinquencies",
-      "summary": "美国运通公布第二季度业绩，净利润31.1亿美元，同比增长8%，每股收益4.53美元，超市场预期的4.40美元；营收同比增长10%，主要受持卡人消费增加及坏账率下降推动，公司上调全年营收增长预期但维持全年利润指引不变。",
-      "publishedAt": "2026-07-24T08:27:00-05:00",
-      "source": "美联社(AP)",
-      "url": "https://www.ksat.com/business/2026/07/24/american-express-q2-profit-rises-driven-by-higher-spending-and-fewer-delinquencies/",
-      "subCategory": "公司财报"
-    },
-    {
       "id": "finance-20260724-104",
       "title": "6月末公募基金总规模达39.67万亿元续创新高",
       "summary": "中国证券投资基金业协会数据显示，截至6月末，165家公募基金管理机构管理的资产净值合计39.67万亿元，较 5月底增加0.19万亿元，连续三个月刷新历史纪录。",
@@ -652,15 +688,6 @@
       "source": "证券时报",
       "url": "https://www.stcn.com/article/detail/4038742.html",
       "subCategory": "宏观经济"
-    },
-    {
-      "id": "finance-20260724-105",
-      "title": "央行7月24日开展5000亿元MLF操作",
-      "summary": "中国人民银行公告，为保持银行体系流动性充裕，7月24日以固定数量、利率标标、多重价位中标方式开展5000亿元1年期MLF操作，当月到期4000亿元，实现净投放1000亿元。",
-      "publishedAt": "2026-07-24T07:00:14+08:00",
-      "source": "每日经济新闻",
-      "url": "https://www.nbd.com.cn/articles/2026-07-23/4504778.html",
-      "subCategory": "政策利率"
     },
     {
       "id": "finance-20260724-103",
@@ -681,6 +708,15 @@
       "subCategory": "政策利率"
     },
     {
+      "id": "finance-20260724-105",
+      "title": "央行7月24日开展5000亿元MLF操作",
+      "summary": "中国人民银行公告，为保持银行体系流动性充裕，7月24日以固定数量、利率标标、多重价位中标方式开展5000亿元1年期MLF操作，当月到期4000亿元，实现净投放1000亿元。",
+      "publishedAt": "2026-07-24T07:00:14+08:00",
+      "source": "每日经济新闻",
+      "url": "https://www.nbd.com.cn/articles/2026-07-23/4504778.html",
+      "subCategory": "政策利率"
+    },
+    {
       "title": "AI开支引发回报疑虑，纳指跌幅扩大至2%，特斯拉跌超13%，布油触及百元关口，美国长债承压",
       "summary": "美股周四夜盘走低，纳指跌幅扩大至2%，标普500跌1.1%，道指跌超1%，银行股跌超1.6%，特斯拉跌超13%。市场担忧AI基建投资能否产生足够回报，同时布伦特原油盘中触及每桶100美元，通胀担忧升温。",
       "publishedAt": "2026-07-23T22:32:00+08:00",
@@ -688,42 +724,6 @@
       "url": "https://wallstreetcn.com/articles/3777754",
       "subCategory": "美股",
       "id": "finance-20260723-301"
-    },
-    {
-      "title": "7月27日登陆科创板！长鑫科技投资价值怎么看？",
-      "summary": "存储芯片厂商长鑫科技将于7月27日在科创板挂牌，发行价8.66元/股，发行股数 66.88亿股，上市后总市值约5791.88亿元；一季度营收508亿元，同比增长719%。",
-      "publishedAt": "2026-07-23T22:22:00+08:00",
-      "source": "财联社",
-      "url": "https://www.cls.cn/detail/2435567",
-      "subCategory": "一级市场",
-      "id": "finance-20260723-305"
-    },
-    {
-      "title": "Iraq-Kuwait Border Crossing Hit by Iran; Trump Threatens \"Major Military Punishment\"",
-      "summary": "伊拉克与科威特间阿卡德拉边境口岸遭袍，此前沙特油轮在红海遭胡塞武装袋击起火（船员安全）；特朗普警告若沙特船只再遭袍击，美方将对伊朗和胡塞武装实施\"重大军事惩罚\"，美军已向中东增派部队。",
-      "publishedAt": "2026-07-23T21:33:00+08:00",
-      "source": "华尔街见闻",
-      "url": "https://wallstreetcn.com/articles/3777791",
-      "subCategory": "风险事件",
-      "id": "finance-20260723-308"
-    },
-    {
-      "title": "Alphabet现金流首度转负 AI资本支出压力考验科技巨头财报",
-      "summary": "Alphabet二季度自由现金流历史上首次转负，单季消耗现金59亿美元，尽管谷歌云业务增长82%创纪录；公司将2026年资本支出指引上调至1950至2050亿美元，股价应声下跌5%。",
-      "publishedAt": "2026-07-23T21:23:00+08:00",
-      "source": "财联社",
-      "url": "https://www.cls.cn/detail/2435521",
-      "subCategory": "公司财报",
-      "id": "finance-20260723-303"
-    },
-    {
-      "title": "原油飘升加剧通胀担忧！美债收益率集体暴涨，10年期突破4.7%刘月18个月新高",
-      "summary": "受中东局势推高油价、美国首申失业金人数意外降至18.7万及科技巨头发债融资AI资本支出等因素影响，美国10年期国债收益率升至4.71%，刘月18个月新高，30年期收益率连续12个交易日高于5%。",
-      "publishedAt": "2026-07-23T21:09:00+08:00",
-      "source": "华尔街见闻",
-      "url": "https://wallstreetcn.com/articles/3777802",
-      "subCategory": "宏观经济",
-      "id": "finance-20260723-310"
     }
   ]
 }
