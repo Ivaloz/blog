@@ -3,8 +3,62 @@
   "slug": "tech",
   "title": "科技新闻",
   "description": "前沿科技、互联网产品、芯片硬件、开源生态。",
-  "updatedAt": "2026-07-31T17:00:00+08:00",
+  "updatedAt": "2026-07-31T23:55:00+08:00",
   "items": [
+    {
+      "id": "tech-20260731-m001",
+      "title": "开源鸿蒙 OpenHarmony 6.1 LTS 发布：新增展锐 P7885 开发板",
+      "summary": "开放原子开源基金会发布OpenHarmony 6.1 LTS版本，新增统一SDK支持，为开发者提供远场通信、语音、分享等能力，针对展锐P7885芯片开发板新增5G蜂窝通信、卫星导航、星闪驱动等硬件支持，社区代码量已超1.4亿行，贡献者超1.3万名。",
+      "publishedAt": "2026-07-31T22:54:23+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/984/395.htm",
+      "subCategory": "开源生态"
+    },
+    {
+      "id": "tech-20260731-m002",
+      "title": "高德：联合哈啰、海思和开源鸿蒙，推出共享两轮行业首个 AI 原生导航方案",
+      "summary": "高德开放平台与哈啰骑行、上海海思、开源鸿蒙合作推出共享两轮车专用导航方案，哈啰领航者电助力车配备5英寸屏幕内置高德RTOS导航，支持离线地图、路线规划，搭载海思模组实现高精定位，基于OpenHarmony系统支持OTA升级和"碰一碰"开锁。",
+      "publishedAt": "2026-07-31T22:05:44+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/984/389.htm",
+      "subCategory": "互联网产品"
+    },
+    {
+      "id": "tech-20260731-m003",
+      "title": "东风风行星海 V6 将于 8 月 8 日预售，搭载华为乾崑大六座",
+      "summary": "东风风行宣布星海V6将于8月8日在成都启动预售，该车采用2+2+2六座布局，轴距2900mm，搭载华为乾崑智驾技术，双方已于6月签订合作协议，计划下半年正式上市。",
+      "publishedAt": "2026-07-31T20:39:27+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/984/373.htm",
+      "subCategory": "智能汽车"
+    },
+    {
+      "id": "tech-20260731-m004",
+      "title": "新型 AI 蠕虫披露：白色小字篡改微软 Word 文档，可自我复制传播",
+      "summary": "挪威数据科学家披露针对Copilot for Word的攻击方式，AI蠕虫通过隐藏提示词自我复制，利用白色文字在白色背景上隐形，篡改用户在Word中创建或编辑的文档并继续复制到新文档，微软已部署补丁但仍可被绕过，暂无有效解决方案。",
+      "publishedAt": "2026-07-31T14:50:40+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/984/134.htm",
+      "subCategory": "安全漏洞"
+    },
+    {
+      "id": "tech-20260731-m005",
+      "title": "CoWoS 产能受限，消息称台积电正研发类英特尔 EMIB 的半导体封装方案",
+      "summary": "台积电因CoWoS产能严重受限，正与景硕科技合作开发"quasi-EMIB"封装方案，相比CoWoS工艺可简化制造步骤、缩短生产周期，有望降低封装成本并缓解产能压力，但量产时间和客户情况暂未披露。",
+      "publishedAt": "2026-07-31T11:38:11+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/984/002.htm",
+      "subCategory": "芯片硬件"
+    },
+    {
+      "id": "tech-20260731-m006",
+      "title": "宇树科技：FCC 相关禁令不会影响公司现有主要产品，但后续开发产品存在无法在美销售风险",
+      "summary": "美国FCC将境外生产的先进机器人列入管制清单，宇树科技表示现有主要产品已获FCC认证，前述政策变更目前不会影响其在美国市场的继续销售，但新型号产品面临无法获认证而无法销售的风险，公司美国市场收入占比较高。",
+      "publishedAt": "2026-07-31T10:14:45+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/983/962.htm",
+      "subCategory": "机器人"
+    },
     {
       "title": "灵巧手走向复杂制造现场，拾玥科技开启新一轮场景验证",
       "summary": "机器人灵巧操作方案商拾玥科技与中国中车旗下子公司签署技术框架协议，双方将围绕高端装备制造场景开展灵巧操作技术适配与验证，公司已构建Lumi-Mind模型、Lumi-Tac触觉传感器与Lumi-Dex灵巧手等技术栈。",
@@ -89,7 +143,7 @@
     {
       "id": "tech-20260731-001",
       "title": "小米澎程系列技术发布会一文汇总：雷军详解昆仑架构，N90/N70 预售价亮眼",
-      "summary": "小米汽车举行\"澎程\"系列第二场技术发布会，发布昆仑技术架构，涵盖昆仑平台、昆仑超级增程与昆仑全域安全三大技术；同时公布N90 Max与N70 Max两款车型预售价，大七座增程SUV N90 Max预售价29.99万元，CLTC综合续航1705公里；五座双电机增程SUV N70 Max预售价25.99万元，纯电CLTC续航505公里，正式上市定于9月。",
+      "summary": "小米汽车举行"澎程"系列第二场技术发布会，发布昆仑技术架构，涵盖昆仑平台、昆仑超级增程与昆仑全域安全三大技术；同时公布N90 Max与N70 Max两款车型预售价，大七座增程SUV N90 Max预售价29.99万元，CLTC综合续航1705公里；五座双电机增程SUV N70 Max预售价25.99万元，纯电CLTC续航505公里，正式上市定于9月。",
       "publishedAt": "2026-07-30T22:49:00+08:00",
       "source": "IT之家",
       "url": "https://www.ithome.com/0/983/903.htm",
@@ -636,7 +690,7 @@
       "id": "tech-20260728-002"
     },
     {
-      "title": "马斯克\"超级应用\"关键一步：X Money 正式在美国上线，支持苹果钱包绑卡返现 3%、年化收益最高 6%",
+      "title": "马斯克"超级应用"关键一步：X Money 正式在美国上线，支持苹果钱包绑卡返现 3%、年化收益最高 6%",
       "summary": "X Money已在美国正式上线，向Premium及Premium+订阅用户提供存款、点对点转账及Visa借记卡服务，Premium+用户年化收益最高6%，X Card消费享3%返现，并支持绑定苹果钱包。",
       "publishedAt": "2026-07-28T06:55:37+08:00",
       "source": "IT之家",
@@ -663,42 +717,6 @@
       "id": "tech-20260728-703"
     },
     {
-      "title": "vBulletin修复可被公开利用的严重预认证RCE漏洞",
-      "summary": "vBulletin论坛软件被曝存在CVE-2026-61511严重漏洞，因模板渲染函数未正确过滤输入导致未经身份验证的攻击者可执行任意PHP代码，官方已发布6.2.2版本补丁，5.x分支不再获得更新。",
-      "publishedAt": "2026-07-28",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/vbulletin-fixes-critical-pre-auth-rce-flaw-with-public-exploit/",
-      "subCategory": "安全漏洞",
-      "id": "tech-20260728-706"
-    },
-    {
-      "title": "研究发现逾2.4万台服务器BMC因20年老漏洞泄露密码哈希",
-      "summary": "安全公司Lava发现超过2.4万台联网服务器的BMC管理接口受CVE-2013-4786影响，攻击者可获取认证响应并离线破解密码，其中约2340台使用可被字典破解的弱口令，美国占受影响服务器的39%。",
-      "publishedAt": "2026-07-28",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/over-24-000-exposed-server-bmcs-leak-password-hash-via-decades-old-flaw/",
-      "subCategory": "安全漏洞",
-      "id": "tech-20260728-707"
-    },
-    {
-      "title": "CISA联合多国发布关键基础设施OT系统隔离指南CI Fortify",
-      "summary": "美国CISA、联邦调查局及澳大利亚网络安全中心等机构联合发布CI Fortify指南，建议关键基础设施运营商梳理核心OT资产、绘制系统连接图并建立物理与逻辑隔离点，以便在遭遇网络攻击时快速断网自持运行。",
-      "publishedAt": "2026-07-28",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-shares-advice-on-isolating-vital-systems-during-cyberattacks/",
-      "subCategory": "网络基础设施",
-      "id": "tech-20260728-708"
-    },
-    {
-      "title": "GitHub推出多项措施打击npm与GitHub Actions供应链攻击",
-      "summary": "GitHub针对npm和GitHub Actions供应链攻击的入侵、窃取凭证与传播三个阶段推出防护措施，包括限制高危账号权限、Actions工作流执行策略、npm分阶段发布及默认三天冷却期等。",
-      "publishedAt": "2026-07-28",
-      "source": "GitHub Blog",
-      "url": "https://github.blog/security/supply-chain-security/disrupting-supply-chain-attacks-on-npm-and-github-actions/",
-      "subCategory": "安全漏洞",
-      "id": "tech-20260728-709"
-    },
-    {
       "title": "百度Apollo Go联合Lyft旗下Freenow在伦敦启动Robotaxi路测",
       "summary": "百度自动驾驶平台Apollo Go携第六代RT6车型与Lyft旗下Freenow合作，在伦敦布伦特区启动配备安全员的道路测试，计划2027年视监管审批情况向公众开放载人服务，成为首个在伦敦实测的中国自动驾驶车队。",
       "publishedAt": "2026-07-28",
@@ -706,24 +724,6 @@
       "url": "https://techcrunch.com/2026/07/28/lyft-and-baidu-enter-londons-robotaxi-battleground-as-testing-begins/",
       "subCategory": "智能汽车",
       "id": "tech-20260728-713"
-    },
-    {
-      "id": "tech-20260727-212",
-      "title": "大众汽车否认呼吁欧盟对中国混动汽车加征关税",
-      "summary": "大众汽车集团发表声明澄清，CEO奥博穆在一场财经会议上并未明确呼吁加征关税，而是主张全面考虑多种方案以保证欧洲与其他地区的公平竞争，支持中国车企在欧洲本地化生产；若欧盟对中国混动车加征关税，其税率不应超过现行纯电动车关税水平。",
-      "publishedAt": "2026-07-27T23:19:20+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/982/261.htm",
-      "subCategory": "智能汽车"
-    },
-    {
-      "id": "tech-20260727-211",
-      "title": "\"中国天眼\"FAST 望远镜已找到 1284 颗脉冲星，远超同时期国际其他望远镜总和",
-      "summary": "位于贵州的中国天眼FAST望远镜累计已找到1284颗脉冲星，远超同时期国际上所有其他望远镜发现数量的总和。该望远镜自2016年建成以来推动中国射电天文学从依赖国外数据转向自主产出核心观测数据，近期完成六根钢索维护后已恢复新一轮观测。",
-      "publishedAt": "2026-07-27T22:39:50+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/982/258.htm",
-      "subCategory": "航空航天"
     }
   ]
 }
