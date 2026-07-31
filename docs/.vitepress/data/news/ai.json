@@ -3,8 +3,89 @@
   "slug": "ai",
   "title": "AI 与大模型",
   "description": "大模型、Agent、AI 编程、推理框架、开源模型的发布与落地。",
-  "updatedAt": "2026-07-31T17:00:00+08:00",
+  "updatedAt": "2026-07-31T23:55:00+08:00",
   "items": [
+    {
+      "id": "ai-20260731-m001",
+      "title": "谷歌最新 AI 大模型 Gemini 3.5 Pro 短暂上线 Arena 竞技场，已延迟数月",
+      "summary": "谷歌Gemini 3.5 Pro模型短暂出现在Arena评估平台上，仅30分钟后被移除，该模型原计划6月推出，已多次延迟，Arena是基于用户盲测投票的AI模型评估平台。",
+      "publishedAt": "2026-07-31T15:08:17+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/984/155.htm",
+      "subCategory": "大模型"
+    },
+    {
+      "id": "ai-20260731-m002",
+      "title": "字节火山引擎：小鹏汽车、智元机器人等将率先接入 Seedance 2.5 视频生成模型",
+      "summary": "字节跳动发布新一代视频生成模型Seedance 2.5，火山引擎将上线API服务，徐工集团、小鹏汽车、智元机器人等企业率先接入，应用于工业培训、汽车设计、具身智能和智能驾驶等领域，可生成极限工况和复杂场景的训练数据。",
+      "publishedAt": "2026-07-31T15:03:46+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/984/146.htm",
+      "subCategory": "AI视频"
+    },
+    {
+      "id": "ai-20260731-m009",
+      "title": "昆仑万维：AI 挂件、AI 戒指等 Skywork 整套智能硬件将陆续登场",
+      "summary": "昆仑万维宣布Skywork智能硬件家族即将上线，AI挂件Recall重17.4克，内置VAD语音检测；AI戒指TriRing采用陶瓷与钛合金，搭载双麦克风降噪；Skywork Mate配6nm芯片，可过滤500多种环境噪音。",
+      "publishedAt": "2026-07-31T15:14:58+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/984/181.htm",
+      "subCategory": "AI应用"
+    },
+    {
+      "id": "ai-20260731-m008",
+      "title": "\"小号\"美国最强开源模型：Inkling-Small 登场，约 1/4 规模提供相近 AI 性能",
+      "summary": "Thinking Machines Lab发布Inkling-Small模型，采用混合专家架构，总参数276B、激活参数12B，规模为原Inkling模型的四分之一，支持音频图像原生推理和1M token上下文，已开放完整权重供下载使用。",
+      "publishedAt": "2026-07-31T15:34:46+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/984/207.htm",
+      "subCategory": "开源模型"
+    },
+    {
+      "id": "ai-20260731-m003",
+      "title": "消息称阿里千问模型已在特斯拉车机内测，号称能听能答、能控车、能导航",
+      "summary": "据报道，阿里千问模型已进入特斯拉中国车机深度测试阶段，该模型具备\"能听能答、能控车、能导航、能办事\"等功能，国内多家车企已在北京车展宣布接入千问，截至发稿阿里云和特斯拉中国均未作出官方回应。",
+      "publishedAt": "2026-07-31T14:43:47+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/984/132.htm",
+      "subCategory": "AI应用"
+    },
+    {
+      "id": "ai-20260731-m004",
+      "title": "阿里发布 Qwen-Audio-3.0-ASR-Flash 语音识别大模型，让 AI 更好听懂专业词汇",
+      "summary": "阿里巴巴推出语音识别模型Qwen-Audio-3.0-ASR-Flash，在上下文一致性、行业词识别和热词定制化方面进行优化，在医疗场景识别率突破95.36%，曾获Artificial Analysis评测全球第一，目前通过阿里云百炼平台提供三个版本服务。",
+      "publishedAt": "2026-07-31T11:57:20+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/984/044.htm",
+      "subCategory": "AI音频"
+    },
+    {
+      "id": "ai-20260731-m005",
+      "title": "韩国最大人工智能基础模型：LG AI 研究院发布 750B 参数 K-EXAONE 2.0",
+      "summary": "LG AI研究院发布第二代基础模型K-EXAONE 2.0，采用混合注意力MoE架构，拥有750B总参数和37B激活参数，规模是初代的3倍以上，为韩国迄今最大AI基础模型，在24项基准测试中平均得分70.1分，已以Apache 2.0许可证开源。",
+      "publishedAt": "2026-07-31T11:44:26+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/984/018.htm",
+      "subCategory": "开源模型"
+    },
+    {
+      "id": "ai-20260731-m006",
+      "title": "余承东说到做到，华为盘古 openPangu-2.0-Pro 模型及技术报告开源上线",
+      "summary": "华为官宣开源参数规模约505B的openPangu-2.0-Pro大语言模型，基于昇腾NPU训练，支持512k上下文长度，采用MLA注意力架构和mHC残差连接等创新设计，是余承东6月承诺开源7大组件计划中的重要进展。",
+      "publishedAt": "2026-07-31T10:24:44+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/983/966.htm",
+      "subCategory": "开源模型"
+    },
+    {
+      "id": "ai-20260731-m007",
+      "title": "消息称 DeepSeek 计划在内蒙古建设大型 AI 数据中心，增加 1GW 算力",
+      "summary": "据彭博社报道，DeepSeek计划在内蒙古乌兰察布建设大型AI数据中心，增加1GW算力，部分算力将在2027年底或2028年初投入运行，该公司也考虑从其他公司租赁额外算力，乌兰察布因低温环境有利于数据中心散热成为理想选址。",
+      "publishedAt": "2026-07-31T08:08:56+08:00",
+      "source": "彭博社（IT之家）",
+      "url": "https://www.ithome.com/0/983/925.htm",
+      "subCategory": "AI应用"
+    },
     {
       "title": "视频后期，危！MiniMax H3手绘即特效，多模态的「Coding时刻」来了",
       "summary": "稀宇科技发布全模态生成模型MiniMax H3，将剪辑逻辑、字幕、转场与配乐等编辑要素整合进视频生成过程，默认输出2K分辨率，支持文本、图像、音视频多模态输入，计划近期开源模型权重。",
@@ -643,87 +724,6 @@
       "url": "https://www.ithome.com/0/981/554.htm",
       "subCategory": "开源模型",
       "id": "ai-20260726-007"
-    },
-    {
-      "title": "OpenAI 突发服务器故障，ChatGPT、Codex 出现宕机",
-      "summary": "OpenAI旗下ChatGPT与Codex服务突发故障，大量用户反映无法正常使用，第三方监测平台DownDetector显示宕机报告数量骤增，截至报道发出时问题尚未解决。",
-      "publishedAt": "2026-07-25T17:50:19+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/981/552.htm",
-      "subCategory": "AI应用",
-      "id": "ai-20260726-008"
-    },
-    {
-      "title": "阿里：Qoder Mobile 移动端 App 安卓、iOS、鸿蒙三大版本同步上线，功能层面完全一致",
-      "summary": "阿里旗下AI编程工具Qoder推出移动端App，安卓、iOS与鸿蒙三端同步上线且功能完全一致，用户可通过手机远程管理AI Agent，支持本地设备控制与云端任务下发及实时状态同步，后续将支持查看任务产出与代码差异。",
-      "publishedAt": "2026-07-25T17:10:35+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/981/548.htm",
-      "subCategory": "AI编程",
-      "id": "ai-20260726-009"
-    },
-    {
-      "id": "ai-20260725-006",
-      "title": "OpenAI将打造“贾维斯”式语音助手，未来有望登陆第三方智能眼镜",
-      "summary": "OpenAI总裁格雷格·布洛克曼透露公司计划打造类似“贾维斯”的语音助手，将整合进ChatGPT升级后的语音交互界面，未来有望支持第三方智能眼镜等可穿戴设备，成为跨设备统一交互入口。",
-      "publishedAt": "2026-07-25T16:06:32+08:00",
-      "source": "ITBear科技资讯",
-      "url": "https://www.itbear.com.cn/html/2026-07/1464086.html",
-      "subCategory": "AI应用"
-    },
-    {
-      "id": "ai-20260725-004",
-      "title": "阿里QwQ-Max-Preview：小模型大智慧，开源策略如何重塑AI未来格局？",
-      "summary": "阿里发布推理模型QwQ-Max-Preview，参数量为320亿，通过双阶段训练方法实现与6710亿参数模型相当的性能；模型以Apache 2.0协议开源，训练成本约为“50美元级”，可在消费级GPU上本地部署。",
-      "publishedAt": "2026-07-25T15:54:50+08:00",
-      "source": "ITBear科技资讯",
-      "url": "https://www.itbear.com.cn/html/2026-07/1464075.html",
-      "subCategory": "开源模型"
-    },
-    {
-      "id": "ai-20260725-009",
-      "title": "号称首款全面集成AI的个人健康助手，三星推出Health Assistant",
-      "summary": "三星推出Health Assistant，整合Samsung Health平台的睡眠、运动、营养、正念与生命体征五大类健康数据，提供个性化健康建议，目前在美国以测试版形式上线，未来计划接入临床场景并扩展至更多地区。",
-      "publishedAt": "2026-07-25T15:44:29+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/981/534.htm",
-      "subCategory": "AI应用"
-    },
-    {
-      "id": "ai-20260725-007",
-      "title": "纳德拉：微软自研MAI模型在Excel任务表现与GPT-5.6相当，且部署成本更低",
-      "summary": "微软CEO纳德拉表示，公司自研MAI模型在Excel等典型办公任务上的表现与GPT-5.6相当，但部署成本更低；微软采取“前沿扩散与控制”策略，让企业按需调度不同模型，MAI模型可在现有H100/A100 GPU上运行，降低基础设施开支。",
-      "publishedAt": "2026-07-25T15:39:52+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/981/532.htm",
-      "subCategory": "大模型"
-    },
-    {
-      "id": "ai-20260725-005",
-      "title": "北京大学团队开发AI框架ContactSeek助力基因编辑精准升级",
-      "summary": "北京大学与华东师范大学团队基于AlphaFold3开发AI框架ContactSeek，通过整合接触概率预测与测序数据识别决定编辑特异性的关键氨基酸残基，据此改造出新型Cas9变体，在保持高效编辑的同时降低脱靶率。",
-      "publishedAt": "2026-07-25T15:05:24+08:00",
-      "source": "ITBear科技资讯",
-      "url": "https://www.itbear.com.cn/html/2026-07/1464028.html",
-      "subCategory": "论文进展"
-    },
-    {
-      "id": "ai-20260725-008",
-      "title": "吴恩达开源桌面AI智能体OpenWorker，已获3.7k Star",
-      "summary": "吴恩达发布开源桌面AI智能体OpenWorker，基于其aisuite库构建，可接入GPT、Claude、Gemini及Ollama等模型，用于整理文件、准备简报、安排日程等任务，项目发布后已获3700个GitHub星标。",
-      "publishedAt": "2026-07-25T14:42:27+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/981/493.htm",
-      "subCategory": "Agent"
-    },
-    {
-      "id": "ai-20260725-010",
-      "title": "全新统一流式架构，Vivix灵动时刻正式发布首个实时互动模型",
-      "summary": "Vivix发布实时互动多模态模型A1，采用统一流式架构，用户可通过类似视频通话方式与虚拟角色实时对话；模型激活参数近300亿，通过MJD蒸馏、NVFP4量化等技术在消费级GPU运行，单卡吞吐超1万视频token/秒，平均延迟低于0.6秒。",
-      "publishedAt": "2026-07-25T11:21:53+08:00",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/07/460174.html",
-      "subCategory": "多模态"
     }
   ]
 }
