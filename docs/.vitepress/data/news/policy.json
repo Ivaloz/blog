@@ -688,6 +688,42 @@
       "source": "工业和信息化部/国务院新闻办公室",
       "url": "https://www.miit.gov.cn/xwfb/bldhd/art/2026/art_bc4cf76777cb4fd2896082ca2ff7039d.html",
       "subCategory": "数字经济"
+    },
+    {
+      "id": "policy-20260720-016",
+      "title": "国家能源局：到2028年底 建成一批村镇微能网试点项目",
+      "summary": "国家能源局提出，到2028年底在全国建成一批村镇微能网试点项目，聚焦满足农村生产生活及工商业用能需求，并在边远和灾害频发地区建设独立电力系统与应急微电网。",
+      "publishedAt": "2026-07-20T14:24:33+08:00",
+      "source": "中国新闻网",
+      "url": "https://www.chinanews.com.cn/cj/2026/07-20/10662918.shtml",
+      "subCategory": "新能源政策"
+    },
+    {
+      "id": "policy-20260720-004",
+      "title": "中国制造加速涌现\"新\"力量\"",
+      "summary": "国新办新闻发布会上，工业和信息化部通报2026年上半年工业和信息化发展情况：规上工业增加值同比增长5.4%，集成电路出口额同比增长88.7%，智能算力规模达2185EFLOPS同比增长177%，人形机器人整机产品超400款。",
+      "publishedAt": "2026-07-20T14:23:38+08:00",
+      "source": "新华网",
+      "url": "https://www.news.cn/20260720/86639bcfb6b849bcab3561c9850195d7/c.html",
+      "subCategory": "产业政策"
+    },
+    {
+      "id": "policy-20260720-003",
+      "title": "中央网信办部署开展\"清朗·未成年人网络保护\"专项行动",
+      "summary": "中央网信办部署为期4个月的\"清朗·未成年人网络保护\"专项行动，分两阶段整治涉未成年人有害内容和违规App，第一阶段聚焦暑期不良动漫、危险挑战等，第二阶段重点整治平台算法推荐、教育类内容监管及青少年模式，公众可通过12377.cn举报。",
+      "publishedAt": "2026-07-20T11:39:23+08:00",
+      "source": "新华网",
+      "url": "https://www.news.cn/politics/20260720/8b1d1378454848eeb3b70fc5de840180/c.html",
+      "subCategory": "数据安全"
+    },
+    {
+      "id": "policy-20260720-006",
+      "title": "UK invests in homegrown space tech to boost national resilience",
+      "summary": "英国政府宣布投入6200万英镑支持本土太空科技发展，其中4200万英镑用于低轨道连接（C-LEO）项目卫星通信技术，2000万英镑用于国家太空创新计划，旨在增强国家韧性、减少对外部依赖，并提升卫星通信与太空态势感知能力。",
+      "publishedAt": "2026-07-20",
+      "source": "英国政府（GOV.UK）",
+      "url": "https://www.gov.uk/government/news/uk-invests-in-homegrown-space-tech-to-boost-national-resilience",
+      "subCategory": "海外政策"
     }
   ]
 }
