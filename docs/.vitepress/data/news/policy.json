@@ -3,7 +3,7 @@
   "slug": "policy",
   "title": "政策信息",
   "description": "国家与地方政策、监管动态、产业扶持与合规要求。",
-  "updatedAt": "2026-07-31T08:50:00+08:00",
+  "updatedAt": "2026-07-31T17:00:00+08:00",
   "items": [
     {
       "id": "policy-20260731-003",
@@ -13,6 +13,24 @@
       "source": "36氪",
       "url": "https://36kr.com/newsflashes/3918809800158857",
       "subCategory": "产业政策"
+    },
+    {
+      "title": "2026年7月31日国内成品油价格调整",
+      "summary": "国家发展改革委发布通知，自7月31日24时起国内汽油、柴油价格每吨分别上调685元和655元，主要受近期国际原油价格总体上涨影响，并要求相关企业保障市场供应、地方加强价格监管。",
+      "publishedAt": "2026-07-31",
+      "source": "国家发展和改革委员会",
+      "url": "https://www.ndrc.gov.cn/xwdt/xwfb/202607/t20260731_1406853.html",
+      "subCategory": "产业政策",
+      "id": "policy-20260731-n001"
+    },
+    {
+      "title": "工业和信息化部发布关于废止和修订新能源汽车废旧动力电池\"梯次利用\"相关政策标准以及规范有关行业活动的公告",
+      "summary": "工业和信息化部发布公告，废止新能源汽车废旧动力电池\"梯次利用\"相关政策标准，不再对相关企业进行公告管理，并明确废旧动力电池产品不得用于电动自行车等禁止领域，同时要求加快修订相关标准、强化监管执法。",
+      "publishedAt": "2026-07-30T18:10:12+08:00",
+      "source": "每日经济新闻",
+      "url": "https://www.nbd.com.cn/articles/2026-07-30/4527014.html",
+      "subCategory": "新能源政策",
+      "id": "policy-20260731-n002"
     },
     {
       "id": "policy-20260731-001",
@@ -31,6 +49,15 @@
       "source": "The White House",
       "url": "https://www.whitehouse.gov/presidential-actions/2026/07/presidential-determination-pursuant-to-section-101-of-the-defense-production-act-of-1950-as-amended-on-recoverable-critical-minerals-and-materials/",
       "subCategory": "海外政策"
+    },
+    {
+      "title": "商务部召开例行新闻发布会（2026年7月30日）",
+      "summary": "商务部举行例行新闻发布会，介绍中欧经贸磋商机制首次会议后续进展，双方商定今年秋季举行第二次会议，并通报内地与香港经贸合作及国家级经济技术开发区进出口和利用外资最新情况。",
+      "publishedAt": "2026-07-30",
+      "source": "商务部",
+      "url": "https://www.mofcom.gov.cn/xwfbzt/2026/swbzklxxwfbh2026n7y30r/index.html",
+      "subCategory": "跨境贸易",
+      "id": "policy-20260731-n003"
     },
     {
       "title": "中国人民银行等九部门联合印发《关于加强科技金融领域数据开发利用的通知》",
@@ -697,33 +724,6 @@
       "source": "中国新闻网",
       "url": "https://www.chinanews.com.cn/cj/2026/07-20/10662918.shtml",
       "subCategory": "新能源政策"
-    },
-    {
-      "id": "policy-20260720-004",
-      "title": "中国制造加速涌现\"新\"力量\"",
-      "summary": "国新办新闻发布会上，工业和信息化部通报2026年上半年工业和信息化发展情况：规上工业增加值同比增长5.4%，集成电路出口额同比增长88.7%，智能算力规模达2185EFLOPS同比增长177%，人形机器人整机产品超400款。",
-      "publishedAt": "2026-07-20T14:23:38+08:00",
-      "source": "新华网",
-      "url": "https://www.news.cn/20260720/86639bcfb6b849bcab3561c9850195d7/c.html",
-      "subCategory": "产业政策"
-    },
-    {
-      "id": "policy-20260720-003",
-      "title": "中央网信办部署开展\"清朗·未成年人网络保护\"专项行动",
-      "summary": "中央网信办部署为期4个月的\"清朗·未成年人网络保护\"专项行动，分两阶段整治涉未成年人有害内容和违规App，第一阶段聚焦暑期不良动漫、危险挑战等，第二阶段重点整治平台算法推荐、教育类内容监管及青少年模式，公众可通过12377.cn举报。",
-      "publishedAt": "2026-07-20T11:39:23+08:00",
-      "source": "新华网",
-      "url": "https://www.news.cn/politics/20260720/8b1d1378454848eeb3b70fc5de840180/c.html",
-      "subCategory": "数据安全"
-    },
-    {
-      "id": "policy-20260720-006",
-      "title": "UK invests in homegrown space tech to boost national resilience",
-      "summary": "英国政府宣布投入6200万英镑支持本土太空科技发展，其中4200万英镑用于低轨道连接（C-LEO）项目卫星通信技术，2000万英镑用于国家太空创新计划，旨在增强国家韧性、减少对外部依赖，并提升卫星通信与太空态势感知能力。",
-      "publishedAt": "2026-07-20",
-      "source": "英国政府（GOV.UK）",
-      "url": "https://www.gov.uk/government/news/uk-invests-in-homegrown-space-tech-to-boost-national-resilience",
-      "subCategory": "海外政策"
     }
   ]
 }

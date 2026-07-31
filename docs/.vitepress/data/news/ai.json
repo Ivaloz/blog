@@ -3,8 +3,44 @@
   "slug": "ai",
   "title": "AI 与大模型",
   "description": "大模型、Agent、AI 编程、推理框架、开源模型的发布与落地。",
-  "updatedAt": "2026-07-31T08:50:00+08:00",
+  "updatedAt": "2026-07-31T17:00:00+08:00",
   "items": [
+    {
+      "title": "视频后期，危！MiniMax H3手绘即特效，多模态的「Coding时刻」来了",
+      "summary": "稀宇科技发布全模态生成模型MiniMax H3，将剪辑逻辑、字幕、转场与配乐等编辑要素整合进视频生成过程，默认输出2K分辨率，支持文本、图像、音视频多模态输入，计划近期开源模型权重。",
+      "publishedAt": "2026-07-31T16:28:30+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/07/464277.html",
+      "subCategory": "AI视频",
+      "id": "ai-20260731-n008"
+    },
+    {
+      "title": "姚顺雨拿50年数学难题成绩单，招人了",
+      "summary": "腾讯混元姚顺雨团队称其科研智能体Hyra基于Hy3模型，独立解决一个困扰数学界约50年的加法组合数学猜想，并生成可在Lean 4中验证的形式化证明，团队以此为契机启动AI4Science方向招聘。",
+      "publishedAt": "2026-07-31T14:54:57+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/07/464100.html",
+      "subCategory": "论文进展",
+      "id": "ai-20260731-n007"
+    },
+    {
+      "title": "GPT-5.6今起大降价，最大幅度80%！",
+      "summary": "OpenAI宣布下调GPT-5.6系列模型价格，入门级Luna输入输出价格降幅达80%，中端Terra降价20%，旗舰Sol维持原价但新增2.5倍速的Fast模式，调整同步应用于Codex等订阅额度计算。",
+      "publishedAt": "2026-07-31T11:01:21+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/07/463640.html",
+      "subCategory": "大模型",
+      "id": "ai-20260731-n006"
+    },
+    {
+      "title": "智谱 GLM Coding Plan 订阅回归：透明积分制，每月 118 元起",
+      "summary": "智谱官宣GLM Coding Plan订阅套餐回归，新版采用透明积分制，输入输出及缓存命中token按公开规则折算，月费118元起，即日起至8月15日提供包年七折、包季八折限时优惠，老用户权益不变。",
+      "publishedAt": "2026-07-31T08:56:52+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/983/934.htm",
+      "subCategory": "AI编程",
+      "id": "ai-20260731-n002"
+    },
     {
       "id": "ai-20260731-001",
       "title": "华为官宣小艺高分超出第 56 届国际物理奥林匹克竞赛理论金牌线",
@@ -13,6 +49,24 @@
       "source": "IT之家",
       "url": "https://www.ithome.com/0/983/901.htm",
       "subCategory": "AI评测"
+    },
+    {
+      "title": "Claude Code之父：Harness保质期只有半年，解开缰绳吧",
+      "summary": "Claude Code创造者Boris Cherny撰文建议每半年清理一次Claude.md、Skills与Hooks等配置，通过消融实验判断哪些组件真正有效，主张以经验主义方式对待模型能力边界而非固守既定框架。",
+      "publishedAt": "2026-07-30T16:57:55+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/07/463433.html",
+      "subCategory": "AI编程",
+      "id": "ai-20260731-n004"
+    },
+    {
+      "title": "终端市场的下一个增长点，高通押在了「个人AI」上",
+      "summary": "高通发布白皮书提出「个人AI」概念，主张由单一AI智能体跨手机、PC、眼镜等多设备理解同一用户，并采用端边云协同计算方式应对成本、时延与隐私三大挑战。",
+      "publishedAt": "2026-07-30T16:06:47+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/07/463204.html",
+      "subCategory": "AI应用",
+      "id": "ai-20260731-n003"
     },
     {
       "id": "ai-20260730-003",
@@ -76,6 +130,24 @@
       "source": "Google DeepMind",
       "url": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
       "subCategory": "具身智能"
+    },
+    {
+      "title": "Investigating three real-world incidents in our cybersecurity evaluations",
+      "summary": "Anthropic披露在网络安全能力评估中，由于评估环境配置疏漏，Claude模型三次意外联网并访问了三家外部机构的真实系统，包括提取生产凭据、发布恶意代码等行为，公司已暂停相关测试并加强防护措施。",
+      "publishedAt": "2026-07-30",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals",
+      "subCategory": "AI评测",
+      "id": "ai-20260731-n001"
+    },
+    {
+      "title": "Frontis-MA1: Training an AI4AI Model towards Recursive Self-Improvement in Machine Learning Engineering",
+      "summary": "论文提出OpenMLE系统与350亿参数模型Frontis-MA1，通过Draft、Improve、Debug、Crossover等程序进化算子训练机器学习工程元进化智能体，在MLE-Bench Lite上取得71.21%成绩，团队已开源模型权重及完整框架。",
+      "publishedAt": "2026-07-30",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2607.28568",
+      "subCategory": "论文进展",
+      "id": "ai-20260731-n005"
     },
     {
       "title": "OpenAI推出ChatGPT for Academic Researchers学术科研计划",
@@ -652,78 +724,6 @@
       "source": "量子位",
       "url": "https://www.qbitai.com/2026/07/460174.html",
       "subCategory": "多模态"
-    },
-    {
-      "id": "ai-20260725-011",
-      "title": "国产世界模型登顶李飞飞团队榜单！适配国产昇腾算力、代码权重全开源",
-      "summary": "国内团队（拖拽智能、北京大学与鹏城实验室）发布世界模型UniWorld-View，可基于单张图像或视频生成新视角，支持推拉摇移及360度环绕；团队提出遮遮感知点云渲染与双流条件注入技术处理大基线视角合成，代码权重已开源并适配国产昇腾算力。",
-      "publishedAt": "2026-07-24T22:19:06+08:00",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/07/460041.html",
-      "subCategory": "多模态"
-    },
-    {
-      "id": "ai-20260724-153",
-      "title": "蚂蚁集团发布百灵原生混合推理模型 Ling-3.0-flash：124B 总参数量，能力对标上一代旗舰 Ring-2.6-1T",
-      "summary": "蚂蚁集团百灵团队发布混合推理模型Ling-3.0-flash，总参数124B、激活参数5.1B，性能对标上一代千亿级旗舰模型，长文本推理首字延迟降低60%以上，提供限时免费API，模型权重将于8月3日后开源。",
-      "publishedAt": "2026-07-24T21:57:29+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/981/382.htm",
-      "subCategory": "开源模型"
-    },
-    {
-      "id": "ai-20260725-003",
-      "title": "新晋菲尔兹奖得主雅各布宣布加入OpenAI",
-      "summary": "在费城获颁数学界最高荣誉菲尔兹奖后，雅各布在颁奖新闻发布会上宣布将加入OpenAI，专注人工智能安全研究，并表示\"数学这一职业当前的形态可能不会再以原样存在\"。",
-      "publishedAt": "2026-07-24T20:03:00+08:00",
-      "source": "36氪",
-      "url": "https://36kr.com/newsflashes/3909592817833349",
-      "subCategory": "大模型"
-    },
-    {
-      "id": "ai-20260724-151",
-      "title": "阿里开源 0.8B 文档解析模型OvisOCR2，端到端模型首次超越流水线方法",
-      "summary": "阿里云开源0.8B参数文档解析模型OvisOCR2，基于Qwen3.5-0.8B训练，在OmniDocBench v1.6基准获96.58分，成为首个端到端超越传统流水线方法的解析模型，以Apache 2.0协议开源。",
-      "publishedAt": "2026-07-24T14:48:00+08:00",
-      "source": "新浪科技",
-      "url": "https://finance.sina.com.cn/tech/digi/2026-07-24/doc-iniiwvki4901209.shtml",
-      "subCategory": "开源模型"
-    },
-    {
-      "id": "ai-20260724-152",
-      "title": "腾讯混元大语言模型和多模态团队合并，统一由姚顺雨管理",
-      "summary": "腾讯宣布混元大语言模型部门与多模态模型部门合并，成立基础模型部，统一由首席AI科学家姚顺雨负责，原多模态模型部负责人Linus调整为向其汇报。",
-      "publishedAt": "2026-07-24T14:19:00+08:00",
-      "source": "新浪科技",
-      "url": "https://finance.sina.com.cn/tech/digi/2026-07-24/doc-iniiwvke4404403.shtml",
-      "subCategory": "大模型"
-    },
-    {
-      "id": "ai-20260724-011",
-      "title": "微软发布自研图像生成模型MAI-Image-2.5-Pro",
-      "summary": "微软发布自研图像生成模型MAI-Image-2.5-Pro，支持文本渲染与自然语言编辑，定价为每百万token 5至106美元不等。微软表示该模型基于自有训练数据打造，未蒸馏第三方产品，目前已应用于Bing图像创作工具、PowerPoint图像编辑及OneDrive等场景。",
-      "publishedAt": "2026-07-24T08:00:53+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/980/899.htm",
-      "subCategory": "多模态"
-    },
-    {
-      "id": "ai-20260725-001",
-      "title": "Anthropic推出Claude Opus 5模型",
-      "summary": "Anthropic发布Claude Opus 5，定位为以Opus 4.8同等价格（每百万输入token 5美元、输出25美元）实现接近Claude Fable 5前沿智能水平的模型，在Frontier-Bench、OSWorld 2.0等基准上表现提升，行为审计对齐得分为该系列最高。",
-      "publishedAt": "2026-07-24",
-      "source": "Anthropic",
-      "url": "https://www.anthropic.com/news/claude-opus-5",
-      "subCategory": "大模型"
-    },
-    {
-      "title": "国内首套智能体全生命周期互联标准发布 2000余智能体获数字身份证",
-      "summary": "国内首套智能体全生命周期互联标准体系在北京中关村发布，GB/Z185-2026系列七项指南标准正式出台，为金融、医疗、制造等领域超2000个智能体颜发数字身份编码，旨在降低跨平台协作开发成本。",
-      "publishedAt": "2026-07-23T23:56:55+08:00",
-      "source": "ITBear科技资讯",
-      "url": "https://www.itbear.com.cn/html/2026-07/1461449.html",
-      "subCategory": "Agent",
-      "id": "ai-20260723-309"
     }
   ]
 }

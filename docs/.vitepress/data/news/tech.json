@@ -3,8 +3,17 @@
   "slug": "tech",
   "title": "科技新闻",
   "description": "前沿科技、互联网产品、芯片硬件、开源生态。",
-  "updatedAt": "2026-07-31T08:50:00+08:00",
+  "updatedAt": "2026-07-31T17:00:00+08:00",
   "items": [
+    {
+      "title": "灵巧手走向复杂制造现场，拾玥科技开启新一轮场景验证",
+      "summary": "机器人灵巧操作方案商拾玥科技与中国中车旗下子公司签署技术框架协议，双方将围绕高端装备制造场景开展灵巧操作技术适配与验证，公司已构建Lumi-Mind模型、Lumi-Tac触觉传感器与Lumi-Dex灵巧手等技术栈。",
+      "publishedAt": "2026-07-31T14:29:12+08:00",
+      "source": "中华网",
+      "url": "https://hea.china.com/articles/20260731/202607311930549.html",
+      "subCategory": "机器人",
+      "id": "tech-20260731-n008"
+    },
     {
       "id": "tech-20260731-003",
       "title": "暂未上线测试的 5 项苹果 iOS 27 功能汇总：接入更多 AI、升级健康应用等",
@@ -13,6 +22,69 @@
       "source": "IT之家",
       "url": "https://www.ithome.com/0/983/927.htm",
       "subCategory": "消费电子"
+    },
+    {
+      "title": "宇树科技，8月10日启动申购！A股人形机器人第一股来了",
+      "summary": "宇树科技科创板IPO获中国证监会批复，8月10日启动申购，成为A股人形机器人第一股，本次发行约4045万股，占发行后总股本10%，2025年营收16.99亿元、净利润5.9亿元，预计2026年上半年营收10.52亿至11.28亿元。",
+      "publishedAt": "2026-07-31T07:37:00+08:00",
+      "source": "新浪财经",
+      "url": "https://finance.sina.com.cn/stock/zqgd/2026-07-31/doc-iniksaik9284852.shtml",
+      "subCategory": "机器人",
+      "id": "tech-20260731-n007"
+    },
+    {
+      "title": "谷歌：多亏人工智能，6 月修复的 Chrome 漏洞比过去两年总和还多",
+      "summary": "谷歌称借助内部AI工具，6月内为Chrome 149、150版本共修复超过1072个安全漏洞，超过此前两年23个版本累计修复的1036个总数，工程负责人表示现已能在漏洞被利用前完成修复。",
+      "publishedAt": "2026-07-31T07:14:49+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/983/916.htm",
+      "subCategory": "安全漏洞",
+      "id": "tech-20260731-n001"
+    },
+    {
+      "title": "消息称 iPhone 18 Pro 将混用苹果 C2 / 高通基带，国行机型有望用上实体 SIM+eSIM",
+      "summary": "据塔塔电子泄露文件，苹果计划iPhone 18 Pro部分国际版本采用自研C2基带，美版机型或继续搭载高通SDX80M基带以支持毫米波，国行机型有望从双实体SIM转为实体SIM加eSIM组合。",
+      "publishedAt": "2026-07-31T06:46:56+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/983/911.htm",
+      "subCategory": "消费电子",
+      "id": "tech-20260731-n002"
+    },
+    {
+      "title": "South Korea fines telco giant KT $39 million for customer data breach",
+      "summary": "韩国个人信息保护委员会对电信运营商KT处以约539.79亿韩元（约3900万美元）罚款，因其网络长达11个月被入侵，1.6万余名用户信息泄露，另有38台服务器被BPFDoor恶意软件感染且未及时上报。",
+      "publishedAt": "2026-07-31T06:28:30+08:00",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/south-korea-fines-telco-giant-kt-39-million-for-customer-data-breach/",
+      "subCategory": "安全漏洞",
+      "id": "tech-20260731-n005"
+    },
+    {
+      "title": "JetBrains warns of critical TeamCity remote code execution flaw",
+      "summary": "JetBrains披露TeamCity On-Premises存在严重身份验证绕过漏洞CVE-2026-63077，攻击者可借助HTTPS访问权限绕过认证并以服务器权限执行任意命令，公司已在2025.11.7及2026.1.3版本中修复。",
+      "publishedAt": "2026-07-31T06:01:31+08:00",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/jetbrains-warns-of-critical-teamcity-remote-code-execution-flaw/",
+      "subCategory": "安全漏洞",
+      "id": "tech-20260731-n004"
+    },
+    {
+      "title": "Apple hits 1.5 billion subscription milestone, still falls short of Wall Street wants",
+      "summary": "苹果CEO库克在2026财年三季度财报电话会上披露，苹果生态付费订阅数已达15亿，服务业务当季营收307.4亿美元，同比增长12%，创六月季度纪录，但仍低于华尔街预期的312.2亿美元。",
+      "publishedAt": "2026-07-31T05:32:00+08:00",
+      "source": "AppleInsider",
+      "url": "https://appleinsider.com/articles/26/07/30/apple-hits-15-billion-subscription-milestone-still-falls-short-of-wall-street-wants",
+      "subCategory": "互联网产品",
+      "id": "tech-20260731-n009"
+    },
+    {
+      "title": "DeepSeek-V4-Flash Update",
+      "summary": "DeepSeek-V4-Flash API进入公开测试，Agent能力显著增强，Terminal Bench 2.1得分82.7、SWE-bench得分54.4，基准表现超越此前V4-Pro-Preview版本，架构不变但经过重新训练。",
+      "publishedAt": "2026-07-31",
+      "source": "DeepSeek API Docs",
+      "url": "https://api-docs.deepseek.com/updates/",
+      "subCategory": "开发者工具",
+      "id": "tech-20260731-n006"
     },
     {
       "id": "tech-20260731-001",
@@ -274,6 +346,15 @@
       "url": "https://techcrunch.com/2026/07/30/zoox-clears-final-federal-hurdle-to-launch-paid-robotaxi-service/",
       "subCategory": "智能汽车",
       "id": "tech-20260730-903"
+    },
+    {
+      "title": "Stacked pull requests are now in public preview",
+      "summary": "GitHub宣布堆叠式Pull Request功能进入公开预览，开发者可通过命令行、网页、移动端或AI代理创建分层PR，支持独立审查各层并一键合并整个堆栈，部分层合并后会自动执行变基操作。",
+      "publishedAt": "2026-07-30",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/",
+      "subCategory": "开发者工具",
+      "id": "tech-20260731-n003"
     },
     {
       "title": "Russian hackers exploit Exchange OWA zero-day for long-term mailbox access",
@@ -643,87 +724,6 @@
       "source": "IT之家",
       "url": "https://www.ithome.com/0/982/258.htm",
       "subCategory": "航空航天"
-    },
-    {
-      "title": "PSA: Your Claude shared chats and Artifacts may have ended up on Google",
-      "summary": "Claude平台通过分享链接生成的对话与Artifacts被谷歌搜索收录，暴露包括医疗记录、公司文件及儿童联系信息在内的敏感内容；Anthropic表示问题源于用户主动公开分享链接，截至周一下午问题已基本得到修复。",
-      "publishedAt": "2026-07-27T20:19:42+00:00",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/27/psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-on-google/",
-      "subCategory": "安全漏洞",
-      "id": "tech-20260728-014"
-    },
-    {
-      "title": "Hackers target US firms in FastJson RCE zero-day attacks",
-      "summary": "黑客正利用FastJson 1.2.68至1.2.83版本中影响Spring Boot胖JAR部署的未修补远程代码执行漏洞CVE-2026-16723，针对美国金融、医疗、计算及零售行业企业发起攻击；由于FastJson 1.x已停止维护，目前尚无官方补丁。",
-      "publishedAt": "2026-07-27T19:49:00-04:00",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-target-us-firms-in-fastjson-rce-zero-day-attacks/",
-      "subCategory": "安全漏洞",
-      "id": "tech-20260728-016"
-    },
-    {
-      "title": "Arista patches VeloCloud Orchestrator zero-day exploited in attacks",
-      "summary": "Arista发布补丁修复其本地部署VeloCloud Orchestrator中一个正被攻击者利用的严重未授权命令注入漏洞CVE-2026-16812，攻击者可借此获取特权功能访问权限；美国CISA已要求联邦机构在7月30日前完成缓解。",
-      "publishedAt": "2026-07-27T18:49:00-04:00",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/arista-patches-velocloud-orchestrator-zero-day-exploited-in-attacks/",
-      "subCategory": "安全漏洞",
-      "id": "tech-20260728-017"
-    },
-    {
-      "title": "Amazon's new satellite network for mobile phones could turn up the heat on SpaceX",
-      "summary": "亚马逊向美国联邦通信委员会提交申请，计划利用从Globalstar获得的频谱运营一个由5105颗卫星组成的星座网络，提供手机直连卫星服务，与SpaceX的卫星通信业务展开竞争，但仍受蓝色起源New Glenn火箭发射延误制约。",
-      "publishedAt": "2026-07-27T18:08:29+00:00",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/27/amazons-new-satellite-network-for-mobile-phones-could-turn-up-the-heat-on-spacex/",
-      "subCategory": "网络基础设施",
-      "id": "tech-20260728-015"
-    },
-    {
-      "id": "tech-20260729-003",
-      "title": "极氪法务部：尊重用户围绕\"出境安全守护\"功能提出真实意见和批评，传播过程中部分失实信息正在核查",
-      "summary": "极氪法务部就\"出境安全守护\"功能引发的争议发布声明，回应车主反映在境外部分地区行驶时车机功能受限的问题，强调车辆动力与制动系统不受影响、车辆仍可正常行驶，并称该机制为符合国际惯例的防盗保护措施，将推出\"跨境守护\"快捷解锁功能优化体验。",
-      "publishedAt": "2026-07-27T17:12:18+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/982/151.htm",
-      "subCategory": "智能汽车"
-    },
-    {
-      "title": "New Dysphoria DDoS botnet spreads to 200k devices worldwide",
-      "summary": "奇安信XLab研究人员发现名为Dysphoria的僵尸网络已入侵全球约20万台物联网及路由器设备用于DDoS攻击和流量中继，其命令控制系统基于以太坊ENS与Solana SNS域名构建，运营者宣称最大DDoS攻击能力达4Tbps。",
-      "publishedAt": "2026-07-27T17:08:00-04:00",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/new-dysphoria-ddos-botnet-spreads-to-200k-devices-worldwide/",
-      "subCategory": "安全漏洞",
-      "id": "tech-20260728-018"
-    },
-    {
-      "title": "Exploiting Volvo/Eicher's fleet management platform to gain control over all users and vehicles",
-      "summary": "一名安全研究人员发现印度商用车队管理平台My Eicher存在未授权API，暴露74.8万个客户账号、250万条可追溯至2021年的历史OTP验证码及67.6万辆车辆信息，结合账号列表与泄露OTP可实现账户完全接管并访问7.6万份包含身份证件的敏感文件。",
-      "publishedAt": "2026-07-27T14:31:47+00:00",
-      "source": "eaton-works.com",
-      "url": "https://eaton-works.com/2026/07/27/my-eicher-hack/",
-      "subCategory": "安全漏洞",
-      "id": "tech-20260728-022"
-    },
-    {
-      "title": "Apple sued over fake App Store crypto wallet app stealing $1.8M in Bitcoin",
-      "summary": "三名原告起诉苹果，称其通过App Store分发的虚假Sparrow Wallet应用诱骗用户输入助记词导致约180万美元比特币被骗，诉状称苹果早在一年多前已被警告存在此类仿冒应用挂牌，但未能将其下架。",
-      "publishedAt": "2026-07-27T13:29:00-04:00",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/apple/apple-sued-over-fake-app-store-crypto-wallet-app-stealing-18m-in-bitcoin/",
-      "subCategory": "安全漏洞",
-      "id": "tech-20260728-019"
-    },
-    {
-      "title": "Coca-Cola confirms data theft in Fairlife ransomware attack",
-      "summary": "可口可乐公司确认其乳制品子公司Fairlife在一次导致生产中断的勒索软件攻击中遭黑客窃取数据，Anubis团伙宣称对此负责并威胁泄露1TB文件；可口可乐表示已向执法部门报案且未与攻击者谈判，美国大部分产线已恢复。",
-      "publishedAt": "2026-07-27T11:39:00-04:00",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/coca-cola-confirms-data-theft-in-fairlife-ransomware-attack/",
-      "subCategory": "安全漏洞",
-      "id": "tech-20260728-020"
     }
   ]
 }

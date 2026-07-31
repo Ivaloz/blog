@@ -3,8 +3,26 @@
   "slug": "finance",
   "title": "投资与财经",
   "description": "宏观经济、A 股 / 港股 / 美股、一级市场融资、行业研报观点。",
-  "updatedAt": "2026-07-31T08:50:00+08:00",
+  "updatedAt": "2026-07-31T17:00:00+08:00",
   "items": [
+    {
+      "title": "A股三大股指收涨：多模态AI概念股爆发，近4700股飘红",
+      "summary": "7月31日A股三大股指集体上涨，上证综指涨0.72%报3832.26点，深证成指涨2.21%，创业板指涨3.06%，全市场4685只个股上涨；多模态AI、机器人、算力租赁等题材领涨，计算机与传媒板块掀起涨停潮，银行、食品饮料板块表现落后。",
+      "publishedAt": "2026-07-31T15:18:00+08:00",
+      "source": "新浪财经",
+      "url": "https://finance.sina.com.cn/jjxw/2026-07-31/doc-inikstfm1266188.shtml",
+      "subCategory": "A股",
+      "id": "finance-20260731-n008"
+    },
+    {
+      "title": "国家统计局：7月官方制造业PMI为49.2% 比上月下降1.1个百分点",
+      "summary": "国家统计局数据显示，7月官方制造业PMI为49.2%，环比下降1.1个百分点；非制造业商务活动指数为49.0%，综合PMI产出指数为49.3%，均跌破荣枯线。装备制造业和高技术制造业PMI分别为51.4%和53.3%，保持较快扩张。",
+      "publishedAt": "2026-07-31T09:30:00+08:00",
+      "source": "东方财富网",
+      "url": "https://finance.eastmoney.com/a/202607313827663157.html",
+      "subCategory": "宏观经济",
+      "id": "finance-20260731-n006"
+    },
     {
       "id": "finance-20260731-001",
       "title": "苹果服务业务营收未达预期：移动端游戏增长放缓与 App Store 政策变化成主要拖累",
@@ -31,6 +49,69 @@
       "source": "36氪",
       "url": "https://36kr.com/newsflashes/3918776027622793",
       "subCategory": "公司财报"
+    },
+    {
+      "title": "黄金交易提醒：金价冲破4100美元关口！四大隐形推手浮出水面",
+      "summary": "7月30日现货黄金突破4100美元/盎司，盘中最高触及4120.08美元，收报4103.42美元，日内涨0.9%。美元指数跌0.9%一度失守100，日元单日大涨约3.3%，叠加6月PCE物价指数环比下降0.1%及30年期美债收益率升至19年高位等因素共同推升金价。",
+      "publishedAt": "2026-07-31T07:38:00+08:00",
+      "source": "汇通财经(FX678)",
+      "url": "https://www.fx678.com/202607310738102067.shtml",
+      "subCategory": "大宗商品",
+      "id": "finance-20260731-n010"
+    },
+    {
+      "title": "港股午评：恒指跌0.11% 科指涨0.7% AI应用股普涨 存储概念股暴力反弹 南方两倍做多海力士涨近60%",
+      "summary": "7月31日港股午盘，恒生指数跌0.11%，恒生科技指数涨0.7%，国企指数跌0.41%；AI应用股普遍走强，智谱涨超20%，存储概念股大幅反弹，南方两倍做多海力士杠杆产品涨近60%，联想涨超7%，小米跌超6%。",
+      "publishedAt": "2026-07-31",
+      "source": "新浪财经",
+      "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-07-31/doc-inikshrr1415957.shtml",
+      "subCategory": "港股",
+      "id": "finance-20260731-n009"
+    },
+    {
+      "title": "核聚变公司Commonwealth Fusion Systems完成10亿美元新一轮融资",
+      "summary": "核聚变初创公司Commonwealth Fusion Systems完成10亿美元新一轮融资，累计融资达40亿美元，资金将用于建设Sparc示范反应堆及首座商业电站Arc的设计，公司预计Sparc将于2027年实现科学能量增益。",
+      "publishedAt": "2026-07-30T23:17:00+08:00",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/30/fusion-power-darling-commonwealth-fusion-systems-raises-another-1b/",
+      "subCategory": "一级市场",
+      "id": "finance-20260731-n003"
+    },
+    {
+      "title": "何立峰与贝森特、格里尔举行视频通话",
+      "summary": "国务院副总理、中美经贸中方牵头人何立峰7月30日晚与美国财政部长贝森特、贸易代表格里尔举行视频通话，双方就落实两国元首北京会晤共识、保持经贸关系稳定进行交流，中方并就近期美对华经贸限制措施表达严正关切。",
+      "publishedAt": "2026-07-30T23:05:00+08:00",
+      "source": "新浪财经",
+      "url": "https://finance.sina.com.cn/wm/2026-07-30/doc-inikrfcz4926392.shtml",
+      "subCategory": "宏观经济",
+      "id": "finance-20260731-n007"
+    },
+    {
+      "title": "洲际交易所以57亿美元收购电子债券交易平台MarketAxess",
+      "summary": "洲际交易所(ICE)宣布以每股167美元现金收购电子债券交易平台MarketAxess，较收盘价溢价33%，交易总额约57亿美元，交易预计于2027年上半年完成交割，旨在整合固定收益领域的电子化交易与合规工具。",
+      "publishedAt": "2026-07-30T22:32:00+08:00",
+      "source": "Reuters via AOL",
+      "url": "https://www.aol.com/articles/intercontinental-exchange-buy-marketaxess-5-114827000.html",
+      "subCategory": "美股",
+      "id": "finance-20260731-n002"
+    },
+    {
+      "title": "AI合规初创公司Dili完成2170万美元融资",
+      "summary": "AI合规科技公司Dili完成合计2170万美元融资，其中1500万美元A轮由Khosla Ventures领投，安联、Rebel Fund等跟投。公司为美国基础设施项目提供AI驱动的合规软件，产品已应用于约700个项目。",
+      "publishedAt": "2026-07-30T21:00:00+08:00",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/30/dili-raises-15-million-to-bring-ai-compliance-to-the-infrastructure-boom/",
+      "subCategory": "一级市场",
+      "id": "finance-20260731-n004"
+    },
+    {
+      "title": "网络安全公司Inforcer完成5000万美元C轮融资",
+      "summary": "总部位于伦敦的网络安全公司Inforcer完成5000万美元C轮融资，由Insight Partners领投，Dawn Capital、Meritech Capital跟投，18个月内三轮融资累计达1.1亿美元。公司为管理中小企业Microsoft 365账户的服务商提供安全防护工具。",
+      "publishedAt": "2026-07-30T21:00:00+08:00",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/30/inforcer-raises-50m-to-help-prepare-smbs-for-a-new-world-of-ai-and-security-risks/",
+      "subCategory": "一级市场",
+      "id": "finance-20260731-n005"
     },
     {
       "id": "finance-20260730-007",
@@ -193,6 +274,15 @@
       "url": "https://tradingeconomics.com/commodity/brent-crude-oil",
       "subCategory": "大宗商品",
       "id": "finance-20260729-707"
+    },
+    {
+      "title": "微软公布2026财年第四季度财报，Azure云收入增长43%创四年最快增速",
+      "summary": "微软第四财季营收900亿美元，同比增长18%，GAAP净利润358亿美元同比增长31%；Azure及其他云服务收入同比增长43%，全年Azure收入首次突破1000亿美元，Microsoft 365 Copilot付费席位超过3000万。",
+      "publishedAt": "2026-07-29",
+      "source": "微软官方新闻",
+      "url": "https://news.microsoft.com/source/2026/07/29/microsoft-cloud-and-ai-strength-fuels-fourth-quarter-results-4/",
+      "subCategory": "公司财报",
+      "id": "finance-20260731-n001"
     },
     {
       "title": "Fish Audio raises $52M seed to build AI voice models for creators and enterprises",
@@ -634,96 +724,6 @@
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m/",
       "subCategory": "一级市场"
-    },
-    {
-      "id": "finance-20260725-005",
-      "title": "美股收盘：三大指数走势分化，存储与光通信股重挘，闪盘跌超10%",
-      "summary": "美股7月24日收盘涨跌互现，道指涨0.46%报51947.25点，标普500涨0.05%报7411.98点，纳指跌0.64%报24975.82点；费城半导体指数跌4.25%，闪盘跌10.79%，存储与光通信股全线重挘。",
-      "publishedAt": "2026-07-25T06:18:00+08:00",
-      "source": "财联社",
-      "url": "https://www.cls.cn/detail/2436875",
-      "subCategory": "美股"
-    },
-    {
-      "id": "finance-20260726-104",
-      "title": "穆迪警告AI投资潮冲击信用质量，科技巨头迈入\"重资产时代\"",
-      "summary": "穆迪警告称，大规模AI基础设施投资正侵蚀超大规模云服务商的自由现金流，六大科技公司2026年资本开支预计达7850亿美元，2027年或蠆1万亿美元，从轻资产软件模式转向重资产AI基础设施对全行业信用质量构成威胁，评级较低的甲骨文、CoreWeave等公司面临压力大于微软、亚马逊。",
-      "publishedAt": "2026-07-25T05:06:00+08:00",
-      "source": "财联社",
-      "url": "https://www.cls.cn/detail/2436858",
-      "subCategory": "宏观经济"
-    },
-    {
-      "id": "finance-20260725-008",
-      "title": "Anduril据悉洽谈新融资，估值将达1000亿美元，逗去年5月估值三倍",
-      "summary": "据路透社消息，防务科技公司Anduril正洽谈新一轮融资，估值或达1000亿美元，较其5月时610亿美元估值增长逗三倍，该轮融资可能分两阶段完成；公司称2025年营收增至22亿美元，尚未就未来融资做出任何决定。",
-      "publishedAt": "2026-07-25T01:33:00+08:00",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/24/anduril-reportedly-in-talks-to-raise-funding-at-100b-valuation-more-than-3x-last-years-mark/",
-      "subCategory": "一级市场"
-    },
-    {
-      "id": "finance-20260725-010",
-      "title": "Sam Altman旗下生物识别初创公司World通过加密代币销售融衣畲5250万美元",
-      "summary": "生物识别验证初创公司World（Sam Altman、Alex Blania创立）通过WLD代币销售融衣畲5250万美元，Pantera Capital领投，参投方含Bain Capital Crypto，锁仓期12个月，资金用于网络扩展。",
-      "publishedAt": "2026-07-25T00:11:00+08:00",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/24/sam-altmans-biometric-startup-world-raises-52-5-million-via-crypto-sale/",
-      "subCategory": "一级市场"
-    },
-    {
-      "id": "finance-20260724-153",
-      "title": "证监会又一前副主席落马 方星海退休两年后被查",
-      "summary": "中央纪委国监委消息，中国证监会原党委委员、副主席方星海涉嫌严重违纪违法，正接受纪律审查和监察调查，距其2024年7月卸任已两年。他此前分管国际业务等重要部门，是继王建军之后第二位被查的证监会原副主席。",
-      "publishedAt": "2026-07-24T22:33:00+08:00",
-      "source": "财新网",
-      "url": "https://finance.caixin.com/2026-07-24/102467861.html",
-      "subCategory": "风险事件"
-    },
-    {
-      "id": "finance-20260725-004",
-      "title": "美银将AMD目标价从560美元上调至620美元",
-      "summary": "财联社7月24日消息，美银全球研究将半导体公司AMD目标股价由1560美元上调至620美元，较此前目标价上修约10.7%，反映机构对其后续股价表现更为乐观。",
-      "publishedAt": "2026-07-24T21:38:24+08:00",
-      "source": "财联社",
-      "url": "https://www.cls.cn/detail/2436735",
-      "subCategory": "美股"
-    },
-    {
-      "id": "finance-20260725-001",
-      "title": "热门中概股美股盘前普跌，阿里巴巴跌超1%",
-      "summary": "美股盘前中概股普遍走低，阿里巴巴、百度、微博、哔哩哔哩、名创优品跌幅均超1%；同期部分大型科技股逆势上涨，英特尔涨超2%，微软涨超1%。",
-      "publishedAt": "2026-07-24T20:53:00+08:00",
-      "source": "36氪",
-      "url": "https://36kr.com/newsflashes/3909642046412167",
-      "subCategory": "美股"
-    },
-    {
-      "id": "finance-20260725-002",
-      "title": "美股大型科技股盘前多数上涨，微软涨超1%",
-      "summary": "美股盘前大型科技股多数上涨，英特尔涨超2%，微软涨超1%，特斯拉涨0.45%，奇飞涨0.32%，苹果涨0.16%，亚马逊涨0.15%，谷歌涨0.11%；Meta跌0.34%，英伟达跌0.29%。",
-      "publishedAt": "2026-07-24T20:48:00+08:00",
-      "source": "36氪",
-      "url": "https://36kr.com/newsflashes/3909637385049480",
-      "subCategory": "美股"
-    },
-    {
-      "id": "finance-20260725-003",
-      "title": "日月明：拟2880万元—5760万元回购公司股份",
-      "summary": "日月明公告拟以2880万元至5760万元回购公司股份，回购价格上限为每股36元，公司称此举系维护公司价值及股东权益所必需。",
-      "publishedAt": "2026-07-24T20:45:00+08:00",
-      "source": "36氪",
-      "url": "https://36kr.com/newsflashes/3909634025084041",
-      "subCategory": "A股"
-    },
-    {
-      "id": "finance-20260724-154",
-      "title": "晚间公告｜7月24日这些公告有看头",
-      "summary": "7月24日晚间多家A股公司发布公告：亿纬锂能否认LG新能源在美起诉其专利侵权；欣天科技、普联软件因控制权变更于7月27日起停牌；嘉必优因经营受海外市场及监管变化影响将被实施其他风险警示；厦门钨业拟收购江西巨通1.35%股权。",
-      "publishedAt": "2026-07-24T20:03:10+08:00",
-      "source": "第一财经",
-      "url": "https://www.yicai.com/news/103291572.html",
-      "subCategory": "A股"
     }
   ]
 }
