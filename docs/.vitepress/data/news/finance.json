@@ -1,1 +1,729 @@
-PLACEHOLDER_FINANCE
+{
+  "$schema": "./schema.json",
+  "slug": "finance",
+  "title": "投资与财经",
+  "description": "宏观经济、A 股 / 港股 / 美股、一级市场融资、行业研报观点。",
+  "updatedAt": "2026-08-02T00:15:00+08:00",
+  "items": [
+    {
+      "title": "8月金股曝光！13股获多次推荐 多家机构看好药明康德",
+      "summary": "东方财富网8月1日报道，15家券商合计推出91只8月金股（已去重），13只个股获2家以上机构重复推荐。药明康德获7家券商推荐居首，宁德时代获6家推荐，中芯国际、紫金矿业各获3家以上机构推荐。",
+      "publishedAt": "2026-08-01T18:43:00+08:00",
+      "source": "东方财富网",
+      "url": "https://finance.eastmoney.com/a/202608013829044048.html",
+      "subCategory": "A股",
+      "id": "finance-20260801-b001"
+    },
+    {
+      "id": "finance-20260801-r003",
+      "title": "云计算三巨头本周市值增加近1.5万亿美元",
+      "summary": "美国云计算三巨头微软、亚马逊和Alphabet公布财报后，本周合计市值增加约1.5万亿美元，其中微软增加逾6000亿美元，亚马逊和Alphabet各增加逾4000亿美元，同期Meta和苹果市值则出现下滑。",
+      "publishedAt": "2026-08-01T14:15:00+08:00",
+      "source": "财联社（新浪财经）",
+      "url": "https://finance.sina.com.cn/roll/2026-08-01/doc-inikuwea8899262.shtml",
+      "subCategory": "美股"
+    },
+    {
+      "id": "finance-20260801-r001",
+      "title": "美联储主席沃什考虑减少议息会议频率",
+      "summary": "美联储主席沃什正考虑减少联邦公开市场委员会例会频率，若实施将是自1981年以来该机制的最大变化。目前FOMC每年召开八次例会，改革方案最快或于9月中旬确定，此前三名官员曾在7月议息会议上投票反对维持利率不变。",
+      "publishedAt": "2026-08-01T13:34:00+08:00",
+      "source": "券商中国（新浪财经）",
+      "url": "https://finance.sina.com.cn/stock/zqgd/2026-08-01/doc-inikuwea8880668.shtml",
+      "subCategory": "政策利率"
+    },
+    {
+      "id": "finance-20260801-r006",
+      "title": "美日联手干预汇市 美元指数创年内最大单周跌幅",
+      "summary": "美日联手干预汇市带动美元指数本周下跌1.69%，为今年1月末以来最大单周跌幅，美元兑日元周内暴跌3.6%并跌破157.6关口。日本央行行长植田和男称多名委员上调通胀预测，市场对9月加息预期升温。",
+      "publishedAt": "2026-08-01T13:26:00+08:00",
+      "source": "新浪财经",
+      "url": "https://finance.sina.com.cn/money/forex/hbfx/2026-08-01/doc-inikuwem0642654.shtml",
+      "subCategory": "宏观经济"
+    },
+    {
+      "id": "finance-20260801-r005",
+      "title": "蔚来7月交付新车35934台 同比增长71%",
+      "summary": "蔚来公布7月交付数据，当月交付新车35934台，同比增长71.0%，创单月新高，其中蔚来品牌交付20008台、乐道品牌10155台、萤火虫品牌5771台，今年前七个月累计交付227057台，同比增长68.0%。",
+      "publishedAt": "2026-08-01T12:32:00+08:00",
+      "source": "快科技（新浪财经）",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-08-01/doc-inikurwi0585661.shtml",
+      "subCategory": "美股"
+    },
+    {
+      "id": "finance-20260801-r004",
+      "title": "理想汽车7月交付新车30468辆",
+      "summary": "理想汽车公布7月交付数据，当月交付新车30468辆，同比下降0.86%，环比下降1.38%，截至7月31日历史累计交付量达176.4155万辆。7月16日推出的新一代理想L6全国统一零售价24.98万元。",
+      "publishedAt": "2026-08-01T10:03:00+08:00",
+      "source": "财联社",
+      "url": "https://m.cls.cn/detail/2443203",
+      "subCategory": "港股"
+    },
+    {
+      "id": "finance-20260801-r007",
+      "title": "知情人士称OpenAI或将IPO推迟至明年",
+      "summary": "据知情人士透露，OpenAI正考虑将上市计划推迟至2027年，原因包括现金消耗速度过快、营收增速难以匹配支出，以及竞争对手Anthropic营收增速反超并加速筹备秋季上市，部分投资者已表达担忧并分散投资。",
+      "publishedAt": "2026-08-01T09:09:00+08:00",
+      "source": "新浪财经",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-01/doc-inikumqh8993740.shtml",
+      "subCategory": "一级市场"
+    },
+    {
+      "id": "finance-20260801-r002",
+      "title": "个贷新规8月1日起实施 银行个人贷款综合融资成本上限公布",
+      "summary": "个人贷款业务综合融资成本明示相关新规8月1日起正式实施，工农中建四大行将消费贷、经营贷利率上限设为年化6%，交通银行和邮储银行上限为12%，房贷统一执行LPR加0.5个基点，要求各类放贷机构充分披露综合融资成本。",
+      "publishedAt": "2026-08-01T07:13:00+08:00",
+      "source": "每日经济新闻（腾讯新闻）",
+      "url": "https://news.qq.com/rain/a/20260801A01TDS00",
+      "subCategory": "政策利率"
+    },
+    {
+      "id": "finance-20260801-a001",
+      "title": "美股收盘：亚马逊涨超15%创2012年以来单日最大涨幅 微软、亚马逊7月份市值合计增长超1万亿美元",
+      "summary": "8月1日美股三大指数收涨，纳指涨1%，标普涨0.7%，道指涨0.53%；亚马逊单日涨超15%，创2012年以来最大单日涨幅，英伟达重夺全球市值最高公司，苹果跌超7%。",
+      "publishedAt": "2026-08-01T06:07:00+08:00",
+      "source": "新浪财经",
+      "url": "https://finance.sina.com.cn/roll/2026-08-01/doc-iniktyyr0765762.shtml",
+      "subCategory": "美股"
+    },
+    {
+      "id": "finance-20260801-a005",
+      "title": "湘财证券、国盛证券涉账户实名制违规被证监会立案",
+      "summary": "7月31日，湘财证券、国盛证券收到中国证监会下发的《立案告知书》，因涉嫌违反《证券经纪业务管理办法》关于账户实名制等规定，证监会决定对两家券商立案调查。",
+      "publishedAt": "2026-07-31T23:25:00+08:00",
+      "source": "新浪财经",
+      "url": "https://finance.sina.com.cn/roll/2026-07-31/doc-iniktkax0909329.shtml",
+      "subCategory": "风险事件"
+    },
+    {
+      "id": "finance-20260801-a006",
+      "title": "天力锂能及实控人被中国证监会立案 公司今年两度更正过往财报",
+      "summary": "锂电池材料企业天力锂能及其控股股东、实际控制人王瑞庆7月31日收到证监会《立案告知书》，因涉嫌信息披露违法违规被立案，公司今年已两次更正过往财务报表。",
+      "publishedAt": "2026-07-31T23:10:27+08:00",
+      "source": "每日经济新闻",
+      "url": "https://www.nbd.com.cn/articles/2026-07-31/4528856.html",
+      "subCategory": "风险事件"
+    },
+    {
+      "id": "finance-20260801-a007",
+      "title": "Exxon Mobil, Chevron Second-Quarter Results Rise Amid Higher Oil Prices",
+      "summary": "埃克森美孚公布第二季度盈利145亿美元，每股3.48美元，但低于市场预期；雪佛龙净利润121亿美元，同比大增，两家公司均受益于中东局势推升的原油价格上涨。",
+      "publishedAt": "2026-07-31T11:02:00-04:00",
+      "source": "MarketScreener",
+      "url": "https://www.marketscreener.com/news/exxon-mobil-chevron-second-quarter-results-rise-amid-higher-oil-prices-ce7f50d8d988f527",
+      "subCategory": "公司财报"
+    },
+    {
+      "id": "finance-20260731-m004",
+      "title": "苹果股价开盘跌超 9%，创 2025 年 4 月以来最大跌幅",
+      "summary": "苹果公布2026财年第三财季财报，营收1094.17亿美元同比增长16.4%，净利润297.89亿美元同比增长27%，然而开盘后股价瞬间跌超9%，因市场预期第四财季营收增长12.1%，而公司指引仅为9%至11%增长。",
+      "publishedAt": "2026-07-31T21:40:49+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/984/384.htm",
+      "subCategory": "美股"
+    },
+    {
+      "id": "finance-20260801-a008",
+      "title": "富瀚微业绩预增超10倍！主力资金大举买入这只股",
+      "summary": "富瀚微发布半年度业绩预告，预计营收14亿元至15亿元，同比增长103.48%至118.01%，归母净利润2.7亿元至3.5亿元，同比增长1072.72%至1420.19%，公司称受益于存储涨价及AI-ISP芯片放量。",
+      "publishedAt": "2026-07-31T19:28:00+08:00",
+      "source": "东方财富网",
+      "url": "https://finance.eastmoney.com/a/202607313828516052.html",
+      "subCategory": "公司财报"
+    },
+    {
+      "id": "finance-20260801-a002",
+      "title": "港股7月收官！恒生指数本月涨超13% 恒生科技指数涨近8%",
+      "summary": "港股7月收官，恒生指数当月累涨13.1%，恒生科技指数涨近8%，国企指数涨超13%；当日收盘恒指涨0.1%报25884.43点，联想涨超9%，阿里涨超4%，小米跌超7%。",
+      "publishedAt": "2026-07-31T16:08:00+08:00",
+      "source": "新浪财经",
+      "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-07-31/doc-inikstfm1313976.shtml",
+      "subCategory": "港股"
+    },
+    {
+      "title": "A股三大股指收涨：多模态AI概念股爆发，近4700股飘红",
+      "summary": "7月31日A股三大股指集体上涨，上证综指涨0.72%报3832.26点，深证成指涨2.21%，创业板指涨3.06%，全市场4685只个股上涨；多模态AI、机器人、算力租赁等题材领涨，计算机与传媒板块掀起涨停潮，银行、食品饮料板块表现落后。",
+      "publishedAt": "2026-07-31T15:18:00+08:00",
+      "source": "新浪财经",
+      "url": "https://finance.sina.com.cn/jjxw/2026-07-31/doc-inikstfm1266188.shtml",
+      "subCategory": "A股",
+      "id": "finance-20260731-n008"
+    },
+    {
+      "id": "finance-20260801-a003",
+      "title": "收评：A股7月收官！双创指数月跌幅超20% 建设银行等多只红利股本月创历史新高",
+      "summary": "A股7月收官，创业板指、科创板指当月跌幅超20%，深证成指、中证500月跌超15%；红利股逆势走强，建设银行、工商银行等本月创历史新高，存储芯片概念股月内大幅回调。",
+      "publishedAt": "2026-07-31T15:03:00+08:00",
+      "source": "财联社",
+      "url": "https://m.cls.cn/detail/2442493",
+      "subCategory": "A股"
+    },
+    {
+      "id": "finance-20260801-a004",
+      "title": "原粒半导体完成超7亿元A轮融资，三个月累计融资超12亿",
+      "summary": "原粒半导体宣布完成超7亿元A轮融资，投资方包括九安医疗、汤臣倍健等上市公司及北洋海棠基金等机构，继4月完成超5亿元Pre-A轮后，三个月内累计融资超12亿元，用于推进推理芯片产品化。",
+      "publishedAt": "2026-07-31T10:19:00+08:00",
+      "source": "投资界",
+      "url": "https://news.pedaily.cn/202607/567069.shtml",
+      "subCategory": "一级市场"
+    },
+    {
+      "title": "国家统计局：7月官方制造业PMI为49.2% 比上月下降1.1个百分点",
+      "summary": "国家统计局数据显示，7月官方制造业PMI为49.2%，环比下降1.1个百分点；非制造业商务活动指数为49.0%，综合PMI产出指数为49.3%，均跌破荣枯线。装备制造业和高技术制造业PMI分别为51.4%和53.3%，保持较快扩张。",
+      "publishedAt": "2026-07-31T09:30:00+08:00",
+      "source": "东方财富网",
+      "url": "https://finance.eastmoney.com/a/202607313827663157.html",
+      "subCategory": "宏观经济",
+      "id": "finance-20260731-n006"
+    },
+    {
+      "id": "finance-20260731-001",
+      "title": "苹果服务业务营收未达预期：移动端游戏增长放缓与 App Store 政策变化成主要拖累",
+      "summary": "苹果2026财年第三季度服务业务营收307.4亿美元，低于分析师预期的312.2亿美元。首席财务官凯文·帕雷克表示，移动游戏增长放缓及美国等国App Store政策变化是主要拖累因素；苹果目前须依据法院裁决允许开发者在App Store外提供第三方内购渠道，具体影响尚待美国最高法院裁决，公司未量化相关营收影响，同时汇率波动及上年同期F1电影相关收入基数较高也拖累了本季表现。",
+      "publishedAt": "2026-07-31T08:31:22+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/983/929.htm",
+      "subCategory": "公司财报"
+    },
+    {
+      "id": "finance-20260731-003",
+      "title": "亚马逊CEO：算力强劲需求将持续至2028年",
+      "summary": "亚马逊将全年资本开支指引上调至2200亿美元，首席执行官安迪·贾西在财报电话会议上表示，即便加大投入，2026年的算力供给仍无法完全满足客户需求，预计2027年供给仍将紧张，客户已经为2028年锁定了\"惊人规模\"的算力订单。",
+      "publishedAt": "2026-07-31T08:27:00+08:00",
+      "source": "36氪",
+      "url": "https://36kr.com/newsflashes/3918817466199681",
+      "subCategory": "公司财报"
+    },
+    {
+      "id": "finance-20260731-002",
+      "title": "苹果预计第四财季营收增长9%至11%，不及市场预期",
+      "summary": "苹果发布2026财年第四季度业绩指引，预计营收同比增长9%至11%，低于市场此前预期的12.1%增速，同时预计毛利率将保持在47%至48%区间。",
+      "publishedAt": "2026-07-31T07:45:00+08:00",
+      "source": "36氪",
+      "url": "https://36kr.com/newsflashes/3918776027622793",
+      "subCategory": "公司财报"
+    },
+    {
+      "title": "黄金交易提醒：金价冲破4100美元关口！四大隐形推手浮出水面",
+      "summary": "7月30日现货黄金突破4100美元/盎司，盘中最高触及4120.08美元，收报4103.42美元，日内涨0.9%。美元指数跌0.9%一度失守100，日元单日大涨约3.3%，叠加6月PCE物价指数环比下降0.1%及30年期美债收益率升至19年高位等因素共同推升金价。",
+      "publishedAt": "2026-07-31T07:38:00+08:00",
+      "source": "汇通财经(FX678)",
+      "url": "https://www.fx678.com/202607310738102067.shtml",
+      "subCategory": "大宗商品",
+      "id": "finance-20260731-n010"
+    },
+    {
+      "id": "finance-20260731-m003",
+      "title": "微软暴涨 15%，市值猛增 4500 亿美元创 18 年来最佳单日表现",
+      "summary": "微软股价周四上涨超过15%，市值增加近4500亿美元，创18年来最大单日涨幅，云业务增长预期高于预期，反映AI投资逐步产生回报，打消了投资者对支出增速过快的担忧，至少9家券商随之上调目标价。",
+      "publishedAt": "2026-07-31T07:28:32+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/983/919.htm",
+      "subCategory": "美股"
+    },
+    {
+      "id": "finance-20260731-m002",
+      "title": "亚马逊 2026 财年第二财季归母净利润 626.47 亿美元，同比增长 244.90%",
+      "summary": "亚马逊2026财年第二季度营收2006.06亿美元，同比增长19.62%；归母净利润626.47亿美元，同比大幅增长244.90%，主要因对Anthropic投资带来534亿美元非经营收益，AWS业务增速创18个季度新高，达37%。",
+      "publishedAt": "2026-07-31T06:59:41+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/983/909.htm",
+      "subCategory": "公司财报"
+    },
+    {
+      "id": "finance-20260731-m001",
+      "title": "苹果 2026 财年第三财季归母净利润 297.89 亿美元同比增长 27.12%，大中华区收入 188.16 亿美元增长 22%",
+      "summary": "苹果发布2026财年第三季度财报，营收1094.17亿美元同比增长16.36%，归母净利润297.89亿美元同比增长27.12%，iPhone、Mac和Services业务均创下同期历史新高，毛利率达50.1%，大中华区收入188.16亿美元增长22%。",
+      "publishedAt": "2026-07-31T04:35:03+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/983/910.htm",
+      "subCategory": "公司财报"
+    },
+    {
+      "title": "美国30年期抵押贷款利率升至6.66%，创一年新高",
+      "summary": "Freddie Mac数据显示，截至7月30日当周，美国30年期固定抵押贷款平均利率升至6.66%，较前一周的6.58%继续走高，为过去一年最高水平；15年期利率同步升至6.04%，反映美联储维持高利率对住房融资成本的持续压力。",
+      "publishedAt": "2026-07-30T12:01:00-04:00",
+      "source": "WSLS 10 / Freddie Mac",
+      "url": "https://www.wsls.com/business/2026/07/30/average-30-year-us-mortgage-rate-rises-to-highest-level-in-a-year-at-666/",
+      "subCategory": "宏观经济",
+      "id": "finance-20260730-903"
+    },
+    {
+      "id": "finance-20260801-a011",
+      "title": "慧荣科技2026年第二季度收入持续创历史新高",
+      "summary": "慧荣科技第二季度营收4.51亿美元，环比增长32%、同比增长127%，毛利率50.2%，公司将第三季度营收指引上调，预计全年营收同比增长超100%。",
+      "publishedAt": "2026-07-31",
+      "source": "Silicon Motion Technology Corporation",
+      "url": "https://siliconmotiontechnologycorporation.gcs-web.com/news-releases/news-release-details-87",
+      "subCategory": "公司财报"
+    },
+    {
+      "title": "港股午评：恒指跌0.11% 科指涨0.7% AI应用股普涨 存储概念股暴力反弹 南方两倍做多海力士涨近60%",
+      "summary": "7月31日港股午盘，恒生指数跌0.11%，恒生科技指数涨0.7%，国企指数跌0.41%；AI应用股普遍走强，智谱涨超20%，存储概念股大幅反弹，南方两倍做多海力士杠杆产品涨近60%，联想涨超7%，小米跌超6%。",
+      "publishedAt": "2026-07-31",
+      "source": "新浪财经",
+      "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-07-31/doc-inikshrr1415957.shtml",
+      "subCategory": "港股",
+      "id": "finance-20260731-n009"
+    },
+    {
+      "title": "核聚变公司Commonwealth Fusion Systems完成10亿美元新一轮融资",
+      "summary": "核聚变初创公司Commonwealth Fusion Systems完成10亿美元新一轮融资，累计融资达40亿美元，资金将用于建设Sparc示范反应堆及首座商业电站Arc的设计，公司预计Sparc将于2027年实现科学能量增益。",
+      "publishedAt": "2026-07-30T23:17:00+08:00",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/30/fusion-power-darling-commonwealth-fusion-systems-raises-another-1b/",
+      "subCategory": "一级市场",
+      "id": "finance-20260731-n003"
+    },
+    {
+      "title": "何立峰与贝森特、格里尔举行视频通话",
+      "summary": "国务院副总理、中美经贸中方牵头人何立峰7月30日晚与美国财政部长贝森特、贸易代表格里尔举行视频通话，双方就落实两国元首北京会晤共识、保持经贸关系稳定进行交流，中方并就近期美对华经贸限制措施表达严正关切。",
+      "publishedAt": "2026-07-30T23:05:00+08:00",
+      "source": "新浪财经",
+      "url": "https://finance.sina.com.cn/wm/2026-07-30/doc-inikrfcz4926392.shtml",
+      "subCategory": "宏观经济",
+      "id": "finance-20260731-n007"
+    },
+    {
+      "title": "洲际交易所以57亿美元收购电子债券交易平台MarketAxess",
+      "summary": "洲际交易所(ICE)宣布以每股167美元现金收购电子债券交易平台MarketAxess，较收盘价溢价33%，交易总额约57亿美元，交易预计于2027年上半年完成交割，旨在整合固定收益领域的电子化交易与合规工具。",
+      "publishedAt": "2026-07-30T22:32:00+08:00",
+      "source": "Reuters via AOL",
+      "url": "https://www.aol.com/articles/intercontinental-exchange-buy-marketaxess-5-114827000.html",
+      "subCategory": "美股",
+      "id": "finance-20260731-n002"
+    },
+    {
+      "title": "AI合规初创公司Dili完成2170万美元融资",
+      "summary": "AI合规科技公司Dili完成合计2170万美元融资，其中1500万美元A轮由Khosla Ventures领投，安联、Rebel Fund等跟投。公司为美国基础设施项目提供AI驱动的合规软件，产品已应用于约700个项目。",
+      "publishedAt": "2026-07-30T21:00:00+08:00",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/30/dili-raises-15-million-to-bring-ai-compliance-to-the-infrastructure-boom/",
+      "subCategory": "一级市场",
+      "id": "finance-20260731-n004"
+    },
+    {
+      "title": "网络安全公司Inforcer完成5000万美元C轮融资",
+      "summary": "总部位于伦敦的网络安全公司Inforcer完成5000万美元C轮融资，由Insight Partners领投，Dawn Capital、Meritech Capital跟投，18个月内三轮融资累计达1.1亿美元。公司为管理中小企业Microsoft 365账户的服务商提供安全防护工具。",
+      "publishedAt": "2026-07-30T21:00:00+08:00",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/30/inforcer-raises-50m-to-help-prepare-smbs-for-a-new-world-of-ai-and-security-risks/",
+      "subCategory": "一级市场",
+      "id": "finance-20260731-n005"
+    },
+    {
+      "title": "现货黄金盘中触及4130美元/盎司，续创阶段新高",
+      "summary": "美联储维持利率不变后，现货黄金价格走高，盘中一度触及4130.90美元/盎司，较前一交易日上涨约0.6%；市场分析认为，美联储主席沃什的偏鹰派表态与中东地缘政治紧张局势共同支撑了黄金的避险需求。",
+      "publishedAt": "2026-07-30T08:33:00-04:00",
+      "source": "雅虎财经",
+      "url": "https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-thursday-july-30-2026-gold-prices-crest-4100-after-fed-holds-rates-steady-123355668.html",
+      "subCategory": "大宗商品",
+      "id": "finance-20260730-902"
+    },
+    {
+      "title": "美国二季度GDP初值增长放缓至1.5%，6月核心PCE通胀降至3.3%",
+      "summary": "美国商务部数据显示，二季度实际GDP按年率增长1.5%，低于市场预期的2.1%，较一季度2.1%明显放缓，主因联邦政府支出下滑；同日公布的6月核心PCE物价指数同比上涨3.3%，较5月的3.4%小幅回落，仍高于美联储2%的长期目标。",
+      "publishedAt": "2026-07-30T08:30:00-04:00",
+      "source": "美国经济分析局(BEA)",
+      "url": "https://www.bea.gov/news/2026/gdp-advance-estimate-2nd-quarter-2026",
+      "subCategory": "宏观经济",
+      "id": "finance-20260730-901"
+    },
+    {
+      "id": "finance-20260801-a010",
+      "title": "Qualcomm Q3 2026 earnings: profit drops 25% on higher costs",
+      "summary": "高通2026财年第三季度营收99.5亿美元同比降4%，净利润20亿美元同比降25%，手机芯片业务受存储器涨价冲击，公司宣布9月起对相关芯片提价。",
+      "publishedAt": "2026-07-30T07:05:00-05:00",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-q3-2026-earnings-profit-120521329.html",
+      "subCategory": "公司财报"
+    },
+    {
+      "id": "finance-20260730-007",
+      "title": "A股收评：三大指数集体下挫",
+      "summary": "A股收盘三大指数集体下挫，上证指数跌0.62%，深证成指跌2.73%，创业板指跌3.97%，超3600只个股下跌；通信设备、半导体板块跌幅居前，酒类、汽车、银行板块上涨。",
+      "publishedAt": "2026-07-30T15:36:00+08:00",
+      "source": "中国新闻网",
+      "url": "https://www.chinanews.com.cn/cj/2026/07-30/10669273.shtml",
+      "subCategory": "A股"
+    },
+    {
+      "id": "finance-20260730-006",
+      "title": "港股午盘涨跌不一，中际旭创上市首日破发",
+      "summary": "港股午盘恒指跌0.05%报25795.20点，恒生科技指数跌1.14%；石油股活跃，中海油涨超2%，芯片股走弱；中际旭创港股上市首日跌超7%。",
+      "publishedAt": "2026-07-30T12:00:00+08:00",
+      "source": "新浪财经",
+      "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-07-30/doc-inikqcsh9649389.shtml",
+      "subCategory": "港股"
+    },
+    {
+      "id": "finance-20260730-010",
+      "title": "现货黄金上涨，黄金股ETF获资金净流入",
+      "summary": "国际现货黄金7月29日收盘上涨0.93%至4066.22美元/盎司，COMEX黄金期货涨0.91%至4123.3美元/盎司，黄金股ETF近5日累计净流入32.61亿元，万国黄金涨6.91%领涨。",
+      "publishedAt": "2026-07-30T09:09:57+08:00",
+      "source": "每经网",
+      "url": "https://www.nbd.com.cn/articles/2026-07-30/4526296.html",
+      "subCategory": "大宗商品"
+    },
+    {
+      "title": "美联储9票赞成3票反对维持利率不变，美股大跌道指跌超1100点",
+      "summary": "美联储FOMC以9票赞成3票反对，维持联邦基金利率目标区间在3.50%-3.75%不变，三位地方联储主席主张加息25个基点。决议公布后美股大跌，道指跌超1100点跌2.19%，纳指跌1.74%，英伟达跌超3.5%，美光跌近10%。",
+      "publishedAt": "2026-07-30T08:08:31+08:00",
+      "source": "每日经济新闻",
+      "url": "https://www.nbd.com.cn/articles/2026-07-30/4526211.html",
+      "subCategory": "政策利率",
+      "id": "finance-20260730-001"
+    },
+    {
+      "id": "finance-20260730-009",
+      "title": "Meta二季度净利润下降14%",
+      "summary": "Meta第二季度营收608.01亿美元，同比增长28%；净利润158.48亿美元，同比下降14%；因三季度营收指引不及预期，财报发布后股价一度大跌超11%。",
+      "publishedAt": "2026-07-30T07:41:33+08:00",
+      "source": "新浪财经",
+      "url": "https://www.163.com/dy/article/L32OESJM0511CPVM.html",
+      "subCategory": "公司财报"
+    },
+    {
+      "id": "finance-20260801-a014",
+      "title": "Starbucks reports strong quarterly sales across customer income levels and times of day",
+      "summary": "星巴克第三财季营收93.2亿美元同比微降1%，净利润10.5亿美元大幅高于上年同期的5.58亿美元，主要受中国零售业务股权出售交易收益驱动。",
+      "publishedAt": "2026-07-29T22:12:00+00:00",
+      "source": "美联社(AP)via WSB Radio",
+      "url": "https://www.wsbradio.com/news/business/starbucks-reports/4TDRT4HXII6WLGOCI53XTNCDYM/?outputType=amp",
+      "subCategory": "公司财报"
+    },
+    {
+      "id": "finance-20260801-a009",
+      "title": "Samsung Electronics Announces Second Quarter 2026 Results",
+      "summary": "三星电子第二季度营业利润达89.5万亿韩元创历史新高，同比大增超18倍，主因AI服务器存储芯片需求旺盛，移动业务因元件成本上升出现经营亏损。",
+      "publishedAt": "2026-07-30",
+      "source": "Samsung Newsroom",
+      "url": "https://news.samsung.com/global/samsung-electronics-announces-second-quarter-2026-results",
+      "subCategory": "公司财报"
+    },
+    {
+      "title": "中际旭创港交所上市前暗盘破发，A股回购计划促涨超4%",
+      "summary": "中际旭创港股上市前暗盘交易一度跌破980港元发行价，收报971港元跌0.92%；同期公司公告A股回购计划，金额不低于40亿元、不超过80亿元，用于股权激励或员工持股，当日A股股价涨超4%。",
+      "publishedAt": "2026-07-29T20:33:55+08:00",
+      "source": "每日经济新闻",
+      "url": "https://www.nbd.com.cn/articles/2026-07-29/4525739.html",
+      "subCategory": "港股",
+      "id": "finance-20260730-002"
+    },
+    {
+      "title": "兆易创新董事长提议回购A股股份，资金总额不超过20亿元",
+      "summary": "兆易创新公告，董事长朱一明提议通过集中竞价方式回购A股股份并注销，回购资金总额不低于10亿元、不超过20亿元；朱一明另拟自2026年12月至2027年7月增持公司股份不低于10亿元。",
+      "publishedAt": "2026-07-29T20:33:00+08:00",
+      "source": "东方财富网",
+      "url": "https://finance.eastmoney.com/a/202607293825315290.html",
+      "subCategory": "A股",
+      "id": "finance-20260730-003"
+    },
+    {
+      "title": "华锦股份副总经理闫增辉被立案调查并留置",
+      "summary": "华锦股份公告，公司副总经理闫增辉因涉嫌严重违纪违法，被监察机关立案调查并实施留置措施。公司表示已对其分管工作作出妥善安排，董事及其他高管正常履职，生产经营未受影响。",
+      "publishedAt": "2026-07-29T19:31:00+08:00",
+      "source": "新浪财经",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-07-29/doc-iniknrrf5745407.shtml",
+      "subCategory": "风险事件",
+      "id": "finance-20260730-004"
+    },
+    {
+      "id": "finance-20260730-008",
+      "title": "月之暗面Kimi完成F轮超35亿美元融资",
+      "summary": "月之暗面（Kimi）完成F轮融资超35亿美元，投后估值达350亿美元，因认购超目标金额3倍提前关闭；原定8月启动的G轮已提前开始，投前估值升至500亿美元。",
+      "publishedAt": "2026-07-29T17:11:00+08:00",
+      "source": "新浪财经",
+      "url": "https://finance.sina.com.cn/jjxw/2026-07-29/doc-iniknmif1619151.shtml",
+      "subCategory": "一级市场"
+    },
+    {
+      "id": "finance-20260730-005",
+      "title": "美股AI板块大分化，价值股走强",
+      "summary": "美股三大指数涨跌互现，道指涨1.03%报52747.32点，标普500涨0.21%报7428.78点，纳指跌0.22%报24876.91点，资金明显从科技股转向消费、金融等价值板块。",
+      "publishedAt": "2026-07-29T16:18:00+08:00",
+      "source": "新浪财经",
+      "url": "https://k.sina.com.cn/article_7879776970_1d5abdaca06801ctdy.html?from=finance",
+      "subCategory": "美股"
+    },
+    {
+      "title": "寒武纪发布2026年限制性股票激励计划",
+      "summary": "芯片设计公司寒武纪推出2026年限制性股票激励计划，拟授予限制性股票500万股，约占公司总股本0.80%，授予价格为每股750元，较7月28日收盘价折价约33.51%。",
+      "publishedAt": "2026-07-29T07:22:00+08:00",
+      "source": "新浪财经（上证报摘要）",
+      "url": "https://finance.sina.com.cn/stock/y/2026-07-29/doc-inikmivx2772124.shtml",
+      "subCategory": "A股",
+      "id": "finance-20260729-711"
+    },
+    {
+      "title": "龙芯科技将纳入MSCI中国全股票指数",
+      "summary": "龙芯科技上市后将于8月10日正式纳入MSCI中国全股票指数，成为该指数所涵盖成份股中市值第二大的公司。",
+      "publishedAt": "2026-07-29T07:22:00+08:00",
+      "source": "新浪财经（上证报摘要）",
+      "url": "https://finance.sina.com.cn/stock/y/2026-07-29/doc-inikmivx2772124.shtml",
+      "subCategory": "A股",
+      "id": "finance-20260729-712"
+    },
+    {
+      "title": "上半年全国税收收入超10万亿元 个税成第三大税种",
+      "summary": "中国上半年税收收入突破10万亿元，个人所得税已成为第三大税种；今年以来超过1亿名纳税人享受个税退税合计逾1500亿元，相关红利更多惠及中低收入群体。",
+      "publishedAt": "2026-07-29T07:22:00+08:00",
+      "source": "新浪财经（上证报摘要）",
+      "url": "https://finance.sina.com.cn/stock/y/2026-07-29/doc-inikmivx2772124.shtml",
+      "subCategory": "宏观经济",
+      "id": "finance-20260729-713"
+    },
+    {
+      "title": "NXP Semiconductors Reports Second Quarter 2026 Results",
+      "summary": "NXP恩智浦公布2026年第二季度财报，营收35亿美元同比增长19%，非GAAP每股收益3.61美元均超市场预期，公司预计三季度营收36.5亿至38.5亿美元。",
+      "publishedAt": "2026-07-29T04:31:37+08:00",
+      "source": "GlobeNewswire",
+      "url": "https://www.manilatimes.net/2026/07/29/tmt-newswire/globenewswire/nxp-semiconductors-reports-second-quarter-2026-results/2393515",
+      "subCategory": "公司财报",
+      "id": "finance-20260729-502"
+    },
+    {
+      "id": "finance-20260801-a012",
+      "title": "Arm Holdings plc Reports Results for the First Quarter of the Fiscal Year Ending 2027",
+      "summary": "Arm公布截至6月30日的2027财年第一季度业绩，总营收12.89亿美元同比增长22%，版税与授权收入均创同期新高，AI数据中心需求持续拉动增长。",
+      "publishedAt": "2026-07-29",
+      "source": "Businesswire",
+      "url": "https://www.businesswire.com/news/home/20260729964548/en/Arm-Holdings-plc-Reports-Results-for-the-First-Quarter-of-the-Fiscal-Year-Ending-2027",
+      "subCategory": "公司财报"
+    },
+    {
+      "id": "finance-20260801-a013",
+      "title": "Coursera Reports Second Quarter 2026 Financial Results",
+      "summary": "Coursera公布完成收购Udemy后的首个季度财报，营收2.99亿美元同比增长59.6%，企业营收接近翻倍，全年营收指引上调至12.2亿至12.45亿美元。",
+      "publishedAt": "2026-07-29",
+      "source": "Coursera Investor Relations",
+      "url": "https://investor.coursera.com/news/news-details/2026/Coursera-Reports-Second-Quarter-2026-Financial-Results/default.aspx",
+      "subCategory": "公司财报"
+    },
+    {
+      "title": "Brent Crude Oil Price",
+      "summary": "受中东地缘局势持续升级影响，布伦特原油期货价格7月29日大涨7.33%，报每桶90.25美元，市场担忧地区冲突可能进一步扰乱能源供应及主要航运通道运输。",
+      "publishedAt": "2026-07-29",
+      "source": "Trading Economics",
+      "url": "https://tradingeconomics.com/commodity/brent-crude-oil",
+      "subCategory": "大宗商品",
+      "id": "finance-20260729-707"
+    },
+    {
+      "title": "微软公布2026财年第四季度财报，Azure云收入增长43%创四年最快增速",
+      "summary": "微软第四财季营收900亿美元，同比增长18%，GAAP净利润358亿美元同比增长31%；Azure及其他云服务收入同比增长43%，全年Azure收入首次突破1000亿美元，Microsoft 365 Copilot付费席位超过3000万。",
+      "publishedAt": "2026-07-29",
+      "source": "微软官方新闻",
+      "url": "https://news.microsoft.com/source/2026/07/29/microsoft-cloud-and-ai-strength-fuels-fourth-quarter-results-4/",
+      "subCategory": "公司财报",
+      "id": "finance-20260731-n001"
+    },
+    {
+      "title": "Fish Audio raises $52M seed to build AI voice models for creators and enterprises",
+      "summary": "AI语音初创公司Fish Audio完成5200万美元种子轮融资，由Coreline Ventures和Capital Today领投，多家机构跟投。公司由前英伟达研究员廖士嘉创立，产品支持超1.5万种自然语言语音控制参数，平台已有800万用户，年化经常性收入约2100万美元。",
+      "publishedAt": "2026-07-28T22:00:00+08:00",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/28/fish-audio-raises-50m-seed-to-build-ai-voice-models-for-creators-and-enterprises/",
+      "subCategory": "一级市场",
+      "id": "finance-20260728-700"
+    },
+    {
+      "title": "Act Security Launches Action-Centric Cloud Security Platform With $60 Million in Funding",
+      "summary": "云安全初创公司Act Security宣布已获得共6000万美元融资并正式推出产品，此前分别完成2000万美元种子轮（Team8与Bessemer领投）及4000万美元A轮（Notable Capital领投）。公司由Medigate创始团队创办，专注于收缩云基础设施访问面以降低攻击风险。",
+      "publishedAt": "2026-07-28T19:00:00+08:00",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/ai/articles/act-security-launches-action-centric-110000107.html",
+      "subCategory": "一级市场",
+      "id": "finance-20260728-701"
+    },
+    {
+      "title": "京东方Ａ：控股股东、实际控制人北京电控拟增持5亿元~10亿元公司股份",
+      "summary": "京东方A公告，控股股东、实际控制人北京电子控股有限责任公司计划通过深交所集中竞价方式增持公司股份，拟增持金额5亿元至10亿元，未设定具体价格区间，将结合市场情况择机实施，增持期限为6个月。",
+      "publishedAt": "2026-07-28T18:30:00+08:00",
+      "source": "证券时报",
+      "url": "https://www.stcn.com/article/detail/4045798.html",
+      "subCategory": "A股",
+      "id": "finance-20260728-710"
+    },
+    {
+      "id": "finance-20260729-001",
+      "title": "Meta宣布与贝莱德达成战略合作，将在埃尔帕索开发数据中心",
+      "summary": "Meta与贝莱德成立合资公司在得州埃尔帕索开发数据中心，贝莱德旗下基金持股80%、Meta持股20%，双方合计投资约140亿美元用于建设及配套电力、制冷与连接基础设施；Meta将以初始4年期、含4次续约选项的方式租赁整个数据中心园区，租期最长可达20年。",
+      "publishedAt": "2026-07-28T18:01:00+08:00",
+      "source": "36氪",
+      "url": "https://36kr.com/newsflashes/3915125531333760",
+      "subCategory": "美股"
+    },
+    {
+      "title": "港股通日报：量化派暴跌57%，智谱跌近19%，南向资金净流出近25亿港元",
+      "summary": "港股通标的量化派股价7月28日暴跌57.06%，收报5.90港元，成为当日南向资金交易个股中跌幅最大标的，成交额15.64亿港元；当日科技股板块普遍承压，光通信、半导体等概念股同步走弱，南向资金当日净流出约24.95亿港元。",
+      "publishedAt": "2026-07-28T18:00:00+08:00",
+      "source": "FX168财经网",
+      "url": "https://news.fx168news.com/cooperate/2607/7480634.shtml",
+      "subCategory": "风险事件",
+      "id": "finance-20260728-708"
+    },
+    {
+      "title": "港股7月28日收盘：恒生指数涨0.41%报25310.85点",
+      "summary": "港股三大指数7月28日收盘全线上涨，恒生指数涨0.41%报25310.85点，恒生科技指数涨0.61%，恒生中国企业指数涨0.85%，全日成交额2506.33亿港元，较前一交易日小幅放量。",
+      "publishedAt": "2026-07-28T18:00:00+08:00",
+      "source": "FX168财经网",
+      "url": "https://news.fx168news.com/cooperate/2607/7480634.shtml",
+      "subCategory": "港股",
+      "id": "finance-20260728-709"
+    },
+    {
+      "title": "央行：二季度末金融机构人民币各项贷款余额282.63万亿元",
+      "summary": "中国人民银行发布《2026年二季度金融机构贷款投向统计报告》，二季度末金融机构人民币各项贷款余额282.63万亿元，同比增长5.2%，上半年新增贷款10.72万亿元，房地产贷款余额同比下降4.9%。",
+      "publishedAt": "2026-07-28T17:27:51+08:00",
+      "source": "金融界",
+      "url": "https://finance.jrj.com.cn/2026/07/28172757927954.shtml",
+      "subCategory": "宏观经济",
+      "id": "finance-20260729-501"
+    },
+    {
+      "id": "finance-20260728-102",
+      "title": "全球科技股巨震！“易中天”同日大跌，中际旭创跌15.69%、新易盛跌17.13%",
+      "summary": "7月28日光模块龙头股集体重挖，中际旭创跌15.69%、新易盛跌17.13%、天孚通信跌13.21%，通信ETF触及跌停；市场担忧AI基础设施循环融资风险、美联储政策不确定性及存储芯片厂商与科技巨头即将披露的财报，全市场超2700只个股下跌，成交额2.03万亿元。",
+      "publishedAt": "2026-07-28T15:30:08+08:00",
+      "source": "每日经济新闻",
+      "url": "https://www.nbd.com.cn/articles/2026-07-28/4523878.html",
+      "subCategory": "风险事件"
+    },
+    {
+      "id": "finance-20260728-101",
+      "title": "A股收评：三大指数集体收跌，创业板指跌7.35%，CPO存储芯片概念股重挘",
+      "summary": "7月28日A股收盘，上证指数跌1.16%，深证成指跌4.52%，创业板指跌7.35%，科创50跌6.33%，全市场超2700只个股下跌，成交额2.04万亿元；CPO、存储芯片、通信设备等板块领跌，白酒、教育、银行、餐饮旅游等板块逆势上涨。",
+      "publishedAt": "2026-07-28T15:13:00+08:00",
+      "source": "中国新闻网",
+      "url": "https://www.chinanews.com.cn/cj/2026/07-28/10667875.shtml",
+      "subCategory": "A股"
+    },
+    {
+      "title": "央行多举措呵护流动性 资金面有望平稳跨月",
+      "summary": "中国人民银行公告将于7月29日至31日每日开展6000亿元隔夜逆回购操作，并于8月3日再开展3000亿元，累计投放规模约2.1万亿元，旨在呵护月末及跨月银行体系流动性，保持资金面平稳。",
+      "publishedAt": "2026-07-28T14:22:00+08:00",
+      "source": "中国新闻网",
+      "url": "https://www.chinanews.com.cn/cj/2026/07-28/10667836.shtml",
+      "subCategory": "政策利率",
+      "id": "finance-20260728-706"
+    },
+    {
+      "title": "ST恒镶及实际控制人被证监会立案调查",
+      "summary": "据7月28日早间股市信息汇总披露，创业板公司ST恒镶及其实际控制人因涉嫌信息披露违规，已被中国证监会立案调查，具体案由尚未进一步披露。",
+      "publishedAt": "2026-07-28T08:06:00+08:00",
+      "source": "新浪财经",
+      "url": "https://finance.sina.com.cn/stock/cpbd/2026-07-28/doc-inikiewn9407205.shtml",
+      "subCategory": "风险事件",
+      "id": "finance-20260728-014"
+    },
+    {
+      "title": "Seagate Technology Reports Fiscal Fourth Quarter and Fiscal Year 2026 Financial Results",
+      "summary": "希捷科技公布2026财年第四季度财报，营收36亿美元，非GAAP每股收益5.71美元，全年营收122亿美元同比增长34%，自由现金流达31亿美元创纪录，管理层称业绩超出预期。",
+      "publishedAt": "2026-07-28",
+      "source": "Seagate Investor Relations",
+      "url": "https://investors.seagate.com/news/news-details/2026/Seagate-Technology-Reports-Fiscal-Fourth-Quarter-and-Fiscal-Year-2026-Financial-Results/default.aspx",
+      "subCategory": "公司财报",
+      "id": "finance-20260729-503"
+    },
+    {
+      "title": "Claros Technologies Raises $55 Million Series B Financing to Accelerate Global Commercialization of PFAS Destruction Technology",
+      "summary": "美国PFAS污染物处理企业Claros Technologies完成5500万美元B轮融资，由Treehouse Family Capital领投，大金美国、Veralto等参投，资金将用于加速PFAS破坏技术全球商业化及扩大实验室业务。",
+      "publishedAt": "2026-07-28",
+      "source": "PR Newswire",
+      "url": "https://www.prnewswire.com/news-releases/claros-technologies-raises-55-million-series-b-financing-to-accelerate-global-commercialization-of-pfas-destruction-technology-302835890.html",
+      "subCategory": "一级市场",
+      "id": "finance-20260729-504"
+    },
+    {
+      "title": "Barclays Q2 Profit Rises 31% To £3.25 Billion As Bank Raises 2026 Income Target",
+      "summary": "英国巴克莱银行公布2026年第二季度业绩，税前利润同比增长31%至32.5亿英镑，营业收入同比增长16%至83.4亿英镑，有形股本回报率升至16.1%，成本收入比降至54%，并将2026年全年收入目标上调至约315亿英镑。",
+      "publishedAt": "2026-07-28",
+      "source": "Pulse2",
+      "url": "https://pulse2.com/barclays-q2-profit-rises-31-to-3-25-billion-as-bank-raises-2026-income-target/",
+      "subCategory": "公司财报",
+      "id": "finance-20260728-702"
+    },
+    {
+      "title": "Mercedes-Benz Group AG (MBGAF) Q2 2026 Earnings Call Highlights",
+      "summary": "梅赛德斯-奔驰集团公布2026年第二季度业绩，营收约320亿欧元同比略降，调整后息税前利润增至23亿欧元，同比增长约16%，自由现金流11亿欧元；受中国市场销量下滑约两成拖累，公司将全年营收展望由持平下调为略低于上年水平。",
+      "publishedAt": "2026-07-28",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/mercedes-benz-group-ag-mbgaf-130028883.html",
+      "subCategory": "公司财报",
+      "id": "finance-20260728-703"
+    },
+    {
+      "title": "IQVIA Reports Second-Quarter 2026 Results",
+      "summary": "医药研发外包巨头IQVIA公布2026年第二季度业绩，营收43.68亿美元同比增长8.7%，调整后每股收益3.15美元同比增长12.1%；研发解决方案部门新增合同金额31.5亿美元，同比增长19%，公司同步上调全年营收与每股收益指引。",
+      "publishedAt": "2026-07-28",
+      "source": "BioSpace",
+      "url": "https://www.biospace.com/press-releases/iqvia-reports-second-quarter-2026-results",
+      "subCategory": "公司财报",
+      "id": "finance-20260728-704"
+    },
+    {
+      "title": "Royal Caribbean 2026 Q2 Results Strong; Company Raises Full Year Guidance",
+      "summary": "皇家加勒比邮轮公布2026年第二季度业绩，调整后每股收益4.21美元超市场预期，营收约48亿美元同比增长6%，载客量240万人次同比增长6%；公司将全年调整后每股收益指引上调至17.73至17.87美元，但因地缘局势影响将全年营收增速目标下调至约9%。",
+      "publishedAt": "2026-07-28",
+      "source": "Cruise Industry News",
+      "url": "https://cruiseindustrynews.com/cruise-news/2026/07/royal-caribbean-2026-q2-results-strong-company-raises-full-year-guidance/",
+      "subCategory": "公司财报",
+      "id": "finance-20260728-705"
+    },
+    {
+      "title": "国际油价大幅跳水",
+      "summary": "7月27日国际原油价格大幅回落，WTI原油期货一度跌8%报约82美元/桶，布伦特原油跌超7.5%，主因中东地缘紧张局势缓和、美伊外交对话仍在继续。",
+      "publishedAt": "2026-07-27T21:07:00+08:00",
+      "source": "新浪财经",
+      "url": "https://finance.sina.com.cn/roll/2026-07-27/doc-inikhcky9818571.shtml",
+      "subCategory": "大宗商品",
+      "id": "finance-20260728-006"
+    },
+    {
+      "id": "finance-20260727-207",
+      "title": "东方证券拟251.2亿元收购上海证券100%股权",
+      "summary": "东方证券公告拟通过发行股份及支付现金相结合的方式收购上海证券100%股权，交易作价251.2亿元，其中股份对价235.5亿元、现金对价15.7亿元，发行价格10.29元/股，共计发行约22.89亿股，占发行后总股本的21.22%。",
+      "publishedAt": "2026-07-27T20:34:00+08:00",
+      "source": "36氪",
+      "url": "https://36kr.com/newsflashes/3913869684381060",
+      "subCategory": "A股"
+    },
+    {
+      "id": "finance-20260727-210",
+      "title": "ST恒信：公司及实控人因信披违规被证监会立案",
+      "summary": "ST恒信公告称，公司及实际控制人孟宪民因涉嫌信息披露违法违规，收到中国证监会立案告知书，公司表示各项生产经营活动均正常开展，该事项不会对公司生产经营产生重大影响。",
+      "publishedAt": "2026-07-27T20:27:00+08:00",
+      "source": "36氪",
+      "url": "https://36kr.com/newsflashes/3913863639799168",
+      "subCategory": "风险事件"
+    },
+    {
+      "id": "finance-20260727-209",
+      "title": "工业富联：拟10亿元—20亿元回购股份",
+      "summary": "工业富联公告拟通过集中竞价交易方式回购公司股份，回购金额区间为10亿元至20亿元，回购价格上限为每股103元，公司表示此举旨在维护公司价值及股东权益，回购股份将依规转售或注销。",
+      "publishedAt": "2026-07-27T16:41:00+08:00",
+      "source": "36氪",
+      "url": "https://36kr.com/newsflashes/3913641029735560",
+      "subCategory": "公司财报"
+    },
+    {
+      "title": "港股收盘：恒指涨0.98% 科指涨1.57% 科网股、黄金股普涨",
+      "summary": "7月27日港股收盘，恒生指数涨0.98%报25207.18点，恒生科技指数涨1.57%，全日成交额2105亿港元，小米涨超7%，美团涨3%，黄金股受避险情绪提振集体走强。",
+      "publishedAt": "2026-07-27T16:08:00+08:00",
+      "source": "新浪财经",
+      "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-07-27/doc-inikfsve9887858.shtml",
+      "subCategory": "港股",
+      "id": "finance-20260728-004"
+    },
+    {
+      "title": "5亿，天河智能生态基金落地天津",
+      "summary": "总规模5亿元、首期1亿元的天河智能生态基金7月27日在天津落地，由天津城投旗下市政投资公司牵头，联合武清区、海河产业基金及博通资本共同发起，已投资星络智联芯片项目。",
+      "publishedAt": "2026-07-27T15:50:00+08:00",
+      "source": "投资界",
+      "url": "https://news.pedaily.cn/202607/566872.shtml",
+      "subCategory": "一级市场",
+      "id": "finance-20260728-009"
+    }
+  ]
+}
