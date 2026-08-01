@@ -3,8 +3,44 @@
   "slug": "ai",
   "title": "AI 与大模型",
   "description": "大模型、Agent、AI 编程、推理框架、开源模型的发布与落地。",
-  "updatedAt": "2026-08-01T08:30:00+08:00",
+  "updatedAt": "2026-08-01T16:45:00+08:00",
   "items": [
+    {
+      "id": "ai-20260801-r001",
+      "title": "李飞飞World Labs收购SceniX，物理AI训练正从“采数据”走向“造世界”",
+      "summary": "World Labs宣布收购机器人仿真公司SceniX，采用Real-to-Sim-to-Real流程使任务在真实机器人与仿真环境间往返训练测试。文章还提到无问芯穹提出的三段式物理AI基建思路，双方均认为竞争重心正转向可训练虚拟环境的构建。",
+      "publishedAt": "2026-08-01T12:53:33+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/08/464532.html",
+      "subCategory": "具身智能"
+    },
+    {
+      "id": "ai-20260801-r002",
+      "title": "黄仁勋：不玩𝕏是我太内向，现在为AI必须站出来",
+      "summary": "英伟达CEO黄仁勋在采访中称，因认为有必要为AI发声而首次注册X账号。他将智能体称为新型软件，认为可控性而非绝对准确是下一个技术突破口，强调AI消除的是任务而非岗位，并预测机器人和物理AI将成为英伟达下一个十亿美元级业务。",
+      "publishedAt": "2026-08-01T11:38:10+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/08/464452.html",
+      "subCategory": "大模型"
+    },
+    {
+      "id": "ai-20260801-r003",
+      "title": "OpenAI宣布其AI模型触达全球超10亿活跃用户和200万家企业",
+      "summary": "OpenAI在7月31日的公告中披露，其模型已被全球超10亿活跃用户和200万家企业使用，ChatGPT用户注册后六周内消息量增长约50%，工作相关任务使用量约翻倍，同时上线的ChatGPT Work旨在把提问转化为可执行的多步骤操作。",
+      "publishedAt": "2026-08-01T10:15:31+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/984/446.htm",
+      "subCategory": "AI应用"
+    },
+    {
+      "id": "ai-20260801-r004",
+      "title": "OpenAI奥尔特曼推介Astra模型，协同AI智能体工作、主打长周期任务能力",
+      "summary": "据The Information援引消息，OpenAI首席执行官奥尔特曼7月29日在国会与两名参议员会面时演示了新模型系列Astra，该模型可让多个AI智能体分工协作处理单一智能体难以完成的复杂问题，并强化了对长周期任务的处理能力。",
+      "publishedAt": "2026-08-01T08:45:12+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/984/421.htm",
+      "subCategory": "Agent"
+    },
     {
       "id": "ai-20260801-a001",
       "title": "DeepSeek-V4-Flash 正式版跑分报告：约 98% 缓存命中打造 AI 极致性价比",
@@ -58,6 +94,15 @@
       "source": "量子位",
       "url": "https://www.qbitai.com/2026/07/464328.html",
       "subCategory": "具身智能"
+    },
+    {
+      "id": "ai-20260801-r005",
+      "title": "即梦Seedance 2.5发布，支持30秒原生视频生成",
+      "summary": "字节跳动即梦平台上线视频生成模型Seedance 2.5，支持30秒原生视频生成，通过扩展模式最长可达3分钟，并新增局部修改、元素增删、精确到1秒的时间点控制等编辑功能，还支持最多50个参考素材同时输入及Maya、Blender插件工作流集成。",
+      "publishedAt": "2026-07-31T16:48:22+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/07/464329.html",
+      "subCategory": "AI视频"
     },
     {
       "title": "视频后期，危！MiniMax H3手绘即特效，多模态的「Coding时刻」来了",
@@ -276,15 +321,6 @@
       "subCategory": "AI应用"
     },
     {
-      "title": "OpenAI推出ChatGPT for Academic Researchers学术科研计划",
-      "summary": "OpenAI推出面向学术科研人员的ChatGPT计划，首批开放1万个名额，可使用GPT-5.6 Sol Pro等模型，未来扩展至10万名科研人员，并承诺到2027年投入超2.5亿美元支持外部科研，默认不将用户数据用于模型训练。",
-      "publishedAt": "2026-07-29T17:33:00-04:00",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2226656/openai-will-provide-free-ai-models-to-select-researchers/",
-      "subCategory": "AI应用",
-      "id": "ai-20260729-901"
-    },
-    {
       "id": "ai-20260731-002",
       "title": "Gemini Robotics 2 brings whole body intelligence to robots",
       "summary": "谷歌DeepMind发布Gemini Robotics 2系统，由三个模型构成：视觉-语言-动作模型Gemini Robotics 2支持人形机器人从行走、下蹲到多指抓取的全身控制；具身推理模型Gemini Robotics ER 2负责多步骤任务规划并协调多机器人协作；On-Device 2可在本地运行，仅凭不到200个示例即可适配全新机器人形态。测试显示全身操作任务成功率45.7%至76.3%，多指灵巧操作成功率32%至92%不等，另引入ASIMOV-Agentic基准评估机器人拒绝不安全指令的能力。",
@@ -312,6 +348,15 @@
       "id": "ai-20260731-n005"
     },
     {
+      "title": "OpenAI推出ChatGPT for Academic Researchers学术科研计划",
+      "summary": "OpenAI推出面向学术科研人员的ChatGPT计划，首批开放1万个名额，可使用GPT-5.6 Sol Pro等模型，未来扩展至10万名科研人员，并承诺到2027年投入超2.5亿美元支持外部科研，默认不将用户数据用于模型训练。",
+      "publishedAt": "2026-07-29T17:33:00-04:00",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2226656/openai-will-provide-free-ai-models-to-select-researchers/",
+      "subCategory": "AI应用",
+      "id": "ai-20260729-901"
+    },
+    {
       "title": "超越OpenAI、Anthropic！国产AI安全智能体杀进全球前四、国内第一",
       "summary": "深信服AI安全智能体在CyberGym基准测试中取得86.3%成功率，覆盖1507个源自ARVO和OSS-Fuzz的漏洞挑战任务，排名全球前四、国内第一，超过OpenAI和Anthropic同类智能体，系统基于国产GLM-5.2大模型构建。",
       "publishedAt": "2026-07-29T16:13:03+08:00",
@@ -337,6 +382,24 @@
       "url": "https://www.ithome.com/0/982/816.htm",
       "subCategory": "大模型",
       "id": "ai-20260729-501"
+    },
+    {
+      "title": "TurboVLA：RTX 4090上32Hz实时视觉-语言-动作模型",
+      "summary": "研究团队提出TurboVLA模型，将视觉-语言-动作管线由\"视觉-语言-动作\"串联改为直接映射，仅0.2B参数即在LIBERO基准上取得97.7%成功率，推理延迟31.2毫秒，显存占用低于1GB，可在消费级RTX 4090显卡上运行。",
+      "publishedAt": "2026-07-29",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2607.27205",
+      "subCategory": "具身智能",
+      "id": "ai-20260729-902"
+    },
+    {
+      "title": "vLLM针对Arm CPU推理性能大幅优化",
+      "summary": "Arm团队在vLLM博客介绍其在Arm Neoverse CPU上的推理优化成果，通过切换mimalloc内存分配、采用LSE原子操作、权重预打包等改进，相较2025年10月基线，BF16吞吐最高提升2.7倍，INT8 W8A8提升最高4.8倍，INT8 W4A8提升最高6.2倍，并提供预编译wheel与Docker镜像便于部署。",
+      "publishedAt": "2026-07-29",
+      "source": "vLLM Blog",
+      "url": "https://vllm.ai/blog/2026-07-29-optimizing-vllm-on-arm-cpus",
+      "subCategory": "推理框架",
+      "id": "ai-20260729-704"
     },
     {
       "title": "AI 推动软件漏洞发现速度大幅加快，今年数量较去年预计翻番",
@@ -391,24 +454,6 @@
       "url": "https://crypto.news/grok-4-6-gets-aug-7-launch-date-grok-4-7-follows/",
       "subCategory": "大模型",
       "id": "ai-20260728-709"
-    },
-    {
-      "title": "TurboVLA：RTX 4090上32Hz实时视觉-语言-动作模型",
-      "summary": "研究团队提出TurboVLA模型，将视觉-语言-动作管线由\"视觉-语言-动作\"串联改为直接映射，仅0.2B参数即在LIBERO基准上取得97.7%成功率，推理延迟31.2毫秒，显存占用低于1GB，可在消费级RTX 4090显卡上运行。",
-      "publishedAt": "2026-07-29",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2607.27205",
-      "subCategory": "具身智能",
-      "id": "ai-20260729-902"
-    },
-    {
-      "title": "vLLM针对Arm CPU推理性能大幅优化",
-      "summary": "Arm团队在vLLM博客介绍其在Arm Neoverse CPU上的推理优化成果，通过切换mimalloc内存分配、采用LSE原子操作、权重预打包等改进，相较2025年10月基线，BF16吞吐最高提升2.7倍，INT8 W8A8提升最高4.8倍，INT8 W4A8提升最高6.2倍，并提供预编译wheel与Docker镜像便于部署。",
-      "publishedAt": "2026-07-29",
-      "source": "vLLM Blog",
-      "url": "https://vllm.ai/blog/2026-07-29-optimizing-vllm-on-arm-cpus",
-      "subCategory": "推理框架",
-      "id": "ai-20260729-704"
     },
     {
       "id": "ai-20260729-001",
@@ -609,24 +654,6 @@
       "id": "ai-20260727-201"
     },
     {
-      "title": "开源反派Anthropic也有性价比？Claude Opus 5成本效益分析",
-      "summary": "文章分析指出，Anthropic新发布的Claude Opus 5定价维持每百万输入5美元、输出25美元不变，但在CursorBench 3.2等测试中以约一半单任务成本达到与Fable 5相当的表现，输出价格较OpenAI GPT-5.6 Sol低16.7%，被视为公司首次公开强调性价比而非单纯追求性能。",
-      "publishedAt": "2026-07-27T07:46:00+08:00",
-      "source": "36氪",
-      "url": "https://36kr.com/p/3912255169353602",
-      "subCategory": "大模型",
-      "id": "ai-20260727-202"
-    },
-    {
-      "title": "人形机器人，拼脑子的时候到了",
-      "summary": "文章称人形机器人竞争已进入拼“大脑”阶段：中国在电机等硬件成本上优势明显，价格已降至千元级；月之暗院2.8万亿参数Kimi K3即将开源且性能超越部分美国闭源模型；但机器人在非结构化环境泛化能力、优质具身数据积累等“脑力”短板仍待突破。",
-      "publishedAt": "2026-07-27T07:44:00+08:00",
-      "source": "36氪",
-      "url": "https://36kr.com/p/3912252459799945",
-      "subCategory": "具身智能",
-      "id": "ai-20260727-203"
-    },
-    {
       "title": "Our position on open-weights models",
       "summary": "Anthropic发文重申未曾主张全面禁止开放权重模型，但支持限制对华芯片出口、打击大规模蒸馏行为，并要求对达到一定能力门槛的模型无论开闭源都强制进行安全测试。",
       "publishedAt": "2026-07-27",
@@ -697,33 +724,6 @@
       "url": "https://arxiv.org/abs/2607.24280",
       "subCategory": "论文进展",
       "id": "ai-20260727-711"
-    },
-    {
-      "id": "ai-20260726-101",
-      "title": "中国工程院外籍院士赫尔佐格：AI下一个突破口是小型智能体协作",
-      "summary": "2025年度国际科学技术合作奖获得者、中国工程院外籍院士赫尔佐格表示，AI下一个重大突破不会来自单一大型系统，而是来自众多小型专用智能体的协作，并强调人工智能应聚焦降低知识获取门槛而非单纯模拟人类思维。",
-      "publishedAt": "2026-07-26T23:25:30+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/981/813.htm",
-      "subCategory": "Agent"
-    },
-    {
-      "title": "OpenAI挖到最新菲尔兹奖得主，字节跳动同期推出Seed STEM科学家计划",
-      "summary": "菲尔兹奖得主Jacob Tsimerman宣布转向AI安全研究并加入OpenAI，延续顶尖科学家流向AI公司的趋势；字节跳动Seed团队同期推出“Seed STEM科学家计划”，面向数学、物理、化学、生物领域提供100个合作岗位，被称为国内首个大规模AI结合前沿科研的项目。",
-      "publishedAt": "2026-07-26T15:05:00+08:00",
-      "source": "36氪",
-      "url": "https://36kr.com/p/3912031933142404",
-      "subCategory": "AI应用",
-      "id": "ai-20260727-204"
-    },
-    {
-      "id": "ai-20260726-010",
-      "title": "3万小时触觉数据补齐具身智能\"手感\"！新智具身&复旦报告三连发",
-      "summary": "新智具身与复旦大学联合发布N0系列三份技术报告：N0-Foundation构建3万小时视觉-触觉交互数据集并统一不同传感器格式；N0-VTLA通过触觉预判将插头插入成功率提升至85%（视觉方案为60%）；N0-TWAM融合视觉、触觉与动作预测，真机任务成功率提升至46.3%，相关数据和模型已开源。",
-      "publishedAt": "2026-07-26T13:30:21+08:00",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/07/460962.html",
-      "subCategory": "具身智能"
     }
   ]
 }

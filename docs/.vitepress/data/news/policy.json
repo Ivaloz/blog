@@ -3,7 +3,7 @@
   "slug": "policy",
   "title": "政策信息",
   "description": "国家与地方政策、监管动态、产业扶持与合规要求。",
-  "updatedAt": "2026-08-01T08:30:00+08:00",
+  "updatedAt": "2026-08-01T16:45:00+08:00",
   "items": [
     {
       "id": "policy-20260801-a004",
@@ -24,12 +24,39 @@
       "subCategory": "反垄断"
     },
     {
+      "id": "policy-20260801-r004",
+      "title": "四部门发文健全金融机构治理 推动金融高质量发展",
+      "summary": "金融监管总局、人民银行、证监会、财政部联合印发实施意见，提出9方面22条举措健全金融机构治理，目标到2029年基本形成权责清晰、约束有效的治理机制，做好科技、绿色、普惠等五篇文章。",
+      "publishedAt": "2026-07-31T20:12:52+08:00",
+      "source": "新华社",
+      "url": "https://www.news.cn/20260731/94a3c7b9e92349d9a1b050ebf4d7848a/c.html",
+      "subCategory": "金融监管"
+    },
+    {
       "id": "policy-20260731-m002",
       "title": "中核集团：华龙一号 2.0 版示范项目获国务院常务会议核准",
       "summary": "国务院常务会议核准四个核电项目共8台机组，其中6台采用华龙一号技术，浙江金七门核电二期和广东太平岭核电三期被确定为\"华龙一号2.0版示范项目\"，目前国内外已有10台华龙一号机组商运，另有37台核准在建。",
       "publishedAt": "2026-07-31T19:58:31+08:00",
       "source": "IT之家",
       "url": "https://www.ithome.com/0/984/367.htm",
+      "subCategory": "产业政策"
+    },
+    {
+      "id": "policy-20260801-r003",
+      "title": "8月1日起，一批国家标准将实施",
+      "summary": "自8月1日起，46项强制性国家标准和442项推荐性国家标准正式实施，涵盖煤炭开采及甲醛生产能耗限额、家用太阳能热水系统能效、脑机接口数据格式、光伏电站并网运行等领域。",
+      "publishedAt": "2026-07-31T19:37:36+08:00",
+      "source": "新华社",
+      "url": "https://www.news.cn/politics/20260731/b4873b5e832f4ce1b69b261bc65bdb52/c.html",
+      "subCategory": "产业政策"
+    },
+    {
+      "id": "policy-20260801-r002",
+      "title": "李强主持召开国务院常务会议",
+      "summary": "国务院常务会议研究部署下半年经济工作，审议通过住房公积金管理条例修改方案、扩大提取使用范围和覆盖面，决定废止3部环保行政法规、修改12部，并核准4个核电项目建设。",
+      "publishedAt": "2026-07-31T19:36:36+08:00",
+      "source": "新华社",
+      "url": "https://www.news.cn/politics/leaders/20260731/b798525008de4cceb13abc54e01002b2/c.html",
       "subCategory": "产业政策"
     },
     {
@@ -49,6 +76,15 @@
       "source": "国家发展和改革委员会（IT之家）",
       "url": "https://www.ithome.com/0/984/230.htm",
       "subCategory": "产业政策"
+    },
+    {
+      "id": "policy-20260801-r001",
+      "title": "商务部公告延长对原产于加拿大进口豌豆淀粉反倾销调查期限",
+      "summary": "商务部发布2026年第31号公告，因案情复杂，决定将原于2025年8月启动的对加拿大进口豌豆淀粉反倾销调查期限延长，新调查截止日期为2027年2月12日，依据反倾销条例第二十六条作出。",
+      "publishedAt": "2026-07-31T15:16:00+08:00",
+      "source": "中华人民共和国商务部",
+      "url": "https://www.mofcom.gov.cn/zcfb/blgg/gg/2026/art/2026/art_1afdd51b0d534208b1ac8a4614baa269.html",
+      "subCategory": "跨境贸易"
     },
     {
       "id": "policy-20260731-m006",
@@ -141,15 +177,6 @@
       "subCategory": "产业政策"
     },
     {
-      "title": "FTC and States Act Against Hims &amp; Hers for Deceptive and Unlawful Privacy Practices",
-      "summary": "美国联邦贸易委员会联合犹他州、加利福尼亚州对远程医疗公司Hims & Hers提起联邦诉讼，指控其在用户提交问诊表后即扣费、设置订阅取消障碍，并将用户健康信息共享给Meta、Snap等广告平台，涉嫌违反《联邦贸易委员会法》及《在线购物者信心恢复法》。",
-      "publishedAt": "2026-07-29T13:04:00-04:00",
-      "source": "美国联邦贸易委员会(FTC)",
-      "url": "https://www.ftc.gov/news-events/news/press-releases/2026/07/ftc-states-act-against-hims-hers-deceptive-unlawful-privacy-practices",
-      "subCategory": "数据安全",
-      "id": "policy-20260730-001"
-    },
-    {
       "id": "policy-20260731-002",
       "title": "Presidential Determination Pursuant to Section 101 of the Defense Production Act of 1950, as Amended, on Recoverable Critical Minerals and Materials",
       "summary": "美国总统签署备忘录，依据《1950年国防生产法》第101条，认定黑粉、稀土永磁体及含关键矿物工业废料等可回收关键矿物的国内供应不足对国家安全构成风险，授权商务部长发布规则、指南与程序以确保关键矿物供应，该认定不涵盖此前已通过单独公告处理的铜废料。",
@@ -166,6 +193,15 @@
       "url": "https://www.mofcom.gov.cn/xwfbzt/2026/swbzklxxwfbh2026n7y30r/index.html",
       "subCategory": "跨境贸易",
       "id": "policy-20260731-n003"
+    },
+    {
+      "title": "FTC and States Act Against Hims &amp; Hers for Deceptive and Unlawful Privacy Practices",
+      "summary": "美国联邦贸易委员会联合犹他州、加利福尼亚州对远程医疗公司Hims & Hers提起联邦诉讼，指控其在用户提交问诊表后即扣费、设置订阅取消障碍，并将用户健康信息共享给Meta、Snap等广告平台，涉嫌违反《联邦贸易委员会法》及《在线购物者信心恢复法》。",
+      "publishedAt": "2026-07-29T13:04:00-04:00",
+      "source": "美国联邦贸易委员会(FTC)",
+      "url": "https://www.ftc.gov/news-events/news/press-releases/2026/07/ftc-states-act-against-hims-hers-deceptive-unlawful-privacy-practices",
+      "subCategory": "数据安全",
+      "id": "policy-20260730-001"
     },
     {
       "title": "中国人民银行等九部门联合印发《关于加强科技金融领域数据开发利用的通知》",
@@ -636,15 +672,6 @@
       "subCategory": "产业政策"
     },
     {
-      "id": "policy-20260722-005",
-      "title": "美贸易代表格里尔暗示本周五前将对数十个经济体加征新关税",
-      "summary": "美国贸易代表格里尔表示，针对约60个贸易伙伴、以“强迫劳动”为由的新关税最快将在现行10%全球关税7月24日到期前公布，税率或达12.5%，具体时间表尚未确定。",
-      "publishedAt": "2026-07-22T03:03:00+08:00",
-      "source": "大纪元",
-      "url": "https://www.epochtimes.com/gb/26/7/21/n14814360.htm",
-      "subCategory": "海外政策"
-    },
-    {
       "id": "policy-20260722-104",
       "title": "国家能源局发布2026年1-6月份全国电力统计数据",
       "summary": "国家能源局公布上半年电力统计，截至6月底全国发电装机总容量40.4亿千瓦，同比增长10.8%，其中太阳能装机12.7亿千瓦、风电装机6.8亿千瓦，同比分别增长15.8%和18.5%。",
@@ -697,33 +724,6 @@
       "url": "https://www.gov.uk/government/news/business-secretary-im-backing-investment-and-innovation-to-power-good-growth-in-every-corner-of-the-uk",
       "subCategory": "海外政策",
       "id": "policy-20260723-208"
-    },
-    {
-      "title": "关于印发贯彻实施民营经济促进法典型案例(第二批)的通知",
-      "summary": "国家发展改革委、最高人民检察院联合印发《贯彻实施民营经济促进法典型案例（第二批）》（发改民营〔2026〕1093号），发布十件民营经济促进法实施典型案例，以案释法、以案示导，推动《民营经济促进法》贯彻落实。",
-      "publishedAt": "2026-07-22",
-      "source": "国家发展和改革委员会",
-      "url": "https://www.ndrc.gov.cn/xxgk/zcfb/tz/202607/t20260722_1406623.html",
-      "subCategory": "产业政策",
-      "id": "policy-20260723-305"
-    },
-    {
-      "title": "Machinery of Government changes: Fact Sheet",
-      "summary": "英国内阁办公室发布政府机构改革说明，宣布首相设立\"10号唐宁街北方办公室\"统筹地方增长与放权，并组建\"首相与内阁办公室\"；数字身份职能划入数字文化媒体和体育部，商业贸易部更名为商业创新科学贸易部。",
-      "publishedAt": "2026-07-22",
-      "source": "GOV.UK (Cabinet Office)",
-      "url": "https://www.gov.uk/government/news/machinery-of-government-changes-fact-sheet",
-      "subCategory": "海外政策",
-      "id": "policy-20260723-306"
-    },
-    {
-      "id": "policy-20260724-004",
-      "title": "美国政府宣布追加逾50亿美元资金支持\"创世纪使命\"AI科研计划",
-      "summary": "白宫宣布追加超50亿美元联邦资金，扩大2025年11月启动的跨部门\"创世纪使命\"计划，逾15个联邦机构将提供科研经费、数据集与设施，聚焦医疗、能源基础设施、半导体制造、科学发现与国家安全五大重点领域的人工智能应用。",
-      "publishedAt": "2026-07-22",
-      "source": "The White House",
-      "url": "https://www.whitehouse.gov/releases/2026/07/45502/",
-      "subCategory": "AI监管"
     }
   ]
 }

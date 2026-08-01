@@ -3,8 +3,71 @@
   "slug": "finance",
   "title": "投资与财经",
   "description": "宏观经济、A 股 / 港股 / 美股、一级市场融资、行业研报观点。",
-  "updatedAt": "2026-08-01T08:30:00+08:00",
+  "updatedAt": "2026-08-01T16:45:00+08:00",
   "items": [
+    {
+      "id": "finance-20260801-r003",
+      "title": "云计算三巨头本周市值增加近1.5万亿美元",
+      "summary": "美国云计算三巨头微软、亚马逊和Alphabet公布财报后，本周合计市值增加约1.5万亿美元，其中微软增加逾6000亿美元，亚马逊和Alphabet各增加逾4000亿美元，同期Meta和苹果市值则出现下滑。",
+      "publishedAt": "2026-08-01T14:15:00+08:00",
+      "source": "财联社（新浪财经）",
+      "url": "https://finance.sina.com.cn/roll/2026-08-01/doc-inikuwea8899262.shtml",
+      "subCategory": "美股"
+    },
+    {
+      "id": "finance-20260801-r001",
+      "title": "美联储主席沃什考虑减少议息会议频率",
+      "summary": "美联储主席沃什正考虑减少联邦公开市场委员会例会频率，若实施将是自1981年以来该机制的最大变化。目前FOMC每年召开八次例会，改革方案最快或于9月中旬确定，此前三名官员曾在7月议息会议上投票反对维持利率不变。",
+      "publishedAt": "2026-08-01T13:34:00+08:00",
+      "source": "券商中国（新浪财经）",
+      "url": "https://finance.sina.com.cn/stock/zqgd/2026-08-01/doc-inikuwea8880668.shtml",
+      "subCategory": "政策利率"
+    },
+    {
+      "id": "finance-20260801-r006",
+      "title": "美日联手干预汇市 美元指数创年内最大单周跌幅",
+      "summary": "美日联手干预汇市带动美元指数本周下跌1.69%，为今年1月末以来最大单周跌幅，美元兑日元周内暴跌3.6%并跌破157.6关口。日本央行行长植田和男称多名委员上调通胀预测，市场对9月加息预期升温。",
+      "publishedAt": "2026-08-01T13:26:00+08:00",
+      "source": "新浪财经",
+      "url": "https://finance.sina.com.cn/money/forex/hbfx/2026-08-01/doc-inikuwem0642654.shtml",
+      "subCategory": "宏观经济"
+    },
+    {
+      "id": "finance-20260801-r005",
+      "title": "蔚来7月交付新车35934台 同比增长71%",
+      "summary": "蔚来公布7月交付数据，当月交付新车35934台，同比增长71.0%，创单月新高，其中蔚来品牌交付20008台、乐道品牌10155台、萤火虫品牌5771台，今年前七个月累计交付227057台，同比增长68.0%。",
+      "publishedAt": "2026-08-01T12:32:00+08:00",
+      "source": "快科技（新浪财经）",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-08-01/doc-inikurwi0585661.shtml",
+      "subCategory": "美股"
+    },
+    {
+      "id": "finance-20260801-r004",
+      "title": "理想汽车7月交付新车30468辆",
+      "summary": "理想汽车公布7月交付数据，当月交付新车30468辆，同比下降0.86%，环比下降1.38%，截至7月31日历史累计交付量达176.4155万辆。7月16日推出的新一代理想L6全国统一零售价24.98万元。",
+      "publishedAt": "2026-08-01T10:03:00+08:00",
+      "source": "财联社",
+      "url": "https://m.cls.cn/detail/2443203",
+      "subCategory": "港股"
+    },
+    {
+      "id": "finance-20260801-r007",
+      "title": "知情人士称OpenAI或将IPO推迟至明年",
+      "summary": "据知情人士透露，OpenAI正考虑将上市计划推迟至2027年，原因包括现金消耗速度过快、营收增速难以匹配支出，以及竞争对手Anthropic营收增速反超并加速筹备秋季上市，部分投资者已表达担忧并分散投资。",
+      "publishedAt": "2026-08-01T09:09:00+08:00",
+      "source": "新浪财经",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-01/doc-inikumqh8993740.shtml",
+      "subCategory": "一级市场"
+    },
+    {
+      "id": "finance-20260801-r002",
+      "title": "个贷新规8月1日起实施 银行个人贷款综合融资成本上限公布",
+      "summary": "个人贷款业务综合融资成本明示相关新规8月1日起正式实施，工农中建四大行将消费贷、经营贷利率上限设为年化6%，交通银行和邮储银行上限为12%，房贷统一执行LPR加0.5个基点，要求各类放贷机构充分披露综合融资成本。",
+      "publishedAt": "2026-08-01T07:13:00+08:00",
+      "source": "每日经济新闻（腾讯新闻）",
+      "url": "https://news.qq.com/rain/a/20260801A01TDS00",
+      "subCategory": "政策利率"
+    },
     {
       "id": "finance-20260801-a001",
       "title": "美股收盘：亚马逊涨超15%创2012年以来单日最大涨幅 微软、亚马逊7月份市值合计增长超1万亿美元",
@@ -123,6 +186,24 @@
       "subCategory": "公司财报"
     },
     {
+      "id": "finance-20260801-a011",
+      "title": "慧荣科技2026年第二季度收入持续创历史新高",
+      "summary": "慧荣科技第二季度营收4.51亿美元，环比增长32%、同比增长127%，毛利率50.2%，公司将第三季度营收指引上调，预计全年营收同比增长超100%。",
+      "publishedAt": "2026-07-31",
+      "source": "Silicon Motion Technology Corporation",
+      "url": "https://siliconmotiontechnologycorporation.gcs-web.com/news-releases/news-release-details-87",
+      "subCategory": "公司财报"
+    },
+    {
+      "title": "港股午评：恒指跌0.11% 科指涨0.7% AI应用股普涨 存储概念股暴力反弹 南方两倍做多海力士涨近60%",
+      "summary": "7月31日港股午盘，恒生指数跌0.11%，恒生科技指数涨0.7%，国企指数跌0.41%；AI应用股普遍走强，智谱涨超20%，存储概念股大幅反弹，南方两倍做多海力士杠杆产品涨近60%，联想涨超7%，小米跌超6%。",
+      "publishedAt": "2026-07-31",
+      "source": "新浪财经",
+      "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-07-31/doc-inikshrr1415957.shtml",
+      "subCategory": "港股",
+      "id": "finance-20260731-n009"
+    },
+    {
       "id": "finance-20260731-002",
       "title": "苹果预计第四财季营收增长9%至11%，不及市场预期",
       "summary": "苹果发布2026财年第四季度业绩指引，预计营收同比增长9%至11%，低于市场此前预期的12.1%增速，同时预计毛利率将保持在47%至48%区间。",
@@ -175,24 +256,6 @@
       "url": "https://www.wsls.com/business/2026/07/30/average-30-year-us-mortgage-rate-rises-to-highest-level-in-a-year-at-666/",
       "subCategory": "宏观经济",
       "id": "finance-20260730-903"
-    },
-    {
-      "id": "finance-20260801-a011",
-      "title": "慧荣科技2026年第二季度收入持续创历史新高",
-      "summary": "慧荣科技第二季度营收4.51亿美元，环比增长32%、同比增长127%，毛利率50.2%，公司将第三季度营收指引上调，预计全年营收同比增长超100%。",
-      "publishedAt": "2026-07-31",
-      "source": "Silicon Motion Technology Corporation",
-      "url": "https://siliconmotiontechnologycorporation.gcs-web.com/news-releases/news-release-details-87",
-      "subCategory": "公司财报"
-    },
-    {
-      "title": "港股午评：恒指跌0.11% 科指涨0.7% AI应用股普涨 存储概念股暴力反弹 南方两倍做多海力士涨近60%",
-      "summary": "7月31日港股午盘，恒生指数跌0.11%，恒生科技指数涨0.7%，国企指数跌0.41%；AI应用股普遍走强，智谱涨超20%，存储概念股大幅反弹，南方两倍做多海力士杠杆产品涨近60%，联想涨超7%，小米跌超6%。",
-      "publishedAt": "2026-07-31",
-      "source": "新浪财经",
-      "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-07-31/doc-inikshrr1415957.shtml",
-      "subCategory": "港股",
-      "id": "finance-20260731-n009"
     },
     {
       "title": "核聚变公司Commonwealth Fusion Systems完成10亿美元新一轮融资",
@@ -303,6 +366,15 @@
       "id": "finance-20260730-001"
     },
     {
+      "id": "finance-20260801-a009",
+      "title": "Samsung Electronics Announces Second Quarter 2026 Results",
+      "summary": "三星电子第二季度营业利润达89.5万亿韩元创历史新高，同比大增超18倍，主因AI服务器存储芯片需求旺盛，移动业务因元件成本上升出现经营亏损。",
+      "publishedAt": "2026-07-30",
+      "source": "Samsung Newsroom",
+      "url": "https://news.samsung.com/global/samsung-electronics-announces-second-quarter-2026-results",
+      "subCategory": "公司财报"
+    },
+    {
       "id": "finance-20260730-009",
       "title": "Meta二季度净利润下降14%",
       "summary": "Meta第二季度营收608.01亿美元，同比增长28%；净利润158.48亿美元，同比下降14%；因三季度营收指引不及预期，财报发布后股价一度大跌超11%。",
@@ -318,15 +390,6 @@
       "publishedAt": "2026-07-29T22:12:00+00:00",
       "source": "美联社(AP)via WSB Radio",
       "url": "https://www.wsbradio.com/news/business/starbucks-reports/4TDRT4HXII6WLGOCI53XTNCDYM/?outputType=amp",
-      "subCategory": "公司财报"
-    },
-    {
-      "id": "finance-20260801-a009",
-      "title": "Samsung Electronics Announces Second Quarter 2026 Results",
-      "summary": "三星电子第二季度营业利润达89.5万亿韩元创历史新高，同比大增超18倍，主因AI服务器存储芯片需求旺盛，移动业务因元件成本上升出现经营亏损。",
-      "publishedAt": "2026-07-30",
-      "source": "Samsung Newsroom",
-      "url": "https://news.samsung.com/global/samsung-electronics-announces-second-quarter-2026-results",
       "subCategory": "公司财报"
     },
     {
@@ -375,42 +438,6 @@
       "subCategory": "美股"
     },
     {
-      "title": "寒武纪发布2026年限制性股票激励计划",
-      "summary": "芯片设计公司寒武纪推出2026年限制性股票激励计划，拟授予限制性股票500万股，约占公司总股本0.80%，授予价格为每股750元，较7月28日收盘价折价约33.51%。",
-      "publishedAt": "2026-07-29T07:22:00+08:00",
-      "source": "新浪财经（上证报摘要）",
-      "url": "https://finance.sina.com.cn/stock/y/2026-07-29/doc-inikmivx2772124.shtml",
-      "subCategory": "A股",
-      "id": "finance-20260729-711"
-    },
-    {
-      "title": "龙芯科技将纳入MSCI中国全股票指数",
-      "summary": "龙芯科技上市后将于8月10日正式纳入MSCI中国全股票指数，成为该指数所涵盖成份股中市值第二大的公司。",
-      "publishedAt": "2026-07-29T07:22:00+08:00",
-      "source": "新浪财经（上证报摘要）",
-      "url": "https://finance.sina.com.cn/stock/y/2026-07-29/doc-inikmivx2772124.shtml",
-      "subCategory": "A股",
-      "id": "finance-20260729-712"
-    },
-    {
-      "title": "上半年全国税收收入超10万亿元 个税成第三大税种",
-      "summary": "中国上半年税收收入突破10万亿元，个人所得税已成为第三大税种；今年以来超过1亿名纳税人享受个税退税合计逾1500亿元，相关红利更多惠及中低收入群体。",
-      "publishedAt": "2026-07-29T07:22:00+08:00",
-      "source": "新浪财经（上证报摘要）",
-      "url": "https://finance.sina.com.cn/stock/y/2026-07-29/doc-inikmivx2772124.shtml",
-      "subCategory": "宏观经济",
-      "id": "finance-20260729-713"
-    },
-    {
-      "title": "NXP Semiconductors Reports Second Quarter 2026 Results",
-      "summary": "NXP恩智浦公布2026年第二季度财报，营收35亿美元同比增长19%，非GAAP每股收益3.61美元均超市场预期，公司预计三季度营收36.5亿至38.5亿美元。",
-      "publishedAt": "2026-07-29T04:31:37+08:00",
-      "source": "GlobeNewswire",
-      "url": "https://www.manilatimes.net/2026/07/29/tmt-newswire/globenewswire/nxp-semiconductors-reports-second-quarter-2026-results/2393515",
-      "subCategory": "公司财报",
-      "id": "finance-20260729-502"
-    },
-    {
       "id": "finance-20260801-a012",
       "title": "Arm Holdings plc Reports Results for the First Quarter of the Fiscal Year Ending 2027",
       "summary": "Arm公布截至6月30日的2027财年第一季度业绩，总营收12.89亿美元同比增长22%，版税与授权收入均创同期新高，AI数据中心需求持续拉动增长。",
@@ -445,6 +472,42 @@
       "url": "https://news.microsoft.com/source/2026/07/29/microsoft-cloud-and-ai-strength-fuels-fourth-quarter-results-4/",
       "subCategory": "公司财报",
       "id": "finance-20260731-n001"
+    },
+    {
+      "title": "寒武纪发布2026年限制性股票激励计划",
+      "summary": "芯片设计公司寒武纪推出2026年限制性股票激励计划，拟授予限制性股票500万股，约占公司总股本0.80%，授予价格为每股750元，较7月28日收盘价折价约33.51%。",
+      "publishedAt": "2026-07-29T07:22:00+08:00",
+      "source": "新浪财经（上证报摘要）",
+      "url": "https://finance.sina.com.cn/stock/y/2026-07-29/doc-inikmivx2772124.shtml",
+      "subCategory": "A股",
+      "id": "finance-20260729-711"
+    },
+    {
+      "title": "龙芯科技将纳入MSCI中国全股票指数",
+      "summary": "龙芯科技上市后将于8月10日正式纳入MSCI中国全股票指数，成为该指数所涵盖成份股中市值第二大的公司。",
+      "publishedAt": "2026-07-29T07:22:00+08:00",
+      "source": "新浪财经（上证报摘要）",
+      "url": "https://finance.sina.com.cn/stock/y/2026-07-29/doc-inikmivx2772124.shtml",
+      "subCategory": "A股",
+      "id": "finance-20260729-712"
+    },
+    {
+      "title": "上半年全国税收收入超10万亿元 个税成第三大税种",
+      "summary": "中国上半年税收收入突破10万亿元，个人所得税已成为第三大税种；今年以来超过1亿名纳税人享受个税退税合计逾1500亿元，相关红利更多惠及中低收入群体。",
+      "publishedAt": "2026-07-29T07:22:00+08:00",
+      "source": "新浪财经（上证报摘要）",
+      "url": "https://finance.sina.com.cn/stock/y/2026-07-29/doc-inikmivx2772124.shtml",
+      "subCategory": "宏观经济",
+      "id": "finance-20260729-713"
+    },
+    {
+      "title": "NXP Semiconductors Reports Second Quarter 2026 Results",
+      "summary": "NXP恩智浦公布2026年第二季度财报，营收35亿美元同比增长19%，非GAAP每股收益3.61美元均超市场预期，公司预计三季度营收36.5亿至38.5亿美元。",
+      "publishedAt": "2026-07-29T04:31:37+08:00",
+      "source": "GlobeNewswire",
+      "url": "https://www.manilatimes.net/2026/07/29/tmt-newswire/globenewswire/nxp-semiconductors-reports-second-quarter-2026-results/2393515",
+      "subCategory": "公司财报",
+      "id": "finance-20260729-502"
     },
     {
       "title": "Fish Audio raises $52M seed to build AI voice models for creators and enterprises",
@@ -661,69 +724,6 @@
       "url": "https://news.pedaily.cn/202607/566865.shtml",
       "subCategory": "一级市场",
       "id": "finance-20260728-007"
-    },
-    {
-      "title": "苏州人工智能产业专项母基金拟出资",
-      "summary": "苏州国发资产管理7月27日公示，拟参股设立目标规模10亿元的苏州苏创战新人工智能基金，存续期8年，重点投向人工智能领域前沿技术企业及产业链上下游优质企业。",
-      "publishedAt": "2026-07-27T15:24:00+08:00",
-      "source": "投资界",
-      "url": "https://news.pedaily.cn/202607/566868.shtml",
-      "subCategory": "一级市场",
-      "id": "finance-20260728-008"
-    },
-    {
-      "title": "2026年7月27日（周一）A股收盘全景复盘",
-      "summary": "7月27日A股三大指数集体上涨，上证指数涨1.15%报3858.25点，深成指涨2.72%，创业板指涨3.16%，全市场超九成个股上涨，涨停121家跌停7家。",
-      "publishedAt": "2026-07-27T15:07:00+08:00",
-      "source": "东方财富网",
-      "url": "https://caifuhao.eastmoney.com/news/20260727150740957096280",
-      "subCategory": "A股",
-      "id": "finance-20260728-002"
-    },
-    {
-      "id": "finance-20260727-208",
-      "title": "A股三大指数集体收涨，长鑫科技全天成交超1400亿元刷新纪录",
-      "summary": "长鑫科技科创板上市首日大涨超465%，全天成交额超1400亿元，刷新A股纪录，总市值超越工商银行成为A股市值第一。",
-      "publishedAt": "2026-07-27T15:02:00+08:00",
-      "source": "36氪",
-      "url": "https://36kr.com/newsflashes/3913543572657286",
-      "subCategory": "一级市场"
-    },
-    {
-      "id": "finance-20260728-103",
-      "title": "Shein一季度由盈转亏，净亏捐9900万美元，赴港上市前景蒙阴影",
-      "summary": "Shein公布截至3月的2026年第一季度业绩，由上年同期3.95亿美元盈利转为9900万美元亏损，净收入同比微增1.1%至90.5亿美元；受美国取消小额包裹免税政策拖累，美国地区收入下降14.3%，公司同时面临欧盟新征每票3欧元低值包裹费用及中东局势等多重压力，业绩发布正值其筹备香港上市前夕。",
-      "publishedAt": "2026-07-27T11:00:00+08:00",
-      "source": "South China Morning Post",
-      "url": "https://www.scmp.com/business/banking-finance/article/3361931/fast-fashion-giant-shein-swings-us99m-first-quarter-loss-ahead-hong-kong-listing",
-      "subCategory": "公司财报"
-    },
-    {
-      "title": "国家统计局：上半年全国规模以上工业企业利润增长18.7%",
-      "summary": "国家统计局7月27日公布，今年1至6月全国规模以上工业企业实现利润总颖3.948万亿元，同比增长18.7%，其中6月单月利润同比增长15.1%，营业收入同比增长6.5%。",
-      "publishedAt": "2026-07-27T10:44:00+08:00",
-      "source": "新浪财经",
-      "url": "https://finance.sina.com.cn/jjxw/2026-07-27/doc-inikfhfp0684710.shtml",
-      "subCategory": "宏观经济",
-      "id": "finance-20260728-003"
-    },
-    {
-      "title": "长鑫科技正式登陆科创板！首日市值登顶A股",
-      "summary": "长鑫科技7月27日登陆科创板，开盘涨471.59%，总市值达3.31万亿元，超工商银行成为A股市值最高公司，IPO募资666.07亿元居科创板第一。",
-      "publishedAt": "2026-07-27T09:55:00+08:00",
-      "source": "财联社",
-      "url": "https://www.cls.cn/detail/2437447",
-      "subCategory": "A股",
-      "id": "finance-20260728-001"
-    },
-    {
-      "title": "科创板公司密集披露公告传递信心",
-      "summary": "7月20日至26日一周内，科创板超30家公司披露回购计划，20余家公司发布中报预喜；金山办公拟回购不超5亿元已完成约7500万元，普冔半导体预计上半年净利润约8.25亿元，同比增长超19倍。",
-      "publishedAt": "2026-07-27T09:17:00+08:00",
-      "source": "证券时报",
-      "url": "https://www.stcn.com/article/detail/4042090.html",
-      "subCategory": "公司财报",
-      "id": "finance-20260728-010"
     }
   ]
 }

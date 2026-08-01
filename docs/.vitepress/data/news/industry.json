@@ -3,7 +3,7 @@
   "slug": "industry",
   "title": "行业新闻",
   "description": "企业服务、SaaS、云计算、制造业、消费互联网的产业动态。",
-  "updatedAt": "2026-08-01T08:30:00+08:00",
+  "updatedAt": "2026-08-01T16:45:00+08:00",
   "items": [
     {
       "id": "industry-20260801-a001",
@@ -15,6 +15,15 @@
       "subCategory": "行业研报"
     },
     {
+      "id": "industry-20260801-r003",
+      "title": "林德斥资10亿美元押注美国半导体扩产 AI需求催生工业气体新增长",
+      "summary": "工业气体企业林德集团宣布将投资约10亿美元，扩建其位于美国亚利桑那州凤凰城的工业气体设施，为一家全球领先半导体制造商的新增产能提供超高纯氮气、氧气及氩气供应，项目包括建设两套新的空气分离装置。",
+      "publishedAt": "2026-07-31T18:44:00+08:00",
+      "source": "新浪财经",
+      "url": "https://finance.sina.com.cn/jjxw/2026-07-31/doc-iniksxny9348294.shtml",
+      "subCategory": "公司动态"
+    },
+    {
       "id": "industry-20260731-m001",
       "title": "工信部：上半年我国规模以上互联网企业实现利润总额 989.9 亿元，同比增长 16.6%",
       "summary": "工信部公布2026年上半年互联网业运行数据，规模以上互联网企业完成业务收入10675亿元，同比增长10.1%，实现利润总额989.9亿元，同比增长16.6%，研发经费投入595.5亿元，同比增长14.1%，东部地区贡献占比90.5%。",
@@ -22,6 +31,15 @@
       "source": "工业和信息化部（IT之家）",
       "url": "https://www.ithome.com/0/984/303.htm",
       "subCategory": "行业研报"
+    },
+    {
+      "id": "industry-20260801-r001",
+      "title": "Counterpoint：2026年Q2全球智能手机营收同比增长7%，苹果份额创历史新高",
+      "summary": "Counterpoint数据显示，2026年第二季度全球智能手机营收同比增长7%至1090亿美元，均价上涨17%至400美元。苹果营收增长22%、份额升至49%均创新高，三星营收份额16%位居第二，小米出货与营收明显下滑。",
+      "publishedAt": "2026-07-31T16:53:00+08:00",
+      "source": "Counterpoint Research/新浪科技",
+      "url": "https://finance.sina.com.cn/tech/digi/2026-07-31/doc-iniksxpi1231375.shtml",
+      "subCategory": "消费零售"
     },
     {
       "id": "industry-20260731-m002",
@@ -40,6 +58,15 @@
       "source": "国家发展和改革委员会（IT之家）",
       "url": "https://www.ithome.com/0/984/037.htm",
       "subCategory": "行业研报"
+    },
+    {
+      "id": "industry-20260801-r002",
+      "title": "2026年7月中国采购经理指数运行情况",
+      "summary": "国家统计局数据显示，2026年7月中国制造业采购经理指数(PMI)为49.2%，较上月回落1.1个百分点。生产指数降至49.9%，新订单指数降至48.5%，装备制造业与高技术制造业分别为51.4%和53.3%，仍保持较快扩张。",
+      "publishedAt": "2026-07-31T09:30:00+08:00",
+      "source": "国家统计局",
+      "url": "https://www.stats.gov.cn/sj/zxfb/202607/t20260731_1964253.html",
+      "subCategory": "制造业"
     },
     {
       "id": "industry-20260731-005",
@@ -222,15 +249,6 @@
       "id": "industry-20260729-501"
     },
     {
-      "title": "ASMPT(00522)發佈Ѐ2026年中期業績，股東應占盈助5.89億港元，同比增長174.1%",
-      "summary": "ASMPT公布2026年上半年业绩，收入89.03亿港元同比增42.5%，股东应占溢利5.89亿港元同比增174.1%；受AI需求带动，半导体解决方案及表面贴装技术业务收入均实现增长，新增订单同比增85.1%。",
-      "publishedAt": "2026-07-29T06:55:00+08:00",
-      "source": "Investing.com（智通财经）",
-      "url": "https://hk.investing.com/news/stock-market-news/article-1575085",
-      "subCategory": "公司动态",
-      "id": "industry-20260730-001"
-    },
-    {
       "id": "industry-20260801-a002",
       "title": "Kaltura Positioned as a Leader in the 2026 IDC MarketScape for Worldwide Virtual Events Applications",
       "summary": "视频云服务商Kaltura被IDC MarketScape评为全球虚拟活动应用领域领导者，公司提出的AI数字人、内容复用及互动数据能力为该项认可的核心支撑。",
@@ -319,6 +337,15 @@
       "url": "https://www.199it.com/archives/1842450.html",
       "subCategory": "行业研报",
       "id": "industry-20260729-710"
+    },
+    {
+      "title": "ASMPT(00522)發佈Ѐ2026年中期業績，股東應占盈助5.89億港元，同比增長174.1%",
+      "summary": "ASMPT公布2026年上半年业绩，收入89.03亿港元同比增42.5%，股东应占溢利5.89亿港元同比增174.1%；受AI需求带动，半导体解决方案及表面贴装技术业务收入均实现增长，新增订单同比增85.1%。",
+      "publishedAt": "2026-07-29T06:55:00+08:00",
+      "source": "Investing.com（智通财经）",
+      "url": "https://hk.investing.com/news/stock-market-news/article-1575085",
+      "subCategory": "公司动态",
+      "id": "industry-20260730-001"
     },
     {
       "title": "中红医疗：预膡2026年半年度净利润同比增长2338%-3557%",
@@ -627,15 +654,6 @@
       "id": "industry-20260726-001"
     },
     {
-      "title": "海思科琺珀酸思普可沩片获批上市",
-      "summary": "海思科1类创新药琺珀酸思普可沩片（研发代号HSK39297）获国药监局批准上市，用于既往未接受补体抑制剂治疗的阵发性睡眠性血红蛋白尿症成人患者，为每日一次口服补体B因子抑制剂。",
-      "publishedAt": "2026-07-24T07:00:15+08:00",
-      "source": "每日经济新闻",
-      "url": "https://www.nbd.com.cn/articles/2026-07-23/4504916.html",
-      "subCategory": "医疗健康",
-      "id": "industry-20260726-005"
-    },
-    {
       "id": "industry-20260724-101",
       "title": "Counterpoint：2026年第一季度全球DRAM销售额环比增长80%",
       "summary": "Counterpoint数据显示2026年一季度全球DRAM销售额环比增长80%，三星以38%份额重夺榜首，长锰存储份额翻倍至8%升至第四大供应商，二季度价格预计再涢50%。",
@@ -652,6 +670,15 @@
       "url": "https://tech.ifeng.com/c/8v17ZJOLxz1",
       "subCategory": "半导体产业",
       "id": "industry-20260726-004"
+    },
+    {
+      "title": "海思科琺珀酸思普可沩片获批上市",
+      "summary": "海思科1类创新药琺珀酸思普可沩片（研发代号HSK39297）获国药监局批准上市，用于既往未接受补体抑制剂治疗的阵发性睡眠性血红蛋白尿症成人患者，为每日一次口服补体B因子抑制剂。",
+      "publishedAt": "2026-07-24T07:00:15+08:00",
+      "source": "每日经济新闻",
+      "url": "https://www.nbd.com.cn/articles/2026-07-23/4504916.html",
+      "subCategory": "医疗健康",
+      "id": "industry-20260726-005"
     },
     {
       "title": "吉利与福特将在西班牙成立合资公司生产新能源汽车",
@@ -690,15 +717,6 @@
       "subCategory": "半导体产业"
     },
     {
-      "id": "industry-20260723-001",
-      "title": "GEM：2026年全球煤电繁荣与衰退报告",
-      "summary": "全球能源监测组织报告显示，2025年全球在建及规划煤电装机容量同比增长3.5%接近历史高位，但发电量却同比下降0.6%；中国、印度贡献新增装机的88%，随着风光满足大部分新增电力需求，煤电正从主力电源转变为备用资源。",
-      "publishedAt": "2026-07-23T06:37:00+08:00",
-      "source": "199IT（转引Global Energy Monitor）",
-      "url": "https://finance.sina.com.cn/tech/roll/2026-07-23/doc-iniitvfq4510375.shtml",
-      "subCategory": "行业研报"
-    },
-    {
       "title": "洛图科技：2026年上半年中国学习平板全渠道销量228.7万台，同比下降14.2%",
       "summary": "洛图科技报告显示，2026年上半年中国学习平板全渠道销量约228.7万台，同比下降14.2%。报告将下滑归因于此前教育数码补贴透支需求、一二线城市市场趋于饱和、通用平板功能替代及硬件成本上升挤压入门机型空间，头部四家品牌销量占比接近八成。",
       "publishedAt": "2026-07-23",
@@ -706,24 +724,6 @@
       "url": "https://finance.sina.com.cn/tech/roll/2026-07-23/doc-iniivayy4557080.shtml",
       "subCategory": "消费零售",
       "id": "industry-20260723-703"
-    },
-    {
-      "id": "industry-20260722-107",
-      "title": "华勤技术耗资1.44亿港元收购晶合集成H股；贝达药业上半年归母净利润同比预增至少20%",
-      "summary": "华勤技术公告耗资约1.4417亿港元收购晶合集成445.16万股H股，持股比例升至10.82%；贝达药业同期公告预计上半年归母净利润同比增长120%至180%。",
-      "publishedAt": "2026-07-22T23:34:37+08:00",
-      "source": "每日经济新闻",
-      "url": "https://www.nbd.com.cn/articles/2026-07-22/4498381.html",
-      "subCategory": "公司动态"
-    },
-    {
-      "title": "金安国纪拟20亿元扩产覆铜板及半固化片项目",
-      "summary": "金安国纪与珠海市金湾区政府签订增资扩产协议，意向投资约20亿元，建设年产2000万张覆铜板及4000万米半固化片项目，建设期约2年，尚待股东大会审议。",
-      "publishedAt": "2026-07-22T18:45:17+08:00",
-      "source": "第一财经",
-      "url": "https://www.yicai.com/news/103287968.html",
-      "subCategory": "制造业",
-      "id": "industry-20260723-206"
     }
   ]
 }
