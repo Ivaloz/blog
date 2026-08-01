@@ -3,8 +3,17 @@
   "slug": "industry",
   "title": "行业新闻",
   "description": "企业服务、SaaS、云计算、制造业、消费互联网的产业动态。",
-  "updatedAt": "2026-07-31T23:55:00+08:00",
+  "updatedAt": "2026-08-01T08:30:00+08:00",
   "items": [
+    {
+      "id": "industry-20260801-a001",
+      "title": "Report: Apple hit a record 49% share of global smartphone revenue for Q2",
+      "summary": "Counterpoint报告显示全球智能手机第二季度营收同比增长7%至109亿美元，苹果凭借稳定定价策略取得49%的营收份额，创二季度历史纪录。",
+      "publishedAt": "2026-07-31T11:19:00-07:00",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/07/31/report-apple-hit-a-record-49-share-of-global-smartphone-revenue-for-q2/",
+      "subCategory": "行业研报"
+    },
     {
       "id": "industry-20260731-m001",
       "title": "工信部：上半年我国规模以上互联网企业实现利润总额 989.9 亿元，同比增长 16.6%",
@@ -114,6 +123,15 @@
       "id": "industry-20260731-n003"
     },
     {
+      "id": "industry-20260801-a003",
+      "title": "维力医疗：上半年净利润1.02亿元，同比下降15.76%",
+      "summary": "维力医疗披露半年报，营业收入7.69亿元同比增长3.18%，归属于上市公司股东净利润1.02亿元同比下降15.76%，主因集采导致泌尿外科产品价格下降。",
+      "publishedAt": "2026-07-30T17:14:00+08:00",
+      "source": "36氪",
+      "url": "https://36kr.com/newsflashes/3917920632548995?f=rss",
+      "subCategory": "医疗健康"
+    },
+    {
       "title": "Counterpoint：2026年折叠屏面板出货量2750万片，同比增长24%",
       "summary": "Counterpoint研究显示，2026年全球折叠屏智能手机面板出货量预计同比增长24%至2750万片，对应市场营收同比增长48%至44亿美元，三星、OPPO等厂商竞争重心转向折痕控制技术。",
       "publishedAt": "2026-07-30",
@@ -139,6 +157,15 @@
       "source": "199IT（转引自国家知识产权局）",
       "url": "https://www.199it.com/archives/1842571.html",
       "subCategory": "行业研报"
+    },
+    {
+      "id": "industry-20260801-a004",
+      "title": "7月29日晚间重要公告集锦：普联软件控制权拟转让明略科技",
+      "summary": "普联软件公告控股股东拟将19.07%股份以8.59亿元转让给明略科技旗下公司，公司实际控制人变更为吴明辉，股票及可转债于7月30日复牌。",
+      "publishedAt": "2026-07-29T22:52:00+08:00",
+      "source": "东方财富网",
+      "url": "https://wap.eastmoney.com/a/202607293825442774.html",
+      "subCategory": "企业服务"
     },
     {
       "title": "超六成预喜！深市商贸零售中报回暖态势明确，多股扉亏高增",
@@ -202,6 +229,15 @@
       "url": "https://hk.investing.com/news/stock-market-news/article-1575085",
       "subCategory": "公司动态",
       "id": "industry-20260730-001"
+    },
+    {
+      "id": "industry-20260801-a002",
+      "title": "Kaltura Positioned as a Leader in the 2026 IDC MarketScape for Worldwide Virtual Events Applications",
+      "summary": "视频云服务商Kaltura被IDC MarketScape评为全球虚拟活动应用领域领导者，公司提出的AI数字人、内容复用及互动数据能力为该项认可的核心支撑。",
+      "publishedAt": "2026-07-29",
+      "source": "GlobeNewswire",
+      "url": "https://www.globenewswire.com/news-release/2026/07/29/3335147/0/en/kaltura-positioned-as-a-leader-in-the-2026-idc-marketscape-for-worldwide-virtual-events-applications.html",
+      "subCategory": "SaaS"
     },
     {
       "title": "FAO：2026年全球粮食市场展望报告",
@@ -366,15 +402,6 @@
       "subCategory": "行业研报"
     },
     {
-      "title": "小鹏 X9因前空气弹簧漏气隐患召圖133473辆",
-      "summary": "国家市场监管总局备案信息显示，因制造工艺波动导致前空气弹簧气密性下降，小鹏召回2023年8月至2025年8月生产的X9汽车关133473辆，自2026年8月28日起实施，免费更换改进部件。",
-      "publishedAt": "2026-07-27T09:06:00+08:00",
-      "source": "新浪财经",
-      "url": "https://finance.sina.com.cn/jjxw/2026-07-27/doc-inikezxm3173053.shtml",
-      "subCategory": "公司动态",
-      "id": "industry-20260728-002"
-    },
-    {
       "title": "London Tops BCG's First Intelligent Cities Index",
       "summary": "波士顿咨询公司发布首份智慧城市指数，评估全球61个城市在居民成果、战略、技术采纳等五大维度的表现，伦敦位居榜首，迪拜、纽约、华盛顿、阿姆斯特丹紧随其后。",
       "publishedAt": "2026-07-27T00:01:00-04:00",
@@ -382,6 +409,15 @@
       "url": "https://www.prnewswire.com/news-releases/london-tops-bcgs-first-intelligent-cities-index-302833832.html",
       "subCategory": "行业研报",
       "id": "industry-20260728-001"
+    },
+    {
+      "title": "小鹏 X9因前空气弹簧漏气隐患召圖133473辆",
+      "summary": "国家市场监管总局备案信息显示，因制造工艺波动导致前空气弹簧气密性下降，小鹏召回2023年8月至2025年8月生产的X9汽车关133473辆，自2026年8月28日起实施，免费更换改进部件。",
+      "publishedAt": "2026-07-27T09:06:00+08:00",
+      "source": "新浪财经",
+      "url": "https://finance.sina.com.cn/jjxw/2026-07-27/doc-inikezxm3173053.shtml",
+      "subCategory": "公司动态",
+      "id": "industry-20260728-002"
     },
     {
       "id": "industry-20260727-207",
@@ -688,51 +724,6 @@
       "url": "https://www.yicai.com/news/103287968.html",
       "subCategory": "制造业",
       "id": "industry-20260723-206"
-    },
-    {
-      "id": "industry-20260725-004",
-      "title": "益生股份：2026年上半年净利润3.08亿元，同比增长4897.29%",
-      "summary": "益生股份发布2026年半年报，上半年实现营业收其16.97亿元，同比增长28.44%；净利润3.08亿元，同比增长4897.29%；公司拟每10股派发现金红助1.5元（含税）。",
-      "publishedAt": "2026-07-22T17:02:00+08:00",
-      "source": "36氪",
-      "url": "https://36kr.com/newsflashes/3906583926789254?f=rss",
-      "subCategory": "公司动态"
-    },
-    {
-      "id": "industry-20260722-104",
-      "title": "景气度持续攀升！深市电子行业半年报业绩高增亮眼",
-      "summary": "深市电子行业上半年业绩预告显示，56家企业净利润增速超50%，37家超100%，半导体细分领域13家增速超100%，TCL科技、通富微电、汇顶科技等公司预计净利润同比大幅增长，受益于AI算力建设与存储市场景气回升。",
-      "publishedAt": "2026-07-22T16:02:36+08:00",
-      "source": "每日经济新闻",
-      "url": "https://www.nbd.com.cn/articles/2026-07-22/4495613.html",
-      "subCategory": "半导体产业"
-    },
-    {
-      "id": "industry-20260724-102",
-      "title": "2026上半年中国教育行业融资风向报告，创投圈的钱都去哪了？",
-      "summary": "报告显示2026上半年教育行业仅发生16起融资事件，披露金颙1.21亿元，创六年新低；职业教育以7起事件领跑，天使轮占比达81.3%，广东、北京最活跃。",
-      "publishedAt": "2026-07-22T15:39:00+08:00",
-      "source": "新浪科技·创事记",
-      "url": "https://finance.sina.com.cn/tech/csj/2026-07-22/doc-iniispmy8723351.shtml",
-      "subCategory": "教育科技"
-    },
-    {
-      "id": "industry-20260722-103",
-      "title": "新商标法来了，消费者能买明白\"无印良品\"了吗？",
-      "summary": "北京棉田纺织持有\"无印良品\"第24类商标，其门店视觉设计与日本无印良品高度相似，引发消费者混淆购买；2027年1月1日起施行的新商标法将聚焦注册商标的误导性使用行为，而非仅审查商标注册效力本身。",
-      "publishedAt": "2026-07-22T15:10:28+08:00",
-      "source": "每日经济新闻",
-      "url": "https://www.nbd.com.cn/articles/2026-07-22/4494723.html",
-      "subCategory": "消费零售"
-    },
-    {
-      "id": "industry-20260722-102",
-      "title": "以中国消费者的速度行动，耐克重构中国零售生态",
-      "summary": "耐克宣布，自2027年1月起将中国数字业务整合至天猫、京东、抖音官方旗舰店、耐克官网及App五大核心渠道，多数第三方合作伙伴运营的线上门店将停止销售耐克产品，旨在减少渠道分散、统一消费者体验。",
-      "publishedAt": "2026-07-22T14:03:33+08:00",
-      "source": "每日经济新闻",
-      "url": "https://www.nbd.com.cn/articles/2026-07-22/4493462.html",
-      "subCategory": "消费零售"
     }
   ]
 }

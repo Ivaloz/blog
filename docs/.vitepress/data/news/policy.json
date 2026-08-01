@@ -3,8 +3,17 @@
   "slug": "policy",
   "title": "政策信息",
   "description": "国家与地方政策、监管动态、产业扶持与合规要求。",
-  "updatedAt": "2026-07-31T23:55:00+08:00",
+  "updatedAt": "2026-08-01T08:30:00+08:00",
   "items": [
+    {
+      "id": "policy-20260801-a004",
+      "title": "三大运营商规范互联网售卡 8月1日起第三方渠道停止办理",
+      "summary": "中国电信、移动、联通联合宣布规范互联网售卡，自2026年8月1日起第三方互联网渠道停止办理电话卡业务，用户仅可通过运营商官方App和官网购买，原因是不法商家冒用运营商名义违规收集用户敏感个人信息。",
+      "publishedAt": "2026-07-31T22:50:00+08:00",
+      "source": "新浪财经",
+      "url": "https://finance.sina.com.cn/stock/estate/integration/2026-07-31/doc-iniktkcc1169465.shtml",
+      "subCategory": "数据安全"
+    },
     {
       "id": "policy-20260731-m007",
       "title": "欧盟指控 Temu 未配合调查，最高可处以年营收 1% 罚款",
@@ -60,21 +69,48 @@
       "subCategory": "AI监管"
     },
     {
-      "id": "policy-20260731-m001",
-      "title": "国家发展改革委召开上半年发展改革形势通报会",
-      "summary": "国家发展改革委召开2026年上半年工作通报会，指出上半年经济呈现\"动能向新、结构向优\"态势，就下半年重点工作提出八项要求，涉及推进\"十五五\"规划、扩大内需、加快现代化产业体系建设及推进\"东数西算\"工程和人工智能应用等。",
-      "publishedAt": "2026-07-31",
-      "source": "国家发展和改革委员会",
-      "url": "https://www.ndrc.gov.cn/xwdt/xwfb/202607/t20260731_1406802.html",
-      "subCategory": "产业政策"
-    },
-    {
       "id": "policy-20260731-003",
       "title": "《工业绿色低碳发展\"十五五\"规划》发布",
       "summary": "工业和信息化部发布《工业绿色低碳发展\"十五五\"规划》，提出坚持产业自身绿色发展并增强产业对全社会绿色转型的支撑作用，统筹推进产业结构与能源消费转型，加快电气化与可再生能源应用，建立涵盖区域碳评价、行业碳管控、企业碳管理、项目碳评估与产品碳足迹追踪的管理体系。",
       "publishedAt": "2026-07-31T08:19:00+08:00",
       "source": "36氪",
       "url": "https://36kr.com/newsflashes/3918809800158857",
+      "subCategory": "产业政策"
+    },
+    {
+      "id": "policy-20260801-a001",
+      "title": "To Facilitate Positive Adjustment to Competition from Imports of Quartz Surface Products",
+      "summary": "特朗普签署公告，对石英台面产品进口设立为期四年的关税配额，此前国际贸易委员会裁定进口激增严重损害美国国内产业。措施自2026年8月15日生效，加拿大、墨西哥、澳大利亚、韩国等多个贸易伙伴获得豁免。",
+      "publishedAt": "2026-07-31",
+      "source": "The White House",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/07/to-facilitate-positive-adjustment-to-competition-from-imports-of-quartz-surface-products/",
+      "subCategory": "跨境贸易"
+    },
+    {
+      "id": "policy-20260801-a002",
+      "title": "Right to repair: New consumer rights for easy and attractive repairs",
+      "summary": "欧盟“维修权”新规自2026年7月31日起实施，要求制造商对洗衣机、手机、平板等可维修产品在合理时间和价格内提供维修服务，消费者选择维修可延长至少12个月法定质保期，预计带来48亿欧元经济增长。",
+      "publishedAt": "2026-07-31",
+      "source": "European Commission",
+      "url": "https://commission.europa.eu/news-and-media/news/right-repair-new-consumer-rights-easy-and-attractive-repairs-2026-07-31_en",
+      "subCategory": "海外政策"
+    },
+    {
+      "id": "policy-20260801-a003",
+      "title": "Commission starts enforcing AI Act rules and new transparency requirements on 2 August",
+      "summary": "欧盟委员会宣布自8月2日起执行《人工智能法案》透明度新规，聊天机器人须告知用户正在与AI交互，深度伪造内容须加注标签，委员会可对违规的通用人工智能模型处以最高1500万欧元或全球营业额3%的罚款。",
+      "publishedAt": "2026-07-31",
+      "source": "European Commission",
+      "url": "https://digital-strategy.ec.europa.eu/en/news/commission-starts-enforcing-ai-act-rules-and-new-transparency-requirements-2-august",
+      "subCategory": "AI监管"
+    },
+    {
+      "id": "policy-20260731-m001",
+      "title": "国家发展改革委召开上半年发展改革形势通报会",
+      "summary": "国家发展改革委召开2026年上半年工作通报会，指出上半年经济呈现\"动能向新、结构向优\"态势，就下半年重点工作提出八项要求，涉及推进\"十五五\"规划、扩大内需、加快现代化产业体系建设及推进\"东数西算\"工程和人工智能应用等。",
+      "publishedAt": "2026-07-31",
+      "source": "国家发展和改革委员会",
+      "url": "https://www.ndrc.gov.cn/xwdt/xwfb/202607/t20260731_1406802.html",
       "subCategory": "产业政策"
     },
     {
@@ -103,6 +139,15 @@
       "source": "中央网络安全和信息化委员会办公室",
       "url": "https://www.cac.gov.cn/2026-07/30/c_1787160542430981.htm",
       "subCategory": "产业政策"
+    },
+    {
+      "title": "FTC and States Act Against Hims &amp; Hers for Deceptive and Unlawful Privacy Practices",
+      "summary": "美国联邦贸易委员会联合犹他州、加利福尼亚州对远程医疗公司Hims & Hers提起联邦诉讼，指控其在用户提交问诊表后即扣费、设置订阅取消障碍，并将用户健康信息共享给Meta、Snap等广告平台，涉嫌违反《联邦贸易委员会法》及《在线购物者信心恢复法》。",
+      "publishedAt": "2026-07-29T13:04:00-04:00",
+      "source": "美国联邦贸易委员会(FTC)",
+      "url": "https://www.ftc.gov/news-events/news/press-releases/2026/07/ftc-states-act-against-hims-hers-deceptive-unlawful-privacy-practices",
+      "subCategory": "数据安全",
+      "id": "policy-20260730-001"
     },
     {
       "id": "policy-20260731-002",
@@ -139,15 +184,6 @@
       "url": "https://www.news.cn/politics/20260729/b1d46056aba44f2fa489e362d351aef5/c.html",
       "subCategory": "产业政策",
       "id": "policy-20260730-003"
-    },
-    {
-      "title": "FTC and States Act Against Hims &amp; Hers for Deceptive and Unlawful Privacy Practices",
-      "summary": "美国联邦贸易委员会联合犹他州、加利福尼亚州对远程医疗公司Hims & Hers提起联邦诉讼，指控其在用户提交问诊表后即扣费、设置订阅取消障碍，并将用户健康信息共享给Meta、Snap等广告平台，涉嫌违反《联邦贸易委员会法》及《在线购物者信心恢复法》。",
-      "publishedAt": "2026-07-29T13:04:00-04:00",
-      "source": "美国联邦贸易委员会(FTC)",
-      "url": "https://www.ftc.gov/news-events/news/press-releases/2026/07/ftc-states-act-against-hims-hers-deceptive-unlawful-privacy-practices",
-      "subCategory": "数据安全",
-      "id": "policy-20260730-001"
     },
     {
       "title": "商务部部长王文涛与英国新任商贸大臣雷诺兹举行视频通话",
@@ -663,33 +699,6 @@
       "id": "policy-20260723-208"
     },
     {
-      "id": "policy-20260722-008",
-      "title": "国务院国资委部署深化中央企业“AI+”专项行动",
-      "summary": "国资委党委7月20日召开扩大会议，要求中央企业把握发展窗口期、培育更多标志性应用场景，并依托“焕新社区”及世界人工智能合作组织参与国际标准制定与产业生态共建。",
-      "publishedAt": "2026-07-21T16:20:00+08:00",
-      "source": "网易财经（观点机构）",
-      "url": "https://www.163.com/dy/article/L2CGI4GM0519D45U.html",
-      "subCategory": "产业政策"
-    },
-    {
-      "id": "policy-20260722-006",
-      "title": "商务部等九部门印发政策措施促进家政服务业高质量发展",
-      "summary": "商务部等九部门7月20日联合印发政策文件，从企业支持、制度创新、职业技能培训、信用平台建设等五方面提出19条措施，覆盖用工到定价全链条环节。",
-      "publishedAt": "2026-07-21T10:36:18+08:00",
-      "source": "经济参考报（新华网）",
-      "url": "https://www.news.cn/20260721/6f2334f2c0b24f48a7c114eac6318918/c.html",
-      "subCategory": "产业政策"
-    },
-    {
-      "id": "policy-20260721-004",
-      "title": "中央网信办举报中心上半年转交处置仿冒假冒网站759个",
-      "summary": "中央网信办举报中心通报，2026年上半年共转交处置仿冒假冒网站759个，同比增长150%，仿冒对象涵盖政府机关、事业单位、企业等五类主体，超八成为企业事业单位网站，不法分子借虚假福利申领、资质核验、期刊投稿等名义骗取用户信息和钱财。",
-      "publishedAt": "2026-07-21T09:45:00+08:00",
-      "source": "中央网络安全和信息化委员会办公室",
-      "url": "https://www.cac.gov.cn/2026-07/21/c_1786294086645880.htm",
-      "subCategory": "数据安全"
-    },
-    {
       "title": "关于印发贯彻实施民营经济促进法典型案例(第二批)的通知",
       "summary": "国家发展改革委、最高人民检察院联合印发《贯彻实施民营经济促进法典型案例（第二批）》（发改民营〔2026〕1093号），发布十件民营经济促进法实施典型案例，以案释法、以案示导，推动《民营经济促进法》贯彻落实。",
       "publishedAt": "2026-07-22",
@@ -715,15 +724,6 @@
       "source": "The White House",
       "url": "https://www.whitehouse.gov/releases/2026/07/45502/",
       "subCategory": "AI监管"
-    },
-    {
-      "id": "policy-20260724-006",
-      "title": "SEC专员发布关于加密货币金库产品与链上借贷策略适用证券法的声明",
-      "summary": "美国证券交易委员会专员赫斯特·皮尔斯发布声明，说明加密货币金库产品和链上借贷策略需按现有联邦证券法规则进行分析，指出资产上链本身不能使相关活动脱离证券监管范围，呼吁市场参与者就合规问题与监管机构沟通。",
-      "publishedAt": "2026-07-22",
-      "source": "U.S. Securities and Exchange Commission",
-      "url": "https://www.sec.gov/newsroom/speeches-statements/peirce-statement-crypto-vaults-lending-strategies-072226",
-      "subCategory": "金融监管"
     }
   ]
 }
