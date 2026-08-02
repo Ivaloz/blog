@@ -51,51 +51,6 @@
       "subCategory": "金融监管"
     },
     {
-      "id": "policy-20260801-a001",
-      "title": "To Facilitate Positive Adjustment to Competition from Imports of Quartz Surface Products",
-      "summary": "特朗普签署公告，对石英台面产品进口设立为期四年的关税配额，此前国际贸易委员会裁定进口激增严重损害美国国内产业。措施自2026年8月15日生效，加拿大、墨西哥、澳大利亚、韩国等多个贸易伙伴获得豁免。",
-      "publishedAt": "2026-07-31",
-      "source": "The White House",
-      "url": "https://www.whitehouse.gov/presidential-actions/2026/07/to-facilitate-positive-adjustment-to-competition-from-imports-of-quartz-surface-products/",
-      "subCategory": "跨境贸易"
-    },
-    {
-      "id": "policy-20260801-a002",
-      "title": "Right to repair: New consumer rights for easy and attractive repairs",
-      "summary": "欧盟“维修权”新规自2026年7月31日起实施，要求制造商对洗衣机、手机、平板等可维修产品在合理时间和价格内提供维修服务，消费者选择维修可延长至少12个月法定质保期，预计带来48亿欧元经济增长。",
-      "publishedAt": "2026-07-31",
-      "source": "European Commission",
-      "url": "https://commission.europa.eu/news-and-media/news/right-repair-new-consumer-rights-easy-and-attractive-repairs-2026-07-31_en",
-      "subCategory": "海外政策"
-    },
-    {
-      "id": "policy-20260801-a003",
-      "title": "Commission starts enforcing AI Act rules and new transparency requirements on 2 August",
-      "summary": "欧盟委员会宣布自8月2日起执行《人工智能法案》透明度新规，聊天机器人须告知用户正在与AI交互，深度伪造内容须加注标签，委员会可对违规的通用人工智能模型处以最高1500万欧元或全球营业额3%的罚款。",
-      "publishedAt": "2026-07-31",
-      "source": "European Commission",
-      "url": "https://digital-strategy.ec.europa.eu/en/news/commission-starts-enforcing-ai-act-rules-and-new-transparency-requirements-2-august",
-      "subCategory": "AI监管"
-    },
-    {
-      "id": "policy-20260731-m001",
-      "title": "国家发展改革委召开上半年发展改革形势通报会",
-      "summary": "国家发展改革委召开2026年上半年工作通报会，指出上半年经济呈现\"动能向新、结构向优\"态势，就下半年重点工作提出八项要求，涉及推进\"十五五\"规划、扩大内需、加快现代化产业体系建设及推进\"东数西算\"工程和人工智能应用等。",
-      "publishedAt": "2026-07-31",
-      "source": "国家发展和改革委员会",
-      "url": "https://www.ndrc.gov.cn/xwdt/xwfb/202607/t20260731_1406802.html",
-      "subCategory": "产业政策"
-    },
-    {
-      "title": "2026年7月31日国内成品油价格调整",
-      "summary": "国家发展改革委发布通知，自7月31日24时起国内汽油、柴油价格每吨分别上调685元和655元，主要受近期国际原油价格总体上涨影响，并要求相关企业保障市场供应、地方加强价格监管。",
-      "publishedAt": "2026-07-31",
-      "source": "国家发展和改革委员会",
-      "url": "https://www.ndrc.gov.cn/xwdt/xwfb/202607/t20260731_1406853.html",
-      "subCategory": "产业政策",
-      "id": "policy-20260731-n001"
-    },
-    {
       "id": "policy-20260731-m002",
       "title": "中核集团：华龙一号 2.0 版示范项目获国务院常务会议核准",
       "summary": "国务院常务会议核准四个核电项目共8台机组，其中6台采用华龙一号技术，浙江金七门核电二期和广东太平岭核电三期被确定为\"华龙一号2.0版示范项目\"，目前国内外已有10台华龙一号机组商运，另有37台核准在建。",
@@ -228,7 +183,538 @@
       "source": "国家发展和改革委员会",
       "url": "https://www.ndrc.gov.cn/xwdt/xwfb/202607/t20260731_1406853.html",
       "subCategory": "产业政策",
-      "id": "policy-20260731-n001b"
+      "id": "policy-20260731-n001"
+    },
+    {
+      "title": "工业和信息化部发布关于废止和修订新能源汽车废旧动力电池\"梯次利用\"相关政策标准以及规范有关行业活动的公告",
+      "summary": "工业和信息化部发布公告，废止新能源汽车废旧动力电池\"梯次利用\"相关政策标准，不再对相关企业进行公告管理，并明确废旧动力电池产品不得用于电动自行车等禁止领域，同时要求加快修订相关标准、强化监管执法。",
+      "publishedAt": "2026-07-30T18:10:12+08:00",
+      "source": "每日经济新闻",
+      "url": "https://www.nbd.com.cn/articles/2026-07-30/4527014.html",
+      "subCategory": "新能源政策",
+      "id": "policy-20260731-n002"
+    },
+    {
+      "id": "policy-20260731-001",
+      "title": "中共中央政治局召开会议 决定召开二十届五中全会 分析研究当前经济形势和经济工作",
+      "summary": "中共中央政治局召开会议，决定10月在北京召开中国共产党第二十届中央委员会第五次全体会议，会议分析研究当前经济形势和经济工作，提出实施更加积极的财政政策和适度宽松的货币政策，推进\"两重\"\"两新\"建设，深化资本市场投融资综合改革，稳定房地产市场，巩固拓展脱贫攻坚成果。",
+      "publishedAt": "2026-07-30T15:06:00+08:00",
+      "source": "中央网络安全和信息化委员会办公室",
+      "url": "https://www.cac.gov.cn/2026-07/30/c_1787160542430981.htm",
+      "subCategory": "产业政策"
+    },
+    {
+      "id": "policy-20260731-002",
+      "title": "Presidential Determination Pursuant to Section 101 of the Defense Production Act of 1950, as Amended, on Recoverable Critical Minerals and Materials",
+      "summary": "美国总统签署备忘录，依据《1950年国防生产法》第101条，认定黑粉、稀土永磁体及含关键矿物工业废料等可回收关键矿物的国内供应不足对国家安全构成风险，授权商务部长发布规则、指南与程序以确保关键矿物供应，该认定不涵盖此前已通过单独公告处理的铜废料。",
+      "publishedAt": "2026-07-30",
+      "source": "The White House",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/07/presidential-determination-pursuant-to-section-101-of-the-defense-production-act-of-1950-as-amended-on-recoverable-critical-minerals-and-materials/",
+      "subCategory": "海外政策"
+    },
+    {
+      "title": "商务部召开例行新闻发布会（2026年7月30日）",
+      "summary": "商务部举行例行新闻发布会，介绍中欧经贸磋商机制首次会议后续进展，双方商定今年秋季举行第二次会议，并通报内地与香港经贸合作及国家级经济技术开发区进出口和利用外资最新情况。",
+      "publishedAt": "2026-07-30",
+      "source": "商务部",
+      "url": "https://www.mofcom.gov.cn/xwfbzt/2026/swbzklxxwfbh2026n7y30r/index.html",
+      "subCategory": "跨境贸易",
+      "id": "policy-20260731-n003"
+    },
+    {
+      "title": "中国人民银行等九部门联合印发《关于加强科技金融领域数据开发利用的通知》",
+      "summary": "中国人民银行等九部门联合印发通知，部署加强科技金融领域数据开发利用工作，推动金融机构与科技企业间数据共享、完善数据要素市场规则，支持科技型企业融资需求。",
+      "publishedAt": "2026-07-29T17:00:01+08:00",
+      "source": "中国人民银行",
+      "url": "https://www.pbc.gov.cn/goutongjiaoliu/113456/113469/2026072915223955058/index.html",
+      "subCategory": "金融监管",
+      "id": "policy-20260729-703"
+    },
+    {
+      "title": "2026年工信领域创新任务揭榜挂帅工作启动",
+      "summary": "工业和信息化部等七部门联合发布通知，启动2026年工信领域创新任务揭榜挂帅工作，围绕未来产业、装备制造、信息技术等六大方向部署24个专题，聚焦人形机器人与具身智能、原子级制造等技术攻关方向。",
+      "publishedAt": "2026-07-29T15:10:09+08:00",
+      "source": "新华网",
+      "url": "https://www.news.cn/politics/20260729/b1d46056aba44f2fa489e362d351aef5/c.html",
+      "subCategory": "产业政策",
+      "id": "policy-20260730-003"
+    },
+    {
+      "title": "FTC and States Act Against Hims &amp; Hers for Deceptive and Unlawful Privacy Practices",
+      "summary": "美国联邦贸易委员会联合犹他州、加利福尼亚州对远程医疗公司Hims & Hers提起联邦诉讼，指控其在用户提交问诊表后即扣费、设置订阅取消障碍，并将用户健康信息共享给Meta、Snap等广告平台，涉嫌违反《联邦贸易委员会法》及《在线购物者信心恢复法》。",
+      "publishedAt": "2026-07-29T13:04:00-04:00",
+      "source": "美国联邦贸易委员会(FTC)",
+      "url": "https://www.ftc.gov/news-events/news/press-releases/2026/07/ftc-states-act-against-hims-hers-deceptive-unlawful-privacy-practices",
+      "subCategory": "数据安全",
+      "id": "policy-20260730-001"
+    },
+    {
+      "title": "商务部部长王文涛与英国新任商贸大臣雷诺兹举行视频通话",
+      "summary": "7月28日，商务部部长王文涛与英国新任商贸大臣雷诺兹举行视频通话，双方就中英经贸合作交换意见，涉及服务贸易、绿色转型等领域合作，并谈及英国钢铁国有化相关投资保护问题。雷诺兹表示英方将聘请独立评估机构处理钢铁事项并遵守评估结果。",
+      "publishedAt": "2026-07-29T09:03:00+08:00",
+      "source": "中华人民共和国商务部",
+      "url": "https://www.mofcom.gov.cn/xwfb/bldhd/art/2026/art_43d165c646f749dd9093dc0b6da72737.html",
+      "subCategory": "跨境贸易",
+      "id": "policy-20260729-701"
+    },
+    {
+      "title": "商务部新闻发言人就美国防部将部分中国科研机构列入制裁清单事答记者问",
+      "summary": "美国国防部7月23日将部分中国科研机构列入所谓“存在问题外国研究机构清单”。商务部发言人对此表示强烈不满和坚决反对，认为美方做法将科技合作政治化、工具化，要求美方停止无理指责、及时纠正错误做法，并表示中方将采取必要措施维护本国科研机构合法权益。",
+      "publishedAt": "2026-07-29T09:00:00+08:00",
+      "source": "中华人民共和国商务部",
+      "url": "https://www.mofcom.gov.cn/xwfb/xwfyrth/art/2026/art_e6f485e2e0a541b183d7df72e21a6f81.html",
+      "subCategory": "海外政策",
+      "id": "policy-20260729-700"
+    },
+    {
+      "title": "国家互联网信息办公室关于《中华人民共和国反网络暴力法（征求意见稿）》公开征求意见的通知",
+      "summary": "国家互联网信息办公室就《中华人民共和国反网络暴力法（征求意见稿）》公开征求意见，反馈截止2026年8月28日。草案要求网络服务提供者建立监测预警、保护及投诉处理机制，落实用户真实身份信息注册，并对利用人工智能技术制作传播侵害他人权益内容作出规制。",
+      "publishedAt": "2026-07-29",
+      "source": "中央网络安全和信息化委员会办公室",
+      "url": "https://www.cac.gov.cn/2026-07/29/c_1787072711938509.htm",
+      "subCategory": "数据安全",
+      "id": "policy-20260729-901"
+    },
+    {
+      "id": "policy-20260730-004",
+      "title": "欧盟委员会对罗马尼亚可再生能源仲裁裁决启动深入调查",
+      "summary": "欧盟委员会认为该仲裁裁决及其执行可能构成不符合欧盟内部市场规则的国家援助，遂对2024年仲裁庭裁定罗马尼亚向十家能源投资者支付4220万欧元赔偿一案启动深入审查。",
+      "publishedAt": "2026-07-29",
+      "source": "欧盟委员会",
+      "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1685",
+      "subCategory": "海外政策"
+    },
+    {
+      "title": "商务部条约法律司负责人就世贸组织发布我诉土耳其电动汽车和其他车辆限制措施专家组报告答记者问",
+      "summary": "世贸组织专家组就中国诉土耳其对华电动汽车及其他车辆采取限制措施一案发布报告，认定土方相关措施违反世贸规则。商务部条约法律司负责人对此表示欢迎，要求土耳其执行专家组裁决、取消相关限制性措施，并重申中方支持多边贸易体制。",
+      "publishedAt": "2026-07-28T22:20:00+08:00",
+      "source": "中华人民共和国商务部",
+      "url": "https://www.mofcom.gov.cn/xwfb/sjfzrfb/art/2026/art_2db1752ad0034be5aaf744940debee5a.html",
+      "subCategory": "跨境贸易",
+      "id": "policy-20260728-702"
+    },
+    {
+      "title": "质量效益持续向好 开行规模稳步向上——国家发展改革委专题新闻发布会聚焦中欧班列发展成效",
+      "summary": "国家发展改革委举行专题新闻发布会介绍中欧班列统一品牌十周年发展成效：累计开行量突破13万列，运送货值超5200亿美元，重箱率连续46个月保持100%，运营范围覆盖26个欧洲国家236个城市，开行规模由2016年1702列增至2025年20022列。",
+      "publishedAt": "2026-07-28T19:00:18+08:00",
+      "source": "新华网",
+      "url": "https://www.news.cn/fortune/20260728/e4f92cd08b2b43f7acc513758d328957/c.html",
+      "subCategory": "跨境贸易",
+      "id": "policy-20260729-503"
+    },
+    {
+      "id": "policy-20260729-001",
+      "title": "商务部：中方愿通过中欧贸易投资磋商机制加强与欧方对话磋商",
+      "summary": "商务部对外贸易司相关负责人在国新办发布会上表示，2026年上半年中欧贸易额达4478.8亿美元，同比增长14.2%，中方在汇率问题上保持负责任立场，不会通过人为压低汇率获取竞争优势，愿通过中欧贸易投资磋商机制加强与欧方对话协商。",
+      "publishedAt": "2026-07-28T15:56:29+08:00",
+      "source": "中国新闻网",
+      "url": "https://www.chinanews.com.cn/cj/2026/07-28/10667903.shtml",
+      "subCategory": "跨境贸易"
+    },
+    {
+      "id": "policy-20260728-102",
+      "title": "商务部发布《关于所谓“产能过剩”问题的中方立场》",
+      "summary": "商务部发布《关于所谓“产能过剩”问题的中方立场》文件，共四部分，主张全面客观公正看待全球产能问题，阐明中方对产能过剩相关几组关系的立场，强调以开放合作建设现代化产业体系，倡导共建开放包容的全球供应链合作。",
+      "publishedAt": "2026-07-28T13:06:08+08:00",
+      "source": "新华网",
+      "url": "https://www.news.cn/20260728/558861063fe74feb974b683dd8447a41/c.html",
+      "subCategory": "跨境贸易"
+    },
+    {
+      "title": "工信部：深入推进\"车路云一体化\"生产准入和通行试点",
+      "summary": "工业和信息化部介绍智能网联汽车产业发展情况，将加快编制智能网联新能源汽车产业发展\"十五五\"规划，深入推进\"车路云一体化\"生产准入和上路通行试点。全国已发放测试牌照超2万张，开放测试道路超5.7万公里，L2级乘用车渗透率达70.5%。",
+      "publishedAt": "2026-07-28T08:47:18+08:00",
+      "source": "经济参考报（新华网）",
+      "url": "https://www.news.cn/tech/20260728/057db72877c646428daa9ed38fc8a6b7/c.html",
+      "subCategory": "新能源政策",
+      "id": "policy-20260729-502"
+    },
+    {
+      "title": "工业和信息化部发文提升中小企业数字化转型服务供给",
+      "summary": "工业和信息化部办公厅印发《\"小快轻准\"数字化产品和服务培育指引（2026年版）》，要求服务供给方聚焦中小企业转型痛点，推动开发行业知识库、简化操作界面、融入人工智能技术，并杜绝隐性收费与捆绑销售，依托国家和地方平台建设优质产品资源池。",
+      "publishedAt": "2026-07-27T21:44:41+08:00",
+      "source": "新华网",
+      "url": "https://www.news.cn/fortune/20260727/a6df434a4cb5464cba17bd2df43f5ae9/c.html",
+      "subCategory": "数字经济",
+      "id": "policy-20260729-501"
+    },
+    {
+      "id": "policy-20260727-101",
+      "title": "商务部回应美宣称拟对中国人工智能企业开展调查并实施制裁",
+      "summary": "商务部新闻发言人就美方宣称拟对中国人工智能企业以\"蒸馏\"\"窃取美国知识产权\"为由开展调查并实施制裁作出回应，指出该做法缺乏事实依据、没有法理支撑，属于典型的人工智能霸权主义行径，模型蒸馏是行业通用技术，美国企业同样在使用中国开源模型；中方要求美方停止\"拉清单\"\"扣帽子\"，如实质损害发生将采取必要措施维护自身权益。",
+      "publishedAt": "2026-07-27T20:45:38+08:00",
+      "source": "新华网",
+      "url": "https://www.news.cn/fortune/20260727/725df1a9bf1a456b8a0995ea03291bca/c.html",
+      "subCategory": "海外政策"
+    },
+    {
+      "id": "policy-20260728-101",
+      "title": "国务院办公厅印发《关于国务院行政复议案件处理程序的若干规定》",
+      "summary": "国务院办公厅印发《关于国务院行政复议案件处理程序的若干规定》，共10条，授权国务院法治部门依法处理向国务院提出的行政复议申请及监督申请，要求各地政府和国务院部门加大行政争议先行化解、调解力度，强化国务院法治部门对行政复议工作的指导监督，自印发之日起施行。",
+      "publishedAt": "2026-07-27T17:01:01+08:00",
+      "source": "新华网",
+      "url": "https://www.news.cn/politics/20260727/d7761ea79ec84903b9cbdff4de1fe090/c.html",
+      "subCategory": "产业政策"
+    },
+    {
+      "title": "商务部关于下达2026年农产品出口配额第二次分配数量的通知",
+      "summary": "商务部印发通知，下达2026年供港澳活大猪活牛、边贸大米、边贸小麦粉及锯材等农产品出口配额第二次分配数量，要求各地商务主管部门优先支持业绩良好企业，并对边贸产品实行落地口岸管控，防止港澳面粉类产品异地转运。",
+      "publishedAt": "2026-07-27T15:19:00+08:00",
+      "source": "中华人民共和国商务部",
+      "url": "https://www.mofcom.gov.cn/zcfb/zc/art/2026/art_08ea93c7f1404a5abbc1221eecd5d3a8.html",
+      "subCategory": "跨境贸易",
+      "id": "policy-20260728-001"
+    },
+    {
+      "title": "《利用外资固稳促优行动方案》（英文版）",
+      "summary": "商务部网站发布《利用外资固稳促优行动方案》英文版，旨在向国际社会说明中国稳定和优化外资利用的政策举措，便利外国投资者及相关机构查阅了解相关政策内容。",
+      "publishedAt": "2026-07-27T09:26:00+08:00",
+      "source": "中华人民共和国商务部",
+      "url": "http://www.mofcom.gov.cn/zcfb/wgtzgl/art/2026/art_dd86796bb4e04e238a791d99a6d4ef76.html",
+      "subCategory": "跨境贸易",
+      "id": "policy-20260728-002"
+    },
+    {
+      "title": "FTC Takes Action Against Elite Events for Bypassing Ticket Purchase Limits in Violation of Better Online Ticket Sales Act",
+      "summary": "美国联邦贸易委员会指控票务经纪商Elite Events及其运营者组织大量代理人使用虚假账号、虚拟信用卡和IP代理规避购票数量限制，涉嫌违反《在线票务销售法》，该公司需支付30万美元民事罚款并被永久禁止相关行为。",
+      "publishedAt": "2026-07-27",
+      "source": "美国联邦贸易委员会（FTC）",
+      "url": "https://www.ftc.gov/news-events/news/press-releases/2026/07/ftc-takes-action-against-elite-events-bypassing-ticket-purchase-limits-violation-better-online",
+      "subCategory": "海外政策",
+      "id": "policy-20260728-003"
+    },
+    {
+      "title": "Unbreakable bond between UK and Ukraine will continue under my government: 26 July 2026",
+      "summary": "英国首相安迪·伯纳姆在唐宁街接待乌克兰总统泽连斯基，这是伯纳姆就任以来接待的首位到访外国领导人，双方讨论英国代号Stone Cloak的无人机电子干扰装置共享及英国每年30亿英镑对乌支持等合作事项。",
+      "publishedAt": "2026-07-27",
+      "source": "英国政府（GOV.UK）",
+      "url": "https://www.gov.uk/government/news/unbreakable-bond-between-uk-and-ukraine-will-continue-under-my-government-26-july-2026",
+      "subCategory": "海外政策",
+      "id": "policy-20260728-004"
+    },
+    {
+      "title": "AI Omnibus enters into force",
+      "summary": "欧盟《人工智能综合简化法案》（Digital Omnibus on AI）于2026年7月27日正式生效，简化高风险人工智能系统合规要求，将部分高风险系统条款适用期延至2027年12月、产品内嵌AI系统延至2028年8月，同时扩大监管沙盒并禁止非自愿生成的私密图像内容。",
+      "publishedAt": "2026-07-27",
+      "source": "欧盟委员会（数字战略网站）",
+      "url": "https://digital-strategy.ec.europa.eu/en/news/ai-omnibus-enters-force",
+      "subCategory": "AI监管",
+      "id": "policy-20260729-504"
+    },
+    {
+      "id": "policy-20260726-101",
+      "title": "消息称OpenAI、Anthropic游说美国限制中国开源模型，黄仁勋马斯克公开反对",
+      "summary": "据报道，OpenAI与Anthropic正游说美国监管机构以安全和国家安全为由限制中国开源人工智能模型，但英伟达CEO黄仁勋与特斯拉CEO马斯克公开反对相关限制措施，认为世界需要顶尖的闭源与开源模型并存，微软、Meta等公司已联署公开信支持开源AI发展。",
+      "publishedAt": "2026-07-26T20:54:28+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/981/797.htm",
+      "subCategory": "海外政策"
+    },
+    {
+      "id": "policy-20260726-102",
+      "title": "派拉蒙1100亿美元收购华纳兄弟获欧盟有条件批准，十年内不得与环球影业达成协议",
+      "summary": "欧盟委员会有条件批准派拉蒙以1100亿美元收购华纳兄弟交易，要求派拉蒙13个月内退出联合国际影业股权，并在未来十年内不得就欧洲影片发行事宜与环球影业达成协议。",
+      "publishedAt": "2026-07-26T16:43:18+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/981/762.htm",
+      "subCategory": "反垄断"
+    },
+    {
+      "id": "policy-20260726-002",
+      "title": "欧盟AI透明度准则8月2日起生效：聊天机器人需\"自报身份\"，深度伪造内容须带机读标签",
+      "summary": "欧盟《人工智能法案》第50条AI透明度准则将于8月2日正式生效，要求聊天机器人明确告知用户其为AI系统而非真人，AI生成的图片、音频、视频和文本须附带机器可读标记，发布深度伪造内容也须明确说明；已上线系统可获4个月整改期，违规最高处1500万欧元或全球营业额3%罚款。",
+      "publishedAt": "2026-07-26T16:16:42+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/981/755.htm",
+      "subCategory": "AI监管"
+    },
+    {
+      "id": "policy-20260726-001",
+      "title": "市场监管总局依法对携程集团有限公司实施垄断行为作出行政处罚并责令其全面整改",
+      "summary": "市场监管总局依法对携程集团滥用市场支配地位的垄断行为作出行政处罚，罚没款合计51.79亿元，含没收违法所得16.58亿元、罚款35.21亿元，并责令全额退还强制扣除的酒店经营者订单储备金1.22亿元。处罚认定携程自2020年以来强制\"特牌\"酒店独家合作并执行\"全网最低价\"。",
+      "publishedAt": "2026-07-25T10:05:00+08:00",
+      "source": "证券时报（转引自人民日报）",
+      "url": "https://www.stcn.com/article/detail/4041362.html",
+      "subCategory": "反垄断"
+    },
+    {
+      "id": "policy-20260725-001",
+      "title": "国家互联网信息办公室发布《国家信息化发展报告（2025年）》",
+      "summary": "国家网信办发布《国家信息化发展报告（2025年）》，总结\"十四五\"信息化发展目标已完成，网络科技创新、基础设施能力和信息化应用均取得进展，并提出\"十五五\"时期需统筹近远期战略，兼顾开放与自主、发展与安全。",
+      "publishedAt": "2026-07-24T22:45:00+08:00",
+      "source": "中央网络安全和信息化委员会办公室",
+      "url": "https://www.cac.gov.cn/2026-07/24/c_1786638895199572.htm",
+      "subCategory": "数字经济"
+    },
+    {
+      "id": "policy-20260725-006",
+      "title": "2026年亚太经合组织人工智能高级别论坛在四川成都举办",
+      "summary": "2026年亚太经合组织人工智能高级别论坛在四川成都举行，国家网信办主任庄荣文出席并致辞，论坛就安全发展、负责任部署等四方面达成共识声明，中方宣布将在深圳设立数据跨境合作中心。",
+      "publishedAt": "2026-07-24T22:30:00+08:00",
+      "source": "中央网络安全和信息化委员会办公室",
+      "url": "https://www.cac.gov.cn/2026-07/24/c_1786639248102396.htm",
+      "subCategory": "AI监管"
+    },
+    {
+      "id": "policy-20260725-004",
+      "title": "欧盟委员会初步认定TikTok就未成年人账户安全设置违反《数字服务法》",
+      "summary": "欧盟委员会初步认定TikTok未能确保未成年人账户安全，允许16-17岁未成年人将账户设为公开且内容被推荐给所有用户，存在被不良分子接触及网络欺凌风险，委员会要求TikTok调整默认设置，仅向被接受关注者展示内容。",
+      "publishedAt": "2026-07-24",
+      "source": "European Commission",
+      "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1679",
+      "subCategory": "数据安全"
+    },
+    {
+      "id": "policy-20260725-005",
+      "title": "英国首相伯纳姆同工商界团体举行首次通话 提出对企业新合作方案",
+      "summary": "英国首相安迪·伯纳姆同工商联合会、英国商会、小企业联合会等团体举行首次通话，提出降低企业成本、改革营业房产税、下放决策权，并宣布为酒吧、俱乐部及音乐场所提供20%减免。",
+      "publishedAt": "2026-07-24",
+      "source": "GOV.UK",
+      "url": "https://www.gov.uk/government/news/pm-puts-new-offer-on-the-table-to-businesses-in-first-talks-with-industry-groups-24-july-2026",
+      "subCategory": "产业政策"
+    },
+    {
+      "id": "policy-20260725-008",
+      "title": "财政部 税务总局发布关于离岸信托个人所得税有关事项的公告",
+      "summary": "财政部、税务总局发布公告，明确居民及非居民个人将财产装入离岸信托及信托存续期间所得需按规定申报纳税，并设置90天宽限期，允许个人自愿补报此前未申报的离岸信托相关收入而不予处罚。",
+      "publishedAt": "2026-07-24",
+      "source": "财政部",
+      "url": "https://szs.mof.gov.cn/zhengcefabu/202607/t20260724_3994261.htm",
+      "subCategory": "金融监管"
+    },
+    {
+      "id": "policy-20260725-007",
+      "title": "国家网信办发布《数据出境安全管理政策法规问答（2026年7月）》",
+      "summary": "国家网信办发布《数据出境安全管理政策法规问答（2026年7月）》，就个人信息处理者向境外提供数据需取得单独同意、数据出境安全评估有效期延长条件及员工简历向境外母公司共享的必要性判定等问题作出解答。",
+      "publishedAt": "2026-07-24T19:00:00+08:00",
+      "source": "中央网络安全和信息化委员会办公室",
+      "url": "https://www.cac.gov.cn/2026-07/24/c_1786638883119336.htm",
+      "subCategory": "数据安全"
+    },
+    {
+      "id": "policy-20260725-002",
+      "title": "国家网信办、公安部联合公布《小型个人信息处理者个人信息保护简化措施规定》",
+      "summary": "国家网信办与公安部联合发布规定，为处理不满10万人个人信息的小型处理者简化告知同意、删除处理等合规要求，并对特定情形下的数据出境、合规审计给予简化安排，规定自2026年9月1日起施行。",
+      "publishedAt": "2026-07-24T17:00:00+08:00",
+      "source": "中央网络安全和信息化委员会办公室",
+      "url": "https://www.cac.gov.cn/2026-07/24/c_1786638889443160.htm",
+      "subCategory": "数据安全"
+    },
+    {
+      "id": "policy-20260725-003",
+      "title": "欧盟委员会发异议声明反对京东25亿美元收购Ceconomy",
+      "summary": "欧盟委员会就京东收购德国零售商Ceconomy发出异议声明，依据外国补贴条例审查其是否通过中国政府优惠融资及税收获得不公平优势，京东已取得85.2%股份但交易仍待布鲁塞尔批准，最终裁定预计10月2日前作出。",
+      "publishedAt": "2026-07-24T16:59:21+08:00",
+      "source": "出海网",
+      "url": "https://www.chwang.com/news/208057856266",
+      "subCategory": "反垄断"
+    },
+    {
+      "id": "policy-20260724-104",
+      "title": "商务部公告2026年第30号 公布将14家欧盟实体列入出口管制管控名单",
+      "summary": "商务部公告将来自意大利、德国、法国、波兰等国的14家欧盟实体列入出口管制管控名单，禁止中国出口商向其提供两用物项，例外情形须经专项审批，公告即日生效。",
+      "publishedAt": "2026-07-24T16:00:00+08:00",
+      "source": "商务部",
+      "url": "https://www.mofcom.gov.cn/zwgk/zcfb/art/2026/art_2c9a32aa73bf4f5ea80ffa83e62fb259.html",
+      "subCategory": "跨境贸易"
+    },
+    {
+      "id": "policy-20260724-151",
+      "title": "APEC数字和人工智能部长会议通过成都声明",
+      "summary": "2026年APEC数字和人工智能部长会议在四川成都举行并通过《成都声明》，与会经济体同意共同推动数字和人工智能技术赋能亚太共同体，涉及基础设施建设、数字素养提升、中小企业数字化、网络安全数据保护及供应链韧性等内容，并首次将开源协作议题提升至部长级。",
+      "publishedAt": "2026-07-23T22:53:08+08:00",
+      "source": "新华网",
+      "url": "https://www.news.cn/20260723/53dad86dab264d25b1fc22cfbda868c6/c.html",
+      "subCategory": "AI监管"
+    },
+    {
+      "id": "policy-20260723-001",
+      "title": "中央网信办、应急管理部部署开展汛期灾害事故违法不良信息集中清理整治",
+      "summary": "中央网信办联合应急管理部部署开展汛期灾害事故违法不良信息集中清理整治，重点整治\"移花接木\"编造灾情、旧闻新炒、夸大伤亡损失、编造虚假险情及AI生成虚假内容等五类问题，压实网站平台内容管理责任。",
+      "publishedAt": "2026-07-23",
+      "source": "中央网络安全和信息化委员会办公室",
+      "url": "https://www.cac.gov.cn/2026-07/23/c_1786465620398126.htm",
+      "subCategory": "数据安全"
+    },
+    {
+      "title": "蓝佛安：以更大力度落实财政金融协同促内需一揽子政策",
+      "summary": "财政部部长蓝佛安撰文称，上半年个人消费和服务业贷款贴息等四类贴息贷款新增超17万亿元、同比增长4.6%，消费品以旧换新惠及消费约131亿元、9900万笔，民营投资担保风险分担机制支持投资超1.24万亿元。",
+      "publishedAt": "2026-07-23",
+      "source": "财政部（转载自人民日报）",
+      "url": "https://www.mof.gov.cn/zhengwuxinxi/caizhengxinwen/202607/t20260723_3994034.htm",
+      "subCategory": "金融监管",
+      "id": "policy-20260723-206"
+    },
+    {
+      "title": "关于印发《可再生能源发展\"十五五\"规划》的通知",
+      "summary": "国家发展改革委、国家能源局联合印发《可再生能源发展\"十五五\"规划》（发改能源〔2026〕1067号），部署2026—2030年可再生能源高质量发展任务，贯彻碳达峰碳中和目标及\"四个革命、一个合作\"能源安全新战略。",
+      "publishedAt": "2026-07-23",
+      "source": "国家发展和改革委员会",
+      "url": "https://www.ndrc.gov.cn/xxgk/zcfb/tz/202607/t20260723_1406641.html",
+      "subCategory": "新能源政策",
+      "id": "policy-20260723-304"
+    },
+    {
+      "id": "policy-20260724-001",
+      "title": "美国总统备忘录：对60个经济体强迫劳动产品进口执行不力启动301关税措施",
+      "summary": "美国总统签署备忘录，依据1974年贸易法301条款调查结果，对60个未能有效执行强迫劳动产品进口禁令的经济体加征关税，其中17个经济体加征10%，其余加征12.5%，并要求9月1日前为孟加拉国、柬埔寨、印尼、马来西亚设立棉花纺织品关税配额。",
+      "publishedAt": "2026-07-23",
+      "source": "The White House",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/07/actions-by-the-united-states-in-the-investigations-under-section-301-of-the-trade-act-of-1974-of-the-acts-policies-and-practices-of-60-economies-related-to-the-failure-of-each-economy-to-impose-and-/",
+      "subCategory": "跨境贸易"
+    },
+    {
+      "id": "policy-20260724-002",
+      "title": "SEC宣布就美国股市24小时交易筹备事宜举行圆桌会议",
+      "summary": "美国证券交易委员会宣布将于9月17日举行公开圆桌会议，探讨美国股票市场向全天候交易转型涉及的隔夜交易运作、市场韧性等问题，公众可通过文件编号4-913提交书面意见。",
+      "publishedAt": "2026-07-23",
+      "source": "U.S. Securities and Exchange Commission",
+      "url": "https://www.sec.gov/newsroom/press-releases/2026-69-sec-announces-roundtable-preparations-24-hour-trading",
+      "subCategory": "金融监管"
+    },
+    {
+      "id": "policy-20260724-003",
+      "title": "白宫宣布扩大\"电价保护承诺\"倡议以支撑美国AI数据中心发展",
+      "summary": "白宫宣布\"电价保护承诺\"倡议扩容，已有超200家公用事业公司、数据中心开发商、合作社及州政府加入，要求大型数据中心运营商自行承担电力基础设施建设成本，覆盖美国80%电力供应，旨在推进AI发展同时避免消费者电价上涨。",
+      "publishedAt": "2026-07-23",
+      "source": "The White House",
+      "url": "https://www.whitehouse.gov/releases/2026/07/president-trumps-ratepayer-protection-pledge-secures-american-ai-dominance-protects-consumers/",
+      "subCategory": "AI监管"
+    },
+    {
+      "id": "policy-20260724-005",
+      "title": "欧盟委员会因违反《数字市场法案》对谷歌处以8.9亿欧元罚款",
+      "summary": "欧盟委员会认定谷歌在Google搜索中偏袒自身购物、酒店、交通等服务，以及在Google Play限制开发者引导用户至更便宜的第三方支付渠道，两项违规分别处以4.6亿欧元和4.3亿欧元罚款，要求谷歌60天内整改，否则面临最高其全球营业额5%的按日罚款。",
+      "publishedAt": "2026-07-23",
+      "source": "European Commission",
+      "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1670",
+      "subCategory": "反垄断"
+    },
+    {
+      "id": "policy-20260724-103",
+      "title": "市场监管总局集中纠治不当实施信用评价设置招标投标区域壁垒卡点堵点问题",
+      "summary": "市场监管总局通报全国统一大市场建设专项行动成果，纠治部分地区以本地企业业绩、获奖情况设置信用评价门槛、抬高外地企业招投标成本等地方保护问题，推动政策修订。",
+      "publishedAt": "2026-07-23",
+      "source": "国家市场监督管理总局",
+      "url": "https://www.samr.gov.cn/xw/zj/art/2026/art_b1c926fee166451baec164880c36871c.html",
+      "subCategory": "产业政策"
+    },
+    {
+      "id": "policy-20260724-105",
+      "title": "关于做好新修改注册会计师法贯彻实施工作的通知",
+      "summary": "财政部印发通知部署新修改《注册会计师法》贯彻实施工作，要求加强党的领导、完善监管措施、加大责任追究力度，推动地方修订配套制度并加强部门协同监管机制建设。",
+      "publishedAt": "2026-07-23",
+      "source": "中华人民共和国财政部",
+      "url": "http://kjs.mof.gov.cn/gongzuotongzhi/202607/t20260722_3994001.htm",
+      "subCategory": "金融监管"
+    },
+    {
+      "id": "policy-20260724-102",
+      "title": "市场监管总局部署开展企业海外反垄断合规能力提升专项行动",
+      "summary": "市场监管总局部署企业海外反垄断合规能力提升专项行动，聚焦海外投资、跨境并购、产品出口等场景，推动修订合规指引并鼓励企业自查自纠，力争一年内合规能力明显提升。",
+      "publishedAt": "2026-07-23T17:30:00+08:00",
+      "source": "国家市场监督管理总局",
+      "url": "https://www.samr.gov.cn/xw/zj/art/2026/art_ae54281cd83e45eca57b802fb71c06b2.html",
+      "subCategory": "反垄断"
+    },
+    {
+      "id": "policy-20260724-101",
+      "title": "《中医药振兴发展\"十五五\"规划》发布",
+      "summary": "国家中医药局、国家发展改革委联合印发《中医药振兴发展\"十五五\"规划》，提出到2030年建成覆盖全民和全生命周期的中医药服务体系，实现人人享有中医药服务。",
+      "publishedAt": "2026-07-23T11:13:00+08:00",
+      "source": "中国新闻网",
+      "url": "https://www.chinanews.com.cn/gn/2026/07-23/10664808.shtml",
+      "subCategory": "产业政策"
+    },
+    {
+      "title": "国新办发布会聚焦\"十五五\"时期海关现代化新局面",
+      "summary": "国务院新闻办公室7月22日举行\"开局起步'十五五'\"系列主题新闻发布会，海关总署署长孙梅君介绍海关工作现代化助力\"十五五\"高质量开局起步有关情况。上半年我国货物贸易进出口总值超25万亿元，同比增长16.9%，出口增长13.4%，进口增长22.1%。",
+      "publishedAt": "2026-07-23T10:35:40+08:00",
+      "source": "中国新闻网",
+      "url": "https://www.chinanews.com.cn/gn/2026/07-23/10664807.shtml",
+      "subCategory": "跨境贸易",
+      "id": "policy-20260723-302"
+    },
+    {
+      "title": "中国证监会：持续提升外资参与资本市场的便利度",
+      "summary": "证监会主席吴清7月21日在北京会见加拿大养老基金投资公司总裁兼首席执行官格雷厄姆，表示证监会将坚决维护资本市场平稳健康运行，持续提升外资参与资本市场的便利度，欢迎包括加拿大养老基金在内的国际机构投资者扩大对华投资。",
+      "publishedAt": "2026-07-23T09:49:00+08:00",
+      "source": "证券日报（中国新闻网转载）",
+      "url": "https://www.chinanews.com.cn/cj/2026/07-23/10664763.shtml",
+      "subCategory": "金融监管",
+      "id": "policy-20260723-303"
+    },
+    {
+      "id": "policy-20260722-107",
+      "title": "特朗普宣布两年后对仿制药征收100%关税，目的是推动仿制药生产回流美国",
+      "summary": "美国总统特朗普宣布将从两年后起对进口仿制药征收100%关税，旨在推动仿制药生产回流美国本土，政策具体覆盖范围与实施细则尚待明确。",
+      "publishedAt": "2026-07-22T23:56:25+08:00",
+      "source": "每日经济新闻",
+      "url": "https://www.nbd.com.cn/articles/2026-07-22/4498393.html",
+      "subCategory": "海外政策"
+    },
+    {
+      "id": "policy-20260722-106",
+      "title": "商务部新闻发言人就法国\"反超快时尚\"法有关问题答记者问",
+      "summary": "商务部新闻发言人就法国\"反超快时尚\"立法表态，认为该法案针对希音、Temu、速卖通等中国跨境电商平台带有歧视性，违反世贸组织非歧视原则、构成贸易壁垒，将密切关注实施情况，如中国企业合法权益受损将采取必要反制措施。",
+      "publishedAt": "2026-07-22T18:20:00+08:00",
+      "source": "中华人民共和国商务部",
+      "url": "https://www.mofcom.gov.cn/xwfb/xwfyrth/art/2026/art_dbdb3559cc13439ba6236840473deed6.html",
+      "subCategory": "跨境贸易"
+    },
+    {
+      "title": "全国市场监管数字化试验区建设经验交流现场推进会在浙江杭州召开",
+      "summary": "市场监管总局与浙江省有关部门在杭州召开现场推进会，总结北京、上海、浙江三个市场监管数字化试验区建设经验，提出统筹数字化与经济发展目标、用好数据和新技术、央地协同、健全制度机制四方面重点工作。",
+      "publishedAt": "2026-07-22T15:30:00+08:00",
+      "source": "国家市场监督管理总局",
+      "url": "https://www.samr.gov.cn/xw/zj/art/2026/art_8fd3a1f2fb854d098f65ce3ec4a92927.html",
+      "subCategory": "数字经济",
+      "id": "policy-20260723-202"
+    },
+    {
+      "id": "policy-20260722-105",
+      "title": "商务部新闻发言人就欧委会对全球速卖通罚款答记者问",
+      "summary": "商务部新闻发言人就欧盟委员会对全球速卖通处以5.5亿欧元罚款表示强烈不满，指出欧方以平台监管为由对中国跨境电商企业设置数字壁垒，中方将支持相关企业依法维权、采取必要保护措施。",
+      "publishedAt": "2026-07-22T14:22:00+08:00",
+      "source": "中华人民共和国商务部",
+      "url": "https://www.mofcom.gov.cn/xwfb/xwfyrth/art/2026/art_1ab4fcd824e74325940a1948a2d61a64.html",
+      "subCategory": "跨境贸易"
+    },
+    {
+      "id": "policy-20260722-103",
+      "title": "推动涉民营经济案件精准办理 一批典型案例发布",
+      "summary": "国家发展改革委与最高人民检察院联合发布贯彻实施《民营经济促进法》第二批10件典型案例，涉及惩治侵害民企权益犯罪、监督纠正违规执法、协助企业挽回损失及平等保护等方面。",
+      "publishedAt": "2026-07-22T12:24:23+08:00",
+      "source": "中国新闻网",
+      "url": "https://www.chinanews.com.cn/gn/2026/07-22/10664175.shtml",
+      "subCategory": "产业政策"
+    },
+    {
+      "id": "policy-20260722-104",
+      "title": "国家能源局发布2026年1-6月份全国电力统计数据",
+      "summary": "国家能源局公布上半年电力统计，截至6月底全国发电装机总容量40.4亿千瓦，同比增长10.8%，其中太阳能装机12.7亿千瓦、风电装机6.8亿千瓦，同比分别增长15.8%和18.5%。",
+      "publishedAt": "2026-07-22",
+      "source": "国家能源局",
+      "url": "https://www.nea.gov.cn/20260722/3b678308556b4df0a574537b59a28731/c.html",
+      "subCategory": "新能源政策"
+    },
+    {
+      "title": "工业和信息化部办公厅关于组织开展国家级零碳工厂建设工作的通知",
+      "summary": "工信部办公厅印发通知，组织开展国家级零碳工厂和零碳算力设施建设，要求申报企业年综合能耗不低于1000吨标准煤，算力设施不低于3000标准机架，2030年前单位能耗碳排放不超过0.2吨CO2/吨标煤，非化石能源消费占比不低于95%，申报截止8月15日。",
+      "publishedAt": "2026-07-22",
+      "source": "工业和信息化部",
+      "url": "https://www.ncsti.gov.cn/kjdt/tzgg/202607/t20260722_251729.html",
+      "subCategory": "产业政策",
+      "id": "policy-20260723-201"
+    },
+    {
+      "title": "吴清主席会见加拿大养老基金投资公司总裁兼首席执行官格雷厄姆",
+      "summary": "证监会主席吴清会见加拿大养老基金投资公司总裁兼首席执行官格雷厄姆，介绍中国资本市场上半年运行情况，欢迎境外机构投资者加大对华投资；格雷厄姆表示看好中国市场，愿寻求价值投资机会。",
+      "publishedAt": "2026-07-22",
+      "source": "中国证券监督管理委员会",
+      "url": "https://www.csrc.gov.cn/csrc/c106311/c7646825/content.shtml",
+      "subCategory": "金融监管",
+      "id": "policy-20260723-203"
     }
   ]
 }
