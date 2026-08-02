@@ -1,1 +1,234 @@
-REPLACED_BELOW
+{
+  "$schema": "./schema.json",
+  "slug": "policy",
+  "title": "政策信息",
+  "description": "国家与地方政策、监管动态、产业扶持与合规要求。",
+  "updatedAt": "2026-08-03T01:00:00+08:00",
+  "items": [
+    {
+      "id": "policy-20260802-001",
+      "title": "商务部新闻发言人就美国将中国企业列入所谓涉疆法案实体清单答记者问",
+      "summary": "商务部新闻发言人8月1日表示，美国国土安全部7月31日将40余家中国企业列入所谓涉疆法案实体清单。发言人称此举缺乏事实依据，属于经济胁迫，损害企业合法权益，扰乱全球供应链稳定，并敦促美方停止打压中国企业。",
+      "publishedAt": "2026-08-01T09:15:00+08:00",
+      "source": "中华人民共和国商务部",
+      "url": "http://www.mofcom.gov.cn/xwfb/xwfyrth/art/2026/art_97e8026ea5e745ccb0cf5e87294cd009.html",
+      "subCategory": "跨境贸易"
+    },
+    {
+      "title": "证监会出手，多家券商被采取监管措施，更有两券商被立案",
+      "summary": "中国证监会7月31日对6家券商作出处罚：红塔证券、世纪证券、广发证券因质控核查不到位被出具警示函；永兴证券、国融证券、国元证券被责令整改承销保荐问题；湘财证券、国盛证券因涉嫌违反账户实名制被立案调查。",
+      "publishedAt": "2026-07-31T23:08:00+08:00",
+      "source": "新浪财经",
+      "url": "https://finance.sina.com.cn/jjxw/2026-07-31/doc-iniktkau9297339.shtml",
+      "subCategory": "金融监管",
+      "id": "policy-20260802-101"
+    },
+    {
+      "id": "policy-20260801-a004",
+      "title": "三大运营商规范互联网售卡 8月1日起第三方渠道停止办理",
+      "summary": "中国电信、移动、联通联合宣布规范互联网售卡，自2026年8月1日起第三方互联网渠道停止办理电话卡业务，用户仅可通过运营商官方App和官网购买，原因是不法商家冒用运营商名义违规收集用户敏感个人信息。",
+      "publishedAt": "2026-07-31T22:50:00+08:00",
+      "source": "新浪财经",
+      "url": "https://finance.sina.com.cn/stock/estate/integration/2026-07-31/doc-iniktkcc1169465.shtml",
+      "subCategory": "数据安全"
+    },
+    {
+      "id": "policy-20260731-m007",
+      "title": "欧盟指控 Temu 未配合调查，最高可处以年营收 1% 罚款",
+      "summary": "欧盟委员会指控拼多多旗下Temu在2025年12月的突袭检查中未配合调查、拒绝提供相关信息资料，根据《外国补贴条例》Temu面临最高年营业额1%的罚款，Temu否认指控并称已充分配合。",
+      "publishedAt": "2026-07-31T20:52:38+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/984/374.htm",
+      "subCategory": "反垄断"
+    },
+    {
+      "id": "policy-20260801-r004",
+      "title": "四部门发文健全金融机构治理 推动金融高质量发展",
+      "summary": "金融监管总局、人民银行、证监会、财政部联合印发实施意见，提出9方面22条举措健全金融机构治理，目标到2029年基本形成权责清晰、约束有效的治理机制，做好科技、绿色、普惠等五篇文章。",
+      "publishedAt": "2026-07-31T20:12:52+08:00",
+      "source": "新华社",
+      "url": "https://www.news.cn/20260731/94a3c7b9e92349d9a1b050ebf4d7848a/c.html",
+      "subCategory": "金融监管"
+    },
+    {
+      "id": "policy-20260801-a001",
+      "title": "To Facilitate Positive Adjustment to Competition from Imports of Quartz Surface Products",
+      "summary": "特朗普签署公告，对石英台面产品进口设立为期四年的关税配额，此前国际贸易委员会裁定进口激增严重损害美国国内产业。措施自2026年8月15日生效，加拿大、墨西哥、澳大利亚、韩国等多个贸易伙伴获得豁免。",
+      "publishedAt": "2026-07-31",
+      "source": "The White House",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/07/to-facilitate-positive-adjustment-to-competition-from-imports-of-quartz-surface-products/",
+      "subCategory": "跨境贸易"
+    },
+    {
+      "id": "policy-20260801-a002",
+      "title": "Right to repair: New consumer rights for easy and attractive repairs",
+      "summary": "欧盟“维修权”新规自2026年7月31日起实施，要求制造商对洗衣机、手机、平板等可维修产品在合理时间和价格内提供维修服务，消费者选择维修可延长至少12个月法定质保期，预计带来48亿欧元经济增长。",
+      "publishedAt": "2026-07-31",
+      "source": "European Commission",
+      "url": "https://commission.europa.eu/news-and-media/news/right-repair-new-consumer-rights-easy-and-attractive-repairs-2026-07-31_en",
+      "subCategory": "海外政策"
+    },
+    {
+      "id": "policy-20260801-a003",
+      "title": "Commission starts enforcing AI Act rules and new transparency requirements on 2 August",
+      "summary": "欧盟委员会宣布自8月2日起执行《人工智能法案》透明度新规，聊天机器人须告知用户正在与AI交互，深度伪造内容须加注标签，委员会可对违规的通用人工智能模型处以最高1500万欧元或全球营业额3%的罚款。",
+      "publishedAt": "2026-07-31",
+      "source": "European Commission",
+      "url": "https://digital-strategy.ec.europa.eu/en/news/commission-starts-enforcing-ai-act-rules-and-new-transparency-requirements-2-august",
+      "subCategory": "AI监管"
+    },
+    {
+      "id": "policy-20260731-m001",
+      "title": "国家发展改革委召开上半年发展改革形势通报会",
+      "summary": "国家发展改革委召开2026年上半年工作通报会，指出上半年经济呈现\"动能向新、结构向优\"态势，就下半年重点工作提出八项要求，涉及推进\"十五五\"规划、扩大内需、加快现代化产业体系建设及推进\"东数西算\"工程和人工智能应用等。",
+      "publishedAt": "2026-07-31",
+      "source": "国家发展和改革委员会",
+      "url": "https://www.ndrc.gov.cn/xwdt/xwfb/202607/t20260731_1406802.html",
+      "subCategory": "产业政策"
+    },
+    {
+      "title": "2026年7月31日国内成品油价格调整",
+      "summary": "国家发展改革委发布通知，自7月31日24时起国内汽油、柴油价格每吨分别上调685元和655元，主要受近期国际原油价格总体上涨影响，并要求相关企业保障市场供应、地方加强价格监管。",
+      "publishedAt": "2026-07-31",
+      "source": "国家发展和改革委员会",
+      "url": "https://www.ndrc.gov.cn/xwdt/xwfb/202607/t20260731_1406853.html",
+      "subCategory": "产业政策",
+      "id": "policy-20260731-n001"
+    },
+    {
+      "id": "policy-20260731-m002",
+      "title": "中核集团：华龙一号 2.0 版示范项目获国务院常务会议核准",
+      "summary": "国务院常务会议核准四个核电项目共8台机组，其中6台采用华龙一号技术，浙江金七门核电二期和广东太平岭核电三期被确定为\"华龙一号2.0版示范项目\"，目前国内外已有10台华龙一号机组商运，另有37台核准在建。",
+      "publishedAt": "2026-07-31T19:58:31+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/984/367.htm",
+      "subCategory": "产业政策"
+    },
+    {
+      "id": "policy-20260801-r003",
+      "title": "8月1日起，一批国家标准将实施",
+      "summary": "自8月1日起，46项强制性国家标准和442项推荐性国家标准正式实施，涵盖煤炭开采及甲醛生产能耗限额、家用太阳能热水系统能效、脑机接口数据格式、光伏电站并网运行等领域。",
+      "publishedAt": "2026-07-31T19:37:36+08:00",
+      "source": "新华社",
+      "url": "https://www.news.cn/politics/20260731/b4873b5e832f4ce1b69b261bc65bdb52/c.html",
+      "subCategory": "产业政策"
+    },
+    {
+      "id": "policy-20260801-r002",
+      "title": "李强主持召开国务院常务会议",
+      "summary": "国务院常务会议研究部署下半年经济工作，审议通过住房公积金管理条例修改方案、扩大提取使用范围和覆盖面，决定废止3部环保行政法规、修改12部，并核准4个核电项目建设。",
+      "publishedAt": "2026-07-31T19:36:36+08:00",
+      "source": "新华社",
+      "url": "https://www.news.cn/politics/leaders/20260731/b798525008de4cceb13abc54e01002b2/c.html",
+      "subCategory": "产业政策"
+    },
+    {
+      "id": "policy-20260731-m003",
+      "title": "广电总局出台《微短剧发展管理办法》并将于 9 月 1 日起施行：AI 生成内容须添加标识，禁用诱导沉迷算法",
+      "summary": "国家广播电视总局发布微短剧专门规章，对单集少于20分钟的剧集进行分类管理，要求AI生成内容需标注提示，播出单位禁止使用诱导沉迷算法，建立总编辑负责制，办法自9月1日起施行。",
+      "publishedAt": "2026-07-31T17:54:11+08:00",
+      "source": "国家广播电视总局（IT之家）",
+      "url": "https://www.ithome.com/0/984/306.htm",
+      "subCategory": "AI监管"
+    },
+    {
+      "title": "国家外汇管理局发布《关于进一步完善国内外汇贷款外汇管理有关事项的通知》",
+      "summary": "国家外汇管理局7月31日发布通知，完善国内外汇贷款外汇管理，将于2026年10月1日起施行。通知明确国内外汇贷款实行专用账户管理，简化结售汇手续，允许出口贸易项下贷款直接转入经常项目账户，并强化事中事后监管。",
+      "publishedAt": "2026-07-31T16:44:00+08:00",
+      "source": "证券时报网",
+      "url": "https://www.stcn.com/article/detail/4052446.html",
+      "subCategory": "跨境贸易",
+      "id": "policy-20260731-b001"
+    },
+    {
+      "id": "policy-20260731-m005",
+      "title": "国家发改委：机构测算\"十五五\"时期算力网建设将新增直接投资 4 万亿元",
+      "summary": "国家发改委表示，\"十五五\"时期算力网建设将新增直接投资4万亿元，国产智能算力规模达去年同期的2.8倍，国产大模型全球下载量突破100亿次，相关行业保持30%以上高增长。",
+      "publishedAt": "2026-07-31T16:04:18+08:00",
+      "source": "国家发展和改革委员会（IT之家）",
+      "url": "https://www.ithome.com/0/984/230.htm",
+      "subCategory": "产业政策"
+    },
+    {
+      "id": "policy-20260801-r001",
+      "title": "商务部公告延长对原产于加拿大进口豌豆淀粉反倾销调查期限",
+      "summary": "商务部发布2026年第31号公告，因案情复杂，决定将原于2025年8月启动的对加拿大进口豌豆淀粉反倾销调查期限延长，新调查截止日期为2027年2月12日，依据反倾销条例第二十六条作出。",
+      "publishedAt": "2026-07-31T15:16:00+08:00",
+      "source": "中华人民共和国商务部",
+      "url": "https://www.mofcom.gov.cn/zcfb/blgg/gg/2026/art/2026/art_1afdd51b0d534208b1ac8a4614baa269.html",
+      "subCategory": "跨境贸易"
+    },
+    {
+      "id": "policy-20260731-m006",
+      "title": "财政部发文改进中央财政科研项目结余资金留用管理，剩余资金最长可留 7 年",
+      "summary": "财政部发布通知，对中央财政科研和基建项目结转结余资金管理进行改进，科研项目结余资金最长可留用7年（基础研究项目），普通科研项目为5年，未通过绩效评价的项目结余资金不得留用。",
+      "publishedAt": "2026-07-31T13:06:49+08:00",
+      "source": "财政部（IT之家）",
+      "url": "https://www.ithome.com/0/984/106.htm",
+      "subCategory": "金融监管"
+    },
+    {
+      "id": "policy-20260731-m004",
+      "title": "国家发改委：将加快《人工智能法》立法进程",
+      "summary": "国家发改委表示将加快《人工智能法》的立法进程，同时推进人工智能自主创新、应用推广和生态系统建设，国内企业已发布万亿级参数大模型，国产大模型全球下载量突破百亿次。",
+      "publishedAt": "2026-07-31T10:48:12+08:00",
+      "source": "国家发展和改革委员会（IT之家）",
+      "url": "https://www.ithome.com/0/983/974.htm",
+      "subCategory": "AI监管"
+    },
+    {
+      "id": "policy-20260731-003",
+      "title": "《工业绿色低碳发展\"十五五\"规划》发布",
+      "summary": "工业和信息化部发布《工业绿色低碳发展\"十五五\"规划》，提出坚持产业自身绿色发展并增强产业对全社会绿色转型的支撑作用，统筹推进产业结构与能源消费转型，加快电气化与可再生能源应用，建立涵盖区域碳评价、行业碳管控、企业碳管理、项目碳评估与产品碳足迹追踪的管理体系。",
+      "publishedAt": "2026-07-31T08:19:00+08:00",
+      "source": "36氪",
+      "url": "https://36kr.com/newsflashes/3918809800158857",
+      "subCategory": "产业政策"
+    },
+    {
+      "id": "policy-20260801-a001",
+      "title": "To Facilitate Positive Adjustment to Competition from Imports of Quartz Surface Products",
+      "summary": "特朗普签署公告，对石英台面产品进口设立为期四年的关税配额，此前国际贸易委员会裁定进口激增严重损害美国国内产业。措施自2026年8月15日生效，加拿大、墨西哥、澳大利亚、韩国等多个贸易伙伴获得豁免。",
+      "publishedAt": "2026-07-31",
+      "source": "The White House",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/07/to-facilitate-positive-adjustment-to-competition-from-imports-of-quartz-surface-products/",
+      "subCategory": "跨境贸易"
+    },
+    {
+      "id": "policy-20260801-a002",
+      "title": "Right to repair: New consumer rights for easy and attractive repairs",
+      "summary": "欧盟“维修权”新规自2026年7月31日起实施，要求制造商对洗衣机、手机、平板等可维修产品在合理时间和价格内提供维修服务，消费者选择维修可延长至少12个月法定质保期，预计带来48亿欧元经济增长。",
+      "publishedAt": "2026-07-31",
+      "source": "European Commission",
+      "url": "https://commission.europa.eu/news-and-media/news/right-repair-new-consumer-rights-easy-and-attractive-repairs-2026-07-31_en",
+      "subCategory": "海外政策"
+    },
+    {
+      "id": "policy-20260801-a003",
+      "title": "Commission starts enforcing AI Act rules and new transparency requirements on 2 August",
+      "summary": "欧盟委员会宣布自8月2日起执行《人工智能法案》透明度新规，聊天机器人须告知用户正在与AI交互，深度伪造内容须加注标签，委员会可对违规的通用人工智能模型处以最高1500万欧元或全球营业额3%的罚款。",
+      "publishedAt": "2026-07-31",
+      "source": "European Commission",
+      "url": "https://digital-strategy.ec.europa.eu/en/news/commission-starts-enforcing-ai-act-rules-and-new-transparency-requirements-2-august",
+      "subCategory": "AI监管"
+    },
+    {
+      "id": "policy-20260731-m001",
+      "title": "国家发展改革委召开上半年发展改革形势通报会",
+      "summary": "国家发展改革委召开2026年上半年工作通报会，指出上半年经济呈现\"动能向新、结构向优\"态势，就下半年重点工作提出八项要求，涉及推进\"十五五\"规划、扩大内需、加快现代化产业体系建设及推进\"东数西算\"工程和人工智能应用等。",
+      "publishedAt": "2026-07-31",
+      "source": "国家发展和改革委员会",
+      "url": "https://www.ndrc.gov.cn/xwdt/xwfb/202607/t20260731_1406802.html",
+      "subCategory": "产业政策"
+    },
+    {
+      "title": "2026年7月31日国内成品油价格调整",
+      "summary": "国家发展改革委发布通知，自7月31日24时起国内汽油、柴油价格每吨分别上调685元和655元，主要受近期国际原油价格总体上涨影响，并要求相关企业保障市场供应、地方加强价格监管。",
+      "publishedAt": "2026-07-31",
+      "source": "国家发展和改革委员会",
+      "url": "https://www.ndrc.gov.cn/xwdt/xwfb/202607/t20260731_1406853.html",
+      "subCategory": "产业政策",
+      "id": "policy-20260731-n001b"
+    }
+  ]
+}
