@@ -3,8 +3,98 @@
   "slug": "tech",
   "title": "科技新闻",
   "description": "前沿科技、互联网产品、芯片硬件、开源生态。",
-  "updatedAt": "2026-08-02T00:15:00+08:00",
+  "updatedAt": "2026-08-02T08:30:00+08:00",
   "items": [
+    {
+      "id": "tech-20260802-011",
+      "title": "宫本茂：GameCube 销量不佳，促使任天堂打造 Wii、DS",
+      "summary": "任天堂宫本茂透露，因GameCube销量不及预期，公司此后开发Wii与DS时着重吸引休闲及非核心玩家，Wii后来成为任天堂最畅销主机（直至被Switch超越），DS则是全球最畅销掌机。",
+      "publishedAt": "2026-08-02T08:27:00+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/984/659.htm",
+      "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260802-010",
+      "title": "我国实现“县县通千兆”“村村通宽带”后，有小区已通万兆光网",
+      "summary": "央视新闻报道，中国在实现“县县通千兆”“村村通宽带”基础上，已建成136个千兆到万兆升级的住宅小区、产业园区及工厂，正推进从“双千兆”向“双万兆”网络的升级。",
+      "publishedAt": "2026-08-02T08:25:24+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/984/658.htm",
+      "subCategory": "网络基础设施"
+    },
+    {
+      "id": "tech-20260802-009",
+      "title": "谷歌 Android 17 QPR1 Beta 8 预览版更新一览：修复 Pixel 手机指纹识别、扬声器杂音 Bug",
+      "summary": "谷歌向Pixel手机推送Android 17 QPR1 Beta 8预览版，修复媒体播放及通知时扬声器杂音、Pixel平板底座连接异常、NFC读取失败及指纹识别故障等问题，安全补丁仍为7月5日版本。",
+      "publishedAt": "2026-08-02T08:24:54+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/984/657.htm",
+      "subCategory": "操作系统"
+    },
+    {
+      "id": "tech-20260802-008",
+      "title": "Steam 2026 年 7 月软硬件调查报告发布：RTX 3060 仍居榜首，16GB 显存占比大涨",
+      "summary": "Valve发布2026年7月Steam硬件与软件调查报告，Windows 11占比达70.26%，NVIDIA显卡份额72.77%，RTX 3060仍居单卡榜首，16GB显存占比升至25.90%，首次超过8GB成为主流容量。",
+      "publishedAt": "2026-08-02T08:01:32+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/984/653.htm",
+      "subCategory": "芯片硬件"
+    },
+    {
+      "id": "tech-20260802-007",
+      "title": "最高涨价 200 欧元，微软 Xbox Series X|S 欧洲地区调价落地",
+      "summary": "微软自8月1日起上调Xbox Series X|S在欧洲及英国的售价，其中欧洲版1TB Series S涨价200欧元至599.99欧元，官方将原因归结为内存与存储元件供应链持续紧张。",
+      "publishedAt": "2026-08-02T07:52:51+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/984/652.htm",
+      "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260802-006",
+      "title": "真的要退出 Steam 平台？消息称微软 XBOX 拟重新评估 PC 战略",
+      "summary": "据Windows Central编辑Jez Corden透露，微软Xbox正重新评估PC市场策略，未来主机或有机会脱离Steam平台，但他强调这只是选项而非必然选择，因放弃第三方平台将损失可观的分成收入。",
+      "publishedAt": "2026-08-02T07:16:59+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/984/644.htm",
+      "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260802-005",
+      "title": "华为智选车产品总监彭磊谈享界 G9 设计思考，新车拥有三个物理按键操作区",
+      "summary": "华为智选车产品总监彭磊介绍享界G9设计思路，新车设置底盘、座舱、户外三个物理按键操作区，标配华为自研电机、四驱及800V高压增程，综合续航超1300公里，搭载896线激光雷达。",
+      "publishedAt": "2026-08-02T07:15:28+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/984/643.htm",
+      "subCategory": "智能汽车"
+    },
+    {
+      "id": "tech-20260802-004",
+      "title": "谷歌 Pixel 11 全系配置、售价曝光：含标准版、Pro、Pro XL 及 Pro Fold 折叠机型",
+      "summary": "据Android Headlines获得的资料，谷歌Pixel 11系列四款机型配置与售价曝光，均搭载Tensor G6芯片，起售价从899美元（标准版）到1899美元（Pro Fold折叠版）不等。",
+      "publishedAt": "2026-08-02T07:01:00+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/984/641.htm",
+      "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260802-003",
+      "title": "全球首个全光子时间晶体（PTC）制备技术诞生，有望催生超高速计算机、自适应通信以及全新激光器",
+      "summary": "法国多家研究机构宣布制备出全球首个全光子时间晶体，可在皮秒级时间尺度动态改变光学特性，相关成果发表于《自然》期刊，未来有望应用于超高速计算机、自适应通信及新型激光器。",
+      "publishedAt": "2026-08-02T06:57:30+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/984/640.htm",
+      "subCategory": "芯片硬件"
+    },
+    {
+      "id": "tech-20260802-002",
+      "title": "Statcounter：Linux 在北美桌面市场份额首次突破 10%",
+      "summary": "Statcounter数据显示，2026年7月Linux在北美桌面操作系统访问份额达10.65%，首次突破10%，但该数据统计的是网页访问占比而非实际装机量，涨幅或与统计口径调整有关。",
+      "publishedAt": "2026-08-02T06:51:51+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/984/639.htm",
+      "subCategory": "操作系统"
+    },
     {
       "title": "半导体传奇人物、力积电董事长黄崇仁因心肺衰竭逝世：享年 76 岁，公司曾负债 1200 亿逆风翻盘",
       "summary": "力积电董事长黄崇仁于7月31日因心肺衰竭在睡梦中逝世，享年76岁。他1994年创立力积电，曾带领公司走出1200亿元新台币负债困境并转型为晶圆代工企业，公司称副董事长谢再居将依法代理董事长职务。",
@@ -49,6 +139,15 @@
       "url": "https://www.ithome.com/0/984/631.htm",
       "subCategory": "智能汽车",
       "id": "tech-20260801-b004"
+    },
+    {
+      "id": "tech-20260802-001",
+      "title": "文石 Leaf5+ 墨水屏电纸书新增“野风蓝”配色，零售价 1899 元",
+      "summary": "文石Leaf5+墨水屏电纸书新增“野风蓝”配色，8月4日20点开售，零售价1899元，配备7英寸300PPI Carta 1300屏幕，支持手写笔，搭载高通八核处理器与4GB内存。",
+      "publishedAt": "2026-08-01T21:22:04+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/984/622.htm",
+      "subCategory": "消费电子"
     },
     {
       "title": "中微公司董事长尹志尧：到 2035 年在规模、产品竞争力上成为全球第一梯队的半导体设备公司",
@@ -402,6 +501,33 @@
       "subCategory": "消费电子"
     },
     {
+      "id": "tech-20260801-a011",
+      "title": "Enterprise teams model policy targeting in public preview",
+      "summary": "GitHub推出企业团队模型策略定向公开预览功能，允许管理员在团队级别而非仅组织级别管理AI模型访问权限，多数企业客户将于8月3日起可开启该预览。",
+      "publishedAt": "2026-07-31",
+      "source": "GitHub Changelog",
+      "url": "https://github.blog/changelog/2026-07-31-enterprise-teams-model-policy-targeting-in-public-preview",
+      "subCategory": "开发者工具"
+    },
+    {
+      "id": "tech-20260801-a012",
+      "title": "Restricting npm bypass-2FA granular access tokens",
+      "summary": "GitHub限制npm可绕过双重验证的细粒度访问令牌执行创建令牌、修改包权限等敏感操作，要求改为交互式2FA验证，以防止令牌泄露导致的账户被盗用。",
+      "publishedAt": "2026-07-31",
+      "source": "GitHub Changelog",
+      "url": "https://github.blog/changelog/2026-07-31-restricting-npm-bypass-2fa-granular-access-tokens",
+      "subCategory": "开发者工具"
+    },
+    {
+      "title": "DeepSeek-V4-Flash Update",
+      "summary": "DeepSeek-V4-Flash API进入公开测试，Agent能力显著增强，Terminal Bench 2.1得分82.7、SWE-bench得分54.4，基准表现超越此前V4-Pro-Preview版本，架构不变但经过重新训练。",
+      "publishedAt": "2026-07-31",
+      "source": "DeepSeek API Docs",
+      "url": "https://api-docs.deepseek.com/updates/",
+      "subCategory": "开发者工具",
+      "id": "tech-20260731-n006"
+    },
+    {
       "title": "宇树科技，8月10日启动申购！A股人形机器人第一股来了",
       "summary": "宇树科技科创板IPO获中国证监会批复，8月10日启动申购，成为A股人形机器人第一股，本次发行约4045万股，占发行后总股本10%，2025年营收16.99亿元、净利润5.9亿元，预计2026年上半年营收10.52亿至11.28亿元。",
       "publishedAt": "2026-07-31T07:37:00+08:00",
@@ -454,33 +580,6 @@
       "url": "https://appleinsider.com/articles/26/07/30/apple-hits-15-billion-subscription-milestone-still-falls-short-of-wall-street-wants",
       "subCategory": "互联网产品",
       "id": "tech-20260731-n009"
-    },
-    {
-      "id": "tech-20260801-a011",
-      "title": "Enterprise teams model policy targeting in public preview",
-      "summary": "GitHub推出企业团队模型策略定向公开预览功能，允许管理员在团队级别而非仅组织级别管理AI模型访问权限，多数企业客户将于8月3日起可开启该预览。",
-      "publishedAt": "2026-07-31",
-      "source": "GitHub Changelog",
-      "url": "https://github.blog/changelog/2026-07-31-enterprise-teams-model-policy-targeting-in-public-preview",
-      "subCategory": "开发者工具"
-    },
-    {
-      "id": "tech-20260801-a012",
-      "title": "Restricting npm bypass-2FA granular access tokens",
-      "summary": "GitHub限制npm可绕过双重验证的细粒度访问令牌执行创建令牌、修改包权限等敏感操作，要求改为交互式2FA验证，以防止令牌泄露导致的账户被盗用。",
-      "publishedAt": "2026-07-31",
-      "source": "GitHub Changelog",
-      "url": "https://github.blog/changelog/2026-07-31-restricting-npm-bypass-2fa-granular-access-tokens",
-      "subCategory": "开发者工具"
-    },
-    {
-      "title": "DeepSeek-V4-Flash Update",
-      "summary": "DeepSeek-V4-Flash API进入公开测试，Agent能力显著增强，Terminal Bench 2.1得分82.7、SWE-bench得分54.4，基准表现超越此前V4-Pro-Preview版本，架构不变但经过重新训练。",
-      "publishedAt": "2026-07-31",
-      "source": "DeepSeek API Docs",
-      "url": "https://api-docs.deepseek.com/updates/",
-      "subCategory": "开发者工具",
-      "id": "tech-20260731-n006"
     },
     {
       "title": "Microsoft Teams vishing attacks lead to Chaos ransomware attacks",
@@ -625,105 +724,6 @@
       "source": "IT之家",
       "url": "https://www.ithome.com/0/983/644.htm",
       "subCategory": "航空航天"
-    },
-    {
-      "id": "tech-20260730-017",
-      "title": "特斯拉全球第1000万辆电动车下线",
-      "summary": "特斯拉宣布第1000万辆电动车在全球下线，距去年12月达成第900万辆仅过去七个月。上海超级工厂贡献了特斯拉全球近一半产量，其自身产量截至去年12月已达400万辆，今年二季度特斯拉产量45.18万辆、交付48.01万辆。",
-      "publishedAt": "2026-07-30T15:14:34+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/983/640.htm",
-      "subCategory": "智能汽车"
-    },
-    {
-      "title": "华为 MatePad Pro 2026 旗舰平板官宣 8 月 5 日亮相",
-      "summary": "华为宣布MatePad Pro 2026将于8月5日全场景新品发布会亮相，此前曝光信息显示其配备11.95/12英寸OLED屏、66W快充、T93系列芯片，并支持北斗短报文卫星通信。",
-      "publishedAt": "2026-07-30T08:33:31+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/983/391.htm",
-      "subCategory": "消费电子",
-      "id": "tech-20260730-001"
-    },
-    {
-      "title": "研扬发布 MIX-Q870A1 主板：AI 算力最高 36 TOPS，配双网口",
-      "summary": "研扬科技发布Mini-ITX主板MIX-Q870A1，支持英特尔酷睿Ultra 200S处理器（最高65W），借助NPU与Xe LPG核显实现最高36 TOPS算力，并配备双M.2插槽及1GbE/2.5GbE双网口。",
-      "publishedAt": "2026-07-30T08:32:59+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/983/389.htm",
-      "subCategory": "芯片硬件",
-      "id": "tech-20260730-002"
-    },
-    {
-      "title": "马自达确认下一代 MX-5 将电动化，更高端的跑车也在筹备中",
-      "summary": "马自达CEO宣布下一代MX-5（代号NE）将从研发阶段起纳入电动化方案，目标整备质量控制在1000-1200公斤以内，预计2028年前后推出，同时公司正筹备一款更高端的旗舰跑车。",
-      "publishedAt": "2026-07-30T08:29:40+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/983/388.htm",
-      "subCategory": "智能汽车",
-      "id": "tech-20260730-009"
-    },
-    {
-      "title": "文昌航天发射场实现第 50 次发射，今年还将执行嫦娥七号等重大任务",
-      "summary": "中国7月29日在文昌航天发射场用长征七号甲运载火箭成功发射天链三号01星，这是该发射场建成以来的第50次发射，官方称今年还将执行嫦娥七号等任务。",
-      "publishedAt": "2026-07-30T08:22:54+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/983/386.htm",
-      "subCategory": "航空航天",
-      "id": "tech-20260730-003"
-    },
-    {
-      "title": "谷歌 Waymo 展示网约车 Ojai：整合 Gemini AI，三屏协同显示",
-      "summary": "Waymo展示旗下网约车Ojai座舱升级，引入车内AI助手并配备三块协同显示屏，可根据乘客座位调整内容，另设“静音模式”仅显示行程信息，该AI助手不参与车辆驾驶决策。",
-      "publishedAt": "2026-07-30T07:59:21+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/983/381.htm",
-      "subCategory": "智能汽车",
-      "id": "tech-20260730-012"
-    },
-    {
-      "title": "MINI 全新硬派越野版 Countryman 启动测试，今年 10 月首秀",
-      "summary": "MINI正在美国科罗拉多落基山脉测试一款越野版Countryman，车身离地间隙明显提升，配黑色轮毂与全地形轮胎，预计今年10月首秀，随后将参加2026年Rebelle女子越野拉力赛。",
-      "publishedAt": "2026-07-30T07:49:12+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/983/379.htm",
-      "subCategory": "智能汽车",
-      "id": "tech-20260730-010"
-    },
-    {
-      "title": "Russian hackers exploit Exchange OWA zero-day for long-term mailbox access",
-      "summary": "研究机构Proofpoint发现俄罗斯背景黑客组织Laundry Bear利用微软Exchange OWA跨站脚本零日漏洞CVE-2026-42897投放OWAReaper后门，针对欧美政府、电信、金融等机构邮箱实施长期隐蔽访问。",
-      "publishedAt": "2026-07-29T19:44:00-04:00",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/russian-hackers-exploit-exchange-owa-zero-day-for-long-term-mailbox-access/",
-      "subCategory": "安全漏洞",
-      "id": "tech-20260730-013"
-    },
-    {
-      "title": "马斯克 SpaceX 再获 16 亿美元订单，由猎鹰 9 号执行美国太空军 18 次发射任务",
-      "summary": "SpaceX获得美国太空军价值16亿美元合同，将使用猎鹰9号火箭执行18次发射任务，部署用于空中目标探测与追踪的军用卫星，使其今年获得的五角大楼合同总额至少达70亿美元。",
-      "publishedAt": "2026-07-30T07:34:29+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/983/375.htm",
-      "subCategory": "航空航天",
-      "id": "tech-20260730-004"
-    },
-    {
-      "title": "三星首款耳夹式耳机 Galaxy Buds On 示意图曝光",
-      "summary": "三星应用程序中曝光其首款耳夹式耳机设计图，暂命名Galaxy Buds On或Buds Able，采用圆形模块与弧形支架挂耳结构，充电盒配LED指示灯，推测为开放式耳机而非骨传导产品。",
-      "publishedAt": "2026-07-30T07:28:32+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/983/373.htm",
-      "subCategory": "消费电子",
-      "id": "tech-20260730-011"
-    },
-    {
-      "title": "奔驰“最小 SUV”迎来电动化换代，全新 GLA 正式首秀",
-      "summary": "奔驰发布换代GLA紧凑型SUV，作为2028年款车型提供纯电与混动版本，纯电版搭载85.0kWh电池，GLA 250+功率200kW，GLA 350 4MATIC零百加速5.3秒，WLTP续航最高657公里。",
-      "publishedAt": "2026-07-30T07:26:08+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/983/370.htm",
-      "subCategory": "智能汽车",
-      "id": "tech-20260730-005"
     }
   ]
 }

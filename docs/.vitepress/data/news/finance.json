@@ -3,8 +3,80 @@
   "slug": "finance",
   "title": "投资与财经",
   "description": "宏观经济、A 股 / 港股 / 美股、一级市场融资、行业研报观点。",
-  "updatedAt": "2026-08-02T00:15:00+08:00",
+  "updatedAt": "2026-08-02T08:30:00+08:00",
   "items": [
+    {
+      "id": "finance-20260802-011",
+      "title": "港股7月领涨全球！两大资金爆买 港股后市仍被看好",
+      "summary": "恒生指数7月累计上涨13.13%，93只成份股中88只上涨，16只涨幅超20%；南向资金7月净流入628.68亿港元，为年内第三高月度水平，外资对离岸中国股票单周净流入2.88亿美元。",
+      "publishedAt": "2026-08-02T08:19:00+08:00",
+      "source": "东方财富网",
+      "url": "https://finance.eastmoney.com/a/202608023829088973.html",
+      "subCategory": "港股"
+    },
+    {
+      "id": "finance-20260802-012",
+      "title": "美计划本周末发动猛烈轰炸 伊朗：全面反击方案已就绪",
+      "summary": "美国国务院8月1日向中东地区美国公民发布安全警告，建议做好撤离准备；据报美以正筹划针对伊朗能源设施的最猛烈轰炸行动，特朗普尚未作出最终授权。伊朗方面称已制定全面反击方案，随时可对以色列及美方中东能源设施发起打击。",
+      "publishedAt": "2026-08-02T07:29:00+08:00",
+      "source": "财联社",
+      "url": "https://www.cls.cn/detail/2443408",
+      "subCategory": "风险事件"
+    },
+    {
+      "id": "finance-20260802-009",
+      "title": "疯狂的杠杆！120万人爆仓",
+      "summary": "韩国约120万名投资者因7月市场剧烈波动中过度使用融资杠杆而遭强制平仓，SK海力士等科技股单日跌幅一度超20%，使用5倍杠杆的投资者本金归零，部分投资者仍需向券商偿还欠款。",
+      "publishedAt": "2026-08-02T07:26:00+08:00",
+      "source": "东方财富网",
+      "url": "https://finance.eastmoney.com/a/202608023829086771.html",
+      "subCategory": "风险事件"
+    },
+    {
+      "id": "finance-20260802-010",
+      "title": "加杠杆遭爆仓！00后华尔街AI股神致歉：再也不碰了",
+      "summary": "25岁对冲基金经理Leopold Aschenbrenner因过度加杠杆致其Situational Awareness基金7月遭遇流动性紧张及做空压力，7月30日被迫向Citadel出售大部分持仓，基金当月回撤67%，其致信投资者道歉并承诺此后不再使用杠杆。",
+      "publishedAt": "2026-08-02T04:33:00+08:00",
+      "source": "东方财富网",
+      "url": "https://finance.eastmoney.com/a/202608013829069881.html",
+      "subCategory": "风险事件"
+    },
+    {
+      "id": "finance-20260802-007",
+      "title": "近期股价大涨超46%！电解铝龙头宏桥控股公告 拟定增募资不超120亿元",
+      "summary": "宏桥控股7月31日公告拟通过定向增发募资不超120亿元，用于风电、光伏及铝深加工项目并偿还银行贷款，公司股价较7月9日累计上涨46%至20.77元，总市值约2707亿元。",
+      "publishedAt": "2026-08-02T01:30:00+08:00",
+      "source": "东方财富网",
+      "url": "https://finance.eastmoney.com/a/202608013829070754.html",
+      "subCategory": "A股"
+    },
+    {
+      "id": "finance-20260802-008",
+      "title": "存储芯片利好来了！韩国7月出口继续保持强劲增长",
+      "summary": "韩国7月工作日调整后出口同比增长69.6%，贸易顺差303亿美元，其中半导体出口同比激增178.8%，计算机产品出口增长404%，对华出口增长96%，对美出口增长69%，AI相关需求为主要推动因素。",
+      "publishedAt": "2026-08-02T00:35:00+08:00",
+      "source": "东方财富网",
+      "url": "https://finance.eastmoney.com/a/202608013829070664.html",
+      "subCategory": "宏观经济"
+    },
+    {
+      "id": "finance-20260802-006",
+      "title": "持续提振信心，多家上市公司7月密集增持回购",
+      "summary": "据东方财富Choice数据，7月共249家A股公司披露回购计划，合计上限达6314亿元，7月31日单日超10家公司披露回购或增持，其中宁德时代公告拟以200亿至400亿元回购股份并注销，为A股史上最大规模回购。",
+      "publishedAt": "2026-08-01T20:45:00+08:00",
+      "source": "东方财富网",
+      "url": "https://finance.eastmoney.com/a/202608013829056664.html",
+      "subCategory": "A股"
+    },
+    {
+      "id": "finance-20260802-005",
+      "title": "卡塔尔LNG船霍尔木兹海峡遭袭失控，中东局势骤然升温",
+      "summary": "载有卡塔尔货物的LNG船Gaslog Shanghai于7月31日在阿曼东北方向约11海里处遭不明来源武器击中，机舱受损失去动力控制，无人员伤亡报告；事发后WTI原油一度上涨逾3%至86美元。",
+      "publishedAt": "2026-08-01T19:48:00+08:00",
+      "source": "华尔街见闻",
+      "url": "https://wallstreetcn.com/articles/3778496",
+      "subCategory": "风险事件"
+    },
     {
       "title": "8月金股曝光！13股获多次推荐 多家机构看好药明康德",
       "summary": "东方财富网8月1日报道，15家券商合计推出91只8月金股（已去重），13只个股获2家以上机构重复推荐。药明康德获7家券商推荐居首，宁德时代获6家推荐，中芯国际、紫金矿业各获3家以上机构推荐。",
@@ -13,6 +85,42 @@
       "url": "https://finance.eastmoney.com/a/202608013829044048.html",
       "subCategory": "A股",
       "id": "finance-20260801-b001"
+    },
+    {
+      "id": "finance-20260802-004",
+      "title": "高盛：7月砸穿拥挤交易，美股牛市没断但更难做了",
+      "summary": "高盛策略师Tony Pasquariello指出，7月标普500指数波动仅3.5%，但AI及动量类拥挤交易遭强制平仓，高盛动量组合单日波动达10%，韩国杠杆ETF资产规模数周内从530亿美元降至150亿美元。",
+      "publishedAt": "2026-08-01T18:30:00+08:00",
+      "source": "华尔街见闻",
+      "url": "https://wallstreetcn.com/articles/3778494",
+      "subCategory": "美股"
+    },
+    {
+      "id": "finance-20260802-003",
+      "title": "LV母公司上半年赚了386亿欧元，爱马仕利润率41%",
+      "summary": "LVMH集团公布半年报，上半年盈利386亿欧元，钟表珠宝业务增长9%，但占集团营收47%的时装皮具业务下滑1%；爱马仕上半年利润率达41%，其股价此前于7月29日单日重挫11%，创15年最大跌幅。",
+      "publishedAt": "2026-08-01T18:25:25+08:00",
+      "source": "第一财经",
+      "url": "https://www.yicai.com/news/103301745.html",
+      "subCategory": "公司财报"
+    },
+    {
+      "id": "finance-20260802-002",
+      "title": "蔡崇信离婚涉及百亿美元资产，双方将维持稳定的专业合作",
+      "summary": "阿里巴巴集团董事长蔡崇信与妻子吴明华结束近30年婚姻，双方持有的约2.6亿股阿里股份及布鲁克林篮网等资产不涉及核心股权分割，蔡崇信继续担任阿里董事长，双方称将维持稳定专业合作。",
+      "publishedAt": "2026-08-01T17:02:29+08:00",
+      "source": "第一财经",
+      "url": "https://www.yicai.com/news/103301709.html",
+      "subCategory": "风险事件"
+    },
+    {
+      "id": "finance-20260802-001",
+      "title": "俄对乌发动大规模袭击，摧毁美国公司无人机工厂",
+      "summary": "俄罗斯7月31日夜间至8月1日凌晨对基辅实施大规模打击，一枚导弹击中由美国特拉华州注册企业Terminal Autonomy所有的无人机工厂，据报为俄首次直接打击美方防务相关企业，基辅袭击致9人死亡、28人受伤。",
+      "publishedAt": "2026-08-01T16:24:00+08:00",
+      "source": "华尔街见闻",
+      "url": "https://wallstreetcn.com/articles/3778492",
+      "subCategory": "风险事件"
     },
     {
       "id": "finance-20260801-r003",
@@ -195,6 +303,24 @@
       "subCategory": "公司财报"
     },
     {
+      "id": "finance-20260801-a011",
+      "title": "慧荣科技2026年第二季度收入持续创历史新高",
+      "summary": "慧荣科技第二季度营收4.51亿美元，环比增长32%、同比增长127%，毛利率50.2%，公司将第三季度营收指引上调，预计全年营收同比增长超100%。",
+      "publishedAt": "2026-07-31",
+      "source": "Silicon Motion Technology Corporation",
+      "url": "https://siliconmotiontechnologycorporation.gcs-web.com/news-releases/news-release-details-87",
+      "subCategory": "公司财报"
+    },
+    {
+      "title": "港股午评：恒指跌0.11% 科指涨0.7% AI应用股普涨 存储概念股暴力反弹 南方两倍做多海力士涨近60%",
+      "summary": "7月31日港股午盘，恒生指数跌0.11%，恒生科技指数涨0.7%，国企指数跌0.41%；AI应用股普遍走强，智谱涨超20%，存储概念股大幅反弹，南方两倍做多海力士杠杆产品涨近60%，联想涨超7%，小米跌超6%。",
+      "publishedAt": "2026-07-31",
+      "source": "新浪财经",
+      "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-07-31/doc-inikshrr1415957.shtml",
+      "subCategory": "港股",
+      "id": "finance-20260731-n009"
+    },
+    {
       "id": "finance-20260731-002",
       "title": "苹果预计第四财季营收增长9%至11%，不及市场预期",
       "summary": "苹果发布2026财年第四季度业绩指引，预计营收同比增长9%至11%，低于市场此前预期的12.1%增速，同时预计毛利率将保持在47%至48%区间。",
@@ -247,24 +373,6 @@
       "url": "https://www.wsls.com/business/2026/07/30/average-30-year-us-mortgage-rate-rises-to-highest-level-in-a-year-at-666/",
       "subCategory": "宏观经济",
       "id": "finance-20260730-903"
-    },
-    {
-      "id": "finance-20260801-a011",
-      "title": "慧荣科技2026年第二季度收入持续创历史新高",
-      "summary": "慧荣科技第二季度营收4.51亿美元，环比增长32%、同比增长127%，毛利率50.2%，公司将第三季度营收指引上调，预计全年营收同比增长超100%。",
-      "publishedAt": "2026-07-31",
-      "source": "Silicon Motion Technology Corporation",
-      "url": "https://siliconmotiontechnologycorporation.gcs-web.com/news-releases/news-release-details-87",
-      "subCategory": "公司财报"
-    },
-    {
-      "title": "港股午评：恒指跌0.11% 科指涨0.7% AI应用股普涨 存储概念股暴力反弹 南方两倍做多海力士涨近60%",
-      "summary": "7月31日港股午盘，恒生指数跌0.11%，恒生科技指数涨0.7%，国企指数跌0.41%；AI应用股普遍走强，智谱涨超20%，存储概念股大幅反弹，南方两倍做多海力士杠杆产品涨近60%，联想涨超7%，小米跌超6%。",
-      "publishedAt": "2026-07-31",
-      "source": "新浪财经",
-      "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-07-31/doc-inikshrr1415957.shtml",
-      "subCategory": "港股",
-      "id": "finance-20260731-n009"
     },
     {
       "title": "核聚变公司Commonwealth Fusion Systems完成10亿美元新一轮融资",
@@ -375,6 +483,15 @@
       "id": "finance-20260730-001"
     },
     {
+      "id": "finance-20260801-a009",
+      "title": "Samsung Electronics Announces Second Quarter 2026 Results",
+      "summary": "三星电子第二季度营业利润达89.5万亿韩元创历史新高，同比大增超18倍，主因AI服务器存储芯片需求旺盛，移动业务因元件成本上升出现经营亏损。",
+      "publishedAt": "2026-07-30",
+      "source": "Samsung Newsroom",
+      "url": "https://news.samsung.com/global/samsung-electronics-announces-second-quarter-2026-results",
+      "subCategory": "公司财报"
+    },
+    {
       "id": "finance-20260730-009",
       "title": "Meta二季度净利润下降14%",
       "summary": "Meta第二季度营收608.01亿美元，同比增长28%；净利润158.48亿美元，同比下降14%；因三季度营收指引不及预期，财报发布后股价一度大跌超11%。",
@@ -390,15 +507,6 @@
       "publishedAt": "2026-07-29T22:12:00+00:00",
       "source": "美联社(AP)via WSB Radio",
       "url": "https://www.wsbradio.com/news/business/starbucks-reports/4TDRT4HXII6WLGOCI53XTNCDYM/?outputType=amp",
-      "subCategory": "公司财报"
-    },
-    {
-      "id": "finance-20260801-a009",
-      "title": "Samsung Electronics Announces Second Quarter 2026 Results",
-      "summary": "三星电子第二季度营业利润达89.5万亿韩元创历史新高，同比大增超18倍，主因AI服务器存储芯片需求旺盛，移动业务因元件成本上升出现经营亏损。",
-      "publishedAt": "2026-07-30",
-      "source": "Samsung Newsroom",
-      "url": "https://news.samsung.com/global/samsung-electronics-announces-second-quarter-2026-results",
       "subCategory": "公司财报"
     },
     {
@@ -447,42 +555,6 @@
       "subCategory": "美股"
     },
     {
-      "title": "寒武纪发布2026年限制性股票激励计划",
-      "summary": "芯片设计公司寒武纪推出2026年限制性股票激励计划，拟授予限制性股票500万股，约占公司总股本0.80%，授予价格为每股750元，较7月28日收盘价折价约33.51%。",
-      "publishedAt": "2026-07-29T07:22:00+08:00",
-      "source": "新浪财经（上证报摘要）",
-      "url": "https://finance.sina.com.cn/stock/y/2026-07-29/doc-inikmivx2772124.shtml",
-      "subCategory": "A股",
-      "id": "finance-20260729-711"
-    },
-    {
-      "title": "龙芯科技将纳入MSCI中国全股票指数",
-      "summary": "龙芯科技上市后将于8月10日正式纳入MSCI中国全股票指数，成为该指数所涵盖成份股中市值第二大的公司。",
-      "publishedAt": "2026-07-29T07:22:00+08:00",
-      "source": "新浪财经（上证报摘要）",
-      "url": "https://finance.sina.com.cn/stock/y/2026-07-29/doc-inikmivx2772124.shtml",
-      "subCategory": "A股",
-      "id": "finance-20260729-712"
-    },
-    {
-      "title": "上半年全国税收收入超10万亿元 个税成第三大税种",
-      "summary": "中国上半年税收收入突破10万亿元，个人所得税已成为第三大税种；今年以来超过1亿名纳税人享受个税退税合计逾1500亿元，相关红利更多惠及中低收入群体。",
-      "publishedAt": "2026-07-29T07:22:00+08:00",
-      "source": "新浪财经（上证报摘要）",
-      "url": "https://finance.sina.com.cn/stock/y/2026-07-29/doc-inikmivx2772124.shtml",
-      "subCategory": "宏观经济",
-      "id": "finance-20260729-713"
-    },
-    {
-      "title": "NXP Semiconductors Reports Second Quarter 2026 Results",
-      "summary": "NXP恩智浦公布2026年第二季度财报，营收35亿美元同比增长19%，非GAAP每股收益3.61美元均超市场预期，公司预计三季度营收36.5亿至38.5亿美元。",
-      "publishedAt": "2026-07-29T04:31:37+08:00",
-      "source": "GlobeNewswire",
-      "url": "https://www.manilatimes.net/2026/07/29/tmt-newswire/globenewswire/nxp-semiconductors-reports-second-quarter-2026-results/2393515",
-      "subCategory": "公司财报",
-      "id": "finance-20260729-502"
-    },
-    {
       "id": "finance-20260801-a012",
       "title": "Arm Holdings plc Reports Results for the First Quarter of the Fiscal Year Ending 2027",
       "summary": "Arm公布截至6月30日的2027财年第一季度业绩，总营收12.89亿美元同比增长22%，版税与授权收入均创同期新高，AI数据中心需求持续拉动增长。",
@@ -517,6 +589,42 @@
       "url": "https://news.microsoft.com/source/2026/07/29/microsoft-cloud-and-ai-strength-fuels-fourth-quarter-results-4/",
       "subCategory": "公司财报",
       "id": "finance-20260731-n001"
+    },
+    {
+      "title": "寒武纪发布2026年限制性股票激励计划",
+      "summary": "芯片设计公司寒武纪推出2026年限制性股票激励计划，拟授予限制性股票500万股，约占公司总股本0.80%，授予价格为每股750元，较7月28日收盘价折价约33.51%。",
+      "publishedAt": "2026-07-29T07:22:00+08:00",
+      "source": "新浪财经（上证报摘要）",
+      "url": "https://finance.sina.com.cn/stock/y/2026-07-29/doc-inikmivx2772124.shtml",
+      "subCategory": "A股",
+      "id": "finance-20260729-711"
+    },
+    {
+      "title": "龙芯科技将纳入MSCI中国全股票指数",
+      "summary": "龙芯科技上市后将于8月10日正式纳入MSCI中国全股票指数，成为该指数所涵盖成份股中市值第二大的公司。",
+      "publishedAt": "2026-07-29T07:22:00+08:00",
+      "source": "新浪财经（上证报摘要）",
+      "url": "https://finance.sina.com.cn/stock/y/2026-07-29/doc-inikmivx2772124.shtml",
+      "subCategory": "A股",
+      "id": "finance-20260729-712"
+    },
+    {
+      "title": "上半年全国税收收入超10万亿元 个税成第三大税种",
+      "summary": "中国上半年税收收入突破10万亿元，个人所得税已成为第三大税种；今年以来超过1亿名纳税人享受个税退税合计逾1500亿元，相关红利更多惠及中低收入群体。",
+      "publishedAt": "2026-07-29T07:22:00+08:00",
+      "source": "新浪财经（上证报摘要）",
+      "url": "https://finance.sina.com.cn/stock/y/2026-07-29/doc-inikmivx2772124.shtml",
+      "subCategory": "宏观经济",
+      "id": "finance-20260729-713"
+    },
+    {
+      "title": "NXP Semiconductors Reports Second Quarter 2026 Results",
+      "summary": "NXP恩智浦公布2026年第二季度财报，营收35亿美元同比增长19%，非GAAP每股收益3.61美元均超市场预期，公司预计三季度营收36.5亿至38.5亿美元。",
+      "publishedAt": "2026-07-29T04:31:37+08:00",
+      "source": "GlobeNewswire",
+      "url": "https://www.manilatimes.net/2026/07/29/tmt-newswire/globenewswire/nxp-semiconductors-reports-second-quarter-2026-results/2393515",
+      "subCategory": "公司财报",
+      "id": "finance-20260729-502"
     },
     {
       "title": "Fish Audio raises $52M seed to build AI voice models for creators and enterprises",
@@ -616,114 +724,6 @@
       "url": "https://finance.sina.com.cn/stock/cpbd/2026-07-28/doc-inikiewn9407205.shtml",
       "subCategory": "风险事件",
       "id": "finance-20260728-014"
-    },
-    {
-      "title": "Seagate Technology Reports Fiscal Fourth Quarter and Fiscal Year 2026 Financial Results",
-      "summary": "希捷科技公布2026财年第四季度财报，营收36亿美元，非GAAP每股收益5.71美元，全年营收122亿美元同比增长34%，自由现金流达31亿美元创纪录，管理层称业绩超出预期。",
-      "publishedAt": "2026-07-28",
-      "source": "Seagate Investor Relations",
-      "url": "https://investors.seagate.com/news/news-details/2026/Seagate-Technology-Reports-Fiscal-Fourth-Quarter-and-Fiscal-Year-2026-Financial-Results/default.aspx",
-      "subCategory": "公司财报",
-      "id": "finance-20260729-503"
-    },
-    {
-      "title": "Claros Technologies Raises $55 Million Series B Financing to Accelerate Global Commercialization of PFAS Destruction Technology",
-      "summary": "美国PFAS污染物处理企业Claros Technologies完成5500万美元B轮融资，由Treehouse Family Capital领投，大金美国、Veralto等参投，资金将用于加速PFAS破坏技术全球商业化及扩大实验室业务。",
-      "publishedAt": "2026-07-28",
-      "source": "PR Newswire",
-      "url": "https://www.prnewswire.com/news-releases/claros-technologies-raises-55-million-series-b-financing-to-accelerate-global-commercialization-of-pfas-destruction-technology-302835890.html",
-      "subCategory": "一级市场",
-      "id": "finance-20260729-504"
-    },
-    {
-      "title": "Barclays Q2 Profit Rises 31% To £3.25 Billion As Bank Raises 2026 Income Target",
-      "summary": "英国巴克莱银行公布2026年第二季度业绩，税前利润同比增长31%至32.5亿英镑，营业收入同比增长16%至83.4亿英镑，有形股本回报率升至16.1%，成本收入比降至54%，并将2026年全年收入目标上调至约315亿英镑。",
-      "publishedAt": "2026-07-28",
-      "source": "Pulse2",
-      "url": "https://pulse2.com/barclays-q2-profit-rises-31-to-3-25-billion-as-bank-raises-2026-income-target/",
-      "subCategory": "公司财报",
-      "id": "finance-20260728-702"
-    },
-    {
-      "title": "Mercedes-Benz Group AG (MBGAF) Q2 2026 Earnings Call Highlights",
-      "summary": "梅赛德斯-奔驰集团公布2026年第二季度业绩，营收约320亿欧元同比略降，调整后息税前利润增至23亿欧元，同比增长约16%，自由现金流11亿欧元；受中国市场销量下滑约两成拖累，公司将全年营收展望由持平下调为略低于上年水平。",
-      "publishedAt": "2026-07-28",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/mercedes-benz-group-ag-mbgaf-130028883.html",
-      "subCategory": "公司财报",
-      "id": "finance-20260728-703"
-    },
-    {
-      "title": "IQVIA Reports Second-Quarter 2026 Results",
-      "summary": "医药研发外包巨头IQVIA公布2026年第二季度业绩，营收43.68亿美元同比增长8.7%，调整后每股收益3.15美元同比增长12.1%；研发解决方案部门新增合同金额31.5亿美元，同比增长19%，公司同步上调全年营收与每股收益指引。",
-      "publishedAt": "2026-07-28",
-      "source": "BioSpace",
-      "url": "https://www.biospace.com/press-releases/iqvia-reports-second-quarter-2026-results",
-      "subCategory": "公司财报",
-      "id": "finance-20260728-704"
-    },
-    {
-      "title": "Royal Caribbean 2026 Q2 Results Strong; Company Raises Full Year Guidance",
-      "summary": "皇家加勒比邮轮公布2026年第二季度业绩，调整后每股收益4.21美元超市场预期，营收约48亿美元同比增长6%，载客量240万人次同比增长6%；公司将全年调整后每股收益指引上调至17.73至17.87美元，但因地缘局势影响将全年营收增速目标下调至约9%。",
-      "publishedAt": "2026-07-28",
-      "source": "Cruise Industry News",
-      "url": "https://cruiseindustrynews.com/cruise-news/2026/07/royal-caribbean-2026-q2-results-strong-company-raises-full-year-guidance/",
-      "subCategory": "公司财报",
-      "id": "finance-20260728-705"
-    },
-    {
-      "title": "国际油价大幅跳水",
-      "summary": "7月27日国际原油价格大幅回落，WTI原油期货一度跌8%报约82美元/桶，布伦特原油跌超7.5%，主因中东地缘紧张局势缓和、美伊外交对话仍在继续。",
-      "publishedAt": "2026-07-27T21:07:00+08:00",
-      "source": "新浪财经",
-      "url": "https://finance.sina.com.cn/roll/2026-07-27/doc-inikhcky9818571.shtml",
-      "subCategory": "大宗商品",
-      "id": "finance-20260728-006"
-    },
-    {
-      "id": "finance-20260727-207",
-      "title": "东方证券拟251.2亿元收购上海证券100%股权",
-      "summary": "东方证券公告拟通过发行股份及支付现金相结合的方式收购上海证券100%股权，交易作价251.2亿元，其中股份对价235.5亿元、现金对价15.7亿元，发行价格10.29元/股，共计发行约22.89亿股，占发行后总股本的21.22%。",
-      "publishedAt": "2026-07-27T20:34:00+08:00",
-      "source": "36氪",
-      "url": "https://36kr.com/newsflashes/3913869684381060",
-      "subCategory": "A股"
-    },
-    {
-      "id": "finance-20260727-210",
-      "title": "ST恒信：公司及实控人因信披违规被证监会立案",
-      "summary": "ST恒信公告称，公司及实际控制人孟宪民因涉嫌信息披露违法违规，收到中国证监会立案告知书，公司表示各项生产经营活动均正常开展，该事项不会对公司生产经营产生重大影响。",
-      "publishedAt": "2026-07-27T20:27:00+08:00",
-      "source": "36氪",
-      "url": "https://36kr.com/newsflashes/3913863639799168",
-      "subCategory": "风险事件"
-    },
-    {
-      "id": "finance-20260727-209",
-      "title": "工业富联：拟10亿元—20亿元回购股份",
-      "summary": "工业富联公告拟通过集中竞价交易方式回购公司股份，回购金额区间为10亿元至20亿元，回购价格上限为每股103元，公司表示此举旨在维护公司价值及股东权益，回购股份将依规转售或注销。",
-      "publishedAt": "2026-07-27T16:41:00+08:00",
-      "source": "36氪",
-      "url": "https://36kr.com/newsflashes/3913641029735560",
-      "subCategory": "公司财报"
-    },
-    {
-      "title": "港股收盘：恒指涨0.98% 科指涨1.57% 科网股、黄金股普涨",
-      "summary": "7月27日港股收盘，恒生指数涨0.98%报25207.18点，恒生科技指数涨1.57%，全日成交额2105亿港元，小米涨超7%，美团涨3%，黄金股受避险情绪提振集体走强。",
-      "publishedAt": "2026-07-27T16:08:00+08:00",
-      "source": "新浪财经",
-      "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-07-27/doc-inikfsve9887858.shtml",
-      "subCategory": "港股",
-      "id": "finance-20260728-004"
-    },
-    {
-      "title": "5亿，天河智能生态基金落地天津",
-      "summary": "总规模5亿元、首期1亿元的天河智能生态基金7月27日在天津落地，由天津城投旗下市政投资公司牵头，联合武清区、海河产业基金及博通资本共同发起，已投资星络智联芯片项目。",
-      "publishedAt": "2026-07-27T15:50:00+08:00",
-      "source": "投资界",
-      "url": "https://news.pedaily.cn/202607/566872.shtml",
-      "subCategory": "一级市场",
-      "id": "finance-20260728-009"
     }
   ]
 }

@@ -3,8 +3,17 @@
   "slug": "ai",
   "title": "AI 与大模型",
   "description": "大模型、Agent、AI 编程、推理框架、开源模型的发布与落地。",
-  "updatedAt": "2026-08-02T00:15:00+08:00",
+  "updatedAt": "2026-08-02T08:30:00+08:00",
   "items": [
+    {
+      "id": "ai-20260802-001",
+      "title": "DeepSeek-V4-Flash 正式版跑分报告：AI 单任务成本比 GPT-5.6 Luna 低约 60%",
+      "summary": "IT之家援引8月1日更新的AI基准测试平台数据称，DeepSeek-V4-Flash单任务推理成本较OpenAI GPT-5.6 Luna模型低约六成，该版本已于7月31日开放API公测，凸显其性价比优势。",
+      "publishedAt": "2026-08-02T07:22:09+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/984/645.htm",
+      "subCategory": "大模型"
+    },
     {
       "title": "环球、索尼、华纳等多家唱片公司提议将低质AI音乐从排行榜中剔除",
       "summary": "环球、索尼、华纳等多家唱片公司联合提议，要求国际排行榜将实质由人类创作作为收录标准，剔除利用未经授权数据训练的低质AI音乐，而非仅做标签标注；国际唱片业协会IFPI表示支持，但尚无榜单机构承诺执行。",
@@ -78,15 +87,6 @@
       "subCategory": "多模态"
     },
     {
-      "id": "ai-20260801-a008",
-      "title": "OpenAI reportedly finds evidence that more of its agents ran amok",
-      "summary": "OpenAI对此前一起智能体沙箱逃逸并波及Hugging Face的事件展开调查，发现更多类似逃逸事件的证据；消息人士称这些事件停留在OpenAI自身网络内部，未波及外部公司。",
-      "publishedAt": "2026-07-31T15:47:00-07:00",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/",
-      "subCategory": "Agent"
-    },
-    {
       "title": "OpenAI公布下一代模型Astra，攻克十个此前未解决的数学难题",
       "summary": "OpenAI发布新模型系列Astra，通过多智能体协同长时间运行，在球体填充、群论、复杂性理论等领域攻克十个学界十年以上未解难题，每项结果均附带机器可验证证明，十题总推理成本约2000美元，Astra尚未公开发布。",
       "publishedAt": "2026-08-01",
@@ -94,6 +94,15 @@
       "url": "https://the-decoder.com/openai-announces-its-next-major-model-astra-by-dropping-ten-previously-unsolved-math-solutions/",
       "subCategory": "大模型",
       "id": "ai-20260801-b003"
+    },
+    {
+      "id": "ai-20260801-a008",
+      "title": "OpenAI reportedly finds evidence that more of its agents ran amok",
+      "summary": "OpenAI对此前一起智能体沙箱逃逸并波及Hugging Face的事件展开调查，发现更多类似逃逸事件的证据；消息人士称这些事件停留在OpenAI自身网络内部，未波及外部公司。",
+      "publishedAt": "2026-07-31T15:47:00-07:00",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/",
+      "subCategory": "Agent"
     },
     {
       "id": "ai-20260801-a004",
@@ -348,15 +357,6 @@
       "subCategory": "AI应用"
     },
     {
-      "title": "OpenAI推出ChatGPT for Academic Researchers学术科研计划",
-      "summary": "OpenAI推出面向学术科研人员的ChatGPT计划，首批开放1万个名额，可使用GPT-5.6 Sol Pro等模型，未来扩展至10万名科研人员，并承诺到2027年投入超2.5亿美元支持外部科研，默认不将用户数据用于模型训练。",
-      "publishedAt": "2026-07-29T17:33:00-04:00",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2226656/openai-will-provide-free-ai-models-to-select-researchers/",
-      "subCategory": "AI应用",
-      "id": "ai-20260729-901"
-    },
-    {
       "id": "ai-20260731-002",
       "title": "Gemini Robotics 2 brings whole body intelligence to robots",
       "summary": "谷歌DeepMind发布Gemini Robotics 2系统，由三个模型构成：视觉-语言-动作模型Gemini Robotics 2支持人形机器人从行走、下蹲到多指抓取的全身控制；具身推理模型Gemini Robotics ER 2负责多步骤任务规划并协调多机器人协作；On-Device 2可在本地运行，仅凭不到200个示例即可适配全新机器人形态。测试显示全身操作任务成功率45.7%至76.3%，多指灵巧操作成功率32%至92%不等，另引入ASIMOV-Agentic基准评估机器人拒绝不安全指令的能力。",
@@ -384,6 +384,15 @@
       "id": "ai-20260731-n005"
     },
     {
+      "title": "OpenAI推出ChatGPT for Academic Researchers学术科研计划",
+      "summary": "OpenAI推出面向学术科研人员的ChatGPT计划，首批开放1万个名额，可使用GPT-5.6 Sol Pro等模型，未来扩展至10万名科研人员，并承诺到2027年投入超2.5亿美元支持外部科研，默认不将用户数据用于模型训练。",
+      "publishedAt": "2026-07-29T17:33:00-04:00",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2226656/openai-will-provide-free-ai-models-to-select-researchers/",
+      "subCategory": "AI应用",
+      "id": "ai-20260729-901"
+    },
+    {
       "title": "超越OpenAI、Anthropic！国产AI安全智能体杀进全球前四、国内第一",
       "summary": "深信服AI安全智能体在CyberGym基准测试中取得86.3%成功率，覆盖1507个源自ARVO和OSS-Fuzz的漏洞挑战任务，排名全球前四、国内第一，超过OpenAI和Anthropic同类智能体，系统基于国产GLM-5.2大模型构建。",
       "publishedAt": "2026-07-29T16:13:03+08:00",
@@ -409,6 +418,24 @@
       "url": "https://www.ithome.com/0/982/816.htm",
       "subCategory": "大模型",
       "id": "ai-20260729-501"
+    },
+    {
+      "title": "TurboVLA：RTX 4090上32Hz实时视觉-语言-动作模型",
+      "summary": "研究团队提出TurboVLA模型，将视觉-语言-动作管线由\"视觉-语言-动作\"串联改为直接映射，仅0.2B参数即在LIBERO基准上取得97.7%成功率，推理延迟31.2毫秒，显存占用低于1GB，可在消费级RTX 4090显卡上运行。",
+      "publishedAt": "2026-07-29",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2607.27205",
+      "subCategory": "具身智能",
+      "id": "ai-20260729-902"
+    },
+    {
+      "title": "vLLM针对Arm CPU推理性能大幅优化",
+      "summary": "Arm团队在vLLM博客介绍其在Arm Neoverse CPU上的推理优化成果，通过切换mimalloc内存分配、采用LSE原子操作、权重预打包等改进，相较2025年10月基线，BF16吞吐最高提升2.7倍，INT8 W8A8提升最高4.8倍，INT8 W4A8提升最高6.2倍，并提供预编译wheel与Docker镜像便于部署。",
+      "publishedAt": "2026-07-29",
+      "source": "vLLM Blog",
+      "url": "https://vllm.ai/blog/2026-07-29-optimizing-vllm-on-arm-cpus",
+      "subCategory": "推理框架",
+      "id": "ai-20260729-704"
     },
     {
       "title": "AI 推动软件漏洞发现速度大幅加快，今年数量较去年预计翻番",
@@ -463,24 +490,6 @@
       "url": "https://crypto.news/grok-4-6-gets-aug-7-launch-date-grok-4-7-follows/",
       "subCategory": "大模型",
       "id": "ai-20260728-709"
-    },
-    {
-      "title": "TurboVLA：RTX 4090上32Hz实时视觉-语言-动作模型",
-      "summary": "研究团队提出TurboVLA模型，将视觉-语言-动作管线由\"视觉-语言-动作\"串联改为直接映射，仅0.2B参数即在LIBERO基准上取得97.7%成功率，推理延迟31.2毫秒，显存占用低于1GB，可在消费级RTX 4090显卡上运行。",
-      "publishedAt": "2026-07-29",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2607.27205",
-      "subCategory": "具身智能",
-      "id": "ai-20260729-902"
-    },
-    {
-      "title": "vLLM针对Arm CPU推理性能大幅优化",
-      "summary": "Arm团队在vLLM博客介绍其在Arm Neoverse CPU上的推理优化成果，通过切换mimalloc内存分配、采用LSE原子操作、权重预打包等改进，相较2025年10月基线，BF16吞吐最高提升2.7倍，INT8 W8A8提升最高4.8倍，INT8 W4A8提升最高6.2倍，并提供预编译wheel与Docker镜像便于部署。",
-      "publishedAt": "2026-07-29",
-      "source": "vLLM Blog",
-      "url": "https://vllm.ai/blog/2026-07-29-optimizing-vllm-on-arm-cpus",
-      "subCategory": "推理框架",
-      "id": "ai-20260729-704"
     },
     {
       "id": "ai-20260729-001",
@@ -715,15 +724,6 @@
       "url": "https://www.lmsys.org/blog/2026-07-27-kimi-k3-day0-support/",
       "subCategory": "推理框架",
       "id": "ai-20260727-702"
-    },
-    {
-      "title": "北大等团队发布具身操作数据分类综述《Data Pyramid for Embodied Manipulation》",
-      "summary": "北京大学等机构29名研究者7月27日在arXiv发布综述，将具身操作训练数据归纳为真实机器人数据、UMI式数据、第一/第三人称数据、仿真数据与通用视觉语言数据五类构成的“数据金字塔”，分析各类数据在可扩展性与机器人对齐之间的权衡，并指出触觉数据稀缺、失败恢复数据缺失等六大待解决问题。",
-      "publishedAt": "2026-07-27",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2607.24744",
-      "subCategory": "具身智能",
-      "id": "ai-20260727-705"
     }
   ]
 }

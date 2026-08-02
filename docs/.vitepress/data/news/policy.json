@@ -3,8 +3,17 @@
   "slug": "policy",
   "title": "政策信息",
   "description": "国家与地方政策、监管动态、产业扶持与合规要求。",
-  "updatedAt": "2026-08-02T00:15:00+08:00",
+  "updatedAt": "2026-08-02T08:30:00+08:00",
   "items": [
+    {
+      "id": "policy-20260802-001",
+      "title": "商务部新闻发言人就美国将中国企业列入所谓涉疆法案实体清单答记者问",
+      "summary": "商务部新闻发言人8月1日表示，美国国土安全部7月31日将40余家中国企业列入所谓涉疆法案实体清单。发言人称此举缺乏事实依据，属于经济胁迫，损害企业合法权益，扰乱全球供应链稳定，并敦促美方停止打压中国企业。",
+      "publishedAt": "2026-08-01T09:15:00+08:00",
+      "source": "中华人民共和国商务部",
+      "url": "http://www.mofcom.gov.cn/xwfb/xwfyrth/art/2026/art_97e8026ea5e745ccb0cf5e87294cd009.html",
+      "subCategory": "跨境贸易"
+    },
     {
       "id": "policy-20260801-a004",
       "title": "三大运营商规范互联网售卡 8月1日起第三方渠道停止办理",
@@ -186,15 +195,6 @@
       "subCategory": "产业政策"
     },
     {
-      "title": "FTC and States Act Against Hims &amp; Hers for Deceptive and Unlawful Privacy Practices",
-      "summary": "美国联邦贸易委员会联合犹他州、加利福尼亚州对远程医疗公司Hims & Hers提起联邦诉讼，指控其在用户提交问诊表后即扣费、设置订阅取消障碍，并将用户健康信息共享给Meta、Snap等广告平台，涉嫌违反《联邦贸易委员会法》及《在线购物者信心恢复法》。",
-      "publishedAt": "2026-07-29T13:04:00-04:00",
-      "source": "美国联邦贸易委员会(FTC)",
-      "url": "https://www.ftc.gov/news-events/news/press-releases/2026/07/ftc-states-act-against-hims-hers-deceptive-unlawful-privacy-practices",
-      "subCategory": "数据安全",
-      "id": "policy-20260730-001"
-    },
-    {
       "id": "policy-20260731-002",
       "title": "Presidential Determination Pursuant to Section 101 of the Defense Production Act of 1950, as Amended, on Recoverable Critical Minerals and Materials",
       "summary": "美国总统签署备忘录，依据《1950年国防生产法》第101条，认定黑粉、稀土永磁体及含关键矿物工业废料等可回收关键矿物的国内供应不足对国家安全构成风险，授权商务部长发布规则、指南与程序以确保关键矿物供应，该认定不涵盖此前已通过单独公告处理的铜废料。",
@@ -211,6 +211,15 @@
       "url": "https://www.mofcom.gov.cn/xwfbzt/2026/swbzklxxwfbh2026n7y30r/index.html",
       "subCategory": "跨境贸易",
       "id": "policy-20260731-n003"
+    },
+    {
+      "title": "FTC and States Act Against Hims &amp; Hers for Deceptive and Unlawful Privacy Practices",
+      "summary": "美国联邦贸易委员会联合犹他州、加利福尼亚州对远程医疗公司Hims & Hers提起联邦诉讼，指控其在用户提交问诊表后即扣费、设置订阅取消障碍，并将用户健康信息共享给Meta、Snap等广告平台，涉嫌违反《联邦贸易委员会法》及《在线购物者信心恢复法》。",
+      "publishedAt": "2026-07-29T13:04:00-04:00",
+      "source": "美国联邦贸易委员会(FTC)",
+      "url": "https://www.ftc.gov/news-events/news/press-releases/2026/07/ftc-states-act-against-hims-hers-deceptive-unlawful-privacy-practices",
+      "subCategory": "数据安全",
+      "id": "policy-20260730-001"
     },
     {
       "title": "中国人民银行等九部门联合印发《关于加强科技金融领域数据开发利用的通知》",
@@ -715,15 +724,6 @@
       "url": "https://www.mof.gov.cn/zhengwuxinxi/caizhengxinwen/202607/t20260722_3994019.htm",
       "subCategory": "产业政策",
       "id": "policy-20260723-205"
-    },
-    {
-      "title": "FTC Returns Money to Consumers Harmed by Trend Deploy's Deceptive Marketing",
-      "summary": "美国联邦贸易委员会向9419名消费者寄送超过67.2万美元退款支票，追偿Trend Deploy运营者涉及欺骗性营销和邮购规则违规造成的损失，消费者需在90天内兑现支票。",
-      "publishedAt": "2026-07-22",
-      "source": "美国联邦贸易委员会",
-      "url": "https://www.ftc.gov/news-events/news/press-releases/2026/07/ftc-returns-money-consumers-harmed-trend-deploys-deceptive-marketing",
-      "subCategory": "海外政策",
-      "id": "policy-20260723-207"
     }
   ]
 }

@@ -3,8 +3,17 @@
   "slug": "industry",
   "title": "行业新闻",
   "description": "企业服务、SaaS、云计算、制造业、消费互联网的产业动态。",
-  "updatedAt": "2026-08-02T00:15:00+08:00",
+  "updatedAt": "2026-08-02T08:30:00+08:00",
   "items": [
+    {
+      "id": "industry-20260802-002",
+      "title": "上汽集团7月整车销售33.9万辆",
+      "summary": "上汽集团公布7月整车销售33.9万辆，1-7月累计销售238.4万辆。自主品牌乘用车同比增长53.4%，新能源汽车销售97.3万辆，同比增长27.4%，海外销售87.6万辆，同比增长52.1%。",
+      "publishedAt": "2026-08-01T22:09:13+08:00",
+      "source": "新浪汽车",
+      "url": "https://auto.sina.com.cn/news/2026-08-01/detail-inikvnzx0336130.shtml",
+      "subCategory": "新能源汽车"
+    },
     {
       "title": "IDC报告：2025年中国工业具身智能机器人市场达57.4亿元，商业化进程全面提速",
       "summary": "IDC报告显示，2025年中国工业具身智能机器人市场规模约57.4亿元，其中以工业机器人为载体的应用达36.2亿元，人形机器人应用为21.1亿元，行业正从单工位智能向产线级智能演进。",
@@ -13,6 +22,15 @@
       "url": "https://www.ithome.com/0/984/627.htm",
       "subCategory": "行业研报",
       "id": "industry-20260801-b005"
+    },
+    {
+      "id": "industry-20260802-001",
+      "title": "比亚迪7月销售41.9万辆汽车，海外销量近18万辆再创历史新高",
+      "summary": "比亚迪公布7月销量419211辆，其中海外销量179841辆，同比增长124.3%创历史新高。方程豹7月销量41213辆，同比增长190.6%；1-7月累计销售超227万辆。",
+      "publishedAt": "2026-08-01T20:07:00+08:00",
+      "source": "金融界",
+      "url": "https://finance.jrj.com.cn/2026/08/01200757986671.shtml",
+      "subCategory": "新能源汽车"
     },
     {
       "title": "比亚迪7月销售41.9万辆汽车，海外销量近18万辆再创历史新高",
@@ -24,13 +42,76 @@
       "id": "industry-20260801-b001"
     },
     {
-      "id": "industry-20260801-a001",
-      "title": "Report: Apple hit a record 49% share of global smartphone revenue for Q2",
-      "summary": "Counterpoint报告显示全球智能手机第二季度营收同比增长7%至109亿美元，苹果凭借稳定定价策略取得49%的营收份额，创二季度历史纪录。",
-      "publishedAt": "2026-07-31T11:19:00-07:00",
-      "source": "9to5Mac",
-      "url": "https://9to5mac.com/2026/07/31/report-apple-hit-a-record-49-share-of-global-smartphone-revenue-for-q2/",
-      "subCategory": "行业研报"
+      "id": "industry-20260802-003",
+      "title": "零跑汽车7月交付量达101267台",
+      "summary": "零跑汽车公布7月交付新车101267台，同比增长102%，成为国内首个单月交付突破10万台的造车新势力品牌，刷新自身历史纪录。",
+      "publishedAt": "2026-08-01T13:29:00+08:00",
+      "source": "新京报",
+      "url": "https://www.bjnews.com.cn/detail/1785562140168598.html",
+      "subCategory": "新能源汽车"
+    },
+    {
+      "id": "industry-20260802-004",
+      "title": "蔚来公司7月交付新车35934台同比增长71%，ES8单车10286台",
+      "summary": "蔚来公布7月交付新车35934台，同比增长71%，其中ES8单月交付10286台。1-7月累计交付227057台，创历史新高，同比增长68%，三品牌均创历史最高交付纪录。",
+      "publishedAt": "2026-08-01T12:32:00+08:00",
+      "source": "新浪科技",
+      "url": "https://finance.sina.com.cn/tech/digi/2026-08-01/doc-inikurwi0592907.shtml",
+      "subCategory": "新能源汽车"
+    },
+    {
+      "id": "industry-20260802-005",
+      "title": "极氪7月交付新车35837辆 同比暴涨111%",
+      "summary": "极氪公布7月交付新车35837辆，同比增长111%，创单月历史新高。9X、8X增程混动车型带动增长，猎装车型累计交付超38万辆，全球用户累计超85万。",
+      "publishedAt": "2026-08-01T12:23:00+08:00",
+      "source": "新浪科技",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-08-01/doc-inikurwp0750373.shtml",
+      "subCategory": "新能源汽车"
+    },
+    {
+      "id": "industry-20260802-006",
+      "title": "小鹏汽车：7月交付车辆38027辆，同比增长4%",
+      "summary": "小鹏汽车公布7月交付新车38027辆，同比增长4%。截至7月31日，公司全球累计交付量已超120万辆。",
+      "publishedAt": "2026-08-01T12:00:00+08:00",
+      "source": "新浪财经",
+      "url": "https://finance.sina.com.cn/7x24/2026-08-01/doc-inikurwp0737172.shtml",
+      "subCategory": "新能源汽车"
+    },
+    {
+      "id": "industry-20260802-007",
+      "title": "鸿蒙智行7月交付45046台，1-7月累计交付28.6万台，同比增长13.7%",
+      "summary": "鸿蒙智行公布7月交付汽车45046台，1-7月累计交付28.6万台，同比增长13.7%。全新问界M9开启交付7周即突破2万台，M9全系累计交付破30万台。",
+      "publishedAt": "2026-08-01T11:13:54+08:00",
+      "source": "金融界",
+      "url": "https://24h.jrj.com.cn/2026/08/01111357981102.shtml",
+      "subCategory": "新能源汽车"
+    },
+    {
+      "id": "industry-20260802-008",
+      "title": "理想汽车2026年7月交付30468辆",
+      "summary": "理想汽车公布7月交付新车30468辆，上年同期为30731辆。截至7月31日，理想汽车历史累计交付量达176.4万辆。",
+      "publishedAt": "2026-08-01T10:06:00+08:00",
+      "source": "证券时报",
+      "url": "https://www.stcn.com/article/detail/4053662.html",
+      "subCategory": "新能源汽车"
+    },
+    {
+      "id": "industry-20260802-009",
+      "title": "深蓝汽车：7月全球销量29213辆 同比增长7.52%",
+      "summary": "深蓝汽车公布7月全球销量29213辆，同比增长7.52%。1-7月全球累计销量193369辆，同比增长13.48%，全球累计销量已突破91万辆。",
+      "publishedAt": "2026-08-01T09:50:06+08:00",
+      "source": "每日经济新闻",
+      "url": "https://www.nbd.com.cn/articles/2026-08-01/4529095.html",
+      "subCategory": "新能源汽车"
+    },
+    {
+      "id": "industry-20260802-010",
+      "title": "小米：今年7月汽车交付量持续超3万台",
+      "summary": "小米汽车公布7月交付量继续保持在3万台以上，延续4月以来的交付节奏。新车型澎程系列定价25万至29.99万元，被视为助力年度55万辆交付目标的关键产品。",
+      "publishedAt": "2026-08-01T09:20:00+08:00",
+      "source": "新浪科技",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-08-01/doc-inikumqm0610238.shtml",
+      "subCategory": "新能源汽车"
     },
     {
       "title": "多家新势力车企公布7月交付数据：零跑首超10万台",
@@ -40,6 +121,15 @@
       "url": "https://www.jiemian.com/article/14861201.html",
       "subCategory": "新能源汽车",
       "id": "industry-20260801-b002"
+    },
+    {
+      "id": "industry-20260801-a001",
+      "title": "Report: Apple hit a record 49% share of global smartphone revenue for Q2",
+      "summary": "Counterpoint报告显示全球智能手机第二季度营收同比增长7%至109亿美元，苹果凭借稳定定价策略取得49%的营收份额，创二季度历史纪录。",
+      "publishedAt": "2026-07-31T11:19:00-07:00",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/07/31/report-apple-hit-a-record-49-share-of-global-smartphone-revenue-for-q2/",
+      "subCategory": "行业研报"
     },
     {
       "id": "industry-20260801-r003",
@@ -285,15 +375,6 @@
       "id": "industry-20260729-501"
     },
     {
-      "title": "ASMPT(00522)發佈Ѐ2026年中期業績，股東應占盈助5.89億港元，同比增長174.1%",
-      "summary": "ASMPT公布2026年上半年业绩，收入89.03亿港元同比增42.5%，股东应占溢利5.89亿港元同比增174.1%；受AI需求带动，半导体解决方案及表面贴装技术业务收入均实现增长，新增订单同比增85.1%。",
-      "publishedAt": "2026-07-29T06:55:00+08:00",
-      "source": "Investing.com（智通财经）",
-      "url": "https://hk.investing.com/news/stock-market-news/article-1575085",
-      "subCategory": "公司动态",
-      "id": "industry-20260730-001"
-    },
-    {
       "id": "industry-20260801-a002",
       "title": "Kaltura Positioned as a Leader in the 2026 IDC MarketScape for Worldwide Virtual Events Applications",
       "summary": "视频云服务商Kaltura被IDC MarketScape评为全球虚拟活动应用领域领导者，公司提出的AI数字人、内容复用及互动数据能力为该项认可的核心支撑。",
@@ -382,6 +463,15 @@
       "url": "https://www.199it.com/archives/1842450.html",
       "subCategory": "行业研报",
       "id": "industry-20260729-710"
+    },
+    {
+      "title": "ASMPT(00522)發佈Ѐ2026年中期業績，股東應占盈助5.89億港元，同比增長174.1%",
+      "summary": "ASMPT公布2026年上半年业绩，收入89.03亿港元同比增42.5%，股东应占溢利5.89亿港元同比增174.1%；受AI需求带动，半导体解决方案及表面贴装技术业务收入均实现增长，新增订单同比增85.1%。",
+      "publishedAt": "2026-07-29T06:55:00+08:00",
+      "source": "Investing.com（智通财经）",
+      "url": "https://hk.investing.com/news/stock-market-news/article-1575085",
+      "subCategory": "公司动态",
+      "id": "industry-20260730-001"
     },
     {
       "title": "中红医疗：预膡2026年半年度净利润同比增长2338%-3557%",
@@ -634,87 +724,6 @@
       "source": "36氪",
       "url": "https://36kr.com/newsflashes/3909628265551234",
       "subCategory": "公司动态"
-    },
-    {
-      "id": "industry-20260724-151",
-      "title": "Google：2026年Q2 Gemini月活跃用户突破9.5亿，同比增长200%",
-      "summary": "Google宣布Gemini月活跃用户在2026年第二季度突破9.5亿，同比增长200%，市场份额升至27.7%，ChatGPT市场份额首次跌破ば、50%。iOS端过12个月下载量超1.37亿次。",
-      "publishedAt": "2026-07-24T20:22:00+08:00",
-      "source": "新浪科技(199IT)",
-      "url": "https://finance.sina.com.cn/tech/roll/2026-07-24/doc-iniixfyf1681376.shtml",
-      "subCategory": "行业研报"
-    },
-    {
-      "id": "industry-20260724-153",
-      "title": "理想 L9 累计交付突破 30 万辆，用时不到 4 年",
-      "summary": "理想汽车宣布旗舰SUV L9累计交付突砏30万辆，用时不到 4 年，截至今年6月按上险量统计位居中国大型SUV榜首，用户累计行驶里程超1553亿公里，语音指令响应次数近29.5亿次。",
-      "publishedAt": "2026-07-24T18:10:33+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/981/332.htm",
-      "subCategory": "新能源汽车"
-    },
-    {
-      "id": "industry-20260724-152",
-      "title": "工信部同日赵埃安、小鹏开展监督检查",
-      "summary": "工信部装备工业一司7月24日赵广汽埃安、肃庆小鹏开展道路机动车辆生产企业安全保障能力及生产一致性监督检查，现场随机抽取样车与动力电池送检，此前两家企业均出现产品质量问题。",
-      "publishedAt": "2026-07-24T17:56:32+08:00",
-      "source": "第一财经",
-      "url": "https://www.yicai.com/news/103291350.html",
-      "subCategory": "新能源汽车"
-    },
-    {
-      "id": "industry-20260725-002",
-      "title": "三星SEA新泽西739岗受迁址影响、得州再裁百人",
-      "summary": "三星电子美国公司确认，其新泽西州恩格列伍德克利夫斯办公室约739个岗位因总部迁至得州普莱诺受到影响，占当地约1200名员工六成以上；得州普莱诺办公室含移动部门约100人同时被裁，调整遧9月30日生效、年底前完成。",
-      "publishedAt": "2026-07-24T17:31:31+08:00",
-      "source": "出海网",
-      "url": "https://www.chwang.com/news/208058665991",
-      "subCategory": "公司动态"
-    },
-    {
-      "id": "industry-20260725-003",
-      "title": "海康威视：上半年净利润78.96亿元，同比增长39.57%",
-      "summary": "海康威视发布2026年半年报，上半年实现营业收入468.23亿元，同比增长11.97%；归属于上市公司股东的净利润78.96亿元，同比增长39.57%，基本每股收益0.862元。",
-      "publishedAt": "2026-07-24T16:38:00+08:00",
-      "source": "36氪",
-      "url": "https://36kr.com/newsflashes/3909391205241986?f=rss",
-      "subCategory": "公司动态"
-    },
-    {
-      "title": "商务部：消费市场已进入“商品+服务”并重阶段",
-      "summary": "商务部消费促进司负责人表示，2026年上半年中国消费市场已进入“商品+服务”并重阶段，社会消费品零售总额同比場2.7%，服务零售额增长5.3%，快于商品零售4.2个百分点。",
-      "publishedAt": "2026-07-24T09:38:00+08:00",
-      "source": "中国新闻网",
-      "url": "https://www.chinanews.com.cn/cj/2026/07-24/10665421.shtml",
-      "subCategory": "行业研报",
-      "id": "industry-20260726-001"
-    },
-    {
-      "title": "海思科琺珀酸思普可沩片获批上市",
-      "summary": "海思科1类创新药琺珀酸思普可沩片（研发代号HSK39297）获国药监局批准上市，用于既往未接受补体抑制剂治疗的阵发性睡眠性血红蛋白尿症成人患者，为每日一次口服补体B因子抑制剂。",
-      "publishedAt": "2026-07-24T07:00:15+08:00",
-      "source": "每日经济新闻",
-      "url": "https://www.nbd.com.cn/articles/2026-07-23/4504916.html",
-      "subCategory": "医疗健康",
-      "id": "industry-20260726-005"
-    },
-    {
-      "id": "industry-20260724-101",
-      "title": "Counterpoint：2026年第一季度全球DRAM销售额环比增长80%",
-      "summary": "Counterpoint数据显示2026年一季度全球DRAM销售额环比增长80%，三星以38%份额重夺榜首，长锰存储份额翻倍至8%升至第四大供应商，二季度价格预计再涢50%。",
-      "publishedAt": "2026-07-24",
-      "source": "199IT",
-      "url": "https://www.199it.com/archives/1830279.html",
-      "subCategory": "半导体产业"
-    },
-    {
-      "title": "镁仁半导体宣布关键性突破：晶圆级厚膜外延片器件验证性能超越进口产品",
-      "summary": "杭州镁仁半导体宣布，其氧化镁同质厚膜外延片在西安电子科技大学完成无终端结构SBD器件验证，击穿电压达1090-1490V，比导通电阻2.6-4.5mΩ·cm²，核心指标优于日本同类产品。",
-      "publishedAt": "2026-07-24",
-      "source": "凤凰网科技（IT之家）",
-      "url": "https://tech.ifeng.com/c/8v17ZJOLxz1",
-      "subCategory": "半导体产业",
-      "id": "industry-20260726-004"
     }
   ]
 }
