@@ -3,8 +3,161 @@
   "slug": "tech",
   "title": "科技新闻",
   "description": "前沿科技、互联网产品、芯片硬件、开源生态。",
-  "updatedAt": "2026-08-02T17:00:00+08:00",
+  "updatedAt": "2026-08-03T01:00:00+08:00",
   "items": [
+    {
+      "title": "小米汽车回应澎程长滑轨养护问题：与常规滑轨无差异",
+      "summary": "小米汽车在第266期答网友问中回应澎程车型长滑轨座椅相关疑问，称滑轨采用7系铝合金并经严格测试，损耗特性与养护逻辑同常规滑轨一致，不会带来额外使用负担，同时提及N90 Max综合续航可达1705公里。",
+      "publishedAt": "2026-08-02T23:49:02+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/984/821.htm",
+      "subCategory": "智能汽车",
+      "id": "tech-20260802-204"
+    },
+    {
+      "title": "消息称Top 5手机厂商明年将全部采用1:1前置摄像头",
+      "summary": "据博主爆料，明年主流手机厂商将跟进1:1方形前置摄像头设计以提升数码变焦效果，该方案由苹果iPhone 17系列率先普及，搭载1800万像素方形前摄及“人物居中”技术，可减少横竖拍摄切换带来的画质损失。",
+      "publishedAt": "2026-08-02T23:35:20+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/984/820.htm",
+      "subCategory": "消费电子",
+      "id": "tech-20260802-203"
+    },
+    {
+      "title": "联想ThinkBook X 2026笔记本新增酷睿Ultra 7 256V版本",
+      "summary": "联想为ThinkBook X 2026笔记本新增酷睿Ultra 7 256V配置，16GB+1TB版本售价8999元，整机重约1.06公斤，配备14英寸2.8K OLED屏幕，支持120Hz刷新率，并提供双硬盘扩展槽位。",
+      "publishedAt": "2026-08-02T22:47:11+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/984/817.htm",
+      "subCategory": "消费电子",
+      "id": "tech-20260802-205"
+    },
+    {
+      "title": "古尔曼：苹果计划将智能眼镜打造为健康健身平台",
+      "summary": "彭博社分析师马克·古尔曼透露，苹果计划将旗下即将推出的非AR智能眼镜打造为健康健身平台，但该功能预计不会随明年发布的第一代产品亮相。苹果此前曾为Vision Pro加入健康追踪功能，因头显重量和技术限制而搁置计划。",
+      "publishedAt": "2026-08-02T22:44:14+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/984/816.htm",
+      "subCategory": "XR-AR-VR",
+      "id": "tech-20260802-206"
+    },
+    {
+      "title": "谷歌Chrome拟默认屏蔽新标签页劫持类扩展",
+      "summary": "谷歌正在开发Chrome新安全功能，旨在阻止通过企业策略强制安装的恶意扩展劫持新标签页或篡改默认搜索引擎。该功能针对滥用“受组织管理”标识但实际无合法机构控制的恶意软件，管理员可按需手动关闭该防护。",
+      "publishedAt": "2026-08-02T22:17:16+08:00",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/google/google-chrome-may-soon-block-new-tab-hijacker-extensions-by-default/",
+      "subCategory": "互联网产品",
+      "id": "tech-20260802-201"
+    },
+    {
+      "title": "比亚迪方程豹发布新车预告：钛9将于下半年亮相",
+      "summary": "比亚迪旗下方程豹品牌发布“钛9”全尺寸SUV预告视频，官方表示钛9与方程S将于2026年下半年与消费者见面。据悉新车预计搭载2.0T涡轮增压发动机与双电机，综合功率550千瓦，峰值扭矩760牛·米。",
+      "publishedAt": "2026-08-02T21:33:20+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/984/808.htm",
+      "subCategory": "智能汽车",
+      "id": "tech-20260802-208"
+    },
+    {
+      "title": "奥迪A2 E-Tron纽博格林路试谍照曝光，预计今秋发布",
+      "summary": "奥迪纯电掀背车型A2 E-Tron原型车现身纽博格林赛道进行高强度测试，官方预计将于今年秋季正式发布2026款车型，明年初上市，起售价约3.5万欧元，设计灵感源自1999至2005年款初代A2。",
+      "publishedAt": "2026-08-02T21:28:17+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/984/807.htm",
+      "subCategory": "智能汽车",
+      "id": "tech-20260802-209"
+    },
+    {
+      "title": "中微公司董事长尹志尧：已开发54种高端半导体设备",
+      "summary": "中微公司新总部启用暨成立22周年之际，董事长尹志尧透露公司已开发出54种高端半导体设备，刻蚀和薄膜设备加工精度达到原子级水平，未来三到五年计划投入约130亿元研发资金，开发上百种新设备。",
+      "publishedAt": "2026-08-02T21:14:32+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/984/806.htm",
+      "subCategory": "芯片硬件",
+      "id": "tech-20260802-207"
+    },
+    {
+      "title": "马斯克旗下xAI宣布将拆除数据中心69台移动涡轮发电机",
+      "summary": "因环境污染问题及诉讼压力，xAI宣布将在2026年8月至2027年7月间分批拆除Colossus数据中心的69台移动涡轮发电机，改用一座配备41台涡轮机的1.2吉瓦永久发电厂，此前当地居民及NAACP曾质疑发电机缺乏合规运营许可。",
+      "publishedAt": "2026-08-02T20:45:12+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/984/803.htm",
+      "subCategory": "云计算",
+      "id": "tech-20260802-210"
+    },
+    {
+      "title": "OPPO A7 Pro Max将于8月4日发布，支持全场景NFC",
+      "summary": "OPPO宣布A7 Pro Max手机将于8月4日发布，主打全场景NFC、红外遥控等实用功能，配备10000毫安时电池及5000万像素超广角双主摄，运行ColorOS 16系统，预计搭载骁龙4 Gen 5芯片，支持80W快充。",
+      "publishedAt": "2026-08-02T20:18:39+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/984/802.htm",
+      "subCategory": "消费电子",
+      "id": "tech-20260802-211"
+    },
+    {
+      "title": "泰国证券存管公司遭黑客入侵，20万投资者信息泄露",
+      "summary": "泰国证券交易所旗下存管公司TSD披露数据泄露事件，其投资者门户网站遭黑客攻击，约20万名投资者的姓名、身份证号及联系方式等个人信息外泄。公司称黑客通过篡改网址中的用户ID参数绕过访问控制，持股记录及系统密码等核心敏感数据未受影响。",
+      "publishedAt": "2026-08-02T19:52:47+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/984/800.htm",
+      "subCategory": "安全漏洞",
+      "id": "tech-20260802-212"
+    },
+    {
+      "title": "TCL华星联合微星展出27英寸4K 120Hz印刷OLED显示器",
+      "summary": "TCL华星与微星在ChinaJoy 2026上展出双方首款27英寸4K印刷OLED专业显示器，采用竖排RGB像素排列以降低传统OLED常见色差，色域覆盖99% DCI-P3，色准Delta E≤2，HDR峰值亮度1000尼特，并通过Eyesafe 3.0低蓝光认证。",
+      "publishedAt": "2026-08-02T18:48:10+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/984/794.htm",
+      "subCategory": "消费电子",
+      "id": "tech-20260802-213"
+    },
+    {
+      "title": "Snap将于9月16日举行专场活动，展示消费级AR眼镜Specs",
+      "summary": "Snap宣布将于9月16日在洛杉矶举办专场活动，全面展示其首款面向普通消费者的AR眼镜Specs。该设备采用LCoS显示技术，视场角51度，配备电致变色镜片可在10秒内在透明与太阳镜模式间切换，售价2195美元，内置双骁龙处理器，续航约4小时。",
+      "publishedAt": "2026-08-02T18:24:25+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/984/792.htm",
+      "subCategory": "XR-AR-VR",
+      "id": "tech-20260802-214"
+    },
+    {
+      "title": "URXR One头戴显示器发布：Pancake光学方案，售价800美元",
+      "summary": "Unseen Reality发布头戴式显示设备URXR One，主要面向传统2D内容观看而非沉浸式VR体验，机身重93克，采用Mini Pancake光学方案及双Micro OLED屏幕，分辨率2448×2064，刷新率90Hz，支持3DOF与6DOF模式，8月4日开启众筹，预计10月发货。",
+      "publishedAt": "2026-08-02T18:18:49+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/984/789.htm",
+      "subCategory": "XR-AR-VR",
+      "id": "tech-20260802-215"
+    },
+    {
+      "title": "美国NHTSA对近120万辆特斯拉展开初步调查",
+      "summary": "美国国家公路交通安全管理局对约120万辆特斯拉汽车启动初步调查，涉及2018-2020年款Model 3和2021-2023年款Model Y，已收到156起前下控制臂脱落投诉，可能导致车辆失控，目前尚无人员伤亡报告。",
+      "publishedAt": "2026-08-02T17:30:00+08:00",
+      "source": "36氪",
+      "url": "https://36kr.com/newsflashes/3922152130653828",
+      "subCategory": "智能汽车",
+      "id": "tech-20260802-202"
+    },
+    {
+      "title": "黑客组织ExfilSquad入侵英国教育部及警方数据库",
+      "summary": "黑客组织ExfilSquad宣称入侵英国教育部及英国警方数据库，合计窃取超74万笔数据，其中包括从教育部窃取的60.7万笔个人资料，以及从警方国家法律数据库窃取的约13.5万条记录。安全公司Sophos验证部分泄露数据样本可能属实，具体攻击手法尚未公开。",
+      "publishedAt": "2026-08-02T17:19:08+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/984/772.htm",
+      "subCategory": "安全漏洞",
+      "id": "tech-20260802-216"
+    },
+    {
+      "title": "卡巴斯基披露黑客利用Windows自带BitLocker工具实施勒索",
+      "summary": "卡巴斯基披露两起新型勒索攻击案例，黑客未部署自制勒索软件，而是直接利用Windows系统自带的BitLocker磁盘加密功能加密受害者数据。哥伦比亚案例中黑客攻击暴露的远程桌面服务，墨西哥案例则利用GitHub泄露的SQL Server凭据，随后均向受害者索要赎金。",
+      "publishedAt": "2026-08-02T17:06:09+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/984/769.htm",
+      "subCategory": "安全漏洞",
+      "id": "tech-20260802-217"
+    },
     {
       "title": "盛趣游戏与NC达成战略合作，推动《永恒之塔2》在中国大陆地区上线运营",
       "summary": "盛趣游戏与韩国游戏公司NC于8月2日在上海举行签约仪式，宣布双方战略合作，推动次世代MMORPG《永恒之塔2》登陆中国大陆。该作基于虚幻引擎5开发，是经典IP《永恒之塔》的正统续作，已于2025年11月19日在韩国正式上线。",
@@ -535,195 +688,6 @@
       "source": "IT之家",
       "url": "https://www.ithome.com/0/984/002.htm",
       "subCategory": "芯片硬件"
-    },
-    {
-      "id": "tech-20260731-m006",
-      "title": "宇树科技：FCC 相关禁令不会影响公司现有主要产品，但后续开发产品存在无法在美销售风险",
-      "summary": "美国FCC将境外生产的先进机器人列入管制清单，宇树科技表示现有主要产品已获FCC认证，前述政策变更目前不会影响其在美国市场的继续销售，但新型号产品面临无法获认证而无法销售的风险，公司美国市场收入占比较高。",
-      "publishedAt": "2026-07-31T10:14:45+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/983/962.htm",
-      "subCategory": "机器人"
-    },
-    {
-      "id": "tech-20260731-003",
-      "title": "暂未上线测试的 5 项苹果 iOS 27 功能汇总：接入更多 AI、升级健康应用等",
-      "summary": "据彭博社记者马克·古尔曼透露，iOS 27仍有5项功能尚未上线测试：Search与Ask界面未来计划接入Claude、Gemini等第三方AI模型；图像创作与写作工具计划支持更多AI模型；健康应用血糖追踪与摄像头动作监测功能延后上线；相机应用可自定义顶部控件；iPhone Ultra设备将支持双应用并行的多任务模式。",
-      "publishedAt": "2026-07-31T08:17:00+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/983/927.htm",
-      "subCategory": "消费电子"
-    },
-    {
-      "title": "宇树科技，8月10日启动申购！A股人形机器人第一股来了",
-      "summary": "宇树科技科创板IPO获中国证监会批复，8月10日启动申购，成为A股人形机器人第一股，本次发行约4045万股，占发行后总股本10%，2025年营收16.99亿元、净利润5.9亿元，预计2026年上半年营收10.52亿至11.28亿元。",
-      "publishedAt": "2026-07-31T07:37:00+08:00",
-      "source": "新浪财经",
-      "url": "https://finance.sina.com.cn/stock/zqgd/2026-07-31/doc-iniksaik9284852.shtml",
-      "subCategory": "机器人",
-      "id": "tech-20260731-n007"
-    },
-    {
-      "title": "谷歌：多亏人工智能，6 月修复的 Chrome 漏洞比过去两年总和还多",
-      "summary": "谷歌称借助内部AI工具，6月内为Chrome 149、150版本共修复超过1072个安全漏洞，超过此前两年23个版本累计修复的1036个总数，工程负责人表示现已能在漏洞被利用前完成修复。",
-      "publishedAt": "2026-07-31T07:14:49+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/983/916.htm",
-      "subCategory": "安全漏洞",
-      "id": "tech-20260731-n001"
-    },
-    {
-      "title": "消息称 iPhone 18 Pro 将混用苹果 C2 / 高通基带，国行机型有望用上实体 SIM+eSIM",
-      "summary": "据塔塔电子泄露文件，苹果计划iPhone 18 Pro部分国际版本采用自研C2基带，美版机型或继续搭载高通SDX80M基带以支持毫米波，国行机型有望从双实体SIM转为实体SIM加eSIM组合。",
-      "publishedAt": "2026-07-31T06:46:56+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/983/911.htm",
-      "subCategory": "消费电子",
-      "id": "tech-20260731-n002"
-    },
-    {
-      "id": "tech-20260801-a005",
-      "title": "Tesla reportedly might sell its China business ahead of a SpaceX merger",
-      "summary": "据华尔街日报报道，特斯拉正考虑通过分拆、出售或关闭方式剥离中国业务以推进与SpaceX的潜在合并，马斯克此前已要求高管为此类分离做准备。",
-      "publishedAt": "2026-07-31T06:45:00-07:00",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/31/tesla-reportedly-might-sell-its-china-business-ahead-of-a-spacex-merger/",
-      "subCategory": "智能汽车"
-    },
-    {
-      "title": "South Korea fines telco giant KT $39 million for customer data breach",
-      "summary": "韩国个人信息保护委员会对电信运营商KT处以约539.79亿韩元（约3900万美元）罚款，因其网络长达11个月被入侵，1.6万余名用户信息泄露，另有38台服务器被BPFDoor恶意软件感染且未及时上报。",
-      "publishedAt": "2026-07-31T06:28:30+08:00",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/south-korea-fines-telco-giant-kt-39-million-for-customer-data-breach/",
-      "subCategory": "安全漏洞",
-      "id": "tech-20260731-n005"
-    },
-    {
-      "title": "JetBrains warns of critical TeamCity remote code execution flaw",
-      "summary": "JetBrains披露TeamCity On-Premises存在严重身份验证绕过漏洞CVE-2026-63077，攻击者可借助HTTPS访问权限绕过认证并以服务器权限执行任意命令，公司已在2025.11.7及2026.1.3版本中修复。",
-      "publishedAt": "2026-07-31T06:01:31+08:00",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/jetbrains-warns-of-critical-teamcity-remote-code-execution-flaw/",
-      "subCategory": "安全漏洞",
-      "id": "tech-20260731-n004"
-    },
-    {
-      "title": "Apple hits 1.5 billion subscription milestone, still falls short of Wall Street wants",
-      "summary": "苹果CEO库克在2026财年三季度财报电话会上披露，苹果生态付费订阅数已达15亿，服务业务当季营收307.4亿美元，同比增长12%，创六月季度纪录，但仍低于华尔街预期的312.2亿美元。",
-      "publishedAt": "2026-07-31T05:32:00+08:00",
-      "source": "AppleInsider",
-      "url": "https://appleinsider.com/articles/26/07/30/apple-hits-15-billion-subscription-milestone-still-falls-short-of-wall-street-wants",
-      "subCategory": "互联网产品",
-      "id": "tech-20260731-n009"
-    },
-    {
-      "id": "tech-20260801-a011",
-      "title": "Enterprise teams model policy targeting in public preview",
-      "summary": "GitHub推出企业团队模型策略定向公开预览功能，允许管理员在团队级别而非仅组织级别管理AI模型访问权限，多数企业客户将于8月3日起可开启该预览。",
-      "publishedAt": "2026-07-31",
-      "source": "GitHub Changelog",
-      "url": "https://github.blog/changelog/2026-07-31-enterprise-teams-model-policy-targeting-in-public-preview",
-      "subCategory": "开发者工具"
-    },
-    {
-      "id": "tech-20260801-a012",
-      "title": "Restricting npm bypass-2FA granular access tokens",
-      "summary": "GitHub限制npm可绕过双重验证的细粒度访问令牌执行创建令牌、修改包权限等敏感操作，要求改为交互式2FA验证，以防止令牌泄露导致的账户被盗用。",
-      "publishedAt": "2026-07-31",
-      "source": "GitHub Changelog",
-      "url": "https://github.blog/changelog/2026-07-31-restricting-npm-bypass-2fa-granular-access-tokens",
-      "subCategory": "开发者工具"
-    },
-    {
-      "title": "DeepSeek-V4-Flash Update",
-      "summary": "DeepSeek-V4-Flash API进入公开测试，Agent能力显著增强，Terminal Bench 2.1得分82.7、SWE-bench得分54.4，基准表现超越此前V4-Pro-Preview版本，架构不变但经过重新训练。",
-      "publishedAt": "2026-07-31",
-      "source": "DeepSeek API Docs",
-      "url": "https://api-docs.deepseek.com/updates/",
-      "subCategory": "开发者工具",
-      "id": "tech-20260731-n006"
-    },
-    {
-      "id": "tech-20260731-001",
-      "title": "小米澎程系列技术发布会一文汇总：雷军详解昆仑架构，N90/N70 预售价亮眼",
-      "summary": "小米汽车举行\"澎程\"系列第二场技术发布会，发布昆仑技术架构，涵盖昆仑平台、昆仑超级增程与昆仑全域安全三大技术；同时公布N90 Max与N70 Max两款车型预售价，大七座增程SUV N90 Max预售价29.99万元，CLTC综合续航1705公里；五座双电机增程SUV N70 Max预售价25.99万元，纯电CLTC续航505公里，正式上市定于9月。",
-      "publishedAt": "2026-07-30T22:49:00+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/983/903.htm",
-      "subCategory": "智能汽车"
-    },
-    {
-      "title": "九号全新 M3 闪骑电摩开售：90km/h 极速，首发价 6699 元起",
-      "summary": "九号全新M3闪骑电摩正式开售，首发价6699元起，配备定制12英寸电机，额定功率4000W，峰值功率6500W，最高时速90km/h，支持北斗+GPS+基站三重定位防盗及RideyFUN智能驾驶系统。",
-      "publishedAt": "2026-07-30T22:33:00+08:00",
-      "source": "新浪科技",
-      "url": "https://finance.sina.com.cn/tech/digi/2026-07-30/doc-inikrfcu9520142.shtml",
-      "subCategory": "消费电子",
-      "id": "tech-20260730-902"
-    },
-    {
-      "id": "tech-20260731-002",
-      "title": "法拉利 CEO：首款纯电车型 Luce 订单表现符合预期，公司十分满意",
-      "summary": "法拉利首席执行官贝内代托·维尼亚表示，公司首款纯电车型Luce自5月上市后订单表现符合预期，公司对此感到满意；这款售价55万欧元的轿车订单来自新老客户，需求在各地区较为均衡，部分国家对电动车接受度更高。",
-      "publishedAt": "2026-07-30T22:11:57+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/983/899.htm",
-      "subCategory": "智能汽车"
-    },
-    {
-      "title": "甲骨文、谷歌扩大合作伙伴关系",
-      "summary": "甲骨文宣布与谷歌扩大合作伙伴关系，将在甲骨文云基础设施上推出谷歌Gemini模型的企业应用，进一步深化两家公司在云计算与企业级AI服务领域的合作。",
-      "publishedAt": "2026-07-30T20:58:00+08:00",
-      "source": "36氪",
-      "url": "https://36kr.com/newsflashes/3918140120100231",
-      "subCategory": "云计算",
-      "id": "tech-20260730-904"
-    },
-    {
-      "title": "雷军：小米昆仑技术架构核心零部件全部来自国内、国际优秀供应商，品质非常出色",
-      "summary": "小米汽车在澎程系列技术发布会上公布小米昆仑技术架构，包含昆仑平台、超级增程与全域安全三大技术。雷军称核心零部件均来自国内外优质供应商，品质出色，澎程N90 Max新增远山绿、蝶谷蓝、火山灰三款配色。",
-      "publishedAt": "2026-07-30T20:08:00+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/983/863.htm",
-      "subCategory": "智能汽车",
-      "id": "tech-20260730-901"
-    },
-    {
-      "id": "tech-20260730-019",
-      "title": "三星SDI：全固态电池按既定计划2027年下半年量产，首单很可能来自人形机器人",
-      "summary": "三星SDI在二季度财报会上表示，全固态电池商业化仍按计划推进，预计2027年下半年量产，首个商用订单很可能来自人形机器人，客户验证通过后计划于2026年下半年交付样品。公司二季度经营利润环比增长740.5%，为七个季度以来首次实现正经营利润。",
-      "publishedAt": "2026-07-30T16:38:23+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/983/722.htm",
-      "subCategory": "芯片硬件"
-    },
-    {
-      "id": "tech-20260730-014",
-      "title": "三星AI家用机器人Ballie配套应用设计草图曝光：支持家庭监控、迎宾等功能",
-      "summary": "三星AI家用机器人Ballie的配套应用设计草图曝光，主界面显示电量、位置与工作状态，支持远程摄像头串流、家庭监控及可自定义的迎宾问候功能，设置时会扫描家庭环境生成地图并识别投影位置，该产品仍未正式发布。",
-      "publishedAt": "2026-07-30T16:26:55+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/983/721.htm",
-      "subCategory": "机器人"
-    },
-    {
-      "id": "tech-20260730-015",
-      "title": "华为Pura X Max系列折叠屏手机销量破60万台，高价版更受欢迎",
-      "summary": "据博主爆料，截至2026年第29周，华为Pura X Max约售28.59万台、典藏版约32.59万台，合计超60万台。售价更高的典藏版反而多卖约4万台。该系列4月25日上市，起售价10999元，搭载麒麟9030 Pro处理器。",
-      "publishedAt": "2026-07-30T16:22:34+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/983/718.htm",
-      "subCategory": "消费电子"
-    },
-    {
-      "id": "tech-20260730-016",
-      "title": "荣耀官宣MagicOS 11先锋品鉴会8月6日举行",
-      "summary": "荣耀宣布MagicOS 11先锋品鉴会将于8月6日在北京举行。新系统带来重新设计的YOYO智能体，支持自定义AI大模型并可操控第三方应用完成复杂任务，界面采用全屏通透视觉设计并结合动态液态玻璃效果。",
-      "publishedAt": "2026-07-30T16:20:12+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/983/715.htm",
-      "subCategory": "操作系统"
     }
   ]
 }
