@@ -3,8 +3,71 @@
   "slug": "tech",
   "title": "科技新闻",
   "description": "前沿科技、互联网产品、芯片硬件、开源生态。",
-  "updatedAt": "2026-08-02T08:30:00+08:00",
+  "updatedAt": "2026-08-02T17:00:00+08:00",
   "items": [
+    {
+      "title": "盛趣游戏与NC达成战略合作，推动《永恒之塔2》在中国大陆地区上线运营",
+      "summary": "盛趣游戏与韩国游戏公司NC于8月2日在上海举行签约仪式，宣布双方战略合作，推动次世代MMORPG《永恒之塔2》登陆中国大陆。该作基于虚幻引擎5开发，是经典IP《永恒之塔》的正统续作，已于2025年11月19日在韩国正式上线。",
+      "publishedAt": "2026-08-02T16:34:15+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/984/759.htm",
+      "subCategory": "互联网产品",
+      "id": "tech-20260802-101"
+    },
+    {
+      "title": "启元机器人宣布与暴雪《魔兽世界》合作，推出限定“鱼人定制款”Q1机器人",
+      "summary": "消费级具身智能品牌启元机器人在ChinaJoy 2026现场公布与暴雪《魔兽世界》的联名合作，推出限定版“鱼人定制款”Q1机器人。该机型基于Q1探索版模块化设计与开源软硬件能力打造，身高80-88厘米，具备22个自由度，支持轮式、人形、四足三种运动模式。",
+      "publishedAt": "2026-08-02T16:30:31+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/984/758.htm",
+      "subCategory": "机器人",
+      "id": "tech-20260802-102"
+    },
+    {
+      "title": "光荣特库摩游戏《蓝色反射Quartet：少女们的奇迹》发售，国区售价248元",
+      "summary": "光荣特库摩旗下RPG合集《蓝色反射Quartet：少女们的奇迹》已在Steam平台发售，国区定价248元，支持简体中文界面及字幕。作品整合系列四部作品，新增水面反射效果与角色重制画面，并加入移动加速、自动存档等原作没有的功能，需55GB存储空间。",
+      "publishedAt": "2026-08-02T16:23:03+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/983/401.htm",
+      "subCategory": "互联网产品",
+      "id": "tech-20260802-103"
+    },
+    {
+      "title": "迈从God 60磁轴键盘开启预约：16K回报率，提供《凡人修仙传》动画联名款",
+      "summary": "迈从God 60磁轴键盘开启预约，标准版售价999元，联名动画《凡人修仙传》的“合体”版售价1299元，将于8月7日正式开售。键盘采用八角形铝合金外壳，磁悬浮轴体支持16K回报率，宣称延迟低至0.06毫秒，行程精度达0.001毫米。",
+      "publishedAt": "2026-08-02T16:21:20+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/984/755.htm",
+      "subCategory": "消费电子",
+      "id": "tech-20260802-104"
+    },
+    {
+      "title": "Truth Social推出“Truth API”服务，每月10万美元出售特朗普帖文快速访问权",
+      "summary": "特朗普旗下社交平台Truth Social于8月1日上线付费的“Truth API”服务，向高频交易机构收取每月10万美元费用，以提供特朗普关税、军事及政策相关帖文的抢先访问权限。批评者担忧该服务可能造成内幕交易与利益冲突，此前特朗普点评Palantir、英特尔等上市公司曾引发股价波动。",
+      "publishedAt": "2026-08-02T16:15:00+08:00",
+      "source": "36氪",
+      "url": "https://36kr.com/newsflashes/3922088228957576",
+      "subCategory": "互联网产品",
+      "id": "tech-20260802-106"
+    },
+    {
+      "title": "小米米家智能净烟机3白色版本发售：三重净烟、7级吸力，2940元",
+      "summary": "小米米家智能净烟机3白色版本已在京东上线，官方定价2940元，部分地区补贴后到手价低至2499元。产品采用漩涡集烟、高速斜出风、防逃烟风幕组成的三重净烟设计，配备直驱变频电机，风速达14米/秒，支持7档吸力，并内置PM2.5传感器与燃气报警联动米家App功能。",
+      "publishedAt": "2026-08-02T16:12:28+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/984/754.htm",
+      "subCategory": "消费电子",
+      "id": "tech-20260802-105"
+    },
+    {
+      "title": "微信地震预警能力更新，地震预警小程序可反馈震感",
+      "summary": "中国地震台网中心地震预警小程序上线新功能，用户在收到预警并确认安全后可反馈自身震感，相关数据将用于生成震感分布图。此外小程序新增自动位置追踪功能，用户所在地变化时会提醒更新当前位置信息。",
+      "publishedAt": "2026-08-02T11:50:00+08:00",
+      "source": "36氪",
+      "url": "https://36kr.com/newsflashes/3921848794164866",
+      "subCategory": "互联网产品",
+      "id": "tech-20260802-107"
+    },
     {
       "id": "tech-20260802-011",
       "title": "宫本茂：GameCube 销量不佳，促使任天堂打造 Wii、DS",
@@ -339,15 +402,6 @@
       "subCategory": "消费电子"
     },
     {
-      "id": "tech-20260801-r014",
-      "title": "安进公司披露云端数据泄露，患者健康信息及专有数据被窃取",
-      "summary": "美国制药公司安进（Amgen）披露其第三方云服务环境遭未经授权访问，患者受保护健康信息及公司专有数据被窃取，公司已聘请第三方专家展开调查，将按规定通知受影响患者。",
-      "publishedAt": "2026-07-31T18:16:00-04:00",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/amgen-says-cloud-data-breach-exposed-patient-health-proprietary-info/",
-      "subCategory": "安全漏洞"
-    },
-    {
       "id": "tech-20260801-a010",
       "title": "中科宇航携手星际数链 共启力箭二号高轨卫星发射服务新征程",
       "summary": "中科宇航与星际数链签署高轨卫星发射意向协议，将采用力箭二号运载火箭与力巡一号上面级技术，为其提供从发射准备到卫星精准入轨的一体化服务。",
@@ -355,24 +409,6 @@
       "source": "ITBear科技资讯",
       "url": "https://www.itbear.com.cn/html/2026-08/1475582.html",
       "subCategory": "航空航天"
-    },
-    {
-      "id": "tech-20260801-r012",
-      "title": "Arch Linux临时禁用AUR软件包过户功能以阻止恶意软件蔓延",
-      "summary": "Arch Linux社区仓库AUR近期遭遇大规模恶意软件包接管攻击，波及超过200个软件包，官方已暂停软件包过户功能，攻击者通过分阶段恶意程序窃取浏览器凭证与加密钱包信息。",
-      "publishedAt": "2026-07-31T17:38:00-04:00",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/arch-linux-disables-aur-package-adoption-to-stop-malware-flood/",
-      "subCategory": "开源生态"
-    },
-    {
-      "id": "tech-20260801-r013",
-      "title": "广告服务商Adform跟踪脚本遭篡改，用于窃取用户加密货币",
-      "summary": "欧洲广告平台Adform的跟踪脚本trackpoint-async.js遭黑客植入恶意代码，通过监控用户剪贴板替换比特币、以太坊等加密货币钱包地址实施盗窃，攻击持续约一周后被发现并清除。",
-      "publishedAt": "2026-07-31T17:09:00-04:00",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/online-ad-firms-adforms-script-compromised-to-steal-cryptocurrency/",
-      "subCategory": "安全漏洞"
     },
     {
       "id": "tech-20260801-a007",
@@ -420,15 +456,6 @@
       "subCategory": "互联网产品"
     },
     {
-      "id": "tech-20260801-a005",
-      "title": "Tesla reportedly might sell its China business ahead of a SpaceX merger",
-      "summary": "据华尔街日报报道，特斯拉正考虑通过分拆、出售或关闭方式剥离中国业务以推进与SpaceX的潜在合并，马斯克此前已要求高管为此类分离做准备。",
-      "publishedAt": "2026-07-31T06:45:00-07:00",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/31/tesla-reportedly-might-sell-its-china-business-ahead-of-a-spacex-merger/",
-      "subCategory": "智能汽车"
-    },
-    {
       "id": "tech-20260801-a001",
       "title": "网易《逆水寒》黄金畅玩服遭网络攻击致数据丢失，官方致歉并全服回档",
       "summary": "网易《逆水寒》黄金畅玩服于7月30日遭异常流量攻击导致部分数据丢失，团队三小时抢修未能恢复，官方将全服回档至当日9:30并向玩家提供代币和道具补偿。",
@@ -454,6 +481,33 @@
       "source": "IT之家",
       "url": "https://www.ithome.com/0/984/373.htm",
       "subCategory": "智能汽车"
+    },
+    {
+      "id": "tech-20260801-r014",
+      "title": "安进公司披露云端数据泄露，患者健康信息及专有数据被窃取",
+      "summary": "美国制药公司安进（Amgen）披露其第三方云服务环境遭未经授权访问，患者受保护健康信息及公司专有数据被窃取，公司已聘请第三方专家展开调查，将按规定通知受影响患者。",
+      "publishedAt": "2026-07-31T18:16:00-04:00",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/amgen-says-cloud-data-breach-exposed-patient-health-proprietary-info/",
+      "subCategory": "安全漏洞"
+    },
+    {
+      "id": "tech-20260801-r012",
+      "title": "Arch Linux临时禁用AUR软件包过户功能以阻止恶意软件蔓延",
+      "summary": "Arch Linux社区仓库AUR近期遭遇大规模恶意软件包接管攻击，波及超过200个软件包，官方已暂停软件包过户功能，攻击者通过分阶段恶意程序窃取浏览器凭证与加密钱包信息。",
+      "publishedAt": "2026-07-31T17:38:00-04:00",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/arch-linux-disables-aur-package-adoption-to-stop-malware-flood/",
+      "subCategory": "开源生态"
+    },
+    {
+      "id": "tech-20260801-r013",
+      "title": "广告服务商Adform跟踪脚本遭篡改，用于窃取用户加密货币",
+      "summary": "欧洲广告平台Adform的跟踪脚本trackpoint-async.js遭黑客植入恶意代码，通过监控用户剪贴板替换比特币、以太坊等加密货币钱包地址实施盗窃，攻击持续约一周后被发现并清除。",
+      "publishedAt": "2026-07-31T17:09:00-04:00",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/online-ad-firms-adforms-script-compromised-to-steal-cryptocurrency/",
+      "subCategory": "安全漏洞"
     },
     {
       "id": "tech-20260731-m004",
@@ -501,33 +555,6 @@
       "subCategory": "消费电子"
     },
     {
-      "id": "tech-20260801-a011",
-      "title": "Enterprise teams model policy targeting in public preview",
-      "summary": "GitHub推出企业团队模型策略定向公开预览功能，允许管理员在团队级别而非仅组织级别管理AI模型访问权限，多数企业客户将于8月3日起可开启该预览。",
-      "publishedAt": "2026-07-31",
-      "source": "GitHub Changelog",
-      "url": "https://github.blog/changelog/2026-07-31-enterprise-teams-model-policy-targeting-in-public-preview",
-      "subCategory": "开发者工具"
-    },
-    {
-      "id": "tech-20260801-a012",
-      "title": "Restricting npm bypass-2FA granular access tokens",
-      "summary": "GitHub限制npm可绕过双重验证的细粒度访问令牌执行创建令牌、修改包权限等敏感操作，要求改为交互式2FA验证，以防止令牌泄露导致的账户被盗用。",
-      "publishedAt": "2026-07-31",
-      "source": "GitHub Changelog",
-      "url": "https://github.blog/changelog/2026-07-31-restricting-npm-bypass-2fa-granular-access-tokens",
-      "subCategory": "开发者工具"
-    },
-    {
-      "title": "DeepSeek-V4-Flash Update",
-      "summary": "DeepSeek-V4-Flash API进入公开测试，Agent能力显著增强，Terminal Bench 2.1得分82.7、SWE-bench得分54.4，基准表现超越此前V4-Pro-Preview版本，架构不变但经过重新训练。",
-      "publishedAt": "2026-07-31",
-      "source": "DeepSeek API Docs",
-      "url": "https://api-docs.deepseek.com/updates/",
-      "subCategory": "开发者工具",
-      "id": "tech-20260731-n006"
-    },
-    {
       "title": "宇树科技，8月10日启动申购！A股人形机器人第一股来了",
       "summary": "宇树科技科创板IPO获中国证监会批复，8月10日启动申购，成为A股人形机器人第一股，本次发行约4045万股，占发行后总股本10%，2025年营收16.99亿元、净利润5.9亿元，预计2026年上半年营收10.52亿至11.28亿元。",
       "publishedAt": "2026-07-31T07:37:00+08:00",
@@ -553,6 +580,15 @@
       "url": "https://www.ithome.com/0/983/911.htm",
       "subCategory": "消费电子",
       "id": "tech-20260731-n002"
+    },
+    {
+      "id": "tech-20260801-a005",
+      "title": "Tesla reportedly might sell its China business ahead of a SpaceX merger",
+      "summary": "据华尔街日报报道，特斯拉正考虑通过分拆、出售或关闭方式剥离中国业务以推进与SpaceX的潜在合并，马斯克此前已要求高管为此类分离做准备。",
+      "publishedAt": "2026-07-31T06:45:00-07:00",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/31/tesla-reportedly-might-sell-its-china-business-ahead-of-a-spacex-merger/",
+      "subCategory": "智能汽车"
     },
     {
       "title": "South Korea fines telco giant KT $39 million for customer data breach",
@@ -582,22 +618,31 @@
       "id": "tech-20260731-n009"
     },
     {
-      "title": "Microsoft Teams vishing attacks lead to Chaos ransomware attacks",
-      "summary": "安全研究人员发现攻击者伪装成IT支持人员，通过Microsoft Teams语音钓鱼攻击北美数十家企业，诱导员工授予远程访问权限并部署后门，至少三起事件升级为Chaos勒索软件攻击，最快17小时内完成加密。",
-      "publishedAt": "2026-07-30T11:56:00-04:00",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/microsoft-teams-vishing-attacks-lead-to-chaos-ransomware-attacks/",
-      "subCategory": "安全漏洞",
-      "id": "tech-20260730-905"
+      "id": "tech-20260801-a011",
+      "title": "Enterprise teams model policy targeting in public preview",
+      "summary": "GitHub推出企业团队模型策略定向公开预览功能，允许管理员在团队级别而非仅组织级别管理AI模型访问权限，多数企业客户将于8月3日起可开启该预览。",
+      "publishedAt": "2026-07-31",
+      "source": "GitHub Changelog",
+      "url": "https://github.blog/changelog/2026-07-31-enterprise-teams-model-policy-targeting-in-public-preview",
+      "subCategory": "开发者工具"
     },
     {
-      "title": "Analog Devices discloses data breach, says operations unaffected",
-      "summary": "半导体制造商Analog Devices披露6月23日遭遇未经授权访问并被窃取部分文件，公司已启动应急响应并聘请外部安全专家协助调查，称业务运营未受影响，事件或与勒索团伙ExfilSquad有关。",
-      "publishedAt": "2026-07-30T11:12:00-04:00",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/analog-devices-discloses-data-breach-says-operations-unaffected/",
-      "subCategory": "安全漏洞",
-      "id": "tech-20260730-906"
+      "id": "tech-20260801-a012",
+      "title": "Restricting npm bypass-2FA granular access tokens",
+      "summary": "GitHub限制npm可绕过双重验证的细粒度访问令牌执行创建令牌、修改包权限等敏感操作，要求改为交互式2FA验证，以防止令牌泄露导致的账户被盗用。",
+      "publishedAt": "2026-07-31",
+      "source": "GitHub Changelog",
+      "url": "https://github.blog/changelog/2026-07-31-restricting-npm-bypass-2fa-granular-access-tokens",
+      "subCategory": "开发者工具"
+    },
+    {
+      "title": "DeepSeek-V4-Flash Update",
+      "summary": "DeepSeek-V4-Flash API进入公开测试，Agent能力显著增强，Terminal Bench 2.1得分82.7、SWE-bench得分54.4，基准表现超越此前V4-Pro-Preview版本，架构不变但经过重新训练。",
+      "publishedAt": "2026-07-31",
+      "source": "DeepSeek API Docs",
+      "url": "https://api-docs.deepseek.com/updates/",
+      "subCategory": "开发者工具",
+      "id": "tech-20260731-n006"
     },
     {
       "id": "tech-20260731-001",
@@ -625,15 +670,6 @@
       "source": "IT之家",
       "url": "https://www.ithome.com/0/983/899.htm",
       "subCategory": "智能汽车"
-    },
-    {
-      "title": "Zoox clears final federal hurdle to launch paid robotaxi service",
-      "summary": "美国国家公路交通安全管理局批准亚马逊旗下Zoox就其无方向盘无人车获得联邦安全标准临时豁免，允许其率先在拉斯维加斯开始付费载客服务，两年内投放车辆不超过2500辆并接受强化监管。",
-      "publishedAt": "2026-07-30T06:09:00-07:00",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/30/zoox-clears-final-federal-hurdle-to-launch-paid-robotaxi-service/",
-      "subCategory": "智能汽车",
-      "id": "tech-20260730-903"
     },
     {
       "title": "甲骨文、谷歌扩大合作伙伴关系",
@@ -688,42 +724,6 @@
       "source": "IT之家",
       "url": "https://www.ithome.com/0/983/715.htm",
       "subCategory": "操作系统"
-    },
-    {
-      "id": "tech-20260730-020",
-      "title": "铠侠公布首款PCIe Gen6固态硬盘CM10，导入最新BiCS10 TLC",
-      "summary": "铠侠发布首款PCIe Gen6企业级固态硬盘CM10，导入最新BiCS10 TLC闪存，顺序读取性能提升92%，随机读取性能提升85%。产品提供多种形态，容量2TB至64TB，符合NVMe 2.1规范，部分型号支持液冷，已向客户送样。",
-      "publishedAt": "2026-07-30T16:12:10+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/983/692.htm",
-      "subCategory": "芯片硬件"
-    },
-    {
-      "id": "tech-20260730-018",
-      "title": "沃尔沃放弃激光雷达，马斯克称早就警告过他们",
-      "summary": "因激光雷达供应商Luminar申请破产，沃尔沃在多个市场为EX90、ES90车型停用激光雷达功能，挪威已购车用户将获约1800欧元补偿。马斯克在X上回应称此前曾警告过沃尔沃，并重申自动驾驶无需激光雷达。",
-      "publishedAt": "2026-07-30T15:59:41+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/983/668.htm",
-      "subCategory": "智能汽车"
-    },
-    {
-      "id": "tech-20260730-022",
-      "title": "一加手机2026上半年销量同比增13%",
-      "summary": "36氪援引消息称，一加中国区品牌总经理刘宝有在骁龙游戏技术赏活动上透露，2026年上半年一加手机销量同比增长13%，增速位列整个手机行业第一位。",
-      "publishedAt": "2026-07-30T15:51:00+08:00",
-      "source": "36氪",
-      "url": "https://36kr.com/newsflashes/3917838606445960",
-      "subCategory": "消费电子"
-    },
-    {
-      "id": "tech-20260730-021",
-      "title": "SpaceX星舰第13次试飞成功，马斯克称着陆精度已达塔架回收标准",
-      "summary": "SpaceX星舰完成第13次试飞，成功部署20颗星链V3卫星，并在溅落前于太空完成发动机重新点火。马斯克称此次着陆精度之高足以被发射塔机械臂捕获，SpaceX计划在第14次试飞中尝试机械臂直接回收飞船。",
-      "publishedAt": "2026-07-30T15:21:44+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/983/644.htm",
-      "subCategory": "航空航天"
     }
   ]
 }

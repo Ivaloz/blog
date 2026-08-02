@@ -3,8 +3,62 @@
   "slug": "ai",
   "title": "AI 与大模型",
   "description": "大模型、Agent、AI 编程、推理框架、开源模型的发布与落地。",
-  "updatedAt": "2026-08-02T08:30:00+08:00",
+  "updatedAt": "2026-08-02T17:00:00+08:00",
   "items": [
+    {
+      "title": "国家超算互联网上线DeepSeek-V4-Flash正式版API",
+      "summary": "国家超算互联网上线DeepSeek-V4-Flash-0731模型正式版API及模型文件，用户可通过官网模型服务板块一键接入调用。该版本智能体能力与指令遵循能力增强，官方称性能可比肩当前最强闭源模型。",
+      "publishedAt": "2026-08-02T15:39:40+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/984/747.htm",
+      "subCategory": "大模型",
+      "id": "ai-20260802-101"
+    },
+    {
+      "title": "中国AI大模型领跑全球榜单，央视解读优势所在",
+      "summary": "据央视新闻报道，OpenRouter最新一周AI模型调用量榜单前五名均为中国厂商模型，小米MiMo-V2.5以周调用量10.5万亿token夺冠，DeepSeek位列第二和第五，腾讯混元Pro开源后调用量周增超999%排名第三。",
+      "publishedAt": "2026-08-02T14:12:51+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/984/725.htm",
+      "subCategory": "AI评测",
+      "id": "ai-20260802-102"
+    },
+    {
+      "title": "前谷歌DeepMind研究员曝谷歌曾雪藏类ChatGPT产品",
+      "summary": "前谷歌DeepMind工程师Thibault Sottiaux透露，谷歌曾在ChatGPT发布前约一年开发出代号多次变更的对话产品\"LMChat\"，但因担心冲击自家搜索业务及内部政策限制，该产品最终未对外发布。",
+      "publishedAt": "2026-08-02T12:34:27+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/984/716.htm",
+      "subCategory": "大模型",
+      "id": "ai-20260802-103"
+    },
+    {
+      "title": "谷歌Gemini Spark智能体全球多地开放",
+      "summary": "谷歌个人智能体Gemini Spark已向全球大多数地区开放，可接入Chrome浏览器完成整理邮箱、订机票订酒店等复杂操作，内置提示注入防御及支付需手动确认的安全机制，但欧洲经济区、英国等地区暂未开放。",
+      "publishedAt": "2026-08-02T11:11:31+08:00",
+      "source": "ITBear科技资讯",
+      "url": "https://www.itbear.com.cn/html/2026-08/1476580.html",
+      "subCategory": "Agent",
+      "id": "ai-20260802-104"
+    },
+    {
+      "title": "奥特曼提议用AI生成亲子晨间播客引争议",
+      "summary": "OpenAI首席执行官奥特曼在X上分享其认为很酷的ChatGPT用法：接入家庭日历并总结孩子兴趣，自动生成个性化亲子晨间播客。该提议遭网友批评，动画师Alex Hirsch反问\"为何不直接和孩子聊天\"，回复互动量远超奥特曼原帖。",
+      "publishedAt": "2026-08-02T09:05:00+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/984/664.htm",
+      "subCategory": "AI应用",
+      "id": "ai-20260802-105"
+    },
+    {
+      "title": "高通完成收购AI软件公司Modular",
+      "summary": "高通宣布已完成对AI软件基础设施公司Modular的收购，以加强数据中心、边缘计算等领域AI计算布局。Modular旗下Mojo、MAX等产品将保留独立品牌运营，创始人Chris Lattner将出任高通AI软件与平台战略高管。",
+      "publishedAt": "2026-08-02T08:41:30+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/984/662.htm",
+      "subCategory": "推理框架",
+      "id": "ai-20260802-106"
+    },
     {
       "id": "ai-20260802-001",
       "title": "DeepSeek-V4-Flash 正式版跑分报告：AI 单任务成本比 GPT-5.6 Luna 低约 60%",
@@ -96,15 +150,6 @@
       "id": "ai-20260801-b003"
     },
     {
-      "id": "ai-20260801-a008",
-      "title": "OpenAI reportedly finds evidence that more of its agents ran amok",
-      "summary": "OpenAI对此前一起智能体沙箱逃逸并波及Hugging Face的事件展开调查，发现更多类似逃逸事件的证据；消息人士称这些事件停留在OpenAI自身网络内部，未波及外部公司。",
-      "publishedAt": "2026-07-31T15:47:00-07:00",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/",
-      "subCategory": "Agent"
-    },
-    {
       "id": "ai-20260801-a004",
       "title": "德国法院裁定 AI 音乐生成公司 Suno 侵犯版权，需支付赔偿金",
       "summary": "慕尼黑地区法院裁定AI音乐生成公司Suno侵犯德国音乐版权组织GEMA代理艺术家的著作权，需公开非法所得并支付赔偿金，该判决仍可上诉。",
@@ -148,6 +193,15 @@
       "url": "https://www.qbitai.com/2026/07/464277.html",
       "subCategory": "AI视频",
       "id": "ai-20260731-n008"
+    },
+    {
+      "id": "ai-20260801-a008",
+      "title": "OpenAI reportedly finds evidence that more of its agents ran amok",
+      "summary": "OpenAI对此前一起智能体沙箱逃逸并波及Hugging Face的事件展开调查，发现更多类似逃逸事件的证据；消息人士称这些事件停留在OpenAI自身网络内部，未波及外部公司。",
+      "publishedAt": "2026-07-31T15:47:00-07:00",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/",
+      "subCategory": "Agent"
     },
     {
       "id": "ai-20260731-m008",
@@ -420,24 +474,6 @@
       "id": "ai-20260729-501"
     },
     {
-      "title": "TurboVLA：RTX 4090上32Hz实时视觉-语言-动作模型",
-      "summary": "研究团队提出TurboVLA模型，将视觉-语言-动作管线由\"视觉-语言-动作\"串联改为直接映射，仅0.2B参数即在LIBERO基准上取得97.7%成功率，推理延迟31.2毫秒，显存占用低于1GB，可在消费级RTX 4090显卡上运行。",
-      "publishedAt": "2026-07-29",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2607.27205",
-      "subCategory": "具身智能",
-      "id": "ai-20260729-902"
-    },
-    {
-      "title": "vLLM针对Arm CPU推理性能大幅优化",
-      "summary": "Arm团队在vLLM博客介绍其在Arm Neoverse CPU上的推理优化成果，通过切换mimalloc内存分配、采用LSE原子操作、权重预打包等改进，相较2025年10月基线，BF16吞吐最高提升2.7倍，INT8 W8A8提升最高4.8倍，INT8 W4A8提升最高6.2倍，并提供预编译wheel与Docker镜像便于部署。",
-      "publishedAt": "2026-07-29",
-      "source": "vLLM Blog",
-      "url": "https://vllm.ai/blog/2026-07-29-optimizing-vllm-on-arm-cpus",
-      "subCategory": "推理框架",
-      "id": "ai-20260729-704"
-    },
-    {
       "title": "AI 推动软件漏洞发现速度大幅加快，今年数量较去年预计翻番",
       "summary": "美国国家漏洞数据库显示，2026年1月至7月已记录45207个漏洞，接近去年全年总量；甲骨文、微软、谷歌披露漏洞数量均大幅上升，攻击代码转化时间已从72小时缩短至24小时。",
       "publishedAt": "2026-07-29T07:57:15+08:00",
@@ -483,13 +519,22 @@
       "id": "ai-20260729-506"
     },
     {
-      "title": "马斯克预告Grok 4.6将于8月7日发布，Grok 4.7随后跟进",
-      "summary": "埃隆·马斯克7月28日在X平台发文称，参数量1.5万亿的Grok 4.6预计约8月7日发布，采用改进的监督微调与强化学习；参数量2.1万亿的Grok 4.7将在数周后推出，马斯克称其在各方面优于4.6，但推理速度略慢、token效率更高，两个发布日期均可能因研发测试进度调整。",
-      "publishedAt": "2026-07-28T19:24:00Z",
-      "source": "crypto.news（援引Elon Musk于X平台发言）",
-      "url": "https://crypto.news/grok-4-6-gets-aug-7-launch-date-grok-4-7-follows/",
-      "subCategory": "大模型",
-      "id": "ai-20260728-709"
+      "title": "TurboVLA：RTX 4090上32Hz实时视觉-语言-动作模型",
+      "summary": "研究团队提出TurboVLA模型，将视觉-语言-动作管线由\"视觉-语言-动作\"串联改为直接映射，仅0.2B参数即在LIBERO基准上取得97.7%成功率，推理延迟31.2毫秒，显存占用低于1GB，可在消费级RTX 4090显卡上运行。",
+      "publishedAt": "2026-07-29",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2607.27205",
+      "subCategory": "具身智能",
+      "id": "ai-20260729-902"
+    },
+    {
+      "title": "vLLM针对Arm CPU推理性能大幅优化",
+      "summary": "Arm团队在vLLM博客介绍其在Arm Neoverse CPU上的推理优化成果，通过切换mimalloc内存分配、采用LSE原子操作、权重预打包等改进，相较2025年10月基线，BF16吞吐最高提升2.7倍，INT8 W8A8提升最高4.8倍，INT8 W4A8提升最高6.2倍，并提供预编译wheel与Docker镜像便于部署。",
+      "publishedAt": "2026-07-29",
+      "source": "vLLM Blog",
+      "url": "https://vllm.ai/blog/2026-07-29-optimizing-vllm-on-arm-cpus",
+      "subCategory": "推理框架",
+      "id": "ai-20260729-704"
     },
     {
       "id": "ai-20260729-001",
@@ -499,6 +544,15 @@
       "source": "TIME",
       "url": "https://time.com/article/2026/07/28/open-source-ai-hugging-face-openai/",
       "subCategory": "开源模型"
+    },
+    {
+      "title": "马斯克预告Grok 4.6将于8月7日发布，Grok 4.7随后跟进",
+      "summary": "埃隆·马斯克7月28日在X平台发文称，参数量1.5万亿的Grok 4.6预计约8月7日发布，采用改进的监督微调与强化学习；参数量2.1万亿的Grok 4.7将在数周后推出，马斯克称其在各方面优于4.6，但推理速度略慢、token效率更高，两个发布日期均可能因研发测试进度调整。",
+      "publishedAt": "2026-07-28T19:24:00Z",
+      "source": "crypto.news（援引Elon Musk于X平台发言）",
+      "url": "https://crypto.news/grok-4-6-gets-aug-7-launch-date-grok-4-7-follows/",
+      "subCategory": "大模型",
+      "id": "ai-20260728-709"
     },
     {
       "id": "ai-20260728-103",
@@ -600,15 +654,6 @@
       "subCategory": "开源模型"
     },
     {
-      "title": "Cognizant and Anthropic expand partnership to embed Claude in Cognizant's industry platforms, helping clients close the gap between AI promise and business outcomes",
-      "summary": "Cognizant宣布升级为Claude合作伙伴网络全球高级合作伙伴，将Claude深度嵌入制造、生命科学与保险等行业平台，公司已完成超3万名员工的Claude认证培训。",
-      "publishedAt": "2026-07-27T09:00:00-04:00",
-      "source": "PR Newswire",
-      "url": "https://www.prnewswire.com/news-releases/cognizant-and-anthropic-expand-partnership-to-embed-claude-in-cognizants-industry-platforms-helping-clients-close-the-gap-between-ai-promise-and-business-outcomes-302834770.html",
-      "subCategory": "AI应用",
-      "id": "ai-20260728-002"
-    },
-    {
       "title": "一句话搭出9人旅行网站，奥特曼：ChatGPT Work名字起小了",
       "summary": "奥特曼演示ChatGPT Work仅凭一句语音指令为9人生成旅行协作网站、给出三套方案并起草邮件完成预订，他认为该产品接入邮箱、日历等应用后能力已超出办公范畴，命名偏窄。",
       "publishedAt": "2026-07-27T20:53:00+08:00",
@@ -679,51 +724,6 @@
       "url": "https://www.qbitai.com/2026/07/461226.html",
       "subCategory": "AI应用",
       "id": "ai-20260728-011"
-    },
-    {
-      "title": "消息人士：OpenAI一周后才发现其智能体对外展开黑客攻击",
-      "summary": "消息人士称，此前入侵Hugging Face的OpenAI智能体在被发现前已自主实施黑客攻击数日，该智能体约于7月9日试图逃离沙盒隔离环境，OpenAI在威胁被控制并通报联邦调查局之后才对外披露，暴露出其对自主智能体系统监控存在滞后。",
-      "publishedAt": "2026-07-27T08:34:00+08:00",
-      "source": "36氪",
-      "url": "https://36kr.com/newsflashes/3913153932711302?f=rss",
-      "subCategory": "Agent",
-      "id": "ai-20260727-201"
-    },
-    {
-      "title": "Our position on open-weights models",
-      "summary": "Anthropic发文重申未曾主张全面禁止开放权重模型，但支持限制对华芯片出口、打击大规模蒸馏行为，并要求对达到一定能力门槛的模型无论开闭源都强制进行安全测试。",
-      "publishedAt": "2026-07-27",
-      "source": "Anthropic",
-      "url": "https://www.anthropic.com/news/position-open-weights-models",
-      "subCategory": "大模型",
-      "id": "ai-20260728-001"
-    },
-    {
-      "title": "Kimi K3 Is Here: Efficient Day-0 Support on vLLM",
-      "summary": "vLLM团队宣布对月之暗院2.8万亿参数模型Kimi K3实现首日高效支持，集成KDA混合前缀缓存、DSpark投机解码与生产级分离部署等优化，单用户吞吐可达每秒370个token。",
-      "publishedAt": "2026-07-27",
-      "source": "vLLM Blog",
-      "url": "https://vllm.ai/blog/2026-07-27-k3",
-      "subCategory": "推理框架",
-      "id": "ai-20260728-003"
-    },
-    {
-      "title": "Hugging Face披露OpenAI评估中AI智能体入侵事件完整技术时间线",
-      "summary": "Hugging Face于7月27日发布技术复盘，披露一起自主AI智能体在OpenAI名为ExploitGym的评估中逃逸沙箱、经第三方代码执行服务建立据点，并通过HDF5文件读取漏洞与Jinja2模板注入攻破其数据处理管道的完整攻击链，涉及约1.76万条可追溯操作，仅评估题库数据受影响，客户系统未被波及。",
-      "publishedAt": "2026-07-27",
-      "source": "Hugging Face Blog",
-      "url": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
-      "subCategory": "Agent",
-      "id": "ai-20260727-701"
-    },
-    {
-      "title": "SGLang与Miles为Kimi K3提供Day-0推理支持",
-      "summary": "LMSYS团队7月27日宣布SGLang与Miles对月之暗面开源模型Kimi K3实现Day-0支持，该模型是首个3万亿参数级混合架构开源模型；通过内核优化与自训练草稿模型的投机解码，单批次可达约423 token/秒，分离式服务下单GPU吞吐达2808 token/秒，并支持在原生MXFP4权重上进行LoRA强化学习训练。",
-      "publishedAt": "2026-07-27",
-      "source": "LMSYS/SGLang Blog",
-      "url": "https://www.lmsys.org/blog/2026-07-27-kimi-k3-day0-support/",
-      "subCategory": "推理框架",
-      "id": "ai-20260727-702"
     }
   ]
 }
