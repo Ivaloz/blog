@@ -3,8 +3,35 @@
   "slug": "finance",
   "title": "投资与财经",
   "description": "宏观经济、A 股 / 港股 / 美股、一级市场融资、行业研报观点。",
-  "updatedAt": "2026-08-03T01:00:00+08:00",
+  "updatedAt": "2026-08-03T09:15:00+08:00",
   "items": [
+    {
+      "id": "finance-20260803-003",
+      "title": "韩国KOSPI指数跌幅扩大至5%",
+      "summary": "8月3日，韩国KOSPI指数盘中跌幅扩大至5%，市场出现明显下行波动。",
+      "publishedAt": "2026-08-03T08:27:00+08:00",
+      "source": "36氪",
+      "url": "https://36kr.com/newsflashes/3923064912490114",
+      "subCategory": "风险事件"
+    },
+    {
+      "id": "finance-20260803-002",
+      "title": "核电大消息 总投资将超1700亿元！机构扎堆调研的核电概念股出炉",
+      "summary": "国务院7月31日核准的四个核电项目共8台机组总投资预计超1700亿元，涉及浙江金七门核电二期（3、4号机组）、广东太平岭核电三期（5、6号机组）、辽宁庄河核电一期（1、2号机组）及山东莱阳核电一期（1、2号机组），中广核、中国核电、国家电投三家公司分别披露核准公告。43只核电概念股中，14只年内获10家以上机构调研，5只机构调研次数超50次。",
+      "publishedAt": "2026-08-03T07:23:00+08:00",
+      "source": "数据宝（东方财富网）",
+      "url": "https://finance.eastmoney.com/a/202608033829224727.html",
+      "subCategory": "A股"
+    },
+    {
+      "id": "finance-20260803-001",
+      "title": "清晨利好突袭！美股、黄金全线拉升！特朗普称美伊3日将举行谈判",
+      "summary": "8月3日早间，美股期货全线上涨，纳指100期货涨0.78%，标普500期货涨0.44%，道指期货涨0.4%，现货黄金涨0.64%，白银涨1.5%；同时WTI原油跌4.55%，布伦特原油跌6.89%。美国总统特朗普表示美伊将于“第三天”举行谈判，称霍尔木兹海峡问题已达成协议，去核化问题也将达成协议，此前市场担忧的军事打击风险随之降温。",
+      "publishedAt": "2026-08-03T05:43:00+08:00",
+      "source": "券商中国（东方财富网）",
+      "url": "https://finance.eastmoney.com/a/202608033829201840.html",
+      "subCategory": "风险事件"
+    },
     {
       "title": "4家企业现新进展：信诺维注册生效 韬盛科技、荣信汇科终止IPO",
       "summary": "科创板创新药企信诺维IPO注册生效，拟募资29.4亿元，2025年营收9.35亿元、净利润2.03亿元；芯片测试接口企业韬盛科技与电力设备企业荣信汇科分别于7月29日、27日终止IPO。",
@@ -321,15 +348,6 @@
       "subCategory": "风险事件"
     },
     {
-      "id": "finance-20260801-a007",
-      "title": "Exxon Mobil, Chevron Second-Quarter Results Rise Amid Higher Oil Prices",
-      "summary": "埃克森美孚公布第二季度盈利145亿美元，每股3.48美元，但低于市场预期；雪佛龙净利润121亿美元，同比大增，两家公司均受益于中东局势推升的原油价格上涨。",
-      "publishedAt": "2026-07-31T11:02:00-04:00",
-      "source": "MarketScreener",
-      "url": "https://www.marketscreener.com/news/exxon-mobil-chevron-second-quarter-results-rise-amid-higher-oil-prices-ce7f50d8d988f527",
-      "subCategory": "公司财报"
-    },
-    {
       "id": "finance-20260731-m004",
       "title": "苹果股价开盘跌超 9%，创 2025 年 4 月以来最大跌幅",
       "summary": "苹果公布2026财年第三财季财报，营收1094.17亿美元同比增长16.4%，净利润297.89亿美元同比增长27%，然而开盘后股价瞬间跌超9%，因市场预期第四财季营收增长12.1%，而公司指引仅为9%至11%增长。",
@@ -337,24 +355,6 @@
       "source": "IT之家",
       "url": "https://www.ithome.com/0/984/384.htm",
       "subCategory": "美股"
-    },
-    {
-      "id": "finance-20260801-a011",
-      "title": "慧荣科技2026年第二季度收入持续创历史新高",
-      "summary": "慧荣科技第二季度营收4.51亿美元，环比增长32%、同比增长127%，毛利率50.2%，公司将第三季度营收指引上调，预计全年营收同比增长超100%。",
-      "publishedAt": "2026-07-31",
-      "source": "Silicon Motion Technology Corporation",
-      "url": "https://siliconmotiontechnologycorporation.gcs-web.com/news-releases/news-release-details-87",
-      "subCategory": "公司财报"
-    },
-    {
-      "title": "港股午评：恒指跌0.11% 科指涨0.7% AI应用股普涨 存储概念股暴力反弹 南方两倍做多海力士涨近60%",
-      "summary": "7月31日港股午盘，恒生指数跌0.11%，恒生科技指数涨0.7%，国企指数跌0.41%；AI应用股普遍走强，智谱涨超20%，存储概念股大幅反弹，南方两倍做多海力士杠杆产品涨近60%，联想涨超7%，小米跌超6%。",
-      "publishedAt": "2026-07-31",
-      "source": "新浪财经",
-      "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-07-31/doc-inikshrr1415957.shtml",
-      "subCategory": "港股",
-      "id": "finance-20260731-n009"
     },
     {
       "id": "finance-20260801-a008",
@@ -391,6 +391,15 @@
       "source": "财联社",
       "url": "https://m.cls.cn/detail/2442493",
       "subCategory": "A股"
+    },
+    {
+      "id": "finance-20260801-a007",
+      "title": "Exxon Mobil, Chevron Second-Quarter Results Rise Amid Higher Oil Prices",
+      "summary": "埃克森美孚公布第二季度盈利145亿美元，每股3.48美元，但低于市场预期；雪佛龙净利润121亿美元，同比大增，两家公司均受益于中东局势推升的原油价格上涨。",
+      "publishedAt": "2026-07-31T11:02:00-04:00",
+      "source": "MarketScreener",
+      "url": "https://www.marketscreener.com/news/exxon-mobil-chevron-second-quarter-results-rise-amid-higher-oil-prices-ce7f50d8d988f527",
+      "subCategory": "公司财报"
     },
     {
       "id": "finance-20260801-a004",
@@ -474,13 +483,22 @@
       "subCategory": "公司财报"
     },
     {
-      "title": "美国30年期抵押贷款利率升至6.66%，创一年新高",
-      "summary": "Freddie Mac数据显示，截至7月30日当周，美国30年期固定抵押贷款平均利率升至6.66%，较前一周的6.58%继续走高，为过去一年最高水平；15年期利率同步升至6.04%，反映美联储维持高利率对住房融资成本的持续压力。",
-      "publishedAt": "2026-07-30T12:01:00-04:00",
-      "source": "WSLS 10 / Freddie Mac",
-      "url": "https://www.wsls.com/business/2026/07/30/average-30-year-us-mortgage-rate-rises-to-highest-level-in-a-year-at-666/",
-      "subCategory": "宏观经济",
-      "id": "finance-20260730-903"
+      "id": "finance-20260801-a011",
+      "title": "慧荣科技2026年第二季度收入持续创历史新高",
+      "summary": "慧荣科技第二季度营收4.51亿美元，环比增长32%、同比增长127%，毛利率50.2%，公司将第三季度营收指引上调，预计全年营收同比增长超100%。",
+      "publishedAt": "2026-07-31",
+      "source": "Silicon Motion Technology Corporation",
+      "url": "https://siliconmotiontechnologycorporation.gcs-web.com/news-releases/news-release-details-87",
+      "subCategory": "公司财报"
+    },
+    {
+      "title": "港股午评：恒指跌0.11% 科指涨0.7% AI应用股普涨 存储概念股暴力反弹 南方两倍做多海力士涨近60%",
+      "summary": "7月31日港股午盘，恒生指数跌0.11%，恒生科技指数涨0.7%，国企指数跌0.41%；AI应用股普遍走强，智谱涨超20%，存储概念股大幅反弹，南方两倍做多海力士杠杆产品涨近60%，联想涨超7%，小米跌超6%。",
+      "publishedAt": "2026-07-31",
+      "source": "新浪财经",
+      "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-07-31/doc-inikshrr1415957.shtml",
+      "subCategory": "港股",
+      "id": "finance-20260731-n009"
     },
     {
       "title": "核聚变公司Commonwealth Fusion Systems完成10亿美元新一轮融资",
@@ -528,42 +546,6 @@
       "id": "finance-20260731-n005"
     },
     {
-      "title": "现货黄金盘中触及4130美元/盎司，续创阶段新高",
-      "summary": "美联储维持利率不变后，现货黄金价格走高，盘中一度触及4130.90美元/盎司，较前一交易日上涨约0.6%；市场分析认为，美联储主席沃什的偏鹰派表态与中东地缘政治紧张局势共同支撑了黄金的避险需求。",
-      "publishedAt": "2026-07-30T08:33:00-04:00",
-      "source": "雅虎财经",
-      "url": "https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-thursday-july-30-2026-gold-prices-crest-4100-after-fed-holds-rates-steady-123355668.html",
-      "subCategory": "大宗商品",
-      "id": "finance-20260730-902"
-    },
-    {
-      "title": "美国二季度GDP初值增长放缓至1.5%，6月核心PCE通胀降至3.3%",
-      "summary": "美国商务部数据显示，二季度实际GDP按年率增长1.5%，低于市场预期的2.1%，较一季度2.1%明显放缓，主因联邦政府支出下滑；同日公布的6月核心PCE物价指数同比上涨3.3%，较5月的3.4%小幅回落，仍高于美联储2%的长期目标。",
-      "publishedAt": "2026-07-30T08:30:00-04:00",
-      "source": "美国经济分析局(BEA)",
-      "url": "https://www.bea.gov/news/2026/gdp-advance-estimate-2nd-quarter-2026",
-      "subCategory": "宏观经济",
-      "id": "finance-20260730-901"
-    },
-    {
-      "id": "finance-20260801-a010",
-      "title": "Qualcomm Q3 2026 earnings: profit drops 25% on higher costs",
-      "summary": "高通2026财年第三季度营收99.5亿美元同比降4%，净利润20亿美元同比降25%，手机芯片业务受存储器涨价冲击，公司宣布9月起对相关芯片提价。",
-      "publishedAt": "2026-07-30T07:05:00-05:00",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-q3-2026-earnings-profit-120521329.html",
-      "subCategory": "公司财报"
-    },
-    {
-      "id": "finance-20260801-a009",
-      "title": "Samsung Electronics Announces Second Quarter 2026 Results",
-      "summary": "三星电子第二季度营业利润达89.5万亿韩元创历史新高，同比大增超18倍，主因AI服务器存储芯片需求旺盛，移动业务因元件成本上升出现经营亏损。",
-      "publishedAt": "2026-07-30",
-      "source": "Samsung Newsroom",
-      "url": "https://news.samsung.com/global/samsung-electronics-announces-second-quarter-2026-results",
-      "subCategory": "公司财报"
-    },
-    {
       "id": "finance-20260730-007",
       "title": "A股收评：三大指数集体下挫",
       "summary": "A股收盘三大指数集体下挫，上证指数跌0.62%，深证成指跌2.73%，创业板指跌3.97%，超3600只个股下跌；通信设备、半导体板块跌幅居前，酒类、汽车、银行板块上涨。",
@@ -571,6 +553,15 @@
       "source": "中国新闻网",
       "url": "https://www.chinanews.com.cn/cj/2026/07-30/10669273.shtml",
       "subCategory": "A股"
+    },
+    {
+      "title": "美国30年期抵押贷款利率升至6.66%，创一年新高",
+      "summary": "Freddie Mac数据显示，截至7月30日当周，美国30年期固定抵押贷款平均利率升至6.66%，较前一周的6.58%继续走高，为过去一年最高水平；15年期利率同步升至6.04%，反映美联储维持高利率对住房融资成本的持续压力。",
+      "publishedAt": "2026-07-30T12:01:00-04:00",
+      "source": "WSLS 10 / Freddie Mac",
+      "url": "https://www.wsls.com/business/2026/07/30/average-30-year-us-mortgage-rate-rises-to-highest-level-in-a-year-at-666/",
+      "subCategory": "宏观经济",
+      "id": "finance-20260730-903"
     },
     {
       "id": "finance-20260730-006",
@@ -591,6 +582,24 @@
       "subCategory": "大宗商品"
     },
     {
+      "title": "现货黄金盘中触及4130美元/盎司，续创阶段新高",
+      "summary": "美联储维持利率不变后，现货黄金价格走高，盘中一度触及4130.90美元/盎司，较前一交易日上涨约0.6%；市场分析认为，美联储主席沃什的偏鹰派表态与中东地缘政治紧张局势共同支撑了黄金的避险需求。",
+      "publishedAt": "2026-07-30T08:33:00-04:00",
+      "source": "雅虎财经",
+      "url": "https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-thursday-july-30-2026-gold-prices-crest-4100-after-fed-holds-rates-steady-123355668.html",
+      "subCategory": "大宗商品",
+      "id": "finance-20260730-902"
+    },
+    {
+      "title": "美国二季度GDP初值增长放缓至1.5%，6月核心PCE通胀降至3.3%",
+      "summary": "美国商务部数据显示，二季度实际GDP按年率增长1.5%，低于市场预期的2.1%，较一季度2.1%明显放缓，主因联邦政府支出下滑；同日公布的6月核心PCE物价指数同比上涨3.3%，较5月的3.4%小幅回落，仍高于美联储2%的长期目标。",
+      "publishedAt": "2026-07-30T08:30:00-04:00",
+      "source": "美国经济分析局(BEA)",
+      "url": "https://www.bea.gov/news/2026/gdp-advance-estimate-2nd-quarter-2026",
+      "subCategory": "宏观经济",
+      "id": "finance-20260730-901"
+    },
+    {
       "title": "美联储9票赞成3票反对维持利率不变，美股大跌道指跌超1100点",
       "summary": "美联储FOMC以9票赞成3票反对，维持联邦基金利率目标区间在3.50%-3.75%不变，三位地方联储主席主张加息25个基点。决议公布后美股大跌，道指跌超1100点跌2.19%，纳指跌1.74%，英伟达跌超3.5%，美光跌近10%。",
       "publishedAt": "2026-07-30T08:08:31+08:00",
@@ -606,6 +615,24 @@
       "publishedAt": "2026-07-30T07:41:33+08:00",
       "source": "新浪财经",
       "url": "https://www.163.com/dy/article/L32OESJM0511CPVM.html",
+      "subCategory": "公司财报"
+    },
+    {
+      "id": "finance-20260801-a010",
+      "title": "Qualcomm Q3 2026 earnings: profit drops 25% on higher costs",
+      "summary": "高通2026财年第三季度营收99.5亿美元同比降4%，净利润20亿美元同比降25%，手机芯片业务受存储器涨价冲击，公司宣布9月起对相关芯片提价。",
+      "publishedAt": "2026-07-30T07:05:00-05:00",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-q3-2026-earnings-profit-120521329.html",
+      "subCategory": "公司财报"
+    },
+    {
+      "id": "finance-20260801-a009",
+      "title": "Samsung Electronics Announces Second Quarter 2026 Results",
+      "summary": "三星电子第二季度营业利润达89.5万亿韩元创历史新高，同比大增超18倍，主因AI服务器存储芯片需求旺盛，移动业务因元件成本上升出现经营亏损。",
+      "publishedAt": "2026-07-30",
+      "source": "Samsung Newsroom",
+      "url": "https://news.samsung.com/global/samsung-electronics-announces-second-quarter-2026-results",
       "subCategory": "公司财报"
     },
     {
@@ -634,42 +661,6 @@
       "url": "https://finance.eastmoney.com/a/202607293825315290.html",
       "subCategory": "A股",
       "id": "finance-20260730-003"
-    },
-    {
-      "id": "finance-20260801-a012",
-      "title": "Arm Holdings plc Reports Results for the First Quarter of the Fiscal Year Ending 2027",
-      "summary": "Arm公布截至6月30日的2027财年第一季度业绩，总营收12.89亿美元同比增长22%，版税与授权收入均创同期新高，AI数据中心需求持续拉动增长。",
-      "publishedAt": "2026-07-29",
-      "source": "Businesswire",
-      "url": "https://www.businesswire.com/news/home/20260729964548/en/Arm-Holdings-plc-Reports-Results-for-the-First-Quarter-of-the-Fiscal-Year-Ending-2027",
-      "subCategory": "公司财报"
-    },
-    {
-      "id": "finance-20260801-a013",
-      "title": "Coursera Reports Second Quarter 2026 Financial Results",
-      "summary": "Coursera公布完成收购Udemy后的首个季度财报，营收2.99亿美元同比增长59.6%，企业营收接近翻倍，全年营收指引上调至12.2亿至12.45亿美元。",
-      "publishedAt": "2026-07-29",
-      "source": "Coursera Investor Relations",
-      "url": "https://investor.coursera.com/news/news-details/2026/Coursera-Reports-Second-Quarter-2026-Financial-Results/default.aspx",
-      "subCategory": "公司财报"
-    },
-    {
-      "title": "Brent Crude Oil Price",
-      "summary": "受中东地缘局势持续升级影响，布伦特原油期货价格7月29日大涨7.33%，报每桶90.25美元，市场担忧地区冲突可能进一步扰乱能源供应及主要航运通道运输。",
-      "publishedAt": "2026-07-29",
-      "source": "Trading Economics",
-      "url": "https://tradingeconomics.com/commodity/brent-crude-oil",
-      "subCategory": "大宗商品",
-      "id": "finance-20260729-707"
-    },
-    {
-      "title": "微软公布2026财年第四季度财报，Azure云收入增长43%创四年最快增速",
-      "summary": "微软第四财季营收900亿美元，同比增长18%，GAAP净利润358亿美元同比增长31%；Azure及其他云服务收入同比增长43%，全年Azure收入首次突破1000亿美元，Microsoft 365 Copilot付费席位超过3000万。",
-      "publishedAt": "2026-07-29",
-      "source": "微软官方新闻",
-      "url": "https://news.microsoft.com/source/2026/07/29/microsoft-cloud-and-ai-strength-fuels-fourth-quarter-results-4/",
-      "subCategory": "公司财报",
-      "id": "finance-20260731-n001"
     },
     {
       "title": "华锦股份副总经理闫增辉被立案调查并留置",
@@ -724,6 +715,15 @@
       "url": "https://finance.sina.com.cn/stock/y/2026-07-29/doc-inikmivx2772124.shtml",
       "subCategory": "宏观经济",
       "id": "finance-20260729-713"
+    },
+    {
+      "id": "finance-20260801-a012",
+      "title": "Arm Holdings plc Reports Results for the First Quarter of the Fiscal Year Ending 2027",
+      "summary": "Arm公布截至6月30日的2027财年第一季度业绩，总营收12.89亿美元同比增长22%，版税与授权收入均创同期新高，AI数据中心需求持续拉动增长。",
+      "publishedAt": "2026-07-29",
+      "source": "Businesswire",
+      "url": "https://www.businesswire.com/news/home/20260729964548/en/Arm-Holdings-plc-Reports-Results-for-the-First-Quarter-of-the-Fiscal-Year-Ending-2027",
+      "subCategory": "公司财报"
     }
   ]
 }

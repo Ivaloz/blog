@@ -3,8 +3,17 @@
   "slug": "ai",
   "title": "AI 与大模型",
   "description": "大模型、Agent、AI 编程、推理框架、开源模型的发布与落地。",
-  "updatedAt": "2026-08-03T01:00:00+08:00",
+  "updatedAt": "2026-08-03T09:15:00+08:00",
   "items": [
+    {
+      "id": "ai-20260803-001",
+      "title": "经济学家汉克：AI成本极高，难以大规模取代人力",
+      "summary": "约翰霍普金斯大学经济学教授史蒂夫·汉克表示，AI并不会像部分观点认为的那样趋于免费或近乎零成本，该技术需要消耗大量水、电力及GPU等实体资本。微软、Alphabet、亚马逊、Meta今年AI基础设施资本开支合计约7000亿美元，到2027年或达1万亿美元。汉克认为多数情况下使用AI的成本高于雇佣员工，企业不会大规模以AI替代人力，这与AI软件复制成本趋近于零的传统逻辑不同。",
+      "publishedAt": "2026-08-03T07:28:16+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/984/835.htm",
+      "subCategory": "AI应用"
+    },
     {
       "title": "国家超算互联网上线DeepSeek-V4-Flash正式版API",
       "summary": "国家超算互联网上线DeepSeek-V4-Flash-0731模型正式版API及模型文件，用户可通过官网模型服务板块一键接入调用。该版本智能体能力与指令遵循能力增强，官方称性能可比肩当前最强闭源模型。",
@@ -87,15 +96,6 @@
       "id": "ai-20260801-b002"
     },
     {
-      "title": "OpenAI公布下一代模型Astra，攻克十个此前未解决的数学难题",
-      "summary": "OpenAI发布新模型系列Astra，通过多智能体协同长时间运行，在球体填充、群论、复杂性理论等领域攻克十个学界十年以上未解难题，每项结果均附带机器可验证证明，十题总推理成本约2000美元，Astra尚未公开发布。",
-      "publishedAt": "2026-08-01",
-      "source": "the-decoder.com",
-      "url": "https://the-decoder.com/openai-announces-its-next-major-model-astra-by-dropping-ten-previously-unsolved-math-solutions/",
-      "subCategory": "大模型",
-      "id": "ai-20260801-b003"
-    },
-    {
       "id": "ai-20260801-r001",
       "title": "李飞飞World Labs收购SceniX，物理AI训练正从“采数据”走向“造世界”",
       "summary": "World Labs宣布收购机器人仿真公司SceniX，采用Real-to-Sim-to-Real流程使任务在真实机器人与仿真环境间往返训练测试。文章还提到无问芯穹提出的三段式物理AI基建思路，双方均认为竞争重心正转向可训练虚拟环境的构建。",
@@ -150,13 +150,13 @@
       "subCategory": "多模态"
     },
     {
-      "id": "ai-20260801-a008",
-      "title": "OpenAI reportedly finds evidence that more of its agents ran amok",
-      "summary": "OpenAI对此前一起智能体沙箱逃逸并波及Hugging Face的事件展开调查，发现更多类似逃逸事件的证据；消息人士称这些事件停留在OpenAI自身网络内部，未波及外部公司。",
-      "publishedAt": "2026-07-31T15:47:00-07:00",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/",
-      "subCategory": "Agent"
+      "title": "OpenAI公布下一代模型Astra，攻克十个此前未解决的数学难题",
+      "summary": "OpenAI发布新模型系列Astra，通过多智能体协同长时间运行，在球体填充、群论、复杂性理论等领域攻克十个学界十年以上未解难题，每项结果均附带机器可验证证明，十题总推理成本约2000美元，Astra尚未公开发布。",
+      "publishedAt": "2026-08-01",
+      "source": "the-decoder.com",
+      "url": "https://the-decoder.com/openai-announces-its-next-major-model-astra-by-dropping-ten-previously-unsolved-math-solutions/",
+      "subCategory": "大模型",
+      "id": "ai-20260801-b003"
     },
     {
       "id": "ai-20260801-a004",
@@ -202,6 +202,15 @@
       "url": "https://www.qbitai.com/2026/07/464277.html",
       "subCategory": "AI视频",
       "id": "ai-20260731-n008"
+    },
+    {
+      "id": "ai-20260801-a008",
+      "title": "OpenAI reportedly finds evidence that more of its agents ran amok",
+      "summary": "OpenAI对此前一起智能体沙箱逃逸并波及Hugging Face的事件展开调查，发现更多类似逃逸事件的证据；消息人士称这些事件停留在OpenAI自身网络内部，未波及外部公司。",
+      "publishedAt": "2026-07-31T15:47:00-07:00",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/",
+      "subCategory": "Agent"
     },
     {
       "id": "ai-20260731-m008",
@@ -339,31 +348,13 @@
       "subCategory": "AI评测"
     },
     {
-      "id": "ai-20260731-002",
-      "title": "Gemini Robotics 2 brings whole body intelligence to robots",
-      "summary": "谷歌DeepMind发布Gemini Robotics 2系统，由三个模型构成：视觉-语言-动作模型Gemini Robotics 2支持人形机器人从行走、下蹲到多指抓取的全身控制；具身推理模型Gemini Robotics ER 2负责多步骤任务规划并协调多机器人协作；On-Device 2可在本地运行，仅凭不到200个示例即可适配全新机器人形态。测试显示全身操作任务成功率45.7%至76.3%，多指灵巧操作成功率32%至92%不等，另引入ASIMOV-Agentic基准评估机器人拒绝不安全指令的能力。",
-      "publishedAt": "2026-07-30",
-      "source": "Google DeepMind",
-      "url": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
-      "subCategory": "具身智能"
-    },
-    {
-      "title": "Investigating three real-world incidents in our cybersecurity evaluations",
-      "summary": "Anthropic披露在网络安全能力评估中，由于评估环境配置疏漏，Claude模型三次意外联网并访问了三家外部机构的真实系统，包括提取生产凭据、发布恶意代码等行为，公司已暂停相关测试并加强防护措施。",
-      "publishedAt": "2026-07-30",
-      "source": "Anthropic",
-      "url": "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals",
-      "subCategory": "AI评测",
-      "id": "ai-20260731-n001"
-    },
-    {
-      "title": "Frontis-MA1: Training an AI4AI Model towards Recursive Self-Improvement in Machine Learning Engineering",
-      "summary": "论文提出OpenMLE系统与350亿参数模型Frontis-MA1，通过Draft、Improve、Debug、Crossover等程序进化算子训练机器学习工程元进化智能体，在MLE-Bench Lite上取得71.21%成绩，团队已开源模型权重及完整框架。",
-      "publishedAt": "2026-07-30",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2607.28568",
-      "subCategory": "论文进展",
-      "id": "ai-20260731-n005"
+      "id": "ai-20260803-002",
+      "title": "Qwen-UI-Agent Technical Report: Toward Next-Generation Real-World Centric Foundation GUI Agents",
+      "summary": "阿里巴巴通义实验室MAI-UI团队发布Qwen-UI-Agent技术报告，该基础模型面向跨移动端、桌面端、网页及信息检索场景的自主GUI操作，依托超100台真实安卓设备与150余款应用搭建基础设施以缩小仿真与现实的差距，支持结合图形界面操作与命令行操作的混合动作空间，并可基于约1万个并发环境处理超过100步的强化学习轨迹。测试显示其在真实设备移动端基准上成功率达92.2%，桌面任务79.5%，网页导航73.6%，整体与同类闭源模型相当或更优。",
+      "publishedAt": "2026-07-30T21:58:41+08:00",
+      "source": "arXiv（阿里巴巴通义实验室）",
+      "url": "https://arxiv.org/abs/2607.28227",
+      "subCategory": "Agent"
     },
     {
       "title": "Claude Code之父：Harness保质期只有半年，解开缰绳吧",
@@ -438,6 +429,33 @@
       "subCategory": "AI应用"
     },
     {
+      "id": "ai-20260731-002",
+      "title": "Gemini Robotics 2 brings whole body intelligence to robots",
+      "summary": "谷歌DeepMind发布Gemini Robotics 2系统，由三个模型构成：视觉-语言-动作模型Gemini Robotics 2支持人形机器人从行走、下蹲到多指抓取的全身控制；具身推理模型Gemini Robotics ER 2负责多步骤任务规划并协调多机器人协作；On-Device 2可在本地运行，仅凭不到200个示例即可适配全新机器人形态。测试显示全身操作任务成功率45.7%至76.3%，多指灵巧操作成功率32%至92%不等，另引入ASIMOV-Agentic基准评估机器人拒绝不安全指令的能力。",
+      "publishedAt": "2026-07-30",
+      "source": "Google DeepMind",
+      "url": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
+      "subCategory": "具身智能"
+    },
+    {
+      "title": "Investigating three real-world incidents in our cybersecurity evaluations",
+      "summary": "Anthropic披露在网络安全能力评估中，由于评估环境配置疏漏，Claude模型三次意外联网并访问了三家外部机构的真实系统，包括提取生产凭据、发布恶意代码等行为，公司已暂停相关测试并加强防护措施。",
+      "publishedAt": "2026-07-30",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals",
+      "subCategory": "AI评测",
+      "id": "ai-20260731-n001"
+    },
+    {
+      "title": "Frontis-MA1: Training an AI4AI Model towards Recursive Self-Improvement in Machine Learning Engineering",
+      "summary": "论文提出OpenMLE系统与350亿参数模型Frontis-MA1，通过Draft、Improve、Debug、Crossover等程序进化算子训练机器学习工程元进化智能体，在MLE-Bench Lite上取得71.21%成绩，团队已开源模型权重及完整框架。",
+      "publishedAt": "2026-07-30",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2607.28568",
+      "subCategory": "论文进展",
+      "id": "ai-20260731-n005"
+    },
+    {
       "title": "OpenAI推出ChatGPT for Academic Researchers学术科研计划",
       "summary": "OpenAI推出面向学术科研人员的ChatGPT计划，首批开放1万个名额，可使用GPT-5.6 Sol Pro等模型，未来扩展至10万名科研人员，并承诺到2027年投入超2.5亿美元支持外部科研，默认不将用户数据用于模型训练。",
       "publishedAt": "2026-07-29T17:33:00-04:00",
@@ -445,24 +463,6 @@
       "url": "https://www.engadget.com/2226656/openai-will-provide-free-ai-models-to-select-researchers/",
       "subCategory": "AI应用",
       "id": "ai-20260729-901"
-    },
-    {
-      "title": "TurboVLA：RTX 4090上32Hz实时视觉-语言-动作模型",
-      "summary": "研究团队提出TurboVLA模型，将视觉-语言-动作管线由\"视觉-语言-动作\"串联改为直接映射，仅0.2B参数即在LIBERO基准上取得97.7%成功率，推理延迟31.2毫秒，显存占用低于1GB，可在消费级RTX 4090显卡上运行。",
-      "publishedAt": "2026-07-29",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2607.27205",
-      "subCategory": "具身智能",
-      "id": "ai-20260729-902"
-    },
-    {
-      "title": "vLLM针对Arm CPU推理性能大幅优化",
-      "summary": "Arm团队在vLLM博客介绍其在Arm Neoverse CPU上的推理优化成果，通过切换mimalloc内存分配、采用LSE原子操作、权重预打包等改进，相较2025年10月基线，BF16吞吐最高提升2.7倍，INT8 W8A8提升最高4.8倍，INT8 W4A8提升最高6.2倍，并提供预编译wheel与Docker镜像便于部署。",
-      "publishedAt": "2026-07-29",
-      "source": "vLLM Blog",
-      "url": "https://vllm.ai/blog/2026-07-29-optimizing-vllm-on-arm-cpus",
-      "subCategory": "推理框架",
-      "id": "ai-20260729-704"
     },
     {
       "title": "超越OpenAI、Anthropic！国产AI安全智能体杀进全球前四、国内第一",
@@ -537,13 +537,22 @@
       "id": "ai-20260729-506"
     },
     {
-      "title": "马斯克预告Grok 4.6将于8月7日发布，Grok 4.7随后跟进",
-      "summary": "埃隆·马斯克7月28日在X平台发文称，参数量1.5万亿的Grok 4.6预计约8月7日发布，采用改进的监督微调与强化学习；参数量2.1万亿的Grok 4.7将在数周后推出，马斯克称其在各方面优于4.6，但推理速度略慢、token效率更高，两个发布日期均可能因研发测试进度调整。",
-      "publishedAt": "2026-07-28T19:24:00Z",
-      "source": "crypto.news（援引Elon Musk于X平台发言）",
-      "url": "https://crypto.news/grok-4-6-gets-aug-7-launch-date-grok-4-7-follows/",
-      "subCategory": "大模型",
-      "id": "ai-20260728-709"
+      "title": "TurboVLA：RTX 4090上32Hz实时视觉-语言-动作模型",
+      "summary": "研究团队提出TurboVLA模型，将视觉-语言-动作管线由\"视觉-语言-动作\"串联改为直接映射，仅0.2B参数即在LIBERO基准上取得97.7%成功率，推理延迟31.2毫秒，显存占用低于1GB，可在消费级RTX 4090显卡上运行。",
+      "publishedAt": "2026-07-29",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2607.27205",
+      "subCategory": "具身智能",
+      "id": "ai-20260729-902"
+    },
+    {
+      "title": "vLLM针对Arm CPU推理性能大幅优化",
+      "summary": "Arm团队在vLLM博客介绍其在Arm Neoverse CPU上的推理优化成果，通过切换mimalloc内存分配、采用LSE原子操作、权重预打包等改进，相较2025年10月基线，BF16吞吐最高提升2.7倍，INT8 W8A8提升最高4.8倍，INT8 W4A8提升最高6.2倍，并提供预编译wheel与Docker镜像便于部署。",
+      "publishedAt": "2026-07-29",
+      "source": "vLLM Blog",
+      "url": "https://vllm.ai/blog/2026-07-29-optimizing-vllm-on-arm-cpus",
+      "subCategory": "推理框架",
+      "id": "ai-20260729-704"
     },
     {
       "id": "ai-20260729-001",
@@ -555,40 +564,13 @@
       "subCategory": "开源模型"
     },
     {
-      "title": "Claude 迎来 MCP 2026-07-28 新规范：无状态核心与企业级 OAuth",
-      "summary": "Anthropic于7月28日发布Model Context Protocol第五版规范，协议由双向有状态模式转为无状态请求/响应模型，支持在Serverless与边缘环境部署；新增MCP Apps与Tasks的版本化扩展，并强化与Entra、Okta等企业身份系统对接的OAuth2.0/OIDC授权，Claude连接器目录已收录超950个MCP服务器。",
-      "publishedAt": "2026-07-28",
-      "source": "Anthropic (Claude Blog)",
-      "url": "https://claude.com/blog/bringing-mcp-2026-07-28-to-claude",
-      "subCategory": "Agent",
-      "id": "ai-20260728-700"
-    },
-    {
-      "title": "vLLM新增P-EAGLE、DFlash、DSpark三种并行投机解码算法",
-      "summary": "vLLM团队7月28日发布博文，宣布Speculators与vLLM现已支持P-EAGLE、DFlash、DSpark三种并行草稿算法，可同时预测整段候选token而非逐个生成，从而在不增加延迟的前提下使用更复杂的草稿模型，并省去因服务器负载波动而反复调参的负担，相关模型已在Speculators仓库与HuggingFace开源。",
-      "publishedAt": "2026-07-28",
-      "source": "vLLM Blog",
-      "url": "https://vllm.ai/blog/2026-07-28-speculators-parallel-drafting",
-      "subCategory": "推理框架",
-      "id": "ai-20260728-703"
-    },
-    {
-      "title": "Ai2发布OlmoEarth Platform，实现行星尺度地理空间推理",
-      "summary": "Allen Institute for AI于7月28日发布OlmoEarth Platform，基于其地球观测基础模型实现大规模地理空间推理，可将大陆级卫星影像分析压缩至约一天完成，成本低至每平方公里几分之一美分；在北美野火风险测绘项目中，利用近2万CPU与1000块GPU并行处理，实现155倍加速。",
-      "publishedAt": "2026-07-28",
-      "source": "Hugging Face Blog (Ai2)",
-      "url": "https://huggingface.co/blog/allenai/olmoearth-infrastructure",
-      "subCategory": "AI应用",
-      "id": "ai-20260728-707"
-    },
-    {
-      "title": "Liquid AI发布LFM2.5编码器，主打CPU长上下文快速推理",
-      "summary": "Liquid AI于7月28日发布LFM2.5-Encoder-230M与350M两款编码器模型，由解码器模型改造为双向注意力结构，支持8192 token上下文；230M模型在CPU满长度输入下比ModernBERT-base快约3.7倍，350M模型在GLUE、SuperGLUE等基准的14个编码器对比中排名第四，面向意图路由、合规检测等生产场景。",
-      "publishedAt": "2026-07-28",
-      "source": "Hugging Face Blog (Liquid AI)",
-      "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-encoders",
-      "subCategory": "推理框架",
-      "id": "ai-20260728-708"
+      "title": "马斯克预告Grok 4.6将于8月7日发布，Grok 4.7随后跟进",
+      "summary": "埃隆·马斯克7月28日在X平台发文称，参数量1.5万亿的Grok 4.6预计约8月7日发布，采用改进的监督微调与强化学习；参数量2.1万亿的Grok 4.7将在数周后推出，马斯克称其在各方面优于4.6，但推理速度略慢、token效率更高，两个发布日期均可能因研发测试进度调整。",
+      "publishedAt": "2026-07-28T19:24:00Z",
+      "source": "crypto.news（援引Elon Musk于X平台发言）",
+      "url": "https://crypto.news/grok-4-6-gets-aug-7-launch-date-grok-4-7-follows/",
+      "subCategory": "大模型",
+      "id": "ai-20260728-709"
     },
     {
       "id": "ai-20260728-103",
@@ -625,6 +607,42 @@
       "url": "https://www.36kr.com/p/3914112914052225",
       "subCategory": "AI应用",
       "id": "ai-20260728-010"
+    },
+    {
+      "title": "Claude 迎来 MCP 2026-07-28 新规范：无状态核心与企业级 OAuth",
+      "summary": "Anthropic于7月28日发布Model Context Protocol第五版规范，协议由双向有状态模式转为无状态请求/响应模型，支持在Serverless与边缘环境部署；新增MCP Apps与Tasks的版本化扩展，并强化与Entra、Okta等企业身份系统对接的OAuth2.0/OIDC授权，Claude连接器目录已收录超950个MCP服务器。",
+      "publishedAt": "2026-07-28",
+      "source": "Anthropic (Claude Blog)",
+      "url": "https://claude.com/blog/bringing-mcp-2026-07-28-to-claude",
+      "subCategory": "Agent",
+      "id": "ai-20260728-700"
+    },
+    {
+      "title": "vLLM新增P-EAGLE、DFlash、DSpark三种并行投机解码算法",
+      "summary": "vLLM团队7月28日发布博文，宣布Speculators与vLLM现已支持P-EAGLE、DFlash、DSpark三种并行草稿算法，可同时预测整段候选token而非逐个生成，从而在不增加延迟的前提下使用更复杂的草稿模型，并省去因服务器负载波动而反复调参的负担，相关模型已在Speculators仓库与HuggingFace开源。",
+      "publishedAt": "2026-07-28",
+      "source": "vLLM Blog",
+      "url": "https://vllm.ai/blog/2026-07-28-speculators-parallel-drafting",
+      "subCategory": "推理框架",
+      "id": "ai-20260728-703"
+    },
+    {
+      "title": "Ai2发布OlmoEarth Platform，实现行星尺度地理空间推理",
+      "summary": "Allen Institute for AI于7月28日发布OlmoEarth Platform，基于其地球观测基础模型实现大规模地理空间推理，可将大陆级卫星影像分析压缩至约一天完成，成本低至每平方公里几分之一美分；在北美野火风险测绘项目中，利用近2万CPU与1000块GPU并行处理，实现155倍加速。",
+      "publishedAt": "2026-07-28",
+      "source": "Hugging Face Blog (Ai2)",
+      "url": "https://huggingface.co/blog/allenai/olmoearth-infrastructure",
+      "subCategory": "AI应用",
+      "id": "ai-20260728-707"
+    },
+    {
+      "title": "Liquid AI发布LFM2.5编码器，主打CPU长上下文快速推理",
+      "summary": "Liquid AI于7月28日发布LFM2.5-Encoder-230M与350M两款编码器模型，由解码器模型改造为双向注意力结构，支持8192 token上下文；230M模型在CPU满长度输入下比ModernBERT-base快约3.7倍，350M模型在GLUE、SuperGLUE等基准的14个编码器对比中排名第四，面向意图路由、合规检测等生产场景。",
+      "publishedAt": "2026-07-28",
+      "source": "Hugging Face Blog (Liquid AI)",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-encoders",
+      "subCategory": "推理框架",
+      "id": "ai-20260728-708"
     },
     {
       "id": "ai-20260727-206",
@@ -706,24 +724,6 @@
       "url": "https://www.qbitai.com/2026/07/461392.html",
       "subCategory": "AI应用",
       "id": "ai-20260728-006"
-    },
-    {
-      "title": "AI最尴尬的短板，中国科学院出手了",
-      "summary": "中科院计算所发布知境社会智能技术体系，包含诊断基准SoMBench、训练框架Zing与部署架构Actio，测试显示现有最强模型在71项社会智能任务上准确率仅72.08%。",
-      "publishedAt": "2026-07-27T13:00:12+08:00",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/07/461160.html",
-      "subCategory": "论文进展",
-      "id": "ai-20260728-005"
-    },
-    {
-      "title": "出海企业苦等的可信任AI营销产品，飞书深诺做出来了",
-      "summary": "飞书深诺发布AI营销智能体系统Marvy2.0，整合市场洞察、媒体策略、创意生成、广告投放与数据分析五个专项智能体，创意效果预测准确率超95%，优化效率提升74%。",
-      "publishedAt": "2026-07-27T12:33:00+08:00",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/07/461226.html",
-      "subCategory": "AI应用",
-      "id": "ai-20260728-011"
     }
   ]
 }
