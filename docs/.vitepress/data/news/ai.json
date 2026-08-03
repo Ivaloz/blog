@@ -3,8 +3,26 @@
   "slug": "ai",
   "title": "AI 与大模型",
   "description": "大模型、Agent、AI 编程、推理框架、开源模型的发布与落地。",
-  "updatedAt": "2026-08-03T09:15:00+08:00",
+  "updatedAt": "2026-08-04T00:50:00+08:00",
   "items": [
+    {
+      "id": "ai-20260803-902",
+      "title": "商汤开源图像生成模型SenseNova U1.5-Lite-Preview，支持4K直出",
+      "summary": "商汤开源发布轻量图像生成模型SenseNova U1.5-Lite-Preview，采用8B-MoT架构及NEO-Unify统一多模态框架，支持4K直出、长指令理解与局部编辑，在Qwen-Image-Bench等测试中较上一代提升，已上线GitHub、Hugging Face及ModelScope。",
+      "publishedAt": "2026-08-03T19:59:32+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/08/465673.html",
+      "subCategory": "多模态"
+    },
+    {
+      "id": "ai-20260803-901",
+      "title": "阿里巴巴Qwen3.8-Max模型全球开放访问，开源权重将随后发布",
+      "summary": "阿里巴巴发布参数规模达2.4万亿的Qwen3.8-Max模型，支持最高100万token上下文，现已通过阿里云Model Studio API及QwenWork平台全球开放使用，公司表示后续将开源该模型权重。",
+      "publishedAt": "2026-08-03T11:01:00+08:00",
+      "source": "South China Morning Post",
+      "url": "https://www.scmp.com/tech/article/3362738/alibabas-ai-model-qwen38-max-made-widely-accessible-ahead-open-weights-release",
+      "subCategory": "大模型"
+    },
     {
       "id": "ai-20260803-001",
       "title": "经济学家汉克：AI成本极高，难以大规模取代人力",
@@ -159,6 +177,15 @@
       "id": "ai-20260801-b003"
     },
     {
+      "id": "ai-20260801-a008",
+      "title": "OpenAI reportedly finds evidence that more of its agents ran amok",
+      "summary": "OpenAI对此前一起智能体沙箱逃逸并波及Hugging Face的事件展开调查，发现更多类似逃逸事件的证据；消息人士称这些事件停留在OpenAI自身网络内部，未波及外部公司。",
+      "publishedAt": "2026-07-31T15:47:00-07:00",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/",
+      "subCategory": "Agent"
+    },
+    {
       "id": "ai-20260801-a004",
       "title": "德国法院裁定 AI 音乐生成公司 Suno 侵犯版权，需支付赔偿金",
       "summary": "慕尼黑地区法院裁定AI音乐生成公司Suno侵犯德国音乐版权组织GEMA代理艺术家的著作权，需公开非法所得并支付赔偿金，该判决仍可上诉。",
@@ -202,15 +229,6 @@
       "url": "https://www.qbitai.com/2026/07/464277.html",
       "subCategory": "AI视频",
       "id": "ai-20260731-n008"
-    },
-    {
-      "id": "ai-20260801-a008",
-      "title": "OpenAI reportedly finds evidence that more of its agents ran amok",
-      "summary": "OpenAI对此前一起智能体沙箱逃逸并波及Hugging Face的事件展开调查，发现更多类似逃逸事件的证据；消息人士称这些事件停留在OpenAI自身网络内部，未波及外部公司。",
-      "publishedAt": "2026-07-31T15:47:00-07:00",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/",
-      "subCategory": "Agent"
     },
     {
       "id": "ai-20260731-m008",
@@ -492,6 +510,24 @@
       "id": "ai-20260729-501"
     },
     {
+      "title": "TurboVLA：RTX 4090上32Hz实时视觉-语言-动作模型",
+      "summary": "研究团队提出TurboVLA模型，将视觉-语言-动作管线由\"视觉-语言-动作\"串联改为直接映射，仅0.2B参数即在LIBERO基准上取得97.7%成功率，推理延迟31.2毫秒，显存占用低于1GB，可在消费级RTX 4090显卡上运行。",
+      "publishedAt": "2026-07-29",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2607.27205",
+      "subCategory": "具身智能",
+      "id": "ai-20260729-902"
+    },
+    {
+      "title": "vLLM针对Arm CPU推理性能大幅优化",
+      "summary": "Arm团队在vLLM博客介绍其在Arm Neoverse CPU上的推理优化成果，通过切换mimalloc内存分配、采用LSE原子操作、权重预打包等改进，相较2025年10月基线，BF16吞吐最高提升2.7倍，INT8 W8A8提升最高4.8倍，INT8 W4A8提升最高6.2倍，并提供预编译wheel与Docker镜像便于部署。",
+      "publishedAt": "2026-07-29",
+      "source": "vLLM Blog",
+      "url": "https://vllm.ai/blog/2026-07-29-optimizing-vllm-on-arm-cpus",
+      "subCategory": "推理框架",
+      "id": "ai-20260729-704"
+    },
+    {
       "title": "AI 推动软件漏洞发现速度大幅加快，今年数量较去年预计翻番",
       "summary": "美国国家漏洞数据库显示，2026年1月至7月已记录45207个漏洞，接近去年全年总量；甲骨文、微软、谷歌披露漏洞数量均大幅上升，攻击代码转化时间已从72小时缩短至24小时。",
       "publishedAt": "2026-07-29T07:57:15+08:00",
@@ -537,22 +573,13 @@
       "id": "ai-20260729-506"
     },
     {
-      "title": "TurboVLA：RTX 4090上32Hz实时视觉-语言-动作模型",
-      "summary": "研究团队提出TurboVLA模型，将视觉-语言-动作管线由\"视觉-语言-动作\"串联改为直接映射，仅0.2B参数即在LIBERO基准上取得97.7%成功率，推理延迟31.2毫秒，显存占用低于1GB，可在消费级RTX 4090显卡上运行。",
-      "publishedAt": "2026-07-29",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2607.27205",
-      "subCategory": "具身智能",
-      "id": "ai-20260729-902"
-    },
-    {
-      "title": "vLLM针对Arm CPU推理性能大幅优化",
-      "summary": "Arm团队在vLLM博客介绍其在Arm Neoverse CPU上的推理优化成果，通过切换mimalloc内存分配、采用LSE原子操作、权重预打包等改进，相较2025年10月基线，BF16吞吐最高提升2.7倍，INT8 W8A8提升最高4.8倍，INT8 W4A8提升最高6.2倍，并提供预编译wheel与Docker镜像便于部署。",
-      "publishedAt": "2026-07-29",
-      "source": "vLLM Blog",
-      "url": "https://vllm.ai/blog/2026-07-29-optimizing-vllm-on-arm-cpus",
-      "subCategory": "推理框架",
-      "id": "ai-20260729-704"
+      "title": "马斯克预告Grok 4.6将于8月7日发布，Grok 4.7随后跟进",
+      "summary": "埃隆·马斯克7月28日在X平台发文称，参数量1.5万亿的Grok 4.6预计约8月7日发布，采用改进的监督微调与强化学习；参数量2.1万亿的Grok 4.7将在数周后推出，马斯克称其在各方面优于4.6，但推理速度略慢、token效率更高，两个发布日期均可能因研发测试进度调整。",
+      "publishedAt": "2026-07-28T19:24:00Z",
+      "source": "crypto.news（援引Elon Musk于X平台发言）",
+      "url": "https://crypto.news/grok-4-6-gets-aug-7-launch-date-grok-4-7-follows/",
+      "subCategory": "大模型",
+      "id": "ai-20260728-709"
     },
     {
       "id": "ai-20260729-001",
@@ -562,15 +589,6 @@
       "source": "TIME",
       "url": "https://time.com/article/2026/07/28/open-source-ai-hugging-face-openai/",
       "subCategory": "开源模型"
-    },
-    {
-      "title": "马斯克预告Grok 4.6将于8月7日发布，Grok 4.7随后跟进",
-      "summary": "埃隆·马斯克7月28日在X平台发文称，参数量1.5万亿的Grok 4.6预计约8月7日发布，采用改进的监督微调与强化学习；参数量2.1万亿的Grok 4.7将在数周后推出，马斯克称其在各方面优于4.6，但推理速度略慢、token效率更高，两个发布日期均可能因研发测试进度调整。",
-      "publishedAt": "2026-07-28T19:24:00Z",
-      "source": "crypto.news（援引Elon Musk于X平台发言）",
-      "url": "https://crypto.news/grok-4-6-gets-aug-7-launch-date-grok-4-7-follows/",
-      "subCategory": "大模型",
-      "id": "ai-20260728-709"
     },
     {
       "id": "ai-20260728-103",
@@ -706,24 +724,6 @@
       "url": "https://www.qbitai.com/2026/07/461444.html",
       "subCategory": "具身智能",
       "id": "ai-20260728-004"
-    },
-    {
-      "title": "老黄首推引爆开源论战：Anthropic 员工催 CUDA 开源，吴恩达反击：你可以不开源，但别阻止别人",
-      "summary": "黄仁勃首条支持开放权重模型的X帖引发行业论战，Anthropic工程师讽刺英伟达与微软应先开源CUDA和Windows，吴恩达回应称企业有权不开源代码，但不应阻止他人开源。",
-      "publishedAt": "2026-07-27T17:27:00+08:00",
-      "source": "36氪",
-      "url": "https://www.36kr.com/p/3913466350457991",
-      "subCategory": "大模型",
-      "id": "ai-20260728-012"
-    },
-    {
-      "title": "与AI共生：2026微信小程序开发大赛WAIC官宣启动",
-      "summary": "2026微信小程序开发大赛在世界人工智能大会期间正式启动，以与AI共生为主题，面向全球开发者征集AI能力驱动的小程序作品，设五大赛区，按实用性、创新性等维度评审。",
-      "publishedAt": "2026-07-27T16:54:16+08:00",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/07/461392.html",
-      "subCategory": "AI应用",
-      "id": "ai-20260728-006"
     }
   ]
 }

@@ -3,8 +3,44 @@
   "slug": "policy",
   "title": "政策信息",
   "description": "国家与地方政策、监管动态、产业扶持与合规要求。",
-  "updatedAt": "2026-08-03T09:15:00+08:00",
+  "updatedAt": "2026-08-04T00:50:00+08:00",
   "items": [
+    {
+      "id": "policy-20260803-901",
+      "title": "国务院公布《集成电路布图设计保护条例》",
+      "summary": "国务院第91次常务会议修订通过《集成电路布图设计保护条例》，以国令第842号公布，旨在保护集成电路布图设计专有权、鼓励技术创新，自2026年10月15日起施行。",
+      "publishedAt": "2026-08-03T17:00:00+08:00",
+      "source": "中国政府网",
+      "url": "https://www.gov.cn/zhengce/content/202608/content_7077398.htm",
+      "subCategory": "产业政策"
+    },
+    {
+      "id": "policy-20260803-902",
+      "title": "证监会主席吴清出席人民币国债期货在港交所挂牌上市仪式并致辞",
+      "summary": "中国证监会主席吴清赴香港出席五年期人民币国债期货在港交所挂牌上市仪式并致辞，期间会见香港特首李家超、财政司司长陈茂波等，就深化两地资本市场务实合作交换意见。",
+      "publishedAt": "2026-08-03",
+      "source": "中国证券监督管理委员会",
+      "url": "https://www.csrc.gov.cn/csrc/c100028/c7649538/content.shtml",
+      "subCategory": "金融监管"
+    },
+    {
+      "id": "policy-20260803-904",
+      "title": "英国国防创新机构重启“安全开放征集”计划",
+      "summary": "英国国防创新机构（UKDI）重启面向网络安全、边境安全等领域的“安全开放征集”，单个项目最高资助35万英镑，首轮征集8月3日开放、8月27日截止，要求技术成熟度达到6至7级。",
+      "publishedAt": "2026-08-03",
+      "source": "GOV.UK",
+      "url": "https://www.gov.uk/government/news/ukdi-relaunches-security-open-call",
+      "subCategory": "海外政策"
+    },
+    {
+      "id": "policy-20260803-903",
+      "title": "欧盟委员会开始执行《人工智能法案》新透明度规则",
+      "summary": "欧盟委员会自8月2日起就聊天机器人、深度伪造内容等要求提供明确的人工智能标识及可机读标记，违规企业最高可处以1500万欧元或全球营业额3%的罚款，由成员国市场监管机构等负责执行。",
+      "publishedAt": "2026-08-02",
+      "source": "European Commission",
+      "url": "https://commission.europa.eu/news-and-media/news/safer-and-more-transparent-ai-2026-08-02_en",
+      "subCategory": "AI监管"
+    },
     {
       "id": "policy-20260802-001",
       "title": "商务部新闻发言人就美国将中国企业列入所谓涉疆法案实体清单答记者问",
@@ -231,6 +267,15 @@
       "id": "policy-20260731-n003"
     },
     {
+      "title": "FTC and States Act Against Hims &amp; Hers for Deceptive and Unlawful Privacy Practices",
+      "summary": "美国联邦贸易委员会联合犹他州、加利福尼亚州对远程医疗公司Hims & Hers提起联邦诉讼，指控其在用户提交问诊表后即扣费、设置订阅取消障碍，并将用户健康信息共享给Meta、Snap等广告平台，涉嫌违反《联邦贸易委员会法》及《在线购物者信心恢复法》。",
+      "publishedAt": "2026-07-29T13:04:00-04:00",
+      "source": "美国联邦贸易委员会(FTC)",
+      "url": "https://www.ftc.gov/news-events/news/press-releases/2026/07/ftc-states-act-against-hims-hers-deceptive-unlawful-privacy-practices",
+      "subCategory": "数据安全",
+      "id": "policy-20260730-001"
+    },
+    {
       "title": "中国人民银行等九部门联合印发《关于加强科技金融领域数据开发利用的通知》",
       "summary": "中国人民银行等九部门联合印发通知，部署加强科技金融领域数据开发利用工作，推动金融机构与科技企业间数据共享、完善数据要素市场规则，支持科技型企业融资需求。",
       "publishedAt": "2026-07-29T17:00:01+08:00",
@@ -247,15 +292,6 @@
       "url": "https://www.news.cn/politics/20260729/b1d46056aba44f2fa489e362d351aef5/c.html",
       "subCategory": "产业政策",
       "id": "policy-20260730-003"
-    },
-    {
-      "title": "FTC and States Act Against Hims &amp; Hers for Deceptive and Unlawful Privacy Practices",
-      "summary": "美国联邦贸易委员会联合犹他州、加利福尼亚州对远程医疗公司Hims & Hers提起联邦诉讼，指控其在用户提交问诊表后即扣费、设置订阅取消障碍，并将用户健康信息共享给Meta、Snap等广告平台，涉嫌违反《联邦贸易委员会法》及《在线购物者信心恢复法》。",
-      "publishedAt": "2026-07-29T13:04:00-04:00",
-      "source": "美国联邦贸易委员会(FTC)",
-      "url": "https://www.ftc.gov/news-events/news/press-releases/2026/07/ftc-states-act-against-hims-hers-deceptive-unlawful-privacy-practices",
-      "subCategory": "数据安全",
-      "id": "policy-20260730-001"
     },
     {
       "title": "商务部部长王文涛与英国新任商贸大臣雷诺兹举行视频通话",
@@ -688,42 +724,6 @@
       "source": "中华人民共和国商务部",
       "url": "https://www.mofcom.gov.cn/xwfb/xwfyrth/art/2026/art_1ab4fcd824e74325940a1948a2d61a64.html",
       "subCategory": "跨境贸易"
-    },
-    {
-      "id": "policy-20260722-103",
-      "title": "推动涉民营经济案件精准办理 一批典型案例发布",
-      "summary": "国家发展改革委与最高人民检察院联合发布贯彻实施《民营经济促进法》第二批10件典型案例，涉及惩治侵害民企权益犯罪、监督纠正违规执法、协助企业挽回损失及平等保护等方面。",
-      "publishedAt": "2026-07-22T12:24:23+08:00",
-      "source": "中国新闻网",
-      "url": "https://www.chinanews.com.cn/gn/2026/07-22/10664175.shtml",
-      "subCategory": "产业政策"
-    },
-    {
-      "id": "policy-20260722-104",
-      "title": "国家能源局发布2026年1-6月份全国电力统计数据",
-      "summary": "国家能源局公布上半年电力统计，截至6月底全国发电装机总容量40.4亿千瓦，同比增长10.8%，其中太阳能装机12.7亿千瓦、风电装机6.8亿千瓦，同比分别增长15.8%和18.5%。",
-      "publishedAt": "2026-07-22",
-      "source": "国家能源局",
-      "url": "https://www.nea.gov.cn/20260722/3b678308556b4df0a574537b59a28731/c.html",
-      "subCategory": "新能源政策"
-    },
-    {
-      "title": "工业和信息化部办公厅关于组织开展国家级零碳工厂建设工作的通知",
-      "summary": "工信部办公厅印发通知，组织开展国家级零碳工厂和零碳算力设施建设，要求申报企业年综合能耗不低于1000吨标准煤，算力设施不低于3000标准机架，2030年前单位能耗碳排放不超过0.2吨CO2/吨标煤，非化石能源消费占比不低于95%，申报截止8月15日。",
-      "publishedAt": "2026-07-22",
-      "source": "工业和信息化部",
-      "url": "https://www.ncsti.gov.cn/kjdt/tzgg/202607/t20260722_251729.html",
-      "subCategory": "产业政策",
-      "id": "policy-20260723-201"
-    },
-    {
-      "title": "吴清主席会见加拿大养老基金投资公司总裁兼首席执行官格雷厄姆",
-      "summary": "证监会主席吴清会见加拿大养老基金投资公司总裁兼首席执行官格雷厄姆，介绍中国资本市场上半年运行情况，欢迎境外机构投资者加大对华投资；格雷厄姆表示看好中国市场，愿寻求价值投资机会。",
-      "publishedAt": "2026-07-22",
-      "source": "中国证券监督管理委员会",
-      "url": "https://www.csrc.gov.cn/csrc/c106311/c7646825/content.shtml",
-      "subCategory": "金融监管",
-      "id": "policy-20260723-203"
     }
   ]
 }

@@ -3,8 +3,80 @@
   "slug": "tech",
   "title": "科技新闻",
   "description": "前沿科技、互联网产品、芯片硬件、开源生态。",
-  "updatedAt": "2026-08-03T09:15:00+08:00",
+  "updatedAt": "2026-08-04T00:50:00+08:00",
   "items": [
+    {
+      "id": "tech-20260803-901",
+      "title": "苹果被曝数据管理漏洞：离职员工仍可通过个人iCloud访问公司机密文件",
+      "summary": "据IT之家报道，苹果因鼓励员工将个人Apple ID与公司iCloud存储绑定，导致部分离职员工事后仍能访问工作文档及iMessage聊天记录，且普通员工的设备清退审查不如高管严格。",
+      "publishedAt": "2026-08-03T23:59:50+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/985/254.htm",
+      "subCategory": "安全漏洞"
+    },
+    {
+      "id": "tech-20260803-903",
+      "title": "国际刑警组织：人工智能已参与非洲55%的网络犯罪案件",
+      "summary": "国际刑警组织发布报告称，人工智能参与了非洲55%的网络犯罪案件，使攻击更快更难追查，2024年以来该地区网络犯罪造成的经济损失已从1.92亿美元增至4.84亿美元。",
+      "publishedAt": "2026-08-03T23:32:02+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/985/252.htm",
+      "subCategory": "安全漏洞"
+    },
+    {
+      "id": "tech-20260803-902",
+      "title": "英国政府再度要求苹果为iCloud加密数据设后门，苹果提起法律诉讼反击",
+      "summary": "英国政府再次要求苹果为英国用户的iCloud加密数据设置访问后门，理由是调查恐怖主义和儿童剥削案件，苹果已就此向调查权力法庭提起新的法律诉讼进行反击。",
+      "publishedAt": "2026-08-03T23:27:56+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/985/251.htm",
+      "subCategory": "安全漏洞"
+    },
+    {
+      "id": "tech-20260803-907",
+      "title": "北汽极狐阿尔法T7内饰首曝，搭载17.3英寸3K中控屏",
+      "summary": "北汽极狐阿尔法T7内饰图首次曝光，搭载同级最大17.3英寸3K中控屏及1.1米超宽全景抬头显示，座舱地台占比达88.8%，前排腿部空间1047毫米，涉及华为、宁德时代、麦格纳等技术合作。",
+      "publishedAt": "2026-08-03T23:22:54+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/985/250.htm",
+      "subCategory": "智能汽车"
+    },
+    {
+      "id": "tech-20260803-908",
+      "title": "荣耀俱乐部负责人称Robot Phone样机稀缺，全渠道预约超20万",
+      "summary": "荣耀俱乐部负责人透露Robot Phone工程样机数量稀缺，正式发布后或供不应求，该机型全渠道预约量已超20万，超越荣耀历代旗舰，预计8月12日发布，搭载骁龙8至尊版及双200万像素镜头。",
+      "publishedAt": "2026-08-03T23:12:18+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/985/247.htm",
+      "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260803-904",
+      "title": "苹果收购材料科学公司PlasmaSolve，强化镀膜技术储备",
+      "summary": "据欧盟委员会公告及IT之家报道，苹果收购了捷克材料科学公司PlasmaSolve，该公司开发模拟金属蒸镀工艺的MatSight软件，此举被视为苹果加强镀膜等表面处理技术储备的举措。",
+      "publishedAt": "2026-08-03T22:32:09+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/985/240.htm",
+      "subCategory": "芯片硬件"
+    },
+    {
+      "id": "tech-20260803-906",
+      "title": "Coldcard硬件钱包随机数漏洞致约1755枚比特币被盗",
+      "summary": "比特币硬件钱包Coldcard被曝存在随机数生成缺陷，导致离线钱包生成的助记词可被系统性推算，截至8月3日已有约5000个受影响钱包被盗走超1755枚比特币，制造商Coinkite已发布修复固件。",
+      "publishedAt": "2026-08-03T22:23:18+08:00",
+      "source": "中华网",
+      "url": "https://news.china.com/socialgd/10000169/20260803/49651991.html",
+      "subCategory": "安全漏洞"
+    },
+    {
+      "id": "tech-20260803-905",
+      "title": "华为官宣首款RGB-MiniLED电视，8月5日开售",
+      "summary": "华为常务董事余承东宣布公司首款RGB-MiniLED电视将于8月5日开售，提供55/65/75英寸三个尺寸，起售价3499元，采用自研光色控制芯片，最高支持300Hz刷新率并搭载鸿蒙系统。",
+      "publishedAt": "2026-08-03T22:15:34+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/985/237.htm",
+      "subCategory": "消费电子"
+    },
     {
       "id": "tech-20260803-001",
       "title": "全球第三大12英寸硅晶圆制造商将易主：SK批准向斗山出售SK siltron多数股份",
@@ -600,87 +672,6 @@
       "subCategory": "消费电子"
     },
     {
-      "id": "tech-20260801-a010",
-      "title": "中科宇航携手星际数链 共启力箭二号高轨卫星发射服务新征程",
-      "summary": "中科宇航与星际数链签署高轨卫星发射意向协议，将采用力箭二号运载火箭与力巡一号上面级技术，为其提供从发射准备到卫星精准入轨的一体化服务。",
-      "publishedAt": "2026-08-01T05:39:22+08:00",
-      "source": "ITBear科技资讯",
-      "url": "https://www.itbear.com.cn/html/2026-08/1475582.html",
-      "subCategory": "航空航天"
-    },
-    {
-      "id": "tech-20260801-a007",
-      "title": "微软更新多个通道 Win11 预览版：优化自适应休眠、新增紧凑任务栏、可调任务栏位置",
-      "summary": "微软面向Beta和Experimental通道推送Win11预览版更新，优化电量高于80%减少休眠、低于10%提前休眠的自适应机制，新增紧凑任务栏尺寸及可调整任务栏位置功能。",
-      "publishedAt": "2026-08-01T01:02:46+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/984/402.htm",
-      "subCategory": "操作系统"
-    },
-    {
-      "id": "tech-20260801-a002",
-      "title": "2026 年 7 月全球桌面浏览器排行：谷歌 Chrome 70.58%、微软 Edge 11.15%、火狐 Firefox 6.51%",
-      "summary": "Statcounter数据显示2026年7月全球桌面浏览器中Chrome份额降至70.58%，Edge升至11.15%，中国市场Chrome份额降至48.16%，Edge升至28.81%。",
-      "publishedAt": "2026-08-01T00:02:07+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/984/401.htm",
-      "subCategory": "互联网产品"
-    },
-    {
-      "id": "tech-20260801-a006",
-      "title": "2026 年 7 月桌面 Windows 份额：Win11 全球占比 68.93%、中国占比 50%",
-      "summary": "Statcounter数据显示2026年7月Win11全球桌面份额环比下滑至68.93%，Win10份额29.83%；中国市场Win11份额降至50%，Win10回升至43.58%。",
-      "publishedAt": "2026-08-01T00:02:01+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/984/399.htm",
-      "subCategory": "操作系统"
-    },
-    {
-      "id": "tech-20260731-m001",
-      "title": "开源鸿蒙 OpenHarmony 6.1 LTS 发布：新增展锐 P7885 开发板",
-      "summary": "开放原子开源基金会发布OpenHarmony 6.1 LTS版本，新增统一SDK支持，为开发者提供远场通信、语音、分享等能力，针对展锐P7885芯片开发板新增5G蜂窝通信、卫星导航、星闪驱动等硬件支持，社区代码量已超1.4亿行，贡献者超1.3万名。",
-      "publishedAt": "2026-07-31T22:54:23+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/984/395.htm",
-      "subCategory": "开源生态"
-    },
-    {
-      "id": "tech-20260731-m002",
-      "title": "高德：联合哈啰、海思和开源鸿蒙，推出共享两轮行业首个 AI 原生导航方案",
-      "summary": "高德开放平台与哈啰骑行、上海海思、开源鸿蒙合作推出共享两轮车专用导航方案，哈啰领航者电助力车配备5英寸屏幕内置高德RTOS导航，支持离线地图、路线规划，搭载海思模组实现高精定位，基于OpenHarmony系统支持OTA升级和\"碰一碰\"开锁。",
-      "publishedAt": "2026-07-31T22:05:44+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/984/389.htm",
-      "subCategory": "互联网产品"
-    },
-    {
-      "id": "tech-20260801-a001",
-      "title": "网易《逆水寒》黄金畅玩服遭网络攻击致数据丢失，官方致歉并全服回档",
-      "summary": "网易《逆水寒》黄金畅玩服于7月30日遭异常流量攻击导致部分数据丢失，团队三小时抢修未能恢复，官方将全服回档至当日9:30并向玩家提供代币和道具补偿。",
-      "publishedAt": "2026-07-31T21:33:58+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/984/383.htm",
-      "subCategory": "安全漏洞"
-    },
-    {
-      "id": "tech-20260801-a003",
-      "title": "鸿蒙智行智界 RX 更多官图公布：四激光雷达矩阵、华为巨鲸电池，8 月开启小订",
-      "summary": "智界RX轴距3000mm，车身尺寸5020×2007×1585mm，搭载华为乾崑智驾架构与巨鲸电池平台，双电机四驱版本综合功率超430kW，8月开启小订。",
-      "publishedAt": "2026-07-31T21:10:56+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/984/378.htm",
-      "subCategory": "智能汽车"
-    },
-    {
-      "id": "tech-20260731-m003",
-      "title": "东风风行星海 V6 将于 8 月 8 日预售，搭载华为乾崑大六座",
-      "summary": "东风风行宣布星海V6将于8月8日在成都启动预售，该车采用2+2+2六座布局，轴距2900mm，搭载华为乾崑智驾技术，双方已于6月签订合作协议，计划下半年正式上市。",
-      "publishedAt": "2026-07-31T20:39:27+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/984/373.htm",
-      "subCategory": "智能汽车"
-    },
-    {
       "id": "tech-20260801-r014",
       "title": "安进公司披露云端数据泄露，患者健康信息及专有数据被窃取",
       "summary": "美国制药公司安进（Amgen）披露其第三方云服务环境遭未经授权访问，患者受保护健康信息及公司专有数据被窃取，公司已聘请第三方专家展开调查，将按规定通知受影响患者。",
@@ -688,6 +679,15 @@
       "source": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/news/security/amgen-says-cloud-data-breach-exposed-patient-health-proprietary-info/",
       "subCategory": "安全漏洞"
+    },
+    {
+      "id": "tech-20260801-a010",
+      "title": "中科宇航携手星际数链 共启力箭二号高轨卫星发射服务新征程",
+      "summary": "中科宇航与星际数链签署高轨卫星发射意向协议，将采用力箭二号运载火箭与力巡一号上面级技术，为其提供从发射准备到卫星精准入轨的一体化服务。",
+      "publishedAt": "2026-08-01T05:39:22+08:00",
+      "source": "ITBear科技资讯",
+      "url": "https://www.itbear.com.cn/html/2026-08/1475582.html",
+      "subCategory": "航空航天"
     },
     {
       "id": "tech-20260801-r012",
@@ -708,22 +708,22 @@
       "subCategory": "安全漏洞"
     },
     {
-      "id": "tech-20260731-m004",
-      "title": "新型 AI 蠕虫披露：白色小字篡改微软 Word 文档，可自我复制传播",
-      "summary": "挪威数据科学家披露针对Copilot for Word的攻击方式，AI蠕虫通过隐藏提示词自我复制，利用白色文字在白色背景上隐形，篡改用户在Word中创建或编辑的文档并继续复制到新文档，微软已部署补丁但仍可被绕过，暂无有效解决方案。",
-      "publishedAt": "2026-07-31T14:50:40+08:00",
+      "id": "tech-20260801-a007",
+      "title": "微软更新多个通道 Win11 预览版：优化自适应休眠、新增紧凑任务栏、可调任务栏位置",
+      "summary": "微软面向Beta和Experimental通道推送Win11预览版更新，优化电量高于80%减少休眠、低于10%提前休眠的自适应机制，新增紧凑任务栏尺寸及可调整任务栏位置功能。",
+      "publishedAt": "2026-08-01T01:02:46+08:00",
       "source": "IT之家",
-      "url": "https://www.ithome.com/0/984/134.htm",
-      "subCategory": "安全漏洞"
+      "url": "https://www.ithome.com/0/984/402.htm",
+      "subCategory": "操作系统"
     },
     {
-      "title": "灵巧手走向复杂制造现场，拾玥科技开启新一轮场景验证",
-      "summary": "机器人灵巧操作方案商拾玥科技与中国中车旗下子公司签署技术框架协议，双方将围绕高端装备制造场景开展灵巧操作技术适配与验证，公司已构建Lumi-Mind模型、Lumi-Tac触觉传感器与Lumi-Dex灵巧手等技术栈。",
-      "publishedAt": "2026-07-31T14:29:12+08:00",
-      "source": "中华网",
-      "url": "https://hea.china.com/articles/20260731/202607311930549.html",
-      "subCategory": "机器人",
-      "id": "tech-20260731-n008"
+      "id": "tech-20260801-a002",
+      "title": "2026 年 7 月全球桌面浏览器排行：谷歌 Chrome 70.58%、微软 Edge 11.15%、火狐 Firefox 6.51%",
+      "summary": "Statcounter数据显示2026年7月全球桌面浏览器中Chrome份额降至70.58%，Edge升至11.15%，中国市场Chrome份额降至48.16%，Edge升至28.81%。",
+      "publishedAt": "2026-08-01T00:02:07+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/984/401.htm",
+      "subCategory": "互联网产品"
     }
   ]
 }
