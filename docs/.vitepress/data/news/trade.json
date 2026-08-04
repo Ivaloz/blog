@@ -3,8 +3,26 @@
   "slug": "trade",
   "title": "外贸资讯",
   "description": "亚马逊、TikTok Shop、阿里国际站、Shopify 等平台政策与跨境电商市场、独立站、物流支付、关税法规、选品趋势。",
-  "updatedAt": "2026-08-04T09:05:00+08:00",
+  "updatedAt": "2026-08-04T16:45:00+08:00",
   "items": [
+    {
+      "id": "trade-20260804-002",
+      "title": "深圳工厂卖智能眼镜，出货100万副、干到亚马逊第一",
+      "summary": "深圳智能眼镜品牌OHO SUNSHINE（母公司浪之音）近期与Target达成分销合作，成立于2009年的团队不足50人，产品已出货超100万副、覆盖80余个国家，旗下A8 Pro音频眼镜定价低于40美元，2026年全球智能眼镜出货量达3.566亿副。",
+      "publishedAt": "2026-08-04T13:59:00+08:00",
+      "source": "雨果网",
+      "url": "https://www.cifnews.com/article/187896",
+      "subCategory": "选品趋势"
+    },
+    {
+      "id": "trade-20260804-003",
+      "title": "146家店铺被起诉！Dmitrievna动物插画维权！",
+      "summary": "俄罗斯艺术家Kasatkina Anna Dmitrievna于7月30日对146家亚马逊店铺提起著作权诉讼（案号2026-cv-01614），指控其未经授权使用六款动物数字插画，涉及家居装饰与工艺品类目卖家，服务商提醒相关卖家尽快自查库存。",
+      "publishedAt": "2026-08-04T09:04:00+08:00",
+      "source": "雨果网",
+      "url": "https://www.cifnews.com/article/187884",
+      "subCategory": "平台政策"
+    },
     {
       "id": "trade-20260803-901",
       "title": "华人海外仓又被查！超5万件商品被扣",
@@ -713,8 +731,7 @@
       "publishedAt": "2026-07-29T17:37:21+08:00",
       "source": "出海网",
       "url": "https://www.chwang.com/news/208240007477",
-      "subCategory": "跨境支付",
-      "id": "trade-20260730-006"
+      "subCategory": "跨境支付"
     },
     {
       "title": "BPJPH警告2026年10月强制执行清真认证",
@@ -722,8 +739,7 @@
       "publishedAt": "2026-07-29T17:34:00+08:00",
       "source": "出海网",
       "url": "https://www.chwang.com/news/208239929045",
-      "subCategory": "关税法规",
-      "id": "trade-20260729-711"
+      "subCategory": "关税法规"
     }
   ]
 }
