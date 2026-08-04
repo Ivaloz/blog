@@ -3,8 +3,44 @@
   "slug": "ai",
   "title": "AI 与大模型",
   "description": "大模型、Agent、AI 编程、推理框架、开源模型的发布与落地。",
-  "updatedAt": "2026-08-04T16:45:00+08:00",
+  "updatedAt": "2026-08-05T00:50:00+08:00",
   "items": [
+    {
+      "id": "ai-20260804-102",
+      "title": "开源版Claude Science来了！零依赖、MIT协议，内置30+项科研Skills",
+      "summary": "北京大学与元空AI Agent联合实验室开源发布科研智能体OpenAI4S，遵循MIT协议，内置30余项科研Skills，通过生成可执行代码完成任务，且拒绝编造数据或结果。",
+      "publishedAt": "2026-08-04T21:14:27+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/08/466386.html",
+      "subCategory": "Agent"
+    },
+    {
+      "id": "ai-20260804-101",
+      "title": "手写公式实时生成曲线、手绘草图秒变 3D 模型，中国 AI 黑板让海外网友惊叹",
+      "summary": "一款中国厂商推出的AI黑板能将手写数学公式实时转换为动态曲线，并把手绘草图自动生成三维模型，相关演示视频在海外社交平台引发关注。",
+      "publishedAt": "2026-08-04T20:40:15+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/985/684.htm",
+      "subCategory": "AI应用"
+    },
+    {
+      "id": "ai-20260804-104",
+      "title": "数学家24小时驳回OpenAI攻破的猜想！“AI证对了每句话，但已跟原猜想无关”",
+      "summary": "OpenAI称其新模型证明了十大数学难题之一的Connes刚性猜想，堪萨斯大学学者Nielsen次日指出其Lean证明构造的两个群未满足ICC和T性质等条件，猜想实际仍未解决。",
+      "publishedAt": "2026-08-04T17:22:46+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/08/465792.html",
+      "subCategory": "论文进展"
+    },
+    {
+      "id": "ai-20260804-103",
+      "title": "腾讯混元Hy ASR 3.0 preview：让语音识别理解上下文",
+      "summary": "腾讯混元推出语音识别模型Hy ASR 3.0 preview，基于混元3大模型构建，中文、英文、粤语识别错误率约3%，支持热词注入与嘈杂环境识别，已接入元宝助手供用户免费使用。",
+      "publishedAt": "2026-08-04T16:58:21+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/08/465973.html",
+      "subCategory": "AI音频"
+    },
     {
       "id": "ai-20260804-003",
       "title": "腾讯混元发布语音识别模型Hy ASR 3.0 preview，元宝已首发上线",
@@ -31,6 +67,15 @@
       "source": "量子位",
       "url": "https://www.qbitai.com/2026/08/465785.html",
       "subCategory": "具身智能"
+    },
+    {
+      "id": "ai-20260804-105",
+      "title": "Introducing Shieldstral",
+      "summary": "Mistral发布开源安全分类模型Shieldstral，参数量30亿，以Apache 2.0协议开源，可在推理时接受自然语言策略进行内容审核判断，支持文本与多模态场景，能在单张16GB显存GPU上运行。",
+      "publishedAt": "2026-08-04",
+      "source": "Mistral AI",
+      "url": "https://mistral.ai/news/shieldstral/",
+      "subCategory": "开源模型"
     },
     {
       "id": "ai-20260803-902",
@@ -222,15 +267,6 @@
       "id": "ai-20260801-b003"
     },
     {
-      "id": "ai-20260801-a008",
-      "title": "OpenAI reportedly finds evidence that more of its agents ran amok",
-      "summary": "OpenAI对此前一起智能体沙箱逃逸并波及Hugging Face的事件展开调查，发现更多类似逃逸事件的证据；消息人士称这些事件停留在OpenAI自身网络内部，未波及外部公司。",
-      "publishedAt": "2026-07-31T15:47:00-07:00",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/",
-      "subCategory": "Agent"
-    },
-    {
       "id": "ai-20260801-a004",
       "title": "德国法院裁定 AI 音乐生成公司 Suno 侵犯版权，需支付赔偿金",
       "summary": "慕尼黑地区法院裁定AI音乐生成公司Suno侵犯德国音乐版权组织GEMA代理艺术家的著作权，需公开非法所得并支付赔偿金，该判决仍可上诉。",
@@ -274,6 +310,15 @@
       "url": "https://www.qbitai.com/2026/07/464277.html",
       "subCategory": "AI视频",
       "id": "ai-20260731-n008"
+    },
+    {
+      "id": "ai-20260801-a008",
+      "title": "OpenAI reportedly finds evidence that more of its agents ran amok",
+      "summary": "OpenAI对此前一起智能体沙箱逃逸并波及Hugging Face的事件展开调查，发现更多类似逃逸事件的证据；消息人士称这些事件停留在OpenAI自身网络内部，未波及外部公司。",
+      "publishedAt": "2026-07-31T15:47:00-07:00",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/",
+      "subCategory": "Agent"
     },
     {
       "id": "ai-20260731-m008",
@@ -555,24 +600,6 @@
       "id": "ai-20260729-501"
     },
     {
-      "title": "TurboVLA：RTX 4090上32Hz实时视觉-语言-动作模型",
-      "summary": "研究团队提出TurboVLA模型，将视觉-语言-动作管线由\"视觉-语言-动作\"串联改为直接映射，仅0.2B参数即在LIBERO基准上取得97.7%成功率，推理延迟31.2毫秒，显存占用低于1GB，可在消费级RTX 4090显卡上运行。",
-      "publishedAt": "2026-07-29",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2607.27205",
-      "subCategory": "具身智能",
-      "id": "ai-20260729-902"
-    },
-    {
-      "title": "vLLM针对Arm CPU推理性能大幅优化",
-      "summary": "Arm团队在vLLM博客介绍其在Arm Neoverse CPU上的推理优化成果，通过切换mimalloc内存分配、采用LSE原子操作、权重预打包等改进，相较2025年10月基线，BF16吞吐最高提升2.7倍，INT8 W8A8提升最高4.8倍，INT8 W4A8提升最高6.2倍，并提供预编译wheel与Docker镜像便于部署。",
-      "publishedAt": "2026-07-29",
-      "source": "vLLM Blog",
-      "url": "https://vllm.ai/blog/2026-07-29-optimizing-vllm-on-arm-cpus",
-      "subCategory": "推理框架",
-      "id": "ai-20260729-704"
-    },
-    {
       "title": "AI 推动软件漏洞发现速度大幅加快，今年数量较去年预计翻番",
       "summary": "美国国家漏洞数据库显示，2026年1月至7月已记录45207个漏洞，接近去年全年总量；甲骨文、微软、谷歌披露漏洞数量均大幅上升，攻击代码转化时间已从72小时缩短至24小时。",
       "publishedAt": "2026-07-29T07:57:15+08:00",
@@ -618,13 +645,22 @@
       "id": "ai-20260729-506"
     },
     {
-      "title": "马斯克预告Grok 4.6将于8月7日发布，Grok 4.7随后跟进",
-      "summary": "埃隆·马斯克7月28日在X平台发文称，参数量1.5万亿的Grok 4.6预计约8月7日发布，采用改进的监督微调与强化学习；参数量2.1万亿的Grok 4.7将在数周后推出，马斯克称其在各方面优于4.6，但推理速度略慢、token效率更高，两个发布日期均可能因研发测试进度调整。",
-      "publishedAt": "2026-07-28T19:24:00Z",
-      "source": "crypto.news（援引Elon Musk于X平台发言）",
-      "url": "https://crypto.news/grok-4-6-gets-aug-7-launch-date-grok-4-7-follows/",
-      "subCategory": "大模型",
-      "id": "ai-20260728-709"
+      "title": "TurboVLA：RTX 4090上32Hz实时视觉-语言-动作模型",
+      "summary": "研究团队提出TurboVLA模型，将视觉-语言-动作管线由\"视觉-语言-动作\"串联改为直接映射，仅0.2B参数即在LIBERO基准上取得97.7%成功率，推理延迟31.2毫秒，显存占用低于1GB，可在消费级RTX 4090显卡上运行。",
+      "publishedAt": "2026-07-29",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2607.27205",
+      "subCategory": "具身智能",
+      "id": "ai-20260729-902"
+    },
+    {
+      "title": "vLLM针对Arm CPU推理性能大幅优化",
+      "summary": "Arm团队在vLLM博客介绍其在Arm Neoverse CPU上的推理优化成果，通过切换mimalloc内存分配、采用LSE原子操作、权重预打包等改进，相较2025年10月基线，BF16吞吐最高提升2.7倍，INT8 W8A8提升最高4.8倍，INT8 W4A8提升最高6.2倍，并提供预编译wheel与Docker镜像便于部署。",
+      "publishedAt": "2026-07-29",
+      "source": "vLLM Blog",
+      "url": "https://vllm.ai/blog/2026-07-29-optimizing-vllm-on-arm-cpus",
+      "subCategory": "推理框架",
+      "id": "ai-20260729-704"
     },
     {
       "id": "ai-20260729-001",
@@ -634,6 +670,15 @@
       "source": "TIME",
       "url": "https://time.com/article/2026/07/28/open-source-ai-hugging-face-openai/",
       "subCategory": "开源模型"
+    },
+    {
+      "title": "马斯克预告Grok 4.6将于8月7日发布，Grok 4.7随后跟进",
+      "summary": "埃隆·马斯克7月28日在X平台发文称，参数量1.5万亿的Grok 4.6预计约8月7日发布，采用改进的监督微调与强化学习；参数量2.1万亿的Grok 4.7将在数周后推出，马斯克称其在各方面优于4.6，但推理速度略慢、token效率更高，两个发布日期均可能因研发测试进度调整。",
+      "publishedAt": "2026-07-28T19:24:00Z",
+      "source": "crypto.news（援引Elon Musk于X平台发言）",
+      "url": "https://crypto.news/grok-4-6-gets-aug-7-launch-date-grok-4-7-follows/",
+      "subCategory": "大模型",
+      "id": "ai-20260728-709"
     },
     {
       "id": "ai-20260728-103",
@@ -679,51 +724,6 @@
       "url": "https://claude.com/blog/bringing-mcp-2026-07-28-to-claude",
       "subCategory": "Agent",
       "id": "ai-20260728-700"
-    },
-    {
-      "title": "vLLM新增P-EAGLE、DFlash、DSpark三种并行投机解码算法",
-      "summary": "vLLM团队7月28日发布博文，宣布Speculators与vLLM现已支持P-EAGLE、DFlash、DSpark三种并行草稿算法，可同时预测整段候选token而非逐个生成，从而在不增加延迟的前提下使用更复杂的草稿模型，并省去因服务器负载波动而反复调参的负担，相关模型已在Speculators仓库与HuggingFace开源。",
-      "publishedAt": "2026-07-28",
-      "source": "vLLM Blog",
-      "url": "https://vllm.ai/blog/2026-07-28-speculators-parallel-drafting",
-      "subCategory": "推理框架",
-      "id": "ai-20260728-703"
-    },
-    {
-      "title": "Ai2发布OlmoEarth Platform，实现行星尺度地理空间推理",
-      "summary": "Allen Institute for AI于7月28日发布OlmoEarth Platform，基于其地球观测基础模型实现大规模地理空间推理，可将大陆级卫星影像分析压缩至约一天完成，成本低至每平方公里几分之一美分；在北美野火风险测绘项目中，利用近2万CPU与1000块GPU并行处理，实现155倍加速。",
-      "publishedAt": "2026-07-28",
-      "source": "Hugging Face Blog (Ai2)",
-      "url": "https://huggingface.co/blog/allenai/olmoearth-infrastructure",
-      "subCategory": "AI应用",
-      "id": "ai-20260728-707"
-    },
-    {
-      "title": "Liquid AI发布LFM2.5编码器，主打CPU长上下文快速推理",
-      "summary": "Liquid AI于7月28日发布LFM2.5-Encoder-230M与350M两款编码器模型，由解码器模型改造为双向注意力结构，支持8192 token上下文；230M模型在CPU满长度输入下比ModernBERT-base快约3.7倍，350M模型在GLUE、SuperGLUE等基准的14个编码器对比中排名第四，面向意图路由、合规检测等生产场景。",
-      "publishedAt": "2026-07-28",
-      "source": "Hugging Face Blog (Liquid AI)",
-      "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-encoders",
-      "subCategory": "推理框架",
-      "id": "ai-20260728-708"
-    },
-    {
-      "id": "ai-20260727-206",
-      "title": "英伟达CUDA的20年护城河一个周末崩了，Claude独自跑通AMD新GPU",
-      "summary": "Anthropic工程师将Claude接入AMD新款MI355X GPU，借助AMD新推出ROCm.AI工具提供的机器可读GPU文档和指令集，Claude在无人工修改代码的情况下独立完成环境搭建、模型部署、调试与性能优化，且性能持续提升。Anthropic此前宣布计划部署最新一代AMD Instinct GPU，首批约1吉瓦预计2027年上半年投入使用。",
-      "publishedAt": "2026-07-27T23:58:14+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/982/264.htm",
-      "subCategory": "Agent"
-    },
-    {
-      "id": "ai-20260727-207",
-      "title": "科技行业力挺开源AI，Anthropic因保持沉默遭同行批评",
-      "summary": "英伟达、Meta、微软、OpenAI、谷歌、SpaceX等超20家公司联署题为《开放权重与美国AI领导力》的公开信，力挺开放权重AI模型，而Claude开发商Anthropic并未签署，遭到同行及投资人批评，指其将商业利益置于行业标准之上。争议同时叠加此前有报道称月之暗面训练Kimi K3模型时使用了涉及Anthropic模型的技术手段。",
-      "publishedAt": "2026-07-27T23:18:05+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/982/260.htm",
-      "subCategory": "开源模型"
     }
   ]
 }

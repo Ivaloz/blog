@@ -3,8 +3,89 @@
   "slug": "tech",
   "title": "科技新闻",
   "description": "前沿科技、互联网产品、芯片硬件、开源生态。",
-  "updatedAt": "2026-08-04T16:45:00+08:00",
+  "updatedAt": "2026-08-05T00:50:00+08:00",
   "items": [
+    {
+      "id": "tech-20260804-104",
+      "title": "博主实测华硕Zenbook A16外接RTX 4060显卡玩游戏优化尚不完善",
+      "summary": "海外博主ETA Prime测试骁龙X2 Elite Extreme处理器的华硕Zenbook A16外接RTX 4060显卡运行游戏，《赛博朋克2077》高画质下帧率超40，但多款游戏出现贴图丢失、透明度异常等兼容问题。",
+      "publishedAt": "2026-08-04T23:27:22+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/985/727.htm",
+      "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260804-103",
+      "title": "中国天眼FAST换装国产钢丝绳“眼部肌肉”，发现脉冲星数量超同期国际总和",
+      "summary": "中国天眼FAST完成馈源舱牵引钢丝绳国产化升级，六根国产钢丝绳替代此前进口部件，支撑30吨馈源舱在206米口径范围内实现高精度定位，目前已发现近1300颗脉冲星。",
+      "publishedAt": "2026-08-04T23:08:09+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/985/722.htm",
+      "subCategory": "航空航天"
+    },
+    {
+      "id": "tech-20260804-102",
+      "title": "神舟战神T8游戏本新增i5-14450HX+RTX 5060版本",
+      "summary": "神舟战神T8游戏本推出新配置版本，搭载i5-14450HX处理器与RTX 5060显卡，16GB内存、512GB存储，京东售价7999元，屏幕为16英寸1920×1200、165Hz刷新率。",
+      "publishedAt": "2026-08-04T23:04:08+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/985/720.htm",
+      "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260804-101",
+      "title": "微软推出适用于 WSL 的 Azure Linux 4.0 Beta 版",
+      "summary": "微软发布可在Windows子系统中运行的Azure Linux 4.0测试版，要求Windows 10 22H2或Windows 11及WSL 2，支持x86-64和Arm64架构，提供完整终端环境并兼容systemd。",
+      "publishedAt": "2026-08-04T23:03:57+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/985/719.htm",
+      "subCategory": "开发者工具"
+    },
+    {
+      "id": "tech-20260804-105",
+      "title": "小红书永久封禁大量AI毒动画、未成年软色情陪聊等违规账号",
+      "summary": "小红书通报未成年人保护专项治理成果，永久封禁传播AI毒动画、诱导未成年人不当互动及教唆自残等典型账号，累计处置违规笔记超8.4万篇、账号3571个。",
+      "publishedAt": "2026-08-04T22:06:50+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/985/708.htm",
+      "subCategory": "互联网产品"
+    },
+    {
+      "id": "tech-20260804-108",
+      "title": "Anthropic与一家AI云初创公司签署100亿美元算力协议",
+      "summary": "据第一财经报道，Anthropic与一家人工智能云计算初创公司达成一项价值100亿美元的算力合作协议，双方将围绕计算基础设施展开长期合作，具体细节暂未披露。",
+      "publishedAt": "2026-08-04T20:11:00+08:00",
+      "source": "36氪",
+      "url": "https://36kr.com/newsflashes/3925172170324099",
+      "subCategory": "云计算"
+    },
+    {
+      "id": "tech-20260804-109",
+      "title": "灵光App闪应用创作者数量超400万人",
+      "summary": "灵光App披露其“闪应用”创作者社区已突破400万人，多数创作者不具备编程背景，涵盖学生、教师及游戏爱好者，模拟器类应用成为上半年最活跃品类，相关应用数量近万款。",
+      "publishedAt": "2026-08-04T20:02:00+08:00",
+      "source": "36氪",
+      "url": "https://36kr.com/newsflashes/3925163486034309",
+      "subCategory": "互联网产品"
+    },
+    {
+      "id": "tech-20260804-107",
+      "title": "CoWoS封装产能告急，台积电扩大外包产能",
+      "summary": "受英伟达GPU订单激增影响，台积电CoWoS先进封装产能已达上限，正将部分芯片堆叠封装工序外包给日月光等外部厂商，以满足AI芯片客户的旺盛需求。",
+      "publishedAt": "2026-08-04T19:53:00+08:00",
+      "source": "36氪",
+      "url": "https://36kr.com/newsflashes/3925154441787525",
+      "subCategory": "芯片硬件"
+    },
+    {
+      "id": "tech-20260804-111",
+      "title": "我国成功发射卫星互联网低轨23组卫星",
+      "summary": "我国在海南商业航天发射场使用长征八号甲运载火箭，于16时52分将卫星互联网低轨23组卫星发射升空并送入预定轨道，任务首次实现“直达快车”功能，缩短卫星升轨时间。",
+      "publishedAt": "2026-08-04T18:34:00+08:00",
+      "source": "中国新闻网",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-04/10671888.shtml",
+      "subCategory": "航空航天"
+    },
     {
       "id": "tech-20260804-004",
       "title": "宏碁掠夺者战斧10 Neo游戏本新增酷睿U7 255HX+RTX 5070版本，16999元",
@@ -13,6 +94,15 @@
       "source": "IT之家",
       "url": "https://www.ithome.com/0/985/547.htm",
       "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260804-106",
+      "title": "Massive ChainDrop npm supply-chain attack infects hundreds of packages",
+      "summary": "自我传播的ChainDrop蠕虫已入侵npm平台超1300个软件包，月下载量合计约20亿次。攻击者通过获取Keyv维护者的GitHub账号注入恶意代码，经preinstall钩子窃取API令牌、云凭证与SSH密钥等敏感信息。",
+      "publishedAt": "2026-08-04T11:24:00-04:00",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/massive-chaindrop-npm-supply-chain-attack-infects-hundreds-of-packages/",
+      "subCategory": "安全漏洞"
     },
     {
       "id": "tech-20260804-001",
@@ -39,6 +129,15 @@
       "publishedAt": "2026-08-04T08:21:14+08:00",
       "source": "IT之家",
       "url": "https://www.ithome.com/0/985/300.htm",
+      "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260804-110",
+      "title": "Samsung Launches World's First HDR10+ ADVANCED Streaming Experience on Prime Video",
+      "summary": "三星宣布Prime Video成为全球首个支持HDR10+ ADVANCED标准的流媒体平台，新一代HDR技术带来更高亮度与智能运动平滑效果，率先登陆三星2026款电视产品线。",
+      "publishedAt": "2026-08-04",
+      "source": "Samsung Newsroom",
+      "url": "https://news.samsung.com/global/samsung-launches-worlds-first-hdr10-advanced-streaming-experience-on-prime-video",
       "subCategory": "消费电子"
     },
     {
@@ -625,105 +724,6 @@
       "source": "IT之家",
       "url": "https://www.ithome.com/0/984/494.htm",
       "subCategory": "消费电子"
-    },
-    {
-      "id": "tech-20260801-r007",
-      "title": "三星One UI 9升级锁屏安全策略，试错13次后页面提示曝光",
-      "summary": "三星One UI 9依据谷歌Android 17规范升级锁屏安全策略，用户连续13次输错密码后设备将被永久锁定，屏幕仅保留紧急呼叫按钮，需联系官方客服才能解锁。",
-      "publishedAt": "2026-08-01T13:20:53+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/984/486.htm",
-      "subCategory": "操作系统"
-    },
-    {
-      "id": "tech-20260801-r001",
-      "title": "消息称长鑫LPDDR6接近研发验证尾声，有望今年下半年发布",
-      "summary": "据消息，长鑫存储研发的LPDDR6内存已接近研发验证阶段尾声，预计将于2026年下半年正式发布，这将有助于提升国产存储芯片的自主可控能力和市场竞争力。",
-      "publishedAt": "2026-08-01T12:27:42+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/984/482.htm",
-      "subCategory": "芯片硬件"
-    },
-    {
-      "id": "tech-20260801-a004",
-      "title": "梅赛德斯-奔驰 CEO：车内大屏仍会增大，但取消实体按键的趋势应该结束",
-      "summary": "梅赛德斯-奔驰CEO康林松表示车载触屏或将继续增大，但取消实体按键的行业趋势已经过头，公司正在方向盘上重新加入实体按键并改进语音控制。",
-      "publishedAt": "2026-08-01T08:29:57+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/984/418.htm",
-      "subCategory": "智能汽车"
-    },
-    {
-      "id": "tech-20260801-a015",
-      "title": "摩托罗拉推出 Moto Pad 70 Groove 平板：12.1 寸 120Hz 屏幕，JBL 九扬声器亮眼",
-      "summary": "摩托罗拉在印度推出Moto Pad70 Groove平板，搭载天玑7400处理器、12.1英寸120Hz屏幕、JBL九扬声器系统及10200mAh电池，8月7日售价约合2752元。",
-      "publishedAt": "2026-08-01T08:12:13+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/984/414.htm",
-      "subCategory": "消费电子"
-    },
-    {
-      "id": "tech-20260801-a013",
-      "title": "小米 REDMI Note 17 Pro Max 手机曝光：9210mAh 硅碳电池、骁龙 6 Gen 5 芯片",
-      "summary": "REDMI Note17 Pro Max曝光，配9210mAh硅碳电池支持100W快充、骁龙6 Gen5芯片，6.83英寸1.5K 120Hz屏幕峰值3500尼特，将推出四种配色。",
-      "publishedAt": "2026-08-01T07:59:34+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/984/413.htm",
-      "subCategory": "消费电子"
-    },
-    {
-      "id": "tech-20260801-a014",
-      "title": "谷歌 Pixel 11 标准版手机渲染图曝光：4 种颜色，支持 30x 数码变焦",
-      "summary": "爆料者Evan Blass曝光谷歌Pixel11标准版渲染图，提供四种配色，长焦支持30倍数码变焦，但不具备Pro机型和折叠款独有的Pixel Glow灯效。",
-      "publishedAt": "2026-08-01T07:46:55+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/984/411.htm",
-      "subCategory": "消费电子"
-    },
-    {
-      "id": "tech-20260801-a009",
-      "title": "蒲得宇：芯片和内存成本飙升，苹果 iPhone 18 Pro / Max 恐涨价 250~300 美元",
-      "summary": "分析师蒲得宇预计iPhone18 Pro/Pro Max因2nm A20 Pro芯片产能不足及DRAM、NAND存储成本大涨，售价可能上调250至300美元。",
-      "publishedAt": "2026-08-01T07:09:33+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/984/406.htm",
-      "subCategory": "芯片硬件"
-    },
-    {
-      "id": "tech-20260801-a008",
-      "title": "微软承认 Win11 内存开销过大，承诺年末前优化 8GB 内存电脑体验",
-      "summary": "微软Windows与设备部门负责人表示将降低Win11内存占用，称闲置的8GB内存设备已占用近6GB，计划把Widgets、设置等组件从WebView2迁移至更轻量的WinUI原生框架。",
-      "publishedAt": "2026-08-01T07:07:49+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/984/405.htm",
-      "subCategory": "操作系统"
-    },
-    {
-      "id": "tech-20260801-a016",
-      "title": "联想首款 Googlebook 二合一笔记本曝光，预计 IFA 展会亮相",
-      "summary": "据Android Headlines报道，联想首款Googlebook二合一笔记本曝光，Ctrl键旁标有Googlebook字样并以Google键替代Windows键，预计将于IFA展会亮相。",
-      "publishedAt": "2026-08-01T06:43:48+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/984/404.htm",
-      "subCategory": "消费电子"
-    },
-    {
-      "id": "tech-20260801-r014",
-      "title": "安进公司披露云端数据泄露，患者健康信息及专有数据被窃取",
-      "summary": "美国制药公司安进（Amgen）披露其第三方云服务环境遭未经授权访问，患者受保护健康信息及公司专有数据被窃取，公司已聘请第三方专家展开调查，将按规定通知受影响患者。",
-      "publishedAt": "2026-07-31T18:16:00-04:00",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/amgen-says-cloud-data-breach-exposed-patient-health-proprietary-info/",
-      "subCategory": "安全漏洞"
-    },
-    {
-      "id": "tech-20260801-a010",
-      "title": "中科宇航携手星际数链 共启力箭二号高轨卫星发射服务新征程",
-      "summary": "中科宇航与星际数链签署高轨卫星发射意向协议，将采用力箭二号运载火箭与力巡一号上面级技术，为其提供从发射准备到卫星精准入轨的一体化服务。",
-      "publishedAt": "2026-08-01T05:39:22+08:00",
-      "source": "ITBear科技资讯",
-      "url": "https://www.itbear.com.cn/html/2026-08/1475582.html",
-      "subCategory": "航空航天"
     }
   ]
 }
