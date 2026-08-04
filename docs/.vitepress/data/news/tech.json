@@ -724,15 +724,6 @@
       "source": "ITBear科技资讯",
       "url": "https://www.itbear.com.cn/html/2026-08/1475582.html",
       "subCategory": "航空航天"
-    },
-    {
-      "id": "tech-20260801-r012",
-      "title": "Arch Linux临时禁用AUR软件包过户功能以阻止恶意软件蔓延",
-      "summary": "Arch Linux社区仓库AUR近期遭遇大规模恶意软件包接管攻击，波及超过200个软件包，官方已暂停软件包过户功能，攻击者通过分阶段恶意程序窃取浏览器凭证与加密钱包信息。",
-      "publishedAt": "2026-07-31T17:38:00-04:00",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/arch-linux-disables-aur-package-adoption-to-stop-malware-flood/",
-      "subCategory": "开源生态"
     }
   ]
 }
