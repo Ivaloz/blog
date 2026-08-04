@@ -3,7 +3,7 @@
   "slug": "ai",
   "title": "AI 与大模型",
   "description": "大模型、Agent、AI 编程、推理框架、开源模型的发布与落地。",
-  "updatedAt": "2026-08-04T00:50:00+08:00",
+  "updatedAt": "2026-08-04T09:05:00+08:00",
   "items": [
     {
       "id": "ai-20260803-902",
@@ -13,6 +13,24 @@
       "source": "量子位",
       "url": "https://www.qbitai.com/2026/08/465673.html",
       "subCategory": "多模态"
+    },
+    {
+      "id": "ai-20260804-001",
+      "title": "Demo的高估值时代结束了，具身智能开始按生产力重新算账",
+      "summary": "具身智能行业投资重心正从演示视频能力转向实际部署量、客户留存率、系统可靠性与数据反馈闭环等生产力指标。上海交通大学教授杨旭加盟酷哇任首席科学家时表示，具身智能真正的验证只能来自城市真实场景中的持续部署，而非受控演示环境。",
+      "publishedAt": "2026-08-03T13:42:02+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/08/465225.html",
+      "subCategory": "具身智能"
+    },
+    {
+      "id": "ai-20260804-002",
+      "title": "阿里\"千问办公\"开启公测",
+      "summary": "阿里巴巴上线企业级Agent产品\"千问办公\"公测版，面向个人与企业用户开放网页端与PC客户端，整合QoderWork、MuleRun、Wukong三款产品，号称\"业内首个同时支持桌面Agent、云端Agent与企业协作Agent\"，搭载最新旗舰模型Qwen3.8，未来计划推出独立App版本及国际版。",
+      "publishedAt": "2026-08-03T12:47:44+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/08/465211.html",
+      "subCategory": "Agent"
     },
     {
       "id": "ai-20260803-901",
@@ -706,24 +724,6 @@
       "url": "https://www.36kr.com/p/3913603335099785",
       "subCategory": "Agent",
       "id": "ai-20260728-007"
-    },
-    {
-      "title": "Claude写完代码不直接交了：4个Skill自查一遍，改好再找你",
-      "summary": "Anthropic为Claude Code引入自我审查循环，内置/code-review排错、/simplify去冗余、/verify端到端测试、/design界面校验四项技能，使AI在交付代码前先自动验证与改进。",
-      "publishedAt": "2026-07-27T18:02:00+08:00",
-      "source": "36氪",
-      "url": "https://www.36kr.com/p/3913595200804230",
-      "subCategory": "AI编程",
-      "id": "ai-20260728-008"
-    },
-    {
-      "title": "超维动力携手北大医疗：务实构建具身智能医疗落地路径",
-      "summary": "超维动力与北大医疗达成战略合作，聚焦数据采集、世界模型与仿真训练，推动具身智能机器人在标本分拣、药品配送、病床转运等医院场景完成从仿真到临床验证的落地路径。",
-      "publishedAt": "2026-07-27T17:55:17+08:00",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/07/461444.html",
-      "subCategory": "具身智能",
-      "id": "ai-20260728-004"
     }
   ]
 }

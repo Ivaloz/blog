@@ -3,8 +3,35 @@
   "slug": "tech",
   "title": "科技新闻",
   "description": "前沿科技、互联网产品、芯片硬件、开源生态。",
-  "updatedAt": "2026-08-04T00:50:00+08:00",
+  "updatedAt": "2026-08-04T09:05:00+08:00",
   "items": [
+    {
+      "id": "tech-20260804-001",
+      "title": "俄罗斯联邦反垄断局起诉苹果公司，指控其未按要求在 iPhone / iPad 上预装本土 App",
+      "summary": "俄罗斯联邦反垄断局8月3日正式起诉苹果，指控其未按此前警告要求在iOS设备上预装俄罗斯本土应用商店RuStore及通讯应用Max，此前该机构已于7月1日要求苹果在7月15日前整改，否则面临最高40亿卢布罚款。",
+      "publishedAt": "2026-08-04T08:32:20+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/985/304.htm",
+      "subCategory": "互联网产品"
+    },
+    {
+      "id": "tech-20260804-002",
+      "title": "微软高管详解 Win11 优化方案：持续降低内存占用，改善 8GB 设备体验",
+      "summary": "微软Windows设计与研究副总裁Marcus Ash披露，公司正从内核调度到界面设计全栈式排查以降低Win11内存占用，多个内部团队正分析真实用户任务并优化预加载机制，相关改进计划年底前逐步推送，以改善8GB内存设备体验。",
+      "publishedAt": "2026-08-04T08:21:55+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/985/301.htm",
+      "subCategory": "操作系统"
+    },
+    {
+      "id": "tech-20260804-003",
+      "title": "三星 Galaxy S26 FE 手机默认壁纸曝光，预估关联 3 种零售颜色",
+      "summary": "科技媒体sammyguru曝光三星Galaxy S26 FE默认壁纸，据此推测该机将提供曜石灰、薄荷绿、紫罗兰三种零售配色，机型配备5000万像素主摄及支持3倍光学变焦的800万像素长焦镜头，另有传闻搭载Exynos 2500芯片、4900mAh电池及45W快充。",
+      "publishedAt": "2026-08-04T08:21:14+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/985/300.htm",
+      "subCategory": "消费电子"
+    },
     {
       "id": "tech-20260803-901",
       "title": "苹果被曝数据管理漏洞：离职员工仍可通过个人iCloud访问公司机密文件",
@@ -697,33 +724,6 @@
       "source": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/news/security/arch-linux-disables-aur-package-adoption-to-stop-malware-flood/",
       "subCategory": "开源生态"
-    },
-    {
-      "id": "tech-20260801-r013",
-      "title": "广告服务商Adform跟踪脚本遭篡改，用于窃取用户加密货币",
-      "summary": "欧洲广告平台Adform的跟踪脚本trackpoint-async.js遭黑客植入恶意代码，通过监控用户剪贴板替换比特币、以太坊等加密货币钱包地址实施盗窃，攻击持续约一周后被发现并清除。",
-      "publishedAt": "2026-07-31T17:09:00-04:00",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/online-ad-firms-adforms-script-compromised-to-steal-cryptocurrency/",
-      "subCategory": "安全漏洞"
-    },
-    {
-      "id": "tech-20260801-a007",
-      "title": "微软更新多个通道 Win11 预览版：优化自适应休眠、新增紧凑任务栏、可调任务栏位置",
-      "summary": "微软面向Beta和Experimental通道推送Win11预览版更新，优化电量高于80%减少休眠、低于10%提前休眠的自适应机制，新增紧凑任务栏尺寸及可调整任务栏位置功能。",
-      "publishedAt": "2026-08-01T01:02:46+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/984/402.htm",
-      "subCategory": "操作系统"
-    },
-    {
-      "id": "tech-20260801-a002",
-      "title": "2026 年 7 月全球桌面浏览器排行：谷歌 Chrome 70.58%、微软 Edge 11.15%、火狐 Firefox 6.51%",
-      "summary": "Statcounter数据显示2026年7月全球桌面浏览器中Chrome份额降至70.58%，Edge升至11.15%，中国市场Chrome份额降至48.16%，Edge升至28.81%。",
-      "publishedAt": "2026-08-01T00:02:07+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/984/401.htm",
-      "subCategory": "互联网产品"
     }
   ]
 }
