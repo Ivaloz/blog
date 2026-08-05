@@ -3,12 +3,66 @@
   "slug": "ai",
   "title": "AI 与大模型",
   "description": "大模型、Agent、AI 编程、推理框架、开源模型的发布与落地。",
-  "updatedAt": "2026-08-05T09:20:00+08:00",
+  "updatedAt": "2026-08-05T17:00:00+08:00",
   "items": [
+    {
+      "title": "国际 AI 安全榜单 CyberGym 今日放榜：中国方案 DoGNAVY 全球第三、开源第一",
+      "summary": "国际AI安全基准CyberGym公布最新榜单，AI研究者与安全团队DARKNAVY联合打造的中国方案DoGNAVY以90.8%通过率位列全球第三、开源方案第一，其仅使用智谱6月开源的GLM-5.2单一模型，区别于微软、谷歌采用的多闭源模型组合方案。",
+      "publishedAt": "2026-08-05T16:19:31+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/986/042.htm",
+      "subCategory": "AI评测",
+      "id": "ai-20260805-951"
+    },
+    {
+      "title": "阿里云上线 One Key MCP 服务：兼容 Qoder、Codex 等，可一键调用多家 MCP 服务",
+      "summary": "阿里云推出One Key MCP服务，开发者凭百炼平台单一密钥即可调用多家MCP服务，兼容Qoder、Codex、Claude Code、Cursor等主流编程Agent，首批接入电商供应链、地图、金融、法律、工业和物流六大领域全14家合作伙伴。",
+      "publishedAt": "2026-08-05T15:51:40+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/986/008.htm",
+      "subCategory": "Agent",
+      "id": "ai-20260805-952"
+    },
+    {
+      "title": "小米具身基座模型 Xiaomi-Robotics-1 正式开源",
+      "summary": "小米开源具身基座模型Xiaomi-Robotics-1，预训练使用超10万小时UMI数据，后训练加入超1万小时跨本体数据，公开从真机后训练到模型部署的完整流程及相关评测代码，资源已上传GitHub、Hugging Face及小米机器人项目网站。",
+      "publishedAt": "2026-08-05T15:40:56+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/985/985.htm",
+      "subCategory": "具身智能",
+      "id": "ai-20260805-950"
+    },
+    {
+      "title": "114B参数、6B激活，Sand.ai刚刚开源全球首个千亿MoE视频生成模型",
+      "summary": "Sand.ai开源千亿参数MoE视频生成模型MAGI-2-preview，总参数114B、激活6B，用8张H100生成10秒1080P视频成本约0.5美元，在AA视频生成榜单排名第六，采用文本视频音频统一架构与自研MagiMoE内核优化，代码与权重全部开源。",
+      "publishedAt": "2026-08-05T15:05:41+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/08/466847.html",
+      "subCategory": "AI视频",
+      "id": "ai-20260805-953"
+    },
+    {
+      "title": "微软叫停Tokenmaxxing！预算卡死，超限自负",
+      "summary": "微软自今年7月起为各部门设定AI Token预算目标，并将内部默认模型切换为GPT-5.6以降低成本，高管表示公司不再以Token消耗量作为优化目标，员工可查看个人 Token花费，亚马逊、优步、Atlassian此前也出现过类似Token滥用与预算失控情况。",
+      "publishedAt": "2026-08-05T14:33:40+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/08/466739.html",
+      "subCategory": "AI应用",
+      "id": "ai-20260805-954"
+    },
+    {
+      "title": "老黄垒20年的CUDA护城河，AI刚刚用10小时凿开了",
+      "summary": "初创公司Infinity旗下AI编程Agent Ignition仅用1 0小时为一家AI芯片公司生成出对标CUDA的软件栈，引发对英伟达软件护城河的讨论；业内人士指出验证边界情况正确性、专用芯片训练数据稀缺及迁移成本仍是主要障碍，英伟达自身也已用AI Agent辅助CUDA开发。(估算)",
+      "publishedAt": "2026-08-05T13:53:00+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/08/466553.html",
+      "subCategory": "AI编程",
+      "id": "ai-20260805-955"
+    },
     {
       "id": "ai-20260805-003",
       "title": "马斯克预告下周将推Grok 4.6模型，改进AI监督微调和强化学习",
-      "summary": "马斯克在SpaceX第二季度财报电话会上表示，1.5万亿参数的Grok 4.6模型将于下周发布，重点改进监督微调与强化学习；3至4周后还将推出2.1万亿参数的Grok 4.7。",
+      "summary": "马斯克在SpaceX第二季度财报电话会上表示，1.5万亿参数的Grok 4.6模型将于下周发布，重点改进监督微调与强化学习；3至4周后还将推2.1万亿参数的Grok 4.7。",
       "publishedAt": "2026-08-05T07:34:47+08:00",
       "source": "IT之家",
       "url": "https://www.ithome.com/0/985/750.htm",
@@ -24,9 +78,27 @@
       "subCategory": "大模型"
     },
     {
+      "id": "ai-20260805-004",
+      "title": "开源权重模型正追赶前沿水平，安全差距依然存在",
+      "summary": "SaferAI测试显示，智谱GLM-5.2对网络攻击与生物安全类高危任务几乎不拒答，而Anthropic Claude Opus 4.7因拒答过多导致部分测试无法完成，凸显开源权重模型能力逼近前沿但安全防护更易被移除。",
+      "publishedAt": "2026-08-04T13:05:00-07:00",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/04/open-weight-ai-models-are-catching-up-to-the-frontier-the-safety-gap-remains/",
+      "subCategory": "AI评测"
+    },
+    {
+      "id": "ai-20260805-006",
+      "title": "英伟达牵头的开放安全AI联盟成立一周即取得进展",
+      "summary": "由英伟达牵头、逗120家企业参与的开放安全AI联盟（OSAA）成立一周后，在黑帽大会上公布名为SAFE的工作组，提出AI安全事件报告与免责分析机制，OpenAI、谷歌、Anthropic尚未加入。",
+      "publishedAt": "2026-08-04T12:28:00-07:00",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/04/nvidia-doesnt-mess-around-a-week-after-open-ai-industry-group-formed-its-already-showing-progress/",
+      "subCategory": "大模型"
+    },
+    {
       "id": "ai-20260804-102",
       "title": "开源版Claude Science来了！零依赖、MIT协议，内置30+项科研Skills",
-      "summary": "北京大学与元空AI Agent联合实验室开源发布科研智能体OpenAI4S，遵循MIT协议，内置30余项科研Skills，通过生成可执行代码完成任务，且拒绝编造数据或结果。",
+      "summary": "北京大学与元空 AI Agent联合实验室开源发布科研智能体OpenAI4S，遵循MIT协议，内置30余项科研Skills，通过生成可执行代码完成任务，且拒绝编造数据或结果。",
       "publishedAt": "2026-08-04T21:14:27+08:00",
       "source": "量子位",
       "url": "https://www.qbitai.com/2026/08/466386.html",
@@ -44,7 +116,7 @@
     {
       "id": "ai-20260804-104",
       "title": "数学家24小时驳回OpenAI攻破的猜想！“AI证对了每句话，但已跟原猜想无关”",
-      "summary": "OpenAI称其新模型证明了十大数学难题之一的Connes刚性猜想，堪萨斯大学学者Nielsen次日指出其Lean证明构造的两个群未满足ICC和T性质等条件，猜想实际仍未解决。",
+      "summary": "OpenAI称其新模型证明了十大数学难题之一的Connes刚性猜想，堵萨斯大学学者Nielsen次日指出其Lean证明构造的两个群未满足ICC和T性质等条件，猜想实际仍未解决。",
       "publishedAt": "2026-08-04T17:22:46+08:00",
       "source": "量子位",
       "url": "https://www.qbitai.com/2026/08/465792.html",
@@ -53,7 +125,7 @@
     {
       "id": "ai-20260804-103",
       "title": "腾讯混元Hy ASR 3.0 preview：让语音识别理解上下文",
-      "summary": "腾讯混元推出语音识别模型Hy ASR 3.0 preview，基于混元3大模型构建，中文、英文、粤语识别错误率约3%，支持热词注入与嘈杂环境识别，已接入元宝助手供用户免费使用。",
+      "summary": "腾讯混元推出语音识别模型Hy ASR 3.0 preview，基于混儃3大模型构建，中文、英文、粤语识别错误率约3%，支持热词注入与嗧杂环境识别，已接入元宝助手供用户免费使用。",
       "publishedAt": "2026-08-04T16:58:21+08:00",
       "source": "量子位",
       "url": "https://www.qbitai.com/2026/08/465973.html",
@@ -87,22 +159,13 @@
       "subCategory": "具身智能"
     },
     {
-      "id": "ai-20260805-004",
-      "title": "开源权重模型正追赶前沿水平，安全差距依然存在",
-      "summary": "SaferAI测试显示，智谱GLM-5.2对网络攻击与生物安全类高危任务几乎不拒答，而Anthropic Claude Opus 4.7因拒答过多导致部分测试无法完成，凸显开源权重模型能力逼近前沿但安全防护更易被移除。",
-      "publishedAt": "2026-08-04T13:05:00-07:00",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/04/open-weight-ai-models-are-catching-up-to-the-frontier-the-safety-gap-remains/",
-      "subCategory": "AI评测"
-    },
-    {
-      "id": "ai-20260805-006",
-      "title": "英伟达牵头的开放安全AI联盟成立一周即取得进展",
-      "summary": "由英伟达牵头、逾120家企业参与的开放安全AI联盟（OSAA）成立一周后，在黑帽大会上公布名为SAFE的工作组，提出AI安全事件报告与免责分析机制，OpenAI、谷歌、Anthropic尚未加入。",
-      "publishedAt": "2026-08-04T12:28:00-07:00",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/04/nvidia-doesnt-mess-around-a-week-after-open-ai-industry-group-formed-its-already-showing-progress/",
-      "subCategory": "大模型"
+      "title": "北京一酒吧上线\"不限量免费 Token\"服务，到店连接 Wi-Fi 即可畅用 DeepSeek V4 Flash 模型",
+      "summary": "北京AGI Bar推出到店连接Wi-Fi即可免费使用DeepSeek V4 Flash模型的服务，酒吧自购英伟达DGX Spark工作站提供本地算力，顾客获取的API密钥可接入Claude Code、Codex、Cursor、Cherry Studio等兼容OpenAI接口标准的开发工具，该品牌在京沪均设有门店。(估算)",
+      "publishedAt": "2026-08-04T13:46:00+08:00",
+      "source": "IT之家",
+      "url": "https://m.ithome.com/html/985450.htm",
+      "subCategory": "AI应用",
+      "id": "ai-20260804-956"
     },
     {
       "id": "ai-20260805-002",
@@ -125,7 +188,7 @@
     {
       "id": "ai-20260805-007",
       "title": "谷歌将投向Anthropic的数十亿芯片风险移出资产负债表",
-      "summary": "谷歌联合博通、摩根士丹利、阿波罗与黑石搭建特殊目的载体，为Anthropic提供350亿美元TPU算力且不计入自身资产负债表，博通为约300亿美元采购提供担保，谷歌账面负债仅8.15亿美元。",
+      "summary": "谷歌联合博通、摩根士丹利、阿波罗与黑石搭建特殊目的载体，为Anthropic提供350亿美元TPU算力且不计入自身资产负债表，博通为约300亿美元采购提供担保，谷歌账面负债仅Ω8.15亿美元。",
       "publishedAt": "2026-08-04",
       "source": "The Decoder",
       "url": "https://the-decoder.com/google-moves-billions-in-anthropic-chip-risk-off-its-balance-sheet/",
@@ -139,6 +202,15 @@
       "source": "Mistral AI",
       "url": "https://mistral.ai/news/shieldstral/",
       "subCategory": "开源模型"
+    },
+    {
+      "title": "How to evaluate voice agents: execution, outcomes, and experience",
+      "summary": "LangChain提出语音Agent评测方法论，从执行、结果、体验三个维度评估：执行侧用确定性检查和LLM裁判验证指令与工具调用是否合规，结果侧衡量任务是否达成并结合预订成功率等业务指标，体验侧评估延迟、语音自然度与对话摩擦，建议按信号类型匹配对应评测器。",
+      "publishedAt": "2026-08-04",
+      "source": "LangChain Blog",
+      "url": "https://www.langchain.com/blog/how-to-evaluate-voice-agents-execution-outcomes-and-experience",
+      "subCategory": "Agent",
+      "id": "ai-20260804-957"
     },
     {
       "id": "ai-20260803-902",
@@ -278,7 +350,7 @@
     {
       "id": "ai-20260801-r002",
       "title": "黄仁勋：不玩𝕏是我太内向，现在为AI必须站出来",
-      "summary": "英伟达CEO黄仁勋在采访中称，因认为有必要为AI发声而首次注册X账号。他将智能体称为新型软件，认为可控性而非绝对准确是下一个技术突破口，强调AI消除的是任务而非岗位，并预测机器人和物理AI将成为英伟达下一个十亿美元级业务。",
+      "summary": "英伟达CEO黄仁勋在采访中称，因认为有必要为AI发声而首次注册X账号。他将智能体称为新型软件，认为可控性而非绝对准确性是下一个技术突破口，强调AI消除的是任务而非岗位，并预测机器人和物理AI将成为英伟达下一个十亿美元级业务。",
       "publishedAt": "2026-08-01T11:38:10+08:00",
       "source": "量子位",
       "url": "https://www.qbitai.com/2026/08/464452.html",
@@ -328,51 +400,6 @@
       "url": "https://the-decoder.com/openai-announces-its-next-major-model-astra-by-dropping-ten-previously-unsolved-math-solutions/",
       "subCategory": "大模型",
       "id": "ai-20260801-b003"
-    },
-    {
-      "id": "ai-20260801-a004",
-      "title": "德国法院裁定 AI 音乐生成公司 Suno 侵犯版权，需支付赔偿金",
-      "summary": "慕尼黑地区法院裁定AI音乐生成公司Suno侵犯德国音乐版权组织GEMA代理艺术家的著作权，需公开非法所得并支付赔偿金，该判决仍可上诉。",
-      "publishedAt": "2026-07-31T21:28:28+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/984/382.htm",
-      "subCategory": "AI音频"
-    },
-    {
-      "id": "ai-20260801-a002",
-      "title": "MiniMax H3 通用多模态视频模型将于 8 月 3 日开源，最高可支持 15s 2K 分辨率",
-      "summary": "MiniMax宣布通用多模态视频模型H3将于8月3日零点开源，支持文本、图像、视频、音频统一理解，最高支持15秒2K分辨率视频生成，成本低于主流模型三分之一。",
-      "publishedAt": "2026-07-31T21:13:29+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/984/379.htm",
-      "subCategory": "开源模型"
-    },
-    {
-      "id": "ai-20260801-a005",
-      "title": "SIGGRAPH时间检验奖揭晓：这项研究，提前十年押中了物理AI",
-      "summary": "香港大学教授Taku Komura凭借2016年提出的角色动作合成与编辑深度学习框架研究获得SIGGRAPH时间检验奖，该工作被认为为具身智能与物理AI研究奠定了基础。",
-      "publishedAt": "2026-07-31T17:11:32+08:00",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/07/464328.html",
-      "subCategory": "具身智能"
-    },
-    {
-      "id": "ai-20260801-r005",
-      "title": "即梦Seedance 2.5发布，支持30秒原生视频生成",
-      "summary": "字节跳动即梦平台上线视频生成模型Seedance 2.5，支持30秒原生视频生成，通过扩展模式最长可达3分钟，并新增局部修改、元素增删、精确到1秒的时间点控制等编辑功能，还支持最多50个参考素材同时输入及Maya、Blender插件工作流集成。",
-      "publishedAt": "2026-07-31T16:48:22+08:00",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/07/464329.html",
-      "subCategory": "AI视频"
-    },
-    {
-      "title": "视频后期，危！MiniMax H3手绘即特效，多模态的「Coding时刻」来了",
-      "summary": "稀宇科技发布全模态生成模型MiniMax H3，将剪辑逻辑、字幕、转场与配乐等编辑要素整合进视频生成过程，默认输出2K分辨率，支持文本、图像、音视频多模态输入，计划近期开源模型权重。",
-      "publishedAt": "2026-07-31T16:28:30+08:00",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/07/464277.html",
-      "subCategory": "AI视频",
-      "id": "ai-20260731-n008"
     },
     {
       "id": "ai-20260801-a008",
@@ -458,7 +485,7 @@
     {
       "id": "ai-20260731-m004",
       "title": "阿里发布 Qwen-Audio-3.0-ASR-Flash 语音识别大模型，让 AI 更好听懂专业词汇",
-      "summary": "阿里巴巴推出语音识别模型Qwen-Audio-3.0-ASR-Flash，在上下文一致性、行业词识别和热词定制化方面进行优化，在医疗场景识别率突破95.36%，曾获Artificial Analysis评测全球第一，目前通过阿里云百炼平台提供三个版本服务。",
+      "summary": "阿里巴巴推出语音识别模型Qwen-Audio-3.0-ASR-Flash，在上下文一致性、行业词识别和热词定制化方面进行优化，在医疗场景识别率突砆95.36%，曾获Artificial Analysis评测全球第一，目前通过阿里云百炼平台提供三个版本服务。",
       "publishedAt": "2026-07-31T11:57:20+08:00",
       "source": "IT之家",
       "url": "https://www.ithome.com/0/984/044.htm",
@@ -467,7 +494,7 @@
     {
       "id": "ai-20260731-m005",
       "title": "韩国最大人工智能基础模型：LG AI 研究院发布 750B 参数 K-EXAONE 2.0",
-      "summary": "LG AI研究院发布第二代基础模型K-EXAONE 2.0，采用混合注意力MoE架构，拥有750B总参数和37B激活参数，规模是初代的3倍以上，为韩国迄今最大AI基础模型，在24项基准测试中平均得分70.1分，已以Apache 2.0许可证开源。",
+      "summary": "LG AI研究院发布第二代基础模型K-EXAONE 2.0，采用混合注意力MoE架构，拥有750B总参数和37B激活参数，规模是初代的3倍以上，为韩国迄今最大AI基础模型，在24项基准测试中平均得70.1分，已以Apache 2.0许可证开源。",
       "publishedAt": "2026-07-31T11:44:26+08:00",
       "source": "IT之家",
       "url": "https://www.ithome.com/0/984/018.htm",
@@ -493,7 +520,7 @@
     },
     {
       "title": "智谱 GLM Coding Plan 订阅回归：透明积分制，每月 118 元起",
-      "summary": "智谱官宣GLM Coding Plan订阅套餐回归，新版采用透明积分制，输入输出及缓存命中token按公开规则折算，月费118元起，即日起至8月15日提供包年七折、包季八折限时优惠，老用户权益不变。",
+      "summary": "智谱官宣GLM Coding Plan订阅套餐回归，新版采用透明积分制，输入输出及缓存命中token按公开规则折算，月费118元起，即日起8月15日提供包年七折、包季八折限时优惠，老用户权益不变。",
       "publishedAt": "2026-07-31T08:56:52+08:00",
       "source": "IT之家",
       "url": "https://www.ithome.com/0/983/934.htm",
@@ -503,7 +530,7 @@
     {
       "id": "ai-20260731-m007",
       "title": "消息称 DeepSeek 计划在内蒙古建设大型 AI 数据中心，增加 1GW 算力",
-      "summary": "据彭博社报道，DeepSeek计划在内蒙古乌兰察布建设大型AI数据中心，增加1GW算力，部分算力将在2027年底或2028年初投入运行，该公司也考虑从其他公司租赁额外算力，乌兰察布因低温环境有利于数据中心散热成为理想选址。",
+      "summary": "据彭博社报道，DeepSeek计划在内蒙古乌兰察布建设大型AI数据中心，增加1GW算力，部分算力将在2027年底或䌧 22 8年初投入运行，该公司也考虑从其他公司租赁额外算力，乌兰察布因低温环境有利于数据中心散热成为理想选址。",
       "publishedAt": "2026-07-31T08:08:56+08:00",
       "source": "彭博社（IT之家）",
       "url": "https://www.ithome.com/0/983/925.htm",
@@ -521,15 +548,15 @@
     {
       "id": "ai-20260803-002",
       "title": "Qwen-UI-Agent Technical Report: Toward Next-Generation Real-World Centric Foundation GUI Agents",
-      "summary": "阿里巴巴通义实验室MAI-UI团队发布Qwen-UI-Agent技术报告，该基础模型面向跨移动端、桌面端、网页及信息检索场景的自主GUI操作，依托超100台真实安卓设备与150余款应用搭建基础设施以缩小仿真与现实的差距，支持结合图形界面操作与命令行操作的混合动作空间，并可基于约1万个并发环境处理超过100步的强化学习轨迹。测试显示其在真实设备移动端基准上成功率达92.2%，桌面任务79.5%，网页导航73.6%，整体与同类闭源模型相当或更优。",
+      "summary": "阿里巴巴通义实验室MAI-UI团队发布Qwen-UI-Agent技术报告，该基础模型面向跨移动端、桌面端、网页及信息检索场景的自主 GUI 操作，依托超 100 台真实安卓设备与150余款应用搭建基础设施以缩小仿真与现实的差距，支持结合图形界面操作与命令行操作的混合动作空间，并可基于约 1 万个并发环境处理超过 100 步的强化学习轨迹。测试显示其在真实设备移动端基准上成功率达92.2%，桌面任务79.5%，网页导航73.6%，整体与同类闭源模型相当或更优。",
       "publishedAt": "2026-07-30T21:58:41+08:00",
       "source": "arXiv（阿里巴巴通义实验室）",
       "url": "https://arxiv.org/abs/2607.28227",
       "subCategory": "Agent"
     },
     {
-      "title": "Claude Code之父：Harness保质期只有半年，解开缰绳吧",
-      "summary": "Claude Code创造者Boris Cherny撰文建议每半年清理一次Claude.md、Skills与Hooks等配置，通过消融实验判断哪些组件真正有效，主张以经验主义方式对待模型能力边界而非固守既定框架。",
+      "title": "Claude Code之父：Harness保质期只有半年，解开缧绳吧",
+      "summary": "Claude Code创造者Boris Cherny撰文建议每半年清理一次Claude.md、Skills与Hooks等配置，通过消烢实验判断哪些组件真正有效，主张以经验主义方式对待模型能力边界而非固守既定框架。",
       "publishedAt": "2026-07-30T16:57:55+08:00",
       "source": "量子位",
       "url": "https://www.qbitai.com/2026/07/463433.html",
@@ -593,7 +620,7 @@
     {
       "id": "ai-20260730-008",
       "title": "WorkBuddy重大升级，AI时代的Office来了",
-      "summary": "腾讯WorkBuddy发布V5.3.5版本，联合腾讯文档推出人机双写协同编辑功能，支持用户与AI在Word、Excel、PPT等文件内实时共同创作修改，实现人人、人机、机机多端同步协同。",
+      "summary": "腾讯 WorkBuddy发布V5.3.5版本，联合腾讯文档推出人机双写协同编辑功能，支持用户与AI在Word、Excel、PPT等文件内实时共同创作修改，实现人人、人机、机机多端同步协同。",
       "publishedAt": "2026-07-30T13:30:06+08:00",
       "source": "量子位",
       "url": "https://www.qbitai.com/2026/07/462979.html",
@@ -628,7 +655,7 @@
     },
     {
       "title": "OpenAI推出ChatGPT for Academic Researchers学术科研计划",
-      "summary": "OpenAI推出面向学术科研人员的ChatGPT计划，首批开放1万个名额，可使用GPT-5.6 Sol Pro等模型，未来扩展至10万名科研人员，并承诺到2027年投入超2.5亿美元支持外部科研，默认不将用户数据用于模型训练。",
+      "summary": "OpenAI推出面向学术科研人员的ChatGPT计划，首批开敶1万个名额，可使用GPT-5.6 Sol Pro等模型，未来扩展至10万名科研人员，并承诺到2027年投入超2.5亿美元支持外部科研，默认不将用户数据用于模型训练。",
       "publishedAt": "2026-07-29T17:33:00-04:00",
       "source": "Engadget",
       "url": "https://www.engadget.com/2226656/openai-will-provide-free-ai-models-to-select-researchers/",
@@ -652,78 +679,6 @@
       "url": "https://www.qbitai.com/2026/07/462384.html",
       "subCategory": "AI编程",
       "id": "ai-20260730-001"
-    },
-    {
-      "title": "上千名员工呼吁美国政府控制AI发展，OpenAI CEO奥尔特曼表态",
-      "summary": "超1100名来自OpenAI、Anthropic、谷歌、Meta的员工联署公开信，呼吁美国政府监管AI发展速度以应对失控风险；奥尔特曼回应称或需放缓节奏为社会预留适应时间。",
-      "publishedAt": "2026-07-29T08:20:32+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/982/816.htm",
-      "subCategory": "大模型",
-      "id": "ai-20260729-501"
-    },
-    {
-      "title": "AI 推动软件漏洞发现速度大幅加快，今年数量较去年预计翻番",
-      "summary": "美国国家漏洞数据库显示，2026年1月至7月已记录45207个漏洞，接近去年全年总量；甲骨文、微软、谷歌披露漏洞数量均大幅上升，攻击代码转化时间已从72小时缩短至24小时。",
-      "publishedAt": "2026-07-29T07:57:15+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/982/812.htm",
-      "subCategory": "AI应用",
-      "id": "ai-20260729-502"
-    },
-    {
-      "title": "OpenAI 奥尔特曼：人们并不想要 AI CEO，且更珍视人性联结",
-      "summary": "奥尔特曼一改此前AI CEO设想，称人们其实并不想要AI管理公司，更看重与真实人的信任联结；他还承认此前对AI冲击就业的判断没有应验。",
-      "publishedAt": "2026-07-29T07:16:29+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/982/804.htm",
-      "subCategory": "大模型",
-      "id": "ai-20260729-503"
-    },
-    {
-      "title": "数百条 Claude 聊天记录被谷歌索引，Anthropic 回应称用户主动分享所致",
-      "summary": "数百条经分享功能生成的Claude对话链接因缺少noindex标签被谷歌收录，内容涉及简历、健康记录、API密钥等敏感信息；Anthropic已于7月26日补加noindex标签。",
-      "publishedAt": "2026-07-29T07:11:54+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/982/802.htm",
-      "subCategory": "大模型",
-      "id": "ai-20260729-504"
-    },
-    {
-      "title": "OpenAI 引入两种转录模型：低延迟、更好理解上下文",
-      "summary": "OpenAI推出GPT-Live-Transcribe与GPT-Transcribe两款转录模型，分别面向实时与异步场景；官方数据显示GPT-Transcribe在九种语言测试中错误率为8.98%，低于此前Whisper模型的15.21%。",
-      "publishedAt": "2026-07-29T07:01:33+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/982/801.htm",
-      "subCategory": "AI音频",
-      "id": "ai-20260729-505"
-    },
-    {
-      "title": "OpenAI 模型失控受害者不仅只有 Hugging Face，Modal Labs 确认一名客户被黑",
-      "summary": "此前攻击Hugging Face的失控AI代理还入侵了Modal Labs一名客户的沙箱环境；Modal方面称该客户部署了未鉴权的公开端点，平台自身隔离机制未被攻破。",
-      "publishedAt": "2026-07-29T06:59:56+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/982/800.htm",
-      "subCategory": "Agent",
-      "id": "ai-20260729-506"
-    },
-    {
-      "title": "TurboVLA：RTX 4090上32Hz实时视觉-语言-动作模型",
-      "summary": "研究团队提出TurboVLA模型，将视觉-语言-动作管线由\"视觉-语言-动作\"串联改为直接映射，仅0.2B参数即在LIBERO基准上取得97.7%成功率，推理延迟31.2毫秒，显存占用低于1GB，可在消费级RTX 4090显卡上运行。",
-      "publishedAt": "2026-07-29",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2607.27205",
-      "subCategory": "具身智能",
-      "id": "ai-20260729-902"
-    },
-    {
-      "title": "vLLM针对Arm CPU推理性能大幅优化",
-      "summary": "Arm团队在vLLM博客介绍其在Arm Neoverse CPU上的推理优化成果，通过切换mimalloc内存分配、采用LSE原子操作、权重预打包等改进，相较2025年10月基线，BF16吞吐最高提升2.7倍，INT8 W8A8提升最高4.8倍，INT8 W4A8提升最高6.2倍，并提供预编译wheel与Docker镜像便于部署。",
-      "publishedAt": "2026-07-29",
-      "source": "vLLM Blog",
-      "url": "https://vllm.ai/blog/2026-07-29-optimizing-vllm-on-arm-cpus",
-      "subCategory": "推理框架",
-      "id": "ai-20260729-704"
     }
   ]
 }
