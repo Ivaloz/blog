@@ -3,8 +3,98 @@
   "slug": "tech",
   "title": "科技新闻",
   "description": "前沿科技、互联网产品、芯片硬件、开源生态。",
-  "updatedAt": "2026-08-05T00:50:00+08:00",
+  "updatedAt": "2026-08-05T09:20:00+08:00",
   "items": [
+    {
+      "id": "tech-20260805-001",
+      "title": "过去 1 年用户流失约 22%：美国 GEO 卫星服务商 Hughes 申请破产",
+      "summary": "美国卫星宽带服务商休斯（Hughes）因约15亿美元债务到期未能清偿，于8月3日申请第11章破产保护；公司过去一年用户流失约22%至64.1万，受SpaceX等低轨卫星竞争影响，计划转向企业与政府客户。",
+      "publishedAt": "2026-08-05T08:35:41+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/985/769.htm",
+      "subCategory": "网络基础设施"
+    },
+    {
+      "id": "tech-20260805-002",
+      "title": "苏姿丰预估 2027 年 AMD 数据中心业务营收翻倍",
+      "summary": "AMD在2026年二季度财报电话会上，首席执行官苏姿丰预计公司数据中心业务营收将于2027年实现翻倍；当季数据中心营收67亿美元，同比增长107%，服务器CPU营收连续五个季度创纪录。",
+      "publishedAt": "2026-08-05T08:22:15+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/985/766.htm",
+      "subCategory": "芯片硬件"
+    },
+    {
+      "id": "tech-20260805-003",
+      "title": "日产推出电动露营车 Interstar-e Relax：续航 408 英里，可容 4 人居住",
+      "summary": "日产与德国房车厂商Eifelland合作推出电动房车Interstar-e Relax，基于Interstar-e电动厢式车打造，配备87千瓦时电池，续航约657公里，可供四人居住，售价8.99万欧元。",
+      "publishedAt": "2026-08-05T08:21:40+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/985/765.htm",
+      "subCategory": "智能汽车"
+    },
+    {
+      "id": "tech-20260805-004",
+      "title": "台电推出 2026 款 P30T 平板：搭 10.1 英寸 800P 面板，展锐 T7250 + 3G + 128G 售 599 元",
+      "summary": "台电在京东上架2026款P30T平板电脑，搭载紫光展锐T7250处理器、3GB内存、128GB存储，配备10.1英寸1280×800分辨率120Hz显示屏与6000毫安时电池，售价599元。",
+      "publishedAt": "2026-08-05T08:16:56+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/985/764.htm",
+      "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260805-010",
+      "title": "谷歌 Pixel 11 手机官方营销素材流出：相机模组更纤薄、30 小时续航",
+      "summary": "谷歌Pixel 11及Pixel 11 Pro Fold官方营销素材于8月13日发布会前流出，显示新机采用更薄相机模组、续航达30小时、5分钟可充至55%电量，支持30倍数码变焦，8月12日开启预订。",
+      "publishedAt": "2026-08-05T08:00:59+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/985/759.htm",
+      "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260805-005",
+      "title": "马斯克称 SpaceX 星舰第 14 次试飞将尝试回收高约 52 米的上面级",
+      "summary": "马斯克在SpaceX首次季度财报电话会上表示，星舰第14次试飞计划于8月下旬进行，将首次尝试用发射塔机械臂捕获约52米高的上面级，并首次向轨道部署实际载荷。",
+      "publishedAt": "2026-08-05T08:00:30+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/985/758.htm",
+      "subCategory": "航空航天"
+    },
+    {
+      "id": "tech-20260805-006",
+      "title": "消息称内存涨价潮促使路由器制造商更新换代降本增效，加速推进 Wi-Fi 8 普及过程",
+      "summary": "市场研究机构Dell'Oro Group分析称，内存价格上涨促使路由器厂商加快产品换代以降低成本，多家厂商已提前推出Wi-Fi 8新品抢占市场，相关趋势预计将持续至少三年。",
+      "publishedAt": "2026-08-05T07:58:26+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/985/757.htm",
+      "subCategory": "网络基础设施"
+    },
+    {
+      "id": "tech-20260805-007",
+      "title": "消息称微软 Win11 系统 XBOX 360 游戏模拟器将整合在 XBOX App 中，预计明后年上线",
+      "summary": "消息称微软计划将Xbox 360游戏模拟功能整合进Windows 11版Xbox App，游戏发行商可自主选择是否收录旗下老游戏及定价方式，该功能预计2027至2028年上线，此前已支持初代Xbox游戏。",
+      "publishedAt": "2026-08-05T07:51:00+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/985/756.htm",
+      "subCategory": "操作系统"
+    },
+    {
+      "id": "tech-20260805-008",
+      "title": "一加手机退出北美市场，当地官网最后一批手机售罄",
+      "summary": "一加手机正式退出北美市场，美国官网一加15、15R系列显示缺货，平板与手表产品已下架，加拿大官网库存售罄，墨西哥官网取消购买入口，此前官方称将聚焦中国市场。",
+      "publishedAt": "2026-08-05T07:44:14+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/985/754.htm",
+      "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260805-009",
+      "title": "直指特斯拉纯视觉路线，Waymo CEO 多尔戈夫阐释多传感器融合自动驾驶技术逻辑",
+      "summary": "Waymo联合CEO多尔戈夫撰文阐述多传感器融合方案的必要性，称仅依赖摄像头的弱感知方案难以达到Robotaxi所需的安全可靠水平，被视为对特斯拉纯视觉自动驾驶路线的回应。",
+      "publishedAt": "2026-08-05T07:35:23+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/985/751.htm",
+      "subCategory": "智能汽车"
+    },
     {
       "id": "tech-20260804-104",
       "title": "博主实测华硕Zenbook A16外接RTX 4060显卡玩游戏优化尚不完善",
@@ -87,6 +177,24 @@
       "subCategory": "航空航天"
     },
     {
+      "id": "tech-20260805-013",
+      "title": "TP-Link patches Omada ZTP flaws allowing hackers to breach networks",
+      "summary": "安全公司Forescout披露TP-Link Omada零接触配置系统中的15个漏洞，攻击者可利用硬编码密钥、竞态条件等缺陷劫持云控制器并渗透内网，TP-Link已发布部分补丁，超1800台控制器暴露公网。",
+      "publishedAt": "2026-08-04T18:18:00-04:00",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/tp-link-patches-omada-ztp-flaws-allowing-hackers-to-breach-networks/",
+      "subCategory": "安全漏洞"
+    },
+    {
+      "id": "tech-20260805-015",
+      "title": "Phishing service spoofs RingCentral to steal Microsoft 365 accounts",
+      "summary": "网络钓鱼即服务平台Greatness伪装RingCentral语音信箱通知邮件，利用平台白名单绕过安全过滤，诱导用户进入中间人钓鱼页面窃取微软365账户令牌，攻击者可在受害邮箱内潜伏两周以上。",
+      "publishedAt": "2026-08-04T17:45:00-04:00",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/phishing-service-spoofs-ringcentral-to-steal-microsoft-365-accounts/",
+      "subCategory": "安全漏洞"
+    },
+    {
       "id": "tech-20260804-004",
       "title": "宏碁掠夺者战斧10 Neo游戏本新增酷睿U7 255HX+RTX 5070版本，16999元",
       "summary": "宏碁推出掠夺者战斧10 Neo游戏本新配置，搭载酷睿Ultra 7 255HX处理器及RTX 5070显卡，配16GB DDR5 6400MT/s内存及1TB PCIe 4.0固态硬盘，京东定价16999元，16英寸屏幕支持2.5K分辨率240Hz刷新率，采用双风扇与液态金属散热。",
@@ -96,6 +204,15 @@
       "subCategory": "消费电子"
     },
     {
+      "id": "tech-20260805-014",
+      "title": "New XCSSET variant targets macOS devs via compromised Xcode projects",
+      "summary": "Palo Alto Networks旗下Unit 42发现新版本XCSSET恶意软件通过被篡改的Xcode工程文件感染macOS开发者，新增Chrome浏览器劫持与Telegram仿冒木马模块，用于窃取账号凭证与加密货币。",
+      "publishedAt": "2026-08-04T15:03:00-04:00",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/new-xcsset-variant-targets-macos-devs-via-compromised-xcode-projects/",
+      "subCategory": "安全漏洞"
+    },
+    {
       "id": "tech-20260804-106",
       "title": "Massive ChainDrop npm supply-chain attack infects hundreds of packages",
       "summary": "自我传播的ChainDrop蠕虫已入侵npm平台超1300个软件包，月下载量合计约20亿次。攻击者通过获取Keyv维护者的GitHub账号注入恶意代码，经preinstall钩子窃取API令牌、云凭证与SSH密钥等敏感信息。",
@@ -103,6 +220,15 @@
       "source": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/news/security/massive-chaindrop-npm-supply-chain-attack-infects-hundreds-of-packages/",
       "subCategory": "安全漏洞"
+    },
+    {
+      "id": "tech-20260805-012",
+      "title": "Waymo opens up robotaxi service in Dallas to everyone",
+      "summary": "Waymo宣布取消达拉斯地区候补名单，向所有居民和访客开放机器人出租车服务，此前该服务自今年2月起仅面向约15万名候补用户开放，达拉斯洛夫机场航站楼接送服务仍在测试阶段。",
+      "publishedAt": "2026-08-04T10:31:00-07:00",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/04/waymo-opens-up-robotaxi-service-in-dallas-to-everyone/",
+      "subCategory": "智能汽车"
     },
     {
       "id": "tech-20260804-001",
@@ -130,6 +256,15 @@
       "source": "IT之家",
       "url": "https://www.ithome.com/0/985/300.htm",
       "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260805-011",
+      "title": "Microchip Technology, in Collaboration With Micron Technology, Demonstrates High-Performance PCIe Gen 6 Storage Architecture for AI and Data Center Infrastructure",
+      "summary": "美高森美（Microchip）与美光在2026存储与内存未来大会上联合展示端到端PCIe Gen 6存储架构，将Switchtec Gen 6交换芯片与美光9650 NVMe SSD结合，单通道带宽提升至64 GT/s，面向AI与数据中心。",
+      "publishedAt": "2026-08-04T07:16:00-04:00",
+      "source": "GlobeNewswire",
+      "url": "https://www.globenewswire.com/news-release/2026/08/04/3338174/0/en/microchip-technology-in-collaboration-with-micron-technology-demonstrates-high-performance-pcie-gen-6-storage-architecture-for-ai-and-data-center-infrastructure.html",
+      "subCategory": "芯片硬件"
     },
     {
       "id": "tech-20260804-110",
@@ -589,141 +724,6 @@
       "url": "https://www.ithome.com/0/984/634.htm",
       "subCategory": "消费电子",
       "id": "tech-20260801-b003"
-    },
-    {
-      "title": "宏碁主管：预计第三季度整体 PC 价格仍有约 5% 的上涨空间，第四季度有望趋于平稳",
-      "summary": "宏碁台湾区高管表示，内存和SSD仍是PC供应链中最紧缺的元器件，预计三季度整体PC价格仍有约5%上涨空间，四季度有望趋于平稳，微软自7月起上调Windows OEM授权费也推高了整机成本。",
-      "publishedAt": "2026-08-01T22:58:29+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/984/632.htm",
-      "subCategory": "消费电子",
-      "id": "tech-20260801-b008"
-    },
-    {
-      "title": "比亚迪方程豹全新轿车系列\"方程 S\"开启全国巡展，三季度上市",
-      "summary": "比亚迪方程豹旗下全场景多形态个性轿车系列\"方程S\"启动全国巡展，首站落地上海城隍庙，新车计划于今年第三季度正式上市。",
-      "publishedAt": "2026-08-01T22:35:17+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/984/631.htm",
-      "subCategory": "智能汽车",
-      "id": "tech-20260801-b004"
-    },
-    {
-      "id": "tech-20260802-001",
-      "title": "文石 Leaf5+ 墨水屏电纸书新增“野风蓝”配色，零售价 1899 元",
-      "summary": "文石Leaf5+墨水屏电纸书新增“野风蓝”配色，8月4日20点开售，零售价1899元，配备7英寸300PPI Carta 1300屏幕，支持手写笔，搭载高通八核处理器与4GB内存。",
-      "publishedAt": "2026-08-01T21:22:04+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/984/622.htm",
-      "subCategory": "消费电子"
-    },
-    {
-      "title": "中微公司董事长尹志尧：到 2035 年在规模、产品竞争力上成为全球第一梯队的半导体设备公司",
-      "summary": "中微公司董事长尹志尧在上海临港22周年庆典上表示，公司计划未来五年将园区扩至90万平方米、产能超700亿元，力争高端半导体设备国产化覆盖率达60%，到2035年跻身全球第一梯队半导体设备企业。",
-      "publishedAt": "2026-08-01T20:53:24+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/984/618.htm",
-      "subCategory": "芯片硬件",
-      "id": "tech-20260801-b005"
-    },
-    {
-      "title": "全程无遥操机器人比赛全国决赛在北京开赛，200 多支队伍冲击冠军",
-      "summary": "第28届中国机器人及人工智能大赛人形机器人赛项全国总决赛在北京首钢园开赛，全部全尺寸人形机器人比赛场地已取消遥控设备，要求机器人自主完成复杂地形通过、精密分拣等1:1还原真实生产场景的任务，200余支队伍晋级决赛。",
-      "publishedAt": "2026-08-01T18:58:15+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/984/608.htm",
-      "subCategory": "机器人",
-      "id": "tech-20260801-b006"
-    },
-    {
-      "title": "人形机器人家政清洁服务走入现实，每小时 30 美元",
-      "summary": "旧金山初创公司Tau Robotics推出人形机器人家政清洁服务，收费每小时30美元，机器人目前由中控室人员远程操作并辅以AI，可完成吸尘、擦拭台面等简单家务，服务覆盖Mission区和Noe Valley等地区。",
-      "publishedAt": "2026-08-01T17:36:50+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/984/573.htm",
-      "subCategory": "机器人",
-      "id": "tech-20260801-b007"
-    },
-    {
-      "id": "tech-20260801-r004",
-      "title": "小米澎湃OS 3迎来近期更新：超级岛适配“麦当劳”取餐码等",
-      "summary": "小米澎湃OS 3发布近期更新，超级岛新增麦当劳取餐码展示功能，同时优化了屏幕共享、笔记云同步、家庭守护及游戏工具箱等多项系统功能的使用体验。",
-      "publishedAt": "2026-08-01T16:32:46+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/984/559.htm",
-      "subCategory": "操作系统"
-    },
-    {
-      "id": "tech-20260801-r009",
-      "title": "谷歌、微软、Meta、亚马逊“四巨头”未来数年投入2.4万亿美元",
-      "summary": "据彭博社报道，谷歌、微软、Meta、亚马逊四家科技巨头未来数年计划合计投入约2.4万亿美元用于数据中心租赁、建设、能源与设备，以满足持续增长的算力需求。",
-      "publishedAt": "2026-08-01T16:13:35+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/984/547.htm",
-      "subCategory": "云计算"
-    },
-    {
-      "id": "tech-20260801-r002",
-      "title": "消息称台积电加速1.4nm工艺建设，最快2028年年中量产",
-      "summary": "据台湾媒体报道，台积电正加快在台中厂区建设1.4纳米制程产线，首座厂房预计2027年初完工并进入试产，若后续进度顺利，最快可于2028年年中实现量产。",
-      "publishedAt": "2026-08-01T15:49:01+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/984/530.htm",
-      "subCategory": "芯片硬件"
-    },
-    {
-      "id": "tech-20260801-r010",
-      "title": "维信诺ChinaJoy首秀，全场景OLED布局一口气看完",
-      "summary": "面板厂商维信诺首次亮相ChinaJoy展会，展示涵盖手机、笔记本、车载屏幕及智能戒指等全场景OLED产品布局，并演示了以光刻工艺替代金属掩膜的ViP像素技术。",
-      "publishedAt": "2026-08-01T15:34:45+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/984/523.htm",
-      "subCategory": "消费电子"
-    },
-    {
-      "id": "tech-20260801-r003",
-      "title": "金山办公WPS存储管理新版本上线，为C盘“瘦身”",
-      "summary": "金山办公WPS上线存储管理新版本，将缓存、文件备份、云文档缓存等各类文件占用集中展示并支持一键清理，安装环节新增路径分离设置，解决长期以来C盘被大量占用的问题。",
-      "publishedAt": "2026-08-01T15:27:00+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/984/518.htm",
-      "subCategory": "互联网产品"
-    },
-    {
-      "id": "tech-20260801-r011",
-      "title": "英国一博主用Meta智能眼镜在公共场合“偷拍”路人，遭警方调查",
-      "summary": "苏格兰一名TikTok博主佩戴Meta智能眼镜在公共场合拍摄并发布路人视频，期间言语冒犯多人，警方已介入调查，事件再次引发对智能眼镜隐私风险的关注。",
-      "publishedAt": "2026-08-01T15:20:51+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/984/516.htm",
-      "subCategory": "XR-AR-VR"
-    },
-    {
-      "id": "tech-20260801-r006",
-      "title": "OPPO Find X10系列新机入网，消息称预计9月下旬发布",
-      "summary": "OPPO Find X10系列新机已通过入网认证，博主透露将于9月下旬发布，Pro版据称搭载天玑9600 Pro处理器、双200MP大底摄像头，电池容量或超8000mAh。",
-      "publishedAt": "2026-08-01T14:53:09+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/984/504.htm",
-      "subCategory": "消费电子"
-    },
-    {
-      "id": "tech-20260801-r008",
-      "title": "今天起，电动汽车充电桩CCC认证开始强制实施",
-      "summary": "国家市场监管总局规定，自2026年8月1日起电动汽车充电设备须取得CCC强制性认证，重点考核防触电、短路保护与耐火耐燃等安全指标，未获认证产品禁止生产销售流通。",
-      "publishedAt": "2026-08-01T14:07:06+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/984/495.htm",
-      "subCategory": "智能汽车"
-    },
-    {
-      "id": "tech-20260801-r005",
-      "title": "可维修模块化手机Fairphone 6+曝光：12GB内存、3种颜色",
-      "summary": "模块化可维修手机Fairphone 6+信息曝光，运行内存由8GB升至12GB，存储容量维持256GB，将提供钴蓝、天际黑、森林绿三种配色，受内存涨价影响新机售价可能上调。",
-      "publishedAt": "2026-08-01T14:02:29+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/984/494.htm",
-      "subCategory": "消费电子"
     }
   ]
 }

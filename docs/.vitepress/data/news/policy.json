@@ -3,7 +3,7 @@
   "slug": "policy",
   "title": "政策信息",
   "description": "国家与地方政策、监管动态、产业扶持与合规要求。",
-  "updatedAt": "2026-08-05T00:50:00+08:00",
+  "updatedAt": "2026-08-05T09:20:00+08:00",
   "items": [
     {
       "id": "policy-20260804-005",
@@ -51,6 +51,15 @@
       "subCategory": "数字经济"
     },
     {
+      "id": "policy-20260805-002",
+      "title": "国务院关于印发《知识产权保护和运用“十五五”规划》的通知",
+      "summary": "国务院印发国发〔2026〕30号文件《知识产权保护和运用“十五五”规划》，该规划于7月27日印发，明确“十五五”期间知识产权保护、运用、管理、公共服务和国际合作等方面的主要目标与重点任务。",
+      "publishedAt": "2026-08-04",
+      "source": "中华人民共和国生态环境部（转载国务院文件）",
+      "url": "https://www.mee.gov.cn/zcwj/gwywj/202608/t20260804_1163560.shtml",
+      "subCategory": "产业政策"
+    },
+    {
       "id": "policy-20260803-901",
       "title": "国务院公布《集成电路布图设计保护条例》",
       "summary": "国务院第91次常务会议修订通过《集成电路布图设计保护条例》，以国令第842号公布，旨在保护集成电路布图设计专有权、鼓励技术创新，自2026年10月15日起施行。",
@@ -58,6 +67,24 @@
       "source": "中国政府网",
       "url": "https://www.gov.cn/zhengce/content/202608/content_7077398.htm",
       "subCategory": "产业政策"
+    },
+    {
+      "id": "policy-20260805-001",
+      "title": "关于印发《新型电力系统建设“十五五”规划》的通知",
+      "summary": "国家发展改革委、国家能源局联合印发《新型电力系统建设“十五五”规划》，文号为发改能源〔2026〕942号，文件于7月21日印发，明确“十五五”期间推进新型电力系统建设的主要目标和重点任务，落实国家能源安全新战略。",
+      "publishedAt": "2026-08-03",
+      "source": "国家发展和改革委员会",
+      "url": "https://www.ndrc.gov.cn/xxgk/zcfb/tz/202608/t20260803_1406883.html",
+      "subCategory": "新能源政策"
+    },
+    {
+      "id": "policy-20260805-003",
+      "title": "深化务实合作 密切协同发展 共创“十五五”资本市场高水平开放新局面",
+      "summary": "证监会主席吴清在香港人民币国债期货挂牌仪式上提出深化内地与香港资本市场合作的五方面协同举措，涵盖功能、产品、生态、监管、治理协同，包括支持符合条件企业跨境上市融资及扩大人民币计价期货产品供给。",
+      "publishedAt": "2026-08-03",
+      "source": "中国证券监督管理委员会",
+      "url": "https://www.csrc.gov.cn/csrc/c106311/c7649382/content.shtml",
+      "subCategory": "金融监管"
     },
     {
       "id": "policy-20260803-902",
@@ -697,33 +724,6 @@
       "source": "U.S. Securities and Exchange Commission",
       "url": "https://www.sec.gov/newsroom/press-releases/2026-69-sec-announces-roundtable-preparations-24-hour-trading",
       "subCategory": "金融监管"
-    },
-    {
-      "id": "policy-20260724-003",
-      "title": "白宫宣布扩大\"电价保护承诺\"倡议以支撑美国AI数据中心发展",
-      "summary": "白宫宣布\"电价保护承诺\"倡议扩容，已有超200家公用事业公司、数据中心开发商、合作社及州政府加入，要求大型数据中心运营商自行承担电力基础设施建设成本，覆盖美国80%电力供应，旨在推进AI发展同时避免消费者电价上涨。",
-      "publishedAt": "2026-07-23",
-      "source": "The White House",
-      "url": "https://www.whitehouse.gov/releases/2026/07/president-trumps-ratepayer-protection-pledge-secures-american-ai-dominance-protects-consumers/",
-      "subCategory": "AI监管"
-    },
-    {
-      "id": "policy-20260724-005",
-      "title": "欧盟委员会因违反《数字市场法案》对谷歌处以8.9亿欧元罚款",
-      "summary": "欧盟委员会认定谷歌在Google搜索中偏袒自身购物、酒店、交通等服务，以及在Google Play限制开发者引导用户至更便宜的第三方支付渠道，两项违规分别处以4.6亿欧元和4.3亿欧元罚款，要求谷歌60天内整改，否则面临最高其全球营业额5%的按日罚款。",
-      "publishedAt": "2026-07-23",
-      "source": "European Commission",
-      "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1670",
-      "subCategory": "反垄断"
-    },
-    {
-      "id": "policy-20260724-103",
-      "title": "市场监管总局集中纠治不当实施信用评价设置招标投标区域壁垒卡点堵点问题",
-      "summary": "市场监管总局通报全国统一大市场建设专项行动成果，纠治部分地区以本地企业业绩、获奖情况设置信用评价门槛、抬高外地企业招投标成本等地方保护问题，推动政策修订。",
-      "publishedAt": "2026-07-23",
-      "source": "国家市场监督管理总局",
-      "url": "https://www.samr.gov.cn/xw/zj/art/2026/art_b1c926fee166451baec164880c36871c.html",
-      "subCategory": "产业政策"
     }
   ]
 }

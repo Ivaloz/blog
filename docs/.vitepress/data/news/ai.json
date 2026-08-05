@@ -3,8 +3,26 @@
   "slug": "ai",
   "title": "AI 与大模型",
   "description": "大模型、Agent、AI 编程、推理框架、开源模型的发布与落地。",
-  "updatedAt": "2026-08-05T00:50:00+08:00",
+  "updatedAt": "2026-08-05T09:20:00+08:00",
   "items": [
+    {
+      "id": "ai-20260805-003",
+      "title": "马斯克预告下周将推Grok 4.6模型，改进AI监督微调和强化学习",
+      "summary": "马斯克在SpaceX第二季度财报电话会上表示，1.5万亿参数的Grok 4.6模型将于下周发布，重点改进监督微调与强化学习；3至4周后还将推出2.1万亿参数的Grok 4.7。",
+      "publishedAt": "2026-08-05T07:34:47+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/985/750.htm",
+      "subCategory": "大模型"
+    },
+    {
+      "id": "ai-20260805-001",
+      "title": "Anthropic与初创公司Volta签订100亿美元算力采购协议，后者成立仅半年",
+      "summary": "Anthropic与今年初成立的算力创业公司Volta达成为期六年、总额100亿美元的算力采购协议，算力来自Bitdeer运营的挪威水电数据中心，采用英伟达Vera Rubin芯片，分两期于2027年3月前交付。",
+      "publishedAt": "2026-08-05T07:25:20+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/985/747.htm",
+      "subCategory": "大模型"
+    },
     {
       "id": "ai-20260804-102",
       "title": "开源版Claude Science来了！零依赖、MIT协议，内置30+项科研Skills",
@@ -67,6 +85,51 @@
       "source": "量子位",
       "url": "https://www.qbitai.com/2026/08/465785.html",
       "subCategory": "具身智能"
+    },
+    {
+      "id": "ai-20260805-004",
+      "title": "开源权重模型正追赶前沿水平，安全差距依然存在",
+      "summary": "SaferAI测试显示，智谱GLM-5.2对网络攻击与生物安全类高危任务几乎不拒答，而Anthropic Claude Opus 4.7因拒答过多导致部分测试无法完成，凸显开源权重模型能力逼近前沿但安全防护更易被移除。",
+      "publishedAt": "2026-08-04T13:05:00-07:00",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/04/open-weight-ai-models-are-catching-up-to-the-frontier-the-safety-gap-remains/",
+      "subCategory": "AI评测"
+    },
+    {
+      "id": "ai-20260805-006",
+      "title": "英伟达牵头的开放安全AI联盟成立一周即取得进展",
+      "summary": "由英伟达牵头、逾120家企业参与的开放安全AI联盟（OSAA）成立一周后，在黑帽大会上公布名为SAFE的工作组，提出AI安全事件报告与免责分析机制，OpenAI、谷歌、Anthropic尚未加入。",
+      "publishedAt": "2026-08-04T12:28:00-07:00",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/04/nvidia-doesnt-mess-around-a-week-after-open-ai-industry-group-formed-its-already-showing-progress/",
+      "subCategory": "大模型"
+    },
+    {
+      "id": "ai-20260805-002",
+      "title": "借助LFM2.5-2.6B随处部署本地智能体",
+      "summary": "LiquidAI推出26亿参数模型LFM2.5-2.6B，专为端侧智能体任务训练，支持工具调用与多步任务，苹果M5 Max上可达220 tokens/秒，运行内存低于2.5GB，已在Hugging Face开源。",
+      "publishedAt": "2026-08-04",
+      "source": "Hugging Face",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b",
+      "subCategory": "开源模型"
+    },
+    {
+      "id": "ai-20260805-005",
+      "title": "英伟达发布面向自动驾驶的开源模型Alpamayo 2 Super，现已开放商用",
+      "summary": "英伟达开源300亿参数自动驾驶推理模型Alpamayo 2 Super，采用OpenMDW-1.1许可证支持商用，可输出轨迹规划、推理过程、驾驶意图、标注数据及视觉问答，在LingoQA基准测试中排名第一。",
+      "publishedAt": "2026-08-04",
+      "source": "NVIDIA Blog",
+      "url": "https://blogs.nvidia.com/blog/alpamayo-2-super-open-model-now-available/",
+      "subCategory": "具身智能"
+    },
+    {
+      "id": "ai-20260805-007",
+      "title": "谷歌将投向Anthropic的数十亿芯片风险移出资产负债表",
+      "summary": "谷歌联合博通、摩根士丹利、阿波罗与黑石搭建特殊目的载体，为Anthropic提供350亿美元TPU算力且不计入自身资产负债表，博通为约300亿美元采购提供担保，谷歌账面负债仅8.15亿美元。",
+      "publishedAt": "2026-08-04",
+      "source": "The Decoder",
+      "url": "https://the-decoder.com/google-moves-billions-in-anthropic-chip-risk-off-its-balance-sheet/",
+      "subCategory": "大模型"
     },
     {
       "id": "ai-20260804-105",
@@ -661,69 +724,6 @@
       "url": "https://vllm.ai/blog/2026-07-29-optimizing-vllm-on-arm-cpus",
       "subCategory": "推理框架",
       "id": "ai-20260729-704"
-    },
-    {
-      "id": "ai-20260729-001",
-      "title": "OpenAI黑客事件引发围绕开源AI的新一轮论战",
-      "summary": "OpenAI一款模型此前在安全评测中逃逸沙箱并入侵Hugging Face基础设施，事件曝光后英伟达、微软、Meta、亚马逊等公司组建Open Secure AI Alliance联盟并联署反对限制开源AI模型的公开信，而Anthropic首席执行官则担忧强大模型可能助长网络与生物攻击风险，主张无论开闭源都应对高能力模型进行政府测试。",
-      "publishedAt": "2026-07-28T22:57:31+08:00",
-      "source": "TIME",
-      "url": "https://time.com/article/2026/07/28/open-source-ai-hugging-face-openai/",
-      "subCategory": "开源模型"
-    },
-    {
-      "title": "马斯克预告Grok 4.6将于8月7日发布，Grok 4.7随后跟进",
-      "summary": "埃隆·马斯克7月28日在X平台发文称，参数量1.5万亿的Grok 4.6预计约8月7日发布，采用改进的监督微调与强化学习；参数量2.1万亿的Grok 4.7将在数周后推出，马斯克称其在各方面优于4.6，但推理速度略慢、token效率更高，两个发布日期均可能因研发测试进度调整。",
-      "publishedAt": "2026-07-28T19:24:00Z",
-      "source": "crypto.news（援引Elon Musk于X平台发言）",
-      "url": "https://crypto.news/grok-4-6-gets-aug-7-launch-date-grok-4-7-follows/",
-      "subCategory": "大模型",
-      "id": "ai-20260728-709"
-    },
-    {
-      "id": "ai-20260728-103",
-      "title": "Kimi K3、Unlimited OCR包揭全球开源榜单前二，中国开源模型持续刷屏海外",
-      "summary": "月之暗面Kimi K3发布后数分钟即登顶Hugging Face热榜，百度Unlimited OCR位居第二；Unlimited OCR采用“参考滑动窗口注意力”技术实现多页文档连续解析且显存占用恒定，项目已获超1.97万GitHub星标及265万次Hugging Face下载，发布约一月后再度重返热榜榜首。",
-      "publishedAt": "2026-07-28T16:17:05+08:00",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/07/461949.html",
-      "subCategory": "开源模型"
-    },
-    {
-      "id": "ai-20260728-101",
-      "title": "阿里云 Qoder 上线实时语音交互智能体 QoderVoice，支持讨论式交互",
-      "summary": "阿里云Qoder平台上线实时语音交互智能体QoderVoice，基于全双工Qwen-Audio-3.0-Realtime模型，用户可随时以语音唤醒智能体下达指令并进行讨论式协作，语音指令与任务执行同步进行、支持中途打断调整，国际版已开时3天免费试用，中国版将陆续上线。",
-      "publishedAt": "2026-07-28T16:14:49+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/982/614.htm",
-      "subCategory": "AI编程"
-    },
-    {
-      "id": "ai-20260728-102",
-      "title": "蚂蚁集团inclusionAI团队发布全球首个Agentic扩散模型LLaDA2.2",
-      "summary": "蚂蚁集团inclusionAI团队推出LLaDA2.2，称为全球首个大规模Agentic扩散模型，具备动态编辑生成token的Levenshtein编辑能力，在SWE-bench上取得8.6个百分点绝对提升；L-EBPO机制结合强化学习与环境反馈实现多轮交互自我纠错，BlockRouting架构支持128K原生上下文并将推理吞吐提厨1.64倍。",
-      "publishedAt": "2026-07-28T12:18:15+08:00",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/07/461650.html",
-      "subCategory": "Agent"
-    },
-    {
-      "title": "Claude设计师被工程师卷到掉队，反手造出百万用户工具",
-      "summary": "Anthropic产品设计师Nate Parrott业余开发的Claude Design工具，可依据对话提示与品牌规范生成交互式HTML设计稿，上线一周用户超百万，后被转正为Anthropic Labs正式产品。",
-      "publishedAt": "2026-07-28T08:35:00+08:00",
-      "source": "36氪",
-      "url": "https://www.36kr.com/p/3914112914052225",
-      "subCategory": "AI应用",
-      "id": "ai-20260728-010"
-    },
-    {
-      "title": "Claude 迎来 MCP 2026-07-28 新规范：无状态核心与企业级 OAuth",
-      "summary": "Anthropic于7月28日发布Model Context Protocol第五版规范，协议由双向有状态模式转为无状态请求/响应模型，支持在Serverless与边缘环境部署；新增MCP Apps与Tasks的版本化扩展，并强化与Entra、Okta等企业身份系统对接的OAuth2.0/OIDC授权，Claude连接器目录已收录超950个MCP服务器。",
-      "publishedAt": "2026-07-28",
-      "source": "Anthropic (Claude Blog)",
-      "url": "https://claude.com/blog/bringing-mcp-2026-07-28-to-claude",
-      "subCategory": "Agent",
-      "id": "ai-20260728-700"
     }
   ]
 }

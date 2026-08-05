@@ -3,8 +3,62 @@
   "slug": "finance",
   "title": "投资与财经",
   "description": "宏观经济、A 股 / 港股 / 美股、一级市场融资、行业研报观点。",
-  "updatedAt": "2026-08-05T00:50:00+08:00",
+  "updatedAt": "2026-08-05T09:20:00+08:00",
   "items": [
+    {
+      "id": "finance-20260805-009",
+      "title": "高院判决后，美国已退还1000亿美元关税，\"退款进度\"60%",
+      "summary": "美国最高法院裁定4月推出的\"对等关税\"违宪后，据海关向美国国际贸易法院的披露，联邦政府已退还约1000亿美元关税，占应退165亿美元总额的60%，另有逾1280亿美元退税申请已受理待处理；退款目前仅限直接报关的进口商申领。",
+      "publishedAt": "2026-08-05T08:09:00+08:00",
+      "source": "华尔街见闻",
+      "url": "https://wallstreetcn.com/articles/3778703",
+      "subCategory": "宏观经济"
+    },
+    {
+      "id": "finance-20260805-005",
+      "title": "全球疯抢！关税套利引爆\"铜博士\"，库存危机会彻底爆发吗",
+      "summary": "受对精炼铜潜在关税的套利驱动，7月流入美国的铜超20万吨，为2014年有记录以来单月新高，COMEX库存创百年新高；同期LME可交割库存仅9.42万吨，近月合约现货升水一度达每吨105美元，上期所库存由3月43万吨降至约6.93万吨。",
+      "publishedAt": "2026-08-05T07:37:11+08:00",
+      "source": "第一财经",
+      "url": "https://www.yicai.com/news/103305460.html",
+      "subCategory": "大宗商品"
+    },
+    {
+      "id": "finance-20260805-001",
+      "title": "标普500收盘首次站上7700点，道指涨超900点，纳指大涨",
+      "summary": "8月4日美股收盘，标普500指数涨136.02点（1.79%）报7736.52点，为该指数首次收盘站上7700点；道指涨907.47点（1.71%）报54085.88点，续创收盘新高；纳指涨671.10点（2.59%）报26584.99点，科技与半导体板块领涨。",
+      "publishedAt": "2026-08-05T07:23:45+08:00",
+      "source": "第一财经",
+      "url": "https://www.yicai.com/news/103305446.html",
+      "subCategory": "美股"
+    },
+    {
+      "id": "finance-20260805-002",
+      "title": "AMD收入展望不及最高预期，盘后跌超9%",
+      "summary": "AMD公布二季度财报，营收115.36亿美元同比增长50%，净利润23亿美元同比增长163%，毛利率54%，均超市场预期；但三季度营收指引约130亿美元虽超分析师均值仍不及最激进预期，股价盘后一度下跌超9%。",
+      "publishedAt": "2026-08-05T07:09:03+08:00",
+      "source": "第一财经",
+      "url": "https://www.yicai.com/news/103305422.html",
+      "subCategory": "公司财报"
+    },
+    {
+      "id": "finance-20260805-003",
+      "title": "SpaceX上市后首份财报营收增92%大超预期，星链独撑利润",
+      "summary": "SpaceX上市后首份财报显示，二季度营收78亿美元同比增长92%，超市场预期逾10%；星链业务营收42.9亿美元并贡献16.6亿美元营业利润，AI业务营收25.6亿美元但营业亏损12.6亿美元，净亏损5.41亿美元同比收窄46%，股价盘后一度跌近9%。",
+      "publishedAt": "2026-08-05T06:21:00+08:00",
+      "source": "华尔街见闻",
+      "url": "https://wallstreetcn.com/articles/3778691",
+      "subCategory": "公司财报"
+    },
+    {
+      "id": "finance-20260805-004",
+      "title": "Palantir二季度营收同比增93%大超预期，股价单日暴涨近30%",
+      "summary": "Palantir公布二季度财报，营收19.4亿美元同比增长93%，调整后每股收益0.41美元，均超市场预期；美国商业业务收入同比增长149%，公司将全年营收指引上调至81.5亿至81.6亿美元区间，股价当日上涨近30%。",
+      "publishedAt": "2026-08-05T00:55:00+08:00",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/article/palantir-stock-jumps-nearly-30-after-otherworldly-quarter-as-us-commercial-business-booms-122817775.html",
+      "subCategory": "公司财报"
+    },
     {
       "id": "finance-20260804-106",
       "title": "全面受益于AI及存储需求爆发！有研新材上半年净利同比增逾四成，存货较上年末大幅增长",
@@ -51,6 +105,24 @@
       "subCategory": "美股"
     },
     {
+      "id": "finance-20260805-007",
+      "title": "二季度产业景气观察：生产恢复，投资上行",
+      "summary": "一项产业景气调查显示，二季度景气指数为53，较一季度回落1点但仍高于50的荣枯线；生产量指数由45回升至53，计划扩张投资的企业占比由16.8%升至19.8%，同时库存去化超三个月的企业占比由5.7%升至15.7%，反映去库压力上升。",
+      "publishedAt": "2026-08-04T18:54:25+08:00",
+      "source": "第一财经",
+      "url": "https://www.yicai.com/news/103304972.html",
+      "subCategory": "宏观经济"
+    },
+    {
+      "id": "finance-20260805-006",
+      "title": "投行业务惹祸、中小券商密集领罚，多家近年IPO颗粒无收",
+      "summary": "国元证券、国融证券、永兴证券等6家券商因投行业务信息披露质量不达监管现场检查要求被采取行政处罚或责令改正，3名部门负责人同步受罚，另有2家券商遭立案调查；其中部分券商近三年IPO项目撤否率超六成，个别甚至全部终止。",
+      "publishedAt": "2026-08-04T18:44:00+08:00",
+      "source": "第一财经",
+      "url": "https://www.yicai.com/news/103304945.html",
+      "subCategory": "风险事件"
+    },
+    {
       "id": "finance-20260804-102",
       "title": "南向资金追踪｜净买入近26亿港元 继续加仓阿里巴巴及智谱流出美团",
       "summary": "8月4日南向资金净买入约25.70亿港元，其中阿里巴巴-W获净买入15.49亿港元、智谱获净买入7.96亿港元，美团-W遭净卖出12.27亿港元，全天港股通成交额约1053.88亿港元。",
@@ -58,6 +130,15 @@
       "source": "东方财富网（财联社）",
       "url": "https://finance.eastmoney.com/a/202608043831312070.html",
       "subCategory": "港股"
+    },
+    {
+      "id": "finance-20260805-008",
+      "title": "央行：8月5日将开展5000亿元买断式逆回购操作 期限为3个月",
+      "summary": "央行公告将于8月5日以固定数量、利率招标、多重价位中标方式开展5000亿元买断式逆回购操作，期限3个月（92天），到期日为2026年11月5日，旨在保持银行体系流动性充裕；因当月有3000亿元同类操作到期，本月净投放2000亿元。",
+      "publishedAt": "2026-08-04T17:04:00+08:00",
+      "source": "第一财经",
+      "url": "https://finance.eastmoney.com/a/202608043831251644.html",
+      "subCategory": "政策利率"
     },
     {
       "id": "finance-20260804-006",
@@ -643,87 +724,6 @@
       "source": "IT之家",
       "url": "https://www.ithome.com/0/983/919.htm",
       "subCategory": "美股"
-    },
-    {
-      "id": "finance-20260731-m002",
-      "title": "亚马逊 2026 财年第二财季归母净利润 626.47 亿美元，同比增长 244.90%",
-      "summary": "亚马逊2026财年第二季度营收2006.06亿美元，同比增长19.62%；归母净利润626.47亿美元，同比大幅增长244.90%，主要因对Anthropic投资带来534亿美元非经营收益，AWS业务增速创18个季度新高，达37%。",
-      "publishedAt": "2026-07-31T06:59:41+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/983/909.htm",
-      "subCategory": "公司财报"
-    },
-    {
-      "id": "finance-20260731-m001",
-      "title": "苹果 2026 财年第三财季归母净利润 297.89 亿美元同比增长 27.12%，大中华区收入 188.16 亿美元增长 22%",
-      "summary": "苹果发布2026财年第三季度财报，营收1094.17亿美元同比增长16.36%，归母净利润297.89亿美元同比增长27.12%，iPhone、Mac和Services业务均创下同期历史新高，毛利率达50.1%，大中华区收入188.16亿美元增长22%。",
-      "publishedAt": "2026-07-31T04:35:03+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/983/910.htm",
-      "subCategory": "公司财报"
-    },
-    {
-      "id": "finance-20260801-a011",
-      "title": "慧荣科技2026年第二季度收入持续创历史新高",
-      "summary": "慧荣科技第二季度营收4.51亿美元，环比增长32%、同比增长127%，毛利率50.2%，公司将第三季度营收指引上调，预计全年营收同比增长超100%。",
-      "publishedAt": "2026-07-31",
-      "source": "Silicon Motion Technology Corporation",
-      "url": "https://siliconmotiontechnologycorporation.gcs-web.com/news-releases/news-release-details-87",
-      "subCategory": "公司财报"
-    },
-    {
-      "title": "港股午评：恒指跌0.11% 科指涨0.7% AI应用股普涨 存储概念股暴力反弹 南方两倍做多海力士涨近60%",
-      "summary": "7月31日港股午盘，恒生指数跌0.11%，恒生科技指数涨0.7%，国企指数跌0.41%；AI应用股普遍走强，智谱涨超20%，存储概念股大幅反弹，南方两倍做多海力士杠杆产品涨近60%，联想涨超7%，小米跌超6%。",
-      "publishedAt": "2026-07-31",
-      "source": "新浪财经",
-      "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-07-31/doc-inikshrr1415957.shtml",
-      "subCategory": "港股",
-      "id": "finance-20260731-n009"
-    },
-    {
-      "title": "核聚变公司Commonwealth Fusion Systems完成10亿美元新一轮融资",
-      "summary": "核聚变初创公司Commonwealth Fusion Systems完成10亿美元新一轮融资，累计融资达40亿美元，资金将用于建设Sparc示范反应堆及首座商业电站Arc的设计，公司预计Sparc将于2027年实现科学能量增益。",
-      "publishedAt": "2026-07-30T23:17:00+08:00",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/30/fusion-power-darling-commonwealth-fusion-systems-raises-another-1b/",
-      "subCategory": "一级市场",
-      "id": "finance-20260731-n003"
-    },
-    {
-      "title": "何立峰与贝森特、格里尔举行视频通话",
-      "summary": "国务院副总理、中美经贸中方牵头人何立峰7月30日晚与美国财政部长贝森特、贸易代表格里尔举行视频通话，双方就落实两国元首北京会晤共识、保持经贸关系稳定进行交流，中方并就近期美对华经贸限制措施表达严正关切。",
-      "publishedAt": "2026-07-30T23:05:00+08:00",
-      "source": "新浪财经",
-      "url": "https://finance.sina.com.cn/wm/2026-07-30/doc-inikrfcz4926392.shtml",
-      "subCategory": "宏观经济",
-      "id": "finance-20260731-n007"
-    },
-    {
-      "title": "洲际交易所以57亿美元收购电子债券交易平台MarketAxess",
-      "summary": "洲际交易所(ICE)宣布以每股167美元现金收购电子债券交易平台MarketAxess，较收盘价溢价33%，交易总额约57亿美元，交易预计于2027年上半年完成交割，旨在整合固定收益领域的电子化交易与合规工具。",
-      "publishedAt": "2026-07-30T22:32:00+08:00",
-      "source": "Reuters via AOL",
-      "url": "https://www.aol.com/articles/intercontinental-exchange-buy-marketaxess-5-114827000.html",
-      "subCategory": "美股",
-      "id": "finance-20260731-n002"
-    },
-    {
-      "title": "AI合规初创公司Dili完成2170万美元融资",
-      "summary": "AI合规科技公司Dili完成合计2170万美元融资，其中1500万美元A轮由Khosla Ventures领投，安联、Rebel Fund等跟投。公司为美国基础设施项目提供AI驱动的合规软件，产品已应用于约700个项目。",
-      "publishedAt": "2026-07-30T21:00:00+08:00",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/30/dili-raises-15-million-to-bring-ai-compliance-to-the-infrastructure-boom/",
-      "subCategory": "一级市场",
-      "id": "finance-20260731-n004"
-    },
-    {
-      "title": "网络安全公司Inforcer完成5000万美元C轮融资",
-      "summary": "总部位于伦敦的网络安全公司Inforcer完成5000万美元C轮融资，由Insight Partners领投，Dawn Capital、Meritech Capital跟投，18个月内三轮融资累计达1.1亿美元。公司为管理中小企业Microsoft 365账户的服务商提供安全防护工具。",
-      "publishedAt": "2026-07-30T21:00:00+08:00",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/30/inforcer-raises-50m-to-help-prepare-smbs-for-a-new-world-of-ai-and-security-risks/",
-      "subCategory": "一级市场",
-      "id": "finance-20260731-n005"
     }
   ]
 }
