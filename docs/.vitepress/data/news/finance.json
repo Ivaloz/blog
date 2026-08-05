@@ -3,8 +3,53 @@
   "slug": "finance",
   "title": "投资与财经",
   "description": "宏观经济、A 股 / 港股 / 美股、一级市场融资、行业研报观点。",
-  "updatedAt": "2026-08-05T17:00:00+08:00",
+  "updatedAt": "2026-08-06T00:50:00+08:00",
   "items": [
+    {
+      "id": "finance-20260806-501",
+      "title": "美股午盘：道指上涨、纳指转跌，市场关注霍尔木兹海峡协议进展",
+      "summary": "美股周三盘中涨跌不一，道指上涨0.79%报54512点，标普500指数微涨0.06%，纳指下跌0.34%。特朗普称美伊有望就重开霍尔木兹海峡达成协议，油价连续第三日下跌；投资者同时消化礼来、迪士尼、西部数据等公司财报。",
+      "publishedAt": "2026-08-06T00:35:00+08:00",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-august-5-dow-sp-500-nasdaq-oil-093653327.html",
+      "subCategory": "美股"
+    },
+    {
+      "id": "finance-20260805-504",
+      "title": "美联储卡什卡里：现在是开始逐步加息的时候",
+      "summary": "明尼阿波利斯联储主席卡什卡里在阿斯彭思想节表示，美联储应尽快开始温和加息，理由是企业盈利强劲、消费保持韧性及关税等供给端冲击持续推高通胀风险。他此前在议息会议上投票支持加息25个基点，但遭多数官员否决。",
+      "publishedAt": "2026-08-05T21:39:00+08:00",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/economy/policy/articles/minneapolis-feds-kashkari-calls-gradual-133949803.html",
+      "subCategory": "政策利率"
+    },
+    {
+      "id": "finance-20260805-503",
+      "title": "ADP：美国7月私营部门新增就业4.4万人，不及预期",
+      "summary": "ADP就业报告显示，美国7月私营部门新增就业4.4万人，为六个月来最低水平，低于市场预期的7万人，此前6月数据下修至9.5万人。服务业增聘4.7万人，教育医疗行业领涨；换工作者薪资同比增速达7%，为去年8月以来最高。",
+      "publishedAt": "2026-08-05T20:15:00+08:00",
+      "source": "ADP / PR Newswire",
+      "url": "https://www.prnewswire.com/news-releases/adp-national-employment-report-private-sector-employment-increased-by-44-000-jobs-in-july-annual-pay-was-up-4-4-302843676.html",
+      "subCategory": "宏观经济"
+    },
+    {
+      "id": "finance-20260805-501",
+      "title": "礼来公布2026年第二季度财报并上调全年业绩指引",
+      "summary": "礼来公布2026年第二季度业绩，营收230亿美元同比增长48%，non-GAAP每股收益8.38美元超市场预期。公司将2026全年营收指引上调至850亿-870亿美元，减肥药Zepbound及糖尿病药物Mounjaro销售持续强劲。",
+      "publishedAt": "2026-08-05T18:45:00+08:00",
+      "source": "PR Newswire",
+      "url": "https://www.prnewswire.com/news-releases/lilly-reports-second-quarter-2026-financial-results-raises-full-year-guidance-and-highlights-continued-growth-and-pipeline-progress-302843165.html",
+      "subCategory": "公司财报"
+    },
+    {
+      "id": "finance-20260805-502",
+      "title": "迪士尼公布2026财年第三季度财报，业绩超预期",
+      "summary": "迪士尼公布截至6月27日的2026财年第三季度财报，营收252亿美元，同比增长7%，调整后每股收益2.06美元超市场预期的1.86美元。主题乐园与流媒体业务收入均实现增长，动画电影《玩具总动员5》全球票房已突破10亿美元。",
+      "publishedAt": "2026-08-05T18:30:00+08:00",
+      "source": "SEC EDGAR（迪士尼公司公告）",
+      "url": "https://www.sec.gov/Archives/edgar/data/1744489/000174448926000056/fy2026_q3xerxex991.htm",
+      "subCategory": "公司财报"
+    },
     {
       "title": "冰火两重天！金饰克价年内大跌470元，黄金股逆势大涨，现货黄金重回4100美元",
       "summary": "现货黄金盘中突破4100美元/盎司，日内涨0.57%；同期国内品牌金饰克价约1231元，较年初1700元高点回落约470元；四川黄金涨停，山金国际、中金黄金等黄金股大幅走强。",
@@ -679,51 +724,6 @@
       "source": "东方财富网",
       "url": "https://finance.eastmoney.com/a/202607313828516052.html",
       "subCategory": "公司财报"
-    },
-    {
-      "id": "finance-20260801-a002",
-      "title": "港股7月收官！恒生指数本月涨超13% 恒生科技指数涨近8%",
-      "summary": "港股7月收官，恒生指数当月累涨13.1%，恒生科技指数涨近8%，国企指数涨超13%；当日收盘恒指涨0.1%扗25884.43点，联想涨超9%，阿里涨超4%，小米跌超7%。",
-      "publishedAt": "2026-07-31T16:08:00+08:00",
-      "source": "新浪财经",
-      "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-07-31/doc-inikstfm1313976.shtml",
-      "subCategory": "港股"
-    },
-    {
-      "title": "A股三大股指收涨：多模态AI概念股爆发，近4700股飘红",
-      "summary": "7月31日A股三大股指集体上涨，上证综指涨0.72%扅3832.26点，深证成指涨2.21%，创业板指涨3.06%，全市场4685只个股上涨；多模态AI、机器人、算力租赁等题材领涨，计算机与传媒板块揀起涨停潮，银行、食品饮料板块表现落后。",
-      "publishedAt": "2026-07-31T15:18:00+08:00",
-      "source": "新浪财经",
-      "url": "https://finance.sina.com.cn/jjxw/2026-07-31/doc-inikstfm1266188.shtml",
-      "subCategory": "A股",
-      "id": "finance-20260731-n008"
-    },
-    {
-      "id": "finance-20260801-a003",
-      "title": "收评：A股7月收官！双创指数月跌幅超20% 建设银行等多只红利股本月创历史新高",
-      "summary": "A股7月收官，创业板指、科创板指当月跌幅超20%，深证成指、中证500月跌超15%；红利股逆势走强，建设银行、工商银行等本月创历史新高，存储芯片概念股月内大幅回调。",
-      "publishedAt": "2026-07-31T15:03:00+08:00",
-      "source": "财联社",
-      "url": "https://m.cls.cn/detail/2442493",
-      "subCategory": "A股"
-    },
-    {
-      "id": "finance-20260801-a007",
-      "title": "Exxon Mobil, Chevron Second-Quarter Results Rise Amid Higher Oil Prices",
-      "summary": "埃克森美孚公布第二季度盈利145亿美元，每股3.48美元，但低于市场预期；雪佛龙净利润121亿美元，同比大增，两家公司均受益于中东局势推升的原油价格上涨。",
-      "publishedAt": "2026-07-31T11:02:00-04:00",
-      "source": "MarketScreener",
-      "url": "https://www.marketscreener.com/news/exxon-mobil-chevron-second-quarter-results-rise-amid-higher-oil-prices-ce7f50d8d988f527",
-      "subCategory": "公司财报"
-    },
-    {
-      "id": "finance-20260801-a004",
-      "title": "原粒半导体完成超7亿元A轮融资，三个月累计融资超12亿",
-      "summary": "原粒半导体宣布完成超7亿元A轮融资，投资方包括九安医疗、汤臣倍健等上市公司及北洋海棠基金等机构，继4月完成超5亿元Pre-A轮后，三个月内累计融资超12亿元，用于推进推理芯片产品化。",
-      "publishedAt": "2026-07-31T10:19:00+08:00",
-      "source": "投资界",
-      "url": "https://news.pedaily.cn/202607/567069.shtml",
-      "subCategory": "一级市场"
     }
   ]
 }

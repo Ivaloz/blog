@@ -3,8 +3,116 @@
   "slug": "tech",
   "title": "科技新闻",
   "description": "前沿科技、互联网产品、芯片硬件、开源生态。",
-  "updatedAt": "2026-08-05T17:00:00+08:00",
+  "updatedAt": "2026-08-06T00:50:00+08:00",
   "items": [
+    {
+      "id": "tech-20260805-501",
+      "title": "RTX 5090 显卡涨价后华硕拒按原价发货：英伟达官方商城直接砍单，重购需多花 553 美元",
+      "summary": "有用户反映在英伟达官方商城以4429美元下单华硕RTX 5090显卡后，因价格上调订单被取消，重新购买需多付约553美元，英伟达与华硕互相推诿，用户未能以原价补单。",
+      "publishedAt": "2026-08-05T23:59:59+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/986/259.htm",
+      "subCategory": "芯片硬件"
+    },
+    {
+      "id": "tech-20260805-502",
+      "title": "上行 500Mbps、下行 3Gbps：上海电信 5G-A 场景包试点落地",
+      "summary": "上海电信在上海体育场演唱会现场试点5G-A大上行场景包，上行峰值达500Mbps、下行3Gbps，已建成超6500个5G-A基站，市区覆盖率达96%，年底将扩大上行连续覆盖范围。",
+      "publishedAt": "2026-08-05T23:44:49+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/986/258.htm",
+      "subCategory": "网络基础设施"
+    },
+    {
+      "id": "tech-20260805-503",
+      "title": "阿里巴巴 2026 云栖大会定档 9 月 22 日至 24 日在杭州举行",
+      "summary": "阿里巴巴宣布2026云栖大会将于9月22日至24日在杭州举行，主题为“智以致用”，聚焦Agentic AI与芯片到应用全栈技术，展览面积超5万平方米，设140余场分论坛。",
+      "publishedAt": "2026-08-05T23:26:28+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/986/256.htm",
+      "subCategory": "云计算"
+    },
+    {
+      "id": "tech-20260805-504",
+      "title": "消息称沃尔沃将推出纯电紧凑 SUV 新车 EX50：比 EX40 更大、更有科技感、更便宜",
+      "summary": "消息称沃尔沃将推出纯电紧凑SUV EX50，定位低于EX40，预计2027年秋季在美国上市，起售价约5万美元，采用SPA3平台与800V电气架构，对标特斯拉Model Y等车型。",
+      "publishedAt": "2026-08-05T23:24:01+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/986/255.htm",
+      "subCategory": "智能汽车"
+    },
+    {
+      "id": "tech-20260805-505",
+      "title": "KTC 推出 27 英寸 2K 220Hz 棱镜 Q27 显示器，887 元",
+      "summary": "KTC推出27英寸2K棱镜Q27显示器，采用Fast IPS面板，原生200Hz可超频至220Hz，支持HDR400与99% sRGB色域，内置2×2W扬声器及红外手势感应，售价887元。",
+      "publishedAt": "2026-08-05T23:16:44+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/986/254.htm",
+      "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260805-506",
+      "title": "NearLink E2.0：华为 nova 16 SE 手机确认支持星闪音频功能",
+      "summary": "华为在8月5日发布会上确认nova 16 SE手机支持星闪NearLink E2.0音频功能，物理层速率达16Mbps，支持48kHz/24bit无损音频传输，可搭配FreeClip 2等三款耳机，8月12日开售。",
+      "publishedAt": "2026-08-05T23:14:40+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/986/253.htm",
+      "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260805-507",
+      "title": "Cloudflare 宣布推出开源“Cloudflare OS”：面向 AI 智能体和企业工作的开放平台",
+      "summary": "Cloudflare开源发布Cloudflare OS，定位为面向AI智能体与企业工作的开放平台，包含隔离执行环境、安全治理框架及可定制应用平台三部分，代码以Apache 2.0协议托管在GitHub上。",
+      "publishedAt": "2026-08-05T23:11:39+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/986/252.htm",
+      "subCategory": "开源生态"
+    },
+    {
+      "id": "tech-20260805-508",
+      "title": "消息称三星正开发全新智能手表 Galaxy Aero，定位介于 Fit 4 手环和 Watch FE 之间",
+      "summary": "消息称三星正开发智能手表Galaxy Aero，定位介于Fit 4手环与Watch FE之间，将采用RTOS而非Wear OS，配备加速度计、陀螺仪与心率传感器，续航预计超过一周。",
+      "publishedAt": "2026-08-05T22:51:49+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/986/248.htm",
+      "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260805-509",
+      "title": "AYANEO 推出复古掌机 KONKR Pocket Advance：联发科 Helio G90T 芯片，首发 499 元起",
+      "summary": "AYANEO推出复古掌机KONKR Pocket Advance，搭载联发科Helio G90T芯片，配3.5英寸960×640分辨率LCD屏幕与4000mAh电池，3GB+32GB版本首发价499元。",
+      "publishedAt": "2026-08-05T22:48:30+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/986/247.htm",
+      "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260805-510",
+      "title": "CrowdStrike 推出国际 AI 安全挑战赛：“策反”智能体，总奖金 10 万美元",
+      "summary": "CrowdStrike联合AWS推出国际AI安全挑战赛，参赛者需通过提示注入等手段策反AI智能体使其泄露信息或执行未授权操作，赛事分三个阶段进行，总奖金10万美元，8月31日开赛。",
+      "publishedAt": "2026-08-05T21:37:43+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/986/234.htm",
+      "subCategory": "安全漏洞"
+    },
+    {
+      "id": "tech-20260805-511",
+      "title": "长城 H10 方盒子 SUV 上市，限时换新价 20.18 万-22.38 万元",
+      "summary": "长城H10方盒子SUV上市，限时换新价20.18万至22.38万元，搭载1.5T发动机+双电机Hi4混动系统，综合续航1404公里，标配27个智驾传感器与激光雷达的咖啡领航3高阶智驾系统。",
+      "publishedAt": "2026-08-05T21:11:14+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/986/230.htm",
+      "subCategory": "智能汽车"
+    },
+    {
+      "id": "tech-20260805-512",
+      "title": "Anthropic 首次确认自研 AI 芯片：专为 Claude 定制，公司正在组建团队",
+      "summary": "Anthropic首次确认组建内部芯片团队，为Claude定制专用AI芯片，采用硬件与模型协同设计思路，同时仍将使用AWS、谷歌、英伟达、AMD等厂商硬件，此前曾与三星探讨代工合作。",
+      "publishedAt": "2026-08-05T21:00:44+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/986/228.htm",
+      "subCategory": "芯片硬件"
+    },
     {
       "id": "tech-20260805-001",
       "title": "过去 1 年用户流失约 22%：美国 GEO 卫星服务商 Hughes 申请破产",
@@ -97,7 +205,6 @@
     },
     {
       "title": "消息称苹果 iPhone 20 周年或迎设计革新：四曲面屏与更大尺寸",
-      "summary": "据爆料，苹果计划为2027年iPhone 20周年机型带来设计革新，Pro系列或采用近乎无边框的四曲面屏并取消灵动岛，屏幕尺寸从 6.3/6.9 英寸增至 6.4/7.0 英寸，机身相应加大。",
       "summary": "据爆料，苹果计划为 2027 年 iPhone 20 周年机型带来设计革新，Pro 系列或采用近乎无边框的四曲面屏并取消灵动岛，屏幕尺寸从 6.3/6.9 英寸增至 6.4/7.0 英寸，机身相应加大。",
       "publishedAt": "2026-08-05T07:10:59+08:00",
       "source": "IT之家",
@@ -122,24 +229,6 @@
       "url": "https://techcrunch.com/2026/08/04/lucids-turnaround-plan-hinges-on-1-4b-in-cash-savings-robotaxis/",
       "subCategory": "智能汽车",
       "id": "tech-20260804-953"
-    },
-    {
-      "id": "tech-20260805-013",
-      "title": "TP-Link patches Omada ZTP flaws allowing hackers to breach networks",
-      "summary": "安全公司Forescout披露TP-Link Omada零接触配置系统中的15个漏洞，攻击者可利用硬编码密钥、竞态条件等缺陷劫持云控制器并渗透内网，TP-Link已发布部分补丁，超1800台控制器暴露公网。",
-      "publishedAt": "2026-08-04T18:18:00-04:00",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/tp-link-patches-omada-ztp-flaws-allowing-hackers-to-breach-networks/",
-      "subCategory": "安全漏洞"
-    },
-    {
-      "id": "tech-20260805-015",
-      "title": "Phishing service spoofs RingCentral to steal Microsoft 365 accounts",
-      "summary": "网络钓鱼即服务平台Greatness伪装RingCentral语音信箱通知邮件，利用平台白名单绕过安全过滤，诱导用户进入中间人钓鱼页面窃取微软365账户令牌，攻击者可在受害邮箱内潜伏两周以上。",
-      "publishedAt": "2026-08-04T17:45:00-04:00",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/phishing-service-spoofs-ringcentral-to-steal-microsoft-365-accounts/",
-      "subCategory": "安全漏洞"
     },
     {
       "title": "SpaceX 今年已采购价值 3.29 亿美元的特斯拉 Megapack 电池",
@@ -169,13 +258,13 @@
       "id": "tech-20260804-950"
     },
     {
-      "id": "tech-20260805-014",
-      "title": "New XCSSET variant targets macOS devs via compromised Xcode projects",
-      "summary": "Palo Alto Networks旗下Unit 42发现新版本XCSSET恶意软件通过被篡改的Xcode工程文件感染macOS开发者，新增 Chrome 浏览器劫持与 Telegram 仿冒木马模块，用于窃取账号凭证与加密货币。",
-      "publishedAt": "2026-08-04T15:03:00-04:00",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/new-xcsset-variant-targets-macos-devs-via-compromised-xcode-projects/",
-      "subCategory": "安全漏洞"
+      "title": "TV Time 联合创始人推出 Bingers，重现追剧社交应用",
+      "summary": "TV Time 联合创始人推出新应用 Bingers，弥补 TV Time 于今年 7 月因母公司转向 AI 业务而关停后留下的空白，支持评分、评论和表情互动，并将数据处理放在本地设备以降低运营成本。",
+      "publishedAt": "2026-08-05T01:05:00+08:00",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/04/tv-time-co-founder-launches-bingers-to-revive-the-beloved-tv-tracking-app/",
+      "subCategory": "互联网产品",
+      "id": "tech-20260804-959"
     },
     {
       "title": "黄家利用离线硬件钱包漏洞窃取超 1.3 亿美元",
@@ -203,15 +292,6 @@
       "source": "IT之家",
       "url": "https://www.ithome.com/0/985/727.htm",
       "subCategory": "消费电子"
-    },
-    {
-      "id": "tech-20260804-106",
-      "title": "Massive ChainDrop npm supply-chain attack infects hundreds of packages",
-      "summary": "自我传播的ChainDrop蟮虫已入侵npm平台超1300个软件包，月下载量合计约20亿次。攻击者通过获取Keyv维护者的GitHub账号注入恶意代码，经preinstall钩子窃取API令牌、云凭证与SSH密钥等敏感信息。",
-      "publishedAt": "2026-08-04T11:24:00-04:00",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/massive-chaindrop-npm-supply-chain-attack-infects-hundreds-of-packages/",
-      "subCategory": "安全漏洞"
     },
     {
       "id": "tech-20260804-103",
@@ -286,15 +366,6 @@
       "subCategory": "芯片硬件"
     },
     {
-      "id": "tech-20260805-011",
-      "title": "Microchip Technology, in Collaboration With Micron Technology, Demonstrates High-Performance PCIe Gen 6 Storage Architecture for AI and Data Center Infrastructure",
-      "summary": "美高森美（Microchip）与美光在2026存储与内存未来大会上联合展示端到端PCIe Gen 6存储架构，将Switchtec Gen 6交换芯片与美光9650 NVMe SSD结合，单通道带宽提升至64 GT/s，面向AI与数据中心。",
-      "publishedAt": "2026-08-04T07:16:00-04:00",
-      "source": "GlobeNewswire",
-      "url": "https://www.globenewswire.com/news-release/2026/08/04/3338174/0/en/microchip-technology-in-collaboration-with-micron-technology-demonstrates-high-performance-pcie-gen-6-storage-architecture-for-ai-and-data-center-infrastructure.html",
-      "subCategory": "芯片硬件"
-    },
-    {
       "id": "tech-20260804-111",
       "title": "我国成功发射卫星互联网低轨23组卫星",
       "summary": "我国在海南商业航天发射场使用长征八号甲运载火箭，于16时52分将卫星互联网低轨23组卫星发射升空并送入预定轨道，任务首次实现“直达快车”功能，缩短卫星升轨时间。",
@@ -304,6 +375,24 @@
       "subCategory": "航空航天"
     },
     {
+      "id": "tech-20260805-013",
+      "title": "TP-Link patches Omada ZTP flaws allowing hackers to breach networks",
+      "summary": "安全公司Forescout披露TP-Link Omada零接触配置系统中的15个漏洞，攻击者可利用硬编码密钥、竞态条件等缺陷劫持云控制器并渗透内网，TP-Link已发布部分补丁，超1800台控制器暴露公网。",
+      "publishedAt": "2026-08-04T18:18:00-04:00",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/tp-link-patches-omada-ztp-flaws-allowing-hackers-to-breach-networks/",
+      "subCategory": "安全漏洞"
+    },
+    {
+      "id": "tech-20260805-015",
+      "title": "Phishing service spoofs RingCentral to steal Microsoft 365 accounts",
+      "summary": "网络钓鱼即服务平台Greatness伪装RingCentral语音信箱通知邮件，利用平台白名单绕过安全过滤，诱导用户进入中间人钓鱼页面窃取微软365账户令牌，攻击者可在受害邮箱内潜伏两周以上。",
+      "publishedAt": "2026-08-04T17:45:00-04:00",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/phishing-service-spoofs-ringcentral-to-steal-microsoft-365-accounts/",
+      "subCategory": "安全漏洞"
+    },
+    {
       "id": "tech-20260804-004",
       "title": "宏碦掠夺者战斧10 Neo游戏本新增酷睿智创 U7 255HX+RTX 5070版本，16999元",
       "summary": "宏碦推出掠夺者战斧10 Neo游戏本新配置，搪载酷睿智创Ultra 7 255HX处理器及RTX 5070显卡，配16GB DDR5 6400MT/s内存及1TB PCIe 4.0固态硬盘，京东定价16999元，16英寸屏幕支持2.5K分辨率240Hz刷新率，采用双风扇与液态金属散热。",
@@ -311,6 +400,33 @@
       "source": "IT之家",
       "url": "https://www.ithome.com/0/985/547.htm",
       "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260805-014",
+      "title": "New XCSSET variant targets macOS devs via compromised Xcode projects",
+      "summary": "Palo Alto Networks旗下Unit 42发现新版本XCSSET恶意软件通过被篡改的Xcode工程文件感染macOS开发者，新增 Chrome 浏览器劫持与 Telegram 仿冒木马模块，用于窃取账号凭证与加密货币。",
+      "publishedAt": "2026-08-04T15:03:00-04:00",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/new-xcsset-variant-targets-macos-devs-via-compromised-xcode-projects/",
+      "subCategory": "安全漏洞"
+    },
+    {
+      "id": "tech-20260804-106",
+      "title": "Massive ChainDrop npm supply-chain attack infects hundreds of packages",
+      "summary": "自我传播的ChainDrop蟮虫已入侵npm平台超1300个软件包，月下载量合计约20亿次。攻击者通过获取Keyv维护者的GitHub账号注入恶意代码，经preinstall钩子窃取API令牌、云凭证与SSH密钥等敏感信息。",
+      "publishedAt": "2026-08-04T11:24:00-04:00",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/massive-chaindrop-npm-supply-chain-attack-infects-hundreds-of-packages/",
+      "subCategory": "安全漏洞"
+    },
+    {
+      "id": "tech-20260805-012",
+      "title": "Waymo opens up robotaxi service in Dallas to everyone",
+      "summary": "Waymo宣布取消达拉斯地区候补名单，向所有居民和访客开放机器人出租车服务，此前该服务自今年2月起仅面向约15万名候补用户开放，达拉斯洛夫机场航站楼接送服务仍在测试阶段。",
+      "publishedAt": "2026-08-04T10:31:00-07:00",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/04/waymo-opens-up-robotaxi-service-in-dallas-to-everyone/",
+      "subCategory": "智能汽车"
     },
     {
       "id": "tech-20260804-001",
@@ -340,22 +456,13 @@
       "subCategory": "消费电子"
     },
     {
-      "id": "tech-20260805-012",
-      "title": "Waymo opens up robotaxi service in Dallas to everyone",
-      "summary": "Waymo宣布取消达拉斯地区候补名单，向所有居民和访客开放机器人出租车服务，此前该服务自今年2月起仅面向约15万名候补用户开放，达拉斯洛夫机场航站楼接送服务仍在测试阶段。",
-      "publishedAt": "2026-08-04T10:31:00-07:00",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/04/waymo-opens-up-robotaxi-service-in-dallas-to-everyone/",
-      "subCategory": "智能汽车"
-    },
-    {
-      "title": "TV Time 联合创始人推出 Bingers，重现追剧社交应用",
-      "summary": "TV Time 联合创始人推出新应用 Bingers，弥补 TV Time 于今年 7 月因母公司转向 AI 业务而关停后留下的空白，支持评分、评论和表情互动，并将数据处理放在本地设备以降低运营成本。",
-      "publishedAt": "2026-08-05T01:05:00+08:00",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/04/tv-time-co-founder-launches-bingers-to-revive-the-beloved-tv-tracking-app/",
-      "subCategory": "互联网产品",
-      "id": "tech-20260804-959"
+      "id": "tech-20260805-011",
+      "title": "Microchip Technology, in Collaboration With Micron Technology, Demonstrates High-Performance PCIe Gen 6 Storage Architecture for AI and Data Center Infrastructure",
+      "summary": "美高森美（Microchip）与美光在2026存储与内存未来大会上联合展示端到端PCIe Gen 6存储架构，将Switchtec Gen 6交换芯片与美光9650 NVMe SSD结合，单通道带宽提升至64 GT/s，面向AI与数据中心。",
+      "publishedAt": "2026-08-04T07:16:00-04:00",
+      "source": "GlobeNewswire",
+      "url": "https://www.globenewswire.com/news-release/2026/08/04/3338174/0/en/microchip-technology-in-collaboration-with-micron-technology-demonstrates-high-performance-pcie-gen-6-storage-architecture-for-ai-and-data-center-infrastructure.html",
+      "subCategory": "芯片硬件"
     },
     {
       "id": "tech-20260803-901",
@@ -617,105 +724,6 @@
       "url": "https://www.ithome.com/0/984/772.htm",
       "subCategory": "安全漏洞",
       "id": "tech-20260802-216"
-    },
-    {
-      "title": "卡巴斯基披露黄客利用Windows自带BitLocker工具实施勒索",
-      "summary": "卡巴斯基披露两起新型勒索攻击案例，黄客未部署自制勒索软件，而是直接利用Windows系统自带的BitLocker磁盘加密功能加密受害者数据。哥伦比亚案例中黄客攻击暴露的远程桌面服务，墨西哥案例则利用GitHub泄露的SQL Server凭据，随后均向受害者索要赎金。",
-      "publishedAt": "2026-08-02T17:06:09+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/984/769.htm",
-      "subCategory": "安全漏洞",
-      "id": "tech-20260802-217"
-    },
-    {
-      "title": "盛趣游戏与NC达成战略合作，推动《永恒之塔/2》在中国大陆地区上线运营",
-      "summary": "盛趣游戏与韩国游戏公司NC于8月2日在上海举行签约仪式，宣布双方战略合作，推动次世代MMORPG《永恒之塔/2》登陆中国大陆。该作基于虚幻引摾5开发，是经典IP《永恒之塔》的正统续作，已于2025年11月19日在韩国正式上线。",
-      "publishedAt": "2026-08-02T16:34:15+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/984/759.htm",
-      "subCategory": "互联网产品",
-      "id": "tech-20260802-101"
-    },
-    {
-      "title": "启元机器人宣布与暴雪《魔兽世界》合作，推出限定“鱼人定制款”Q1机器人",
-      "summary": "消费级具身智能品牌启元机器人ChinaJoy 2026现场公布与暴雪《魔兽世界》的联名合作，推出限定版“鱼人定制款”Q1机器人。该机型基于Q1探索版模块化设计与开源软硬件能力打造，身高80-88厘米，具妇22个自由度，支持轮式、人形、四足三种运动模式。",
-      "publishedAt": "2026-08-02T16:30:31+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/984/758.htm",
-      "subCategory": "机器人",
-      "id": "tech-20260802-102"
-    },
-    {
-      "title": "光荣特库摩游戏《蓝色反射Quartet：少女们的奇迹》发售，国区售价248元",
-      "summary": "光荣特库摩旗下RPG合集《蓝色反射Quartet：少女们的奇迹》已在Steam平台发售，国区定价248元，支持简体中文界面及字幕。作品整合系列四部作品，新增水面反射效果与角色重制画面，并加入移动加速、自动存档等原作没有的功能，需55GB存储空间。",
-      "publishedAt": "2026-08-02T16:23:03+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/983/401.htm",
-      "subCategory": "互联网产品",
-      "id": "tech-20260802-103"
-    },
-    {
-      "title": "迈从God 60磁轴键盘开启预约：16K回报率，提供《凡人修仙传》动画联名款",
-      "summary": "迈从God 60磁轴键盘开启预约，标准版售价999元，联名动画《凡人修仙传》的“合体”版售价1299元，将于8月7日正式开售。键盘采用八角形铝合金外壳，磁悬浮轴体支持16K回报率，宣称延迟低至0.06毫秒，行程精度达0.001毫米。",
-      "publishedAt": "2026-08-02T16:21:20+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/984/755.htm",
-      "subCategory": "消费电子",
-      "id": "tech-20260802-104"
-    },
-    {
-      "title": "Truth Social推出“Truth API”服务，每月10万美元出售特朗普帖文快速访问权",
-      "summary": "特朗普旗下社交平台Truth Social于8月1日上线付费的“Truth API”服务，向高频交易机构收取每月10万美元费用，以提供特朗普关税、军事及政策相关帖文的抢先访问权限。批评者担忧该服务可能造成内幕交易与利益冲突，此前特朗普点评Palantir、英特尔等上市公司曾引发股价波动。",
-      "publishedAt": "2026-08-02T16:15:00+08:00",
-      "source": "36氪",
-      "url": "https://36kr.com/newsflashes/3922088228957576",
-      "subCategory": "互联网产品",
-      "id": "tech-20260802-106"
-    },
-    {
-      "title": "小米米家智能净烟机3白色版本发售：三重净烟、7级吸力，2940元",
-      "summary": "小米米家智能净烟机3白色版本已在京东上线，官方定价2940元，部分地区补贴后到手价低至2499元。产品采用涡涡集烟、高速斜出风、防逃烟风幕组成的三重净烟设计，配备直驱变频电机，风速达14米/秒，支持7档吸力，并内置PM2.5传感器与燃气报警联动米家App功能。",
-      "publishedAt": "2026-08-02T16:12:28+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/984/754.htm",
-      "subCategory": "消费电子",
-      "id": "tech-20260802-105"
-    },
-    {
-      "title": "微信地震预警能力更新，地震预警小程序可反馈震感",
-      "summary": "中国地震台网中心地震预警小程序上线新功能，用户在收到预警并确认安全后可反馈自身震感，相关数据将用于生成震感分布图。此外小程序新增自动位置追踪功能，用户所在地变化时会提醒更新当前位置信息。",
-      "publishedAt": "2026-08-02T11:50:00+08:00",
-      "source": "36氪",
-      "url": "https://36kr.com/newsflashes/3921848794164866",
-      "subCategory": "互联网产品",
-      "id": "tech-20260802-107"
-    },
-    {
-      "id": "tech-20260802-011",
-      "title": "宫本茂：GameCube 销量不佳，促使任天堂打造 Wii、DS",
-      "summary": "任天堂宫本茂透露，因GameCube销量不及预期，公司此后开发Wii与DS时着重吸引休闲及非核心玩家，Wii后来成为任天堂最畅销主机（直至被Switch超越），DS则是全球最畅销掌机。",
-      "publishedAt": "2026-08-02T08:27:00+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/984/659.htm",
-      "subCategory": "消费电子"
-    },
-    {
-      "id": "tech-20260802-010",
-      "title": "我国实现“县县通千兆”“村村通宽带”后，有小区已通万兆光网",
-      "summary": "央视新闻报道，中国在实现“县县通千兆”“村村通宽带”基础上，已建成136个千兆到万兆升级的住宅小区、产业园区及工厂，正推进从“双千兆”向“双万兆”网络的升级。",
-      "publishedAt": "2026-08-02T08:25:24+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/984/658.htm",
-      "subCategory": "网络基础设施"
-    },
-    {
-      "id": "tech-20260802-009",
-      "title": "谷歌 Android 17 QPR1 Beta 8 预览版更新一览：修复 Pixel 手机指纹识别、扬声器杂音 Bug",
-      "summary": "谷歌向Pixel手机推送Android 17 QPR1 Beta 8预览版，修复媒体播放及通知时扬声器杂音、Pixel平板底座连接异常、NFC读取失败及指纹识别故障等问题，安全补丁仍为7月5日版本。",
-      "publishedAt": "2026-08-02T08:24:54+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/984/657.htm",
-      "subCategory": "操作系统"
     }
   ]
 }

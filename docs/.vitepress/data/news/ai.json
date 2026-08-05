@@ -3,8 +3,26 @@
   "slug": "ai",
   "title": "AI 与大模型",
   "description": "大模型、Agent、AI 编程、推理框架、开源模型的发布与落地。",
-  "updatedAt": "2026-08-05T17:00:00+08:00",
+  "updatedAt": "2026-08-06T00:50:00+08:00",
   "items": [
+    {
+      "id": "ai-20260805-502",
+      "title": "别再吹AI生图了，不能图层编辑的AI都是\"画饼\"",
+      "summary": "兔展智能联合北大、鹏城实验室推出AI设计生产工具RabbitVis，基于UniWorld-Design模型实现图层级拆解、透明素材生成与持续性设计编辑，突破单张出图局限，支持背景去除、文字修改等后期编辑与素材复用能力。",
+      "publishedAt": "2026-08-05T22:09:18+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/08/467034.html",
+      "subCategory": "AI应用"
+    },
+    {
+      "id": "ai-20260805-501",
+      "title": "等等，MiniMax H3不是刚发布吗？怎么就卷到几分钱的价格了……",
+      "summary": "开源视频模型MiniMax H3登顶Artificial Analysis视频编辑榜单，支持原生双声道音频、2K分辨率与一体化编辑；秘塔AI等平台提供云端调用，768P约0.09元/秒、2K约0.15元/秒，生成耗时由本地20-40分钟缩短至约3分钟，并支持ComfyUI工作流接入。",
+      "publishedAt": "2026-08-05T21:47:51+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/08/467036.html",
+      "subCategory": "AI视频"
+    },
     {
       "title": "国际 AI 安全榜单 CyberGym 今日放榜：中国方案 DoGNAVY 全球第三、开源第一",
       "summary": "国际AI安全基准CyberGym公布最新榜单，AI研究者与安全团队DARKNAVY联合打造的中国方案DoGNAVY以90.8%通过率位列全球第三、开源方案第一，其仅使用智谱6月开源的GLM-5.2单一模型，区别于微软、谷歌采用的多闭源模型组合方案。",
@@ -78,24 +96,6 @@
       "subCategory": "大模型"
     },
     {
-      "id": "ai-20260805-004",
-      "title": "开源权重模型正追赶前沿水平，安全差距依然存在",
-      "summary": "SaferAI测试显示，智谱GLM-5.2对网络攻击与生物安全类高危任务几乎不拒答，而Anthropic Claude Opus 4.7因拒答过多导致部分测试无法完成，凸显开源权重模型能力逼近前沿但安全防护更易被移除。",
-      "publishedAt": "2026-08-04T13:05:00-07:00",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/04/open-weight-ai-models-are-catching-up-to-the-frontier-the-safety-gap-remains/",
-      "subCategory": "AI评测"
-    },
-    {
-      "id": "ai-20260805-006",
-      "title": "英伟达牵头的开放安全AI联盟成立一周即取得进展",
-      "summary": "由英伟达牵头、逗120家企业参与的开放安全AI联盟（OSAA）成立一周后，在黑帽大会上公布名为SAFE的工作组，提出AI安全事件报告与免责分析机制，OpenAI、谷歌、Anthropic尚未加入。",
-      "publishedAt": "2026-08-04T12:28:00-07:00",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/04/nvidia-doesnt-mess-around-a-week-after-open-ai-industry-group-formed-its-already-showing-progress/",
-      "subCategory": "大模型"
-    },
-    {
       "id": "ai-20260804-102",
       "title": "开源版Claude Science来了！零依赖、MIT协议，内置30+项科研Skills",
       "summary": "北京大学与元空 AI Agent联合实验室开源发布科研智能体OpenAI4S，遵循MIT协议，内置30余项科研Skills，通过生成可执行代码完成任务，且拒绝编造数据或结果。",
@@ -166,6 +166,24 @@
       "url": "https://m.ithome.com/html/985450.htm",
       "subCategory": "AI应用",
       "id": "ai-20260804-956"
+    },
+    {
+      "id": "ai-20260805-004",
+      "title": "开源权重模型正追赶前沿水平，安全差距依然存在",
+      "summary": "SaferAI测试显示，智谱GLM-5.2对网络攻击与生物安全类高危任务几乎不拒答，而Anthropic Claude Opus 4.7因拒答过多导致部分测试无法完成，凸显开源权重模型能力逼近前沿但安全防护更易被移除。",
+      "publishedAt": "2026-08-04T13:05:00-07:00",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/04/open-weight-ai-models-are-catching-up-to-the-frontier-the-safety-gap-remains/",
+      "subCategory": "AI评测"
+    },
+    {
+      "id": "ai-20260805-006",
+      "title": "英伟达牵头的开放安全AI联盟成立一周即取得进展",
+      "summary": "由英伟达牵头、逗120家企业参与的开放安全AI联盟（OSAA）成立一周后，在黑帽大会上公布名为SAFE的工作组，提出AI安全事件报告与免责分析机制，OpenAI、谷歌、Anthropic尚未加入。",
+      "publishedAt": "2026-08-04T12:28:00-07:00",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/04/nvidia-doesnt-mess-around-a-week-after-open-ai-industry-group-formed-its-already-showing-progress/",
+      "subCategory": "大模型"
     },
     {
       "id": "ai-20260805-002",

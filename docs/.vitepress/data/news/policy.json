@@ -3,7 +3,7 @@
   "slug": "policy",
   "title": "政策信息",
   "description": "国家与地方政策、监管动态、产业扶持与合规要求。",
-  "updatedAt": "2026-08-05T17:00:00+08:00",
+  "updatedAt": "2026-08-06T00:50:00+08:00",
   "items": [
     {
       "title": "商务部公告2026年第33号 公布对相关进口打印复印办公设备发起对外贸易国家安全立案调查",
@@ -724,51 +724,6 @@
       "url": "https://www.chinanews.com.cn/cj/2026/07-23/10664763.shtml",
       "subCategory": "金融监管",
       "id": "policy-20260723-303"
-    },
-    {
-      "id": "policy-20260723-001",
-      "title": "中央网信办、应急管理部部署开展汛期灾害事故违法不良信息集中清理整治",
-      "summary": "中央网信办联合应急管理部部署开展汛期灾害事故违法不良信息集中清理整治，重点整治\"移花接木\"编造灾情、旧闻新炒、夸大伤亡损失、编造虚假险情及AI生成虚假内容等五类问题，压实网站平台内容管理责任。",
-      "publishedAt": "2026-07-23",
-      "source": "中央网络安全和信息化委员会办公室",
-      "url": "https://www.cac.gov.cn/2026-07/23/c_1786465620398126.htm",
-      "subCategory": "数据安全"
-    },
-    {
-      "title": "蓝佛安：以更大力度落实财政金融协同促内需一揽子政策",
-      "summary": "财政部部长蓝佛安撰文称，上半年个人消费和服务业贷款贴息等四类贴息贷款新增超17万亿元、同比增长4.6%，消费品以旧换新惠及消费约131亿元、9900万笔，民营投资担保风险分担机制支持投资超1.24万亿元。",
-      "publishedAt": "2026-07-23",
-      "source": "财政部（转载自人民日报）",
-      "url": "https://www.mof.gov.cn/zhengwuxinxi/caizhengxinwen/202607/t20260723_3994034.htm",
-      "subCategory": "金融监管",
-      "id": "policy-20260723-206"
-    },
-    {
-      "title": "关于印发《可再生能源发展\"十五五\"规划》的通知",
-      "summary": "国家发展改革委、国家能源局联合印发《可再生能源发展\"十五五\"规划》（发改能源〔2026〕1067号），部署2026—2030年可再生能源高质量发展任务，贯彻碳达峰碳中和目标及\"四个革命、一个合作\"能源安全新战略。",
-      "publishedAt": "2026-07-23",
-      "source": "国家发展和改革委员会",
-      "url": "https://www.ndrc.gov.cn/xxgk/zcfb/tz/202607/t20260723_1406641.html",
-      "subCategory": "新能源政策",
-      "id": "policy-20260723-304"
-    },
-    {
-      "id": "policy-20260724-001",
-      "title": "美国总统备忘录：对60个经济体强迫劳动产品进口执行不力启动301关税措施",
-      "summary": "美国总统签署备忘录，依据1974年贸易法301条款调查结果，对60个未能有效执行强迫劳动产品进口禁令的经济体加征关税，其中17个经济体加征10%，其余加征12.5%，并要求9月1日前为孟加拉国、柬埔寨、印尼、马来西亚设立棉花纺织品关税配额。",
-      "publishedAt": "2026-07-23",
-      "source": "The White House",
-      "url": "https://www.whitehouse.gov/presidential-actions/2026/07/actions-by-the-united-states-in-the-investigations-under-section-301-of-the-trade-act-of-1974-of-the-acts-policies-and-practices-of-60-economies-related-to-the-failure-of-each-economy-to-impose-and-/",
-      "subCategory": "跨境贸易"
-    },
-    {
-      "id": "policy-20260724-002",
-      "title": "SEC宣布就美国股市24小时交易筹备事宜举行圆桌会议",
-      "summary": "美国证券交易委员会宣布将于9月17日举行公开圆桌会议，探讨美国股票市场向全天候交易转型涉及的隔夜交易运作、市场韧性等问题，公众可通过文件编号4-913提交书面意见。",
-      "publishedAt": "2026-07-23",
-      "source": "U.S. Securities and Exchange Commission",
-      "url": "https://www.sec.gov/newsroom/press-releases/2026-69-sec-announces-roundtable-preparations-24-hour-trading",
-      "subCategory": "金融监管"
     }
   ]
 }
