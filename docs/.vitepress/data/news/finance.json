@@ -3,8 +3,62 @@
   "slug": "finance",
   "title": "投资与财经",
   "description": "宏观经济、A 股 / 港股 / 美股、一级市场融资、行业研报观点。",
-  "updatedAt": "2026-08-06T00:50:00+08:00",
+  "updatedAt": "2026-08-06T16:50:00+08:00",
   "items": [
+    {
+      "title": "超3700只个股下跌，数字货币、贵金属、电子特气概念走强｜A股早盘",
+      "summary": "8月6日A股早盘，上证指数涨0.01%，深证成指跌0.52%，创业板指跌0.67%，全市场超3700只个股下跌，成交额1.77万亿元，较上一交易日增加62.6亿元。数字货币、贵金属、电子特气等概念股走强，电网设备板块走弱。",
+      "publishedAt": "2026-08-06T11:40:00+08:00",
+      "source": "每经网",
+      "url": "https://www.nbd.com.cn/articles/2026-08-06/4533844.html",
+      "subCategory": "A股",
+      "id": "finance-20260806-704"
+    },
+    {
+      "title": "金饰克价一夜大涨63元，逼近1300元/克",
+      "summary": "8月6日国际现货黄金日内涨超1%，突破每盎司4300美元，为6月18日以来首次，近一周累计上涨250美元；COMEX黄金报4353.3美元/盎司。国内周生生、老庙等品牌金饰价格单日上涨56至63元/克。",
+      "publishedAt": "2026-08-06T10:55:00+08:00",
+      "source": "新浪财经",
+      "url": "https://news.sina.com.cn/o/2026-08-06/doc-inimivfi3139993.shtml",
+      "subCategory": "大宗商品",
+      "id": "finance-20260806-705"
+    },
+    {
+      "title": "SanDisk第四财季营收同比增长372%至89.65亿美元，超市场预期",
+      "summary": "SanDisk公布2026财年第四财季业绩，营收同比增长372%至89.65亿美元，调整后每股收益39.25美元，均超市场预期。公司还批准新增140亿美元股票回购计划，盘后股价先跌后升，收窄至上涨约4%。",
+      "publishedAt": "2026-08-05T20:30:00-04:00",
+      "source": "TradingKey",
+      "url": "https://www.tradingkey.com/analysis/stocks/us-stocks/262079169-sandisk-sndk-q4-fy2026-revenue-372-percent-record-gross-margin-meet-beat-tradingkey",
+      "subCategory": "公司财报",
+      "id": "finance-20260805-700"
+    },
+    {
+      "title": "美股收盘涨跌不一，道指续创历史新高，英伟达连涨SpaceX重挫",
+      "summary": "美股8月5日收盘涨跌不一，道指涨0.49%续创新高，标普500跌0.17%，纳指跌0.83%。英伟达连续第五个交易日上涨，市值达5.3万亿美元；SpaceX股价重挫超13%，市值蒸发约2250亿美元。",
+      "publishedAt": "2026-08-06T08:19:00+08:00",
+      "source": "潮新闻",
+      "url": "https://tidenews.com.cn/news.html?id=3521528",
+      "subCategory": "美股",
+      "id": "finance-20260806-703"
+    },
+    {
+      "title": "Western Digital第四财季业绩超预期，但指引不及预期致股价盘后下跌",
+      "summary": "Western Digital公布截至6月的第四财季业绩，营收37.5亿美元，同比增长约44%，每股收益3.56美元，均超预期。因下季度指引未能大幅超出市场预期，公司股价盘后一度下跌8.89%至473美元。",
+      "publishedAt": "2026-08-05T16:23:00-04:00",
+      "source": "Benzinga",
+      "url": "https://www.benzinga.com/markets/earnings/26/08/60972188/western-digital-beats-q4-estimates-stock-falls-on-guidance",
+      "subCategory": "公司财报",
+      "id": "finance-20260805-701"
+    },
+    {
+      "title": "IonQ第二季度营收创纪录，同比增长287%并上调全年指引",
+      "summary": "量子计算公司IonQ第二季度营收达8010万美元，同比增长287%，超出公司自身预期20%。公司将2026年全年营收指引上调至2.8亿至2.9亿美元，并于7月31日完成对SkyWater Technology的收购。",
+      "publishedAt": "2026-08-05T16:05:00-04:00",
+      "source": "StockTitan",
+      "url": "https://www.stocktitan.net/news/IONQ/ion-q-announces-record-second-quarter-2026-revenues-growing-287-yo-gednl3gory6k.html",
+      "subCategory": "公司财报",
+      "id": "finance-20260805-702"
+    },
     {
       "id": "finance-20260806-501",
       "title": "美股午盘：道指上涨、纳指转跌，市场关注霍尔木兹海峡协议进展",
@@ -670,60 +724,6 @@
       "source": "新浪财经",
       "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-01/doc-inikumqh8993740.shtml",
       "subCategory": "一级市场"
-    },
-    {
-      "id": "finance-20260801-r002",
-      "title": "个贷新规8月1日起实施 银行个人贷款综合融资成本上限公布",
-      "summary": "个人贷款业务综合融资成本明示相关新规8月1日起正式实施，工农中建四大行将消费贷、经营贷利率上限设为年化6%，交通银行和邮储银行上限为12%，房贷统一执行LPR加0.5个基点，要求各类放贷机构充分披露综合融资成本。",
-      "publishedAt": "2026-08-01T07:13:00+08:00",
-      "source": "每日经济新闻（腾讯新闻）",
-      "url": "https://news.qq.com/rain/a/20260801A01TDS00",
-      "subCategory": "政策利率"
-    },
-    {
-      "id": "finance-20260801-a001",
-      "title": "美股收盘：亚马逊涨超15%创2012年以来单日最大涨幅 微软、亚马逊7月份市值合计增长超1万亿美元",
-      "summary": "8月1日美股三大指数收涨，纳指涨1%，标普涨0.7%，道指涨0.53%；亚马逊单日涨超15%，创2012年以来最大单日涨幅，英伟达重夺全球市值最高公司，苹果跌超7%。",
-      "publishedAt": "2026-08-01T06:07:00+08:00",
-      "source": "新浪财经",
-      "url": "https://finance.sina.com.cn/roll/2026-08-01/doc-iniktyyr0765762.shtml",
-      "subCategory": "美股"
-    },
-    {
-      "id": "finance-20260801-a005",
-      "title": "湘财证券、国盛证券涉账户实名制违规被证监会立案",
-      "summary": "7月31日，湘财证券、国盛证券收到中国证监会下发的《立案告知书》，因涉嫌违反《证券经纪业务管理办法》关于账户实名制等规定，证监会决定对两家券商立案调查。",
-      "publishedAt": "2026-07-31T23:25:00+08:00",
-      "source": "新浪财经",
-      "url": "https://finance.sina.com.cn/roll/2026-07-31/doc-iniktkax0909329.shtml",
-      "subCategory": "风险事件"
-    },
-    {
-      "id": "finance-20260801-a006",
-      "title": "天力锂能及实控人被中国证监会立案 公司今年两度更正过往财报",
-      "summary": "锂电池材料企业天力锂能及其控股股东、实际控制人王瑞庆7月31日收到证监会《立案告知书》，因涉嫌信息披露违法违规被立案，公司今年已两次更正过往财务报表。",
-      "publishedAt": "2026-07-31T23:10:27+08:00",
-      "source": "每日经济新闻",
-      "url": "https://www.nbd.com.cn/articles/2026-07-31/4528856.html",
-      "subCategory": "风险事件"
-    },
-    {
-      "id": "finance-20260731-m004",
-      "title": "苹果股价开盘跌超 9%，创 2025 年 4 月以来最大跌幅",
-      "summary": "苹果公布2026财年第三财季财报，营收1094.17亿美元同比增长16.4%，净利润297.89亿美元同比增长27%，然而开盘后股价瞬间跌超9%，因市场预期第四财季营收增长12.1%，而公司指引仅为9%至11%增长。",
-      "publishedAt": "2026-07-31T21:40:49+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/984/384.htm",
-      "subCategory": "美股"
-    },
-    {
-      "id": "finance-20260801-a008",
-      "title": "富瀞微业绩预增超10倍！主力资金大举买入这只股",
-      "summary": "富瀞微发布半年度业绩预告，预计营收 14亿元至15亿元，同比增长103.48%至118.01%，归母净利润2.7亿元至3.5亿元，同比增长1072.72%至1420.19%，公司称受益于存储涨价及AI-ISP芯片放量。",
-      "publishedAt": "2026-07-31T19:28:00+08:00",
-      "source": "东方财富网",
-      "url": "https://finance.eastmoney.com/a/202607313828516052.html",
-      "subCategory": "公司财报"
     }
   ]
 }
