@@ -3,8 +3,35 @@
   "slug": "ai",
   "title": "AI 与大模型",
   "description": "大模型、Agent、AI 编程、推理框架、开源模型的发布与落地。",
-  "updatedAt": "2026-08-07T09:05:00+08:00",
+  "updatedAt": "2026-08-07T16:35:00+08:00",
   "items": [
+    {
+      "id": "ai-20260807-101",
+      "title": "阿里推出国内首个AI语音平台CosyVoice Studio，限时免费体验",
+      "summary": "阿里巴巴发布AI语音生产力平台CosyVoice Studio，基于自研Qwen-Audio模型，包含语音速记工具CosyFlow、语音智能体搭建工具CosyAgent及音频内容创作工具CosyCreative三部分，现已开放iOS、Android、Mac、Windows端限时免费试用，CosyAgent与CosyCreative仍在企业白名单测试阶段。",
+      "publishedAt": "2026-08-07T15:37:57+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/987/040.htm",
+      "subCategory": "AI应用"
+    },
+    {
+      "id": "ai-20260807-102",
+      "title": "字节Seedance 2.5视频模型API上线，原生支持30秒视频直出",
+      "summary": "字节跳动火山引擎正式上线Seedance 2.5视频生成模型API服务，相较2.0版本在指令遵循、长叙事、写实人像及音画质量方面提升，原生支持30秒视频生成及最多50个多模态参考素材输入，按Token计费，每百万Token 42元或70元（含视频输入）。",
+      "publishedAt": "2026-08-07T14:20:23+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/986/953.htm",
+      "subCategory": "AI视频"
+    },
+    {
+      "id": "ai-20260807-103",
+      "title": "蚂蚁集团开源多智能体协作基础设施Avernet",
+      "summary": "蚂蚁集团正式开源多智能体协作基础设施Avernet，依据Apache 2.0协议发布社区版，支持智能体间的注册、发现、共识达成与可追踪协作，截至7月31日已在蚂蚁内部12个核心业务板块应用，智能体协同任务完成率保持在90%以上。",
+      "publishedAt": "2026-08-07T11:02:49+08:00",
+      "source": "ITBear科技资讯",
+      "url": "https://www.itbear.com.cn/html/2026-08/1485788.html",
+      "subCategory": "Agent"
+    },
     {
       "id": "ai-20260807-001",
       "title": "GPT-4.5 以来训练的最大模型，曝 OpenAI 最快下周推出 Astra AI 模型",
@@ -105,15 +132,6 @@
       "id": "ai-20260806-702"
     },
     {
-      "title": "突发，Jeff Dean离职创业！谷歌股价应声蒸发1.34万亿",
-      "summary": "Jeff Dean与谷歌老将Sanjay Ghemawat、Quoc Le、Oriol Vinyals离职，创立公益公司Discovery Loop，谷歌确认注资并任云合作伙伴，消息传出后谷歌股价一度下跌，市值蒸发约1.34万亿元人民币。",
-      "publishedAt": "2026-08-06T07:52:10+08:00",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/08/467196.html",
-      "subCategory": "大模型",
-      "id": "ai-20260806-700"
-    },
-    {
       "id": "ai-20260807-003",
       "title": "Deep Agents vs LangChain vs LangGraph",
       "summary": "LangChain工程师撰文对比开源Agent三层技术栈：Deep Agents为开箱即用框架，LangChain是可定制中间件的极简框架，LangGraph提供基于图的确定性运行时，建议多数开发者从Deep Agents入手。",
@@ -121,6 +139,15 @@
       "source": "LangChain Blog",
       "url": "https://www.langchain.com/blog/deep-agents-vs-langchain-vs-langgraph",
       "subCategory": "Agent"
+    },
+    {
+      "title": "突发，Jeff Dean离职创业！谷歌股价应声蒸发1.34万亿",
+      "summary": "Jeff Dean与谷歌老将Sanjay Ghemawat、Quoc Le、Oriol Vinyals离职，创立公益公司Discovery Loop，谷歌确认注资并任云合作伙伴，消息传出后谷歌股价一度下跌，市值蒸发约1.34万亿元人民币。",
+      "publishedAt": "2026-08-06T07:52:10+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/08/467196.html",
+      "subCategory": "大模型",
+      "id": "ai-20260806-700"
     },
     {
       "id": "ai-20260805-502",
@@ -213,6 +240,24 @@
       "subCategory": "大模型"
     },
     {
+      "id": "ai-20260805-004",
+      "title": "开源权重模型正追赶前沿水平，安全差距依然存在",
+      "summary": "SaferAI测试显示，智谱GLM-5.2对网络攻击与生物安全类高危任务几乎不拒答，而Anthropic Claude Opus 4.7因拒答过多导致部分测试无法完成，凸显开源权重模型能力逼近前沿但安全防护更易被移除。",
+      "publishedAt": "2026-08-04T13:05:00-07:00",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/04/open-weight-ai-models-are-catching-up-to-the-frontier-the-safety-gap-remains/",
+      "subCategory": "AI评测"
+    },
+    {
+      "id": "ai-20260805-006",
+      "title": "英伟达牵头的开放安全AI联盟成立一周即取得进展",
+      "summary": "由英伟达牵头、逗120家企业参与的开放安全AI联盟（OSAA）成立一周后，在黑帽大会上公布名为SAFE的工作组，提出AI安全事件报告与免责分析机制，OpenAI、谷歌、Anthropic尚未加入。",
+      "publishedAt": "2026-08-04T12:28:00-07:00",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/04/nvidia-doesnt-mess-around-a-week-after-open-ai-industry-group-formed-its-already-showing-progress/",
+      "subCategory": "大模型"
+    },
+    {
       "id": "ai-20260804-102",
       "title": "开源版Claude Science来了！零依赖、MIT协议，内置30+项科研Skills",
       "summary": "北京大学与元空 AI Agent联合实验室开源发布科研智能体OpenAI4S，遵循MIT协议，内置30余项科研Skills，通过生成可执行代码完成任务，且拒绝编造数据或结果。",
@@ -283,24 +328,6 @@
       "url": "https://m.ithome.com/html/985450.htm",
       "subCategory": "AI应用",
       "id": "ai-20260804-956"
-    },
-    {
-      "id": "ai-20260805-004",
-      "title": "开源权重模型正追赶前沿水平，安全差距依然存在",
-      "summary": "SaferAI测试显示，智谱GLM-5.2对网络攻击与生物安全类高危任务几乎不拒答，而Anthropic Claude Opus 4.7因拒答过多导致部分测试无法完成，凸显开源权重模型能力逼近前沿但安全防护更易被移除。",
-      "publishedAt": "2026-08-04T13:05:00-07:00",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/04/open-weight-ai-models-are-catching-up-to-the-frontier-the-safety-gap-remains/",
-      "subCategory": "AI评测"
-    },
-    {
-      "id": "ai-20260805-006",
-      "title": "英伟达牵头的开放安全AI联盟成立一周即取得进展",
-      "summary": "由英伟达牵头、逗120家企业参与的开放安全AI联盟（OSAA）成立一周后，在黑帽大会上公布名为SAFE的工作组，提出AI安全事件报告与免责分析机制，OpenAI、谷歌、Anthropic尚未加入。",
-      "publishedAt": "2026-08-04T12:28:00-07:00",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/04/nvidia-doesnt-mess-around-a-week-after-open-ai-industry-group-formed-its-already-showing-progress/",
-      "subCategory": "大模型"
     },
     {
       "id": "ai-20260805-002",
@@ -697,33 +724,6 @@
       "url": "https://www.qbitai.com/2026/07/463433.html",
       "subCategory": "AI编程",
       "id": "ai-20260731-n004"
-    },
-    {
-      "title": "终端市场的下一个增长点，高通押在了「个人AI」上",
-      "summary": "高通发布白皮书提出「个人AI」概念，主张由单一AI智能体跨手机、PC、眼镜等多设备理解同一用户，并采用端边云协同计算方式应对成本、时延与隐私三大挑战。",
-      "publishedAt": "2026-07-30T16:06:47+08:00",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/07/463204.html",
-      "subCategory": "AI应用",
-      "id": "ai-20260731-n003"
-    },
-    {
-      "id": "ai-20260730-003",
-      "title": "GPT-5.6自己优化自己实锤了，新的左脚踩右脚已经出现",
-      "summary": "OpenAI最新技术报告披露，已将GPT-5.6投入生产环境用于分析流量、调整路由、改写底层Kernel及优化推测解码模型，端到端服务成本降低20%，Token生成效率提升15%以上，训练目标与代码上线仍由人类决定。",
-      "publishedAt": "2026-07-30T15:51:14+08:00",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/07/463297.html",
-      "subCategory": "大模型"
-    },
-    {
-      "id": "ai-20260730-004",
-      "title": "李飞飞的世界模型，终于开始训练机器人了",
-      "summary": "World Labs收购机器人公司SceniX后发布机器人策略训练评估引擎R2S2R，打通仿真训练到真实部署闭环，李飞飞称基于该方法训练的策略无需真实数据即可连续自主运行1小时。",
-      "publishedAt": "2026-07-30T15:47:37+08:00",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/07/463217.html",
-      "subCategory": "具身智能"
     }
   ]
 }

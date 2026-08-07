@@ -591,13 +591,139 @@
       "subCategory": "航空航天"
     },
     {
-      "id": "tech-20260805-013b",
-      "title": "TP-Link patches Omada ZTP flaws allowing hackers to breach networks (duplicate placeholder removed)",
-      "summary": "",
-      "publishedAt": "2026-08-04T18:18:00-04:00",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/tp-link-patches-omada-ztp-flaws-allowing-hackers-to-breach-networks-x/",
+      "title": "俄罗斯联邦反垄断局起诉苹果公司，指控其未按要求在 iPhone / iPad 上预装本土 App",
+      "summary": "俄罗斯联邦反垄断局8月3日正式起诉苹果，指控其未按此前警告要求在iOS设备上预装俄罗斯本土应用商店RuStore及通讯应用Max，此前该机构已于7月1日要求苹果在7月15日前整改，否则面临最高40亿卢布罚款。",
+      "publishedAt": "2026-08-04T08:32:20+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/985/304.htm",
+      "subCategory": "互联网产品",
+      "id": "tech-20260804-001"
+    },
+    {
+      "title": "微软高管详解 Win11 优化方案：持续降低内存占用，改善 8GB 设备体验",
+      "summary": "微软Windows设计与研究副总裁Marcus Ash披露，公司正从内核调度到界面设计全栈式排查以降低Win11内存占用，多个内部团队正分析真实用户任务并优化预加载机制，相关改进计划年底前逐步推送，以改善8GB内存设备体验。",
+      "publishedAt": "2026-08-04T08:21:55+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/985/301.htm",
+      "subCategory": "操作系统",
+      "id": "tech-20260804-002"
+    },
+    {
+      "title": "三星 Galaxy S26 FE 手机默认壁纸曝光，预估关联 3 种零售颜色",
+      "summary": "科技媒体sammyguru曝光三星Galaxy S26 FE默认壁纸，据此推测该机将提供曜石灰、薄荷绿、紫罗兰三种零售配色，机型配备5000万像素主摄及支持3倍光学变焦的8000万像素长焦镜头，另有传闻搭载Exynos 2500芯片、4900mAh电池及45W快充。",
+      "publishedAt": "2026-08-04T08:21:14+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/985/300.htm",
+      "subCategory": "消费电子",
+      "id": "tech-20260804-003"
+    },
+    {
+      "id": "tech-20260803-901",
+      "title": "苹果被曝数据管理漏洞：离职员工仍可通过个人iCloud访问公司机密文件",
+      "summary": "据IT之家报道，苹果因鼓励员工将个人Apple ID与公司iCloud存储绑定，导致部分离职员工事后仍能访问工作文档及iMessage聊天记录，且普通员工的设备清退审查不如高管严格。",
+      "publishedAt": "2026-08-03T23:59:50+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/985/254.htm",
       "subCategory": "安全漏洞"
+    },
+    {
+      "id": "tech-20260803-903",
+      "title": "国际刑警组织：人工智能已参与非洲55%的网络犯罪案件",
+      "summary": "国际刑警组织发布报告称，人工智能参与了非洲55%的网络犯罪案件，使攻击更快更难追查，2024年以来该地区网络犯罪造成的经济损失已从1.92亿美元增至4.84亿美元。",
+      "publishedAt": "2026-08-03T23:32:02+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/985/252.htm",
+      "subCategory": "安全漏洞"
+    },
+    {
+      "id": "tech-20260803-902",
+      "title": "英国政府再度要求苹果为iCloud加密数据设后门，苹果提起法律诉讼反击",
+      "summary": "英国政府再次要求苹果为英国用户的iCloud加密数据设置访问后门，理由是调查恩怖主义和儿童剥削案件，苹果已就此向调查权力法庭提起新的法律诉讼进行反击。",
+      "publishedAt": "2026-08-03T23:27:56+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/985/251.htm",
+      "subCategory": "安全漏洞"
+    },
+    {
+      "id": "tech-20260803-907",
+      "title": "北汽极狐阿尔法T7内饰首曝，搨17.3英寸3K中控屏",
+      "summary": "北汽极狐阿尔法T7内饰图首次曝光，搭载同级最大17.3英寸3K中控屏及1.1米超宽全景抬头显示，座舱地台占比达88.8%，前排腿部空间1047毫米，涉及华为、宁德时代、麦格纳等技术合作。",
+      "publishedAt": "2026-08-03T23:22:54+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/985/250.htm",
+      "subCategory": "智能汽车"
+    },
+    {
+      "id": "tech-20260803-908",
+      "title": "荣耀佱乐部负责人称Robot Phone样机稀缺，全渠道预约超20万",
+      "summary": "荣耀佱乐部负责人透露Robot Phone工程样机数量稀缺，正式发布后或供不应求，该机型全渠道预约量已超20万，超越荣耀历代旗舰，预计8月12日发布，搭载骏龙8至尊版及双200万像素镜头。",
+      "publishedAt": "2026-08-03T23:12:18+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/985/247.htm",
+      "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260803-904",
+      "title": "苹果收购材料科学公司PlasmaSolve，强化镀膜技术储备",
+      "summary": "据欧盟委员会公告及IT之家报道，苹果收购了捷克材料科学公司PlasmaSolve，该公司开发模拟金属蒸镀工艺的MatSight软件，此举被视为苹果加强镀膜等表面处理技术储备的举措。",
+      "publishedAt": "2026-08-03T22:32:09+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/985/240.htm",
+      "subCategory": "芯片硬件"
+    },
+    {
+      "id": "tech-20260803-906",
+      "title": "Coldcard硬件钱包随机数漏洞致约1755枚比特币被盗",
+      "summary": "比特币硬件钱包Coldcard被曝存在随机数生成缺陷，导致离线钱包生成的助记词可被系统性推算，截至8月3日已有约5000个受影响钱包被盗走超1755枚比特币，制造商Coinkite已发布修复固件。",
+      "publishedAt": "2026-08-03T22:23:18+08:00",
+      "source": "中华网",
+      "url": "https://news.china.com/socialgd/10000169/20260803/49651991.html",
+      "subCategory": "安全漏洞"
+    },
+    {
+      "id": "tech-20260803-905",
+      "title": "华为官宣首款RGB-MiniLED电视，8月5日开售",
+      "summary": "华为常务董事余承东宣布公司首款RGB-MiniLED电视将于8月5日开售，提供55/65/75英寸三个尺寸，起售价3499元，采用自研光色控制芯片，最高支持300Hz刷新率并搭载鸿蒙系统。",
+      "publishedAt": "2026-08-03T22:15:34+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/985/237.htm",
+      "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260803-001",
+      "title": "全球第三大 12 英寸硬晶圆制造商将易主：SK 批准向斗山出售 SK siltron 多数股份",
+      "summary": "SK集团董事会批准向斗山集团出售SK siltron 70.6%股权，交易金额约2.3万亿韩元（约合108.91亿元人民币）。SK siltron在全球300毫米硬晶圆市场排名第三，2017年加入SK集团，剩余29.4%股权由SK会长嶔泰源持有，预计也将由斗山收购，斗山将先支付总价 10% 作为定金。",
+      "publishedAt": "2026-08-03T08:38:22+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/984/853.htm",
+      "subCategory": "芯片硬件"
+    },
+    {
+      "id": "tech-20260803-002",
+      "title": "微软持续推进Win11现代化改造，打印管理工具获WinUI 3更新",
+      "summary": "微软正在Win11预览版中测试基于WinUI 3重写的打印管理工具，该工具以独立应用形式出现在“所有应用”列表中，而非隐藏在管理控制台里，但目前仍需右键“以管理员身份运行”才能打开，功能尚不完整。微软此前已将文件复制对话框迁移至WinUI 3，目前正推进通用文件对话框的迁移工作。",
+      "publishedAt": "2026-08-03T08:37:00+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/984/852.htm",
+      "subCategory": "操作系统"
+    },
+    {
+      "id": "tech-20260803-003",
+      "title": "小米米家无线洗地机5C发售：18000Pa吸力、三重防缠绕，1175元",
+      "summary": "小米米家无线洗地机5C已在京东上线，官方定价1175元，部分地区补贴后到手价998.75元。产品配妇18000Pa吸力，采用通过德国TÜV认证的三重防缠绕技术，支持60°C热风净味烘干，续航45分钟，运行噪音50dB(A)，单次续航可清洁341平方米。",
+      "publishedAt": "2026-08-03T08:30:54+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/984/851.htm",
+      "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260803-004",
+      "title": "微软更新Teams应用界面，旨在解决用户误操作意外开启屏幕共享或直接退出会议",
+      "summary": "微软重新设计Teams会议界面以减少误操作，内部研究发现“共享”和“离开”按钮是用户最容易误点的功能。更新后主要控件移至界面顶部居中位置，音视频与共享功能分组排列，“离开”按钮移至最右侧，录制、字幕、投票、白板等低频功能整合进“更多”菜单，并支持自定义按钮布局，更新将于本月底前推送。",
+      "publishedAt": "2026-08-03T08:27:10+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/984/849.htm",
+      "subCategory": "互联网产品"
     }
   ]
 }

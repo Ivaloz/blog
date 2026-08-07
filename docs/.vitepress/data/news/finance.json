@@ -3,7 +3,7 @@
   "slug": "finance",
   "title": "投资与财经",
   "description": "宏观经济、A 股 / 港股 / 美股、一级市场融资、行业研报观点。",
-  "updatedAt": "2026-08-07T09:05:00+08:00",
+  "updatedAt": "2026-08-07T16:35:00+08:00",
   "items": [
     {
       "id": "finance-20260807-008",
@@ -48,6 +48,15 @@
       "publishedAt": "2026-08-06T21:33:00+08:00",
       "source": "第一财经",
       "url": "https://www.yicai.com/news/103308404.html",
+      "subCategory": "A股"
+    },
+    {
+      "id": "finance-20260807-101",
+      "title": "宇树科技战略配售名单出炉：DeepSeek、腾讯、中石油都投了",
+      "summary": "宇树科技公告显示，科创板IPO战略配售共9名投资者认购808.9万股，约占发行总量20%。深度求索（DeepSeek）获配93.34万股，认购金额约1.44亿元，锁定期36个月；腾讯子公司上海骐山投资、中国石油昆仑资本、南方电网各获配90.33万股，认购金额约1.36亿元。",
+      "publishedAt": "2026-08-06T21:20:00+08:00",
+      "source": "东方财富网",
+      "url": "https://finance.eastmoney.com/a/202608063834118874.html",
       "subCategory": "A股"
     },
     {
@@ -114,6 +123,15 @@
       "id": "finance-20260806-705"
     },
     {
+      "title": "SanDisk第四财季营收同比增长372%至89.65亿美元，超市场预期",
+      "summary": "SanDisk公布2026财年第四财季业绩，营收同比增长372%至89.65亿美元，调整后每股收益39.25美元，均超市场预期。公司还批准新增140亿美元股票回购计划，盘后股价先跌后升，收窄至上涨约4%。",
+      "publishedAt": "2026-08-05T20:30:00-04:00",
+      "source": "TradingKey",
+      "url": "https://www.tradingkey.com/analysis/stocks/us-stocks/262079169-sandisk-sndk-q4-fy2026-revenue-372-percent-record-gross-margin-meet-beat-tradingkey",
+      "subCategory": "公司财报",
+      "id": "finance-20260805-700"
+    },
+    {
       "title": "美股收盘涨跌不一，道指续创历史新高，英伟达连涨SpaceX重挫",
       "summary": "美股8月5日收盘涨跌不一，道指涨0.49%续创新高，标普500跌0.17%，纳指跌0.83%。英伟达连续第五个交易日上涨，市值达5.3万亿美元；SpaceX股价重挫超13%，市值蒸发约2250亿美元。",
       "publishedAt": "2026-08-06T08:19:00+08:00",
@@ -121,6 +139,24 @@
       "url": "https://tidenews.com.cn/news.html?id=3521528",
       "subCategory": "美股",
       "id": "finance-20260806-703"
+    },
+    {
+      "title": "Western Digital第四财季业绩超预期，但指引不及预期致股价盘后下跌",
+      "summary": "Western Digital公布截至6月的第四财季业绩，营收37.5亿美元，同比增长约44%，每股收益3.56美元，均超预期。因下季度指引未能大幅超出市场预期，公司股价盘后一度下跌8.89%至473美元。",
+      "publishedAt": "2026-08-05T16:23:00-04:00",
+      "source": "Benzinga",
+      "url": "https://www.benzinga.com/markets/earnings/26/08/60972188/western-digital-beats-q4-estimates-stock-falls-on-guidance",
+      "subCategory": "公司财报",
+      "id": "finance-20260805-701"
+    },
+    {
+      "title": "IonQ第二季度营收创纪录，同比增长287%并上调全年指引",
+      "summary": "量子计算公司IonQ第二季度营收达8010万美元，同比增长287%，超出公司自身预期20%。公司将2026年全年营收指引上调至2.8亿至2.9亿美元，并于7月31日完成对SkyWater Technology的收购。",
+      "publishedAt": "2026-08-05T16:05:00-04:00",
+      "source": "StockTitan",
+      "url": "https://www.stocktitan.net/news/IONQ/ion-q-announces-record-second-quarter-2026-revenues-growing-287-yo-gednl3gory6k.html",
+      "subCategory": "公司财报",
+      "id": "finance-20260805-702"
     },
     {
       "id": "finance-20260806-501",
@@ -139,15 +175,6 @@
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/economy/policy/articles/minneapolis-feds-kashkari-calls-gradual-133949803.html",
       "subCategory": "政策利率"
-    },
-    {
-      "title": "SanDisk第四财季营收同比增长372%至89.65亿美元，超市场预期",
-      "summary": "SanDisk公布2026财年第四财季业绩，营收同比增长372%至89.65亿美元，调整后每股收益39.25美元，均超市场预期。公司还批准新增140亿美元股票回购计划，盘后股价先跌后升，收窄至上涨约4%。",
-      "publishedAt": "2026-08-05T20:30:00-04:00",
-      "source": "TradingKey",
-      "url": "https://www.tradingkey.com/analysis/stocks/us-stocks/262079169-sandisk-sndk-q4-fy2026-revenue-372-percent-record-gross-margin-meet-beat-tradingkey",
-      "subCategory": "公司财报",
-      "id": "finance-20260805-700"
     },
     {
       "id": "finance-20260805-503",
@@ -175,24 +202,6 @@
       "source": "SEC EDGAR（迪士尼公司公告）",
       "url": "https://www.sec.gov/Archives/edgar/data/1744489/000174448926000056/fy2026_q3xerxex991.htm",
       "subCategory": "公司财报"
-    },
-    {
-      "title": "Western Digital第四财季业绩超预期，但指引不及预期致股价盘后下跌",
-      "summary": "Western Digital公布截至6月的第四财季业绩，营收37.5亿美元，同比增长约44%，每股收益3.56美元，均超预期。因下季度指引未能大幅超出市场预期，公司股价盘后一度下跌8.89%至473美元。",
-      "publishedAt": "2026-08-05T16:23:00-04:00",
-      "source": "Benzinga",
-      "url": "https://www.benzinga.com/markets/earnings/26/08/60972188/western-digital-beats-q4-estimates-stock-falls-on-guidance",
-      "subCategory": "公司财报",
-      "id": "finance-20260805-701"
-    },
-    {
-      "title": "IonQ第二季度营收创纪录，同比增长287%并上调全年指引",
-      "summary": "量子计算公司IonQ第二季度营收达8010万美元，同比增长287%，超出公司自身预期20%。公司将2026年全年营收指引上调至2.8亿至2.9亿美元，并于7月31日完成对SkyWater Technology的收购。",
-      "publishedAt": "2026-08-05T16:05:00-04:00",
-      "source": "StockTitan",
-      "url": "https://www.stocktitan.net/news/IONQ/ion-q-announces-record-second-quarter-2026-revenues-growing-287-yo-gednl3gory6k.html",
-      "subCategory": "公司财报",
-      "id": "finance-20260805-702"
     },
     {
       "title": "冰火两重天！金饰克价年内大跌470元，黄金股逆势大涨，现货黄金重回4100美元",
@@ -715,15 +724,6 @@
       "source": "华尔街见闻",
       "url": "https://wallstreetcn.com/articles/3778496",
       "subCategory": "风险事件"
-    },
-    {
-      "title": "8月金股曝光！13股获多次推荐 多家机构看好药明康德",
-      "summary": "东方财富网8月1日报道，15家券商合计推出91只8月金股（已去重），13只个股获2家以上机构重复推荐。药明康德获7家券商推荐居首，宁德时代获6家推荐，中芯国际、紫金矿业各获3家以上机构推荐。",
-      "publishedAt": "2026-08-01T18:43:00+08:00",
-      "source": "东方财富网",
-      "url": "https://finance.eastmoney.com/a/202608013829044048.html",
-      "subCategory": "A股",
-      "id": "finance-20260801-b001"
     }
   ]
 }
