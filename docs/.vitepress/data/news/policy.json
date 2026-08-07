@@ -3,7 +3,7 @@
   "slug": "policy",
   "title": "政策信息",
   "description": "国家与地方政策、监管动态、产业扶持与合规要求。",
-  "updatedAt": "2026-08-07T09:05:00+08:00",
+  "updatedAt": "2026-08-07T16:35:00+08:00",
   "items": [
     {
       "id": "policy-20260807-001",
@@ -411,6 +411,15 @@
       "id": "policy-20260731-n003"
     },
     {
+      "title": "FTC and States Act Against Hims & Hers for Deceptive and Unlawful Privacy Practices",
+      "summary": "美国联邦贸易委员会联合犹他州、加利福尼亚州对远程医疗公司Hims & Hers提起联邦诉讼，指控其在用户提交问诊表后即扣费、设置订阅取消障碍，并将用户健康信息共享给Meta、Snap等广告平台，涉嫌违反《联邦贸易委员会法》及《在线购物者信心恢复法》。",
+      "publishedAt": "2026-07-29T13:04:00-04:00",
+      "source": "美国联邦贸易委员会(FTC)",
+      "url": "https://www.ftc.gov/news-events/news/press-releases/2026/07/ftc-states-act-against-hims-hers-deceptive-unlawful-privacy-practices",
+      "subCategory": "数据安全",
+      "id": "policy-20260730-001"
+    },
+    {
       "title": "中国人民银行等九部门联合印发《关于加强科技金融领域数据开发利用的通知》",
       "summary": "中国人民银行等九部门联合印发通知，部署加强科技金融领域数据开发利用工作，推动金融机构与科技企业间数据共享、完善数据要素市场规则，支持科技型企业融资需求。",
       "publishedAt": "2026-07-29T17:00:01+08:00",
@@ -427,15 +436,6 @@
       "url": "https://www.news.cn/politics/20260729/b1d46056aba44f2fa489e362d351aef5/c.html",
       "subCategory": "产业政策",
       "id": "policy-20260730-003"
-    },
-    {
-      "title": "FTC and States Act Against Hims & Hers for Deceptive and Unlawful Privacy Practices",
-      "summary": "美国联邦贸易委员会联合犹他州、加利福尼亚州对远程医疗公司Hims & Hers提起联邦诉讼，指控其在用户提交问诊表后即扣费、设置订阅取消障碍，并将用户健康信息共享给Meta、Snap等广告平台，涉嫌违反《联邦贸易委员会法》及《在线购物者信心恢复法》。",
-      "publishedAt": "2026-07-29T13:04:00-04:00",
-      "source": "美国联邦贸易委员会(FTC)",
-      "url": "https://www.ftc.gov/news-events/news/press-releases/2026/07/ftc-states-act-against-hims-hers-deceptive-unlawful-privacy-practices",
-      "subCategory": "数据安全",
-      "id": "policy-20260730-001"
     },
     {
       "title": "商务部部长王文涛与英国新任商贸大臣雷诺兹举行视频通话",
