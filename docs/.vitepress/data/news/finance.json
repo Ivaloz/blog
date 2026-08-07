@@ -3,8 +3,44 @@
   "slug": "finance",
   "title": "投资与财经",
   "description": "宏观经济、A 股 / 港股 / 美股、一级市场融资、行业研报观点。",
-  "updatedAt": "2026-08-07T00:20:00+08:00",
+  "updatedAt": "2026-08-07T09:05:00+08:00",
   "items": [
+    {
+      "id": "finance-20260807-008",
+      "title": "Stocks fall ahead of Friday's US jobs data; oil gains on Iran concerns",
+      "summary": "伊朗议会委员会审议一项法案，拟禁止美国、以色列等\"敌对\"船只通行霍尔木兹海峡，违者最高处以货值20%罚款，消息推动油价大涨，布伦特原油涨3.83%至82.49美元/桶，美股三大指数同步走低，10年期美债收益率升至4.674%。(估算)",
+      "publishedAt": "2026-08-07T06:18:00+08:00",
+      "source": "Reuters (via Investing.com)",
+      "url": "https://www.investing.com/news/stock-market-news/asia-shares-ease-on-tech-pullback-oil-stable-as-iran-talks-stay-in-focus-4839953",
+      "subCategory": "风险事件"
+    },
+    {
+      "id": "finance-20260807-002",
+      "title": "Stock market today: Dow slips from record, S&P 500 and Nasdaq drop as oil gains, Treasury yields rise",
+      "summary": "8月6日美股三大指数集体下跌，道指跌0.9%结束连续创纪录走势，标普500跌0.2%，纳指跌0.1%。10年期美债收益率升至4.67%，中东局势推升油价至83美元/桶附近，7月裁员降至两年最低但当周初请失业金人数微升至19.9万人。",
+      "publishedAt": "2026-08-07T05:55:00+08:00",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-august-6-dow-sp-nasdaq-091620000.html",
+      "subCategory": "美股"
+    },
+    {
+      "id": "finance-20260807-006",
+      "title": "Jobs report preview: Payrolls expected to grow by 80,000, unemployment seen holding steady",
+      "summary": "美国劳工部将于8月7日公布7月就业报告，经济学家预计新增非农就业8万人，失业率维持4.2%，此前6月新增就业为5.7万人。ADP数据显示7月私营部门招聘略低于预期，但低收入群体薪资增速已超过高收入群体。",
+      "publishedAt": "2026-08-07T01:07:00+08:00",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/economy/article/jobs-report-preview-payrolls-expected-to-grow-by-80000-unemployment-seen-holding-steady-170715590.html",
+      "subCategory": "宏观经济"
+    },
+    {
+      "id": "finance-20260807-007",
+      "title": "Copper prices hit a fresh record high as tariff fears and tightening global supplies fuel rally",
+      "summary": "COMEX九月期铜价触及每磅6.7045美元（约合每吨14781美元），刷新5月纪录高点，受美国潜在进口关税推动的抢运囤货需求及智利供应扰动共同支撑，7月经美国港口的铜进口量超20万吨，为近十余年单月最高。",
+      "publishedAt": "2026-08-06T22:18:00+08:00",
+      "source": "Economies.com",
+      "url": "https://www.economies.com/commodities/copper-news/copper-prices-hit-a-fresh-record-high-as-tariff-fears-and-tightening-global-supplies-fuel-rally-49440",
+      "subCategory": "大宗商品"
+    },
     {
       "id": "finance-20260806-951",
       "title": "150.8元/股！宇树科技引爆新一轮“打新热”，股民排队许愿求中签",
@@ -24,6 +60,33 @@
       "subCategory": "美股"
     },
     {
+      "id": "finance-20260807-003",
+      "title": "Payments firm Fiserv cuts annual profit forecast, shares fall nearly 12%",
+      "summary": "支付公司Fiserv下调2026年全年业绩指引，调整后每股收益预期从8.00-8.30美元降至7.20-7.40美元，营收增速预期由1%-3%降至持平或下滑1%，第二季度营收同比降4%至52.9亿美元，消息公布后盘前股价一度下跌近12%。",
+      "publishedAt": "2026-08-06T20:33:00+08:00",
+      "source": "Reuters (via MarketScreener)",
+      "url": "https://www.marketscreener.com/news/payments-firm-fiserv-cuts-annual-profit-forecast-shares-fall-nearly-12-ce7f50ddda8bfe20",
+      "subCategory": "公司财报"
+    },
+    {
+      "id": "finance-20260807-005",
+      "title": "晚间公告｜8月6日这些公告有看头",
+      "summary": "8月6日晚间多家A股公司发布公告：宇树科技科创板IPO发行价定为150.80元/股；爱丽家居等公司提示股价连续涨停的异常波动风险；中复神鹰、兴发集团分别披露数十亿元定增计划；名家汇拟收购至誉科技不超过26.19%股权。",
+      "publishedAt": "2026-08-06T18:47:02+08:00",
+      "source": "第一财经",
+      "url": "https://www.yicai.com/news/103308284.html",
+      "subCategory": "A股"
+    },
+    {
+      "id": "finance-20260807-001",
+      "title": "港股收评：恒指跌1.49% 科指跌2.28% 科网股、汽车股普跌 煤炭股逆势活跃 百度跌超4%",
+      "summary": "8月6日恒生指数收跌1.49%报25530.28点，恒生科技指数跌2.28%，恒生中国企业指数跌1.22%。科网股与汽车股普遍下跌，百度跌超4%，阿里巴巴、小米跌近3%，煤炭股逆势走强。",
+      "publishedAt": "2026-08-06T16:08:00+08:00",
+      "source": "新浪财经",
+      "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-08-06/doc-inimknaz2963127.shtml",
+      "subCategory": "港股"
+    },
+    {
       "title": "超3700只个股下跌，数字货币、贵金属、电子特气概念走强｜A股早盘",
       "summary": "8月6日A股早盘，上证指数涨0.01%，深证成指跌0.52%，创业板指跌0.67%，全市场超3700只个股下跌，成交额1.77万亿元，较上一交易日增加62.6亿元。数字货币、贵金属、电子特气等概念股走强，电网设备板块走弱。",
       "publishedAt": "2026-08-06T11:40:00+08:00",
@@ -31,6 +94,15 @@
       "url": "https://www.nbd.com.cn/articles/2026-08-06/4533844.html",
       "subCategory": "A股",
       "id": "finance-20260806-704"
+    },
+    {
+      "id": "finance-20260807-004",
+      "title": "首发|矩阵起源完成超千万美元A轮融资，加速企业级AI基础设施研发",
+      "summary": "企业级AI基础设施公司矩阵起源宣布完成超千万美元A轮融资，由汉得信息参投基金、亚康股份及澳大利亚风投机构Artesian Venture Partners共同注资，资金将用于MatrixOne Intelligence平台研发、全球市场拓展及智能体规模化落地。",
+      "publishedAt": "2026-08-06T11:26:00+08:00",
+      "source": "投资界(PEdaily)",
+      "url": "https://news.pedaily.cn/202608/567333.shtml",
+      "subCategory": "一级市场"
     },
     {
       "title": "金饰克价一夜大涨63元，逼近1300元/克",
@@ -652,78 +724,6 @@
       "url": "https://finance.eastmoney.com/a/202608013829044048.html",
       "subCategory": "A股",
       "id": "finance-20260801-b001"
-    },
-    {
-      "id": "finance-20260802-004",
-      "title": "高盛：7月砸穿拥挤交易，美股牛市没断但更难做了",
-      "summary": "高盛策略师Tony Pasquariello指出，7月标普500指数波动仅3.5%，但AI及动量类拥挤交易遭强制平仓，高盛动量组合单日波动达10%，韩国杠杆ETF资产规模数周内从530亿美元降至150亿美元。",
-      "publishedAt": "2026-08-01T18:30:00+08:00",
-      "source": "华尔街见闻",
-      "url": "https://wallstreetcn.com/articles/3778494",
-      "subCategory": "美股"
-    },
-    {
-      "id": "finance-20260802-003",
-      "title": "LV母公司上半年赚了386亿欧元，爱马仕利润率41%",
-      "summary": "LVMH集团公布半年报，上半年盈利386亿欧元，铏表珠宝业务增长9%，但占集团营收47%的时装皮具业务下滑1%；爱马仕上半年利润率达41%，其股价此前于7月29日单日重挟11%，创15年最大跌幅。",
-      "publishedAt": "2026-08-01T18:25:25+08:00",
-      "source": "第一财经",
-      "url": "https://www.yicai.com/news/103301745.html",
-      "subCategory": "公司财报"
-    },
-    {
-      "id": "finance-20260802-002",
-      "title": "蔡崇信离婚涉及百亿美元资产，双方将维持稳定的专业合作",
-      "summary": "阿里巴巴集团董事长蔡崇信与妻子吴明华结束近30年婚姻，双方持有的约2.6亿股阿里股份及布鲁克林篮网等资产不涉及核心股权分割，蔡崇信继续担任阿里董事长，双方称将维持稳定专业合作。",
-      "publishedAt": "2026-08-01T17:02:29+08:00",
-      "source": "第一财经",
-      "url": "https://www.yicai.com/news/103301709.html",
-      "subCategory": "风险事件"
-    },
-    {
-      "id": "finance-20260802-001",
-      "title": "俄对乌发动大规模袭击，摧毁美国公司无人机工厂",
-      "summary": "俄罗斯7月31日夜间至8月1日凌晨对基辅实施大规模打击，一枚导弹击中由美国特拉华州注册企业Terminal Autonomy所有的无人机工厂，据报为俄首次直接打击美方防务相关企业，基辅袭击致9人死亡、28人受伤。",
-      "publishedAt": "2026-08-01T16:24:00+08:00",
-      "source": "华尔街见闻",
-      "url": "https://wallstreetcn.com/articles/3778492",
-      "subCategory": "风险事件"
-    },
-    {
-      "id": "finance-20260801-r003",
-      "title": "云计算三巨头本周市值增加近1.5万亿美元",
-      "summary": "美国云计算三巨头微软、亚马逊和Alphabet公布财报后，本周合计市值增加约1.5万亿美元，其中微软增加逸怀 6000亿美元，亚马逊和Alphabet各增加逸怈4000亿美元，同期Meta和苹果市值则出现下滑。",
-      "publishedAt": "2026-08-01T14:15:00+08:00",
-      "source": "财联社（新浪财经）",
-      "url": "https://finance.sina.com.cn/roll/2026-08-01/doc-inikuwea8899262.shtml",
-      "subCategory": "美股"
-    },
-    {
-      "id": "finance-20260801-r001",
-      "title": "美联储主席沃什考虑减少议息会议频率",
-      "summary": "美联储主席沃什正考虑减少联邦公开市场委员会例会频率，若实施将是自1981年以来该机制的最大变化。目前FOMC每年召开八次例会，改革方案最快扰9月中旬确定，此前三名官员曾在7月议息会议上投票反对维持利率不变。",
-      "publishedAt": "2026-08-01T13:34:00+08:00",
-      "source": "券商中国（新浪财经）",
-      "url": "https://finance.sina.com.cn/stock/zqgd/2026-08-01/doc-inikuwea8880668.shtml",
-      "subCategory": "政策利率"
-    },
-    {
-      "id": "finance-20260801-r006",
-      "title": "美日联手干预汇市 美元指数创年内最大单周跌幅",
-      "summary": "美日联手干预汇市带动美元指数本周下跌1.69%，为今年1月末以来最大单周跌幅，美元兑日元周内暴跌3.6%并跌破157.6关口。日本央行行长植田和男称多名委员上调通胀预测，市场对9月加息预期升温。",
-      "publishedAt": "2026-08-01T13:26:00+08:00",
-      "source": "新浪财经",
-      "url": "https://finance.sina.com.cn/money/forex/hbfx/2026-08-01/doc-inikuwem0642654.shtml",
-      "subCategory": "宏观经济"
-    },
-    {
-      "id": "finance-20260801-r005",
-      "title": "蓝来7月交付新车35934台 同比增长71%",
-      "summary": "蓝来公布7月交付数据，当月交付新车35934台，同比增长71.0%，创单月新高，其中蓝来品牌交付20008台、乐道品牌10155台、荧火虫品牌5771台，今年前七个月累计交付227057台，同比增长68.0%。",
-      "publishedAt": "2026-08-01T12:32:00+08:00",
-      "source": "快科技（新浪财经）",
-      "url": "https://finance.sina.com.cn/tech/roll/2026-08-01/doc-inikurwi0585661.shtml",
-      "subCategory": "美股"
     }
   ]
 }

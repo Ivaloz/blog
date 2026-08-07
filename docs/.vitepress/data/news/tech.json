@@ -3,8 +3,53 @@
   "slug": "tech",
   "title": "科技新闻",
   "description": "前沿科技、互联网产品、芯片硬件、开源生态。",
-  "updatedAt": "2026-08-07T00:20:00+08:00",
+  "updatedAt": "2026-08-07T09:05:00+08:00",
   "items": [
+    {
+      "id": "tech-20260807-002",
+      "title": "AMD RDNA 4m 再补一块拼图，Mesa 26.3 已合并 GFX1171",
+      "summary": "开源图形驱动Mesa 26.3已合并对AMD GFX1171的支持，该型号属于RDNA 4m核显系列，用于下一代移动处理器。RDNA 4m原生支持FP8、BF8等AI加速格式，架构介于RDNA 3.5与RDNA 4之间，Mesa 26.3预计2026年第四季度发布。",
+      "publishedAt": "2026-08-07T08:37:00+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/986/793.htm",
+      "subCategory": "开源生态"
+    },
+    {
+      "id": "tech-20260807-003",
+      "title": "苹果发布 macOS 26.6.1 Tahoe 更新：修复屏幕共享认证漏洞",
+      "summary": "苹果发布macOS Sonoma 14.8.9、Sequoia 15.7.9及Tahoe 26.6.1更新，修复编号CVE-2026-65400的屏幕共享认证绕过漏洞，攻击者原本无需有效凭据即可认证访问。该漏洞由研究员Alfredo Pesoli发现，苹果建议所有用户尽快安装更新。",
+      "publishedAt": "2026-08-07T07:49:55+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/986/786.htm",
+      "subCategory": "安全漏洞"
+    },
+    {
+      "id": "tech-20260807-006",
+      "title": "为缓解 HBM 供应短缺，消息称英伟达考虑降低 Rubin Ultra GPU 配置",
+      "summary": "据The Information报道，为缓解HBM供应短缺，英伟达内部测试了至少3种降配版Rubin Ultra GPU方案，包括将HBM4E降为HBM4、堆叠层数从12层降至8层，显存容量可能从384GB降至192GB或256GB。",
+      "publishedAt": "2026-08-07T07:40:52+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/986/784.htm",
+      "subCategory": "芯片硬件"
+    },
+    {
+      "id": "tech-20260807-004",
+      "title": "三星发布 ISOCELL HPC 旗舰 2 亿像素传感器，首发 16-bit RAW 原生输出",
+      "summary": "三星发布旗舰图像传感器ISOCELL HPC，像素达2亿、尺寸1/1.3英寸，为首款支持16-bit RAW原生输出的手机CMOS传感器。新增DeepPix技术使满阱容量提升60%，并将单帧HDR功能扩展至1至4倍数字变焦全档位。",
+      "publishedAt": "2026-08-07T07:31:39+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/986/781.htm",
+      "subCategory": "芯片硬件"
+    },
+    {
+      "id": "tech-20260807-009",
+      "title": "小米汽车解答澎程系列涉水能力：全系标配涉水模式，电池达 IPX8+IPX9K 双防水等级",
+      "summary": "小米汽车回应澎程系列涉水能力咨询：N90 Max最大涉水深度750毫米，N70 Max为650毫米，电池达到IPX8与IPX9K双重防水等级。车辆配备双涉水雷达、悬架自动升高及舱内密封等27项防水强化措施。",
+      "publishedAt": "2026-08-07T07:09:25+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/986/778.htm",
+      "subCategory": "智能汽车"
+    },
     {
       "id": "tech-20260806-950",
       "title": "福特“性价比电动皮卡”Fathom官宣：车内空间比丰田RAV4大，28350美元起售",
@@ -15,6 +60,15 @@
       "subCategory": "智能汽车"
     },
     {
+      "id": "tech-20260807-005",
+      "title": "放弃 x86 独占：Proxmox VE 9.2 发布并首次支持 Arm64 架构",
+      "summary": "开源虚拟化平台Proxmox VE发布9.2版本，首次提供官方支持的Arm64架构版本，与x86版本共享代码库和生命周期。系统基于Debian 13.5、内核7.0，初期支持英伟达Grace Hopper及Vera平台，暂不支持树莓派等单板计算机。",
+      "publishedAt": "2026-08-06T23:23:12+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/986/768.htm",
+      "subCategory": "云计算"
+    },
+    {
       "id": "tech-20260806-951",
       "title": "特斯拉Terafab晶圆厂落地得克萨斯州，马斯克豪言“把尖端制造带回美国”",
       "summary": "SpaceX与特斯拉宣布联合投资168亿美元，在得克萨斯州格莱姆斯县建设Terafab先进AI芯片制造工厂，项目将整合逻辑芯片、存储芯片与先进封装产能于一体，以满足两家公司预期中超出当前全球芯片供给能力的庞大算力需求。",
@@ -22,6 +76,24 @@
       "source": "IT之家",
       "url": "https://www.ithome.com/0/986/766.htm",
       "subCategory": "芯片硬件"
+    },
+    {
+      "id": "tech-20260807-007",
+      "title": "中国广电完成行业首例 5G 700MHz\"全网通\"便携式基站接入验证，正式接入国家应急保障体系",
+      "summary": "中国广电宣布完成5G核心网与国家应急通信平台对接，验证行业首例5G 700MHz全网通便携式基站。设备重15至18公斤，可独立运行数小时，下载速率达50Mbps，支持超500路语音通话同时接入，单站覆盖半径3公里以上。",
+      "publishedAt": "2026-08-06T21:58:49+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/986/741.htm",
+      "subCategory": "网络基础设施"
+    },
+    {
+      "id": "tech-20260807-008",
+      "title": "人类首次从另一颗行星表面拍到地球掩星：NASA 毅力号拍到地球从火卫一背后\"消失\"的罕见影像",
+      "summary": "NASA公布毅力号火星车用Mastcam-Z相机在7月2日拍摄的影像，记录地球从火卫一背后消失的掩星现象，这是人类首次从另一颗行星表面观测到此类天象。拍摄时地球距离约3.14亿公里，画面中呈现为一个移动光点。",
+      "publishedAt": "2026-08-06T21:48:42+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/986/740.htm",
+      "subCategory": "航空航天"
     },
     {
       "title": "王腾回应小米SU7 Ultra泊车异常：小米汽车正加急分析",
@@ -58,6 +130,15 @@
       "url": "https://www.ithome.com/0/986/566.htm",
       "subCategory": "智能汽车",
       "id": "tech-20260806-705"
+    },
+    {
+      "id": "tech-20260807-001",
+      "title": "AMD Acquires Taalas to Advance Compute Solutions for Rapidly Growing AI Inference Market",
+      "summary": "AMD宣布已达成协议收购总部位于多伦多的AI推理芯片公司Taalas。该公司成立于2023年，专注优化推理数据流以降低算力与内存瓶颈。交易将把Taalas技术整合进AMD加速器路线图，具体收购金额未披露。",
+      "publishedAt": "2026-08-06T16:05:00-04:00",
+      "source": "AMD Investor Relations",
+      "url": "https://ir.amd.com/news-events/press-releases/detail/1296/amd-acquires-taalas-to-advance-compute-solutions-for-rapidly-growing-ai-inference-market",
+      "subCategory": "芯片硬件"
     },
     {
       "title": "台积电N2产能充足但DRAM短缺，苹果iPhone 18备货承压",
@@ -339,24 +420,6 @@
       "id": "tech-20260804-953"
     },
     {
-      "id": "tech-20260805-013",
-      "title": "TP-Link patches Omada ZTP flaws allowing hackers to breach networks",
-      "summary": "安全公司Forescout披露TP-Link Omada零接触配置系统中的15个漏洞，攻击者可利用硬编码密钥、竞态条件等缺陷劫持云控制器并渗透内网，TP-Link已发布部分补丁，超1800台控制器暴露公网。",
-      "publishedAt": "2026-08-04T18:18:00-04:00",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/tp-link-patches-omada-ztp-flaws-allowing-hackers-to-breach-networks/",
-      "subCategory": "安全漏洞"
-    },
-    {
-      "id": "tech-20260805-015",
-      "title": "Phishing service spoofs RingCentral to steal Microsoft 365 accounts",
-      "summary": "网络钓鱼即服务平台Greatness伪装RingCentral语音信箱通知邮件，利用平台白名单绕过安全过滤，诱导用户进入中间人钓鱼页面窃取微软365账户令牌，攻击者可在受害邮箱内潜伏两周以上。",
-      "publishedAt": "2026-08-04T17:45:00-04:00",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/phishing-service-spoofs-ringcentral-to-steal-microsoft-365-accounts/",
-      "subCategory": "安全漏洞"
-    },
-    {
       "title": "SpaceX 今年已采购价值 3.29 亿美元的特斯拉 Megapack 电池",
       "summary": "据财报数据，SpaceX 2026 年二季度采购特斯拉Megapack储能电池花赹2.95亿美元，全年至今合计3.29亿美元，主要用于xAI数据中心，为GPU运行提供备用电力和负荷平衡。",
       "publishedAt": "2026-08-05T05:07:00+08:00",
@@ -382,15 +445,6 @@
       "url": "https://ir.amd.com/news-events/press-releases/detail/1295/amd-reports-second-quarter-2026-financial-results",
       "subCategory": "芯片硬件",
       "id": "tech-20260804-950"
-    },
-    {
-      "id": "tech-20260805-014",
-      "title": "New XCSSET variant targets macOS devs via compromised Xcode projects",
-      "summary": "Palo Alto Networks旗下Unit 42发现新版本XCSSET恶意软件通过被篡改的Xcode工程文件感染macOS开发者，新增 Chrome 浏览器劫持与Telegram仿冒木马模块，用于窃取账号凭证与加密货币。",
-      "publishedAt": "2026-08-04T15:03:00-04:00",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/new-xcsset-variant-targets-macos-devs-via-compromised-xcode-projects/",
-      "subCategory": "安全漏洞"
     },
     {
       "id": "tech-20260804-104",
@@ -481,6 +535,33 @@
       "source": "中国新闻网",
       "url": "https://www.chinanews.com.cn/gn/2026/08-04/10671888.shtml",
       "subCategory": "航空航天"
+    },
+    {
+      "id": "tech-20260805-013",
+      "title": "TP-Link patches Omada ZTP flaws allowing hackers to breach networks",
+      "summary": "安全公司Forescout披露TP-Link Omada零接触配置系统中的15个漏洞，攻击者可利用硬编码密钥、竞态条件等缺陷劫持云控制器并渗透内网，TP-Link已发布部分补丁，超1800台控制器暴露公网。",
+      "publishedAt": "2026-08-04T18:18:00-04:00",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/tp-link-patches-omada-ztp-flaws-allowing-hackers-to-breach-networks/",
+      "subCategory": "安全漏洞"
+    },
+    {
+      "id": "tech-20260805-015",
+      "title": "Phishing service spoofs RingCentral to steal Microsoft 365 accounts",
+      "summary": "网络钓鱼即服务平台Greatness伪装RingCentral语音信箱通知邮件，利用平台白名单绕过安全过滤，诱导用户进入中间人钓鱼页面窃取微软365账户令牌，攻击者可在受害邮箱内潜伏两周以上。",
+      "publishedAt": "2026-08-04T17:45:00-04:00",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/phishing-service-spoofs-ringcentral-to-steal-microsoft-365-accounts/",
+      "subCategory": "安全漏洞"
+    },
+    {
+      "id": "tech-20260805-014",
+      "title": "New XCSSET variant targets macOS devs via compromised Xcode projects",
+      "summary": "Palo Alto Networks旗下Unit 42发现新版本XCSSET恶意软件通过被篡改的Xcode工程文件感染macOS开发者，新增 Chrome 浏览器劫持与Telegram仿冒木马模块，用于窃取账号凭证与加密货币。",
+      "publishedAt": "2026-08-04T15:03:00-04:00",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/new-xcsset-variant-targets-macos-devs-via-compromised-xcode-projects/",
+      "subCategory": "安全漏洞"
     },
     {
       "title": "俄罗斯联邦反垄断局起诉苹果公司，指控其未按要求在 iPhone / iPad 上预装本土 App",
@@ -643,51 +724,6 @@
       "url": "https://www.ithome.com/0/984/821.htm",
       "subCategory": "智能汽车",
       "id": "tech-20260802-204"
-    },
-    {
-      "title": "消息称Top 5手机厂商明年将全部采用1:1前置摄像头",
-      "summary": "据博主爆料，明年主流手机厂商将跟进1:1方形前置摄像头设计以提升数码变焦效果，该方案由苹果iPhone 17系列率先普及，搭载1800万像素方形前摄及“人物居中”技术，可减少横竖拍摄切换带来的画质损失。",
-      "publishedAt": "2026-08-02T23:35:20+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/984/820.htm",
-      "subCategory": "消费电子",
-      "id": "tech-20260802-203"
-    },
-    {
-      "title": "联想ThinkBook X 2026笔记本新增酷睛智创Ultra 7 256V版本",
-      "summary": "联想为ThinkBook X 2026笔记本新增酷睛智创Ultra 7 256V配置，16GB+1TB版本售价8999元，整机重约1.06公斤，配妄14英寸2.8K OLED屏幕，支持120Hz刷新率，并提供双硬盘扩展槽位。",
-      "publishedAt": "2026-08-02T22:47:11+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/984/817.htm",
-      "subCategory": "消费电子",
-      "id": "tech-20260802-205"
-    },
-    {
-      "title": "古尔曼：苹果计划将智能眼镜打造为健康健身平台",
-      "summary": "彭博社分析师马克·古尔曼透露，苹果计划将旗下即将推出的非AR智能眼镜打造为健康健身平台，但该功能预计不会随明年发布的第一代产品亮相。苹果此前曾为Vision Pro加入健康追踪功能，因头显重量和技术限制而搭置计划。",
-      "publishedAt": "2026-08-02T22:44:14+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/984/816.htm",
-      "subCategory": "XR-AR-VR",
-      "id": "tech-20260802-206"
-    },
-    {
-      "title": "谷歌Chrome拟默认屏蔽新标签页劫持类扩展",
-      "summary": "谷歌正在开发Chrome新安全功能，旨在阻止通过企业策略强制安装的恶意扩展劫持新标签页或篡改默认搜索引擎。该功能针对滥用“受组织管理”标识但实际无合法机构控制的恶意软件，管理员可按需手动关闭该防护。",
-      "publishedAt": "2026-08-02T22:17:16+08:00",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/google/google-chrome-may-soon-block-new-tab-hijacker-extensions-by-default/",
-      "subCategory": "互联网产品",
-      "id": "tech-20260802-201"
-    },
-    {
-      "title": "比亚迪方程豹发布新车预告：钐9将于下半年亮相",
-      "summary": "比亚迪旗下方程豹品牌发布“钐9”全尺寸SUV预告视频，官方表示钐9与方程S将于2026年下半年与消费者见面。据悉新车预计搭载2.0T涡轮增压发动机与双电机，综合功率550千瓦，峰值扭矩760牛·米。",
-      "publishedAt": "2026-08-02T21:33:20+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/984/808.htm",
-      "subCategory": "智能汽车",
-      "id": "tech-20260802-208"
     }
   ]
 }

@@ -3,8 +3,26 @@
   "slug": "ai",
   "title": "AI 与大模型",
   "description": "大模型、Agent、AI 编程、推理框架、开源模型的发布与落地。",
-  "updatedAt": "2026-08-07T00:20:00+08:00",
+  "updatedAt": "2026-08-07T09:05:00+08:00",
   "items": [
+    {
+      "id": "ai-20260807-001",
+      "title": "GPT-4.5 以来训练的最大模型，曝 OpenAI 最快下周推出 Astra AI 模型",
+      "summary": "据爆料，OpenAI内部代号mewfour的新预训练模型Astra最快下周发布，规模为GPT-4.5以来最大，此前内部版本曾解出10个数学猜想，定位为协调智能体完成长周期任务。",
+      "publishedAt": "2026-08-07T08:03:25+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/986/789.htm",
+      "subCategory": "大模型"
+    },
+    {
+      "id": "ai-20260807-002",
+      "title": "OpenAI：ChatGPT 免费用户默认模型升级为 GPT-5.6 Luna，Plus 和 Pro 用户更新聊天界面 GPT-5.6 Sol",
+      "summary": "OpenAI宣布ChatGPT免费及Go用户默认模型升级为GPT-5.6 Luna，下周起获无限文本对话及深度思考按钮；Plus和Pro用户聊天界面同步更新至GPT-5.6 Sol，新增回复深度调节滑块。",
+      "publishedAt": "2026-08-07T06:52:20+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/986/776.htm",
+      "subCategory": "AI应用"
+    },
     {
       "id": "ai-20260806-950",
       "title": "即日起，ChatGPT可以调用Adobe Photoshop、Lightroom来修图、设计了",
@@ -94,6 +112,15 @@
       "url": "https://www.qbitai.com/2026/08/467196.html",
       "subCategory": "大模型",
       "id": "ai-20260806-700"
+    },
+    {
+      "id": "ai-20260807-003",
+      "title": "Deep Agents vs LangChain vs LangGraph",
+      "summary": "LangChain工程师撰文对比开源Agent三层技术栈：Deep Agents为开箱即用框架，LangChain是可定制中间件的极简框架，LangGraph提供基于图的确定性运行时，建议多数开发者从Deep Agents入手。",
+      "publishedAt": "2026-08-06",
+      "source": "LangChain Blog",
+      "url": "https://www.langchain.com/blog/deep-agents-vs-langchain-vs-langgraph",
+      "subCategory": "Agent"
     },
     {
       "id": "ai-20260805-502",
@@ -697,33 +724,6 @@
       "source": "量子位",
       "url": "https://www.qbitai.com/2026/07/463217.html",
       "subCategory": "具身智能"
-    },
-    {
-      "id": "ai-20260730-005",
-      "title": "\"接力跑\"盘活全国算力，PD分离终于破局：延迟砌半、成本直降近40%！",
-      "summary": "无问芯穹发布跨集群异构推理架构PDD完整技术报告，将PD分离链路解构为P-RLD-MD三级架构，实测显示首Token延迟降低51.5%，单Token成本降低37.5%。",
-      "publishedAt": "2026-07-30T14:14:43+08:00",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/07/463012.html",
-      "subCategory": "推理框架"
-    },
-    {
-      "id": "ai-20260730-006",
-      "title": "传奇AlphaFold团队全员解散！诺奖得主投奔Anthropic，资源转向Gemini",
-      "summary": "据《金融时报》报道，Google DeepMind解散AlphaFold团队，成员分流至Gemini、AI编程、基因组等项目，诺奖得主John Jumper及另两位核心成员离职加入Anthropic。",
-      "publishedAt": "2026-07-30T14:14:26+08:00",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/07/463123.html",
-      "subCategory": "大模型"
-    },
-    {
-      "id": "ai-20260730-007",
-      "title": "一年连融三轮数亿元！字节+清华姚班，重构企业软件工程",
-      "summary": "企业软件工程AI Agent基础设施公司词元无限完成新一轮融资，由临芯投资领投，创始人杨萍此前主导字节MarsCode与Trae，公司提出结果即服务商业模式服务企业级AI编程场景。",
-      "publishedAt": "2026-07-30T14:10:13+08:00",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/07/463013.html",
-      "subCategory": "AI编程"
     }
   ]
 }

@@ -3,8 +3,26 @@
   "slug": "trade",
   "title": "外贸资讯",
   "description": "亚马逊、TikTok Shop、阿里国际站、Shopify 等平台政策与跨境电商市场、独立站、物流支付、关税法规、选品趋势。",
-  "updatedAt": "2026-08-07T00:20:00+08:00",
+  "updatedAt": "2026-08-07T09:05:00+08:00",
   "items": [
+    {
+      "id": "trade-20260807-001",
+      "title": "TikTok美区潘多拉手链日销2万单 义乌8元成本卖8美元差价超7倍",
+      "summary": "TikTok Shop美区潘多拉风格串珠手链持续畅销，一款吊坠手链28天售出3.16万件，GMV达25.34万美元，义乌产地成本约7-8元人民币，售价8美元。",
+      "publishedAt": "2026-08-06T17:36:07+08:00",
+      "source": "出海网",
+      "url": "https://www.chwang.com/news/208529885918",
+      "subCategory": "选品趋势"
+    },
+    {
+      "id": "trade-20260807-002",
+      "title": "亚马逊AI卖家助手新增Buy Box诊断 单次可查10个ASIN失分原因",
+      "summary": "亚马逊AI卖家助手新增Buy Box诊断功能，卖家可一次查询最多10个ASIN，从可售性、价格、配送速度、区域覆盖四个维度分析未获得Buy Box的原因。",
+      "publishedAt": "2026-08-06T17:33:41+08:00",
+      "source": "出海网",
+      "url": "https://www.chwang.com/news/208529824727",
+      "subCategory": "平台动态"
+    },
     {
       "id": "trade-20260806-950",
       "title": "亚马逊突然查“身份”！一批卖家收到亚马逊邮件，你收到了吗？",
@@ -67,6 +85,78 @@
       "url": "https://www.chwang.com/news/208524025171",
       "subCategory": "物流仓储",
       "id": "trade-20260806-702"
+    },
+    {
+      "id": "trade-20260807-006",
+      "title": "义乌圣诞用品出口增长20.4% 世界杯带动体育用品出口升温",
+      "summary": "义乌圣诞用品出口今年以来达214亿元，同比增长20.4%；受2026年北美世界杯带动，义乌体育用品出口同期增长38.5%，对美加墨出口达55亿元。",
+      "publishedAt": "2026-08-06T09:42:00+08:00",
+      "source": "AMZ123跨境导航",
+      "url": "https://www.amz123.com/kx/VjqbZ7yP",
+      "subCategory": "海关数据"
+    },
+    {
+      "id": "trade-20260807-007",
+      "title": "美客多Q2营收达101.69亿美元同比增长50% GMV突破219亿美元",
+      "summary": "美客多公布2026年第二季度财报，净收入及金融收入达101.69亿美元，同比增长50%，GMV突破219亿美元，但受物流、支付等投入增加影响，营业利润下滑17%。",
+      "publishedAt": "2026-08-06T09:31:00+08:00",
+      "source": "AMZ123跨境导航",
+      "url": "https://www.amz123.com/kx/oMWb2JRI",
+      "subCategory": "新兴市场"
+    },
+    {
+      "id": "trade-20260807-008",
+      "title": "Shopify Q2营收同比增长34% 净利润上涨66% GMV突破1155亿美元创新高",
+      "summary": "Shopify公布2026年第二季度财报，营收同比增长34%至35.83亿美元，净利润增长65.8%至15.02亿美元，GMV达1155.67亿美元，同比增长31.5%。",
+      "publishedAt": "2026-08-06T09:31:00+08:00",
+      "source": "AMZ123跨境导航",
+      "url": "https://www.amz123.com/kx/Tr1wIkUu",
+      "subCategory": "独立站"
+    },
+    {
+      "id": "trade-20260807-003",
+      "title": "印尼电商税将推迟至11月1日实施",
+      "summary": "印尼电商平台代扣所得税新规原定8月1日实施，现推迟至11月1日，Tokopedia、Shopee、Lazada、Blibli已完成系统调整，此前误扣税款将全额退还卖家。",
+      "publishedAt": "2026-08-06T09:21:00+08:00",
+      "source": "AMZ123跨境导航",
+      "url": "https://www.amz123.com/kx/1uQG1cnH",
+      "subCategory": "关税法规"
+    },
+    {
+      "id": "trade-20260807-004",
+      "title": "Etsy裁减12%员工并启动20亿美元股票回购计划",
+      "summary": "Etsy向美国证券交易委员会提交文件，宣布裁减约12%员工，主要涉及产品和工程部门，同时启动最高20亿美元的股票回购计划，被裁员工可获至少16周遣散费。",
+      "publishedAt": "2026-08-06T09:21:00+08:00",
+      "source": "AMZ123跨境导航",
+      "url": "https://www.amz123.com/kx/bzfp5L4q",
+      "subCategory": "平台动态"
+    },
+    {
+      "id": "trade-20260807-005",
+      "title": "Wildberries开学季大促8—9月开启 多类目商品迎增长窗口",
+      "summary": "Wildberries开学季促销于8-9月展开，家电、家居园艺、DIY用品、服饰及3C数码等品类迎增长窗口，其中固态硬盘、主板等电脑硬件销量增幅明显。",
+      "publishedAt": "2026-08-06T09:21:00+08:00",
+      "source": "AMZ123跨境导航",
+      "url": "https://www.amz123.com/kx/05AK3JaN",
+      "subCategory": "新兴市场"
+    },
+    {
+      "id": "trade-20260807-009",
+      "title": "白俄110亿卢布物流项目提前竣工 Wildberries打造中白工业园备用仓储体系",
+      "summary": "Wildberries母公司RWB提前完成白俄罗斯中白工业园11亿卢布物流项目建设，仓库部分已于4月22日试运营，同时在哈萨克斯坦租赁4.6万平方米仓库作为备用节点。",
+      "publishedAt": "2026-08-06T09:11:00+08:00",
+      "source": "AMZ123跨境导航",
+      "url": "https://www.amz123.com/kx/v8mMApV1",
+      "subCategory": "物流仓储"
+    },
+    {
+      "id": "trade-20260807-010",
+      "title": "Wildberries否认关键物流设施外迁传闻",
+      "summary": "Wildberries母公司RWB通过塔斯社否认关键物流设施外迁传闻，称相关说法与实际业务流程不符，强调核心物流体系仍位于俄罗斯境内。",
+      "publishedAt": "2026-08-06T09:11:00+08:00",
+      "source": "AMZ123跨境导航",
+      "url": "https://www.amz123.com/kx/qO7jcNxi",
+      "subCategory": "物流仓储"
     },
     {
       "id": "trade-20260805-505",
@@ -634,96 +724,6 @@
       "source": "AMZ123",
       "url": "https://www.amz123.com/kx/09cwo5fJ",
       "subCategory": "物流仓储"
-    },
-    {
-      "title": "尼泊尔上线Chynabazar.com打造中国货直采直送平台",
-      "summary": "尼泊尔跨境直购平台Chynabazar.com上线，整合采购、进口、仓储及配送全流程，直接向本地消费者供应中国制造商品，首期覆盖电子、服饰、生活方式及健康美妆四大品类。平台采用线上直采加线下体验模式，7月29日已在拉利特布尔开设首家线下门店。",
-      "publishedAt": "2026-08-01T02:49:00+08:00",
-      "source": "AMZ123跨境导航",
-      "url": "https://www.amz123.com/kx/H8ts2651",
-      "subCategory": "新兴市场",
-      "id": "trade-20260802-102"
-    },
-    {
-      "title": "美集体诉讼指控Google向中国Temu、百度泄露敏感数据",
-      "summary": "美国一起集体诉讼指控谷歌通过广告技术和追踪系统收集用户IP地址、设备标识符等信息，并将敏感数据传输至Temu、百度等中国企业，涉嫌违反美国自2025年起实施的数据传输限制政策及加州通信隐私法，原告要求损害赔偿及禁令救济，案件将由陵审团审理。",
-      "publishedAt": "2026-08-01T02:39:00+08:00",
-      "source": "AMZ123跨境导航",
-      "url": "https://www.amz123.com/kx/2ygl4Ves",
-      "subCategory": "平台动态",
-      "id": "trade-20260802-103"
-    },
-    {
-      "id": "trade-20260801-r006",
-      "title": "特文特运河因旱情停航 赫伯罗特征收临时附加费",
-      "summary": "荷兰东部特文特运河因持续旱情导致埃弗德船闸系统停运，驳船运输受阻。赫伯罗特自7月25日起对亨厅洛至阿尔梅洛内陆集装箱码头间驳船运输征收每标箱178欧元单程临时附加费，叠加原有运费及低水位附加费，持续时间视航道恢复情况而定。",
-      "publishedAt": "2026-08-01T02:18:00+08:00",
-      "source": "AMZ123",
-      "url": "https://www.amz123.com/kx/jKkw6wPl",
-      "subCategory": "物流仓储"
-    },
-    {
-      "id": "trade-20260801-r005",
-      "title": "印尼八大电商平台8月起代扣0.5%所得税",
-      "summary": "自8月1日起，Shopee、Tokopedia、Lazada、Blibli等印尼主要电商平台统一执行PPh22所得税代扣新政，按卖家总销售额的0.5%代扣，不含增值税及奢侈品税。业内指出该税负对不同利润率品类影响差异明显，叠加平台佣金与物流营销成本，中小卖家利润空间或被压缩。",
-      "publishedAt": "2026-08-01T02:18:00+08:00",
-      "source": "AMZ123",
-      "url": "https://www.amz123.com/kx/98ysMGlX",
-      "subCategory": "关税法规"
-    },
-    {
-      "id": "trade-20260801-r007",
-      "title": "Shopee马来西亚站调整本土Marketplace卖家佣金费率",
-      "summary": "Shopee马来西亚站宣布多项佣金调整，8月14日起按品类更新费率表，教育部KPM目录内教材类目佣金固定下调3%；8月1日起新卖家首次上架满120天或订单滥200单后即需缴纳佣金，此前免佣保护期结束，但逸百个民生必需品类目仍维持零/低佣政策。",
-      "publishedAt": "2026-08-01T02:08:00+08:00",
-      "source": "AMZ123",
-      "url": "https://www.amz123.com/kx/FuZAxsw0",
-      "subCategory": "平台政策"
-    },
-    {
-      "id": "trade-20260801-r001",
-      "title": "卖家注意！多个货代紧急通知，大批货物恐受影响",
-      "summary": "欧洲南部持续高温野火迫使法国阿卡隨、西班牙瓜达拉哈蒂部分公路铁路暂停，GLS、DHL Freight等货代预警交付延迟超七个工作日；同时美国海关加强出货前二次查验，单证信息不符将被扣留，建议卖家预留缓冲期并核实合规单据。",
-      "publishedAt": "2026-07-31T18:01:00+08:00",
-      "source": "雨果网",
-      "url": "https://www.cifnews.com/article/187865",
-      "subCategory": "物流仓储"
-    },
-    {
-      "id": "trade-20260731-m001",
-      "title": "TikTok Shop英国直播年增55%砌30万中小商家",
-      "summary": "TikTok Shop在多个市场展现强劲增长，英国站聚集超30万中小企业，直播销售额年增55%，日均超6000场直播；新加坡站GMV桂1.7倍，月活买家塂1.6倍；越南站2025年GMV同比增66%，买家数增36%，商家数增42%，平台提供补贴支持农产品销售。",
-      "publishedAt": "2026-07-31T17:35:21+08:00",
-      "source": "出海网",
-      "url": "https://www.chwang.com/news/208312434434",
-      "subCategory": "平台动态"
-    },
-    {
-      "id": "trade-20260731-m002",
-      "title": "eBay 12亿美元收购Depop 剑指Z世代二手时尚市场",
-      "summary": "eBay正式完成对伦敦二手时尚平台Depop的12亿美元收购，该平台成立于2011年，拥5630万注册用户，覆盖近150个国家，2025年GMV达10亿美元，90%活跃买家年龄在34岁以下，交易完成后Depop将保持独立运营。",
-      "publishedAt": "2026-07-31T17:30:41+08:00",
-      "source": "出海网",
-      "url": "https://www.chwang.com/news/208312316756",
-      "subCategory": "平台动态"
-    },
-    {
-      "id": "trade-20260801-a002",
-      "title": "印尼BTN银行推进BNPL业务",
-      "summary": "印尼国有住房抵押贷款银行BTN计划年内推出\"先买后付\"消费金融服务，正同步开发系统并向金融服务管理局及央行申请监管批准，采用差异化信用额度评估方式。",
-      "publishedAt": "2026-07-31T17:28:23+08:00",
-      "source": "出海网",
-      "url": "https://www.chwang.com/news/208312258796",
-      "subCategory": "跨境支付"
-    },
-    {
-      "id": "trade-20260731-m003",
-      "title": "越南北宁税务大清查：60万\"僵尸户\"被公示 责令限期补办注销或复业",
-      "summary": "越南北宁省税务局依据总局决定，开展税务编码清理行动，针对\"已停业未注销\"及\"实地查无经营\"的异常主体进行专项整治，已完成745户税务注销，推动75户主体恢复或注销编码。",
-      "publishedAt": "2026-07-31T17:25:29+08:00",
-      "source": "出海网",
-      "url": "https://www.chwang.com/news/208312185765",
-      "subCategory": "关税法规"
     }
   ]
 }
