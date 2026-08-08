@@ -3,8 +3,89 @@
   "slug": "tech",
   "title": "科技新闻",
   "description": "前沿科技、互联网产品、芯片硬件、开源生态。",
-  "updatedAt": "2026-08-08T16:40:00+08:00",
+  "updatedAt": "2026-08-08T23:10:00+08:00",
   "items": [
+    {
+      "id": "tech-20260808-900",
+      "title": "vivo新机现身Geekbench跑分库，搭载联发科天玑7500芯片",
+      "summary": "vivo型号为V2603A的新机现身Geekbench跑分库，搭载联发科天玑7500芯片（MT6881），4×2.0GHz+4×2.6GHz架构，配Mali-G625 MC2 GPU，单核1227分、多核3401分，运行Android 16，配12GB内存与44W快充，已过3C认证，尚未确定归属品牌。",
+      "publishedAt": "2026-08-08T22:55:33+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/987/447.htm",
+      "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260808-901",
+      "title": "SpaceX\"星落\"飞船将搭载32个太空制药实验室",
+      "summary": "Redwire子公司SpaceMD与SpaceX合作，计划2028年通过\"星落\"飞船一次搭载最多32个PIL-BOX太空制药实验舱，在微重力环境下培育更大更均匀的药物晶体。此前SpaceMD已向国际空间站送出54个PIL-BOX装置，成功结晶45种化合物，包括胰岛素及癌症相关分子。",
+      "publishedAt": "2026-08-08T22:12:40+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/987/445.htm",
+      "subCategory": "航空航天"
+    },
+    {
+      "id": "tech-20260808-902",
+      "title": "Cloudflare：AI机器人流量已超越人类，预计五年后达1:1000",
+      "summary": "Cloudflare在2026年第二季度财报电话会议中披露，AI机器人流量已于5月超越人类流量，早于此前预测的2027年。公司预计五年内非人类流量可能达到人类流量的1000倍，部分流量涉及网络攻击或内容抓取。当季公司营收6.96亿美元，净亏损2.057亿美元。",
+      "publishedAt": "2026-08-08T21:38:40+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/987/438.htm",
+      "subCategory": "网络基础设施"
+    },
+    {
+      "id": "tech-20260808-903",
+      "title": "GNOME设计团队成员获德国主权技术机构资金支持",
+      "summary": "德国主权技术机构（STA）任命GNOME设计团队成员Philipp Sauberzweig为该机构研究员，未来两年为其提供资金支持，协助GNOME开发者进行设计反馈、制作界面原型并统一设计规范，以提升桌面环境的整体设计语言。",
+      "publishedAt": "2026-08-08T20:58:36+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/987/434.htm",
+      "subCategory": "开源生态"
+    },
+    {
+      "id": "tech-20260808-904",
+      "title": "阿维塔07L上市：华为乾崑智驾ADS 5+鸿蒙座舱，限时21.99万元起",
+      "summary": "阿维塔07L五座SUV正式上市，搭载华为乾崑智驾ADS 5与鸿蒙座舱，配备896线激光雷达，支持巡航代驾（RCA），限时权益价21.99万元起。车型提供单电机与三电机版本，零百加速最快3.7秒，搭载宁德时代电池，续航最高725公里。",
+      "publishedAt": "2026-08-08T19:50:58+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/987/429.htm",
+      "subCategory": "智能汽车"
+    },
+    {
+      "id": "tech-20260808-905",
+      "title": "Linux 7.3内核初步合并M3 Pro/Max/Ultra设备树支持",
+      "summary": "Linux内核开发者为苹果M3 Pro、Max、Ultra芯片准备了初步支持，相关设备树代码将合并进即将发布的Linux 7.3版本，使其达到此前Linux 7.2中标准版M3的支持水平，但GPU硬件加速等关键功能仍未完成，用户暂需依赖Asahi Linux获得更好体验。",
+      "publishedAt": "2026-08-08T18:57:48+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/987/418.htm",
+      "subCategory": "操作系统"
+    },
+    {
+      "id": "tech-20260808-906",
+      "title": "长城魏牌V8X大五座旗舰SUV定档8月14日发布",
+      "summary": "长城汽车魏牌宣布V8X大五座旗舰SUV将于8月14日19:30发布，车身尺寸5125×2025×1821mm，轴距3050mm，搭载\"超级Hi4\"混动系统，满电零百加速4.5秒，综合续航里程达1659公里，支持800V+超快充。",
+      "publishedAt": "2026-08-08T18:34:16+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/987/411.htm",
+      "subCategory": "智能汽车"
+    },
+    {
+      "id": "tech-20260808-907",
+      "title": "第二届世界人形机器人运动会8月22日在京开赛",
+      "summary": "第二届世界人形机器人运动会将于8月22日至26日在北京国家速滑馆举行，设50个竞技项目，其中百米赛跑升级为全自主模式，新增乒乓球与自由搏击等项目，并设酒店服务、图书馆管理等九类场景赛，门票最低98元。",
+      "publishedAt": "2026-08-08T17:36:05+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/987/380.htm",
+      "subCategory": "机器人"
+    },
+    {
+      "id": "tech-20260808-908",
+      "title": "黑客攻破TrueConf服务器，植入木马化客户端安装包",
+      "summary": "Head Mare黑客组织利用TrueConf视频会议服务器未修复漏洞，通过默认开放且无需认证的TCP 4307端口入侵，将官方客户端安装包替换为含PhantomCore后门的木马版本，并投放通过OneDrive账号接收指令的PhantomGraph后门，厂商已于6月18日发布补丁。",
+      "publishedAt": "2026-08-08T10:16:00-04:00",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-breach-trueconf-to-trojanize-client-installers-with-backdoors/",
+      "subCategory": "安全漏洞"
+    },
     {
       "title": "鸿蒙智行首款科技豪华硬派 SUV 享界 G9 预售 72 小时订单突破 1.5 万台，43.98 万元起", "summary": "鸿蒙智行硬派SUV享界G9开启预售，72小时内订单突破1.5万台，起售价43.98万元。新车车长5377毫米、轴距3160毫米，全系标配华为乾崤智驾ADS 5高阶版及智擎双电机四驱系统，座舱配备宰宇三联屏。", "publishedAt": "2026-08-08T16:42:30+08:00", "source": "IT之家", "url": "https://www.ithome.com/0/987/372.htm", "subCategory": "智能汽车"},
     {"title": "小米 REDMI K100 Pro 系列真机官宣进驻线下门店，还有一款浅蓝配色", "summary": "小米REDMI K100 Pro系列真机已进驻线下门店，新增一款浅蓝配色。系列旗舰K100 Pro Max将于8月11日晚7点发布，配备2亿像素主摄、5倍长焦支持100倍变焦，185Hz屏幕刷新率，9070mAh电池及100W有线快充，搭载骏龍8至尊版处理器。", "publishedAt": "2026-08-08T16:35:38+08:00", "source": "IT之家", "url": "https://www.ithome.com/0/987/370.htm", "subCategory": "消费电子"},
@@ -73,18 +154,6 @@
     {"id": "tech-20260805-509", "title": "AYANEO 推出复古掘机 KONKR Pocket Advance：联发科 Helio G90T 芯片，首发 499 元起", "summary": "AYANEO推出复古掘机KONKR Pocket Advance，搭载联发科Helio G90T芯片，配3.5英寸960×640分辨率LCD屏幕与4000mAh电池，3GB+32GB版本首发价499元。", "publishedAt": "2026-08-05T22:48:30+08:00", "source": "IT之家", "url": "https://www.ithome.com/0/986/247.htm", "subCategory": "消费电子"},
     {"id": "tech-20260805-510", "title": "CrowdStrike 推出国际 AI 安全挑战赛：“策反”智能体，总奖金 10 万美元", "summary": "CrowdStrike联合AWS推出国际AI安全挑战赛，参赛者需通过提示注入等手段策反AI智能体使其泄露信息或执行未授权操作，赛事分三个阶段进行，总奖金10万美元，8月31日开赛。", "publishedAt": "2026-08-05T21:37:43+08:00", "source": "IT之家", "url": "https://www.ithome.com/0/986/234.htm", "subCategory": "安全漏洞"},
     {"id": "tech-20260805-511", "title": "长城 H10 方盒子 SUV 上市，限时换新价 20.18 万-22.38 万元", "summary": "长城H10方盒子SUV上市，限时换新价20.18万至22.38万元，搭载1.5T发动机+双电机Hi4混动系统，综合续航1404公里，标酑27个智驾传感器与激光雷达的咖啡领航3高阶智驾系统。", "publishedAt": "2026-08-05T21:11:14+08:00", "source": "IT之家", "url": "https://www.ithome.com/0/986/230.htm", "subCategory": "智能汽车"},
-    {"id": "tech-20260805-512", "title": "Anthropic 首次确认自研 AI 芯片：专为 Claude 定制，公司正在组建团队", "summary": "Anthropic首次确认组建内部芯片团队，为Claude定制专用AI芯片，采用硬件与模型协同设计思路，同时仍将使用AWS、谷歌、英伟达、AMD等厂商硬件，此前曾与三星探讨代工合作。", "publishedAt": "2026-08-05T21:00:44+08:00", "source": "IT之家", "url": "https://www.ithome.com/0/986/228.htm", "subCategory": "芯片硬件"},
-    {"id": "tech-20260805-001", "title": "过去 1 年用户流失约 22%：美国 GEO 卫星服务商 Hughes 申请破产", "summary": "美国卫星宽带服务商休斯（Hughes）因约15亿美元债务到期未能清偿，于8月3日申请第11章破产保护；公司过去一年用户流失约22%至64.1万，受SpaceX等低轨卫星竞争影响，计划转向企业与政府客户。", "publishedAt": "2026-08-05T08:35:41+08:00", "source": "IT之家", "url": "https://www.ithome.com/0/985/769.htm", "subCategory": "网络基础设施"},
-    {"id": "tech-20260805-002", "title": "苏奉丰预估 2027 年 AMD 数据中心业务营收翻倍", "summary": "AMD在2026年二季度财报电话会上，首席执行官苏奉丰预计公司数据中心业务营收将于2027年实现翻倍；当季数据中心营收内 67亿美元，同比增长107%，服务器CPU营收连续五个季度创纪录。", "publishedAt": "2026-08-05T08:22:15+08:00", "source": "IT之家", "url": "https://www.ithome.com/0/985/766.htm", "subCategory": "芯片硬件"},
-    {"id": "tech-20260805-003", "title": "日产推出电动露营车 Interstar-e Relax：续航 408 英里，可容 4 人居住", "summary": "日产与德国房车厂商Eifelland合作推出电动房车Interstar-e Relax，基于Interstar-e电动厢式车打造，配妇87千瓦时电池，续航约657公里，可供四人居住，售价8.99万欧元。", "publishedAt": "2026-08-05T08:21:40+08:00", "source": "IT之家", "url": "https://www.ithome.com/0/985/765.htm", "subCategory": "智能汽车"},
-    {"id": "tech-20260805-004", "title": "台电推出 2026 款 P30T 平板：搠10.1 英寸 800P 面板，展锐 T7250 + 3G + 128G 售 599 元", "summary": "台电在京东上架2026款P30T平板电脑，搭载紫光展锐T7250处理器、3GB内存、128GB存储，配妉10.1英寸1280×800分辨率120Hz显示屏与6000毫安时电池，售价599元。", "publishedAt": "2026-08-05T08:16:56+08:00", "source": "IT之家", "url": "https://www.ithome.com/0/985/764.htm", "subCategory": "消费电子"},
-    {"id": "tech-20260805-010", "title": "谷歌 Pixel 11 手机官方营销素材流出：相机模组更纣薄、30 小时续航", "summary": "谷歌Pixel 11及Pixel 11 Pro Fold官方营销素材于8月13日发布会前流出，显示新机采用更薄相机模组、续航达30小时、5分钟可充至55%电量，支持30倍数码变焦，8月12日开启预订。", "publishedAt": "2026-08-05T08:00:59+08:00", "source": "IT之家", "url": "https://www.ithome.com/0/985/759.htm", "subCategory": "消费电子"},
-    {"id": "tech-20260805-005", "title": "马斯克称 SpaceX 星舰第 14 次试飞将尝试回收高约 52 米的上面级", "summary": "马斯克在SpaceX首次季度财报电话会上表示，星舰第14次试飞计划于8月下旬进行，将首次尝试用发射塔机械臂捕获约52米高的上面级，并首次向轨道部署实际载荷。", "publishedAt": "2026-08-05T08:00:30+08:00", "source": "IT之家", "url": "https://www.ithome.com/0/985/758.htm", "subCategory": "航空航天"},
-    {"id": "tech-20260805-006", "title": "消息称内存涨价潮促使路由器制造商更新换代降本增效，加速推进 Wi-Fi 8 普及过程", "summary": "市场研究机构Dell'Oro Group分析称，内存价格上涨促使路由器厂商加快产品换代以降低成本，多家厂商已提前推出Wi-Fi 8新品抢占市场，相关趋势预计将持续至少三年。", "publishedAt": "2026-08-05T07:58:26+08:00", "source": "IT之家", "url": "https://www.ithome.com/0/985/757.htm", "subCategory": "网络基础设施"},
-    {"id": "tech-20260805-007", "title": "消息称微软 Win11 系统 XBOX 360 游戏模拟器将整合在 XBOX App 中，预计明后年上线", "summary": "消息称微软计划将Xbox 360游戏模拟功能整合进Windows 11版Xbox App，游戏发行商可自主选择是否收录旗下老游戏及定价方式，该功能预计2027至2028年上线，此前已支持初代Xbox游戏。", "publishedAt": "2026-08-05T07:51:00+08:00", "source": "IT之家", "url": "https://www.ithome.com/0/985/756.htm", "subCategory": "操作系统"},
-    {"id": "tech-20260805-008", "title": "一加手机退出北美市场，当地官网最后一批手机售羄", "summary": "一加手机正式退出北美市场，美国官网一加15、1515R系列显示缺货，平板与手表产品已下架，加拿大官网库存售羄，墨西哥官网取消购买入口，此前官方称将聚焦中国市场。", "publishedAt": "2026-08-05T07:44:14+08:00", "source": "IT之家", "url": "https://www.ithome.com/0/985/754.htm", "subCategory": "消费电子"},
-    {"id": "tech-20260805-009", "title": "直指特斯拉纯视觉路线，Waymo CEO 多尔戈夫阐释多传感器融合自动驾驶技术逻辑", "summary": "Waymo联合CEO多尔戈夫撒文阐述多传感器融合方案的必要性，称仅依赖摄像头的弱感知方案难以达到Robotaxi所需的安全可靠水平，被视为对特斯拉纯视觉自动驾驶路线的回应。", "publishedAt": "2026-08-05T07:35:23+08:00", "source": "IT之家", "url": "https://www.ithome.com/0/985/751.htm", "subCategory": "智能汽车"},
-    {"title": "消息称苹果 iPhone 20 周年或迎设计革新：四曲面屏与更大尺寸", "summary": "据爆料，苹果计划为 2027 年 iPhone 20 周年机型带来设计革新，Pro 系列或采用近乎无边框的四曲面屏并取消灵动岛，屏幕尺寸从 6.3/6.9 英寸增至 6.4/7.0 英寸，机身相应加大。", "publishedAt": "2026-08-05T07:10:59+08:00", "source": "IT之家", "url": "https://www.ithome.com/0/985/743.htm", "subCategory": "消费电子", "id": "tech-20260804-952"},
-    {"title": "SpaceX 公布首份财报：2026 年二季度营收 78 亿美元，同比增 92%", "summary": "SpaceX 上市后首次公布财报，2026 年二季度营收 78 亿美元，同比增长 92%，净亏损收窄至 5.41 亿美元。航天、连接、AI 三大板块中，连接（星链）业务贡献 16.6 亿美元营业利润，AI 业务仍亏损 12.6 亿美元。", "publishedAt": "2026-08-05T06:54:00+08:00", "source": "IT之家", "url": "https://www.ithome.com/0/985/738.htm", "subCategory": "航空航天", "id": "tech-20260804-951"}
+    {"id": "tech-20260805-512", "title": "Anthropic 首次确认自研 AI 芯片：专为 Claude 定制，公司正在组建团队", "summary": "Anthropic首次确认组建内部芯片团队，为Claude定制专用AI芯片，采用硬件与模型协同设计思路，同时仍将使用AWS、谷歌、英伟达、AMD等厂商硬件，此前曾与三星探讨代工合作。", "publishedAt": "2026-08-05T21:00:44+08:00", "source": "IT之家", "url": "https://www.ithome.com/0/986/228.htm", "subCategory": "芯片硬件"}
   ]
 }
