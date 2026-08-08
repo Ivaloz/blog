@@ -3,7 +3,7 @@
   "slug": "policy",
   "title": "政策信息",
   "description": "国家与地方政策、监管动态、产业扶持与合规要求。",
-  "updatedAt": "2026-08-08T10:15:00+08:00",
+  "updatedAt": "2026-08-08T16:40:00+08:00",
   "items": [
     {
       "id": "policy-20260808-002",
@@ -15,6 +15,24 @@
       "subCategory": "产业政策"
     },
     {
+      "title": "中国人民银行与马来西亚国家银行续签双边本币互换协议",
+      "summary": "经国务院批准，中国人民银行与马来西亚国家银行续签双边本币互换协议，规模由1800亿元人民币/1100亿林吉特扩大至2200亿元人民币/1300亿林吉特，协议有效期五年，经双方同意可以展期。",
+      "publishedAt": "2026-08-07T17:00:01+08:00",
+      "source": "中国人民银行",
+      "url": "https://www.pbc.gov.cn/goutongjiaoliu/113456/113469/2026080708481628617/index.html",
+      "subCategory": "金融监管",
+      "id": "policy-20260808-004"
+    },
+    {
+      "title": "贯彻落实公平竞争审查制度 纵深推进全国统一大市场建设\"十大案例\"专题新闻发布会实录",
+      "summary": "市场监管总局举行专题新闻发布会，发布公平竞争审查制度\"十大案例\"，通报2026年上半年全国审查政策措施超3万件、纠正约6600件，浙江建成数字化审查平台，四川设立308个专职审查岗位。",
+      "publishedAt": "2026-08-07T16:30:00+08:00",
+      "source": "国家市场监督管理总局",
+      "url": "https://www.samr.gov.cn/xw/xwfbt/art/2026/art_dd2bd190b2344d51b2ebc2fda65dda30.html",
+      "subCategory": "反垄断",
+      "id": "policy-20260808-003"
+    },
+    {
       "id": "policy-20260808-001",
       "title": "国家互联网信息办公室关于《大型个人信息处理者个人信息保护规定（征求意见稿）》公开征求意见的通知",
       "summary": "国家网信办就《大型个人信息处理者个人信息保护规定（征求意见稿）》公开征求意见，整合此前两份大型网络平台个人信息保护相关征求意见稿，明确处理1000万人以上个人信息等三类认定标准，公众反馈截止9月7日。",
@@ -22,6 +40,15 @@
       "source": "新华网",
       "url": "https://www.news.cn/politics/20260807/e990e3956d174041842ef9d62e98d2e5/c.html",
       "subCategory": "数据安全"
+    },
+    {
+      "title": "FTC Ditches 'Disparate Impact'",
+      "summary": "美国联邦贸易委员会宣布不再以\"差异性影响\"或\"不公平歧视\"理论提起执法，认为该理论缺乏法定授权依据，并据此调整了对Napleton、Passport Auto Group、Coulter Motor Company三家汽车经销商此前执法案件的合规要求，投票以2比0通过。",
+      "publishedAt": "2026-08-07",
+      "source": "Federal Trade Commission",
+      "url": "https://www.ftc.gov/news-events/news/press-releases/2026/08/ftc-ditches-disparate-impact",
+      "subCategory": "海外政策",
+      "id": "policy-20260808-005"
     },
     {
       "id": "policy-20260807-001",
@@ -697,33 +724,6 @@
       "source": "商务部",
       "url": "https://www.mofcom.gov.cn/zwgk/zcfb/art/2026/art_2c9a32aa73bf4f5ea80ffa83e62fb259.html",
       "subCategory": "跨境贸易"
-    },
-    {
-      "id": "policy-20260725-005",
-      "title": "英国首相伯纳姆同工商界团体举行首次通话 提出对企业新合作方案",
-      "summary": "英国首相安迪·伯纳姆同工商联合会、英国商会、小企业联合会等团体举行首次通话，提出降低企业成本、改革营业房产税、下放决策权，并宣布为酒吧、俱乐部及音乐场所提供20%减免。",
-      "publishedAt": "2026-07-24",
-      "source": "GOV.UK",
-      "url": "https://www.gov.uk/government/news/pm-puts-new-offer-on-the-table-to-businesses-in-first-talks-with-industry-groups-24-july-2026",
-      "subCategory": "产业政策"
-    },
-    {
-      "id": "policy-20260725-008",
-      "title": "财政部 税务总局发布关于离岸信托个人所得税有关事项的公告",
-      "summary": "财政部、税务总局发布公告，明确居民及非居民个人将财产装入离岸信托及信托存续期间所得需按规定申报纳税，并设置90天宽限期，允许个人自愿补报此前未申报的离岸信托相关收入而不予处罚。",
-      "publishedAt": "2026-07-24",
-      "source": "财政部",
-      "url": "https://szs.mof.gov.cn/zhengcefabu/202607/t20260724_3994261.htm",
-      "subCategory": "金融监管"
-    },
-    {
-      "id": "policy-20260725-004",
-      "title": "欧盟委员会初步认定TikTok就未成年人账户安全设置违反《数字服务法》",
-      "summary": "欧盟委员会初步认定TikTok未能确保未成年人账户安全，允许16-17岁未成年人将账户设为公开且内容被推荐给所有用户，存在被不良分子接触及网络欺凌风险，委员会要求TikTok调整默认设置，仅向被接受关注者展示内容。",
-      "publishedAt": "2026-07-24",
-      "source": "European Commission",
-      "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1679",
-      "subCategory": "数据安全"
     }
   ]
 }
