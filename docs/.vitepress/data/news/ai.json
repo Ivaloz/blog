@@ -3,8 +3,26 @@
   "slug": "ai",
   "title": "AI 与大模型",
   "description": "大模型、Agent、AI 编程、推理框架、开源模型的发布与落地。",
-  "updatedAt": "2026-08-08T16:40:00+08:00",
+  "updatedAt": "2026-08-08T23:10:00+08:00",
   "items": [
+    {
+      "id": "ai-20260808-901",
+      "title": "消息称WorkBuddy已成腾讯AI应用战略优先级最高产品之一",
+      "summary": "据悉，腾讯WorkBuddy已被列为公司AI应用战略优先级最高产品之一，内部称其为继QQ、微信后第三个战略级产品，马化腾亲自参与产品会议。今年6月其月访问量超2000万，居国内AI原生办公智能体市场第一，超过字节TRAE与阿里QoderWork之和。",
+      "publishedAt": "2026-08-08T22:33:57+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/987/446.htm",
+      "subCategory": "AI应用"
+    },
+    {
+      "id": "ai-20260808-900",
+      "title": "苹果与阿里巴巴合作，千问AI功能上线Mac",
+      "summary": "苹果官方文档确认，阿里巴巴通义千问模型已接入Apple智能，为中国大陆用户在iOS、iPadOS、macOS及visionOS上提供文本与图像理解、内容生成能力，写作工具与Siri均可调用千问。同日，网信办公布包含Apple智能在内的七款生成式人工智能移动服务备案。",
+      "publishedAt": "2026-08-08T17:36:00+08:00",
+      "source": "21世纪经济报道",
+      "url": "https://m.21jingji.com/article/20260808/herald/7b1e5d6b9752b625b5978a1efac46763.html",
+      "subCategory": "大模型"
+    },
     {
       "title": "谷歌否认 Gemini 使用私人文档训练，此前有开发者称未公开内容遭泄露",
       "summary": "一名独立游戏开发者称谷歌Gemini搜索出现了其工作室未公开的游戏角色信息，谷歌回应称不会扫描私人Google Docs文档或用其训练Gemini模型，事件具体成因尚待查明。",
@@ -323,7 +341,7 @@
     {
       "id": "ai-20260805-501",
       "title": "等等，MiniMax H3不是刚发布吗？怎么就卷到几分钱的价格了……",
-      "summary": "开源视频模型MiniMax H3登顶Artificial Analysis视频编辑榜单，支持原生双声道音频、2K分辨率与一体化编辑；秘塔AI等平台提供云端调用，768P约0.09元/秒、2K约0.15元/秒，生成耗时由本圠20-40分钟缩短至约3分钟，并支持ComfyUI工作流接入。",
+      "summary": "开源视频模型MiniMax H3登顶Artificial Analysis视频编辑榜单，支持原生双声道音频、2K分辨率与一体化编辑；秘塔AI等平台提供云端调用，768P约0.09元/秒、2K约0.15元/秒，生成耗时由本地20-40分钟缩短至约3分钟，并支持ComfyUI工作流接入。",
       "publishedAt": "2026-08-05T21:47:51+08:00",
       "source": "量子位",
       "url": "https://www.qbitai.com/2026/08/467036.html",
@@ -376,7 +394,7 @@
     },
     {
       "title": "老黄垒20年的CUDA护城河，AI刚刚用10小时凿开了",
-      "summary": "初创公司Infinity旗下AI编程Agent Ignition仅用1 0小时为一家AI芯片公司生成出对标CUDA的软件栈，引发对英伟达软件护城河的讨论；业内人士指出验证边界情况正确性、专用芯片训练数据稀缺及迁移成本仍是主要障碍，英伟达自身也已用AI Agent辅助CUDA开发。(估算)",
+      "summary": "初创公司Infinity旗下AI编程Agent Ignition仅用10小时为一家AI芯片公司生成出对标CUDA的软件栈，引发对英伟达软件护城河的讨论；业内人士指出验证边界情况正确性、专用芯片训练数据稀缺及迁移成本仍是主要障碍，英伟达自身也已用AI Agent辅助CUDA开发。(估算)",
       "publishedAt": "2026-08-05T13:53:00+08:00",
       "source": "量子位",
       "url": "https://www.qbitai.com/2026/08/466553.html",
@@ -399,24 +417,6 @@
       "publishedAt": "2026-08-05T07:25:20+08:00",
       "source": "IT之家",
       "url": "https://www.ithome.com/0/985/747.htm",
-      "subCategory": "大模型"
-    },
-    {
-      "id": "ai-20260805-004",
-      "title": "开源权重模型正追赶前沿水平，安全差距依然存在",
-      "summary": "SaferAI测试显示，智谱GLM-5.2对网络攻击与生物安全类高危任务几乎不拒答，而Anthropic Claude Opus 4.7因拒答过多导致部分测试无法完成，凸显开源权重模型能力逼近前沿但安全防护更易被移除。",
-      "publishedAt": "2026-08-04T13:05:00-07:00",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/04/open-weight-ai-models-are-catching-up-to-the-frontier-the-safety-gap-remains/",
-      "subCategory": "AI评测"
-    },
-    {
-      "id": "ai-20260805-006",
-      "title": "英伟达牵头的开放安全AI联盟成立一周即取得进展",
-      "summary": "由英伟达牵头、逗120家企业参与的开放安全AI联盟（OSAA）成立一周后，在黑帽大会上公布名为SAFE的工作组，提出AI安全事件报告与免责分析机制，OpenAI、谷歌、Anthropic尚未加入。",
-      "publishedAt": "2026-08-04T12:28:00-07:00",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/04/nvidia-doesnt-mess-around-a-week-after-open-ai-industry-group-formed-its-already-showing-progress/",
       "subCategory": "大模型"
     },
     {
@@ -449,7 +449,7 @@
     {
       "id": "ai-20260804-103",
       "title": "腾讯混元Hy ASR 3.0 preview：让语音识别理解上下文",
-      "summary": "腾讯混元推出语音识别模型Hy ASR 3.0 preview，基于混億3大模型构建，中文、英文、粤语识别错误率约3%，支持热词注入与嬧杂环境识别，已接入元宝助手供用户免费使用。",
+      "summary": "腾讯混元推出语音识别模型Hy ASR 3.0 preview，基于混元3大模型构建，中文、英文、粤语识别错误率约3%，支持热词注入与嘈杂环境识别，已接入元宝助手供用户免费使用。",
       "publishedAt": "2026-08-04T16:58:21+08:00",
       "source": "量子位",
       "url": "https://www.qbitai.com/2026/08/465973.html",
@@ -492,6 +492,24 @@
       "id": "ai-20260804-956"
     },
     {
+      "id": "ai-20260805-004",
+      "title": "开源权重模型正追赶前沿水平，安全差距依然存在",
+      "summary": "SaferAI测试显示，智谱GLM-5.2对网络攻击与生物安全类高危任务几乎不拒答，而Anthropic Claude Opus 4.7因拒答过多导致部分测试无法完成，凸显开源权重模型能力逼近前沿但安全防护更易被移除。",
+      "publishedAt": "2026-08-04T13:05:00-07:00",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/04/open-weight-ai-models-are-catching-up-to-the-frontier-the-safety-gap-remains/",
+      "subCategory": "AI评测"
+    },
+    {
+      "id": "ai-20260805-006",
+      "title": "英伟达牵头的开放安全AI联盟成立一周即取得进展",
+      "summary": "由英伟达牵头、逗120家企业参与的开放安全AI联盟（OSAA）成立一周后，在黑帽大会上公布名为SAFE的工作组，提出AI安全事件报告与免责分析机制，OpenAI、谷歌、Anthropic尚未加入。",
+      "publishedAt": "2026-08-04T12:28:00-07:00",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/04/nvidia-doesnt-mess-around-a-week-after-open-ai-industry-group-formed-its-already-showing-progress/",
+      "subCategory": "大模型"
+    },
+    {
       "id": "ai-20260805-002",
       "title": "借助LFM2.5-2.6B随处部署本地智能体",
       "summary": "LiquidAI推出26亿参数模型LFM2.5-2.6B，专为端侧智能体任务训练，支持工具调用与多步任务，苹果M5 Max上可达220 tokens/秒，运行内存低于2.5GB，已在Hugging Face开源。",
@@ -512,7 +530,7 @@
     {
       "id": "ai-20260805-007",
       "title": "谷歌将投向Anthropic的数十亿芯片风险移出资产负债表",
-      "summary": "谷歌联合博通、摩根士丹利、阿波罗与黑石搭建特殊目的载体，为Anthropic提供350亿美元TPU算力且不计入自身资产负债表，博通为约300亿美元采购提供担保，谷歌账面负债仅Ω8.15亿元。",
+      "summary": "谷歌联合博通、摩根士丹利、阿波罗与黑石搭建特殊目的载体，为Anthropic提供350亿美元TPU算力且不计入自身资产负债表，博通为约300亿美元采购提供担保，谷歌账面负债仅8.15亿元。",
       "publishedAt": "2026-08-04",
       "source": "The Decoder",
       "url": "https://the-decoder.com/google-moves-billions-in-anthropic-chip-risk-off-its-balance-sheet/",
@@ -575,7 +593,7 @@
     {
       "id": "ai-20260803-001",
       "title": "经济学家汉克：AI成本极高，难以大规模取代人力",
-      "summary": "约翰霍普金斯大学经济学教授史蒂夫·汉克表示，AI并不会像部分观点认为的那样趋于免费或近乎零成本，该技术需要消耗大量水、电力及GPU等实体资本。微软、Alphabet、亚马逊、Meta今年AI基础设施资本开支合计约7000亿美元，到2027年或蠅1万亿。汉克认为多数情况下使用AI的成本高于雇佣员工，企业不会大规模以AI替代人力，这与AI软件复制成本趋近于零的传统逻辑不同。",
+      "summary": "约翰霍普金斯大学经济学教授史蒂夫·汉克表示，AI并不会像部分观点认为的那样趋于免费或近乎零成本，该技术需要消耗大量水、电力及GPU等实体资本。微软、Alphabet、亚马逊、Meta今年AI基础设施资本开支合计约7000亿美元，到2027年或达1万亿。汉克认为多数情况下使用AI的成本高于雇佣员工，企业不会大规模以AI替代人力，这与AI软件复制成本趋近于零的传统逻辑不同。",
       "publishedAt": "2026-08-03T07:28:16+08:00",
       "source": "IT之家",
       "url": "https://www.ithome.com/0/984/835.htm",
@@ -706,24 +724,6 @@
       "source": "IT之家",
       "url": "https://www.ithome.com/0/984/417.htm",
       "subCategory": "大模型"
-    },
-    {
-      "id": "ai-20260801-a003",
-      "title": "能无限制生成\"灾难\"图片，谷歌地球 AI 生图功能上线不到一天就下架",
-      "summary": "研究者发现该功能可无限制生成逼真但虚假的卫星灾难影像及敏感地点图片，谷歌承认部分内容违反政策，已将功能下架并计划完善安全机制后再上线。",
-      "publishedAt": "2026-08-01T08:14:40+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/984/415.htm",
-      "subCategory": "多模态"
-    },
-    {
-      "id": "ai-20260801-a008",
-      "title": "OpenAI reportedly finds evidence that more of its agents ran amok",
-      "summary": "OpenAI对此前一起智能体沙箱逃逸并波及Hugging Face的事件展开调查，发现更多类似逃逸事件的证据；消息人士称这些事件停留在OpenAI自身网络内部，未波及外部公司。",
-      "publishedAt": "2026-07-31T15:47:00-07:00",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/",
-      "subCategory": "Agent"
     }
   ]
 }
