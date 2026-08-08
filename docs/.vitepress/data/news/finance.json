@@ -3,8 +3,89 @@
   "slug": "finance",
   "title": "投资与财经",
   "description": "宏观经济、A 股 / 港股 / 美股、一级市场融资、行业研报观点。",
-  "updatedAt": "2026-08-07T16:35:00+08:00",
+  "updatedAt": "2026-08-08T10:15:00+08:00",
   "items": [
+    {
+      "id": "finance-20260808-009",
+      "title": "US stocks jump as employers unexpectedly cut 23,000 jobs, raising hopes that rate hikes can wait",
+      "summary": "美国7月非农就业意外减少2.3万人，此前两个月合计下修10.3万人，失业率降至4.1%。受此影响，标普500指数收涨0.6%刷新纪录，纳指涨1.3%，10年期美债收益率降至4.64%，市场预期美联储9月加息概率显著下降。",
+      "publishedAt": "2026-08-08T04:34:00+08:00",
+      "source": "Baltimore Sun (AP)",
+      "url": "https://www.baltimoresun.com/2026/08/07/us-stocks-jobs-report/",
+      "subCategory": "美股"
+    },
+    {
+      "id": "finance-20260808-008",
+      "title": "TTWO Q1 2027 Earnings Call: GTA VI Pre-Orders 'Unprecedented' as Take-Two Hits $1.39B Q1 Bookings, Reiterates $8.2B Year View",
+      "summary": "Take-Two Interactive公布2027财年第一季度业绩，净预定收入13.9亿美元，超此前指引区间，NBA 2K26与GTA系列驱动增长。公司维持全年80亿至82亿美元净预定收入指引，GTA VI预售量创历史新高。",
+      "publishedAt": "2026-08-07T22:25:08+08:00",
+      "source": "BigGo Finance",
+      "url": "https://finance.biggo.com/news/US_TTWO_2026-08-07",
+      "subCategory": "公司财报"
+    },
+    {
+      "id": "finance-20260808-007",
+      "title": "The Jobs Report Surprised To The Downside. Bets That The Fed Won't Hike Rates In September Are Up",
+      "summary": "美国7月非农就业意外减少2.3万人，远低于预期新增8.3万人，CME FedWatch数据显示，美联储9月加息概率从58.3%降至44%，此前月份就业数据同样被下修，12个月平均新增就业降至3.4万人，失业率降至4.1%。",
+      "publishedAt": "2026-08-07T21:33:00+08:00",
+      "source": "IBTimes",
+      "url": "https://www.ibtimes.com/jobs-report-surprised-downside-bets-that-fed-wont-hike-rates-september-are-3806174",
+      "subCategory": "政策利率"
+    },
+    {
+      "id": "finance-20260808-006",
+      "title": "Gold prices today, Friday, August 7, 2026: Gold prices continue to rise even after July jobs report misses",
+      "summary": "美国7月就业数据疲软后黄金价格延续涨势，12月黄金期货盘中触及每盎司4411.70美元，为七周新高，当周累计上涨4.8%，同比上涨27%。市场认为就业疲软降低美联储加息概率，支撑金价走高。",
+      "publishedAt": "2026-08-07T20:48:00+08:00",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-friday-august-7-2026-gold-prices-continue-to-rise-even-after-july-jobs-report-misses-122102132.html",
+      "subCategory": "大宗商品"
+    },
+    {
+      "id": "finance-20260808-005",
+      "title": "Current price of oil as of August 7, 2026",
+      "summary": "8月7日布伦特原油价格报每桶86.04美元，较前一交易日收盘价上涨2.40美元，涨幅2.86%，较去年同期上涨约28.43%。原油价格延续近期涨势，市场关注地缘局势对供给的影响。",
+      "publishedAt": "2026-08-07T17:22:00+08:00",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/energy/articles/current-price-oil-august-7-092206331.html",
+      "subCategory": "大宗商品"
+    },
+    {
+      "id": "finance-20260808-004",
+      "title": "〈港股盤後〉生醫與科技股發力 恒指震盪收高 PCB概念股強勢",
+      "summary": "8月7日港股三大指数收涨，恒生指数涨0.54%报25668.03点，恒生科技指数涨0.78%报4858.29点，国企指数涨0.39%，成交额约2597亿港元。生物医药股与PCB概念股领涨，再鼎医药涨超18%。",
+      "publishedAt": "2026-08-07T16:40:00+08:00",
+      "source": "鉅亨網",
+      "url": "https://news.cnyes.com/news/id/6564489",
+      "subCategory": "港股"
+    },
+    {
+      "id": "finance-20260808-003",
+      "title": "收评：三大指数均涨超1% 创新药、CRO概念全线走强",
+      "summary": "8月7日A股三大指数集体收涨超1%，上证指数报3940.04点涨1.02%，深证成指涨1.42%，创业板指涨1.35%，两市成交2.66万亿元。创新药、CRO、PCB等概念股表现活跃，信息安全板块下跌。",
+      "publishedAt": "2026-08-07T15:01:50+08:00",
+      "source": "财联社",
+      "url": "https://www.cls.cn/detail/2448318",
+      "subCategory": "A股"
+    },
+    {
+      "id": "finance-20260808-002",
+      "title": "前7个月我国货物贸易进出口超30万亿元",
+      "summary": "海关总署数据显示，今年前7个月我国货物贸易进出口总值达30.13万亿元，同比增长17.3%，其中出口17.44万亿元增长14%，进口12.69万亿元增长22%。7月单月进出口4.66万亿元，已连续5个月超4万亿元。",
+      "publishedAt": "2026-08-07T10:49:00+08:00",
+      "source": "中国新闻网",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-07/10673461.shtml",
+      "subCategory": "宏观经济"
+    },
+    {
+      "id": "finance-20260808-001",
+      "title": "特朗普签署公告 对多晶硅及衍生产品实施限价与关税措施",
+      "summary": "特朗普签署公告，依据1962年贸易扩展法232条款，对多晶硅及衍生产品设定最低进口价并加征15%关税，多晶硅每公斤21美元，太阳能组件每瓦0.38美元，措施自12月4日生效，或影响中国光伏产业链出口。",
+      "publishedAt": "2026-08-07T07:22:00+08:00",
+      "source": "中国新闻网",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-07/10673312.shtml",
+      "subCategory": "风险事件"
+    },
     {
       "id": "finance-20260807-008",
       "title": "Stocks fall ahead of Friday's US jobs data; oil gains on Iran concerns",
@@ -123,15 +204,6 @@
       "id": "finance-20260806-705"
     },
     {
-      "title": "SanDisk第四财季营收同比增长372%至89.65亿美元，超市场预期",
-      "summary": "SanDisk公布2026财年第四财季业绩，营收同比增长372%至89.65亿美元，调整后每股收益39.25美元，均超市场预期。公司还批准新增140亿美元股票回购计划，盘后股价先跌后升，收窄至上涨约4%。",
-      "publishedAt": "2026-08-05T20:30:00-04:00",
-      "source": "TradingKey",
-      "url": "https://www.tradingkey.com/analysis/stocks/us-stocks/262079169-sandisk-sndk-q4-fy2026-revenue-372-percent-record-gross-margin-meet-beat-tradingkey",
-      "subCategory": "公司财报",
-      "id": "finance-20260805-700"
-    },
-    {
       "title": "美股收盘涨跌不一，道指续创历史新高，英伟达连涨SpaceX重挫",
       "summary": "美股8月5日收盘涨跌不一，道指涨0.49%续创新高，标普500跌0.17%，纳指跌0.83%。英伟达连续第五个交易日上涨，市值达5.3万亿美元；SpaceX股价重挫超13%，市值蒸发约2250亿美元。",
       "publishedAt": "2026-08-06T08:19:00+08:00",
@@ -139,24 +211,6 @@
       "url": "https://tidenews.com.cn/news.html?id=3521528",
       "subCategory": "美股",
       "id": "finance-20260806-703"
-    },
-    {
-      "title": "Western Digital第四财季业绩超预期，但指引不及预期致股价盘后下跌",
-      "summary": "Western Digital公布截至6月的第四财季业绩，营收37.5亿美元，同比增长约44%，每股收益3.56美元，均超预期。因下季度指引未能大幅超出市场预期，公司股价盘后一度下跌8.89%至473美元。",
-      "publishedAt": "2026-08-05T16:23:00-04:00",
-      "source": "Benzinga",
-      "url": "https://www.benzinga.com/markets/earnings/26/08/60972188/western-digital-beats-q4-estimates-stock-falls-on-guidance",
-      "subCategory": "公司财报",
-      "id": "finance-20260805-701"
-    },
-    {
-      "title": "IonQ第二季度营收创纪录，同比增长287%并上调全年指引",
-      "summary": "量子计算公司IonQ第二季度营收达8010万美元，同比增长287%，超出公司自身预期20%。公司将2026年全年营收指引上调至2.8亿至2.9亿美元，并于7月31日完成对SkyWater Technology的收购。",
-      "publishedAt": "2026-08-05T16:05:00-04:00",
-      "source": "StockTitan",
-      "url": "https://www.stocktitan.net/news/IONQ/ion-q-announces-record-second-quarter-2026-revenues-growing-287-yo-gednl3gory6k.html",
-      "subCategory": "公司财报",
-      "id": "finance-20260805-702"
     },
     {
       "id": "finance-20260806-501",
@@ -175,6 +229,15 @@
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/economy/policy/articles/minneapolis-feds-kashkari-calls-gradual-133949803.html",
       "subCategory": "政策利率"
+    },
+    {
+      "title": "SanDisk第四财季营收同比增长372%至89.65亿美元，超市场预期",
+      "summary": "SanDisk公布2026财年第四财季业绩，营收同比增长372%至89.65亿美元，调整后每股收益39.25美元，均超市场预期。公司还批准新增140亿美元股票回购计划，盘后股价先跌后升，收窄至上涨约4%。",
+      "publishedAt": "2026-08-05T20:30:00-04:00",
+      "source": "TradingKey",
+      "url": "https://www.tradingkey.com/analysis/stocks/us-stocks/262079169-sandisk-sndk-q4-fy2026-revenue-372-percent-record-gross-margin-meet-beat-tradingkey",
+      "subCategory": "公司财报",
+      "id": "finance-20260805-700"
     },
     {
       "id": "finance-20260805-503",
@@ -202,6 +265,24 @@
       "source": "SEC EDGAR（迪士尼公司公告）",
       "url": "https://www.sec.gov/Archives/edgar/data/1744489/000174448926000056/fy2026_q3xerxex991.htm",
       "subCategory": "公司财报"
+    },
+    {
+      "title": "Western Digital第四财季业绩超预期，但指引不及预期致股价盘后下跌",
+      "summary": "Western Digital公布截至6月的第四财季业绩，营收37.5亿美元，同比增长约44%，每股收益3.56美元，均超预期。因下季度指引未能大幅超出市场预期，公司股价盘后一度下跌8.89%至473美元。",
+      "publishedAt": "2026-08-05T16:23:00-04:00",
+      "source": "Benzinga",
+      "url": "https://www.benzinga.com/markets/earnings/26/08/60972188/western-digital-beats-q4-estimates-stock-falls-on-guidance",
+      "subCategory": "公司财报",
+      "id": "finance-20260805-701"
+    },
+    {
+      "title": "IonQ第二季度营收创纪录，同比增长287%并上调全年指引",
+      "summary": "量子计算公司IonQ第二季度营收达8010万美元，同比增长287%，超出公司自身预期20%。公司将2026年全年营收指引上调至2.8亿至2.9亿美元，并于7月31日完成对SkyWater Technology的收购。",
+      "publishedAt": "2026-08-05T16:05:00-04:00",
+      "source": "StockTitan",
+      "url": "https://www.stocktitan.net/news/IONQ/ion-q-announces-record-second-quarter-2026-revenues-growing-287-yo-gednl3gory6k.html",
+      "subCategory": "公司财报",
+      "id": "finance-20260805-702"
     },
     {
       "title": "冰火两重天！金饰克价年内大跌470元，黄金股逆势大涨，现货黄金重回4100美元",
@@ -643,87 +724,6 @@
       "url": "https://www.stheadline.com/zh-hans/politics/3600108/%E4%B8%8A%E5%8D%8A%E5%B9%B4%E7%BB%8F%E6%B5%8E%E5%A2%9E%E9%95%BF%E4%B8%BA51-%E8%BE%83%E9%A2%84%E6%9C%9F%E5%BC%BA%E5%8A%B2-%E9%99%88%E8%8C%82%E6%B3%A2%E5%B0%86%E5%90%91%E4%B8%8A%E8%B0%83%E6%95%B4%E5%85%A8%E5%B9%B4%E7%BB%8F%E6%B5%8E%E5%A2%9E%E9%95%BF%E9%A2%84%E6%B5%8B",
       "subCategory": "宏观经济",
       "id": "finance-20260802-103"
-    },
-    {
-      "title": "下周关注：香港将推出5年期国债期货 这些投资机会最靠谱",
-      "summary": "香港交易所将于8月3日正式推出5年期人民币国债期货，为离岸市场首只以中国国债为基准的场内利率衷生品，旨在完善离岸人民币风险管理工具链，提升人民币资产吸引力，巩固香港离岸人民币枢纽地位。",
-      "publishedAt": "2026-08-02T08:49:00+08:00",
-      "source": "第一财经",
-      "url": "https://finance.eastmoney.com/a/202608023829091373.html",
-      "subCategory": "港股",
-      "id": "finance-20260802-104"
-    },
-    {
-      "id": "finance-20260802-011",
-      "title": "港股7月领涨全球！两大资金爆买 港股后市仍被看好",
-      "summary": "恒生指数 7 月累计上涨 13.13%，93 只成份股中 88 只上涨，16 只涨幅超 20%；南向资金 7 月净流入 628.68 亿港元，为年内第三高月度水平，外资对离岜中国股票单周净流入 2.88 亿美元。",
-      "publishedAt": "2026-08-02T08:19:00+08:00",
-      "source": "东方财富网",
-      "url": "https://finance.eastmoney.com/a/202608023829088973.html",
-      "subCategory": "港股"
-    },
-    {
-      "id": "finance-20260802-012",
-      "title": "美计划本周末发动猛烈轰炸 伊朗：全面反击方案已就绪",
-      "summary": "美国国务院8月1日向中东地区美国公民发布安全警告，建议做好撤离准备；据报美以正筹划针对伊朗能源设施的最猛烈轰炸行动，特朗普尚未作出最终授权。伊朗方面称已制定全面反击方案，随时可对以色列及美方中东能源设施发起打击。",
-      "publishedAt": "2026-08-02T07:29:00+08:00",
-      "source": "财联社",
-      "url": "https://www.cls.cn/detail/2443408",
-      "subCategory": "风险事件"
-    },
-    {
-      "id": "finance-20260802-009",
-      "title": "疯狂的杠杆！120万人爆仓",
-      "summary": "韩国约120万名投资者因7月市场剧烈波动中过度使用融资杠杆而遭强制平仓，SK海力士等科技股单日跌幅一度超20%，使用5倍杠杆的投资者本金归零，部分投资者仍需向券商偿还欠款。",
-      "publishedAt": "2026-08-02T07:26:00+08:00",
-      "source": "东方财富网",
-      "url": "https://finance.eastmoney.com/a/202608023829086771.html",
-      "subCategory": "风险事件"
-    },
-    {
-      "id": "finance-20260802-010",
-      "title": "加杠杆遭爆仓！00后华尔街AI股神致歉：再也不碰了",
-      "summary": "25岁对冲基金经理Leopold Aschenbrenner因过度加杠杆致其Situational Awareness基金7月遇到流动性紧张及做空压力，7月30日被迫向Citadel出售大部分持仓，基金当月回搬67%，其致信投资者道歉并承诺此后不再使用杠杆。",
-      "publishedAt": "2026-08-02T04:33:00+08:00",
-      "source": "东方财富网",
-      "url": "https://finance.eastmoney.com/a/202608013829069881.html",
-      "subCategory": "风险事件"
-    },
-    {
-      "id": "finance-20260802-007",
-      "title": "近期股价大涨超46%！电解铝龙头宏桥控股公告 拟定增募资不超120亿元",
-      "summary": "宏桥控股7月31日公告拟通过定向增发募资不超120亿元，用于风电、光伏及铝深加工项目并偿还银行贷款，公司股价较 7月9日累计上涨46%至20.77元，总市值约2707亿元。",
-      "publishedAt": "2026-08-02T01:30:00+08:00",
-      "source": "东方财富网",
-      "url": "https://finance.eastmoney.com/a/202608013829070754.html",
-      "subCategory": "A股"
-    },
-    {
-      "id": "finance-20260802-008",
-      "title": "存储芯片利好来了！韩国7月出口继续保持强劲增长",
-      "summary": "韩国7月工作日调整后出口同比增长69.6%，贸易顺差303亿美元，其中半导体出口同比激增178.8%，计算机产品出口增长404%，对华出口增长96%，对美出口增长69%，AI相关需求为主要推动因素。",
-      "publishedAt": "2026-08-02T00:35:00+08:00",
-      "source": "东方财富网",
-      "url": "https://finance.eastmoney.com/a/202608013829070664.html",
-      "subCategory": "宏观经济"
-    },
-    {
-      "id": "finance-20260802-006",
-      "title": "持续提振信心，多家上市公司7月密集增持回购",
-      "summary": "据东方财富Choice数据，7月其49家A股公司披露回购计划，合计上限达6314亿元，7月31日单日超10家公司披露回购或增持，其中宁德时代公告拟以200亿至400亿元回购股份并注销，为A股史上最大规模回购。",
-      "publishedAt": "2026-08-01T20:45:00+08:00",
-      "source": "东方财富网",
-      "url": "https://finance.eastmoney.com/a/202608013829056664.html",
-      "subCategory": "A股"
-    },
-    {
-      "id": "finance-20260802-005",
-      "title": "卡塔尔LNG船霍尔木兹海峡遭袭失控，中东局势骤然升温",
-      "summary": "载有卡塔尔货物的LNG船Gaslog Shanghai于7月31日在阿曼东北方向约11海里处遭不明来源武器击中，机舱受损失去动力控制，无人员伤亡报告；事发后WTI原油一度上涨逸 3%至86美元。",
-      "publishedAt": "2026-08-01T19:48:00+08:00",
-      "source": "华尔街见闻",
-      "url": "https://wallstreetcn.com/articles/3778496",
-      "subCategory": "风险事件"
     }
   ]
 }

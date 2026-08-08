@@ -3,8 +3,152 @@
   "slug": "tech",
   "title": "科技新闻",
   "description": "前沿科技、互联网产品、芯片硬件、开源生态。",
-  "updatedAt": "2026-08-07T16:35:00+08:00",
+  "updatedAt": "2026-08-08T10:15:00+08:00",
   "items": [
+    {
+      "id": "tech-20260808-001",
+      "title": "18999 元：2026 款微星泰坦 18 笔记本新增\"Ultra 9 275HX + RTX 5070Ti\"版本，16GB+1TB",
+      "summary": "微星发布2026款泰坦18笔记本新配置，搭载酷睿Ultra 9 275HX处理器与RTX 5070Ti显卡，16GB内存、1TB存储，18英寸240Hz屏幕，售价18999元，8月11日开售。",
+      "publishedAt": "2026-08-08T08:35:15+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/987/241.htm",
+      "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260808-002",
+      "title": "全球首款 5K Mini LED 镜面双模式游戏显示器：微星 MPG 271KRAW18 被曝已无限期搁置",
+      "summary": "微星MPG 271KRAW18双模式游戏显示器因技术可行性问题被无限期搁置，该27英寸屏幕原计划2027年1月发售，具备5120×2880及2560×1440双分辨率模式，完全取消的可能性仍存在。",
+      "publishedAt": "2026-08-08T08:34:00+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/987/239.htm",
+      "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260808-003",
+      "title": "长城魏牌全新高山 8 申报：前脸设计焕新，Hi4 混合动力",
+      "summary": "长城魏牌全新高山8完成申报，前脸设计升级，采用Hi4混合动力系统，车长5280毫米，配备1.998升发动机与蜂巢能源三元锂电池，可提供七座布局，最高时速190公里。",
+      "publishedAt": "2026-08-08T08:15:20+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/987/236.htm",
+      "subCategory": "智能汽车"
+    },
+    {
+      "id": "tech-20260808-004",
+      "title": "1099 元：优派推出 27 英寸 2K 280Hz 显示器\"VX27G23-2K-2\"",
+      "summary": "优派推出27英寸显示器VX27G23-2K-2，采用FastIPS面板，原生280Hz刷新率，2560×1440分辨率，色域覆盖97% DCI-P3，售价1099元。",
+      "publishedAt": "2026-08-08T08:10:59+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/987/235.htm",
+      "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260808-005",
+      "title": "零跑 Lafa5 纯电新车申报：提供三种不同配置版本，可选激光雷达",
+      "summary": "零跑Lafa5纯电轿车完成第410批次申报，轴距2735毫米，提供三种配置版本，电机功率180至185千瓦，配备磷酸铁锂电池，可选装激光雷达及城市领航辅助驾驶功能。",
+      "publishedAt": "2026-08-08T07:44:28+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/987/230.htm",
+      "subCategory": "智能汽车"
+    },
+    {
+      "id": "tech-20260808-006",
+      "title": "deGDID 脚本发布：阻止微软追踪 Win10/Win11 用户",
+      "summary": "开发者发布开源脚本deGDID，可清除并阻止Windows 10/11系统生成GDID追踪标识符，通过修改hosts文件和防火墙规则实现，但运行后将无法使用Xbox、Outlook及微软商店。",
+      "publishedAt": "2026-08-08T07:42:07+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/987/229.htm",
+      "subCategory": "开发者工具"
+    },
+    {
+      "id": "tech-20260808-007",
+      "title": "1499 元，CHERRY 樱桃 MX10.1 FOR MAC 矮轴机械键盘推出",
+      "summary": "CHERRY发布MX10.1 FOR MAC无线机械键盘，售价1499元，铝合金机身最薄9毫米，支持8000Hz有线轮询率，配备LCD彩屏与MX-LP红轴，8月10日开启预售。",
+      "publishedAt": "2026-08-08T07:24:24+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/987/226.htm",
+      "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260808-008",
+      "title": "微软承诺 Win11 开箱体验更快、更高效，但账户登录仍未松绑",
+      "summary": "微软承诺在2026年底前优化Windows 11开箱设置体验，缩短更新下载耗时并减少服务推广，但仍要求联网及微软账户登录，本地账户创建选项未开放。",
+      "publishedAt": "2026-08-08T07:10:12+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/987/222.htm",
+      "subCategory": "操作系统"
+    },
+    {
+      "id": "tech-20260808-009",
+      "title": "一汽-大众速腾 L HEV 新车申报：油电混动版本，轴距 2.7 米",
+      "summary": "一汽大众速腾L HEV完成产品申报，搭载1.5升发动机与电动机组成的油电混合动力系统，轴距2731毫米，车身长4812毫米，提供两种轮毂配置版本。",
+      "publishedAt": "2026-08-08T07:01:37+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/987/220.htm",
+      "subCategory": "智能汽车"
+    },
+    {
+      "id": "tech-20260808-010",
+      "title": "AI 需求挤爆云计算，消息称 AWS 要求工程师关闭闲置服务器减少资源浪费",
+      "summary": "据The Information报道，亚马逊AWS因AI算力需求紧张，要求工程师关闭闲置云服务器，其Compute Optimizer工具已升级以识别CPU利用率低于15%的闲置实例。",
+      "publishedAt": "2026-08-07T23:25:06+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/987/217.htm",
+      "subCategory": "云计算"
+    },
+    {
+      "id": "tech-20260808-011",
+      "title": "消息称富士 X-T6 无反相机延期发布，新时间暂不明确",
+      "summary": "消息称富士原定9月初举行的X峰会发布会已取消，X-T6无反相机发布时间推迟，新日期暂未公布，据称与AI自动对焦系统及新胶片模拟功能的软件优化需求有关。",
+      "publishedAt": "2026-08-07T23:08:42+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/987/215.htm",
+      "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260808-012",
+      "title": "消息称苹果正测试 iOS 26.6.1 系统，或修复安全漏洞",
+      "summary": "据MacRumors报道，苹果正测试iOS 26.6.1系统，可能包含安全修复，此前macOS 26.6.1已修复编号CVE-2026-65400的屏幕共享认证绕过漏洞。",
+      "publishedAt": "2026-08-07T22:52:09+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/987/214.htm",
+      "subCategory": "安全漏洞"
+    },
+    {
+      "id": "tech-20260808-013",
+      "title": "三星确认 Galaxy S23 系列最后一次系统大版本更新为 One UI 9.0",
+      "summary": "三星官方客服确认，Galaxy S23系列将不再获得One UI 9.0之后的重大版本升级，该机型2023年发布时搭载One UI 5.1，目前已运行至One UI 8.5。",
+      "publishedAt": "2026-08-07T22:45:21+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/987/213.htm",
+      "subCategory": "操作系统"
+    },
+    {
+      "id": "tech-20260808-014",
+      "title": "Linux KVM 曝出虚拟机逃逸漏洞，嵌套虚拟化功能成攻击突破口",
+      "summary": "安全研究员披露Linux KVM虚拟机逃逸漏洞Zapscape（CVE-2026-64561），存在于Shadow MMU仿真机制中，攻击者可借助嵌套虚拟化在宿主机内核以root权限执行代码。",
+      "publishedAt": "2026-08-07T22:42:39+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/987/212.htm",
+      "subCategory": "安全漏洞"
+    },
+    {
+      "id": "tech-20260808-015",
+      "title": "荣耀 MagicOS 10 系统 8 月版本第二批机型开推，覆盖 Magic7、WIN 等系列",
+      "summary": "荣耀MagicOS 10八月更新第二批机型开始推送，覆盖Magic7系列、Magic V5、WIN系列等，新增夏日主题、YOYO记忆视频解析范围扩展及AI语义搜索等功能。",
+      "publishedAt": "2026-08-07T22:33:41+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/987/208.htm",
+      "subCategory": "操作系统"
+    },
+    {
+      "id": "tech-20260808-016",
+      "title": "华为鸿蒙 HarmonyOS SDK 游戏新特性公开，含 AI 超分、控显分离、硬件光追等",
+      "summary": "华为公开鸿蒙HarmonyOS SDK三项游戏新特性：AI超分辨率技术、折叠屏控显分离方案，以及在Mate 80 Pro Max上首发的硬件光线追踪，支持每秒3000万条光线渲染。",
+      "publishedAt": "2026-08-07T22:24:50+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/987/205.htm",
+      "subCategory": "操作系统"
+    },
     {
       "id": "tech-20260807-101",
       "title": "SK海力士宣布向龙仁Y2、清州M17晶圆厂合计投资54万亿韩元",
@@ -67,15 +211,6 @@
       "source": "IT之家",
       "url": "https://www.ithome.com/0/986/778.htm",
       "subCategory": "智能汽车"
-    },
-    {
-      "id": "tech-20260807-001",
-      "title": "AMD Acquires Taalas to Advance Compute Solutions for Rapidly Growing AI Inference Market",
-      "summary": "AMD宣布已达成协议收购总部位于多伦多的AI推理芯片公司Taalas。该公司成立于2023年，专注优化推理数据流以降低算力与内存瓶颈。交易将把Taalas技术整合进AMD加速器路线图，具体收购金额未披露。",
-      "publishedAt": "2026-08-06T16:05:00-04:00",
-      "source": "AMD Investor Relations",
-      "url": "https://ir.amd.com/news-events/press-releases/detail/1296/amd-acquires-taalas-to-advance-compute-solutions-for-rapidly-growing-ai-inference-market",
-      "subCategory": "芯片硬件"
     },
     {
       "id": "tech-20260806-950",
@@ -157,6 +292,15 @@
       "url": "https://www.ithome.com/0/986/566.htm",
       "subCategory": "智能汽车",
       "id": "tech-20260806-705"
+    },
+    {
+      "id": "tech-20260807-001",
+      "title": "AMD Acquires Taalas to Advance Compute Solutions for Rapidly Growing AI Inference Market",
+      "summary": "AMD宣布已达成协议收购总部位于多伦多的AI推理芯片公司Taalas。该公司成立于2023年，专注优化推理数据流以降低算力与内存瓶颈。交易将把Taalas技术整合进AMD加速器路线图，具体收购金额未披露。",
+      "publishedAt": "2026-08-06T16:05:00-04:00",
+      "source": "AMD Investor Relations",
+      "url": "https://ir.amd.com/news-events/press-releases/detail/1296/amd-acquires-taalas-to-advance-compute-solutions-for-rapidly-growing-ai-inference-market",
+      "subCategory": "芯片硬件"
     },
     {
       "title": "台积电N2产能充足但DRAM短缺，苹果iPhone 18备货承压",
@@ -438,24 +582,6 @@
       "id": "tech-20260804-953"
     },
     {
-      "id": "tech-20260805-013",
-      "title": "TP-Link patches Omada ZTP flaws allowing hackers to breach networks",
-      "summary": "安全公司Forescout披露TP-Link Omada零接触配置系统中的15个漏洞，攻击者可利用硬编码密钥、竞态条件等缺陷劫持云控制器并渗透内网，TP-Link已发布部分补丁，超1800台控制器暴露公网。",
-      "publishedAt": "2026-08-04T18:18:00-04:00",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/tp-link-patches-omada-ztp-flaws-allowing-hackers-to-breach-networks/",
-      "subCategory": "安全漏洞"
-    },
-    {
-      "id": "tech-20260805-015",
-      "title": "Phishing service spoofs RingCentral to steal Microsoft 365 accounts",
-      "summary": "网络钓鱼即服务平台Greatness伪装RingCentral语音信箱通知邮件，利用平台白名单绕过安全过滤，诱导用户进入中间人钓鱼页面窃取微软365账户令牌，攻击者可在受害邮箱内潜伏两周以上。",
-      "publishedAt": "2026-08-04T17:45:00-04:00",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/phishing-service-spoofs-ringcentral-to-steal-microsoft-365-accounts/",
-      "subCategory": "安全漏洞"
-    },
-    {
       "title": "SpaceX 今年已采购价值 3.29 亿美元的特斯拉 Megapack 电池",
       "summary": "据财报数据，SpaceX 2026 年二季度采购特斯拉Megapack储能电池花赹2.95亿美元，全年至今合计3.29亿美元，主要用于xAI数据中心，为GPU运行提供备用电力和负荷平衡。",
       "publishedAt": "2026-08-05T05:07:00+08:00",
@@ -481,15 +607,6 @@
       "url": "https://ir.amd.com/news-events/press-releases/detail/1295/amd-reports-second-quarter-2026-financial-results",
       "subCategory": "芯片硬件",
       "id": "tech-20260804-950"
-    },
-    {
-      "id": "tech-20260805-014",
-      "title": "New XCSSET variant targets macOS devs via compromised Xcode projects",
-      "summary": "Palo Alto Networks旗下Unit 42发现新版本XCSSET恶意软件通过被篡改的Xcode工程文件感染macOS开发者，新增 Chrome 浏览器劫持与Telegram仿冒木马模块，用于窃取账号凭证与加密货币。",
-      "publishedAt": "2026-08-04T15:03:00-04:00",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/new-xcsset-variant-targets-macos-devs-via-compromised-xcode-projects/",
-      "subCategory": "安全漏洞"
     },
     {
       "id": "tech-20260804-104",
@@ -573,15 +690,6 @@
       "subCategory": "芯片硬件"
     },
     {
-      "id": "tech-20260805-011",
-      "title": "Microchip Technology, in Collaboration With Micron Technology, Demonstrates High-Performance PCIe Gen 6 Storage Architecture for AI and Data Center Infrastructure",
-      "summary": "美高森美（Microchip）与美光在2026存储与内存未来大会上联合展示端到端PCIe Gen 6存储架构，将Switchtec Gen 6交换芯片与美奉9650 NVMe SSD结合，单通道带宽提升至64 GT/s，面向AI与数据中心。",
-      "publishedAt": "2026-08-04T07:16:00-04:00",
-      "source": "GlobeNewswire",
-      "url": "https://www.globenewswire.com/news-release/2026/08/04/3338174/0/en/microchip-technology-in-collaboration-with-micron-technology-demonstrates-high-performance-pcie-gen-6-storage-architecture-for-ai-and-data-center-infrastructure.html",
-      "subCategory": "芯片硬件"
-    },
-    {
       "id": "tech-20260804-111",
       "title": "我国成功发射卫星互联网低轭23组卫星",
       "summary": "我国在海南商业航天发射场使用长征八号甲运载火箭，于16时52分将卫星互联网低轭23组卫星发射升空并送入预定轨道，任务首次实现“直达快车”功能，缩短卫星升轨时间。",
@@ -591,139 +699,31 @@
       "subCategory": "航空航天"
     },
     {
-      "title": "俄罗斯联邦反垄断局起诉苹果公司，指控其未按要求在 iPhone / iPad 上预装本土 App",
-      "summary": "俄罗斯联邦反垄断局8月3日正式起诉苹果，指控其未按此前警告要求在iOS设备上预装俄罗斯本土应用商店RuStore及通讯应用Max，此前该机构已于7月1日要求苹果在7月15日前整改，否则面临最高40亿卢布罚款。",
-      "publishedAt": "2026-08-04T08:32:20+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/985/304.htm",
-      "subCategory": "互联网产品",
-      "id": "tech-20260804-001"
-    },
-    {
-      "title": "微软高管详解 Win11 优化方案：持续降低内存占用，改善 8GB 设备体验",
-      "summary": "微软Windows设计与研究副总裁Marcus Ash披露，公司正从内核调度到界面设计全栈式排查以降低Win11内存占用，多个内部团队正分析真实用户任务并优化预加载机制，相关改进计划年底前逐步推送，以改善8GB内存设备体验。",
-      "publishedAt": "2026-08-04T08:21:55+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/985/301.htm",
-      "subCategory": "操作系统",
-      "id": "tech-20260804-002"
-    },
-    {
-      "title": "三星 Galaxy S26 FE 手机默认壁纸曝光，预估关联 3 种零售颜色",
-      "summary": "科技媒体sammyguru曝光三星Galaxy S26 FE默认壁纸，据此推测该机将提供曜石灰、薄荷绿、紫罗兰三种零售配色，机型配备5000万像素主摄及支持3倍光学变焦的8000万像素长焦镜头，另有传闻搭载Exynos 2500芯片、4900mAh电池及45W快充。",
-      "publishedAt": "2026-08-04T08:21:14+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/985/300.htm",
-      "subCategory": "消费电子",
-      "id": "tech-20260804-003"
-    },
-    {
-      "id": "tech-20260803-901",
-      "title": "苹果被曝数据管理漏洞：离职员工仍可通过个人iCloud访问公司机密文件",
-      "summary": "据IT之家报道，苹果因鼓励员工将个人Apple ID与公司iCloud存储绑定，导致部分离职员工事后仍能访问工作文档及iMessage聊天记录，且普通员工的设备清退审查不如高管严格。",
-      "publishedAt": "2026-08-03T23:59:50+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/985/254.htm",
+      "id": "tech-20260805-013",
+      "title": "TP-Link patches Omada ZTP flaws allowing hackers to breach networks",
+      "summary": "安全公司Forescout披露TP-Link Omada零接触配置系统中的15个漏洞，攻击者可利用硬编码密钥、竞态条件等缺陷劫持云控制器并渗透内网，TP-Link已发布部分补丁，超1800台控制器暴露公网。",
+      "publishedAt": "2026-08-04T18:18:00-04:00",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/tp-link-patches-omada-ztp-flaws-allowing-hackers-to-breach-networks/",
       "subCategory": "安全漏洞"
     },
     {
-      "id": "tech-20260803-903",
-      "title": "国际刑警组织：人工智能已参与非洲55%的网络犯罪案件",
-      "summary": "国际刑警组织发布报告称，人工智能参与了非洲55%的网络犯罪案件，使攻击更快更难追查，2024年以来该地区网络犯罪造成的经济损失已从1.92亿美元增至4.84亿美元。",
-      "publishedAt": "2026-08-03T23:32:02+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/985/252.htm",
+      "id": "tech-20260805-015",
+      "title": "Phishing service spoofs RingCentral to steal Microsoft 365 accounts",
+      "summary": "网络钓鱼即服务平台Greatness伪装RingCentral语音信箱通知邮件，利用平台白名单绕过安全过滤，诱导用户进入中间人钓鱼页面窃取微软365账户令牌，攻击者可在受害邮箱内潜伏两周以上。",
+      "publishedAt": "2026-08-04T17:45:00-04:00",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/phishing-service-spoofs-ringcentral-to-steal-microsoft-365-accounts/",
       "subCategory": "安全漏洞"
     },
     {
-      "id": "tech-20260803-902",
-      "title": "英国政府再度要求苹果为iCloud加密数据设后门，苹果提起法律诉讼反击",
-      "summary": "英国政府再次要求苹果为英国用户的iCloud加密数据设置访问后门，理由是调查恩怖主义和儿童剥削案件，苹果已就此向调查权力法庭提起新的法律诉讼进行反击。",
-      "publishedAt": "2026-08-03T23:27:56+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/985/251.htm",
+      "id": "tech-20260805-014",
+      "title": "New XCSSET variant targets macOS devs via compromised Xcode projects",
+      "summary": "Palo Alto Networks旗下Unit 42发现新版本XCSSET恶意软件通过被篡改的Xcode工程文件感染macOS开发者，新增 Chrome 浏览器劫持与Telegram仿冒木马模块，用于窃取账号凭证与加密货币。",
+      "publishedAt": "2026-08-04T15:03:00-04:00",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/new-xcsset-variant-targets-macos-devs-via-compromised-xcode-projects/",
       "subCategory": "安全漏洞"
-    },
-    {
-      "id": "tech-20260803-907",
-      "title": "北汽极狐阿尔法T7内饰首曝，搨17.3英寸3K中控屏",
-      "summary": "北汽极狐阿尔法T7内饰图首次曝光，搭载同级最大17.3英寸3K中控屏及1.1米超宽全景抬头显示，座舱地台占比达88.8%，前排腿部空间1047毫米，涉及华为、宁德时代、麦格纳等技术合作。",
-      "publishedAt": "2026-08-03T23:22:54+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/985/250.htm",
-      "subCategory": "智能汽车"
-    },
-    {
-      "id": "tech-20260803-908",
-      "title": "荣耀佱乐部负责人称Robot Phone样机稀缺，全渠道预约超20万",
-      "summary": "荣耀佱乐部负责人透露Robot Phone工程样机数量稀缺，正式发布后或供不应求，该机型全渠道预约量已超20万，超越荣耀历代旗舰，预计8月12日发布，搭载骏龙8至尊版及双200万像素镜头。",
-      "publishedAt": "2026-08-03T23:12:18+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/985/247.htm",
-      "subCategory": "消费电子"
-    },
-    {
-      "id": "tech-20260803-904",
-      "title": "苹果收购材料科学公司PlasmaSolve，强化镀膜技术储备",
-      "summary": "据欧盟委员会公告及IT之家报道，苹果收购了捷克材料科学公司PlasmaSolve，该公司开发模拟金属蒸镀工艺的MatSight软件，此举被视为苹果加强镀膜等表面处理技术储备的举措。",
-      "publishedAt": "2026-08-03T22:32:09+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/985/240.htm",
-      "subCategory": "芯片硬件"
-    },
-    {
-      "id": "tech-20260803-906",
-      "title": "Coldcard硬件钱包随机数漏洞致约1755枚比特币被盗",
-      "summary": "比特币硬件钱包Coldcard被曝存在随机数生成缺陷，导致离线钱包生成的助记词可被系统性推算，截至8月3日已有约5000个受影响钱包被盗走超1755枚比特币，制造商Coinkite已发布修复固件。",
-      "publishedAt": "2026-08-03T22:23:18+08:00",
-      "source": "中华网",
-      "url": "https://news.china.com/socialgd/10000169/20260803/49651991.html",
-      "subCategory": "安全漏洞"
-    },
-    {
-      "id": "tech-20260803-905",
-      "title": "华为官宣首款RGB-MiniLED电视，8月5日开售",
-      "summary": "华为常务董事余承东宣布公司首款RGB-MiniLED电视将于8月5日开售，提供55/65/75英寸三个尺寸，起售价3499元，采用自研光色控制芯片，最高支持300Hz刷新率并搭载鸿蒙系统。",
-      "publishedAt": "2026-08-03T22:15:34+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/985/237.htm",
-      "subCategory": "消费电子"
-    },
-    {
-      "id": "tech-20260803-001",
-      "title": "全球第三大 12 英寸硬晶圆制造商将易主：SK 批准向斗山出售 SK siltron 多数股份",
-      "summary": "SK集团董事会批准向斗山集团出售SK siltron 70.6%股权，交易金额约2.3万亿韩元（约合108.91亿元人民币）。SK siltron在全球300毫米硬晶圆市场排名第三，2017年加入SK集团，剩余29.4%股权由SK会长嶔泰源持有，预计也将由斗山收购，斗山将先支付总价 10% 作为定金。",
-      "publishedAt": "2026-08-03T08:38:22+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/984/853.htm",
-      "subCategory": "芯片硬件"
-    },
-    {
-      "id": "tech-20260803-002",
-      "title": "微软持续推进Win11现代化改造，打印管理工具获WinUI 3更新",
-      "summary": "微软正在Win11预览版中测试基于WinUI 3重写的打印管理工具，该工具以独立应用形式出现在“所有应用”列表中，而非隐藏在管理控制台里，但目前仍需右键“以管理员身份运行”才能打开，功能尚不完整。微软此前已将文件复制对话框迁移至WinUI 3，目前正推进通用文件对话框的迁移工作。",
-      "publishedAt": "2026-08-03T08:37:00+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/984/852.htm",
-      "subCategory": "操作系统"
-    },
-    {
-      "id": "tech-20260803-003",
-      "title": "小米米家无线洗地机5C发售：18000Pa吸力、三重防缠绕，1175元",
-      "summary": "小米米家无线洗地机5C已在京东上线，官方定价1175元，部分地区补贴后到手价998.75元。产品配妇18000Pa吸力，采用通过德国TÜV认证的三重防缠绕技术，支持60°C热风净味烘干，续航45分钟，运行噪音50dB(A)，单次续航可清洁341平方米。",
-      "publishedAt": "2026-08-03T08:30:54+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/984/851.htm",
-      "subCategory": "消费电子"
-    },
-    {
-      "id": "tech-20260803-004",
-      "title": "微软更新Teams应用界面，旨在解决用户误操作意外开启屏幕共享或直接退出会议",
-      "summary": "微软重新设计Teams会议界面以减少误操作，内部研究发现“共享”和“离开”按钮是用户最容易误点的功能。更新后主要控件移至界面顶部居中位置，音视频与共享功能分组排列，“离开”按钮移至最右侧，录制、字幕、投票、白板等低频功能整合进“更多”菜单，并支持自定义按钮布局，更新将于本月底前推送。",
-      "publishedAt": "2026-08-03T08:27:10+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/984/849.htm",
-      "subCategory": "互联网产品"
     }
   ]
 }
