@@ -3,8 +3,17 @@
   "slug": "finance",
   "title": "投资与财经",
   "description": "宏观经济、A 股 / 港股 / 美股、一级市场融资、行业研报观点。",
-  "updatedAt": "2026-08-09T17:00:00+08:00",
+  "updatedAt": "2026-08-10T00:55:00+08:00",
   "items": [
+    {
+      "id": "finance-20260809-201",
+      "title": "Apple tests China's CXMT memory chips for iPhones and MacBooks, WSJ reports",
+      "summary": "据华尔街日报报道，苹果公司正在测试中国长鑫存储（CXMT）的内存芯片，拟用于iPhone和MacBook等多条产品线，以缓解人工智能热潮引发的存储芯片短缺问题。双方早期接触聚焦于为在中国销售的部分设备供应元件，苹果和CXMT均未回应置评请求。",
+      "publishedAt": "2026-08-09T20:06:00+08:00",
+      "source": "Yahoo Finance (Reuters)",
+      "url": "https://finance.yahoo.com/technology/articles/apple-tests-chinas-cxmt-memory-120655649.html",
+      "subCategory": "美股"
+    },
     {
       "title": "伊朗外长：临时协议遭违反前不会与美国重启谈判",
       "summary": "伊朗外长阿拉格齐表示，在临时协议持续遭违反的情况下，伊朗不会与美国直接谈判；伊朗与阿曼就霍尔木兹海峡新航道安排已进入最后阶段磊商，但海峡重新开放仍需满足额外条件。",
@@ -375,15 +384,6 @@
       "id": "finance-20260808-011"
     },
     {
-      "title": "Alphabet启动250亿美元债券发行，期限最长达40年",
-      "summary": "当地时间8月7日，谷歌母公司Alphabet宣布拟发行总额250亿美元的高级无抵押债券，包括浮动利率和固定利率品种，期限覆盖2028年至2066年，其中最长期限债券票面利率最高达6.5%。",
-      "publishedAt": "2026-08-07",
-      "source": "界面新闻",
-      "url": "https://www.jiemian.com/article/14894188.html",
-      "subCategory": "美股",
-      "id": "finance-20260808-019"
-    },
-    {
       "title": "南向资金追踪｜本周净买入近百亿港元 加仓多只 AI概念股流出美团",
       "summary": "Wind数据显示，本周南向资金累计净买入 99.65亿港元，此前一周净流出187.10亿港元。资金净买入MiniMax-W、阿里巴巴-W、建滍积层板，净卖出美团-W、腾讯控股，港交所T+2结算下持仓数据存在滞后。",
       "publishedAt": "2026-08-07T18:24:00+08:00",
@@ -427,6 +427,15 @@
       "source": "中国新闻网",
       "url": "https://www.chinanews.com.cn/cj/2026/08-07/10673461.shtml",
       "subCategory": "宏观经济"
+    },
+    {
+      "title": "Alphabet启动250亿美元债券发行，期限最长达40年",
+      "summary": "当地时间8月7日，谷歌母公司Alphabet宣布拟发行总额250亿美元的高级无抵押债券，包括浮动利率和固定利率品种，期限覆盖2028年至2066年，其中最长期限债券票面利率最高达6.5%。",
+      "publishedAt": "2026-08-07",
+      "source": "界面新闻",
+      "url": "https://www.jiemian.com/article/14894188.html",
+      "subCategory": "美股",
+      "id": "finance-20260808-019"
     },
     {
       "id": "finance-20260808-001",
@@ -715,15 +724,6 @@
       "url": "https://www.cls.cn/detail/2445760",
       "subCategory": "美股",
       "id": "finance-20260804-950"
-    },
-    {
-      "id": "finance-20260805-004",
-      "title": "Palantir二季度营收同比增93%大超预期，股价单日暴涨近30%",
-      "summary": "Palantir公布二季度财报，营收 19.4亿美元同比增长93%，调整后每股收益0.41美元，均超市场预期；美国商业业务收入同比增长149%，公司将全年营收指引上调至81.5亿至81.6亿美元区间，股价当日上涨近30%。",
-      "publishedAt": "2026-08-05T00:55:00+08:00",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/article/palantir-stock-jumps-nearly-30-after-otherworldly-quarter-as-us-commercial-business-booms-122817775.html",
-      "subCategory": "公司财报"
     }
   ]
 }

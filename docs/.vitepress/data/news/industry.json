@@ -3,8 +3,62 @@
   "slug": "industry",
   "title": "行业新闻",
   "description": "企业服务、SaaS、云计算、制造业、消费互联网的产业动态。",
-  "updatedAt": "2026-08-09T17:00:00+08:00",
+  "updatedAt": "2026-08-10T00:55:00+08:00",
   "items": [
+    {
+      "id": "industry-20260809-n02",
+      "title": "SNE Research：2026年上半年全球动力电池装车总量608.5GWh，同比增长20%",
+      "summary": "SNE Research数据显示，2026年上半年全球动力电池装车量608.5GWh，同比增长20%。宁德时代以242.7GWh、39.9%份额继续领跑，比亚迪87.7GWh列第二，前十厂商中7家中国企业合计份额达72.4%。",
+      "publishedAt": "2026-08-09T20:22:52+08:00",
+      "source": "199IT",
+      "url": "https://www.199it.com/archives/1844414.html",
+      "subCategory": "新能源汽车"
+    },
+    {
+      "id": "industry-20260809-n03",
+      "title": "J.D. Power：2026年国内新能源车问题发生率46.1%，同比上涨12%",
+      "summary": "J.D. Power调研显示，2026年中国新能源车售后问题发生率升至46.1%，同比上涨12%。近85%用户困扰源于智能功能操作复杂而非硬件故障，新能源车事故维修均价达燃油车1.7倍，单车维修均价同比上涨23.3%。",
+      "publishedAt": "2026-08-09T20:19:27+08:00",
+      "source": "199IT",
+      "url": "https://www.199it.com/archives/1844418.html",
+      "subCategory": "新能源汽车"
+    },
+    {
+      "id": "industry-20260809-n04",
+      "title": "本田中国：2026年1-7月汽车销量230870辆，同比下降35.9%",
+      "summary": "本田中国官方数据显示，2026年1-7月在华累计汽车销量230870辆，同比下降35.9%；其中7月单月销量25052辆，同比降44.1%。日媒报道其零部件供应商F-TECH中国工厂已裁员500人，约占当地员工一半。",
+      "publishedAt": "2026-08-09T20:18:54+08:00",
+      "source": "199IT",
+      "url": "https://www.199it.com/archives/1844423.html",
+      "subCategory": "公司动态"
+    },
+    {
+      "id": "industry-20260809-n05",
+      "title": "乘联会：2026年7月中国汽车出口109.2万台，同比增长57%",
+      "summary": "乘联分会秘书长崔东树数据显示，2026年7月中国汽车出口109.2万台，同比增长57%，环比增长2%；1-7月累计出口640万台，同比增长54%，出口总额1108亿美元，同比增长55%。",
+      "publishedAt": "2026-08-09T20:12:48+08:00",
+      "source": "199IT",
+      "url": "https://www.199it.com/archives/1844560.html",
+      "subCategory": "新能源汽车"
+    },
+    {
+      "id": "industry-20260809-n06",
+      "title": "2026年调查中企未来12个月46% AI算力预算投向国产芯片",
+      "summary": "行业调查显示，60名中国企业高管受访者预计未来12个月将46%的AI加速器预算投向本土产品，高于目前30%。同期美国商务部证实对华英伟达H200芯片实际出货量“微不足道”，国产芯片替代进程正在加速。",
+      "publishedAt": "2026-08-09T20:12:17+08:00",
+      "source": "199IT",
+      "url": "https://www.199it.com/archives/1844566.html",
+      "subCategory": "半导体产业"
+    },
+    {
+      "id": "industry-20260809-n07",
+      "title": "洛图科技：2026年7月中国电视市场出货量185.0万台，环比下降25.6%",
+      "summary": "洛图科技数据显示，2026年7月中国电视市场品牌整机出货量185.0万台，同比微降0.5%，环比大降25.6%。海信、小米、创维、TCL等八大品牌合计份额达95.1%，小米出货近40万台居第二，市占率约20.5%。",
+      "publishedAt": "2026-08-09T20:12:00+08:00",
+      "source": "199IT",
+      "url": "https://www.199it.com/archives/1844568.html",
+      "subCategory": "消费零售"
+    },
     {
       "title": "顶级投行的肯定！高盛预测小米汽车2028年交付破1百万辆",
       "summary": "高盛研报预测小米汽车2026年交付50万辆、2027年77万辆，2028年将突破103.6万辆，认为其产能爵坡速度居行业前列，智能座舱生态具备差异化优势；该预测为投行观点，非官方目标。",
@@ -13,51 +67,6 @@
       "url": "https://finance.sina.com.cn/tech/roll/2026-08-09/doc-inimtchp8820179.shtml",
       "subCategory": "行业研报",
       "id": "industry-20260809-n01"
-    },
-    {
-      "title": "Apple Captures 65% of Global Premium Smartphone Market",
-      "summary": "Counterpoint数据显示，2026年上半年苹果占全球600美元以上高端智能手机市场65%份额，三星列第二占19%；高端机型销量占比升至29%创历史新高，苹果该细分营收同比增长9%。",
-      "publishedAt": "2026-08-07T07:32:00-07:00",
-      "source": "MacRumors（引用Counterpoint Research）",
-      "url": "https://www.macrumors.com/2026/08/07/apple-captures-65-percent-of-global-premium-market/",
-      "subCategory": "行业研报",
-      "id": "industry-20260807-n01"
-    },
-    {
-      "title": "中国运动相机半年销量312万台！大疊杀疯了 一家拿下74%市场",
-      "summary": "数据显示，2026年上半年中国运动相机市场销量312万台，同比增长超90%；大疊以74.0%销量份额及80.9%销售额份额居首，与影石合计占据近九成市场，GoPro份额持续下滑。",
-      "publishedAt": "2026-08-07T15:10:01+08:00",
-      "source": "凤凰网科技",
-      "url": "https://tech.ifeng.com/c/8vNKKmrjMj7",
-      "subCategory": "消费零售",
-      "id": "industry-20260807-n02"
-    },
-    {
-      "title": "上半年全球动力电池装机量排名：宁德时代断档式第一 前五中国厂商占了四家",
-      "summary": "上半年全球动力电池装机量合计608.5GWh，同比增长20%；宁德时代以242.7GWh稳居全球第一，市场份额升至39.9%，比亚迪以87.7GWh排名第二，中国厂商占据前五席位中四席。",
-      "publishedAt": "2026-08-07T10:53:00+08:00",
-      "source": "新浪科技",
-      "url": "https://finance.sina.com.cn/tech/roll/2026-08-07/doc-inimnenp3299097.shtml",
-      "subCategory": "新能源汽车",
-      "id": "industry-20260807-n04"
-    },
-    {
-      "title": "Global Semiconductor Sales Jump 35% in Second Quarter",
-      "summary": "美国半导体行业协会（SIA）数据显示，2026年第二季度全球半导体销售额达4033亿美元，环比增长35.1%；6月单月销售额1345亿美元，同比增长123.6%，全年销售额预计将超1.5万亿美元。",
-      "publishedAt": "2026-08-07",
-      "source": "Semiconductor Industry Association（经CircuitsAssembly转载）",
-      "url": "https://www.circuitsassembly.com/ca/editorial/menu-news/43514-global-semiconductor-sales-jump-35-in-second-quarter.html",
-      "subCategory": "半导体产业",
-      "id": "industry-20260807-n03"
-    },
-    {
-      "title": "中国重回韩国第一大出口市场 半导体超级周期助力",
-      "summary": "韩国7月出口989.9亿美元，同比增长62.8%；半导体出口410.1亿美元，同比暴增178.8%，连续两个月超400亿美元；对华出口216.8亿美元反超美国，重回韩国第一大出口市场。",
-      "publishedAt": "2026-08-06T18:02:32+08:00",
-      "source": "中华网",
-      "url": "https://news.china.com/socialgd/10000169/20260806/49659188.html",
-      "subCategory": "半导体产业",
-      "id": "industry-20260806-n01"
     },
     {
       "id": "industry-20260808-901",
@@ -96,6 +105,24 @@
       "id": "industry-20260808-006"
     },
     {
+      "title": "Apple Captures 65% of Global Premium Smartphone Market",
+      "summary": "Counterpoint数据显示，2026年上半年苹果占全球600美元以上高端智能手机市场65%份额，三星列第二占19%；高端机型销量占比升至29%创历史新高，苹果该细分营收同比增长9%。",
+      "publishedAt": "2026-08-07T07:32:00-07:00",
+      "source": "MacRumors（引用Counterpoint Research）",
+      "url": "https://www.macrumors.com/2026/08/07/apple-captures-65-percent-of-global-premium-market/",
+      "subCategory": "行业研报",
+      "id": "industry-20260807-n01"
+    },
+    {
+      "title": "中国运动相机半年销量312万台！大疊杀疯了 一家拿下74%市场",
+      "summary": "数据显示，2026年上半年中国运动相机市场销量312万台，同比增长超90%；大疊以74.0%销量份额及80.9%销售额份额居首，与影石合计占据近九成市场，GoPro份额持续下滑。",
+      "publishedAt": "2026-08-07T15:10:01+08:00",
+      "source": "凤凰网科技",
+      "url": "https://tech.ifeng.com/c/8vNKKmrjMj7",
+      "subCategory": "消费零售",
+      "id": "industry-20260807-n02"
+    },
+    {
       "id": "industry-20260807-101",
       "title": "WSTS数据：全球半导体市场规模2026H1同比翻倍，超7000亿美元",
       "summary": "据世界半导体贸易统计组织WSTS数据，2026年上半年全球半导体市场规模约7020亿美元，同比翻倍；存储芯片增长305%，逻辑芯片增长45%。机构将2026全年预测上调至1.655万亿美元，同比增长108%，2027年预计达2.1万亿美元。",
@@ -105,6 +132,15 @@
       "subCategory": "半导体产业"
     },
     {
+      "title": "上半年全球动力电池装机量排名：宁德时代断档式第一 前五中国厂商占了四家",
+      "summary": "上半年全球动力电池装机量合计608.5GWh，同比增长20%；宁德时代以242.7GWh稳居全球第一，市场份额升至39.9%，比亚迪以87.7GWh排名第二，中国厂商占据前五席位中四席。",
+      "publishedAt": "2026-08-07T10:53:00+08:00",
+      "source": "新浪科技",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-08-07/doc-inimnenp3299097.shtml",
+      "subCategory": "新能源汽车",
+      "id": "industry-20260807-n04"
+    },
+    {
       "id": "industry-20260808-002",
       "title": "比亚迪1-7月海外销量约97万辆 逼近奇瑞出口量",
       "summary": "比亚迪前7个月海外累计销量约97万辆，同比增长约76%，其中7月单月出口17.98万辆，同比增长124.3%；海外销量占公司总销量比例由去年23%升至43%。",
@@ -112,6 +148,15 @@
       "source": "中华网",
       "url": "https://news.china.com/socialgd/10000169/20260807/49660367.html",
       "subCategory": "新能源汽车"
+    },
+    {
+      "title": "Global Semiconductor Sales Jump 35% in Second Quarter",
+      "summary": "美国半导体行业协会（SIA）数据显示，2026年第二季度全球半导体销售额达4033亿美元，环比增长35.1%；6月单月销售额1345亿美元，同比增长123.6%，全年销售额预计将超1.5万亿美元。",
+      "publishedAt": "2026-08-07",
+      "source": "Semiconductor Industry Association（经CircuitsAssembly转载）",
+      "url": "https://www.circuitsassembly.com/ca/editorial/menu-news/43514-global-semiconductor-sales-jump-35-in-second-quarter.html",
+      "subCategory": "半导体产业",
+      "id": "industry-20260807-n03"
     },
     {
       "title": "SensorTower：2026年动作和策略游戏应用报告",
@@ -157,6 +202,42 @@
       "source": "新浪科技（中国信通院）",
       "url": "https://finance.sina.com.cn/tech/roll/2026-08-06/doc-inimkwsv2902970.shtml",
       "subCategory": "半导体产业"
+    },
+    {
+      "title": "中国重回韩国第一大出口市场 半导体超级周期助力",
+      "summary": "韩国7月出口989.9亿美元，同比增长62.8%；半导体出口410.1亿美元，同比暴增178.8%，连续两个月超400亿美元；对华出口216.8亿美元反超美国，重回韩国第一大出口市场。",
+      "publishedAt": "2026-08-06T18:02:32+08:00",
+      "source": "中华网",
+      "url": "https://news.china.com/socialgd/10000169/20260806/49659188.html",
+      "subCategory": "半导体产业",
+      "id": "industry-20260806-n01"
+    },
+    {
+      "title": "上半年我国连锁餐饮行业经营显现韧性",
+      "summary": "中国连锁经营协会简报显示，2026年上半年超七成样本连锁餐饮企业销售额同比增长或持平，六成企业门店数量净增长，58.7%企业净利润增长或持平，54.4%企业外卖订单占比超三成，行业转向质量深耕。",
+      "publishedAt": "2026-08-06T17:45:00+08:00",
+      "source": "新华社",
+      "url": "https://baijiahao.baidu.com/s?id=1872766714119606616",
+      "subCategory": "消费零售",
+      "id": "industry-20260808-008"
+    },
+    {
+      "id": "industry-20260808-004",
+      "title": "2026年全球半导体材料起全面涨价潮，半导体材料设备指数盘中最高涨超4%",
+      "summary": "受需求旺盛、成本上涨及地缘政治因素共同作用，全球高端半导体材料供给缺口约25%；2025年中国半导体材料销售额156亿美元，同比增长12.5%，设备国产化率已由16%提升到30%以上。",
+      "publishedAt": "2026-08-06T14:31:00+08:00",
+      "source": "新浪财经",
+      "url": "https://finance.sina.com.cn/jjxw/2026-08-06/doc-inimkfvf4603104.shtml",
+      "subCategory": "半导体产业"
+    },
+    {
+      "title": "长锤拒绝苹果压价，DRAM市场议价权转向存储厂商",
+      "summary": "长锤存储被曝拒绝苹果就LPDDR5X移动内存的压价要求，坚持报价不低于三星电子和SK海力士。华为、小米及腾讯等企业已通过长期合同锁定其产能，AI拉动下DRAM供应趋紧，行业议价权正转向存储厂商。",
+      "publishedAt": "2026-08-06T10:52:07+08:00",
+      "source": "电子工程专辑",
+      "url": "https://www.eet-china.com/news/202608067090.html",
+      "subCategory": "半导体产业",
+      "id": "industry-20260806-700"
     },
     {
       "id": "industry-20260806-952",
@@ -213,33 +294,6 @@
       "id": "industry-20260806-703"
     },
     {
-      "title": "上半年我国连锁餐饮行业经营显现韧性",
-      "summary": "中国连锁经营协会简报显示，2026年上半年超七成样本连锁餐饮企业销售额同比增长或持平，六成企业门店数量净增长，58.7%企业净利润增长或持平，54.4%企业外卖订单占比超三成，行业转向质量深耕。",
-      "publishedAt": "2026-08-06T17:45:00+08:00",
-      "source": "新华社",
-      "url": "https://baijiahao.baidu.com/s?id=1872766714119606616",
-      "subCategory": "消费零售",
-      "id": "industry-20260808-008"
-    },
-    {
-      "id": "industry-20260808-004",
-      "title": "2026年全球半导体材料起全面涨价潮，半导体材料设备指数盘中最高涨超4%",
-      "summary": "受需求旺盛、成本上涨及地缘政治因素共同作用，全球高端半导体材料供给缺口约25%；2025年中国半导体材料销售额156亿美元，同比增长12.5%，设备国产化率已由16%提升到30%以上。",
-      "publishedAt": "2026-08-06T14:31:00+08:00",
-      "source": "新浪财经",
-      "url": "https://finance.sina.com.cn/jjxw/2026-08-06/doc-inimkfvf4603104.shtml",
-      "subCategory": "半导体产业"
-    },
-    {
-      "title": "长锤拒绝苹果压价，DRAM市场议价权转向存储厂商",
-      "summary": "长锤存储被曝拒绝苹果就LPDDR5X移动内存的压价要求，坚持报价不低于三星电子和SK海力士。华为、小米及腾讯等企业已通过长期合同锁定其产能，AI拉动下DRAM供应趋紧，行业议价权正转向存储厂商。",
-      "publishedAt": "2026-08-06T10:52:07+08:00",
-      "source": "电子工程专辑",
-      "url": "https://www.eet-china.com/news/202608067090.html",
-      "subCategory": "半导体产业",
-      "id": "industry-20260806-700"
-    },
-    {
       "id": "industry-20260808-003",
       "title": "安永：2026年全球消费者健康调查",
       "summary": "安永调查10个市场7500名受访者发现，约70%消费者曾根据搜索引擎信息要求检测或用药，56%基于AI建议采取医疗行动，超过社交媒体45%的影响力；近四分之三受访者预计3至5年内技术自诊将普及。",
@@ -276,6 +330,24 @@
       "subCategory": "制造业"
     },
     {
+      "id": "industry-20260807-005",
+      "title": "江丰电子：拟出资5000万元参与私募投资基金 投向半导体上游、设计公司及下游新兴应用AI等领域",
+      "summary": "江丰电子公告称，拟出资5000万元作为有限合伙人参与设立总规模7.81亿元的私募投资基金，投向半导体上游设备材料、设计企业及AI、机器人等下游新兴应用领域。",
+      "publishedAt": "2026-08-05T18:10:00+08:00",
+      "source": "每日经济新闻",
+      "url": "https://www.nbd.com.cn/articles/2026-08-05/4533086.html",
+      "subCategory": "公司动态"
+    },
+    {
+      "id": "industry-20260808-001",
+      "title": "乘联会：7月1-31日乘用车零售150.6万辆 新能源渗透率64.4%",
+      "summary": "乘联分会数据显示，7月全国乘用车市场零售150.6万辆，同比下降18%，环比下降6%；新能源零售97万辆，渗透率64.4%；1-7月累计零售1020.7万辆，同比下降20%。",
+      "publishedAt": "2026-08-05T17:23:47+08:00",
+      "source": "乘联分会（凤凰网汽车）",
+      "url": "https://auto.ifeng.com/c/8vLwYFmrkSr",
+      "subCategory": "新能源汽车"
+    },
+    {
       "title": "2026上半年全球车企销量：比亚迪约180万辆第六，中国车企占三席",
       "summary": "数据显示，2026年上半年全球车企销量排行中，中国车企首次同时占据三席：比亚迪约180万辆排名第六，海外销量78.9万辆同比增145%；吉利汽车列第七，奇瑞汽车首次跃身前十，本田、铃木跌出榜单。",
       "publishedAt": "2026-08-05",
@@ -301,24 +373,6 @@
       "url": "https://counterpointresearch.com/en/insights/invidia-dominates-with-92-percent-share-in-counterpoint-researchs-sovereign-ai-llm-index",
       "subCategory": "行业研报",
       "id": "industry-20260809-004"
-    },
-    {
-      "id": "industry-20260807-005",
-      "title": "江丰电子：拟出资5000万元参与私募投资基金 投向半导体上游、设计公司及下游新兴应用AI等领域",
-      "summary": "江丰电子公告称，拟出资5000万元作为有限合伙人参与设立总规模7.81亿元的私募投资基金，投向半导体上游设备材料、设计企业及AI、机器人等下游新兴应用领域。",
-      "publishedAt": "2026-08-05T18:10:00+08:00",
-      "source": "每日经济新闻",
-      "url": "https://www.nbd.com.cn/articles/2026-08-05/4533086.html",
-      "subCategory": "公司动态"
-    },
-    {
-      "id": "industry-20260808-001",
-      "title": "乘联会：7月1-31日乘用车零售150.6万辆 新能源渗透率64.4%",
-      "summary": "乘联分会数据显示，7月全国乘用车市场零售150.6万辆，同比下降18%，环比下降6%；新能源零售97万辆，渗透率64.4%；1-7月累计零售1020.7万辆，同比下降20%。",
-      "publishedAt": "2026-08-05T17:23:47+08:00",
-      "source": "乘联分会（凤凰网汽车）",
-      "url": "https://auto.ifeng.com/c/8vLwYFmrkSr",
-      "subCategory": "新能源汽车"
     },
     {
       "id": "industry-20260804-101",
@@ -420,33 +474,6 @@
       "subCategory": "消费零售"
     },
     {
-      "id": "industry-20260805-001",
-      "title": "QuestMobile2026中国移动互联网半年报告：AI迎来'基座到应用的爆发时刻'",
-      "summary": "报告显示，2026年6月全网月活跃用户规模达12.82亿，同比增长1.2%，AI原生应用用户规模同比增长85.4%，短剧、股票交易等行业用户与时长同步增长，搜索引擎、图片编辑等行业活跃度下滑。",
-      "publishedAt": "2026-08-04",
-      "source": "QuestMobile",
-      "url": "https://www.questmobile.com.cn/research/report/2084487578531254273",
-      "subCategory": "行业研报"
-    },
-    {
-      "id": "industry-20260804-001",
-      "title": "SRG：2026年第一季度企业云支出同比增长35%",
-      "summary": "Synergy Research Group数据显示，2026年第一季度全球企业云基础设施支出逗骜1290亿美元，同比增长35%，为连续第九个季度增速加快，创2021年第四季度以来新高；亚马逊份颒4.4百分之二十一；先地位，微软、谷歌份额分别为21%和14%但增速更快，公有IaaS与PaaS服务增长38%。",
-      "publishedAt": "2026-08-04",
-      "source": "199IT（Synergy Research Group）",
-      "url": "https://www.199it.com/archives/1824983.html",
-      "subCategory": "行业研报"
-    },
-    {
-      "id": "industry-20260804-002",
-      "title": "BCG：2026年基础设施战略报告",
-      "summary": "波士顿咨询公司报告显示，2025年有限合伙人对基础设施资产类别的出资9500亿美元，同比增长60%，超过2022年历史纪录，基础设施资产管理总规模1.6万亿美元，占另类资产总量的10%；70%新增资金投向核心增益与增值型策略，高于2024年的54%，投资组合平均持有期由2021年的6.1年延长至2025年的7.6年。",
-      "publishedAt": "2026-08-04",
-      "source": "199IT（BCG）",
-      "url": "https://www.199it.com/archives/1819825.html",
-      "subCategory": "行业研报"
-    },
-    {
       "id": "industry-20260805-002",
       "title": "年出货2.6万台、消费占七成，外骨骷机器人会变成大众生意吗？",
       "summary": "IDC报告显示，2025年中国外骨骷机器人市场规模超16亿元，出货量约2.6万台，其中医疗康复贡献主要市场价值，消费助力类产品出货占比超七成，行业应用尚处起步阶段。",
@@ -501,6 +528,33 @@
       "id": "industry-20260809-002"
     },
     {
+      "id": "industry-20260805-001",
+      "title": "QuestMobile2026中国移动互联网半年报告：AI迎来'基座到应用的爆发时刻'",
+      "summary": "报告显示，2026年6月全网月活跃用户规模达12.82亿，同比增长1.2%，AI原生应用用户规模同比增长85.4%，短剧、股票交易等行业用户与时长同步增长，搜索引擎、图片编辑等行业活跃度下滑。",
+      "publishedAt": "2026-08-04",
+      "source": "QuestMobile",
+      "url": "https://www.questmobile.com.cn/research/report/2084487578531254273",
+      "subCategory": "行业研报"
+    },
+    {
+      "id": "industry-20260804-001",
+      "title": "SRG：2026年第一季度企业云支出同比增长35%",
+      "summary": "Synergy Research Group数据显示，2026年第一季度全球企业云基础设施支出逗骜1290亿美元，同比增长35%，为连续第九个季度增速加快，创2021年第四季度以来新高；亚马逊份颒4.4百分之二十一；先地位，微软、谷歌份额分别为21%和14%但增速更快，公有IaaS与PaaS服务增长38%。",
+      "publishedAt": "2026-08-04",
+      "source": "199IT（Synergy Research Group）",
+      "url": "https://www.199it.com/archives/1824983.html",
+      "subCategory": "行业研报"
+    },
+    {
+      "id": "industry-20260804-002",
+      "title": "BCG：2026年基础设施战略报告",
+      "summary": "波士顿咨询公司报告显示，2025年有限合伙人对基础设施资产类别的出资9500亿美元，同比增长60%，超过2022年历史纪录，基础设施资产管理总规模1.6万亿美元，占另类资产总量的10%；70%新增资金投向核心增益与增值型策略，高于2024年的54%，投资组合平均持有期由2021年的6.1年延长至2025年的7.6年。",
+      "publishedAt": "2026-08-04",
+      "source": "199IT（BCG）",
+      "url": "https://www.199it.com/archives/1819825.html",
+      "subCategory": "行业研报"
+    },
+    {
       "id": "industry-20260803-901",
       "title": "7月造车新势力交付榜：零跑汽车10.13万辆问鼎，成为首个单月交付突砆10万辆的新势力品牌",
       "summary": "7月造车新势力交付数据显示，零跑汽车以10.13万辆问鼎，成为首个单月交付突砆10万辆的新势力品牌，同比增长102%；鸿蒙智行交付4.5万辆，小鹏、蕴来、极氟、理想均维持在3万辆左右。",
@@ -508,6 +562,33 @@
       "source": "21世纪经济报道",
       "url": "https://finance.sina.com.cn/stock/hyyj/2026-08-03/doc-inikzzhi5887585.shtml",
       "subCategory": "新能源汽车"
+    },
+    {
+      "title": "全球订单爆发背后，中国机器人产业的\"喜\"与\"忧\"",
+      "summary": "报道称，全球每销售10台人形和四足智能机器人便有8台产自中国，国内人形机器人厂商超140家，年产量约1.44万台；IDC预计2026年全球出货量约6万台，中国占比超八成，但核心零部件与软件仍是短板。",
+      "publishedAt": "2026-08-03T19:16:00+08:00",
+      "source": "新浪财经",
+      "url": "https://finance.sina.com.cn/wm/2026-08-03/doc-inikzuyf6197512.shtml",
+      "subCategory": "制造业",
+      "id": "industry-20260808-005"
+    },
+    {
+      "id": "industry-20260805-007",
+      "title": "AI赋能地理位置营销 解锈白皮书2026年高线城市地理位置营销创意应用研究",
+      "summary": "艾瑞咨询报告显示，AI正推动地理位置营销从流量触达转向场景化内容生成，报告覆盖零售、餐饮、医疗、专业服务等行业案例，分析AI内容对消费者注意力与品牌认知的影响。",
+      "publishedAt": "2026-08-03T17:32:56+08:00",
+      "source": "艾瑞咨询",
+      "url": "https://report.iresearch.cn/report/202608/4849.shtml",
+      "subCategory": "企业服务"
+    },
+    {
+      "title": "日本：8月1日起断供半导体设备！",
+      "summary": "日本对华先进封装设备出口管制新规8月1日正式实施，固晶机、晶圆减薄机、激光隐切机等设备对华出口需逐案审查，中国厂商加速推进国产设备验证与替代。",
+      "publishedAt": "2026-08-03T13:29:00+08:00",
+      "source": "电子工程专辑",
+      "url": "https://www.eet-china.com/mp/a514290.html",
+      "subCategory": "半导体产业",
+      "id": "industry-20260803-953"
     },
     {
       "id": "industry-20260803-002",
@@ -562,33 +643,6 @@
       "url": "https://counterpointresearch.com/en/insights/ai-demand-reshapes-dram-rankings-in-q2-2026",
       "subCategory": "半导体产业",
       "id": "industry-20260809-003"
-    },
-    {
-      "title": "全球订单爆发背后，中国机器人产业的\"喜\"与\"忧\"",
-      "summary": "报道称，全球每销售10台人形和四足智能机器人便有8台产自中国，国内人形机器人厂商超140家，年产量约1.44万台；IDC预计2026年全球出货量约6万台，中国占比超八成，但核心零部件与软件仍是短板。",
-      "publishedAt": "2026-08-03T19:16:00+08:00",
-      "source": "新浪财经",
-      "url": "https://finance.sina.com.cn/wm/2026-08-03/doc-inikzuyf6197512.shtml",
-      "subCategory": "制造业",
-      "id": "industry-20260808-005"
-    },
-    {
-      "id": "industry-20260805-007",
-      "title": "AI赋能地理位置营销 解锈白皮书2026年高线城市地理位置营销创意应用研究",
-      "summary": "艾瑞咨询报告显示，AI正推动地理位置营销从流量触达转向场景化内容生成，报告覆盖零售、餐饮、医疗、专业服务等行业案例，分析AI内容对消费者注意力与品牌认知的影响。",
-      "publishedAt": "2026-08-03T17:32:56+08:00",
-      "source": "艾瑞咨询",
-      "url": "https://report.iresearch.cn/report/202608/4849.shtml",
-      "subCategory": "企业服务"
-    },
-    {
-      "title": "日本：8月1日起断供半导体设备！",
-      "summary": "日本对华先进封装设备出口管制新规8月1日正式实施，固晶机、晶圆减薄机、激光隐切机等设备对华出口需逐案审查，中国厂商加速推进国产设备验证与替代。",
-      "publishedAt": "2026-08-03T13:29:00+08:00",
-      "source": "电子工程专辑",
-      "url": "https://www.eet-china.com/mp/a514290.html",
-      "subCategory": "半导体产业",
-      "id": "industry-20260803-953"
     },
     {
       "id": "industry-20260807-004",
@@ -670,69 +724,6 @@
       "url": "https://finance.eastmoney.com/a/202608023829087865.html",
       "subCategory": "半导体产业",
       "id": "industry-20260802-101"
-    },
-    {
-      "id": "industry-20260802-002",
-      "title": "上汽集团7月整车销售33.9万辆",
-      "summary": "上汽集团公布7月整车销售33.9万辆，1-7月累计销售238.4万辆。自主品牌乘用车同比增长53.4%，新能源汽车销售97.3万辆，同比增长27.4%，海外销售87.6万辆，同比增长52.1%。",
-      "publishedAt": "2026-08-01T22:09:13+08:00",
-      "source": "新浪汽车",
-      "url": "https://auto.sina.com.cn/news/2026-08-01/detail-inikvnzx0336130.shtml",
-      "subCategory": "新能源汽车"
-    },
-    {
-      "title": "2026年7月汽车销量/交付榜出炉：比亚迪41.9万辆居首，零跑首超10万辆新势力里程碑",
-      "summary": "据IT之家统计，2026年7月比亚迪以41.9万辆销量居国内车企首位，同比增长21.76%，上汽33.9万辆、奇瑞27.7万辆分列二三位，零跑以10.1万辆首次实现新势力单月交付突砆10万辆。",
-      "publishedAt": "2026-08-01T22:04:35+08:00",
-      "source": "IT之家",
-      "url": "https://m.ithome.com/html/984629.htm",
-      "subCategory": "新能源汽车",
-      "id": "industry-20260801-950"
-    },
-    {
-      "title": "IDC报告：2025年中国工业具身智能机器人市场达57.4亿元，商业化进程全面提速",
-      "summary": "IDC报告显示，2025年中国工业具身智能机器人市场规模约57.4亿元，其中以工业机器人为载体的应用达36.2亿元，人形机器人应用为21.1亿元，行业正从单工位智能向产线级智能演进。",
-      "publishedAt": "2026-08-01T22:01:47+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/984/627.htm",
-      "subCategory": "行业研报",
-      "id": "industry-20260801-b005"
-    },
-    {
-      "id": "industry-20260802-001",
-      "title": "比亚迪7月销售41.9万辆汽车，海外销量近18万辆再创历史新高",
-      "summary": "比亚迪公布7月销量419211辆，其中海外销量179841辆，同比增长124.3%创历史新高。方程豪7月销量41213辆，同比增长190.6%；1-7月累计销售超227万辆。",
-      "publishedAt": "2026-08-01T20:07:00+08:00",
-      "source": "金融界",
-      "url": "https://finance.jrj.com.cn/2026/08/01200757986671.shtml",
-      "subCategory": "新能源汽车"
-    },
-    {
-      "title": "多家新势力车企公布7月交付数据：零跑首超10万台",
-      "summary": "零跑汽车7月交付101267台，同比增长102%，成为国内首个单月交付破 10 万台的造车新势力；小鹏交付38027辆增4%，蓝来35934辆增71%，理想交付量降0.86%。",
-      "publishedAt": "2026-08-01",
-      "source": "界面新闻",
-      "url": "https://www.jiemian.com/article/14861201.html",
-      "subCategory": "新能源汽车",
-      "id": "industry-20260801-b002"
-    },
-    {
-      "title": "比亚迪7月销售41.9万辆汽车，海外销量近18万辆再创历史新高",
-      "summary": "比亚迪7月总销量419211辆，其中乘用车411072辆；海外销量179841辆，同比增长124.3%；1-7月集团累计销量突破222.77万辆。",
-      "publishedAt": "2026-08-01T17:50:53+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/984/575.htm",
-      "subCategory": "新能源汽车",
-      "id": "industry-20260801-b001"
-    },
-    {
-      "id": "industry-20260802-003",
-      "title": "零跑汽车7月交付量达101267台",
-      "summary": "零跑汽车公布7月交付新车101267台，同比增长102%，成为国内首个单月交付突破 10 万台的造车新势力品牌，刷新自身历史纪录。",
-      "publishedAt": "2026-08-01T13:29:00+08:00",
-      "source": "新京报",
-      "url": "https://www.bjnews.com.cn/detail/1785562140168598.html",
-      "subCategory": "新能源汽车"
     }
   ]
 }

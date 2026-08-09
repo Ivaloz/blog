@@ -3,8 +3,26 @@
   "slug": "ai",
   "title": "AI 与大模型",
   "description": "大模型、Agent、AI 编程、推理框架、开源模型的发布与落地。",
-  "updatedAt": "2026-08-09T17:00:00+08:00",
+  "updatedAt": "2026-08-10T00:55:00+08:00",
   "items": [
+    {
+      "id": "ai-20260809-n06",
+      "title": "180万刀，连亚马逊都烧不起Claude了",
+      "summary": "亚马逊此前使用Claude Sonnet为网站生成作者信息，历时五个月才发现该项目已超预算860%，共计花费180万美元，且最终未能成功上线，暴露出企业滥用AI Agent导致的成本失控问题。",
+      "publishedAt": "2026-08-09T17:25:10+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/08/469010.html",
+      "subCategory": "Agent"
+    },
+    {
+      "id": "ai-20260809-n05",
+      "title": "GPT-5.6和Fable联手，解决了一道悬了25年的数学难题",
+      "summary": "微软研究院研究员Dimitris Papailiopoulos借助GPT-5.6与Claude Fable 5两款大模型，耗时七天证明出一种多项式时间算法，可使MIMO信号检测精确命中最大似然阈值，解决了无线通信领域悬而未决25年的经典难题。",
+      "publishedAt": "2026-08-09T17:16:58+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/08/468913.html",
+      "subCategory": "论文进展"
+    },
     {
       "title": "谷歌Chrome、微软Edge浏览器双双要求：下载本地AI模型需预留20GB空间",
       "summary": "谷歌Chrome与微软Edge浏览器悄然将设备端AI模型的磁盘空间需求提升至约20GB，谷歌未说明原因，微软Edge额外要求至少5.5GB显存；用户可在设置中关闭该功能，Edge在存储低于10GB时会自动清理已下载模型。",
@@ -249,15 +267,6 @@
       "subCategory": "AI音频"
     },
     {
-      "title": "Efficient Decode Context Parallelism with vLLM for Long Context Workloads",
-      "summary": "vLLM博客介绍解码上下文并行（DCP）技术，通过按序列维度切分KV缓存降低显存占用，在8×B200集群上为Kimi K2.6模型提供服务时单GPU吞吐量达每秒6091个token，明显高于基线张量并行方案。",
-      "publishedAt": "2026-08-07",
-      "source": "vLLM Blog",
-      "url": "https://vllm.ai/blog/2026-08-07-decode-context-parallelism",
-      "subCategory": "推理框架",
-      "id": "ai-20260808-018"
-    },
-    {
       "id": "ai-20260808-001",
       "title": "阿里推出国内首个AI语音平台CosyVoice Studio，将语义理解融入语音能力",
       "summary": "阿里基于自研Qwen-Audio模型推出CosyVoice Studio，集成语音输入、智能体搭建与音频创作三大模块，已在Artificial Analysis三项榜单登顶，率先在iOS、安卓、Mac、Windows免费开放。",
@@ -303,6 +312,15 @@
       "subCategory": "大模型"
     },
     {
+      "title": "Efficient Decode Context Parallelism with vLLM for Long Context Workloads",
+      "summary": "vLLM博客介绍解码上下文并行（DCP）技术，通过按序列维度切分KV缓存降低显存占用，在8×B200集群上为Kimi K2.6模型提供服务时单GPU吞吐量达每秒6091个token，明显高于基线张量并行方案。",
+      "publishedAt": "2026-08-07",
+      "source": "vLLM Blog",
+      "url": "https://vllm.ai/blog/2026-08-07-decode-context-parallelism",
+      "subCategory": "推理框架",
+      "id": "ai-20260808-018"
+    },
+    {
       "id": "ai-20260807-002",
       "title": "OpenAI：ChatGPT 免费用户默认模型升级为 GPT-5.6 Luna，Plus 和 Pro 用户更新聊天界面 GPT-5.6 Sol",
       "summary": "OpenAI宣布ChatGPT免费及Go用户默认模型升级为GPT-5.6 Luna，下周起获无限文本对话及深度思考按钮；Plus和Pro用户聊天界面同步更新至GPT-5.6 Sol，新增回复深度调节滑块。",
@@ -337,15 +355,6 @@
       "source": "36氪（阿里云）",
       "url": "https://36kr.com/newsflashes/3928029719607680",
       "subCategory": "AI视频"
-    },
-    {
-      "id": "ai-20260807-003",
-      "title": "Deep Agents vs LangChain vs LangGraph",
-      "summary": "LangChain工程师撰文对比开源Agent三层技术栈：Deep Agents为开箱即用框架，LangChain是可定制中间件的极简框架，LangGraph提供基于图的确定性运行时，建议多数开发者从Deep Agents入手。",
-      "publishedAt": "2026-08-06",
-      "source": "LangChain Blog",
-      "url": "https://www.langchain.com/blog/deep-agents-vs-langchain-vs-langgraph",
-      "subCategory": "Agent"
     },
     {
       "title": "Artificial Analysis榜单：阿里Qwen3.8Agentic能力得分全球第一",
@@ -400,6 +409,15 @@
       "url": "https://news.qq.com/rain/a/20260806A04W4J00",
       "subCategory": "大模型",
       "id": "ai-20260806-702"
+    },
+    {
+      "id": "ai-20260807-003",
+      "title": "Deep Agents vs LangChain vs LangGraph",
+      "summary": "LangChain工程师撰文对比开源Agent三层技术栈：Deep Agents为开箱即用框架，LangChain是可定制中间件的极简框架，LangGraph提供基于图的确定性运行时，建议多数开发者从Deep Agents入手。",
+      "publishedAt": "2026-08-06",
+      "source": "LangChain Blog",
+      "url": "https://www.langchain.com/blog/deep-agents-vs-langchain-vs-langgraph",
+      "subCategory": "Agent"
     },
     {
       "title": "突发，Jeff Dean离职创业！谷歌股价应声蒸发1.34万亿",
@@ -519,51 +537,6 @@
       "subCategory": "AI应用"
     },
     {
-      "id": "ai-20260805-002",
-      "title": "借助LFM2.5-2.6B随处部署本地智能体",
-      "summary": "LiquidAI推出26亿参数模型LFM2.5-2.6B，专为端侧智能体任务训练，支持工具调用与多步任务，苹果M5 Max上可达220 tokens/秒，运行内存低于2.5GB，已在Hugging Face开源。",
-      "publishedAt": "2026-08-04",
-      "source": "Hugging Face",
-      "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b",
-      "subCategory": "开源模型"
-    },
-    {
-      "id": "ai-20260805-005",
-      "title": "英伟达发布面向自动驾驶的开源模型Alpamayo 2 Super，现已开放商用",
-      "summary": "英伟达开源300亿参数自动驾驶推理模型Alpamayo 2 Super，采用OpenMDW-1.1许可证支持商用，可输出轨迹规划、推理过程、驾驶意图、标注数据及视觉问答，在LingoQA基准测试中排名第一。",
-      "publishedAt": "2026-08-04",
-      "source": "NVIDIA Blog",
-      "url": "https://blogs.nvidia.com/blog/alpamayo-2-super-open-model-now-available/",
-      "subCategory": "具身智能"
-    },
-    {
-      "id": "ai-20260805-007",
-      "title": "谷歌将投向Anthropic的数十亿芯片风险移出资产负债表",
-      "summary": "谷歌联合博通、摩根士丹利、阿波罗与黑石搭建特殊目的载体，为Anthropic提供350亿美元TPU算力且不计入自身资产负债表，博通为约300亿美元采购提供担保，谷歌账面负债仅8.15亿元。",
-      "publishedAt": "2026-08-04",
-      "source": "The Decoder",
-      "url": "https://the-decoder.com/google-moves-billions-in-anthropic-chip-risk-off-its-balance-sheet/",
-      "subCategory": "大模型"
-    },
-    {
-      "id": "ai-20260804-105",
-      "title": "Introducing Shieldstral",
-      "summary": "Mistral发布开源安全分类模型Shieldstral，参数量30亿，以Apache 2.0协议开源，可在推理时接受自然语言策略进行内容审核判断，支持文本与多模态场景，能在单张16GB显存GPU上运行。",
-      "publishedAt": "2026-08-04",
-      "source": "Mistral AI",
-      "url": "https://mistral.ai/news/shieldstral/",
-      "subCategory": "开源模型"
-    },
-    {
-      "title": "How to evaluate voice agents: execution, outcomes, and experience",
-      "summary": "LangChain提出语音Agent评测方法论，从执行、结果、体验三个维度评估：执行侧用确定性检查和LLM裁判验证指令与工具调用是否合规，结果侧衡量任务是否达成并结合预订成功率等业务指标，体验侧评估延迟、语音自然度与对话摩擦，建议按信号类型匹配对应评测器。",
-      "publishedAt": "2026-08-04",
-      "source": "LangChain Blog",
-      "url": "https://www.langchain.com/blog/how-to-evaluate-voice-agents-execution-outcomes-and-experience",
-      "subCategory": "Agent",
-      "id": "ai-20260804-957"
-    },
-    {
       "id": "ai-20260804-104",
       "title": "数学家24小时驳回OpenAI攻破的猜想！“AI证对了每句话，但已跟原猜想无关”",
       "summary": "OpenAI称其新模型证明了十大数学难题之一的Connes刚性猜想，堵萨斯大学学者Nielsen次日指出其Lean证明构造的两个群未满足ICC和T性质等条件，猜想实际仍未解决。",
@@ -616,6 +589,51 @@
       "url": "https://m.ithome.com/html/985450.htm",
       "subCategory": "AI应用",
       "id": "ai-20260804-956"
+    },
+    {
+      "id": "ai-20260805-002",
+      "title": "借助LFM2.5-2.6B随处部署本地智能体",
+      "summary": "LiquidAI推出26亿参数模型LFM2.5-2.6B，专为端侧智能体任务训练，支持工具调用与多步任务，苹果M5 Max上可达220 tokens/秒，运行内存低于2.5GB，已在Hugging Face开源。",
+      "publishedAt": "2026-08-04",
+      "source": "Hugging Face",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b",
+      "subCategory": "开源模型"
+    },
+    {
+      "id": "ai-20260805-005",
+      "title": "英伟达发布面向自动驾驶的开源模型Alpamayo 2 Super，现已开放商用",
+      "summary": "英伟达开源300亿参数自动驾驶推理模型Alpamayo 2 Super，采用OpenMDW-1.1许可证支持商用，可输出轨迹规划、推理过程、驾驶意图、标注数据及视觉问答，在LingoQA基准测试中排名第一。",
+      "publishedAt": "2026-08-04",
+      "source": "NVIDIA Blog",
+      "url": "https://blogs.nvidia.com/blog/alpamayo-2-super-open-model-now-available/",
+      "subCategory": "具身智能"
+    },
+    {
+      "id": "ai-20260805-007",
+      "title": "谷歌将投向Anthropic的数十亿芯片风险移出资产负债表",
+      "summary": "谷歌联合博通、摩根士丹利、阿波罗与黑石搭建特殊目的载体，为Anthropic提供350亿美元TPU算力且不计入自身资产负债表，博通为约300亿美元采购提供担保，谷歌账面负债仅8.15亿元。",
+      "publishedAt": "2026-08-04",
+      "source": "The Decoder",
+      "url": "https://the-decoder.com/google-moves-billions-in-anthropic-chip-risk-off-its-balance-sheet/",
+      "subCategory": "大模型"
+    },
+    {
+      "id": "ai-20260804-105",
+      "title": "Introducing Shieldstral",
+      "summary": "Mistral发布开源安全分类模型Shieldstral，参数量30亿，以Apache 2.0协议开源，可在推理时接受自然语言策略进行内容审核判断，支持文本与多模态场景，能在单张16GB显存GPU上运行。",
+      "publishedAt": "2026-08-04",
+      "source": "Mistral AI",
+      "url": "https://mistral.ai/news/shieldstral/",
+      "subCategory": "开源模型"
+    },
+    {
+      "title": "How to evaluate voice agents: execution, outcomes, and experience",
+      "summary": "LangChain提出语音Agent评测方法论，从执行、结果、体验三个维度评估：执行侧用确定性检查和LLM裁判验证指令与工具调用是否合规，结果侧衡量任务是否达成并结合预订成功率等业务指标，体验侧评估延迟、语音自然度与对话摩擦，建议按信号类型匹配对应评测器。",
+      "publishedAt": "2026-08-04",
+      "source": "LangChain Blog",
+      "url": "https://www.langchain.com/blog/how-to-evaluate-voice-agents-execution-outcomes-and-experience",
+      "subCategory": "Agent",
+      "id": "ai-20260804-957"
     },
     {
       "id": "ai-20260803-902",
@@ -706,24 +724,6 @@
       "url": "https://www.ithome.com/0/984/664.htm",
       "subCategory": "AI应用",
       "id": "ai-20260802-105"
-    },
-    {
-      "title": "高通完成收购AI软件公司Modular",
-      "summary": "高通宣布已完成对AI软件基础设施公司Modular的收购，以加强数据中心、边缘计算等领域AI计算布局。Modular旗下Mojo、MAX等产品将保留独立品牌运营，创始人Chris Lattner将出任高通AI软件与平台战略高管。",
-      "publishedAt": "2026-08-02T08:41:30+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/984/662.htm",
-      "subCategory": "推理框架",
-      "id": "ai-20260802-106"
-    },
-    {
-      "id": "ai-20260802-001",
-      "title": "DeepSeek-V4-Flash 正式版跑分报告：AI 单任务成本比 GPT-5.6 Luna 低约 60%",
-      "summary": "IT之家援引8月1日更新的AI基准测试平台数据称，DeepSeek-V4-Flash单任务推理成本较OpenAI GPT-5.6 Luna模型低约六成，该版本已于7月31日开放API公测，凸显其性价比优势。",
-      "publishedAt": "2026-08-02T07:22:09+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/984/645.htm",
-      "subCategory": "大模型"
     }
   ]
 }

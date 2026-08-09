@@ -3,8 +3,80 @@
   "slug": "tech",
   "title": "科技新闻",
   "description": "前沿科技、互联网产品、芯片硬件、开源生态。",
-  "updatedAt": "2026-08-09T17:00:00+08:00",
+  "updatedAt": "2026-08-10T00:55:00+08:00",
   "items": [
+    {
+      "id": "tech-20260809-n11",
+      "title": "微星RTX 5080超龙DRACO规格确认：功耗360W 加速频率2775MHz",
+      "summary": "微星确认RTX 5080超龙DRACO显卡规格，加速频率最高2775MHz，较公版高60MHz，整卡功耗360W，配备10752个CUDA核心及16GB GDDR7显存，官方尚未公布价格与上市时间。",
+      "publishedAt": "2026-08-09T23:44:56+08:00",
+      "source": "快科技",
+      "url": "https://news.mydrivers.com/1/1142/1142482.htm",
+      "subCategory": "芯片硬件"
+    },
+    {
+      "id": "tech-20260809-n10",
+      "title": "十年长跑终落幕！Intel停止Skylake和Kaby Lake最后订单：覆盖i7-7600U等",
+      "summary": "Intel已于8月7日正式终止第6代（Skylake）和第7代（Kaby Lake）酷睿处理器最后一批订单接收，涉及27款处理器及6款平台控制芯片，最终发货截止2027年8月7日，此后为工业客户提供12个月技术支持。",
+      "publishedAt": "2026-08-09T23:38:12+08:00",
+      "source": "快科技",
+      "url": "https://news.mydrivers.com/1/1142/1142481.htm",
+      "subCategory": "芯片硬件"
+    },
+    {
+      "id": "tech-20260809-n12",
+      "title": "快更新！AMD警告新漏洞18分钟读取密码文件：Zen 1至Zen 4全中招",
+      "summary": "AMD发布安全公告AMD-SB-7061，警告一种新型Spectre V2变种漏洞影响Zen 1至Zen 4架构处理器，攻击者以普通用户权限最快可在18分钟内读取/etc/shadow密码文件，目前已有Linux内核补丁修复。",
+      "publishedAt": "2026-08-09T23:11:14+08:00",
+      "source": "快科技",
+      "url": "https://news.mydrivers.com/1/1142/1142479.htm",
+      "subCategory": "安全漏洞"
+    },
+    {
+      "id": "tech-20260809-n13",
+      "title": "宁波一充电场站车辆过热，极氪回应称该车辆近期曾发生严重碰撞事故",
+      "summary": "8月9日宁波海曙区一辆极氪汽车在充电场站发生过热，消防到场处置未造成人员伤亡；极氪回应称该车此前发生过严重碰撞事故且未经官方渠道检修，提醒碰撞后车辆需经专业检测方可继续使用。",
+      "publishedAt": "2026-08-09T23:10:18+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/987/637.htm",
+      "subCategory": "智能汽车"
+    },
+    {
+      "id": "tech-20260809-n14",
+      "title": "技嘉重新推出 B760M GAMING 主板：DDR4 配 PCIe 5.0 插槽",
+      "summary": "技嘉重新推出B760M GAMING主板，采用Intel B760芯片组和LGA1700接口，支持第12/13/14代酷睿处理器，新版本保留DDR4内存插槽的同时新增PCIe 5.0插槽，官方暂未公布上市时间及价格。",
+      "publishedAt": "2026-08-09T22:55:27+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/987/636.htm",
+      "subCategory": "芯片硬件"
+    },
+    {
+      "id": "tech-20260809-n15",
+      "title": "甲骨文 OpenJDK 项目新规：不允许提交 AI 生成代码",
+      "summary": "甲骨文宣布OpenJDK社区新规，禁止提交由大语言模型、扩散模型等AI系统生成的代码、文本、拉取请求及邮件等内容，原因涉及知识产权风险、安全考量及代码审查负担，开发者仍可私下使用AI辅助调试。",
+      "publishedAt": "2026-08-09T21:22:38+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/987/615.htm",
+      "subCategory": "开源生态"
+    },
+    {
+      "id": "tech-20260809-n16",
+      "title": "全球首个：宁德时代 350Wh/kg 航空电池通过相邻电芯热失控验证",
+      "summary": "宁德时代面向载人eVTOL研发的航空动力电池系统通过相邻电芯热失控扩散测试，成为全球首个能量密度达350Wh/kg的方形电芯航空电池通过该验证，产品将首先搭载于峰飞航空5座载人eVTOL机型。",
+      "publishedAt": "2026-08-09T17:49:33+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/987/585.htm",
+      "subCategory": "航空航天"
+    },
+    {
+      "id": "tech-20260809-n17",
+      "title": "美国\"机器狗\"保安陆续上岗，相比真人每年可节省 8 万-13 万美元",
+      "summary": "美国多地开始部署机器狗承担数据中心、高价值农作物及体育场馆的安保巡逻工作，持续24小时岗位每年可比雇佣真人保安节省8万至13万美元成本，机器狗企业Asylon已在25家客户处部署约50台设备。",
+      "publishedAt": "2026-08-09T17:02:23+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/987/574.htm",
+      "subCategory": "机器人"
+    },
     {
       "title": "谷歌 Chrome 浏览器测试新提示框，引导用户打开系统设置修改默认浏览器",
       "summary": "谷歌在Chrome Beta版本中测试尺寸更大的提示框，引导Windows用户前往系统设置修改默认浏览器，并提示此举可同步密码、书签和浏览历史，用户可选择立即设置或稍后处理。",
@@ -635,78 +707,6 @@
       "source": "IT之家",
       "url": "https://www.ithome.com/0/986/784.htm",
       "subCategory": "芯片硬件"
-    },
-    {
-      "id": "tech-20260807-004",
-      "title": "三星发布 ISOCELL HPC 旗舰 2 亿像素传感器，首发 16-bit RAW 原生输出",
-      "summary": "三星发布旗舰图像传感器ISOCELL HPC，像素达2亿、尺寸1/1.3英寸，为首款支持16-bit RAW原生输出的手机CMOS传感器。新增DeepPix技术使满阱容量提升60%，并将单帧HDR功能扩展至1至4倍数字变焦全档位。",
-      "publishedAt": "2026-08-07T07:31:39+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/986/781.htm",
-      "subCategory": "芯片硬件"
-    },
-    {
-      "id": "tech-20260807-009",
-      "title": "小米汽车解答澎程系列涉水能力：全系标配涉水模式，电池达 IPX8+IPX9K 双防水等级",
-      "summary": "小米汽车回应澎程系列涉水能力咨询：N90 Max最大涉水深度750毫米，N70 Max为650毫米，电池达到IPX8与IPX9K双重防水等级。车辆配备双涉水雷达、悬架自动升高及舱内密封等27项防水强化措施。",
-      "publishedAt": "2026-08-07T07:09:25+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/986/778.htm",
-      "subCategory": "智能汽车"
-    },
-    {
-      "id": "tech-20260807-001",
-      "title": "AMD Acquires Taalas to Advance Compute Solutions for Rapidly Growing AI Inference Market",
-      "summary": "AMD宣布已达成协议收购总部位于多伦多的AI推理芯片公司Taalas。该公司成立于2023年，专注优化推理数据流以降低算力与内存瓶颈。交易将把Taalas技术整合进AMD加速器路线图，具体收购金额未披露。",
-      "publishedAt": "2026-08-06T16:05:00-04:00",
-      "source": "AMD Investor Relations",
-      "url": "https://ir.amd.com/news-events/press-releases/detail/1296/amd-acquires-taalas-to-advance-compute-solutions-for-rapidly-growing-ai-inference-market",
-      "subCategory": "芯片硬件"
-    },
-    {
-      "id": "tech-20260806-950",
-      "title": "福特“性价比电动皮卡”Fathom官宣：车内空间比丰田RAV4大，28350美元起售",
-      "summary": "福特发布纯电皮卡Fathom，为其Universal EV平台首款车型，起售价2.835万美元，车内空间超过丰田RAV4，标配集成Apple地图的高分辨率车机并支持BlueCruise脱手辅助驾驶，电池采用宁德时代授权技术的国产磷酸铁锂电芯。",
-      "publishedAt": "2026-08-06T23:49:00+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/986/770.htm",
-      "subCategory": "智能汽车"
-    },
-    {
-      "id": "tech-20260807-005",
-      "title": "放弃 x86 独占：Proxmox VE 9.2 发布并首次支持 Arm64 架构",
-      "summary": "开源虚拟化平台Proxmox VE发吃9.2版本，首次提供官方支持的Arm64架构版本，与x86版本共享代码库和生命周期。系统基于Debian 13.5、内核7.0，初期支持英伟达Grace Hopper及Vera平台，暂不支持树莓派等单板计算机。",
-      "publishedAt": "2026-08-06T23:23:12+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/986/768.htm",
-      "subCategory": "云计算"
-    },
-    {
-      "id": "tech-20260806-951",
-      "title": "特斯拉Terafab晶圆厂落地得克萨斯州，马斯克豪言“把尖端制造带回美国”",
-      "summary": "SpaceX与特斯拉宣布联合投资168亿美元，在得克萨斯州格莱姆斯县建设Terafab先进 AI芯片制造工厂，项目将整合逻辑芯片、存储芯片与先进封装产能于一体，以满足两家公司预期中超出当前全球芯片供给能力的庞大算力需求。",
-      "publishedAt": "2026-08-06T23:12:05+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/986/766.htm",
-      "subCategory": "芯片硬件"
-    },
-    {
-      "id": "tech-20260807-007",
-      "title": "中国广电完成行业首例 5G 700MHz\"全网通\"便携式基站接入验证，正式接入国家应急保障体系",
-      "summary": "中国广电宣布完成 5G核心网与国家应急通信平台对接，验证行业首例5G 700MHz全网通便携式基站。设备重15至18公斤，可独立运行数小时，下载速率达50Mbps，支持超500路语音通话同时接入，单站覆盖半径3公里以上。",
-      "publishedAt": "2026-08-06T21:58:49+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/986/741.htm",
-      "subCategory": "网络基础设施"
-    },
-    {
-      "id": "tech-20260807-008",
-      "title": "人类首次从另一颗行星表面拍到地球掩星：NASA 毅力号拍到地球从火卯一背后\"消失\"的罕见影像",
-      "summary": "NASA公布毅力号火星车用Mastcam-Z相机在7月2日拍摄的影像，记录地球从火卯一背后消失的掩星现象，这是人类首次从另一颗行星表面观测到此类天象。拍摄时地球距离约3.14亿公里，画面中呈现为一个移动光点。",
-      "publishedAt": "2026-08-06T21:48:42+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/986/740.htm",
-      "subCategory": "航空航天"
     }
   ]
 }
