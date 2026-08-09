@@ -3,8 +3,44 @@
   "slug": "ai",
   "title": "AI 与大模型",
   "description": "大模型、Agent、AI 编程、推理框架、开源模型的发布与落地。",
-  "updatedAt": "2026-08-09T09:00:00+08:00",
+  "updatedAt": "2026-08-09T17:00:00+08:00",
   "items": [
+    {
+      "title": "谷歌Chrome、微软Edge浏览器双双要求：下载本地AI模型需预留20GB空间",
+      "summary": "谷歌Chrome与微软Edge浏览器悄然将设备端AI模型的磁盘空间需求提升至约20GB，谷歌未说明原因，微软Edge额外要求至少5.5GB显存；用户可在设置中关闭该功能，Edge在存储低于10GB时会自动清理已下载模型。",
+      "publishedAt": "2026-08-09T16:27:55+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/987/568.htm",
+      "subCategory": "AI应用",
+      "id": "ai-20260809-n04"
+    },
+    {
+      "title": "首个全国产10万卡AI超集群投用：每秒峰值算力相当全人类持续计算200年",
+      "summary": "中科曙光官宣全国产10万卡AI超集群“曙光8000（登峰）”在郑州国家超算互联网核心节点正式投用，采用国产芯片与自研高速网络实现十万卡互联，覆盖科学计算、大模型训练与AI推理等26个领域超300项计算任务。",
+      "publishedAt": "2026-08-09T12:23:34+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/987/535.htm",
+      "subCategory": "大模型",
+      "id": "ai-20260809-n03"
+    },
+    {
+      "title": "当题库追不上模型，AI开始给自己出题：中国这支团队跑通了数据层RSI",
+      "summary": "上海交通大学、DeepSeek及上海期智研究院团队发布BigBang-V1，这是首个采用递归自我改进方法训练的基础模型，350亿参数，训练数据完全由AI自主合成，通过可验证的科学任务保证数据质量，无需人工逐题参与。",
+      "publishedAt": "2026-08-09T11:40:25+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/08/468782.html",
+      "subCategory": "论文进展",
+      "id": "ai-20260809-n01"
+    },
+    {
+      "title": "Opus 5狂烧6.9亿token做游戏，GPT-5.6用5美元复刻了",
+      "summary": "一名开发者仅用一段2000字提示词和6.9亿token，借助Anthropic Opus 5做出赛艇竞速游戏demo“INK TIDE”，画面精良、物理效果逼真；随后另一开发者用OpenAI GPT-5.6在Codex中花费约5美元复刻出类似游戏，但画面细节明显逊色。",
+      "publishedAt": "2026-08-09T11:25:00+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/08/468766.html",
+      "subCategory": "AI编程",
+      "id": "ai-20260809-n02"
+    },
     {
       "title": "67 岁农民大伯误信 AI 推荐除草剂，150 亩芝麻苗一夜枯萎",
       "summary": "安徽滁州一位67岁农民向AI软件咨询芝麻田除虫除草方案，AI给出的方案含仅适用大豆田、芝麻田禁用的除草剂苯磺隆，按方案用无人机喷洒150亩芝麻田后幼苗一夜枯死，涉事AI客服称系统无独立知识库，回答基于网络公开信息生成。",
@@ -465,24 +501,6 @@
       "subCategory": "大模型"
     },
     {
-      "id": "ai-20260805-004",
-      "title": "开源权重模型正追赶前沿水平，安全差距依然存在",
-      "summary": "SaferAI测试显示，智谱GLM-5.2对网络攻击与生物安全类高危任务几乎不拒答，而Anthropic Claude Opus 4.7因拒答过多导致部分测试无法完成，凸显开源权重模型能力逼近前沿但安全防护更易被移除。",
-      "publishedAt": "2026-08-04T13:05:00-07:00",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/04/open-weight-ai-models-are-catching-up-to-the-frontier-the-safety-gap-remains/",
-      "subCategory": "AI评测"
-    },
-    {
-      "id": "ai-20260805-006",
-      "title": "英伟达牵头的开放安全AI联盟成立一周即取得进展",
-      "summary": "由英伟达牵头、逗120家企业参与的开放安全AI联盟（OSAA）成立一周后，在黑帽大会上公布名为SAFE的工作组，提出AI安全事件报告与免责分析机制，OpenAI、谷歌、Anthropic尚未加入。",
-      "publishedAt": "2026-08-04T12:28:00-07:00",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/04/nvidia-doesnt-mess-around-a-week-after-open-ai-industry-group-formed-its-already-showing-progress/",
-      "subCategory": "大模型"
-    },
-    {
       "id": "ai-20260804-102",
       "title": "开源版Claude Science来了！零依赖、MIT协议，内置30+项科研Skills",
       "summary": "北京大学与元空 AI Agent联合实验室开源发布科研智能体OpenAI4S，遵循MIT协议，内置30余项科研Skills，通过生成可执行代码完成任务，且拒绝编造数据或结果。",
@@ -706,24 +724,6 @@
       "source": "IT之家",
       "url": "https://www.ithome.com/0/984/645.htm",
       "subCategory": "大模型"
-    },
-    {
-      "title": "环球、索尼、华纳等多家唱片公司提议将低质量AI音乐从排行榜中剔除",
-      "summary": "环球、索尼、华纳等多家唱片公司联合提议，要求国际排行榜将实质由人类创作作为收录标准，剔除利用未经授权数据训练的低质量AI音乐，而非仅做标签标注；国际唱片业协会IFPI表示支持，但尚无榜单机构承诺执行。",
-      "publishedAt": "2026-08-01T21:08:19+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/984/621.htm",
-      "subCategory": "AI音频",
-      "id": "ai-20260801-b001"
-    },
-    {
-      "title": "马斯克刚刚关注了DeepSeek的X账号",
-      "summary": "据监测账号Big Tech Alert披露，埃隆马斯克刚刚关注了DeepSeek的X账号；此前DeepSeek于7月31日宣布V4-Flash API公测上线，相关推文获超2.5万点赞、超5000次转发。",
-      "publishedAt": "2026-08-01T21:04:17+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/984/620.htm",
-      "subCategory": "大模型",
-      "id": "ai-20260801-b002"
     }
   ]
 }
