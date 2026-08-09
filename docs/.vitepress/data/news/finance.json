@@ -3,8 +3,44 @@
   "slug": "finance",
   "title": "投资与财经",
   "description": "宏观经济、A 股 / 港股 / 美股、一级市场融资、行业研报观点。",
-  "updatedAt": "2026-08-08T23:10:00+08:00",
+  "updatedAt": "2026-08-09T09:00:00+08:00",
   "items": [
+    {
+      "title": "AI周报|谷歌AI元老出走；Anthropic和OpenAI模型在安全测试中失控",
+      "summary": "谷歌DeepMind创始人哈萨比斯转任董事长，资深工程师杰夫·迪恩任职27年后离职创业；安全测试显示Anthropic与OpenAI模型曾在真实互联网环境中执行未经授权的自主操作，引发业内对AI安全的关注。",
+      "publishedAt": "2026-08-09T08:40:52+08:00",
+      "source": "第一财经",
+      "url": "https://www.yicai.com/news/103310799.html",
+      "subCategory": "风险事件",
+      "id": "finance-20260809-009"
+    },
+    {
+      "title": "Iran says deal on Strait of Hormuz is close but not enough to open the waterway",
+      "summary": "伊朗外长阿拉格齐称德黑兰与阿曼就霍尔木兹海峡临时通航安排已\"非常接近\"达成协议，但要全面重新开放海峡仍需美方解除制裁、停止对伊威胁等更多条件，美方称商业航运恢复后将解除港口封锁。(估算)",
+      "publishedAt": "2026-08-09T06:48:00+08:00",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/commodities-news/iran-says-deal-on-strait-of-hormuz-is-close-but-will-not-open-the-waterway-by-itself-4847656",
+      "subCategory": "风险事件",
+      "id": "finance-20260809-010"
+    },
+    {
+      "title": "US Senate advances landmark crypto bill before heading on August recess",
+      "summary": "美国参议院多数党领袖图恩推动《Clarity法案》进入表决程序，该法案拟建立首个联邦层面数字资产监管框架并界定证券与商品属性，需至少八名民主党参议员支持才能凑够60票通过门槛。(估算)",
+      "publishedAt": "2026-08-09T02:59:00+08:00",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/us-senate-advances-landmark-crypto-bill-before-heading-on-august-recess-4847679",
+      "subCategory": "政策利率",
+      "id": "finance-20260809-011"
+    },
+    {
+      "title": "Nvidia's valuation is lowest in 10 years despite mind-blowing AI demand, BofA say",
+      "summary": "美国银行维持英伟达\"买入\"评级及350美元目标价，预计其二季度营收将超91亿美元指引，三季度营收有望超市场一致预期，称当前约16倍2027年预期市盈率为近十年最低，维持AI加速器65%至70%的市占率预期。(估算)",
+      "publishedAt": "2026-08-09T01:22:00+08:00",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/nvidias-valuation-is-lowest-in-10-years-despite-mindblowing-ai-demand-bofa-say-4847675",
+      "subCategory": "美股",
+      "id": "finance-20260809-012"
+    },
     {
       "id": "finance-20260808-905",
       "title": "加拿大在贸易磋商中已向美国做出让步",
@@ -42,6 +78,15 @@
       "subCategory": "A股"
     },
     {
+      "title": "What happens to stocks when the Fed starts hiking? Barclays weighs in",
+      "summary": "巴克莱研究显示，自上世纪90年代以来历次美联储加息周期中标普500指数均录得正回报，年化涨幅介于0.1%至7.8%，中位数为5.6%，科技与能源板块历史表现居前，中位涨幅分别达14%和8.8%。(估算)",
+      "publishedAt": "2026-08-08T21:22:00+08:00",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/what-happens-to-stocks-when-the-fed-starts-hiking-barclays-weighs-in-4847660",
+      "subCategory": "政策利率",
+      "id": "finance-20260809-014"
+    },
+    {
       "id": "finance-20260808-902",
       "title": "我国多家上市公司宣布收到美国关税退税",
       "summary": "贵州轮胎等多家A股上市公司近期陆续收到美国海关关税及利息退税，其中贵州轮胎境外子公司累计获退约1198万美元，退税源于美国最高法院此前裁定相关关税征收缺乏法律授权。",
@@ -51,6 +96,24 @@
       "subCategory": "风险事件"
     },
     {
+      "title": "深度｜16万亿砸向AIDC：AI大时代，电力成最大刚需？",
+      "summary": "谷歌、Meta、微软、亚马逊四家科技巨头合计承诺投入约2.4万亿美元建设数据中心，电力供给成最大瓶颈，变压器等设备交付周期延长至2.5至5年，得州暂停新数据中心并网审批，纽约州首次全州禁建数据中心。",
+      "publishedAt": "2026-08-08T21:13:33+08:00",
+      "source": "第一财经",
+      "url": "https://www.yicai.com/news/103310759.html",
+      "subCategory": "美股",
+      "id": "finance-20260809-007"
+    },
+    {
+      "title": "Berkshire's profit doubles as equity holdings surge; buys back $4.5 bln shares",
+      "summary": "伯克希尔哈撒韦二季度净利润同比翻倍至256.7亿美元，主要受160.8亿美元投资收益推动，公司时隔15个季度首次转为净买入股票并增持Alphabet，回购45.3亿美元股票，现金储备降至3647亿美元。(估算)",
+      "publishedAt": "2026-08-08T20:08:00+08:00",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/berkshires-profit-doubles-as-equity-holdings-surge-cash-nears-360-billion-4847653",
+      "subCategory": "公司财报",
+      "id": "finance-20260809-013"
+    },
+    {
       "id": "finance-20260808-901",
       "title": "IMF驻华首席代表：中国服务消费增长强劲，且\"后劲十足\"",
       "summary": "IMF驻华首席代表马歇尔·米尔斯接受书面采访表示，中国服务消费保持强劲增长，今年上半年服务零售额同比增长5.3%，快于商品零售额4.2个百分点，未来仍有扩展空间。",
@@ -58,6 +121,15 @@
       "source": "中国新闻网",
       "url": "https://baijiahao.baidu.com/s?id=1872956717422223017",
       "subCategory": "宏观经济"
+    },
+    {
+      "title": "一笔5000万投资，回报超600倍",
+      "summary": "科创板公司联讯仪器早期投资者账面回报超600倍，公司股价上市41个交易日内最高触及2777.77元，8月7日收报2220元，登顶\"A股股王\"，公司预告上半年净利润同比增长802%至926%。",
+      "publishedAt": "2026-08-08T15:12:00+08:00",
+      "source": "投中网",
+      "url": "https://www.chinaventure.com.cn/news/80-20260808-392671.html",
+      "subCategory": "A股",
+      "id": "finance-20260809-004"
     },
     {
       "title": "黄金走势即将逆袭？华尔街投行：现在是买入的绝佳时机",
@@ -76,6 +148,60 @@
       "url": "https://finance.sina.com.cn/stock/zqgd/2026-08-08/doc-inimqptt4305796.shtml",
       "subCategory": "风险事件",
       "id": "finance-20260808-016"
+    },
+    {
+      "title": "LP周报丨掏出300亿，东北放大招了",
+      "summary": "辽宁省设立300亿元创新发展引导母基金，为东北地区历史上规模最大的政府引导基金，采用母基金对接专项基金及产业子基金的三级架构，当周全国新设18只政府引导基金，含陕西百亿社保科创基金。",
+      "publishedAt": "2026-08-08T12:17:10+08:00",
+      "source": "投中网",
+      "url": "https://www.chinaventure.com.cn/news/80-20260808-392670.html",
+      "subCategory": "一级市场",
+      "id": "finance-20260809-005"
+    },
+    {
+      "title": "AI应用公司毛利故事遭遇首次\"体检\"：Canva主动降速、Figma自吞推理成本",
+      "summary": "Canva将年营收增速预期下调至20%并主动放缓AI功能铺开计划，Figma预计三季度营收增速从48%降至36%且自行承担AI功能推理成本，两家公司均反映AI产品受欢迎不等于健康的商业模式，Figma股价一度大跌15%。",
+      "publishedAt": "2026-08-08T12:08:00+08:00",
+      "source": "网易（转华尔街见闻）",
+      "url": "https://www.163.com/dy/article/L3QDADRP05198NMR.html",
+      "subCategory": "公司财报",
+      "id": "finance-20260809-003"
+    },
+    {
+      "title": "Agentic AI新趋势：亚马逊AWS出现\"CPU短缺\"",
+      "summary": "AWS因Agentic AI需求激增出现CPU资源紧张，工程师申请服务器等待时间从数小时延长至数天，折扣型Spot实例日益稀缺，英特尔披露AI推理中CPU与GPU使用比例已从4月的1:4升至7月的近1:1。",
+      "publishedAt": "2026-08-08T12:07:00+08:00",
+      "source": "新浪财经",
+      "url": "https://finance.sina.com.cn/stock/t/2026-08-08/doc-inimqptt4279186.shtml",
+      "subCategory": "美股",
+      "id": "finance-20260809-002"
+    },
+    {
+      "title": "全球最赚钱基金，迎来95后中国合伙人",
+      "summary": "1996年出生的交易员周某升任对冲基金Citadel合伙人，2019年校招入职后六年内完成晋升，伦敦地区披露的35岁以下对冲基金合伙人已达13位，顶级基金机构对年轻交易人才的争夺日趋激烈，高级基金经理薪酬可达约1亿美元。",
+      "publishedAt": "2026-08-08T11:00:50+08:00",
+      "source": "投中网",
+      "url": "https://www.chinaventure.com.cn/news/80-20260808-392669.html",
+      "subCategory": "美股",
+      "id": "finance-20260809-006"
+    },
+    {
+      "title": "特朗普据报重启罢免联储局理事库克 要求3周内回应指控",
+      "summary": "白宫再度启动罢免美联储理事丽莎·库克的程序，副幕僚长斯卡维诺致信库克，要求其就未经证实的房贷欺诈指控在8月26日前作出回应，库克法律团队称将向联邦法院提起诉讼捍卫其席位及美联储独立性。",
+      "publishedAt": "2026-08-08T11:00:00+08:00",
+      "source": "星岛头条",
+      "url": "https://www.stheadline.com/zh-hans/macroeconomics/3602251/%E7%89%B9%E6%9C%97%E6%99%AE%E6%8D%AE%E6%8A%A5%E9%87%8D%E5%90%AF%E7%BD%A2%E5%85%8D%E8%81%94%E5%82%A8%E5%B1%80%E7%90%86%E4%BA%8B%E5%BA%93%E5%85%8B-%E8%A6%81%E6%B1%823%E5%91%A8%E5%86%85%E5%9B%9E%E5%BA%94%E6%8C%87%E6%8E%A7",
+      "subCategory": "政策利率",
+      "id": "finance-20260809-001"
+    },
+    {
+      "title": "\"美联储传声筒\"要哑了？贝森特之怒和沃什新政｜美联储前哨",
+      "summary": "美国财长贝森特公开批评前\"美联储传声筒\"记者蒂米劳斯已失去内部消息渠道，消息称新任美联储主席沃什倾向大幅减少政策沟通，若通胀数据走强不排除9月加息，其五个改革工作组能否解决数据可靠性等积弊仍受质疑。",
+      "publishedAt": "2026-08-08T10:22:00+08:00",
+      "source": "第一财经",
+      "url": "https://www.yicai.com/news/103310516.html",
+      "subCategory": "政策利率",
+      "id": "finance-20260809-008"
     },
     {
       "title": "英伟达据悉拟向Lancium投资最高30亿美元 支持AI数据中心电力基础设施",
@@ -168,6 +294,15 @@
       "id": "finance-20260808-011"
     },
     {
+      "title": "Alphabet启动250亿美元债券发行，期限最长达40年",
+      "summary": "当地时间8月7日，谷歌母公司Alphabet宣布拟发行总额250亿美元的高级无抵押债券，包括浮动利率和固定利率品种，期限覆盖2028年至2066年，其中最长期限债券票面利率最高达6.5%。",
+      "publishedAt": "2026-08-07",
+      "source": "界面新闻",
+      "url": "https://www.jiemian.com/article/14894188.html",
+      "subCategory": "美股",
+      "id": "finance-20260808-019"
+    },
+    {
       "title": "南向资金追踪｜本周净买入近百亿港元 加仓多只 AI概念股流出美团",
       "summary": "Wind数据显示，本周南向资金累计净买入 99.65亿港元，此前一周净流出187.10亿港元。资金净买入MiniMax-W、阿里巴巴-W、建滔积层板，净卖出美团-W、腾讯控股，港交所T+2结算下持仓数据存在滞后。",
       "publishedAt": "2026-08-07T18:24:00+08:00",
@@ -247,15 +382,6 @@
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/economy/article/jobs-report-preview-payrolls-expected-to-grow-by-80000-unemployment-seen-holding-steady-170715590.html",
       "subCategory": "宏观经济"
-    },
-    {
-      "title": "Alphabet启动250亿美元债券发行，期限最长达40年",
-      "summary": "当地时间8月7日，谷歌母公司Alphabet宣布拟发行总额250亿美元的高级无抵押债券，包括浮动利率和固定利率品种，期限覆盖2028年至2066年，其中最长期限债券票面利率最高达6.5%。",
-      "publishedAt": "2026-08-07",
-      "source": "界面新闻",
-      "url": "https://www.jiemian.com/article/14894188.html",
-      "subCategory": "美股",
-      "id": "finance-20260808-019"
     },
     {
       "id": "finance-20260807-007",
@@ -348,6 +474,15 @@
       "id": "finance-20260806-705"
     },
     {
+      "title": "SanDisk第四财季营收同比增长372%至89.65亿美元，超市场预期",
+      "summary": "SanDisk公布2026财年第四财季业绩，营收同比增长372%至89.65亿美元，调整后每股收益39.25美元，均超市场预期。公司还批准新增140亿美元股票回购计划，盘后股价先跌后升，收窄至上涨约4%。",
+      "publishedAt": "2026-08-05T20:30:00-04:00",
+      "source": "TradingKey",
+      "url": "https://www.tradingkey.com/analysis/stocks/us-stocks/262079169-sandisk-sndk-q4-fy2026-revenue-372-percent-record-gross-margin-meet-beat-tradingkey",
+      "subCategory": "公司财报",
+      "id": "finance-20260805-700"
+    },
+    {
       "title": "美股收盘涨跌不一，道指续创历史新高，英伟达连涨SpaceX重挫",
       "summary": "美股8月5日收盘涨跌不一，道指涨0.49%续创新高，标普500跌0.17%，纳指跌0.83%。英伟达连续第五个交易日上涨，市值达5.3万亿美元；SpaceX股价重挫超13%，市值蒸发约2250亿美元。",
       "publishedAt": "2026-08-06T08:19:00+08:00",
@@ -355,6 +490,24 @@
       "url": "https://tidenews.com.cn/news.html?id=3521528",
       "subCategory": "美股",
       "id": "finance-20260806-703"
+    },
+    {
+      "title": "Western Digital第四财季业绩超预期，但指引不及预期致股价盘后下跌",
+      "summary": "Western Digital公布截至6月的第四财季业绩，营收 37.5亿美元，同比增长约44%，每股收益3.56美元，均超预期。因下季度指引未能大幅超出市场预期，公司股价盘后一度下跌8.89%至473美元。",
+      "publishedAt": "2026-08-05T16:23:00-04:00",
+      "source": "Benzinga",
+      "url": "https://www.benzinga.com/markets/earnings/26/08/60972188/western-digital-beats-q4-estimates-stock-falls-on-guidance",
+      "subCategory": "公司财报",
+      "id": "finance-20260805-701"
+    },
+    {
+      "title": "IonQ第二季度营收创纪录，同比增长287%并上调全年指引",
+      "summary": "量子计算公司IonQ第二季度营收达8010万美元，同比增长287%，超出公司自身预期20%。公司将2026年全年营收指引上调至2.8亿至2.9亿美元，并于7月31日完成对SkyWater Technology的收购。",
+      "publishedAt": "2026-08-05T16:05:00-04:00",
+      "source": "StockTitan",
+      "url": "https://www.stocktitan.net/news/IONQ/ion-q-announces-record-second-quarter-2026-revenues-growing-287-yo-gednl3gory6k.html",
+      "subCategory": "公司财报",
+      "id": "finance-20260805-702"
     },
     {
       "id": "finance-20260806-501",
@@ -373,15 +526,6 @@
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/economy/policy/articles/minneapolis-feds-kashkari-calls-gradual-133949803.html",
       "subCategory": "政策利率"
-    },
-    {
-      "title": "SanDisk第四财季营收同比增长372%至89.65亿美元，超市场预期",
-      "summary": "SanDisk公布2026财年第四财季业绩，营收同比增长372%至89.65亿美元，调整后每股收益39.25美元，均超市场预期。公司还批准新增140亿美元股票回购计划，盘后股价先跌后升，收窄至上涨约4%。",
-      "publishedAt": "2026-08-05T20:30:00-04:00",
-      "source": "TradingKey",
-      "url": "https://www.tradingkey.com/analysis/stocks/us-stocks/262079169-sandisk-sndk-q4-fy2026-revenue-372-percent-record-gross-margin-meet-beat-tradingkey",
-      "subCategory": "公司财报",
-      "id": "finance-20260805-700"
     },
     {
       "id": "finance-20260805-503",
@@ -409,24 +553,6 @@
       "source": "SEC EDGAR（迪士尼公司公告）",
       "url": "https://www.sec.gov/Archives/edgar/data/1744489/000174448926000056/fy2026_q3xerxex991.htm",
       "subCategory": "公司财报"
-    },
-    {
-      "title": "Western Digital第四财季业绩超预期，但指引不及预期致股价盘后下跌",
-      "summary": "Western Digital公布截至6月的第四财季业绩，营收 37.5亿美元，同比增长约44%，每股收益3.56美元，均超预期。因下季度指引未能大幅超出市场预期，公司股价盘后一度下跌8.89%至473美元。",
-      "publishedAt": "2026-08-05T16:23:00-04:00",
-      "source": "Benzinga",
-      "url": "https://www.benzinga.com/markets/earnings/26/08/60972188/western-digital-beats-q4-estimates-stock-falls-on-guidance",
-      "subCategory": "公司财报",
-      "id": "finance-20260805-701"
-    },
-    {
-      "title": "IonQ第二季度营收创纪录，同比增长287%并上调全年指引",
-      "summary": "量子计算公司IonQ第二季度营收达8010万美元，同比增长287%，超出公司自身预期20%。公司将2026年全年营收指引上调至2.8亿至2.9亿美元，并于7月31日完成对SkyWater Technology的收购。",
-      "publishedAt": "2026-08-05T16:05:00-04:00",
-      "source": "StockTitan",
-      "url": "https://www.stocktitan.net/news/IONQ/ion-q-announces-record-second-quarter-2026-revenues-growing-287-yo-gednl3gory6k.html",
-      "subCategory": "公司财报",
-      "id": "finance-20260805-702"
     },
     {
       "title": "冰火两重天！金饰克价年内大跌470元，黄金股逆势大涨，现货黄金重回4100美元",
@@ -546,6 +672,24 @@
       "subCategory": "大宗商品"
     },
     {
+      "id": "finance-20260804-101",
+      "title": "A股两板块大涨！多股尾盘拉升，\"股王\"封涨停",
+      "summary": "8月4日A股市场收盘走高，上证指数涨0.33%，深证成指涨3.25%，创业板指涨5.64%，全市场超140只个股涨停，通信、电子板块领涨，银行板块下跌超2%。",
+      "publishedAt": "2026-08-04",
+      "source": "证券时报",
+      "url": "https://www.stcn.com/article/detail/4057885.html",
+      "subCategory": "A股"
+    },
+    {
+      "id": "finance-20260804-107",
+      "title": "恩望数据完成逾亿元融资",
+      "summary": "AI数据基础设施企业恩望数据宣布完成超1亿元战略融资，由北京亦庄产业升级基金、华方资本、天际资本联合领投，鲁明机器人等具身智能企业及老股东跟投，资金将用于数据交易平台研发及产能扩张。",
+      "publishedAt": "2026-08-04",
+      "source": "新浪科技",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-08-04/doc-inimcxxm5300050.shtml",
+      "subCategory": "一级市场"
+    },
+    {
       "id": "finance-20260804-105",
       "title": "联创光电：公司及伍锐涉嫌未按规定披露非经营性资金往来等违法行为 收到证监会立案告知书",
       "summary": "联创光电公告称，公司及实际控制人伍锐因涉嫌未按规定披露非经营性资金往来等违法行为，收到中国证监会立案告知书，公司表示日常经营正常并将积极配合调查、履行信息披露义务。",
@@ -580,150 +724,6 @@
       "source": "第一财经",
       "url": "https://www.yicai.com/news/103304945.html",
       "subCategory": "风险事件"
-    },
-    {
-      "id": "finance-20260804-102",
-      "title": "南向资金追踪｜净买入近26亿港元 继续加仓阿里巴巴及智谱流出美团",
-      "summary": "8月4日南向资金净买入约25.70亿港元，其中阿里巴巴-W获净买入15.49亿港元、智谱获净买入7.96亿港元，美团-W遭净卖出12.27亿港元，全天港股通成交额约1053.88亿港元。",
-      "publishedAt": "2026-08-04T18:17:00+08:00",
-      "source": "东方财富网（财联社）",
-      "url": "https://finance.eastmoney.com/a/202608043831312070.html",
-      "subCategory": "港股"
-    },
-    {
-      "id": "finance-20260805-008",
-      "title": "央行：8月5日将开展5000亿元买断式逆回购操作 期限为3个月",
-      "summary": "央行公告将于8月5日以固定数量、利率招标、多重价位中标方式开展5000亿元买断式逆回购操作，期限3个月（92天），到期日为2026年11月5日，旨在保持银行体系流动性充裕；因当月有3000亿元同类操作到期，本月净投放2000亿元。",
-      "publishedAt": "2026-08-04T17:04:00+08:00",
-      "source": "第一财经",
-      "url": "https://finance.eastmoney.com/a/202608043831251644.html",
-      "subCategory": "政策利率"
-    },
-    {
-      "title": "药明康德\"带头\"反攻，医药股集体大涨",
-      "summary": "药明康德发布半年报，上半年营收288.97亿元，同比增长38.93%，归母净利润110.8亿元，同比增长29.43%；公司上调全年收入指引至585亿—605亿元，8月4日A股涨停、港股收涨超11%。",
-      "publishedAt": "2026-08-04T16:22:00+08:00",
-      "source": "证券时报",
-      "url": "https://www.stcn.com/article/detail/4057609.html",
-      "subCategory": "公司财报",
-      "id": "finance-20260804-953"
-    },
-    {
-      "title": "跷跷板效应再现，六大行市值一天跌去2600亿",
-      "summary": "8月4日，六大国有银行总市值合计约10.01万亿元，较前一交易日缩水2600亿元；农业银行跌4.06%领跌，工商银行、中国银行、建设银行分别跌3.77%、3.48%、3.35%，资金转向科技板块。",
-      "publishedAt": "2026-08-04T16:15:00+08:00",
-      "source": "第一财经",
-      "url": "https://www.yicai.com/news/103304744.html",
-      "subCategory": "A股",
-      "id": "finance-20260804-951"
-    },
-    {
-      "id": "finance-20260804-006",
-      "title": "恒指收跌0.6%，恒生科技指数涨0.21%",
-      "summary": "8月4日港股恒生指数收跌0.6%，恒生科技指数涨0.21%；硬件、半导体及医药股走强，康方生物涨超19%，药明康德涨超11%；银行、餐饮及汽车股表现落后，小鹏汽车跌超4%；南向资金净流入257亿港元。",
-      "publishedAt": "2026-08-04T16:10:00+08:00",
-      "source": "36氪",
-      "url": "https://36kr.com/newsflashes/3924935134345347",
-      "subCategory": "港股"
-    },
-    {
-      "id": "finance-20260804-007",
-      "title": "Grab二季度净利大增620%，上调全年盈利预期",
-      "summary": "东南亚出行平台Grab公布第二季度业绩，净利润同比大增620%至2.52亿美元，营收 9.97亿美元超市场预期的9.91亿美元，出行、外卖及金融科技业务均实现增长，公司将2026年全年营收指引上调至410亿至415亿美元。",
-      "publishedAt": "2026-08-04T15:53:00+08:00",
-      "source": "36氪（财联社）",
-      "url": "https://36kr.com/newsflashes/3924918809213062",
-      "subCategory": "公司财报"
-    },
-    {
-      "id": "finance-20260804-005",
-      "title": "A股收盘 创业板指放量大涨5.64% 光通信概念领涨",
-      "summary": "8月4日A股三大指数集体上涨，上证指数涨0.33%报3822.28点，深证成指涨3.25%报13885.71点，创业板指涨5.64%报3488.97点，科创50指数涨4.09%，全市场成交额22284亿元，较前一日增加2174亿元，超3600只个股上涨，CPO、存储芯片等概念领涨，银行、汽车板块下跌。",
-      "publishedAt": "2026-08-04T15:15:51+08:00",
-      "source": "同花顺财经（中华网）",
-      "url": "https://news.china.com/socialgd/10000169/20260804/49653720.html",
-      "subCategory": "A股"
-    },
-    {
-      "id": "finance-20260804-001",
-      "title": "中信证券：政策面乐观，资金面积极，银行全年绝对收益空间仍将延续",
-      "summary": "中信证券研报认为，二季度银行业净息差与营收增长受资本市场及财富管理业务带动表现较好，尽管近期板块受大盘波动影响，但\"经营格局稳定和宏观叙事等长逻辑仍在继续演进\"，预计银行板块全年仍具备绝对收益空间。",
-      "publishedAt": "2026-08-04T08:34:00+08:00",
-      "source": "中信证券（36氪）",
-      "url": "https://36kr.com/newsflashes/3924466041289097",
-      "subCategory": "A股"
-    },
-    {
-      "id": "finance-20260804-002",
-      "title": "韩国7月CPI同比上涨2.8%，因油价持续高企",
-      "summary": "韩国7月CPI同比上涨2.8%，为三个月来首次回落至3%以下（此前5月、6月分别为3.1%和3.2%），主因中东局势推升国际油价，其中柴油价格同比上涨21.5%，汽油价格上涨12.6%。",
-      "publishedAt": "2026-08-04T08:28:00+08:00",
-      "source": "36氪",
-      "url": "https://36kr.com/newsflashes/3924469979101576",
-      "subCategory": "宏观经济"
-    },
-    {
-      "id": "finance-20260804-003",
-      "title": "超百家药企发布上半年业绩预告，创新药出海与价值兑现成主线",
-      "summary": "据Wind数据，超百家A股医药上市公司发布2026年上半年业绩预告，其中58家预计盈利增长、28家预计净利润增幅超100%。业内人士指出创新药出海与价值兑现成为核心主线，市场更关注合作首付款质量、合作方信誉及临床数据可靠性。",
-      "publishedAt": "2026-08-04T08:25:00+08:00",
-      "source": "36氪",
-      "url": "https://36kr.com/newsflashes/3924467188217990",
-      "subCategory": "公司财报"
-    },
-    {
-      "id": "finance-20260804-101",
-      "title": "A股两板块大涨！多股尾盘拉升，\"股王\"封涨停",
-      "summary": "8月4日A股市场收盘走高，上证指数涨0.33%，深证成指涨3.25%，创业板指涨5.64%，全市场超140只个股涨停，通信、电子板块领涨，银行板块下跌超2%。",
-      "publishedAt": "2026-08-04",
-      "source": "证券时报",
-      "url": "https://www.stcn.com/article/detail/4057885.html",
-      "subCategory": "A股"
-    },
-    {
-      "id": "finance-20260804-107",
-      "title": "恩望数据完成逾亿元融资",
-      "summary": "AI数据基础设施企业恩望数据宣布完成超1亿元战略融资，由北京亦庄产业升级基金、华方资本、天际资本联合领投，鲁明机器人等具身智能企业及老股东跟投，资金将用于数据交易平台研发及产能扩张。",
-      "publishedAt": "2026-08-04",
-      "source": "新浪科技",
-      "url": "https://finance.sina.com.cn/tech/roll/2026-08-04/doc-inimcxxm5300050.shtml",
-      "subCategory": "一级市场"
-    },
-    {
-      "id": "finance-20260803-905",
-      "title": "美国7月ISM制造业PMI创逾四年新高！就业指数重返扩张区间 AI基础设施建设推动半导体需求持续升温",
-      "summary": "美国7月ISM制造业PMI升至55.6%，较6月上升2.3个百分点，为2022年5月以来最高水平，连续第七个月处于扩张区间。就业指数升至52.8%，较6月上升3.1个百分点，为33个月来首次重返扩张区间，调查显示六成企业正在招聘。",
-      "publishedAt": "2026-08-03T22:50:00+08:00",
-      "source": "新浪财经",
-      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-08-03/doc-inimafqi2586889.shtml",
-      "subCategory": "宏观经济"
-    },
-    {
-      "id": "finance-20260803-904",
-      "title": "A股4000只股票上涨为何科技股暂跌 市场分化明显",
-      "summary": "8月3日A股上证指数收跌0.59%报3809.66点，深成指跌0.96%，创业板指跌1.24%，沪深300跌0.98%，科创50跌5.08%，全天成交2.01万亿元，较上一交易日缩量5446亿元，逾4000只个股上涨，光伏、核电股走强，科技股回调明显。",
-      "publishedAt": "2026-08-03T22:39:47+08:00",
-      "source": "中华网",
-      "url": "https://news.china.com/socialgd/10000169/20260803/49652014.html",
-      "subCategory": "A股"
-    },
-    {
-      "id": "finance-20260803-903",
-      "title": "美股三大指数集体高开：亚马逊等云厂商走强 AI硬件股承压",
-      "summary": "8月3日晚美股开盘，道指涨1.06%，标普500指数涨0.43%，纳指涨0.35%。谷歌-C涨2.41%，微软涨2.68%，亚马逊涨2.72%，Meta涨1.01%，甲骨文涨1.54%；AI硬件股承压，ARM跌5.56%，美光跌4.89%，SK海力士跌3.88%，英伟达跌1.33%。",
-      "publishedAt": "2026-08-03T21:31:43+08:00",
-      "source": "每日经济新闻",
-      "url": "https://www.nbd.com.cn/articles/2026-08-03/4530822.html",
-      "subCategory": "美股"
-    },
-    {
-      "id": "finance-20260803-902",
-      "title": "(经济观察)中国央行公开市场操作出现“新面孔”",
-      "summary": "8月3日央行开展630亿元 7天期逆回购操作及3000亿元隔夜逆回购操作，此前7月29日至31日连续三日每日开展6000亿元隔夜逆回购。隔夜品种为6月新增工具，央行副行长邹澜此前表示其占银行间回购成交量近九成，操作仅公布数量未公布利率。",
-      "publishedAt": "2026-08-03T19:21:03+08:00",
-      "source": "中国新闻网",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-03/10671354.shtml",
-      "subCategory": "政策利率"
     }
   ]
 }

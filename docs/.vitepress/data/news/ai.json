@@ -3,8 +3,44 @@
   "slug": "ai",
   "title": "AI 与大模型",
   "description": "大模型、Agent、AI 编程、推理框架、开源模型的发布与落地。",
-  "updatedAt": "2026-08-08T23:10:00+08:00",
+  "updatedAt": "2026-08-09T09:00:00+08:00",
   "items": [
+    {
+      "title": "67 岁农民大伯误信 AI 推荐除草剂，150 亩芝麻苗一夜枯萎",
+      "summary": "安徽滁州一位67岁农民向AI软件咨询芝麻田除虫除草方案，AI给出的方案含仅适用大豆田、芝麻田禁用的除草剂苯磺隆，按方案用无人机喷洒150亩芝麻田后幼苗一夜枯死，涉事AI客服称系统无独立知识库，回答基于网络公开信息生成。",
+      "publishedAt": "2026-08-09T07:48:34+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/987/474.htm",
+      "subCategory": "AI应用",
+      "id": "ai-20260809-004"
+    },
+    {
+      "title": "研究：人们无法有效区分 AI 生成与人类原创短篇小说",
+      "summary": "维拉诺瓦大学团队在《Judgment and Decision Making》期刊发文，让1682名成年人阅读人类与ChatGPT撰写的短篇小说并标注真实或误导性作者信息，结果显示读者辨别准确率仅40%至52%，接近随机水平，但越熟悉AI辨识越准确。",
+      "publishedAt": "2026-08-09T07:24:13+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/987/465.htm",
+      "subCategory": "AI评测",
+      "id": "ai-20260809-003"
+    },
+    {
+      "title": "OpenAI 收购 AI 演示文稿初创公司 NextSlide",
+      "summary": "OpenAI宣布收购AI演示文稿创业公司NextSlide，创始人Ahmed Beshry在官网确认团队已并入ChatGPT开发工作。该公司产品可将提示词、笔记或研究资料转化为可编辑演示文稿，交易条款未披露，收购已于今年早些时候完成。",
+      "publishedAt": "2026-08-09T06:54:22+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/987/455.htm",
+      "subCategory": "AI应用",
+      "id": "ai-20260809-001"
+    },
+    {
+      "title": "OpenAI 桌面端 ChatGPT 上线语音交互功能，可语音操控电脑执行多步骤任务",
+      "summary": "OpenAI为桌面版ChatGPT新增语音交互功能，基于新推出的ChatGPT-Live语音模型，用户可通过语音直接控制ChatGPT Work与Codex智能体，下达复杂多步骤指令并在需要确认时获得实时反馈，macOS版还支持读取屏幕内容。",
+      "publishedAt": "2026-08-09T06:46:14+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/987/452.htm",
+      "subCategory": "Agent",
+      "id": "ai-20260809-002"
+    },
     {
       "id": "ai-20260808-901",
       "title": "消息称WorkBuddy已成腾讯AI应用战略优先级最高产品之一",
@@ -105,6 +141,15 @@
       "id": "ai-20260808-015"
     },
     {
+      "title": "Cursor，即将彻底消失？",
+      "summary": "36氪报道，SpaceX（马斯克旗下与xAI一体的公司）以600亿美元收购AI编程工具Cursor，预计8月底完成交割，Cursor品牌将在未来数月内逐步淘汰，新产品可能更名为“Grok Bot”。Cursor此前服务超500家财富榜企业，年收入40亿美元，交易或影响其此前坚持的多模型中立性。",
+      "publishedAt": "2026-08-08T11:55:00+08:00",
+      "source": "36氪",
+      "url": "https://36kr.com/p/3930343633141121",
+      "subCategory": "AI编程",
+      "id": "ai-20260809-005"
+    },
+    {
       "title": "谷歌急了：AI核心员工全给我搬回硅谷坐班！",
       "summary": "谷歌将负责Gemini训练后阶段的核心团队从伦敦集中调回硅谷总部，DeepMind CTO Koray Kavukcuoglu已接任CEO主持日常运营，哈萨比斯转向长期AGI研究，谷歌另在洽谈以超15亿美元收购编程AI初创公司Mechanize。",
       "publishedAt": "2026-08-08T10:45:02+08:00",
@@ -168,6 +213,15 @@
       "subCategory": "AI音频"
     },
     {
+      "title": "Efficient Decode Context Parallelism with vLLM for Long Context Workloads",
+      "summary": "vLLM博客介绍解码上下文并行（DCP）技术，通过按序列维度切分KV缓存降低显存占用，在8×B200集群上为Kimi K2.6模型提供服务时单GPU吞吐量达每秒6091个token，明显高于基线张量并行方案。",
+      "publishedAt": "2026-08-07",
+      "source": "vLLM Blog",
+      "url": "https://vllm.ai/blog/2026-08-07-decode-context-parallelism",
+      "subCategory": "推理框架",
+      "id": "ai-20260808-018"
+    },
+    {
       "id": "ai-20260808-001",
       "title": "阿里推出国内首个AI语音平台CosyVoice Studio，将语义理解融入语音能力",
       "summary": "阿里基于自研Qwen-Audio模型推出CosyVoice Studio，集成语音输入、智能体搭建与音频创作三大模块，已在Artificial Analysis三项榜单登顶，率先在iOS、安卓、Mac、Windows免费开放。",
@@ -222,15 +276,6 @@
       "subCategory": "AI应用"
     },
     {
-      "title": "Efficient Decode Context Parallelism with vLLM for Long Context Workloads",
-      "summary": "vLLM博客介绍解码上下文并行（DCP）技术，通过按序列维度切分KV缓存降低显存占用，在8×B200集群上为Kimi K2.6模型提供服务时单GPU吞吐量达每秒6091个token，明显高于基线张量并行方案。",
-      "publishedAt": "2026-08-07",
-      "source": "vLLM Blog",
-      "url": "https://vllm.ai/blog/2026-08-07-decode-context-parallelism",
-      "subCategory": "推理框架",
-      "id": "ai-20260808-018"
-    },
-    {
       "id": "ai-20260806-950",
       "title": "即日起，ChatGPT可以调用Adobe Photoshop、Lightroom来修图、设计了",
       "summary": "Adobe将其ChatGPT集成范围扩展至逾70款创意工具，包括Photoshop、Lightroom、Premiere及Illustrator，用户安装Adobe插件后可在ChatGPT内通过“@Adobe”指令完成基础修图与视频制作，专业级精细控制仍需使用旗舰应用完成。",
@@ -256,6 +301,15 @@
       "source": "36氪（阿里云）",
       "url": "https://36kr.com/newsflashes/3928029719607680",
       "subCategory": "AI视频"
+    },
+    {
+      "id": "ai-20260807-003",
+      "title": "Deep Agents vs LangChain vs LangGraph",
+      "summary": "LangChain工程师撰文对比开源Agent三层技术栈：Deep Agents为开箱即用框架，LangChain是可定制中间件的极简框架，LangGraph提供基于图的确定性运行时，建议多数开发者从Deep Agents入手。",
+      "publishedAt": "2026-08-06",
+      "source": "LangChain Blog",
+      "url": "https://www.langchain.com/blog/deep-agents-vs-langchain-vs-langgraph",
+      "subCategory": "Agent"
     },
     {
       "title": "Artificial Analysis榜单：阿里Qwen3.8Agentic能力得分全球第一",
@@ -319,15 +373,6 @@
       "url": "https://www.qbitai.com/2026/08/467196.html",
       "subCategory": "大模型",
       "id": "ai-20260806-700"
-    },
-    {
-      "id": "ai-20260807-003",
-      "title": "Deep Agents vs LangChain vs LangGraph",
-      "summary": "LangChain工程师撰文对比开源Agent三层技术栈：Deep Agents为开箱即用框架，LangChain是可定制中间件的极简框架，LangGraph提供基于图的确定性运行时，建议多数开发者从Deep Agents入手。",
-      "publishedAt": "2026-08-06",
-      "source": "LangChain Blog",
-      "url": "https://www.langchain.com/blog/deep-agents-vs-langchain-vs-langgraph",
-      "subCategory": "Agent"
     },
     {
       "id": "ai-20260805-502",
@@ -420,6 +465,24 @@
       "subCategory": "大模型"
     },
     {
+      "id": "ai-20260805-004",
+      "title": "开源权重模型正追赶前沿水平，安全差距依然存在",
+      "summary": "SaferAI测试显示，智谱GLM-5.2对网络攻击与生物安全类高危任务几乎不拒答，而Anthropic Claude Opus 4.7因拒答过多导致部分测试无法完成，凸显开源权重模型能力逼近前沿但安全防护更易被移除。",
+      "publishedAt": "2026-08-04T13:05:00-07:00",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/04/open-weight-ai-models-are-catching-up-to-the-frontier-the-safety-gap-remains/",
+      "subCategory": "AI评测"
+    },
+    {
+      "id": "ai-20260805-006",
+      "title": "英伟达牵头的开放安全AI联盟成立一周即取得进展",
+      "summary": "由英伟达牵头、逗120家企业参与的开放安全AI联盟（OSAA）成立一周后，在黑帽大会上公布名为SAFE的工作组，提出AI安全事件报告与免责分析机制，OpenAI、谷歌、Anthropic尚未加入。",
+      "publishedAt": "2026-08-04T12:28:00-07:00",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/04/nvidia-doesnt-mess-around-a-week-after-open-ai-industry-group-formed-its-already-showing-progress/",
+      "subCategory": "大模型"
+    },
+    {
       "id": "ai-20260804-102",
       "title": "开源版Claude Science来了！零依赖、MIT协议，内置30+项科研Skills",
       "summary": "北京大学与元空 AI Agent联合实验室开源发布科研智能体OpenAI4S，遵循MIT协议，内置30余项科研Skills，通过生成可执行代码完成任务，且拒绝编造数据或结果。",
@@ -436,6 +499,51 @@
       "source": "IT之家",
       "url": "https://www.ithome.com/0/985/684.htm",
       "subCategory": "AI应用"
+    },
+    {
+      "id": "ai-20260805-002",
+      "title": "借助LFM2.5-2.6B随处部署本地智能体",
+      "summary": "LiquidAI推出26亿参数模型LFM2.5-2.6B，专为端侧智能体任务训练，支持工具调用与多步任务，苹果M5 Max上可达220 tokens/秒，运行内存低于2.5GB，已在Hugging Face开源。",
+      "publishedAt": "2026-08-04",
+      "source": "Hugging Face",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b",
+      "subCategory": "开源模型"
+    },
+    {
+      "id": "ai-20260805-005",
+      "title": "英伟达发布面向自动驾驶的开源模型Alpamayo 2 Super，现已开放商用",
+      "summary": "英伟达开源300亿参数自动驾驶推理模型Alpamayo 2 Super，采用OpenMDW-1.1许可证支持商用，可输出轨迹规划、推理过程、驾驶意图、标注数据及视觉问答，在LingoQA基准测试中排名第一。",
+      "publishedAt": "2026-08-04",
+      "source": "NVIDIA Blog",
+      "url": "https://blogs.nvidia.com/blog/alpamayo-2-super-open-model-now-available/",
+      "subCategory": "具身智能"
+    },
+    {
+      "id": "ai-20260805-007",
+      "title": "谷歌将投向Anthropic的数十亿芯片风险移出资产负债表",
+      "summary": "谷歌联合博通、摩根士丹利、阿波罗与黑石搭建特殊目的载体，为Anthropic提供350亿美元TPU算力且不计入自身资产负债表，博通为约300亿美元采购提供担保，谷歌账面负债仅8.15亿元。",
+      "publishedAt": "2026-08-04",
+      "source": "The Decoder",
+      "url": "https://the-decoder.com/google-moves-billions-in-anthropic-chip-risk-off-its-balance-sheet/",
+      "subCategory": "大模型"
+    },
+    {
+      "id": "ai-20260804-105",
+      "title": "Introducing Shieldstral",
+      "summary": "Mistral发布开源安全分类模型Shieldstral，参数量30亿，以Apache 2.0协议开源，可在推理时接受自然语言策略进行内容审核判断，支持文本与多模态场景，能在单张16GB显存GPU上运行。",
+      "publishedAt": "2026-08-04",
+      "source": "Mistral AI",
+      "url": "https://mistral.ai/news/shieldstral/",
+      "subCategory": "开源模型"
+    },
+    {
+      "title": "How to evaluate voice agents: execution, outcomes, and experience",
+      "summary": "LangChain提出语音Agent评测方法论，从执行、结果、体验三个维度评估：执行侧用确定性检查和LLM裁判验证指令与工具调用是否合规，结果侧衡量任务是否达成并结合预订成功率等业务指标，体验侧评估延迟、语音自然度与对话摩擦，建议按信号类型匹配对应评测器。",
+      "publishedAt": "2026-08-04",
+      "source": "LangChain Blog",
+      "url": "https://www.langchain.com/blog/how-to-evaluate-voice-agents-execution-outcomes-and-experience",
+      "subCategory": "Agent",
+      "id": "ai-20260804-957"
     },
     {
       "id": "ai-20260804-104",
@@ -490,69 +598,6 @@
       "url": "https://m.ithome.com/html/985450.htm",
       "subCategory": "AI应用",
       "id": "ai-20260804-956"
-    },
-    {
-      "id": "ai-20260805-004",
-      "title": "开源权重模型正追赶前沿水平，安全差距依然存在",
-      "summary": "SaferAI测试显示，智谱GLM-5.2对网络攻击与生物安全类高危任务几乎不拒答，而Anthropic Claude Opus 4.7因拒答过多导致部分测试无法完成，凸显开源权重模型能力逼近前沿但安全防护更易被移除。",
-      "publishedAt": "2026-08-04T13:05:00-07:00",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/04/open-weight-ai-models-are-catching-up-to-the-frontier-the-safety-gap-remains/",
-      "subCategory": "AI评测"
-    },
-    {
-      "id": "ai-20260805-006",
-      "title": "英伟达牵头的开放安全AI联盟成立一周即取得进展",
-      "summary": "由英伟达牵头、逗120家企业参与的开放安全AI联盟（OSAA）成立一周后，在黑帽大会上公布名为SAFE的工作组，提出AI安全事件报告与免责分析机制，OpenAI、谷歌、Anthropic尚未加入。",
-      "publishedAt": "2026-08-04T12:28:00-07:00",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/04/nvidia-doesnt-mess-around-a-week-after-open-ai-industry-group-formed-its-already-showing-progress/",
-      "subCategory": "大模型"
-    },
-    {
-      "id": "ai-20260805-002",
-      "title": "借助LFM2.5-2.6B随处部署本地智能体",
-      "summary": "LiquidAI推出26亿参数模型LFM2.5-2.6B，专为端侧智能体任务训练，支持工具调用与多步任务，苹果M5 Max上可达220 tokens/秒，运行内存低于2.5GB，已在Hugging Face开源。",
-      "publishedAt": "2026-08-04",
-      "source": "Hugging Face",
-      "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b",
-      "subCategory": "开源模型"
-    },
-    {
-      "id": "ai-20260805-005",
-      "title": "英伟达发布面向自动驾驶的开源模型Alpamayo 2 Super，现已开放商用",
-      "summary": "英伟达开源300亿参数自动驾驶推理模型Alpamayo 2 Super，采用OpenMDW-1.1许可证支持商用，可输出轨迹规划、推理过程、驾驶意图、标注数据及视觉问答，在LingoQA基准测试中排名第一。",
-      "publishedAt": "2026-08-04",
-      "source": "NVIDIA Blog",
-      "url": "https://blogs.nvidia.com/blog/alpamayo-2-super-open-model-now-available/",
-      "subCategory": "具身智能"
-    },
-    {
-      "id": "ai-20260805-007",
-      "title": "谷歌将投向Anthropic的数十亿芯片风险移出资产负债表",
-      "summary": "谷歌联合博通、摩根士丹利、阿波罗与黑石搭建特殊目的载体，为Anthropic提供350亿美元TPU算力且不计入自身资产负债表，博通为约300亿美元采购提供担保，谷歌账面负债仅8.15亿元。",
-      "publishedAt": "2026-08-04",
-      "source": "The Decoder",
-      "url": "https://the-decoder.com/google-moves-billions-in-anthropic-chip-risk-off-its-balance-sheet/",
-      "subCategory": "大模型"
-    },
-    {
-      "id": "ai-20260804-105",
-      "title": "Introducing Shieldstral",
-      "summary": "Mistral发布开源安全分类模型Shieldstral，参数量30亿，以Apache 2.0协议开源，可在推理时接受自然语言策略进行内容审核判断，支持文本与多模态场景，能在单张16GB显存GPU上运行。",
-      "publishedAt": "2026-08-04",
-      "source": "Mistral AI",
-      "url": "https://mistral.ai/news/shieldstral/",
-      "subCategory": "开源模型"
-    },
-    {
-      "title": "How to evaluate voice agents: execution, outcomes, and experience",
-      "summary": "LangChain提出语音Agent评测方法论，从执行、结果、体验三个维度评估：执行侧用确定性检查和LLM裁判验证指令与工具调用是否合规，结果侧衡量任务是否达成并结合预订成功率等业务指标，体验侧评估延迟、语音自然度与对话摩擦，建议按信号类型匹配对应评测器。",
-      "publishedAt": "2026-08-04",
-      "source": "LangChain Blog",
-      "url": "https://www.langchain.com/blog/how-to-evaluate-voice-agents-execution-outcomes-and-experience",
-      "subCategory": "Agent",
-      "id": "ai-20260804-957"
     },
     {
       "id": "ai-20260803-902",
@@ -679,51 +724,6 @@
       "url": "https://www.ithome.com/0/984/620.htm",
       "subCategory": "大模型",
       "id": "ai-20260801-b002"
-    },
-    {
-      "id": "ai-20260801-r001",
-      "title": "李飞飞World Labs收购SceniX，物理AI训练正从“采数据”走向“造世界”",
-      "summary": "World Labs宣布收购机器人仿真公司SceniX，采用Real-to-Sim-to-Real流程使任务在真实机器人与仿真环境间往返训练测试。文章还提到无问芯穹提出的三段式物理AI基建思路，双方均认为竞争重心正转向可训练虚拟环境的构建。",
-      "publishedAt": "2026-08-01T12:53:33+08:00",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/08/464532.html",
-      "subCategory": "具身智能"
-    },
-    {
-      "id": "ai-20260801-r002",
-      "title": "黄仁勋：不玩𝕏是我太内向，现在为AI必须站出来",
-      "summary": "英伟达CEO黄仁勋在采访中称，因认为有必要为AI发声而首次注册X账号。他将智能体称为新型软件，认为可控性而非绝对准确性是下一个技术突破口，强调AI消除的是任务而非岗位，并预测机器人和物理AI将成为英伟达下一个十亿美元级业务。",
-      "publishedAt": "2026-08-01T11:38:10+08:00",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/08/464452.html",
-      "subCategory": "大模型"
-    },
-    {
-      "id": "ai-20260801-r003",
-      "title": "OpenAI宣布其AI模型触达全球超10亿活跃用户和200万家企业",
-      "summary": "OpenAI在7月31日的公告中披露，其模型已被全球超10亿活跃用户和200万家企业使用，ChatGPT用户注册后六周内消息量增长约50%，工作相关任务使用量约翻倍，同时上线的ChatGPT Work旨在把提问转化为可执行的多步骤操作。",
-      "publishedAt": "2026-08-01T10:15:31+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/984/446.htm",
-      "subCategory": "AI应用"
-    },
-    {
-      "id": "ai-20260801-r004",
-      "title": "OpenAI奥尔特曼推介Astra模型，协同AI智能体工作、主打长周期任务能力",
-      "summary": "据The Information援引消息，OpenAI首席执行官奥尔特曼7月29日在国会与两名参议员会面时演示了新模型系列Astra，该模型可让多个AI智能体分工协作处理单一智能体难以完成的复杂问题，并强化了对长周期任务的处理能力。",
-      "publishedAt": "2026-08-01T08:45:12+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/984/421.htm",
-      "subCategory": "Agent"
-    },
-    {
-      "id": "ai-20260801-a001",
-      "title": "DeepSeek-V4-Flash 正式版跑分报告：约 98% 缓存命中打造 AI 极致性价比",
-      "summary": "第三方评测显示DeepSeek-V4-Flash正式版在Artificial Analysis智能指数达50分，凭借约98%的缓存命中折扣大幅降低使用成本，性价比优于GPT-5.6 Luna等竞品。",
-      "publishedAt": "2026-08-01T08:28:49+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/984/417.htm",
-      "subCategory": "大模型"
     }
   ]
 }
