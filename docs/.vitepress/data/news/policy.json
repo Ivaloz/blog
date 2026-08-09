@@ -3,8 +3,62 @@
   "slug": "policy",
   "title": "政策信息",
   "description": "国家与地方政策、监管动态、产业扶持与合规要求。",
-  "updatedAt": "2026-08-09T09:00:00+08:00",
+  "updatedAt": "2026-08-09T17:00:00+08:00",
   "items": [
+    {
+      "title": "金砖国家第十六次经贸部长会议在印度斋普尔举行",
+      "summary": "商务部副部长、国际贸易谈判代表李成钢率团出席在印度斋普尔举行的金砖国家第十六次经贸部长会议，与印度、巴西、埃及等国经贸部长共商维护多边贸易体制，并就深化数字经济、服务贸易、人工智能等领域合作达成共识。",
+      "publishedAt": "2026-08-09T11:22:00+08:00",
+      "source": "商务部",
+      "url": "https://www.mofcom.gov.cn/xwfb/bldhd/art/2026/art_2dac06dfbefd493abda85d96ee5f6098.html",
+      "subCategory": "跨境贸易",
+      "id": "policy-20260809-n01"
+    },
+    {
+      "title": "公安部发布《公安机关网络空间安全监督检查办法》",
+      "summary": "公安部发布《公安机关网络空间安全监督检查办法》，全文23条，明确对网络运营者、数据处理者、个人信息处理者等开展监督检查的对象、方式、内容及法律责任，自2026年10月1日起施行。",
+      "publishedAt": "2026-08-07T19:10:51+08:00",
+      "source": "新华网",
+      "url": "https://www.news.cn/politics/20260807/09a357f6cf91496aaa2658554b606279/c.html",
+      "subCategory": "数据安全",
+      "id": "policy-20260807-n01"
+    },
+    {
+      "title": "国家能源局印发《电力安全生产\"十五五\"行动计划》",
+      "summary": "国家能源局印发《电力安全生产\"十五五\"行动计划》，部署常规电源风险管控、海上风电等新能源安全管理、电网运行稳定、应急处置等十二项任务，目标到2030年建成现代化电力安全治理体系。",
+      "publishedAt": "2026-08-07T14:50:00+08:00",
+      "source": "中国新闻网",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-07/10673621.shtml",
+      "subCategory": "新能源政策",
+      "id": "policy-20260807-n02"
+    },
+    {
+      "title": "Aldi and Lidl should be subject to the same rules as major supermarkets",
+      "summary": "英国竞争与市场管理局初步裁定，阿尔迪及利多英国、北爱尔兰业务应纳入《2010年杂货市场调查（受控土地）令》监管范围，与七家现有大型超市适用同等土地协议规则，公众意见征询截止9月5日。",
+      "publishedAt": "2026-08-07",
+      "source": "GOV.UK (Competition and Markets Authority)",
+      "url": "https://www.gov.uk/government/news/aldi-and-lidl-should-be-subject-to-the-same-rules-as-major-supermarkets",
+      "subCategory": "反垄断",
+      "id": "policy-20260807-n03"
+    },
+    {
+      "title": "Venture capital access expanded for early-stage companies in UK",
+      "summary": "英国财政部与英国商业银行宣布\"投资者路径资本计划\"新一阶段投放1亿英镑，拟在伦敦以外地区新建约10支风险投资基金，支持早期科技企业及首次管理基金的多元背景投资人，计划总规模4亿英镑。",
+      "publishedAt": "2026-08-07",
+      "source": "GOV.UK (HM Treasury / British Business Bank)",
+      "url": "https://www.gov.uk/government/news/venture-capital-access-expanded-for-early-stage-companies-in-uk",
+      "subCategory": "海外政策",
+      "id": "policy-20260807-n04"
+    },
+    {
+      "title": "Adjusting Imports of Polysilicon and its Derivatives into the United States",
+      "summary": "特朗普签署公告，对进口多晶硅及其衍生品设立最低进口价格（多晶硅每公斤21美元、锭棒晶片每公斤100美元），并对衍生品加征15%从价关税，2026年12月4日起生效，以扶持美国本土多晶硅产业。",
+      "publishedAt": "2026-08-06",
+      "source": "The White House",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/08/adjusting-imports-of-polysilicon-and-its-derivatives-into-the-united-states/",
+      "subCategory": "海外政策",
+      "id": "policy-20260806-n01"
+    },
     {
       "title": "沪深交易所就完善LOF相关安排公开征求意见，拟对三类LOF终止上市",
       "summary": "上交所、深交所发布征求意见稿，拟对商品期货类、QDII类及连续60个交易日场内资产净值低于1000万元的小微型LOF分类清出，相关产品加注特别标识提示风险，涉及约125只、规模约2600亿元的LOF产品。",
@@ -670,60 +724,6 @@
       "source": "IT之家",
       "url": "https://www.ithome.com/0/981/797.htm",
       "subCategory": "海外政策"
-    },
-    {
-      "id": "policy-20260726-102",
-      "title": "派拉蒙1100亿美元收购华纳兄弟获欧盟有条件批准，十年内不得与环球影业达成协议",
-      "summary": "欧盟委员会有条件批准派拉蒙以1100亿美元收购华纳兄弟交易，要求派拉蒙13个月内退出联合国际影业股权，并在未来十年内不得就欧洲影片发行事宜与环球影业达成协议。",
-      "publishedAt": "2026-07-26T16:43:18+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/981/762.htm",
-      "subCategory": "反垄断"
-    },
-    {
-      "id": "policy-20260726-002",
-      "title": "欧盟AI透明度准则8月2日起生效：聊天机器人需\"自报身份\"，深度伪造内容须带机读标签",
-      "summary": "欧盟《人工智能法案》第50条AI透明度准则将于8月2日正式生效，要求聊天机器人明确告知用户其为AI系统而非真人，AI生成的图片、音频、视频和文本须附带机器可读标记，发布深度伪造内容也须明确说明；已上线系统可获4个月整改期，违规最高处1500万欧元或全球营业额3%罚款。",
-      "publishedAt": "2026-07-26T16:16:42+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/981/755.htm",
-      "subCategory": "AI监管"
-    },
-    {
-      "id": "policy-20260726-001",
-      "title": "市场监管总局依法对携程集团有限公司实施垄断行为作出行政处罚并责令其全面整改",
-      "summary": "市场监管总局依法对携程集团滥用市场支配地位的垄断行为作出行政处罚，罚没款合计51.79亿元，含没收违法所得16.58亿元、罚款35.21亿元，并责令全额退还强制扣除的酒店经营者订单储备金1.22亿元。处罚认定携程自2020年以来强制\"特牌\"酒店独家合作并执行\"全网最低价\"。",
-      "publishedAt": "2026-07-25T10:05:00+08:00",
-      "source": "证券时报（转引自人民日报）",
-      "url": "https://www.stcn.com/article/detail/4041362.html",
-      "subCategory": "反垄断"
-    },
-    {
-      "id": "policy-20260725-001",
-      "title": "国家互联网信息办公室发布《国家信息化发展报告（2025年）》",
-      "summary": "国家网信办发布《国家信息化发展报告（2025年）》，总结\"十四五\"信息化发展目标已完成，网络科技创新、基础设施能力和信息化应用均取得进展，并提出\"十五五\"时期需统筹近远期战略，兼顾开放与自主、发展与安全。",
-      "publishedAt": "2026-07-24T22:45:00+08:00",
-      "source": "中央网络安全和信息化委员会办公室",
-      "url": "https://www.cac.gov.cn/2026-07/24/c_1786638895199572.htm",
-      "subCategory": "数字经济"
-    },
-    {
-      "id": "policy-20260725-006",
-      "title": "2026年亚太经合组织人工智能高级别论坛在四川成都举办",
-      "summary": "2026年亚太经合组织人工智能高级别论坛在四川成都举行，国家网信办主任庄荣文出席并致辞，论坛就安全发展、负责任部署等四方面达成共识声明，中方宣布将在深圳设立数据跨境合作中心。",
-      "publishedAt": "2026-07-24T22:30:00+08:00",
-      "source": "中央网络安全和信息化委员会办公室",
-      "url": "https://www.cac.gov.cn/2026-07/24/c_1786639248102396.htm",
-      "subCategory": "AI监管"
-    },
-    {
-      "id": "policy-20260725-007",
-      "title": "国家网信办发布《数据出境安全管理政策法规问答（2026年7月）》",
-      "summary": "国家网信办发布《数据出境安全管理政策法规问答（2026年7月）》，就个人信息处理者向境外提供数据需取得单独同意、数据出境安全评估有效期延长条件及员工简历向境外母公司共享的必要性判定等问题作出解答。",
-      "publishedAt": "2026-07-24T19:00:00+08:00",
-      "source": "中央网络安全和信息化委员会办公室",
-      "url": "https://www.cac.gov.cn/2026-07/24/c_1786638883119336.htm",
-      "subCategory": "数据安全"
     }
   ]
 }
