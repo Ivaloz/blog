@@ -3,8 +3,62 @@
   "slug": "policy",
   "title": "政策信息",
   "description": "国家与地方政策、监管动态、产业扶持与合规要求。",
-  "updatedAt": "2026-08-10T08:30:00+08:00",
+  "updatedAt": "2026-08-10T23:59:00+08:00",
   "items": [
+    {
+      "title": "FTC Stops Sprawling Credit Repair Scheme that Scammed Consumers Out of Nearly $200 Million",
+      "summary": "美国联邦贸易委员会促使联邦法院叫停一个由17家关联公司组成的虚假信用修复骗局，被告自2016年起通过谷歌广告虚假宣传、假冒催收人员及违规收费等手段骗取消费者约2亿美元，并专门针对现役军人。",
+      "publishedAt": "2026-08-10T09:51:14-04:00",
+      "source": "Federal Trade Commission",
+      "url": "https://www.ftc.gov/news-events/news/press-releases/2026/08/ftc-stops-sprawling-credit-repair-scheme-scammed-consumers-out-nearly-200-million",
+      "subCategory": "金融监管",
+      "id": "policy-20260810-x05"
+    },
+    {
+      "title": "£130 million for cutting-edge next generation vehicles securing over 1,800 jobs",
+      "summary": "英国政府通过DRIVE35计划宣布近1.3亿英镑投资零排放汽车技术，其中约6500万英镑为政府拨款并由产业界配套，将支持超过1800个高价值制造业岗位，另有1700万英镑用于9个互联自动出行先导项目。",
+      "publishedAt": "2026-08-10T12:09:13+01:00",
+      "source": "GOV.UK",
+      "url": "https://www.gov.uk/government/news/130-million-for-cutting-edge-next-generation-vehicles-securing-over-1800-jobs",
+      "subCategory": "新能源政策",
+      "id": "policy-20260810-x06"
+    },
+    {
+      "title": "商务部公告2026年第32号 公布对原产于墨西哥和美国的进口碧根果反倾销调查的初步裁定",
+      "summary": "商务部初裁认定原产于墨西哥和美国的进口碧根果存在倾销且对中国国内产业造成实质损害，自2026年8月11日起，进口经营者需按裁定确定的保证金比率向海关提供保证金。",
+      "publishedAt": "2026-08-10T17:49:00+08:00",
+      "source": "中华人民共和国商务部",
+      "url": "https://www.mofcom.gov.cn/zcfb/gpmy/art/2026/art_46ffd81d07db4310b1e9724573f322a8.html",
+      "subCategory": "跨境贸易",
+      "id": "policy-20260810-x01"
+    },
+    {
+      "title": "广西全面整治违规使用\"征信\"\"信用评级\"字样经营乱象",
+      "summary": "广西市场监管局联合央行广西分行发布专项整治通知，要求个人征信业务须取得央行许可、企业征信及信用评级业务须完成备案，名称或经营范围含相关字样但未取得资质的企业须整改或注销，否则将被处罚。",
+      "publishedAt": "2026-08-10T10:56:00+08:00",
+      "source": "国家市场监督管理总局",
+      "url": "https://www.samr.gov.cn/xw/df/art/2026/art_ad6a205c26d5489e8692131bceccae21.html",
+      "subCategory": "金融监管",
+      "id": "policy-20260810-x03"
+    },
+    {
+      "title": "山东率先启动团体标准化\"省市区\"三级联动工作",
+      "summary": "山东在物业管理行业试点省市区三级联动团体标准化机制，采取\"省级统一发布、市区落地实施\"模式，来自济南、青岛、济宁、临沂等地的8家物业管理协会参与启动，山东为全国团体标准培育试点省份之一。",
+      "publishedAt": "2026-08-10T10:50:00+08:00",
+      "source": "国家市场监督管理总局",
+      "url": "https://www.samr.gov.cn/xw/df/art/2026/art_7fe2d99dc99043bf904e0c7369b7e04d.html",
+      "subCategory": "产业政策",
+      "id": "policy-20260810-x04"
+    },
+    {
+      "title": "关于印发《煤炭工业发展\"十五五\"规划》的通知",
+      "summary": "国家发展改革委、国家能源局联合印发煤炭工业发展\"十五五\"规划，提出加快煤炭产业结构优化升级、加强产供储销体系建设、推动智能化及绿色低碳转型等任务，并明确2030年煤层气产量目标为260亿立方米。",
+      "publishedAt": "2026-08-10T08:23:17+08:00",
+      "source": "国家发展和改革委员会",
+      "url": "https://www.ndrc.gov.cn/xxgk/zcfb/tz/202608/t20260810_1406952.html",
+      "subCategory": "产业政策",
+      "id": "policy-20260810-x02"
+    },
     {
       "title": "金砖国家第十六次经贸部长会议在印度斋普尔举行",
       "summary": "商务部副部长、国际贸易谈判代表李成钢率团出席在印度斋普尔举行的金砖国家第十六次经贸部长会议，与印度、巴西、埃及等国经贸部长共商维护多边贸易体制，并就深化数字经济、服务贸易、人工智能等领域合作达成共识。",
@@ -15,15 +69,6 @@
       "id": "policy-20260809-n01"
     },
     {
-      "title": "北京进一步优化住房限购政策，非京籍家庭购房社保个税缴纳年限降至1年",
-      "summary": "北京市住建委、规自委和住房公积金管理中心联合发布通知，自8月8日起施行：全市范围内非京籍家庭购买商品住房的社保或个税缴纳年限统一降为1年，夫妻双方均为公积金缴存人的家庭首套房贷款额度提高至240万元。",
-      "publishedAt": "2026-08-08T10:33:00+08:00",
-      "source": "北京市人民政府（首都之窗）",
-      "url": "https://www.beijing.gov.cn/zhengce/zcjd/202608/t20260808_4814360.html",
-      "subCategory": "产业政策",
-      "id": "policy-20260809-001"
-    },
-    {
       "title": "沪深交易所就完善LOF相关安排公开征求意见，拟对三类LOF终止上市",
       "summary": "上交所、深交所发布征求意见稿，拟对商品期货类、QDII类及连续60个交易日场内资产净值低于1000万元的小微型LOF分类清出，相关产品加注特别标识提示风险，涉及约125只、规模约2600亿元的LOF产品。",
       "publishedAt": "2026-08-08",
@@ -31,6 +76,15 @@
       "url": "https://www.stcn.com/article/detail/4064898.html",
       "subCategory": "金融监管",
       "id": "policy-20260809-003"
+    },
+    {
+      "title": "北京进一步优化住房限购政策，非京籍家庭购房社保个税缴纳年限降至1年",
+      "summary": "北京市住建委、规自委和住房公积金管理中心联合发布通知，自8月8日起施行：全市范围内非京籍家庭购买商品住房的社保或个税缴纳年限统一降为1年，夫妻双方均为公积金缴存人的家庭首套房贷款额度提高至240万元。",
+      "publishedAt": "2026-08-08T10:33:00+08:00",
+      "source": "北京市人民政府（首都之窗）",
+      "url": "https://www.beijing.gov.cn/zhengce/zcjd/202608/t20260808_4814360.html",
+      "subCategory": "产业政策",
+      "id": "policy-20260809-001"
     },
     {
       "title": "美国工业与安全局审查中国企业境外租用英伟达芯片算力的合规性",
@@ -141,15 +195,6 @@
       "subCategory": "产业政策"
     },
     {
-      "title": "国家药监局发布首个化妆品强制性国家标准《化妆品安全通用要求》",
-      "summary": "国家药监局8月6日发布首个化妆品强制性国家标准《化妆品安全通用要求》，代替1987年旧标准，2028年1月1日起实施。新标准将儿童化妆品保护年龄扩大至12周岁以下，微生物限值比普通产品严格十倍，并新增重金属限量要求。",
-      "publishedAt": "2026-08-06T10:24:00+08:00",
-      "source": "中国新闻网",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-06/10672787.shtml",
-      "subCategory": "产业政策",
-      "id": "policy-20260806-700"
-    },
-    {
       "title": "Adjusting Imports of Polysilicon and its Derivatives into the United States",
       "summary": "特朗普签署公告，对进口多晶硅及其衍生品设立最低进口价格（多晶硅每公斤21美元、锭棒晶片每公斤100美元），并对衍生品加征15%从价关税，2026年12月4日起生效，以扶持美国本土多晶硅产业。",
       "publishedAt": "2026-08-06",
@@ -157,6 +202,15 @@
       "url": "https://www.whitehouse.gov/presidential-actions/2026/08/adjusting-imports-of-polysilicon-and-its-derivatives-into-the-united-states/",
       "subCategory": "海外政策",
       "id": "policy-20260806-n01"
+    },
+    {
+      "title": "国家药监局发布首个化妆品强制性国家标准《化妆品安全通用要求》",
+      "summary": "国家药监局8月6日发布首个化妆品强制性国家标准《化妆品安全通用要求》，代替1987年旧标准，2028年1月1日起实施。新标准将儿童化妆品保护年龄扩大至12周岁以下，微生物限值比普通产品严格十倍，并新增重金属限量要求。",
+      "publishedAt": "2026-08-06T10:24:00+08:00",
+      "source": "中国新闻网",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-06/10672787.shtml",
+      "subCategory": "产业政策",
+      "id": "policy-20260806-700"
     },
     {
       "title": "中华人民共和国商务部令二〇二六年第3号 关于对美国合规性测试公司采取反制措施的决定",
@@ -231,6 +285,15 @@
       "subCategory": "跨境贸易"
     },
     {
+      "id": "policy-20260805-002",
+      "title": "国务院关于印发《知识产权保护和运用\"十五五\"规划》的通知",
+      "summary": "国务院印发国发〔2026〕30号文件《知识产权保护和运用\"十五五\"规划》，该规划于7月27日印发，明确\"十五五\"期间知识产权保护、运用、管理、公共服务和国际合作等方面的主要目标与重点任务。",
+      "publishedAt": "2026-08-04",
+      "source": "中华人民共和国生态环境部（转载国务院文件）",
+      "url": "https://www.mee.gov.cn/zcwj/gwywj/202608/t20260804_1163560.shtml",
+      "subCategory": "产业政策"
+    },
+    {
       "id": "policy-20260804-001",
       "title": "\"清朗·优化营商网络环境 整治恶意炒作涉企信息\"专项行动公开曝光一批典型案例",
       "summary": "中央网信办公布\"清朗·优化营商网络环境 整治恶意炒作涉企信息\"专项行动典型案例，涉及编造网络谣言损害企业形象、操纵财经解读动摇经营信心、蹭炒旧闻攻击高管并借\"删帖\"敲诈及虚假测评诱导消费四类问题，相关违规账号已被依法依约关闭。",
@@ -247,15 +310,6 @@
       "url": "https://zwgls.mof.gov.cn/ywgg/202608/t20260804_3994791.htm",
       "subCategory": "金融监管",
       "id": "policy-20260804-954"
-    },
-    {
-      "id": "policy-20260805-002",
-      "title": "国务院关于印发《知识产权保护和运用\"十五五\"规划》的通知",
-      "summary": "国务院印发国发〔2026〕30号文件《知识产权保护和运用\"十五五\"规划》，该规划于7月27日印发，明确\"十五五\"期间知识产权保护、运用、管理、公共服务和国际合作等方面的主要目标与重点任务。",
-      "publishedAt": "2026-08-04",
-      "source": "中华人民共和国生态环境部（转载国务院文件）",
-      "url": "https://www.mee.gov.cn/zcwj/gwywj/202608/t20260804_1163560.shtml",
-      "subCategory": "产业政策"
     },
     {
       "id": "policy-20260803-901",
@@ -429,24 +483,6 @@
       "subCategory": "金融监管"
     },
     {
-      "id": "policy-20260731-m004",
-      "title": "国家发改委：将加快《人工智能法》立法进程",
-      "summary": "国家发改委表示将加快《人工智能法》的立法进程，同时推进人工智能自主创新、应用推广和生态系统建设，国内企业已发布万亿级参数大模型，国产大模型全球下载量突破百亿次。",
-      "publishedAt": "2026-07-31T10:48:12+08:00",
-      "source": "国家发展和改革委员会（IT之家）",
-      "url": "https://www.ithome.com/0/983/974.htm",
-      "subCategory": "AI监管"
-    },
-    {
-      "id": "policy-20260731-003",
-      "title": "《工业绿色低碳发展\"十五五\"规划》发布",
-      "summary": "工业和信息化部发布《工业绿色低碳发展\"十五五\"规划》，提出坚持产业自身绿色发展并增强产业对全社会绿色转型的支撑作用，统筹推进产业结构与能源消费转型，加快电气化与可再生能源应用，建立涵盖区域碳评价、行业碳管控、企业碳管理、项目碳评估与产品碳足迹追踪的管理体系。",
-      "publishedAt": "2026-07-31T08:19:00+08:00",
-      "source": "36氪",
-      "url": "https://36kr.com/newsflashes/3918809800158857",
-      "subCategory": "产业政策"
-    },
-    {
       "id": "policy-20260801-a002",
       "title": "Right to repair: New consumer rights for easy and attractive repairs",
       "summary": "欧盟\"维修权\"新规自2026年7月31日起实施，要求制造商对洗衣机、手机、平板等可维修产品在合理时间和价格内提供维修服务，消费者选择维修可延长至少12个月法定质保期，预计带来48亿欧元经济增长。",
@@ -501,6 +537,24 @@
       "subCategory": "跨境贸易"
     },
     {
+      "id": "policy-20260731-m004",
+      "title": "国家发改委：将加快《人工智能法》立法进程",
+      "summary": "国家发改委表示将加快《人工智能法》的立法进程，同时推进人工智能自主创新、应用推广和生态系统建设，国内企业已发布万亿级参数大模型，国产大模型全球下载量突破百亿次。",
+      "publishedAt": "2026-07-31T10:48:12+08:00",
+      "source": "国家发展和改革委员会（IT之家）",
+      "url": "https://www.ithome.com/0/983/974.htm",
+      "subCategory": "AI监管"
+    },
+    {
+      "id": "policy-20260731-003",
+      "title": "《工业绿色低碳发展\"十五五\"规划》发布",
+      "summary": "工业和信息化部发布《工业绿色低碳发展\"十五五\"规划》，提出坚持产业自身绿色发展并增强产业对全社会绿色转型的支撑作用，统筹推进产业结构与能源消费转型，加快电气化与可再生能源应用，建立涵盖区域碳评价、行业碳管控、企业碳管理、项目碳评估与产品碳足迹追踪的管理体系。",
+      "publishedAt": "2026-07-31T08:19:00+08:00",
+      "source": "36氪",
+      "url": "https://36kr.com/newsflashes/3918809800158857",
+      "subCategory": "产业政策"
+    },
+    {
       "title": "工业和信息化部发布关于废止和修订新能源汽车废旧动力电池\"梯次利用\"相关政策标准以及规范有关行业活动的公告",
       "summary": "工业和信息化部发布公告，废止新能源汽车废旧动力电池\"梯次利用\"相关政策标准，不再对相关企业进行公告管理，并明确废旧动力电池产品不得用于电动自行车等禁止领域，同时要求加快修订相关标准、强化监管执法。",
       "publishedAt": "2026-07-30T18:10:12+08:00",
@@ -537,6 +591,15 @@
       "subCategory": "海外政策"
     },
     {
+      "title": "FTC and States Act Against Hims & Hers for Deceptive and Unlawful Privacy Practices",
+      "summary": "美国联邦贸易委员会联合犹他州、加利福尼亚州对远程医疗公司Hims & Hers提起联邦诉讼，指控其在用户提交问诊表后即扣费、设置订阅取消障碍，并将用户健康信息共享给Meta、Snap等广告平台，涉嫌违反《联邦贸易委员会法》及《在线购物者信心恢复法》。",
+      "publishedAt": "2026-07-29T13:04:00-04:00",
+      "source": "美国联邦贸易委员会(FTC)",
+      "url": "https://www.ftc.gov/news-events/news/press-releases/2026/07/ftc-states-act-against-hims-hers-deceptive-unlawful-privacy-practices",
+      "subCategory": "数据安全",
+      "id": "policy-20260730-001"
+    },
+    {
       "title": "中国人民银行等九部门联合印发《关于加强科技金融领域数据开发利用的通知》",
       "summary": "中国人民银行等九部门联合印发通知，部署加强科技金融领域数据开发利用工作，推动金融机构与科技企业间数据共享、完善数据要素市场规则，支持科技型企业融资需求。",
       "publishedAt": "2026-07-29T17:00:01+08:00",
@@ -555,13 +618,22 @@
       "id": "policy-20260730-003"
     },
     {
-      "title": "FTC and States Act Against Hims & Hers for Deceptive and Unlawful Privacy Practices",
-      "summary": "美国联邦贸易委员会联合犹他州、加利福尼亚州对远程医疗公司Hims & Hers提起联邦诉讼，指控其在用户提交问诊表后即扣费、设置订阅取消障碍，并将用户健康信息共享给Meta、Snap等广告平台，涉嫌违反《联邦贸易委员会法》及《在线购物者信心恢复法》。",
-      "publishedAt": "2026-07-29T13:04:00-04:00",
-      "source": "美国联邦贸易委员会(FTC)",
-      "url": "https://www.ftc.gov/news-events/news/press-releases/2026/07/ftc-states-act-against-hims-hers-deceptive-unlawful-privacy-practices",
+      "id": "policy-20260730-004",
+      "title": "欧盟委员会对罗马尼亚可再生能源仲裁裁决启动深入调查",
+      "summary": "欧盟委员会认为该仲裁裁决及其执行可能构成不符合欧盟内部市场规则的国家援助，遂对2024年仲裁庭裁定罗马尼亚向十家能源投资者支付4220万欧元赔偿一案启动深入审查。",
+      "publishedAt": "2026-07-29",
+      "source": "欧盟委员会",
+      "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1685",
+      "subCategory": "海外政策"
+    },
+    {
+      "title": "国家互联网信息办公室关于《中华人民共和国反网络暴力法（征求意见稿）》公开征求意见的通知",
+      "summary": "国家互联网信息办公室就《中华人民共和国反网络暴力法（征求意见稿）》公开征求意见，反馈截止2026年8月28日。草案要求网络服务提供者建立监测预警、保护及投诉处理机制，落实用户真实身份信息注册，并对利用人工智能技术制作传播侵害他人权益内容作出规制。",
+      "publishedAt": "2026-07-29",
+      "source": "中央网络安全和信息化委员会办公室",
+      "url": "https://www.cac.gov.cn/2026-07/29/c_1787072711938509.htm",
       "subCategory": "数据安全",
-      "id": "policy-20260730-001"
+      "id": "policy-20260729-901"
     },
     {
       "title": "商务部部长王文涛与英国新任商贸大臣雷诺兹举行视频通话",
@@ -580,24 +652,6 @@
       "url": "https://www.mofcom.gov.cn/xwfb/xwfyrth/art/2026/art_e6f485e2e0a541b183d7df72e21a6f81.html",
       "subCategory": "海外政策",
       "id": "policy-20260729-700"
-    },
-    {
-      "id": "policy-20260730-004",
-      "title": "欧盟委员会对罗马尼亚可再生能源仲裁裁决启动深入调查",
-      "summary": "欧盟委员会认为该仲裁裁决及其执行可能构成不符合欧盟内部市场规则的国家援助，遂对2024年仲裁庭裁定罗马尼亚向十家能源投资者支付4220万欧元赔偿一案启动深入审查。",
-      "publishedAt": "2026-07-29",
-      "source": "欧盟委员会",
-      "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1685",
-      "subCategory": "海外政策"
-    },
-    {
-      "title": "国家互联网信息办公室关于《中华人民共和国反网络暴力法（征求意见稿）》公开征求意见的通知",
-      "summary": "国家互联网信息办公室就《中华人民共和国反网络暴力法（征求意见稿）》公开征求意见，反馈截止2026年8月28日。草案要求网络服务提供者建立监测预警、保护及投诉处理机制，落实用户真实身份信息注册，并对利用人工智能技术制作传播侵害他人权益内容作出规制。",
-      "publishedAt": "2026-07-29",
-      "source": "中央网络安全和信息化委员会办公室",
-      "url": "https://www.cac.gov.cn/2026-07/29/c_1787072711938509.htm",
-      "subCategory": "数据安全",
-      "id": "policy-20260729-901"
     },
     {
       "title": "商务部条约法律司负责人就世贸组织发布我诉土耳其电动汽车和其他车辆限制措施专家组报告答记者问",
@@ -670,60 +724,6 @@
       "source": "新华网",
       "url": "https://www.news.cn/politics/20260727/d7761ea79ec84903b9cbdff4de1fe090/c.html",
       "subCategory": "产业政策"
-    },
-    {
-      "title": "商务部关于下达2026年农产品出口配额第二次分配数量的通知",
-      "summary": "商务部印发通知，下达2026年供港澳活大猪活牛、边贸大米、边贸小麦粉及锯材等农产品出口配额第二次分配数量，要求各地商务主管部门优先支持业绩良好企业，并对边贸产品实行落地口岸管控，防止港澳面粉类产品异地转运。",
-      "publishedAt": "2026-07-27T15:19:00+08:00",
-      "source": "中华人民共和国商务部",
-      "url": "https://www.mofcom.gov.cn/zcfb/zc/art/2026/art_08ea93c7f1404a5abbc1221eecd5d3a8.html",
-      "subCategory": "跨境贸易",
-      "id": "policy-20260728-001"
-    },
-    {
-      "title": "《利用外资固稳促优行动方案》（英文版）",
-      "summary": "商务部网站发布《利用外资固稳促优行动方案》英文版，旨在向国际社会说明中国稳定和优化外资利用的政策举措，便利外国投资者及相关机构查阅了解相关政策内容。",
-      "publishedAt": "2026-07-27T09:26:00+08:00",
-      "source": "中华人民共和国商务部",
-      "url": "http://www.mofcom.gov.cn/zcfb/wgtzgl/art/2026/art_dd86796bb4e04e238a791d99a6d4ef76.html",
-      "subCategory": "跨境贸易",
-      "id": "policy-20260728-002"
-    },
-    {
-      "title": "AI Omnibus enters into force",
-      "summary": "欧盟《人工智能综合简化法案》（Digital Omnibus on AI）于2026年7月27日正式生效，简化高风险人工智能系统合规要求，将部分高风险系统条款适用期延至2027年12月、产品内嵌AI系统延至2028年8月，同时扩大监管沙盒并禁止非自愿生成的私密图像内容。",
-      "publishedAt": "2026-07-27",
-      "source": "欧盟委员会（数字战略网站）",
-      "url": "https://digital-strategy.ec.europa.eu/en/news/ai-omnibus-enters-force",
-      "subCategory": "AI监管",
-      "id": "policy-20260729-504"
-    },
-    {
-      "title": "FTC Takes Action Against Elite Events for Bypassing Ticket Purchase Limits in Violation of Better Online Ticket Sales Act",
-      "summary": "美国联邦贸易委员会指控票务经纪商Elite Events及其运营者组织大量代理人使用虚假账号、虚拟信用卡和IP代理规避购票数量限制，涉嫌违反《在线票务销售法》，该公司需支付30万美元民事罚款并被永久禁止相关行为。",
-      "publishedAt": "2026-07-27",
-      "source": "美国联邦贸易委员会（FTC）",
-      "url": "https://www.ftc.gov/news-events/news/press-releases/2026/07/ftc-takes-action-against-elite-events-bypassing-ticket-purchase-limits-violation-better-online",
-      "subCategory": "海外政策",
-      "id": "policy-20260728-003"
-    },
-    {
-      "title": "Unbreakable bond between UK and Ukraine will continue under my government: 26 July 2026",
-      "summary": "英国首相安迪·伯纳姆在唐宁街接待乌克兰总统泽连斯基，这是伯纳姆就任以来接待的首位到访外国领导人，双方讨论英国代号Stone Cloak的无人机电子干扰装置共享及英国每年30亿英镑对乌支持等合作事项。",
-      "publishedAt": "2026-07-27",
-      "source": "英国政府（GOV.UK）",
-      "url": "https://www.gov.uk/government/news/unbreakable-bond-between-uk-and-ukraine-will-continue-under-my-government-26-july-2026",
-      "subCategory": "海外政策",
-      "id": "policy-20260728-004"
-    },
-    {
-      "id": "policy-20260726-101",
-      "title": "消息称OpenAI、Anthropic游说美国限制中国开源模型，黄仁勋马斯克公开反对",
-      "summary": "据报道，OpenAI与Anthropic正游说美国监管机构以安全和国家安全为由限制中国开源人工智能模型，但英伟达CEO黄仁勋与特斯拉CEO马斯克公开反对相关限制措施，认为世界需要顶尖的闭源与开源模型并存，微软、Meta等公司已联署公开信支持开源AI发展。",
-      "publishedAt": "2026-07-26T20:54:28+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/981/797.htm",
-      "subCategory": "海外政策"
     }
   ]
 }
