@@ -3,8 +3,161 @@
   "slug": "tech",
   "title": "科技新闻",
   "description": "前沿科技、互联网产品、芯片硬件、开源生态。",
-  "updatedAt": "2026-08-10T00:55:00+08:00",
+  "updatedAt": "2026-08-10T08:55:00+08:00",
   "items": [
+    {
+      "id": "tech-20260810-n01",
+      "title": "因台风天气影响，零跑 A05 上市发布会延期至明日举行",
+      "summary": "零跑汽车宣布因台风天气影响，原定8月10日举行的A05上市发布会顺延一天，改为8月11日18:30举行；新车7月27日已开启99元定金预售，搭载高通8295芯片及14.6英寸中控屏，提供39.8kWh和53kWh两种电池版本。",
+      "publishedAt": "2026-08-10T08:42:48+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/987/672.htm",
+      "subCategory": "智能汽车"
+    },
+    {
+      "id": "tech-20260810-n02",
+      "title": "小鹏 G9L 大五座 SUV 明晚全球首秀，同步开启预售",
+      "summary": "小鹏汽车宣布G9L大五座SUV将于8月11日19点在广州举行全球首秀并同步开启预售，新车轴距3100毫米，搭载第二代VLA技术及800伏快充系统，9分钟可补能450公里。",
+      "publishedAt": "2026-08-10T08:40:39+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/987/671.htm",
+      "subCategory": "智能汽车"
+    },
+    {
+      "id": "tech-20260810-n03",
+      "title": "安全公司曝光谷歌引擎能搜索到 Claude 公开分享的对话，易泄露用户敏感信息",
+      "summary": "安全公司Malwarebytes披露，Anthropic Claude的公开分享对话链接可被谷歌搜索引擎索引并出现在搜索结果中，存在泄露用户敏感信息的风险，此前Grok和Meta AI平台也曾出现类似问题。",
+      "publishedAt": "2026-08-10T08:26:57+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/987/668.htm",
+      "subCategory": "安全漏洞"
+    },
+    {
+      "id": "tech-20260810-n04",
+      "title": "联想推出 thinkplus AI 智墨屏办公本 A510 旗舰版：搭 10.3 英寸 Kaleido 3 面板，4999 元",
+      "summary": "联想在京东上架thinkplus AI智墨屏办公本A510旗舰版，首发价4999元，配10.3英寸Kaleido 3彩色墨水屏、联发科MT6877T处理器、12GB内存、256GB存储及6900mAh电池。",
+      "publishedAt": "2026-08-10T08:21:47+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/987/667.htm",
+      "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260810-n05",
+      "title": "充电桩Q2最新榜单出炉：公牛独占近4成份额",
+      "summary": "奥维云网数据显示，2026年二季度家用充电桩市场中，公牛以38.32%份额稳居第一，理想和特斯拉分列二三位，市场份额分别为10%和5.35%，星星充电和小米分列四五位。",
+      "publishedAt": "2026-08-10T08:14:50+08:00",
+      "source": "快科技",
+      "url": "https://news.mydrivers.com/1/1142/1142507.htm",
+      "subCategory": "智能汽车"
+    },
+    {
+      "id": "tech-20260810-n06",
+      "title": "微星 2026 款泰坦 16 笔记本新增\"R9 8945HX + 32G + 1T + RTX5070Ti\"版本，18799 元",
+      "summary": "微星为2026款泰坦16笔记本新增锐龙9 8945HX加32GB内存加1TB硬盘加RTX5070Ti配置版本，售价18799元，屏幕为2560x1600分辨率240Hz，配备90Whr电池及140W快充。",
+      "publishedAt": "2026-08-10T08:11:55+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/987/666.htm",
+      "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260810-n07",
+      "title": "索尼 PlayStation 在线商店新增提示：2028 年起 PS 新作终止实体光盘发售",
+      "summary": "索尼PlayStation Direct商店新增提示，称自2028年1月起新发售的PS游戏将不再支持实体光盘版本，此前发售的游戏仍将继续提供光盘版本。",
+      "publishedAt": "2026-08-10T08:11:36+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/987/665.htm",
+      "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260810-n08",
+      "title": "贾跃亭FF机器人技术突破：超视距远程控制、异构多机器人群控",
+      "summary": "FF宣布推出超视距远程操控与异构多机器人群控平台1.0版本，可实现人形、四足、轮式等不同形态机器人协同作业，应用于工业巡检、园区安防等场景，其安防巡逻机器人同时新增自主巡逻功能。",
+      "publishedAt": "2026-08-10T08:05:05+08:00",
+      "source": "快科技",
+      "url": "https://news.mydrivers.com/1/1142/1142506.htm",
+      "subCategory": "机器人"
+    },
+    {
+      "id": "tech-20260810-n09",
+      "title": "英特尔 8080 原始工程掩模原件现身，藏家寻觅专业人士修复",
+      "summary": "一名收藏者在社交媒体求助，称自己持有英特尔8080处理器的原始手绘工程掩模底片，尺寸约为实际芯片的100倍，描绘约5000个晶体管电路结构，希望找到专业人士进行修复。",
+      "publishedAt": "2026-08-10T08:03:27+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/987/661.htm",
+      "subCategory": "芯片硬件"
+    },
+    {
+      "id": "tech-20260810-n10",
+      "title": "马斯克超级芯片工厂 Terafab 规模有多大？面积超五角大楼、苹果园区等多个地标建筑总和",
+      "summary": "据报道，马斯克旗下超级芯片工厂Terafab规划面积至少9290万平方米，超过特斯拉得州超级工厂、五角大楼和苹果园区面积总和，旨在整合逻辑芯片与存储芯片生产，预计投资达1190亿美元。",
+      "publishedAt": "2026-08-10T07:53:14+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/987/659.htm",
+      "subCategory": "芯片硬件"
+    },
+    {
+      "id": "tech-20260810-n11",
+      "title": "雪上加霜！PC零部件成本上涨 微软顺势上调系统授权费",
+      "summary": "据行业消息，微软将今年Windows OEM授权费上调7%至10%，超过以往个位数调整幅度，华硕、宏碁等厂商预计三季度产品涨价约5%，市场机构预测今年二季度全球PC出货量同比下降4%。",
+      "publishedAt": "2026-08-10T07:51:30+08:00",
+      "source": "快科技",
+      "url": "https://news.mydrivers.com/1/1142/1142504.htm",
+      "subCategory": "操作系统"
+    },
+    {
+      "id": "tech-20260810-n12",
+      "title": "FSD 连续零干预行驶超过 4 万公里，特斯拉车主创下新纪录",
+      "summary": "特斯拉车主David Moss实现FSD连续零干预行驶超4万公里（2.5万英里）的新纪录，超过绕地球一圈的距离，特斯拉近期还为FSD新增了里程节点庆祝动画等游戏化功能。",
+      "publishedAt": "2026-08-10T07:42:19+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/987/657.htm",
+      "subCategory": "智能汽车"
+    },
+    {
+      "id": "tech-20260810-n13",
+      "title": "准备2万预算！苹果iPhone 18系列、Ultra折叠机最快9月9日发布",
+      "summary": "据供应链消息，苹果iPhone 18系列及首款折叠屏iPhone Ultra发布会最快将于9月9日举行，折叠款顶配版售价预计约1.69万元，标准版iPhone 18 Pro国内起售价预计约9500元。",
+      "publishedAt": "2026-08-10T07:33:03+08:00",
+      "source": "快科技",
+      "url": "https://news.mydrivers.com/1/1142/1142501.htm",
+      "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260810-n14",
+      "title": "博主利用漏洞成功访问英伟达 GeForce NOW 云游戏服务底层 Windows 界面",
+      "summary": "博主Zortos和dpadGuy发现英伟达GeForce NOW云游戏服务漏洞，通过游戏Trove启动Steam内置浏览器安装SalsaNOW工具，成功访问底层Windows桌面，将其变为可运行编程环境等应用的云电脑，目前该方法仅对付费账户有效。",
+      "publishedAt": "2026-08-10T07:30:59+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/987/654.htm",
+      "subCategory": "安全漏洞"
+    },
+    {
+      "id": "tech-20260810-n15",
+      "title": "Purism 推出 Librem 16 Linux 笔记本：配备双物理隐私开关，搭酷睿 i7-13620H 处理器",
+      "summary": "Purism推出Librem 16 Linux笔记本，配备可物理断开摄像头、麦克风及无线功能的双隐私开关，搭载酷睿i7-13620H处理器，预装基于Debian的PureOS系统，起售价2899美元。",
+      "publishedAt": "2026-08-10T07:17:40+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/987/651.htm",
+      "subCategory": "开源生态"
+    },
+    {
+      "id": "tech-20260810-n16",
+      "title": "宇树科技今日启动申购，A 股迎来\"人形机器人第一股\"",
+      "summary": "宇树科技8月10日正式启动A股IPO网上申购，发行价150.8元/股，对应发行市值约609.93亿元，发行市盈率219.23倍，成为A股首只上市的人形机器人企业股票，全流程仅耗时73天。",
+      "publishedAt": "2026-08-10T07:07:08+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/987/649.htm",
+      "subCategory": "机器人"
+    },
+    {
+      "id": "tech-20260810-n17",
+      "title": "联想 2026 款 P16v 笔记本首销，20999 元",
+      "summary": "联想2026款P16v笔记本\"酷睿Ultra 7 251HX加32GB加1TB加RTX Pro 1000\"配置版本正式首销，售价20999元，配备2.5K IPS触控屏、Wi-Fi 7及85Whr电池，厚度17.9毫米。",
+      "publishedAt": "2026-08-10T06:46:50+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/987/643.htm",
+      "subCategory": "消费电子"
+    },
     {
       "id": "tech-20260809-n11",
       "title": "微星RTX 5080超龙DRACO规格确认：功耗360W 加速频率2775MHz",
@@ -33,31 +186,49 @@
       "subCategory": "安全漏洞"
     },
     {
-      "id": "tech-20260809-n13",
+      "id": "tech-20260810-n19",
       "title": "宁波一充电场站车辆过热，极氪回应称该车辆近期曾发生严重碰撞事故",
-      "summary": "8月9日宁波海曙区一辆极氪汽车在充电场站发生过热，消防到场处置未造成人员伤亡；极氪回应称该车此前发生过严重碰撞事故且未经官方渠道检修，提醒碰撞后车辆需经专业检测方可继续使用。",
+      "summary": "宁波海曙区一充电场站发生车辆过热事件，极氪官方回应称该车辆近期曾发生严重碰撞事故，事故后未通过品牌官方授权服务中心检测维修，并建议购买二手电动车时核实维修记录。",
       "publishedAt": "2026-08-09T23:10:18+08:00",
       "source": "IT之家",
       "url": "https://www.ithome.com/0/987/637.htm",
       "subCategory": "智能汽车"
     },
     {
-      "id": "tech-20260809-n14",
+      "id": "tech-20260810-n20",
       "title": "技嘉重新推出 B760M GAMING 主板：DDR4 配 PCIe 5.0 插槽",
-      "summary": "技嘉重新推出B760M GAMING主板，采用Intel B760芯片组和LGA1700接口，支持第12/13/14代酷睿处理器，新版本保留DDR4内存插槽的同时新增PCIe 5.0插槽，官方暂未公布上市时间及价格。",
+      "summary": "技嘉重新推出B760M GAMING主板，新增PCIe 5.0插槽支持，采用英特尔B760芯片组及LGA1700接口，兼容第12代至14代酷睿处理器，同时保留DDR4内存插槽，具体上市时间及售价暂未公布。",
       "publishedAt": "2026-08-09T22:55:27+08:00",
       "source": "IT之家",
       "url": "https://www.ithome.com/0/987/636.htm",
       "subCategory": "芯片硬件"
     },
     {
-      "id": "tech-20260809-n15",
+      "id": "tech-20260810-n21",
+      "title": "博主利用 Meta 智能眼镜拍视频遭大量差评",
+      "summary": "博主Oliver Hooson用Meta智能眼镜拍摄环法自行车赛咖啡视频后遭大量负面评论，部分网友质疑设备侵犯隐私；Meta回应称眼镜录制时会亮起指示灯，强行遮挡指示灯会自动禁用摄像头。",
+      "publishedAt": "2026-08-09T22:23:59+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/987/632.htm",
+      "subCategory": "XR-AR-VR"
+    },
+    {
+      "id": "tech-20260810-n23",
       "title": "甲骨文 OpenJDK 项目新规：不允许提交 AI 生成代码",
-      "summary": "甲骨文宣布OpenJDK社区新规，禁止提交由大语言模型、扩散模型等AI系统生成的代码、文本、拉取请求及邮件等内容，原因涉及知识产权风险、安全考量及代码审查负担，开发者仍可私下使用AI辅助调试。",
+      "summary": "甲骨文宣布OpenJDK项目新规，禁止提交由大语言模型、扩散模型等AI系统生成的代码、文本、拉取请求、邮件、wiki及缺陷报告，原因包括知识产权风险、安全隐患及审查负担增加，但允许私下使用AI工具辅助调试。",
       "publishedAt": "2026-08-09T21:22:38+08:00",
       "source": "IT之家",
       "url": "https://www.ithome.com/0/987/615.htm",
-      "subCategory": "开源生态"
+      "subCategory": "开发者工具"
+    },
+    {
+      "id": "tech-20260810-n24",
+      "title": "曾经的全球第一社交平台 MySpace 宣布再次重启",
+      "summary": "MySpace现任所有者Tim Vanderhook和Chris Vanderhook宣布，公司仍持有该平台并等待合适时机重新上线，此前MySpace已于2013年尝试过一次复出但未获成功。",
+      "publishedAt": "2026-08-09T21:04:19+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/987/613.htm",
+      "subCategory": "互联网产品"
     },
     {
       "id": "tech-20260809-n16",
@@ -105,6 +276,15 @@
       "id": "tech-20260809-n03"
     },
     {
+      "id": "tech-20260810-n22",
+      "title": "Windows 11's built-in Weather app wastes more than 1 GB of RAM",
+      "summary": "测试显示，Windows 11内置天气应用基于WebView2框架构建，日常使用时内存占用超过1.2GB，约为macOS天气应用的五倍，该应用还嵌入广告，与微软优化低配设备体验的承诺形成反差。",
+      "publishedAt": "2026-08-09T15:50:00+02:00",
+      "source": "NotebookCheck",
+      "url": "https://www.notebookcheck.net/Windows-11-s-built-in-Weather-app-wastes-more-than-1-GB-of-RAM.1364205.0.html",
+      "subCategory": "操作系统"
+    },
+    {
       "title": "深蓝汽车邓承浩：全新 S05 上市之前已生产近万台商品车",
       "summary": "深蓝汽车董事长邓承浩透露，新车型S05于8月6日上市后已在全国范围进入批量交付阶段，上市前已生产近一万台商品车，预计8月全球产量将突破2万台，其中国内投放超过1.5万台。",
       "publishedAt": "2026-08-09T15:46:33+08:00",
@@ -148,6 +328,15 @@
       "url": "https://news.mydrivers.com/1/1142/1142430.htm",
       "subCategory": "芯片硬件",
       "id": "tech-20260809-n08"
+    },
+    {
+      "id": "tech-20260810-n18",
+      "title": "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry",
+      "summary": "由Leopold Aschenbrenner创立的AI对冲基金Situational Awareness追加投资4亿美元于芯片制造初创公司Source Foundry，累计投资达5亿美元；该基金今年7月已将大部分公开持仓出售给Citadel。",
+      "publishedAt": "2026-08-09T13:35:00-07:00",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/",
+      "subCategory": "芯片硬件"
     },
     {
       "title": "马斯克再放豪言：SpaceX一定会在月球上建造工厂",
@@ -301,15 +490,6 @@
       "source": "IT之家",
       "url": "https://www.ithome.com/0/987/447.htm",
       "subCategory": "消费电子"
-    },
-    {
-      "id": "tech-20260808-908",
-      "title": "黑客攻破TrueConf服务器，植入木马化客户端安装包",
-      "summary": "Head Mare黑客组织利用TrueConf视频会议服务器未修复漏洞，通过默认开放且无需认证的TCP 4307端口入侵，将官方客户端安装包替换为含PhantomCore后门的木马版本，并投放通过OneDrive账号接收指令的PhantomGraph后门，厂商已于6月18日发布补丁。",
-      "publishedAt": "2026-08-08T10:16:00-04:00",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-breach-trueconf-to-trojanize-client-installers-with-backdoors/",
-      "subCategory": "安全漏洞"
     },
     {
       "id": "tech-20260808-901",
