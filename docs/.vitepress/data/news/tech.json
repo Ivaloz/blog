@@ -3,8 +3,134 @@
   "slug": "tech",
   "title": "科技新闻",
   "description": "前沿科技、互联网产品、芯片硬件、开源生态。",
-  "updatedAt": "2026-08-11T16:50:41+08:00",
+  "updatedAt": "2026-08-11T23:55:00+08:00",
   "items": [
+    {
+      "id": "tech-20260811-028",
+      "title": "849 元科睿 27 英寸 2K 240Hz 显示器 X7Q 发售，峰值亮度 400nits",
+      "summary": "科睿27英寸显示器X7Q在京东以849元首发，采用Fast IPS面板，分辨率2560×1440，刷新率240Hz，色域覆盖92% DCI-P3和99% sRGB，通过VESA DisplayHDR 400认证，峰值亮度400尼特。",
+      "publishedAt": "2026-08-11T23:42:32+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/988/541.htm",
+      "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260811-029",
+      "title": "TCL 华星官宣独供小米 REDMI K100 系列手机，采用新一代 C11 自研发光材料 + 超级像素技术",
+      "summary": "TCL华星宣布独家供应小米REDMI K100 Pro系列屏幕，配备185Hz电竞屏，支持圆偏光护眼与满亮度DC调光，采用新一代C11自研发光材料与超级像素技术。K100 Pro售价3999至4999元。",
+      "publishedAt": "2026-08-11T23:33:16+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/988/540.htm",
+      "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260811-030",
+      "title": "微软确认上个月导致 XBOX 大规模宕机的问题已解决，本周推送固件更新",
+      "summary": "微软Xbox首席技术官确认7月27日Xbox大规模宕机问题已解决，故障源于底层授权服务中断叠加客户端软件缺陷引发的连锁校验失败。微软已将该服务移交Xbox团队管理，8月10日起推送客户端补丁，8月17日起强制更新。",
+      "publishedAt": "2026-08-11T23:20:04+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/988/537.htm",
+      "subCategory": "操作系统"
+    },
+    {
+      "id": "tech-20260811-031",
+      "title": "苹果 iOS 27 测试版出现 iCloud+ 限制变化，库克此前曾暗示将对高级 AI 功能收费",
+      "summary": "苹果发布iOS 27 Beta 5后，部分用户发现iCloud+与HomeKit安全视频提示出现与现有订阅档位不符的摄像头数量限制，如2TB用户遇到5个摄像头上限。库克此前曾暗示部分Apple Intelligence功能未来可能收费。",
+      "publishedAt": "2026-08-11T22:55:55+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/988/525.htm",
+      "subCategory": "操作系统"
+    },
+    {
+      "id": "tech-20260811-032",
+      "title": "消息称英伟达开发万亿参数开源 AI 模型 Nemotron 4，目标挑战全球顶级模型",
+      "summary": "据The Information报道，英伟达正开发新一代Nemotron 4系列模型，最大版本参数量预计不低于1万亿，最早今年秋末就绪。英伟达同时发布Nemotron 3.5 Lightning及开源路由库NeMo Switchyard。",
+      "publishedAt": "2026-08-11T22:54:16+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/988/524.htm",
+      "subCategory": "开源生态"
+    },
+    {
+      "id": "tech-20260811-033",
+      "title": "Manus 宣布脱离 Meta 恢复独立运营，部分用户需手动迁移账户数据",
+      "summary": "AI Agent产品Manus宣布脱离Meta恢复独立运营。公告称部分用户2025年12月29日及之后产生的数据将于8月23日至24日期间被删除，受影响用户可在此前自行备份并于8月25日后恢复，独立后数据将存储于美国与新加坡。",
+      "publishedAt": "2026-08-11T22:48:28+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/988/522.htm",
+      "subCategory": "互联网产品"
+    },
+    {
+      "id": "tech-20260811-034",
+      "title": "小米汽车：澎程全系均配备涉水模式，但切勿长时间、长距离涉水",
+      "summary": "小米汽车在答网友问中介绍，澎程车型全系配备涉水模式，N90 Max最大涉水深度750毫米，N70 Max为650毫米，建议低速通过并限制涉水时间。超出安全深度时车辆会报警并自动解锁儿童锁、打开后窗，应急浮起3分钟内座舱基本无明显进水。",
+      "publishedAt": "2026-08-11T22:32:16+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/988/519.htm",
+      "subCategory": "智能汽车"
+    },
+    {
+      "id": "tech-20260811-035",
+      "title": "华境 S 官宣拿下 7 月插混大型 SUV 交付量 TOP1，将迎 2 万台交付里程碑",
+      "summary": "华境汽车宣布旗舰车型华境S在2026年7月以7203辆交付量拿下插混大型SUV交付量第一，累计交付即将突破2万辆。该车为六座SUV，起售价14.98万元，搭载华为乾崑智驾系统与鸿蒙座舱。",
+      "publishedAt": "2026-08-11T21:58:12+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/988/510.htm",
+      "subCategory": "智能汽车"
+    },
+    {
+      "id": "tech-20260811-036",
+      "title": "六款未发布的苹果 iPhone 新机首度现身 iOS 27 系统代码",
+      "summary": "苹果推送iOS 27 Beta 5后，电池驱动代码中现六款未发布iPhone型号标识，包括iPhone Air 2、18 Pro、18 Pro Max、18、Ultra与18e。报道称苹果今年分阶段发布，部分机型9月推出，其余明年春季推出。",
+      "publishedAt": "2026-08-11T21:55:51+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/988/508.htm",
+      "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260811-037",
+      "title": "Cloudflare：中国是 2026 上半年受 DDoS 攻击最多的国家地区，美国居第二",
+      "summary": "Cloudflare发布2026上半年DDoS威胁报告，称期间共缓解2320万次网络层攻击及29.64万亿次HTTP层DDoS请求。中国占全球HTTP DDoS请求流量22.4%居首，美国占18.8%；超1Tbps攻击上半年共935次。",
+      "publishedAt": "2026-08-11T21:40:52+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/988/505.htm",
+      "subCategory": "安全漏洞"
+    },
+    {
+      "id": "tech-20260811-039",
+      "title": "网上中签率 0.018%，\"人形机器人第一股\"宇树科技公布中签结果，超 978 万户参与申购",
+      "summary": "宇树科技公布上交所IPO网上中签结果，中签率为0.01809759%，超978万户参与申购。发行价为每股150.80元，中一签500股需缴款75400元。经回拨机制调整后，网上发行约970.7万股，占网上发行总量30%。",
+      "publishedAt": "2026-08-11T21:25:59+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/988/502.htm",
+      "subCategory": "机器人"
+    },
+    {
+      "id": "tech-20260811-040",
+      "title": "腾讯 QQ 发布 macOS 7.0 版本更新",
+      "summary": "腾讯QQ在Apple App Store上线macOS平台7.0大版本更新，官方更新说明仅注明修复已知问题，但实际新增支持GIF剪辑与长截图编辑的截图功能、好友与群消息提醒优化、\"戳一戳\"互动及语音转文字输入功能。",
+      "publishedAt": "2026-08-11T18:22:34+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/988/450.htm",
+      "subCategory": "互联网产品"
+    },
+    {
+      "id": "tech-20260811-041",
+      "title": "长城魏牌 V8X 官宣运动版车型：拂晓灰专属车色 + 曜黑套件，8 月 14 日发布",
+      "summary": "长城汽车旗下魏牌官宣旗舰五座SUV V8X运动版车型，新增拂晓灰专属车色与曜黑运动套件，将于8月14日发布。新车搭载2.0T发动机匹配四挡混动变速箱，满电零百加速4.5秒，配备800V+快充架构，CLTC综合续航1659公里。",
+      "publishedAt": "2026-08-11T17:59:12+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/988/434.htm",
+      "subCategory": "智能汽车"
+    },
+    {
+      "id": "tech-20260811-042",
+      "title": "商汤日日新 SenseNova 6.8 Flash Lite 预览版上线：主打轻量敏捷，剑指\"委派智能\"",
+      "summary": "商汤科技发布多模态智能体模型SenseNova 6.8 Flash Lite预览版，强调独立规划、持续执行、多智能体协作与动态纠错能力，用户提供目标后模型可自主完成复杂任务全流程，并原生整合文本、图像、文档与应用界面处理能力。",
+      "publishedAt": "2026-08-11T17:24:27+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/988/416.htm",
+      "subCategory": "互联网产品"
+    },
     {
       "id": "tech-20260811-025",
       "title": "荣耀Robot Phone超前品鉴会明日起在南京、深圳、成都、太原、福州、昆明六城举办",
@@ -222,15 +348,6 @@
       "subCategory": "操作系统"
     },
     {
-      "id": "tech-20260811-009",
-      "title": "A sandbox without a network boundary is only half a sandbox",
-      "summary": "Vercel介绍其Sandbox产品的主机级防火墙策略，通过限制可访问的域名和CIDR范围、将凭据保存在microVM之外，在隔离不可信代码执行环境的同时按工作负载需求提供选择性网络连接。",
-      "publishedAt": "2026-08-11",
-      "source": "Vercel",
-      "url": "https://vercel.com/blog/a-sandbox-without-a-network-boundary-is-only-half-a-sandbox",
-      "subCategory": "开发者工具"
-    },
-    {
       "id": "tech-20260811-007",
       "title": "Hackers breached a small Polish energy plant via private APN last year",
       "summary": "波兰一处为约5万居民供热供电的热电联产设施去年遭黑客入侵，攻击者利用配置错误的专用APN进入运维技术网络，导致蒸汽轮机和水处理系统被关闭，研究人员称这是该攻击手法首次被用于真实网络攻击。",
@@ -247,6 +364,15 @@
       "source": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/news/security/bdthemes-plugins-supply-chain-hack-creates-rogue-wordpress-admins/",
       "subCategory": "安全漏洞"
+    },
+    {
+      "id": "tech-20260811-009",
+      "title": "A sandbox without a network boundary is only half a sandbox",
+      "summary": "Vercel介绍其Sandbox产品的主机级防火墙策略，通过限制可访问的域名和CIDR范围、将凭据保存在microVM之外，在隔离不可信代码执行环境的同时按工作负载需求提供选择性网络连接。",
+      "publishedAt": "2026-08-11",
+      "source": "Vercel",
+      "url": "https://vercel.com/blog/a-sandbox-without-a-network-boundary-is-only-half-a-sandbox",
+      "subCategory": "开发者工具"
     },
     {
       "title": "华为 MatePad Edge 鸿蒙二合一平板电脑开启 HarmonyOS 7 花粉 Beta 招募",
@@ -598,132 +724,6 @@
       "source": "IT之家",
       "url": "https://www.ithome.com/0/987/585.htm",
       "subCategory": "航空航天"
-    },
-    {
-      "id": "tech-20260809-n17",
-      "title": "美国\"机器狗\"保安陆续上岗，相比真人每年可节省 8 万-13 万美元",
-      "summary": "美国多地开始部署机器狗承担数据中心、高价值农作物及体育场馆的安保巡逻工作，持续24小时岗位每年可比雇佣真人保安节省8万至13万美元成本，机器狗企业Asylon已在25家客户处部署约50台设备。",
-      "publishedAt": "2026-08-09T17:02:23+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/987/574.htm",
-      "subCategory": "机器人"
-    },
-    {
-      "id": "tech-20260809-n01",
-      "title": "谷歌 Chrome 浏览器测试新提示框，引导用户打开系统设置修改默认浏览器",
-      "summary": "谷歌在Chrome Beta版本中测试尺寸更大的提示框，引导Windows用户前往系统设置修改默认浏览器，并提示此举可同步密码、书签和浏览历史，用户可选择立即设置或稍后处理。",
-      "publishedAt": "2026-08-09T16:32:12+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/987/569.htm",
-      "subCategory": "互联网产品"
-    },
-    {
-      "id": "tech-20260809-n02",
-      "title": "影石 Insta360 Ace Pro 3 运动相机参数曝光：1 英寸 5000 万像素 CMOS，预计今年底上市",
-      "summary": "影石Insta360 Ace Pro 3运动相机参数曝光，搭载1英寸5000万像素CMOS传感器，支持8K 30帧录制及FlowState 2.0防抖，防水深度提升至16米，预计今年底至明年初上市，售价549至599美元。",
-      "publishedAt": "2026-08-09T16:02:03+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/987/563.htm",
-      "subCategory": "消费电子"
-    },
-    {
-      "id": "tech-20260809-n03",
-      "title": "宾利超豪华纯电跨界车 Torcal 内饰细节公开，提供四种\"情绪模式\"",
-      "summary": "宾利公布纯电跨界车Torcal内饰细节，其Curation Engine系统联动灯光、声音、温度、空气质量与数字界面，提供宾利、舒适、运动和焕新四种情绪模式，座舱采用双色真皮座椅、碳纤维饰板与Naim音响系统。",
-      "publishedAt": "2026-08-09T15:59:47+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/987/562.htm",
-      "subCategory": "智能汽车"
-    },
-    {
-      "id": "tech-20260809-n04",
-      "title": "深蓝汽车邓承浩：全新 S05 上市之前已生产近万台商品车",
-      "summary": "深蓝汽车董事长邓承浩透露，新车型S05于8月6日上市后已在全国范围进入批量交付阶段，上市前已生产近一万台商品车，预计8月全球产量将突破2万台，其中国内投放超过1.5万台。",
-      "publishedAt": "2026-08-09T15:46:33+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/987/561.htm",
-      "subCategory": "智能汽车"
-    },
-    {
-      "id": "tech-20260809-n05",
-      "title": "宝马与 16 名研究生打造太阳能充电原型车，续航\"越开越多\"",
-      "summary": "克莱姆森大学Deep Orange 17团队与宝马合作打造轻量化太阳能原型车Luminetta，车身搭载超1700片光伏电池，模拟测算显示该系统平均每天可产生相当于50公里续航的富余电力，短途通勤场景发电量可超日耗电量。",
-      "publishedAt": "2026-08-09T15:29:54+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/987/557.htm",
-      "subCategory": "智能汽车"
-    },
-    {
-      "id": "tech-20260809-n06",
-      "title": "宏碁 Aspire Go 15 笔记本海外发售：骁龙 C 处理器、8GB 内存，499 英镑",
-      "summary": "宏碁在海外市场发售Aspire Go 15 AG15-Q31P笔记本，搭载八核骁龙C处理器，配备8GB内存、128GB存储和15.6英寸1080p显示屏，支持Wi-Fi 6E，售价499.99英镑，约合人民币4553元。",
-      "publishedAt": "2026-08-09T15:19:19+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/987/552.htm",
-      "subCategory": "消费电子"
-    },
-    {
-      "id": "tech-20260809-n07",
-      "title": "星舰第13次试飞成功溅落保持完整 马斯克罕见唱衰：回收前景并不乐观",
-      "summary": "SpaceX星舰完成第13次试飞，52米高的上面级飞船在澳大利亚西部外海印度洋成功溅落且保持结构完整，但马斯克罕见表态称受海况恶化和风浪增大影响，飞船拖回岸边的回收前景并不乐观。",
-      "publishedAt": "2026-08-09T15:13:49+08:00",
-      "source": "快科技",
-      "url": "https://news.mydrivers.com/1/1142/1142439.htm",
-      "subCategory": "航空航天"
-    },
-    {
-      "id": "tech-20260809-n08",
-      "title": "自主研发！芯上微装350nm步进投影光刻机通过工艺验证",
-      "summary": "上海芯上微装自主研发的AST6200步进投影光刻机通过某化合物半导体大客户工艺验证并获得复购订单，该设备具备350纳米高分辨率精细图形化能力，可覆盖2至8英寸多种晶圆尺寸，支持碳化硅、砷化镓等衬底加工。",
-      "publishedAt": "2026-08-09T13:51:42+08:00",
-      "source": "快科技",
-      "url": "https://news.mydrivers.com/1/1142/1142430.htm",
-      "subCategory": "芯片硬件"
-    },
-    {
-      "id": "tech-20260809-n09",
-      "title": "马斯克再放豪言：SpaceX一定会在月球上建造工厂",
-      "summary": "在SpaceX上市后首次财报电话会上，马斯克表示将建造由机器人自动化运作的月球工厂，量产用于百万颗卫星星座的卫星，成品通过电磁加速器而非化学火箭发射，并计划借助人形机器人参与月球工厂建设。",
-      "publishedAt": "2026-08-09T13:24:00+08:00",
-      "source": "快科技",
-      "url": "https://news.mydrivers.com/1/1142/1142428.htm",
-      "subCategory": "航空航天"
-    },
-    {
-      "id": "tech-20260809-001",
-      "title": "奕境 X9 鸿蒙座舱 HarmonySpace 6 全球首秀明日举行",
-      "summary": "东风与华为合作的奕境品牌旗舰车型奕境X9将于8月10日在浙江莫干山举行HarmonySpace 6鸿蒙座舱全球首秀，配备双联屏、后排娱乐吊舱屏及HUAWEI XSCENE激光投影技术，预计8月开启预售，三季度交付。",
-      "publishedAt": "2026-08-09T08:37:46+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/987/482.htm",
-      "subCategory": "智能汽车"
-    },
-    {
-      "id": "tech-20260809-002",
-      "title": "微软承认 Win11 需要提升运行速度、减少广告",
-      "summary": "微软副总裁Scott Hanselman公开回应用户对Windows 11运行速度慢、广告多的批评，表示正在改进，已上线低延迟配置提升交互性能，并计划减少内存占用、以WinUI 3替换旧版界面组件。",
-      "publishedAt": "2026-08-09T08:34:44+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/987/480.htm",
-      "subCategory": "操作系统"
-    },
-    {
-      "id": "tech-20260809-003",
-      "title": "小米汽车：澎湃 N90 Max 四门可选智能电动门，支持开门杀预警和避障",
-      "summary": "小米汽车澎湃N90 Max车型配备四门智能电动门，开合角度接近90度，支持语音等6种开门方式与7种关门方式，并具备开门杀预警和避障功能，车型还支持前排座椅旋转实现面对面乘坐。",
-      "publishedAt": "2026-08-09T08:25:24+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/987/479.htm",
-      "subCategory": "智能汽车"
-    },
-    {
-      "id": "tech-20260809-005",
-      "title": "Linux 平台第三方串流应用 Asobi 现身，可令V社 Steam Deck 掌机实现 PS5 云游戏体验",
-      "summary": "第三方串流应用Asobi: Remote Play现身，可让Steam Deck等Linux设备通过PS Remote Play协议体验PS5云游戏，用户无需拥有实体主机即可访问已购PS5数字游戏，默认提供1080p 30帧SDR画质，进阶画质需付费。",
-      "publishedAt": "2026-08-09T07:59:02+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/987/477.htm",
-      "subCategory": "消费电子"
     }
   ]
 }
