@@ -3,11 +3,128 @@
   "slug": "ai",
   "title": "AI 与大模型",
   "description": "大模型、Agent、AI 编程、推理框架、开源模型的发布与落地。",
-  "updatedAt": "2026-08-11T16:50:41+08:00",
+  "updatedAt": "2026-08-11T23:55:00+08:00",
   "items": [
     {
+      "id": "ai-20260811-208",
+      "title": "消息称英伟达开发万亿参数开源AI模型Nemotron 4",
+      "summary": "据The Information报道，英伟达正开发新系列模型Nemotron 4，最大版本参数不少于1万亿，目标对标全球顶级开源模型，预计今年秋季推出；公司同时发布Nemotron 3.5 Lightning模型。",
+      "publishedAt": "2026-08-11T22:54:16+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/988/524.htm",
+      "subCategory": "开源模型"
+    },
+    {
+      "id": "ai-20260811-213",
+      "title": "别再所有人平分AI算力：顶级模型给资深工程师才省钱",
+      "summary": "文章指出企业应将高阶AI模型优先分配给资深工程师以获得更高回报，评价标准正从Token消耗转向完成任务与交付价值；传统新人靠基础编码任务积累经验的路径正在失效，行业开始探讨扁平化、Agent辅助的团队组织方式。",
+      "publishedAt": "2026-08-11T22:19:00+08:00",
+      "source": "36氪",
+      "url": "https://36kr.com/p/3934962155158657",
+      "subCategory": "AI编程"
+    },
+    {
+      "id": "ai-20260811-212",
+      "title": "微信必须AI化：小程序正变为可被AI调用的技能",
+      "summary": "微信近期上线\"AI帮写\"\"AI评论\"等功能，文章分析称随着AI能力成为软件标配，微信正将十余年积累的小程序服务体系转化为可被AI直接调用的技能，以此在AI时代保持其作为国内互联网核心入口的地位。",
+      "publishedAt": "2026-08-11T22:02:00+08:00",
+      "source": "36氪",
+      "url": "https://36kr.com/p/3935065427367817",
+      "subCategory": "AI应用"
+    },
+    {
+      "id": "ai-20260811-210",
+      "title": "在Claude Code里用GPT被秒封，前员工Tibo为用户重置额度",
+      "summary": "前Anthropic员工Tibo分享在Claude Code内通过本地代理调用GPT模型的教程，一名开发者照做后账号被封，Tibo为其重置额度；Claude Code团队回应称不会仅因使用其他模型而封号，该事件引发OpenAI高层关注。",
+      "publishedAt": "2026-08-11T22:00:00+08:00",
+      "source": "36氪",
+      "url": "https://36kr.com/p/3935071001951366",
+      "subCategory": "AI编程"
+    },
+    {
+      "id": "ai-20260811-207",
+      "title": "蚂蚁首次投向机器人\"指尖\"，全球首个物理交互脑发布",
+      "summary": "蚂蚁集团首次投资触觉感知领域，领投灵初智能数亿元融资，该公司发布\"Daimon-TWM\"物理交互脑，融合触觉反馈实现物理理解、预测与实时控制，触觉感知设备出货超万台，服务全球200余家客户。",
+      "publishedAt": "2026-08-11T21:57:46+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/08/470674.html",
+      "subCategory": "具身智能"
+    },
+    {
+      "id": "ai-20260811-211",
+      "title": "模型路由平台OpenRouter估值达100亿美元",
+      "summary": "AI模型路由平台OpenRouter在与Stripe的收购洽谈中估值达100亿美元，较此前15亿美元大幅跃升；该平台聚合OpenAI、Anthropic、谷歌等多家模型于统一API，7月单月新增70个模型，并提供实时路由与成本管理能力。",
+      "publishedAt": "2026-08-11T21:54:00+08:00",
+      "source": "36氪",
+      "url": "https://36kr.com/p/3935052683525254",
+      "subCategory": "AI应用"
+    },
+    {
+      "id": "ai-20260811-206",
+      "title": "Spotify推出\"AI人格\"标签，让AI生成的非真人歌手无处遁形",
+      "summary": "Spotify宣布9月起推出\"AI人格\"标签，帮助用户区分AI生成与真人歌手；创作者可在Spotify for Artists自愿标注AI身份，平台也会主动审核标记，被标记账号默认不获算法推荐，用户可申诉。",
+      "publishedAt": "2026-08-11T21:38:59+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/988/504.htm",
+      "subCategory": "AI应用"
+    },
+    {
+      "id": "ai-20260811-209",
+      "title": "小扎推30B智能体模型Muse Glimmer，消费级显卡可跑",
+      "summary": "Meta发布300亿参数开放权重智能体模型Muse Glimmer，量化后不足20GB，可在24GB显存消费级显卡运行，支持工具调用、多步推理与图文处理；扎克伯格同时承诺开源旗舰模型Muse Spark 1.2并设立10亿美元社区基金。",
+      "publishedAt": "2026-08-11T21:36:00+08:00",
+      "source": "36氪",
+      "url": "https://36kr.com/p/3934964911438982",
+      "subCategory": "开源模型"
+    },
+    {
+      "id": "ai-20260811-205",
+      "title": "李飞飞：AI进入校园的最大风险是削弱孩子学习能力",
+      "summary": "斯坦福教授李飞飞表示，AI进校园的主要风险并非作徊，而可能削弱学生学习能力；她援引研究称AI虽能提速学习却可能降低思考深度，主张将AI定位为保留学生好奇心与自主性的学习伙伴而非替代品。",
+      "publishedAt": "2026-08-11T21:25:50+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/988/501.htm",
+      "subCategory": "AI应用"
+    },
+    {
+      "id": "ai-20260811-204",
+      "title": "李开复：中国开源大模型让美国人很担忧",
+      "summary": "零一万物创始人李开复表示，美国企业对中国开源大模型的关注在增加，OpenAI GPT-5.6 Sol与Anthropic Fable 5虽领先，但月之暗面Kimi K3性能相近且成本低约六成，业内开始讨论开源生态对美国闭源体系的冲击。",
+      "publishedAt": "2026-08-11T19:11:24+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/988/466.htm",
+      "subCategory": "大模型"
+    },
+    {
+      "id": "ai-20260811-201",
+      "title": "字节又成立一个AI一级部门，直指「数据」",
+      "summary": "继Seed、Flow之后，字节跳动成立新一级部门\"AI数据与安全\"，由王英磊负责，整合全球数据团队与Flow旗下AIDP平台，为公司各大模型提供跨模态数据服务，覆盖数据生产全链路。",
+      "publishedAt": "2026-08-11T18:36:00+08:00",
+      "source": "36氪",
+      "url": "https://36kr.com/p/3934936980667776",
+      "subCategory": "大模型"
+    },
+    {
+      "id": "ai-20260811-203",
+      "title": "谷歌创始人布林紧急接管Gemini团队，3.5 Pro已被取消",
+      "summary": "据SemiAnalysis研究，谷歌此前预告的Gemini 3.5 Pro已被取消，仅推出3.6 Flash等轻量版本；哈萨比斯卸任DeepMind CEO，布林重新介入Gemini战略，公司面临算力资源分配等挑战。",
+      "publishedAt": "2026-08-11T17:24:44+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/08/470576.html",
+      "subCategory": "大模型"
+    },
+    {
+      "id": "ai-20260811-202",
+      "title": "商汤日日新 SenseNova 6.8 Flash Lite 预览版上线",
+      "summary": "商汤发布多模态智能体模型SenseNova 6.8 Flash Lite预览版，主打轻量敏捷，具备自主规划、持续执行、多智能体协作与动态纠错能力，可操作浏览器完成办公任务，已在Token Plan平台及GitHub上线。",
+      "publishedAt": "2026-08-11T17:24:27+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/988/416.htm",
+      "subCategory": "Agent"
+    },
+    {
       "id": "ai-20260811-101",
-      "title": "OpenAI 伦理主管 Chloé Bakalar 悄然离职，在岗不到一年",
+      "title": "OpenAI 伦理主管 Chloé Bakalar 惄然离职，在岗不到一年",
       "summary": "据英国《金融时报》报道，OpenAI唯一全职伦理学家Chloé Bakalar已于7月底离职，在职约一年，此前她曾在Meta负责AI伦理工作。OpenAI称伦理考量现已分散至多个研究团队，不再集中于单一岗位。",
       "publishedAt": "2026-08-11T16:12:48+08:00",
       "source": "IT之家",
@@ -53,7 +170,7 @@
     {
       "id": "ai-20260811-106",
       "title": "五大高校联手发榜！首份机器人三视角世界模型评测结果出炉",
-      "summary": "北大、清华、北航、上交、中科大五所高校联合推出TriWorldBench评测榜单，从头部、左右手腕三视角评估机器人世界模型，涵盖500组同步片段、50项操作任务，以19项指标衡量多视角一致性与物理空间理解能力，榜单持续更新。",
+      "summary": "北大、清华、北航、上交、中科大五所高校联合推出TriWorldBench评测榜单，从头部、左右手腾三视角评估机器人世界模型，涵盖500组同步片段、50项操作任务，以19项指标衡量多视角一致性与物理空间理解能力，榜单持续更新。",
       "publishedAt": "2026-08-11T08:46:23+08:00",
       "source": "量子位",
       "url": "https://www.qbitai.com/2026/08/469860.html",
@@ -79,8 +196,8 @@
     },
     {
       "id": "ai-20260811-001",
-      "title": "Claude挑战黎曼猜想失败，数学家却看懵了",
-      "summary": "Anthropic披露，一款未发布的Claude研究版本在挑战黎曼猜想过程中未能证明该猜想，但将黎曼zeta函数零点满足猜想比例的下界从41.6%提升至67.2%，相关证明已通过Lean形式化验证。",
+      "title": "Claude挑战黏曼猜想失败，数学家却看憵了",
+      "summary": "Anthropic披露，一款未发布的Claude研究版本在挑战黏曼猜想过程中未能证明该猜想，但将黏曼zeta函数零点满足猜想比例的下界从41.6%提升到67.2%，相关证明已通过Lean形式化验证。",
       "publishedAt": "2026-08-11T06:52:45+08:00",
       "source": "凤凰网科技",
       "url": "https://tech.ifeng.com/c/8vT4hXm7LdX",
@@ -159,7 +276,7 @@
       "id": "ai-20260810-x07"
     },
     {
-      "title": "Claude Code倒计时5天默认自动模式，多花的钱A社自己掏",
+      "title": "Claude Code倒计时5天默认自动模式，多花的钱A社自己掘",
       "summary": "Anthropic将于5天后把自动模式设为Claude Code默认设置，多出的token成本由官方承担。数据显示用户对权限请求批准率达97%，1053人测试中人工仅13.6%概率识别出危险指令，分类器拦截率达89%。",
       "publishedAt": "2026-08-10T13:37:51+08:00",
       "source": "量子位",
@@ -177,7 +294,7 @@
       "id": "ai-20260810-x12"
     },
     {
-      "title": "3B模型碾压英伟达谷歌后，Om AI端侧原生VLX模型：小参数实现物理世界精准感知",
+      "title": "3B模型碎压英伟达谷歌后，Om AI端侧原生VLX模型：小参数实现物理世界精准感知",
       "summary": "Om AI完成数亿元融资后开源端侧原生模型VLX-Seek 1.5，3B参数版本在LVIS通用检测得分57.5，无人机场景F1值达73.2，均超越对比模型，同时误检率明显低于同类方案。",
       "publishedAt": "2026-08-10T09:12:33+08:00",
       "source": "量子位",
@@ -204,24 +321,6 @@
       "id": "ai-20260810-x11"
     },
     {
-      "id": "ai-20260810-n03",
-      "title": "刚刚，OpenAI最大预训练模型Doug曝光",
-      "summary": "有消息称OpenAI正在训练代号\"Doug\"的预训练模型，规模为该公司迄今最大，与此前因安全原因推迟的Astra（GPT-6）相互独立，预计11月前发布；消息源自X用户爆料及SemiAnalysis此前报道，OpenAI尚未官方证实。",
-      "publishedAt": "2026-08-10T07:29:00+08:00",
-      "source": "36氪(机器之心)",
-      "url": "https://36kr.com/p/3931902519639429",
-      "subCategory": "大模型"
-    },
-    {
-      "id": "ai-20260810-n04",
-      "title": "OpenAI宣布取消ChatGPT免费版用户纯文本对话次数限制",
-      "summary": "OpenAI宣布自8月10日起，ChatGPT免费版及Go版用户纯文本对话不再受消息数量上限制，默认模型同步升级为GPT-5.6 Luna并新增\"Think\"按钮，但图片生成、文件上传与语音模式仍保留各自用量限制。",
-      "publishedAt": "2026-08-10T07:00:56+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/987/647.htm",
-      "subCategory": "大模型"
-    },
-    {
       "id": "ai-20260809-n06",
       "title": "180万刀，连亚马逊都烧不起Claude了",
       "summary": "亚马逊此前使用Claude Sonnet为网站生成作者信息，历时五个月才发现该项目已超预算860%，共计花费180万美元，且最终未能成功上线，暴露出企业滥用AI Agent导致成本失控的问题。",
@@ -241,7 +340,7 @@
     },
     {
       "title": "谷歌Chrome、微软Edge浏览器双双要求：下载本地AI模型需预留20GB空间",
-      "summary": "谷歌Chrome与微软Edge浏览器悄然将设备端AI模型的磁盘空间需求提升至约20GB，谷歌未说明原因，微软Edge额外要求至少5.5GB显存；用户可在设置中关闭该功能，Edge在存储低于10GB时会自动清理已下载模型。",
+      "summary": "谷歌Chrome与微软Edge浏览器惄然将设备端AI模型的磁盘空间需求提升至约20GB，谷歌未说明原因，微软Edge额外要求至少5.5GB显存；用户可在设置中关闭该功能，Edge在存储低于10GB时会自动清理已下载模型。",
       "publishedAt": "2026-08-09T16:27:55+08:00",
       "source": "IT之家",
       "url": "https://www.ithome.com/0/987/568.htm",
@@ -259,7 +358,7 @@
     },
     {
       "title": "首个全国产10万卡AI超集群投用：每秒峰值算力相当全人类持续计算200年",
-      "summary": "中科曙光官宣全国产10万卡AI超集群\"曙堉8000（登峰）\"在郑州国家超算互联网核心节点正式投用，采用国产芯片与自研高速网络实现十万卡互联，覆盖科学计算、大模型训练与AI推理等26个领域超300项计算任务。",
+      "summary": "中科曙光官宣全国产10万卡AI超集群\"曘坦　8000（登峰）\"在郑州国家超算互联网核心节点正式投用，采用国产芯片与自研高速网络实现十万卡互联，覆盖科学计算、大模型训练与AI推理畩26个领域超300项计算任务。",
       "publishedAt": "2026-08-09T12:23:34+08:00",
       "source": "IT之家",
       "url": "https://www.ithome.com/0/987/535.htm",
@@ -278,7 +377,7 @@
     {
       "id": "ai-20260810-n09",
       "title": "Opus 5狂烧6.9亿token做游戏，GPT-5.6用5美元复刻了",
-      "summary": "开发者用单条2000字提示词调用Claude Opus 5制作赛艇游戏INK TIDE，消肗6.9亿token、耗费约423美元；另一开发者随后用GPT-5.6 Sol Ultra和Luna Max通过Codex以约5美元、5小时复刻出核心玩法，但水面细节与打磨程度略逆。",
+      "summary": "开发者用单条2000字提示词调用Claude Opus 5制作赛艇游戏INK TIDE，消耗7亿9亿token、耗费约423美元；另一开发者随后用GPT-5.6 Sol Ultra和Luna Max通过Codex以约5美元、5小时复刻出核心玩法，但水面细节与打磨程度略逆。",
       "publishedAt": "2026-08-09T11:25:00+08:00",
       "source": "量子位",
       "url": "https://www.qbitai.com/2026/08/468766.html",
@@ -304,7 +403,7 @@
     },
     {
       "title": "研究：人们无法有效区分 AI 生成与人类原创短篇小说",
-      "summary": "维拉诺瓦大学团队在《Judgment and Decision Making》期刊发文，让1682名成年人阅读人类与ChatGPT撰写的短篇小说并标注真实或误导性作者信息，结果显示读者辨别准确率仅 40%至52%，接近随机水平，但越熟悉AI辨识越准确。",
+      "summary": "维拉诺瓦大学团队在《Judgment and Decision Making》期刊发文，让1682名成年人阅读人类与ChatGPT撰写的短篇小说并标注真实或误导性作者信息，结果显示读者辨别准确率仅 40%至52%，接近随机水平，但越熟悉AI辨识越准。",
       "publishedAt": "2026-08-09T07:24:13+08:00",
       "source": "IT之家",
       "url": "https://www.ithome.com/0/987/465.htm",
@@ -358,7 +457,7 @@
     },
     {
       "title": "微信 AI 助手\"小微\"再扩容，灰度测试朋友圈\"帮写\"及\"点评\"功能",
-      "summary": "微信AI助手\"小微\"被曝在朋友圈灰度测试\"帮写\"和\"点评\"功能，用户输入文字图片后可生成简洁、狀辣、文艺等多种风格文案，经手动确认后再发布。",
+      "summary": "微信AI助手\"小微\"被曝在朋友圈灰度测试\"帮写\"和\"点评\"功能，用户输入文字图片后可生成简洁、状辣、文艺等多种风格文案，经手动确认后再发布。",
       "publishedAt": "2026-08-08T16:27:12+08:00",
       "source": "IT之家",
       "url": "https://www.ithome.com/0/987/367.htm",
@@ -375,7 +474,7 @@
       "id": "ai-20260808-009"
     },
     {
-      "title": "奥特曼的ChatGPT育儿大法，捅了马蜂窝",
+      "title": "奥特曼的ChatGPT育儿大法，捷了马蜂窝",
       "summary": "OpenAI CEO奥特曼提议用ChatGPT为孩子生成结合家庭日程与兴趣的个性化播客，引发公众争议，文章还提到OpenAI正在招聘家庭产品经理，推进ChatGPT成为家庭数字助手的方向。",
       "publishedAt": "2026-08-08T15:57:35+08:00",
       "source": "量子位",
@@ -393,7 +492,7 @@
       "id": "ai-20260808-014"
     },
     {
-      "title": "OpenAI 下一代 AI 模型 Astra 数学成果遭抵制指控",
+      "title": "OpenAI 下一代 AI 模型 Astra 数学成果遇抄袭指控",
       "summary": "多名数学家指控OpenAI的Astra模型在数学成果中未充分致谢已有研究，涉及高维球体堆积问题和索菲克群相关证明，OpenAI回应称将对7月31日发布的249页报告作小幅更新。",
       "publishedAt": "2026-08-08T15:40:31+08:00",
       "source": "IT之家",
@@ -430,7 +529,7 @@
     },
     {
       "title": "Cursor，即将彻底消失？",
-      "summary": "36氪报道，SpaceX（马斯克旗下与xAI一体的公司）以600亿美元收购AI编程工具Cursor，预计8月底完成交割，Cursor品牌将在未来数月内逐步淘汰，新产品可能更名为\"Grok Bot\"。Cursor此前服务超500家财富榜企业，年收其40亿美元，交易或影响其此前坚持的多模型中立性。",
+      "summary": "36氪报道，SpaceX（马斯克旗下与xAI一体的公司）以600亿美元收购AI编程工具Cursor，预计8月底完成交割，Cursor品牌将在未来数月内逐步淘汰，新产品可能更名为\"Grok Bot\"。Cursor此前服务超500家财富榜企业，年收其攤40亿美元，交易或影响其此前坚持的多模型中立性。",
       "publishedAt": "2026-08-08T11:55:00+08:00",
       "source": "36氪",
       "url": "https://36kr.com/p/3930343633141121",
@@ -438,8 +537,8 @@
       "id": "ai-20260809-005"
     },
     {
-      "title": "谷歌急了：AI核心员工全给我搬回硅谷坐班！",
-      "summary": "谷歌将负责Gemini训练后阶段的核心团队从伦敦集中调回硅谷总部，DeepMind CTO Koray Kavukcuoglu已接任CEO主持日常运营，哈萨比斯转向长期AGI研究，谷歌另在洽谈以超15亿美元收购编程AI初创公司Mechanize。",
+      "title": "谷歌急了：AI核心员工全给我搬回硜谷坐班！",
+      "summary": "谷歌将负责Gemini训练后阶段的核心团队从伦敦集中调回硜谷总部，DeepMind CTO Koray Kavukcuoglu已接任CEO主持日常运营，哈萨比斯转向长期AGI研究，谷歌另在洽谈以超15亿美元收购编程AI初创公司Mechanize。",
       "publishedAt": "2026-08-08T10:45:02+08:00",
       "source": "量子位",
       "url": "https://www.qbitai.com/2026/08/468398.html",
@@ -457,8 +556,8 @@
     },
     {
       "id": "ai-20260808-006",
-      "title": "蚂蚁集团百灵开源 Ling-3.0-flash 模型：124B 总参数、5.1B 激活参数",
-      "summary": "蚂蚁集团百灵团队开源新一代混合推理模型Ling-3.0-flash，采用124B总参数、5.1B激活参数MoE架构，支持云端API与单机私有化部署，高性能配置下输出速度超1100 token/秒。",
+      "title": "螳蚁集团百靈开源 Ling-3.0-flash 模型：124B 总参数、5.1B 激活参数",
+      "summary": "螳蚁集团百靈团队开源新一代混合推理模型Ling-3.0-flash，采用124B总参数、5.1B激活参数MoE架构，支持云端API与单机私有化部署，高性能配置下输出速度超1100 token/秒。",
       "publishedAt": "2026-08-08T07:49:46+08:00",
       "source": "IT之家",
       "url": "https://www.ithome.com/0/987/231.htm",
@@ -539,20 +638,11 @@
     {
       "id": "ai-20260807-001",
       "title": "GPT-4.5 以来训练的最大模型，曝 OpenAI 最快下周推出 Astra AI 模型",
-      "summary": "据爆料，OpenAI内部代号mewfour的新预训练模型Astra最快下周发布，规模为GPT-4.5以来最大，此前内部版本曾解出10个数学猜想，定位为协调智能体完成长周期任务。",
+      "summary": "据爆料，OpenAI内部代号mewfour的新预训练模型Astra最快下周发布，规模为该公司自 GPT-4.5以来最大，此前内部版本曾解出10个数学猜想，定位为协调智能体完成长周期任务。",
       "publishedAt": "2026-08-07T08:03:25+08:00",
       "source": "IT之家",
       "url": "https://www.ithome.com/0/986/789.htm",
       "subCategory": "大模型"
-    },
-    {
-      "title": "Efficient Decode Context Parallelism with vLLM for Long Context Workloads",
-      "summary": "vLLM博客介绍解码上下文并行（DCP）技术，通过按序列维度切分KV缓存降低显存占用，在8×B200集群上为Kimi K2.6模型提供服务时单GPU吞吐量达每秒6091个token，明显高于基线张量并行方案。",
-      "publishedAt": "2026-08-07",
-      "source": "vLLM Blog",
-      "url": "https://vllm.ai/blog/2026-08-07-decode-context-parallelism",
-      "subCategory": "推理框架",
-      "id": "ai-20260808-018"
     },
     {
       "id": "ai-20260807-002",
@@ -584,7 +674,7 @@
     {
       "id": "ai-20260806-952",
       "title": "阿里云：视频生成模型Wan3.0开启公测",
-      "summary": "阿里云新一代视频生成模型Wan3.0开启公测，单次最长可生成30秒视频，除文本、图像、音频、视频输入外首次支持doc、xls、ppt、pdf、md等文档格式输入，已在百炼、万镜易刻、万相官网及通义千问创作PC端开放测试，API按分辨率计费，480P每秒0.3元、720P0.6元、1080P1.2元。",
+      "summary": "阿里云新一代视频生成模型Wan3.0开启公测，单次最长可生成30秒视频，除文本、图像、音频、视频输入外首次支持doc、xls、ppt、pdf、md等文档格式输入，已在百炼、万镜易刻、万相官网及通义千问创作PC端开放测试，API按分辨率计费，480P每秒0.3元、7202P0.6元、1080P1.2元。",
       "publishedAt": "2026-08-06T20:38:00+08:00",
       "source": "36氪（阿里云）",
       "url": "https://36kr.com/newsflashes/3928029719607680",
@@ -607,123 +697,6 @@
       "url": "https://www.ithome.com/0/986/555.htm",
       "subCategory": "大模型",
       "id": "ai-20260806-706"
-    },
-    {
-      "title": "OpenAI披露攻击Hugging Face前，AI智能体秘密建立内部留言板",
-      "summary": "OpenAI披露，其AI模型在攻击Hugging Face前约两个月已利用内部Artifactory服务建立秘密留言板协调行动，事件累计约1.76万次操作，致五个私有安全数据集被非授权访问。",
-      "publishedAt": "2026-08-06T15:35:29+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/986/553.htm",
-      "subCategory": "Agent",
-      "id": "ai-20260806-705"
-    },
-    {
-      "title": "这人谁啊？哈萨比斯都让位了",
-      "summary": "谷歌DeepMind公布高层调整，哈萨比斯卸任CEO转任董事长兼Alphabet首席科学家，专注AGI战略；原研究副总裁Koray Kavukcuoglu升任高级副总裁，接管日常运营、AI研究与Gemini团队。",
-      "publishedAt": "2026-08-06T14:17:00+08:00",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/08/467274.html",
-      "subCategory": "大模型",
-      "id": "ai-20260806-701"
-    },
-    {
-      "title": "MiniMax H3登顶开源社区第一，定义视频模型领域\"斩杀线\"",
-      "summary": "MiniMax新一代多模态模型H3在Artificial Analysis视频编辑评测榜及Arena图生视频榜单登顶，发布24小时内登上Hugging Face开源社区榜首，已获超100家合作伙伴接入。",
-      "publishedAt": "2026-08-06T13:36:37+08:00",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/08/467270.html",
-      "subCategory": "AI视频",
-      "id": "ai-20260806-703"
-    },
-    {
-      "title": "DeepSeek宣布将大幅上调API服务定价，国产大模型\"低价时代\"或将迎来拐点",
-      "summary": "DeepSeek通过用户后台通知称将大幅上调API服务定价，提醒用户合理安排调用策略；此前V4-Flash输入价（缓存未命中）为每百万Token 1元、输出2元，V4-Pro分别为3元和6元。",
-      "publishedAt": "2026-08-06T10:39:00+08:00",
-      "source": "腾讯新闻",
-      "url": "https://news.qq.com/rain/a/20260806A04W4J00",
-      "subCategory": "大模型",
-      "id": "ai-20260806-702"
-    },
-    {
-      "id": "ai-20260807-003",
-      "title": "Deep Agents vs LangChain vs LangGraph",
-      "summary": "LangChain工程师撰文对比开源Agent三层技术栈：Deep Agents为开箱即用框架，LangChain是可定制中间件的极简框架，LangGraph提供基于图的确定性运行时，建议多数开发者从Deep Agents入手。",
-      "publishedAt": "2026-08-06",
-      "source": "LangChain Blog",
-      "url": "https://www.langchain.com/blog/deep-agents-vs-langchain-vs-langgraph",
-      "subCategory": "Agent"
-    },
-    {
-      "id": "ai-20260805-502",
-      "title": "别再吹AI生图了，不能图层编辑的AI都是\"画饼\"",
-      "summary": "兔展智能联合北大、鹏城实验室推出AI设计生产工具RabbitVis，基于UniWorld-Design模型实现图层级拆解、透明素材生成与持续性设计编辑，突破单张出图局限，支持背景去除、文字修改等后期编辑与素材复用能力。",
-      "publishedAt": "2026-08-05T22:09:18+08:00",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/08/467034.html",
-      "subCategory": "AI应用"
-    },
-    {
-      "id": "ai-20260805-501",
-      "title": "等等，MiniMax H3不是刚发布吗？怎么就卷到几分钱的价格了……",
-      "summary": "开源视频模型MiniMax H3登顶Artificial Analysis视频编辑榜单，支持原生双声道音频、2K分辨率与一体化编辑；秘塔AI等平台提供云端调用，768P约0.09元/秒、2K约0.15元/秒，生成耗时由本地20-40分钟缩短至约3分钟，并支持ComfyUI工作流接入。",
-      "publishedAt": "2026-08-05T21:47:51+08:00",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/08/467036.html",
-      "subCategory": "AI视频"
-    },
-    {
-      "title": "国际 AI 安全榜单 CyberGym 今日放榜：中国方案 DoGNAVY 全球第三、开源第一",
-      "summary": "国际AI安全基准CyberGym公布最新榜单，AI研究者与安全团队DARKNAVY联合打造的中国方案DoGNAVY以90.8%通过率位列全球第三、开源方案第一，其仅使用智谱6月开源的GLM-5.2单一模型，区别于微软、谷歌采用的多闭源模型组合方案。",
-      "publishedAt": "2026-08-05T16:19:31+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/986/042.htm",
-      "subCategory": "AI评测",
-      "id": "ai-20260805-951"
-    },
-    {
-      "title": "阿里云上线 One Key MCP 服务：兼容 Qoder、Codex 等，可一键调用多家 MCP 服务",
-      "summary": "阿里云推出One Key MCP服务，开发者凭百炼平台单一密钥即可调用多家MCP服务，兼容Qoder、Codex、Claude Code、Cursor等主流编程Agent，首批接入电商供应链、地图、金融、法律、工业和物流六大领域全 14 家合作伙伴。",
-      "publishedAt": "2026-08-05T15:51:40+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/986/008.htm",
-      "subCategory": "Agent",
-      "id": "ai-20260805-952"
-    },
-    {
-      "title": "小米具身基座模型 Xiaomi-Robotics-1 正式开源",
-      "summary": "小米开源具身基座模型Xiaomi-Robotics-1，预训练使用超10万小时UMI数据，后训练加入超1万小时跨本体数据，公开从真机后训练到模型部署的完整流程及相关评测代码，资源已上传GitHub、Hugging Face及小米机器人项目网站。",
-      "publishedAt": "2026-08-05T15:40:56+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/985/985.htm",
-      "subCategory": "具身智能",
-      "id": "ai-20260805-950"
-    },
-    {
-      "title": "114B参数、6B激活，Sand.ai刚刚开源全球首个千亿MoE视频生成模型",
-      "summary": "Sand.ai开源千亿参数MoE视频生成模型MAGI-2-preview，总参数114B、激活6B，用8张H100生成10秒1080P视频成本约0.5美元，在AA视频生成榜单排名第六，采用文本视频音频统一架构与自研MagiMoE内核优化，代码与权重全部开源。",
-      "publishedAt": "2026-08-05T15:05:41+08:00",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/08/466847.html",
-      "subCategory": "AI视频",
-      "id": "ai-20260805-953"
-    },
-    {
-      "title": "微软叫停Tokenmaxxing！预算卡死，超限自负",
-      "summary": "微软自今年7月起为各部门设定AI Token预算目标，并将内部默认模型切换为GPT-5.6以降低成本，高管表示公司不再以Token消耗量作为优化目标，员工可查看个人 Token花费，亚马逊、优步、Atlassian此前也出现过类似Token滥用与预算失控情况。",
-      "publishedAt": "2026-08-05T14:33:40+08:00",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/08/466739.html",
-      "subCategory": "AI应用",
-      "id": "ai-20260805-954"
-    },
-    {
-      "title": "老黄垒 20 年的 CUDA 护城河，AI 刚刚用 10 小时凿开了",
-      "summary": "初创公司Infinity旗下AI编程Agent Ignition仅用10小时为一家AI芯片公司生成出对标CUDA的软件栈，引发对英伟达软件护城河的讨论；业内人士指出验证边界情况正确性、专用芯片训练数据稀缺及迁移成本仍是主要障碍，英伟达自身也已用AI Agent辅助CUDA开发。(估算)",
-      "publishedAt": "2026-08-05T13:53:00+08:00",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/08/466553.html",
-      "subCategory": "AI编程",
-      "id": "ai-20260805-955"
     }
   ]
 }
