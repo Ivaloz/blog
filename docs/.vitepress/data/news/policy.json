@@ -3,34 +3,25 @@
   "slug": "policy",
   "title": "政策信息",
   "description": "国家与地方政策、监管动态、产业扶持与合规要求。",
-  "updatedAt": "2026-08-11T23:55:00+08:00",
+  "updatedAt": "2026-08-12T09:05:00+08:00",
   "items": [
     {
-      "id": "policy-20260811-003",
-      "title": "Delivering Gold Standard Childhood Vaccine Recommendations for Americans",
-      "summary": "特朗普签署行政令，要求联邦机构建立金标准儿童疫苗建议体系，推动单剂疫苗选项、重新评估接种时间表、研发替代佐剂，并指示司法部对限制医疗与宗教豁免的州法律采取行动。",
-      "publishedAt": "2026-08-10T15:41:50-04:00",
-      "source": "白宫",
-      "url": "https://www.whitehouse.gov/presidential-actions/2026/08/delivering-gold-standard-childhood-vaccine-recommendations-for-americans/",
-      "subCategory": "海外政策"
+      "title": "市场监管总局批准发布一批重要国家标准 覆盖多领域推动高质量发展",
+      "summary": "国家市场监督管理总局（国家标准委）近日批准发布338项重要国家标准，其中强制性标准15项、推荐性标准323项，内容涵盖人工智能医疗器械质量评价、立体显示与柔性显示技术、智能网联汽车自动驾驶系统安全强制性标准及互联网租赁自行车服务规范等，并新增车用压缩天然气等4项能源类强制性标准。",
+      "publishedAt": "2026-08-11T08:53:01+08:00",
+      "source": "中国质量新闻网（转载市场监管总局发布信息）",
+      "url": "https://news.china.com/socialgd/10000169/20260811/49666843.html",
+      "subCategory": "产业政策",
+      "id": "policy-20260812-002"
     },
     {
-      "title": "FTC Stops Sprawling Credit Repair Scheme that Scammed Consumers Out of Nearly $200 Million",
-      "summary": "美国联邦贸易委员会促使联邦法院叫停一个由17家关联公司组成的虚假信用修复骗局，被告自2016年起通过谷歌广告虚假宣传、假冒催收人员及违规收费等手段骗取消费者约2亿美元，并专门针对现役军人。",
-      "publishedAt": "2026-08-10T09:51:14-04:00",
-      "source": "Federal Trade Commission",
-      "url": "https://www.ftc.gov/news-events/news/press-releases/2026/08/ftc-stops-sprawling-credit-repair-scheme-scammed-consumers-out-nearly-200-million",
-      "subCategory": "金融监管",
-      "id": "policy-20260810-x05"
-    },
-    {
-      "title": "£130 million for cutting-edge next generation vehicles securing over 1,800 jobs",
-      "summary": "英国政府通过DRIVE35计划宣布近1.3亿英镑投资零排放汽车技术，其中约6500万英镑为政府拨款并由产业界配套，将支持超过1800个高价值制造业岗位，另有1700万英镑用于9个互联自动出行先导项目。",
-      "publishedAt": "2026-08-10T12:09:13+01:00",
+      "title": "英国首相宣布整治电子烟店与博彩店 拯救衰落商业街",
+      "summary": "英国首相安迪·伯纳姆宣布一揽子措施整治商业街：取消博彩法中的默许通过规则以赋予地方议会拒批新博彩店权力，要求新开电子烟店须获规划许可并收紧其定义，明年起对成人游戏中心设置规划要求，并将涉黑经营场所的最长关停令期限从6个月延长至12个月。",
+      "publishedAt": "2026-08-11",
       "source": "GOV.UK",
-      "url": "https://www.gov.uk/government/news/130-million-for-cutting-edge-next-generation-vehicles-securing-over-1800-jobs",
-      "subCategory": "新能源政策",
-      "id": "policy-20260810-x06"
+      "url": "https://www.gov.uk/government/news/pm-vows-to-save-hollowed-out-high-streets-with-crackdown-on-vape-and-betting-shops",
+      "subCategory": "海外政策",
+      "id": "policy-20260812-001"
     },
     {
       "id": "policy-20260811-002",
@@ -60,6 +51,24 @@
       "id": "policy-20260810-x01"
     },
     {
+      "id": "policy-20260811-003",
+      "title": "Delivering Gold Standard Childhood Vaccine Recommendations for Americans",
+      "summary": "特朗普签署行政令，要求联邦机构建立金标准儿童疫苗建议体系，推动单剂疫苗选项、重新评估接种时间表、研发替代佐剂，并指示司法部对限制医疗与宗教豁免的州法律采取行动。",
+      "publishedAt": "2026-08-10T15:41:50-04:00",
+      "source": "白宫",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/08/delivering-gold-standard-childhood-vaccine-recommendations-for-americans/",
+      "subCategory": "海外政策"
+    },
+    {
+      "title": "£130 million for cutting-edge next generation vehicles securing over 1,800 jobs",
+      "summary": "英国政府通过DRIVE35计划宣布近1.3亿英镑投资零排放汽车技术，其中约6500万英镑为政府拨款并由产业界配套，将支持超过1800个高价值制造业岗位，另有1700万英镑用于9个互联自动出行先导项目。",
+      "publishedAt": "2026-08-10T12:09:13+01:00",
+      "source": "GOV.UK",
+      "url": "https://www.gov.uk/government/news/130-million-for-cutting-edge-next-generation-vehicles-securing-over-1800-jobs",
+      "subCategory": "新能源政策",
+      "id": "policy-20260810-x06"
+    },
+    {
       "title": "广西全面整治违规使用\"征信\"\"信用评级\"字样经营乱象",
       "summary": "广西市场监管局联合央行广西分行发布专项整治通知，要求个人征信业务须取得央行许可、企业征信及信用评级业务须完成备案，名称或经营范围含相关字样但未取得资质的企业须整改或注销，否则将被处罚。",
       "publishedAt": "2026-08-10T10:56:00+08:00",
@@ -76,6 +85,15 @@
       "url": "https://www.samr.gov.cn/xw/df/art/2026/art_7fe2d99dc99043bf904e0c7369b7e04d.html",
       "subCategory": "产业政策",
       "id": "policy-20260810-x04"
+    },
+    {
+      "title": "FTC Stops Sprawling Credit Repair Scheme that Scammed Consumers Out of Nearly $200 Million",
+      "summary": "美国联邦贸易委员会促使联邦法院叫停一个由17家关联公司组成的虚假信用修复骗局，被告自2016年起通过谷歌广告虚假宣传、假冒催收人员及违规收费等手段骗取消费者约2亿美元，并专门针对现役军人。",
+      "publishedAt": "2026-08-10T09:51:14-04:00",
+      "source": "Federal Trade Commission",
+      "url": "https://www.ftc.gov/news-events/news/press-releases/2026/08/ftc-stops-sprawling-credit-repair-scheme-scammed-consumers-out-nearly-200-million",
+      "subCategory": "金融监管",
+      "id": "policy-20260810-x05"
     },
     {
       "title": "关于印发《煤炭工业发展\"十五五\"规划》的通知",
@@ -706,15 +724,6 @@
       "source": "新华网",
       "url": "https://www.news.cn/20260728/558861063fe74feb974b683dd8447a41/c.html",
       "subCategory": "跨境贸易"
-    },
-    {
-      "title": "工信部：深入推进\"车路云一体化\"生产准入和通行试点",
-      "summary": "工业和信息化部介绍智能网联汽车产业发展情况，将加快编制智能网联新能源汽车产业发展\"十五五\"规划，深入推进\"车路云一体化\"生产准入和上路通行试点。全国已发放测试牌照超2万张，开放测试道路超5.7万公里，L2级乘用车渗透率达70.5%。",
-      "publishedAt": "2026-07-28T08:47:18+08:00",
-      "source": "经济参考报（新华网）",
-      "url": "https://www.news.cn/tech/20260728/057db72877c646428daa9ed38fc8a6b7/c.html",
-      "subCategory": "新能源政策",
-      "id": "policy-20260729-502"
     }
   ]
 }
