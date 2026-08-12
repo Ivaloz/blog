@@ -3,8 +3,125 @@
   "slug": "tech",
   "title": "科技新闻",
   "description": "前沿科技、互联网产品、芯片硬件、开源生态。",
-  "updatedAt": "2026-08-11T23:55:00+08:00",
+  "updatedAt": "2026-08-12T09:05:00+08:00",
   "items": [
+    {
+      "title": "华为 nova16 SE 手机今日开售：麒麟 8020 芯片、8500mAh 电池，2499 元起",
+      "summary": "华为nova16 SE手机于8月12日10:08正式开售，128GB版本售价2499元，国补到手价2124.15元；256GB售价2699元；512GB售价3199元。该机搭载6.84英寸1.5K OLED屏，刷新率120Hz，峰值亮度8000nits，麒麟8020处理器，8500mAh电池，支持66W快充，预装HarmonyOS 6.1系统。",
+      "publishedAt": "2026-08-12T08:36:08+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/988/576.htm",
+      "subCategory": "消费电子",
+      "id": "tech-20260812-001"
+    },
+    {
+      "title": "索尼中国开卖115寸旗舰电视：149999元",
+      "summary": "索尼中国开售115英寸RGB LED电视9系二代，售价149999元。该电视采用真彩RGB独立三色背光技术，峰值亮度接近4000nits，覆盖BT.2020色域，拥有15000个独立控色分区，支持PS5 Pro优化、4K 120fps HDR及杜比视界游戏模式，搭载Android TV 2026系统。",
+      "publishedAt": "2026-08-12T08:29:00+08:00",
+      "source": "快科技",
+      "url": "https://news.mydrivers.com/1/1143/1143059.htm",
+      "subCategory": "消费电子",
+      "id": "tech-20260812-003"
+    },
+    {
+      "title": "长安启源：全新 Q05 累计销量突破 10 万辆，连续 4 月蝉联紧凑型 SUV 销量冠军",
+      "summary": "长安启源官方宣布，旗下全新Q05累计销量突破10万辆，连续4个月位居紧凑型SUV销量榜首。该车尺寸为4435×1855×1595mm，轴距2735毫米，起售价7.99万元，此后陆续推出8.99万元和9.59万元的新版本。",
+      "publishedAt": "2026-08-12T08:25:37+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/988/572.htm",
+      "subCategory": "智能汽车",
+      "id": "tech-20260812-002"
+    },
+    {
+      "title": "举债重金押注 AI 基建，消息称甲骨文正制定新一轮裁员计划",
+      "summary": "据报道，甲骨文内部文件显示公司正筹划新一轮裁员，部分团队降幅达两位数，管理层已被要求提交受影响员工名单，目标在9月1日新财季开始前完成。甲骨文2026财年已裁员2.1万人（降幅13%），当前员工约14.1万人；同期基础设施投入557亿美元，现金流出超流入237亿美元，已通过发债融资430亿美元，预计本财年还将再融资400亿美元，公司云基础设施业务同期增长77%。",
+      "publishedAt": "2026-08-12T08:00:24+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/988/567.htm",
+      "subCategory": "云计算",
+      "id": "tech-20260812-015"
+    },
+    {
+      "title": "苹果发布iOS 27第三个公测版：流畅度提升 iPhone 11及以上可升级",
+      "summary": "苹果发布iOS 27第三个公测版，距上一测试版时隔约两周，支持iPhone 11系列及后续机型、第二代及以上iPhone SE升级。更新称应用启动速度最高提升30%，照片加载最高提速70%，隔空传送速度最高提升80%，并对Liquid Glass设计的透明度调节功能进行了优化。",
+      "publishedAt": "2026-08-12T07:58:00+08:00",
+      "source": "快科技",
+      "url": "https://news.mydrivers.com/1/1143/1143056.htm",
+      "subCategory": "操作系统",
+      "id": "tech-20260812-004"
+    },
+    {
+      "title": "谷歌扩建全球网络基础设施，拟建 3 条新海底光缆",
+      "summary": "谷歌宣布在美洲地区新建三条海底光缆：连接多米尼加共和国、巴拿马与智利的Alisios；连接多米尼加共和国与百慕大的Canoa；直连多米尼加共和国与佛罗里达的OlaLuz。谷歌表示Canoa将与现有的Nuvem、Sol光缆共同为拉美与加勒比地区提供通往欧美的连接，OlaLuz将提升加勒比地区与美国东海岸间的网络容量。",
+      "publishedAt": "2026-08-12T07:40:45+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/988/560.htm",
+      "subCategory": "网络基础设施",
+      "id": "tech-20260812-012"
+    },
+    {
+      "title": "微软 Xbox Elite Series 3 原型手柄谍照泄露，内置微型屏幕",
+      "summary": "一名用户以200美元从二手平台购得微软Xbox Elite Series 3手柄原型机并曝光谍照，显示手柄新增此前未曝光的小型触控屏，可显示Xbox云游戏图标等信息，并配有底部滚轮、四个背部按键、可拆卸十字键及5.8瓦时可拆卸电池。原型机贴有非卖品标签，无法开机或连接主机，报道称该手柄仍计划今年内发布。",
+      "publishedAt": "2026-08-12T07:37:25+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/988/559.htm",
+      "subCategory": "消费电子",
+      "id": "tech-20260812-014"
+    },
+    {
+      "title": "三星 Galaxy Tab S12+/S12 Ultra 平板曝光：天玑 9500 芯片",
+      "summary": "蓝牙SIG认证文件显示，三星Galaxy Tab S12+与Tab S12 Ultra平板均将搭载联发科天玑9500芯片。S12+配备12.4英寸120Hz Dynamic AMOLED 2X屏幕及10600mAh电池，S12 Ultra配备14.6英寸屏幕及11600mAh电池，两款均提供Wi-Fi版与蜂窝网络版，外观延续Tab S11系列设计，预计今年下半年发布。",
+      "publishedAt": "2026-08-12T07:29:55+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/988/558.htm",
+      "subCategory": "消费电子",
+      "id": "tech-20260812-013"
+    },
+    {
+      "title": "DeadLock勒索软件启用区块链技术抵御基础设施打击",
+      "summary": "自2025年年中活跃、截至2026年7月已列出80家受害机构的DeadLock勒索软件团伙，如今通过Polygon区块链上的智能合约存储其聊天代理地址而非使用Tor URL，并采用Session网络与Wasabi云存储进行通信及数据存储。微软研究人员指出，由于公共Polygon RPC端点仍须保持可访问，打击行动仍有可能实施。",
+      "publishedAt": "2026-08-12T06:15:00+08:00",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/deadlock-ransomware-uses-blockchain-to-resist-infrastructure-takedown/",
+      "subCategory": "安全漏洞",
+      "id": "tech-20260812-011"
+    },
+    {
+      "title": "Sandworm黑客组织通过木马化WireGuard VPN客户端targeting IT从业人员",
+      "summary": "俄罗斯背景黑客组织Sandworm（APT44/UAC-0145）自2026年5月起以虚假招聘为诱饵，诱导IT与电信从业者安装名为SopraVPN的木马化VPN客户端，该客户端冒充Sopra Steria并托管在SourceForge上，使用自定义Base64编码隐藏载荷，在Windows端执行PowerShell、在Linux端通过cURL获取可执行文件。",
+      "publishedAt": "2026-08-12T05:07:00+08:00",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/sandworm-hackers-target-it-pros-with-trojanized-wireguard-vpn-client/",
+      "subCategory": "安全漏洞",
+      "id": "tech-20260812-010"
+    },
+    {
+      "title": "思科警告ASA与FTD VPN漏洞正被利用致设备崩溃",
+      "summary": "思科披露CVE-2026-20349（CVSS评分8.6），这是Secure Firewall ASA与FTD软件远程访问SSL VPN服务中因错误检查不足导致的漏洞，攻击者可通过构造的HTTP请求使设备崩溃。思科表示该漏洞正被积极利用，已发布ASA 9.16至9.24版本和FTD 7.0至10.0版本补丁，且无可用的临时缓解方案。",
+      "publishedAt": "2026-08-12T03:45:00+08:00",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-asa-and-ftd-vpn-flaw-exploited-to-crash-devices/",
+      "subCategory": "安全漏洞",
+      "id": "tech-20260812-009"
+    },
+    {
+      "title": "微软2026年8月补丁星期二修复400个漏洞，含3个零日漏洞",
+      "summary": "微软2026年8月补丁星期二修复了400个漏洞，其中42个被评为严重级别，包含3个零日漏洞（1个已被在野利用、2个已公开披露）。已被利用的漏洞CVE-2026-68820是Windows Ancillary Function Driver for WinSock权限提升漏洞，Check Point称朝鲜Lazarus组织已利用该漏洞部署FudModule rootkit。",
+      "publishedAt": "2026-08-12T02:08:00+08:00",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-august-2026-patch-tuesday-fixes-400-flaws-3-zero-days/",
+      "subCategory": "安全漏洞",
+      "id": "tech-20260812-007"
+    },
+    {
+      "title": "Modular 26.5: Mojo 1.0 正式发布",
+      "summary": "Modular正式发布Mojo 1.0，标志着该编程语言自2023年问世以来迈向稳定的生产级基础版本，为Mojo开发者社区提供长期稳定的语言底座，用于构建库、工具与应用。",
+      "publishedAt": "2026-08-12T00:48:02+08:00",
+      "source": "Modular Blog",
+      "url": "https://www.modular.com/blog/modular-26-5-mojo-1-0-is-here",
+      "subCategory": "开发者工具",
+      "id": "tech-20260812-005"
+    },
     {
       "id": "tech-20260811-028",
       "title": "849 元科睿 27 英寸 2K 240Hz 显示器 X7Q 发售，峰值亮度 400nits",
@@ -31,6 +148,15 @@
       "source": "IT之家",
       "url": "https://www.ithome.com/0/988/537.htm",
       "subCategory": "操作系统"
+    },
+    {
+      "title": "英伟达推出800伏直流电源架构，应对AI算力扩容电力挑战",
+      "summary": "英伟达联合谷歌、微软通过开放计算项目推出800伏直流电源分配架构，减少交流转直流的转换环节，提升数据中心供电效率。部署计划分阶段推进：2026年推出电源机架，2027年推出每排2兆瓦的电源中心，未来推出设施级直流电源模块，目前已有超过80家设备厂商基于该开放标准进行研发。",
+      "publishedAt": "2026-08-11T23:00:06+08:00",
+      "source": "NVIDIA Blog",
+      "url": "https://blogs.nvidia.com/blog/800-vdc-power-architecture-ai-factory/",
+      "subCategory": "云计算",
+      "id": "tech-20260812-006"
     },
     {
       "id": "tech-20260811-031",
@@ -600,42 +726,6 @@
       "subCategory": "安全漏洞"
     },
     {
-      "id": "tech-20260810-n15",
-      "title": "Purism 推出 Librem 16 Linux 笔记本：配备双物理隐私开关，搭酷睿 i7-13620H 处理器",
-      "summary": "Purism推出Librem 16 Linux笔记本，配备可物理断开摄像头、麦克风及无线功能的双隐私开关，搭载酷睿i7-13620H处理器，预装基于Debian的PureOS系统，起售价2899美元。",
-      "publishedAt": "2026-08-10T07:17:40+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/987/651.htm",
-      "subCategory": "开源生态"
-    },
-    {
-      "id": "tech-20260810-n16",
-      "title": "宇树科技今日启动申购，A 股迎来\"人形机器人第一股\"",
-      "summary": "宇树科技8月10日正式启动A股IPO网上申购，发行价150.8元/股，对应发行市值约609.93亿元，发行市盈率219.23倍，成为A股首只上市的人形机器人企业股票，全流程仅耗时73天。",
-      "publishedAt": "2026-08-10T07:07:08+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/987/649.htm",
-      "subCategory": "机器人"
-    },
-    {
-      "id": "tech-20260810-n17",
-      "title": "联想 2026 款 P16v 笔记本首销，20999 元",
-      "summary": "联想2026款P16v笔记本\"酷睿Ultra 7 251HX加32GB加1TB加RTX Pro 1000\"配置版本正式首销，售价20999元，配备2.5K IPS触控屏、Wi-Fi 7及85Whr电池，厚度17.9毫米。",
-      "publishedAt": "2026-08-10T06:46:50+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/987/643.htm",
-      "subCategory": "消费电子"
-    },
-    {
-      "id": "tech-20260810-n18",
-      "title": "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry",
-      "summary": "由Leopold Aschenbrenner创立的AI对冲基金Situational Awareness追加投资4亿美元于芯片制造初创公司Source Foundry，累计投资达5亿美元；该基金今年7月已将大部分公开持仓出售给Citadel。",
-      "publishedAt": "2026-08-09T13:35:00-07:00",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/",
-      "subCategory": "芯片硬件"
-    },
-    {
       "id": "tech-20260809-n11",
       "title": "微星RTX 5080超龙DRACO规格确认：功耗360W 加速频率2775MHz",
       "summary": "微星确认RTX 5080超龙DRACO显卡规格，加速频率最高2775MHz，较公版高60MHz，整卡功耗360W，配备10752个CUDA核心及16GB GDDR7显存，官方尚未公布价格与上市时间。",
@@ -724,6 +814,15 @@
       "source": "IT之家",
       "url": "https://www.ithome.com/0/987/585.htm",
       "subCategory": "航空航天"
+    },
+    {
+      "id": "tech-20260809-n18",
+      "title": "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry",
+      "summary": "由Leopold Aschenbrenner创立的AI对冲基金Situational Awareness追加投资4亿美元于芯片制造初创公司Source Foundry，累计投资达5亿美元；该基金今年7月已将大部分公开持仓出售给Citadel。",
+      "publishedAt": "2026-08-09T13:35:00-07:00",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/",
+      "subCategory": "芯片硬件"
     }
   ]
 }
