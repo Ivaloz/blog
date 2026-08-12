@@ -3,8 +3,170 @@
   "slug": "tech",
   "title": "科技新闻",
   "description": "前沿科技、互联网产品、芯片硬件、开源生态。",
-  "updatedAt": "2026-08-12T09:05:00+08:00",
+  "updatedAt": "2026-08-12T16:38:00+08:00",
   "items": [
+    {
+      "title": "苹果 Apple Music 悄悄上线日语歌词英语翻译功能",
+      "summary": "苹果在Apple Music低调上线日语歌词英语翻译功能，基于iOS 26引入的歌词翻译与发音能力，但部分曲目暂不支持翻译，且被曝出现英文歌曲误显中文翻译、韩文歌曲翻译语言错乱等问题。",
+      "publishedAt": "2026-08-12T16:34:32+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/988/828.htm",
+      "subCategory": "互联网产品",
+      "id": "tech-20260812-016"
+    },
+    {
+      "title": "华为Mate 90系列首发新一代麒麟芯片：成本暴涨，4699元起步价不复存在",
+      "summary": "华为Mate90系列预计9月23日发布，首发新一代麒麟芯片，采用堆叠架构。受存储芯片等元器件成本上涨影响，业内人士预计其起售价将高于上代4699元。",
+      "publishedAt": "2026-08-12T16:34:16+08:00",
+      "source": "快科技",
+      "url": "https://news.mydrivers.com/1/1143/1143207.htm",
+      "subCategory": "芯片硬件",
+      "id": "tech-20260812-017"
+    },
+    {
+      "title": "复活诺基亚N95！HMD将推出全新侧滑盖智能机",
+      "summary": "HMD计划推出侧滑盖智能机，延续经典诺基亚N95造型，配6.39英寸屏、骁龙690处理器、8GB+128GB存储及4500mAh电池，据悉定价将控制在3000元以内。",
+      "publishedAt": "2026-08-12T16:20:53+08:00",
+      "source": "快科技",
+      "url": "https://news.mydrivers.com/1/1143/1143203.htm",
+      "subCategory": "消费电子",
+      "id": "tech-20260812-018"
+    },
+    {
+      "title": "苹果应用商店出现山寨版政务 App，闽政通官方回应称相关部门正在协调处理",
+      "summary": "苹果App Store出现仿冒福建政务服务应用“闽证通”，官方“闽政通”回应称相关部门正在协调处理，提醒用户可通过应用商店举报功能进行反馈。",
+      "publishedAt": "2026-08-12T16:13:54+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/988/815.htm",
+      "subCategory": "安全漏洞",
+      "id": "tech-20260812-021"
+    },
+    {
+      "title": "小米澎湃OS 4 Beta版蓄势待发：剥离MIUI遗留代码，底层彻底革新",
+      "summary": "红米产品经理透露澎湃OS 4 Beta版即将发布，将于9月小米18系列发布前推送，系统底层剥离MIUI遗留代码，核心模块改用Rust与Flutter重写。",
+      "publishedAt": "2026-08-12T16:09:51+08:00",
+      "source": "快科技",
+      "url": "https://news.mydrivers.com/1/1143/1143196.htm",
+      "subCategory": "操作系统",
+      "id": "tech-20260812-025"
+    },
+    {
+      "title": "Zoom 新高危漏洞曝光，不法分子可借助屏幕共享完全接管他人设备",
+      "summary": "安全研究人员披露Zoom Workplace存在高危漏洞，攻击者可利用屏幕共享标注功能远程接管设备，且无需用户操作或提示，Zoom已发布补丁建议尽快更新。",
+      "publishedAt": "2026-08-12T16:09:26+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/988/809.htm",
+      "subCategory": "安全漏洞",
+      "id": "tech-20260812-020"
+    },
+    {
+      "title": "国产大飞机C919首条国际航线开通！民航最高礼仪水门迎接",
+      "summary": "国产C919客机开通首条国际航线，CA723航班从北京飞抵蒙古乌兰巴托，民航部门以水门礼迎接，标志C919正式进入国际化运营阶段，此前已运营58条国内航线。",
+      "publishedAt": "2026-08-12T16:08:00+08:00",
+      "source": "快科技",
+      "url": "https://news.mydrivers.com/1/1143/1143195.htm",
+      "subCategory": "航空航天",
+      "id": "tech-20260812-030"
+    },
+    {
+      "title": "华为之外第一：深开鸿贡献 OpenHarmony 主干代码突破 1000 万行",
+      "summary": "深开鸿宣布向OpenHarmony主干代码贡献量突破1000万行，成为华为之外贡献最多的生态伙伴，公司拥有4个PMC席位，并协调30个SIG小组、330余名代码贡献者。",
+      "publishedAt": "2026-08-12T16:07:00+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/988/806.htm",
+      "subCategory": "开源生态",
+      "id": "tech-20260812-019"
+    },
+    {
+      "title": "vivo 新机通过 3C 认证，预计为 X500 系列或 iQOO 16",
+      "summary": "vivo两款新机型号V2606A与V2609A通过3C认证，分别对应X500系列与iQOO 16，支持90W与100W快充，预计将分别搭载天玑9600与骁龙8至尊版第六代芯片。",
+      "publishedAt": "2026-08-12T15:57:48+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/988/802.htm",
+      "subCategory": "消费电子",
+      "id": "tech-20260812-033"
+    },
+    {
+      "title": "中国存储站起来！长江超越铠侠成全球第三大NAND闪存出货方",
+      "summary": "Counterpoint报告称长江存储已超越铠侠成为全球第三大NAND闪存供应商，市场份额达14%，同比增长22%，但企业级存储业务规模仍落后于铠侠与美光。",
+      "publishedAt": "2026-08-12T15:51:11+08:00",
+      "source": "快科技",
+      "url": "https://news.mydrivers.com/1/1143/1143185.htm",
+      "subCategory": "芯片硬件",
+      "id": "tech-20260812-022"
+    },
+    {
+      "title": "特斯拉车主赢麻了！马斯克：未来所有特斯拉车都将配备星链系统",
+      "summary": "马斯克在财报电话会上表示未来特斯拉车型都将配备星链卫星系统，Cybercab已搭载星链V5硬件，但受限于牌照，该功能暂无法在中国市场使用。",
+      "publishedAt": "2026-08-12T15:45:38+08:00",
+      "source": "快科技",
+      "url": "https://news.mydrivers.com/1/1143/1143183.htm",
+      "subCategory": "智能汽车",
+      "id": "tech-20260812-032"
+    },
+    {
+      "title": "广告拦截器全面受限！Chrome杀完Edge跟进：Firefox趁机喊话揽客",
+      "summary": "微软Edge浏览器宣布停止支持Manifest V2扩展，跟进Chrome此前的转型，uBlock Origin等广告拦截插件功能将大幅受限，Firefox则表态将继续支持相关插件。",
+      "publishedAt": "2026-08-12T15:11:16+08:00",
+      "source": "快科技",
+      "url": "https://news.mydrivers.com/1/1143/1143171.htm",
+      "subCategory": "互联网产品",
+      "id": "tech-20260812-026"
+    },
+    {
+      "title": "微星新款34寸4K显示器首发5999元：第五代QD-OLED面板",
+      "summary": "微星发布34英寸4K超宽显示器PRO MAX 341QPXW14G，首发价5999元，搭载三星第五代QD-OLED面板，支持144Hz刷新率、1300尼特峰值亮度及双Type-C 98W供电。",
+      "publishedAt": "2026-08-12T15:06:46+08:00",
+      "source": "快科技",
+      "url": "https://news.mydrivers.com/1/1143/1143169.htm",
+      "subCategory": "消费电子",
+      "id": "tech-20260812-027"
+    },
+    {
+      "title": "今年1亿台目标有望达成！华为鸿蒙装机量将超7900万台，日均增17万台",
+      "summary": "华为披露鸿蒙操作系统装机量截至8月11日已达约7870万台，日均新增约17.3万台，按当前增速预计年底前有望突破今年设定的1亿台安装目标。",
+      "publishedAt": "2026-08-12T14:05:09+08:00",
+      "source": "快科技",
+      "url": "https://news.mydrivers.com/1/1143/1143136.htm",
+      "subCategory": "操作系统",
+      "id": "tech-20260812-031"
+    },
+    {
+      "title": "Intel暗示重返内存市场：已有XBM技术积累，比HBM还优秀",
+      "summary": "英特尔CEO陈立武暗示公司可能重返内存市场，被曝已积累名为XBM的高带宽内存技术，采用1T1C晶体管电容结构，带宽约为HBM4两倍，但量产仍需数年时间。",
+      "publishedAt": "2026-08-12T13:18:08+08:00",
+      "source": "快科技",
+      "url": "https://news.mydrivers.com/1/1143/1143129.htm",
+      "subCategory": "芯片硬件",
+      "id": "tech-20260812-023"
+    },
+    {
+      "title": "阿里云灵骏真武M890超节点上线，可运行超2万亿参数大模型",
+      "summary": "阿里云灵骏真武M890超节点在乌兰察布区域上线，支持64卡高速互联算力单元，单实例最高可运行超2万亿参数大模型，卡间带宽达800GB/s，已服务多款大模型推理。",
+      "publishedAt": "2026-08-12T12:49:49+08:00",
+      "source": "快科技",
+      "url": "https://news.mydrivers.com/1/1143/1143125.htm",
+      "subCategory": "云计算",
+      "id": "tech-20260812-029"
+    },
+    {
+      "title": "英特尔一口气修了8个漏洞！酷睿Ultra到至强全中招：速更新微码",
+      "summary": "英特尔发布20260811版本微码，修复8个安全漏洞，涉及第十代酷睿至至强6全平台，其中权限提升漏洞INTEL-SA-01379最为严重，需通过主板BIOS或系统更新修复。",
+      "publishedAt": "2026-08-12T12:49:00+08:00",
+      "source": "快科技",
+      "url": "https://news.mydrivers.com/1/1143/1143124.htm",
+      "subCategory": "安全漏洞",
+      "id": "tech-20260812-024"
+    },
+    {
+      "title": "行业首次！小鹏G9L完成水陆空720度七重安全测试：车身未裂电池未起火",
+      "summary": "小鹏官方称G9L完成水陆空共七项极限安全测试，包括整车浸水、托底、螺旋侧翻及三次百公里时速碰撞，测试后车身未开裂、电池未起火，高压系统无泄漏。",
+      "publishedAt": "2026-08-12T12:12:11+08:00",
+      "source": "快科技",
+      "url": "https://news.mydrivers.com/1/1143/1143118.htm",
+      "subCategory": "智能汽车",
+      "id": "tech-20260812-028"
+    },
     {
       "title": "华为 nova16 SE 手机今日开售：麒麟 8020 芯片、8500mAh 电池，2499 元起",
       "summary": "华为nova16 SE手机于8月12日10:08正式开售，128GB版本售价2499元，国补到手价2124.15元；256GB售价2699元；512GB售价3199元。该机搭载6.84英寸1.5K OLED屏，刷新率120Hz，峰值亮度8000nits，麒麟8020处理器，8500mAh电池，支持66W快充，预装HarmonyOS 6.1系统。",
@@ -492,6 +654,24 @@
       "subCategory": "开发者工具"
     },
     {
+      "id": "tech-20260811-007",
+      "title": "Hackers breached a small Polish energy plant via private APN last year",
+      "summary": "波兰一处为约5万居民供热供电的热电联产设施去年遭黑客入侵，攻击者利用配置错误的专用APN进入运维技术网络，导致蒸汽轮机和水处理系统被关闭，研究人员称这是该攻击手法首次被用于真实网络攻击。",
+      "publishedAt": "2026-08-10T19:07:00-04:00",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-breached-a-small-polish-energy-plant-via-private-apn-last-year/",
+      "subCategory": "安全漏洞"
+    },
+    {
+      "id": "tech-20260811-008",
+      "title": "BdThemes plugins supply-chain hack creates rogue WordPress admins",
+      "summary": "攻击者入侵WordPress插件开发商BdThemes的基础设施，篡改远程JSON数据源并利用其插件中的跨站脚本漏洞在后台植入恶意脚本、创建非法管理员账户，受影响插件总安装量超35万，WordPress已暂停其产品。",
+      "publishedAt": "2026-08-10T17:12:00-04:00",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/bdthemes-plugins-supply-chain-hack-creates-rogue-wordpress-admins/",
+      "subCategory": "安全漏洞"
+    },
+    {
       "title": "华为 MatePad Edge 鸿蒙二合一平板电脑开启 HarmonyOS 7 花粉 Beta 招募",
       "summary": "华为MatePad Edge鸿蒙二合一平板电脑今日开启HarmonyOS 7花粉Beta招募，用户可在设备设置中搜索\"软件更新\"并选择升级预览进行申请，官方预计审核将在7个工作日内完成。",
       "publishedAt": "2026-08-10T23:38:32+08:00",
@@ -544,186 +724,6 @@
       "url": "https://www.ithome.com/0/988/011.htm",
       "subCategory": "安全漏洞",
       "id": "tech-20260810-x08"
-    },
-    {
-      "id": "tech-20260811-007",
-      "title": "Hackers breached a small Polish energy plant via private APN last year",
-      "summary": "波兰一处为约5万居民供热供电的热电联产设施去年遭黑客入侵，攻击者利用配置错误的专用APN进入运维技术网络，导致蒸汽轮机和水处理系统被关闭，研究人员称这是该攻击手法首次被用于真实网络攻击。",
-      "publishedAt": "2026-08-10T19:07:00-04:00",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-breached-a-small-polish-energy-plant-via-private-apn-last-year/",
-      "subCategory": "安全漏洞"
-    },
-    {
-      "id": "tech-20260811-008",
-      "title": "BdThemes plugins supply-chain hack creates rogue WordPress admins",
-      "summary": "攻击者入侵WordPress插件开发商BdThemes的基础设施，篡改远程JSON数据源并利用其插件中的跨站脚本漏洞在后台植入恶意脚本、创建非法管理员账户，受影响插件总安装量超35万，WordPress已暂停其产品。",
-      "publishedAt": "2026-08-10T17:12:00-04:00",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/bdthemes-plugins-supply-chain-hack-creates-rogue-wordpress-admins/",
-      "subCategory": "安全漏洞"
-    },
-    {
-      "title": "OPPO新品配色：Watch X3 Mini 粉黛海、Enco Clip2 晨雾白 8 月 14 日开售",
-      "summary": "OPPO发布Watch X3 Mini粉黛海配色手表，售价1799元，搭载骁龙W5芯片和1.32英寸AMOLED屏，支持女性健康监测；Enco Clip2晨雾白耳夹耳机售价849元，续航9.5小时，两款均于8月14日开售。",
-      "publishedAt": "2026-08-10T15:35:00+08:00",
-      "source": "新浪科技",
-      "url": "https://finance.sina.com.cn/tech/roll/2026-08-10/doc-inimvnpm8098114.shtml",
-      "subCategory": "消费电子",
-      "id": "tech-20260810-x05"
-    },
-    {
-      "title": "GPU危机还没解决 CPU又缺了！申请服务器从几小时变成等好几天",
-      "summary": "亚马逊AWS今年5月向工程团队发出预警，要求节省CPU计算资源，工程师申请服务器耗时从几小时延长至数天，主因是AI智能体应用激增拉高CPU需求，AI推理场景中CPU与GPU配比已从4月的1:4升至7月的接近1:1。",
-      "publishedAt": "2026-08-10T11:08:32+08:00",
-      "source": "快科技",
-      "url": "https://news.mydrivers.com/1/1142/1142552.htm",
-      "subCategory": "云计算",
-      "id": "tech-20260810-x04"
-    },
-    {
-      "title": "千问开放平台上线！手机PC眼镜三端覆盖：@一下就能租房租车、寄快递",
-      "summary": "阿里巴巴千问开放平台正式上线，面向手机、PC和AI眼镜三类终端开放服务接入，首批合作方涵盖顺丰、自如、哈啰出行等十余个行业的生态伙伴，用户可在千问App内通过@方式完成咨询、下单等服务。",
-      "publishedAt": "2026-08-10T11:04:32+08:00",
-      "source": "快科技",
-      "url": "https://news.mydrivers.com/1/1142/1142551.htm",
-      "subCategory": "互联网产品",
-      "id": "tech-20260810-x01"
-    },
-    {
-      "title": "告别停车难！现代汽车试点自动泊车机器人：车位能凭空多出一半",
-      "summary": "现代汽车集团联合现代威亚、现代工程在首尔西部一处公寓小区试点自动泊车机器人项目，地下车库划出53个专用车位部署两台机器人，车主经站台或面板召唤车辆后由机器人自动泊车，车位承载力最高可提升50%。",
-      "publishedAt": "2026-08-10T11:02:36+08:00",
-      "source": "快科技",
-      "url": "https://news.mydrivers.com/1/1142/1142549.htm",
-      "subCategory": "机器人",
-      "id": "tech-20260810-x02"
-    },
-    {
-      "id": "tech-20260810-n01",
-      "title": "因台风天气影响，零跑 A05 上市发布会延期至明日举行",
-      "summary": "零跑汽车宣布因台风天气影响，原定8月10日举行的A05上市发布会顺延一天，改为8月11日18:30举行；新车7月27日已开启99元定金预售，搭载高通8295芯片及14.6英寸中控屏，提供39.8kWh和53kWh两种电池版本。",
-      "publishedAt": "2026-08-10T08:42:48+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/987/672.htm",
-      "subCategory": "智能汽车"
-    },
-    {
-      "id": "tech-20260810-n02",
-      "title": "小鹏 G9L 大五座 SUV 明晚全球首秀，同步开启预售",
-      "summary": "小鹏汽车宣布G9L大五座SUV将于8月11日19点在广州举行全球首秀并同步开启预售，新车轴距3100毫米，搭载第二代VLA技术及800伏快充系统，9分钟可补能450公里。",
-      "publishedAt": "2026-08-10T08:40:39+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/987/671.htm",
-      "subCategory": "智能汽车"
-    },
-    {
-      "id": "tech-20260810-n03",
-      "title": "安全公司曝光谷歌引擎能搜索到 Claude 公开分享的对话，易泄露用户敏感信息",
-      "summary": "安全公司Malwarebytes披露，Anthropic Claude的公开分享对话链接可被谷歌搜索引擎索引并出现在搜索结果中，存在泄露用户敏感信息的风险，此前Grok和Meta AI平台也曾出现类似问题。",
-      "publishedAt": "2026-08-10T08:26:57+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/987/668.htm",
-      "subCategory": "安全漏洞"
-    },
-    {
-      "id": "tech-20260810-n04",
-      "title": "联想推出 thinkplus AI 智墨屏办公本 A510 旗舰版：搭 10.3 英寸 Kaleido 3 面板，4999 元",
-      "summary": "联想在京东上架thinkplus AI智墨屏办公本A510旗舰版，首发价4999元，配10.3英寸Kaleido 3彩色墨水屏、联发科MT6877T处理器、12GB内存、256GB存储及6900mAh电池。",
-      "publishedAt": "2026-08-10T08:21:47+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/987/667.htm",
-      "subCategory": "消费电子"
-    },
-    {
-      "id": "tech-20260810-n05",
-      "title": "充电桩Q2最新榜单出炉：公牛独占近4成份额",
-      "summary": "奥维云网数据显示，2026年二季度家用充电桩市场中，公牛以38.32%份额稳居第一，理想和特斯拉分列二三位，市场份额分别为10%和5.35%，星星充电和小米分列四五位。",
-      "publishedAt": "2026-08-10T08:14:50+08:00",
-      "source": "快科技",
-      "url": "https://news.mydrivers.com/1/1142/1142507.htm",
-      "subCategory": "智能汽车"
-    },
-    {
-      "id": "tech-20260810-n06",
-      "title": "微星 2026 款泰坦 16 笔记本新增\"R9 8945HX + 32G + 1T + RTX5070Ti\"版本，18799 元",
-      "summary": "微星为2026款泰坦16笔记本新增锐龙9 8945HX加32GB内存加1TB硬盘加RTX5070Ti配置版本，售价18799元，屏幕为2560x1600分辨率240Hz，配备90Whr电池及140W快充。",
-      "publishedAt": "2026-08-10T08:11:55+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/987/666.htm",
-      "subCategory": "消费电子"
-    },
-    {
-      "id": "tech-20260810-n07",
-      "title": "索尼 PlayStation 在线商店新增提示：2028 年起 PS 新作终止实体光盘发售",
-      "summary": "索尼PlayStation Direct商店新增提示，称自2028年1月起新发售的PS游戏将不再支持实体光盘版本，此前发售的游戏仍将继续提供光盘版本。",
-      "publishedAt": "2026-08-10T08:11:36+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/987/665.htm",
-      "subCategory": "消费电子"
-    },
-    {
-      "id": "tech-20260810-n08",
-      "title": "贾跃亭FF机器人技术突破：超视距远程控制、异构多机器人群控",
-      "summary": "FF宣布推出超视距远程操控与异构多机器人群控平台1.0版本，可实现人形、四足、轮式等不同形态机器人协同作业，应用于工业巡检、园区安防等场景，其安防巡逻机器人同时新增自主巡逻功能。",
-      "publishedAt": "2026-08-10T08:05:05+08:00",
-      "source": "快科技",
-      "url": "https://news.mydrivers.com/1/1142/1142506.htm",
-      "subCategory": "机器人"
-    },
-    {
-      "id": "tech-20260810-n09",
-      "title": "英特尔 8080 原始工程掩模原件现身，藏家寻觅专业人士修复",
-      "summary": "一名收藏者在社交媒体求助，称自己持有英特尔8080处理器的原始手绘工程掩模底片，尺寸约为实际芯片的100倍，描绘约5000个晶体管电路结构，希望找到专业人士进行修复。",
-      "publishedAt": "2026-08-10T08:03:27+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/987/661.htm",
-      "subCategory": "芯片硬件"
-    },
-    {
-      "id": "tech-20260810-n10",
-      "title": "马斯克超级芯片工厂 Terafab 规模有多大？面积超五角大楼、苹果园区等多个地标建筑总和",
-      "summary": "据报道，马斯克旗下超级芯片工厂Terafab规划面积至少9290万平方米，超过特斯拉得州超级工厂、五角大楼和苹果园区面积总和，旨在整合逻辑芯片与存储芯片生产，预计投资达1190亿美元。",
-      "publishedAt": "2026-08-10T07:53:14+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/987/659.htm",
-      "subCategory": "芯片硬件"
-    },
-    {
-      "id": "tech-20260810-n11",
-      "title": "雪上加霜！PC零部件成本上涨 微软顺势上调系统授权费",
-      "summary": "据行业消息，微软将今年Windows OEM授权费上调7%至10%，超过以往个位数调整幅度，华硕、宏碁等厂商预计三季度产品涨价约5%，市场机构预测今年二季度全球PC出货量同比下降4%。",
-      "publishedAt": "2026-08-10T07:51:30+08:00",
-      "source": "快科技",
-      "url": "https://news.mydrivers.com/1/1142/1142504.htm",
-      "subCategory": "操作系统"
-    },
-    {
-      "id": "tech-20260810-n12",
-      "title": "FSD 连续零干预行驶超过 4 万公里，特斯拉车主创下新纪录",
-      "summary": "特斯拉车主David Moss实现FSD连续零干预行驶超4万公里（2.5万英里）的新纪录，超过绕地球一圈的距离，特斯拉近期还为FSD新增了里程节点庆祝动画等游戏化功能。",
-      "publishedAt": "2026-08-10T07:42:19+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/987/657.htm",
-      "subCategory": "智能汽车"
-    },
-    {
-      "id": "tech-20260810-n13",
-      "title": "准备2万预算！苹果iPhone 18系列、Ultra折叠机最快9月9日发布",
-      "summary": "据供应链消息，苹果iPhone 18系列及首款折叠屏iPhone Ultra发布会最快将于9月9日举行，折叠款顶配版售价预计约1.69万元，标准版iPhone 18 Pro国内起售价预计约9500元。",
-      "publishedAt": "2026-08-10T07:33:03+08:00",
-      "source": "快科技",
-      "url": "https://news.mydrivers.com/1/1142/1142501.htm",
-      "subCategory": "消费电子"
-    },
-    {
-      "id": "tech-20260810-n14",
-      "title": "博主利用漏洞成功访问英伟达 GeForce NOW 云游戏服务底层 Windows 界面",
-      "summary": "博主Zortos和dpadGuy发现英伟达GeForce NOW云游戏服务漏洞，通过游戏Trove启动Steam内置浏览器安装SalsaNOW工具，成功访问底层Windows桌面，将其变为可运行编程环境等应用的云电脑，目前该方法仅对付费账户有效。",
-      "publishedAt": "2026-08-10T07:30:59+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/987/654.htm",
-      "subCategory": "安全漏洞"
     }
   ]
 }

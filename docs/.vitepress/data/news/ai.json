@@ -3,8 +3,71 @@
   "slug": "ai",
   "title": "AI 与大模型",
   "description": "大模型、Agent、AI 编程、推理框架、开源模型的发布与落地。",
-  "updatedAt": "2026-08-12T09:05:00+08:00",
+  "updatedAt": "2026-08-12T16:38:00+08:00",
   "items": [
+    {
+      "title": "语音输入法，叩响AI世界大门？",
+      "summary": "多家中国科技公司近期加码AI语音输入功能，抖音输入法、千问输入法等借助大模型实现98%以上识别准确率，具备上下文理解与自动纠错能力，被视为人机交互新入口。",
+      "publishedAt": "2026-08-12T16:31:00+08:00",
+      "source": "36氪",
+      "url": "https://36kr.com/p/3936047305758338",
+      "subCategory": "AI应用",
+      "id": "ai-20260812-013"
+    },
+    {
+      "title": "OpenAI 测试 ChatGPT Plus 付费重置额度功能，可支付 8 美元恢复使用额度",
+      "summary": "OpenAI正在测试ChatGPT Plus付费重置额度功能，用户额度耗尽后可支付8美元立即恢复使用，无需等待原本5小时的自动恢复周期，目前仅面向部分账号开放。",
+      "publishedAt": "2026-08-12T14:56:59+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/988/773.htm",
+      "subCategory": "AI应用",
+      "id": "ai-20260812-015"
+    },
+    {
+      "title": "LTX-2.5 模型登场：AI 生成 10 秒 720P 视频仅需 6.8 秒，原生集成 ComfyUI",
+      "summary": "LTX发布视频生成模型LTX-2.5，在两张英伟达GB200芯片上生成10秒720P视频仅需6.8秒，原生集成ComfyUI，年营收低于1000万美元的团队可免费使用。",
+      "publishedAt": "2026-08-12T14:46:51+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/988/766.htm",
+      "subCategory": "AI视频",
+      "id": "ai-20260812-014"
+    },
+    {
+      "title": "人形之外，擎羽把“身体”变成具身智能的新变量",
+      "summary": "具身智能公司擎羽科技发布跨本体基础模型Fi0及三款绳驱机械臂，模型通过技能编码器与世界动力学模块，使同一操作示范可迁移到不同构型的机器人身体上执行。",
+      "publishedAt": "2026-08-12T12:29:57+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/08/470874.html",
+      "subCategory": "具身智能",
+      "id": "ai-20260812-009"
+    },
+    {
+      "title": "马斯克押注AI代理赛道，SpaceX AI推出Grok Bot，对标Anthropic与OpenAI",
+      "summary": "马斯克旗下SpaceX AI发布自主智能体产品Grok Bot，可在无需API对接情况下直接操作邮件、任务管理等现有办公软件，目前已在SpaceX内部多个部门试用。",
+      "publishedAt": "2026-08-12T12:14:00+08:00",
+      "source": "36氪",
+      "url": "https://36kr.com/p/3935913445784713",
+      "subCategory": "Agent",
+      "id": "ai-20260812-012"
+    },
+    {
+      "title": "文生图Scaling新变量，被字节Seed团队发现了",
+      "summary": "字节跳动Seed团队研究发现，文生图训练中描述文本变长并不等于视觉监督信息增加，提出结构化提示词Structured Prompt，用信息密度而非长度提升生成效果。",
+      "publishedAt": "2026-08-12T11:04:00+08:00",
+      "source": "36氪",
+      "url": "https://36kr.com/p/3935944428338305",
+      "subCategory": "论文进展",
+      "id": "ai-20260812-010"
+    },
+    {
+      "title": "Harness正式浮出水面，DeepSeek不再只做模型",
+      "summary": "DeepSeek推出智能体运行环境Harness，负责任务规划、工具调用、记忆管理与代码执行，标志其业务从模型能力比拼转向端到端任务交付与结果付费模式。",
+      "publishedAt": "2026-08-12T10:24:00+08:00",
+      "source": "36氪",
+      "url": "https://36kr.com/p/3935871461916035",
+      "subCategory": "Agent",
+      "id": "ai-20260812-011"
+    },
     {
       "title": "蚂蚁站在Kimi肩膀上开源了一款新模型",
       "summary": "蚂蚁百灵开源轻量级混合推理MoE模型Ling-3.0-tiny，总参数7.9B、单次推理仅激活1.3B，采用月之暗面KDA与DeepSeek MLA技术的3:1交替架构，在Artificial Analysis智能指数上得分25，提供BF16/FP8/INT4三种精度版本，已在DGX Spark、MacBook、Mac mini上完成部署验证。",
@@ -49,6 +112,24 @@
       "url": "https://36kr.com/p/3935707566079107",
       "subCategory": "开源模型",
       "id": "ai-20260812-003"
+    },
+    {
+      "title": "Copilot memory and Ollama in GitHub Copilot for JetBrains",
+      "summary": "GitHub Copilot for JetBrains上线记忆功能与Ollama本地模型接入支持，可跨会话保留上下文信息，并支持自动安装Copilot CLI，同时修复多项MCP与终端相关问题。",
+      "publishedAt": "2026-08-11T13:15:55-07:00",
+      "source": "GitHub",
+      "url": "https://github.blog/changelog/2026-08-11-copilot-memory-and-ollama-in-github-copilot-for-jetbrains/",
+      "subCategory": "AI编程",
+      "id": "ai-20260812-008"
+    },
+    {
+      "title": "MAI-Code-1.1-Flash available in GitHub Copilot",
+      "summary": "微软MAI-Code-1.1-Flash编程模型正式登陆GitHub Copilot，新增原生图像识别能力，标价较上一代MAI-Code-1-Flash降低73%，多个IDE平台可手动或自动选用。",
+      "publishedAt": "2026-08-11T11:13:56-07:00",
+      "source": "GitHub",
+      "url": "https://github.blog/changelog/2026-08-11-mai-code-1-1-flash-available-in-github-copilot/",
+      "subCategory": "AI编程",
+      "id": "ai-20260812-007"
     },
     {
       "id": "ai-20260811-208",
@@ -130,6 +211,15 @@
       "source": "IT之家",
       "url": "https://www.ithome.com/0/988/501.htm",
       "subCategory": "AI应用"
+    },
+    {
+      "title": "NVIDIA Nemotron 3.5 Lightning Delivers Fast, Accurate Specialized Task Execution for Long-Running Agents",
+      "summary": "英伟达开源发布Nemotron 3.5 Lightning模型，300亿总参数、30亿激活参数的混合专家架构，面向长时运行智能体的高频执行任务，并配套推出模型路由工具NeMo Switchyard。",
+      "publishedAt": "2026-08-11T21:01:07+08:00",
+      "source": "NVIDIA",
+      "url": "https://developer.nvidia.com/blog/nvidia-nemotron-3-5-lightning-delivers-fast-accurate-specialized-task-execution-for-long-running-agents/",
+      "subCategory": "开源模型",
+      "id": "ai-20260812-006"
     },
     {
       "id": "ai-20260811-204",
@@ -634,96 +724,6 @@
       "source": "IT之家",
       "url": "https://www.ithome.com/0/987/195.htm",
       "subCategory": "AI评测"
-    },
-    {
-      "id": "ai-20260808-002",
-      "title": "Suno 平台将为 AI 生成音乐添加隐水印，防止滥用现象发生",
-      "summary": "Suno宣布将为AI生成音乐加入隐形水印与指纹技术，便于识别歌曲来源，并对下载设置限制，应对AI歌曲被反复上传至流媒体平台的问题。此前索尼、环球、华纳等唱片公司已联合推动将低质AI歌曲排除出全球音乐榜单。",
-      "publishedAt": "2026-08-07T20:49:49+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/987/190.htm",
-      "subCategory": "AI音频"
-    },
-    {
-      "id": "ai-20260808-001",
-      "title": "阿里推出国内首个AI语音平台CosyVoice Studio，将语义理解融入语音能力",
-      "summary": "阿里基于自研Qwen-Audio模型推出CosyVoice Studio，集成语音输入、智能体搭建与音频创作三大模块，已在Artificial Analysis三项榜单登顶，率先在iOS、安卓、Mac、Windows免费开放。",
-      "publishedAt": "2026-08-07T15:43:06+08:00",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/08/468324.html",
-      "subCategory": "AI音频"
-    },
-    {
-      "id": "ai-20260807-101",
-      "title": "阿里推出国内首个AI语音平台CosyVoice Studio，限时免费体验",
-      "summary": "阿里巴巴发布AI语音生产力平台CosyVoice Studio，基于自研Qwen-Audio模型，包含语音速记工具CosyFlow、语音智能体搭建工具CosyAgent及音频内容创作工具CosyCreative三部分，现已开放iOS、Android、Mac、Windows端限时免费试用，CosyAgent与CosyCreative仍在企业白名单测试阶段。",
-      "publishedAt": "2026-08-07T15:37:57+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/987/040.htm",
-      "subCategory": "AI应用"
-    },
-    {
-      "id": "ai-20260807-102",
-      "title": "字节Seedance 2.5视频模型API上线，原生支持30秒视频直出",
-      "summary": "字节跳动火山引擎正式上线Seedance 2.5视频生成模型API服务，相较2.0版本在指令遵循、长叙事、写实人像及音画质量方面提升，原生支持30秒视频生成及最多50个多模态参考素材输入，按Token计费，每百万Token 42元成70元（含视频输入）。",
-      "publishedAt": "2026-08-07T14:20:23+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/986/953.htm",
-      "subCategory": "AI视频"
-    },
-    {
-      "id": "ai-20260807-103",
-      "title": "蚂蚁集团开源多智能体协作基础设施Avernet",
-      "summary": "蚂蚁集团正式开源多智能体协作基础设施Avernet，依据Apache 2.0协议发布社区版，支持智能体间的注册、发现、共识达成与可追踪协作，截至7月31日已在蚂蚁内部12个核心业务板块应用，智能体协同任务完成率保持在90%以上。",
-      "publishedAt": "2026-08-07T11:02:49+08:00",
-      "source": "ITBear科技资讯",
-      "url": "https://www.itbear.com.cn/html/2026-08/1485788.html",
-      "subCategory": "Agent"
-    },
-    {
-      "id": "ai-20260807-001",
-      "title": "GPT-4.5 以来训练的最大模型，曝 OpenAI 最快下周推出 Astra AI 模型",
-      "summary": "据爆料，OpenAI内部代号mewfour的新预训练模型Astra最快下周发布，规模为该公司自 GPT-4.5以来最大，此前内部版本曾解出10个数学猜想，定位为协调智能体完成长周期任务。",
-      "publishedAt": "2026-08-07T08:03:25+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/986/789.htm",
-      "subCategory": "大模型"
-    },
-    {
-      "id": "ai-20260807-002",
-      "title": "OpenAI：ChatGPT 免费用户默认模型升级为 GPT-5.6 Luna，Plus 和 Pro 用户更新聊天界面 GPT-5.6 Sol",
-      "summary": "OpenAI宣布ChatGPT免费及Go用户默认模型升级为GPT-5.6 Luna，下周起获无限文本对话及深度思考按钮；Plus和Pro用户聊天界面同步更新至GPT-5.6 Sol，新增回复深度调节滑块。",
-      "publishedAt": "2026-08-07T06:52:20+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/986/776.htm",
-      "subCategory": "AI应用"
-    },
-    {
-      "id": "ai-20260806-950",
-      "title": "即日起，ChatGPT可以调用Adobe Photoshop、Lightroom来修图、设计了",
-      "summary": "Adobe将其ChatGPT集成范围扩展至近70款创意工具，包括Photoshop、Lightroom、Premiere及Illustrator，用户安装Adobe插件后可在ChatGPT内通过\"@Adobe\"指令完成基础修图与视频制作，专业级精细控制仍需使用旗舰应用完成。",
-      "publishedAt": "2026-08-06T23:28:31+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/986/769.htm",
-      "subCategory": "AI应用"
-    },
-    {
-      "id": "ai-20260806-951",
-      "title": "字节讨论训超 5 万亿参数模型",
-      "summary": "据\"晚点LatePost\"报道，字节跳动正探讨训练一个参数规模超 5万亿的大模型，若成立将超过阿里Qwen3.8-Max与月之暗面K3，成为国内已知参数规模最大的模型；项目尚处早期阶段，字节Seed部门正同步推进组织架构调整，最终能否落地仍不确定。",
-      "publishedAt": "2026-08-06T20:55:00+08:00",
-      "source": "36氪（晚点LatePost）",
-      "url": "https://36kr.com/newsflashes/3928046064416900",
-      "subCategory": "大模型"
-    },
-    {
-      "id": "ai-20260806-952",
-      "title": "阿里云：视频生成模型Wan3.0开启公测",
-      "summary": "阿里云新一代视频生成模型Wan3.0开启公测，单次最长可生成30秒视频，除文本、图像、音频、视频输入外首次支持doc、xls、ppt、pdf、md等文档格式输入，已在百炼、万镜易刻、万相官网及通义千问创作PC端开放测试，API按分辨率计费，480P每秒0.3元、7202P0.6元、1080P1.2元。",
-      "publishedAt": "2026-08-06T20:38:00+08:00",
-      "source": "36氪（阿里云）",
-      "url": "https://36kr.com/newsflashes/3928029719607680",
-      "subCategory": "AI视频"
     }
   ]
 }

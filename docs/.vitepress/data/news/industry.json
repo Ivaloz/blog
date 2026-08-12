@@ -3,8 +3,62 @@
   "slug": "industry",
   "title": "行业新闻",
   "description": "企业服务、SaaS、云计算、制造业、消费互联网的产业动态。",
-  "updatedAt": "2026-08-12T09:05:00+08:00",
+  "updatedAt": "2026-08-12T16:38:00+08:00",
   "items": [
+    {
+      "title": "Counterpoint：今年前 30 周中国智能手机销量同比下降 8.6%，华为继续领跑市场",
+      "summary": "Counterpoint数据显示，2026年前30周中国智能手机销量同比下降8.6%，618大促后跌幅一度达两位数；华为周销份额持续保持20%以上，稳居市场首位；小米受REDMI Note 17系列上市带动升至第二位。",
+      "publishedAt": "2026-08-12T16:24:00+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/988/823.htm",
+      "subCategory": "消费零售",
+      "id": "industry-20260812-009"
+    },
+    {
+      "title": "Counterpoint：eSSD占NAND需求近半，长存Q2首入出货前三",
+      "summary": "Counterpoint数据显示，2026年第二季度企业级SSD占NAND出货容量近48%，较上年同期26%上升；长江存储出货容量份额升至14%，首次进入全球NAND厂商前三，但营收份额仍落后铠侠与美光。",
+      "publishedAt": "2026-08-12T15:15:32+08:00",
+      "source": "网易科技",
+      "url": "https://www.163.com/dy/article/L451JG400511B8LM.html",
+      "subCategory": "半导体产业",
+      "id": "industry-20260812-006"
+    },
+    {
+      "title": "集邦咨询：全固态电池进入工程验证期，技术成熟度已有重大进展",
+      "summary": "集邦咨询报告显示，全固态电池2026年进入工程验证阶段，中日韩企业技术成熟度多数已提升至TRL5-6级；日产23层全固态电池完成充放电测试，容量保持率优于传统锂电池；全球硫化锂产能已超600吨，价格较此前下降逾五成。",
+      "publishedAt": "2026-08-12T15:06:13+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/988/778.htm",
+      "subCategory": "新能源汽车",
+      "id": "industry-20260812-008"
+    },
+    {
+      "title": "雷军：2026 年 7 月小米 SU7 销量 21,044 辆，连续 4 个月位列 20 万以上轿车销量第一",
+      "summary": "小米集团公布数据，2026年7月小米SU7系列销量21044辆，连续4个月位居20万元以上轿车销量第一；小米汽车7月交付量超3万辆，SU7与YU7两款车型累计交付已突破70万辆。",
+      "publishedAt": "2026-08-12T14:51:07+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/988/768.htm",
+      "subCategory": "新能源汽车",
+      "id": "industry-20260812-011"
+    },
+    {
+      "title": "中汽协：7 月汽车销量环比下降 8%，同比下降 0.3%",
+      "summary": "中国汽车工业协会数据显示，7月我国汽车产销分别完成257.3万辆和258.4万辆，环比分别下降6.8%和8%，同比基本持平；其中汽车出口104.3万辆，同比增长81.3%，新能源汽车出口55.3万辆，同比增长150%。",
+      "publishedAt": "2026-08-12T14:26:04+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/988/751.htm",
+      "subCategory": "新能源汽车",
+      "id": "industry-20260812-010"
+    },
+    {
+      "title": "台积电何军：5.5 倍光罩尺寸 CoWoS 良率可达 99%，验证加速走向系统级",
+      "summary": "台积电高管何军在行业论坛上表示，公司5.5倍光罩尺寸CoWoS先进封装良率已达99%，该2.5D异质集成方案在多家AI客户产品验证中良率稳定保持在98%以上；公司计划2029年前推出15倍光罩尺寸的更大规格CoWoS方案。",
+      "publishedAt": "2026-08-12T11:48:12+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/988/698.htm",
+      "subCategory": "半导体产业",
+      "id": "industry-20260812-012"
+    },
     {
       "title": "TCL华星宣布独供REDMI K100 Pro系列屏幕：新一代自研发光材料、超级像素技术",
       "summary": "TCL华星宣布独家供应REDMI K100 Pro系列屏幕，该屏幕为185Hz电竞专业屏，支持环偏光护眼与全程DC调光。屏幕采用TCL华星新一代自研C11发光材料结合超级像素技术，实现色彩、清晰度与亮度提升同时降低功耗。",
@@ -13,6 +67,24 @@
       "url": "https://news.mydrivers.com/1/1143/1143062.htm",
       "subCategory": "公司动态",
       "id": "industry-20260812-004"
+    },
+    {
+      "title": "Gartner：2026年全球AI支出将达到2.59万亿美元 同比增长47%",
+      "summary": "Gartner预测2026年全球人工智能支出将达到2.59万亿美元，同比增长47%。AI基础设施支出占比超过45%，AI优化服务器支出五年内预计增长两倍，生成式AI模型使用量预计增长110%。",
+      "publishedAt": "2026-08-12",
+      "source": "199IT",
+      "url": "https://www.199it.com/archives/1832141.html",
+      "subCategory": "行业研报",
+      "id": "industry-20260812-001"
+    },
+    {
+      "title": "Omdia: Middle East smartphone market falls 19% in 2Q26 amid vendors prioritize profitability",
+      "summary": "Omdia数据显示，2026年第二季度中东（不含土耳其）智能手机出货量同比降19%至1060万部，创该地区近三季度最大跌幅；入门机型跌42%，高端机型出货量创同期新高，均价同比涨25%至448美元。",
+      "publishedAt": "2026-08-12",
+      "source": "Omdia",
+      "url": "https://omdia.tech.informa.com/pr/2026/aug/middle-east-smartphone-market-falls-19percent-in-2q26-amid-vendors-prioritize-profitability",
+      "subCategory": "消费零售",
+      "id": "industry-20260812-007"
     },
     {
       "title": "话语权提升！京东方牵头制定首项卷曲显示器件国际标准",
@@ -40,15 +112,6 @@
       "url": "https://news.mydrivers.com/1/1143/1143044.htm",
       "subCategory": "公司动态",
       "id": "industry-20260812-005"
-    },
-    {
-      "title": "Gartner：2026年全球AI支出将达到2.59万亿美元 同比增长47%",
-      "summary": "Gartner预测2026年全球人工智能支出将达到2.59万亿美元，同比增长47%。AI基础设施支出占比超过45%，AI优化服务器支出五年内预计增长两倍，生成式AI模型使用量预计增长110%。",
-      "publishedAt": "2026-08-12",
-      "source": "199IT",
-      "url": "https://www.199it.com/archives/1832141.html",
-      "subCategory": "行业研报",
-      "id": "industry-20260812-001"
     },
     {
       "id": "industry-20260811-201",
@@ -159,15 +222,6 @@
       "subCategory": "新能源汽车"
     },
     {
-      "id": "industry-20260811-001",
-      "title": "AI进药企，新药研发在提速",
-      "summary": "经济日报报道，AI已深度融入新药研发全链条：全球AI药物发现市场规模约26亿美元，170多个AI原创新药项目进入临床开发阶段，AI发现分子的I期临床成功率达80%-90%，高于传统药物52%的历史均值。",
-      "publishedAt": "2026-08-11T06:05:00+08:00",
-      "source": "经济日报",
-      "url": "https://finance.sina.com.cn/jjxw/2026-08-11/doc-inimwuhy5989814.shtml",
-      "subCategory": "医疗健康"
-    },
-    {
       "id": "industry-20260811-003",
       "title": "Counterpoint：2025年印度高级驾驶辅助系统占乘用车市场的8.41%",
       "summary": "Counterpoint Research报告显示，2025年印度乘用车市场高级驾驶辅助系统（ADAS）渗透率约8.41%，较2024年的6.43%增长约38%，Mahindra在L2级ADAS市场份额领先。",
@@ -175,6 +229,15 @@
       "source": "199IT",
       "url": "https://www.199it.com/archives/1813101.html",
       "subCategory": "行业研报"
+    },
+    {
+      "id": "industry-20260811-001",
+      "title": "AI进药企，新药研发在提速",
+      "summary": "经济日报报道，AI已深度融入新药研发全链条：全球AI药物发现市场规模约26亿美元，170多个AI原创新药项目进入临床开发阶段，AI发现分子的I期临床成功率达80%-90%，高于传统药物52%的历史均值。",
+      "publishedAt": "2026-08-11T06:05:00+08:00",
+      "source": "经济日报",
+      "url": "https://finance.sina.com.cn/jjxw/2026-08-11/doc-inimwuhy5989814.shtml",
+      "subCategory": "医疗健康"
     },
     {
       "id": "industry-20260811-002",
@@ -258,33 +321,6 @@
       "id": "industry-20260810-x04"
     },
     {
-      "id": "industry-20260810-n01",
-      "title": "2026年广告、营销与数据展望：B2B持续演进",
-      "summary": "报告显示，美国B2B营销支出预计从2023年627.5亿美元增至2026年808.2亿美元，年复合增长率≈00%至10%；线上渠道支出预计达377亿美元，同比增长22%，搜索、社交、展示广告合计约占预算八成。",
-      "publishedAt": "2026-08-10T05:30:55+08:00",
-      "source": "199IT",
-      "url": "https://www.199it.com/archives/1836637.html",
-      "subCategory": "行业研报"
-    },
-    {
-      "id": "industry-20260810-n02",
-      "title": "BCG：2026年全球贸易报告",
-      "summary": "波士顿咨询报告称，全球商品贸易规模预计从2024年约23万亿美元增至2034年近30万亿美元，年均增长2.5%；同期美国进口关税税率从13%升至61%，全球贸易格局正向美、中、多边联盟及金砖国家四极演变。",
-      "publishedAt": "2026-08-10T05:00:49+08:00",
-      "source": "波士顿咨询（BCG）",
-      "url": "https://www.199it.com/archives/1807880.html",
-      "subCategory": "行业研报"
-    },
-    {
-      "id": "industry-20260810-n03",
-      "title": "Omdia：2025年全球可穿戴设备出货量攀升超过2亿部 同比增长6%",
-      "summary": "Omdia报告显示，2025年全球可穿戴设备出货量突破2亿部，同比增长6%；小米以18%市场份额时隔五年重夺榜首，苹果、华为分列二、三位，份额分别为17%和16%。",
-      "publishedAt": "2026-08-10T02:00:22+08:00",
-      "source": "Omdia",
-      "url": "https://www.199it.com/archives/1814669.html",
-      "subCategory": "消费零售"
-    },
-    {
       "title": "韩媒：2025年上半年韩国新注册中国产电动汽车6.95万辆，同比增长178.7%",
       "summary": "据韩媒报道，2025年上半年韩国新注册中国产电动汽车约6.95万辆，同比增长178.7%，占韩国新注册电动车总量的35%，相当于每售出3辆电动车就有1辆为中国制造。",
       "publishedAt": "2026-08-10",
@@ -319,6 +355,33 @@
       "source": "199IT（Sensor Tower）",
       "url": "https://www.199it.com/archives/1844646.html",
       "subCategory": "行业研报"
+    },
+    {
+      "id": "industry-20260810-n01",
+      "title": "2026年广告、营销与数据展望：B2B持续演进",
+      "summary": "报告显示，美国B2B营销支出预计从2023年627.5亿美元增至2026年808.2亿美元，年复合增长率≈00%至10%；线上渠道支出预计达377亿美元，同比增长22%，搜索、社交、展示广告合计约占预算八成。",
+      "publishedAt": "2026-08-10T05:30:55+08:00",
+      "source": "199IT",
+      "url": "https://www.199it.com/archives/1836637.html",
+      "subCategory": "行业研报"
+    },
+    {
+      "id": "industry-20260810-n02",
+      "title": "BCG：2026年全球贸易报告",
+      "summary": "波士顿咨询报告称，全球商品贸易规模预计从2024年约23万亿美元增至2034年近30万亿美元，年均增长2.5%；同期美国进口关税税率从13%升至61%，全球贸易格局正向美、中、多边联盟及金砖国家四极演变。",
+      "publishedAt": "2026-08-10T05:00:49+08:00",
+      "source": "波士顿咨询（BCG）",
+      "url": "https://www.199it.com/archives/1807880.html",
+      "subCategory": "行业研报"
+    },
+    {
+      "id": "industry-20260810-n03",
+      "title": "Omdia：2025年全球可穿戴设备出货量攀升超过2亿部 同比增长6%",
+      "summary": "Omdia报告显示，2025年全球可穿戴设备出货量突破2亿部，同比增长6%；小米以18%市场份额时隔五年重夺榜首，苹果、华为分列二、三位，份额分别为17%和16%。",
+      "publishedAt": "2026-08-10T02:00:22+08:00",
+      "source": "Omdia",
+      "url": "https://www.199it.com/archives/1814669.html",
+      "subCategory": "消费零售"
     },
     {
       "id": "industry-20260810-n04",
@@ -483,6 +546,15 @@
       "id": "industry-20260808-006"
     },
     {
+      "title": "Apple Captures 65% of Global Premium Smartphone Market",
+      "summary": "Counterpoint数据显示，2026年上半年苹果占全球600美元以上高端智能手机市场65%份额，三星列第二占2019%；高端机型销量占比升至29%创历史新高，苹果该细分营收同比增长9%。",
+      "publishedAt": "2026-08-07T07:32:00-07:00",
+      "source": "MacRumors（引用Counterpoint Research）",
+      "url": "https://www.macrumors.com/2026/08/07/apple-captures-65-percent-of-global-premium-market/",
+      "subCategory": "行业研报",
+      "id": "industry-20260807-n01"
+    },
+    {
       "title": "中国运动相机半年销量312万台！大疆杀疯了 一家拿下74%市场",
       "summary": "数据显示，2026年上半年中国运动相机市场销量312万台，同比增长超90%；大疆以74.0%销量份额及80.9%销售额份额居首，与影石合计占据近九成市场，GoPro份额持续下滑。",
       "publishedAt": "2026-08-07T15:10:01+08:00",
@@ -519,13 +591,13 @@
       "subCategory": "新能源汽车"
     },
     {
-      "title": "Apple Captures 65% of Global Premium Smartphone Market",
-      "summary": "Counterpoint数据显示，2026年上半年苹果占全球600美元以上高端智能手机市场65%份额，三星列第二占2019%；高端机型销量占比升至29%创历史新高，苹果该细分营收同比增长9%。",
-      "publishedAt": "2026-08-07T07:32:00-07:00",
-      "source": "MacRumors（引用Counterpoint Research）",
-      "url": "https://www.macrumors.com/2026/08/07/apple-captures-65-percent-of-global-premium-market/",
-      "subCategory": "行业研报",
-      "id": "industry-20260807-n01"
+      "title": "Global Semiconductor Sales Jump 35% in Second Quarter",
+      "summary": "美国半导体行业协会（SIA）数据显示，2026年第二季度全球半导体销售额达4033亿美元，环比增长35.1%；6月单月销售额1345亿美元，同比增长123.6%，全年销售额预计将超1.5万亿美元。",
+      "publishedAt": "2026-08-07",
+      "source": "Semiconductor Industry Association（经CircuitsAssembly转载）",
+      "url": "https://www.circuitsassembly.com/ca/editorial/menu-news/43514-global-semiconductor-sales-jump-35-in-second-quarter.html",
+      "subCategory": "半导体产业",
+      "id": "industry-20260807-n03"
     },
     {
       "title": "SensorTower：2026年动作和策略游戏应用报告",
@@ -544,15 +616,6 @@
       "url": "https://finance.ifeng.com/c/8vNf4SmYzWh",
       "subCategory": "半导体产业",
       "id": "industry-20260808-009"
-    },
-    {
-      "title": "Global Semiconductor Sales Jump 35% in Second Quarter",
-      "summary": "美国半导体行业协会（SIA）数据显示，2026年第二季度全球半导体销售额达4033亿美元，环比增长35.1%；6月单月销售额1345亿美元，同比增长123.6%，全年销售额预计将超1.5万亿美元。",
-      "publishedAt": "2026-08-07",
-      "source": "Semiconductor Industry Association（经CircuitsAssembly转载）",
-      "url": "https://www.circuitsassembly.com/ca/editorial/menu-news/43514-global-semiconductor-sales-jump-35-in-second-quarter.html",
-      "subCategory": "半导体产业",
-      "id": "industry-20260807-n03"
     },
     {
       "id": "industry-20260806-953",
@@ -600,15 +663,6 @@
       "id": "industry-20260806-700"
     },
     {
-      "id": "industry-20260808-003",
-      "title": "安永：2026年全球消费者健康调查",
-      "summary": "安永调查10个市场7500名受访者发现，约70%消费者曾根据搜索引擎信息要求检测或用药，56%基于AI建议采取医疗行动，超过社交媒体45%的影响力；近四分之三受访者预计3至5年内技术自诊将普及。",
-      "publishedAt": "2026-08-06T02:22:00+08:00",
-      "source": "199IT/新浪科技",
-      "url": "https://finance.sina.com.cn/tech/roll/2026-08-06/doc-inimhxzz4322941.shtml",
-      "subCategory": "医疗健康"
-    },
-    {
       "id": "industry-20260807-003",
       "title": "中国信通院：2025年全球eSIM终端出货量6.05亿部，同比增长18%",
       "summary": "中国信通院发布报告称，2025年全球eSIM终端出货量达6.05亿部，同比增长18%，创历史新高，中国市场目前存在纪eSIM与实体SIM兼容eSIM等多种技术方案并行。",
@@ -625,6 +679,15 @@
       "source": "新浪科技（IDC）",
       "url": "https://finance.sina.com.cn/tech/roll/2026-08-06/doc-inimkwsx4506670.shtml",
       "subCategory": "行业研报"
+    },
+    {
+      "id": "industry-20260808-003",
+      "title": "安永：2026年全球消费者健康调查",
+      "summary": "安永调查10个市场7500名受访者发现，约70%消费者曾根据搜索引擎信息要求检测或用药，56%基于AI建议采取医疗行动，超过社交媒体45%的影响力；近四分之三受访者预计3至5年内技术自诊将普及。",
+      "publishedAt": "2026-08-06T02:22:00+08:00",
+      "source": "199IT/新浪科技",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-08-06/doc-inimhxzz4322941.shtml",
+      "subCategory": "医疗健康"
     },
     {
       "id": "industry-20260805-501",
@@ -661,69 +724,6 @@
       "source": "新浪科技（乘联分会）",
       "url": "https://finance.sina.com.cn/tech/roll/2026-08-05/doc-inimhpmx3478020.shtml",
       "subCategory": "新能源汽车"
-    },
-    {
-      "id": "industry-20260807-002",
-      "title": "洛图科技：2026上半年大陆面板出货8710万片，同比增长2.3%",
-      "summary": "洛图科技数据显示，2026年上半年中国大陆面板厂商合计出货8710万片，同比增长2.3%，京东方、华星光电等四家厂商合计市占率达72.4%，日韩台厂商份额继续收缩。",
-      "publishedAt": "2026-08-05",
-      "source": "新浪科技（洛图科技）",
-      "url": "https://finance.sina.com.cn/tech/roll/2026-08-05/doc-inimhpmx3477963.shtml",
-      "subCategory": "制造业"
-    },
-    {
-      "title": "2026上半年全球车企销量：比亚迪约180万辆第六，中国车企占三席",
-      "summary": "数据显示，2026年上半年全球车企销量排行榜中，中国车企首次同时占据三席：比亚迪约180万辆排名第六，海外销量78.9万辆同比增145%；吉利汽车列第七，奇瑞汽车首次跃身前十，本田、铃木跌出榜单。",
-      "publishedAt": "2026-08-05",
-      "source": "199IT",
-      "url": "http://www.199it.com/archives/1844176.html",
-      "subCategory": "新能源汽车",
-      "id": "industry-20260808-007"
-    },
-    {
-      "id": "industry-20260805-005",
-      "title": "GSMA：2026年欧洲移动投资报告",
-      "summary": "GSMA报告指出，欧洲2015年以来移动通信累计投资达3300亿欧元，但5G部署速度与网络质量仍落后于中国、北美及海湾地区，运营商收入持续下滑，未来十年需追加约2000亿欧元投资。",
-      "publishedAt": "2026-08-05",
-      "source": "199IT",
-      "url": "https://www.199it.com/archives/1829045.html",
-      "subCategory": "行业研报"
-    },
-    {
-      "title": "NVIDIA Dominates With 92% Share in Counterpoint Research's Sovereign AI LLM Index",
-      "summary": "Counterpoint Research发布主权AI大模型指数报告，显示英伟达在各国自建主权AI基础设施相关的大模型部署市场中占据92%份额，凸显其在全球主权AI算力与模型生态建设浪潮中的主导地位。",
-      "publishedAt": "2026-08-05",
-      "source": "Counterpoint Research",
-      "url": "https://counterpointresearch.com/en/insights/invidia-dominates-with-92-percent-share-in-counterpoint-researchs-sovereign-ai-llm-index",
-      "subCategory": "行业研报",
-      "id": "industry-20260809-004"
-    },
-    {
-      "id": "industry-20260804-101",
-      "title": "巴克莱银行：2028年Google TPU外部销售收入或蠁2520亿美元",
-      "summary": "巴克莱银行研报预测，若谷歌将TPU业务转向对外商用销售模式，联合黑石、阿波罗及博通等合作方，其TPU外部销售收入到2028年或蠁2520亿美元。",
-      "publishedAt": "2026-08-04T20:41:00+08:00",
-      "source": "199IT（巴克莱银行）",
-      "url": "https://www.199it.com/archives/1843966.html",
-      "subCategory": "行业研报"
-    },
-    {
-      "id": "industry-20260804-102",
-      "title": "日产汽车：2026财年Q1净利润37.6亿日元，扁亏为盈",
-      "summary": "日产汽车公布2026财年第一季度（4-6月）财报，净利润37.6亿日元，营业利润77.89亿日元，均超市场预期，结束此前连续两年的万亿日元亏损，公司维持全年净利润2000亿日元的业绩指引。",
-      "publishedAt": "2026-08-04T20:40:45+08:00",
-      "source": "199IT（日产汽车）",
-      "url": "https://www.199it.com/archives/1843968.html",
-      "subCategory": "公司动态"
-    },
-    {
-      "id": "industry-20260804-103",
-      "title": "洛图科技：2026上半年国内电视零售量1198万台，同比下降12.7%",
-      "summary": "洛图科技数据显示，2026年上半年中国电视市场零售量1198万台，同比下降12.7%，零售额降幅收窄至7.7%，均价4169元同比上涨229元，75英寸及以上大屏产品占比持续提升。",
-      "publishedAt": "2026-08-04T20:40:38+08:00",
-      "source": "199IT（洛图科技）",
-      "url": "https://www.199it.com/archives/1843971.html",
-      "subCategory": "消费零售"
     }
   ]
 }

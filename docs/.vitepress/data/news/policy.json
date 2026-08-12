@@ -3,8 +3,35 @@
   "slug": "policy",
   "title": "政策信息",
   "description": "国家与地方政策、监管动态、产业扶持与合规要求。",
-  "updatedAt": "2026-08-12T09:05:00+08:00",
+  "updatedAt": "2026-08-12T16:38:00+08:00",
   "items": [
+    {
+      "title": "两部门联合开展项目征集工作 推动计量支撑产业新质生产力发展",
+      "summary": "国家市场监督管理总局与工业和信息化部联合征集2026年度计量服务产业发展项目，聚焦人工智能、航空航天、新能源、半导体、生物技术等十大领域，重点支持攻克技术瓶颈、实现进口替代的计量攻关项目，预计遴选约十个项目予以支持。",
+      "publishedAt": "2026-08-12T11:07:00+08:00",
+      "source": "国家市场监督管理总局",
+      "url": "https://www.samr.gov.cn/xw/mtjj/art/2026/art_b3ed93c7570644f0b79fb6e877ff27e6.html",
+      "subCategory": "产业政策",
+      "id": "policy-20260812-005"
+    },
+    {
+      "title": "京津冀推行商事文本互认通用标准",
+      "summary": "北京、天津、河北三地市场监管部门联合推出“e注册·一起行”服务品牌，对公司章程、合伙协议等商事文本实行“一套标准、三地通用”，并依托“京雄企业链”实现跨区域数据共享，提升企业跨省经营便利度。",
+      "publishedAt": "2026-08-12T10:53:00+08:00",
+      "source": "国家市场监督管理总局",
+      "url": "https://www.samr.gov.cn/xw/df/art/2026/art_7082c8070f224e83b8d3eb2c9f3e0e89.html",
+      "subCategory": "产业政策",
+      "id": "policy-20260812-004"
+    },
+    {
+      "title": "Households living near new pylons to save thousands on bills",
+      "summary": "英国政府宣布电网基础设施补贴方案，位于新建或升级输电线路500米范围内的合资格家庭十年内最高可获2500英镑电费折扣，首批涵盖全国43个输电项目，由能源监管机构Ofgem负责实施，预计2027年上半年起陆续发放。",
+      "publishedAt": "2026-08-12",
+      "source": "GOV.UK",
+      "url": "https://www.gov.uk/government/news/households-living-near-new-pylons-to-save-thousands-on-bills",
+      "subCategory": "新能源政策",
+      "id": "policy-20260812-006"
+    },
     {
       "title": "市场监管总局批准发布一批重要国家标准 覆盖多领域推动高质量发展",
       "summary": "国家市场监督管理总局（国家标准委）近日批准发布338项重要国家标准，其中强制性标准15项、推荐性标准323项，内容涵盖人工智能医疗器械质量评价、立体显示与柔性显示技术、智能网联汽车自动驾驶系统安全强制性标准及互联网租赁自行车服务规范等，并新增车用压缩天然气等4项能源类强制性标准。",
@@ -22,6 +49,42 @@
       "url": "https://www.gov.uk/government/news/pm-vows-to-save-hollowed-out-high-streets-with-crackdown-on-vape-and-betting-shops",
       "subCategory": "海外政策",
       "id": "policy-20260812-001"
+    },
+    {
+      "title": "FinCEN Permanently Ends Beneficial Ownership Reporting Requirements for Millions of Small Business Owners",
+      "summary": "美国财政部金融犯罪执法网络（FinCEN）发布最终规则，永久取消美国境内企业和美国公民依据《企业透明度法》向其报告受益所有人信息的义务，此前已提交的美国主体数据将被删除；外国报告实体仍需就外国受益人继续申报。",
+      "publishedAt": "2026-08-11",
+      "source": "FinCEN（美国财政部金融犯罪执法网络）",
+      "url": "https://www.fincen.gov/news/news-releases/fincen-permanently-ends-beneficial-ownership-reporting-requirements-millions",
+      "subCategory": "金融监管",
+      "id": "policy-20260812-003"
+    },
+    {
+      "id": "policy-20260811-003",
+      "title": "Delivering Gold Standard Childhood Vaccine Recommendations for Americans",
+      "summary": "特朗普签署行政令，要求联邦机构建立金标准儿童疫苗建议体系，推动单剂疫苗选项、重新评估接种时间表、研发替代佐剂，并指示司法部对限制医疗与宗教豁免的州法律采取行动。",
+      "publishedAt": "2026-08-10T15:41:50-04:00",
+      "source": "白宫",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/08/delivering-gold-standard-childhood-vaccine-recommendations-for-americans/",
+      "subCategory": "海外政策"
+    },
+    {
+      "title": "FTC Stops Sprawling Credit Repair Scheme that Scammed Consumers Out of Nearly $200 Million",
+      "summary": "美国联邦贸易委员会促使联邦法院叫停一个由17家关联公司组成的虚假信用修复骗局，被告自2016年起通过谷歌广告虚假宣传、假冒催收人员及违规收费等手段骗取消费者约2亿美元，并专门针对现役军人。",
+      "publishedAt": "2026-08-10T09:51:14-04:00",
+      "source": "Federal Trade Commission",
+      "url": "https://www.ftc.gov/news-events/news/press-releases/2026/08/ftc-stops-sprawling-credit-repair-scheme-scammed-consumers-out-nearly-200-million",
+      "subCategory": "金融监管",
+      "id": "policy-20260810-x05"
+    },
+    {
+      "title": "£130 million for cutting-edge next generation vehicles securing over 1,800 jobs",
+      "summary": "英国政府通过DRIVE35计划宣布近1.3亿英镑投资零排放汽车技术，其中约6500万英镑为政府拨款并由产业界配套，将支持超过1800个高价值制造业岗位，另有1700万英镑用于9个互联自动出行先导项目。",
+      "publishedAt": "2026-08-10T12:09:13+01:00",
+      "source": "GOV.UK",
+      "url": "https://www.gov.uk/government/news/130-million-for-cutting-edge-next-generation-vehicles-securing-over-1800-jobs",
+      "subCategory": "新能源政策",
+      "id": "policy-20260810-x06"
     },
     {
       "id": "policy-20260811-002",
@@ -51,24 +114,6 @@
       "id": "policy-20260810-x01"
     },
     {
-      "id": "policy-20260811-003",
-      "title": "Delivering Gold Standard Childhood Vaccine Recommendations for Americans",
-      "summary": "特朗普签署行政令，要求联邦机构建立金标准儿童疫苗建议体系，推动单剂疫苗选项、重新评估接种时间表、研发替代佐剂，并指示司法部对限制医疗与宗教豁免的州法律采取行动。",
-      "publishedAt": "2026-08-10T15:41:50-04:00",
-      "source": "白宫",
-      "url": "https://www.whitehouse.gov/presidential-actions/2026/08/delivering-gold-standard-childhood-vaccine-recommendations-for-americans/",
-      "subCategory": "海外政策"
-    },
-    {
-      "title": "£130 million for cutting-edge next generation vehicles securing over 1,800 jobs",
-      "summary": "英国政府通过DRIVE35计划宣布近1.3亿英镑投资零排放汽车技术，其中约6500万英镑为政府拨款并由产业界配套，将支持超过1800个高价值制造业岗位，另有1700万英镑用于9个互联自动出行先导项目。",
-      "publishedAt": "2026-08-10T12:09:13+01:00",
-      "source": "GOV.UK",
-      "url": "https://www.gov.uk/government/news/130-million-for-cutting-edge-next-generation-vehicles-securing-over-1800-jobs",
-      "subCategory": "新能源政策",
-      "id": "policy-20260810-x06"
-    },
-    {
       "title": "广西全面整治违规使用\"征信\"\"信用评级\"字样经营乱象",
       "summary": "广西市场监管局联合央行广西分行发布专项整治通知，要求个人征信业务须取得央行许可、企业征信及信用评级业务须完成备案，名称或经营范围含相关字样但未取得资质的企业须整改或注销，否则将被处罚。",
       "publishedAt": "2026-08-10T10:56:00+08:00",
@@ -85,15 +130,6 @@
       "url": "https://www.samr.gov.cn/xw/df/art/2026/art_7fe2d99dc99043bf904e0c7369b7e04d.html",
       "subCategory": "产业政策",
       "id": "policy-20260810-x04"
-    },
-    {
-      "title": "FTC Stops Sprawling Credit Repair Scheme that Scammed Consumers Out of Nearly $200 Million",
-      "summary": "美国联邦贸易委员会促使联邦法院叫停一个由17家关联公司组成的虚假信用修复骗局，被告自2016年起通过谷歌广告虚假宣传、假冒催收人员及违规收费等手段骗取消费者约2亿美元，并专门针对现役军人。",
-      "publishedAt": "2026-08-10T09:51:14-04:00",
-      "source": "Federal Trade Commission",
-      "url": "https://www.ftc.gov/news-events/news/press-releases/2026/08/ftc-stops-sprawling-credit-repair-scheme-scammed-consumers-out-nearly-200-million",
-      "subCategory": "金融监管",
-      "id": "policy-20260810-x05"
     },
     {
       "title": "关于印发《煤炭工业发展\"十五五\"规划》的通知",
@@ -688,42 +724,6 @@
       "url": "https://www.cac.gov.cn/2026-07/29/c_1787072711938509.htm",
       "subCategory": "数据安全",
       "id": "policy-20260729-901"
-    },
-    {
-      "title": "商务部条约法律司负责人就世贸组织发布我诉土耳其电动汽车和其他车辆限制措施专家组报告答记者问",
-      "summary": "世贸组织专家组就中国诉土耳其对华电动汽车及其他车辆采取限制措施一案发布报告，认定土方相关措施违反世贸规则。商务部条约法律司负责人对此表示欢迎，要求土耳其执行专家组裁决、取消相关限制性措施，并重申中方支持多边贸易体制。",
-      "publishedAt": "2026-07-28T22:20:00+08:00",
-      "source": "中华人民共和国商务部",
-      "url": "https://www.mofcom.gov.cn/xwfb/sjfzrfb/art/2026/art_2db1752ad0034be5aaf744940debee5a.html",
-      "subCategory": "跨境贸易",
-      "id": "policy-20260728-702"
-    },
-    {
-      "title": "质量效益持续向好 开行规模稳步向上——国家发展改革委专题新闻发布会聚焦中欧班列发展成效",
-      "summary": "国家发展改革委举行专题新闻发布会介绍中欧班列统一品牌十周年发展成效：累计开行量突破13万列，运送货值超5200亿美元，重箱率连续46个月保持100%，运营范围覆盖26个欧洲国家236个城市，开行规模由2016年1702列增至2025年20022列。",
-      "publishedAt": "2026-07-28T19:00:18+08:00",
-      "source": "新华网",
-      "url": "https://www.news.cn/fortune/20260728/e4f92cd08b2b43f7acc513758d328957/c.html",
-      "subCategory": "跨境贸易",
-      "id": "policy-20260729-503"
-    },
-    {
-      "id": "policy-20260729-001",
-      "title": "商务部：中方愿通过中欧贸易投资磋商机制加强与欧方对话磋商",
-      "summary": "商务部对外贸易司相关负责人在国新办发布会上表示，2026年上半年中欧贸易额达4478.8亿美元，同比增长14.2%，中方在汇率问题上保持负责任立场，不会通过人为压低汇率获取竞争优势，愿通过中欧贸易投资磋商机制加强与欧方对话协商。",
-      "publishedAt": "2026-07-28T15:56:29+08:00",
-      "source": "中国新闻网",
-      "url": "https://www.chinanews.com.cn/cj/2026/07-28/10667903.shtml",
-      "subCategory": "跨境贸易"
-    },
-    {
-      "id": "policy-20260728-102",
-      "title": "商务部发布《关于所谓\"产能过剩\"问题的中方立场》",
-      "summary": "商务部发布《关于所谓\"产能过剩\"问题的中方立场》文件，共四部分，主张全面客观公正看待全球产能问题，阐明中方对产能过剩相关几组关系的立场，强调以开放合作建设现代化产业体系，倡导共建开放包容的全球供应链合作。",
-      "publishedAt": "2026-07-28T13:06:08+08:00",
-      "source": "新华网",
-      "url": "https://www.news.cn/20260728/558861063fe74feb974b683dd8447a41/c.html",
-      "subCategory": "跨境贸易"
     }
   ]
 }
