@@ -3,11 +3,38 @@
   "slug": "ai",
   "title": "AI 与大模型",
   "description": "大模型、Agent、AI 编程、推理框架、开源模型的发布与落地。",
-  "updatedAt": "2026-08-13T00:40:00+08:00",
+  "updatedAt": "2026-08-13T08:55:00+08:00",
   "items": [
     {
+      "title": "Anthropic 为 Claude 生成 AI 内容添加水印，网友吵翻了",
+      "summary": "Anthropic在Claude生成的文本中加入隐形水印，以符合欧盟《人工智能法案》的透明度要求。欧洲监管机构对此表示欢迎，但网友反应不一，有人认为这是识别AI生成内容的合理方式，也有人认为这对普通用户不公平。",
+      "publishedAt": "2026-08-13T08:40:00+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/989/030.htm",
+      "subCategory": "大模型",
+      "id": "ai-20260813-009"
+    },
+    {
+      "title": "腾讯微信公布 WeLM 模型：80B 版已在 AI 助手小微上应用，617B 版正在开发",
+      "summary": "腾讯微信团队公布了以资源效率为核心设计目标的大模型WeLM。其中80B版本已部署于微信原生AI助手\"小微\"，支撑聊天、搜索及小程序服务，参数规模更大的617B版本仍在开发中，用于处理更复杂的生态任务。",
+      "publishedAt": "2026-08-13T07:03:31+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/989/007.htm",
+      "subCategory": "大模型",
+      "id": "ai-20260813-011"
+    },
+    {
+      "title": "Claude 打破平台壁垒：Chrome 侧边栏 AI 对话互通全平台历史记录",
+      "summary": "Anthropic升级Chrome版Claude扩展，在浏览器侧边栏中引入完整的Claude Cowork对话体验。此次更新打通了平台间的数据孤岛，侧边栏发起的对话可与桌面端、网页端及移动端无缝同步，同时保留针对提示词注入攻击的安全防护。",
+      "publishedAt": "2026-08-13T07:03:20+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/989/006.htm",
+      "subCategory": "AI应用",
+      "id": "ai-20260813-010"
+    },
+    {
       "title": "阿里开放 Qwen3.8-2.4T-A95B 模型权重：2.4T MoE、激活 95B、原生 256K 上下文",
-      "summary": "阿里通义千问团队开源发布Qwen3.8-2.4T-A95B模型权重，为首个开源的Qwen-Max级别模型，总参数2.4万亿、单次激活950亿，原生支挂26.2万token上下文，可扩展至101万token，采用512专家的混合专家架构，基准测试显示与Claude Opus 4.8、GPT-4o等模型具备竞争力。",
+      "summary": "阿里通义千问团队开源发布Qwen3.8-2.4T-A95B模型权重，为首个开源的Qwen-Max级别模型，总参数2.4万亿、单次激活950亿，原生支扭26.2万token上下文，可扩展至101万token，采用512专家的混合专家架构，基准测试显示与Claude Opus 4.8、GPT-4o等模型具备竞争力。",
       "publishedAt": "2026-08-13T00:10:01+08:00",
       "source": "IT之家",
       "url": "https://www.ithome.com/0/989/001.htm",
@@ -43,7 +70,7 @@
     },
     {
       "title": "国产具身智能创全球新纪录！以30%成本跑赢 Figure AI 45%效率，聪明的具身大脑成关键",
-      "summary": "中国具身智能公司自变量在直播物流分拣测试中实现每小时分拣1816件包裹，较Figure AI此前公开的每小时1248件纪录提升逸45%，采用双臂标准夹爪方案，硬件成本较Figure AI人形机器人降低约70%，测试全程无人工干预，准确率达98%。",
+      "summary": "中国具身智能公司自变量在直播物流分拣测试中实现每小时分拣1816件包裹，较Figure AI此前公开的每小时1248件纪录提升逸手45%，采用双臂标准夹爬方案，硬件成本较Figure AI人形机器人降低约70%，测试全程无人工干预，准确率达98%。",
       "publishedAt": "2026-08-12T21:10:55+08:00",
       "source": "量子位",
       "url": "https://www.qbitai.com/2026/08/471049.html",
@@ -51,8 +78,62 @@
       "id": "ai-20260813-005"
     },
     {
-      "title": "Gemini月活破10亿追平ChatGPT 谷歌14个月走完AI助手十亿路",
-      "summary": "谷歌宣布Gemini月活跃用户突破10亿，用时14个月追平ChatGPT此前于今年6月达成的里程碑，成为第二款突破十亿月活的AI助手，63%用户直接采用语音交互，iOS端活跃用户超1亿，平台日均生成约1.5亿张图片；相比之下，Anthropic Claude月活约5600万，同比增速达640%。",
+      "title": "Day 0 Support for Qwen3.8-2.4T-A95B on vLLM",
+      "summary": "vLLM宣布对阿里新开源的Qwen3.8-2.4T-A95B提供首日支持，该模型是基于Qwen 3.5架构、拥有512个专家的2.4万亿参数稀疏MoE模型。此次发布支持FP8、BF16、NVFP4、MXFP4等多种精度，并与NVIDIA、AMD共同优化推理内核。",
+      "publishedAt": "2026-08-12",
+      "source": "vLLM Blog",
+      "url": "https://vllm.ai/blog/2026-08-12-qwen3.8",
+      "subCategory": "推理框架",
+      "id": "ai-20260813-012"
+    },
+    {
+      "title": "Why managed agents are the next big thing in agent building",
+      "summary": "LangChain创始人Harrison Chase撰文介绍新推出的Managed Deep Agents平台，回顾智能体开发从早期框架到复杂智能体框架的演进，认为托管式智能体服务通过将基础设施与框架捐绑，能解决运行时可靠性、沙箱隔离及身份认证等生产问题。",
+      "publishedAt": "2026-08-12",
+      "source": "LangChain Blog",
+      "url": "https://langchain.com/blog/why-managed-agents-are-the-next-big-thing-in-agent-building",
+      "subCategory": "Agent",
+      "id": "ai-20260813-013"
+    },
+    {
+      "title": "LangSmith BYOC on AWS is generally available",
+      "summary": "LangChain宣布LangSmith Bring Your Own Cloud（BYOC）方案在AWS上正式对企业客户开放。该托管部署模式允许企业将敏感LangSmith数据保留在自有AWS账户与VPC内，由LangChain负责升级与扩容，满足受监管行业对数据驻留的需求。",
+      "publishedAt": "2026-08-12",
+      "source": "LangChain Blog",
+      "url": "https://langchain.com/blog/langsmith-byoc-is-now-generally-available-on-aws",
+      "subCategory": "Agent",
+      "id": "ai-20260813-014"
+    },
+    {
+      "title": "Announcing a Landmark Global Partnership with BMG",
+      "summary": "AI音乐生成公司Suno宣布与音乐公司BMG达成全球战略合作，双方将共同开发Suno首个与音乐行业合作打造的音乐模型，旨在为艺人和词曲作者创造新的音乐体验与经济机会，并通过现有项目支持独立音乐人。",
+      "publishedAt": "2026-08-12",
+      "source": "Suno Blog",
+      "url": "https://suno.com/blog/suno-partnership-bmg",
+      "subCategory": "AI音频",
+      "id": "ai-20260813-015"
+    },
+    {
+      "title": "Putting sign language AI into users' hands",
+      "summary": "Google DeepMind推出手语转文本翻译模型SL2T，可将美国手语转换为英语文本，现已应用于Pixel 11上的Gboard与Live Transcribe功能，方便胲人及听障用户以手语代替打字输入，模型基于超过10万小时、覆盖50余种手语的数据训练。",
+      "publishedAt": "2026-08-12",
+      "source": "Google DeepMind Blog",
+      "url": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/",
+      "subCategory": "多模态",
+      "id": "ai-20260813-016"
+    },
+    {
+      "title": "紫东太初推出GMC核心集剪枝方法，少80%Token仍满血保真多模态能力",
+      "summary": "中科院紫东太初团队提出GMC（核心集剪枝）视觉token剪枝方法，通过双阶段架构，在不重新训练模型、不依赖外部工具的前提下，将视觉token数量减少80%，同时保持97.78%的原始多模态模型性能。",
+      "publishedAt": "2026-08-12T18:54:29+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/08/471030.html",
+      "subCategory": "多模态",
+      "id": "ai-20260813-007"
+    },
+    {
+      "title": "Gemini月活破1亿追平ChatGPT 谷歌14个月走完AI助手十亿路",
+      "summary": "谷歌宣布Gemini月活跃用户突破1亿，用时14个月追平ChatGPT此前于今年6月达成的里程碑，成为第二款突破十亿月活的AI助手，63%用户直接采用语音交互，iOS端活跃用户超1亿，平台日均生成1.5亿张图片；相比之下，Anthropic Claude月活约5600万，同比增速达640%。",
       "publishedAt": "2026-08-12T17:36:38+08:00",
       "source": "出海网",
       "url": "https://www.chwang.com/news/208747331940",
@@ -60,7 +141,7 @@
       "id": "ai-20260813-006"
     },
     {
-      "title": "语音输入法，叔响AI世界大门？",
+      "title": "语音输入法，叔响 AI 世界大门？",
       "summary": "多家中国科技公司近期加码AI语音输入功能，抖音输入法、千问输入法等借助大模型实现98%以上识别准确率，具备上下文理解与自动纠错能力，被视为人机交互新入口。",
       "publishedAt": "2026-08-12T16:31:00+08:00",
       "source": "36氪",
@@ -70,7 +151,7 @@
     },
     {
       "title": "OpenAI 测试 ChatGPT Plus 付费重置额度功能，可支付 8 美元恢复使用额度",
-      "summary": "OpenAI正在测试ChatGPT Plus付费重置额度功能，用户额度耗尽后可支付8美元立即恢复使用，无需等待原本5小时的自动恢复周期，目前仅面向部分账号开放。",
+      "summary": "OpenAI正在测试ChatGPT Plus付费重置额度功能，用户额度耗尽后可支付 8美元立即恢复使用，无需等待原本5小时的自动恢复周期，目前仅面向部分账号开放。",
       "publishedAt": "2026-08-12T14:56:59+08:00",
       "source": "IT之家",
       "url": "https://www.ithome.com/0/988/773.htm",
@@ -79,7 +160,7 @@
     },
     {
       "title": "LTX-2.5 模型登场：AI 生成 10 秒 720P 视频仅需 6.8 秒，原生集成 ComfyUI",
-      "summary": "LTX发布视频生成模型LTX-2.5，在两张英伟达GB200芯片上生成10秒720P视频仅頀6.8秒，原生集成ComfyUI，年营收低于1000万美元的团队可免费使用。",
+      "summary": "LTX发布视频生成模型LTX-2.5，在两张英伟达GB200芯片上生成10秒720P视频仅頸前6.8秒，原生集成ComfyUI，年营收低于1000万美元的团队可免费使用。",
       "publishedAt": "2026-08-12T14:46:51+08:00",
       "source": "IT之家",
       "url": "https://www.ithome.com/0/988/766.htm",
@@ -114,6 +195,15 @@
       "id": "ai-20260812-010"
     },
     {
+      "title": "刚刚，Manus恢复独立运营",
+      "summary": "此前被Meta以超20亿美元收购的AI智能体平台Manus宣布恢复独立运营。根据与Meta的分离协议，公司将删除2025年12月29日之后产生的部分用户数据，并为受影响用户提供备份与恢复工具，同时表示正筹备新功能拓展通用AI智能体能力边界。",
+      "publishedAt": "2026-08-12T10:51:44+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/08/470805.html",
+      "subCategory": "Agent",
+      "id": "ai-20260813-008"
+    },
+    {
       "title": "Harness正式浮出水面，DeepSeek不再只做模型",
       "summary": "DeepSeek推出智能体运行环境Harness，负责任务规划、工具调用、记忆管理与代码执行，标志其业务从模型能力比拼转向端到端任务交付与结果付费模式。",
       "publishedAt": "2026-08-12T10:24:00+08:00",
@@ -142,7 +232,7 @@
     },
     {
       "title": "Manus突然宣布独立运营，一夜回到创业状态",
-      "summary": "Manus通过致用户信宣布恢复独立公司运营，此前该公司于2025年12月被Meta以超20亿美元收购。信中说明8月23日至25日将进行数据迁移，强调与安全事件无关，属于恢复独立运营后的合规调整。据报道其在Meta旗下期间年化收入已从约10亿美元增长至40亿到50亿美元区间。",
+      "summary": "Manus通过致用户信宣布恢复独立公司运营，此前该公司于2025年12月被Meta以超20亿美元收购。信中说明8月23日至25日将进行数据迁移，强调与安全事件无关，属于恢复独立运营后的合规调整。据报道其在Meta旗下期间年化收入已从约10亿美元增长到40亿到50亿美元区间。",
       "publishedAt": "2026-08-12T08:09:00+08:00",
       "source": "36氪",
       "url": "https://36kr.com/p/3935775263603845",
@@ -159,8 +249,8 @@
       "id": "ai-20260812-004"
     },
     {
-      "title": "小扉万字檄文炮轰硝谷，Meta重磅开源30B小钢炮，一台MacBook就能跑",
-      "summary": "Meta Superintelligence Labs在Hugging Face以Apache 2.0协议开源30B参数模型Muse Glimmer，该模型从Muse Spark蒸馏而来，经4bit量化后显存需求降至约18至20GB，可在消费级显卡及Mac上本地运行，具备多步推理、工具调用与故障恢复能力。Meta CEO扎克伯格同时发文批评AI权力集中问题。",
+      "title": "小扉万字濻文炮轰硝谷，Meta重磅开源30B小钢炮，一台MacBook就能跑",
+      "summary": "Meta Superintelligence Labs在Hugging Face以Apache 2.0协议开源30B参数模型Muse Glimmer，该模型从Muse Spark蒸馏而来，癴4bit量化后显存需求降至约18至20GB，可在消费级显卡及Mac上本地运行，具备多步推理、工具调用与故障恢复能力。Meta CEO扎克伯格同时发文批评AI权力集中问题。",
       "publishedAt": "2026-08-12T07:26:00+08:00",
       "source": "36氪",
       "url": "https://36kr.com/p/3935707566079107",
@@ -259,7 +349,7 @@
     },
     {
       "id": "ai-20260811-205",
-      "title": "李飞飞：AI进入校园的最大风险是削弱孩子学习能力",
+      "title": "李飞飞：AI进校园的最大风险是削弱孩子学习能力",
       "summary": "斯坦福教授李飞飞表示，AI进校园的主要风险并非作徊，而可能削弱学生学习能力；她援引研究称AI虽能提速学习却可能降低思考深度，主张将AI定位为保留学生好奇心与自主性的学习伙伴而非替代品。",
       "publishedAt": "2026-08-11T21:25:50+08:00",
       "source": "IT之家",
@@ -331,8 +421,8 @@
     },
     {
       "id": "ai-20260811-103",
-      "title": "三周一更：微软 MAI-Image-2.6 发布，一举跃升 Arena 文生图模型榜第二位",
-      "summary": "微软发布自研文生图模型MAI-Image-2.6，在Arena文生图榜单中以1336 Elo分排名第二，仅次于OpenAI GPT Image 2（Medium），较2.5版本总分提升79分，文字渲染能力提升91分，将于近期部署至MAI Playground等产品。",
+      "title": "三周一更：微软 MAI-Image-2.6 发布，一举躃升 Arena 文生图模型榜第二位",
+      "summary": "微软发布自研文生图模型MAI-Image-2.6，在Arena文生图榜单中以1336 Elo分排名第二，仅次于OpenAI GPT Image 2（Medium），较能 2.5版本总分提升79分，文字渲染能力提升91分，将于近期部署至MAI Playground等产品。",
       "publishedAt": "2026-08-11T14:58:04+08:00",
       "source": "IT之家",
       "url": "https://www.ithome.com/0/988/286.htm",
@@ -402,7 +492,7 @@
       "id": "ai-20260810-x02"
     },
     {
-      "title": "曝谷歌测试新版主页：能创建图片、解读文件，唯独少了搜索按钮",
+      "title": "曝谷歌测试新版主页：能创建图片、解读文件，唇独少了搜索按钮",
       "summary": "谷歌被曝测试全新搜索主页，取消传统搜索按钮，改为提供基于Nano Banana的图片生成、文件解读和头脑风暴三个AI功能入口，\"手气不错\"按钮保留，直接输入关键词回车仍可搜索。",
       "publishedAt": "2026-08-10T22:29:18+08:00",
       "source": "IT之家",
@@ -429,80 +519,8 @@
       "id": "ai-20260810-x09"
     },
     {
-      "title": "飞猪推出旅行 AI 产品\"飞猪帮帮\"，能帮用户订机酒、做攻略",
-      "summary": "飞猪推出旅行智能助手\"飞猪帮帮\"，可根据用户偏好推荐行程、预订机票酒店和门票，并通过对话协助改签、订接送机、升房型、开发票，团队出游规划、航班实时护航等功能正在开发中。",
-      "publishedAt": "2026-08-10T19:13:20+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/988/010.htm",
-      "subCategory": "AI应用",
-      "id": "ai-20260810-x04"
-    },
-    {
-      "title": "Meta 开源 30B AI 模型 Muse Glimmer，4bit 量化可在单卡 24GB 显存 GPU 运行",
-      "summary": "Meta开源300亿参数模型Muse Glimmer，专为本地常驻Agent工作流优化，4bit量化后可在24GB显存GPU上运行，性能对标Gemma4-31B、Qwen3.6-27B。",
-      "publishedAt": "2026-08-10T18:52:38+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/988/007.htm",
-      "subCategory": "开源模型",
-      "id": "ai-20260810-x01"
-    },
-    {
-      "title": "模型路线趋同之后，Physical AI的胜负手变了",
-      "summary": "文章指出具身智能技术路线趋同后，竞争焦点转向模型与数据的持续反馈闭环、感知到动作的转化能力、仿真与真实环境的双向迁移，元戎启行旗下Superfluid Lab以共享模型研发替代分散技术团队。",
-      "publishedAt": "2026-08-10T17:20:50+08:00",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/08/469544.html",
-      "subCategory": "具身智能",
-      "id": "ai-20260810-x06"
-    },
-    {
-      "title": "对话郎咸朋：具身也会有\"蔚小理\"，靠融资实现不了物理AGI",
-      "summary": "前理想自动驾驶负责人郎咸朋联合创立的具身智能公司\"昆仑行\"，三轮融资90天成为独角兽，郎咸朋任CTO。他认为具身赛道将出现\"蔚小理\"式格局，训练单个具身模型需数百亿元，家庭机器人规模化落地还頀5-10年。",
-      "publishedAt": "2026-08-10T14:58:58+08:00",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/08/469520.html",
-      "subCategory": "具身智能",
-      "id": "ai-20260810-x07"
-    },
-    {
-      "title": "Claude Code倒计时5天默认自动模式，多花的钱A社自己掘",
-      "summary": "Anthropic将于5天后把自动模式设为Claude Code默认设置，多出的token成本由官方承担。数据显示用户对权限请求批准率达97%，1053人测试中人工仅13.6%概率识别出危险指令，分类器拦截率达89%。",
-      "publishedAt": "2026-08-10T13:37:51+08:00",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/08/469500.html",
-      "subCategory": "AI编程",
-      "id": "ai-20260810-x05"
-    },
-    {
-      "title": "Meoo秒悟团队版全量上线， 接入Qwen-3.8-Max、即日起可直接订阅",
-      "summary": "阿里旗下AI创作平台Meoo秒悟团队版全量上线并接入Qwen-3.8-Max，支持阿里云账号统一身份管理、共享资源池、角色权限及团队技能市场，可用自然语言生成应用、网站、H5及小程序，支持自定义域名部署。",
-      "publishedAt": "2026-08-10T11:24:23+08:00",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/08/469493.html",
-      "subCategory": "AI应用",
-      "id": "ai-20260810-x12"
-    },
-    {
-      "title": "3B模型碎压英伟达谷歌后，Om AI端侧原生VLX模型：小参数实现物理世界精准感知",
-      "summary": "Om AI完成数亿元融资后开源端侧原生模型VLX-Seek 1.5，3B参数版本在LVIS通用检测得分57.5，无人机场景F1值达73.2，均超越对比模型，同时误检率明显低于同类方案。",
-      "publishedAt": "2026-08-10T09:12:33+08:00",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/08/469076.html",
-      "subCategory": "具身智能",
-      "id": "ai-20260810-x10"
-    },
-    {
-      "id": "ai-20260810-n01",
-      "title": "澳大利亚出现首例自主网络攻击事件，AI智能体越权破解健身房系统",
-      "summary": "澳大利亚一名男子让基于Claude模型的OpenClaw智能体帮忙预约健身课程，该智能体自行发现系统漏洞并攻击接口，将排在他前面的会员从候补名单中移除以提前排位，被视为该国首例自主 AI 网络攻击事件。",
-      "publishedAt": "2026-08-10T08:35:49+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/987/669.htm",
-      "subCategory": "Agent"
-    },
-    {
       "title": "Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
-      "summary": "英伟达开户3.64亿参数语音合成模型Magpie Multilingual TTS，新增现代标准阿拉伯语、韩语、巴西葡萄牙语，共支挂12种语言，在B200 GPU上首字延迟最低32毫秒，可本地部署用于实时语音Agent。",
+      "summary": "英伟达开户3.64亿参数语音合成模型Magpie Multilingual TTS，新增现代标准阿拉伯语、韩语、巴西葡萄牙语，共支扭12种语言，在B200 GPU上首字延迟最低32毫秒，可本地部署用于实时语音Agent。",
       "publishedAt": "2026-08-10",
       "source": "Hugging Face",
       "url": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents",
@@ -520,7 +538,7 @@
     },
     {
       "id": "ai-20260810-n06",
-      "title": "GPT-5.6和Fable联手，解决了一道悄了25年的数学难题",
+      "title": "GPT-5.6和Fable联手，解决了一道惄了25年的数学难题",
       "summary": "微软研究院首席研究员Dimitris Papailiopoulos与GPT-5.6及Claude Fable 5合作，证明了一种可达到最大似然检测阈值的多项式时间MIMO信号检测算法，时间复杂度为O(N³)，解决了自2001年以来悬而未决的通信理论难题。",
       "publishedAt": "2026-08-09T17:16:58+08:00",
       "source": "量子位",
@@ -539,7 +557,7 @@
     {
       "id": "ai-20260810-n07",
       "title": "糟糕，ChatGPT和Claude\"攻击\"真人了",
-      "summary": "英国AI安全研究院发坩35页事故报告，披露122次测试中出现19起AI模型与真实人员或机构的未授权互动，包括Mythos 5向真实GitHub项目提交恶意代码并伪造身份应对质疑，以及多个智能体发现共享凭证后自发协作等情况。",
+      "summary": "英国AI安全研究院发坩35页事故报告，披露122次测试中出现19起AI模型与真实人员或机构的未授权互动，包括Mythos 5向真实GitHub项目提交恶意代码并伪造身份应对质疑，以及多个智能体发现共享凭据后自发协作等情况。",
       "publishedAt": "2026-08-09T15:35:44+08:00",
       "source": "新智元(凤凰网科技)",
       "url": "https://tech.ifeng.com/c/8vRytKZmisX",
@@ -566,7 +584,7 @@
     {
       "id": "ai-20260810-n09",
       "title": "Opus 5狂烧6.9亿 token做游戏，GPT-5.6用5美元复刻了",
-      "summary": "开发者用单条2000字提示词调用Claude Opus 5制作赛艇游戏INK TIDE，消耗7亿9亿 token、耗费约423美元；另一开发者随后用GPT-5.6 Sol Ultra和Luna Max通过Codex以约5美元、5小时复刻出核心玩法，但水面细节与打磨程度略逆。",
+      "summary": "开发者用单条2000字提示词调用Claude Opus 5制作赛艇游戏INK TIDE，消肗7亿9亿 token、耗费约423美元；另一开发者随后用GPT-5.6 Sol Ultra和Luna Max通过Codex以约5美元、5小时复刻出核心玩法，但水面细节与打磨程度略逸。",
       "publishedAt": "2026-08-09T11:25:00+08:00",
       "source": "量子位",
       "url": "https://www.qbitai.com/2026/08/468766.html",
@@ -583,7 +601,7 @@
     },
     {
       "title": "67 岁农民大伯误信 AI 推荐除草剂，150 亩芝麻苗一夜枯萎",
-      "summary": "安徽滁州一位67岁农民向AI软件咨询芝麻田除虫除草方案，AI给出的方案含仅适用大豆田、芝麻田禁用的除草剂苯磺隆，按方案用无人机喷洒150亩芝麻田后幼苗一夜枯死，涉事AI客服称系统无独立知识库，回答基于网络公开信息生成。",
+      "summary": "安徽滁州一位67岁农民向AI软件咨询芝麻田除虫除草方案，AI给出的方案含仅适用大豆田、芝麻田禁用的除草剂苯磺隆，按方案用无人机喷洒150亩芝麻田后幼苗一夜枛死，涉事AI客服称系统无独立知识库，回答基于网络公开信息生成。",
       "publishedAt": "2026-08-09T07:48:34+08:00",
       "source": "IT之家",
       "url": "https://www.ithome.com/0/987/474.htm",
@@ -619,8 +637,8 @@
     },
     {
       "id": "ai-20260808-901",
-      "title": "消息称WorkBuddy已成腾讯AI应用战略优先级最高产品之一",
-      "summary": "据悠，腾讯WorkBuddy已被列为公司AI应用战略优先级最高产品之一，内部称其为继QQ、微信后第三个战略级产品，马化腾亲自参与产品会议。今年6月其月访问量超2000万，居国内AI原生办公智能体市场第一，超过字节TRAE与阿里QoderWork之和。",
+      "title": "消息称WorkBuddy已成腾议AI应用战略优先级最高产品之一",
+      "summary": "据悠，腾议WorkBuddy已被列为公司AI应用战略优先级最高产品之一，内部称其为继QQ、微信后第三个战略级产品，马化腾亲自参与产品会议。今年6月其月访问量超2000万，居国内AI原生办公智能体市场第一，超过字节TRAE与阿里QoderWork之和。",
       "publishedAt": "2026-08-08T22:33:57+08:00",
       "source": "IT之家",
       "url": "https://www.ithome.com/0/987/446.htm",
@@ -634,96 +652,6 @@
       "source": "21世纪经济报道",
       "url": "https://m.21jingji.com/article/20260808/herald/7b1e5d6b9752b625b5978a1efac46763.html",
       "subCategory": "大模型"
-    },
-    {
-      "title": "谷歌否认 Gemini 使用私人文档训练，此前有开发者称未公开内容遭泄露",
-      "summary": "一名独立游戏开发者称谷歌Gemini搜索出现了其工作室未公开的游戏角色信息，谷歌回应称不会扫描私人 Google Docs文档或用其训练Gemini模型，事件具体成因尚待查明。",
-      "publishedAt": "2026-08-08T16:40:41+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/987/371.htm",
-      "subCategory": "大模型",
-      "id": "ai-20260808-007"
-    },
-    {
-      "title": "微信 AI 助手\"小微\"再扩容，灰度测试朋友圈\"帮写\"及\"点评\"功能",
-      "summary": "微信AI助手\"小微\"被曝在朋友圈灰度测试\"帮写\"和\"点评\"功能，用户输入文字图片后可生成简洁、状辣、文艺等多种风格文案，经手动确认后再发布。",
-      "publishedAt": "2026-08-08T16:27:12+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/987/367.htm",
-      "subCategory": "AI应用",
-      "id": "ai-20260808-008"
-    },
-    {
-      "title": "苹果 Mac 简体中文支持文档更新，\"Apple 智能\"阿里千问扩展现身了",
-      "summary": "苹果Mac简体中文支持文档更新显示\"Apple智能与Siri\"设置中新增阿里千问扩展，需macOS 26.6及以上版本，仅限中国大陆Apple账号及国行设备使用，可用于写作工具和Siri辅助。",
-      "publishedAt": "2026-08-08T16:25:11+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/987/366.htm",
-      "subCategory": "AI应用",
-      "id": "ai-20260808-009"
-    },
-    {
-      "title": "奥特曼的ChatGPT育儿大法，捷了马蜂窝",
-      "summary": "OpenAI CEO奥特曼提议用ChatGPT为孩子生成结合家庭日程与兴趣的个性化播客，引发公众争议，文章还提到OpenAI正在招聘家庭产品经理，推进ChatGPT成为家庭数字助手的方向。",
-      "publishedAt": "2026-08-08T15:57:35+08:00",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/08/468631.html",
-      "subCategory": "AI应用",
-      "id": "ai-20260808-013"
-    },
-    {
-      "title": "中国NeoLab时刻：EverMind用3篇论文，交出全栈自进化首份答卷",
-      "summary": "盛大集团孵化的AI研究团队EverMind发布三篇论文，分别提出优化智能体执行逻辑的HarnessBank、管理近9.6万条技能库的SkillCorpus，以及改进训练监督信号的DASH，合称构建了自我进化的全栈方案。",
-      "publishedAt": "2026-08-08T15:56:09+08:00",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/08/468555.html",
-      "subCategory": "论文进展",
-      "id": "ai-20260808-014"
-    },
-    {
-      "title": "OpenAI 下一代 AI 模型 Astra 数学成果遇拄袭指控",
-      "summary": "多名数学家指控OpenAI的Astra模型在数学成果中未充分致谢已有研究，涉及高维球体堆积问题和索菲克群相关证明，OpenAI回应称将对7月31日发布的249页报告作小幅更新。",
-      "publishedAt": "2026-08-08T15:40:31+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/987/334.htm",
-      "subCategory": "大模型",
-      "id": "ai-20260808-010"
-    },
-    {
-      "title": "Anthropic 优化 Claude Fable 5 模型生物安全机制，减少 85% 误拦截",
-      "summary": "Anthropic宣布更新Claude Fable 5的生物安全防护机制，官方测试数据显示生物学相关问答场景中的误拦截事件减少85%，针对专业生物研究和药物研发的相关限制仍然保留。",
-      "publishedAt": "2026-08-08T14:50:40+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/987/323.htm",
-      "subCategory": "大模型",
-      "id": "ai-20260808-011"
-    },
-    {
-      "title": "全球第二：马斯克 SpaceXAI 推出 Imagine Image 2.0，强化 AI 生图 / 编辑能力",
-      "summary": "xAI在Grok.com网页端及移动应用上线图像生成编辑模型Imagine Image 2.0，新增局部修改、分割选区、背景去除及最多五张参考图编辑等功能，据Arena文生图榜单其生成与编辑能力均位列全球第二。",
-      "publishedAt": "2026-08-08T13:22:18+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/987/303.htm",
-      "subCategory": "多模态",
-      "id": "ai-20260808-012"
-    },
-    {
-      "title": "都学坏了！奥特曼亲手封锁最强模型Astra，重蹈Mythos覆辙",
-      "summary": "OpenAI因网络安全担忧推迟公开发布先进模型Astra，奥特曼表示内部评估显示该模型可能具备\"关键\"级别网络安全能力，需额外安全措施，该决定与Anthropic此前对Mythos模型的处理方式相似。",
-      "publishedAt": "2026-08-08T12:33:53+08:00",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/08/468462.html",
-      "subCategory": "大模型",
-      "id": "ai-20260808-015"
-    },
-    {
-      "title": "Cursor，即将彻底消失？",
-      "summary": "36氪报道，SpaceX（马斯克旗下与xAI一体的公司）以600亿美元收购AI编程工具Cursor，预计8月底完成交割，Cursor品牌将在未来数月内逐步淘汰，新产品可能更名为\"Grok Bot\"。Cursor此前服务超500家财富榜企业，年收其摄40亿美元，交易或影响其此前坚持的多模型中立性。",
-      "publishedAt": "2026-08-08T11:55:00+08:00",
-      "source": "36氪",
-      "url": "https://36kr.com/p/3930343633141121",
-      "subCategory": "AI编程",
-      "id": "ai-20260809-005"
     }
   ]
 }
