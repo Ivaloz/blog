@@ -3,8 +3,17 @@
   "slug": "ai",
   "title": "AI 与大模型",
   "description": "大模型、Agent、AI 编程、推理框架、开源模型的发布与落地。",
-  "updatedAt": "2026-08-13T16:58:26+08:00",
+  "updatedAt": "2026-08-13T21:45:00+08:00",
   "items": [
+    {
+      "title": "Anthropic said in talks to buy startup Decart for $6 billion",
+      "summary": "据彭博社报道，Anthropic正洽谈以约60亿美元收购AI创业公司Decart，若达成将是其已知规模最大的一笔收购。Decart专注于世界模拟模型与芯片效率优化技术，其Lucy AI模型可生成实时高清视频叠加效果，5月融资3亿美元时估值40亿美元，英伟达、红杉资本等参投。",
+      "publishedAt": "2026-08-13T09:32:00-04:00",
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/08/13/anthropic-said-in-talks-to-buy-startup-decart-for-6-billion/",
+      "subCategory": "大模型",
+      "id": "ai-20260813-201"
+    },
     {
       "title": "英国研究多种防范措施，避免恐怖分子利用AI制造生物武器",
       "summary": "英国政府正制定基因合成领域AI生物安全监管框架，拟推出新生物武器立法、基因合成筛查系统及可疑DNA序列请求强制报告机制，并寻求与其他主要基因合成中心的国际协调。",
