@@ -3,8 +3,44 @@
   "slug": "finance",
   "title": "投资与财经",
   "description": "宏观经济、A 股 / 港股 / 美股、一级市场融资、行业研报观点。",
-  "updatedAt": "2026-08-13T21:45:00+08:00",
+  "updatedAt": "2026-08-14T09:20:00+08:00",
   "items": [
+    {
+      "id": "finance-20260814-003",
+      "title": "8月14日收盘：标普500指数收盘创历史新高 受通胀数据低于预期及油价下跌提振",
+      "summary": "美股8月13日收盘，标普500指数涨0.65%报7798.99点创历史新高，纳指涨0.81%报26803.02点，道指涨0.13%报53839.98点，受美国7月PPI数据低于预期及原油价格下跌提振。",
+      "publishedAt": "2026-08-14T04:25:00+08:00",
+      "source": "新浪财经",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-14/doc-ininfmmw4338336.shtml",
+      "subCategory": "美股"
+    },
+    {
+      "id": "finance-20260814-004",
+      "title": "通胀降温再添“新证”！美国7月PPI同比增4.7%",
+      "summary": "美国劳工部公布数据显示，7月PPI同比上涨4.7%，低于市场预期的4.9%和前值5.5%；核心PPI同比增4.2%，符合预期；环比持平，能源价格下跌为主要拖累因素。",
+      "publishedAt": "2026-08-13T23:27:00+08:00",
+      "source": "新浪财经",
+      "url": "https://finance.sina.com.cn/roll/2026-08-13/doc-inineywi9799523.shtml",
+      "subCategory": "宏观经济"
+    },
+    {
+      "id": "finance-20260814-010",
+      "title": "国际原油期货跌幅扩大，WTI原油跌超3%",
+      "summary": "8月13日国际原油期货跌幅扩大，WTI原油价格跌3.13%报80.66美元/桶，布伦特原油跌2.90%报86.40美元/桶。",
+      "publishedAt": "2026-08-13T22:15:00+08:00",
+      "source": "界面新闻",
+      "url": "https://m.163.com/dy/article/L48C0M9N0534A4SC.html",
+      "subCategory": "大宗商品"
+    },
+    {
+      "id": "finance-20260814-005",
+      "title": "中国央行将开展1万亿元人民币买断式逆回购操作",
+      "summary": "中国人民银行公告将于8月14日开展1万亿元、期限6个月（185天）的买断式逆回购操作，为本月同规模到期操作的等量续做，另将3个月期操作加量200亿元。",
+      "publishedAt": "2026-08-13T20:13:00+08:00",
+      "source": "新浪财经",
+      "url": "https://finance.sina.com.cn/roll/2026-08-13/doc-inineqhh4661310.shtml",
+      "subCategory": "政策利率"
+    },
     {
       "title": "三大指数午后回落全线收跌，全市场超4300股飘绿，医药股持续活跃",
       "summary": "8月13日A股三大指数午后集体翻绿，沪指跌0.5%，深成指跌0.87%，创业板指跌0.45%，沪深两市成交额2.55万亿元，较上一交易日放量3985亿元，医药股逆势活跃，超4300只个股下跌。",
@@ -33,6 +69,15 @@
       "id": "finance-20260813-103"
     },
     {
+      "id": "finance-20260814-002",
+      "title": "港股收评：恒指跌0.17% 科指涨0.33% 科网股低迷 黄金股下挫 联想逆势涨超20%",
+      "summary": "8月13日港股恒生指数跌0.17%报25396.51点，恒生科技指数涨0.33%；联想集团发布财报后股价大涨超20%创历史新高，腾讯跌超4%，哔哩哔哩跌超2%，黄金股普遍下挫。",
+      "publishedAt": "2026-08-13T16:08:00+08:00",
+      "source": "新浪财经",
+      "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-08-13/doc-ininecsu0095866.shtml",
+      "subCategory": "港股"
+    },
+    {
       "title": "杨元庆：联想第一财季实现三大历史性突破，AI与基础设施业务正成为全球领导者",
       "summary": "联想集团CEO杨元庆表示，公司第一财季基础设施方案业务已成为全球领先者，作为2026年世界杯官方独家技术合作伙伴推动品牌转型，并通过供应链一体化能力化解供应约束，ISG业务营收接近翻倍，营业利润率达9.1%。",
       "publishedAt": "2026-08-13T15:47:00+08:00",
@@ -42,6 +87,15 @@
       "id": "finance-20260813-105"
     },
     {
+      "id": "finance-20260814-001",
+      "title": "A股收评：沪指跌0.5%，超4300股下跌！医药股表现活跃，有色金属板块跌幅居前",
+      "summary": "8月13日A股三大指数集体收跌，沪指跌0.5%报3926.96点，深成指跌0.87%，创业板指跌0.45%，全市场成交额2.5681万亿元，超4300只个股下跌，医药股表现活跃，有色金属板块跌幅居前。",
+      "publishedAt": "2026-08-13T15:05:00+08:00",
+      "source": "新浪财经",
+      "url": "https://finance.sina.com.cn/stock/bxjj/2026-08-13/doc-ininecsu0050659.shtml",
+      "subCategory": "A股"
+    },
+    {
       "title": "直线拉升！联想大涨20%，公司最新业绩发布：净利润大增176%，AI相关收入约634亿元",
       "summary": "联想集团公布2026/27财年第一季度业绩，营收1834亿元同比增43%，经调整净利润约73亿元同比增176%，AI相关业务收入约634亿元同比增60%，占营收约35%，股价当日一度大涨20%。",
       "publishedAt": "2026-08-13T14:08:40+08:00",
@@ -49,6 +103,24 @@
       "url": "https://www.nbd.com.cn/articles/2026-08-13/4540829.html",
       "subCategory": "公司财报",
       "id": "finance-20260813-104"
+    },
+    {
+      "id": "finance-20260814-006",
+      "title": "MSCI公布8月季度审议结果：中国指数新纳入33只标的 华峰测控、富创精密等科创板公司入选",
+      "summary": "MSCI公布2026年8月季度指数审议结果，中国指数新纳入31只A股与2只港股标的（其中10家为科创板公司），同时剔除万科A、智飞生物等32只标的，调整于8月31日收盘后生效。",
+      "publishedAt": "2026-08-13T12:48:00+08:00",
+      "source": "财联社",
+      "url": "https://www.cls.cn/detail/2453202",
+      "subCategory": "A股"
+    },
+    {
+      "id": "finance-20260814-007",
+      "title": "联想第一财季营收1834亿元 同比增长43%",
+      "summary": "联想集团发布2026/27财年第一财季业绩，营收1834亿元人民币同比增长43%，经调整净利润超73亿元同比增长176%，净利润率约4%，AI相关收入634亿元占营收约35%。",
+      "publishedAt": "2026-08-13T12:25:00+08:00",
+      "source": "新浪财经",
+      "url": "https://finance.sina.com.cn/tech/2026-08-13/doc-inincxkq4743852.shtml",
+      "subCategory": "公司财报"
     },
     {
       "title": "腾讯详解AI战略：优先级是训练SOTA级别的混元模型，如果将算力资源用于租赁将有显著回报",
@@ -78,6 +150,24 @@
       "id": "finance-20260813-110"
     },
     {
+      "id": "finance-20260814-011",
+      "title": "人民币市场汇价（8月13日）",
+      "summary": "中国外汇交易中心公布8月13日人民币汇率中间价：100美元对人民币678.88元，100港元对86.518元，100欧元对780.14元，100日元对4.2508元。",
+      "publishedAt": "2026-08-13T10:02:00+08:00",
+      "source": "新华网",
+      "url": "https://www.news.cn/20260813/b223d0910c4a4d34bfd70289d85d7da8/c.html",
+      "subCategory": "宏观经济"
+    },
+    {
+      "id": "finance-20260814-009",
+      "title": "国际金价突破4500美元",
+      "summary": "8月13日国际金价走高，COMEX黄金一度触及4509.1美元/盎司，最大涨幅0.93%；伦敦现货黄金触及4449.73美元/盎司；COMEX白银同步走强，最高触及66.45美元/盎司。",
+      "publishedAt": "2026-08-13T09:37:00+08:00",
+      "source": "中国新闻网",
+      "url": "https://finance.sina.com.cn/jjxw/2026-08-13/doc-ininctaw3342074.shtml",
+      "subCategory": "大宗商品"
+    },
+    {
       "title": "原油交易提醒：美国原油库存意外暴增，油价小幅回落",
       "summary": "截至8月7日当周美国商业原油库存增加1742.2万桶，远超市场预期减少140万桶；受此影响，WTI原油8月13日亚洲早盘回落至82.30美元/桶附近，市场同时关注霍尔木兹海峡局势对油价的潜在支撑。",
       "publishedAt": "2026-08-13T09:36:32+08:00",
@@ -87,6 +177,15 @@
       "id": "finance-20260813-107"
     },
     {
+      "id": "finance-20260814-008",
+      "title": "腾讯Q2交卷！营收2048亿元超预期，Hy3、WorkBuddy等AI业务表现亮眼",
+      "summary": "腾讯控股公布2026年第二季度业绩，营收2048亿元人民币同比增长11%，略超市场预期，期内在港交所回购约5003.11万股股份，耗资约244亿港元，AI业务成为亮点。",
+      "publishedAt": "2026-08-13T09:23:00+08:00",
+      "source": "网易科技",
+      "url": "https://www.163.com/dy/article/L46VQS3P05199NPP.html",
+      "subCategory": "公司财报"
+    },
+    {
       "title": "红杉中国1.5亿独家出资 张雪机车落地新融资 估值半年不到涨5倍至60亿",
       "summary": "红杉中国以1.5亿元独家出资完成对张雪机车新一轮融资，投后估值60亿元，较今年3月10亿元估值半年内上涨5倍；公司去年营收6.7亿元，预计2026年营收25至30亿元，月交付量超万台。",
       "publishedAt": "2026-08-13T09:17:00+08:00",
@@ -94,6 +193,24 @@
       "url": "https://www.cls.cn/detail/2453013",
       "subCategory": "一级市场",
       "id": "finance-20260813-109"
+    },
+    {
+      "id": "finance-20260814-012",
+      "title": "上海卓然工程技术股份有限公司关于公司立案调查进展暨退市风险提示公告",
+      "summary": "上海卓然（*ST卓然，688121）公告称，证监会已对公司及实际控制人张劲鸿立案调查，涉嫌信息披露违法违规，初步调查发现公司部分年度财务信息可能存在虚假记载，可能触及科创板重大违法强制退市情形。",
+      "publishedAt": "2026-08-13",
+      "source": "上海证券报",
+      "url": "https://paper.cnstock.com/html/2026-08/13/content_2254539.htm",
+      "subCategory": "风险事件"
+    },
+    {
+      "id": "finance-20260814-013",
+      "title": "Mortgage rates see first drop in six weeks: Mortgage and refinance interest rates today, Thursday, August 13, 2026",
+      "summary": "美国30年期抵押贷款平均利率降至6.67%，较前一周6.69%下降2个基点，为六周来首次下降，就业数据走弱及通胀降温迹象降低了市场对美联储近期加息的预期。",
+      "publishedAt": "2026-08-13",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-rates-see-first-drop-in-six-weeks-mortgage-and-refinance-interest-rates-today-thursday-august-13-2026-100000704.html",
+      "subCategory": "宏观经济"
     },
     {
       "title": "腾讯二季度资本开支同比翻倍，马化腾谈AI转型",
@@ -607,123 +724,6 @@
       "source": "网易财经",
       "url": "https://www.163.com/dy/article/L41M887505198NMR.html",
       "subCategory": "美股"
-    },
-    {
-      "id": "finance-20260811-008",
-      "title": "AI初创公司Applied Compute洽谈新一轮融资，估值达30亿美元",
-      "summary": "据The Information报道，成立一年的AI初创公司Applied Compute正在洽谈新一轮融资，投后估值约30亿美元，较此前估值翻倍。该公司提供帮助企业定制和适配开源人工智能模型的服务。",
-      "publishedAt": "2026-08-10T19:48:00-04:00",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/applied-compute-seeks-funding-at-3-bln-valuation-the-information-93CH-4850622",
-      "subCategory": "一级市场"
-    },
-    {
-      "id": "finance-20260811-003",
-      "title": "摩根大通将标普500指数年末目标上调至8000点",
-      "summary": "摩根大通将标普500指数2026年末目标点位上调至8000点，主要基于二季度财报表现强劲。该行将2026年每股盈利预测上调至365美元，2027年预测为420美元。高盛、摩根士丹利、花旗等机构持类似乐观看法。",
-      "publishedAt": "2026-08-11T07:37:09+08:00",
-      "source": "第一财经",
-      "url": "https://www.yicai.com/news/103312746.html",
-      "subCategory": "美股"
-    },
-    {
-      "id": "finance-20260811-004",
-      "title": "费城半导体指数走低、英特尔增发股价跳水，SpaceX解禁后三日累涨约28%",
-      "summary": "美股周一费城半导体指数跌超2%，光模块股走弱，Lumentum跌8.61%，康宁跌超4%；英特尔因150亿美元增发股价跳水4%；解禁后SpaceX三个交易日累计上涨约28%，股价站上138.74美元的IPO发行价上方。",
-      "publishedAt": "2026-08-11T07:14:47+08:00",
-      "source": "第一财经",
-      "url": "https://www.yicai.com/news/103312722.html",
-      "subCategory": "美股"
-    },
-    {
-      "id": "finance-20260811-007",
-      "title": "加拿大皇家银行与蒙特利尔银行拟以14.4亿美元将支付公司Moneris出售给Francisco Partners",
-      "summary": "加拿大皇家银行(RBC)与蒙特利尔银行(BMO)将其共同持有的支付服务商Moneris以约合14.4亿美元(20亿加元)出售给科技投资公司Francisco Partners，两家银行平分收益。RBC预计录得约4.75亿加元税后收益，交易预计2027财年一季度完成。",
-      "publishedAt": "2026-08-10T18:38:00-04:00",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/rbc-bmo-to-sell-moneris-to-francisco-partners-in-144-billion-deal-4850576",
-      "subCategory": "一级市场"
-    },
-    {
-      "title": "Stock market today: Nasdaq slips, Dow and S&P 500 little changed in wait for key inflation data",
-      "summary": "美股周一盘中道指与标普500小幅波动，纳斯达克指数下跌0.3%；市场等待周三CPI数据，伊朗释放霍尔木兹海峽协议\"非常接近\"信号，布伦特原油报每标86美元。",
-      "publishedAt": "2026-08-10T12:32:44-04:00",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-august-10-dow-sp-500-nasdaq-104358890.html",
-      "subCategory": "美股",
-      "id": "finance-20260810-x03"
-    },
-    {
-      "title": "人工智能需求持续爆发，英特尔计划增发150亿美元普通股",
-      "summary": "英特尔宣布计划增发150亿美元普通股，以应对人工智能算力需求增长，募集资金将用于资本支出和营运资金，并设有30天期权允许承销商额外购买22.5亿美元股票，消息公布后英特尔股价下跌4%。",
-      "publishedAt": "2026-08-10T23:03:00+08:00",
-      "source": "新浪财经",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-10/doc-inimwcmc7955739.shtml",
-      "subCategory": "美股",
-      "id": "finance-20260810-x10"
-    },
-    {
-      "title": "芯联集成上半年扁亏背后：扣非净利润为负，应付账款增逐四成",
-      "summary": "芯联集成上半年营敆45.62亿元，同比增长30.53%，净利润2.78亿元同比扁亏，但扣非净利润为负6512.96万元；应付账款增长41.03%至27.66亿元，AI业务营收同比增长84.31%。",
-      "publishedAt": "2026-08-10T22:01:21+08:00",
-      "source": "每日经济新闻",
-      "url": "https://www.nbd.com.cn/articles/2026-08-10/4537658.html",
-      "subCategory": "公司财报",
-      "id": "finance-20260810-x05"
-    },
-    {
-      "title": "大牛股603221，再次停牌核查",
-      "summary": "爱丽家居(603221)发布风险提示及停牌核查公告，自7月21日以来11个交易日累计涨幅185.56%，静态市盈率385.03倍，远超行业均值28.40倍，股票自8月11日起停牌核查。",
-      "publishedAt": "2026-08-10T21:16:00+08:00",
-      "source": "中国基金报",
-      "url": "https://finance.ifeng.com/c/8vU7XUNvkc6",
-      "subCategory": "风险事件",
-      "id": "finance-20260810-x06"
-    },
-    {
-      "title": "8月10日晚间上市公司利好消息一览(附名单)",
-      "summary": "建设机械公告拟发行股份及支付现金收购蒲城清洁能源公司100%股权，股票自8月11日起停牌；甘李药业与Menarini就博凡格鲁能项目达成独家许可协议，首付款6200万欧元。",
-      "publishedAt": "2026-08-10T20:35:00+08:00",
-      "source": "东方财富网",
-      "url": "https://finance.eastmoney.com/a/202608103836854849.html",
-      "subCategory": "一级市场",
-      "id": "finance-20260810-x08"
-    },
-    {
-      "title": "港股收评：恒指涨1.05% 科指涨1.26% 科网股、黄金股普涨 光通信板块回调",
-      "summary": "恒生指数收盘涨1.05%报25937.49点，恒生科技指数涨1.26%，国企指数涨1.06%；科网股普涨，联想涨超3%，京东、哔哩哔哩、阿里巴巴涨超2%，紫金黄金国际涨超5%。",
-      "publishedAt": "2026-08-10T16:09:51+08:00",
-      "source": "新浪财经",
-      "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-08-10/doc-inimvnpm2814282.shtml",
-      "subCategory": "港股",
-      "id": "finance-20260810-x02"
-    },
-    {
-      "title": "利好！A股集体大爆发，盘面淌现一个关键积极信号！",
-      "summary": "上证指数收盘桘0.67%报3966.59点，深证成指涨0.04%，创业板指跌0.73%，两市超4000只个股上涨，军工、能源金属等板块走强，CPO、AI PC等题材调整。",
-      "publishedAt": "2026-08-10T15:34:00+08:00",
-      "source": "新浪财经",
-      "url": "https://finance.sina.com.cn/stock/bxjj/2026-08-10/doc-inimvnpp4864779.shtml",
-      "subCategory": "A股",
-      "id": "finance-20260810-x01"
-    },
-    {
-      "title": "复牌，一字跌停！封单超列万手！这只股票，\"易主\"计划终止",
-      "summary": "宝莱特停牌6天后复牌，开盘即跌停，跌停板封单超十乔17万手；公司控股股东与交易对方终止筹划控制权变更事项，公司称目前经营正常，此举不会对业绩和财务状况产生重大负面影响。",
-      "publishedAt": "2026-08-10T14:55:00+08:00",
-      "source": "券商中国",
-      "url": "https://finance.sina.com.cn/stock/zqgd/2026-08-10/doc-inimvhfp2872396.shtml",
-      "subCategory": "风险事件",
-      "id": "finance-20260810-x07"
-    },
-    {
-      "title": "Oil prices rise as traders assess US-Iran talks on Strait of Hormuz deal",
-      "summary": "布伦特原油10月合约涨1.04%至每栆84.42美元，WTI9月合约涨0.83%至78.83美元；伊朗革命卫队表示将维持霍尔木兹海峽封锁直至美方满足其条件，特朗普称谈判仍处初步阶段。",
-      "publishedAt": "2026-08-10T07:43:00+02:00",
-      "source": "Euronews",
-      "url": "https://www.euronews.com/business/2026/08/10/oil-prices-rise-as-traders-assess-us-iran-talks-on-strait-of-hormuz-deal",
-      "subCategory": "大宗商品",
-      "id": "finance-20260810-x04"
     }
   ]
 }

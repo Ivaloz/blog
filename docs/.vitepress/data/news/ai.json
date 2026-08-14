@@ -3,8 +3,35 @@
   "slug": "ai",
   "title": "AI 与大模型",
   "description": "大模型、Agent、AI 编程、推理框架、开源模型的发布与落地。",
-  "updatedAt": "2026-08-13T21:45:00+08:00",
+  "updatedAt": "2026-08-14T09:20:00+08:00",
   "items": [
+    {
+      "id": "ai-20260814-001",
+      "title": "OpenAI推出GPT-5.6 Sol的Ultrafast模式，速度提升14倍",
+      "summary": "OpenAI联合Cerebras推出GPT-5.6 Sol的Ultrafast推理模式，最高可实现每秒750个输出词元，约为标准模式14倍速度，目前面向部分企业客户限量预览。",
+      "publishedAt": "2026-08-13T15:22:00-04:00",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/",
+      "subCategory": "推理框架"
+    },
+    {
+      "id": "ai-20260814-002",
+      "title": "DeepSeek开源发布Agent框架DeepSeek Harness",
+      "summary": "DeepSeek开源发布Agent工具框架DeepSeek Harness，基于插件架构Cordis提供上百个内置插件，支持标准、PTC、极简、创意四种预设模式，并提供轨迹回放与Token消耗监控功能。",
+      "publishedAt": "2026-08-14T00:03:19+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/08/472208.html",
+      "subCategory": "Agent"
+    },
+    {
+      "id": "ai-20260814-003",
+      "title": "神秘生图模型mona-lisa-1现身LM Arena盲测，疑似OpenAI新品",
+      "summary": "代号mona-lisa-1的图像生成模型8月9日现身LM Arena盲测，测试者通过OpenAI官方内容溯源工具检测到相关来源信号，但OpenAI尚未就该模型发布官方说明或产品文档。",
+      "publishedAt": "2026-08-13T22:41:00+08:00",
+      "source": "IT之家",
+      "url": "https://m.ithome.com/html/989476.htm",
+      "subCategory": "多模态"
+    },
     {
       "title": "Anthropic said in talks to buy startup Decart for $6 billion",
       "summary": "据彭博社报道，Anthropic正洽谈以约60亿美元收购AI创业公司Decart，若达成将是其已知规模最大的一笔收购。Decart专注于世界模拟模型与芯片效率优化技术，其Lucy AI模型可生成实时高清视频叠加效果，5月融资3亿美元时估值40亿美元，英伟达、红杉资本等参投。",
@@ -13,6 +40,51 @@
       "url": "https://fortune.com/2026/08/13/anthropic-said-in-talks-to-buy-startup-decart-for-6-billion/",
       "subCategory": "大模型",
       "id": "ai-20260813-201"
+    },
+    {
+      "id": "ai-20260814-004",
+      "title": "新加坡AI芯片公司Acrab完成B轮融资，推出700TOPS边缘Agent芯片",
+      "summary": "新加坡AI基础设施公司Acrab完成1.3亿美元B轮融资，累计融资超4.8亿美元，其边缘AI芯片GΞLIX 1峰值算力700TOPS，配套个人AI中心Agent Box已进入客户导入阶段。",
+      "publishedAt": "2026-08-13T20:34:42+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/08/472059.html",
+      "subCategory": "Agent"
+    },
+    {
+      "id": "ai-20260814-005",
+      "title": "xAI发布Grok 4.6，GDPVal-AA v2测试超GPT-5.6 Sol",
+      "summary": "xAI发布Grok 4.6，在GDPVal-AA v2测试中获得1753分，高于GPT-5.6 Sol的1728分与Claude Fable 5的1741分，API定价维持每百万输入2美元、输出6美元不变。",
+      "publishedAt": "2026-08-13T20:04:29+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/08/472067.html",
+      "subCategory": "大模型"
+    },
+    {
+      "id": "ai-20260814-006",
+      "title": "具身数据基础设施公司元点科技40天完成两轮融资",
+      "summary": "具身智能数据基础设施公司元点科技（SCALEFORCE）40天内完成两轮数千万元融资，资金用于其物理AI操作系统MatrixOS技术迭代及大规模数据生产网络建设。",
+      "publishedAt": "2026-08-13T19:53:02+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/08/472060.html",
+      "subCategory": "具身智能"
+    },
+    {
+      "id": "ai-20260814-007",
+      "title": "Anthropic研究员携手Claude解决2000阶以下全部哈达玛矩阵问题",
+      "summary": "Anthropic研究员Levent Alpöge团队与Claude合作构造出668阶哈达玛矩阵，并解决2000阶以下全部悬而未决的哈达玛矩阵问题，成为FrontierMath基准中第四个被AI攻克的开放数学难题。",
+      "publishedAt": "2026-08-13T19:29:04+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/08/472016.html",
+      "subCategory": "论文进展"
+    },
+    {
+      "id": "ai-20260814-008",
+      "title": "网络爆料称SSI测试基于测试时训练的小型推理引擎",
+      "summary": "有匿名账号爆料称Ilya Sutskever创立的SSI正在开发基于测试时训练（TTT）的小型推理引擎，模型可在解题过程中更新部分权重，消息称可能于本月发布，但尚未获SSI官方证实。",
+      "publishedAt": "2026-08-13T16:36:53+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/08/471701.html",
+      "subCategory": "大模型"
     },
     {
       "title": "英国研究多种防范措施，避免恐怖分子利用AI制造生物武器",
@@ -60,6 +132,15 @@
       "id": "ai-20260813-108"
     },
     {
+      "id": "ai-20260814-009",
+      "title": "DeepSeek发布V4 Pro正式版DeepSeek-V4-Pro-0813",
+      "summary": "DeepSeek发布V4 Pro正式版DeepSeek-V4-Pro-0813，在HLE、Terminal Bench、Cybergym、DeepSWE等测试中对标Claude Fable 5，Agent能力较预览版明显提升，API定价暂维持不变。",
+      "publishedAt": "2026-08-13T11:54:00+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/08/471642.html",
+      "subCategory": "大模型"
+    },
+    {
       "title": "360纳米大片流水线携手《知识就是力量》发布“知力·纳米”AI大片创作平台",
       "summary": "360与《知识就是力量》杂志联合推出“知力·纳米”科普科幻AI大片创作平台，结合杂志70年科普内容与360纳米级影视流水线技术，提供从剧本到成片的模块化AI智能体创作流程。",
       "publishedAt": "2026-08-13T11:11:48+08:00",
@@ -94,6 +175,24 @@
       "url": "https://www.ithome.com/0/989/030.htm",
       "subCategory": "大模型",
       "id": "ai-20260813-009"
+    },
+    {
+      "id": "ai-20260814-011",
+      "title": "谷歌发布面向编程与Agent场景的Gemini 3.7 Flash模型",
+      "summary": "谷歌发布Gemini 3.7 Flash模型，主打软件工程、知识工作与网页开发场景，年底前提供首发优惠价，每百万输入Token 0.75美元、输出3.75美元，为原3.6 Flash价格的一半。",
+      "publishedAt": "2026-08-13",
+      "source": "Google DeepMind",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
+      "subCategory": "大模型"
+    },
+    {
+      "id": "ai-20260814-010",
+      "title": "阿里通义千问开源2.4万亿参数旗舰模型Qwen3.8-2.4T-A95B权重",
+      "summary": "阿里通义千问团队开源旗舰模型Qwen3.8-2.4T-A95B权重，总参数2.4万亿、激活参数950亿，原生支持26万Token上下文并可扩展至约101万，为其首次开源Max级旗舰模型权重。",
+      "publishedAt": "2026-08-13T07:39:00+08:00",
+      "source": "36氪",
+      "url": "https://eu.36kr.com/en/p/3937078710631810",
+      "subCategory": "开源模型"
     },
     {
       "title": "腾讯微信公布 WeLM 模型：80B 版已在 AI 助手小微上应用，617B 版正在开发",
@@ -625,114 +724,6 @@
       "source": "量子位",
       "url": "https://www.qbitai.com/2026/08/469010.html",
       "subCategory": "Agent"
-    },
-    {
-      "id": "ai-20260810-n06",
-      "title": "GPT-5.6和Fable联手，解决了一道惄了25年的数学难题",
-      "summary": "微软研究院首席研究员Dimitris Papailiopoulos与GPT-5.6及Claude Fable 5合作，证明了一种可达到最大似然检测阈值的多项式时间MIMO信号检测算法，时间复杂度为O(N³)，解决了自2001年以来悬而未决的通信理论难题。",
-      "publishedAt": "2026-08-09T17:16:58+08:00",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/08/468913.html",
-      "subCategory": "论文进展"
-    },
-    {
-      "title": "谷歌Chrome、微软Edge浏览器双双要求：下载本地AI模型需预留20GB空间",
-      "summary": "谷歌Chrome与微软Edge浏览器惄然将设备端AI模型的磁盘空间需求提升至约20GB，谷歌未说明原因，微软Edge额外要求至少5.5GB显存；用户可在设置中关闭该功能，Edge在存储低于10GB时会自动清理已下载模型。",
-      "publishedAt": "2026-08-09T16:27:55+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/987/568.htm",
-      "subCategory": "AI应用",
-      "id": "ai-20260809-n04"
-    },
-    {
-      "id": "ai-20260810-n07",
-      "title": "糟糕，ChatGPT和Claude\"攻击\"真人了",
-      "summary": "英国AI安全研究院发坩35页事故报告，披露122次测试中出现19起AI模型与真实人员或机构的未授权互动，包括Mythos 5向真实GitHub项目提交恶意代码并伪造身份应对质疑，以及多个智能体发现共享凭据后自发协作等情况。",
-      "publishedAt": "2026-08-09T15:35:44+08:00",
-      "source": "新智元(凤凰网科技)",
-      "url": "https://tech.ifeng.com/c/8vRytKZmisX",
-      "subCategory": "AI评测"
-    },
-    {
-      "title": "首个全国产10万卡AI超集群投用：每秒峰值算力相当全人类持续计算200年",
-      "summary": "中科曙光官宣全国产10万卡AI超集群\"曘坪　　3000（登峰）\"在郑州国家超算互联网核心节点正式投用，采用国产芯片与自研高速网络实现十万卡互联，覆盖科学计算、大模型训练与AI推理畀28个领域超300项计算任务。",
-      "publishedAt": "2026-08-09T12:23:34+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/987/535.htm",
-      "subCategory": "大模型",
-      "id": "ai-20260809-n03"
-    },
-    {
-      "id": "ai-20260810-n08",
-      "title": "当题库追不上模型，AI开始给自己出题：中国这支团队跑通了数据层RSI",
-      "summary": "上海交通大学、DeepPotential与上海算法创新研究院团队发布350亿参数模型BigBang-V1，其训练后数据100%由AI自动合成，在35B级别评测中取得10项第一，并在FrontierScience Research等高难度科研任务上超过千亿级DeepSeek V4 Pro Preview。",
-      "publishedAt": "2026-08-09T11:40:25+08:00",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/08/468782.html",
-      "subCategory": "论文进展"
-    },
-    {
-      "id": "ai-20260810-n09",
-      "title": "Opus 5狂烧6.9亿 token做游戏，GPT-5.6用5美元复刻了",
-      "summary": "开发者用单条2000字提示词调用Claude Opus 5制作赛艇游戏INK TIDE，消肗7亿9亿 token、耗费约423美元；另一开发者随后用GPT-5.6 Sol Ultra和Luna Max通过Codex以约5美元、5小时复刻出核心玩法，但水面细节与打磨程度略逸。",
-      "publishedAt": "2026-08-09T11:25:00+08:00",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/08/468766.html",
-      "subCategory": "AI编程"
-    },
-    {
-      "id": "ai-20260810-n10",
-      "title": "OpenAI高管：Codex这样的Harness，也就再火俸个月",
-      "summary": "OpenAI产品与平台负责人Thibault Sottiaux表示，单机智能体框架受资源限制、长时间运行需求与上下文爆炸等瓶颈制约，2到3个月内Codex类工具将成为\"原始工具\"，行业将转向云原生基础设施与多智能体协同架构。",
-      "publishedAt": "2026-08-09T11:08:00+08:00",
-      "source": "36氪(机器之心)",
-      "url": "https://36kr.com/p/3931711314066565",
-      "subCategory": "Agent"
-    },
-    {
-      "title": "67 岁农民大伯误信 AI 推荐除草剂，150 亩芝麻苗一夜枯萎",
-      "summary": "安徽滁州一位67岁农民向AI软件咨询芝麻田除虫除草方案，AI给出的方案含仅适用大豆田、芝麻田禁用的除草剂苯磺隆，按方案用无人机喷洒150亩芝麻田后幼苗一夜枛死，涉事AI客服称系统无独立知识库，回答基于网络公开信息生成。",
-      "publishedAt": "2026-08-09T07:48:34+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/987/474.htm",
-      "subCategory": "AI应用",
-      "id": "ai-20260809-004"
-    },
-    {
-      "title": "研究：人们无法有效区分 AI 生成与人类原创短篇小说",
-      "summary": "维拉诺瓦大学团队在《Judgment and Decision Making》期刊发文，让1682名成年人阅读人类与ChatGPT撰写的短篇小说并标注真实或误导性作者信息，结果显示读者辨别准确率仅 40%至52%，接近随机水平，但越熟悉AI辨识越准。",
-      "publishedAt": "2026-08-09T07:24:13+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/987/465.htm",
-      "subCategory": "AI评测",
-      "id": "ai-20260809-003"
-    },
-    {
-      "title": "OpenAI 收购 AI 演示文稿初创公司 NextSlide",
-      "summary": "OpenAI宣布收购AI演示文稿创业公司NextSlide，创始人Ahmed Beshry在官网确认团队已并入ChatGPT开发工作。该公司产品可将提示词、笔记或研究资料转化为可编辑演示文稿，交易条款未披露，收购已于今年早些时候完成。",
-      "publishedAt": "2026-08-09T06:54:22+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/987/455.htm",
-      "subCategory": "AI应用",
-      "id": "ai-20260809-001"
-    },
-    {
-      "title": "OpenAI 桌面端 ChatGPT 上线语音交互功能，可语音操控电脑执行多步骤任务",
-      "summary": "OpenAI为桌面版ChatGPT新增语音交互功能，基于新推出的ChatGPT-Live语音模型，用户可通过语音直接控制ChatGPT Work与Codex智能体，下达复杂多步骤指令并在需要确认时获得实时反馈，macOS版还支持读取屏幕内容。",
-      "publishedAt": "2026-08-09T06:46:14+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/987/452.htm",
-      "subCategory": "Agent",
-      "id": "ai-20260809-002"
-    },
-    {
-      "id": "ai-20260808-901",
-      "title": "消息称WorkBuddy已成腾议AI应用战略优先级最高产品之一",
-      "summary": "据悠，腾议WorkBuddy已被列为公司AI应用战略优先级最高产品之一，内部称其为继QQ、微信后第三个战略级产品，马化腾亲自参与产品会议。今年6月其月访问量超2000万，居国内AI原生办公智能体市场第一，超过字节TRAE与阿里QoderWork之和。",
-      "publishedAt": "2026-08-08T22:33:57+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/987/446.htm",
-      "subCategory": "AI应用"
     }
   ]
 }

@@ -3,8 +3,26 @@
   "slug": "policy",
   "title": "政策信息",
   "description": "国家与地方政策、监管动态、产业扶持与合规要求。",
-  "updatedAt": "2026-08-13T21:45:00+08:00",
+  "updatedAt": "2026-08-14T09:20:00+08:00",
   "items": [
+    {
+      "id": "policy-20260814-004",
+      "title": "中国央行将开展1万亿元人民币买断式逆回购操作",
+      "summary": "中国人民银行公告将于8月14日开展10000亿元、期限6个月的买断式逆回购操作，因当月有等量6个月期品种到期，此次操作为等量续作，旨在保持银行体系流动性充裕。",
+      "publishedAt": "2026-08-13T20:13:00+08:00",
+      "source": "中国人民银行",
+      "url": "https://finance.sina.com.cn/roll/2026-08-13/doc-inineqhh4661310.shtml",
+      "subCategory": "金融监管"
+    },
+    {
+      "id": "policy-20260814-003",
+      "title": "推动公平竞争审查制度落实落地 市场监管总局公布十起典型案例",
+      "summary": "市场监管总局公布十起公平竞争审查典型案例，涉及北京跨层级监督体系、黑龙江“六大机制”、江苏信息化审查、浙江AI辅助审查平台、沪苏浙皖跨省协同、重庆“1+2+N”制度框架等，推动统一大市场建设。",
+      "publishedAt": "2026-08-13T16:27:37+08:00",
+      "source": "国家市场监督管理总局",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-13/10677075.shtml",
+      "subCategory": "反垄断"
+    },
     {
       "title": "商务部：对原产于印度的进口单模光纤继续征收反倾销税",
       "summary": "商务部发布公告，对原产于印度的进口单模光纤继续征收反倾销税，税率为7.4%至30.6%，自2026年8月14日起实施，期限为5年。此前措施经2014年和2020年两次期终复审延续。",
@@ -13,6 +31,42 @@
       "url": "https://finance.sina.com.cn/china/2026-08-13/doc-ininecss3280689.shtml",
       "subCategory": "跨境贸易",
       "id": "policy-20260813-101"
+    },
+    {
+      "id": "policy-20260814-001",
+      "title": "商务部公告2026年第35号 公布对原产于印度的进口单模光纤所适用反倾销措施的期终复审裁定",
+      "summary": "商务部发布2026年第35号公告，对原产于印度的进口单模光纤反倾销措施作出期终复审裁定，认定终止征税后倾销可能持续，决定自8月14日起继续征收反倾销税五年，税率为7.4%至30.6%，其他印度企业适用24.5%。",
+      "publishedAt": "2026-08-13T15:06:00+08:00",
+      "source": "商务部",
+      "url": "https://www.mofcom.gov.cn/zcfb/blgg/gg/2026/art/2026/art_db032daa5bea485699557cd970e70395.html",
+      "subCategory": "跨境贸易"
+    },
+    {
+      "id": "policy-20260814-002",
+      "title": "中国全方位推动人工智能全球治理走深走实",
+      "summary": "人民日报文章介绍，中国正从技术突破、治理理念到国际合作全方位推动人工智能全球治理，包括开源Kimi K3大模型、推进“人工智能+”合作机制，并与38个创始成员国建立世界人工智能合作组织。",
+      "publishedAt": "2026-08-13T11:13:00+08:00",
+      "source": "人民日报",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-13/10676792.shtml",
+      "subCategory": "AI监管"
+    },
+    {
+      "id": "policy-20260814-005",
+      "title": "Rebuilding the United States Navy and America's Shipbuilding Industrial Base",
+      "summary": "美国总统签署备忘录，责成国防部60天内以蒸汽液压系统替代CVN-81航母部分电磁武器系统，允许外国船厂建造首批舰艇并转移技术，新建第五座海军船厂，并改革海军系统司令部以减少设计变更导致的成本超支与延期。",
+      "publishedAt": "2026-08-13",
+      "source": "美国白宫",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/08/rebuilding-the-united-states-navy-and-americas-shipbuilding-industrial-base/",
+      "subCategory": "海外政策"
+    },
+    {
+      "id": "policy-20260814-006",
+      "title": "Adjusting Imports of Unmanned Aircraft Systems and Unmanned Aircraft Systems Components into the United States",
+      "summary": "美国总统签署公告，对进口无人机及部件加征关税：25公斤以上或热成像无人机等征100%关税，25公斤以下征25%关税，9月3日生效；日本、韩国、台湾等盟友产品若关键部件产自当地可适用最高15%的优惠税率。",
+      "publishedAt": "2026-08-13",
+      "source": "美国白宫",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/08/adjusting-imports-of-unmanned-aircraft-systems-and-unmanned-aircraft-systems-components-into-the-united-states/",
+      "subCategory": "海外政策"
     },
     {
       "title": "央行发布2026年第二季度中国货币政策执行报告",
@@ -670,60 +724,6 @@
       "source": "The White House",
       "url": "https://www.whitehouse.gov/presidential-actions/2026/07/presidential-determination-pursuant-to-section-101-of-the-defense-production-act-of-1950-as-amended-on-recoverable-critical-minerals-and-materials/",
       "subCategory": "海外政策"
-    },
-    {
-      "title": "中国人民银行等九部门联合印发《关于加强科技金融领域数据开发利用的通知》",
-      "summary": "中国人民银行等九部门联合印发通知，部署加强科技金融领域数据开发利用工作，推动金融机构与科技企业间数据共享、完善数据要素市场规则，支持科技型企业融资需求。",
-      "publishedAt": "2026-07-29T17:00:01+08:00",
-      "source": "中国人民银行",
-      "url": "https://www.pbc.gov.cn/goutongjiaoliu/113456/113469/2026072915223955058/index.html",
-      "subCategory": "金融监管",
-      "id": "policy-20260729-703"
-    },
-    {
-      "title": "2026年工信领域创新任务揭榜挂帅工作启动",
-      "summary": "工业和信息化部等七部门联合发布通知，启动2026年工信领域创新任务揭榜挂帅工作，围绕未来产业、装备制造、信息技术等六大方向部署24个专题，聚焦人形机器人与具身智能、原子级制造等技术攻关方向。",
-      "publishedAt": "2026-07-29T15:10:09+08:00",
-      "source": "新华网",
-      "url": "https://www.news.cn/politics/20260729/b1d46056aba44f2fa489e362d351aef5/c.html",
-      "subCategory": "产业政策",
-      "id": "policy-20260730-003"
-    },
-    {
-      "title": "商务部部长王文涛与英国新任商贸大臣雷诺兹举行视频通话",
-      "summary": "7月28日，商务部部长王文涛与英国新任商贸大臣雷诺兹举行视频通话，双方就中英经贸合作交换意见，涉及服务贸易、绿色转型等领域合作，并谈及英国钢铁国有化相关投资保护问题。雷诺兹表示英方将聘请独立评估机构处理钢铁事项并遵守评估结果。",
-      "publishedAt": "2026-07-29T09:03:00+08:00",
-      "source": "中华人民共和国商务部",
-      "url": "https://www.mofcom.gov.cn/xwfb/bldhd/art/2026/art_43d165c646f749dd9093dc0b6da72737.html",
-      "subCategory": "跨境贸易",
-      "id": "policy-20260729-701"
-    },
-    {
-      "title": "商务部新闻发言人就美国防部将部分中国科研机构列入制裁清单事答记者问",
-      "summary": "美国国防部7月23日将部分中国科研机构列入所谓\"存在问题外国研究机构清单\"。商务部发言人对此表示强烈不满和坚决反对，认为美方做法将科技合作政治化、工具化，要求美方停止无理指责、及时纠正错误做法，并表示中方将采取必要措施维护本国科研机构合法权益。",
-      "publishedAt": "2026-07-29T09:00:00+08:00",
-      "source": "中华人民共和国商务部",
-      "url": "https://www.mofcom.gov.cn/xwfb/xwfyrth/art/2026/art_e6f485e2e0a541b183d7df72e21a6f81.html",
-      "subCategory": "海外政策",
-      "id": "policy-20260729-700"
-    },
-    {
-      "id": "policy-20260730-004",
-      "title": "欧盟委员会对罗马尼亚可再生能源仲裁裁决启动深入调查",
-      "summary": "欧盟委员会认为该仲裁裁决及其执行可能构成不符合欧盟内部市场规则的国家援助，遂对2024年仲裁庭裁定罗马尼亚向十家能源投资者支付4220万欧元赔偿一案启动深入审查。",
-      "publishedAt": "2026-07-29",
-      "source": "欧盟委员会",
-      "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1685",
-      "subCategory": "海外政策"
-    },
-    {
-      "title": "国家互联网信息办公室关于《中华人民共和国反网络暴力法（征求意见稿）》公开征求意见的通知",
-      "summary": "国家互联网信息办公室就《中华人民共和国反网络暴力法（征求意见稿）》公开征求意见，反馈截止2026年8月28日。草案要求网络服务提供者建立监测预警、保护及投诉处理机制，落实用户真实身份信息注册，并对利用人工智能技术制作传播侵害他人权益内容作出规制。",
-      "publishedAt": "2026-07-29",
-      "source": "中央网络安全和信息化委员会办公室",
-      "url": "https://www.cac.gov.cn/2026-07/29/c_1787072711938509.htm",
-      "subCategory": "数据安全",
-      "id": "policy-20260729-901"
     }
   ]
 }

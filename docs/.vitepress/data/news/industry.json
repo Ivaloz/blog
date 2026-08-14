@@ -3,8 +3,80 @@
   "slug": "industry",
   "title": "行业新闻",
   "description": "企业服务、SaaS、云计算、制造业、消费互联网的产业动态。",
-  "updatedAt": "2026-08-13T21:45:00+08:00",
+  "updatedAt": "2026-08-14T09:20:00+08:00",
   "items": [
+    {
+      "id": "industry-20260814-005",
+      "title": "洛图科技：2026上半年中国消费级平板销量1278.7万台，同比下降18.6%",
+      "summary": "洛图科技数据显示，2026年上半年中国消费级平板电脑销量1278.7万台，同比下降18.6%，苹果以33.3%份额居首，华为、小米分列二三位，线上渠道占比超六成。",
+      "publishedAt": "2026-08-13T20:52:00+08:00",
+      "source": "洛图科技",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-08-13/doc-inineqhn3221185.shtml",
+      "subCategory": "消费零售"
+    },
+    {
+      "id": "industry-20260814-007",
+      "title": "eCarsTrade：2026年全球自动驾驶汽车普及准备度排名中国第一，美国第二",
+      "summary": "eCarsTrade发布2026年全球自动驾驶汽车普及准备度排名，中国居首、美国第二，中国Robotaxi累计订单超1700万单，百度Apollo Go已在27个城市提供服务。",
+      "publishedAt": "2026-08-13T20:52:00+08:00",
+      "source": "eCarsTrade",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-08-13/doc-inineqhm3409723.shtml",
+      "subCategory": "新能源汽车"
+    },
+    {
+      "id": "industry-20260814-008",
+      "title": "Lansweeper：2026年企业Win10占比16.9%，较2025年初降33个百分点",
+      "summary": "Lansweeper数据显示，2026年企业端Windows 10占比降至16.9%，较2025年初的约50%大幅下降，约14%设备购买了扩展支持更新，仍有约2%设备处于无保护状态。",
+      "publishedAt": "2026-08-13T20:52:00+08:00",
+      "source": "Lansweeper",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-08-13/doc-inineqhh4682325.shtml",
+      "subCategory": "企业服务"
+    },
+    {
+      "id": "industry-20260814-001",
+      "title": "IDC：2026年Q2中国平板电脑出货量796万台，同比下降4.4%",
+      "summary": "IDC数据显示，2026年第二季度中国平板电脑出货量796万台，同比下降4.4%，其中消费级市场下滑9.8%，商用市场因备货需求增长，华为保持出货量第一，苹果、联想分列二三位。",
+      "publishedAt": "2026-08-13T20:22:00+08:00",
+      "source": "IDC",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-08-13/doc-inineqhh4665288.shtml",
+      "subCategory": "行业研报"
+    },
+    {
+      "id": "industry-20260814-002",
+      "title": "Counterpoint：2026年Q2全球NAND市场长江存储出货容量份额14%升至第三",
+      "summary": "Counterpoint数据显示，2026年第二季度全球NAND市场中三星份额25%、SK海力士22%，长江存储升至14%排名第三，出货容量同比增长22%，首次超过铠侠。",
+      "publishedAt": "2026-08-13T20:22:00+08:00",
+      "source": "Counterpoint Research",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-08-13/doc-inineqhh4665306.shtml",
+      "subCategory": "半导体产业"
+    },
+    {
+      "id": "industry-20260814-003",
+      "title": "TrendForce：2026年Q2全球OLED显示器出货量环比增长26.1%，同比增长98%",
+      "summary": "TrendForce数据显示，2026年第二季度全球OLED显示器出货量环比增长26.1%，同比增长98%，华硕以23.1%份额领先，三星与微星份额差距缩小至0.3个百分点。",
+      "publishedAt": "2026-08-13T20:22:00+08:00",
+      "source": "TrendForce",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-08-13/doc-inineqhm3392701.shtml",
+      "subCategory": "行业研报"
+    },
+    {
+      "id": "industry-20260814-004",
+      "title": "Omdia：2026年Q2中东地区智能手机出货量1060万部，同比下降19%",
+      "summary": "Omdia数据显示，2026年第二季度中东智能手机出货量1060万部，同比下降19%，平均售价448美元同比上涨25%，三星以39%份额居首，荣耀增速排名第二。",
+      "publishedAt": "2026-08-13T20:22:00+08:00",
+      "source": "Omdia",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-08-13/doc-inineqhp9978823.shtml",
+      "subCategory": "行业研报"
+    },
+    {
+      "id": "industry-20260814-006",
+      "title": "联想集团：2026/27财年Q1营收269.43亿美元，同比增长43%",
+      "summary": "联想集团公布2026/27财年第一财季业绩，营收269.43亿美元，同比增长43%，经调整净利润10.75亿美元，同比增长176%，基础设施方案业务收入同比增长98%。",
+      "publishedAt": "2026-08-13T20:22:00+08:00",
+      "source": "联想集团",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-08-13/doc-inineqhm3392693.shtml",
+      "subCategory": "公司动态"
+    },
     {
       "title": "IDC：第二季度中国平板电脑市场华为、苹果、联想前三",
       "summary": "IDC数据显示，2026年第二季度中国平板电脑市场出货796万台，同比下降4.4%，消费市场下滑9.8%，商用市场增长67.1%。华为、苹果、联想位列出货量前三，成本上涨压力预计延续至2027年。",
@@ -15,15 +87,6 @@
       "id": "industry-20260813-101"
     },
     {
-      "title": "CX Network：2026年亚太地区客户体验报告",
-      "summary": "CX Network基于119位亚太客户体验从业者的调研发布报告，35%受访者将AI驱动运营列为最重要趋势，49%企业预计客户体验预算将增长，54%已建立组织级AI治理体系。",
-      "publishedAt": "2026-08-13",
-      "source": "199IT",
-      "url": "https://www.199it.com/archives/1828976.html",
-      "subCategory": "企业服务",
-      "id": "industry-20260813-102"
-    },
-    {
       "title": "代理式AI重塑旅游业：从智能助手迈向自主决策",
       "summary": "行业报告指出，代理式AI凭借自主规划与多步骤推理能力正推动旅游业从效率工具迈向业务执行者，59%高管认为其提升员工效率，超九成用户信任AI提供的旅行信息，但仅2%消费者愿意完全交由AI处理预订。",
       "publishedAt": "2026-08-13",
@@ -31,6 +94,24 @@
       "url": "https://www.199it.com/archives/1786338.html",
       "subCategory": "行业研报",
       "id": "industry-20260813-103"
+    },
+    {
+      "id": "industry-20260814-011",
+      "title": "CX Network：2026年亚太地区客户体验报告",
+      "summary": "CX Network调研119位亚太地区客户体验从业者显示，35%受访企业将AI驱动运营列为未来首要趋势，49%企业预计2026年客户体验预算将增加，54%已建立组织级AI治理体系。",
+      "publishedAt": "2026-08-13T04:52:00+08:00",
+      "source": "CX Network",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-08-13/doc-inincafe3604380.shtml",
+      "subCategory": "企业服务"
+    },
+    {
+      "id": "industry-20260814-010",
+      "title": "Omdia：2026年全球XR头戴设备出货量将下降12%",
+      "summary": "Omdia预测，2026年全球XR头戴设备出货量将同比下降12%至620万台，独立式头显降幅达15%，而有线XR眼镜出货量同比增长19%至90万副，2027年市场预计恢复增长。",
+      "publishedAt": "2026-08-13T02:22:00+08:00",
+      "source": "Omdia",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-08-13/doc-ininavxf3787636.shtml",
+      "subCategory": "消费零售"
     },
     {
       "title": "Counterpoint：今年前 30 周中国智能手机销量同比下降 8.6%，华为继续领跑市场",
@@ -247,6 +328,15 @@
       "source": "199IT（快科技）",
       "url": "https://www.199it.com/archives/1844938.html",
       "subCategory": "公司动态"
+    },
+    {
+      "id": "industry-20260814-012",
+      "title": "Vaderis Therapeutics完成1.52亿美元超额认购B轮融资",
+      "summary": "瑞士生物制药公司Vaderis Therapeutics宣布完成1.52亿美元超额认购B轮融资，由高盛另类投资与TCGX领投，用于推进engasertib治疗遗传性出血性毛细血管扩张症的全球三期HEROIC研究。",
+      "publishedAt": "2026-08-11T07:00:00-04:00",
+      "source": "Vaderis Therapeutics",
+      "url": "https://www.prnewswire.com/news-releases/vaderis-therapeutics-announces-oversubscribed-152-million-series-b-financing-and-initiation-of-the-global-phase-3-heroic-study-of-engasertib-for-hereditary-hemorrhagic-telangiectasia-302845188.html",
+      "subCategory": "医疗健康"
     },
     {
       "id": "industry-20260811-006",
@@ -616,114 +706,6 @@
       "url": "https://www.macrumors.com/2026/08/07/apple-captures-65-percent-of-global-premium-market/",
       "subCategory": "行业研报",
       "id": "industry-20260807-n01"
-    },
-    {
-      "title": "中国运动相机半年销量312万台！大畿杀疯了 一家拿下74%市场",
-      "summary": "数据显示，2026年上半年中国运动相机市场销量312万台，同比增长超90%；大畿以74.0%销量份额及80.9%销售额份额居首，与影石合计占据近九成市场，GoPro份额持续下滑。",
-      "publishedAt": "2026-08-07T15:10:01+08:00",
-      "source": "凤凰网科技",
-      "url": "https://tech.ifeng.com/c/8vNKKmrjMj7",
-      "subCategory": "消费零售",
-      "id": "industry-20260807-n02"
-    },
-    {
-      "id": "industry-20260807-101",
-      "title": "WSTS数据：全球半导体市场规模2026H1同比翻倍，超7000亿美元",
-      "summary": "据世界半导体贸易统计组织WSTS数据，2026年上半年全球半导体市场规模约7020亿美元，同比翻倍；存储芯片增长305%，逻辑芯片增长45%。机构将2026全年预测上调至1.655万亿美元，同比增长108%，2027年预计达2.1万亿美元。",
-      "publishedAt": "2026-08-07T13:54:35+08:00",
-      "source": "IT之家（WSTS）",
-      "url": "https://www.ithome.com/0/986/946.htm",
-      "subCategory": "半导体产业"
-    },
-    {
-      "title": "上半年全球动力电池装机量排名：宁德时代断档式第一 前五中中国厂商占了四家",
-      "summary": "上半年全球动力电池装机量合计608.5GWh，同比增长20%；宁德时代以242.7GWh稳居全球第一，市场份额升至39.9%，比亚迪以87.7GWh排名第二，中国厂商占据前五席位中四席。",
-      "publishedAt": "2026-08-07T10:53:00+08:00",
-      "source": "新浪科技",
-      "url": "https://finance.sina.com.cn/tech/roll/2026-08-07/doc-inimnenp3299097.shtml",
-      "subCategory": "新能源汽车",
-      "id": "industry-20260807-n04"
-    },
-    {
-      "id": "industry-20260808-002",
-      "title": "比亚迪1-7月海外销量约97万辆 逼近奇瑞出口量",
-      "summary": "比亚迪前7个月海外累计销量约97万辆，同比增长约76%，其中7月单月出口17.98万辆，同比增长124.3%；海外销量占公司总销量比例由去年23%升至43%。",
-      "publishedAt": "2026-08-07T10:04:43+08:00",
-      "source": "中华网",
-      "url": "https://news.china.com/socialgd/10000169/20260807/49660367.html",
-      "subCategory": "新能源汽车"
-    },
-    {
-      "title": "Global Semiconductor Sales Jump 35% in Second Quarter",
-      "summary": "美国半导体行业协会（SIA）数据显示，2026年第二季度全球半导体销售额达4033亿美元，环比增长35.1%；6月单月销售额1345亿美元，同比增长123.6%，全年销售额预计将超1.5万亿美元。",
-      "publishedAt": "2026-08-07",
-      "source": "Semiconductor Industry Association（经CircuitsAssembly转载）",
-      "url": "https://www.circuitsassembly.com/ca/editorial/menu-news/43514-global-semiconductor-sales-jump-35-in-second-quarter.html",
-      "subCategory": "半导体产业",
-      "id": "industry-20260807-n03"
-    },
-    {
-      "title": "SensorTower：2026年动作和策略游戏应用报告",
-      "summary": "SensorTower报告显示，2025年全球动作策略类游戏总下载量达460亿次，移动端内购收入约420亿美元，Steam端收入同比增长15%；头郉10家发行商占据近半收入，中小厂商增长空间持续收窄。",
-      "publishedAt": "2026-08-07T06:07:00+08:00",
-      "source": "新浪财经（199IT）",
-      "url": "https://finance.sina.com.cn/tech/roll/2026-08-07/doc-inimmtwv0150091.shtml",
-      "subCategory": "行业研报",
-      "id": "industry-20260809-005"
-    },
-    {
-      "title": "SpaceX、特斯拉官宣投资168亿美元，地球最大芯片厂有新进展",
-      "summary": "SpaceX与特斯拉宣布在得克萨斯州格莱姆斯县投资168亿美元建设Terafab芯片厂，总投入或达1190亿美元，厂区规划面积超1亿平方英尺，年产能达1太瓦，将生产用于Optimus机器人及太空数据中心的芯片。",
-      "publishedAt": "2026-08-07T01:25:03+08:00",
-      "source": "凤凰网财经",
-      "url": "https://finance.ifeng.com/c/8vNf4SmYzWh",
-      "subCategory": "半导体产业",
-      "id": "industry-20260808-009"
-    },
-    {
-      "id": "industry-20260806-953",
-      "title": "AI算力\"吃掉\"高端MLCC产能，三大日韩巨头业绩大增",
-      "summary": "AI服务器需求带动MLCC行业利润增长，2026年二季度村田、三星电机、太阳诱电营业利润均明显提升，高容量、高可靠性MLCC产品营收占比上升，供应持续紧张促使厂商新一轮涨价，三星电子已宣布自8月1日起价格上调30%。",
-      "publishedAt": "2026-08-06T23:08:01+08:00",
-      "source": "第一财经",
-      "url": "https://www.yicai.com/news/103308601.html",
-      "subCategory": "半导体产业"
-    },
-    {
-      "title": "中国重回韩国第一大出口市场 半导体超级周期助力",
-      "summary": "韩国7月出口989.9亿美元，同比增长62.8%；半导体出口410.1亿美元，同比暴增178.8%，连续两个月超400亿美元；对华出口216.8亿美元反超美国，重回韩国第一大出口市场。",
-      "publishedAt": "2026-08-06T18:02:32+08:00",
-      "source": "中华网",
-      "url": "https://news.china.com/socialgd/10000169/20260806/49659188.html",
-      "subCategory": "半导体产业",
-      "id": "industry-20260806-n01"
-    },
-    {
-      "title": "上半年我国连锁餐饮行业经营显现韧性",
-      "summary": "中国连锁经营协会简报显示，2026年上半年超七成样本连锁餐饮企业销售额同比增长或持平，六成企业门店数量净增长，58.7%企业净利润增长或持平，54.4%企业外卖订单占比超三成，行业转向质量深耕。",
-      "publishedAt": "2026-08-06T17:45:00+08:00",
-      "source": "新华社",
-      "url": "https://baijiahao.baidu.com/s?id=1872766714119606616",
-      "subCategory": "消费零售",
-      "id": "industry-20260808-008"
-    },
-    {
-      "id": "industry-20260808-004",
-      "title": "2026年全球半导体材料起全面涨价潮，半导体材料设备指数盘中最高涨超4%",
-      "summary": "受需求旺盛、成本上涨及地缘政治因素共同作用，全球高端半导体材料供给缺口约25%；2025年中国半导体材料销售额156亿美元，同比增长12.5%，设备国产化率已由16%提升到30%以上。",
-      "publishedAt": "2026-08-06T14:31:00+08:00",
-      "source": "新浪财经",
-      "url": "https://finance.sina.com.cn/jjxw/2026-08-06/doc-inimkfvf4603104.shtml",
-      "subCategory": "半导体产业"
-    },
-    {
-      "title": "长锤拒绝苹果压价，DRAM市场议价权转向存储厂商",
-      "summary": "长锤存储被曝拒绝苹果就LPDDR5X移动内存的压价要求，坚持报价不低于三星电子和SK海力士。华为、小米及腾讯等企业已通过长期合同锁定其产能，AI拉动下DRAM供应趋紧，行业议价权正转向存储厂商。",
-      "publishedAt": "2026-08-06T10:52:07+08:00",
-      "source": "电子工程专辑",
-      "url": "https://www.eet-china.com/news/202608067090.html",
-      "subCategory": "半导体产业",
-      "id": "industry-20260806-700"
     }
   ]
 }
