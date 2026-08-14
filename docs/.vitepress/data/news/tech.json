@@ -3,8 +3,89 @@
   "slug": "tech",
   "title": "科技新闻",
   "description": "前沿科技、互联网产品、芯片硬件、开源生态。",
-  "updatedAt": "2026-08-14T13:10:00+08:00",
+  "updatedAt": "2026-08-15T00:55:00+08:00",
   "items": [
+    {
+      "id": "tech-20260815-001",
+      "title": "小米澎湃OS 4 Beta版首批机型开始推送，各批次推送时间公布",
+      "summary": "小米澎湃OS官方宣布，澎湃OS 4 Beta版已开启第一批次推送，覆盖Xiaomi 17全系列、REDMI K90 Pro Max/K90及小米平板8系列等机型，第二、三批次将分别于8月27日和9月17日陆续推送。",
+      "publishedAt": "2026-08-14T15:12:39+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/989/718.htm",
+      "subCategory": "操作系统"
+    },
+    {
+      "id": "tech-20260815-002",
+      "title": "苹果CEO库克谈自身历史地位：希望外界记得他是善良、正直的人",
+      "summary": "苹果CEO库克接受CBS采访时表示，不会亲自定义自己的历史地位，将交由他人评判，希望被记住是一个善良、正直的人；据此前报道，约翰·特努斯将于9月1日接任CEO，库克届时转任董事会执行董事长。",
+      "publishedAt": "2026-08-14T16:13:04+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/989/790.htm",
+      "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260815-003",
+      "title": "5米1大五座旗舰 纯电续航402km！魏牌V8X上市 限时22.68万起",
+      "summary": "魏牌全新大五座旗舰SUV V8X正式上市，推出豪华家庭版与运动版共五个版本，官方零售价23.98万至31.58万元，叠加限时权益后最低22.68万元起，纯电续航达402公里。",
+      "publishedAt": "2026-08-14T22:51:55+08:00",
+      "source": "快科技",
+      "url": "https://news.mydrivers.com/1/1143/1143900.htm",
+      "subCategory": "智能汽车"
+    },
+    {
+      "id": "tech-20260815-004",
+      "title": "AMD下代CPU Zen7很疯狂：384核+1.4nm工艺 IPC大涨25%",
+      "summary": "据博主爆料，AMD下一代Zen7架构服务器芯片代号Snowmass，将采用台积电等效1.4nm的A14工艺，单芯粒最高48核、总核心数可达384个，IPC性能较现有产品提升15%至25%，预计2028年年中发布。",
+      "publishedAt": "2026-08-14T22:48:43+08:00",
+      "source": "快科技",
+      "url": "https://news.mydrivers.com/1/1143/1143899.htm",
+      "subCategory": "芯片硬件"
+    },
+    {
+      "id": "tech-20260815-005",
+      "title": "DeepSeek Harness实测：一夜5万星 Agent界的Android登场",
+      "summary": "快科技报道，DeepSeek于8月13日晚发布首款Agent产品Harness，主打模型负责思考、Harness负责执行，GitHub仓库开源约12小时后星标数破5万；据介绍其目前仍是开发者预览版，界面对普通用户不算友好。",
+      "publishedAt": "2026-08-14T23:46:16+08:00",
+      "source": "快科技",
+      "url": "https://news.mydrivers.com/1/1143/1143906.htm",
+      "subCategory": "开发者工具"
+    },
+    {
+      "id": "tech-20260815-006",
+      "title": "鸽了八年终于要来：曝特斯拉Roadster最早本月发布 还有火箭推进器版",
+      "summary": "据路透社援引报道，特斯拉计划最早于本月发布重新设计的Roadster跑车，该项目已从基于Model S Plaid的方案改为全新碳纤维超跑，外形设计参考了兰博基尼Countach与SR-71侦察机。",
+      "publishedAt": "2026-08-14T23:35:27+08:00",
+      "source": "快科技",
+      "url": "https://news.mydrivers.com/1/1143/1143903.htm",
+      "subCategory": "智能汽车"
+    },
+    {
+      "id": "tech-20260815-007",
+      "title": "小米回应升级澎湃OS 4后手机发热、费电：系统重新编译 3天内恢复",
+      "summary": "小米官方回应澎湃OS 4 Beta版首批推送后部分用户反馈的发热、耗电问题，称系统升级后会自动重新编译应用以适配新内存管理机制，后台编译占用CPU资源导致短期功耗上升，正常使用约3天后即可恢复稳定。",
+      "publishedAt": "2026-08-15T00:01:00+08:00",
+      "source": "快科技",
+      "url": "https://news.mydrivers.com/1/1143/1143910.htm",
+      "subCategory": "操作系统"
+    },
+    {
+      "id": "tech-20260815-008",
+      "title": "多年惯例被打破！苹果供应商首次证实iPhone 18缺席9月科技春晚",
+      "summary": "苹果供应商和硕科技在近期法人说明会上证实，iPhone 18 Pro系列将于9月正式上市，而标准版iPhone 18将推迟至2027年春季发布，打破了苹果此前坚持多年的秋季全系同步上市惯例。",
+      "publishedAt": "2026-08-15T00:01:42+08:00",
+      "source": "快科技",
+      "url": "https://news.mydrivers.com/1/1143/1143911.htm",
+      "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260815-009",
+      "title": "荣耀首席影像工程师罗巍预告明年推出全新产品",
+      "summary": "荣耀首席影像工程师罗巍在社交平台发文预告，公司明年将推出一款外界从未见过、甚至未曾设想过的全新产品，目前尚未透露产品形态、名称及具体发布时间，消息引发外界对荣耀下一代新品的关注。",
+      "publishedAt": "2026-08-15T00:04:46+08:00",
+      "source": "快科技",
+      "url": "https://news.mydrivers.com/1/1143/1143912.htm",
+      "subCategory": "消费电子"
+    },
     {
       "id": "tech-20260814-020",
       "title": "微信：朋友圈现在、过去、未来都不会有二次编辑功能",
@@ -643,87 +724,6 @@
       "url": "https://www.bleepingcomputer.com/news/security/lazarus-hackers-exploited-windows-zero-day-to-target-defense-firms/",
       "subCategory": "安全漏洞",
       "id": "tech-20260813-005"
-    },
-    {
-      "title": "华为 nova16 SE 手机今日开售：麦麦 8020 芯片、8500mAh 电池，2499 元起",
-      "summary": "华为nova16 SE手机于8月12日10:08正式开售，128GB版本售价2499元，国补到手价2124.15元；256GB售价2699元；512GB售价3199元。该机搭血6.84英寸1.5K OLED屏，刷新率120Hz，峰值亮度8000nits，麦麦8020处理器，8500mAh电池，支掁66W快充，预装HarmonyOS 6.1系统。",
-      "publishedAt": "2026-08-12T08:36:08+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/988/576.htm",
-      "subCategory": "消费电子",
-      "id": "tech-20260812-001"
-    },
-    {
-      "title": "索尼中国开卖115寸旗舰电视：149999元",
-      "summary": "索尼中国开售115英寸RGB LED电视9系二代，售价149999元。该电视采用真彩RGB独立三色背光技术，峰值亮度接近4000nits，覆盖BT.2020色域，拥有15000个独立控色分区，支持PS5 Pro优化、4K 120fps HDR及杜比视界游戏模式，搭载Android TV 2026系统。",
-      "publishedAt": "2026-08-12T08:29:00+08:00",
-      "source": "快科技",
-      "url": "https://news.mydrivers.com/1/1143/1143059.htm",
-      "subCategory": "消费电子",
-      "id": "tech-20260812-003"
-    },
-    {
-      "title": "长安启源：全新 Q05 累计销量突破 10 万辆，连续 4 月蟬联紧凑型 SUV 销量冠军",
-      "summary": "长安启源官方宣布，旗下全新Q05累计销量突砆10万辆，连续4个月位居紧凑型SUV销量榜首。该车尺寸为4435×1855×1595mm，轴距2735毫米，起售价7.99万元，此后陆续推出8.99万元和9.59万元的新版本。",
-      "publishedAt": "2026-08-12T08:25:37+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/988/572.htm",
-      "subCategory": "智能汽车",
-      "id": "tech-20260812-002"
-    },
-    {
-      "title": "举债重金押注 AI 基建，消息称甲骨文正制定新一轮裁员计划",
-      "summary": "据报道，甲骨文内部文件显示公司正筹划新一轮裁员，部分团队降幅达两位数，管理层已被要求提交受影响员工名单，目标在9月1日新财季开始前完成。甲骨文2026财年已裁吘2.1万人（降幅13%），当前员工约14.1万人；同期基础设施投入557亿美元，现金流出超流入237亿美元，已通过发债融资430亿美元，预计本财年还将再融资400亿美元，公司云基础设施业务同期增长77%。",
-      "publishedAt": "2026-08-12T08:00:24+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/988/567.htm",
-      "subCategory": "云计算",
-      "id": "tech-20260812-015"
-    },
-    {
-      "title": "苹果发布iOS 27第三个公测版：流畅度提升 iPhone 11及以上可升级",
-      "summary": "苹果发布iOS 27第三个公测版，距上一测试版时隔约两周，支持iPhone 11系列及后续机型、第二代及以上iPhone SE升级。更新称应用启动速度最高提升30%，照片加载最高提速70%，隔空传送速度最高提升80%，并对Liquid Glass设计的透明度调节功能进行了优化。",
-      "publishedAt": "2026-08-12T07:58:00+08:00",
-      "source": "快科技",
-      "url": "https://news.mydrivers.com/1/1143/1143056.htm",
-      "subCategory": "操作系统",
-      "id": "tech-20260812-004"
-    },
-    {
-      "title": "谷歌扩建全球网络基础设施，拟建 3 条新海底光缆",
-      "summary": "谷歌宣布在美洲地区新建三条海底光缆：连接多米尼加共和国、巴拿马与智利的Alisios；连接多米尼加共和国与百慕大的Canoa；直连多米尼加共和国与佛罗里达的OlaLuz。谷歌表示Canoa将与现有的Nuvem、Sol光缆共同为拉美与加勒比地区提供通往欧美的连接，OlaLuz将提升加勒比地区与美国东海岸间的网络容量。",
-      "publishedAt": "2026-08-12T07:40:45+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/988/560.htm",
-      "subCategory": "网络基础设施",
-      "id": "tech-20260812-012"
-    },
-    {
-      "title": "微软 Xbox Elite Series 3 原型手柄谍照泄露，内置微型屏幕",
-      "summary": "一名用户以200美元从二手平台购得微软Xbox Elite Series 3手柄原型机并曝光谍照，显示手柄新增此前未曝光的小型触控屏，可显示Xbox云游戏图标等信息，并配有底部滚轮、四个背部按键、可拆卸十字键及5.8瓦时可拆卸电池。原型机贴有非卖品标签，无法开机或连接主机，报道称该手柄仍计划今年内发布。",
-      "publishedAt": "2026-08-12T07:37:25+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/988/559.htm",
-      "subCategory": "消费电子",
-      "id": "tech-20260812-014"
-    },
-    {
-      "title": "三星 Galaxy Tab S12+/S12 Ultra 平板曝光：天玩 9500 芯片",
-      "summary": "蓝牙SIG认证文件显示，三星Galaxy Tab S12+与Tab S12 Ultra平板均将搭载联发科天玩9500芯片。S12+配妇12.4英寸120Hz Dynamic AMOLED 2X屏幕及10600mAh电池，S12 Ultra配妇14.6英寸屏幕及11600mAh电池，两款均提供Wi-Fi版与蜂窝网络版，外观延续Tab S11系列设计，预计今年下半年发布。",
-      "publishedAt": "2026-08-12T07:29:55+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/988/558.htm",
-      "subCategory": "消费电子",
-      "id": "tech-20260812-013"
-    },
-    {
-      "title": "Everything announced at Made by Google '26: Pixel 11, Pixel Watch 5, Pixel Tag, and tons of Gemini features",
-      "summary": "谷歌在Made by Google 2026发布会上推出Pixel 11系列、Pixel 11 Pro Fold、Pixel Watch 5及新配件Pixel Tag，标准版起售价899美元，较上代上涨100美元，同时展示了多项Gemini AI功能。",
-      "publishedAt": "2026-08-12T07:20:00-07:00",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/12/google-unveils-pixel-11-lineup-new-airtag-rival-and-gemini-features-at-made-by-google-2026/",
-      "subCategory": "消费电子",
-      "id": "tech-20260813-004"
     }
   ]
 }

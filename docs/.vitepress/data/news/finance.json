@@ -3,8 +3,44 @@
   "slug": "finance",
   "title": "投资与财经",
   "description": "宏观经济、A 股 / 港股 / 美股、一级市场融资、行业研报观点。",
-  "updatedAt": "2026-08-14T13:10:00+08:00",
+  "updatedAt": "2026-08-15T00:55:00+08:00",
   "items": [
+    {
+      "id": "finance-20260815-001",
+      "title": "A股收评：超2900只个股飘绿，三大指数集体收涨",
+      "summary": "沪指涨0.01%，深成指涨0.45%，创业板指涨1.12%，两市成交额2.15万亿元，超2900只个股下跌。通信设备、能源设备、半导体等板块上涨，保险、酒类、券商等板块下跌，稀土、CPO概念走强。",
+      "publishedAt": "2026-08-14T15:14:07+08:00",
+      "source": "中国新闻网",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-14/10677647.shtml",
+      "subCategory": "A股"
+    },
+    {
+      "id": "finance-20260815-002",
+      "title": "8月14日港股收盘：恒指跌1.1% 恒生科技指数跌1.77%",
+      "summary": "恒生指数收报25116.85点，跌279.66点，跌幅1.1%；恒生科技指数收报4707.62点，跌84.77点，跌幅1.77%。京东物流、京东集团－SW、长江基建跌幅居前，中芯国际、中国电信、港铁公司领涨。",
+      "publishedAt": "2026-08-14T16:10:00+08:00",
+      "source": "东方财富网",
+      "url": "https://emwap.eastmoney.com/a/202608143841742126.html",
+      "subCategory": "港股"
+    },
+    {
+      "id": "finance-20260815-003",
+      "title": "晚间公告｜宁德时代41亿元增资中恒科技投资，卫星化学上半年净利增127%",
+      "summary": "第一财经晚间公告汇编：宁德时代拟以41亿元增资中恒科技投资，认购其新增注册资本1441.18万元，双方同日签署战略合作协议；卫星化学披露半年报，上半年营收307.13亿元同比增30.92%，归母净利润62.26亿元同比增126.94%。",
+      "publishedAt": "2026-08-14T18:44:23+08:00",
+      "source": "第一财经",
+      "url": "https://www.yicai.com/news/103319058.html",
+      "subCategory": "公司财报"
+    },
+    {
+      "id": "finance-20260815-004",
+      "title": "美国7月零售销售环比意外下降0.6%，创2025年5月以来最大降幅",
+      "summary": "美国商务部数据显示，7月零售销售环比下降0.6%，为2025年5月以来最大降幅，此前6月环比上修为增长0.2%；剔除汽车和加油站后环比下降0.2%，线上零售环比下降2.2%。",
+      "publishedAt": "2026-08-14T07:41:00-05:00",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/economy/articles/retail-sales-unexpectedly-fall-july-124133129.html",
+      "subCategory": "宏观经济"
+    },
     {
       "id": "finance-20260814-014",
       "title": "科创50指数半日跌0.57%，高位股集体下挫，医药板块反复活跃",
@@ -687,42 +723,6 @@
       "publishedAt": "2026-08-11T08:08:46+08:00",
       "source": "第一财经",
       "url": "https://www.yicai.com/news/103312756.html",
-      "subCategory": "大宗商品"
-    },
-    {
-      "id": "finance-20260811-005",
-      "title": "英伟达拟联合华尔街六巨头筹资5000亿美元投向AI基础设施",
-      "summary": "英伟达据悉正与阿波罗、黑石、贝莱德旗下GIP、博盠资产、高盛及KKR磋商，拟合计筹资最顺5000亿美元用于AI芯片采购、电力生产和数据中心建设。消息传出后英伟达股价一度下跌3.2%，五年期信用违约互换价格创两周最大单日涨幅。",
-      "publishedAt": "2026-08-11T07:59:26+08:00",
-      "source": "网易财经",
-      "url": "https://www.163.com/dy/article/L41M887505198NMR.html",
-      "subCategory": "美股"
-    },
-    {
-      "id": "finance-20260811-010",
-      "title": "Intel Announces Upsize and Pricing of $20 Billion Common Stock Offering",
-      "summary": "英特尔将增发规模由此前公告的150亿美元上调至200亿美元，最终定价为每股95美元，发行约2.105亿股普通股，预计8月12日完成交割，扣除费用后净募资约197亿美元，用于一般公司用途及资本支出。",
-      "publishedAt": "2026-08-11T02:36:00-04:00",
-      "source": "Intel Corporation",
-      "url": "https://www.intc.com/news-events/press-releases/detail/1779/intel-announces-upsize-and-pricing-of-20-billion-common",
-      "subCategory": "美股"
-    },
-    {
-      "id": "finance-20260811-013",
-      "title": "U.S. SEC sets meeting to propose Reg Crypto to support certain digital assets offerings",
-      "summary": "美国SEC宣布将于8月14日召开公开会议，由三名共和党籍委员就是否提出\"Regulation Crypto\"提案进行表决，拟为特定加密资产投资合约设立专门发行制度。该提案紧随参议院未能在休会前推进《数字资产市场明晰法案》。(估算)",
-      "publishedAt": "2026-08-11T00:41:00-04:00",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/policy/2026/08/11/u-s-sec-sets-meeting-to-propose-reg-crypto-to-support-certain-digital-assets-offerings",
-      "subCategory": "政策利率"
-    },
-    {
-      "id": "finance-20260811-006",
-      "title": "美伊协议分歧持续，国际油价维持一周高位",
-      "summary": "布伦特原油持平于每桶87.81美元，WTI报82.20美元，均维持在7月31日以来高位。特朗普要求伊朗为冲突损失提供赔偿，谈判仍存分歧。沙特阿美将杰赞炼油厂复产推迟至8月30日，伊拉克上调 9月输往亚洲的巴士拉原油官方售价。",
-      "publishedAt": "2026-08-10T20:40:00-04:00",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/commodities-news/oil-steadies-near-oneweek-highs-as-usiran-peace-deal-hopes-dim-4850678",
       "subCategory": "大宗商品"
     }
   ]

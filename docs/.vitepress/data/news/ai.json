@@ -3,8 +3,44 @@
   "slug": "ai",
   "title": "AI 与大模型",
   "description": "大模型、Agent、AI 编程、推理框架、开源模型的发布与落地。",
-  "updatedAt": "2026-08-14T13:10:00+08:00",
+  "updatedAt": "2026-08-15T00:55:00+08:00",
   "items": [
+    {
+      "id": "ai-20260815-001",
+      "title": "阿里开源Qwen3.8-27B模型，编程、办公场景表现超越Qwen3.7-Plus",
+      "summary": "阿里巴巴开源27B参数的Qwen3.8-27B模型，原生支持262K上下文，可扩展至1M，新增reasoning_effort功能按任务复杂度调节推理深度，编程与办公场景表现超越Qwen3.7-Plus。",
+      "publishedAt": "2026-08-14T23:13:53+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/989/953.htm",
+      "subCategory": "开源模型"
+    },
+    {
+      "id": "ai-20260815-002",
+      "title": "智谱正式发布GLM-5.3：编程能力最强开源模型，较GLM-5.2提升50%",
+      "summary": "智谱发布GLM-5.3，通过后训练优化大幅提升编程能力，内部评测较GLM-5.2提升50%，Terminal-Bench 3.0得分从4.6升至28.3，完整模型权重预计两周内开源。",
+      "publishedAt": "2026-08-14T13:36:12+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/989/689.htm",
+      "subCategory": "开源模型"
+    },
+    {
+      "id": "ai-20260815-003",
+      "title": "科技行业史上最大收购之一，SpaceX豪掷600亿美元拿下AI编程公司Cursor",
+      "summary": "SpaceX以600亿美元完成对AI编程公司Cursor的收购，相关监管备案已于8月14日生效，此前双方已合作开发编程模型Grok 4.5，交易被称为科技行业史上最大收购之一。",
+      "publishedAt": "2026-08-14T22:34:20+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/989/944.htm",
+      "subCategory": "AI编程"
+    },
+    {
+      "id": "ai-20260815-004",
+      "title": "新研究证实，AI生成书籍已挤压人类作者作品市场空间",
+      "summary": "一项分析2023至2026年亚马逊逾1.4万本电子书销售数据的研究显示，有销量图书数量增至19倍，读者总支出仅增至9倍，且未检测出AI文本的图书市场份额也在下降，显示AI生成内容正挤压人类作者的市场空间。",
+      "publishedAt": "2026-08-14T23:06:49+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/989/951.htm",
+      "subCategory": "论文进展"
+    },
     {
       "id": "ai-20260814-001",
       "title": "OpenAI推出GPT-5.6 Sol的Ultrafast模式，速度提升14倍",
@@ -688,42 +724,6 @@
       "url": "https://www.ithome.com/0/988/046.htm",
       "subCategory": "AI应用",
       "id": "ai-20260810-x03"
-    },
-    {
-      "title": "AI倒查论文100年！99.2%的顶刊都有问题…",
-      "summary": "一款基于GPT-5的论文审查系统对顶会论文进行审查，称99.2%的论文被标记至少一处问题，平均每篇4.7处错误，数学公式类错误占54%；对168篇ICML 2026论文复现测试显示仅8篇复现了80%以上结论。",
-      "publishedAt": "2026-08-10T21:58:46+08:00",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/08/469795.html",
-      "subCategory": "论文进展",
-      "id": "ai-20260810-x08"
-    },
-    {
-      "title": "PDF当死，ARA该立！论文是时候Agent原生了",
-      "summary": "密歇根大学刘嘉晨等提出ARA(Agent原生研究成果)格式替代PDF论文，将研究拆分为科学逻辑、可执行代码、探索路径、证据验证四层，测试中ARA理解准确率达93.7%，高于传统论文的72.4%。",
-      "publishedAt": "2026-08-10T21:53:22+08:00",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/08/469721.html",
-      "subCategory": "论文进展",
-      "id": "ai-20260810-x09"
-    },
-    {
-      "title": "Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
-      "summary": "英伟达开户3.64亿参数语音合成模型Magpie Multilingual TTS，新增现代标准阿拉伯语、韩语、巴西葡萄牙语，共支扭12种语言，在B200 GPU上首字延迟最低32毫秒，可本地部署用于实时语音Agent。",
-      "publishedAt": "2026-08-10",
-      "source": "Hugging Face",
-      "url": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents",
-      "subCategory": "AI音频",
-      "id": "ai-20260810-x11"
-    },
-    {
-      "id": "ai-20260809-n06",
-      "title": "180万刀，连亚马逊都烧不起Claude了",
-      "summary": "亚马逊此前使用Claude Sonnet为网站生成作者信息，历时五个月才发现该项目已超预算860%，共计花费180万美元，且最终未能成功上线，暴露出企业滥用AI Agent导致成本失控的问题。",
-      "publishedAt": "2026-08-09T17:25:10+08:00",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/08/469010.html",
-      "subCategory": "Agent"
     }
   ]
 }
