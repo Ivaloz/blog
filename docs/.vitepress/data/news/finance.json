@@ -3,8 +3,17 @@
   "slug": "finance",
   "title": "投资与财经",
   "description": "宏观经济、A 股 / 港股 / 美股、一级市场融资、行业研报观点。",
-  "updatedAt": "2026-08-14T09:20:00+08:00",
+  "updatedAt": "2026-08-14T13:10:00+08:00",
   "items": [
+    {
+      "id": "finance-20260814-014",
+      "title": "科创50指数半日跌0.57%，高位股集体下挫，医药板块反复活跃",
+      "summary": "8月14日A股午盘三大指数走势分化，沪指跌0.21%，深成指涨0.08%，创业板指涨0.65%，科创50指数跌0.57%，两市成交额1.39万亿元，逾3400只个股下跌，高位股集体回调，医药板块反复活跃。",
+      "publishedAt": "2026-08-14T12:58:00+08:00",
+      "source": "每日经济新闻",
+      "url": "https://www.nbd.com.cn/articles/2026-08-14/4541944.html",
+      "subCategory": "A股"
+    },
     {
       "id": "finance-20260814-003",
       "title": "8月14日收盘：标普500指数收盘创历史新高 受通胀数据低于预期及油价下跌提振",
@@ -195,6 +204,15 @@
       "id": "finance-20260813-109"
     },
     {
+      "title": "腾讯二季度资本开支同比翻倍，马化腾谈AI转型",
+      "summary": "腾讯第二季度资本开支同比翻倍增至527.84亿元，环比增65%；马化腾称正构建\"全新的腾讯\"，公司因AI相关算力预付款拖累，季度自由现金流转负138亿元。",
+      "publishedAt": "2026-08-13T07:47:06+08:00",
+      "source": "第一财经",
+      "url": "https://www.yicai.com/news/103315923.html",
+      "subCategory": "公司财报",
+      "id": "finance-20260813-011"
+    },
+    {
       "id": "finance-20260814-012",
       "title": "上海卓然工程技术股份有限公司关于公司立案调查进展暨退市风险提示公告",
       "summary": "上海卓然（*ST卓然，688121）公告称，证监会已对公司及实际控制人张劲鸿立案调查，涉嫌信息披露违法违规，初步调查发现公司部分年度财务信息可能存在虚假记载，可能触及科创板重大违法强制退市情形。",
@@ -213,42 +231,6 @@
       "subCategory": "宏观经济"
     },
     {
-      "title": "腾讯二季度资本开支同比翻倍，马化腾谈AI转型",
-      "summary": "腾讯第二季度资本开支同比翻倍增至527.84亿元，环比增65%；马化腾称正构建\"全新的腾讯\"，公司因AI相关算力预付款拖累，季度自由现金流转负138亿元。",
-      "publishedAt": "2026-08-13T07:47:06+08:00",
-      "source": "第一财经",
-      "url": "https://www.yicai.com/news/103315923.html",
-      "subCategory": "公司财报",
-      "id": "finance-20260813-011"
-    },
-    {
-      "title": "温和CPI提振美股，标普纳指齐涨",
-      "summary": "受美国7月CPI数据温和及AI云服务企业财报带动，标普500指数上涨0.3%，纳斯达克综合指数涨约0.5%，道指基本持平，投资者对美联储9月维持利率观望情绪上升。",
-      "publishedAt": "2026-08-12T16:33:00-05:00",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-august-12-dow-sp-500-nasdaq-cpi-report-091555133.html",
-      "subCategory": "美股",
-      "id": "finance-20260813-003"
-    },
-    {
-      "title": "思科2026财年四季度营收173亿美元超预期",
-      "summary": "思科公布2026财年第四季度财报，营收173亿美元，同比增长18%；非美国通用会计准则每股收益1.22美元，网络产品订单同比增35%，全年业绩创纪录。",
-      "publishedAt": "2026-08-12T16:05:00-04:00",
-      "source": "Cisco Investor Relations",
-      "url": "https://investor.cisco.com/news/news-details/2026/CISCO-REPORTS-FOURTH-QUARTER-AND-FISCAL-YEAR-2026-EARNINGS/default.aspx",
-      "subCategory": "公司财报",
-      "id": "finance-20260813-009"
-    },
-    {
-      "title": "AI编程公司Cognition据报洽谈400亿美元估值融资",
-      "summary": "AI编程初创公司Cognition据报正洽谈新一轮融资，估值或达400亿美元；此前公司5月以260亿美元估值完成10亿美元融资，年化营收当时已超4.92亿美元。",
-      "publishedAt": "2026-08-12T11:19:00-07:00",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation/",
-      "subCategory": "一级市场",
-      "id": "finance-20260813-014"
-    },
-    {
       "title": "正荣地产公告66.14亿元境内债重组方案",
       "summary": "正荣地产公告约66.14亿元境内债重组方案，含展期8.5年至2035年1月等选项，8月13日至27日召开债券持有人会议表决，展期部分按年息1%单利计算。",
       "publishedAt": "2026-08-12T21:39:13+08:00",
@@ -265,15 +247,6 @@
       "url": "https://finance.sina.com.cn/jjxw/2026-08-12/doc-ininamif3493231.shtml",
       "subCategory": "政策利率",
       "id": "finance-20260813-013"
-    },
-    {
-      "title": "美国7月CPI同比升3.4%，通胀较6月温和放缓",
-      "summary": "美国劳工统计局公布，7月CPI季调环比上涨0.1%，同比升3.4%，较6月3.5%略降；核心CPI环比升0.2%、同比2.5%，均符合市场预期，住房成本仍是主要拉动项。",
-      "publishedAt": "2026-08-12T08:30:00-04:00",
-      "source": "美国劳工统计局(BLS)",
-      "url": "https://www.bls.gov/news.release/cpi.nr0.htm",
-      "subCategory": "宏观经济",
-      "id": "finance-20260813-002"
     },
     {
       "title": "紫金矿业公告中期每股派现0.42元",
@@ -321,6 +294,15 @@
       "id": "finance-20260812-024"
     },
     {
+      "title": "温和CPI提振美股，标普纳指齐涨",
+      "summary": "受美国7月CPI数据温和及AI云服务企业财报带动，标普500指数上涨0.3%，纳斯达克综合指数涨约0.5%，道指基本持平，投资者对美联储9月维持利率观望情绪上升。",
+      "publishedAt": "2026-08-12T16:33:00-05:00",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-august-12-dow-sp-500-nasdaq-cpi-report-091555133.html",
+      "subCategory": "美股",
+      "id": "finance-20260813-003"
+    },
+    {
       "title": "周期见顶忧虑下，为刺激股价，三星SK海力士寻分红新招",
       "summary": "面对存储芯片周期见顶担忧，三星电子和SK海力士股价自6月高点分别下跌约34%和50%。两家公司正推出更大力度的现金分红及回购计划，SK海力士公布三季度每股375韩元的分红方案。",
       "publishedAt": "2026-08-12T16:15:19+08:00",
@@ -337,6 +319,15 @@
       "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-08-12/doc-inimzytr3995197.shtml",
       "subCategory": "港股",
       "id": "finance-20260813-006"
+    },
+    {
+      "title": "思科2026财年四季度营收173亿美元超预期",
+      "summary": "思科公布2026财年第四季度财报，营收173亿美元，同比增长18%；非美国通用会计准则每股收益1.22美元，网络产品订单同比增35%，全年业绩创纪录。",
+      "publishedAt": "2026-08-12T16:05:00-04:00",
+      "source": "Cisco Investor Relations",
+      "url": "https://investor.cisco.com/news/news-details/2026/CISCO-REPORTS-FOURTH-QUARTER-AND-FISCAL-YEAR-2026-EARNINGS/default.aspx",
+      "subCategory": "公司财报",
+      "id": "finance-20260813-009"
     },
     {
       "title": "A股三大指数收涨，房地产半导体领涨",
@@ -384,6 +375,15 @@
       "id": "finance-20260812-027"
     },
     {
+      "title": "AI编程公司Cognition据报洽谈400亿美元估值融资",
+      "summary": "AI编程初创公司Cognition据报正洽谈新一轮融资，估值或达400亿美元；此前公司5月以260亿美元估值完成10亿美元融资，年化营收当时已超4.92亿美元。",
+      "publishedAt": "2026-08-12T11:19:00-07:00",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation/",
+      "subCategory": "一级市场",
+      "id": "finance-20260813-014"
+    },
+    {
       "title": "财联祙8月12日电，碳酸锂期货主力合约涨超3%，报149820元/吨。",
       "summary": "财联社快讯，2026年8月12日上午，在广州期货交易所挂牌交易的碳酸锂期货主力合约盘中涨幅扩大至3%以上，最新成交价报每吨149820元。",
       "publishedAt": "2026-08-12T09:56:30+08:00",
@@ -402,6 +402,15 @@
       "id": "finance-20260812-015"
     },
     {
+      "title": "美国7月CPI同比升3.4%，通胀较6月温和放缓",
+      "summary": "美国劳工统计局公布，7月CPI季调环比上涨0.1%，同比升3.4%，较6月3.5%略降；核心CPI环比升0.2%、同比2.5%，均符合市场预期，住房成本仍是主要拉动项。",
+      "publishedAt": "2026-08-12T08:30:00-04:00",
+      "source": "美国劳工统计局(BLS)",
+      "url": "https://www.bls.gov/news.release/cpi.nr0.htm",
+      "subCategory": "宏观经济",
+      "id": "finance-20260813-002"
+    },
+    {
       "title": "日本2年期国债收益率升至1995年5月以来最高",
       "summary": "日本2年期国债收益率8月12日上行2个基点至1.630%，为1995年5月以来最高水平，反映日本短端利率持续攀升，与其他主要经济体货币政策路径分化的态势愈发明显。",
       "publishedAt": "2026-08-12T08:23:24+08:00",
@@ -409,15 +418,6 @@
       "url": "https://wallstreetcn.com/livenews/3148301",
       "subCategory": "宏观经济",
       "id": "finance-20260812-012"
-    },
-    {
-      "title": "Nebius二季度营收同比激增454%",
-      "summary": "AI云服务商Nebius公布第二季度财报，营收5.823亿美元，同比激增454%；调整后EBITDA达2.362亿美元并由负转正，公司重申全年营收指引。",
-      "publishedAt": "2026-08-12",
-      "source": "BusinessWire",
-      "url": "https://www.businesswire.com/news/home/20260812963359/en/Nebius-reports-second-quarter-2026-financial-results",
-      "subCategory": "公司财报",
-      "id": "finance-20260813-010"
     },
     {
       "title": "港股通资金推动AI资产估值重塑，大模型公司提价信号显现",
@@ -526,6 +526,15 @@
       "url": "https://wallstreetcn.com/livenews/3148165",
       "subCategory": "大宗商品",
       "id": "finance-20260812-021"
+    },
+    {
+      "title": "Nebius二季度营收同比激增454%",
+      "summary": "AI云服务商Nebius公布第二季度财报，营收5.823亿美元，同比激增454%；调整后EBITDA达2.362亿美元并由负转正，公司重申全年营收指引。",
+      "publishedAt": "2026-08-12",
+      "source": "BusinessWire",
+      "url": "https://www.businesswire.com/news/home/20260812963359/en/Nebius-reports-second-quarter-2026-financial-results",
+      "subCategory": "公司财报",
+      "id": "finance-20260813-010"
     },
     {
       "id": "finance-20260811-103",
@@ -663,6 +672,33 @@
       "subCategory": "A股"
     },
     {
+      "id": "finance-20260811-001",
+      "title": "江波龙上半年净利润同比暂增约715倍，拟回资4亿至8亿元股份",
+      "summary": "江波龙发布半年度报告，上半年营收240.88亿元，同比增长136.26%；归属净利润105.77亿元，同比增长约715倍。公司计划以4亿至8亿元自有资金回购股份，用于股权激励。",
+      "publishedAt": "2026-08-11T08:11:19+08:00",
+      "source": "第一财经",
+      "url": "https://www.yicai.com/news/103312758.html",
+      "subCategory": "公司财报"
+    },
+    {
+      "id": "finance-20260811-002",
+      "title": "美国战略石油储备降至2.987亿桶创1983年以来新低，特朗普将《琼斯法案》豁免延长90天",
+      "summary": "美国战略石油储备(SPR)降至2.987亿桶，创1983年以来新低。特朗普将《琼斯法案》豁免延长90天至11月中旬，允许非美船只承运国内燃油，此前已有210船次运输约5500万桶成品油和原油。",
+      "publishedAt": "2026-08-11T08:08:46+08:00",
+      "source": "第一财经",
+      "url": "https://www.yicai.com/news/103312756.html",
+      "subCategory": "大宗商品"
+    },
+    {
+      "id": "finance-20260811-005",
+      "title": "英伟达拟联合华尔街六巨头筹资5000亿美元投向AI基础设施",
+      "summary": "英伟达据悉正与阿波罗、黑石、贝莱德旗下GIP、博盠资产、高盛及KKR磋商，拟合计筹资最顺5000亿美元用于AI芯片采购、电力生产和数据中心建设。消息传出后英伟达股价一度下跌3.2%，五年期信用违约互换价格创两周最大单日涨幅。",
+      "publishedAt": "2026-08-11T07:59:26+08:00",
+      "source": "网易财经",
+      "url": "https://www.163.com/dy/article/L41M887505198NMR.html",
+      "subCategory": "美股"
+    },
+    {
       "id": "finance-20260811-010",
       "title": "Intel Announces Upsize and Pricing of $20 Billion Common Stock Offering",
       "summary": "英特尔将增发规模由此前公告的150亿美元上调至200亿美元，最终定价为每股95美元，发行约2.105亿股普通股，预计8月12日完成交割，扣除费用后净募资约197亿美元，用于一般公司用途及资本支出。",
@@ -688,42 +724,6 @@
       "source": "Investing.com",
       "url": "https://www.investing.com/news/commodities-news/oil-steadies-near-oneweek-highs-as-usiran-peace-deal-hopes-dim-4850678",
       "subCategory": "大宗商品"
-    },
-    {
-      "id": "finance-20260811-001",
-      "title": "江波龙上半年净利润同比暂增约715倍，拟回资4亿至8亿元股份",
-      "summary": "江波龙发布半年度报告，上半年营收240.88亿元，同比增长136.26%；归属净利润105.77亿元，同比增长约715倍。公司计划以4亿至8亿元自有资金回购股份，用于股权激励。",
-      "publishedAt": "2026-08-11T08:11:19+08:00",
-      "source": "第一财经",
-      "url": "https://www.yicai.com/news/103312758.html",
-      "subCategory": "公司财报"
-    },
-    {
-      "id": "finance-20260811-002",
-      "title": "美国战略石油储备降至2.987亿桶创1983年以来新低，特朗普将《琼斯法案》豁免延长90天",
-      "summary": "美国战略石油储备(SPR)降至2.987亿桶，创1983年以来新低。特朗普将《琼斯法案》豁免延长90天至11月中旬，允许非美船只承运国内燃油，此前已有210船次运输约5500万桶成品油和原油。",
-      "publishedAt": "2026-08-11T08:08:46+08:00",
-      "source": "第一财经",
-      "url": "https://www.yicai.com/news/103312756.html",
-      "subCategory": "大宗商品"
-    },
-    {
-      "id": "finance-20260811-009",
-      "title": "美国SEC就SpaceX、Klarna未上市股份欺诈案与Adit Ventures达成和解",
-      "summary": "美国证券交易委员会(SEC)就Adit Ventures Management及其创始人埃里克·苒森涉嫌在SpaceX、Klarna等公司未上市股份投资中存在虚假宣传、挖用客户资金及未披露关联贷款等行为达成和解，双方同意支付追缴款及民事罚款，尚待法院批准。",
-      "publishedAt": "2026-08-10T20:07:00-04:00",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/sec-settles-charges-over-spacex-klarna-preipo-share-fraud-4850641",
-      "subCategory": "风险事件"
-    },
-    {
-      "id": "finance-20260811-005",
-      "title": "英伟达拟联合华尔街六巨头筹资5000亿美元投向AI基础设施",
-      "summary": "英伟达据悉正与阿波罗、黑石、贝莱德旗下GIP、博盠资产、高盛及KKR磋商，拟合计筹资最顺5000亿美元用于AI芯片采购、电力生产和数据中心建设。消息传出后英伟达股价一度下跌3.2%，五年期信用违约互换价格创两周最大单日涨幅。",
-      "publishedAt": "2026-08-11T07:59:26+08:00",
-      "source": "网易财经",
-      "url": "https://www.163.com/dy/article/L41M887505198NMR.html",
-      "subCategory": "美股"
     }
   ]
 }

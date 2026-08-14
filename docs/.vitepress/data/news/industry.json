@@ -3,8 +3,26 @@
   "slug": "industry",
   "title": "行业新闻",
   "description": "企业服务、SaaS、云计算、制造业、消费互联网的产业动态。",
-  "updatedAt": "2026-08-14T09:20:00+08:00",
+  "updatedAt": "2026-08-14T13:10:00+08:00",
   "items": [
+    {
+      "id": "industry-20260814-013",
+      "title": "中际旭创拟17.47亿元受让中石科技10.47%股份",
+      "summary": "光模块厂商中际旭创公告，拟以17.47亿元协议受让中石科技控股股东所持10.47%股份，转让价格为每股55.70元；中石科技当日股价涨停，双方在数据中心散热领域预计形成协同效应。",
+      "publishedAt": "2026-08-14T11:05:00+08:00",
+      "source": "新浪科技",
+      "url": "https://finance.sina.com.cn/tech/digi/2026-08-14/doc-ininhaiv9444066.shtml",
+      "subCategory": "公司动态"
+    },
+    {
+      "id": "industry-20260814-014",
+      "title": "东方甄选：发现大量异常仅退款订单，犯罪嫌疑人已被采取刑事强制措施",
+      "summary": "东方甄选发布声明称，日常订单监测中发现大量异常退款订单，存在“薅羊毛式”黑灰产诈骗嫌疑，已报案并配合警方调查，一名张姓嫌疑人已被采取刑事强制措施，公司称将强化风控体系。",
+      "publishedAt": "2026-08-14T10:53:00+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/989/604.htm",
+      "subCategory": "公司动态"
+    },
     {
       "id": "industry-20260814-005",
       "title": "洛图科技：2026上半年中国消费级平板销量1278.7万台，同比下降18.6%",
@@ -87,15 +105,6 @@
       "id": "industry-20260813-101"
     },
     {
-      "title": "代理式AI重塑旅游业：从智能助手迈向自主决策",
-      "summary": "行业报告指出，代理式AI凭借自主规划与多步骤推理能力正推动旅游业从效率工具迈向业务执行者，59%高管认为其提升员工效率，超九成用户信任AI提供的旅行信息，但仅2%消费者愿意完全交由AI处理预订。",
-      "publishedAt": "2026-08-13",
-      "source": "199IT",
-      "url": "https://www.199it.com/archives/1786338.html",
-      "subCategory": "行业研报",
-      "id": "industry-20260813-103"
-    },
-    {
       "id": "industry-20260814-011",
       "title": "CX Network：2026年亚太地区客户体验报告",
       "summary": "CX Network调研119位亚太地区客户体验从业者显示，35%受访企业将AI驱动运营列为未来首要趋势，49%企业预计2026年客户体验预算将增加，54%已建立组织级AI治理体系。",
@@ -112,6 +121,15 @@
       "source": "Omdia",
       "url": "https://finance.sina.com.cn/tech/roll/2026-08-13/doc-ininavxf3787636.shtml",
       "subCategory": "消费零售"
+    },
+    {
+      "title": "代理式AI重塑旅游业：从智能助手迈向自主决策",
+      "summary": "行业报告指出，代理式AI凭借自主规划与多步骤推理能力正推动旅游业从效率工具迈向业务执行者，59%高管认为其提升员工效率，超九成用户信任AI提供的旅行信息，但仅2%消费者愿意完全交由AI处理预订。",
+      "publishedAt": "2026-08-13",
+      "source": "199IT",
+      "url": "https://www.199it.com/archives/1786338.html",
+      "subCategory": "行业研报",
+      "id": "industry-20260813-103"
     },
     {
       "title": "Counterpoint：今年前 30 周中国智能手机销量同比下降 8.6%，华为继续领跑市场",
@@ -186,33 +204,6 @@
       "id": "industry-20260812-004"
     },
     {
-      "title": "Counterpoint：2026年全球折叠屏出货量同比增21%，苹果首年份额25%",
-      "summary": "Counterpoint Research预测2026年全球折叠屏手机出货量同比增长21%，苹果首年即拿下约25%市场份额，市场格局将从三星国际领先、华为国内领先转向苹果、三星、华为三足鼎立；苹果折叠机型据报采用台积电2nm A20 Pro芯片，配妇12GB内存，取消Face ID改用侧边指纹识别，预计9月发布会亮相。",
-      "publishedAt": "2026-08-12",
-      "source": "199IT（Counterpoint Research）",
-      "url": "https://www.199it.com/archives/1845076.html",
-      "subCategory": "消费零售",
-      "id": "industry-20260813-001"
-    },
-    {
-      "title": "Gartner：2026年全球AI支出将达到2.59万亿美元 同比增长47%",
-      "summary": "Gartner预测2026年全球人工智能支出将达到2.59万亿美元，同比增长47%。AI基础设施支出占比超过45%，AI优化服务器支出五年内预计增长两倍，生成式AI模型使用量预计增长110%。",
-      "publishedAt": "2026-08-12",
-      "source": "199IT",
-      "url": "https://www.199it.com/archives/1832141.html",
-      "subCategory": "行业研报",
-      "id": "industry-20260812-001"
-    },
-    {
-      "title": "Omdia: Middle East smartphone market falls 19% in 2Q26 amid vendors prioritize profitability",
-      "summary": "Omdia数据显示，2026年第二季度中东（不含土耳其）智能手机出货量同比降19%至1060万部，创该地区近三季度最大跌幅；入门机型跌42%，高端机型出货量创同期新高，均价同比涢25%至448美元。",
-      "publishedAt": "2026-08-12",
-      "source": "Omdia",
-      "url": "https://omdia.tech.informa.com/pr/2026/aug/middle-east-smartphone-market-falls-19percent-in-2q26-amid-vendors-prioritize-profitability",
-      "subCategory": "消费零售",
-      "id": "industry-20260812-007"
-    },
-    {
       "title": "话语权提升！京东方牵头制定首项卷曲显示器件国际标准",
       "summary": "京东方牵头制定的IEC 62715-6-42:2026国际标准正式发布，规定卷曲显示器件平整力机械测试方法，填补相关领域全球标准空白，已被英国标准协会采纳为英国国家标准。京东方OLED显示屏累计出货超6亿片，居国内第一、全球第二。",
       "publishedAt": "2026-08-12T07:52:34+08:00",
@@ -238,6 +229,33 @@
       "url": "https://news.mydrivers.com/1/1143/1143044.htm",
       "subCategory": "公司动态",
       "id": "industry-20260812-005"
+    },
+    {
+      "title": "Counterpoint：2026年全球折叠屏出货量同比增21%，苹果首年份额25%",
+      "summary": "Counterpoint Research预测2026年全球折叠屏手机出货量同比增长21%，苹果首年即拿下约25%市场份额，市场格局将从三星国际领先、华为国内领先转向苹果、三星、华为三足鼎立；苹果折叠机型据报采用台积电2nm A20 Pro芯片，配妇12GB内存，取消Face ID改用侧边指纹识别，预计9月发布会亮相。",
+      "publishedAt": "2026-08-12",
+      "source": "199IT（Counterpoint Research）",
+      "url": "https://www.199it.com/archives/1845076.html",
+      "subCategory": "消费零售",
+      "id": "industry-20260813-001"
+    },
+    {
+      "title": "Gartner：2026年全球AI支出将达到2.59万亿美元 同比增长47%",
+      "summary": "Gartner预测2026年全球人工智能支出将达到2.59万亿美元，同比增长47%。AI基础设施支出占比超过45%，AI优化服务器支出五年内预计增长两倍，生成式AI模型使用量预计增长110%。",
+      "publishedAt": "2026-08-12",
+      "source": "199IT",
+      "url": "https://www.199it.com/archives/1832141.html",
+      "subCategory": "行业研报",
+      "id": "industry-20260812-001"
+    },
+    {
+      "title": "Omdia: Middle East smartphone market falls 19% in 2Q26 amid vendors prioritize profitability",
+      "summary": "Omdia数据显示，2026年第二季度中东（不含土耳其）智能手机出货量同比降19%至1060万部，创该地区近三季度最大跌幅；入门机型跌42%，高端机型出货量创同期新高，均价同比涢25%至448美元。",
+      "publishedAt": "2026-08-12",
+      "source": "Omdia",
+      "url": "https://omdia.tech.informa.com/pr/2026/aug/middle-east-smartphone-market-falls-19percent-in-2q26-amid-vendors-prioritize-profitability",
+      "subCategory": "消费零售",
+      "id": "industry-20260812-007"
     },
     {
       "title": "乘联分会：7月新能源汽车零售渗透率首次突砆65%，燃油车零售暴跌41%",
@@ -330,15 +348,6 @@
       "subCategory": "公司动态"
     },
     {
-      "id": "industry-20260814-012",
-      "title": "Vaderis Therapeutics完成1.52亿美元超额认购B轮融资",
-      "summary": "瑞士生物制药公司Vaderis Therapeutics宣布完成1.52亿美元超额认购B轮融资，由高盛另类投资与TCGX领投，用于推进engasertib治疗遗传性出血性毛细血管扩张症的全球三期HEROIC研究。",
-      "publishedAt": "2026-08-11T07:00:00-04:00",
-      "source": "Vaderis Therapeutics",
-      "url": "https://www.prnewswire.com/news-releases/vaderis-therapeutics-announces-oversubscribed-152-million-series-b-financing-and-initiation-of-the-global-phase-3-heroic-study-of-engasertib-for-hereditary-hemorrhagic-telangiectasia-302845188.html",
-      "subCategory": "医疗健康"
-    },
-    {
       "id": "industry-20260811-006",
       "title": "大家不愿换新手机了！翻新机面板需求量暴涨：规模已超全新机",
       "summary": "研究机构Omdia报告显示，受内存涨价影响智能手机厂商削减产量，2026年一季度出货至二手翻新手机市场的显示面板达2.98亿块，同比增长20%，首次超过出货给新机厂商的2.89亿块。",
@@ -364,6 +373,24 @@
       "source": "新浪科技",
       "url": "https://finance.sina.com.cn/tech/roll/2026-08-11/doc-inimxmer4306564.shtml",
       "subCategory": "新能源汽车"
+    },
+    {
+      "id": "industry-20260814-012",
+      "title": "Vaderis Therapeutics完成1.52亿美元超额认购B轮融资",
+      "summary": "瑞士生物制药公司Vaderis Therapeutics宣布完成1.52亿美元超额认购B轮融资，由高盛另类投资与TCGX领投，用于推进engasertib治疗遗传性出血性毛细血管扩张症的全球三期HEROIC研究。",
+      "publishedAt": "2026-08-11T07:00:00-04:00",
+      "source": "Vaderis Therapeutics",
+      "url": "https://www.prnewswire.com/news-releases/vaderis-therapeutics-announces-oversubscribed-152-million-series-b-financing-and-initiation-of-the-global-phase-3-heroic-study-of-engasertib-for-hereditary-hemorrhagic-telangiectasia-302845188.html",
+      "subCategory": "医疗健康"
+    },
+    {
+      "id": "industry-20260811-001",
+      "title": "AI进药企，新药研发在提速",
+      "summary": "经济日报报道，AI已深度融入新药研发全链条：全球AI药物发现市场规模约26亿美元，170多个AI原创新药项目进入临床开发阶段，AI发现分子的I期临床成功率达80%-90%，高于传统药牆52%的历史均值。",
+      "publishedAt": "2026-08-11T06:05:00+08:00",
+      "source": "经济日报",
+      "url": "https://finance.sina.com.cn/jjxw/2026-08-11/doc-inimwuhy5989814.shtml",
+      "subCategory": "医疗健康"
     },
     {
       "title": "IDC：2026年第二季度印度智能手机出货量同比下降11.1%",
@@ -400,15 +427,6 @@
       "source": "199IT",
       "url": "https://www.199it.com/archives/1813101.html",
       "subCategory": "行业研报"
-    },
-    {
-      "id": "industry-20260811-001",
-      "title": "AI进药企，新药研发在提速",
-      "summary": "经济日报报道，AI已深度融入新药研发全链条：全球AI药物发现市场规模约26亿美元，170多个AI原创新药项目进入临床开发阶段，AI发现分子的I期临床成功率达80%-90%，高于传统药牆52%的历史均值。",
-      "publishedAt": "2026-08-11T06:05:00+08:00",
-      "source": "经济日报",
-      "url": "https://finance.sina.com.cn/jjxw/2026-08-11/doc-inimwuhy5989814.shtml",
-      "subCategory": "医疗健康"
     },
     {
       "id": "industry-20260811-002",
@@ -492,24 +510,6 @@
       "id": "industry-20260810-x04"
     },
     {
-      "title": "IDC：中国企业级智能体数量预计从200万增至500万",
-      "summary": "IDC报告指出，中国活跃企业级AI智能体数量预计将从2025年约200万个增长至2026年约500万个，企业级AI平台呈现涵盖基础设施、数据、智能体开发、流程、应用与治理安全的六层全栈架构。",
-      "publishedAt": "2026-08-10",
-      "source": "IDC",
-      "url": "https://www.idc.com/resource-center/press-releases/%e4%bb%8e200%e4%b8%87%e5%88%b0500%e4%b8%87%ef%bc%9a%e6%99%ba%e8%83%bd%e4%bd%93%e4%bb%8e%e6%a6%82%e5%bf%b5%e8%b5%b0%e5%90%91%e8%a7%84%e6%a8%a1%e5%8c%96%e8%90%bd%e5%9c%b0%ef%bc%8c%e4%bc%81%e4%b8%9a/",
-      "subCategory": "行业研报",
-      "id": "industry-20260813-007"
-    },
-    {
-      "title": "Gartner：预计2026年全球AI优化型IaaS支出将增长96%",
-      "summary": "Gartner预测，2026年全球AI优化型基础设施即服务（IaaS）支出将达420亿美元，同比增长96%，2027年将进一步增至660亿美元；其中推理相关支出233亿美元，首次超过训练支出的190亿美元。",
-      "publishedAt": "2026-08-10",
-      "source": "Gartner（经TechEdgeAI转载）",
-      "url": "https://techedgeai.com/gartner-forecasts-worldwide-ai-optimized-iaas-spending-to-grow-96-through-2026/",
-      "subCategory": "行业研报",
-      "id": "industry-20260813-005"
-    },
-    {
       "id": "industry-20260810-n01",
       "title": "2026年广告、营销与数据展望：B2B持续演进",
       "summary": "报告显示，美国B2B营销支出预计从2023年627.5亿美元增至2026年808.2亿美元，年复合增长率≤00%至10%；线上渠道支出预计达377亿美元，同比增长22%，搜索、社交、展示广告合计约占预算八成。",
@@ -535,6 +535,24 @@
       "source": "Omdia",
       "url": "https://www.199it.com/archives/1814669.html",
       "subCategory": "消费零售"
+    },
+    {
+      "title": "IDC：中国企业级智能体数量预计从200万增至500万",
+      "summary": "IDC报告指出，中国活跃企业级AI智能体数量预计将从2025年约200万个增长至2026年约500万个，企业级AI平台呈现涵盖基础设施、数据、智能体开发、流程、应用与治理安全的六层全栈架构。",
+      "publishedAt": "2026-08-10",
+      "source": "IDC",
+      "url": "https://www.idc.com/resource-center/press-releases/%e4%bb%8e200%e4%b8%87%e5%88%b0500%e4%b8%87%ef%bc%9a%e6%99%ba%e8%83%bd%e4%bd%93%e4%bb%8e%e6%a6%82%e5%bf%b5%e8%b5%b0%e5%90%91%e8%a7%84%e6%a8%a1%e5%8c%96%e8%90%bd%e5%9c%b0%ef%bc%8c%e4%bc%81%e4%b8%9a/",
+      "subCategory": "行业研报",
+      "id": "industry-20260813-007"
+    },
+    {
+      "title": "Gartner：预计2026年全球AI优化型IaaS支出将增长96%",
+      "summary": "Gartner预测，2026年全球AI优化型基础设施即服务（IaaS）支出将达420亿美元，同比增长96%，2027年将进一步增至660亿美元；其中推理相关支出233亿美元，首次超过训练支出的190亿美元。",
+      "publishedAt": "2026-08-10",
+      "source": "Gartner（经TechEdgeAI转载）",
+      "url": "https://techedgeai.com/gartner-forecasts-worldwide-ai-optimized-iaas-spending-to-grow-96-through-2026/",
+      "subCategory": "行业研报",
+      "id": "industry-20260813-005"
     },
     {
       "id": "industry-20260810-n04",
