@@ -3,43 +3,106 @@
   "slug": "tech",
   "title": "科技新闻",
   "description": "前沿科技、互联网产品、芯片硬件、开源生态。",
-  "updatedAt": "2026-08-15T00:55:00+08:00",
+  "updatedAt": "2026-08-15T08:50:00+08:00",
   "items": [
     {
-      "id": "tech-20260815-001",
-      "title": "小米澎湃OS 4 Beta版首批机型开始推送，各批次推送时间公布",
-      "summary": "小米澎湃OS官方宣布，澎湃OS 4 Beta版已开启第一批次推送，覆盖Xiaomi 17全系列、REDMI K90 Pro Max/K90及小米平板8系列等机型，第二、三批次将分别于8月27日和9月17日陆续推送。",
-      "publishedAt": "2026-08-14T15:12:39+08:00",
+      "id": "tech-20260815-501",
+      "title": "英特尔发布 32.0.101.8974 WHQL 显卡驱动",
+      "summary": "英特尔发布适用于Arc独立显卡及酷睿Ultra系列核显的32.0.101.8974 WHQL认证驱动，在《模拟农场2022》1080P中画质下最高提升13%帧率，并修复《GTA5：决定版》《极限竞速：地平线6》等游戏显示问题，支持Windows10/11系统。",
+      "publishedAt": "2026-08-15T08:01:05+08:00",
       "source": "IT之家",
-      "url": "https://www.ithome.com/0/989/718.htm",
+      "url": "https://www.ithome.com/0/989/983.htm",
+      "subCategory": "芯片硬件"
+    },
+    {
+      "id": "tech-20260815-502",
+      "title": "小米澎湃OS：\"超级小爱灵感球\"9月内上线Beta版",
+      "summary": "小米澎湃OS官方公布HyperOS 4新功能计划：全新交互方式\"超级小爱灵感球\"将于9月内推出Beta版，整合外卖取件码、驿站取件码等场景的\"外卖码岛\"不晚于8月底上线，OS 4 Beta推送分三批进行，首批已面向小米17系列等机型推送。",
+      "publishedAt": "2026-08-15T07:56:42+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/989/981.htm",
       "subCategory": "操作系统"
     },
     {
-      "id": "tech-20260815-002",
-      "title": "苹果CEO库克谈自身历史地位：希望外界记得他是善良、正直的人",
-      "summary": "苹果CEO库克接受CBS采访时表示，不会亲自定义自己的历史地位，将交由他人评判，希望被记住是一个善良、正直的人；据此前报道，约翰·特努斯将于9月1日接任CEO，库克届时转任董事会执行董事长。",
-      "publishedAt": "2026-08-14T16:13:04+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/989/790.htm",
-      "subCategory": "消费电子"
-    },
-    {
-      "id": "tech-20260815-003",
-      "title": "5米1大五座旗舰 纯电续航402km！魏牌V8X上市 限时22.68万起",
-      "summary": "魏牌全新大五座旗舰SUV V8X正式上市，推出豪华家庭版与运动版共五个版本，官方零售价23.98万至31.58万元，叠加限时权益后最低22.68万元起，纯电续航达402公里。",
-      "publishedAt": "2026-08-14T22:51:55+08:00",
+      "id": "tech-20260815-503",
+      "title": "预售43.98万起 华为享界G9\"寰宇红\"实车曝光",
+      "summary": "华为鸿蒙智行旗下享界G9将于8月20日上市，预售价43.98万元起。曝光的\"寰宇红\"车漆强光下呈紫红色调，选装价7000元（限时优惠3500元）。新车车长5206-5377mm、轴距3160mm，提供增程与纯电双动力，支持激光雷达及L3级自动驾驶硬件。",
+      "publishedAt": "2026-08-15T07:39:41+08:00",
       "source": "快科技",
-      "url": "https://news.mydrivers.com/1/1143/1143900.htm",
+      "url": "https://news.mydrivers.com/1/1143/1143919.htm",
       "subCategory": "智能汽车"
     },
     {
-      "id": "tech-20260815-004",
-      "title": "AMD下代CPU Zen7很疯狂：384核+1.4nm工艺 IPC大涨25%",
-      "summary": "据博主爆料，AMD下一代Zen7架构服务器芯片代号Snowmass，将采用台积电等效1.4nm的A14工艺，单芯粒最高48核、总核心数可达384个，IPC性能较现有产品提升15%至25%，预计2028年年中发布。",
-      "publishedAt": "2026-08-14T22:48:43+08:00",
+      "id": "tech-20260815-504",
+      "title": "苹果美国官网翻新新增iPhone16 Plus及多款MacBook Pro，价格约低15%",
+      "summary": "苹果美国官方认证翻新商店新增iPhone16 Plus、多款MacBook Pro/Air及Apple Watch等产品，售价较全新款低约15%。其中M5芯片MacBook价格区间1099至6799美元，最高降价1200美元；iPhone16 Plus提供128GB至512GB版本，均享一年保修及14天退换。",
+      "publishedAt": "2026-08-15T07:26:16+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/989/976.htm",
+      "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260815-508",
+      "title": "微软推送Win11 26x00.9267 RP预览版：任务栏可自由指定停靠位置",
+      "summary": "微软面向Windows11多个版本发布Release Preview预览版更新26x00.9267，新增任务栏位置自定义功能，支持将任务栏停靠在屏幕底部、顶部、左侧或右侧，方便用户按个人使用习惯调整桌面布局。",
+      "publishedAt": "2026-08-15T07:16:00+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/989/973.htm",
+      "subCategory": "操作系统"
+    },
+    {
+      "id": "tech-20260815-507",
+      "title": "小米汽车详解澎湃门把手三重安全冗余设计",
+      "summary": "小米汽车官方详解\"澎湃门把手\"的安全冗余机制，称设计覆盖车外开启、车内开启与门锁供电三个环节，均具备三重冗余，旨在保障碰撞等极端情况下车门仍可正常开启，降低电子门把手在断电等场景下的应急风险。",
+      "publishedAt": "2026-08-15T06:57:00+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/989/972.htm",
+      "subCategory": "智能汽车"
+    },
+    {
+      "id": "tech-20260815-506",
+      "title": "英伟达全面投产Spectrum-X，称全球首款量产200G/lane CPO交换机",
+      "summary": "英伟达宣布Spectrum-X硅光以太网交换机全面投产，称其为全球首款量产的200G/lane共封装光学（CPO）以太网交换系统。产品线包括2U液冷SN6810（128×800Gb/s端口，102.4Tb/s交换容量）与5U的SN6800（512×800Gb/s端口，409.6Tb/s容量），台积电、日月光等参与代工。",
+      "publishedAt": "2026-08-15T06:53:56+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/989/970.htm",
+      "subCategory": "网络基础设施"
+    },
+    {
+      "id": "tech-20260815-009",
+      "title": "荣耀首席影像工程师罗巍预告明年推出全新产品",
+      "summary": "荣耀首席影像工程师罗巍在社交平台发文预告，公司明年将推出一款外界从未见过、甚至未曾设想过的全新产品，目前尚未透露产品形态、名称及具体发布时间，消息引发外界对荣耀下一代新品的关注。",
+      "publishedAt": "2026-08-15T00:04:46+08:00",
       "source": "快科技",
-      "url": "https://news.mydrivers.com/1/1143/1143899.htm",
-      "subCategory": "芯片硬件"
+      "url": "https://news.mydrivers.com/1/1143/1143912.htm",
+      "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260815-008",
+      "title": "多年惯例被打破！苹果供应商首次证实iPhone 18缺席9月科技春晚",
+      "summary": "苹果供应商和硕科技在近期法人说明会上证实，iPhone 18 Pro系列将于9月正式上市，而标准版iPhone 18将推迟至2027年春季发布，打破了苹果此前坚持多年的秋季全系同步上市惯例。",
+      "publishedAt": "2026-08-15T00:01:42+08:00",
+      "source": "快科技",
+      "url": "https://news.mydrivers.com/1/1143/1143911.htm",
+      "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260815-007",
+      "title": "小米回应升级澎湃OS 4后手机发热、费电：系统重新编译 3天内恢复",
+      "summary": "小米官方回应澎湃OS 4 Beta版首批推送后部分用户反馈的发热、耗电问题，称系统升级后会自动重新编译应用以适配新内存管理机制，后台编译占用CPU资源导致短期功耗上升，正常使用约3天后即可恢复稳定。",
+      "publishedAt": "2026-08-15T00:01:00+08:00",
+      "source": "快科技",
+      "url": "https://news.mydrivers.com/1/1143/1143910.htm",
+      "subCategory": "操作系统"
+    },
+    {
+      "id": "tech-20260815-509",
+      "title": "福特斥资20亿美元推进平价纯电皮卡Fathom项目",
+      "summary": "福特宣布投资20亿美元改造肯塔基州路易斯维尔工厂，以三线并行的新装配体系取代沿用近百年的传统产线，用于生产平价纯电皮卡Fathom，该车型计划于2027年上市，是福特应对电动车市场竞争的重要举措。",
+      "publishedAt": "2026-08-14T23:55:22+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/989/967.htm",
+      "subCategory": "智能汽车"
     },
     {
       "id": "tech-20260815-005",
@@ -60,31 +123,76 @@
       "subCategory": "智能汽车"
     },
     {
-      "id": "tech-20260815-007",
-      "title": "小米回应升级澎湃OS 4后手机发热、费电：系统重新编译 3天内恢复",
-      "summary": "小米官方回应澎湃OS 4 Beta版首批推送后部分用户反馈的发热、耗电问题，称系统升级后会自动重新编译应用以适配新内存管理机制，后台编译占用CPU资源导致短期功耗上升，正常使用约3天后即可恢复稳定。",
-      "publishedAt": "2026-08-15T00:01:00+08:00",
+      "id": "tech-20260815-003",
+      "title": "5米1大五座旗舰 纯电续航402km！魏牌V8X上市 限时22.68万起",
+      "summary": "魏牌全新大五座旗舰SUV V8X正式上市，推出豪华家庭版与运动版共五个版本，官方零售价23.98万至31.58万元，叠加限时权益后最低22.68万元起，纯电续航达402公里。",
+      "publishedAt": "2026-08-14T22:51:55+08:00",
       "source": "快科技",
-      "url": "https://news.mydrivers.com/1/1143/1143910.htm",
+      "url": "https://news.mydrivers.com/1/1143/1143900.htm",
+      "subCategory": "智能汽车"
+    },
+    {
+      "id": "tech-20260815-004",
+      "title": "AMD下代CPU Zen7很疯狂：384核+1.4nm工艺 IPC大涨25%",
+      "summary": "据博主爆料，AMD下一代Zen7架构服务器芯片代号Snowmass，将采用台积电等效1.4nm的A14工艺，单芯粒最高48核、总核心数可达384个，IPC性能较现有产品提升15%至25%，预计2028年年中发布。",
+      "publishedAt": "2026-08-14T22:48:43+08:00",
+      "source": "快科技",
+      "url": "https://news.mydrivers.com/1/1143/1143899.htm",
+      "subCategory": "芯片硬件"
+    },
+    {
+      "id": "tech-20260815-512",
+      "title": "苹果地图广告位面向美加商家开放预订",
+      "summary": "苹果地图（Apple Maps）开放广告位招商，面向美国、加拿大商家开放提前预订，宣传显示提前预订最高可获得每月1000美元返现，这是苹果地图拓展本地商业广告变现渠道的最新动作。",
+      "publishedAt": "2026-08-14T22:42:25+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/989/946.htm",
+      "subCategory": "互联网产品"
+    },
+    {
+      "id": "tech-20260815-505",
+      "title": "消息称三星HBM基础裸片将升级至2nm工艺",
+      "summary": "据报道，三星计划将一条在建产线改造用于生产HBM基础裸片，采用2nm先进制程，预计约两年后投产。该举措延续了三星自主研发4nm HBM4基础裸片的技术路线，反映存储大厂在HBM基础裸片制造上正加速转向更先进节点。",
+      "publishedAt": "2026-08-14T22:35:37+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/989/945.htm",
+      "subCategory": "芯片硬件"
+    },
+    {
+      "id": "tech-20260815-510",
+      "title": "奥迪专利显示新型增程系统可少用一台电机实现quattro四驱",
+      "summary": "奥迪新专利显示一种增程式动力方案，采用双电机加一台内燃机的组合，省去独立发电机，据称仍可实现quattro四驱效果，旨在降低成本与结构复杂度。该方案目前仅处于专利阶段，尚无量产车型时间表。",
+      "publishedAt": "2026-08-14T22:23:00+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/989/942.htm",
+      "subCategory": "智能汽车"
+    },
+    {
+      "id": "tech-20260815-002",
+      "title": "苹果CEO库克谈自身历史地位：希望外界记得他是善良、正直的人",
+      "summary": "苹果CEO库克接受CBS采访时表示，不会亲自定义自己的历史地位，将交由他人评判，希望被记住是一个善良、正直的人；据此前报道，约翰·特努斯将于9月1日接任CEO，库克届时转任董事会执行董事长。",
+      "publishedAt": "2026-08-14T16:13:04+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/989/790.htm",
+      "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260815-001",
+      "title": "小米澎湃OS 4 Beta版首批机型开始推送，各批次推送时间公布",
+      "summary": "小米澎湃OS官方宣布，澎湃OS 4 Beta版已开启第一批次推送，覆盖Xiaomi 17全系列、REDMI K90 Pro Max/K90及小米平板8系列等机型，第二、三批次将分别于8月27日和9月17日陆续推送。",
+      "publishedAt": "2026-08-14T15:12:39+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/989/718.htm",
       "subCategory": "操作系统"
     },
     {
-      "id": "tech-20260815-008",
-      "title": "多年惯例被打破！苹果供应商首次证实iPhone 18缺席9月科技春晚",
-      "summary": "苹果供应商和硕科技在近期法人说明会上证实，iPhone 18 Pro系列将于9月正式上市，而标准版iPhone 18将推迟至2027年春季发布，打破了苹果此前坚持多年的秋季全系同步上市惯例。",
-      "publishedAt": "2026-08-15T00:01:42+08:00",
-      "source": "快科技",
-      "url": "https://news.mydrivers.com/1/1143/1143911.htm",
-      "subCategory": "消费电子"
-    },
-    {
-      "id": "tech-20260815-009",
-      "title": "荣耀首席影像工程师罗巍预告明年推出全新产品",
-      "summary": "荣耀首席影像工程师罗巍在社交平台发文预告，公司明年将推出一款外界从未见过、甚至未曾设想过的全新产品，目前尚未透露产品形态、名称及具体发布时间，消息引发外界对荣耀下一代新品的关注。",
-      "publishedAt": "2026-08-15T00:04:46+08:00",
-      "source": "快科技",
-      "url": "https://news.mydrivers.com/1/1143/1143912.htm",
-      "subCategory": "消费电子"
+      "id": "tech-20260815-511",
+      "title": "黑客利用macOS屏幕共享漏洞植入门罗币挖矿程序",
+      "summary": "荷兰国家网络安全中心警告，攻击者正利用macOS屏幕共享功能中的身份验证绕过漏洞CVE-2026-65400发起攻击，该漏洞影响开放5900端口的VNC远程桌面服务。苹果已于8月6日在macOS Tahoe 26.6.1等版本修复，已知案例中攻击者获取root权限并植入门罗币挖矿程序。",
+      "publishedAt": "2026-08-14T10:59:00-04:00",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-macos-screen-sharing-flaw-to-deploy-monero-miner/",
+      "subCategory": "安全漏洞"
     },
     {
       "id": "tech-20260814-020",
@@ -148,6 +256,33 @@
       "source": "IT之家",
       "url": "https://www.ithome.com/0/989/504.htm",
       "subCategory": "智能汽车"
+    },
+    {
+      "id": "tech-20260814-016",
+      "title": "思科修复防火墙拒绝服务漏洞CVE-2026-20349",
+      "summary": "思科修复了Secure Firewall产品中一个无需身份验证即可利用的高危漏洞，攻击者可发送特制HTTP请求致设备意外重启，CISA要求联邦机构于8月14日前完成修复。",
+      "publishedAt": "2026-08-13",
+      "source": "Help Net Security",
+      "url": "https://www.helpnetsecurity.com/2026/08/13/cve-2026-20349-cisco-firewalls-dos/",
+      "subCategory": "安全漏洞"
+    },
+    {
+      "id": "tech-20260814-017",
+      "title": "GitHub改进开源许可证数据质量，缺失率从45%降至24%",
+      "summary": "GitHub优先使用npm、PyPI、crates.io等官方软件包注册表元数据识别许可证信息，使1.7亿个软件包中的许可证缺失比例从45%降至24%，提升依赖关系图与SBOM准确性。",
+      "publishedAt": "2026-08-13",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/changelog/2026-08-13-license-data-quality-improvements",
+      "subCategory": "开源生态"
+    },
+    {
+      "id": "tech-20260814-018",
+      "title": "GitHub个人仓库新增评论区一键拉黑用户功能",
+      "summary": "GitHub为个人仓库的Issue与PR评论区新增拉黑功能，维护者可在评论\"更多\"菜单中直接拉黑或解除拉黑用户，并可添加私密备注，无需离开当前页面即可处理垃圾内容。",
+      "publishedAt": "2026-08-13",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/changelog/2026-08-13-block-users-from-comments-in-personal-repositories",
+      "subCategory": "开发者工具"
     },
     {
       "id": "tech-20260814-007",
@@ -519,33 +654,6 @@
       "id": "tech-20260813-002"
     },
     {
-      "id": "tech-20260814-016",
-      "title": "思科修复防火墙拒绝服务漏洞CVE-2026-20349",
-      "summary": "思科修复了Secure Firewall产品中一个无需身份验证即可利用的高危漏洞，攻击者可发送特制HTTP请求致设备意外重启，CISA要求联邦机构于8月14日前完成修复。",
-      "publishedAt": "2026-08-13",
-      "source": "Help Net Security",
-      "url": "https://www.helpnetsecurity.com/2026/08/13/cve-2026-20349-cisco-firewalls-dos/",
-      "subCategory": "安全漏洞"
-    },
-    {
-      "id": "tech-20260814-017",
-      "title": "GitHub改进开源许可证数据质量，缺失率从45%降至24%",
-      "summary": "GitHub优先使用npm、PyPI、crates.io等官方软件包注册表元数据识别许可证信息，使1.7亿个软件包中的许可证缺失比例从45%降至24%，提升依赖关系图与SBOM准确性。",
-      "publishedAt": "2026-08-13",
-      "source": "GitHub Blog",
-      "url": "https://github.blog/changelog/2026-08-13-license-data-quality-improvements",
-      "subCategory": "开源生态"
-    },
-    {
-      "id": "tech-20260814-018",
-      "title": "GitHub个人仓库新增评论区一键拉黑用户功能",
-      "summary": "GitHub为个人仓库的Issue与PR评论区新增拉黑功能，维护者可在评论\"更多\"菜单中直接拉黑或解除拉黑用户，并可添加私密备注，无需离开当前页面即可处理垃圾内容。",
-      "publishedAt": "2026-08-13",
-      "source": "GitHub Blog",
-      "url": "https://github.blog/changelog/2026-08-13-block-users-from-comments-in-personal-repositories",
-      "subCategory": "开发者工具"
-    },
-    {
       "title": "微软发布《战争机器：事变日》主题 XBOX 控制器：将\"开裂的沥青路面\"铺上手柄",
       "summary": "微软推出两款《战争机器：事变日》主题Xbox无线手柄限定版，采用3D浮雕与激光蚀刻工艺呈现开裂沥青质感与标志性红色裂纹，多数按键为黑色，X键、扉机及方向键采用透红材质，即日起预售，10月6日随游戏同步发售，并将同步推出8BitDo联名充电底座。",
       "publishedAt": "2026-08-12T23:29:27+08:00",
@@ -616,114 +724,6 @@
       "url": "https://news.mydrivers.com/1/1143/1143195.htm",
       "subCategory": "航空航天",
       "id": "tech-20260812-030"
-    },
-    {
-      "title": "华为之外第一：深开鸿贡献 OpenHarmony 主干代码突破1000 万行",
-      "summary": "深开鸿宣布向OpenHarmony主干代码贡献量突破1000万行，成为华为之外贡献最多的生态伙伴，公司拥有4个PMC席位，并协调30个SIG小组、330余名代码贡献者。",
-      "publishedAt": "2026-08-12T16:07:00+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/988/806.htm",
-      "subCategory": "开源生态",
-      "id": "tech-20260812-019"
-    },
-    {
-      "title": "vivo 新机通过 3C 认证，预计为 X500 系列或 iQOO 16",
-      "summary": "vivo两款新机型号V2606A与V2609A通过3C认证，分别对应X500系列与iQOO 16，支掇90W与100W快充，预计将分别搭载天瑞9600与驵龙8至尊版第六代芯片。",
-      "publishedAt": "2026-08-12T15:57:48+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/988/802.htm",
-      "subCategory": "消费电子",
-      "id": "tech-20260812-033"
-    },
-    {
-      "title": "中国存储站起来！长江超越铠侠成全球第三大NAND闪存出货方",
-      "summary": "Counterpoint报告称长江存储已超越铠侠成为全球第三大NAND闪存供应商，市场份额达14%，同比增长22%，但企业级存储业务规模仍落后于铠侠与美光。",
-      "publishedAt": "2026-08-12T15:51:11+08:00",
-      "source": "快科技",
-      "url": "https://news.mydrivers.com/1/1143/1143185.htm",
-      "subCategory": "芯片硬件",
-      "id": "tech-20260812-022"
-    },
-    {
-      "title": "特斯拉车主赢麦了！马斯克：未来所有特斯拉车都将配备星链系统",
-      "summary": "马斯克在财报电话会上表示未来特斯拉车型都将配备星链卫星系统，Cybercab已搭载星链V5硬件，但受限于牌照，该功能暂无法在中国市场使用。",
-      "publishedAt": "2026-08-12T15:45:38+08:00",
-      "source": "快科技",
-      "url": "https://news.mydrivers.com/1/1143/1143183.htm",
-      "subCategory": "智能汽车",
-      "id": "tech-20260812-032"
-    },
-    {
-      "title": "广告拦截器全面受限！Chrome杀完Edge跟进：Firefox跃机喜话揬客",
-      "summary": "微软Edge浏览器宣布停止支持Manifest V2扩展，跟进Chrome此前的转型，uBlock Origin等广告拦截插件功能将大幅受限，Firefox则表态将继续支持相关插件。",
-      "publishedAt": "2026-08-12T15:11:16+08:00",
-      "source": "快科技",
-      "url": "https://news.mydrivers.com/1/1143/1143171.htm",
-      "subCategory": "互联网产品",
-      "id": "tech-20260812-026"
-    },
-    {
-      "title": "微星新款34寸4K显示器首发5999元：第五代QD-OLED面板",
-      "summary": "微星发常式34英寸4K超宽显示器PRO MAX 341QPXW14G，首发价5999元，搭载三星第五代QD-OLED面板，支持144Hz刷新率、1300尼特峰值亮度及双Type-C 98W供电。",
-      "publishedAt": "2026-08-12T15:06:46+08:00",
-      "source": "快科技",
-      "url": "https://news.mydrivers.com/1/1143/1143169.htm",
-      "subCategory": "消费电子",
-      "id": "tech-20260812-027"
-    },
-    {
-      "title": "今年1亿台目标有望达成！华为鸿蒙装机量将螺7900万台，日均增17万台",
-      "summary": "华为披露鸿蒙操作系统装机量截至8月11日已达约7870万台，日均新增约17.3万台，按当前增速预计年底前有望突破今年设定的1亿台安装目标。",
-      "publishedAt": "2026-08-12T14:05:09+08:00",
-      "source": "快科技",
-      "url": "https://news.mydrivers.com/1/1143/1143136.htm",
-      "subCategory": "操作系统",
-      "id": "tech-20260812-031"
-    },
-    {
-      "title": "Intel暗示重返内存市场：已有XBM技术积累，比HBM还优秀",
-      "summary": "英特尔CEO陈立武暗示公司可能重返内存市场，被曝已积累名为XBM的高带宽内存技术，采用1T1C晶体管电容结构，带宽约为HBM4两倍，但量产仍需数年时间。",
-      "publishedAt": "2026-08-12T13:18:08+08:00",
-      "source": "快科技",
-      "url": "https://news.mydrivers.com/1/1143/1143129.htm",
-      "subCategory": "芯片硬件",
-      "id": "tech-20260812-023"
-    },
-    {
-      "title": "阿里云灵骏真武M890超节点上线，可运行超2万亿参数大模型",
-      "summary": "阿里云灵骏真武M890超节点在乌兰察布区域上线，支持64卡高速互联算力单元，单实例最高可运行超2万亿参数大模型，卡间带宽达800GB/s，已服务多款大模型推理。",
-      "publishedAt": "2026-08-12T12:49:49+08:00",
-      "source": "快科技",
-      "url": "https://news.mydrivers.com/1/1143/1143125.htm",
-      "subCategory": "云计算",
-      "id": "tech-20260812-029"
-    },
-    {
-      "title": "英特尔一口气修了8个漏洞！酷睛Ultra到至强全中招：速更新微码",
-      "summary": "英特尔发埼20260811版本微码，修备8个安全漏洞，涉及第十代酷睛至至强6全平台，其中权限提升漏洞INTEL-SA-01379最为严重，需通过主板列BIOS或系统更新修复。",
-      "publishedAt": "2026-08-12T12:49:00+08:00",
-      "source": "快科技",
-      "url": "https://news.mydrivers.com/1/1143/1143124.htm",
-      "subCategory": "安全漏洞",
-      "id": "tech-20260812-024"
-    },
-    {
-      "title": "行业首次！小鹏G9L完成水陆空720度七重安全测试：车身未裂电池未起火",
-      "summary": "小鹏官方称G9L完成水陆空共七项极限安全测试，包括整车浸水、托底、螺旋侧翻及三次百公里时速碰撞，测试后车身未开裂、电池未起火，高压系统无泄漏。",
-      "publishedAt": "2026-08-12T12:12:11+08:00",
-      "source": "快科技",
-      "url": "https://news.mydrivers.com/1/1143/1143118.htm",
-      "subCategory": "智能汽车",
-      "id": "tech-20260812-028"
-    },
-    {
-      "title": "Lazarus hackers exploited Windows zero-day to target defense firms",
-      "summary": "研究人员发现朝鲜黑客组织Lazarus利用Windows内核驱动AFD.sys中的0day漏洞（CVE-2026-68820）针对国防、航空航天企业发起攻击，微软已在8月补丁日修复该漏洞，攻击活动被归入Dream Job行动。",
-      "publishedAt": "2026-08-12T11:38:00-04:00",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/lazarus-hackers-exploited-windows-zero-day-to-target-defense-firms/",
-      "subCategory": "安全漏洞",
-      "id": "tech-20260813-005"
     }
   ]
 }

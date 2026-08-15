@@ -3,25 +3,16 @@
   "slug": "finance",
   "title": "投资与财经",
   "description": "宏观经济、A 股 / 港股 / 美股、一级市场融资、行业研报观点。",
-  "updatedAt": "2026-08-15T00:55:00+08:00",
+  "updatedAt": "2026-08-15T08:50:00+08:00",
   "items": [
     {
-      "id": "finance-20260815-001",
-      "title": "A股收评：超2900只个股飘绿，三大指数集体收涨",
-      "summary": "沪指涨0.01%，深成指涨0.45%，创业板指涨1.12%，两市成交额2.15万亿元，超2900只个股下跌。通信设备、能源设备、半导体等板块上涨，保险、酒类、券商等板块下跌，稀土、CPO概念走强。",
-      "publishedAt": "2026-08-14T15:14:07+08:00",
-      "source": "中国新闻网",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-14/10677647.shtml",
-      "subCategory": "A股"
-    },
-    {
-      "id": "finance-20260815-002",
-      "title": "8月14日港股收盘：恒指跌1.1% 恒生科技指数跌1.77%",
-      "summary": "恒生指数收报25116.85点，跌279.66点，跌幅1.1%；恒生科技指数收报4707.62点，跌84.77点，跌幅1.77%。京东物流、京东集团－SW、长江基建跌幅居前，中芯国际、中国电信、港铁公司领涨。",
-      "publishedAt": "2026-08-14T16:10:00+08:00",
-      "source": "东方财富网",
-      "url": "https://emwap.eastmoney.com/a/202608143841742126.html",
-      "subCategory": "港股"
+      "id": "finance-20260815-504",
+      "title": "贵州茅台上半年净利润445.17亿元，同比下降1.95%",
+      "summary": "贵州茅台披露2026年半年报，上半年实现营业收入907.03亿元，同比增长1.47%；归属于上市公司股东的净利润445.17亿元，同比下降1.95%，其中二季度净利润较一季度环比下滑约36%。",
+      "publishedAt": "2026-08-14T20:42:33+08:00",
+      "source": "财联社",
+      "url": "https://www.cls.cn/detail/2454847",
+      "subCategory": "公司财报"
     },
     {
       "id": "finance-20260815-003",
@@ -33,13 +24,49 @@
       "subCategory": "公司财报"
     },
     {
-      "id": "finance-20260815-004",
-      "title": "美国7月零售销售环比意外下降0.6%，创2025年5月以来最大降幅",
-      "summary": "美国商务部数据显示，7月零售销售环比下降0.6%，为2025年5月以来最大降幅，此前6月环比上修为增长0.2%；剔除汽车和加油站后环比下降0.2%，线上零售环比下降2.2%。",
-      "publishedAt": "2026-08-14T07:41:00-05:00",
+      "id": "finance-20260815-502",
+      "title": "港股8月14日收跌，恒指跌1.1%，京东系股票领跌",
+      "summary": "港股8月14日收盘走低，恒生指数跌1.1%报25116.85点，恒生科技指数跌1.77%，京东系股票领跌，京东跌超10%，京东物流跌超12%，美团跌超4%；黄金股逆市走强，卫龙美味涨超10%。",
+      "publishedAt": "2026-08-14T16:32:59+08:00",
+      "source": "每日经济新闻",
+      "url": "https://www.nbd.com.cn/articles/2026-08-14/4542173.html",
+      "subCategory": "港股"
+    },
+    {
+      "id": "finance-20260815-002",
+      "title": "8月14日港股收盘：恒指跌1.1% 恒生科技指数跌1.77%",
+      "summary": "恒生指数收报25116.85点，跌279.66点，跌幅1.1%；恒生科技指数收报4707.62点，跌84.77点，跌幅1.77%。京东物流、京东集团－SW、长江基建跌幅居前，中芯国际、中国电信、港铁公司领涨。",
+      "publishedAt": "2026-08-14T16:10:00+08:00",
+      "source": "东方财富网",
+      "url": "https://emwap.eastmoney.com/a/202608143841742126.html",
+      "subCategory": "港股"
+    },
+    {
+      "id": "finance-20260815-501",
+      "title": "A股三大指数8月14日涨跌互现，创业板指涨1.12%领涨",
+      "summary": "沪深两市三大股指8月14日收盘涨跌不一，沪指涨0.01%，深成指涨0.45%，创业板指涨1.12%，两市成交额2.14万亿元，为连续第9个交易日突破2万亿元，CPO及算力租赁概念走强，多只高位股跌停。",
+      "publishedAt": "2026-08-14T15:38:00+08:00",
+      "source": "每日经济新闻",
+      "url": "https://www.mrjjxw.com/articles/2026-08-14/4542104.html",
+      "subCategory": "A股"
+    },
+    {
+      "id": "finance-20260815-001",
+      "title": "A股收评：超2900只个股飘绿，三大指数集体收涨",
+      "summary": "沪指涨0.01%，深成指涨0.45%，创业板指涨1.12%，两市成交额2.15万亿元，超2900只个股下跌。通信设备、能源设备、半导体等板块上涨，保险、酒类、券商等板块下跌，稀土、CPO概念走强。",
+      "publishedAt": "2026-08-14T15:14:07+08:00",
+      "source": "中国新闻网",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-14/10677647.shtml",
+      "subCategory": "A股"
+    },
+    {
+      "id": "finance-20260815-503",
+      "title": "美股三大指数8月14日收跌，但仍收获连续第三周上涨",
+      "summary": "美国三大股指8月14日周五收盘齐跌，标普500指数跌0.17%报7785.76点，道指跌0.2%报53732.41点，纳指跌0.28%报26729.16点，受7月零售销售环比降0.6%及消费者信心走弱拖累，三大指数仍收获连续第三周上涨。",
+      "publishedAt": "2026-08-14T15:03:00-05:00",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/economy/articles/retail-sales-unexpectedly-fall-july-124133129.html",
-      "subCategory": "宏观经济"
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-august-14-dow-sp-500-nasdaq-102635519.html",
+      "subCategory": "美股"
     },
     {
       "id": "finance-20260814-014",
@@ -51,6 +78,15 @@
       "subCategory": "A股"
     },
     {
+      "id": "finance-20260815-004",
+      "title": "美国7月零售销售环比意外下降0.6%，创2025年5月以来最大降幅",
+      "summary": "美国商务部数据显示，7月零售销售环比下降0.6%，为2025年5月以来最大降幅，此前6月环比上修为增长0.2%；剔除汽车和加油站后环比下降0.2%，线上零售环比下降2.2%。",
+      "publishedAt": "2026-08-14T07:41:00-05:00",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/economy/articles/retail-sales-unexpectedly-fall-july-124133129.html",
+      "subCategory": "宏观经济"
+    },
+    {
       "id": "finance-20260814-003",
       "title": "8月14日收盘：标普500指数收盘创历史新高 受通胀数据低于预期及油价下跌提振",
       "summary": "美股8月13日收盘，标普500指数涨0.65%报7798.99点创历史新高，纳指涨0.81%报26803.02点，道指涨0.13%报53839.98点，受美国7月PPI数据低于预期及原油价格下跌提振。",
@@ -58,6 +94,24 @@
       "source": "新浪财经",
       "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-14/doc-ininfmmw4338336.shtml",
       "subCategory": "美股"
+    },
+    {
+      "id": "finance-20260814-012",
+      "title": "上海卓然工程技术股份有限公司关于公司立案调查进展暨退市风险提示公告",
+      "summary": "上海卓然（*ST卓然，688121）公告称，证监会已对公司及实际控制人张劲鸿立案调查，涉嫌信息披露违法违规，初步调查发现公司部分年度财务信息可能存在虚假记载，可能触及科创板重大违法强制退市情形。",
+      "publishedAt": "2026-08-13",
+      "source": "上海证券报",
+      "url": "https://paper.cnstock.com/html/2026-08/13/content_2254539.htm",
+      "subCategory": "风险事件"
+    },
+    {
+      "id": "finance-20260814-013",
+      "title": "Mortgage rates see first drop in six weeks: Mortgage and refinance interest rates today, Thursday, August 13, 2026",
+      "summary": "美国30年期抵押贷款平均利率降至6.67%，较前一周6.69%下降2个基点，为六周来首次下降，就业数据走弱及通胀降温迹象降低了市场对美联储近期加息的预期。",
+      "publishedAt": "2026-08-13",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-rates-see-first-drop-in-six-weeks-mortgage-and-refinance-interest-rates-today-thursday-august-13-2026-100000704.html",
+      "subCategory": "宏观经济"
     },
     {
       "id": "finance-20260814-004",
@@ -249,22 +303,13 @@
       "id": "finance-20260813-011"
     },
     {
-      "id": "finance-20260814-012",
-      "title": "上海卓然工程技术股份有限公司关于公司立案调查进展暨退市风险提示公告",
-      "summary": "上海卓然（*ST卓然，688121）公告称，证监会已对公司及实际控制人张劲鸿立案调查，涉嫌信息披露违法违规，初步调查发现公司部分年度财务信息可能存在虚假记载，可能触及科创板重大违法强制退市情形。",
-      "publishedAt": "2026-08-13",
-      "source": "上海证券报",
-      "url": "https://paper.cnstock.com/html/2026-08/13/content_2254539.htm",
-      "subCategory": "风险事件"
-    },
-    {
-      "id": "finance-20260814-013",
-      "title": "Mortgage rates see first drop in six weeks: Mortgage and refinance interest rates today, Thursday, August 13, 2026",
-      "summary": "美国30年期抵押贷款平均利率降至6.67%，较前一周6.69%下降2个基点，为六周来首次下降，就业数据走弱及通胀降温迹象降低了市场对美联储近期加息的预期。",
-      "publishedAt": "2026-08-13",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-rates-see-first-drop-in-six-weeks-mortgage-and-refinance-interest-rates-today-thursday-august-13-2026-100000704.html",
-      "subCategory": "宏观经济"
+      "title": "Nebius二季度营收同比激增454%",
+      "summary": "AI云服务商Nebius公布第二季度财报，营收5.823亿美元，同比激增454%；调整后EBITDA达2.362亿美元并由负转正，公司重申全年营收指引。",
+      "publishedAt": "2026-08-12",
+      "source": "BusinessWire",
+      "url": "https://www.businesswire.com/news/home/20260812963359/en/Nebius-reports-second-quarter-2026-financial-results",
+      "subCategory": "公司财报",
+      "id": "finance-20260813-010"
     },
     {
       "title": "正荣地产公告66.14亿元境内债重组方案",
@@ -564,15 +609,6 @@
       "id": "finance-20260812-021"
     },
     {
-      "title": "Nebius二季度营收同比激增454%",
-      "summary": "AI云服务商Nebius公布第二季度财报，营收5.823亿美元，同比激增454%；调整后EBITDA达2.362亿美元并由负转正，公司重申全年营收指引。",
-      "publishedAt": "2026-08-12",
-      "source": "BusinessWire",
-      "url": "https://www.businesswire.com/news/home/20260812963359/en/Nebius-reports-second-quarter-2026-financial-results",
-      "subCategory": "公司财报",
-      "id": "finance-20260813-010"
-    },
-    {
       "id": "finance-20260811-103",
       "title": "Trump administration decided not to participate in Intel secondary but gave blessing: report",
       "summary": "据Semafor报道，英特尔CEO陈立武与美国商务部长卢特尼克沟通后，特朗普政府决定不参与英特尔200亿美元二次股票发行的认购，但对该融资计划表示认可，未阻拦其推进。",
@@ -688,42 +724,6 @@
       "source": "金融界",
       "url": "https://stock.jrj.com.cn/2026/08/11201958078486.shtml",
       "subCategory": "A股"
-    },
-    {
-      "title": "上海不筹量子完成数亿元A轮融资",
-      "summary": "上海量子计算企业不筹量子8月11日宣布完成数亿元A轮融资，累计融资近10亿元，国泰海通、金鼎资本、中芯聚源、上海科创集团等机构参与，资金将用于中性原子量子计算核心技术研发及工程化、产品化。",
-      "publishedAt": "2026-08-11T20:08:19+08:00",
-      "source": "华尔街见闻",
-      "url": "https://wallstreetcn.com/livenews/3148070",
-      "subCategory": "一级市场",
-      "id": "finance-20260812-014"
-    },
-    {
-      "id": "finance-20260811-011",
-      "title": "沪指，止步五连阳！A股午后回落，发生了什么？",
-      "summary": "8月11日A股尾盘走弱，结束此前五连阳态势，上证指数跌0.82%，深证成指跌0.4%，创业板指的0.34%，沪深两市成交额较前一交易日有所缩量，机器人、创新药等板块活跃，有色金属板块回落。",
-      "publishedAt": "2026-08-11T15:22:00+08:00",
-      "source": "新浪财经",
-      "url": "https://finance.sina.com.cn/roll/2026-08-11/doc-inimxrnm7504127.shtml",
-      "subCategory": "A股"
-    },
-    {
-      "id": "finance-20260811-001",
-      "title": "江波龙上半年净利润同比暂增约715倍，拟回资4亿至8亿元股份",
-      "summary": "江波龙发布半年度报告，上半年营收240.88亿元，同比增长136.26%；归属净利润105.77亿元，同比增长约715倍。公司计划以4亿至8亿元自有资金回购股份，用于股权激励。",
-      "publishedAt": "2026-08-11T08:11:19+08:00",
-      "source": "第一财经",
-      "url": "https://www.yicai.com/news/103312758.html",
-      "subCategory": "公司财报"
-    },
-    {
-      "id": "finance-20260811-002",
-      "title": "美国战略石油储备降至2.987亿桶创1983年以来新低，特朗普将《琼斯法案》豁免延长90天",
-      "summary": "美国战略石油储备(SPR)降至2.987亿桶，创1983年以来新低。特朗普将《琼斯法案》豁免延长90天至11月中旬，允许非美船只承运国内燃油，此前已有210船次运输约5500万桶成品油和原油。",
-      "publishedAt": "2026-08-11T08:08:46+08:00",
-      "source": "第一财经",
-      "url": "https://www.yicai.com/news/103312756.html",
-      "subCategory": "大宗商品"
     }
   ]
 }

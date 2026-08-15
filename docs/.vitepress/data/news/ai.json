@@ -3,8 +3,17 @@
   "slug": "ai",
   "title": "AI 与大模型",
   "description": "大模型、Agent、AI 编程、推理框架、开源模型的发布与落地。",
-  "updatedAt": "2026-08-15T00:55:00+08:00",
+  "updatedAt": "2026-08-15T08:50:00+08:00",
   "items": [
+    {
+      "id": "ai-20260815-507",
+      "title": "How Claude's text watermark works",
+      "summary": "Anthropic为Claude模型引入基于Google DeepMind SynthID-Text技术的文本水印机制，通过微调低置信度词元选择的随机性使AI生成内容可被追溯验证，不影响输出质量与生成速度，以满足欧盟人工智能法案合规要求。",
+      "publishedAt": "2026-08-15T03:16:00+08:00",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/news/claude-text-watermark",
+      "subCategory": "大模型"
+    },
     {
       "id": "ai-20260815-001",
       "title": "阿里开源Qwen3.8-27B模型，编程、办公场景表现超越Qwen3.7-Plus",
@@ -15,22 +24,13 @@
       "subCategory": "开源模型"
     },
     {
-      "id": "ai-20260815-002",
-      "title": "智谱正式发布GLM-5.3：编程能力最强开源模型，较GLM-5.2提升50%",
-      "summary": "智谱发布GLM-5.3，通过后训练优化大幅提升编程能力，内部评测较GLM-5.2提升50%，Terminal-Bench 3.0得分从4.6升至28.3，完整模型权重预计两周内开源。",
-      "publishedAt": "2026-08-14T13:36:12+08:00",
+      "id": "ai-20260815-504",
+      "title": "中国医生用GPT-5.6破解22年数学难题，Crouzeix本人确认正确",
+      "summary": "北京协和医院博士后靳善木借助GPT-5.6-Sol模型，耗时约16小时完成困扰学界22年的Crouzeix猜想证明，经数学家Townsend、Greenbaum及提出者Crouzeix本人核实确认正确，材料已在GitHub开源。",
+      "publishedAt": "2026-08-14T23:08:53+08:00",
       "source": "IT之家",
-      "url": "https://www.ithome.com/0/989/689.htm",
-      "subCategory": "开源模型"
-    },
-    {
-      "id": "ai-20260815-003",
-      "title": "科技行业史上最大收购之一，SpaceX豪掷600亿美元拿下AI编程公司Cursor",
-      "summary": "SpaceX以600亿美元完成对AI编程公司Cursor的收购，相关监管备案已于8月14日生效，此前双方已合作开发编程模型Grok 4.5，交易被称为科技行业史上最大收购之一。",
-      "publishedAt": "2026-08-14T22:34:20+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/989/944.htm",
-      "subCategory": "AI编程"
+      "url": "https://www.ithome.com/0/989/952.htm",
+      "subCategory": "论文进展"
     },
     {
       "id": "ai-20260815-004",
@@ -42,13 +42,49 @@
       "subCategory": "论文进展"
     },
     {
-      "id": "ai-20260814-001",
-      "title": "OpenAI推出GPT-5.6 Sol的Ultrafast模式，速度提升14倍",
-      "summary": "OpenAI联合Cerebras推出GPT-5.6 Sol的Ultrafast推理模式，最高可实现每秒750个输出词元，约为标准模式14倍速度，目前面向部分企业客户限量预览。",
-      "publishedAt": "2026-08-13T15:22:00-04:00",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/",
-      "subCategory": "推理框架"
+      "id": "ai-20260815-003",
+      "title": "科技行业史上最大收购之一，SpaceX豪掷600亿美元拿下AI编程公司Cursor",
+      "summary": "SpaceX以600亿美元完成对AI编程公司Cursor的收购，相关监管备案已于8月14日生效，此前双方已合作开发编程模型Grok 4.5，交易被称为科技行业史上最大收购之一。",
+      "publishedAt": "2026-08-14T22:34:20+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/989/944.htm",
+      "subCategory": "AI编程"
+    },
+    {
+      "id": "ai-20260815-506",
+      "title": "百度文库网盘「库库AI」AI办公MAU超2500万，新推办公独立端",
+      "summary": "百度文库通用智能体GenFlow（库库AI）月活跃用户突破2500万，登顶通用AI办公赛道，并推出包含PC客户端、网页版、小程序及企业版的独立办公端，支持一句话调用多个办公Agent协同生成PPT、文档、表格、视频等内容。",
+      "publishedAt": "2026-08-14T16:36:00+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/08/473144.html",
+      "subCategory": "AI应用"
+    },
+    {
+      "id": "ai-20260815-501",
+      "title": "苹果被曝联合阿里自研中国专属大模型",
+      "summary": "路透社援引消息人士报道，苹果与阿里巴巴合作，在阿里技术支持下为中国市场训练了一款专属AI大语言模型，标志苹果对华AI战略重大调整；此前苹果已计划将通义千问接入Apple智能，双方合作细节尚未获阿里官方证实。",
+      "publishedAt": "2026-08-14T16:29:47+08:00",
+      "source": "观察者网",
+      "url": "https://www.guancha.cn/economy/2026_08_14_827311.shtml",
+      "subCategory": "大模型"
+    },
+    {
+      "id": "ai-20260815-508",
+      "title": "机器人为了走进真实物理世界，正在疯狂「吃算力」",
+      "summary": "具身智能企业算力需求两年增长5至10倍，覆盖遥操作数据采集、算法调试、仿真训练等环节；阿里云推出无影灵矩AI科研计算平台，将环境搭建时间从4至5小时压缩至30分钟，带宽效率提升50%，部署成本降低一半。",
+      "publishedAt": "2026-08-14T15:29:22+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/08/472722.html",
+      "subCategory": "具身智能"
+    },
+    {
+      "id": "ai-20260815-002",
+      "title": "智谱正式发布GLM-5.3：编程能力最强开源模型，较GLM-5.2提升50%",
+      "summary": "智谱发布GLM-5.3，通过后训练优化大幅提升编程能力，内部评测较GLM-5.2提升50%，Terminal-Bench 3.0得分从4.6升至28.3，完整模型权重预计两周内开源。",
+      "publishedAt": "2026-08-14T13:36:12+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/989/689.htm",
+      "subCategory": "开源模型"
     },
     {
       "id": "ai-20260814-002",
@@ -60,6 +96,15 @@
       "subCategory": "Agent"
     },
     {
+      "id": "ai-20260814-011",
+      "title": "谷歌发布面向编程与Agent场景的Gemini 3.7 Flash模型",
+      "summary": "谷歌发布Gemini 3.7 Flash模型，主打软件工程、知识工作与网页开发场景，年底前提供首发优惠价，每百万输入Token 0.75美元、输出3.75美元，为原3.6 Flash价格的一半。",
+      "publishedAt": "2026-08-13",
+      "source": "Google DeepMind",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
+      "subCategory": "大模型"
+    },
+    {
       "id": "ai-20260814-003",
       "title": "神秘生图模型mona-lisa-1现身LM Arena盲测，疑似OpenAI新品",
       "summary": "代号mona-lisa-1的图像生成模型8月9日现身LM Arena盲测，测试者通过OpenAI官方内容溯源工具检测到相关来源信号，但OpenAI尚未就该模型发布官方说明或产品文档。",
@@ -67,15 +112,6 @@
       "source": "IT之家",
       "url": "https://m.ithome.com/html/989476.htm",
       "subCategory": "多模态"
-    },
-    {
-      "title": "Anthropic said in talks to buy startup Decart for $6 billion",
-      "summary": "据彭博社报道，Anthropic正洽谈以约60亿美元收购AI创业公司Decart，若达成将是其已知规模最大的一笔收购。Decart专注于世界模拟模型与芯片效率优化技术，其Lucy AI模型可生成实时高清视频叠加效果，5月融资3亿美元时估值40亿美元，英伟达、红杉资本等参投。",
-      "publishedAt": "2026-08-13T09:32:00-04:00",
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/08/13/anthropic-said-in-talks-to-buy-startup-decart-for-6-billion/",
-      "subCategory": "大模型",
-      "id": "ai-20260813-201"
     },
     {
       "id": "ai-20260814-004",
@@ -130,6 +166,15 @@
       "url": "https://www.ithome.com/0/989/261.htm",
       "subCategory": "AI应用",
       "id": "ai-20260813-107"
+    },
+    {
+      "id": "ai-20260814-001",
+      "title": "OpenAI推出GPT-5.6 Sol的Ultrafast模式，速度提升14倍",
+      "summary": "OpenAI联合Cerebras推出GPT-5.6 Sol的Ultrafast推理模式，最高可实现每秒750个输出词元，约为标准模式14倍速度，目前面向部分企业客户限量预览。",
+      "publishedAt": "2026-08-13T15:22:00-04:00",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/",
+      "subCategory": "推理框架"
     },
     {
       "title": "辛顿、李飞飞、吴恩达呼吁保持AI一定程度的开放",
@@ -195,6 +240,15 @@
       "id": "ai-20260813-102"
     },
     {
+      "title": "Anthropic said in talks to buy startup Decart for $6 billion",
+      "summary": "据彭博社报道，Anthropic正洽谈以约60亿美元收购AI创业公司Decart，若达成将是其已知规模最大的一笔收购。Decart专注于世界模拟模型与芯片效率优化技术，其Lucy AI模型可生成实时高清视频叠加效果，5月融资3亿美元时估值40亿美元，英伟达、红杉资本等参投。",
+      "publishedAt": "2026-08-13T09:32:00-04:00",
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/08/13/anthropic-said-in-talks-to-buy-startup-decart-for-6-billion/",
+      "subCategory": "大模型",
+      "id": "ai-20260813-201"
+    },
+    {
       "title": "小米卢伟冰：澎湃OS 4不开发布会，今日11点开启Beta招募",
       "summary": "小米宣布澎湃OS 4不举办发布会，直接开启社区Beta招募，HyperCore内核加入负载精算与内存预加载技术，并升级依托小米MiMo模型的“超级小爱2.0”实现任务编排与内容生成。",
       "publishedAt": "2026-08-13T09:07:00+08:00",
@@ -211,15 +265,6 @@
       "url": "https://www.ithome.com/0/989/030.htm",
       "subCategory": "大模型",
       "id": "ai-20260813-009"
-    },
-    {
-      "id": "ai-20260814-011",
-      "title": "谷歌发布面向编程与Agent场景的Gemini 3.7 Flash模型",
-      "summary": "谷歌发布Gemini 3.7 Flash模型，主打软件工程、知识工作与网页开发场景，年底前提供首发优惠价，每百万输入Token 0.75美元、输出3.75美元，为原3.6 Flash价格的一半。",
-      "publishedAt": "2026-08-13",
-      "source": "Google DeepMind",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
-      "subCategory": "大模型"
     },
     {
       "id": "ai-20260814-010",
@@ -265,6 +310,60 @@
       "url": "https://www.ithome.com/0/989/000.htm",
       "subCategory": "大模型",
       "id": "ai-20260813-002"
+    },
+    {
+      "title": "Day 0 Support for Qwen3.8-2.4T-A95B on vLLM",
+      "summary": "vLLM宣布对阿里新开源的Qwen3.8-2.4T-A95B提供首日支持，该模型是基于Qwen 3.5架构、拥有512个专家的2.4万亿参数稀疏MoE模型。此次发布支持FP8、BF16、NVFP4、MXFP4等多种精度，并与NVIDIA、AMD共同优化推理内核。",
+      "publishedAt": "2026-08-12",
+      "source": "vLLM Blog",
+      "url": "https://vllm.ai/blog/2026-08-12-qwen3.8",
+      "subCategory": "推理框架",
+      "id": "ai-20260813-012"
+    },
+    {
+      "title": "Why managed agents are the next big thing in agent building",
+      "summary": "LangChain创始人Harrison Chase撰文介绍新推出的Managed Deep Agents平台，回顾智能体开发从早期框架到复杂智能体框架的演进，认为托管式智能体服务通过将基础设施与框架捐绑，能解决运行时可靠性、沙箱隔离及身份认证等生产问题。",
+      "publishedAt": "2026-08-12",
+      "source": "LangChain Blog",
+      "url": "https://langchain.com/blog/why-managed-agents-are-the-next-big-thing-in-agent-building",
+      "subCategory": "Agent",
+      "id": "ai-20260813-013"
+    },
+    {
+      "title": "LangSmith BYOC on AWS is generally available",
+      "summary": "LangChain宣布LangSmith Bring Your Own Cloud（BYOC）方案在AWS上正式对企业客户开放。该托管部署模式允许企业将敏感LangSmith数据保留在自有AWS账户与VPC内，由LangChain负责升级与扩容，满足受监管行业对数据驻留的需求。",
+      "publishedAt": "2026-08-12",
+      "source": "LangChain Blog",
+      "url": "https://langchain.com/blog/langsmith-byoc-is-now-generally-available-on-aws",
+      "subCategory": "Agent",
+      "id": "ai-20260813-014"
+    },
+    {
+      "title": "Announcing a Landmark Global Partnership with BMG",
+      "summary": "AI音乐生成公司Suno宣布与音乐公司BMG达成全球战略合作，双方将共同开发Suno首个与音乐行业合作打造的音乐模型，旨在为艺人和词曲作者创造新的音乐体验与经济机会，并通过现有项目支持独立音乐人。",
+      "publishedAt": "2026-08-12",
+      "source": "Suno Blog",
+      "url": "https://suno.com/blog/suno-partnership-bmg",
+      "subCategory": "AI音频",
+      "id": "ai-20260813-015"
+    },
+    {
+      "title": "Putting sign language AI into users' hands",
+      "summary": "Google DeepMind推出手语转文本翻译模型SL2T，可将美国手语转换为英语文本，现已应用于Pixel 11上的Gboard与Live Transcribe功能，方便胲人及听障用户以手语代替打字输入，模型基于超过10万小时、覆盖50余种手语的数据训练。",
+      "publishedAt": "2026-08-12",
+      "source": "Google DeepMind Blog",
+      "url": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/",
+      "subCategory": "多模态",
+      "id": "ai-20260813-016"
+    },
+    {
+      "title": "Liquid AI发布边缘视觉语言模型LFM2.5-VL-3B",
+      "summary": "Liquid AI发布31亿参数视觉语言模型LFM2.5-VL-3B，结合SigLIP2视觉编码器，面向边缘设备部署，支持屏幕理解、目标定位与函数调用，在M5 Max上解码速度达228 token/秒。",
+      "publishedAt": "2026-08-12",
+      "source": "Hugging Face",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b",
+      "subCategory": "多模态",
+      "id": "ai-20260812-101"
     },
     {
       "title": "剑指 GPT-5.6 Sol，SpaceXAI 发布 Grok 4.6 模型",
@@ -411,60 +510,6 @@
       "id": "ai-20260812-002"
     },
     {
-      "title": "Day 0 Support for Qwen3.8-2.4T-A95B on vLLM",
-      "summary": "vLLM宣布对阿里新开源的Qwen3.8-2.4T-A95B提供首日支持，该模型是基于Qwen 3.5架构、拥有512个专家的2.4万亿参数稀疏MoE模型。此次发布支持FP8、BF16、NVFP4、MXFP4等多种精度，并与NVIDIA、AMD共同优化推理内核。",
-      "publishedAt": "2026-08-12",
-      "source": "vLLM Blog",
-      "url": "https://vllm.ai/blog/2026-08-12-qwen3.8",
-      "subCategory": "推理框架",
-      "id": "ai-20260813-012"
-    },
-    {
-      "title": "Why managed agents are the next big thing in agent building",
-      "summary": "LangChain创始人Harrison Chase撰文介绍新推出的Managed Deep Agents平台，回顾智能体开发从早期框架到复杂智能体框架的演进，认为托管式智能体服务通过将基础设施与框架捐绑，能解决运行时可靠性、沙箱隔离及身份认证等生产问题。",
-      "publishedAt": "2026-08-12",
-      "source": "LangChain Blog",
-      "url": "https://langchain.com/blog/why-managed-agents-are-the-next-big-thing-in-agent-building",
-      "subCategory": "Agent",
-      "id": "ai-20260813-013"
-    },
-    {
-      "title": "LangSmith BYOC on AWS is generally available",
-      "summary": "LangChain宣布LangSmith Bring Your Own Cloud（BYOC）方案在AWS上正式对企业客户开放。该托管部署模式允许企业将敏感LangSmith数据保留在自有AWS账户与VPC内，由LangChain负责升级与扩容，满足受监管行业对数据驻留的需求。",
-      "publishedAt": "2026-08-12",
-      "source": "LangChain Blog",
-      "url": "https://langchain.com/blog/langsmith-byoc-is-now-generally-available-on-aws",
-      "subCategory": "Agent",
-      "id": "ai-20260813-014"
-    },
-    {
-      "title": "Announcing a Landmark Global Partnership with BMG",
-      "summary": "AI音乐生成公司Suno宣布与音乐公司BMG达成全球战略合作，双方将共同开发Suno首个与音乐行业合作打造的音乐模型，旨在为艺人和词曲作者创造新的音乐体验与经济机会，并通过现有项目支持独立音乐人。",
-      "publishedAt": "2026-08-12",
-      "source": "Suno Blog",
-      "url": "https://suno.com/blog/suno-partnership-bmg",
-      "subCategory": "AI音频",
-      "id": "ai-20260813-015"
-    },
-    {
-      "title": "Putting sign language AI into users' hands",
-      "summary": "Google DeepMind推出手语转文本翻译模型SL2T，可将美国手语转换为英语文本，现已应用于Pixel 11上的Gboard与Live Transcribe功能，方便胲人及听障用户以手语代替打字输入，模型基于超过10万小时、覆盖50余种手语的数据训练。",
-      "publishedAt": "2026-08-12",
-      "source": "Google DeepMind Blog",
-      "url": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/",
-      "subCategory": "多模态",
-      "id": "ai-20260813-016"
-    },
-    {
-      "title": "Liquid AI发布边缘视觉语言模型LFM2.5-VL-3B",
-      "summary": "Liquid AI发布31亿参数视觉语言模型LFM2.5-VL-3B，结合SigLIP2视觉编码器，面向边缘设备部署，支持屏幕理解、目标定位与函数调用，在M5 Max上解码速度达228 token/秒。",
-      "publishedAt": "2026-08-12",
-      "source": "Hugging Face",
-      "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b",
-      "subCategory": "多模态",
-      "id": "ai-20260812-101"
-    },
-    {
       "title": "前千问负责人林俊旸杀回来了：新公司剑指Agent，腾讯跟投",
       "summary": "前阿里通义千问技术负责人林俊旸在离职五个月后于上海创办AI公司Pragmatik Labs（语用科技），研究方向聚焦跨越数字与物理世界的下一代智能体。本轮融资由高榜创投和红杞中国分别领投约1亿美元，腾讯投资约2000万美元，公司投后估值约20亿美元。",
       "publishedAt": "2026-08-12T07:45:00+08:00",
@@ -481,24 +526,6 @@
       "url": "https://36kr.com/p/3935707566079107",
       "subCategory": "开源模型",
       "id": "ai-20260812-003"
-    },
-    {
-      "title": "Copilot memory and Ollama in GitHub Copilot for JetBrains",
-      "summary": "GitHub Copilot for JetBrains上线记忆功能与Ollama本地模型接入支持，可跨会话保留上下文信息，并支持自动安装Copilot CLI，同时修复多项MCP与终端相关问题。",
-      "publishedAt": "2026-08-11T13:15:55-07:00",
-      "source": "GitHub",
-      "url": "https://github.blog/changelog/2026-08-11-copilot-memory-and-ollama-in-github-copilot-for-jetbrains/",
-      "subCategory": "AI编程",
-      "id": "ai-20260812-008"
-    },
-    {
-      "title": "MAI-Code-1.1-Flash available in GitHub Copilot",
-      "summary": "微软MAI-Code-1.1-Flash编程模型正式登陆GitHub Copilot，新增原生图像识别能力，标价较上一代MAI-Code-1-Flash降低73%，多个IDE平台可手动或自动选用。",
-      "publishedAt": "2026-08-11T11:13:56-07:00",
-      "source": "GitHub",
-      "url": "https://github.blog/changelog/2026-08-11-mai-code-1-1-flash-available-in-github-copilot/",
-      "subCategory": "AI编程",
-      "id": "ai-20260812-007"
     },
     {
       "id": "ai-20260811-208",
@@ -654,6 +681,15 @@
       "subCategory": "多模态"
     },
     {
+      "title": "Copilot memory and Ollama in GitHub Copilot for JetBrains",
+      "summary": "GitHub Copilot for JetBrains上线记忆功能与Ollama本地模型接入支持，可跨会话保留上下文信息，并支持自动安装Copilot CLI，同时修复多项MCP与终端相关问题。",
+      "publishedAt": "2026-08-11T13:15:55-07:00",
+      "source": "GitHub",
+      "url": "https://github.blog/changelog/2026-08-11-copilot-memory-and-ollama-in-github-copilot-for-jetbrains/",
+      "subCategory": "AI编程",
+      "id": "ai-20260812-008"
+    },
+    {
       "id": "ai-20260811-104",
       "title": "Claude骂声中启动\"隐形水印\"：新模型全量嵌入，标记所有文字",
       "summary": "Anthropic宣布为响应欧盟《AI法案》透明度要求，8月2日后发布的Claude新模型将在生成文本中嵌入不可见Unicode水印，并对.svg/.png/.jpg等文件添加符合C2PA标准的数字签名元数据，复制粘贴及适度编辑后水印仍可保留。",
@@ -661,6 +697,15 @@
       "source": "量子位",
       "url": "https://www.qbitai.com/2026/08/470228.html",
       "subCategory": "大模型"
+    },
+    {
+      "title": "MAI-Code-1.1-Flash available in GitHub Copilot",
+      "summary": "微软MAI-Code-1.1-Flash编程模型正式登陆GitHub Copilot，新增原生图像识别能力，标价较上一代MAI-Code-1-Flash降低73%，多个IDE平台可手动或自动选用。",
+      "publishedAt": "2026-08-11T11:13:56-07:00",
+      "source": "GitHub",
+      "url": "https://github.blog/changelog/2026-08-11-mai-code-1-1-flash-available-in-github-copilot/",
+      "subCategory": "AI编程",
+      "id": "ai-20260812-007"
     },
     {
       "id": "ai-20260811-105",
@@ -679,51 +724,6 @@
       "source": "量子位",
       "url": "https://www.qbitai.com/2026/08/469860.html",
       "subCategory": "具身智能"
-    },
-    {
-      "id": "ai-20260811-003",
-      "title": "阿里巴巴千问 App 推出专业会员服务，包括办公助理与 AI 视频生成两类套餐",
-      "summary": "阿里巴巴千问App上线专业会员服务，办公助理套餐分高级、精英、旗舰三档，连续包月19至128元；AI视频生成额度另设五档消费包，26至968元，免费用户仍可正常使用基础功能。",
-      "publishedAt": "2026-08-11T08:09:57+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/988/096.htm",
-      "subCategory": "AI应用"
-    },
-    {
-      "id": "ai-20260811-002",
-      "title": "OpenAI 扩展网络安全防御服务 Daybreak，推出新 AI 模型 GPT-5.6-Cyber",
-      "summary": "OpenAI扩展网络安全服务Daybreak，新增Blue、Red两档权限，并推出基于GPT-5.6 Sol的专用模型GPT-5.6-Cyber，目前仅面向埃森哲、IBM等受信任合作伙伴开放。",
-      "publishedAt": "2026-08-11T08:03:05+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/988/095.htm",
-      "subCategory": "大模型"
-    },
-    {
-      "id": "ai-20260811-001",
-      "title": "Claude挑战黏曼猜想失败，数学家却看憵了",
-      "summary": "Anthropic披露，一款未发布的Claude研究版本在挑战黏曼猜想过程中未能证明该猜想，但将黏曼zeta函数零点满足猜想比例的下界从41.6%提升到67.2%，相关证明已通过Lean形式化验证。",
-      "publishedAt": "2026-08-11T06:52:45+08:00",
-      "source": "凤凰网科技",
-      "url": "https://tech.ifeng.com/c/8vT4hXm7LdX",
-      "subCategory": "论文进展"
-    },
-    {
-      "title": "消息称智谱 API 用户接近 700 万，已启用超 5 万块国产算力芯片",
-      "summary": "据报道，智谱MaaS平台注册用户接近700万，7月以来新增约200万，服务2.3万家企业客户；已部署超5万块国产算力芯片应对推理需求，开发者工具ZCode上线一个月用户破100万。",
-      "publishedAt": "2026-08-10T22:42:11+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/988/048.htm",
-      "subCategory": "大模型",
-      "id": "ai-20260810-x02"
-    },
-    {
-      "title": "曝谷歌测试新版主页：能创建图片、解读文件，唇独少了搜索按钮",
-      "summary": "谷歌被曝测试全新搜索主页，取消传统搜索按钮，改为提供基于Nano Banana的图片生成、文件解读和头脑风暴三个AI功能入口，\"手气不错\"按钮保留，直接输入关键词回车仍可搜索。",
-      "publishedAt": "2026-08-10T22:29:18+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/988/046.htm",
-      "subCategory": "AI应用",
-      "id": "ai-20260810-x03"
     }
   ]
 }

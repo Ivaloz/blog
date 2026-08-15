@@ -3,8 +3,17 @@
   "slug": "industry",
   "title": "行业新闻",
   "description": "企业服务、SaaS、云计算、制造业、消费互联网的产业动态。",
-  "updatedAt": "2026-08-15T00:55:00+08:00",
+  "updatedAt": "2026-08-15T08:50:00+08:00",
   "items": [
+    {
+      "id": "industry-20260815-501",
+      "title": "第二季度智能手机出货下滑，分析机构称\"价值\"或成新的市场衡量指标",
+      "summary": "Omdia、CCS Insight和Counterpoint Research数据显示，2026年第二季度全球智能手机出货量平均下滑约8%，三星、苹果分列前两位；内存成本上涨推动高端机型占比升至29%，行业营收同比增长7%。",
+      "publishedAt": "2026-08-14T16:18:00+08:00",
+      "source": "新浪科技",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-08-14/doc-ininhnxq2618742.shtml",
+      "subCategory": "行业研报"
+    },
     {
       "id": "industry-20260814-013",
       "title": "中际旭创拟17.47亿元受让中石科技10.47%股份",
@@ -22,6 +31,15 @@
       "source": "IT之家",
       "url": "https://www.ithome.com/0/989/604.htm",
       "subCategory": "公司动态"
+    },
+    {
+      "title": "代理式AI重塑旅游业：从智能助手迈向自主决策",
+      "summary": "行业报告指出，代理式AI凭借自主规划与多步骤推理能力正推动旅游业从效率工具迈向业务执行者，59%高管认为其提升员工效率，超九成用户信任AI提供的旅行信息，但仅2%消费者愿意完全交由AI处理预订。",
+      "publishedAt": "2026-08-13",
+      "source": "199IT",
+      "url": "https://www.199it.com/archives/1786338.html",
+      "subCategory": "行业研报",
+      "id": "industry-20260813-103"
     },
     {
       "id": "industry-20260814-005",
@@ -123,13 +141,31 @@
       "subCategory": "消费零售"
     },
     {
-      "title": "代理式AI重塑旅游业：从智能助手迈向自主决策",
-      "summary": "行业报告指出，代理式AI凭借自主规划与多步骤推理能力正推动旅游业从效率工具迈向业务执行者，59%高管认为其提升员工效率，超九成用户信任AI提供的旅行信息，但仅2%消费者愿意完全交由AI处理预订。",
-      "publishedAt": "2026-08-13",
+      "title": "Counterpoint：2026年全球折叠屏出货量同比增21%，苹果首年份额25%",
+      "summary": "Counterpoint Research预测2026年全球折叠屏手机出货量同比增长21%，苹果首年即拿下约25%市场份额，市场格局将从三星国际领先、华为国内领先转向苹果、三星、华为三足鼎立；苹果折叠机型据报采用台积电2nm A20 Pro芯片，配妇12GB内存，取消Face ID改用侧边指纹识别，预计9月发布会亮相。",
+      "publishedAt": "2026-08-12",
+      "source": "199IT（Counterpoint Research）",
+      "url": "https://www.199it.com/archives/1845076.html",
+      "subCategory": "消费零售",
+      "id": "industry-20260813-001"
+    },
+    {
+      "title": "Gartner：2026年全球AI支出将达到2.59万亿美元 同比增长47%",
+      "summary": "Gartner预测2026年全球人工智能支出将达到2.59万亿美元，同比增长47%。AI基础设施支出占比超过45%，AI优化服务器支出五年内预计增长两倍，生成式AI模型使用量预计增长110%。",
+      "publishedAt": "2026-08-12",
       "source": "199IT",
-      "url": "https://www.199it.com/archives/1786338.html",
+      "url": "https://www.199it.com/archives/1832141.html",
       "subCategory": "行业研报",
-      "id": "industry-20260813-103"
+      "id": "industry-20260812-001"
+    },
+    {
+      "title": "Omdia: Middle East smartphone market falls 19% in 2Q26 amid vendors prioritize profitability",
+      "summary": "Omdia数据显示，2026年第二季度中东（不含土耳其）智能手机出货量同比降19%至1060万部，创该地区近三季度最大跌幅；入门机型跌42%，高端机型出货量创同期新高，均价同比涢25%至448美元。",
+      "publishedAt": "2026-08-12",
+      "source": "Omdia",
+      "url": "https://omdia.tech.informa.com/pr/2026/aug/middle-east-smartphone-market-falls-19percent-in-2q26-amid-vendors-prioritize-profitability",
+      "subCategory": "消费零售",
+      "id": "industry-20260812-007"
     },
     {
       "title": "Counterpoint：今年前 30 周中国智能手机销量同比下降 8.6%，华为继续领跑市场",
@@ -231,31 +267,40 @@
       "id": "industry-20260812-005"
     },
     {
-      "title": "Counterpoint：2026年全球折叠屏出货量同比增21%，苹果首年份额25%",
-      "summary": "Counterpoint Research预测2026年全球折叠屏手机出货量同比增长21%，苹果首年即拿下约25%市场份额，市场格局将从三星国际领先、华为国内领先转向苹果、三星、华为三足鼎立；苹果折叠机型据报采用台积电2nm A20 Pro芯片，配妇12GB内存，取消Face ID改用侧边指纹识别，预计9月发布会亮相。",
-      "publishedAt": "2026-08-12",
-      "source": "199IT（Counterpoint Research）",
-      "url": "https://www.199it.com/archives/1845076.html",
-      "subCategory": "消费零售",
-      "id": "industry-20260813-001"
-    },
-    {
-      "title": "Gartner：2026年全球AI支出将达到2.59万亿美元 同比增长47%",
-      "summary": "Gartner预测2026年全球人工智能支出将达到2.59万亿美元，同比增长47%。AI基础设施支出占比超过45%，AI优化服务器支出五年内预计增长两倍，生成式AI模型使用量预计增长110%。",
-      "publishedAt": "2026-08-12",
-      "source": "199IT",
-      "url": "https://www.199it.com/archives/1832141.html",
+      "title": "IDC：2026年第二季度印度智能手机出货量同比下降11.1%",
+      "summary": "IDC数据显示，受内存芯片短缺推高成本影响，2026年第二季度印度智能手机出货量同比下降11.1%至3320万部，均价创纪录达315美元；vivo、三星、OPPO位列出货量前三。",
+      "publishedAt": "2026-08-11",
+      "source": "IDC",
+      "url": "https://www.idc.com/resource-center/press-releases/india-smartphone-shipments-decline-q2-2026/",
       "subCategory": "行业研报",
-      "id": "industry-20260812-001"
+      "id": "industry-20260813-006"
     },
     {
-      "title": "Omdia: Middle East smartphone market falls 19% in 2Q26 amid vendors prioritize profitability",
-      "summary": "Omdia数据显示，2026年第二季度中东（不含土耳其）智能手机出货量同比降19%至1060万部，创该地区近三季度最大跌幅；入门机型跌42%，高端机型出货量创同期新高，均价同比涢25%至448美元。",
-      "publishedAt": "2026-08-12",
+      "title": "Omdia：iPhone用户微短剧付费支出比安卓用户高40%",
+      "summary": "Omdia消费者调研结合Sensor Tower数据显示，iPhone用户每周在微短剧应用上平均支出约14美元，较安卓用户的10美元高出40%；韩国市场两类用户付费比例差距最大，达14个百分点。",
+      "publishedAt": "2026-08-11",
       "source": "Omdia",
-      "url": "https://omdia.tech.informa.com/pr/2026/aug/middle-east-smartphone-market-falls-19percent-in-2q26-amid-vendors-prioritize-profitability",
-      "subCategory": "消费零售",
-      "id": "industry-20260812-007"
+      "url": "https://omdia.tech.informa.com/pr/2026/aug/iphone-users-spend-40percent-more-on-microdramas-than-android-users",
+      "subCategory": "行业研报",
+      "id": "industry-20260813-008"
+    },
+    {
+      "title": "麦肯锡：工业AI驱动商业转型可带来5%-20%营收提升",
+      "summary": "麦肯锡研究显示，工业企业通过AI驱动的商业转型，两年内可实现5%至20%的营收提升及5%至10%的EBITDA改善；试点市场新增销售线索带来超10%业务增长，销售人员非销售事务性工作占比可从40%降至15%。",
+      "publishedAt": "2026-08-11",
+      "source": "McKinsey",
+      "url": "https://www.mckinsey.com/industries/industrials-and-electronics/our-insights/how-ai-led-commercial-transformation-can-power-industrial-growth",
+      "subCategory": "制造业",
+      "id": "industry-20260813-010"
+    },
+    {
+      "id": "industry-20260811-003",
+      "title": "Counterpoint：2025年印度高级驾驶辅助系统占乘用车市场的8.41%",
+      "summary": "Counterpoint Research报告显示，2025年印度乘用车市场高级驾驶辅助系统（ADAS）渗透率约8.41%，较2024年的6.43%增长约38%，Mahindra在L2级ADAS市场份额领先。",
+      "publishedAt": "2026-08-11",
+      "source": "199IT",
+      "url": "https://www.199it.com/archives/1813101.html",
+      "subCategory": "行业研报"
     },
     {
       "title": "乘联分会：7月新能源汽车零售渗透率首次突砆65%，燃油车零售暴跌41%",
@@ -393,40 +438,22 @@
       "subCategory": "医疗健康"
     },
     {
-      "title": "IDC：2026年第二季度印度智能手机出货量同比下降11.1%",
-      "summary": "IDC数据显示，受内存芯片短缺推高成本影响，2026年第二季度印度智能手机出货量同比下降11.1%至3320万部，均价创纪录达315美元；vivo、三星、OPPO位列出货量前三。",
-      "publishedAt": "2026-08-11",
+      "title": "IDC：中国企业级智能体数量预计从200万增至500万",
+      "summary": "IDC报告指出，中国活跃企业级AI智能体数量预计将从2025年约200万个增长至2026年约500万个，企业级AI平台呈现涵盖基础设施、数据、智能体开发、流程、应用与治理安全的六层全栈架构。",
+      "publishedAt": "2026-08-10",
       "source": "IDC",
-      "url": "https://www.idc.com/resource-center/press-releases/india-smartphone-shipments-decline-q2-2026/",
+      "url": "https://www.idc.com/resource-center/press-releases/%e4%bb%8e200%e4%b8%87%e5%88%b0500%e4%b8%87%ef%bc%9a%e6%99%ba%e8%83%bd%e4%bd%93%e4%bb%8e%e6%a6%82%e5%bf%b5%e8%b5%b0%e5%90%91%e8%a7%84%e6%a8%a1%e5%8c%96%e8%90%bd%e5%9c%b0%ef%bc%8c%e4%bc%81%e4%b8%9a/",
       "subCategory": "行业研报",
-      "id": "industry-20260813-006"
+      "id": "industry-20260813-007"
     },
     {
-      "title": "Omdia：iPhone用户微短剧付费支出比安卓用户高40%",
-      "summary": "Omdia消费者调研结合Sensor Tower数据显示，iPhone用户每周在微短剧应用上平均支出约14美元，较安卓用户的10美元高出40%；韩国市场两类用户付费比例差距最大，达14个百分点。",
-      "publishedAt": "2026-08-11",
-      "source": "Omdia",
-      "url": "https://omdia.tech.informa.com/pr/2026/aug/iphone-users-spend-40percent-more-on-microdramas-than-android-users",
+      "title": "Gartner：预计2026年全球AI优化型IaaS支出将增长96%",
+      "summary": "Gartner预测，2026年全球AI优化型基础设施即服务（IaaS）支出将达420亿美元，同比增长96%，2027年将进一步增至660亿美元；其中推理相关支出233亿美元，首次超过训练支出的190亿美元。",
+      "publishedAt": "2026-08-10",
+      "source": "Gartner（经TechEdgeAI转载）",
+      "url": "https://techedgeai.com/gartner-forecasts-worldwide-ai-optimized-iaas-spending-to-grow-96-through-2026/",
       "subCategory": "行业研报",
-      "id": "industry-20260813-008"
-    },
-    {
-      "title": "麦肯锡：工业AI驱动商业转型可带来5%-20%营收提升",
-      "summary": "麦肯锡研究显示，工业企业通过AI驱动的商业转型，两年内可实现5%至20%的营收提升及5%至10%的EBITDA改善；试点市场新增销售线索带来超10%业务增长，销售人员非销售事务性工作占比可从40%降至15%。",
-      "publishedAt": "2026-08-11",
-      "source": "McKinsey",
-      "url": "https://www.mckinsey.com/industries/industrials-and-electronics/our-insights/how-ai-led-commercial-transformation-can-power-industrial-growth",
-      "subCategory": "制造业",
-      "id": "industry-20260813-010"
-    },
-    {
-      "id": "industry-20260811-003",
-      "title": "Counterpoint：2025年印度高级驾驶辅助系统占乘用车市场的8.41%",
-      "summary": "Counterpoint Research报告显示，2025年印度乘用车市场高级驾驶辅助系统（ADAS）渗透率约8.41%，较2024年的6.43%增长约38%，Mahindra在L2级ADAS市场份额领先。",
-      "publishedAt": "2026-08-11",
-      "source": "199IT",
-      "url": "https://www.199it.com/archives/1813101.html",
-      "subCategory": "行业研报"
+      "id": "industry-20260813-005"
     },
     {
       "id": "industry-20260811-002",
@@ -535,24 +562,6 @@
       "source": "Omdia",
       "url": "https://www.199it.com/archives/1814669.html",
       "subCategory": "消费零售"
-    },
-    {
-      "title": "IDC：中国企业级智能体数量预计从200万增至500万",
-      "summary": "IDC报告指出，中国活跃企业级AI智能体数量预计将从2025年约200万个增长至2026年约500万个，企业级AI平台呈现涵盖基础设施、数据、智能体开发、流程、应用与治理安全的六层全栈架构。",
-      "publishedAt": "2026-08-10",
-      "source": "IDC",
-      "url": "https://www.idc.com/resource-center/press-releases/%e4%bb%8e200%e4%b8%87%e5%88%b0500%e4%b8%87%ef%bc%9a%e6%99%ba%e8%83%bd%e4%bd%93%e4%bb%8e%e6%a6%82%e5%bf%b5%e8%b5%b0%e5%90%91%e8%a7%84%e6%a8%a1%e5%8c%96%e8%90%bd%e5%9c%b0%ef%bc%8c%e4%bc%81%e4%b8%9a/",
-      "subCategory": "行业研报",
-      "id": "industry-20260813-007"
-    },
-    {
-      "title": "Gartner：预计2026年全球AI优化型IaaS支出将增长96%",
-      "summary": "Gartner预测，2026年全球AI优化型基础设施即服务（IaaS）支出将达420亿美元，同比增长96%，2027年将进一步增至660亿美元；其中推理相关支出233亿美元，首次超过训练支出的190亿美元。",
-      "publishedAt": "2026-08-10",
-      "source": "Gartner（经TechEdgeAI转载）",
-      "url": "https://techedgeai.com/gartner-forecasts-worldwide-ai-optimized-iaas-spending-to-grow-96-through-2026/",
-      "subCategory": "行业研报",
-      "id": "industry-20260813-005"
     },
     {
       "id": "industry-20260810-n04",
@@ -715,15 +724,6 @@
       "url": "https://www.news.cn/fortune/20260808/a9389cf39d96490a8a60b70c6f99e49e/c.html",
       "subCategory": "制造业",
       "id": "industry-20260808-006"
-    },
-    {
-      "title": "Apple Captures 65% of Global Premium Smartphone Market",
-      "summary": "Counterpoint数据显示，2026年上半年苹果占全球600美元以上高端智能手机市场65%份额，三星列第二占2019%；高端机型销量占比升至29%创历史新高，苹果该细分营收同比增长9%。",
-      "publishedAt": "2026-08-07T07:32:00-07:00",
-      "source": "MacRumors（引用Counterpoint Research）",
-      "url": "https://www.macrumors.com/2026/08/07/apple-captures-65-percent-of-global-premium-market/",
-      "subCategory": "行业研报",
-      "id": "industry-20260807-n01"
     }
   ]
 }

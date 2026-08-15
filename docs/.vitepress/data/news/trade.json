@@ -3,123 +3,60 @@
   "slug": "trade",
   "title": "外贸资讯",
   "description": "亚马逊、TikTok Shop、阿里国际站、Shopify 等平台政策与跨境电商市场、独立站、物流支付、关税法规、选品趋势。",
-  "updatedAt": "2026-08-15T00:55:00+08:00",
+  "updatedAt": "2026-08-15T08:50:00+08:00",
   "items": [
     {
-      "id": "trade-20260815-001",
-      "title": "eBay德国站第三季度汽摩配等品类持续升温",
-      "summary": "eBay发布德国站三季度消费趋势报告，绑带类产品搜索量同比增长116%，车顶箱需求增长60%，手办及车模等品类同样呈现明显增长。",
-      "publishedAt": "2026-08-14T14:48:19+08:00",
-      "source": "亿恩网",
-      "url": "https://www.ennews.com/news-141921.html",
-      "subCategory": "选品趋势"
+      "id": "trade-20260815-506",
+      "title": "利好跨国公司 又一跨境资金管理政策全国推广",
+      "summary": "中国人民银行、国家外汇管理局8月14日发布通知，将跨国公司本外币跨境资金集中运营业务推广至全国，9月14日起施行，降低企业准入门槛并简化审批流程，帮助企业统筹跨境资金调度、降低汇率成本。",
+      "publishedAt": "2026-08-14T19:05:23+08:00",
+      "source": "新华网",
+      "url": "https://www.news.cn/fortune/20260814/a50ab353ad194ad29313b81684d6fdca/c.html",
+      "subCategory": "跨境支付"
     },
     {
-      "id": "trade-20260815-002",
-      "title": "DPD俄罗斯7月自提点业务量环比激增64%",
-      "summary": "DPD俄罗斯发布数据显示，7月自提点业务量环比增长64%，客户数增加10%，部分客户发货量增幅达70%，小件包裹占比升至45%。",
-      "publishedAt": "2026-08-14T15:01:35+08:00",
-      "source": "亿恩网",
-      "url": "https://www.ennews.com/news-141923.html",
+      "id": "trade-20260815-503",
+      "title": "DHL加速拓展巴西实体网络，瞄准中小微企业国际物流需求",
+      "summary": "DHL Express加快在巴西实体网点扩张，计划到2027年底覆盖75家门店，圣保罗第40家门店已开业，年内还将新增5家，重点面向中小微企业提供出口咨询等国际物流服务，助力其开拓美国、欧洲等市场。",
+      "publishedAt": "2026-08-14T18:06:32+08:00",
+      "source": "出海网",
+      "url": "https://www.chwang.com/news/208820561596",
       "subCategory": "物流仓储"
     },
     {
-      "id": "trade-20260815-003",
-      "title": "Yandex Market推\"先试后付\"配送，服饰订单次日结算",
-      "summary": "Yandex Market在俄罗斯26个地区推出服饰类\"先试后付\"配送服务，消费者收货24小时内试穿后决定购买，未留货物无需付款，并支持分期付款。",
-      "publishedAt": "2026-08-14T15:03:08+08:00",
-      "source": "亿恩网",
-      "url": "https://www.ennews.com/news-141922.html",
-      "subCategory": "平台动态"
-    },
-    {
-      "id": "trade-20260815-004",
-      "title": "Fruugo经历调整年恢复盈利，营收同比降30%",
-      "summary": "跨境电商平台Fruugo公布2025财年业绩，因清退不合规卖家与商品导致营收同比下降30%至3960万英镑，但扭亏为盈，实现200万英镑营业利润。",
-      "publishedAt": "2026-08-14T15:27:36+08:00",
-      "source": "亿恩网",
-      "url": "https://www.ennews.com/news-141925.html",
-      "subCategory": "平台动态"
-    },
-    {
-      "id": "trade-20260815-005",
-      "title": "DHL在巴西加速扩张，中小微企业成国际物流新目标",
-      "summary": "DHL Express宣布加速拓展巴西门店网络，已在圣保罗开设第40家门店，计划年内再增5家，目标2027年底门店总数达75家，服务中小微外贸企业。",
-      "publishedAt": "2026-08-14T15:42:31+08:00",
-      "source": "亿恩网",
-      "url": "https://www.ennews.com/news-141928.html",
-      "subCategory": "物流仓储"
-    },
-    {
-      "id": "trade-20260815-006",
-      "title": "INFOLine预测俄自有电商网站四季度环比增40%至50%",
-      "summary": "研究机构INFOLine预测，俄罗斯自建电商网站新增数量今年四季度环比或增长40%至50%，此前二季度俄电商实物商品线上销售额同比增长20.4%。",
-      "publishedAt": "2026-08-14T15:49:28+08:00",
-      "source": "亿恩网",
-      "url": "https://www.ennews.com/news-141929.html",
+      "id": "trade-20260815-507",
+      "title": "巴西父亲节零售额增7%，Pix支付暴涨37%成增长引擎",
+      "summary": "出海网报道，巴西父亲节当周（8月3日至9日）零售额同比增长7%，超市增长14%表现最突出，即时支付工具Pix交易量同比暴涨37%，成为拉动巴西消费增长的重要引擎，数字支付渗透率持续提升。",
+      "publishedAt": "2026-08-14T18:05:15+08:00",
+      "source": "出海网",
+      "url": "https://www.chwang.com/news/208820529321",
       "subCategory": "新兴市场"
     },
     {
-      "id": "trade-20260815-007",
-      "title": "2026年7月摩托车产销双增，出口同比增长23.76%",
-      "summary": "中国摩托车工业协会发布数据，2026年7月摩托车产销量同比分别增长20.42%和17.4%，出口141.96万辆，同比增长23.76%，金额10.23亿美元。",
-      "publishedAt": "2026-08-14T15:54:56+08:00",
-      "source": "亿恩网",
-      "url": "https://www.ennews.com/news-141930.html",
-      "subCategory": "海关数据"
-    },
-    {
-      "id": "trade-20260815-008",
-      "title": "欧亚经济联盟及日本批准巴西农产品进口",
-      "summary": "欧亚经济联盟批准巴西兰花及鱼类等水产加工食品进口，日本核准巴西鱼鳔进口，两国同时宣布就日本与南方共同市场经贸协定展开磋商。",
-      "publishedAt": "2026-08-14T16:14:00+08:00",
-      "source": "亿恩网",
-      "url": "https://www.ennews.com/news-141933.html",
-      "subCategory": "关税法规"
-    },
-    {
-      "id": "trade-20260815-009",
-      "title": "Shopee在巴西推出Turbo极速配送服务",
-      "summary": "Shopee在巴西推出Turbo极速配送服务，圣保罗大都市区订单最快4小时送达，满10雷亚尔包邮，首批已有超4000家商家接入。",
-      "publishedAt": "2026-08-14T16:25:18+08:00",
-      "source": "亿恩网",
-      "url": "https://www.ennews.com/news-141934.html",
-      "subCategory": "物流仓储"
-    },
-    {
-      "id": "trade-20260815-010",
-      "title": "美国点名40多国，警告中国商品借道规避关税",
-      "summary": "白宫发布报告称，超过40个国家已成为中国商品规避美国关税的转运通道，报告按供应链整合程度和产业基础将相关国家划分为三个风险等级。",
-      "publishedAt": "2026-08-14T16:27:26+08:00",
-      "source": "亿恩网",
-      "url": "https://www.ennews.com/news-141936.html",
-      "subCategory": "关税法规"
-    },
-    {
-      "id": "trade-20260815-011",
-      "title": "Shopee印尼推\"本土企业加速计划\"，已售40亿件本土商品",
-      "summary": "Shopee联合印尼贸易部推出\"本土企业加速计划\"，提供销售补贴、数字培训、出口支持等六类扶持，配合印尼独立日发放代金券促进本土商品销售。",
-      "publishedAt": "2026-08-14T16:52:57+08:00",
-      "source": "亿恩网",
-      "url": "https://www.ennews.com/news-141941.html",
-      "subCategory": "平台政策"
-    },
-    {
-      "id": "trade-20260815-012",
-      "title": "Flipkart和Myntra加入Meta联盟营销功能",
-      "summary": "印度电商平台Flipkart与旗下时尚品牌Myntra接入Meta联盟营销功能，创作者可在Facebook帖子和短视频中标记商品供用户点击购买，后续将扩展至Instagram。",
-      "publishedAt": "2026-08-14T16:58:46+08:00",
-      "source": "亿恩网",
-      "url": "https://www.ennews.com/news-141942.html",
+      "id": "trade-20260815-504",
+      "title": "JOYBUY连续两季度营收翻倍，京东欧洲六国布局自营零售体系",
+      "summary": "京东旗下自营零售平台JOYBUY自3月落地英德法荷比卢六国以来连续两个季度营收翻倍，上线两天内登顶英国iOS购物榜，目前在欧洲运营超60个仓库，可为超30个主要城市提供当日达配送，服务逾4000万消费者。",
+      "publishedAt": "2026-08-14T17:59:09+08:00",
+      "source": "出海网",
+      "url": "https://www.chwang.com/news/208820375916",
       "subCategory": "平台动态"
     },
     {
-      "id": "trade-20260815-013",
-      "title": "韩国时尚零售平台Musinsa拟明年在印尼开设首家实体店",
-      "summary": "韩国时尚零售平台Musinsa宣布与印尼零售商MAP合作，计划明年在印尼开设首家Musinsa Standard实体店，正式进入东南亚市场。",
-      "publishedAt": "2026-08-14T17:01:55+08:00",
+      "id": "trade-20260815-502",
+      "title": "欧盟3欧小包税生效几周，中国发欧包裹量骤降20%",
+      "summary": "欧盟自7月1日起取消150欧元以下小额包裹免税并按件征收3欧元固定税费，实施几周后中国发欧包裹量骤降约20%，手机壳、电线等低价商品受冲击明显，Temu、Shein等平台通过欧洲仓储和拼单应对成本上升。",
+      "publishedAt": "2026-08-14T17:54:05+08:00",
+      "source": "出海网",
+      "url": "https://www.chwang.com/news/208820248627",
+      "subCategory": "关税法规"
+    },
+    {
+      "id": "trade-20260815-015",
+      "title": "欧洲玩具巨头Smyths Toys进军比荷卢市场",
+      "summary": "爱尔兰玩具零售商Smyths Toys宣布进军比利时市场，首店选址沙勒罗瓦附近Gosselies市的City Nord购物中心，此前已在荷兰开设8家门店。",
+      "publishedAt": "2026-08-14T17:39:19+08:00",
       "source": "亿恩网",
-      "url": "https://www.ennews.com/news-141943.html",
+      "url": "https://www.ennews.com/news-141948.html",
       "subCategory": "新兴市场"
     },
     {
@@ -132,13 +69,139 @@
       "subCategory": "海关数据"
     },
     {
-      "id": "trade-20260815-015",
-      "title": "欧洲玩具巨头Smyths Toys进军比荷卢市场",
-      "summary": "爱尔兰玩具零售商Smyths Toys宣布进军比利时市场，首店选址沙勒罗瓦附近Gosselies市的City Nord购物中心，此前已在荷兰开设8家门店。",
-      "publishedAt": "2026-08-14T17:39:19+08:00",
+      "id": "trade-20260815-013",
+      "title": "韩国时尚零售平台Musinsa拟明年在印尼开设首家实体店",
+      "summary": "韩国时尚零售平台Musinsa宣布与印尼零售商MAP合作，计划明年在印尼开设首家Musinsa Standard实体店，正式进入东南亚市场。",
+      "publishedAt": "2026-08-14T17:01:55+08:00",
       "source": "亿恩网",
-      "url": "https://www.ennews.com/news-141948.html",
+      "url": "https://www.ennews.com/news-141943.html",
       "subCategory": "新兴市场"
+    },
+    {
+      "id": "trade-20260815-012",
+      "title": "Flipkart和Myntra加入Meta联盟营销功能",
+      "summary": "印度电商平台Flipkart与旗下时尚品牌Myntra接入Meta联盟营销功能，创作者可在Facebook帖子和短视频中标记商品供用户点击购买，后续将扩展至Instagram。",
+      "publishedAt": "2026-08-14T16:58:46+08:00",
+      "source": "亿恩网",
+      "url": "https://www.ennews.com/news-141942.html",
+      "subCategory": "平台动态"
+    },
+    {
+      "id": "trade-20260815-011",
+      "title": "Shopee印尼推\"本土企业加速计划\"，已售40亿件本土商品",
+      "summary": "Shopee联合印尼贸易部推出\"本土企业加速计划\"，提供销售补贴、数字培训、出口支持等六类扶持，配合印尼独立日发放代金券促进本土商品销售。",
+      "publishedAt": "2026-08-14T16:52:57+08:00",
+      "source": "亿恩网",
+      "url": "https://www.ennews.com/news-141941.html",
+      "subCategory": "平台政策"
+    },
+    {
+      "id": "trade-20260815-501",
+      "title": "征收100%关税！特朗普又签署新文件了",
+      "summary": "美国白宫8月13日宣布，特朗普签署行政令对进口无人机及关键零部件按尺寸功能实施最高100%从价关税，小型无人机加征25%，欧盟日本韩国等加征15%，英国加征10%，分析认为将推动供应链向东南亚等地转移。",
+      "publishedAt": "2026-08-14T16:48:00+08:00",
+      "source": "雨果网",
+      "url": "https://www.cifnews.com/article/188266",
+      "subCategory": "关税法规"
+    },
+    {
+      "id": "trade-20260815-010",
+      "title": "美国点名40多国，警告中国商品借道规避关税",
+      "summary": "白宫发布报告称，超过40个国家已成为中国商品规避美国关税的转运通道，报告按供应链整合程度和产业基础将相关国家划分为三个风险等级。",
+      "publishedAt": "2026-08-14T16:27:26+08:00",
+      "source": "亿恩网",
+      "url": "https://www.ennews.com/news-141936.html",
+      "subCategory": "关税法规"
+    },
+    {
+      "id": "trade-20260815-009",
+      "title": "Shopee在巴西推出Turbo极速配送服务",
+      "summary": "Shopee在巴西推出Turbo极速配送服务，圣保罗大都市区订单最快4小时送达，满10雷亚尔包邮，首批已有超4000家商家接入。",
+      "publishedAt": "2026-08-14T16:25:18+08:00",
+      "source": "亿恩网",
+      "url": "https://www.ennews.com/news-141934.html",
+      "subCategory": "物流仓储"
+    },
+    {
+      "id": "trade-20260815-008",
+      "title": "欧亚经济联盟及日本批准巴西农产品进口",
+      "summary": "欧亚经济联盟批准巴西兰花及鱼类等水产加工食品进口，日本核准巴西鱼鳔进口，两国同时宣布就日本与南方共同市场经贸协定展开磋商。",
+      "publishedAt": "2026-08-14T16:14:00+08:00",
+      "source": "亿恩网",
+      "url": "https://www.ennews.com/news-141933.html",
+      "subCategory": "关税法规"
+    },
+    {
+      "id": "trade-20260815-007",
+      "title": "2026年7月摩托车产销双增，出口同比增长23.76%",
+      "summary": "中国摩托车工业协会发布数据，2026年7月摩托车产销量同比分别增长20.42%和17.4%，出口141.96万辆，同比增长23.76%，金额10.23亿美元。",
+      "publishedAt": "2026-08-14T15:54:56+08:00",
+      "source": "亿恩网",
+      "url": "https://www.ennews.com/news-141930.html",
+      "subCategory": "海关数据"
+    },
+    {
+      "id": "trade-20260815-006",
+      "title": "INFOLine预测俄自有电商网站四季度环比增40%至50%",
+      "summary": "研究机构INFOLine预测，俄罗斯自建电商网站新增数量今年四季度环比或增长40%至50%，此前二季度俄电商实物商品线上销售额同比增长20.4%。",
+      "publishedAt": "2026-08-14T15:49:28+08:00",
+      "source": "亿恩网",
+      "url": "https://www.ennews.com/news-141929.html",
+      "subCategory": "新兴市场"
+    },
+    {
+      "id": "trade-20260815-005",
+      "title": "DHL在巴西加速扩张，中小微企业成国际物流新目标",
+      "summary": "DHL Express宣布加速拓展巴西门店网络，已在圣保罗开设第40家门店，计划年内再增5家，目标2027年底门店总数达75家，服务中小微外贸企业。",
+      "publishedAt": "2026-08-14T15:42:31+08:00",
+      "source": "亿恩网",
+      "url": "https://www.ennews.com/news-141928.html",
+      "subCategory": "物流仓储"
+    },
+    {
+      "id": "trade-20260815-004",
+      "title": "Fruugo经历调整年恢复盈利，营收同比降30%",
+      "summary": "跨境电商平台Fruugo公布2025财年业绩，因清退不合规卖家与商品导致营收同比下降30%至3960万英镑，但扭亏为盈，实现200万英镑营业利润。",
+      "publishedAt": "2026-08-14T15:27:36+08:00",
+      "source": "亿恩网",
+      "url": "https://www.ennews.com/news-141925.html",
+      "subCategory": "平台动态"
+    },
+    {
+      "id": "trade-20260815-003",
+      "title": "Yandex Market推\"先试后付\"配送，服饰订单次日结算",
+      "summary": "Yandex Market在俄罗斯26个地区推出服饰类\"先试后付\"配送服务，消费者收货24小时内试穿后决定购买，未留货物无需付款，并支持分期付款。",
+      "publishedAt": "2026-08-14T15:03:08+08:00",
+      "source": "亿恩网",
+      "url": "https://www.ennews.com/news-141922.html",
+      "subCategory": "平台动态"
+    },
+    {
+      "id": "trade-20260815-002",
+      "title": "DPD俄罗斯7月自提点业务量环比激增64%",
+      "summary": "DPD俄罗斯发布数据显示，7月自提点业务量环比增长64%，客户数增加10%，部分客户发货量增幅达70%，小件包裹占比升至45%。",
+      "publishedAt": "2026-08-14T15:01:35+08:00",
+      "source": "亿恩网",
+      "url": "https://www.ennews.com/news-141923.html",
+      "subCategory": "物流仓储"
+    },
+    {
+      "id": "trade-20260815-001",
+      "title": "eBay德国站第三季度汽摩配等品类持续升温",
+      "summary": "eBay发布德国站三季度消费趋势报告，绑带类产品搜索量同比增长116%，车顶箱需求增长60%，手办及车模等品类同样呈现明显增长。",
+      "publishedAt": "2026-08-14T14:48:19+08:00",
+      "source": "亿恩网",
+      "url": "https://www.ennews.com/news-141921.html",
+      "subCategory": "选品趋势"
+    },
+    {
+      "id": "trade-20260815-505",
+      "title": "2026美国返校季观察报告出炉，哪些品类有大爆的机会？",
+      "summary": "AMZ123发布2026年美国返校季观察报告显示，K12市场规模达433亿美元，大学市场首次突破1000亿美元，消费者更看重性价比，计算器、饭盒、透明书包等品类搜索和销量出现大幅增长。",
+      "publishedAt": "2026-08-14T09:53:00+08:00",
+      "source": "AMZ123",
+      "url": "https://www.amz123.com/t/AZjJuNh8",
+      "subCategory": "选品趋势"
     },
     {
       "id": "trade-20260814-001",
@@ -653,69 +716,6 @@
       "url": "https://www.amz123.com/t/Rie0esQP",
       "subCategory": "平台动态",
       "id": "trade-20260813-016"
-    },
-    {
-      "title": "eBay德国9月推出国际航运服务，卖家自动加入平台代管清关",
-      "summary": "eBay将于9月在德国分阶段上线国际航运服务，符合条件卖家自动加入，商品发往杜伊堡堡分拨中心后由平台负责清关、国际运输及退货处理，适用单件低于1000欧元订单，并提供货损保障及免国际交易费。",
-      "publishedAt": "2026-08-12T10:09:24+08:00",
-      "source": "出海网",
-      "url": "https://www.chwang.com/news/208736076916",
-      "subCategory": "平台动态",
-      "id": "trade-20260813-010"
-    },
-    {
-      "title": "京东物流开通越南至美国跨境小包专线",
-      "summary": "京东物流新开通越南至美国跨境小包专线，在河内、胡志明市、北宁、海防等城市设本地揬收点，覆盖出口清关、空运及尾程配送全流程，并在广西边境新增仓库提升中越陆运效率，助力东南亚卖家开拓北美市场。",
-      "publishedAt": "2026-08-12T10:04:40+08:00",
-      "source": "出海网",
-      "url": "https://www.chwang.com/news/208735957855",
-      "subCategory": "物流仓储",
-      "id": "trade-20260813-011"
-    },
-    {
-      "title": "上架就出单！新兴平台eMAG中国卖家仅一成",
-      "summary": "东欧电商平台eMAG中国卖家占比仅约一成，竞争相对较小；数据显示中国卖家过去一年平均订单量增长117%，平台客单价约90欧元，罗马尼亚、保加利亚、匈牙利等市场年增速超15%。",
-      "publishedAt": "2026-08-12T09:47:00+08:00",
-      "source": "雨果网",
-      "url": "https://www.cifnews.com/article/188142",
-      "subCategory": "新兴市场",
-      "id": "trade-20260812-002"
-    },
-    {
-      "title": "欧盟海关ICS2系统突发故障，欧线清关链条面临临时断档",
-      "summary": "马士基证实欧盟进口管控系统ICS2自8月7日起持续故障，各方暂无法从欧盟海关取得移动参考号及回执确认，已到港或即将到港货物面临查验增加、卸货延误风险，货代被建议记录系统性延误以避免与货主产生纠纷。",
-      "publishedAt": "2026-08-12T09:45:21+08:00",
-      "source": "出海网",
-      "url": "https://www.chwang.com/news/208735471346",
-      "subCategory": "关税法规",
-      "id": "trade-20260813-012"
-    },
-    {
-      "title": "亚马逅8月15日起强制执行AI人像元数据披露规则",
-      "summary": "亚马逊将于8月15日起强制执行AI人像元数据披露规则，产品图片或视频中如含AI生成人像须在IPTC元数据中标注专用关键词，未按规披露可能导致上传受限、A+页面下线或流量限制，多平台同步收紧相关规范。",
-      "publishedAt": "2026-08-12T03:30:00+08:00",
-      "source": "AMZ123",
-      "url": "https://www.amz123.com/kx/WCqpQfWg",
-      "subCategory": "平台政策",
-      "id": "trade-20260812-014"
-    },
-    {
-      "title": "中国借北极航道把亚欧海运距离砎半",
-      "summary": "借助北极东北航道与陆海联运组合，中国至欧洲的海运距离可从传统马六甲—苏伊士航线约2.1万公里缩短至约1.1万公里，航行时间电35至40天降至18至22天，但受俄方许可与季节性通航窗口限制，暂难替代主航线。",
-      "publishedAt": "2026-08-12T03:20:00+08:00",
-      "source": "AMZ123",
-      "url": "https://www.amz123.com/kx/MLJRROjN",
-      "subCategory": "物流仓储",
-      "id": "trade-20260812-015"
-    },
-    {
-      "title": "上半年海关审核通过知识产权海关保护备案1.5万件",
-      "summary": "海关总署数据显示，上半年全国海关查扣侵权嫌疑货物1.3万批次、丬万件，审核通过知识产权海关保护备案1.5万件，办理知识产权担保165笔，并启动“龙腾2026”专项行动强化执法与服务效率。",
-      "publishedAt": "2026-08-12T02:49:00+08:00",
-      "source": "AMZ123",
-      "url": "https://www.amz123.com/kx/coRHgENe",
-      "subCategory": "海关数据",
-      "id": "trade-20260812-013"
     }
   ]
 }
