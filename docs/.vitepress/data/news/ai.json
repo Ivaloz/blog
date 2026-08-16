@@ -3,7 +3,7 @@
   "slug": "ai",
   "title": "AI 与大模型",
   "description": "大模型、Agent、AI 编程、推理框架、开源模型的发布与落地。",
-  "updatedAt": "2026-08-15T16:40:00+08:00",
+  "updatedAt": "2026-08-16T08:30:00+08:00",
   "items": [
     {
       "id": "ai-20260815-611",
@@ -43,8 +43,8 @@
     },
     {
       "id": "ai-20260815-602",
-      "title": "根治AI音乐通病！这家国产音乐模型正面挑战SUNO",
-      "summary": "国产音乐模型音潮发布V4.0版本，宣称提升了指令理解与情绪语义识别能力，可识别\"温暖\"\"律动感\"等描述并匹配曲风乐器，支持十种语言，并开放歌词与编曲等API限时免费试用。",
+      "title": "根治 AI音乐通病！这家国产音乐模型正面挑战SUNO",
+      "summary": "国产AI音乐模型音潮发布4.0版本，宣称提升了指令理解与情绪语义识别能力，可识别\"温暖\"\"律动感\"等描述并匹配曲风乐器，支持十种语言，并开放歌词与编曲等API限时免费试用。",
       "publishedAt": "2026-08-15T14:36:05+08:00",
       "source": "量子位",
       "url": "https://www.qbitai.com/2026/08/473866.html",
@@ -80,7 +80,7 @@
     {
       "id": "ai-20260815-606",
       "title": "对话郎咸朋：用机器人创业重做一次\"百万智驾量产\"",
-      "summary": "量子位对话昆仑行创始人郎咸朋，其此前主导理想汽车智驾量产。他称公司三个月内完成数轮融资并成为独角兽，强调优先切入工业商用场景，预计机器人规模化进入家庭还需5至10年。",
+      "summary": "量子位对话昆仑行创始人郎咸朋，其此前主导理想汽车智驾量产。他称公司三个月内完成数轮融资并成为独角兽，强调优先切入工业商用场景，预计机器人规模化进入家庭还需 5到10年。",
       "publishedAt": "2026-08-15T12:21:09+08:00",
       "source": "量子位",
       "url": "https://www.qbitai.com/2026/08/473407.html",
@@ -107,7 +107,7 @@
     {
       "id": "ai-20260815-507",
       "title": "How Claude's text watermark works",
-      "summary": "Anthropic为Claude模型引入基于Google DeepMind SynthID-Text技术的文本水印机制，通过微调低置信度词元选择的随机性使AI生成内容可被追溯验证，不影响输出质量与生成速度，以满足欧盟人工智能法案合规要求。",
+      "summary": "Anthropic为Claude模型引入基于Google DeepMind SynthID-Text技术的文本水印机制，通过微调低置信度词元选择的随机性使 AI生成内容可被追溯验证，不影响输出质量与生成速度，以满足欧盟人工智能法案合规要求。",
       "publishedAt": "2026-08-15T03:16:00+08:00",
       "source": "Anthropic",
       "url": "https://www.anthropic.com/news/claude-text-watermark",
@@ -134,7 +134,7 @@
     {
       "id": "ai-20260815-004",
       "title": "新研究证实，AI生成书籍已挤压人类作者作品市场空间",
-      "summary": "一项分析2023至2026年亚马逊逾1.4万本电子书销售数据的研究显示，有销量图书数量增至19倍，读者总支出仅增至9倍，且未检测出AI文本的图书市场份额也在下降，显示AI生成内容正挤压人类作者的市场空间。",
+      "summary": "一项分析2023至2026年亚马逊逸1.4万本电子书销量数据的研究显示，有销量图书数量增至19倍，读者总支出仅增至9倍，且未检测出AI文本的图书市场份额也在下降，显示AI生成内容正挤压人类作者的市场空间。",
       "publishedAt": "2026-08-14T23:06:49+08:00",
       "source": "IT之家",
       "url": "https://www.ithome.com/0/989/951.htm",
@@ -142,7 +142,7 @@
     },
     {
       "id": "ai-20260815-003",
-      "title": "科技行业史上最大收购之一，SpaceX豪掷600亿美元拿下AI编程公司Cursor",
+      "title": "科技行业史上最大收购之一，SpaceX豪掖600亿美元拿下AI编程公司Cursor",
       "summary": "SpaceX以600亿美元完成对AI编程公司Cursor的收购，相关监管备案已于8月14日生效，此前双方已合作开发编程模型Grok 4.5，交易被称为科技行业史上最大收购之一。",
       "publishedAt": "2026-08-14T22:34:20+08:00",
       "source": "IT之家",
@@ -161,7 +161,7 @@
     {
       "id": "ai-20260815-501",
       "title": "苹果被曝联合阿里自研中国专属大模型",
-      "summary": "路透社援引消息人士报道，苹果与阿里巴巴合作，在阿里技术支持下为中国市场训练了一款专属AI大语言模型，标志苹果对华AI战略重大调整；此前苹果已计划将通义千问接入Apple智能，双方合作细节尚未获阿里官方证实。",
+      "summary": "路透社援引消息人士报道，苹果与阿里巴巴合作，在阿里技术支持下为中国市场训练了一款专属AI大语言模型，标志苹果对华AI战略重大调整；此前苹果已计划将通义千问接入Apple智能，双方合作细节尚未获阿里官方确证。",
       "publishedAt": "2026-08-14T16:29:47+08:00",
       "source": "观察者网",
       "url": "https://www.guancha.cn/economy/2026_08_14_827311.shtml",
@@ -169,8 +169,8 @@
     },
     {
       "id": "ai-20260815-508",
-      "title": "机器人为了走进真实物理世界，正在疯狂「吃算力」",
-      "summary": "具身智能企业算力需求两年增长5至10倍，覆盖遥操作数据采集、算法调试、仿真训练等环节；阿里云推出无影灵矩AI科研计算平台，将环境搭建时间从4至5小时压缩至30分钟，带宽效率提升50%，部署成本降低一半。",
+      "title": "机器人为了走进真实物理世界，正在疯狂「吃」算力",
+      "summary": "具身智能企业算力需求两年增长5到10倍，覆盖遥操作数据采集、算法调试、仿真训练等环节；阿里云推出无影灵矩AI科研计算平台，将环境搭建时间从4至5小时压缩到30分钟，带宽效率提升50%，部署成本降低一半。",
       "publishedAt": "2026-08-14T15:29:22+08:00",
       "source": "量子位",
       "url": "https://www.qbitai.com/2026/08/472722.html",
@@ -233,7 +233,7 @@
     {
       "id": "ai-20260814-005",
       "title": "xAI发布Grok 4.6，GDPVal-AA v2测试超GPT-5.6 Sol",
-      "summary": "xAI发布Grok 4.6，在GDPVal-AA v2测试中获得1753分，高于GPT-5.6 Sol的1728分与Claude Fable 5的1741分，API定价维持每百万输入2美元、输出6美元不变。",
+      "summary": "xAI发布Grok 4.6，在GDPVal-AA v2测试中获1753分，高于GPT-5.6 Sol的1728分与Claude Fable 5的1741分，API定价维持每百万输入2美元、输出6美元不变。",
       "publishedAt": "2026-08-13T20:04:29+08:00",
       "source": "量子位",
       "url": "https://www.qbitai.com/2026/08/472067.html",
@@ -241,7 +241,7 @@
     },
     {
       "id": "ai-20260814-006",
-      "title": "具身数据基础设施公司元点科技40天完成两轮融资",
+      "title": "具身数据基础设施公司元点科所40天完成两轮融资",
       "summary": "具身智能数据基础设施公司元点科技（SCALEFORCE）40天内完成两轮数千万元融资，资金用于其物理AI操作系统MatrixOS技术迭代及大规模数据生产网络建设。",
       "publishedAt": "2026-08-13T19:53:02+08:00",
       "source": "量子位",
@@ -250,8 +250,8 @@
     },
     {
       "id": "ai-20260814-007",
-      "title": "Anthropic研究员携手Claude解决2000阶以下全部哈达玛矩阵问题",
-      "summary": "Anthropic研究员Levent Alpöge团队与Claude合作构造出668阶哈达玛矩阵，并解决2000阶以下全部悬而未决的哈达玛矩阵问题，成为FrontierMath基准中第四个被AI攻克的开放数学难题。",
+      "title": "Anthropic研究员携手Claude解关2000阶以下全部哈达玛矩阵问题",
+      "summary": "Anthropic研究员Levent Alpöge团队与Claude合作构造出668阶哈达玛矩阵，并解关2000阶以下全部悬而未决的哈达玛矩阵问题，成为FrontierMath基准中第四个被AI攻克的开放数学难题。",
       "publishedAt": "2026-08-13T19:29:04+08:00",
       "source": "量子位",
       "url": "https://www.qbitai.com/2026/08/472016.html",
@@ -331,7 +331,7 @@
     },
     {
       "title": "全球首款机器人手机荣耀Robot Phone发布",
-      "summary": "荣耀在广州发布全球首款机器人手机，搭载四自由度钛合金云台，内置Agentic OS与YOYO AI助手，支持手势识别及一句话跨应用任务执行，8月18日开售，起售价9999元。",
+      "summary": "荣耀在广州发布全球首款机器人手机，搭载四自由度钂合金云台，内置Agentic OS与YOYO AI助手，支持手势识别及一句话跨应用任务执行，8月18日开售，起售价9999元。",
       "publishedAt": "2026-08-13T11:00:41+08:00",
       "source": "量子位",
       "url": "https://www.qbitai.com/2026/08/471451.html",
@@ -340,7 +340,7 @@
     },
     {
       "title": "小米卢伟冰：澎湃OS 4不开发布会，今日11点开启Beta招募",
-      "summary": "小米宣布澎湃OS 4不举办发布会，直接开启社区Beta招募，HyperCore内核加入负载精算与内存预加载技术，并升级依托小米MiMo模型的“超级小爱2.0”实现任务编排与内容生成。",
+      "summary": "小米宣布澎湃OS 4不举办发布会，直接开启社区Beta招募，HyperCore内核加入负载精算与内存预加载技术，并升级依托小米MiMo模型的“超级小猱2.0”实现任务编排与内容生成。",
       "publishedAt": "2026-08-13T09:07:00+08:00",
       "source": "IT之家",
       "url": "https://www.ithome.com/0/989/039.htm",
@@ -367,7 +367,7 @@
     },
     {
       "title": "腾讯微信公布 WeLM 模型：80B 版已在 AI 助手小微上应用，617B 版正在开发",
-      "summary": "腾讯微信团队公布了以资源效率为核心设计目标的大模型WeLM。其中80B版本已部署于微信原生AI助手\"小微\"，支撑聊天、搜索及小程序服务，参数规模更大的617B版本仍在开发中，用于处理更复杂的生态任务。",
+      "summary": "腾讯微信团队公布了以资源效率为核心设计目标的大模型WeLM。其中80B版本已部署于微信原生AI助手“小微”，支撑聊天、搜索及小程序服务，参数规模更大的617B版本仍在开发中，用于处理更复杂的生态任务。",
       "publishedAt": "2026-08-13T07:03:31+08:00",
       "source": "IT之家",
       "url": "https://www.ithome.com/0/989/007.htm",
@@ -385,7 +385,7 @@
     },
     {
       "title": "阿里开放 Qwen3.8-2.4T-A95B 模型权重：2.4T MoE、激活 95B、原生 256K 上下文",
-      "summary": "阿里通义千问团队开源发布Qwen3.8-2.4T-A95B模型权重，为首个开源的Qwen-Max级别模型，总参数2.4万亿、单次激活950亿，原生支扭26.2万token上下文，可扩展至101万token，采用512专家的混合专家架构，基准测试显示与Claude Opus 4.8、GPT-4o等模型具备竞争力。",
+      "summary": "阿里通义千问团队开源发布Qwen3.8-2.4T-A95B模型权重，为首个开源的Qwen-Max级别模型，总参数2.4万亿、单次激活950亿，原生支扠26.2万token上下文，可扩展至101万token，采用512专家的混合专家架构，基准测试显示与Claude Opus 4.8、GPT-4o等模型具备竞争力。",
       "publishedAt": "2026-08-13T00:10:01+08:00",
       "source": "IT之家",
       "url": "https://www.ithome.com/0/989/001.htm",
@@ -404,7 +404,7 @@
     {
       "id": "ai-20260814-011",
       "title": "谷歌发布面向编程与Agent场景的Gemini 3.7 Flash模型",
-      "summary": "谷歌发布Gemini 3.7 Flash模型，主打软件工程、知识工作与网页开发场景，年底前提供首发优惠价，每百万输入Token 0.75美元、输出3.75美元，为原3.6 Flash价格的一半。",
+      "summary": "谷歌发布Gemini 3.7 Flash模型，主打软件工程、知识工作与网页开发场景，年底前提供首发优惠价，每百万输入Token 0.75美元、输出3.75美元，为厕3.6 Flash价格的一半。",
       "publishedAt": "2026-08-13",
       "source": "Google DeepMind",
       "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
@@ -475,7 +475,7 @@
     },
     {
       "title": "LTX-2.5 模型登场：AI 生成 10 秒 720P 视频仅需 6.8 秒，原生集成 ComfyUI",
-      "summary": "LTX发布视频生成模型LTX-2.5，在两张英伟达GB200芯片上生成10秒720P视频仅頸前6.8秒，原生集成ComfyUI，年营收低于1000万美元的团队可免费使用。",
+      "summary": "LTX发布视频生成模型LTX-2.5，在两张英伟达GB200芯片上生成10秒720P视频仅需前6.8秒，原生集成ComfyUI，年营收低于1000万美元的团队可免费使用。",
       "publishedAt": "2026-08-12T14:46:51+08:00",
       "source": "IT之家",
       "url": "https://www.ithome.com/0/988/766.htm",
@@ -556,7 +556,7 @@
     },
     {
       "title": "前千问负责人林俊旸杀回来了：新公司剑指Agent，腾讯跟投",
-      "summary": "前阿里通义千问技术负责人林俊旸在离职五个月后于上海创办AI公司Pragmatik Labs（语用科技），研究方向聚焦跨越数字与物理世界的下一代智能体。本轮融资由高榜创投和红杞中国分别领投约1亿美元，腾讯投资约2000万美元，公司投后估值约20亿美元。",
+      "summary": "前阿里通义千问技术负责人林俊旸在离职五个月后于上海创办AI公司Pragmatik Labs（语用科技），研究方向聚焦跨越数字与物理世界的下一代智能体。本轮融资由高榜创投和红杉中国分别领投约1亿美元，腾讯投资约2000万美元，公司投后估值约20亿美元。",
       "publishedAt": "2026-08-12T07:45:00+08:00",
       "source": "36氪",
       "url": "https://36kr.com/p/3935738007485574",
@@ -564,8 +564,8 @@
       "id": "ai-20260812-004"
     },
     {
-      "title": "小扉万字濻文炮轰硝谷，Meta重磅开源30B小钢炮，一台MacBook就能跑",
-      "summary": "Meta Superintelligence Labs在Hugging Face以Apache 2.0协议开源30B参数模型Muse Glimmer，该模型从Muse Spark蒸馏而来，癴4bit量化后显存需求降至约18至20GB，可在消费级显卡及Mac上本地运行，具备多步推理、工具调用与故障恢复能力。Meta CEO扎克伯格同时发文批评AI权力集中问题。",
+      "title": "小扉万字澻文炮轰确谷，Meta重磅开源30B小钢炮，一台MacBook就能跑",
+      "summary": "Meta Superintelligence Labs在Hugging Face以Apache 2.0协议开源30B参数模型Muse Glimmer，该模型从Muse Spark蒸馏而来，療並4bit量化后显存需求降至约18到20GB，可在消费级显卡及Mac上本地运行，具备多步推理、工具调用与故障恢复能力。Meta CEO扎克伯格同时发文批评AI权力集中问题。",
       "publishedAt": "2026-08-12T07:26:00+08:00",
       "source": "36氪",
       "url": "https://36kr.com/p/3935707566079107",
@@ -610,7 +610,7 @@
     },
     {
       "title": "LangSmith BYOC on AWS is generally available",
-      "summary": "LangChain宣布LangSmith Bring Your Own Cloud（BYOC）方案在AWS上正式对企业客户开放。该托管部署模式允许企业将敏感LangSmith数据保留在自有AWS账户与VPC内，由LangChain负责升级与扩容，满足受监管行业对数据驻留的需求。",
+      "summary": "LangChain宣布LangSmith Bring Your Own Cloud（BYOC）方案在AWS上正式对企业客户开放。该托管部署模式允许企业将敏感 LangSmith数据保留在自有AWS账户与VPC内，由LangChain负责升级与扩容，满足受监管行业对数据驻留的需求。",
       "publishedAt": "2026-08-12",
       "source": "LangChain Blog",
       "url": "https://langchain.com/blog/langsmith-byoc-is-now-generally-available-on-aws",
@@ -628,7 +628,7 @@
     },
     {
       "title": "Putting sign language AI into users' hands",
-      "summary": "Google DeepMind推出手语转文本翻译模型SL2T，可将美国手语转换为英语文本，现已应用于Pixel 11上的Gboard与Live Transcribe功能，方便胲人及听障用户以手语代替打字输入，模型基于超过10万小时、覆盖50余种手语的数据训练。",
+      "summary": "Google DeepMind推出手语转文本翻译模型SL2T，可将美国手语转换为英语文本，现已应用于Pixel 11上的Gboard与Live Transcribe功能，方便鞂人及听障用户以手语代替打字输入，模型基于超过10万小时、覆盖50余种手语的数据训练。",
       "publishedAt": "2026-08-12",
       "source": "Google DeepMind Blog",
       "url": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/",
@@ -674,7 +674,7 @@
     {
       "id": "ai-20260811-210",
       "title": "在Claude Code里用GPT被秒封，前员工Tibo为用户重置额度",
-      "summary": "前Anthropic员工Tibo分享在Claude Code内通过本地代理调用GPT模型的教程，一名开发者照做后账号被封，Tibo为其重置额度；Claude Code团队回应称不会仅因使用其他模型而封号，该事件引发OpenAI高层关注。",
+      "summary": "前 Anthropic员工Tibo分享在Claude Code内通过本地代理调用GPT模型的教程，一名开发者照做后账号被封，Tibo为其重置额度；Claude Code团队回应称不会仅因使用其他模型而封号，该事件引发OpenAI高层关注。",
       "publishedAt": "2026-08-11T22:00:00+08:00",
       "source": "36氪",
       "url": "https://36kr.com/p/3935071001951366",
