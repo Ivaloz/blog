@@ -3,8 +3,71 @@
   "slug": "finance",
   "title": "投资与财经",
   "description": "宏观经济、A 股 / 港股 / 美股、一级市场融资、行业研报观点。",
-  "updatedAt": "2026-08-16T08:30:00+08:00",
+  "updatedAt": "2026-08-16T17:00:00+08:00",
   "items": [
+    {
+      "id": "finance-20260816-707",
+      "title": "华联控股：收到加拿大FIRES通知函 阿根廷锂盐湖项目投资可能触发审查",
+      "summary": "华联控股公告，公司收到加拿大外国投资审查及经济安全主管机构（FIRES）通知函，认为公司对阿根廷阿里扎罗锂盐湖项目的投资可能影响加拿大国家安全，或将启动进一步审查。此前公司以约1.75亿美元受让Argentum Lithium S.A. 100%股份，获得该项目80%权益，交易能否通过审查存在不确定性。",
+      "publishedAt": "2026-08-16T16:19:00+08:00",
+      "source": "华尔街见闻",
+      "url": "https://wallstreetcn.com/livenews/3150047",
+      "subCategory": "风险事件"
+    },
+    {
+      "id": "finance-20260816-702",
+      "title": "厄尔尼诺致糖期货大涨价",
+      "summary": "据Rabobank分析，强厄尔尼诺天气模式或减少印度及东南亚产糖区降雨，加剧全球食糖减产风险，印度已禁止食糖出口至9月。过去一个月，纽约原糖期货与伦敦白糖期货主力合约价格分别累计上涨约12%和8.8%，国内糖期货涨幅相对温和。",
+      "publishedAt": "2026-08-16T12:39:00+08:00",
+      "source": "华尔街见闻",
+      "url": "https://wallstreetcn.com/livenews/3150031",
+      "subCategory": "大宗商品"
+    },
+    {
+      "id": "finance-20260816-701",
+      "title": "段永平二季度减持英伟达、谷歌 新建阿里巴巴仓位",
+      "summary": "据美国SEC文件，段永平旗下H&H International Investment基金二季度末总持仓约191亿美元，较一季度末的约200亿美元有所下降。期间加仓拼多多、伯克希尔B股及迪士尼，新建阿里巴巴仓位，同时减持英伟达、谷歌及微软，并清仓台积电与CrowdStrike。",
+      "publishedAt": "2026-08-16T12:12:00+08:00",
+      "source": "华尔街见闻",
+      "url": "https://wallstreetcn.com/livenews/3150029",
+      "subCategory": "美股"
+    },
+    {
+      "id": "finance-20260816-703",
+      "title": "中微半导：2026年上半年净利润1.72亿元 同比增98.48%",
+      "summary": "中微半导公告，公司2026年上半年实现营业收入7.26亿元，同比增长44.01%；归属于上市公司股东的净利润1.72亿元，同比增长98.48%。公司称业绩增长得益于把握人工智能、机器人及汽车电子领域机遇，加大研发投入并推进大客户战略与供应链优化。",
+      "publishedAt": "2026-08-16",
+      "source": "华尔街见闻",
+      "url": "https://wallstreetcn.com/livenews/3150041",
+      "subCategory": "公司财报"
+    },
+    {
+      "id": "finance-20260816-704",
+      "title": "频准激光：将于8月18日科创板上市",
+      "summary": "频准激光公告，公司股票将于2026年8月18日在上海证券交易所科创板挂牌上市，本次公开发行1000万股，发行价186.88元/股，发行后总股本4000万股。公司2025年度营业收入4.18亿元，净利润1.51亿元。",
+      "publishedAt": "2026-08-16",
+      "source": "华尔街见闻",
+      "url": "https://wallstreetcn.com/livenews/3150042",
+      "subCategory": "一级市场"
+    },
+    {
+      "id": "finance-20260816-705",
+      "title": "盛科通信：与关联方签超1亿元日常经营重大合同",
+      "summary": "盛科通信公告，公司近日与关联方深圳中电港科技签订产品销售合同，标的为以太网交换芯片，合同金额超过公司上一年度经审计营业收入的50%且超1亿元。该交易属预计日常关联交易范围，无需提交董事会或股东大会审议，为长期合同并分期确认收入。",
+      "publishedAt": "2026-08-16",
+      "source": "华尔街见闻",
+      "url": "https://wallstreetcn.com/livenews/3150043",
+      "subCategory": "A股"
+    },
+    {
+      "id": "finance-20260816-706",
+      "title": "锦龙股份：2026年上半年净利润1424.89万元，同比下降88.59%",
+      "summary": "锦龙股份公告，公司2026年上半年实现营业收入3.49亿元，同比下降16.28%；归属于上市公司股东的净利润1424.89万元，同比下降88.59%；扣非后净利润1941.9万元，上年同期为亏损9566.62万元。公司本期不进行现金分红、送股及资本公积转增股本。",
+      "publishedAt": "2026-08-16",
+      "source": "华尔街见闻",
+      "url": "https://wallstreetcn.com/livenews/3150044",
+      "subCategory": "公司财报"
+    },
     {
       "id": "finance-20260816-001",
       "title": "伊朗再袖一艘霍尔木兹海峽油轮，以色列加大黎巴嫩军事打击力度",
@@ -58,33 +121,6 @@
       "source": "新浪财经",
       "url": "https://finance.sina.com.cn/world/2026-08-15/doc-ininiusz8944454.shtml",
       "subCategory": "公司财报"
-    },
-    {
-      "id": "finance-20260815-603",
-      "title": "伯克希尔披露Q2持仓：Alphabet趻身前三，增持达美航空和住宅建筑商",
-      "summary": "伯克希尔哈萨韦监管文件显示，截至6月底持有约1.06亿股Alphabet股票，价值379亿美元，季度环比增持83%，成为仅次于苹果和美国运通的第三大美股持仓，同期还增持达美航空及多家住宅建筑商股票。",
-      "publishedAt": "2026-08-15T06:00:58+08:00",
-      "source": "新浪财经",
-      "url": "https://finance.sina.com.cn/world/2026-08-15/doc-ininiusz8944454.shtml",
-      "subCategory": "美股"
-    },
-    {
-      "id": "finance-20260815-604",
-      "title": "美联储暂停准备金管理国库券购买出人意料，华尔街料至少暂停至10月",
-      "summary": "美联储宣布下一操作期内不会出于准备金管理目的买入国库券，为该计划2025年12月启动以来首次暂停，期间仍将进行约170亿美元再投资购买。市场此前预期购债规模维持在100亿美元左右，多家华尔街机构预计暂停将持续到10月后。",
-      "publishedAt": "2026-08-15T06:00:58+08:00",
-      "source": "新浪财经",
-      "url": "https://finance.sina.com.cn/world/2026-08-15/doc-ininiusz8944454.shtml",
-      "subCategory": "政策利率"
-    },
-    {
-      "id": "finance-20260815-605",
-      "title": "苝加哥联储行长古尔斯比：对通胀降温感到鼓舞，仍希望看到更多证据",
-      "summary": "苝加哥联储行长古尔斯比表示，近三个月通胀数据令他受到鼓舞，显示关税和油价上涨带来的部分价格冲击正逐步消化，但他希望看到连续三四个月类似数据，以确认通胀正回落至2%目标水平。",
-      "publishedAt": "2026-08-15T06:00:58+08:00",
-      "source": "新浪财经",
-      "url": "https://finance.sina.com.cn/world/2026-08-15/doc-ininiusz8944454.shtml",
-      "subCategory": "宏观经济"
     },
     {
       "id": "finance-20260815-503",
@@ -375,6 +411,24 @@
       "id": "finance-20260813-109"
     },
     {
+      "id": "finance-20260814-012",
+      "title": "上海卓然工程技术股份有限公司关于公司立案调查进展暉退市风险提示公告",
+      "summary": "上海卓然（*ST卓然，688121）公告称，证监会已对公司及实际控制人张劲鸿立案调查，涉嫌信息披露违法违规，初步调查发现公司部分年度财务信息可能存在虚假记载，可能触及科创板重大违法强制退市情形。",
+      "publishedAt": "2026-08-13",
+      "source": "上海证券报",
+      "url": "https://paper.cnstock.com/html/2026-08/13/content_2254539.htm",
+      "subCategory": "风险事件"
+    },
+    {
+      "id": "finance-20260814-013",
+      "title": "Mortgage rates see first drop in six weeks: Mortgage and refinance interest rates today, Thursday, August 13, 2026",
+      "summary": "美国30年期抵押贷款平均利率降至6.67%，较前一器6.69%下降2个基点，为六周来首次下降，就业数据走弱及通胀降温迹象降低了市场对美联储近期加息的预期。",
+      "publishedAt": "2026-08-13",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-rates-see-first-drop-in-six-weeks-mortgage-and-refinance-interest-rates-today-thursday-august-13-2026-100000704.html",
+      "subCategory": "宏观经济"
+    },
+    {
       "title": "腾讯二季度资本开支同比翻倍，马化腾谈AI转型",
       "summary": "腾讯第二季度资本开支同比翻倍增至527.84亿元，环比增65%；马化腾称正构建“全新的腾讯”，公司因AI相关算力预付款拖累，季度自由现金流转负138亿元。",
       "publishedAt": "2026-08-13T07:47:06+08:00",
@@ -409,24 +463,6 @@
       "url": "https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation/",
       "subCategory": "一级市场",
       "id": "finance-20260813-014"
-    },
-    {
-      "id": "finance-20260814-012",
-      "title": "上海卓然工程技术股份有限公司关于公司立案调查进展暉退市风险提示公告",
-      "summary": "上海卓然（*ST卓然，688121）公告称，证监会已对公司及实际控制人张劲鸿立案调查，涉嫌信息披露违法违规，初步调查发现公司部分年度财务信息可能存在虚假记载，可能触及科创板重大违法强制退市情形。",
-      "publishedAt": "2026-08-13",
-      "source": "上海证券报",
-      "url": "https://paper.cnstock.com/html/2026-08/13/content_2254539.htm",
-      "subCategory": "风险事件"
-    },
-    {
-      "id": "finance-20260814-013",
-      "title": "Mortgage rates see first drop in six weeks: Mortgage and refinance interest rates today, Thursday, August 13, 2026",
-      "summary": "美国30年期抵押贷款平均利率降至6.67%，较前一器6.69%下降2个基点，为六周来首次下降，就业数据走弱及通胀降温迹象降低了市场对美联储近期加息的预期。",
-      "publishedAt": "2026-08-13",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-rates-see-first-drop-in-six-weeks-mortgage-and-refinance-interest-rates-today-thursday-august-13-2026-100000704.html",
-      "subCategory": "宏观经济"
     },
     {
       "title": "正荣地产公告66.14亿元境内债重组方案",

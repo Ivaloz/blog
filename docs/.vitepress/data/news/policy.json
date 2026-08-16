@@ -3,8 +3,17 @@
   "slug": "policy",
   "title": "政策信息",
   "description": "国家与地方政策、监管动态、产业扶持与合规要求。",
-  "updatedAt": "2026-08-16T08:30:00+08:00",
+  "updatedAt": "2026-08-16T17:00:00+08:00",
   "items": [
+    {
+      "id": "policy-20260816-701",
+      "title": "Review launched to shape pathway to reach zero emission driving by 2035",
+      "summary": "英国交通部、商业与贸易部等部门就“零排放汽车（ZEV）强制配额”机制启动公开评估，就2030年停售新燃油乘用车、2035年新车全面实现零排放的路径公开征求车企、经销商及公众意见，评估期至10月23日截止。",
+      "publishedAt": "2026-08-14T16:10:00+01:00",
+      "source": "英国政府网（GOV.UK）/ 交通部",
+      "url": "https://www.gov.uk/government/news/review-launched-to-shape-pathway-to-reach-zero-emission-driving-by-2035",
+      "subCategory": "新能源政策"
+    },
     {
       "id": "policy-20260815-002",
       "title": "证监会发布上市公司2025年年度财务报告会计监管报告",
@@ -40,6 +49,24 @@
       "source": "国家发展和改革委员会",
       "url": "https://www.ndrc.gov.cn/xxgk/zcfb/gg/202608/t20260814_1407029.html",
       "subCategory": "跨境贸易"
+    },
+    {
+      "id": "policy-20260816-702",
+      "title": "Updated Statement Regarding the Division of Corporation Finance's Role in the Exchange Act Rule 14a-8 Process",
+      "summary": "美国证监会企业融资部宣布即日起完全停止回应《证券交易法》14a-8条款下的股东提案排除“不采取行动”请求，此前自2025年11月起已限缩响应范围，此次进一步取消相关非强制性指导，专用邮箱同步停用。",
+      "publishedAt": "2026-08-14",
+      "source": "美国证券交易委员会（SEC）",
+      "url": "https://www.sec.gov/newsroom/speeches-statements/corpfin-statement-rule-14a-8-process-081426",
+      "subCategory": "金融监管"
+    },
+    {
+      "id": "policy-20260816-703",
+      "title": "SEC Charges Boiler Room Operator and Three Entities with Defrauding Retail Investors in $74 Million Pre-IPO Investment Scam",
+      "summary": "美国证监会指控安德鲁·斯帕文塔及其控制的三家实体在2020年12月至2025年6月间，通过未注册证券方式向逾800名散户募集超7400万美元，以隐藏加价费用等手段实施欺诈，涉及约2300万美元违规收费。",
+      "publishedAt": "2026-08-14",
+      "source": "美国证券交易委员会（SEC）",
+      "url": "https://www.sec.gov/newsroom/press-releases/2026-75-sec-charges-boiler-room-operator-three-entities-defrauding-retail-investors-74-million-pre-ipo",
+      "subCategory": "金融监管"
     },
     {
       "id": "policy-20260814-004",
@@ -195,15 +222,6 @@
       "id": "policy-20260812-002"
     },
     {
-      "id": "policy-20260811-003",
-      "title": "Delivering Gold Standard Childhood Vaccine Recommendations for Americans",
-      "summary": "特朗普签署行政令，要求联邦机构建立金标准儿童疫苗建议体系，推动单剂疫苗选项、重新评估接种时间表、研发替代佐剂，并指示司法部对限制医疗与宗教豁免的州法律采取行动。",
-      "publishedAt": "2026-08-10T15:41:50-04:00",
-      "source": "白宫",
-      "url": "https://www.whitehouse.gov/presidential-actions/2026/08/delivering-gold-standard-childhood-vaccine-recommendations-for-americans/",
-      "subCategory": "海外政策"
-    },
-    {
       "title": "英国首相宣布整治电子烟店与博彩店 拯救衰落商业街",
       "summary": "英国首相安迪·伯纳姆宣布一揽子措施整治商业街：取消博彩法中的默许通过规则以赋予地方议会拒批新博彩店权力，要求新开电子烟店须获规划许可并收紧其定义，明年起对成人游戏中心设置规划要求，并将涉黑经营场所的最长关停令期限从6个月延长至12个月。",
       "publishedAt": "2026-08-11",
@@ -220,6 +238,15 @@
       "url": "https://www.fincen.gov/news/news-releases/fincen-permanently-ends-beneficial-ownership-reporting-requirements-millions",
       "subCategory": "金融监管",
       "id": "policy-20260812-003"
+    },
+    {
+      "id": "policy-20260811-003",
+      "title": "Delivering Gold Standard Childhood Vaccine Recommendations for Americans",
+      "summary": "特朗普签署行政令，要求联邦机构建立金标准儿童疫苗建议体系，推动单剂疫苗选项、重新评估接种时间表、研发替代佐剂，并指示司法部对限制医疗与宗教豁免的州法律采取行动。",
+      "publishedAt": "2026-08-10T15:41:50-04:00",
+      "source": "白宫",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/08/delivering-gold-standard-childhood-vaccine-recommendations-for-americans/",
+      "subCategory": "海外政策"
     },
     {
       "title": "FTC Stops Sprawling Credit Repair Scheme that Scammed Consumers Out of Nearly $200 Million",
@@ -697,33 +724,6 @@
       "source": "European Commission",
       "url": "https://commission.europa.eu/news-and-media/news/right-repair-new-consumer-rights-easy-and-attractive-repairs-2026-07-31_en",
       "subCategory": "海外政策"
-    },
-    {
-      "id": "policy-20260801-a003",
-      "title": "Commission starts enforcing AI Act rules and new transparency requirements on 2 August",
-      "summary": "欧盟委员会宣布自8月2日起执行《人工智能法案》透明度新规，聊天机器人须告知用户正在与AI交互，深度伪造内容须加注标签，委员会可对违规的通用人工智能模型处以最高1500万欧元或全球营业额3%的罚款。",
-      "publishedAt": "2026-07-31",
-      "source": "European Commission",
-      "url": "https://digital-strategy.ec.europa.eu/en/news/commission-starts-enforcing-ai-act-rules-and-new-transparency-requirements-2-august",
-      "subCategory": "AI监管"
-    },
-    {
-      "id": "policy-20260803-001",
-      "title": "Strong backing for the Code of Practice on Transparency of AI-generated Content",
-      "summary": "欧盟《人工智能生成内容透明度行为准则》获约190家机构联署支持，覆盖IT、电信、教育、零售等行业，提供方章节83家签署、部署方章节152家签署，谷歌、Meta、微软、OpenAI、Anthropic等公司在列。该准则先于8月2日生效的《人工智能法案》强制标识义务推出，为签署方提供合规路径。",
-      "publishedAt": "2026-07-31",
-      "source": "European Commission",
-      "url": "https://digital-strategy.ec.europa.eu/en/news/strong-backing-code-practice-transparency-ai-generated-content",
-      "subCategory": "AI监管"
-    },
-    {
-      "id": "policy-20260731-m001",
-      "title": "国家发展改革委召开上半年发展改革形势通报会",
-      "summary": "国家发展改革委召开2026年上半年工作通报会，指出上半年经济呈现\"动能向新、结构向优\"态势，就下半年重点工作提出八项要求，涉及推进\"十五五\"规划、扩大内需、加快现代化产业体系建设及推进\"东数西算\"工程和人工智能应用等。",
-      "publishedAt": "2026-07-31",
-      "source": "国家发展和改革委员会",
-      "url": "https://www.ndrc.gov.cn/xwdt/xwfb/202607/t20260731_1406802.html",
-      "subCategory": "产业政策"
     }
   ]
 }
