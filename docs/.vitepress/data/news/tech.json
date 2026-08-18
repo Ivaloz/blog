@@ -3,8 +3,152 @@
   "slug": "tech",
   "title": "科技新闻",
   "description": "前沿科技、互联网产品、芯片硬件、开源生态。",
-  "updatedAt": "2026-08-16T17:00:00+08:00",
+  "updatedAt": "2026-08-18T08:55:25+08:00",
   "items": [
+    {
+      "id": "tech-20260818-013",
+      "title": "今年1亿台目标有望达成！华为鸿蒙装机量突破8000万台 坐稳中国第二大手机系统",
+      "summary": "华为鸿蒙操作系统装机量突破8000万台，日均新增激活设备稳定在17万台以上，已在中国市场超越苹果iOS成为第二大手机操作系统，按当前增速年内有望达成1亿台目标。",
+      "publishedAt": "2026-08-18T08:37:48+08:00",
+      "source": "快科技",
+      "url": "https://news.mydrivers.com/1/1144/1144430.htm",
+      "subCategory": "操作系统"
+    },
+    {
+      "id": "tech-20260818-011",
+      "title": "开源多媒体框架FFmpeg优化H.265/HEVC视频编码能力，实现性能\"基本追平H.264\"",
+      "summary": "FFmpeg开发团队改进hevc_vulkan编码器配置，借助Vulkan加速提升H.265编码速度，1080p满质量下编码帧率由约200-317帧提升至289-358帧，并修复部分SPS参数同步问题。",
+      "publishedAt": "2026-08-18T07:57:30+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/990/889.htm",
+      "subCategory": "开源生态"
+    },
+    {
+      "id": "tech-20260818-015",
+      "title": "YouTube官宣下周统一观看次数口径：普通视频无需观看约30秒",
+      "summary": "YouTube宣布自8月24日起统一各类视频的观看次数计算标准，取消普通视频约30秒的最低观看时长门槛，创作者公开观看数据可能更快增长，但该调整不影响广告收入计算方式。",
+      "publishedAt": "2026-08-18T07:55:11+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/990/888.htm",
+      "subCategory": "互联网产品"
+    },
+    {
+      "id": "tech-20260818-016",
+      "title": "Spotify上线\"播放列表备注\"功能，用户可为播客节目、有声书添加文字说明",
+      "summary": "Spotify推出\"播放列表备注\"功能，用户可为歌曲、播客及有声书添加文字说明，此前该功能仅支持单曲最多240字备注，目前已在美国、加拿大、英国、爱尔兰、澳大利亚及新西兰上线。",
+      "publishedAt": "2026-08-18T07:30:59+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/990/881.htm",
+      "subCategory": "互联网产品"
+    },
+    {
+      "id": "tech-20260818-014",
+      "title": "GitHub服务中断同一天，Cursor推出内置代码托管平台Origin",
+      "summary": "GitHub于8月17日发生持续大半天的服务中断，同日Cursor推出内置代码托管平台Origin并开放公测，付费用户可在编辑器内完成代码差异查看、评论与合并，且与GitHub仓库双向同步。",
+      "publishedAt": "2026-08-18T07:03:17+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/990/874.htm",
+      "subCategory": "开发者工具"
+    },
+    {
+      "id": "tech-20260818-012",
+      "title": "苹果发布iOS/iPadOS 26.6.1及macOS 26.6.2：聚焦安全漏洞修复",
+      "summary": "苹果发布iOS/iPadOS 26.6.1及macOS 26.6.2更新，修复iPhone上20多个安全漏洞，多数涉及WebKit，另有Audio、ImageIO及内核相关问题，相关漏洞此前已在iOS 27测试版中修复。",
+      "publishedAt": "2026-08-18T06:35:11+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/990/868.htm",
+      "subCategory": "安全漏洞"
+    },
+    {
+      "id": "tech-20260818-010",
+      "title": "苹果visionOS 26.6.1正式版发布",
+      "summary": "苹果向Vision Pro用户推送visionOS 26.6.1正式版更新，构建版本号为23O780，距上一正式版visionOS 26.6发布已间隔21天，部分地区因服务器缓存问题更新推送可能略有延迟。",
+      "publishedAt": "2026-08-18T01:49:18+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/990/865.htm",
+      "subCategory": "XR-AR-VR"
+    },
+    {
+      "id": "tech-20260818-009",
+      "title": "LG推出xboom Power系列旗舰派对音箱：自带一键K歌模式，格莱美获奖音乐人调校",
+      "summary": "LG发布xboom Power系列派对音箱，含Power 9000、7000、5000三款机型，最高输出440瓦，音质由格莱美获奖音乐人will.i.am调校，内置AI卡拉OK功能可去除人声并支持双麦克风演唱。",
+      "publishedAt": "2026-08-17T23:57:27+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/990/859.htm",
+      "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260818-007",
+      "title": "能举起50公斤重杠铃，九光技术发布小睿G3人形机器人",
+      "summary": "香港九光技术在香港科学园发布第三代人形机器人小睿G3，身高173厘米、体重不足60公斤，可拖动逾100公斤物体或举起50公斤杠铃，并支持语音指令控制，用于协助重体力搬运工作。",
+      "publishedAt": "2026-08-17T23:29:57+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/990/853.htm",
+      "subCategory": "机器人"
+    },
+    {
+      "id": "tech-20260818-008",
+      "title": "比亚迪腾势N8大五座SUV官宣搭载第二代刀片电池及闪充技术，支持1003km纯电续航",
+      "summary": "比亚迪腾势官宣N8大五座SUV将搭载第二代刀片电池及闪充技术，纯电续航最高达1003公里，车身尺寸5150×1999×1820毫米，提供单电机、高性能单电机及三电机等多种动力配置。",
+      "publishedAt": "2026-08-17T23:29:35+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/990/852.htm",
+      "subCategory": "智能汽车"
+    },
+    {
+      "id": "tech-20260818-005",
+      "title": "2026年显卡涨价不同于矿卡：显存成本短期降不下来",
+      "summary": "报道称本轮显卡涨价源于AI驱动的存储需求，RTX 5090等型号加价超50%甚至达135%，GDDR7显存价格高企，32GB显存成本约320美元，业内预计价格将维持高位至2030年，与此前矿卡周期不同。",
+      "publishedAt": "2026-08-17T22:29:00+08:00",
+      "source": "新浪科技",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-08-17/doc-ininruyf6830837.shtml",
+      "subCategory": "芯片硬件"
+    },
+    {
+      "id": "tech-20260818-002",
+      "title": "代码量突破4300万行！Linux 7.2稳定版正式发布：AMD HDMI 2.1终获支持",
+      "summary": "Linus Torvalds正式发布Linux 7.2稳定版内核，代码量突破4300万行，新增缓存感知调度、USB4协议支持，AMD GPU驱动首次支持HDMI 2.1 FRL，Intel Xe驱动也迎来更新，将成为Ubuntu 26.10等发行版基础。",
+      "publishedAt": "2026-08-17T14:47:00+08:00",
+      "source": "快科技",
+      "url": "https://news.mydrivers.com/1/1144/1144242.htm",
+      "subCategory": "操作系统"
+    },
+    {
+      "id": "tech-20260818-001",
+      "title": "宇树科技发布\"超人\"",
+      "summary": "宇树科技推出人形机器人\"超人\"，腿长0.85米，原地纵跳可达2米，极限奔跑速度12.66米/秒，均超过现有人类纪录。公司称整机历时约三个多月研发完成，后续仍有较大优化空间。",
+      "publishedAt": "2026-08-17T14:41:00+08:00",
+      "source": "36氪",
+      "url": "https://www.36kr.com/newsflashes/3943249742806403",
+      "subCategory": "机器人"
+    },
+    {
+      "id": "tech-20260818-006",
+      "title": "全球首个具身Physical AI开源生态将于9月2日发布",
+      "summary": "乐相科技旗下Zeroth元点机器人宣布，全球首个具身Physical AI开源生态OpenBridge将于9月2日发布。其人形机器人Zeroth M1预订单已近3万台，正式交付计划于12月启动。",
+      "publishedAt": "2026-08-17T12:11:00+08:00",
+      "source": "CNMO",
+      "url": "https://ai.cnmo.com/news/816139.html",
+      "subCategory": "开源生态"
+    },
+    {
+      "id": "tech-20260818-003",
+      "title": "Unisoc VoLTE Video Call Exploit Chain Can Give Attackers Full Android Kernel Access",
+      "summary": "安全机构SSD Secure Disclosure披露紫光展锐调制解调器固件漏洞，攻击者可通过VoLTE视频通话结合此前RCE漏洞，利用调制解调器与应用处理器共享物理内存的缺陷获得安卓内核完全访问权限，厂商尚未发布补丁。",
+      "publishedAt": "2026-08-17",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/08/unisoc-volte-video-call-exploit-chain.html",
+      "subCategory": "安全漏洞"
+    },
+    {
+      "id": "tech-20260818-004",
+      "title": "我国成功发射SEO卫星",
+      "summary": "北京时间8月17日11时02分，我国在太原卫星发射中心使用长征二号丙运载火箭成功发射SEO卫星，卫星顺利进入预定轨道，发射任务圆满成功，为长征系列运载火箭第664次飞行。",
+      "publishedAt": "2026-08-17T11:54:22+08:00",
+      "source": "科技日报",
+      "url": "https://www.stdaily.com/web/gdxw/2026-08/17/content_564956.html",
+      "subCategory": "航空航天"
+    },
     {
       "id": "tech-20260816-701",
       "title": "微软听劝：新版 Win11 右键菜单预览，设计更简洁、支持添加自定义选项",
@@ -357,15 +501,6 @@
       "subCategory": "智能汽车"
     },
     {
-      "id": "tech-20260815-511",
-      "title": "黑客利用macOS屏幕共享漏洞植入门罗币挖矿程序",
-      "summary": "荷兰国家网络安全中心警告，攻击者正利用macOS屏幕共享功能中的身份验证绕过漏洞CVE-2026-65400发起攻击，该漏洞影响开旾5900端口的VNC远程桌面服务。苹果已于8月6日在macOS Tahoe 26.6.1等版本修复，已知案例中攻击者获取root权限并植入门罗币挖矿程序。",
-      "publishedAt": "2026-08-14T10:59:00-04:00",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-macos-screen-sharing-flaw-to-deploy-monero-miner/",
-      "subCategory": "安全漏洞"
-    },
-    {
       "id": "tech-20260815-003",
       "title": "5米1大五座旗舰 纯电续航402km！魏牌V8X上市 限时22.68万起",
       "summary": "魏牌全新大五座旗舰SUV V8X正式上市，推出豪华家庭版与运动版共五个版本，官方零售价23.98万至31.58万元，叠加限时权益后最低22.68万元起，纯电续航达402公里。",
@@ -427,6 +562,15 @@
       "source": "IT之家",
       "url": "https://www.ithome.com/0/989/718.htm",
       "subCategory": "操作系统"
+    },
+    {
+      "id": "tech-20260815-511",
+      "title": "黑客利用macOS屏幕共享漏洞植入门罗币挖矿程序",
+      "summary": "荷兰国家网络安全中心警告，攻击者正利用macOS屏幕共享功能中的身份验证绕过漏洞CVE-2026-65400发起攻击，该漏洞影响开旾5900端口的VNC远程桌面服务。苹果已于8月6日在macOS Tahoe 26.6.1等版本修复，已知案例中攻击者获取root权限并植入门罗币挖矿程序。",
+      "publishedAt": "2026-08-14T10:59:00-04:00",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-macos-screen-sharing-flaw-to-deploy-monero-miner/",
+      "subCategory": "安全漏洞"
     },
     {
       "id": "tech-20260814-020",
@@ -492,24 +636,6 @@
       "subCategory": "智能汽车"
     },
     {
-      "id": "tech-20260814-010",
-      "title": "Akira勒索团伙利用安全模式关闭EDR，窃取数据但加密失败",
-      "summary": "Akira勒索软件团伙通过缺乏多因素认证的SonicWall VPN入侵网络，利用Windows安全模式绕过终端检测响应工具，虽窃取了凭据与文件，但因内存错误导致加密程序执行失败。",
-      "publishedAt": "2026-08-13T16:47:00-04:00",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/akira-hackers-disable-edr-with-safe-mode-steal-data-but-fail-to-encrypt/",
-      "subCategory": "安全漏洞"
-    },
-    {
-      "id": "tech-20260814-013",
-      "title": "严重VMware vCenter漏洞遭利用，攻击者借此建立反向SSH通道",
-      "summary": "VMware vCenter Syslog Server中的严重漏洞CVE-2026-59310正被利用于部署反向SSH工具以维持访问权限，研究人员发现47个国家的361台系统已遭入侵，距补丁发布仅五天。",
-      "publishedAt": "2026-08-13T12:40:00-04:00",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/critical-vmware-vcenter-rce-flaw-exploited-for-reverse-ssh-access/",
-      "subCategory": "安全漏洞"
-    },
-    {
       "id": "tech-20260814-007",
       "title": "全球最大电池纯电动飞机Heart Aerospace X1完成首飞",
       "summary": "瑞典公司Heart Aerospace的X1验证机在纽约普拉茨堡国际机场完成载人首飞，起飞重量超11吨，功率输出超1兆瓦，作为其30座混合动力支线客机的全尺寸验证平台。",
@@ -528,15 +654,6 @@
       "subCategory": "消费电子"
     },
     {
-      "id": "tech-20260814-015",
-      "title": "硬件钱包厂商Trezor披露数据泄露，近1.4万客户信息受影响",
-      "summary": "Trezor披露其发货服务商ShipMonk遭黑客攻击，导致约1.4万名客户的姓名、地址、邮箱和电话号码泄露，涉及5月10日至8月8日期间的订单数据。",
-      "publishedAt": "2026-08-13T11:13:00-04:00",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/trezor-discloses-data-breach-affecting-nearly-14-000-customers/",
-      "subCategory": "安全漏洞"
-    },
-    {
       "id": "tech-20260814-009",
       "title": "吉利银河TT纯电轿车预售，全系800V平台，14.59万元起",
       "summary": "吉利银河TT纯电轿车开启预售，全系标配800V高压平台及宁德时代神行TT电池，支持11分钟补能400公里以上，并搭载千里浩瀚H5/H7辅助驾驶系统，预售价14.59万元起。",
@@ -553,6 +670,15 @@
       "source": "36氪",
       "url": "https://www.36kr.com/newsflashes/3937713404509320",
       "subCategory": "芯片硬件"
+    },
+    {
+      "id": "tech-20260814-010",
+      "title": "Akira勒索团伙利用安全模式关闭EDR，窃取数据但加密失败",
+      "summary": "Akira勒索软件团伙通过缺乏多因素认证的SonicWall VPN入侵网络，利用Windows安全模式绕过终端检测响应工具，虽窃取了凭据与文件，但因内存错误导致加密程序执行失败。",
+      "publishedAt": "2026-08-13T16:47:00-04:00",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/akira-hackers-disable-edr-with-safe-mode-steal-data-but-fail-to-encrypt/",
+      "subCategory": "安全漏洞"
     },
     {
       "id": "tech-20260814-012",
@@ -598,132 +724,6 @@
       "url": "https://www.ithome.com/0/989/267.htm",
       "subCategory": "智能汽车",
       "id": "tech-20260813-109"
-    },
-    {
-      "title": "多款车型被曝激光雷达异常，领克内部人士称正与供应商分析原因",
-      "summary": "多名领克车主反映领克10、900等车型出现激光雷达故障，提示辅助驾驶限速等信息导致高阶驾驶辅助功能异常，内部人士称正与供应商分析原因，部分搭载相关车顶激光雷达的车辆将获免费更换。",
-      "publishedAt": "2026-08-13T16:17:40+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/989/266.htm",
-      "subCategory": "智能汽车",
-      "id": "tech-20260813-110"
-    },
-    {
-      "title": "索泰20周年纪念款 GeForce RTX 5080 SOLID CORE OC 麦金色显卡上线官网",
-      "summary": "索泰在官网上线20周年纪念款GeForce RTX 5080 SOLID CORE OC麦金色显卡，配备浮空效果纪念背板与RGB显卡支撑架，均热板面积较此前版本增大34%，暗示或将推出零售版本。",
-      "publishedAt": "2026-08-13T15:36:26+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/989/250.htm",
-      "subCategory": "芯片硬件",
-      "id": "tech-20260813-101"
-    },
-    {
-      "title": "佳明首款 CIRQA 智能戒指曝光",
-      "summary": "佳明CIRQA智能戒指曝光，印尼监管备案文件显示其提交了“CIRQA SMART RING”产品名称，认证证书编号为125338/DJID/2026，具体上市时间目前尚不清楚。",
-      "publishedAt": "2026-08-13T15:29:07+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/989/248.htm",
-      "subCategory": "消费电子",
-      "id": "tech-20260813-105"
-    },
-    {
-      "title": "小米澎湃OS 4官网正式上线！一气呵成 流畅到底",
-      "summary": "小米澎湃OS 4官网正式上线，界面采用磨砂玻璃交互材质，并对系统流畅度进行重点优化，同时升级超级小猱2.0，新增任务常驻小米岛、情境感知指针等交互功能。",
-      "publishedAt": "2026-08-13T15:00:17+08:00",
-      "source": "快科技",
-      "url": "https://news.mydrivers.com/1/1143/1143467.htm",
-      "subCategory": "操作系统",
-      "id": "tech-20260813-113"
-    },
-    {
-      "title": "友讯推出 DAP-E3620 系列 BE3600 企业级 Wi-Fi 7 接入点，支持多样化安装",
-      "summary": "友讯推出DAP-E3620系列BE3600企业级Wi-Fi 7接入点，提供吸顶式、壁挂式及室外三种安装形态，面向商用、教育及住宅等多样化部署场景。",
-      "publishedAt": "2026-08-13T14:50:27+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/989/235.htm",
-      "subCategory": "网络基础设施",
-      "id": "tech-20260813-112"
-    },
-    {
-      "id": "tech-20260814-019",
-      "title": "我国科学家将量子存储器间纠缠距离提升至420公里",
-      "summary": "中国科学技术大学联合济南量子技术研究院等单位，实现两个冷原子量子存储器间跨越420公里光纤的量子纠缠，突破230公里无中继量子纠缠分发理论极限，为城际尺度量子网络构建奠定基础，成果发表于《物理评论快报》。",
-      "publishedAt": "2026-08-13T14:48:00+08:00",
-      "source": "科技日报",
-      "url": "https://www.stdaily.com/web/gdxw/2026-08/13/content_563373.html",
-      "subCategory": "网络基础设施"
-    },
-    {
-      "title": "微软开始兑现承诺：8GB内存跑Windows不卡了！开始菜单、任务栏等全面提速",
-      "summary": "微软发布Windows 11 KB5101684更新，重点优化8GB及以下内存设备的运行流畅度，改进文件资源管理器、开始菜单及任务栏响应速度，并降低更新后清理进程的资源占用。",
-      "publishedAt": "2026-08-13T14:45:57+08:00",
-      "source": "快科技",
-      "url": "https://news.mydrivers.com/1/1143/1143461.htm",
-      "subCategory": "操作系统",
-      "id": "tech-20260813-114"
-    },
-    {
-      "title": "飞傲翡声 JT9 开放式平板头戴有线耳机开售：95×86mm 单元，999 元",
-      "summary": "飞傲发布翡声JT9开放式平板头戴有线耳机并正式开售，采用95×86mm平面振膜单元并运用特殊加工工艺打造，主打便携佩戴体验，官方定价999元。",
-      "publishedAt": "2026-08-13T14:44:25+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/989/229.htm",
-      "subCategory": "消费电子",
-      "id": "tech-20260813-104"
-    },
-    {
-      "title": "小米 MIX Fold 5 最快 9 月登场：全球首发玄戒 O3 小米最强阔折叠",
-      "summary": "小米MIX Fold 5最快将于9月发布，届时将全球首发小米自研玄戒O3芯片，该芯片基于台积电3nm工艺打造，官方称将实现软硬件与AI模型的深度协同。",
-      "publishedAt": "2026-08-13T14:40:06+08:00",
-      "source": "快科技",
-      "url": "https://news.mydrivers.com/1/1143/1143459.htm",
-      "subCategory": "消费电子",
-      "id": "tech-20260813-107"
-    },
-    {
-      "title": "比亚迪海狮 08 旗舰 SUV 开启盲订，预售价区间 23 万~28 万元",
-      "summary": "比亚迪旗舰SUV海狮08正式开启盲订，预售价格区间为23万至28万元，车型提供纯电与插电混动两种动力形式，并搭载第二代刀片电池及智能悬架系统。",
-      "publishedAt": "2026-08-13T14:18:07+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/989/203.htm",
-      "subCategory": "智能汽车",
-      "id": "tech-20260813-111"
-    },
-    {
-      "title": "为自定义输入而生：Keychron 推出 10×10 宏机械键盘 C100 8K",
-      "summary": "Keychron推出10×10宏机械键盘C100 8K，全部按键均无预设键值，用户可自定义所有按键功能，支持QMK固件与8K回报率有线连接，海外定价64.99美元。",
-      "publishedAt": "2026-08-13T14:16:58+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/989/202.htm",
-      "subCategory": "消费电子",
-      "id": "tech-20260813-103"
-    },
-    {
-      "id": "tech-20260814-014",
-      "title": "小米曝光升降车标专利，采用双标识轮换设计",
-      "summary": "小米汽车获得一项车标升降装置专利，可容纳两枚车标轮流升降展示，其中一枚为镀金镀铛高端车标，机构支持快拆并可布置于引擎盖、保险杠、尾门等多个位置。",
-      "publishedAt": "2026-08-13T11:39:00+08:00",
-      "source": "快科技",
-      "url": "https://news.mydrivers.com/1/1143/1143403.htm",
-      "subCategory": "智能汽车"
-    },
-    {
-      "title": "微软限制 Microsoft 365 和OneDrive，推动Win10用户升级Win11",
-      "summary": "据Windows Latest报道，微软将从2608版本起不再为Windows 10上Microsoft 365提供新功能，仅维护至2028年10月；除22H2版本外，OneDrive桌面版在Win10上也将停止更新，意在推动用户升级至Win11。",
-      "publishedAt": "2026-08-13T08:34:15+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/989/027.htm",
-      "subCategory": "操作系统",
-      "id": "tech-20260813-006"
-    },
-    {
-      "title": "华硕变华颁！大量仿冒笔记本惊现市场 防不胜防需警惕",
-      "summary": "开学季前，市场出现大量冒充华硕的华颁仿冒笔记本，部分商家通过改写BIOS和硬件识别信息伪装为i9处理器、RTX4060显卡等高配置，实际使用老旧过时部件，且缺乏质检和正规售后。",
-      "publishedAt": "2026-08-13T08:33:54+08:00",
-      "source": "快科技",
-      "url": "https://news.mydrivers.com/1/1143/1143354.htm",
-      "subCategory": "消费电子",
-      "id": "tech-20260813-010"
     }
   ]
 }
