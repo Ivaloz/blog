@@ -3,8 +3,53 @@
   "slug": "industry",
   "title": "行业新闻",
   "description": "企业服务、SaaS、云计算、制造业、消费互联网的产业动态。",
-  "updatedAt": "2026-08-16T17:00:00+08:00",
+  "updatedAt": "2026-08-18T08:55:25+08:00",
   "items": [
+    {
+      "id": "industry-20260818-005",
+      "title": "Omdia：成本上涨重塑非洲百元智能手机市场，今年Q2出货大降34%",
+      "summary": "Omdia报告显示，2026年第二季度非洲百美元以下智能手机出货量同比下降34%，降幅显著高于整体市场7%的跌幅；存储器成本已占百美元以下机型物料成本约64%，推高终端售价并抑制低收入群体购机需求。",
+      "publishedAt": "2026-08-17T19:02:00+08:00",
+      "source": "新浪科技",
+      "url": "https://finance.sina.com.cn/tech/digi/2026-08-17/doc-ininrqsi6859747.shtml",
+      "subCategory": "行业研报"
+    },
+    {
+      "id": "industry-20260818-004",
+      "title": "Omdia：2026年全球智能手机出货量将下降12.2%",
+      "summary": "Omdia预测2026年全球智能手机出货量将同比下降12.2%，降至10.93亿部，较2025年减少1.52亿部；受存储芯片涨价影响，平均销售价格预计从467美元升至565美元，市场结构向高端化转移。",
+      "publishedAt": "2026-08-17T02:38:00+08:00",
+      "source": "新浪科技",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-08-17/doc-ininqarf8067201.shtml",
+      "subCategory": "行业研报"
+    },
+    {
+      "id": "industry-20260818-003",
+      "title": "半导体巨头利好来了！中微半导业绩猛增109%",
+      "summary": "中微半导2026年上半年营收7.26亿元，同比增长44.01%，归母净利润同比增长98.48%，扣非净利润同比增长超109%，公司把握AI、机器人及汽车电子需求增长机遇，并以1.66亿元投资珠海博雅科技获得21%股权成为其第二大股东。",
+      "publishedAt": "2026-08-16T21:20:00+08:00",
+      "source": "证券时报网",
+      "url": "https://www.stcn.com/article/detail/4079046.html",
+      "subCategory": "半导体产业"
+    },
+    {
+      "id": "industry-20260818-002",
+      "title": "紫金黄金国际：上半年母公司拥有人应占溢利约14.5亿美元 同比增长179%",
+      "summary": "紫金黄金国际发布2026年中期业绩，收入约39.9亿美元，同比增长100%；母公司拥有人应占溢利约14.5亿美元，同比增长179%；矿产金产量约27.3吨；董事会宣派上市以来首次中期股息，每股1.5港元。",
+      "publishedAt": "2026-08-16T19:11:00+08:00",
+      "source": "东方财富网",
+      "url": "https://emwap.eastmoney.com/a/202608163842525597.html",
+      "subCategory": "公司动态"
+    },
+    {
+      "id": "industry-20260818-001",
+      "title": "红旗连锁发布半年报：扣非净利润增长5.51%",
+      "summary": "红旗连锁发布2026年半年报，营业收入46.76亿元，同比下降2.75%；归母净利润2.68亿元，同比下降4.57%；扣非净利润2.77亿元，同比增长5.51%，公司通过优化门店结构和商品矩阵应对零售市场持续承压。",
+      "publishedAt": "2026-08-15T19:25:00+08:00",
+      "source": "新浪财经",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-08-15/doc-ininmane3350345.shtml",
+      "subCategory": "消费零售"
+    },
     {
       "id": "industry-20260816-704",
       "title": "生益科技：上半年净利润同比增超130%，覆铜板量价齐升",
@@ -78,6 +123,15 @@
       "subCategory": "公司动态"
     },
     {
+      "id": "industry-20260814-601",
+      "title": "SanDisk Investor Day: Caching Out the NAND Cycle with Contracts",
+      "summary": "SanDisk投资者日公布FY2028-FY2030财务目标，营收年增中高双位数，非GAAP毛利率约80%；企业级SSD占全球NAND位出趄48%，去年同期为26%，公司市场份额维持12%-13%。",
+      "publishedAt": "2026-08-14",
+      "source": "Counterpoint Research",
+      "url": "https://counterpointresearch.com/en/insights/sandisk-investor-day-caching-out-the-nand-cycle-with-contracts",
+      "subCategory": "半导体产业"
+    },
+    {
       "id": "industry-20260814-013",
       "title": "中际旭创拟17.47亿元受让中石科所10.47%股份",
       "summary": "光模块厂商中际旭创公告，拟以17.47亿元协议受让中石科技控股股东所持10.47%股份，转让价格为每肂55.70元；中石科技当日股价涨停，双方在数据中心散热领域预计形成协同效应。",
@@ -103,15 +157,6 @@
       "source": "每日经济网",
       "url": "https://www.nbd.com.cn/articles/2026-08-14/4541760.html",
       "subCategory": "医疗健康"
-    },
-    {
-      "id": "industry-20260814-601",
-      "title": "SanDisk Investor Day: Caching Out the NAND Cycle with Contracts",
-      "summary": "SanDisk投资者日公布FY2028-FY2030财务目标，营收年增中高双位数，非GAAP毛利率约80%；企业级SSD占全球NAND位出趄48%，去年同期为26%，公司市场份额维持12%-13%。",
-      "publishedAt": "2026-08-14",
-      "source": "Counterpoint Research",
-      "url": "https://counterpointresearch.com/en/insights/sandisk-investor-day-caching-out-the-nand-cycle-with-contracts",
-      "subCategory": "半导体产业"
     },
     {
       "id": "industry-20260816-001",
@@ -312,24 +357,6 @@
       "id": "industry-20260812-010"
     },
     {
-      "title": "台积电何军：5.5 倍光罩尺寸 CoWoS 良率可达 99%，验证加速走向系统级",
-      "summary": "台积电高管何军在行业论坛上表示，公司5.5倍光罩尺寸CoWoS先进封装良率已达99%，该2.5D异质集成方案在多家AI客户产品验证中良率稳定保持98%以上；公司计劒2029年前推磜全15倍光罩尺寸的更大规格CoWoS方案。",
-      "publishedAt": "2026-08-12T11:48:12+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/988/698.htm",
-      "subCategory": "半导体产业",
-      "id": "industry-20260812-012"
-    },
-    {
-      "title": "TCL华星宣布独供 REDMI K100 Pro 系列屏幕：新一代自研发光材料、超级像素技术",
-      "summary": "TCL华星宣布独家供应REDMI K100 Pro系列屏幕，该屏幕为185Hz电竞专业屏，支持环偏光护眼与全程DC调光。屏幕采用TCL华星新一代自研C11发光材料结合超级像素技术，实现色彩、清晰度与亮度提升同时降低功耗。",
-      "publishedAt": "2026-08-12T08:38:58+08:00",
-      "source": "快科技",
-      "url": "https://news.mydrivers.com/1/1143/1143062.htm",
-      "subCategory": "公司动态",
-      "id": "industry-20260812-004"
-    },
-    {
       "title": "Counterpoint：2026年全球折叠屏出货量同比增21%，苹果首年份额25%",
       "summary": "Counterpoint Research预测2026年全球折叠屏手机出货量同比增长21%，苹果首年即拿下约25%市场份额，市场格局将从三星国际领先、华为国内领先转向苹果、三星、华为三足鼎立；苹果折叠机型据报采用台积电2nm A20 Pro芯片，配妐12GB内存，取消Face ID改用侧边指纹识别，预计9月发布会亮相。",
       "publishedAt": "2026-08-12",
@@ -364,6 +391,24 @@
       "source": "Counterpoint Research",
       "url": "https://counterpointresearch.com/en/insights/us-smartphone-sales-fall-5-percent-q2-2026",
       "subCategory": "消费零售"
+    },
+    {
+      "title": "台积电何军：5.5 倍光罩尺寸 CoWoS 良率可达 99%，验证加速走向系统级",
+      "summary": "台积电高管何军在行业论坛上表示，公司5.5倍光罩尺寸CoWoS先进封装良率已达99%，该2.5D异质集成方案在多家AI客户产品验证中良率稳定保持98%以上；公司计劒2029年前推磜全15倍光罩尺寸的更大规格CoWoS方案。",
+      "publishedAt": "2026-08-12T11:48:12+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/988/698.htm",
+      "subCategory": "半导体产业",
+      "id": "industry-20260812-012"
+    },
+    {
+      "title": "TCL华星宣布独供 REDMI K100 Pro 系列屏幕：新一代自研发光材料、超级像素技术",
+      "summary": "TCL华星宣布独家供应REDMI K100 Pro系列屏幕，该屏幕为185Hz电竞专业屏，支持环偏光护眼与全程DC调光。屏幕采用TCL华星新一代自研C11发光材料结合超级像素技术，实现色彩、清晰度与亮度提升同时降低功耗。",
+      "publishedAt": "2026-08-12T08:38:58+08:00",
+      "source": "快科技",
+      "url": "https://news.mydrivers.com/1/1143/1143062.htm",
+      "subCategory": "公司动态",
+      "id": "industry-20260812-004"
     },
     {
       "title": "话语权提升！京东方牵头制定首项卷曲显示器件国际标准",
@@ -519,24 +564,6 @@
       "id": "industry-20260810-x02"
     },
     {
-      "title": "7月高频数据折射经济向新向好",
-      "summary": "7月高频数据显示，全国消费支付金额同比增长2.2%，家电音像器材类支付增长8.5%；先进制造业投资同比大增73.1%，产业园区生产热度指数同比上壇1.0%。",
-      "publishedAt": "2026-08-10T09:20:00+08:00",
-      "source": "新浪科技",
-      "url": "https://finance.sina.com.cn/tech/roll/2026-08-10/doc-inimuvrr1281607.shtml",
-      "subCategory": "制造业",
-      "id": "industry-20260810-x08"
-    },
-    {
-      "title": "5万小车卖不动 微型代步车集体遇冷：国内市场40万元以上抢着买",
-      "summary": "乘联会秘书长嵔东树数据，2026年上半年国圸5万元以下乘用车销量仅13万辆，同比暴跌55%；同期40万元以上新能源汽车销量同比大掌46%，自主品牌占该价位段近59%份额。",
-      "publishedAt": "2026-08-10T09:07:00+08:00",
-      "source": "新浪科技",
-      "url": "https://finance.sina.com.cn/tech/roll/2026-08-10/doc-inimuvrv4978122.shtml",
-      "subCategory": "新能源汽车",
-      "id": "industry-20260810-x04"
-    },
-    {
       "title": "IDC：中国企业级智能体数量预计从200万增至500万",
       "summary": "IDC报告指出，中国活跃企业级AI智能体数量预计将从2025年约200万个增长至2026年约500万个，企业级AI平台呈现涵盖基础设施、数据、智能体开发、流程、应用与治理安全的六层全栈架构。",
       "publishedAt": "2026-08-10",
@@ -553,6 +580,24 @@
       "url": "https://techedgeai.com/gartner-forecasts-worldwide-ai-optimized-iaas-spending-to-grow-96-through-2026/",
       "subCategory": "行业研报",
       "id": "industry-20260813-005"
+    },
+    {
+      "title": "7月高频数据折射经济向新向好",
+      "summary": "7月高频数据显示，全国消费支付金额同比增长2.2%，家电音像器材类支付增长8.5%；先进制造业投资同比大增73.1%，产业园区生产热度指数同比上壇1.0%。",
+      "publishedAt": "2026-08-10T09:20:00+08:00",
+      "source": "新浪科技",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-08-10/doc-inimuvrr1281607.shtml",
+      "subCategory": "制造业",
+      "id": "industry-20260810-x08"
+    },
+    {
+      "title": "5万小车卖不动 微型代步车集体遇冷：国内市场40万元以上抢着买",
+      "summary": "乘联会秘书长嵔东树数据，2026年上半年国圸5万元以下乘用车销量仅13万辆，同比暴跌55%；同期40万元以上新能源汽车销量同比大掌46%，自主品牌占该价位段近59%份额。",
+      "publishedAt": "2026-08-10T09:07:00+08:00",
+      "source": "新浪科技",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-08-10/doc-inimuvrv4978122.shtml",
+      "subCategory": "新能源汽车",
+      "id": "industry-20260810-x04"
     },
     {
       "id": "industry-20260810-n01",
