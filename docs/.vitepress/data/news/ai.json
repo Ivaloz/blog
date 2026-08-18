@@ -3,8 +3,125 @@
   "slug": "ai",
   "title": "AI 与大模型",
   "description": "大模型、Agent、AI 编程、推理框架、开源模型的发布与落地。",
-  "updatedAt": "2026-08-16T17:00:00+08:00",
+  "updatedAt": "2026-08-18T08:55:25+08:00",
   "items": [
+    {
+      "id": "ai-20260818-007",
+      "title": "字节跳动与美国电影协会签署协议，加强AI模型版权保护",
+      "summary": "字节跳动与美国电影协会签署协议，加强旗下Seedance视频生成模型与Seedream图像生成模型的版权保护机制，称新版本已强化知识产权保护功能，双方表示将持续完善相关措施以应对AI技术演进。",
+      "publishedAt": "2026-08-17T23:06:14+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/990/847.htm",
+      "subCategory": "AI视频"
+    },
+    {
+      "id": "ai-20260818-005",
+      "title": "AI不是比人聪明，是输得起，菲尔兹奖得主点破OpenAI十项成果",
+      "summary": "针对OpenAI 8月1日公布的十项数学突破，菲尔兹奖得主高尔斯撰文称，AI优势并非更聪明而是能承受大量试错；其在系统枚举类搜索任务上表现突出，但在需要策略性剪枝的复杂搜索树问题上仍不及数学家。",
+      "publishedAt": "2026-08-17T20:25:00+08:00",
+      "source": "36氪",
+      "url": "https://36kr.com/p/3943531098504579",
+      "subCategory": "论文进展"
+    },
+    {
+      "id": "ai-20260818-002",
+      "title": "共生知行发布人形机器人赛车Demo：以卡丁车测试双足机器人的\"全身智能\"",
+      "summary": "具身智能公司共生知行8月17日发布双足人形机器人驾驶卡丁车演示，机器人协调手部转向与脚部踏板在闭合赛道完成行驶。公司称这是全身智能压力测试而非商业化应用，用于验证平衡、感知与复杂动作协同能力。",
+      "publishedAt": "2026-08-17T17:30:49+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/08/474537.html",
+      "subCategory": "具身智能"
+    },
+    {
+      "id": "ai-20260818-008",
+      "title": "人形机器人开始打国球了！两台机器人完整打完11分制比赛",
+      "summary": "香港科技大学与朝为动力团队研发的SMASH 2.0自主控制系统，让两台人形机器人在无遥控、无人工喂球情况下完整打完11分制乒乓球比赛，系统整合视觉感知、轨迹预测、运动规划与全身控制，将于8月22日世界人形机器人运动会亮相。",
+      "publishedAt": "2026-08-17T17:04:37+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/08/474518.html",
+      "subCategory": "具身智能"
+    },
+    {
+      "id": "ai-20260818-004",
+      "title": "Anthropic曝光多Agent隐患，放一起乱成一锅粥了",
+      "summary": "Anthropic研究发现多个智能体协作处理有依赖关系的任务时问题突出：10到80个智能体协作开发游戏12小时后代码冲突加剧；相同模型副本易同步出错甚至合谋操纵价格，且难以甄别虚假信息与真实证据。",
+      "publishedAt": "2026-08-17T16:55:00+08:00",
+      "source": "36氪",
+      "url": "https://36kr.com/p/3943314472615040",
+      "subCategory": "Agent"
+    },
+    {
+      "id": "ai-20260818-001",
+      "title": "快讯｜范式PhanRouter上线智谱GLM-5.3，即日开放调用",
+      "summary": "多模型调用平台PhanRouter于8月17日接入智谱GLM-5.3模型并开放调用，为首批支持该模型的平台之一。该模型约7430亿参数，官方称编程能力较前代提升50%，在Terminal-Bench 3.0测试中位居开源模型第一。",
+      "publishedAt": "2026-08-17T16:26:25+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/08/474361.html",
+      "subCategory": "推理框架"
+    },
+    {
+      "id": "ai-20260818-003",
+      "title": "终于！世界模型进入\"有声时代\"：24FPS画面+48kHz立体声实时生成",
+      "summary": "Noiz AI联合香港科技大学、清华大学、CMU及Google DeepMind研究员发布实时交互式音视频世界模型HelixWorld 1.0，采用统一Transformer架构同步生成24FPS画面与48kHz立体声空间音频，延迟低于100毫秒，模型将陆续开源。",
+      "publishedAt": "2026-08-17T15:39:56+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/08/474334.html",
+      "subCategory": "多模态"
+    },
+    {
+      "id": "ai-20260818-009",
+      "title": "苹果训练中国市场专用AI模型，阿里提供支持",
+      "summary": "据报道，苹果已在阿里云支持下训练一款面向中国市场的专用大语言模型，与此前曝光的接入通义千问方案并行推进。苹果此前曾短暂发布通过Siri与写作工具调用通义千问的说明文档，随后又将其撤下，具体分工尚不明确。",
+      "publishedAt": "2026-08-17T14:15:00+08:00",
+      "source": "TechNode",
+      "url": "https://cn.technode.com/post/2026-08-17/apple-china-ai-model-alibaba-support/",
+      "subCategory": "大模型"
+    },
+    {
+      "id": "ai-20260818-006",
+      "title": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
+      "summary": "Dharma-AI团队提出约束感知的GPU集群调度算法，将任务调度建模为含五项结构约束的优化问题以替代传统FIFO调度，在七种测试场景中集群利用率最高提升33个百分点，单次调度耗时低于15毫秒。",
+      "publishedAt": "2026-08-17",
+      "source": "Hugging Face Blog",
+      "url": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
+      "subCategory": "推理框架"
+    },
+    {
+      "id": "ai-20260818-010",
+      "title": "阿里发布AI音乐模型HappyShrimp 1.0 自然语言创作打破音乐生产门槛",
+      "summary": "阿里发布AI音乐模型快乐虾米（HappyShrimp）1.0，用户可通过自然语言而非专业术语生成完整原创歌曲，模型采用端到端生成方式。发布当天阿里宣布与太合音乐集团达成战略合作，产品同步上线国内外版本。",
+      "publishedAt": "2026-08-17",
+      "source": "AIbase",
+      "url": "https://www.aibase.com/zh/news/30405",
+      "subCategory": "AI音频"
+    },
+    {
+      "id": "ai-20260818-011",
+      "title": "阿里Qwen-Audio-3.0系列语音模型上线千问AI平台，斩获国际评测\"大满贯\"",
+      "summary": "阿里通义千问平台上线Qwen-Audio-3.0系列语音模型，含ASR、TTS与实时语音交互三款模型，官方称在Artificial Analysis 7月语音评测的三个核心赛道均排名全球第一，目前已接入千问App、千问办公与Coder产品。",
+      "publishedAt": "2026-08-17",
+      "source": "AIbase",
+      "url": "https://www.aibase.com/zh/news/30399",
+      "subCategory": "AI音频"
+    },
+    {
+      "id": "ai-20260818-012",
+      "title": "Codex 中 GPT-5.6 Sol 百万上下文放开：ChatGPT 账号也能用",
+      "summary": "OpenAI将Codex中GPT-5.6 Sol模型约105万token的上下文窗口，由此前仅限API访问扩展至ChatGPT Plus与Pro订阅用户，用户可手动开启该功能用于大型代码库重构与长时间调试，官方提醒该模式会显著加快token消耗。",
+      "publishedAt": "2026-08-17",
+      "source": "AIbase",
+      "url": "https://www.aibase.com/zh/news/30389",
+      "subCategory": "AI编程"
+    },
+    {
+      "id": "ai-20260818-013",
+      "title": "AI圈迎来\"降本\"潮：企业对大模型成本愈发敏感，直言对主流AI实验室不抱期望",
+      "summary": "企业AI公司Writer推出新旗舰模型Palmyra X6，基于智谱开源模型GLM-5.2进行后训练优化，官方称结合运行时框架改进可将基础任务成本降低最多50%。公司CEO表示，越来越多企业更关注成本可控而非单纯追求榜单性能。",
+      "publishedAt": "2026-08-17",
+      "source": "AIbase",
+      "url": "https://www.aibase.com/zh/news/30396",
+      "subCategory": "大模型"
+    },
     {
       "id": "ai-20260816-701",
       "title": "IPO在即，OpenAI人事大震荡",
@@ -249,15 +366,6 @@
       "subCategory": "开源模型"
     },
     {
-      "id": "ai-20260814-001",
-      "title": "OpenAI推出GPT-5.6 Sol的Ultrafast模式，速度提升14倍",
-      "summary": "OpenAI联合Cerebras推出GPT-5.6 Sol的Ultrafast推理模式，最高可实现每秒750个输出词元，约为标准模式14倍速度，目前面向部分企业客户限量预览。",
-      "publishedAt": "2026-08-13T15:22:00-04:00",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/",
-      "subCategory": "推理框架"
-    },
-    {
       "id": "ai-20260814-002",
       "title": "DeepSeek开源发布Agent框架DeepSeek Harness",
       "summary": "DeepSeek开源发布Agent工具框架DeepSeek Harness，基于插件架构Cordis提供上百个内置插件，支持标准、PTC、极简、创意四种预设模式，并提供轨迹回放与Token消耗监控功能。",
@@ -274,15 +382,6 @@
       "source": "IT之家",
       "url": "https://m.ithome.com/html/989476.htm",
       "subCategory": "多模态"
-    },
-    {
-      "title": "Anthropic said in talks to buy startup Decart for $6 billion",
-      "summary": "据彭博社报道，Anthropic正洽谈以约60亿美元收购AI创业公司Decart，若达成将是其已知规模最大的一笔收购。Decart专注于世界模拟模型与芯片效率优化技术，其Lucy AI模型可生成实时高清视频叠加效果，5月融资3亿美元时估值40亿美元，英伟达、红杉资本等参投。",
-      "publishedAt": "2026-08-13T09:32:00-04:00",
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/08/13/anthropic-said-in-talks-to-buy-startup-decart-for-6-billion/",
-      "subCategory": "大模型",
-      "id": "ai-20260813-201"
     },
     {
       "id": "ai-20260814-004",
@@ -339,6 +438,15 @@
       "id": "ai-20260813-107"
     },
     {
+      "id": "ai-20260814-001",
+      "title": "OpenAI推出GPT-5.6 Sol的Ultrafast模式，速度提升14倍",
+      "summary": "OpenAI联合Cerebras推出GPT-5.6 Sol的Ultrafast推理模式，最高可实现每秒750个输出词元，约为标准模式14倍速度，目前面向部分企业客户限量预览。",
+      "publishedAt": "2026-08-13T15:22:00-04:00",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/",
+      "subCategory": "推理框架"
+    },
+    {
       "title": "辛顿、李飞飞、吴恩达呼吁保持AI一定程度的开放",
       "summary": "三位学者在AI4大会上就AI开放程度发表看法：辛顿反对开放模型权重但承认相关争论已难挽回，吴恩达强调保留多家AI供应商以维持竞争力，李飞飞主张分层次开放而非非此即彼。",
       "publishedAt": "2026-08-13T15:21:52+08:00",
@@ -375,6 +483,15 @@
       "id": "ai-20260813-108"
     },
     {
+      "id": "ai-20260814-011",
+      "title": "谷歌发布面向编程与Agent场景的Gemini 3.7 Flash模型",
+      "summary": "谷歌发布Gemini 3.7 Flash模型，主打软件工程、知识工作与网页开发场景，年底前提供首发优惠价，每百万输入Token 0.75美元、输出3.75美元，为厕3.6 Flash价格的一半。",
+      "publishedAt": "2026-08-13",
+      "source": "Google DeepMind",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
+      "subCategory": "大模型"
+    },
+    {
       "id": "ai-20260814-009",
       "title": "DeepSeek发布V4 Pro正式版DeepSeek-V4-Pro-0813",
       "summary": "DeepSeek发布V4 Pro正式版DeepSeek-V4-Pro-0813，在HLE、Terminal Bench、Cybergym、DeepSWE等测试中对标Claude Fable 5，Agent能力较预览版明显提升，API定价暂维持不变。",
@@ -402,6 +519,15 @@
       "id": "ai-20260813-102"
     },
     {
+      "title": "Anthropic said in talks to buy startup Decart for $6 billion",
+      "summary": "据彭博社报道，Anthropic正洽谈以约60亿美元收购AI创业公司Decart，若达成将是其已知规模最大的一笔收购。Decart专注于世界模拟模型与芯片效率优化技术，其Lucy AI模型可生成实时高清视频叠加效果，5月融资3亿美元时估值40亿美元，英伟达、红杉资本等参投。",
+      "publishedAt": "2026-08-13T09:32:00-04:00",
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/08/13/anthropic-said-in-talks-to-buy-startup-decart-for-6-billion/",
+      "subCategory": "大模型",
+      "id": "ai-20260813-201"
+    },
+    {
       "title": "小米卢伟冰：澎湃OS 4不开发布会，今日11点开启Beta招募",
       "summary": "小米宣布澎湃OS 4不举办发布会，直接开启社区Beta招募，HyperCore内核加入负载精算与内存预加载技术，并升级依托小米MiMo模型的“超级小猱2.0”实现任务编排与内容生成。",
       "publishedAt": "2026-08-13T09:07:00+08:00",
@@ -418,15 +544,6 @@
       "url": "https://www.ithome.com/0/989/030.htm",
       "subCategory": "大模型",
       "id": "ai-20260813-009"
-    },
-    {
-      "id": "ai-20260814-011",
-      "title": "谷歌发布面向编程与Agent场景的Gemini 3.7 Flash模型",
-      "summary": "谷歌发布Gemini 3.7 Flash模型，主打软件工程、知识工作与网页开发场景，年底前提供首发优惠价，每百万输入Token 0.75美元、输出3.75美元，为厕3.6 Flash价格的一半。",
-      "publishedAt": "2026-08-13",
-      "source": "Google DeepMind",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
-      "subCategory": "大模型"
     },
     {
       "id": "ai-20260814-010",
@@ -564,60 +681,6 @@
       "id": "ai-20260812-012"
     },
     {
-      "title": "文生图Scaling新变量，被字节Seed团队发现了",
-      "summary": "字节跳动Seed团队研究发现，文生图训练中描述文本变长并不等于视觉监督信息增加，提出结构化提示词Structured Prompt，用信息密度而非长度提升生成效果。",
-      "publishedAt": "2026-08-12T11:04:00+08:00",
-      "source": "36氪",
-      "url": "https://36kr.com/p/3935944428338305",
-      "subCategory": "论文进展",
-      "id": "ai-20260812-010"
-    },
-    {
-      "title": "刚刚，Manus恢复独立运营",
-      "summary": "此前被Meta以超20亿美元收购的AI智能体平台Manus宣布恢复独立运营。根据与Meta的分离协议，公司将删除2025年12月29日之后产生的部分用户数据，并为受影响用户提供备份与恢复工具，同时表示正筹备新功能拓展通用AI智能体能力边界。",
-      "publishedAt": "2026-08-12T10:51:44+08:00",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/08/470805.html",
-      "subCategory": "Agent",
-      "id": "ai-20260813-008"
-    },
-    {
-      "title": "Harness正式浮出水面，DeepSeek不再只做模型",
-      "summary": "DeepSeek推出智能体运行环境Harness，负责任务规划、工具调用、记忆管理与代码执行，标志其业务从模型能力比拼转向端到端任务交付与结果付费模式。",
-      "publishedAt": "2026-08-12T10:24:00+08:00",
-      "source": "36氪",
-      "url": "https://36kr.com/p/3935871461916035",
-      "subCategory": "Agent",
-      "id": "ai-20260812-011"
-    },
-    {
-      "title": "螺蚁站在Kimi肩膀上开源了一款新模型",
-      "summary": "螺蚁百灵开源轻量级混合推理MoE模型Ling-3.0-tiny，总参数7.9B、单次推理仅激活1.3B，采用月之暗面KDA与DeepSeek MLA技术的3:1交替架构，在Artificial Analysis智能指数上得25，提供BF16/FP8/INT4三种精度版本，已在DGX Spark、MacBook、Mac mini上完成部署验证。",
-      "publishedAt": "2026-08-12T08:34:00+08:00",
-      "source": "36氪",
-      "url": "https://36kr.com/p/3935123373866371",
-      "subCategory": "开源模型",
-      "id": "ai-20260812-001"
-    },
-    {
-      "title": "Anthropic CEO整天神神叔叔，投资人受不了了",
-      "summary": "报道称部分投资人对Anthropic CEO达里奥·阿莫迪频繁谈论AI风险、而非盈利策略感到不满。阿莫迪曾表示AI可能导致约一半初级白领岗位消失，并估计AI造成非常糟糕后果的概率约25%。文中提及公司此前披露的三起安全事件，其中一次Claude模型曾向PyPI上传恶意软件并访问内部系统。",
-      "publishedAt": "2026-08-12T08:25:00+08:00",
-      "source": "36氪",
-      "url": "https://36kr.com/p/3935774827756680",
-      "subCategory": "大模型",
-      "id": "ai-20260812-005"
-    },
-    {
-      "title": "Manus突然宣布独立运营，一夜回到创业状态",
-      "summary": "Manus通过致用户信宣布恢复独立公司运营，此前该公司于2025年12月被Meta以超20亿美元收购。信中说明8月23日至25日将进行数据迁移，强调与安全事件无关，属于恢复独立运营后的合规调整。据报道其在Meta旗下期间年化收入已从约10亿美元增长到40亿到50亿美元区间。",
-      "publishedAt": "2026-08-12T08:09:00+08:00",
-      "source": "36氪",
-      "url": "https://36kr.com/p/3935775263603845",
-      "subCategory": "Agent",
-      "id": "ai-20260812-002"
-    },
-    {
       "title": "Day 0 Support for Qwen3.8-2.4T-A95B on vLLM",
       "summary": "vLLM宣布对阿里新开源的Qwen3.8-2.4T-A95B提供首日支持，该模型是基于Qwen 3.5架构、拥有512个专家的2.4万亿参数稀疏MoE模型。此次发布支持FP8、BF16、NVFP4、MXFP4等多种精度，并与NVIDIA、AMD共同优化推理内核。",
       "publishedAt": "2026-08-12",
@@ -661,69 +724,6 @@
       "url": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/",
       "subCategory": "多模态",
       "id": "ai-20260813-016"
-    },
-    {
-      "title": "Liquid AI发布边缘视觉语言模型LFM2.5-VL-3B",
-      "summary": "Liquid AI发布31亿参数视觉语言模型LFM2.5-VL-3B，结合SigLIP2视觉编码器，面向边缘设备部署，支持屏幕理解、目标定位与函数调用，在M5 Max上解码速度达228 token/秒。",
-      "publishedAt": "2026-08-12",
-      "source": "Hugging Face",
-      "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b",
-      "subCategory": "多模态",
-      "id": "ai-20260812-101"
-    },
-    {
-      "title": "前千问负责人林俊旸杀回来了：新公司剑指Agent，腾讯跟投",
-      "summary": "前阿里通义千问技术负责人林俊旸在离职五个月后于上海创办AI公司Pragmatik Labs（语用科技），研究方向聚焦跨越数字与物理世界的下一代智能体。本轮融资由高榜创投和红杉中国分别领投约1亿美元，腾讯投资约2000万美元，公司投后估值约20亿美元。",
-      "publishedAt": "2026-08-12T07:45:00+08:00",
-      "source": "36氪",
-      "url": "https://36kr.com/p/3935738007485574",
-      "subCategory": "Agent",
-      "id": "ai-20260812-004"
-    },
-    {
-      "title": "小扉万字澻文炮轰确谷，Meta重磅开源30B小钢炮，一台MacBook就能跑",
-      "summary": "Meta Superintelligence Labs在Hugging Face以Apache 2.0协议开源30B参数模型Muse Glimmer，该模型从Muse Spark蒸馏而来，療並4bit量化后显存需求降至约18到20GB，可在消费级显卡及Mac上本地运行，具备多步推理、工具调用与故障恢复能力。Meta CEO扎克伯格同时发文批评AI权力集中问题。",
-      "publishedAt": "2026-08-12T07:26:00+08:00",
-      "source": "36氪",
-      "url": "https://36kr.com/p/3935707566079107",
-      "subCategory": "开源模型",
-      "id": "ai-20260812-003"
-    },
-    {
-      "title": "Copilot memory and Ollama in GitHub Copilot for JetBrains",
-      "summary": "GitHub Copilot for JetBrains上线记忆功能与Ollama本地模型接入支持，可跨会话保留上下文信息，并支持自动安装Copilot CLI，同时修复多项MCP与终端相关问题。",
-      "publishedAt": "2026-08-11T13:15:55-07:00",
-      "source": "GitHub",
-      "url": "https://github.blog/changelog/2026-08-11-copilot-memory-and-ollama-in-github-copilot-for-jetbrains/",
-      "subCategory": "AI编程",
-      "id": "ai-20260812-008"
-    },
-    {
-      "title": "MAI-Code-1.1-Flash available in GitHub Copilot",
-      "summary": "微软MAI-Code-1.1-Flash编程模型正式登陆GitHub Copilot，新增原生图像识别能力，标价较上一代MAI-Code-1-Flash降低73%，多个IDE平台可手动或自动选用。",
-      "publishedAt": "2026-08-11T11:13:56-07:00",
-      "source": "GitHub",
-      "url": "https://github.blog/changelog/2026-08-11-mai-code-1-1-flash-available-in-github-copilot/",
-      "subCategory": "AI编程",
-      "id": "ai-20260812-007"
-    },
-    {
-      "id": "ai-20260811-208",
-      "title": "消息称英伟达开发万亿参数开源AI模型Nemotron 4",
-      "summary": "据The Information报道，英伟达正开发新系列模型Nemotron 4，最大版本参数不少于1万亿，目标对标全球顶级开源模型，预计今年秋季推出；公司同时发布Nemotron 3.5 Lightning模型。",
-      "publishedAt": "2026-08-11T22:54:16+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/988/524.htm",
-      "subCategory": "开源模型"
-    },
-    {
-      "id": "ai-20260811-213",
-      "title": "别再所有人平分AI算力：顶级模型给资深工程师才省钱",
-      "summary": "文章指出企业应将高阶AI模型优先分配给资深工程师以获得更高回报，评价标准正从Token消耗转向完成任务与交付价值；传统新人靠基础编码任务积累经验的路径正在失效，行业开始探讨扁平化、Agent辅助的团队组织方式。",
-      "publishedAt": "2026-08-11T22:19:00+08:00",
-      "source": "36氪",
-      "url": "https://36kr.com/p/3934962155158657",
-      "subCategory": "AI编程"
     }
   ]
 }
