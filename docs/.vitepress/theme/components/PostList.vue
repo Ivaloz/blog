@@ -1,6 +1,7 @@
 <script setup lang="ts">
 import { data as posts } from '../../../posts/posts.data'
 import { computed } from 'vue'
+import { withBase } from 'vitepress'
 
 const props = defineProps<{
   limit?: number
@@ -21,7 +22,7 @@ const list = computed(() => {
 <template>
   <ul class="post-list">
     <li v-for="p in list" :key="p.url" class="post-item">
-      <a :href="p.url" class="post-link">
+      <a :href="withBase(p.url)" class="post-link">
         <div class="post-title">{{ p.title }}</div>
         <div v-if="showExcerpt !== false && p.excerpt" class="post-excerpt">{{ p.excerpt }}</div>
         <div class="post-meta">

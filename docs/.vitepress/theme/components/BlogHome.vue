@@ -2,6 +2,7 @@
 import { data as posts } from '../../../posts/posts.data'
 import { data as news } from '../../../news/news.data'
 import { computed } from 'vue'
+import { withBase } from 'vitepress'
 import PostList from './PostList.vue'
 
 const SITE_TAGLINE = '记录技术、AI 与投资的长期思考。'
@@ -73,11 +74,11 @@ const stats = computed(() => {
           <span class="section-en">FEATURED</span>
           <h2>精选</h2>
         </div>
-        <a href="/posts/" class="more">全部 →</a>
+        <a :href="withBase('/posts/')" class="more">全部 →</a>
       </div>
       <ul class="featured-list">
         <li v-for="p in featured" :key="p.url" class="featured-item">
-          <a :href="p.url">
+          <a :href="withBase(p.url)">
             <div class="f-title">{{ p.title }}</div>
             <div v-if="p.excerpt" class="f-excerpt">{{ p.excerpt }}</div>
             <div class="f-meta">
@@ -96,7 +97,7 @@ const stats = computed(() => {
           <span class="section-en">NEWS FEED</span>
           <h2>最近资讯</h2>
         </div>
-        <a href="/news/" class="more">全部 →</a>
+        <a :href="withBase('/news/')" class="more">全部 →</a>
       </div>
       <ul class="news-mini-list">
         <li v-for="item in latestNews" :key="item.id || item.url" class="news-mini-item">
@@ -104,7 +105,7 @@ const stats = computed(() => {
             <span class="news-mini-title">{{ item.title }}</span>
             <span class="news-mini-meta">
               <time v-if="item.publishedAt" :datetime="item.publishedAt">{{ newsDateDisplay(item.publishedAt) }}</time>
-              <a :href="`/news/${item.categorySlug}`" class="news-mini-cat" @click.stop>{{ item.categoryTitle }}</a>
+              <a :href="withBase(`/news/${item.categorySlug}`)" class="news-mini-cat" @click.stop>{{ item.categoryTitle }}</a>
               <span v-if="item.source" class="news-mini-source">{{ item.source }}</span>
             </span>
           </a>
@@ -118,7 +119,7 @@ const stats = computed(() => {
           <span class="section-en">LATEST</span>
           <h2>最新</h2>
         </div>
-        <a href="/posts/" class="more">全部 →</a>
+        <a :href="withBase('/posts/')" class="more">全部 →</a>
       </div>
       <PostList :posts="latest" />
     </section>
