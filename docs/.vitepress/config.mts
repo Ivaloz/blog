@@ -200,9 +200,9 @@ export default defineConfig({
   sitemap: { hostname: SITE_URL },
 
   head: [
-    ['link', { rel: 'icon', type: 'image/svg+xml', href: '/favicon.svg' }],
-    ['link', { rel: 'alternate', type: 'application/rss+xml', title: SITE_TITLE, href: '/feed.xml' }],
-    ['link', { rel: 'alternate', type: 'application/rss+xml', title: SITE_TITLE + ' · 信息与资讯', href: '/news.xml' }],
+    ['link', { rel: 'icon', type: 'image/svg+xml', href: '/blog/favicon.svg' }],
+    ['link', { rel: 'alternate', type: 'application/rss+xml', title: SITE_TITLE, href: '/blog/feed.xml' }],
+    ['link', { rel: 'alternate', type: 'application/rss+xml', title: SITE_TITLE + ' · 信息与资讯', href: '/blog/news.xml' }],
     ['meta', { name: 'author', content: AUTHOR }],
     ['meta', { name: 'theme-color', content: '#3e7bff' }],
     ['meta', { property: 'og:type', content: 'website' }],
