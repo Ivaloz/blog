@@ -190,6 +190,7 @@ ${items}
 const SITE_START_DATE = '2026-01-01'
 
 export default defineConfig({
+  base: '/blog/',
   title: SITE_TITLE,
   description: SITE_DESC,
   lang: 'zh-CN',
