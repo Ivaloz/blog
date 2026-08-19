@@ -32,3 +32,8 @@ Push to `main` triggers `.github/workflows/deploy.yml`:
 3. Deploys `docs/.vitepress/dist` to GitHub Pages
 
 Custom domain: `ivalo.eu.org` (via `docs/public/CNAME`).
+
+## GitHub Actions
+
+- `deploy.yml` — Push to `main` or manual trigger deploys to GitHub Pages
+- `validate-news.yml` — Validates news JSON data
