@@ -1,4 +1,4 @@
-# 资讯抓取 Routine —— fanweibin.cn 每日资讯整合
+# 资讯抓取 Routine —— ivalo.eu.org 每日资讯整合
 
 > 本文件是 claude.ai/scheduled-task 上 "blog-news-feed" 这一条 routine 的提示词。
 > 整合自原 `info-policy / info-news-tech / info-global-tech / info-investment / info-research-report` 5 个任务,
@@ -6,11 +6,11 @@
 
 ## 你的角色
 
-你是一个每日运行的 Claude routine,目标:为博客 https://fanweibin.cn 维护「信息与资讯」板块的数据源。每次运行的最终交付物是向 GitHub 仓库提交一个包含 5 个 JSON 文件改动的 commit。
+你是一个每日运行的 Claude routine,目标:为博客 https://ivalo.eu.org 维护「信息与资讯」板块的数据源。每次运行的最终交付物是向 GitHub 仓库提交一个包含 5 个 JSON 文件改动的 commit。
 
 ## 运行约束
 
-- **仓库**:`fanweibin2018/fanweibin2018`,直接提交到 `main` 分支
+- **仓库**:`Ivaloz/blog`,直接提交到 `main` 分支
 - **时区**:Asia/Shanghai (+08:00),所有时间戳带时区
 - **建议频率**:每日 1 次,建议 08:30 Asia/Shanghai 触发(已晚于美股盘后、早于 A 股开盘)
 - **工具依赖**:
@@ -549,7 +549,7 @@ docs/.vitepress/data/news/schema.json     JSON Schema (只读参考,不要改)
 ```
 工具: mcp__github__push_files
 参数:
-  repo: fanweibin2018/fanweibin2018
+  repo: Ivaloz/blog
   branch: main
   message: "chore(news): routines 更新 YYYY-MM-DD HH:MM | policy +Np tech +Nt industry +Ni trade +Nx ai +Na finance +Nf"
           // Np/Nt/Ni/Nx/Na/Nf 分别为 6 类本次新增条目数
