@@ -4,10 +4,10 @@ import { defineConfig } from 'vitepress'
 import fs from 'node:fs'
 import path from 'node:path'
 
-const SITE_URL = 'https://fanweibin.cn'
-const SITE_TITLE = '范伟彬 · 写作空间'
-const SITE_DESC = '技术、投资、AI 工作流的记录与思考 — 范伟彬的个人博客'
-const AUTHOR = '范伟彬'
+const SITE_URL = 'https://ivalo.eu.org'
+const SITE_TITLE = 'Byron · 写作空间'
+const SITE_DESC = '技术、AI、投资的记录与思考 — Byron 的个人博客'
+const AUTHOR = 'Byron'
 const OG_IMAGE = '/logo.svg'
 
 // --------------------------- frontmatter reader ---------------------------
@@ -187,7 +187,7 @@ ${items}
 }
 
 // 站点启动日期：从 2018 年开始算，与页脚总访问数的预估基线保持一致
-const SITE_START_DATE = '2018-01-01'
+const SITE_START_DATE = '2026-01-01'
 
 export default defineConfig({
   title: SITE_TITLE,
@@ -290,7 +290,7 @@ export default defineConfig({
   },
 
   themeConfig: {
-    siteTitle: 'fanweibin.cn',
+    siteTitle: 'ivalo.eu.org',
     logo: { src: '/logo.svg', width: 24, height: 24, alt: 'FF' },
 
     nav: [
@@ -316,8 +316,6 @@ export default defineConfig({
         ]
       },
       { text: '关于', link: '/pages/about' },
-      { text: '视频拆条', link: 'https://chaitiao.fanweibin.cn/', target: '_blank' },
-      { text: 'Indie', link: 'https://indie.fanweibin.cn/', target: '_blank' },
       { text: 'RSS', link: '/feed.xml', target: '_blank' }
     ],
 
@@ -349,7 +347,7 @@ export default defineConfig({
       linkText: '回到首页'
     },
 
-    socialLinks: [{ icon: 'github', link: 'https://github.com/fanweibin2018' }],
+    socialLinks: [{ icon: 'github', link: 'https://github.com/Ivaloz' }],
 
     search: {
       provider: 'local',
@@ -379,7 +377,7 @@ export default defineConfig({
       // spans 由客户端脚本填充：Vercount 注入真实 PV 到隐藏 tracker，
       // SiteStatsFooter 叠加 2018 以来的预估值写入可见的 #site-pv-display
       message: `已运行 <span id="site-runtime-days" data-start="${SITE_START_DATE}">…</span> · 总访问 <span id="site-pv-display">…</span> 次<span id="vercount_value_site_pv" style="display:none">0</span>`,
-      copyright: `© 2018-${new Date().getFullYear()} ${SITE_TITLE}`
+      copyright: `© ${new Date().getFullYear()} ${SITE_TITLE}`
     }
   },
 
