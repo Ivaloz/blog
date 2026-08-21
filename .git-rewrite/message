@@ -1,0 +1,5 @@
+feat(comments): 启用 giscus 评论区
+
+填入 giscus.app 生成的 repoId 与 categoryId，并把仓库名更新为改名
+后的 fanweibin2018/fanweibin2018。配置齐全后 Comments.vue 会在
+非首页文章底部自动挂载评论区。
