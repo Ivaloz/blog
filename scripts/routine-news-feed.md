@@ -109,7 +109,6 @@ docs/.vitepress/data/news/schema.json     JSON Schema (只读参考,不要改)
 
 **国内终端品牌**:
 - 华为 `huawei.com/cn/news` / 鸿蒙 / 鸿蒙智行
-- 小米 `mi.com/about` / Xiaomi HyperOS / 小米汽车
 - OPPO `oppo.com/cn/about/news` / vivo / 荣耀 / 一加
 - 联想 `lenovo.com/cn/about-us/news`
 
@@ -132,7 +131,7 @@ docs/.vitepress/data/news/schema.json     JSON Schema (只读参考,不要改)
 #### 子分类:智能汽车
 
 - 特斯拉 Tesla `tesla.com/blog` / `electrek.co` 行业解读
-- **国内新势力**:蔚来 NIO `nio.com`、小鹏 Xpeng `xiaopeng.com`、理想 Li Auto `lixiang.com`、极氪 Zeekr `zeekrlife.com`、智己 IM、阿维塔 Avatr、岚图 Voyah、小米汽车 `auto.xiaomi.com`、鸿蒙智行(问界 / 享界 / 智界 / 尊界)
+- **国内新势力**:蔚来 NIO `nio.com`、小鹏 Xpeng `xiaopeng.com`、理想 Li Auto `lixiang.com`、极氪 Zeekr `zeekrlife.com`、智己 IM、阿维塔 Avatr、岚图 Voyah、鸿蒙智行(问界 / 享界 / 智界 / 尊界)
 - **国内传统**:比亚迪 BYD `bydglobal.com`、吉利、长城、长安、上汽、广汽
 - **海外**:Rivian `rivian.com/stories`、Lucid Motors、GM `news.gm.com`、Ford `media.ford.com`、Stellantis、VW ID
 
