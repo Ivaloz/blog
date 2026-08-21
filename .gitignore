@@ -12,3 +12,4 @@ _tmp_*
 # Python 常规忽略
 __pycache__/
 *.pyc
+.git-rewrite
