@@ -1,6 +1,7 @@
 <script setup lang="ts">
 import { useData } from 'vitepress'
 import { computed } from 'vue'
+import { withBase } from 'vitepress'
 import { data as allPosts } from '../../../posts/posts.data'
 
 const props = defineProps<{ limit?: number }>()
@@ -45,7 +46,7 @@ const related = computed(() => {
     <h2 class="rp-title">📚 相关文章</h2>
     <ul class="rp-list">
       <li v-for="p in related" :key="p.url">
-        <a :href="p.url" class="rp-link">
+        <a :href="withBase(p.url)" class="rp-link">
           <span class="rp-date">{{ p.dateDisplay }}</span>
           <span class="rp-name">{{ p.title }}</span>
           <span v-if="p.readingTime" class="rp-read">· {{ p.readingTime }} 分钟</span>

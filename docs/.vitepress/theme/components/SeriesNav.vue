@@ -1,6 +1,7 @@
 <script setup lang="ts">
 import { useData } from 'vitepress'
 import { computed } from 'vue'
+import { withBase } from 'vitepress'
 import { data as allPosts } from '../../../posts/posts.data'
 
 const { frontmatter, page } = useData()
@@ -45,14 +46,14 @@ const next = computed(() =>
           <strong>{{ p.title }}</strong>
         </template>
         <template v-else>
-          <a :href="p.url">{{ p.title }}</a>
+          <a :href="withBase(p.url)">{{ p.title }}</a>
         </template>
       </li>
     </ol>
     <div v-if="prev || next" class="series-adj">
-      <a v-if="prev" :href="prev.url" class="adj prev">← {{ prev.title }}</a>
+      <a v-if="prev" :href="withBase(prev.url)" class="adj prev">← {{ prev.title }}</a>
       <span v-else></span>
-      <a v-if="next" :href="next.url" class="adj next">{{ next.title }} →</a>
+      <a v-if="next" :href="withBase(next.url)" class="adj next">{{ next.title }} →</a>
     </div>
   </aside>
 </template>

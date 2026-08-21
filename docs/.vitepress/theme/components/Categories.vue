@@ -1,6 +1,7 @@
 <script setup lang="ts">
 import { data as posts } from '../../../posts/posts.data'
 import { computed } from 'vue'
+import { withBase } from 'vitepress'
 
 type Group = { name: string; count: number; recent: typeof posts }
 
@@ -38,7 +39,7 @@ function slugify(s: string) {
         </header>
         <ul class="cc-list">
           <li v-for="p in g.recent" :key="p.url">
-            <a :href="p.url">
+            <a :href="withBase(p.url)">
               <time :datetime="p.date" class="cc-date">{{ p.dateDisplay }}</time>
               <span class="cc-title">{{ p.title }}</span>
             </a>
@@ -55,7 +56,7 @@ function slugify(s: string) {
       <ul class="archive-list">
         <li v-for="p in posts.filter((x) => x.categories.includes(g.name))" :key="p.url">
           <time :datetime="p.date">{{ p.dateDisplay }}</time>
-          <a :href="p.url">{{ p.title }}</a>
+          <a :href="withBase(p.url)">{{ p.title }}</a>
         </li>
       </ul>
     </section>

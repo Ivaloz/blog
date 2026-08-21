@@ -1,6 +1,7 @@
 <script setup lang="ts">
 import { data as posts } from '../../../posts/posts.data'
 import { computed } from 'vue'
+import { withBase } from 'vitepress'
 
 const groups = computed(() => {
   const m = new Map<string, typeof posts>()
@@ -21,7 +22,7 @@ const groups = computed(() => {
       <ul class="archive-list">
         <li v-for="p in list" :key="p.url">
           <time :datetime="p.date">{{ p.date ? p.date.slice(5) : '' }}</time>
-          <a :href="p.url">{{ p.title }}</a>
+          <a :href="withBase(p.url)">{{ p.title }}</a>
         </li>
       </ul>
     </section>
