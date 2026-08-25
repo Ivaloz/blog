@@ -3,8 +3,71 @@
   "slug": "industry",
   "title": "行业新闻",
   "description": "企业服务、SaaS、云计算、制造业、消费互联网的产业动态。",
-  "updatedAt": "2026-08-21T12:00:00+08:00",
+  "updatedAt": "2026-08-25T14:30:00+08:00",
   "items": [
+    {
+      "id": "industry-20260825-002",
+      "title": "保险业AI竞赛下半场：机构差异化布局垂类大模型",
+      "summary": "泰康保险发布养医大模型，标志保险业AI竞赛进入下半场。头部险企搭建全域智能体系，开源浪潮降低技术门槛，为中小险企提供弯道超车机会。",
+      "publishedAt": "2026-08-25T12:00:00+08:00",
+      "source": "东方财富",
+      "url": "https://www.eastmoney.com/",
+      "subCategory": "企业服务"
+    },
+    {
+      "id": "industry-20260824-002",
+      "title": "Stripe以超70亿美元完成对OpenRouter的收购",
+      "summary": "Stripe以超70亿美元完成对AI路由平台OpenRouter的收购，较数月前13亿美元估值大幅溢价。",
+      "publishedAt": "2026-08-24T14:00:00+08:00",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/",
+      "subCategory": "企业服务"
+    },
+    {
+      "id": "industry-20260824-001",
+      "title": "特斯拉Cybercab发布会定档9月3日",
+      "summary": "特斯拉宣布将于2026年9月3日在美国得州奥斯汀举行Cybercab发布会，该车由AI驱动，无需方向盘、踏板和后视镜。",
+      "publishedAt": "2026-08-24T10:00:00+08:00",
+      "source": "财联社",
+      "url": "https://www.cls.cn/",
+      "subCategory": "新能源汽车"
+    },
+    {
+      "id": "industry-20260823-002",
+      "title": "中国AI漫剧产业爆发，从业者超50万",
+      "summary": "算力成本下降30-40%，AI剪辑师岗位招聘同比大涨179%，短剧AI生产工具进入工业化阶段，从业者超50万。",
+      "publishedAt": "2026-08-23T16:00:00+08:00",
+      "source": "今日头条",
+      "url": "https://www.toutiao.com/",
+      "subCategory": "消费零售"
+    },
+    {
+      "id": "industry-20260823-001",
+      "title": "Anthropic拟10月IPO，估值目标2万亿美元",
+      "summary": "Anthropic计划在首次公开募股中募资超1000亿美元，对应企业估值有望达到2万亿美元，将超过SpaceX成为史上最大IPO。",
+      "publishedAt": "2026-08-23T10:00:00+08:00",
+      "source": "Fortune",
+      "url": "https://fortune.com/",
+      "subCategory": "企业服务"
+    },
+    {
+      "id": "industry-20260822-002",
+      "title": "SHEIN今起招股，预计9月1日港交所上市",
+      "summary": "SHEIN在港交所启动全球发售，合计2.799925亿股B类股份，发售价区间47.60至49.50港元，预期9月1日开始买卖。",
+      "publishedAt": "2026-08-22T14:00:00+08:00",
+      "source": "36氪",
+      "url": "https://36kr.com/",
+      "subCategory": "消费零售"
+    },
+    {
+      "id": "industry-20260822-001",
+      "title": "长存控股科创板IPO申请获受理，拟募资330亿元创纪录",
+      "summary": "长江存储控股科创板IPO申请获上交所正式受理，拟募资330亿元，其中208亿元用于量产线技术升级，122亿元用于研发，创科创板最高纪录。",
+      "publishedAt": "2026-08-22T10:00:00+08:00",
+      "source": "21世纪经济报道",
+      "url": "https://www.21jingji.com/",
+      "subCategory": "半导体产业"
+    },
     {
       "title": "神龙科技武汉成立，总注资约 82 亿元",
       "summary": "东风汽车、Stellantis 集团等共同出资。",

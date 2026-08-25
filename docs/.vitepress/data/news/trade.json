@@ -3,8 +3,35 @@
   "slug": "trade",
   "title": "外贸资讯",
   "description": "亚马逊、TikTok Shop、阿里国际站、Shopify 等平台政策与跨境电商市场、独立站、物流支付、关税法规、选品趋势。",
-  "updatedAt": "2026-08-21T12:00:00+08:00",
+  "updatedAt": "2026-08-25T14:30:00+08:00",
   "items": [
+    {
+      "id": "trade-20260825-001",
+      "title": "阿里国际站OKKI Copilot产品动态更新",
+      "summary": "阿里巴巴国际站OKKI Copilot产品持续迭代，为跨境卖家提供AI驱动的客户管理和营销工具。",
+      "publishedAt": "2026-08-25T10:00:00+08:00",
+      "source": "阿里国际站",
+      "url": "https://seller.alibaba.com/",
+      "subCategory": "平台动态"
+    },
+    {
+      "id": "trade-20260823-001",
+      "title": "TikTok Shop升级全托管优质好商计划，深入20个重点产业带招商",
+      "summary": "TikTok Shop官宣升级全托管优质好商计划，大力招募全托管商家，为产业带源头工厂、优质贸易商家提供5大优质好商定向权益。",
+      "publishedAt": "2026-08-23T10:00:00+08:00",
+      "source": "亿邦动力",
+      "url": "https://www.ebrun.com/",
+      "subCategory": "平台政策"
+    },
+    {
+      "id": "trade-20260822-001",
+      "title": "SHEIN今日启动港股招股，预计9月1日上市",
+      "summary": "SHEIN在港交所公告启动全球发售，发售价区间47.60至49.50港元，香港公开发售占比10%，国际发售占比90%。",
+      "publishedAt": "2026-08-22T14:00:00+08:00",
+      "source": "36氪",
+      "url": "https://36kr.com/",
+      "subCategory": "平台动态"
+    },
     {
       "title": "7 月国内电商平台 MAU 增速放缓",
       "summary": "拼多多受税收合规影响下滑，抖音 DAU/MAU 达 67.3%。",

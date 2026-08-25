@@ -3,8 +3,80 @@
   "slug": "tech",
   "title": "科技新闻",
   "description": "前沿科技、互联网产品、芯片硬件、开源生态。",
-  "updatedAt": "2026-08-21T12:00:00+08:00",
+  "updatedAt": "2026-08-25T14:30:00+08:00",
   "items": [
+    {
+      "id": "tech-20260825-002",
+      "title": "人形机器人百米跑9.39秒超越博尔特世界纪录",
+      "summary": "第二届世界人形机器人运动会百米赛项，天工Ultra以9.39秒完赛，超越博尔特9.58秒人类世界纪录，机器人自主控制能力取得突破。",
+      "publishedAt": "2026-08-25T10:00:00+08:00",
+      "source": "新浪科技",
+      "url": "https://tech.sina.com.cn/",
+      "subCategory": "机器人"
+    },
+    {
+      "id": "tech-20260824-003",
+      "title": "中诚华隆发布HL200推理芯片及超节点集群",
+      "summary": "中诚华隆推出第二代HL200推理芯片及超节点智算集群方案，单卡FP4算力4P，单节点最高1024卡，横向可扩展至10240卡。",
+      "publishedAt": "2026-08-24T16:00:00+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/",
+      "subCategory": "芯片硬件"
+    },
+    {
+      "id": "tech-20260824-002",
+      "title": "Hot Chips 2026：Nvidia推动CUDA生态支持RISC-V",
+      "summary": "Nvidia在Hot Chips 2026详述将CUDA从x86-64/aarch64扩展到RISC-V的技术路线，为RISC-V CPU驱动GPU计算打开大门。",
+      "publishedAt": "2026-08-24T14:00:00+08:00",
+      "source": "Chips and Cheese",
+      "url": "https://chipsandcheese.com/",
+      "subCategory": "芯片硬件"
+    },
+    {
+      "id": "tech-20260824-001",
+      "title": "Nvidia宣布Groq 3 LPX推理加速器全面量产",
+      "summary": "Nvidia宣布专用AI推理加速器Groq 3 LPX进入全面量产阶段，Nebius签约成为首家客户，单机架运行Gemma 4 31B达3400 tokens/s吞吐。",
+      "publishedAt": "2026-08-24T10:00:00+08:00",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/",
+      "subCategory": "芯片硬件"
+    },
+    {
+      "id": "tech-20260823-002",
+      "title": "特斯拉获准在内华达州部署至多5000辆Robotaxi",
+      "summary": "内华达成为继得州、佛州后第三个批准特斯拉无人驾驶网约车服务的州，商用运营预计30天内启动，9月3日Cybercab发布会临近。",
+      "publishedAt": "2026-08-23T14:00:00+08:00",
+      "source": "钛媒体",
+      "url": "https://www.tmtpost.com/",
+      "subCategory": "智能汽车"
+    },
+    {
+      "id": "tech-20260822-003",
+      "title": "小米一次性发布三款玄戒自研芯片",
+      "summary": "小米发布三款玄戒自研芯片，覆盖手机AI、端侧大模型与智驾三大场景，加速自研芯片布局。",
+      "publishedAt": "2026-08-22T16:00:00+08:00",
+      "source": "小米",
+      "url": "https://www.mi.com/",
+      "subCategory": "芯片硬件"
+    },
+    {
+      "id": "tech-20260822-002",
+      "title": "小鹏机器人首轮融资超9亿美元，投后估值约430亿元",
+      "summary": "小鹏机器人业务完成首轮超9亿美元融资，投后估值约430亿元人民币，刷新具身智能行业单轮私募股权融资纪录。IDG资本领投，腾讯和阿里战略支持。",
+      "publishedAt": "2026-08-22T14:00:00+08:00",
+      "source": "财联社",
+      "url": "https://www.cls.cn/",
+      "subCategory": "机器人"
+    },
+    {
+      "id": "tech-20260822-001",
+      "title": "第二届世界人形机器人运动会开幕：天工Ultra百米9.39秒破人类纪录",
+      "summary": "第二届世界人形机器人运动会在国家速滑馆开幕，666支队伍、2056台机器人参赛。天工Ultra百米跑9.39秒打破博尔特9.58秒人类纪录。",
+      "publishedAt": "2026-08-22T10:00:00+08:00",
+      "source": "华为云",
+      "url": "https://www.huaweicloud.com/",
+      "subCategory": "机器人"
+    },
     {
       "title": "大族数控披露质量回报双提升方案",
       "summary": "8 月 20 日披露行动方案公告。",

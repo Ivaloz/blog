@@ -3,8 +3,71 @@
   "slug": "finance",
   "title": "投资与财经",
   "description": "宏观经济、A 股 / 港股 / 美股、一级市场融资、行业研报观点。",
-  "updatedAt": "2026-08-21T12:00:00+08:00",
+  "updatedAt": "2026-08-25T14:30:00+08:00",
   "items": [
+    {
+      "id": "finance-20260825-001",
+      "title": "布伦特原油跌破92美元，Bessent宣布对伊朗经济施压计划",
+      "summary": "美国财长Bessent宣布对伊朗实施经济施压计划，布伦特原油结束六连涨，收于92.17美元/桶下跌2.22美元。",
+      "publishedAt": "2026-08-25T08:00:00+08:00",
+      "source": "WSJ",
+      "url": "https://www.wsj.com/",
+      "subCategory": "大宗商品"
+    },
+    {
+      "id": "finance-20260824-003",
+      "title": "美股周一开盘：芯片股承压拖累纳指，道指走高",
+      "summary": "美股周一开盘涨跌互现，芯片股承压拖累纳指下跌，道指因医疗和金融板块上涨走高，市场关注本周英伟达财报和美联储Jackson Hole讲话。",
+      "publishedAt": "2026-08-24T22:00:00+08:00",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/",
+      "subCategory": "美股"
+    },
+    {
+      "id": "finance-20260824-002",
+      "title": "阿里AI冰火两重天：云收入高增45%，千问仍在烧钱",
+      "summary": "阿里2027财年一季度收入2689亿元同比增9%，AI云收入484亿元增速45%，但AI实验室亏损扩大至138亿元，千问App变现仍处探索期。",
+      "publishedAt": "2026-08-24T14:00:00+08:00",
+      "source": "新浪财经",
+      "url": "https://finance.sina.cn/",
+      "subCategory": "公司财报"
+    },
+    {
+      "id": "finance-20260823-001",
+      "title": "SHEIN港股IPO定价47.6至49.5港元，预计9月1日上市",
+      "summary": "SHEIN在港交所启动全球发售，发售价区间47.60至49.50港元，合计2.799925亿股B类股份。",
+      "publishedAt": "2026-08-23T10:00:00+08:00",
+      "source": "36氪",
+      "url": "https://36kr.com/",
+      "subCategory": "港股"
+    },
+    {
+      "id": "finance-20260823-002",
+      "title": "美股周五反弹：道指涨517点，医疗和材料板块领涨",
+      "summary": "美股周五反弹，道指涨1%收于53277点，标普500涨0.4%收于7674点，医疗和材料板块领涨，比特币周涨22%。",
+      "publishedAt": "2026-08-23T08:00:00+08:00",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/",
+      "subCategory": "美股"
+    },
+    {
+      "id": "finance-20260822-002",
+      "title": "长存控股科创板IPO拟募资330亿元创纪录",
+      "summary": "长江存储控股科创板IPO申请获受理，拟募资330亿元创科创板设立以来最高纪录，208亿元用于量产线技术升级。",
+      "publishedAt": "2026-08-22T14:00:00+08:00",
+      "source": "21世纪经济报道",
+      "url": "https://www.21jingji.com/",
+      "subCategory": "A股"
+    },
+    {
+      "id": "finance-20260822-001",
+      "title": "阿里巴巴启动800亿港元港股配售，全部投向AI",
+      "summary": "阿里巴巴启动2019年上市以来首次新股配售，募资800亿港元，所得款项100%用于全栈AI能力与基础设施建设，获主权基金超额认购。",
+      "publishedAt": "2026-08-22T10:00:00+08:00",
+      "source": "财联社",
+      "url": "https://www.cls.cn/",
+      "subCategory": "港股"
+    },
     {
       "title": "布伦特原油接近 93 美元/桶",
       "summary": "地缘局势推升油价，利好石油开采和能源替代板块。",
@@ -87,6 +150,15 @@
       "id": "finance-20260819-009"
     },
     {
+      "title": "Etched's valuation doubles to $21B in a month",
+      "summary": "AI推理芯片初创公司Etched完成7亿美元新一轮融资，由Jane Street领投，公司估值一个月内从103亿美元翻倍至210亿美元，此前2025年12月估值为50亿美元。",
+      "publishedAt": "2026-08-19T01:21:00+08:00",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/18/etcheds-valuation-doubles-to-21b-in-a-month/",
+      "subCategory": "一级市场",
+      "id": "finance-20260818-015"
+    },
+    {
       "title": "精选 | 夜盘盘前要闻汇总 8月18日 周二",
       "summary": "LME铜一日价差飙升至110美元，为2021年以来最高水平；波斯湾至亚洲航线超大型油轮日租金升至约51万美元，为6月下旬以来最高；工业硅18X硅片价格上涨约30%。",
       "publishedAt": "2026-08-18T19:50:00+08:00",
@@ -132,15 +204,6 @@
       "id": "finance-20260818-014"
     },
     {
-      "title": "Etched's valuation doubles to $21B in a month",
-      "summary": "AI推理芯片初创公司Etched完成7亿美元新一轮融资，由Jane Street领投，公司估值一个月内从103亿美元翻倍至210亿美元，此前2025年12月估值为50亿美元。",
-      "publishedAt": "2026-08-19T01:21:00+08:00",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/18/etcheds-valuation-doubles-to-21b-in-a-month/",
-      "subCategory": "一级市场",
-      "id": "finance-20260818-015"
-    },
-    {
       "id": "finance-20260818-016",
       "title": "一签赚55万，A股诞生新纪录",
       "summary": "年内最贵新股频准激光（688826.SH）8月18日在科创板上市，开盘涨488%，盘中最高触及1300元/股，以500股中签计算，投资者浮盈约56.6万元，创下注册制以来新股首日盈利纪录。",
@@ -175,6 +238,24 @@
       "source": "新浪财经",
       "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-18/doc-ininsmwh3646552.shtml",
       "subCategory": "美股"
+    },
+    {
+      "id": "finance-20260817-029",
+      "title": "Stock market today: Dow, S&P 500, Nasdaq fall as oil rises amid US-Iran tensions, 30-year yield hits highest level in decades",
+      "summary": "8月17日美股三大指数收跌，标普500跌0.4%，纳指跌0.3%，道指跌0.5%。受美伊谅解备忘录到期、原油价格上涨及30年期美债收益率升至5.31%（2007年6月以来最高水平）等因素影响。",
+      "publishedAt": "2026-08-18T04:01:00+08:00",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-august-17-dow-sp-500-nasdaq-oil-treasurys-094421171.html",
+      "subCategory": "美股"
+    },
+    {
+      "id": "finance-20260817-032",
+      "title": "Groq raises $350M to fuel its pivot from AI chips to neocloud",
+      "summary": "AI云服务公司Groq完成3.5亿美元新一轮融资，估值达35亿美元，由投资机构Disruptive领投，英伟达参投。资金将用于扩大数据中心规模，计划到2027年将运力从54兆瓦提升至200兆瓦以上。",
+      "publishedAt": "2026-08-18T00:15:00+08:00",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud/",
+      "subCategory": "一级市场"
     },
     {
       "title": "Dollar range-bound as markets price dovish Fed response",
@@ -222,6 +303,15 @@
       "subCategory": "港股"
     },
     {
+      "id": "finance-20260817-033",
+      "title": "Terra Industries closes $52M seed round to build defense infrastructure for the Global South",
+      "summary": "非洲防务科技公司Terra Industries追加1800万美元融资，种子轮总额达5200万美元，投资方包括8VC、Silent Ventures和Nova Global，公司计划开发无人机等自主防务基础设施。",
+      "publishedAt": "2026-08-17T23:06:00+08:00",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/17/terra-industries-closes-52m-seed-round-to-build-defense-infrastructure-for-the-global-south/",
+      "subCategory": "一级市场"
+    },
+    {
       "id": "finance-20260817-026",
       "title": "现货黄金再度突破4400美元/盎司",
       "summary": "8月17日现货黄金一度触及4402.97美元/盎司，自7月31日以来累计上涨超9%，分析指美国经济边际转冷推动估值修正，美联储9月加息概率一周内从52.2%降至30.1%，国内黄金股同日上涨3%-4%。",
@@ -249,13 +339,13 @@
       "subCategory": "A股"
     },
     {
-      "id": "finance-20260817-029",
-      "title": "Stock market today: Dow, S&P 500, Nasdaq fall as oil rises amid US-Iran tensions, 30-year yield hits highest level in decades",
-      "summary": "8月17日美股三大指数收跌，标普500跌0.4%，纳指跌0.3%，道指跌0.5%。受美伊谅解备忘录到期、原油价格上涨及30年期美债收益率升至5.31%（2007年6月以来最高水平）等因素影响。",
-      "publishedAt": "2026-08-18T04:01:00+08:00",
+      "id": "finance-20260817-035",
+      "title": "Alibaba to sell Lingxi Games in more than $2 billion deal, source says",
+      "summary": "阿里巴巴与私募股权公司Trustar Capital就出售旗下游戏开发商灵犀互娱达成协议，交易金额超20亿美元，灵犀CEO周炳恕及管理团队将继续留任，此举被视为阿里巴巴聚焦AI与云计算、剥离非核心资产的一部分。",
+      "publishedAt": "2026-08-17T14:28:00+08:00",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-august-17-dow-sp-500-nasdaq-oil-treasurys-094421171.html",
-      "subCategory": "美股"
+      "url": "https://finance.yahoo.com/technology/articles/alibaba-sell-lingxi-games-more-061745401.html",
+      "subCategory": "港股"
     },
     {
       "id": "finance-20260817-030",
@@ -276,24 +366,6 @@
       "subCategory": "一级市场"
     },
     {
-      "id": "finance-20260817-032",
-      "title": "Groq raises $350M to fuel its pivot from AI chips to neocloud",
-      "summary": "AI云服务公司Groq完成3.5亿美元新一轮融资，估值达35亿美元，由投资机构Disruptive领投，英伟达参投。资金将用于扩大数据中心规模，计划到2027年将运力从54兆瓦提升至200兆瓦以上。",
-      "publishedAt": "2026-08-18T00:15:00+08:00",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud/",
-      "subCategory": "一级市场"
-    },
-    {
-      "id": "finance-20260817-033",
-      "title": "Terra Industries closes $52M seed round to build defense infrastructure for the Global South",
-      "summary": "非洲防务科技公司Terra Industries追加1800万美元融资，种子轮总额达5200万美元，投资方包括8VC、Silent Ventures和Nova Global，公司计划开发无人机等自主防务基础设施。",
-      "publishedAt": "2026-08-17T23:06:00+08:00",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/17/terra-industries-closes-52m-seed-round-to-build-defense-infrastructure-for-the-global-south/",
-      "subCategory": "一级市场"
-    },
-    {
       "id": "finance-20260817-034",
       "title": "8月17日财经早餐：黄金\"通胀劫\"后蓄势，特朗普的\"海峡领土论\"正在为原油\"点火\"",
       "summary": "特朗普8月17日宣称击败伊朗后将把霍尔木兹海峡宣布为美国领土，伊朗副外长回应称重开海峡须以美国接受失败、停止推动政权更迭为前提，WTI原油当周涨6.9%至每桶82.4美元附近。",
@@ -301,15 +373,6 @@
       "source": "新浪财经",
       "url": "https://finance.sina.com.cn/money/forex/forexroll/2026-08-17/doc-ininqpeu0360465.shtml",
       "subCategory": "风险事件"
-    },
-    {
-      "id": "finance-20260817-035",
-      "title": "Alibaba to sell Lingxi Games in more than $2 billion deal, source says",
-      "summary": "阿里巴巴与私募股权公司Trustar Capital就出售旗下游戏开发商灵犀互娱达成协议，交易金额超20亿美元，灵犀CEO周炳恕及管理团队将继续留任，此举被视为阿里巴巴聚焦AI与云计算、剥离非核心资产的一部分。",
-      "publishedAt": "2026-08-17T14:28:00+08:00",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/technology/articles/alibaba-sell-lingxi-games-more-061745401.html",
-      "subCategory": "港股"
     },
     {
       "id": "finance-20260817-036",
@@ -438,6 +501,15 @@
       "subCategory": "公司财报"
     },
     {
+      "id": "finance-20260814-059",
+      "title": "美股三大指数8月14日收跌，但仍收获连续第三周上涨",
+      "summary": "美国三大股指8月14日周五收盘齐跌，标普500指数跌0.17%报7785.76点，道指跌0.2%报3732.41点，纳指跌0.28%至26729.16点，受7月零售销售环比降0.6%及消费者信心走弱拖累，三大指数仍收获连续第三周上涨。",
+      "publishedAt": "2026-08-15T04:03:00+08:00",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-august-14-dow-sp-500-nasdaq-102635519.html",
+      "subCategory": "美股"
+    },
+    {
       "id": "finance-20260815-050",
       "title": "全球一周最大融资：Databricks再获50亿美元融资，估值达1900亿美元",
       "summary": "美国数据平台公司Databricks完成新一轮50亿美元融资，由Coatue领投，黑石、MGX等机构参投，公司估值达到1900亿美元，第二季度营收同比增长超80%。",
@@ -472,6 +544,15 @@
       "source": "财联社",
       "url": "https://www.cls.cn/detail/2454847",
       "subCategory": "公司财报"
+    },
+    {
+      "id": "finance-20260814-061",
+      "title": "美国7月零售销售环比意外下降0.6%，创2025年5月以来最大降幅",
+      "summary": "美国商务部数据显示，7月零售销售环比下降0.6%，为2025年5月以来最大降幅，此前6月环比上修为增长0.2%；剔除汽车和加油站后环比下降0.2%，线上零售环比下降2.2%。",
+      "publishedAt": "2026-08-14T20:41:00+08:00",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/economy/articles/retail-sales-unexpectedly-fall-july-124133129.html",
+      "subCategory": "宏观经济"
     },
     {
       "id": "finance-20260814-054",
@@ -519,15 +600,6 @@
       "subCategory": "A股"
     },
     {
-      "id": "finance-20260814-059",
-      "title": "美股三大指数8月14日收跌，但仍收获连续第三周上涨",
-      "summary": "美国三大股指8月14日周五收盘齐跌，标普500指数跌0.17%报7785.76点，道指跌0.2%报3732.41点，纳指跌0.28%至26729.16点，受7月零售销售环比降0.6%及消费者信心走弱拖累，三大指数仍收获连续第三周上涨。",
-      "publishedAt": "2026-08-15T04:03:00+08:00",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-august-14-dow-sp-500-nasdaq-102635519.html",
-      "subCategory": "美股"
-    },
-    {
       "id": "finance-20260814-060",
       "title": "科创50指数半日跌0.57%，高位股集体下挨，医药板块反复活跃",
       "summary": "8月14日A股午盘三大指数走势分化，沪指跌0.21%，深成指涨0.08%，创业板指涨0.65%，科创50指数跌0.57%，两市成交额1.39万亿元，逾3400只个股下跌，高位股集体回调，医药板块反复活跃。",
@@ -535,15 +607,6 @@
       "source": "每日经济新闻",
       "url": "https://www.nbd.com.cn/articles/2026-08-14/4541944.html",
       "subCategory": "A股"
-    },
-    {
-      "id": "finance-20260814-061",
-      "title": "美国7月零售销售环比意外下降0.6%，创2025年5月以来最大降幅",
-      "summary": "美国商务部数据显示，7月零售销售环比下降0.6%，为2025年5月以来最大降幅，此前6月环比上修为增长0.2%；剔除汽车和加油站后环比下降0.2%，线上零售环比下降2.2%。",
-      "publishedAt": "2026-08-14T20:41:00+08:00",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/economy/articles/retail-sales-unexpectedly-fall-july-124133129.html",
-      "subCategory": "宏观经济"
     },
     {
       "id": "finance-20260814-062",
