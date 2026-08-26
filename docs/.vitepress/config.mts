@@ -317,7 +317,7 @@ export default defineConfig({
         ]
       },
       { text: '关于', link: '/pages/about' },
-      { text: 'RSS', link: '/feed.xml', target: '_blank' }
+      { text: 'RSS', link: '/blog/feed.xml', target: '_blank' }
     ],
 
     sidebar: {
