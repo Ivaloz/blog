@@ -1,5 +1,6 @@
 <script setup lang="ts">
 import { computed, onMounted, ref } from 'vue'
+import { withBase } from 'vitepress'
 import { data as news } from '../../../news/news.data'
 
 type ViewMode = 'cats' | 'time'
@@ -66,7 +67,7 @@ function formatDayLabel(day: string): string {
 }
 
 function categoryHref(slug: string) {
-  return `/news/${slug}`
+  return withBase(`/news/${slug}`)
 }
 
 function dateDisplay(iso?: string) {
@@ -99,7 +100,7 @@ function timeDisplay(iso?: string) {
       <p v-if="newestUpdate" class="no-updated">
         <span class="no-updated-label">最近更新</span>
         <time>{{ newestUpdate }}</time>
-        <a href="/news.xml" class="no-rss" target="_blank" rel="noopener" title="订阅资讯 RSS">RSS ↗</a>
+        <a :href="withBase('/news.xml')" class="no-rss" target="_blank" rel="noopener" title="订阅资讯 RSS">RSS ↗</a>
       </p>
     </header>
 
