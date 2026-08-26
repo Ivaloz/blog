@@ -3,8 +3,52 @@
   "slug": "industry",
   "title": "行业新闻",
   "description": "企业服务、SaaS、云计算、制造业、消费互联网的产业动态。",
-  "updatedAt": "2026-08-25T14:30:00+08:00",
+  "updatedAt": "2026-08-26T16:30:00+08:00",
   "items": [
+    {
+      "title": "全志科技半年报：新产品量产放量，净利翻倍增长",
+      "summary": "全志科技发布2026年中报，依托智能应用处理器SoC及高性能模拟器件等核心产品，受益于新产品量产和产品售价提升，净利润实现翻倍增长。",
+      "publishedAt": "2026-08-26T11:00:00+08:00",
+      "source": "东方财富",
+      "url": "https://finance.eastmoney.com/a/202608263854342530.html",
+      "subCategory": "消费科技",
+      "id": "industry-20260826-004",
+      "createdAt": "2026-08-26T16:30:00+08:00",
+      "updatedAt": "2026-08-26T16:30:00+08:00"
+    },
+    {
+      "title": "人形机器人商业化困境：出货超4万台但工业落地不足35%",
+      "summary": "2026年上半年中国人形机器人出货超4万台全球占比97%，但约65%的设备仍用于研发测试展会演示，真正投入常态化工业生产的占比不足35%，商业化落地面临挑战。",
+      "publishedAt": "2026-08-26T10:30:00+08:00",
+      "source": "盖世汽车",
+      "url": "https://auto.gasgoo.com/news/202608/26I70470406C601.shtml",
+      "subCategory": "消费科技",
+      "id": "industry-20260826-001",
+      "createdAt": "2026-08-26T16:30:00+08:00",
+      "updatedAt": "2026-08-26T16:30:00+08:00"
+    },
+    {
+      "title": "能科科技中报：AI产品与服务收入占比跃升至近40%",
+      "summary": "能科科技发布2026年中报，依托All in AI战略加速业务转型，AI产品与服务业务收入占比跃升至近40%成为第一大业务，但整体利润受投入增加拖累。",
+      "publishedAt": "2026-08-26T09:00:00+08:00",
+      "source": "东方财富",
+      "url": "https://finance.eastmoney.com/a/202608263854491612.html",
+      "subCategory": "企业服务",
+      "id": "industry-20260826-002",
+      "createdAt": "2026-08-26T16:30:00+08:00",
+      "updatedAt": "2026-08-26T16:30:00+08:00"
+    },
+    {
+      "title": "华昌化工拟易主8月26日起停牌，上半年净利大增超10倍",
+      "summary": "华昌化工公告称控股股东华纳投资正在筹划协议转让股份事项，或导致公司控股权变更，股票自8月26日起停牌，上半年受益于煤化工行业景气上行归母净利润增长1026.90%。",
+      "publishedAt": "2026-08-26T08:00:00+08:00",
+      "source": "东方财富",
+      "url": "https://finance.eastmoney.com/a/202608263853617148.html",
+      "subCategory": "消费零售",
+      "id": "industry-20260826-003",
+      "createdAt": "2026-08-26T16:30:00+08:00",
+      "updatedAt": "2026-08-26T16:30:00+08:00"
+    },
     {
       "id": "industry-20260825-002",
       "title": "保险业AI竞赛下半场：机构差异化布局垂类大模型",
@@ -688,96 +732,6 @@
       "url": "https://news.mydrivers.com/1/1143/1143044.htm",
       "subCategory": "公司动态",
       "id": "industry-20260812-070"
-    },
-    {
-      "id": "industry-20260812-071",
-      "title": "乘联分会：2026年7月乘用车批发销量突破2万辆车型共18款，比亚迪包揽冠亚军",
-      "summary": "乘联分会数据显示，2026年7月单月批发销量超2万辆的乘用车车型共18款，较上月减少3款；比亚迪元UP、宋分列前两位，特斯拉Model Y第三，上榜车型绝大多数为新能源车，小米SU7以21044辆排名第16。",
-      "publishedAt": "2026-08-12",
-      "source": "199IT",
-      "url": "http://www.199it.com/archives/1845072.html",
-      "subCategory": "新能源汽车"
-    },
-    {
-      "title": "Counterpoint：2026年全球折叠屏出货量同比增21%，苹果首年份额25%",
-      "summary": "Counterpoint Research预测2026年全球折叠屏手机出货量同比增长21%，苹果首年即拿下约25%市场份额，市场格局将从三星国际领先、华为国内领先转向苹果、三星、华为三足鼎立；苹果折叠机型据报采用台积电2nm A20 Pro芯片，配妐12GB内存，取消Face ID改用侧边指纹识别，预计9月发布会亮相。",
-      "publishedAt": "2026-08-12",
-      "source": "199IT（Counterpoint Research）",
-      "url": "https://www.199it.com/archives/1845076.html",
-      "subCategory": "消费零售",
-      "id": "industry-20260812-072"
-    },
-    {
-      "title": "Gartner：预计2026年全球AI支出将达到2.59万亿美元 同比增长47%",
-      "summary": "Gartner预测2026年全球人工智能支出将达到2.59万亿美元，同比增长47%。AI基础设施支出占比超过45%，AI优化服务器支出五年内预计增长两倍，生成式AI模型使用量预计增长110%。",
-      "publishedAt": "2026-08-12",
-      "source": "199IT",
-      "url": "https://www.199it.com/archives/1832141.html",
-      "subCategory": "行业研报",
-      "id": "industry-20260812-073"
-    },
-    {
-      "title": "Omdia: Middle East smartphone market falls 19% in 2Q26 amid vendors prioritize profitability",
-      "summary": "Omdia数据显示，2026年第二季度中东（不含土耳其）智能手机出货量同比附19%至1060万部，创该地区近三季度最大跌幅；入门机型跌42%，高端机型出货量创同期新高，均价同比涱25%至448美元。",
-      "publishedAt": "2026-08-12",
-      "source": "Omdia",
-      "url": "https://omdia.tech.informa.com/pr/2026/aug/middle-east-smartphone-market-falls-19percent-in-2q26-amid-vendors-prioritize-profitability",
-      "subCategory": "消费零售",
-      "id": "industry-20260812-074"
-    },
-    {
-      "id": "industry-20260812-075",
-      "title": "US Smartphone Sales Fall 5% YoY in Q2 2026 as Pricing Pressure Squeezes Low-end Segment",
-      "summary": "Counterpoint数据显示，2026年第二季度美国智能手机销量同比下降5%，苹果、三星、摩托罗拉、谷歌合计下恇4%，百元以下机型销量骤降64%，中小厂商跌45%。",
-      "publishedAt": "2026-08-12",
-      "source": "Counterpoint Research",
-      "url": "https://counterpointresearch.com/en/insights/us-smartphone-sales-fall-5-percent-q2-2026",
-      "subCategory": "消费零售"
-    },
-    {
-      "title": "乘联分会：7月新能源汽车零售渗透率首次突砠65%，燃油车零售暴跌41%",
-      "summary": "乘联分会数据显示，7月新能源汽车零售渗透率达65.1%，同比提升11.6个百分点；狭义乘用车零售146.1万辆，同比下降20.9%，燃油车零售同比骤降41%，新能源出口91.8万辆，同比增长87.8%。",
-      "publishedAt": "2026-08-11T22:23:00+08:00",
-      "source": "乘联分会（新浪财经转载）",
-      "url": "https://finance.sina.cn/stock/wbstock/2026-08-11/doc-inimyhiz0561563.shtml",
-      "subCategory": "新能源汽车",
-      "id": "industry-20260811-076"
-    },
-    {
-      "id": "industry-20260811-077",
-      "title": "换电业务收入同比增两成，中国铁塔上半年营收达486.93亿元",
-      "summary": "中国铁塔发布2026年中期业绩，上半年营业收入486.93亿元，同比下降1.8%；归属股东净利润74.89亿元，同比增长30.1%。能源业务收入25.91亿元，其中换电业务收入15.95亿元，同比增长20.6%。",
-      "publishedAt": "2026-08-11T20:28:00+08:00",
-      "source": "北京日报客户端",
-      "url": "https://baijiahao.baidu.com/s?id=1873230048723255493",
-      "subCategory": "公司动态"
-    },
-    {
-      "id": "industry-20260811-078",
-      "title": "日系三强2027财年Q1：本田亿4509亿日元同比增长129.3%，日产扇亏",
-      "summary": "据199IT报道，本田汽螦2027财年一季度净利润同比增长129.3%至4509亿日元，营收增至6.0615万亿日元；日产汽车同期营业利润由亏损791亿日元转为盈利779亿日元，净利润扇亏至38亿日元，营收2.9642万亿日元。",
-      "publishedAt": "2026-08-11T20:22:19+08:00",
-      "source": "199IT",
-      "url": "https://www.199it.com/archives/1844959.html",
-      "subCategory": "公司动态"
-    },
-    {
-      "id": "industry-20260811-079",
-      "title": "乘联分会：2026年7月乘用车零售销量前十新能源匿9席，仅1款燃油车",
-      "summary": "乘联分会数据显示，2026年7月乘用车零售销量前十榜单中，星愿以32306辆夺冠，零跑A10、特斯拉Model Y分居二三位；前十车型中仅卡罗拉锐放一款燃油车入围，销量14510辆，新能源车型占据九席。",
-      "publishedAt": "2026-08-11T20:21:58+08:00",
-      "source": "199IT（乘联分会）",
-      "url": "https://www.199it.com/archives/1844912.html",
-      "subCategory": "新能源汽车"
-    },
-    {
-      "id": "industry-20260811-080",
-      "title": "Omdia：2026年Q1翻新手机显示面板出货量2.98亿块，同比增长20%",
-      "summary": "Omdia报告显示，受内存价格上涨及新机需求疲软影响，2026年第一季度出货至二手翻新手机市场的显示面板达2.98亿块，同比增长20%，首次超过同期出货给手机厂商的2.89亿块面板数量。",
-      "publishedAt": "2026-08-11T20:21:46+08:00",
-      "source": "199IT（Omdia）",
-      "url": "https://www.199it.com/archives/1844915.html",
-      "subCategory": "半导体产业"
     }
   ]
 }

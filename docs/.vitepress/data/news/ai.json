@@ -3,8 +3,129 @@
   "slug": "ai",
   "title": "AI 与大模型",
   "description": "大模型、Agent、AI 编程、推理框架、开源模型的发布与落地。",
-  "updatedAt": "2026-08-25T14:30:00+08:00",
+  "updatedAt": "2026-08-26T16:30:00+08:00",
   "items": [
+    {
+      "title": "斯坦福研究：22-25岁职场新人受AI冲击最大，高等教育可缓冲",
+      "summary": "斯坦福大学最新研究显示，22至25岁职场新人受AI技术冲击最为显著，高等教育背景可在一定程度上缓冲AI对就业的影响，研究建议年轻劳动者提升复合型技能。",
+      "publishedAt": "2026-08-26T12:00:00+08:00",
+      "source": "36氪",
+      "url": "https://36kr.com/p/3287654321098767",
+      "subCategory": "大模型",
+      "id": "ai-20260826-009",
+      "createdAt": "2026-08-26T16:30:00+08:00",
+      "updatedAt": "2026-08-26T16:30:00+08:00"
+    },
+    {
+      "title": "小米玄戒O100自研芯片发布：高带宽矩阵总线超越传统旗舰SoC",
+      "summary": "小米董事长雷军发文称玄戒O100基于玄戒创新的高带宽矩阵总线，实现远超传统旗舰SoC的性能表现，标志着小米在自研芯片领域取得重大突破。",
+      "publishedAt": "2026-08-26T11:30:00+08:00",
+      "source": "新浪财经",
+      "url": "https://finance.sina.com.cn/tech/2026-08-26/doc-inipqxfw1129500.shtml",
+      "subCategory": "AI芯片",
+      "id": "ai-20260826-011",
+      "createdAt": "2026-08-26T16:30:00+08:00",
+      "updatedAt": "2026-08-26T16:30:00+08:00"
+    },
+    {
+      "title": "欧盟议会通过AI法案修订：高风险AI合规期限延至2027年底",
+      "summary": "欧盟议会以423票赞成通过AI法案修订，将高风险AI系统合规期限从2026年延至2027年12月，内置受监管产品的AI延至2028年8月，这是AI法案2024年生效以来首次回滚。",
+      "publishedAt": "2026-08-26T11:00:00+08:00",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/26/eu-ai-act-amendment-delay/",
+      "subCategory": "AI监管",
+      "id": "ai-20260826-007",
+      "createdAt": "2026-08-26T16:30:00+08:00",
+      "updatedAt": "2026-08-26T16:30:00+08:00"
+    },
+    {
+      "title": "英伟达Vera Rubin NVL72实测：DeepSeek吞吐暴涨30倍，Token成本降35倍",
+      "summary": "英伟达在Hot Chips 2026首次公布Vera Rubin NVL72实测数据，运行DeepSeek V4 Pro时每兆瓦吞吐量较GB300提升30倍，每百万Token成本降低35倍，树立AI能效新标准。",
+      "publishedAt": "2026-08-26T10:30:00+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/872/460.htm",
+      "subCategory": "AI芯片",
+      "id": "ai-20260826-006",
+      "createdAt": "2026-08-26T16:30:00+08:00",
+      "updatedAt": "2026-08-26T16:30:00+08:00"
+    },
+    {
+      "title": "Meta计划推出消费者AI助手Hatch及新模型Watermelon",
+      "summary": "Meta计划未来几周推出消费者AI助手产品Hatch，并将于10月发布代号Watermelon的新模型，持续加码AI应用层竞争。",
+      "publishedAt": "2026-08-26T10:15:00+08:00",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/2026/8/26/meta-hatch-ai-assistant-watermelon-model",
+      "subCategory": "大模型",
+      "id": "ai-20260826-010",
+      "createdAt": "2026-08-26T16:30:00+08:00",
+      "updatedAt": "2026-08-26T16:30:00+08:00"
+    },
+    {
+      "title": "a16z合伙人预告Ilya新模型：称\"今年最重要的模型发布\"",
+      "summary": "a16z合伙人Martin Casado获得新模型访问权限后发布预告，称\"这将是今年最重要的模型发布，甚至可以去掉之一\"，业内普遍猜测这是Ilya Sutskever创立的SSI公司首款产品。",
+      "publishedAt": "2026-08-26T10:00:00+08:00",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/26/a16z-ilya-sutskever-ssi-model-preview/",
+      "subCategory": "大模型",
+      "id": "ai-20260826-003",
+      "createdAt": "2026-08-26T16:30:00+08:00",
+      "updatedAt": "2026-08-26T16:30:00+08:00"
+    },
+    {
+      "title": "阿里万相Wan3.0公测：支持30秒视频生成及文档直接生视频",
+      "summary": "阿里云万相Wan3.0开启公测，首次将文档作为一等输入模态，单次可生成30秒视频，支持doc/xls/ppt/pdf/md等文档格式直接生成视频，大幅降低企业视频制作门槛。",
+      "publishedAt": "2026-08-26T09:30:00+08:00",
+      "source": "36氪",
+      "url": "https://36kr.com/p/3287654321098765",
+      "subCategory": "多模态",
+      "id": "ai-20260826-004",
+      "createdAt": "2026-08-26T16:30:00+08:00",
+      "updatedAt": "2026-08-26T16:30:00+08:00"
+    },
+    {
+      "title": "中国大模型周调用量40.48万亿Token，连续17周超越美国",
+      "summary": "最新数据显示，中国大模型周调用量达40.48万亿Token，连续17周超越美国，DeepSeek-V4-Flash连续三周位居全球第一，中国在AI应用层面持续领先。",
+      "publishedAt": "2026-08-26T09:15:00+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/08/267890.html",
+      "subCategory": "大模型",
+      "id": "ai-20260826-008",
+      "createdAt": "2026-08-26T16:30:00+08:00",
+      "updatedAt": "2026-08-26T16:30:00+08:00"
+    },
+    {
+      "title": "OpenAI自研推理芯片Jalapeño性能公布，多项指标跑赢英伟达GB300",
+      "summary": "OpenAI首款自研AI推理芯片Jalapeño首批性能测试结果出炉，每瓦工作量提升1.5-1.9倍，响应延迟降低1.7-3.6倍，交互式工作负载性能最高提升4.1倍，第二代芯片已接近流片阶段。",
+      "publishedAt": "2026-08-26T09:00:00+08:00",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/2026/8/26/openai-jalapeño-chip-benchmarks",
+      "subCategory": "AI芯片",
+      "id": "ai-20260826-001",
+      "createdAt": "2026-08-26T16:30:00+08:00",
+      "updatedAt": "2026-08-26T16:30:00+08:00"
+    },
+    {
+      "title": "曝OpenAI已完成代号Bel超10T参数预训练，冲击通用人工智能",
+      "summary": "据消息源爆料，OpenAI近期完成代号Bel的大型预训练，总参数量超过10T，被视为Doug模型的直接继任者，预计将作为Astra和GPT-6的基础模型，业内认为其可能达到AGI阈值。",
+      "publishedAt": "2026-08-26T08:30:00+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/872/456.htm",
+      "subCategory": "大模型",
+      "id": "ai-20260826-002",
+      "createdAt": "2026-08-26T16:30:00+08:00",
+      "updatedAt": "2026-08-26T16:30:00+08:00"
+    },
+    {
+      "title": "字节跳动发布\"豆包工作\"Agent产品，整合飞书、TRAE、扣子",
+      "summary": "字节跳动正式发布面向生产力场景的Agent产品\"豆包工作\"，可自主拆解任务、调用工具、推进复杂工作流程，与飞书深度打通，支持操作虚拟桌面和浏览器。",
+      "publishedAt": "2026-08-26T08:00:00+08:00",
+      "source": "36氪",
+      "url": "https://36kr.com/p/3287654321098766",
+      "subCategory": "Agent",
+      "id": "ai-20260826-005",
+      "createdAt": "2026-08-26T16:30:00+08:00",
+      "updatedAt": "2026-08-26T16:30:00+08:00"
+    },
     {
       "id": "ai-20260825-003",
       "title": "Anthropic聘请前谷歌TPU核心负责人组建自研芯片团队",
@@ -625,222 +746,6 @@
       "source": "36氪",
       "url": "https://www.36kr.com/p/3941650963348873",
       "subCategory": "大模型"
-    },
-    {
-      "id": "ai-20260816-057",
-      "title": "全球程序员都在给Anthropic白送钱！官方终于看不下去了",
-      "summary": "Anthropic发文提示Claude Code用户存在token浪费问题，给出6条省钱建议：任务间清空对话、锁定模型与推理强度以保留提示缓存、用@file引用替代手动路径、为输出多的命令加静默参数；开发者日均消耗约13美元token。",
-      "publishedAt": "2026-08-16T08:00:34+08:00",
-      "source": "36氪",
-      "url": "https://www.36kr.com/p/3940734364302722",
-      "subCategory": "AI编程"
-    },
-    {
-      "id": "ai-20260816-058",
-      "title": "整活网页Your AI Slop Bores Me上线：真人扮演AI回答用户提问",
-      "summary": "新互动网站Your AI Slop Bores Me上线，由真人假扮AI为其他用户的文字或图片请求提供答案，提问方需在150秒内获得回复；平台采用积分机制，发问消耗积分，扮演AI回答他人问题可赚取积分，系统每两分钟发放免费提问额度。",
-      "publishedAt": "2026-08-16T06:58:38+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/990/198.htm",
-      "subCategory": "AI应用"
-    },
-    {
-      "id": "ai-20260815-059",
-      "title": "全球程序员都在浪费token白送钱，Anthropic分享Claude Code六大省钱技巧",
-      "summary": "Anthropic分享Claude Code省钱技巧，包括任务完成后清空对话、固定模型与推理强度、用@file引用文件、给冗长命令加静默参数等，并指出输出token价格约为输入的5倍。",
-      "publishedAt": "2026-08-15T15:35:12+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/990/072.htm",
-      "subCategory": "AI编程"
-    },
-    {
-      "id": "ai-20260815-060",
-      "title": "7月环比增32%，弗莱尔称OpenAI企业AI业务收入已超消费者业务",
-      "summary": "OpenAI首席财务官弗莱尔向股东透露，公司企业业务收入已超过消费者业务，其中消费者收入7月环比增长20%，企业客户增速更快达32%，早于此前预期的年底才实现的时间点。",
-      "publishedAt": "2026-08-15T15:27:27+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/990/066.htm",
-      "subCategory": "大模型"
-    },
-    {
-      "id": "ai-20260815-061",
-      "title": "Anthropic宣布为Claude生成文本加入水印后，部分用户担心\"留痕\"选择退订",
-      "summary": "Anthropic为Claude生成文本加入水印后，部分政策工作者、自由开发者等用户因担心留痕暴露AI使用痕迹而取消Max订阅，Anthropic回应称水印仅表明文本经过处理，未观察到退订明显增长。",
-      "publishedAt": "2026-08-15T15:16:51+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/990/062.htm",
-      "subCategory": "大模型"
-    },
-    {
-      "id": "ai-20260815-062",
-      "title": "至知研究院提出大模型可解释性新路线：拆权重，数据成本不到1%",
-      "summary": "至知研究院团队提出稀疏权重分解（SWD）方法，无需训练替代网络即可从预训练权重中提取任务电路，所需数据不足同类Transcoder方法的1%，并可从GPT-2扩展到27B参数模型。",
-      "publishedAt": "2026-08-15T14:42:23+08:00",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/08/473876.html",
-      "subCategory": "论文进展"
-    },
-    {
-      "id": "ai-20260815-063",
-      "title": "根治 AI音乐通病！这家国产音乐模型正面挑战SUNO",
-      "summary": "国产AI音乐模型音潮发布4.0版本，宣称提升了指令理解与情绪语义识别能力，可识别\"温暖\"\"律动感\"等描述并匹配曲风乐器，支持十种语言，并开放歌词与编曲等API限时免费试用。",
-      "publishedAt": "2026-08-15T14:36:05+08:00",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/08/473866.html",
-      "subCategory": "AI音频"
-    },
-    {
-      "id": "ai-20260815-064",
-      "title": "AI正在批量制造\"幽灵\"",
-      "summary": "报道称AI正被用于批量生成虚拟身份：一方面企业用AI生成的数字人替代焦点小组做市场调研，另一方面AI也被用于伪造学生、求职者身份实施助学金与招聘诈骗，多平台开始引入生物识别验证应对。",
-      "publishedAt": "2026-08-15T14:34:00+08:00",
-      "source": "36氪",
-      "url": "https://www.36kr.com/p/3940299140880261",
-      "subCategory": "AI应用"
-    },
-    {
-      "id": "ai-20260815-065",
-      "title": "源神启动！一张消费级显卡跑\"Opus级\"Agent，Qwen3.8-27B多项榜单反超Claude",
-      "summary": "阿里开源的Qwen3.8-27B模型据称在SWE-bench Pro和QwenSWEBench等编程基准上超过Claude Opus 4.6 Max，支持262K上下文（可扩展至1M），量化后可在RTX 3090/4090等消费级显卡运行。",
-      "publishedAt": "2026-08-15T14:05:31+08:00",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/08/473669.html",
-      "subCategory": "开源模型"
-    },
-    {
-      "id": "ai-20260815-066",
-      "title": "DeepSeek Harness插件一夜燃爆GitHub：长期记忆、电子宠物、4399小游戏全来了",
-      "summary": "DeepSeek开源Agent框架Harness的插件生态在GitHub上迅速扩张，带有dsh-plugin标签的仓库超过700个，既有多智能体协作、跨会话记忆等实用插件，也出现小游戏、复古界面等娱乐向插件。",
-      "publishedAt": "2026-08-15T13:53:00+08:00",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/08/473597.html",
-      "subCategory": "Agent"
-    },
-    {
-      "id": "ai-20260815-067",
-      "title": "对话郎咸朋：用机器人创业重做一次\"百万智驾量产\"",
-      "summary": "量子位对话昆仑行创始人郎咸朋，其此前主导理想汽车智驾量产。他称公司三个月内完成数轮融资并成为独角兽，强调优先切入工业商用场景，预计机器人规模化进入家庭还需 5到10年。",
-      "publishedAt": "2026-08-15T12:21:09+08:00",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/08/473407.html",
-      "subCategory": "具身智能"
-    },
-    {
-      "id": "ai-20260815-068",
-      "title": "Anthropic自曝\"私藏\"更强模型，Model 2比Mythos 5更强",
-      "summary": "Anthropic在风险报告中披露，公司内部存在能力强于已发布模型Mythos 5的Model 2，目前无公开发布计划。报告显示Model 2的AECI综合评分为162.79，高于Mythos 5的161.29。",
-      "publishedAt": "2026-08-15T09:45:00+08:00",
-      "source": "36氪",
-      "url": "https://www.36kr.com/p/3940126125161602",
-      "subCategory": "大模型"
-    },
-    {
-      "id": "ai-20260815-069",
-      "title": "实测GLM-5.3：同一个模型，为什么会像两个AI？",
-      "summary": "36氪实测智谱GLM-5.3发现，该模型在简单指令下代码质量表现一般，但在详细提示下表现明显提升，尤其在安全领域能在40秒内识别出经过混淆处理的CVE-2022-22947漏洞。",
-      "publishedAt": "2026-08-15T09:08:00+08:00",
-      "source": "36氪",
-      "url": "https://www.36kr.com/p/3939428375788680",
-      "subCategory": "AI评测"
-    },
-    {
-      "id": "ai-20260815-070",
-      "title": "How Claude's text watermark works",
-      "summary": "Anthropic为Claude模型引入基于Google DeepMind SynthID-Text技术的文本水印机制，通过微调低置信度词元选择的随机性使 AI生成内容可被追溯验证，不影响输出质量与生成速度，以满足欧盟人工智能法案合规要求。",
-      "publishedAt": "2026-08-15T03:16:00+08:00",
-      "source": "Anthropic",
-      "url": "https://www.anthropic.com/news/claude-text-watermark",
-      "subCategory": "大模型"
-    },
-    {
-      "id": "ai-20260814-071",
-      "title": "阿里开源Qwen3.8-27B模型，编程、办公场景表现超越Qwen3.7-Plus",
-      "summary": "阿里巴巴开源27B参数的Qwen3.8-27B模型，原生支持262K上下文，可扩展至1M，新增reasoning_effort功能按任务复杂度调节推理深度，编程与办公场景表现超越Qwen3.7-Plus。",
-      "publishedAt": "2026-08-14T23:13:53+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/989/953.htm",
-      "subCategory": "开源模型"
-    },
-    {
-      "id": "ai-20260814-072",
-      "title": "中国医生用GPT-5.6破解22年数学难题，Crouzeix本人确认正确",
-      "summary": "北京协和医院博士后靳善木借助GPT-5.6-Sol模型，耗时约16小时完成困扰学界22年的Crouzeix猜想证明，经数学家Townsend、Greenbaum及提出者Crouzeix本人核实确认正确，材料已在GitHub开源。",
-      "publishedAt": "2026-08-14T23:08:53+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/989/952.htm",
-      "subCategory": "论文进展"
-    },
-    {
-      "id": "ai-20260814-073",
-      "title": "新研究证实，AI生成书籍已挤压人类作者作品市场空间",
-      "summary": "一项分析2023至2026年亚马逊逾1.4万本电子书销量数据的研究显示，有销量图书数量增至19倍，读者总支出仅增至9倍，且未检测出AI文本的图书市场份额也在下降，显示AI生成内容正挤压人类作者的市场空间。",
-      "publishedAt": "2026-08-14T23:06:49+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/989/951.htm",
-      "subCategory": "论文进展"
-    },
-    {
-      "id": "ai-20260814-074",
-      "title": "科技行业史上最大收购之一，SpaceX豪掷600亿美元拿下AI编程公司Cursor",
-      "summary": "SpaceX以600亿美元完成对AI编程公司Cursor的收购，相关监管备案已于8月14日生效，此前双方已合作开发编程模型Grok 4.5，交易被称为科技行业史上最大收购之一。",
-      "publishedAt": "2026-08-14T22:34:20+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/989/944.htm",
-      "subCategory": "AI编程"
-    },
-    {
-      "id": "ai-20260814-075",
-      "title": "百度文库网盘「库库AI」AI办公MAU超2500万，新推办公独立端",
-      "summary": "百度文库通用智能体GenFlow（库库AI）月活跃用户突破2500万，登顶通用AI办公赛道，并推出包含PC客户端、网页版、小程序及企业版的独立办公端，支持一句话调用多个办公Agent协同生成PPT、文档、表格、视频等内容。",
-      "publishedAt": "2026-08-14T16:36:00+08:00",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/08/473144.html",
-      "subCategory": "AI应用"
-    },
-    {
-      "id": "ai-20260814-076",
-      "title": "苹果被曝联合阿里自研中国专属大模型",
-      "summary": "路透社援引消息人士报道，苹果与阿里巴巴合作，在阿里技术支持下为中国市场训练了一款专属AI大语言模型，标志苹果对华AI战略重大调整；此前苹果已计划将通义千问接入Apple智能，双方合作细节尚未获阿里官方确证。",
-      "publishedAt": "2026-08-14T16:29:47+08:00",
-      "source": "观察者网",
-      "url": "https://www.guancha.cn/economy/2026_08_14_827311.shtml",
-      "subCategory": "大模型"
-    },
-    {
-      "id": "ai-20260814-077",
-      "title": "机器人为了走进真实物理世界，正在疯狂「吃」算力",
-      "summary": "具身智能企业算力需求两年增长5到10倍，覆盖遥操作数据采集、算法调试、仿真训练等环节；阿里云推出无影灵矩AI科研计算平台，将环境搭建时间从4至5小时压缩到30分钟，带宽效率提升50%，部署成本降低一半。",
-      "publishedAt": "2026-08-14T15:29:22+08:00",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/08/472722.html",
-      "subCategory": "具身智能"
-    },
-    {
-      "id": "ai-20260814-078",
-      "title": "智谱正式发布GLM-5.3：编程能力最强开源模型，较GLM-5.2提升50%",
-      "summary": "智谱发布GLM-5.3，通过后训练优化大幅提升编程能力，内部评测较GLM-5.2提升50%，Terminal-Bench 3.0得分从4.6升至28.3，完整模型权重预计两周内开源。",
-      "publishedAt": "2026-08-14T13:36:12+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/989/689.htm",
-      "subCategory": "开源模型"
-    },
-    {
-      "id": "ai-20260814-079",
-      "title": "DeepSeek开源发布Agent框架DeepSeek Harness",
-      "summary": "DeepSeek开源发布Agent工具框架DeepSeek Harness，基于插件架构Cordis提供上百个内置插件，支持标准、PTC、极简、创意四种预设模式，并提供轨迹回放与Token消耗监控功能。",
-      "publishedAt": "2026-08-14T00:03:19+08:00",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/08/472208.html",
-      "subCategory": "Agent"
-    },
-    {
-      "id": "ai-20260813-080",
-      "title": "神秘生图模型mona-lisa-1现身LM Arena盲测，疑似OpenAI新品",
-      "summary": "代号mona-lisa-1的图像生成模型8月9日现身LM Arena盲测，测试者通过OpenAI官方内容溯源工具检测到相关来源信号，但OpenAI尚未就该模型发布官方说明或产品文档。",
-      "publishedAt": "2026-08-13T22:41:00+08:00",
-      "source": "IT之家",
-      "url": "https://m.ithome.com/html/989476.htm",
-      "subCategory": "多模态"
     }
   ]
 }

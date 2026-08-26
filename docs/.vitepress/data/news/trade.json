@@ -3,8 +3,52 @@
   "slug": "trade",
   "title": "外贸资讯",
   "description": "亚马逊、TikTok Shop、阿里国际站、Shopify 等平台政策与跨境电商市场、独立站、物流支付、关税法规、选品趋势。",
-  "updatedAt": "2026-08-25T14:30:00+08:00",
+  "updatedAt": "2026-08-26T16:30:00+08:00",
   "items": [
+    {
+      "title": "2026年服贸会首设出海服务企业展区，汇集金融法律等30+领域",
+      "summary": "2026年中国国际服务贸易交易会将于9月9日至13日在北京首钢园举办，首次设立出海服务企业展区，汇集金融、法律、会计、广告、人力资源等领域30多家服务机构。",
+      "publishedAt": "2026-08-26T11:00:00+08:00",
+      "source": "新浪新闻",
+      "url": "https://news.sina.com.cn/zx/gj/2026-08-25/doc-inipnpze2447538.shtml",
+      "subCategory": "跨境政策",
+      "id": "trade-20260826-004",
+      "createdAt": "2026-08-26T16:30:00+08:00",
+      "updatedAt": "2026-08-26T16:30:00+08:00"
+    },
+    {
+      "title": "TikTok Shop与米奥会展联合主办AI出海大会，推出AI视频营销方案",
+      "summary": "TikTok Shop与米奥会展控股子公司奥创天下在杭州联合主办AI出海大会，推出星擎AI视频营销解决方案与星帆跨境电商AI操作系统，以B2B获客+B2C出单双引擎组合卡位AI出海。",
+      "publishedAt": "2026-08-26T10:00:00+08:00",
+      "source": "知乎",
+      "url": "https://zhuanlan.zhihu.com/p/2075895486180082443",
+      "subCategory": "平台动态",
+      "id": "trade-20260826-002",
+      "createdAt": "2026-08-26T16:30:00+08:00",
+      "updatedAt": "2026-08-26T16:30:00+08:00"
+    },
+    {
+      "title": "TikTok Shop全托管黑五大促首次覆盖16国，含8个新开欧洲国家",
+      "summary": "TikTok Shop全托管黑五大促季首次覆盖16个国家，包含今年新开的8个欧洲国家，给卖家提供了出海卖全球的新增量机会，卖家可提前布局备战。",
+      "publishedAt": "2026-08-26T09:00:00+08:00",
+      "source": "亿邦动力",
+      "url": "https://www.ebrun.com/20260826/699317.shtml",
+      "subCategory": "平台政策",
+      "id": "trade-20260826-001",
+      "createdAt": "2026-08-26T16:30:00+08:00",
+      "updatedAt": "2026-08-26T16:30:00+08:00"
+    },
+    {
+      "title": "美国海关新规9月18日生效：进口商备案信息不实将导致号码作废",
+      "summary": "美国海关与边境保护局发布新规，自2026年9月18日起将全面审核进口商备案信息准确性，如发现CBP Form 5106表格信息不实将导致进口商号码作废。",
+      "publishedAt": "2026-08-26T08:00:00+08:00",
+      "source": "AMZ123",
+      "url": "https://m.amz123.com/kx",
+      "subCategory": "跨境政策",
+      "id": "trade-20260826-003",
+      "createdAt": "2026-08-26T16:30:00+08:00",
+      "updatedAt": "2026-08-26T16:30:00+08:00"
+    },
     {
       "id": "trade-20260825-001",
       "title": "阿里国际站OKKI Copilot产品动态更新",
@@ -688,69 +732,6 @@
       "source": "AMZ123",
       "url": "https://www.amz123.com/kx/4vSBG152",
       "subCategory": "跨境支付"
-    },
-    {
-      "id": "trade-20260813-074",
-      "title": "美客多巴西本土店推出\"付费经理+免费小助手\"双轨扶持体系",
-      "summary": "美客多巴西本土店推出付费经理与免费小助手双轨扶持体系，付费服务提供中文一对一指导及仓库扩容支持，平台计划下半年在中国14城开展线下招商。",
-      "publishedAt": "2026-08-13T17:31:51+08:00",
-      "source": "AMZ123",
-      "url": "https://www.amz123.com/kx/oiExzLLk",
-      "subCategory": "新兴市场"
-    },
-    {
-      "id": "trade-20260813-075",
-      "title": "我国港口吞吐量周环比下降16.92%",
-      "summary": "据交通运输部物流数据，8月3日至9日我国港口货物吞吐量为23513.2万吨，环比下降16.92%，主因台风影响叠加巴拿马运河拥堵外溢效应。",
-      "publishedAt": "2026-08-13T17:31:50+08:00",
-      "source": "AMZ123",
-      "url": "https://www.amz123.com/kx/3zjL2J9Y",
-      "subCategory": "物流仓储"
-    },
-    {
-      "id": "trade-20260813-076",
-      "title": "Shopee中国台敲8月31日起调整评分规则，等级1/2限制期限延长及等级2/3限品收紧",
-      "summary": "Shopee中国台湾站将自8月31日起调整评分规则，延长等级1、2店铺限制期限，并收紧等级2、3店铺的新品上架、促销及广告参与限制。",
-      "publishedAt": "2026-08-13T17:31:48+08:00",
-      "source": "AMZ123",
-      "url": "https://www.amz123.com/kx/SXWo4Pxk",
-      "subCategory": "平台政策"
-    },
-    {
-      "id": "trade-20260813-077",
-      "title": "26-cv-01674｜Iryna Khroniuk版权TRO横扫三大平台，195店涉案起诉！",
-      "summary": "美国宾夕法尼亚州西区法院受理26-cv-01674号案件，乌克兰插画师Iryna Khroniuk指控195家跨境电商店钺侵犯其植物图案版权，\"Botanical Pattern\"图案涉及50余名被告。",
-      "publishedAt": "2026-08-13T16:52:28+08:00",
-      "source": "雨果网",
-      "url": "https://www.cifnews.com/article/188218",
-      "subCategory": "平台政策"
-    },
-    {
-      "id": "trade-20260813-078",
-      "title": "德国包装法需绑定授权代表，卖家常见9个问题解答！",
-      "summary": "文章解读德国包装法要求非本土企业指定德国授权代表以履行包装生产者责任，涵盖亚马逊德国站、Temu、TikTok Shop收Bay德国站卖家，未合规或面临下架及处罚。",
-      "publishedAt": "2026-08-13T16:49:30+08:00",
-      "source": "雨果网",
-      "url": "https://www.cifnews.com/article/188217",
-      "subCategory": "关税法规"
-    },
-    {
-      "title": "新加坡正式迈入「发票级实时监管」时代：GST InvoiceNow新政解析",
-      "summary": "新加坡GST InvoiceNow电子发票新规基于Peppol网络分阶段实施，企业需通过InvoiceNow同步向税务局IRAS上报发票数据，2031年前覆盖所有GST注册企业，监管方式将从定期申报转向实时发票级数据监控。",
-      "publishedAt": "2026-08-13T16:34:00+08:00",
-      "source": "雨果网",
-      "url": "https://www.cifnews.com/article/188215",
-      "subCategory": "关税法规",
-      "id": "trade-20260813-079"
-    },
-    {
-      "title": "$800直邮免税取消！2026年入境美国的三条清关路径",
-      "summary": "美国800美元小额免税政策已取消，文章梳理三条合规清关路径：T11非正式清关适用2500美元以下包裹、T01正式清关适用大宗发FBA或海外仓货物，以及通过越南、墨西哥等地实质性改变生产降低税率，综合关税可达29%-37.5%。",
-      "publishedAt": "2026-08-13T15:52:00+08:00",
-      "source": "雨果网",
-      "url": "https://www.cifnews.com/article/188214",
-      "subCategory": "关税法规",
-      "id": "trade-20260813-080"
     }
   ]
 }
