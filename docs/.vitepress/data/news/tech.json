@@ -3,8 +3,140 @@
   "slug": "tech",
   "title": "科技新闻",
   "description": "前沿科技、互联网产品、芯片硬件、开源生态。",
-  "updatedAt": "2026-08-26T16:30:00+08:00",
+  "updatedAt": "2026-09-02T18:17:47+08:00",
   "items": [
+    {
+      "title": "Microsoft宣布沙特阿拉伯East Azure云区域将于2026年11月开放",
+      "summary": "Microsoft在LEAP 2026大会上宣布，其沙特阿拉伯East数据中心区域将于2026年11月向客户开放，位于东部省，包含三个Azure可用区。该区域将为沙特政府机构和私营企业提供本地数据驻留、企业级安全和低延迟的云与AI服务访问能力。",
+      "publishedAt": "2026-09-01T00:00:00+08:00",
+      "source": "Yahoo Tech",
+      "url": "https://tech.yahoo.com/ai/copilot/articles/microsoft-open-saudi-arabia-east-133714478.html",
+      "subCategory": "云计算",
+      "id": "tech-20260902-012",
+      "createdAt": "2026-09-02T18:17:47+08:00",
+      "updatedAt": "2026-09-02T18:17:47+08:00"
+    },
+    {
+      "title": "Google发布2026年9月Android Drop更新，Gemini与无障碍功能获增强",
+      "summary": "Google推出2026年9月Android Drop更新，带来五项新功能，涵盖Gemini AI助手增强、无障碍功能改进、出行舒适度优化以及消息应用升级。此次更新延续Google按月推送功能更新的节奏，进一步将AI能力融入Android系统核心体验。",
+      "publishedAt": "2026-09-01T00:00:00+08:00",
+      "source": "Neowin",
+      "url": "https://www.neowin.net/news/google-september-2026-android-drop-brings-several-useful-improvements-for-messages-and-more",
+      "subCategory": "操作系统",
+      "id": "tech-20260902-011",
+      "createdAt": "2026-09-02T18:17:47+08:00",
+      "updatedAt": "2026-09-02T18:17:47+08:00"
+    },
+    {
+      "title": "IFA 2026前瞻：机器人抢C位，Physical AI成消费电子新主线",
+      "summary": "IFA 2026将于9月4日至8日在柏林开幕，主题为未来即是现在。机器人板块成最大亮点，宇树科技、智元机器人、云深处等中国企业参展，Physical AI概念从生成式AI走向物理世界执行。AMD重返IFA，小米和阿里速卖通首次亮相，AI家电进入深水区。",
+      "publishedAt": "2026-08-30T00:00:00+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/997/081.htm",
+      "subCategory": "消费电子",
+      "id": "tech-20260902-010",
+      "createdAt": "2026-09-02T18:17:47+08:00",
+      "updatedAt": "2026-09-02T18:17:47+08:00"
+    },
+    {
+      "title": "Intel在Hot Chips 2026展示三大AI架构：Diamond Rapids、Crescent Island与Wildcat Lake",
+      "summary": "Intel在Hot Chips 2026大会上展示面向Agentic AI的三大架构：Diamond Rapids为下一代Xeon处理器用于高性能AI编排，Crescent Island为数据中心推理GPU配备最高480GB内存，Wildcat Lake已作为Intel Core Series 3上市面向PC和边缘AI。三者基于Intel 18A工艺和Foveros封装技术。",
+      "publishedAt": "2026-08-31T00:00:00+08:00",
+      "source": "Edge AI and Vision Alliance",
+      "url": "https://www.edge-ai-vision.com/2026/08/intel-outlines-architectures-for-agentic-ai-at-hot-chips-2026",
+      "subCategory": "芯片硬件",
+      "id": "tech-20260902-009",
+      "createdAt": "2026-09-02T18:17:47+08:00",
+      "updatedAt": "2026-09-02T18:17:47+08:00"
+    },
+    {
+      "title": "SEMICON Taiwan 2026在台北开幕，聚焦AI供应链与先进封装",
+      "summary": "全球最大半导体展会之一SEMICON Taiwan 2026于9月2日在台北南港展览馆开幕，吸引来自65个国家超1300家展商、4300个展位，预计超10万名专业人士参会。展会聚焦AI供应链、先进封装、硅光子、量子技术和智能制造，设有AI技术专区和HBM存储高管峰会。",
+      "publishedAt": "2026-09-02T00:00:00+08:00",
+      "source": "Focus Taiwan",
+      "url": "https://focustaiwan.tw/sci-tech/202608300005",
+      "subCategory": "芯片硬件",
+      "id": "tech-20260902-008",
+      "createdAt": "2026-09-02T18:17:47+08:00",
+      "updatedAt": "2026-09-02T18:17:47+08:00"
+    },
+    {
+      "title": "黑芝麻智能上半年营收4.58亿元同比增长81.3%，具身智能业务加速成形",
+      "summary": "黑芝麻智能披露2026年中期业绩，营收约4.58亿元同比增长81.3%，毛利约2.27亿元同比增长261.9%，芯片出货超600万片。辅助驾驶业务收入3.951亿元，华山A2000芯片下半年进入量产。具身智能解决方案收入约4720万元，已从验证阶段迈入规模化增长。",
+      "publishedAt": "2026-09-01T13:36:00+08:00",
+      "source": "科创板日报",
+      "url": "https://www.chinastarmarket.cn/detail/2470583",
+      "subCategory": "芯片硬件",
+      "id": "tech-20260902-007",
+      "createdAt": "2026-09-02T18:17:47+08:00",
+      "updatedAt": "2026-09-02T18:17:47+08:00"
+    },
+    {
+      "title": "优必选2026上半年营收12.7亿元，人形机器人销量16123台卫冕全球第一",
+      "summary": "优必选发布2026年中期业绩，总营收12.7亿元同比增长104.2%，人形机器人总销量16123台同比增长268.3%。全尺寸具身智能人形机器人收入5.9亿元同比增长1445%，已成核心增长引擎。公司推进工业、商用、家庭消费三箭齐发战略，与西门子合建万台产能超级智慧工厂。",
+      "publishedAt": "2026-08-28T19:56:00+08:00",
+      "source": "财联社",
+      "url": "https://www.cls.cn/detail/2468108",
+      "subCategory": "机器人",
+      "id": "tech-20260902-006",
+      "createdAt": "2026-09-02T18:17:47+08:00",
+      "updatedAt": "2026-09-02T18:17:47+08:00"
+    },
+    {
+      "title": "小马智行与韩国FutureLink合作，首批200辆第七代自动驾驶出租车将进入韩国市场",
+      "summary": "小马智行与韩国FutureLink签署战略合作协议，计划向韩国市场推出200辆第七代L4级自动驾驶出租车，基于北汽极狐阿尔法T5打造。首批10辆用于韩国认证，一年内追加190辆，目标2028年前后实现首尔完全无人驾驶商业运营。第七代系统套件成本较前代降低70%。",
+      "publishedAt": "2026-08-31T09:23:00+08:00",
+      "source": "财闻",
+      "url": "https://www.caiwennews.com/article/1573300.shtml",
+      "subCategory": "智能汽车",
+      "id": "tech-20260902-005",
+      "createdAt": "2026-09-02T18:17:47+08:00",
+      "updatedAt": "2026-09-02T18:17:47+08:00"
+    },
+    {
+      "title": "Apple宣布9月9日举办iPhone发布会，预计发布iPhone 18 Pro及折叠iPhone",
+      "summary": "Apple宣布将于9月9日在Apple Park举办发布会，主题为Surprise and Shine。预计发布iPhone 18 Pro和iPhone 18 Pro Max、Apple Watch Series 12及新款智能家居设备，同时可能揭晓期待已久的折叠iPhone。这将是John Ternus接任CEO后的首场发布会。",
+      "publishedAt": "2026-08-26T21:00:00+08:00",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/26/apple-is-holding-its-iphone-launch-event-on-september-9",
+      "subCategory": "消费电子",
+      "id": "tech-20260902-004",
+      "createdAt": "2026-09-02T18:17:47+08:00",
+      "updatedAt": "2026-09-02T18:17:47+08:00"
+    },
+    {
+      "title": "燧原科技科创板IPO发行价142.18元/股，9月2日申购",
+      "summary": "国产GPU四小龙之一燧原科技公告科创板IPO发行价142.18元/股，发行4303.52万股，预计募资61.19亿元。公司创立8年来迭代四代架构5款云端AI芯片，预计2026年前三季度营收同比增长325%至455%。资金将用于第五代和第六代AI芯片研发。",
+      "publishedAt": "2026-09-02T00:00:00+08:00",
+      "source": "新华财经",
+      "url": "https://m.cnfin.com/yw-lb//zixun/20260831/4462984_1.html",
+      "subCategory": "芯片硬件",
+      "id": "tech-20260902-003",
+      "createdAt": "2026-09-02T18:17:47+08:00",
+      "updatedAt": "2026-09-02T18:17:47+08:00"
+    },
+    {
+      "title": "长鑫存储LPDDR6内存正式量产，全球首发搭载小米18 Fold",
+      "summary": "长鑫存储宣布LPDDR6内存正式量产，峰值速率达12800Mbps，芯片最高容量16GB，采用1295 Ball POP封装。这是全球LPDDR6产品首次落地商用，中国存储厂商首次在高端内存标准上实现全球首发量产，首发搭载于小米18 Fold折叠旗舰手机。",
+      "publishedAt": "2026-08-29T12:27:00+08:00",
+      "source": "证券时报",
+      "url": "https://www.stcn.com/article/detail/4161405.html",
+      "subCategory": "芯片硬件",
+      "id": "tech-20260902-002",
+      "createdAt": "2026-09-02T18:17:47+08:00",
+      "updatedAt": "2026-09-02T18:17:47+08:00"
+    },
+    {
+      "title": "英伟达斥资35亿美元认购联发科可转债，共建下一代AI计算平台",
+      "summary": "英伟达与联发科联合官宣深化长期合作，英伟达斥资35亿美元认购联发科可转债，为英伟达迄今美国境外最大直接投资。双方合作拓展至AI基础设施、本地AI计算、智能汽车三大板块，联发科定制算力芯片业务将接入英伟达NVLink Fusion平台及NVHBM高带宽内存技术。",
+      "publishedAt": "2026-09-01T00:00:00+08:00",
+      "source": "集邦咨询",
+      "url": "https://www.trendforce.cn/industry-news/semiconductors/20260901-7646.html",
+      "subCategory": "芯片硬件",
+      "id": "tech-20260902-001",
+      "createdAt": "2026-09-02T18:17:47+08:00",
+      "updatedAt": "2026-09-02T18:17:47+08:00"
+    },
     {
       "title": "烽火通信AI算力智造工厂主体落成，高端多模光纤产能将翻番",
       "summary": "烽火通信AI算力智造工厂主体落成，建成后高端多模光纤产能将翻番，为AI数据中心提供更强的光通信基础设施支撑。",
@@ -632,114 +764,6 @@
       "source": "科技日报",
       "url": "https://www.stdaily.com/web/gdxw/2026-08/17/content_564956.html",
       "subCategory": "航空航天"
-    },
-    {
-      "id": "tech-20260817-053",
-      "title": "Unisoc VoLTE Video Call Exploit Chain Can Give Attackers Full Android Kernel Access",
-      "summary": "安全机构SSD Secure Disclosure披露紫光展锐调制解调器固件漏洞，攻击者可通过VoLTE视频通话结合此前RCE漏洞，利用调制解调器与应用处理器共享物理内存的缺陷获得安卓内核完全访问权限，厂商尚未发布补丁。",
-      "publishedAt": "2026-08-17",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/08/unisoc-volte-video-call-exploit-chain.html",
-      "subCategory": "安全漏洞"
-    },
-    {
-      "id": "tech-20260816-054",
-      "title": "微软听劝：新版 Win11 右键菜单预览，设计更简洁、支持添加自定义选项",
-      "summary": "微软在Win11右键菜单预览版中简化设计，默认仅显示常用操作如打开、复制路径等，移除此前引发争议的AI功能，新增自定义开关、OneDrive子菜单及刷新按钮，目前处于实验分支，未来数周将进入Windows预览体验计划测试。",
-      "publishedAt": "2026-08-16T16:12:40+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/990/296.htm",
-      "subCategory": "操作系统"
-    },
-    {
-      "id": "tech-20260816-055",
-      "title": "按键是负责保命的！多家车企用回实体按键：造价远高于大屏",
-      "summary": "据报道，奥迪、奔驰、大众、吉利、比亚迪、长安等多家车企正在新车型中重新采用实体按键，原因是纯触屏方案会延长驾驶员视线离开路面的时间，工信部拟更新汽车操控标准要求安全功能配备实体控制，欧洲2026年新车安全评价体系也将座舱交互纳入评分。",
-      "publishedAt": "2026-08-16T15:48:10+08:00",
-      "source": "快科技",
-      "url": "https://news.mydrivers.com/1/1144/1144078.htm",
-      "subCategory": "智能汽车"
-    },
-    {
-      "id": "tech-20260816-056",
-      "title": "SK海力士SSD发生故障 网友吐槽：故障产品不予换新 仅原价退款",
-      "summary": "有用户反映其SK海力士SSD发生故障后申请保修换新，厂商以库存不足为由拒绝换新，仅按官方保修政策以原价或市场价较低者进行退款，存储芯片涨价期间该政策使早期购买用户获得的赔偿低于当前市场价格。",
-      "publishedAt": "2026-08-16T14:58:00+08:00",
-      "source": "快科技",
-      "url": "https://news.mydrivers.com/1/1144/1144075.htm",
-      "subCategory": "芯片硬件"
-    },
-    {
-      "id": "tech-20260816-057",
-      "title": "长征十二号运载火箭成功发射：卫星互联网低轨24组卫星进入预定轨道",
-      "summary": "中国在海南商业航天发射场使用长征十二号运载火箭，成功将卫星互联网低轨24组卫星送入预定轨道，卫星由航天科技集团五院研制，长征十二号由八院研制，可将至少12吨载荷送入近地轨道，此次为长征系列第663次飞行任务。",
-      "publishedAt": "2026-08-16T14:25:54+08:00",
-      "source": "快科技",
-      "url": "https://news.mydrivers.com/1/1144/1144073.htm",
-      "subCategory": "航空航天"
-    },
-    {
-      "id": "tech-20260816-058",
-      "title": "倍思随身充45W移动电源首发289元：自带两条快充线 支持NFC可视交互",
-      "summary": "倍思推出一款45W快充移动电源，首发价289元，容量20000mAh，随附72cm伸缩线缆与20cm USB-C手柄线均支持45W输出，机身提供USB-C与USB-A接口各一个，配备NFC健康监测功能可显示电池温度、循环次数与健康状态，并采用石墨烯散热设计。",
-      "publishedAt": "2026-08-16T14:02:49+08:00",
-      "source": "快科技",
-      "url": "https://news.mydrivers.com/1/1144/1144069.htm",
-      "subCategory": "消费电子"
-    },
-    {
-      "id": "tech-20260816-059",
-      "title": "WordPress 高风险漏洞\"XSS2Shell\"曝光：黑客可利用登录流程漏洞发起跨站脚本攻击",
-      "summary": "WordPress发布7.0.3安全更新，修复登录页面存在的跨站脚本漏洞CVE-2026-64638（XSS2Shell），因两层过滤规则不一致导致恶意内容绕过净化，目前已被用于攻击全球67个国家超1.1万个网站，官方建议管理员尽快升级并排查异常账号与插件。",
-      "publishedAt": "2026-08-16T10:28:41+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/990/248.htm",
-      "subCategory": "安全漏洞"
-    },
-    {
-      "id": "tech-20260816-060",
-      "title": "大疆Osmo 360 II首销开门红！全渠道销量第一 三大平台霸榜",
-      "summary": "大疆Osmo 360 II全景相机上市首日登顶京东、天猫、抖音三大平台全景相机相关销量榜单，全渠道首日销量排名第一。该产品起售价3299元，支持双1/1.1英寸传感器、8K/60fps录制及1.2亿像素静态照片拍摄。",
-      "publishedAt": "2026-08-16T08:28:55+08:00",
-      "source": "快科技",
-      "url": "https://news.mydrivers.com/1/1144/1144045.htm",
-      "subCategory": "消费电子"
-    },
-    {
-      "id": "tech-20260816-061",
-      "title": "2026 世界机器人大会展位图揭晓：8 月 19 日开幕，宇树科技、优必选等参展",
-      "summary": "2026世界机器人大会展位图公布，大会定于8月19日至23日在北京经济技术开发区举行，设智创馆、智造馆、智合馆等展馆，宇树科技、优必选等人形机器人企业将参展，智创馆展区面积约2万平方米。",
-      "publishedAt": "2026-08-16T08:11:35+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/990/220.htm",
-      "subCategory": "机器人"
-    },
-    {
-      "id": "tech-20260816-062",
-      "title": "9年前钉子户神机还能战！小米6刷上澎湃OS 4：运行还挺流畅",
-      "summary": "有开发者为已发布9年的小米6手机刷入小米澎湃OS 4测试版系统，实测整体运行流畅，部分新特性可正常使用，但该版本仍存在漏洞，不适合作为日常主力机使用。小米6此前已停止官方MIUI 11之后的系统更新。",
-      "publishedAt": "2026-08-16T08:01:17+08:00",
-      "source": "快科技",
-      "url": "https://news.mydrivers.com/1/1144/1144044.htm",
-      "subCategory": "操作系统"
-    },
-    {
-      "id": "tech-20260816-063",
-      "title": "关税高达127.5%也划算！谷歌Waymo自动驾驶公司已买3200辆中国汽车",
-      "summary": "谷歌旗下Waymo自2024年起已进口超3200辆中国吉利极氪电动车用于Robotaxi车队。尽管相关车型需缴纳127.5%关税，含税后单车成本加上自动驾驶硬件仍低于此前采用的捷豊雷I-PACE车型。",
-      "publishedAt": "2026-08-16T07:53:01+08:00",
-      "source": "快科技",
-      "url": "https://news.mydrivers.com/1/1144/1144043.htm",
-      "subCategory": "智能汽车"
-    },
-    {
-      "id": "tech-20260816-064",
-      "title": "小米详解澎程安全设计：标配9个碰撞传感器 电池热失控后不起火、爆炸",
-      "summary": "小米公布澎程车型安全设计细节，车辆前保险杠、前纵梁、前车门、B柱、C柱等位置标配9个碰撞传感器，用于更精确识别碰撞位置和方向。其龙甲电池经55摄氏度满电热安全测试，单体热失控后未出现热扩散、起火或爆炸。",
-      "publishedAt": "2026-08-16T07:26:35+08:00",
-      "source": "快科技",
-      "url": "https://news.mydrivers.com/1/1144/1144042.htm",
-      "subCategory": "智能汽车"
     }
   ]
 }

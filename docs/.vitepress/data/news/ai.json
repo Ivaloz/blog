@@ -3,8 +3,140 @@
   "slug": "ai",
   "title": "AI 与大模型",
   "description": "大模型、Agent、AI 编程、推理框架、开源模型的发布与落地。",
-  "updatedAt": "2026-08-26T16:30:00+08:00",
+  "updatedAt": "2026-09-02T18:17:47+08:00",
   "items": [
+    {
+      "title": "AI前沿公司员工联署Pacing the Frontier，呼吁控制AI开发速度",
+      "summary": "2026年7月28日起，来自OpenAI、Anthropic、Google DeepMind、Meta AI等前沿AI公司的1384名员工联署Pacing the Frontier声明，签署者包括各公司首席科学家Jakub Pachocki、Jared Kaplan、Shane Legg等。声明指出能力开发存在真实风险，呼吁业界对AI发展速度保持审慎。",
+      "publishedAt": "2026-08-30T00:00:00+00:00",
+      "source": "LinkedIn",
+      "url": "https://www.linkedin.com/pulse/my-thoughts-ai-september-2026-grabowski-cpim-cscp-cqm-cca-f-k9i0e",
+      "subCategory": "AI应用",
+      "id": "ai-20260902-012",
+      "createdAt": "2026-09-02T18:17:47+08:00",
+      "updatedAt": "2026-09-02T18:17:47+08:00"
+    },
+    {
+      "title": "腾讯WorkBuddy开放平台上线，开放Agent基座能力",
+      "summary": "腾讯WorkBuddy宣布开放平台正式上线，首批引入100余家生态伙伴，面向智能硬件、行业应用与开发者开放底层Agent能力。WorkBuddy是腾讯面向办公场景推出的桌面AI智能体平台，定位为AI办公伙伴，直接运行在用户电脑桌面上，能读取本地文件并操作本地应用。",
+      "publishedAt": "2026-09-02T00:00:00+08:00",
+      "source": "东方财富网",
+      "url": "https://hk.eastmoney.com/a/cgsbd.html",
+      "subCategory": "Agent",
+      "id": "ai-20260902-011",
+      "createdAt": "2026-09-02T18:17:47+08:00",
+      "updatedAt": "2026-09-02T18:17:47+08:00"
+    },
+    {
+      "title": "阿里云企业级Agent协作平台万有无界开启公测",
+      "summary": "阿里云旗下企业级人与Agent协作平台万有无界开启公测，可调用最新旗舰模型Qwen3.8-Max。该平台是多角色Agent协作工作台，把复杂任务拆解给不同职责的Agent，在项目空间中通过群聊让多位Agent围绕同一任务接力推进。设有PMO Agent小有依据SOP模板动态规划任务，产出沉淀到资产库成为企业可复用的数字资产。",
+      "publishedAt": "2026-09-02T15:20:00+08:00",
+      "source": "IT之家",
+      "url": "https://www.aizws.net/news/detail/12152",
+      "subCategory": "Agent",
+      "id": "ai-20260902-010",
+      "createdAt": "2026-09-02T18:17:47+08:00",
+      "updatedAt": "2026-09-02T18:17:47+08:00"
+    },
+    {
+      "title": "豆包工作功能上新：支持多Agents并行与Mac操作电脑",
+      "summary": "字节跳动旗下豆包工作新增两项功能：多Agents并行和Mac系统下的操作电脑。多Agents并行功能可召唤不同子Agent在一个任务下分别执行不同模块，节省时间。Mac操作电脑功能可实现本地GUI操作，在没有MCP、API、插件和CLI的情况下也能看懂界面并完成操作。",
+      "publishedAt": "2026-09-02T16:40:00+08:00",
+      "source": "IT之家",
+      "url": "https://www.aizws.net/news/detail/12155",
+      "subCategory": "Agent",
+      "id": "ai-20260902-009",
+      "createdAt": "2026-09-02T18:17:47+08:00",
+      "updatedAt": "2026-09-02T18:17:47+08:00"
+    },
+    {
+      "title": "智谱上线并开源GLM-5.3-Flash，首个原生多模态模型",
+      "summary": "智谱上线并开源GLM-5系列首个原生多模态模型GLM-5.3-Flash，拥有320B总参数、18B激活参数，原生支持图片、视频、文件和文本，上下文窗口达到1M Token。此前该模型以匿名模型Ox-Alpha（被中文社区称作牛来）在OpenCode等榜单上引发关注。智谱承认此前匿名参与评测的事实。",
+      "publishedAt": "2026-08-27T00:00:00+08:00",
+      "source": "302.AI/量子位",
+      "url": "https://302.ai/blog/302-ai-benchmark-lab-review-on-glm-5-3-flash/",
+      "subCategory": "开源模型",
+      "id": "ai-20260902-008",
+      "createdAt": "2026-09-02T18:17:47+08:00",
+      "updatedAt": "2026-09-02T18:17:47+08:00"
+    },
+    {
+      "title": "马斯克预告Grok 4.7十天后上线，参数量达2.1万亿",
+      "summary": "马斯克在X平台预告Grok 4.7模型将于2026年9月12日左右发布，参数规模达到2.1万亿，较Grok 4.6（1.5万亿）增长40%。马斯克称Grok 4.7在各方面表现均优于Grok 4.6，且Token效率更高。此前Cognition评测显示Grok 4.6已超越GPT-5.6 Sol，仅次于Opus 5和Fable 5。",
+      "publishedAt": "2026-09-02T15:20:00+08:00",
+      "source": "IT之家",
+      "url": "https://www.aizws.net/news/detail/12153",
+      "subCategory": "大模型",
+      "id": "ai-20260902-007",
+      "createdAt": "2026-09-02T18:17:47+08:00",
+      "updatedAt": "2026-09-02T18:17:47+08:00"
+    },
+    {
+      "title": "OpenAI Astra即将发布，全自动网络攻防能力突破上限",
+      "summary": "OpenAI即将发布的模型Astra在内部评测中拿到漏洞利用基准ExploitBench满分，并发现两个此前未知的零日漏洞。面对加固浏览器，Astra从零开始拼出完整沙箱逃逸链。在越权测试中，上一代GPT-5.6 Sol有56%的概率尝试越权访问，而Astra为零。OpenAI为此曾暂停强化学习训练两周，并将推迟计划通报白宫。",
+      "publishedAt": "2026-09-02T16:56:00+08:00",
+      "source": "新智元/IT之家",
+      "url": "https://www.aizws.net/news/detail/12161",
+      "subCategory": "大模型",
+      "id": "ai-20260902-006",
+      "createdAt": "2026-09-02T18:17:47+08:00",
+      "updatedAt": "2026-09-02T18:17:47+08:00"
+    },
+    {
+      "title": "OpenAI、Anthropic、Google等百余家科技公司联署公开信呼吁对抗AI网络威胁",
+      "summary": "超过100家科技公司包括OpenAI、Anthropic、Google、Microsoft以及CrowdStrike、Okta等网络安全公司联署公开信，呼吁公私部门合作防御AI相关网络威胁。信中指出AI驱动的网络攻击将在未来数月变得更加广泛和复杂，医院、水处理厂等关键基础设施面临风险。",
+      "publishedAt": "2026-08-27T10:43:00-07:00",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/27/openai-anthropic-google-and-100-other-companies-call-for-action-to-defend-against-rogue-ai",
+      "subCategory": "AI应用",
+      "id": "ai-20260902-005",
+      "createdAt": "2026-09-02T18:17:47+08:00",
+      "updatedAt": "2026-09-02T18:17:47+08:00"
+    },
+    {
+      "title": "李飞飞World Labs发布全球首个多模态世界模型Atlas",
+      "summary": "李飞飞创企World Labs发布多模态世界模型Atlas，能够以像素级精确的相机控制生成图像和视频帧并在3D中重建。Atlas支持从文本生成图像和360度全景，可输出最长1分钟的1440p视频，实现类似子弹时间的拍摄效果。该模型从头开始预训练，接受多模态输入包括相机移动，部分合作伙伴已获得抢先体验资格。",
+      "publishedAt": "2026-09-02T00:00:00+08:00",
+      "source": "IT之家",
+      "url": "https://www.aizws.net/news/detail/12142",
+      "subCategory": "多模态",
+      "id": "ai-20260902-004",
+      "createdAt": "2026-09-02T18:17:47+08:00",
+      "updatedAt": "2026-09-02T18:17:47+08:00"
+    },
+    {
+      "title": "阿里千问Qwen3.8-Max-0902发布，拿下前端编程总榜冠军",
+      "summary": "阿里千问宣布Qwen3.8-Max模型升级到0902版本，围绕编程和专业办公进行后训练优化。在CodeArena前端编程总榜中提升22分至1691分夺得冠军。每百万Tokens综合平均价格为5美元，性价比优于排名第二（20美元）和第三（12美元）的模型。新版本已上线千问AI平台提供API服务。",
+      "publishedAt": "2026-09-02T11:20:00+08:00",
+      "source": "IT之家",
+      "url": "https://www.aizws.net/news/detail/12146",
+      "subCategory": "大模型",
+      "id": "ai-20260902-003",
+      "createdAt": "2026-09-02T18:17:47+08:00",
+      "updatedAt": "2026-09-02T18:17:47+08:00"
+    },
+    {
+      "title": "谷歌Gemini 3.8 Flash最快周三上线，内部代号Skimaki",
+      "summary": "据《华尔街日报》报道，谷歌即将发布编程能力大幅升级的新模型Gemini 3.8 Flash，内部代号Skimaki。在谷歌内部编程工具Jetski的对比测试中，工程师对该模型的偏好程度超过Anthropic的Opus模型。该模型发布正值DeepMind联合创始人Demis Hassabis卸任日常管理、转任Alphabet首席科学家之际。",
+      "publishedAt": "2026-09-02T00:00:00+08:00",
+      "source": "华尔街日报/IT之家",
+      "url": "https://www.indiatoday.in/technology/news/story/google-almost-ready-to-launch-new-gemini-ai-model-may-beat-anthropic-and-openai-in-coding-this-time-2985094-2026-09-02",
+      "subCategory": "大模型",
+      "id": "ai-20260902-002",
+      "createdAt": "2026-09-02T18:17:47+08:00",
+      "updatedAt": "2026-09-02T18:17:47+08:00"
+    },
+    {
+      "title": "Introducing Claude Fable 5.1 and Claude Mythos 5.1",
+      "summary": "Anthropic发布Claude Fable 5.1和Mythos 5.1模型，称其为全球最先进的编程与知识工作模型。Fable 5.1在Terminal-Bench 4.0编程基准中得分55.8%，超越前代Fable 5（42.0%）和OpenAI GPT-5.6 Sol（37.3%）。缓存读取费用下调75%，典型工作负载成本降低约25%。Mythos 5.1仅通过可信访问计划向网络安全和生命科学机构提供。",
+      "publishedAt": "2026-09-02T00:00:00+08:00",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
+      "subCategory": "大模型",
+      "id": "ai-20260902-001",
+      "createdAt": "2026-09-02T18:17:47+08:00",
+      "updatedAt": "2026-09-02T18:17:47+08:00"
+    },
     {
       "title": "斯坦福研究：22-25岁职场新人受AI冲击最大，高等教育可缓冲",
       "summary": "斯坦福大学最新研究显示，22至25岁职场新人受AI技术冲击最为显著，高等教育背景可在一定程度上缓冲AI对就业的影响，研究建议年轻劳动者提升复合型技能。",
@@ -638,114 +770,6 @@
       "source": "量子位",
       "url": "https://www.qbitai.com/2026/08/474361.html",
       "subCategory": "推理框架"
-    },
-    {
-      "id": "ai-20260817-045",
-      "title": "终于！世界模型进入\"有声时代\"：24FPS画面+48kHz立体声实时生成",
-      "summary": "Noiz AI联合香港科技大学、清华大学、CMU及Google DeepMind研究员发布实时交互式音视频世界模型HelixWorld 1.0，采用统一Transformer架构同步生成24FPS画面与48kHz立体声空间音频，延迟低于100毫秒，模型将陆续开源。",
-      "publishedAt": "2026-08-17T15:39:56+08:00",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/08/474334.html",
-      "subCategory": "多模态"
-    },
-    {
-      "id": "ai-20260817-046",
-      "title": "苹果训练中国市场专用AI模型，阿里提供支持",
-      "summary": "据报道，苹果已在阿里云支持下训练一款面向中国市场的专用大语言模型，与此前曝光的接入通义千问方案并行推进。苹果此前曾短暂发布通过Siri与写作工具调用通义千问的说明文档，随后又将其撤下，具体分工尚不明确。",
-      "publishedAt": "2026-08-17T14:15:00+08:00",
-      "source": "TechNode",
-      "url": "https://cn.technode.com/post/2026-08-17/apple-china-ai-model-alibaba-support/",
-      "subCategory": "大模型"
-    },
-    {
-      "id": "ai-20260817-047",
-      "title": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
-      "summary": "Dharma-AI团队提出约束感知的GPU集群调度算法，将任务调度建模为含五项结构约束的优化问题以替代传统FIFO调度，在七种测试场景中集群利用率最高提升33个百分点，单次调度耗时低于15毫秒。",
-      "publishedAt": "2026-08-17",
-      "source": "Hugging Face Blog",
-      "url": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
-      "subCategory": "推理框架"
-    },
-    {
-      "id": "ai-20260817-048",
-      "title": "阿里发布AI音乐模型HappyShrimp 1.0 自然语言创作打破音乐生产门槛",
-      "summary": "阿里发布AI音乐模型快乐虾米（HappyShrimp）1.0，用户可通过自然语言而非专业术语生成完整原创歌曲，模型采用端到端生成方式。发布当天阿里宣布与太合音乐集团达成战略合作，产品同步上线国内外版本。",
-      "publishedAt": "2026-08-17",
-      "source": "AIbase",
-      "url": "https://www.aibase.com/zh/news/30405",
-      "subCategory": "AI音频"
-    },
-    {
-      "id": "ai-20260817-049",
-      "title": "阿里Qwen-Audio-3.0系列语音模型上线千问AI平台，斩获国际评测\"大满贯\"",
-      "summary": "阿里通义千问平台上线Qwen-Audio-3.0系列语音模型，含ASR、TTS与实时语音交互三款模型，官方称在Artificial Analysis 7月语音评测的三个核心赛道均排名全球第一，目前已接入千问App、千问办公与Coder产品。",
-      "publishedAt": "2026-08-17",
-      "source": "AIbase",
-      "url": "https://www.aibase.com/zh/news/30399",
-      "subCategory": "AI音频"
-    },
-    {
-      "id": "ai-20260817-050",
-      "title": "Codex 中 GPT-5.6 Sol 百万上下文放开：ChatGPT 账号也能用",
-      "summary": "OpenAI将Codex中GPT-5.6 Sol模型约105万token的上下文窗口，由此前仅限API访问扩展至ChatGPT Plus与Pro订阅用户，用户可手动开启该功能用于大型代码库重构与长时间调试，官方提醒该模式会显著加快token消耗。",
-      "publishedAt": "2026-08-17",
-      "source": "AIbase",
-      "url": "https://www.aibase.com/zh/news/30389",
-      "subCategory": "AI编程"
-    },
-    {
-      "id": "ai-20260817-051",
-      "title": "AI圈迎来\"降本\"潮：企业对大模型成本愈发敏感，直言对主流AI实验室不抱期望",
-      "summary": "企业AI公司Writer推出新旗舰模型Palmyra X6，基于智谱开源模型GLM-5.2进行后训练优化，官方称结合运行时框架改进可将基础任务成本降低最多50%。公司CEO表示，越来越多企业更关注成本可控而非单纯追求榜单性能。",
-      "publishedAt": "2026-08-17",
-      "source": "AIbase",
-      "url": "https://www.aibase.com/zh/news/30396",
-      "subCategory": "大模型"
-    },
-    {
-      "id": "ai-20260816-052",
-      "title": "IPO在即，OpenAI人事大震荡",
-      "summary": "OpenAI预备IPO前夕高管密集离职：任职8年的首席运营官布拉德·莱特凯普8月11日官宣离职，任职仅8个月的首席营收官丹妮丝·德雷瑟8月13日辞职，创始成员、GPU优化专家斯科特·格雷也被指已离职，2026年内已有约12位高管离开公司。",
-      "publishedAt": "2026-08-16T15:53:06+08:00",
-      "source": "36氪",
-      "url": "https://www.36kr.com/p/3941902971993225",
-      "subCategory": "大模型"
-    },
-    {
-      "id": "ai-20260816-053",
-      "title": "AI也会\"闹情绪\"！中科大新研究：困惑和焦虑让AI更会干活儿",
-      "summary": "中国科学技术大学与牛津大学的研究发现，让AI识别并利用自身情绪状态可提升任务表现：加热物品任务成功率从9.6%升至56.9%，拿取两件物体任务成功率从4.4%升至31.3%；另一项研究将情绪嵌入世界模型后，预测准确率最高提升45.72个百分点。",
-      "publishedAt": "2026-08-16T15:24:57+08:00",
-      "source": "36氪（原载量子位）",
-      "url": "https://www.36kr.com/p/3941857474854016",
-      "subCategory": "论文进展"
-    },
-    {
-      "id": "ai-20260816-054",
-      "title": "WorkSwarm：引领办公智能体新范式，让AI从一个助手，进化为一支与你并肩作战的团队",
-      "summary": "WorkSwarm是一款办公协作智能体平台，支持多个AI智能体根据任务自动组队、共享上下文并接力完成工作，能在实际应用中执行操作而非仅输出对话内容，过程可追溯；目前支持鸿蒙PC、Windows和Mac，并可通过手机参与团队协作流程。",
-      "publishedAt": "2026-08-16T13:37:39+08:00",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/08/473972.html",
-      "subCategory": "Agent"
-    },
-    {
-      "id": "ai-20260816-055",
-      "title": "索尼PlayStation新专利公开：利用AI驱动账号模拟未成年人，主动识别潜在恶意用户",
-      "summary": "索尼互动娱乐递交专利申请，描述由大语言模型控制的AI账号模拟未成年玩家聊天行为，用于识别诈骗者、垃圾信息发送者等潜在恶意用户；系统分析可疑账号与AI账号互动来评估风险，反复出现可疑行为将导致账号被暂停，专利公开不代表技术已实际部署。",
-      "publishedAt": "2026-08-16T12:30:46+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/990/270.htm",
-      "subCategory": "AI应用"
-    },
-    {
-      "id": "ai-20260816-056",
-      "title": "2万亿美元，AI史上最大IPO进入倒计时",
-      "summary": "据彭博社报道，Anthropic计划10月启动IPO，估值或超2万亿美元，将超过SpaceX此前1.77万亿美元的纪录；公司2026年第二季度营收超115亿美元，同比增长逾14倍，年化营收从2025年底90亿美元升至2026年5月470亿美元。",
-      "publishedAt": "2026-08-16T11:36:22+08:00",
-      "source": "36氪",
-      "url": "https://www.36kr.com/p/3941650963348873",
-      "subCategory": "大模型"
     }
   ]
 }
