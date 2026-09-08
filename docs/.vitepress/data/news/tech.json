@@ -3,8 +3,96 @@
   "slug": "tech",
   "title": "科技新闻",
   "description": "前沿科技、互联网产品、芯片硬件、开源生态。",
-  "updatedAt": "2026-09-02T18:17:47+08:00",
+  "updatedAt": "2026-09-08T17:09:34+08:00",
   "items": [
+    {
+      "title": "苹果规划AI安防摄影机",
+      "summary": "彭博社爆料，苹果正设计一款主打隐私保护的家用安防摄影机，计划利用AI监测环境而非直接记录影音，预计2027年发布。",
+      "publishedAt": "2026-09-05T10:00:00+08:00",
+      "source": "金色财经",
+      "url": "https://m.cnyes.com/news/id/6598842",
+      "subCategory": "",
+      "id": "tech-20260905-001",
+      "createdAt": "2026-09-08T17:09:34+08:00",
+      "updatedAt": "2026-09-08T17:09:34+08:00"
+    },
+    {
+      "title": "腾讯WorkBuddy开放平台上线",
+      "summary": "放Agent底座，接30+品牌智能硬件，开Skill/Expert/Connector三能力，覆盖金融/法律/医疗20余场景。",
+      "publishedAt": "2026-09-03T13:00:00+08:00",
+      "source": "股吧",
+      "url": "https://mguba.eastmoney.com/mguba/article/0/1768006904",
+      "subCategory": "",
+      "id": "tech-20260903-004",
+      "createdAt": "2026-09-08T17:09:34+08:00",
+      "updatedAt": "2026-09-08T17:09:34+08:00"
+    },
+    {
+      "title": "国产AI芯片百万颗缺口延续，交付排至3年后",
+      "summary": "2026需求约400万颗/交付300万颗，寒武纪、摩尔线程、壁仞营收高增，科创AI ETF单日拉3.72%。",
+      "publishedAt": "2026-09-03T12:00:00+08:00",
+      "source": "股吧",
+      "url": "https://mguba.eastmoney.com/mguba/article/0/1768006904",
+      "subCategory": "",
+      "id": "tech-20260903-003",
+      "createdAt": "2026-09-08T17:09:34+08:00",
+      "updatedAt": "2026-09-08T17:09:34+08:00"
+    },
+    {
+      "title": "我国牵头全球首个腿式机器人国际标准发布",
+      "summary": "覆盖楼梯/坡面/越障真实场景评价体系，人形机器人\"量产元年\"配套规则落地，上半年国人形机出货破4万台。",
+      "publishedAt": "2026-09-03T11:00:00+08:00",
+      "source": "股吧",
+      "url": "https://mguba.eastmoney.com/mguba/article/0/1768006904",
+      "subCategory": "",
+      "id": "tech-20260903-002",
+      "createdAt": "2026-09-08T17:09:34+08:00",
+      "updatedAt": "2026-09-08T17:09:34+08:00"
+    },
+    {
+      "title": "特斯拉Cybercab今日奥斯汀发布：无方向盘L5 Robotaxi",
+      "summary": "首款原生无人驾驶量产车，取消方向盘/踏板，接入本地无人出行网，目标价<3万美元。",
+      "publishedAt": "2026-09-03T10:00:00+08:00",
+      "source": "股吧",
+      "url": "https://mguba.eastmoney.com/mguba/article/0/1768006904",
+      "subCategory": "",
+      "id": "tech-20260903-001",
+      "createdAt": "2026-09-08T17:09:34+08:00",
+      "updatedAt": "2026-09-08T17:09:34+08:00"
+    },
+    {
+      "title": "SEMICON Taiwan 2026在台北开幕，聚焦AI供应链与先进封装",
+      "summary": "全球最大半导体展会之一SEMICON Taiwan 2026于9月2日在台北南港展览馆开幕，吸引来自65个国家超1300家展商、4300个展位，预计超10万名专业人士参会。展会聚焦AI供应链、先进封装、硅光子、量子技术和智能制造，设有AI技术专区和HBM存储高管峰会。",
+      "publishedAt": "2026-09-02T00:00:00+08:00",
+      "source": "Focus Taiwan",
+      "url": "https://focustaiwan.tw/sci-tech/202608300005",
+      "subCategory": "芯片硬件",
+      "id": "tech-20260902-008",
+      "createdAt": "2026-09-02T18:17:47+08:00",
+      "updatedAt": "2026-09-02T18:17:47+08:00"
+    },
+    {
+      "title": "燧原科技科创板IPO发行价142.18元/股，9月2日申购",
+      "summary": "国产GPU四小龙之一燧原科技公告科创板IPO发行价142.18元/股，发行4303.52万股，预计募资61.19亿元。公司创立8年来迭代四代架构5款云端AI芯片，预计2026年前三季度营收同比增长325%至455%。资金将用于第五代和第六代AI芯片研发。",
+      "publishedAt": "2026-09-02T00:00:00+08:00",
+      "source": "新华财经",
+      "url": "https://m.cnfin.com/yw-lb//zixun/20260831/4462984_1.html",
+      "subCategory": "芯片硬件",
+      "id": "tech-20260902-003",
+      "createdAt": "2026-09-02T18:17:47+08:00",
+      "updatedAt": "2026-09-02T18:17:47+08:00"
+    },
+    {
+      "title": "黑芝麻智能上半年营收4.58亿元同比增长81.3%，具身智能业务加速成形",
+      "summary": "黑芝麻智能披露2026年中期业绩，营收约4.58亿元同比增长81.3%，毛利约2.27亿元同比增长261.9%，芯片出货超600万片。辅助驾驶业务收入3.951亿元，华山A2000芯片下半年进入量产。具身智能解决方案收入约4720万元，已从验证阶段迈入规模化增长。",
+      "publishedAt": "2026-09-01T13:36:00+08:00",
+      "source": "科创板日报",
+      "url": "https://www.chinastarmarket.cn/detail/2470583",
+      "subCategory": "芯片硬件",
+      "id": "tech-20260902-007",
+      "createdAt": "2026-09-02T18:17:47+08:00",
+      "updatedAt": "2026-09-02T18:17:47+08:00"
+    },
     {
       "title": "Microsoft宣布沙特阿拉伯East Azure云区域将于2026年11月开放",
       "summary": "Microsoft在LEAP 2026大会上宣布，其沙特阿拉伯East数据中心区域将于2026年11月向客户开放，位于东部省，包含三个Azure可用区。该区域将为沙特政府机构和私营企业提供本地数据驻留、企业级安全和低延迟的云与AI服务访问能力。",
@@ -28,57 +116,13 @@
       "updatedAt": "2026-09-02T18:17:47+08:00"
     },
     {
-      "title": "IFA 2026前瞻：机器人抢C位，Physical AI成消费电子新主线",
-      "summary": "IFA 2026将于9月4日至8日在柏林开幕，主题为未来即是现在。机器人板块成最大亮点，宇树科技、智元机器人、云深处等中国企业参展，Physical AI概念从生成式AI走向物理世界执行。AMD重返IFA，小米和阿里速卖通首次亮相，AI家电进入深水区。",
-      "publishedAt": "2026-08-30T00:00:00+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/997/081.htm",
-      "subCategory": "消费电子",
-      "id": "tech-20260902-010",
-      "createdAt": "2026-09-02T18:17:47+08:00",
-      "updatedAt": "2026-09-02T18:17:47+08:00"
-    },
-    {
-      "title": "Intel在Hot Chips 2026展示三大AI架构：Diamond Rapids、Crescent Island与Wildcat Lake",
-      "summary": "Intel在Hot Chips 2026大会上展示面向Agentic AI的三大架构：Diamond Rapids为下一代Xeon处理器用于高性能AI编排，Crescent Island为数据中心推理GPU配备最高480GB内存，Wildcat Lake已作为Intel Core Series 3上市面向PC和边缘AI。三者基于Intel 18A工艺和Foveros封装技术。",
-      "publishedAt": "2026-08-31T00:00:00+08:00",
-      "source": "Edge AI and Vision Alliance",
-      "url": "https://www.edge-ai-vision.com/2026/08/intel-outlines-architectures-for-agentic-ai-at-hot-chips-2026",
+      "title": "英伟达斥资35亿美元认购联发科可转债，共建下一代AI计算平台",
+      "summary": "英伟达与联发科联合官宣深化长期合作，英伟达斥资35亿美元认购联发科可转债，为英伟达迄今美国境外最大直接投资。双方合作拓展至AI基础设施、本地AI计算、智能汽车三大板块，联发科定制算力芯片业务将接入英伟达NVLink Fusion平台及NVHBM高带宽内存技术。",
+      "publishedAt": "2026-09-01T00:00:00+08:00",
+      "source": "集邦咨询",
+      "url": "https://www.trendforce.cn/industry-news/semiconductors/20260901-7646.html",
       "subCategory": "芯片硬件",
-      "id": "tech-20260902-009",
-      "createdAt": "2026-09-02T18:17:47+08:00",
-      "updatedAt": "2026-09-02T18:17:47+08:00"
-    },
-    {
-      "title": "SEMICON Taiwan 2026在台北开幕，聚焦AI供应链与先进封装",
-      "summary": "全球最大半导体展会之一SEMICON Taiwan 2026于9月2日在台北南港展览馆开幕，吸引来自65个国家超1300家展商、4300个展位，预计超10万名专业人士参会。展会聚焦AI供应链、先进封装、硅光子、量子技术和智能制造，设有AI技术专区和HBM存储高管峰会。",
-      "publishedAt": "2026-09-02T00:00:00+08:00",
-      "source": "Focus Taiwan",
-      "url": "https://focustaiwan.tw/sci-tech/202608300005",
-      "subCategory": "芯片硬件",
-      "id": "tech-20260902-008",
-      "createdAt": "2026-09-02T18:17:47+08:00",
-      "updatedAt": "2026-09-02T18:17:47+08:00"
-    },
-    {
-      "title": "黑芝麻智能上半年营收4.58亿元同比增长81.3%，具身智能业务加速成形",
-      "summary": "黑芝麻智能披露2026年中期业绩，营收约4.58亿元同比增长81.3%，毛利约2.27亿元同比增长261.9%，芯片出货超600万片。辅助驾驶业务收入3.951亿元，华山A2000芯片下半年进入量产。具身智能解决方案收入约4720万元，已从验证阶段迈入规模化增长。",
-      "publishedAt": "2026-09-01T13:36:00+08:00",
-      "source": "科创板日报",
-      "url": "https://www.chinastarmarket.cn/detail/2470583",
-      "subCategory": "芯片硬件",
-      "id": "tech-20260902-007",
-      "createdAt": "2026-09-02T18:17:47+08:00",
-      "updatedAt": "2026-09-02T18:17:47+08:00"
-    },
-    {
-      "title": "优必选2026上半年营收12.7亿元，人形机器人销量16123台卫冕全球第一",
-      "summary": "优必选发布2026年中期业绩，总营收12.7亿元同比增长104.2%，人形机器人总销量16123台同比增长268.3%。全尺寸具身智能人形机器人收入5.9亿元同比增长1445%，已成核心增长引擎。公司推进工业、商用、家庭消费三箭齐发战略，与西门子合建万台产能超级智慧工厂。",
-      "publishedAt": "2026-08-28T19:56:00+08:00",
-      "source": "财联社",
-      "url": "https://www.cls.cn/detail/2468108",
-      "subCategory": "机器人",
-      "id": "tech-20260902-006",
+      "id": "tech-20260902-001",
       "createdAt": "2026-09-02T18:17:47+08:00",
       "updatedAt": "2026-09-02T18:17:47+08:00"
     },
@@ -94,24 +138,24 @@
       "updatedAt": "2026-09-02T18:17:47+08:00"
     },
     {
-      "title": "Apple宣布9月9日举办iPhone发布会，预计发布iPhone 18 Pro及折叠iPhone",
-      "summary": "Apple宣布将于9月9日在Apple Park举办发布会，主题为Surprise and Shine。预计发布iPhone 18 Pro和iPhone 18 Pro Max、Apple Watch Series 12及新款智能家居设备，同时可能揭晓期待已久的折叠iPhone。这将是John Ternus接任CEO后的首场发布会。",
-      "publishedAt": "2026-08-26T21:00:00+08:00",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/26/apple-is-holding-its-iphone-launch-event-on-september-9",
-      "subCategory": "消费电子",
-      "id": "tech-20260902-004",
+      "title": "Intel在Hot Chips 2026展示三大AI架构：Diamond Rapids、Crescent Island与Wildcat Lake",
+      "summary": "Intel在Hot Chips 2026大会上展示面向Agentic AI的三大架构：Diamond Rapids为下一代Xeon处理器用于高性能AI编排，Crescent Island为数据中心推理GPU配备最高480GB内存，Wildcat Lake已作为Intel Core Series 3上市面向PC和边缘AI。三者基于Intel 18A工艺和Foveros封装技术。",
+      "publishedAt": "2026-08-31T00:00:00+08:00",
+      "source": "Edge AI and Vision Alliance",
+      "url": "https://www.edge-ai-vision.com/2026/08/intel-outlines-architectures-for-agentic-ai-at-hot-chips-2026",
+      "subCategory": "芯片硬件",
+      "id": "tech-20260902-009",
       "createdAt": "2026-09-02T18:17:47+08:00",
       "updatedAt": "2026-09-02T18:17:47+08:00"
     },
     {
-      "title": "燧原科技科创板IPO发行价142.18元/股，9月2日申购",
-      "summary": "国产GPU四小龙之一燧原科技公告科创板IPO发行价142.18元/股，发行4303.52万股，预计募资61.19亿元。公司创立8年来迭代四代架构5款云端AI芯片，预计2026年前三季度营收同比增长325%至455%。资金将用于第五代和第六代AI芯片研发。",
-      "publishedAt": "2026-09-02T00:00:00+08:00",
-      "source": "新华财经",
-      "url": "https://m.cnfin.com/yw-lb//zixun/20260831/4462984_1.html",
-      "subCategory": "芯片硬件",
-      "id": "tech-20260902-003",
+      "title": "IFA 2026前瞻：机器人抢C位，Physical AI成消费电子新主线",
+      "summary": "IFA 2026将于9月4日至8日在柏林开幕，主题为未来即是现在。机器人板块成最大亮点，宇树科技、智元机器人、云深处等中国企业参展，Physical AI概念从生成式AI走向物理世界执行。AMD重返IFA，小米和阿里速卖通首次亮相，AI家电进入深水区。",
+      "publishedAt": "2026-08-30T00:00:00+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/997/081.htm",
+      "subCategory": "消费电子",
+      "id": "tech-20260902-010",
       "createdAt": "2026-09-02T18:17:47+08:00",
       "updatedAt": "2026-09-02T18:17:47+08:00"
     },
@@ -127,13 +171,24 @@
       "updatedAt": "2026-09-02T18:17:47+08:00"
     },
     {
-      "title": "英伟达斥资35亿美元认购联发科可转债，共建下一代AI计算平台",
-      "summary": "英伟达与联发科联合官宣深化长期合作，英伟达斥资35亿美元认购联发科可转债，为英伟达迄今美国境外最大直接投资。双方合作拓展至AI基础设施、本地AI计算、智能汽车三大板块，联发科定制算力芯片业务将接入英伟达NVLink Fusion平台及NVHBM高带宽内存技术。",
-      "publishedAt": "2026-09-01T00:00:00+08:00",
-      "source": "集邦咨询",
-      "url": "https://www.trendforce.cn/industry-news/semiconductors/20260901-7646.html",
-      "subCategory": "芯片硬件",
-      "id": "tech-20260902-001",
+      "title": "优必选2026上半年营收12.7亿元，人形机器人销量16123台卫冕全球第一",
+      "summary": "优必选发布2026年中期业绩，总营收12.7亿元同比增长104.2%，人形机器人总销量16123台同比增长268.3%。全尺寸具身智能人形机器人收入5.9亿元同比增长1445%，已成核心增长引擎。公司推进工业、商用、家庭消费三箭齐发战略，与西门子合建万台产能超级智慧工厂。",
+      "publishedAt": "2026-08-28T19:56:00+08:00",
+      "source": "财联社",
+      "url": "https://www.cls.cn/detail/2468108",
+      "subCategory": "机器人",
+      "id": "tech-20260902-006",
+      "createdAt": "2026-09-02T18:17:47+08:00",
+      "updatedAt": "2026-09-02T18:17:47+08:00"
+    },
+    {
+      "title": "Apple宣布9月9日举办iPhone发布会，预计发布iPhone 18 Pro及折叠iPhone",
+      "summary": "Apple宣布将于9月9日在Apple Park举办发布会，主题为Surprise and Shine。预计发布iPhone 18 Pro和iPhone 18 Pro Max、Apple Watch Series 12及新款智能家居设备，同时可能揭晓期待已久的折叠iPhone。这将是John Ternus接任CEO后的首场发布会。",
+      "publishedAt": "2026-08-26T21:00:00+08:00",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/26/apple-is-holding-its-iphone-launch-event-on-september-9",
+      "subCategory": "消费电子",
+      "id": "tech-20260902-004",
       "createdAt": "2026-09-02T18:17:47+08:00",
       "updatedAt": "2026-09-02T18:17:47+08:00"
     },
@@ -719,51 +774,6 @@
       "source": "IT之家",
       "url": "https://www.ithome.com/0/990/852.htm",
       "subCategory": "智能汽车"
-    },
-    {
-      "id": "tech-20260817-048",
-      "title": "2026年显卡涨价不同于矿卡：显存成本短期降不下来",
-      "summary": "报道称本轮显卡涨价源于AI驱动的存储需求，RTX 5090等型号加价超50%甚至达135%，GDDR7显存价格高企，32GB显存成本约320美元，业内预计价格将维持高位至2030年，与此前矿卡周期不同。",
-      "publishedAt": "2026-08-17T22:29:00+08:00",
-      "source": "新浪科技",
-      "url": "https://finance.sina.com.cn/tech/roll/2026-08-17/doc-ininruyf6830837.shtml",
-      "subCategory": "芯片硬件"
-    },
-    {
-      "id": "tech-20260817-049",
-      "title": "代码量突破4300万行！Linux 7.2稳定版正式发布：AMD HDMI 2.1终获支持",
-      "summary": "Linus Torvalds正式发布Linux 7.2稳定版内核，代码量突破4300万行，新增缓存感知调度、USB4协议支持，AMD GPU驱动首次支持HDMI 2.1 FRL，Intel Xe驱动也迎来更新，将成为Ubuntu 26.10等发行版基础。",
-      "publishedAt": "2026-08-17T14:47:00+08:00",
-      "source": "快科技",
-      "url": "https://news.mydrivers.com/1/1144/1144242.htm",
-      "subCategory": "操作系统"
-    },
-    {
-      "id": "tech-20260817-050",
-      "title": "宇树科技发布\"超人\"",
-      "summary": "宇树科技推出人形机器人\"超人\"，腿长0.85米，原地纵跳可达2米，极限奔跑速度12.66米/秒，均超过现有人类纪录。公司称整机历时约三个多月研发完成，后续仍有较大优化空间。",
-      "publishedAt": "2026-08-17T14:41:00+08:00",
-      "source": "36氪",
-      "url": "https://www.36kr.com/newsflashes/3943249742806403",
-      "subCategory": "机器人"
-    },
-    {
-      "id": "tech-20260817-051",
-      "title": "全球首个具身Physical AI开源生态将于9月2日发布",
-      "summary": "乐相科技旗下Zeroth元点机器人宣布，全球首个具身Physical AI开源生态OpenBridge将于9月2日发布。其人形机器人Zeroth M1预订单已近3万台，正式交付计划于12月启动。",
-      "publishedAt": "2026-08-17T12:11:00+08:00",
-      "source": "CNMO",
-      "url": "https://ai.cnmo.com/news/816139.html",
-      "subCategory": "开源生态"
-    },
-    {
-      "id": "tech-20260817-052",
-      "title": "我国成功发射SEO卫星",
-      "summary": "北京时间8月17日11时02分，我国在太原卫星发射中心使用长征二号丙运载火箭成功发射SEO卫星，卫星顺利进入预定轨道，发射任务圆满成功，为长征系列运载火箭第664次飞行。",
-      "publishedAt": "2026-08-17T11:54:22+08:00",
-      "source": "科技日报",
-      "url": "https://www.stdaily.com/web/gdxw/2026-08/17/content_564956.html",
-      "subCategory": "航空航天"
     }
   ]
 }
