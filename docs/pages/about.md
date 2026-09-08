@@ -19,7 +19,7 @@ Hi，我是 Byron。
 ## 联系
 
 - GitHub: [Ivaloz](https://github.com/Ivaloz)
-- 博客: [ivalo.eu.org](https://ivalo.eu.org)
+- 博客: [idcade.mooo.com](https://idcade.mooo.com)
 
 ---
 

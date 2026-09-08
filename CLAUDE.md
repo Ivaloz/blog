@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project Overview
 
-Personal blog site for ivalo.eu.org, built with VitePress and deployed to GitHub Pages via GitHub Actions.
+Personal blog site for idcade.mooo.com, built with VitePress and deployed to GitHub Pages via GitHub Actions.
 
 ## Commands
 
@@ -31,7 +31,7 @@ Push to `main` triggers `.github/workflows/deploy.yml`:
 2. Runs `pnpm docs:build`
 3. Deploys `docs/.vitepress/dist` to GitHub Pages
 
-Custom domain: `ivalo.eu.org` (via `docs/public/CNAME`).
+Custom domain: `idcade.mooo.com` (via `docs/public/CNAME`).
 
 ## GitHub Actions
 

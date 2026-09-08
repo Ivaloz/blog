@@ -4,7 +4,7 @@ import { defineConfig } from 'vitepress'
 import fs from 'node:fs'
 import path from 'node:path'
 
-const SITE_URL = 'https://ivalo.eu.org'
+const SITE_URL = 'https://idcade.mooo.com'
 const SITE_TITLE = 'Byron · 写作空间'
 const SITE_DESC = '技术、AI、投资的记录与思考 — Byron 的个人博客'
 const AUTHOR = 'Byron'
@@ -291,7 +291,7 @@ export default defineConfig({
   },
 
   themeConfig: {
-    siteTitle: 'ivalo.eu.org',
+    siteTitle: 'idcade.mooo.com',
     logo: { src: '/logo.svg', width: 24, height: 24, alt: 'FF' },
 
     nav: [

@@ -17,7 +17,7 @@ description: '博客正式上线，使用 VitePress + GitHub Pages + Cloudflare 
 
 - **框架**: VitePress
 - **部署**: GitHub Pages
-- **域名**: ivalo.eu.org（EU.org 免费域名）
+- **域名**: idcade.mooo.com（FreeDNS 免费域名）
 - **CDN**: Cloudflare（免费计划）
 - **CI/CD**: GitHub Actions 自动部署
 

@@ -15,7 +15,7 @@ featured: true
 
 ## 域名
 
-通过 [EU.org](https://eu.org) 申请了免费域名 `ivalo.eu.org`，审批周期数天到数周不等。
+通过 [FreeDNS](https://freedns.afraid.org) 注册了免费域名 `idcade.mooo.com`，即时生效。
 
 ## CDN
 

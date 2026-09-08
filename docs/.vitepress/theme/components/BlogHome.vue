@@ -45,7 +45,7 @@ const stats = computed(() => {
     <header class="hero">
       <div class="wordmark">
         <h1 class="wordmark-cn">Byron</h1>
-        <div class="wordmark-en">BLOG · ivalo.eu.org</div>
+        <div class="wordmark-en">BLOG · idcade.mooo.com</div>
       </div>
       <p class="tagline">{{ SITE_TAGLINE }}</p>
       <dl class="stats">

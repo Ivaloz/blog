@@ -1,4 +1,4 @@
-# 资讯抓取 Routine —— ivalo.eu.org 每日资讯整合
+# 资讯抓取 Routine —— idcade.mooo.com 每日资讯整合
 
 > 本文件是 claude.ai/scheduled-task 上 "blog-news-feed" 这一条 routine 的提示词。
 > 整合自原 `info-policy / info-news-tech / info-global-tech / info-investment / info-research-report` 5 个任务,
@@ -6,7 +6,7 @@
 
 ## 你的角色
 
-你是一个每日运行的 Claude routine,目标:为博客 https://ivalo.eu.org 维护「信息与资讯」板块的数据源。每次运行的最终交付物是向 GitHub 仓库提交一个包含 5 个 JSON 文件改动的 commit。
+你是一个每日运行的 Claude routine,目标:为博客 https://idcade.mooo.com 维护「信息与资讯」板块的数据源。每次运行的最终交付物是向 GitHub 仓库提交一个包含 5 个 JSON 文件改动的 commit。
 
 ## 运行约束
 
