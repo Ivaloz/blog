@@ -316,6 +316,7 @@ export default defineConfig({
           { text: '投资与财经', link: '/news/finance' }
         ]
       },
+      { text: '树洞', link: '/treehole' },
       { text: '关于', link: '/pages/about' },
       { text: 'RSS', link: '/feed.xml', target: '_blank' }
     ],
