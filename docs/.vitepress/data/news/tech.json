@@ -3,15 +3,33 @@
   "slug": "tech",
   "title": "科技新闻",
   "description": "前沿科技、互联网产品、芯片硬件、开源生态。",
-  "updatedAt": "2026-09-08T17:09:34+08:00",
+  "updatedAt": "2026-09-09T18:22:03+08:00",
   "items": [
+    {
+      "id": "tech-20260909-001",
+      "title": "Samsung and Mistral AI Announce Strategic Partnership for Intelligence-Driven Semiconductor Infrastructure",
+      "summary": "三星宣布与 Mistral AI 建立战略合作，将把 Mistral Large 等 AI 服务用于半导体设计与制造，重点推进缺陷检测、设备优化和先进芯片良率稳定。",
+      "publishedAt": "2026-09-09",
+      "source": "Samsung Global Newsroom",
+      "url": "https://news.samsung.com/global/samsung-and-mistral-ai-announce-strategic-partnership-for-intelligence-driven-semiconductor-infrastructure",
+      "subCategory": "芯片硬件"
+    },
+    {
+      "id": "tech-20260908-001",
+      "title": "Announcing new builds for 8 September 2026",
+      "summary": "微软发布 Windows 11 Beta 与 Experimental 频道预览版本，并公布 26H1 和 Future Platforms 构建号；更新包含跨设备续接、讲述人数学公式阅读及多显示器放大镜改进。",
+      "publishedAt": "2026-09-08",
+      "source": "Windows Insider Blog",
+      "url": "https://blogs.windows.com/windows-insider/2026/09/08/announcing-new-builds-for-8-september-2026",
+      "subCategory": "操作系统"
+    },
     {
       "title": "苹果规划AI安防摄影机",
       "summary": "彭博社爆料，苹果正设计一款主打隐私保护的家用安防摄影机，计划利用AI监测环境而非直接记录影音，预计2027年发布。",
       "publishedAt": "2026-09-05T10:00:00+08:00",
       "source": "金色财经",
       "url": "https://m.cnyes.com/news/id/6598842",
-      "subCategory": "",
+      "subCategory": "互联网产品",
       "id": "tech-20260905-001",
       "createdAt": "2026-09-08T17:09:34+08:00",
       "updatedAt": "2026-09-08T17:09:34+08:00"
@@ -22,41 +40,8 @@
       "publishedAt": "2026-09-03T13:00:00+08:00",
       "source": "股吧",
       "url": "https://mguba.eastmoney.com/mguba/article/0/1768006904",
-      "subCategory": "",
+      "subCategory": "互联网产品",
       "id": "tech-20260903-004",
-      "createdAt": "2026-09-08T17:09:34+08:00",
-      "updatedAt": "2026-09-08T17:09:34+08:00"
-    },
-    {
-      "title": "国产AI芯片百万颗缺口延续，交付排至3年后",
-      "summary": "2026需求约400万颗/交付300万颗，寒武纪、摩尔线程、壁仞营收高增，科创AI ETF单日拉3.72%。",
-      "publishedAt": "2026-09-03T12:00:00+08:00",
-      "source": "股吧",
-      "url": "https://mguba.eastmoney.com/mguba/article/0/1768006904",
-      "subCategory": "",
-      "id": "tech-20260903-003",
-      "createdAt": "2026-09-08T17:09:34+08:00",
-      "updatedAt": "2026-09-08T17:09:34+08:00"
-    },
-    {
-      "title": "我国牵头全球首个腿式机器人国际标准发布",
-      "summary": "覆盖楼梯/坡面/越障真实场景评价体系，人形机器人\"量产元年\"配套规则落地，上半年国人形机出货破4万台。",
-      "publishedAt": "2026-09-03T11:00:00+08:00",
-      "source": "股吧",
-      "url": "https://mguba.eastmoney.com/mguba/article/0/1768006904",
-      "subCategory": "",
-      "id": "tech-20260903-002",
-      "createdAt": "2026-09-08T17:09:34+08:00",
-      "updatedAt": "2026-09-08T17:09:34+08:00"
-    },
-    {
-      "title": "特斯拉Cybercab今日奥斯汀发布：无方向盘L5 Robotaxi",
-      "summary": "首款原生无人驾驶量产车，取消方向盘/踏板，接入本地无人出行网，目标价<3万美元。",
-      "publishedAt": "2026-09-03T10:00:00+08:00",
-      "source": "股吧",
-      "url": "https://mguba.eastmoney.com/mguba/article/0/1768006904",
-      "subCategory": "",
-      "id": "tech-20260903-001",
       "createdAt": "2026-09-08T17:09:34+08:00",
       "updatedAt": "2026-09-08T17:09:34+08:00"
     },
@@ -506,24 +491,6 @@
       "id": "tech-20260819-017"
     },
     {
-      "title": "占比约 41%：苹果 Safari 26.6.1 修复 22 个漏洞，9 个通过 OpenAI Codex Security 发现",
-      "summary": "苹果发布Safari 26.6.1更新，修复22个WebKit相关安全漏洞，其中9个由OpenAI Codex Security发现占比约41%，两个涉及内存损坏风险，一个可能泄露浏览记录。",
-      "publishedAt": "2026-08-19T07:31:42+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/991/388.htm",
-      "subCategory": "安全漏洞",
-      "id": "tech-20260819-018"
-    },
-    {
-      "title": "通用汽车向维修机构发布新规：只能用全新原厂零部件修理车辆辅助驾驶系统",
-      "summary": "通用汽车要求维修机构对车辆辅助驾驶系统相关部件维修只能使用全新原厂零件，禁止使用拆车件、副厂件等，并警告车顶架、贴膜等改装可能影响系统功能。",
-      "publishedAt": "2026-08-19T07:22:01+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/991/386.htm",
-      "subCategory": "智能汽车",
-      "id": "tech-20260819-019"
-    },
-    {
       "title": "江波龙37亿加速AI存储研发 澄清暂未涉及CPO领域",
       "summary": "江波龙定增37亿元，其中12.2亿元投向半导体存储主控芯片研发、8.8亿元投向AI高端存储器研发及产业化，公司同时澄清目前产品尚未涉及CPO相关应用。",
       "publishedAt": "2026-08-19T07:12:36+08:00",
@@ -531,15 +498,6 @@
       "url": "https://news.mydrivers.com/1/1144/1144693.htm",
       "subCategory": "芯片硬件",
       "id": "tech-20260819-020"
-    },
-    {
-      "title": "联想 FCNT 旗下 arrows Alpha 2 手机价格公布：天玑 8350 Extreme、5370mAh 电池，94900 日元起",
-      "summary": "联想旗下FCNT公布arrows Alpha2手机售价，搭载天玑8350 Extreme处理器与5370mAh电池，支持90W快充，8月27日在日本发售，起售价94900日元。",
-      "publishedAt": "2026-08-19T07:09:27+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/991/382.htm",
-      "subCategory": "消费电子",
-      "id": "tech-20260819-021"
     },
     {
       "title": "全球首款！高德“导盲犬”亮相2026世界机器人大会 支持城市级大范围自主导航",
@@ -551,69 +509,6 @@
       "id": "tech-20260819-022"
     },
     {
-      "title": "三星为 Galaxy Z Flip8 / Fold8 系列手机引入全新“保修与服务”功能，用户可在系统设置快速获取售后支持",
-      "summary": "三星为Galaxy Z Flip8、Fold8及Fold8 Ultra系列新增“保修与服务”功能，用户可在系统设置中查看设备诊断、预约授权维修点及发起远程技术支持。",
-      "publishedAt": "2026-08-19T06:58:44+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/991/378.htm",
-      "subCategory": "消费电子",
-      "id": "tech-20260819-023"
-    },
-    {
-      "title": "COSMIC Desktop 1.6 桌面环境发布：Rust 编写，新增“按应用分别设置音量”功能",
-      "summary": "Rust编写的COSMIC桌面环境发布1.6版本，新增按应用单独设置音量功能，并对文件管理器网络挂载、终端边框样式及登录界面图片格式支持等进行改进。",
-      "publishedAt": "2026-08-19T06:43:56+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/991/373.htm",
-      "subCategory": "开源生态",
-      "id": "tech-20260819-024"
-    },
-    {
-      "title": "奕境 X9 新车预售战报缺席原因公布，品牌总经理解释称不到 10 点系统就崩了",
-      "summary": "奕境X9预售期间订单系统崩溃，品牌总经理解释系统上午10点前已宕机导致无法下单，因此未公布预售战报数据，新车搭载华为乾崑智驾系统。",
-      "publishedAt": "2026-08-19T00:19:32+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/991/367.htm",
-      "subCategory": "智能汽车",
-      "id": "tech-20260819-025"
-    },
-    {
-      "title": "小米“大会师”新品将至，卢伟冰发文预告 9 月“精彩纷呈”",
-      "summary": "小米总裁卢伟冰发文预告9月将有“大会师”新品发布，回应网友提及自研芯片、系统与AI大模型融合方向，具体产品信息尚未公布。",
-      "publishedAt": "2026-08-19T00:00:03+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/991/365.htm",
-      "subCategory": "消费电子",
-      "id": "tech-20260819-026"
-    },
-    {
-      "title": "雷军正式官宣：小米新一代玄戒芯片即将发布，微博小尾巴已更换为神秘新机",
-      "summary": "小米创始人雷军在微博宣布新一代玄戒芯片即将发布，此前玄戒O1芯片出货量已超百万颗，其微博尾部同时更换为神秘新机图案。",
-      "publishedAt": "2026-08-18T22:03:33+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/991/336.htm",
-      "subCategory": "芯片硬件",
-      "id": "tech-20260818-027"
-    },
-    {
-      "id": "tech-20260818-028",
-      "title": "刚签完合作协议 4 天，英伟达黄仁勋之女黄敏珊到访 LG 电子韩国机器人工厂",
-      "summary": "英伟达CEO黄仁勋之女、Omniverse与机器人业务高级总监黄敏珊到访LG电子首尔机器人工厂，距双方8月13日在英伟达总部签署合作备忘录仅4天。双方就在建的LG首尔数据工厂展开交流，该工厂用于机器人训练数据采集，预计年底投运。",
-      "publishedAt": "2026-08-18T16:39:50+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/991/174.htm",
-      "subCategory": "机器人"
-    },
-    {
-      "id": "tech-20260818-029",
-      "title": "荣耀部分机型升级 MagicOS 11 支持极客中心功能，可自定义设备性能参数",
-      "summary": "荣耀部分机型（含WIN系列、GT Pro等）升级MagicOS 11后新增“极客中心”功能，提供全速、均衡、省电三种预设模式及自定义模式，可调整CPU/GPU频率、DDR速度等参数，无需root权限，此前已在MagicPad3 Pro平板上线。",
-      "publishedAt": "2026-08-18T16:28:47+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/991/160.htm",
-      "subCategory": "消费电子"
-    },
-    {
       "id": "tech-20260818-030",
       "title": "蒸汽热水一键混洗！石头A30 Pro Steam 3.0系列洗地机正式上市",
       "summary": "石头科技推出A30 Pro Steam 3.0系列洗地机，共三款机型，旗舰版首次支持180℃活性蒸汽与90℃高温热水一键混洗，用于清理干涸酱汁、凝固油污等顽固污渍，配备32000Pa吸力、12.5cm超薄机身及100分钟续航，支持180度贴边清洁。",
@@ -621,15 +516,6 @@
       "source": "快科技",
       "url": "https://news.mydrivers.com/1/1144/1144566.htm",
       "subCategory": "消费电子"
-    },
-    {
-      "id": "tech-20260818-031",
-      "title": "特斯拉上海超级工厂第 600 万个电池包下线",
-      "summary": "特斯拉宣布上海超级工厂完成第600万个电池包下线，电芯配方与电池包结构均为自主研发。该工厂2019年在临港新片区建成，是特斯拉首个海外整车工厂，六年来贡献了特斯拉全球约一半的电动车交付量。",
-      "publishedAt": "2026-08-18T16:19:43+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/991/153.htm",
-      "subCategory": "智能汽车"
     },
     {
       "id": "tech-20260818-032",
@@ -641,15 +527,6 @@
       "subCategory": "互联网产品"
     },
     {
-      "id": "tech-20260818-033",
-      "title": "微信鸿蒙版 App 获 8.0.20.53 版本邀测升级，灰度支付安全锁功能等",
-      "summary": "微信鸿蒙版App通过华为应用市场推送8.0.20.53版本邀测，测试期为8月18日至9月17日，新增视频分享、评论表情、直播礼物、游戏搜索及支付安全锁等功能，后者支持手势密码或生物识别验证钱包访问，目前装机量已超7200万。",
-      "publishedAt": "2026-08-18T16:12:09+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/991/150.htm",
-      "subCategory": "互联网产品"
-    },
-    {
       "id": "tech-20260818-034",
       "title": "1418kWh大容量动力电池！国内最大吨位纯电动矿用卡车发布",
       "summary": "紫金龙洁净发布ZL230E纯电动矿用卡车，称为国内目前载重最大的纯电矿卡，最大载重230吨、总重350吨，搭载1418kWh电池，25分钟可充至90%电量，双800kW电机，最大爬坡度38%，能耗较同级柴油车降低超70%。",
@@ -657,15 +534,6 @@
       "source": "快科技",
       "url": "https://news.mydrivers.com/1/1144/1144562.htm",
       "subCategory": "智能汽车"
-    },
-    {
-      "id": "tech-20260818-035",
-      "title": "英特尔被曝在“Razor Lake”世代推出bLLC大缓存移动端处理器",
-      "summary": "据爆料者@jaykihn0透露，英特尔计划在“Razor Lake”世代移动处理器中引入bLLC大容量末级缓存设计，主要针对面向游戏本等高性能设备的Razor Lake HX系列，Razor Lake AX系列不会配备该设计，Nova Lake H笔记本平台预计不早于2027年一季度推出。",
-      "publishedAt": "2026-08-18T16:05:04+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/991/139.htm",
-      "subCategory": "芯片硬件"
     },
     {
       "id": "tech-20260818-036",
@@ -693,87 +561,6 @@
       "source": "快科技",
       "url": "https://news.mydrivers.com/1/1144/1144430.htm",
       "subCategory": "操作系统"
-    },
-    {
-      "id": "tech-20260818-039",
-      "title": "开源多媒体框架FFmpeg优化H.265/HEVC视频编码能力，实现性能\"基本追平H.264\"",
-      "summary": "FFmpeg开发团队改进hevc_vulkan编码器配置，借助Vulkan加速提升H.265编码速度，1080p满质量下编码帧率由约200-317帧提升至289-358帧，并修复部分SPS参数同步问题。",
-      "publishedAt": "2026-08-18T07:57:30+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/990/889.htm",
-      "subCategory": "开源生态"
-    },
-    {
-      "id": "tech-20260818-040",
-      "title": "YouTube官宣下周统一观看次数口径：普通视频无需观看约30秒",
-      "summary": "YouTube宣布自8月24日起统一各类视频的观看次数计算标准，取消普通视频约30秒的最低观看时长门槛，创作者公开观看数据可能更快增长，但该调整不影响广告收入计算方式。",
-      "publishedAt": "2026-08-18T07:55:11+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/990/888.htm",
-      "subCategory": "互联网产品"
-    },
-    {
-      "id": "tech-20260818-041",
-      "title": "Spotify上线\"播放列表备注\"功能，用户可为播客节目、有声书添加文字说明",
-      "summary": "Spotify推出\"播放列表备注\"功能，用户可为歌曲、播客及有声书添加文字说明，此前该功能仅支持单曲最多240字备注，目前已在美国、加拿大、英国、爱尔兰、澳大利亚及新西兰上线。",
-      "publishedAt": "2026-08-18T07:30:59+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/990/881.htm",
-      "subCategory": "互联网产品"
-    },
-    {
-      "id": "tech-20260818-042",
-      "title": "GitHub服务中断同一天，Cursor推出内置代码托管平台Origin",
-      "summary": "GitHub于8月17日发生持续大半天的服务中断，同日Cursor推出内置代码托管平台Origin并开放公测，付费用户可在编辑器内完成代码差异查看、评论与合并，且与GitHub仓库双向同步。",
-      "publishedAt": "2026-08-18T07:03:17+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/990/874.htm",
-      "subCategory": "开发者工具"
-    },
-    {
-      "id": "tech-20260818-043",
-      "title": "苹果发布iOS/iPadOS 26.6.1及macOS 26.6.2：聚焦安全漏洞修复",
-      "summary": "苹果发布iOS/iPadOS 26.6.1及macOS 26.6.2更新，修复iPhone上20多个安全漏洞，多数涉及WebKit，另有Audio、ImageIO及内核相关问题，相关漏洞此前已在iOS 27测试版中修复。",
-      "publishedAt": "2026-08-18T06:35:11+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/990/868.htm",
-      "subCategory": "安全漏洞"
-    },
-    {
-      "id": "tech-20260818-044",
-      "title": "苹果visionOS 26.6.1正式版发布",
-      "summary": "苹果向Vision Pro用户推送visionOS 26.6.1正式版更新，构建版本号为23O780，距上一正式版visionOS 26.6发布已间隔21天，部分地区因服务器缓存问题更新推送可能略有延迟。",
-      "publishedAt": "2026-08-18T01:49:18+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/990/865.htm",
-      "subCategory": "XR-AR-VR"
-    },
-    {
-      "id": "tech-20260817-045",
-      "title": "LG推出xboom Power系列旗舰派对音箱：自带一键K歌模式，格莱美获奖音乐人调校",
-      "summary": "LG发布xboom Power系列派对音箱，含Power 9000、7000、5000三款机型，最高输出440瓦，音质由格莱美获奖音乐人will.i.am调校，内置AI卡拉OK功能可去除人声并支持双麦克风演唱。",
-      "publishedAt": "2026-08-17T23:57:27+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/990/859.htm",
-      "subCategory": "消费电子"
-    },
-    {
-      "id": "tech-20260817-046",
-      "title": "能举起50公斤重杠铃，九光技术发布小睿G3人形机器人",
-      "summary": "香港九光技术在香港科学园发布第三代人形机器人小睿G3，身高173厘米、体重不足60公斤，可拖动逾100公斤物体或举起50公斤杠铃，并支持语音指令控制，用于协助重体力搬运工作。",
-      "publishedAt": "2026-08-17T23:29:57+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/990/853.htm",
-      "subCategory": "机器人"
-    },
-    {
-      "id": "tech-20260817-047",
-      "title": "比亚迪腾势N8大五座SUV官宣搭载第二代刀片电池及闪充技术，支持1003km纯电续航",
-      "summary": "比亚迪腾势官宣N8大五座SUV将搭载第二代刀片电池及闪充技术，纯电续航最高达1003公里，车身尺寸5150×1999×1820毫米，提供单电机、高性能单电机及三电机等多种动力配置。",
-      "publishedAt": "2026-08-17T23:29:35+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/990/852.htm",
-      "subCategory": "智能汽车"
     }
   ]
 }

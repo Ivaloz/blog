@@ -3,27 +3,25 @@
   "slug": "finance",
   "title": "投资与财经",
   "description": "宏观经济、A 股 / 港股 / 美股、一级市场融资、行业研报观点。",
-  "updatedAt": "2026-09-08T17:09:34+08:00",
+  "updatedAt": "2026-09-09T18:22:03+08:00",
   "items": [
+    {
+      "id": "finance-20260909-001",
+      "title": "China oil demand to fall 8.9% in 2026, Sinopec research says",
+      "summary": "路透援引中石化研究机构报告称，中国2026年石油需求预计同比下降8.9%，日均减少约60万桶；高油价和电动汽车普及被列为主要因素。",
+      "publishedAt": "2026-09-09",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/energy/china-oil-demand-fall-89-2026-sinopec-research-says-2026-09-09",
+      "subCategory": "大宗商品"
+    },
     {
       "title": "固态电池概念股活跃",
       "summary": "一汽硫化物全固态低压力界面突破，固态电池概念股短线主题活跃。",
       "publishedAt": "2026-09-03T11:00:00+08:00",
       "source": "股吧",
       "url": "https://mguba.eastmoney.com/mguba/article/0/1768006904",
-      "subCategory": "",
+      "subCategory": "美股",
       "id": "finance-20260903-002",
-      "createdAt": "2026-09-08T17:09:34+08:00",
-      "updatedAt": "2026-09-08T17:09:34+08:00"
-    },
-    {
-      "title": "A股市场动态",
-      "summary": "国产AI芯片概念股持续活跃，科创AI ETF单日拉3.72%，算力基础设施板块受关注。",
-      "publishedAt": "2026-09-03T10:00:00+08:00",
-      "source": "股吧",
-      "url": "https://mguba.eastmoney.com/mguba/article/0/1768006904",
-      "subCategory": "",
-      "id": "finance-20260903-001",
       "createdAt": "2026-09-08T17:09:34+08:00",
       "updatedAt": "2026-09-08T17:09:34+08:00"
     },
@@ -341,15 +339,6 @@
       "url": "https://finance.sina.com.cn/stock/y/2026-08-20/doc-ininxeiu8084670.shtml",
       "subCategory": "A股",
       "id": "finance-20260820-006"
-    },
-    {
-      "title": "癌症疫苗引爆美股医药板块",
-      "summary": "相关概念股大幅上涨，带动 A 股生物制品板块联动走强。",
-      "publishedAt": "2026-08-20T07:38:00+08:00",
-      "source": "金融界",
-      "url": "https://stock.jrj.com.cn/2026/08/20073758181530.shtml",
-      "subCategory": "美股",
-      "id": "finance-20260820-007"
     },
     {
       "title": "芯片股突然大跌，美股三大股指下跌，长期国债收益率创19年新高",
@@ -710,15 +699,6 @@
       "source": "cryptonews.net",
       "url": "https://cryptonews.net/news/bitcoin/33299646/",
       "subCategory": "大宗商品"
-    },
-    {
-      "id": "finance-20260815-049",
-      "title": "Anthropic第二财季营收超过115亿美元，较上年同期跃升至少13倍",
-      "summary": "美国AI公司Anthropic向潜在投资者披露，其最近一个完整季度初步营收超过115亿美元，去年同期为7.87亿美元，今年一季度为47.3亿美元，二季度调整后营业利润转正，相关数据仍可能调整。",
-      "publishedAt": "2026-08-15T06:00:58+08:00",
-      "source": "新浪财经",
-      "url": "https://finance.sina.com.cn/world/2026-08-15/doc-ininiusz8944454.shtml",
-      "subCategory": "公司财报"
     },
     {
       "id": "finance-20260814-059",

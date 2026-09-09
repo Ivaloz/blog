@@ -3,38 +3,43 @@
   "slug": "industry",
   "title": "行业新闻",
   "description": "企业服务、SaaS、云计算、制造业、消费互联网的产业动态。",
-  "updatedAt": "2026-09-08T17:09:34+08:00",
+  "updatedAt": "2026-09-09T18:22:03+08:00",
   "items": [
+    {
+      "id": "industry-20260909-001",
+      "title": "First Hydrogen Signs Definitive Agreement for Advanced Robotics Technology with Extensive IP and Prepares to Launch First Humanoid",
+      "summary": "First Hydrogen宣布与 Exodus Actuation Solutions 签署最终协议，拟收购其 60% 权益并设立 First Humanoid，推进执行器、齿轮箱及人形机器人等技术的开发与商业化。",
+      "publishedAt": "2026-09-09T15:05:00+08:00",
+      "source": "First Hydrogen Corp.",
+      "url": "https://www.newsfilecorp.com/release/313583/First-Hydrogen-Signs-Definitive-Agreement-for-Advanced-Robotics-Technology-with-Extensive-IP-and-Prepares-to-Launch-First-Humanoid",
+      "subCategory": "公司动态"
+    },
+    {
+      "id": "industry-20260908-001",
+      "title": "Manufacturing Expands for Eighth Consecutive Month",
+      "summary": "美国国家制造商协会称，8月制造业 PMI 为 54.6%，连续第八个月扩张；新订单和新出口订单指数均处于扩张区间。",
+      "publishedAt": "2026-09-08",
+      "source": "NAM Newsroom",
+      "url": "https://nam.org/ism-manufacturing-pmi-eases-to-54-6-in-eighth-straight-month-of-expansion",
+      "subCategory": "制造业"
+    },
+    {
+      "id": "industry-20260908-002",
+      "title": "Global Manufacturing Edges Higher as Employment Growth Hits Three-Year High",
+      "summary": "全球制造业8月 PMI 从7月的 52.1 升至 52.3，产量与新订单增速加快，就业增长达到三年来最快水平。",
+      "publishedAt": "2026-09-08",
+      "source": "NAM Newsroom",
+      "url": "https://nam.org/global-manufacturing-pmi-ticks-up-to-52-3-in-august-on-stronger-output",
+      "subCategory": "制造业"
+    },
     {
       "title": "国家人工智能基金投资北京可灵",
       "summary": "国家人工智能基金向北京可灵注入现金资本14亿元，推动AI产业发展。",
       "publishedAt": "2026-09-05T12:00:00+08:00",
       "source": "金色财经",
       "url": "https://m.cnyes.com/news/id/6598842",
-      "subCategory": "",
+      "subCategory": "公司动态",
       "id": "industry-20260905-003",
-      "createdAt": "2026-09-08T17:09:34+08:00",
-      "updatedAt": "2026-09-08T17:09:34+08:00"
-    },
-    {
-      "title": "无界动力机器人量产准备",
-      "summary": "无界动力第二代自研机器人K15进入组装测试阶段，预计2027年年产量达150-200万套，行业趋势从定制化转向成熟方案铺量。",
-      "publishedAt": "2026-09-05T11:00:00+08:00",
-      "source": "金色财经",
-      "url": "https://m.cnyes.com/news/id/6598842",
-      "subCategory": "",
-      "id": "industry-20260905-002",
-      "createdAt": "2026-09-08T17:09:34+08:00",
-      "updatedAt": "2026-09-08T17:09:34+08:00"
-    },
-    {
-      "title": "机器人小店落地合肥",
-      "summary": "安徽首个机器人无人售卖场景应用「零次方机器人小店」亮相合肥，由「00后」团队打造，订单量突破3亿元，计划新开500家门店。",
-      "publishedAt": "2026-09-05T10:00:00+08:00",
-      "source": "金色财经",
-      "url": "https://m.cnyes.com/news/id/6598842",
-      "subCategory": "",
-      "id": "industry-20260905-001",
       "createdAt": "2026-09-08T17:09:34+08:00",
       "updatedAt": "2026-09-08T17:09:34+08:00"
     },
@@ -44,7 +49,7 @@
       "publishedAt": "2026-09-03T10:00:00+08:00",
       "source": "股吧",
       "url": "https://mguba.eastmoney.com/mguba/article/0/1768006904",
-      "subCategory": "",
+      "subCategory": "新能源汽车",
       "id": "industry-20260903-001",
       "createdAt": "2026-09-08T17:09:34+08:00",
       "updatedAt": "2026-09-08T17:09:34+08:00"
@@ -443,51 +448,6 @@
       "id": "industry-20260817-022"
     },
     {
-      "id": "industry-20260817-023",
-      "title": "京东：2026年Q2营收3464亿元，同比下降2.9%",
-      "summary": "京东公布2026年第二季度营收3464亿元，同比下降2.9%，为2014年上市以来首次单季营收下滑；净利润71亿元，同比增长15%。公司表示外卖业务亏损收窄，核心电商业务仍保持盈利。",
-      "publishedAt": "2026-08-17",
-      "source": "199IT",
-      "url": "http://www.199it.com/archives/1845692.html",
-      "subCategory": "公司动态"
-    },
-    {
-      "id": "industry-20260817-024",
-      "title": "洛图科技：2026上半年中国智能眼镜销量90.9万台，同比增长85.5%",
-      "summary": "洛图科技数据显示，2026年上半年中国智能眼镜全渠道销量90.9万台，同比增长85.5%，销售额18.8亿元，同比增长98.7%。雷鸟、Rokid、千问、华为位居线上市场份额前列，国家以旧换新补贴带动销量增长。",
-      "publishedAt": "2026-08-17",
-      "source": "199IT",
-      "url": "http://www.199it.com/archives/1845707.html",
-      "subCategory": "消费零售"
-    },
-    {
-      "id": "industry-20260817-025",
-      "title": "澳联邦汽车工业商会：2026年上半年比亚迪在澳销量6万辆，同比增长124%",
-      "summary": "澳大利亚联邦汽车工业商会数据显示，比亚迪2026年上半年在澳销售约6万辆，同比增长124%，市场份额8.5%，超过福特、马自达、现代，仅次于丰田；奇瑞增长77%，吉利增长495%，日系品牌普遍下滑。",
-      "publishedAt": "2026-08-17",
-      "source": "199IT",
-      "url": "http://www.199it.com/archives/1846046.html",
-      "subCategory": "新能源汽车"
-    },
-    {
-      "id": "industry-20260817-026",
-      "title": "群联电子：2026年Q2毛利率达65.3%创历史新高",
-      "summary": "群联电子公布2026年第二季度毛利率达65.3%，创历史新高。公司称NAND供需缺口将持续至2030年前后，新增产能爬坡周期已延长至四年，企业级SSD及AI存储将成为未来重点扩张方向。",
-      "publishedAt": "2026-08-17",
-      "source": "199IT",
-      "url": "http://www.199it.com/archives/1846030.html",
-      "subCategory": "半导体产业"
-    },
-    {
-      "id": "industry-20260817-027",
-      "title": "3DCenter：2026年8月德国DDR5内存指数达486%，同比增长4.9倍",
-      "summary": "据3DCenter汇总德国Geizhals平台数据，2026年8月德国DDR5内存价格指数达486%，较上月445%继续上涨，同比涨幅近4.9倍，64GB、48GB、32GB等大容量内存条涨幅居前，AI需求推高内存成本。",
-      "publishedAt": "2026-08-17",
-      "source": "199IT",
-      "url": "http://www.199it.com/archives/1846039.html",
-      "subCategory": "半导体产业"
-    },
-    {
       "id": "industry-20260816-028",
       "title": "半导体巨头利好来了！中微半导业绩猛增109%",
       "summary": "中微半导2026年上半年营收7.26亿元，同比增长44.01%，归母净利润同比增长98.48%，扣非净利润同比增长超109%，公司把握AI、机器人及汽车电子需求增长机遇，并以1.66亿元投资珠海博雅科技获得21%股权成为其第二大股东。",
@@ -504,15 +464,6 @@
       "source": "东方财富网",
       "url": "https://emwap.eastmoney.com/a/202608163842525597.html",
       "subCategory": "公司动态"
-    },
-    {
-      "id": "industry-20260816-030",
-      "title": "中国汽车流通协会：2026年上半年乘用车零售870.1万辆，同比下降20.2%",
-      "summary": "中国汽车流通协会数据显示，2026年上半年国内乘用车零售870.1万辆，同比下降20.2%；同期165款全新车型上市，加改款共576款；市场监管总局发布50起召回公告，涉及约165万辆，自主品牌召回量同比增长681.2%。",
-      "publishedAt": "2026-08-16",
-      "source": "199IT",
-      "url": "http://www.199it.com/archives/1845735.html",
-      "subCategory": "行业研报"
     },
     {
       "id": "industry-20260815-031",
@@ -677,42 +628,6 @@
       "subCategory": "行业研报"
     },
     {
-      "id": "industry-20260813-049",
-      "title": "Counterpoint：2026年Q2全球NAND市场长江存储出货容量份额14%升至第三",
-      "summary": "Counterpoint数据显示，2026年第二季度全球NAND市场中三星份额25%、SK海力士22%，长江存储升至14%排名第三，出货容量同比增长22%，首次超过锶侠。",
-      "publishedAt": "2026-08-13T20:22:00+08:00",
-      "source": "Counterpoint Research",
-      "url": "https://finance.sina.com.cn/tech/roll/2026-08-13/doc-inineqhh4665306.shtml",
-      "subCategory": "半导体产业"
-    },
-    {
-      "id": "industry-20260813-050",
-      "title": "TrendForce：2026年Q2全球OLED显示器出货量环比增长26.1%，同比增长98%",
-      "summary": "TrendForce数据显示，2026年第二季度全球OLED显示器出货量环比增长26.1%，同比增长98%，华硕以23.1%份额领先，三星与微星份额差距缩小至0.3个百分点。",
-      "publishedAt": "2026-08-13T20:22:00+08:00",
-      "source": "TrendForce",
-      "url": "https://finance.sina.com.cn/tech/roll/2026-08-13/doc-inineqhm3392701.shtml",
-      "subCategory": "行业研报"
-    },
-    {
-      "id": "industry-20260813-051",
-      "title": "Omdia：2026年Q2中东地区智能手机出货量1060万部，同比下降19%",
-      "summary": "Omdia数据显示，2026年第二季度中东智能手机出货量1060万部，同比下降19%，平均售价448美元同比上涠25%，三星以39%份额居首，荣耀增速排名第二。",
-      "publishedAt": "2026-08-13T20:22:00+08:00",
-      "source": "Omdia",
-      "url": "https://finance.sina.com.cn/tech/roll/2026-08-13/doc-inineqhp9978823.shtml",
-      "subCategory": "行业研报"
-    },
-    {
-      "id": "industry-20260813-052",
-      "title": "联想集团：2026/27财年Q1营收269.43亿美元，同比增长43%",
-      "summary": "联想集团公布2026/27财年第一财季业绩，营收269.43亿美元，同比增长43%，经调整净利润10.75亿美元，同比增长176%，基础设施方案业务收入同比增长98%。",
-      "publishedAt": "2026-08-13T20:22:00+08:00",
-      "source": "联想集团",
-      "url": "https://finance.sina.com.cn/tech/roll/2026-08-13/doc-inineqhm3392693.shtml",
-      "subCategory": "公司动态"
-    },
-    {
       "id": "industry-20260813-053",
       "title": "利好突至！A股芯片巨头，业绩大超预期",
       "summary": "中芯国际第二季度销售收其30.06亿美元，环比增长20%，毛利率25.3%，净利润4.79亿美元；华红宏力营收7.175亿美元，同比增26.8%，净利润3860万美元，同比增385.9%，均创历史新高。",
@@ -738,24 +653,6 @@
       "source": "每日经济新闻",
       "url": "https://wap.eastmoney.com/a/202608133839575630.html",
       "subCategory": "医疗健康"
-    },
-    {
-      "id": "industry-20260813-056",
-      "title": "CX Network：2026年亚太地区客户体验报告",
-      "summary": "CX Network调研119位亚太地区客户体验从业者显示，35%受访企业将AI驱动运营列为未来首要趋势，49%企业预计2026年客户体验预算将增加，54%已建立组织级AI治理体系。",
-      "publishedAt": "2026-08-13T04:52:00+08:00",
-      "source": "CX Network",
-      "url": "https://finance.sina.com.cn/tech/roll/2026-08-13/doc-inincafe3604380.shtml",
-      "subCategory": "企业服务"
-    },
-    {
-      "id": "industry-20260813-057",
-      "title": "Omdia：2026年全球XR头戴设备出货量将下降12%",
-      "summary": "Omdia预测，2026年全球XR头戴设备出货量将同比下降12%至620万台，独立式头显降幅达15%，而有线XR眼镜出货量同比增长19%至90万副，2027年市场预计恢复增长。",
-      "publishedAt": "2026-08-13T02:22:00+08:00",
-      "source": "Omdia",
-      "url": "https://finance.sina.com.cn/tech/roll/2026-08-13/doc-ininavxf3787636.shtml",
-      "subCategory": "消费零售"
     }
   ]
 }

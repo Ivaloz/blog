@@ -3,49 +3,34 @@
   "slug": "trade",
   "title": "外贸资讯",
   "description": "亚马逊、TikTok Shop、阿里国际站、Shopify 等平台政策与跨境电商市场、独立站、物流支付、关税法规、选品趋势。",
-  "updatedAt": "2026-09-08T17:09:34+08:00",
+  "updatedAt": "2026-09-09T18:22:03+08:00",
   "items": [
+    {
+      "id": "trade-20260909-001",
+      "title": "Accelerating Export Growth for SMEs and Mid-Sized Companies: Trade Finance Support Expanded to KRW 120 Trillion This Year, KRW 140 Trillion Next Year",
+      "summary": "韩国贸易产业能源部表示，将把中小及中坚出口企业贸易金融支持从今年12万亿韩元提高至明年14万亿韩元，并在年内设立1万亿韩元共生贸易金融基金。",
+      "publishedAt": "2026-09-09T11:00:00+09:00",
+      "source": "The Asia Business Daily",
+      "url": "https://www.asiae.co.kr/en/article/2026090910492664528",
+      "subCategory": "跨境支付"
+    },
+    {
+      "id": "trade-20260908-001",
+      "title": "China's exports jump 25% in August as its trade surplus widens",
+      "summary": "美联社援引中国海关数据称，8月出口同比增长25%，进口增长28.2%，贸易顺差扩大至119.1亿美元；汽车和高技术产品需求支撑出口增长。",
+      "publishedAt": "2026-09-08",
+      "source": "Associated Press",
+      "url": "https://apnews.com/article/china-trade-exports-digital-trump-jinping-77c208d1f62270bba66b8241b1b14a4c",
+      "subCategory": "海关数据"
+    },
     {
       "title": "工信部鼓励\"一人公司\"等微型主体发展",
       "summary": "鼓励各地对依托智能工具开展敏捷创业的\"一人公司\"、超级个体等微型主体给予包容支持。",
       "publishedAt": "2026-09-05T13:00:00+08:00",
       "source": "365外贸网",
       "url": "https://www.365area.com/news/4434d60fcd1aade6",
-      "subCategory": "",
+      "subCategory": "平台动态",
       "id": "trade-20260905-004",
-      "createdAt": "2026-09-08T17:09:34+08:00",
-      "updatedAt": "2026-09-08T17:09:34+08:00"
-    },
-    {
-      "title": "西南地区首条直达非洲货机航线开通",
-      "summary": "加强中国与非洲地区的贸易联系，促进双边贸易发展。",
-      "publishedAt": "2026-09-05T12:00:00+08:00",
-      "source": "365外贸网",
-      "url": "https://www.365area.com/news/4434d60fcd1aade6",
-      "subCategory": "",
-      "id": "trade-20260905-003",
-      "createdAt": "2026-09-08T17:09:34+08:00",
-      "updatedAt": "2026-09-08T17:09:34+08:00"
-    },
-    {
-      "title": "2026全球新能源企业500强总营收达10.59万亿元",
-      "summary": "中国上榜企业营收占比51.84%，显示中国在全球新能源领域的领先地位。",
-      "publishedAt": "2026-09-05T11:00:00+08:00",
-      "source": "365外贸网",
-      "url": "https://www.365area.com/news/4434d60fcd1aade6",
-      "subCategory": "",
-      "id": "trade-20260905-002",
-      "createdAt": "2026-09-08T17:09:34+08:00",
-      "updatedAt": "2026-09-08T17:09:34+08:00"
-    },
-    {
-      "title": "中国将对自然人增值税实行代扣代缴",
-      "summary": "11月1日起施行，进一步规范增值税管理。",
-      "publishedAt": "2026-09-05T10:00:00+08:00",
-      "source": "365外贸网",
-      "url": "https://www.365area.com/news/4434d60fcd1aade6",
-      "subCategory": "",
-      "id": "trade-20260905-001",
       "createdAt": "2026-09-08T17:09:34+08:00",
       "updatedAt": "2026-09-08T17:09:34+08:00"
     },
@@ -271,33 +256,6 @@
       "id": "trade-20260818-013"
     },
     {
-      "title": "秋千幽灵灯18天美区卖130万，33美元标价较1688翻10倍",
-      "summary": "一款7月31日上线的万圣节秋千幽灵灯装饰品在TikTok美区18天内售出5942单，GMV达19.42万美元，售价33美元约为1688批发价的10倍，#ghostswing话题播放量超千万。",
-      "publishedAt": "2026-08-18T17:13:08+08:00",
-      "source": "出海网",
-      "url": "https://www.chwang.com/news/208964173487",
-      "subCategory": "选品趋势",
-      "id": "trade-20260818-014"
-    },
-    {
-      "title": "eBay要求卖家补填各国EPR包装注册号",
-      "summary": "欧盟包装与包装废弃物法规（PPWR）8月12日生效后，eBay要求被认定为“包装生产者”的卖家在账户设置中补填对应成员国的EPR包装注册号，未完成登记的商品将在该国买家端隐藏。",
-      "publishedAt": "2026-08-18T17:06:54+08:00",
-      "source": "出海网",
-      "url": "https://www.chwang.com/news/208964016594",
-      "subCategory": "平台政策",
-      "id": "trade-20260818-015"
-    },
-    {
-      "title": "上海港拥堵延续，马士基ONE多船取消挂靠上海、晚开延误超三周",
-      "summary": "受台风“天兔”余波及码头作业压力影响，上海港拥堵持续，马士基取消两艘船挂靠上海；ONE公司8月17日至18日多次发布通知，YM WISH等船舶延误最长超过三周，建议货主核实订舱并备好中转方案。",
-      "publishedAt": "2026-08-18T17:03:33+08:00",
-      "source": "出海网",
-      "url": "https://www.chwang.com/news/208963932174",
-      "subCategory": "物流仓储",
-      "id": "trade-20260818-016"
-    },
-    {
       "id": "trade-20260818-017",
       "title": "印度拟降糖进口关税以平抑创纪录糖价",
       "summary": "印度作为全球第二大产糖国正考虑下调或取消最高100%的食糖进口关税以增加供应、抑制涨价，国内糖价已涨至每百公斤约4716卢比，月涨幅10%，主因产量不及预期及结转库存降至350万吨低位。",
@@ -397,24 +355,6 @@
       "subCategory": "平台政策"
     },
     {
-      "id": "trade-20260817-028",
-      "title": "俄罗斯9月起强制推行电子运输单据系统GIS EPDD",
-      "summary": "俄罗斯国家电子运输单据信息系统GIS EPDD将于9月1日起正式强制运行，设置至2027年3月1日的半年豁免期，期间仅口头警告不予处罚，俄交通部称电子单据将成为货运合规硬性基准。",
-      "publishedAt": "2026-08-17",
-      "source": "出海网",
-      "url": "https://www.chwang.com/daily/20260817",
-      "subCategory": "物流仓储"
-    },
-    {
-      "id": "trade-20260816-029",
-      "title": "TikTok电商计劒2027年一季度开通沙特、韩国、澳大利亚站点",
-      "summary": "TikTok电商拟于2027年第一季度新增沙特阿拉伯、韩国、澳大利亚三个市场，分别对应中东高客单低渗透、韩流电商成熟及澳新英语高净值低竞争等市场特点。",
-      "publishedAt": "2026-08-16",
-      "source": "出海网",
-      "url": "https://www.chwang.com/daily/20260816",
-      "subCategory": "新兴市场"
-    },
-    {
       "id": "trade-20260815-030",
       "title": "8个月登顶亚马逊BSR第一！山东CD机卖家的日本站破局之路",
       "summary": "山东一CD机卖家通过在Instagram、TikTok、YouTube等社交平台进行内容种草，结合亚马逊long优化与精准广告，8个月内登顶日本站BSR第一，同类打法随后又帮助其在美国站进入品类销量前五。",
@@ -478,87 +418,6 @@
       "subCategory": "选品趋势"
     },
     {
-      "id": "trade-20260815-037",
-      "title": "阿拉木图仓储市场上半年成交翻倍，电商物流推动中亚枢纽需求增长",
-      "summary": "哈萨克斯坦阿拉木图仓储物业市场2026年上半年成交量达136.3万平方米，同比翻倍并超过2025全年总量。需求主要来自物流企业、零售连锁与电商卖家，空置率降至12.2%，国际企业正将阿拉木图定位为中亚物流枢纽。",
-      "publishedAt": "2026-08-15T02:54:00+08:00",
-      "source": "AMZ123",
-      "url": "https://www.amz123.com/kx/pEbwcQtA",
-      "subCategory": "物流仓储"
-    },
-    {
-      "id": "trade-20260815-038",
-      "title": "欧洲61%电商GMV来自平台，多平台运营推动AI预测需求",
-      "summary": "Instinctools首席执行官指出，2025年欧洲电商平台承接61%的GMV，47%消费者从平台端发起搜索，多数卖家同时运营六个以上平台。企业称引入AI数据质量核查工具后，数据准备时间减少60%。",
-      "publishedAt": "2026-08-15T02:44:00+08:00",
-      "source": "AMZ123",
-      "url": "https://www.amz123.com/kx/esrsXrg2",
-      "subCategory": "平台动态"
-    },
-    {
-      "id": "trade-20260815-039",
-      "title": "大疆迎来转机：美国法院要求下级法院重新评估\"军企\"认定",
-      "summary": "美国哥伦比亚特区巶回上诉法院8月14日裁定，下级法院此前仅依据非涉密信息认定大疆为中国军事企业证据不足，要求重新审查并可参考涉密材料。大疆此前称该认定造成商业损失并阻碍其与美国联邦机构签约。",
-      "publishedAt": "2026-08-15T02:44:00+08:00",
-      "source": "AMZ123",
-      "url": "https://www.amz123.com/kx/Qq3lpGhS",
-      "subCategory": "关税法规"
-    },
-    {
-      "id": "trade-20260815-040",
-      "title": "TikTok Shop美区7月市场份额突破2%，超越Target",
-      "summary": "TikTok Shop美国业务7月市场份额升至约2%，高于去年同期的1.2%，月度线上销售额已超过Target、开市客与家得宝等传统零售商。2026年第二季度约30%的消费来自仅占买家5%的高频用户群体。",
-      "publishedAt": "2026-08-15T02:33:00+08:00",
-      "source": "AMZ123",
-      "url": "https://www.amz123.com/kx/Clff51CH",
-      "subCategory": "平台动态"
-    },
-    {
-      "id": "trade-20260815-041",
-      "title": "巴西减重药线上需求增长149%，相关电商交易额达23.4亿雷亚尔",
-      "summary": "据Serasa Experian数据，2026年上半年巴西GLP-1类减重药线上订单达136.4万单，同比增长149.3%，交易额约23.4亿雷亚尔，千禺代与X世代占订兼63.1%，同期市场也出现约3966起相关欺诈案件。",
-      "publishedAt": "2026-08-15T02:23:00+08:00",
-      "source": "AMZ123",
-      "url": "https://www.amz123.com/kx/sQWiqwNO",
-      "subCategory": "选品趋势"
-    },
-    {
-      "id": "trade-20260815-042",
-      "title": "CNC致信国会反对取消50美元免税政策，称或影吷10万个就业岸位",
-      "summary": "巴西全国商业联合会8月13日致信国会，反对终止跨境包裹50美元以下免关税的临时措施，称恢复征税将威胁约10万个正规就业岸位，并已就该议题向巴西最高法院提起行政诉讼，国会审议已推迟至9月初。",
-      "publishedAt": "2026-08-15T02:13:00+08:00",
-      "source": "AMZ123",
-      "url": "https://www.amz123.com/kx/q7vZo9Xf",
-      "subCategory": "关税法规"
-    },
-    {
-      "id": "trade-20260815-043",
-      "title": "伊朗重申霍尔木兹关闭，上海—纽约运价确8700美元美东逼9000",
-      "summary": "伊朗革命卫队海军司令数据8月13日重申霍尔木兹海峽仍处于关闭状态。据德鲁里数据，上海至纽约40尺柜即期运价周涨10%至8706美元，上海至洛杉矶涨6%至6244美元，航司近期已取消约10个周班次。",
-      "publishedAt": "2026-08-15T02:02:00+08:00",
-      "source": "AMZ123",
-      "url": "https://www.amz123.com/kx/nFTG5Hjj",
-      "subCategory": "物流仓储"
-    },
-    {
-      "id": "trade-20260815-044",
-      "title": "梦百合收1447万美国关税退款，华东大卖IEEPA退税潮蔓延",
-      "summary": "中国家具出口商梦百合截至8月13日已收到约212.4万美元关税退款，为美国最高法院裁定IEEPA关税缺乏国会授权后启动退税潮的一部分。美国海关自4月20日起已向33万进口商发放约1000亿美元退款，仅持有备案资质的进口商可直接申领。",
-      "publishedAt": "2026-08-15T01:42:00+08:00",
-      "source": "AMZ123",
-      "url": "https://www.amz123.com/kx/ADAp2Inu",
-      "subCategory": "关税法规"
-    },
-    {
-      "id": "trade-20260815-045",
-      "title": "俄罗斯电商巨头联合呼吁推出物流冲击纾困方案",
-      "summary": "Wildberries、Ozon、Yandex等俄罗斯电商企业联名致信总理米舍斯金，请求针对物流设施遭袭事件提供财政补偿、至少半年税收减免及暂停检查等纾困措施，俄工商会电商委员会则建议改用十年期贷款重组方案。",
-      "publishedAt": "2026-08-15",
-      "source": "AMZ123",
-      "url": "https://www.amz123.com/kx/PnjOap0n",
-      "subCategory": "物流仓储"
-    },
-    {
       "id": "trade-20260814-046",
       "title": "从\"水土不服\"到\"类目Top3\"！福建卖家靠这招逆袭",
       "summary": "一福建家居卖家初入日本乐天市场时因产品设计不符合日本消费者小空间、多功能收纳需求而遇冷，调整策略并优化一款可折叠鞋柜储物凳后，一年内趲身家居类目Top3，月销售额超过2000万日元。",
@@ -575,42 +434,6 @@
       "source": "新华网",
       "url": "https://www.news.cn/fortune/20260814/a50ab353ad194ad29313b81684d6fdca/c.html",
       "subCategory": "跨境支付"
-    },
-    {
-      "id": "trade-20260814-048",
-      "title": "DHL加速拓展巴西实体网络，看准中小微企业国际物流需求",
-      "summary": "DHL Express加快在巴西实体网点拓展，计划到2027年底覆盖75家门店，圣保罗第40家门店已开业，年内还将新塀5家，重点面向中小微企业提供出口咨询等国际物流服务，助力其开拓美国、欧洲等市场。",
-      "publishedAt": "2026-08-14T18:06:32+08:00",
-      "source": "出海网",
-      "url": "https://www.chwang.com/news/208820561596",
-      "subCategory": "物流仓储"
-    },
-    {
-      "id": "trade-20260814-049",
-      "title": "巴西父亲节零售额堙7%，Pix支付暴涤37%成增长引擎",
-      "summary": "出海网报道，巴西父亲节当周（8月3日至9日）零售额同比增长7%，超市增长14%表现最突出，即时支付工具Pix交易量同比暴涤37%，成为拉动巴西消费增长的重要引擎，数字支付渗透率持续提升。",
-      "publishedAt": "2026-08-14T18:05:15+08:00",
-      "source": "出海网",
-      "url": "https://www.chwang.com/news/208820529321",
-      "subCategory": "新兴市场"
-    },
-    {
-      "id": "trade-20260814-050",
-      "title": "JOYBUY连续两季度营收翻倍，京东欧洲六国布局自营零售体系",
-      "summary": "京东旗下自营零售平台JOYBUY自3月落地英德法荷比卢六国以来连续两个季度营收翻倍，上线两天内登顶英国iOS购物榜，目前在欧洲运营超60个仓库，可为超30个主要城市提供当日达配送，服务逾四千万消费者。",
-      "publishedAt": "2026-08-14T17:59:09+08:00",
-      "source": "出海网",
-      "url": "https://www.chwang.com/news/208820375916",
-      "subCategory": "平台动态"
-    },
-    {
-      "id": "trade-20260814-051",
-      "title": "欧盟3欧小包税生效几周，中国发欧包裹量骤降20%",
-      "summary": "欧盟自7月1日起取消150欧元以下小额包裹免税并按件征收3欧元固定税费，实施几周后中国发欧包裹量骤降约20%，手机壳、电线等低价商品受冲击明显，Temu、Shein等平台通过欧洲仓储和拼单应对成本上升。",
-      "publishedAt": "2026-08-14T17:54:05+08:00",
-      "source": "出海网",
-      "url": "https://www.chwang.com/news/208820248627",
-      "subCategory": "关税法规"
     },
     {
       "id": "trade-20260814-052",
@@ -682,69 +505,6 @@
       "publishedAt": "2026-08-14T16:25:18+08:00",
       "source": "亿恩网",
       "url": "https://www.ennews.com/news-141934.html",
-      "subCategory": "物流仓储"
-    },
-    {
-      "id": "trade-20260814-060",
-      "title": "欧亚经济联盟及日本批准巴西农产品进口",
-      "summary": "欧亚经济联盟批准巴西兰花及鱼类等水产加工食品进口，日本核准巴西鱼鷾进口，两国同时宣布就日本与南方共同市场经贸协定展开磐商。",
-      "publishedAt": "2026-08-14T16:14:00+08:00",
-      "source": "亿恩网",
-      "url": "https://www.ennews.com/news-141933.html",
-      "subCategory": "关税法规"
-    },
-    {
-      "id": "trade-20260814-061",
-      "title": "2026年7月摩托车产销双增，出口同比增长23.76%",
-      "summary": "中国摩托车工业协会发布数据，2026年7月摩托车产销量同比分别增长20.42%和17.4%，出口141.96万辆，同比增长23.76%，金额10.23亿美元。",
-      "publishedAt": "2026-08-14T15:54:56+08:00",
-      "source": "亿恩网",
-      "url": "https://www.ennews.com/news-141930.html",
-      "subCategory": "海关数据"
-    },
-    {
-      "id": "trade-20260814-062",
-      "title": "INFOLine预测俄自有电商网站四季度环比增40%至50%",
-      "summary": "研究机构INFOLine预测，俄罗斯自建电商网站新增数量今年四季度环比或增长40%至50%，此前二季度俄电商实物商品线上销售额同比增长20.4%。",
-      "publishedAt": "2026-08-14T15:49:28+08:00",
-      "source": "亿恩网",
-      "url": "https://www.ennews.com/news-141929.html",
-      "subCategory": "新兴市场"
-    },
-    {
-      "id": "trade-20260814-063",
-      "title": "DHL在巴西加速扩张，中小微企业成国际物流新目标",
-      "summary": "DHL Express宣布加速拓展巴西门店网络，已在圣保罗开设第40家门店，计划年内再塀 5家，目梅 2027年底门店总数达75家，服务中小微外贸企业。",
-      "publishedAt": "2026-08-14T15:42:31+08:00",
-      "source": "亿恩网",
-      "url": "https://www.ennews.com/news-141928.html",
-      "subCategory": "物流仓储"
-    },
-    {
-      "id": "trade-20260814-064",
-      "title": "Fruugo经历调整年恢复盈利，营收同比附30%",
-      "summary": "跨境电商平台Fruugo公布2025财年业绩，因清退不合规卖家与商品导致营收同比下降30%至3960万英镑，但扭亏为盈，实现200万英镑营业利润。",
-      "publishedAt": "2026-08-14T15:27:36+08:00",
-      "source": "亿恩网",
-      "url": "https://www.ennews.com/news-141925.html",
-      "subCategory": "平台动态"
-    },
-    {
-      "id": "trade-20260814-065",
-      "title": "Yandex Market推\"先试后付\"配送，服饰订单次日结算",
-      "summary": "Yandex Market在俄罗斯26个地区推出服饰类\"先试后付\"配送服务，消费者收货24小时内试穿后决定购买，未留货物无需付款，并支持分期付款。",
-      "publishedAt": "2026-08-14T15:03:08+08:00",
-      "source": "亿恩网",
-      "url": "https://www.ennews.com/news-141922.html",
-      "subCategory": "平台动态"
-    },
-    {
-      "id": "trade-20260814-066",
-      "title": "DPD俄罗斯7月自提点业务量环比激增64%",
-      "summary": "DPD俄罗斯发布数据显示，7月自提点业务量环比增长64%，客户数增加10%，部分客户发货量增幅达70%，小件包裹占比升至45%。",
-      "publishedAt": "2026-08-14T15:01:35+08:00",
-      "source": "亿恩网",
-      "url": "https://www.ennews.com/news-141923.html",
       "subCategory": "物流仓储"
     }
   ]

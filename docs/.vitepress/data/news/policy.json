@@ -3,15 +3,33 @@
   "slug": "policy",
   "title": "政策信息",
   "description": "国家与地方政策、监管动态、产业扶持与合规要求。",
-  "updatedAt": "2026-09-08T17:09:34+08:00",
+  "updatedAt": "2026-09-09T18:22:03+08:00",
   "items": [
+    {
+      "id": "policy-20260909-001",
+      "title": "2026年9月9日外交部发言人毛宁主持例行记者会",
+      "summary": "外交部发布9月9日例行记者会内容，回应一带一路、人工智能发展及中菲关系等问题。",
+      "publishedAt": "2026-09-09T17:24:00+08:00",
+      "source": "中国外交部",
+      "url": "https://sv.china-embassy.gov.cn/fyrth/202609/t20260909_12019125.htm",
+      "subCategory": "海外政策"
+    },
+    {
+      "id": "policy-20260908-001",
+      "title": "Trade remedies notice 2026/25: provisional anti-dumping duty on certain glass containers originating from China",
+      "summary": "英国政府发布临时贸易救济通知，对原产于中国的特定玻璃容器征收临时反倾销税，措施自9月9日起生效，最长执行六个月。",
+      "publishedAt": "2026-09-08",
+      "source": "GOV.UK",
+      "url": "https://www.gov.uk/government/publications/trade-remedies-notices-certain-glass-containers-originating-from-china/trade-remedies-notice-202625-provisional-anti-dumping-duty-on-certain-glass-containers-originating-from-china",
+      "subCategory": "跨境贸易"
+    },
     {
       "title": "纽约限制AI进入课堂",
       "summary": "纽约宣布限制在课堂中使用人工智能，以保护学术诚信，建立一年期暂停令。",
       "publishedAt": "2026-09-05T11:00:00+08:00",
       "source": "Instagram",
       "url": "https://www.instagram.com/reel/Dc6vWfTlMeb",
-      "subCategory": "",
+      "subCategory": "AI 监管",
       "id": "policy-20260905-002",
       "createdAt": "2026-09-08T17:09:34+08:00",
       "updatedAt": "2026-09-08T17:09:34+08:00"
@@ -22,7 +40,7 @@
       "publishedAt": "2026-09-05T10:00:00+08:00",
       "source": "金色财经",
       "url": "https://m.cnyes.com/news/id/6598842",
-      "subCategory": "",
+      "subCategory": "产业政策",
       "id": "policy-20260905-001",
       "createdAt": "2026-09-08T17:09:34+08:00",
       "updatedAt": "2026-09-08T17:09:34+08:00"
@@ -33,19 +51,8 @@
       "publishedAt": "2026-09-04T10:00:00+08:00",
       "source": "零壹咨询",
       "url": "https://searxng.com.cn?post=103",
-      "subCategory": "",
+      "subCategory": "产业政策",
       "id": "policy-20260904-001",
-      "createdAt": "2026-09-08T17:09:34+08:00",
-      "updatedAt": "2026-09-08T17:09:34+08:00"
-    },
-    {
-      "title": "财政部发布《境内单位代扣代缴自然人增值税管理办法》",
-      "summary": "进一步规范自然人增值税代扣代缴管理，11月1日起施行。",
-      "publishedAt": "2026-09-03T10:00:00+08:00",
-      "source": "零壹咨询",
-      "url": "https://searxng.com.cn?post=103",
-      "subCategory": "",
-      "id": "policy-20260903-001",
       "createdAt": "2026-09-08T17:09:34+08:00",
       "updatedAt": "2026-09-08T17:09:34+08:00"
     },
@@ -755,15 +762,6 @@
       "url": "https://www.samr.gov.cn/xw/df/art/2026/art_7fe2d99dc99043bf904e0c7369b7e04d.html",
       "subCategory": "产业政策",
       "id": "policy-20260810-051"
-    },
-    {
-      "title": "FTC Stops Sprawling Credit Repair Scheme that Scammed Consumers Out of Nearly $200 Million",
-      "summary": "美国联邦贸易委员会促使联邦法院叫停一个由17家关联公司组成的虚假信用修复骗局，被告自2016年起通过谷歌广告虚假宣传、假冒催收人员及违规收费等手段骗取消费者约2亿美元，并专门针对现役军人。",
-      "publishedAt": "2026-08-10T09:51:14-04:00",
-      "source": "Federal Trade Commission",
-      "url": "https://www.ftc.gov/news-events/news/press-releases/2026/08/ftc-stops-sprawling-credit-repair-scheme-scammed-consumers-out-nearly-200-million",
-      "subCategory": "金融监管",
-      "id": "policy-20260810-052"
     }
   ]
 }

@@ -3,38 +3,25 @@
   "slug": "ai",
   "title": "AI 与大模型",
   "description": "大模型、Agent、AI 编程、推理框架、开源模型的发布与落地。",
-  "updatedAt": "2026-09-08T17:09:34+08:00",
+  "updatedAt": "2026-09-09T18:22:03+08:00",
   "items": [
+    {
+      "id": "ai-20260908-001",
+      "title": "Introducing Muse: The World’s First Personal AI Agent Built for Everyone",
+      "summary": "Meta 推出个人 AI 智能体 Muse，运行于独立的 Muse Secure VM，可跨应用执行任务、在敏感操作前请求授权并提供审计记录；产品先在美国上线，未来支持 AI 眼镜。",
+      "publishedAt": "2026-09-08",
+      "source": "Meta Newsroom",
+      "url": "https://about.fb.com/news/2026/09/introducing-muse-personal-ai-agent/",
+      "subCategory": "Agent"
+    },
     {
       "title": "欧盟收紧数字监管：ChatGPT等纳入最高等级监管",
       "summary": "欧盟委员会宣布将ChatGPT、Reddit和Roblox纳入《数字服务法》最高等级监管范围，因其用户规模巨大且对社会影响扩大。",
       "publishedAt": "2026-09-05T12:00:00+08:00",
       "source": "金色财经",
       "url": "https://m.cnyes.com/news/id/6598842",
-      "subCategory": "",
+      "subCategory": "大模型",
       "id": "ai-20260905-003",
-      "createdAt": "2026-09-08T17:09:34+08:00",
-      "updatedAt": "2026-09-08T17:09:34+08:00"
-    },
-    {
-      "title": "陶哲轩发出AI告警",
-      "summary": "著名数学家陶哲轩指出，AI解题过快且过程黑盒，可能掩盖数学研究中宝贵的「失败」经验，阻碍对开放性问题的真正理解。",
-      "publishedAt": "2026-09-05T11:00:00+08:00",
-      "source": "金色财经",
-      "url": "https://m.cnyes.com/news/id/6598842",
-      "subCategory": "",
-      "id": "ai-20260905-002",
-      "createdAt": "2026-09-08T17:09:34+08:00",
-      "updatedAt": "2026-09-08T17:09:34+08:00"
-    },
-    {
-      "title": "Claude完成费马大定理证明",
-      "summary": "Anthropic公布，其模型Claude在11天内完成了费马大定理的首个端到端、可由计算机完整检查的形式化证明，产出约1300万行Lean代码和30300个可验证定理，规模达Mathlib库的5倍以上。",
-      "publishedAt": "2026-09-05T10:00:00+08:00",
-      "source": "金色财经",
-      "url": "https://m.cnyes.com/news/id/6598842",
-      "subCategory": "",
-      "id": "ai-20260905-001",
       "createdAt": "2026-09-08T17:09:34+08:00",
       "updatedAt": "2026-09-08T17:09:34+08:00"
     },
@@ -44,7 +31,7 @@
       "publishedAt": "2026-09-04T10:00:00+08:00",
       "source": "知乎",
       "url": "https://zhuanlan.zhihu.com/p/670574382",
-      "subCategory": "",
+      "subCategory": "Agent",
       "id": "ai-20260904-001",
       "createdAt": "2026-09-08T17:09:34+08:00",
       "updatedAt": "2026-09-08T17:09:34+08:00"
@@ -55,7 +42,7 @@
       "publishedAt": "2026-09-03T10:00:00+08:00",
       "source": "OpenAI",
       "url": "https://openai.com/zh-Hant/index/playco-game-prototyping-with-astra",
-      "subCategory": "",
+      "subCategory": "大模型",
       "id": "ai-20260903-001",
       "createdAt": "2026-09-08T17:09:34+08:00",
       "updatedAt": "2026-09-08T17:09:34+08:00"
@@ -512,15 +499,6 @@
       "id": "ai-20260820-009"
     },
     {
-      "title": "快手分拆可灵独立融资，估值 180 亿美元",
-      "summary": "腾讯、阿里云等 30 余家机构参与，资本加速涌入 AI 应用赛道。",
-      "publishedAt": "2026-08-20T12:00:00+08:00",
-      "source": "读懂AI时代",
-      "url": "https://www.readaitime.com/digests/2026-08-20",
-      "subCategory": "行业动态",
-      "id": "ai-20260820-010"
-    },
-    {
       "title": "消息称 OpenAI 最迟 2027 年上市",
       "summary": "已秘密提交 IPO 招股书，企业级业务年化营收增长 50%。",
       "publishedAt": "2026-08-20T08:17:00+08:00",
@@ -683,33 +661,6 @@
       "subCategory": "Agent"
     },
     {
-      "id": "ai-20260818-029",
-      "title": "半价！全球最大AI聚合平台下调GPT-5.6 Sol调用费用",
-      "summary": "全球AI聚合平台OpenRouter将OpenAI GPT-5.6 Sol模型调用费用降至五折，输入费用从每百万Tokens5美元降至2.5美元，输出费用从30美元降至15美元，Vercel同步推出限时半价活动。",
-      "publishedAt": "2026-08-18T14:47:38+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/991/081.htm",
-      "subCategory": "大模型"
-    },
-    {
-      "id": "ai-20260818-030",
-      "title": "Anthropic披露Model 2模型，能力略高于Claude Mythos 5",
-      "summary": "Anthropic在8月15日发布的风险报告中披露了未发布模型Model 2，内部基准CoBench v2显示其综合能力略高于当前公开的Claude Mythos 5，提升幅度不大。",
-      "publishedAt": "2026-08-18T14:15:12+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/991/074.htm",
-      "subCategory": "大模型"
-    },
-    {
-      "id": "ai-20260818-031",
-      "title": "豆包工作任务模式上新：可在虚拟桌面操作Windows",
-      "summary": "豆包在Windows版本上线虚拟桌面功能，用户开启工作任务模式并授权后，豆包可像人一样查看屏幕、操作鼠标键盘完成跨软件任务，无需依赖MCP或插件，用户可实时观察并随时接管。",
-      "publishedAt": "2026-08-18T14:15:11+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/991/073.htm",
-      "subCategory": "Agent"
-    },
-    {
       "title": "OpenAI推出ChatGPT for Teens青少年版",
       "summary": "OpenAI面向13至17岁用户推出ChatGPT for Teens，默认加强自杀自残、色情等内容限制，新增学习模式引导解题而非直接给答案，并提供家长关联账号、安静时段等家长控制功能，8月18日起全球逐步开放。",
       "publishedAt": "2026-08-18T06:50:00-07:00",
@@ -771,15 +722,6 @@
       "source": "AIbase",
       "url": "https://www.aibase.com/zh/news/30432",
       "subCategory": "Agent"
-    },
-    {
-      "id": "ai-20260817-039",
-      "title": "字节跳动与美国电影协会签署协议，加强AI模型版权保护",
-      "summary": "字节跳动与美国电影协会签署协议，加强旗下Seedance视频生成模型与Seedream图像生成模型的版权保护机制，称新版本已强化知识产权保护功能，双方表示将持续完善相关措施以应对AI技术演进。",
-      "publishedAt": "2026-08-17T23:06:14+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/990/847.htm",
-      "subCategory": "AI视频"
     }
   ]
 }
