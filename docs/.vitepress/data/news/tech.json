@@ -3,8 +3,26 @@
   "slug": "tech",
   "title": "科技新闻",
   "description": "前沿科技、互联网产品、芯片硬件、开源生态。",
-  "updatedAt": "2026-09-09T18:22:03+08:00",
+  "updatedAt": "2026-09-10T12:03:04+08:00",
   "items": [
+    {
+      "id": "tech-20260910-002",
+      "title": "NASA Adds Relativity Space’s Terran R to Launch Services Contract",
+      "summary": "NASA 将 Relativity Space 的 Terran R 发射服务纳入 NLS II 合同，可用于未来任务；该合同支持 NASA 及其他政府机构采购发射服务。",
+      "publishedAt": "2026-09-10T04:11:58+08:00",
+      "source": "NASA",
+      "url": "https://www.nasa.gov/news-release/nasa-adds-relativity-spaces-terran-r-to-launch-services-contract/",
+      "subCategory": "航空航天"
+    },
+    {
+      "id": "tech-20260910-001",
+      "title": "Enterprise managed permissions for GitHub Copilot agent operations",
+      "summary": "GitHub Changelog 公布企业管理员可集中控制 Copilot 代理操作权限，将具体操作设置为阻止、需要人工批准或无需提示即可执行。",
+      "publishedAt": "2026-09-10T04:08:14+08:00",
+      "source": "GitHub Changelog",
+      "url": "https://github.blog/changelog/2026-09-09-enterprise-managed-permissions-for-github-copilot-agent-operations",
+      "subCategory": "开发者工具"
+    },
     {
       "id": "tech-20260909-001",
       "title": "Samsung and Mistral AI Announce Strategic Partnership for Intelligence-Driven Semiconductor Infrastructure",

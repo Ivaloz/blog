@@ -3,8 +3,17 @@
   "slug": "industry",
   "title": "行业新闻",
   "description": "企业服务、SaaS、云计算、制造业、消费互联网的产业动态。",
-  "updatedAt": "2026-09-09T18:22:03+08:00",
+  "updatedAt": "2026-09-10T12:03:04+08:00",
   "items": [
+    {
+      "id": "industry-20260910-001",
+      "title": "NAM to House: Pass the PROTECT USA Act",
+      "summary": "美国制造业协会称，众议院已推进其支持的 PROTECT USA Act，法案拟在欧盟未调整企业可持续尽职调查指令时，为美国企业提供相关法律保护。",
+      "publishedAt": "2026-09-10T04:49:43+08:00",
+      "source": "NAM",
+      "url": "https://nam.org/nam-to-house-pass-the-protect-usa-act/",
+      "subCategory": "制造业"
+    },
     {
       "id": "industry-20260909-001",
       "title": "First Hydrogen Signs Definitive Agreement for Advanced Robotics Technology with Extensive IP and Prepares to Launch First Humanoid",
