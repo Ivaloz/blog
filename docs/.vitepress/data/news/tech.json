@@ -3,8 +3,17 @@
   "slug": "tech",
   "title": "科技新闻",
   "description": "前沿科技、互联网产品、芯片硬件、开源生态。",
-  "updatedAt": "2026-09-10T12:03:04+08:00",
+  "updatedAt": "2026-09-10T13:01:21+08:00",
   "items": [
+    {
+      "id": "tech-20260909-002",
+      "title": "Apple unveils iPhone Duo",
+      "summary": "Apple 发布首款折叠屏 iPhone Duo，展开后提供更大的内屏，并搭载 A20 Pro 芯片和蒸汽室散热；官方公布了预购与发售安排。",
+      "publishedAt": "2026-09-09",
+      "source": "Apple Newsroom",
+      "url": "https://www.apple.com/newsroom/2026/09/apple-unveils-iphone-duo/",
+      "subCategory": "消费电子"
+    },
     {
       "id": "tech-20260910-002",
       "title": "NASA Adds Relativity Space’s Terran R to Launch Services Contract",
