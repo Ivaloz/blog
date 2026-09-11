@@ -3,7 +3,7 @@
   "slug": "policy",
   "title": "政策信息",
   "description": "国家与地方政策、监管动态、产业扶持与合规要求。",
-  "updatedAt": "2026-09-10T13:01:21+08:00",
+  "updatedAt": "2026-09-11T13:01:26+08:00",
   "items": [
     {
       "id": "policy-20260909-001",
@@ -12,6 +12,15 @@
       "publishedAt": "2026-09-09T17:24:00+08:00",
       "source": "中国外交部",
       "url": "https://sv.china-embassy.gov.cn/fyrth/202609/t20260909_12019125.htm",
+      "subCategory": "海外政策"
+    },
+    {
+      "id": "policy-20260909-002",
+      "title": "China, CEE countries unveil 2030 vision for innovation cooperation",
+      "summary": "中国与中东欧国家在宁波举行2026年中国—中东欧国家创新合作大会，发布面向2030年的创新合作愿景，并签署11项产学研合作及创新平台联合开发协议。",
+      "publishedAt": "2026-09-09",
+      "source": "中国政府网",
+      "url": "https://english.www.gov.cn/news/202609/10/content_WS6aa2091fc6d00ca5f9a0d1a9.html",
       "subCategory": "海外政策"
     },
     {
@@ -753,15 +762,6 @@
       "url": "https://www.samr.gov.cn/xw/df/art/2026/art_ad6a205c26d5489e8692131bceccae21.html",
       "subCategory": "金融监管",
       "id": "policy-20260810-050"
-    },
-    {
-      "title": "山东率先启动团体标准化\"省市区\"三级联动工作",
-      "summary": "山东在物业管理行业试点省市区三级联动团体标准化机制，采取\"省级统一发布、市区落地实施\"模式，来自济南、青岛、济宁、临沂等地的8家物业管理协会参与启动，山东为全国团体标准培育试点省份之一。",
-      "publishedAt": "2026-08-10T10:50:00+08:00",
-      "source": "国家市场监督管理总局",
-      "url": "https://www.samr.gov.cn/xw/df/art/2026/art_7fe2d99dc99043bf904e0c7369b7e04d.html",
-      "subCategory": "产业政策",
-      "id": "policy-20260810-051"
     }
   ]
 }

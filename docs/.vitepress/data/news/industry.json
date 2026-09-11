@@ -3,7 +3,7 @@
   "slug": "industry",
   "title": "行业新闻",
   "description": "企业服务、SaaS、云计算、制造业、消费互联网的产业动态。",
-  "updatedAt": "2026-09-10T13:01:21+08:00",
+  "updatedAt": "2026-09-11T13:01:26+08:00",
   "items": [
     {
       "id": "industry-20260910-001",
@@ -51,6 +51,15 @@
       "id": "industry-20260905-003",
       "createdAt": "2026-09-08T17:09:34+08:00",
       "updatedAt": "2026-09-08T17:09:34+08:00"
+    },
+    {
+      "id": "industry-20260904-001",
+      "title": "Global Semiconductor Sales Increase 6.4% Month-to-Month in July",
+      "summary": "半导体行业协会称，2026年7月全球芯片销售额为1468亿美元，环比增长6.4%，同比增长135.1%；美洲、亚太及中国市场继续推动年度增长。",
+      "publishedAt": "2026-09-04",
+      "source": "Semiconductor Industry Association",
+      "url": "https://www.semiconductors.org/global-semiconductor-sales-increase-6-4-month-to-month-in-july",
+      "subCategory": "半导体产业"
     },
     {
       "title": "2026世界动力电池大会宜宾启幕",
