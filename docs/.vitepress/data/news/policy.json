@@ -3,8 +3,62 @@
   "slug": "policy",
   "title": "政策信息",
   "description": "国家与地方政策、监管动态、产业扶持与合规要求。",
-  "updatedAt": "2026-09-11T13:01:26+08:00",
+  "updatedAt": "2026-09-15T15:17:32+08:00",
   "items": [
+    {
+      "id": "policy-20260915-001",
+      "title": "工信部与国家发展改革委发布电子信息制造业“十五五”规划",
+      "summary": "工业和信息化部、国家发展改革委9月15日发布《电子信息制造业发展“十五五”规划》，要求相关地区和单位结合实际贯彻实施。",
+      "publishedAt": "2026-09-15T09:01:00+08:00",
+      "source": "工业和信息化部",
+      "url": "https://www.miit.gov.cn/gyhxxhb/jgsj/dzxxsnew/zcwj/art/2026/art_e388b44e2fc54c0fbc233629e157fcda.html",
+      "subCategory": "产业政策"
+    },
+    {
+      "id": "policy-20260914-001",
+      "title": "出入境中介服务机构和人员备案管理办法发布",
+      "summary": "国家移民管理局、国家市场监督管理总局9月14日发布备案管理办法，明确备案范围、期限和材料要求，办法自9月15日起施行。",
+      "publishedAt": "2026-09-14",
+      "source": "国家移民管理局",
+      "url": "https://www.nia.gov.cn/n897453/c1801612/content.html",
+      "subCategory": "跨境贸易"
+    },
+    {
+      "id": "policy-20260911-001",
+      "title": "国务院常务会议研究算力网建设等工作",
+      "summary": "李强9月11日主持召开国务院常务会议，研究算力网建设和老旧水库改造提升，部署安全生产工作，并审议通过《基金会管理条例（修订草案）》。",
+      "publishedAt": "2026-09-11T19:48:00+08:00",
+      "source": "中国政府网",
+      "url": "https://www.gov.cn/yaowen/liebiao/202609/content_7080787.htm",
+      "subCategory": "数字经济"
+    },
+    {
+      "id": "policy-20260911-002",
+      "title": "工信部发布“人工智能+软件”专项行动实施方案",
+      "summary": "工信部9月11日发布“人工智能+软件”专项行动实施方案，要求各地工业和信息化主管部门结合实际组织落实。",
+      "publishedAt": "2026-09-11T17:24:00+08:00",
+      "source": "工业和信息化部",
+      "url": "https://www.miit.gov.cn/zwgk/zcwj/wjfb/tz/art/2026/art_49783ce685f042029111c8b6e94f0f30.html",
+      "subCategory": "AI 监管"
+    },
+    {
+      "id": "policy-20260910-002",
+      "title": "九部门发布智能网联新能源汽车产业“十五五”规划",
+      "summary": "工业和信息化部等九部门9月10日发布智能网联新能源汽车产业发展“十五五”规划，要求相关部门和单位结合实际贯彻实施。",
+      "publishedAt": "2026-09-10T20:20:00+08:00",
+      "source": "工业和信息化部",
+      "url": "https://www.miit.gov.cn/jgsj/zbys/wjfb/art/2026/art_6136a59a8ff04922b7c73ddbc575434e.html",
+      "subCategory": "新能源政策"
+    },
+    {
+      "id": "policy-20260910-001",
+      "title": "国务院办公厅部署治理中小企业回款难问题",
+      "summary": "国务院办公厅9月10日发布通知，要求分行业明确合理账期，引导大型企业将中小企业最长付款期限限制在60日内，政府采购不得以商业汇票等替代现金支付。",
+      "publishedAt": "2026-09-10",
+      "source": "中国政府网",
+      "url": "https://www.gov.cn/zhengce/content/202609/content_7080627.htm",
+      "subCategory": "产业政策"
+    },
     {
       "id": "policy-20260909-001",
       "title": "2026年9月9日外交部发言人毛宁主持例行记者会",
@@ -708,60 +762,6 @@
       "url": "https://www.fincen.gov/news/news-releases/fincen-permanently-ends-beneficial-ownership-reporting-requirements-millions",
       "subCategory": "金融监管",
       "id": "policy-20260811-044"
-    },
-    {
-      "id": "policy-20260810-045",
-      "title": "中国人民银行印发《中国人民银行\"十五五\"改革发展规划》",
-      "summary": "央行印发《中国人民银行十五五改革发展规划》及9份配套行动方案，聚焦货币政策与宏观审慎框架、科技金融、绿色金融、普惠金融、养老金融、数字金融及金融市场对外开放等重点任务，目标到2030年加快建设金融强国。",
-      "publishedAt": "2026-08-10T18:20:45+08:00",
-      "source": "中国人民银行",
-      "url": "https://www.pbc.gov.cn/goutongjiaoliu/113456/113469/2026081018132329141/index.html",
-      "subCategory": "金融监管"
-    },
-    {
-      "id": "policy-20260810-046",
-      "title": "商务部新闻发言人就对原产于墨西哥和美国的进口碧根果反倾销调查初裁答记者问",
-      "summary": "商务部发言人表示，经调查初步认定原产于墨西哥和美国的进口碧根果存在倾销并对国内产业造成实质损害，已决定对墨西哥企业征收17.8%至51.6%保证金，对未应诉的美国企业统一适用54.3%税率。",
-      "publishedAt": "2026-08-10T18:11:00+08:00",
-      "source": "商务部",
-      "url": "https://www.mofcom.gov.cn/xwfb/xwfyrth/art/2026/art_c3d812a75499429ab0acc4e6b000bf0d.html",
-      "subCategory": "跨境贸易"
-    },
-    {
-      "title": "商务部公告2026年第32号 公布对原产于墨西哥和美国的进口碧根果反倾销调查的初步裁定",
-      "summary": "商务部初裁认定原产于墨西哥和美国的进口碧根果存在倾销且对中国国内产业造成实质损害，自2026年8月11日起，进口经营者需按裁定确定的保证金比率向海关提供保证金。",
-      "publishedAt": "2026-08-10T17:49:00+08:00",
-      "source": "中华人民共和国商务部",
-      "url": "https://www.mofcom.gov.cn/zcfb/gpmy/art/2026/art_46ffd81d07db4310b1e9724573f322a8.html",
-      "subCategory": "跨境贸易",
-      "id": "policy-20260810-047"
-    },
-    {
-      "id": "policy-20260810-048",
-      "title": "Delivering Gold Standard Childhood Vaccine Recommendations for Americans",
-      "summary": "特朗普签署行政令，要求联邦机构建立金标准儿童疫苗建议体系，推动单剂疫苗选项、重新评估接种时间表、研发替代佐剂，并指示司法部对限制医疗与宗教豁免的州法律采取行动。",
-      "publishedAt": "2026-08-10T15:41:50-04:00",
-      "source": "白宫",
-      "url": "https://www.whitehouse.gov/presidential-actions/2026/08/delivering-gold-standard-childhood-vaccine-recommendations-for-americans/",
-      "subCategory": "海外政策"
-    },
-    {
-      "title": "£130 million for cutting-edge next generation vehicles securing over 1,800 jobs",
-      "summary": "英国政府通过DRIVE35计划宣布近1.3亿英镑投资零排放汽车技术，其中约6500万英镑为政府拨款并由产业界配套，将支持超过1800个高价值制造业岗位，另有1700万英镑用于9个互联自动出行先导项目。",
-      "publishedAt": "2026-08-10T12:09:13+01:00",
-      "source": "GOV.UK",
-      "url": "https://www.gov.uk/government/news/130-million-for-cutting-edge-next-generation-vehicles-securing-over-1800-jobs",
-      "subCategory": "新能源政策",
-      "id": "policy-20260810-049"
-    },
-    {
-      "title": "广西全面整治违规使用\"征信\"\"信用评级\"字样经营乱象",
-      "summary": "广西市场监管局联合央行广西分行发布专项整治通知，要求个人征信业务须取得央行许可、企业征信及信用评级业务须完成备案，名称或经营范围含相关字样但未取得资质的企业须整改或注销，否则将被处罚。",
-      "publishedAt": "2026-08-10T10:56:00+08:00",
-      "source": "国家市场监督管理总局",
-      "url": "https://www.samr.gov.cn/xw/df/art/2026/art_ad6a205c26d5489e8692131bceccae21.html",
-      "subCategory": "金融监管",
-      "id": "policy-20260810-050"
     }
   ]
 }

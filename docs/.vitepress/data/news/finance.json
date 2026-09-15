@@ -3,8 +3,44 @@
   "slug": "finance",
   "title": "投资与财经",
   "description": "宏观经济、A 股 / 港股 / 美股、一级市场融资、行业研报观点。",
-  "updatedAt": "2026-09-11T13:01:26+08:00",
+  "updatedAt": "2026-09-15T15:17:32+08:00",
   "items": [
+    {
+      "id": "finance-20260915-001",
+      "title": "国家统计局：8月份规模以上工业增加值增长5.2%",
+      "summary": "国家统计局9月15日发布数据，8月份规模以上工业增加值同比增长5.2%，制造业增长6.1%，计算机通信和其他电子设备制造业增长17.2%。",
+      "publishedAt": "2026-09-15T10:00:00+08:00",
+      "source": "国家统计局",
+      "url": "https://www.stats.gov.cn/sj/zxfbhjd/202609/t20260915_1965308.html",
+      "subCategory": "宏观经济"
+    },
+    {
+      "id": "finance-20260915-002",
+      "title": "央行将开展5000亿元六个月期买断式逆回购",
+      "summary": "新华社9月15日报道，中国人民银行将开展5000亿元、期限六个月的买断式逆回购操作，到期日为2027年3月15日，以保持银行体系流动性充裕。",
+      "publishedAt": "2026-09-15T09:36:41+08:00",
+      "source": "新华网",
+      "url": "http://www2.xinhuanet.com/20260915/3082d9a126fd451083b9f1ebbf0d8475/c.html",
+      "subCategory": "政策利率"
+    },
+    {
+      "id": "finance-20260911-001",
+      "title": "路透：投资者等待美联储会议，市场押注下周可能加息",
+      "summary": "路透9月11日报道，市场定价倾向于美联储下周加息，投资者同时关注债券收益率上升对美国股市反弹的影响，10年期美债收益率接近5%。",
+      "publishedAt": "2026-09-11",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/wall-st-week-ahead-investors-brace-possible-rate-hike-uncertain-fed-meeting-2026-09-11",
+      "subCategory": "宏观经济"
+    },
+    {
+      "id": "finance-20260910-001",
+      "title": "欧洲央行将三项关键利率各上调25个基点",
+      "summary": "欧洲央行9月10日决定上调三项关键利率25个基点，存款机制利率将升至2.50%，并预计2026年欧元区通胀率为3.0%。",
+      "publishedAt": "2026-09-10",
+      "source": "欧洲央行",
+      "url": "https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.mp260910~314e508016.en.html",
+      "subCategory": "政策利率"
+    },
     {
       "id": "finance-20260909-001",
       "title": "China oil demand to fall 8.9% in 2026, Sinopec research says",
@@ -726,24 +762,6 @@
       "source": "Al-Monitor",
       "url": "https://www.al-monitor.com/originals/2026/08/yemens-mocha-port-halts-operations-after-houthi-attacks-port-director-says",
       "subCategory": "风险事件"
-    },
-    {
-      "id": "finance-20260814-052",
-      "title": "US August prelim UMich consumer sentiment 51.0 vs 54.5 expected",
-      "summary": "美国8月密歇根大学消费者信心指数初值报51.0，低于市场预期的54.5，较7月终值55.2下滑。其中现况指数报51.8，预期指数报50.6，消费者一年期通胀预期升至4.3%。",
-      "publishedAt": "2026-08-14T22:00:04+08:00",
-      "source": "InvestingLive",
-      "url": "https://investinglive.com/news/us-august-prelim-umich-consumer-sentiment-51-0-vs-54-5-expected/",
-      "subCategory": "宏观经济"
-    },
-    {
-      "id": "finance-20260814-053",
-      "title": "贵州茅台上半年净利润445.17亿元，同比下降1.95%",
-      "summary": "贵州茅台披露2026年半年报，上半年实现营业收入907.03亿元，同比增长1.47%；归属于上市公司股东的净利润445.17亿元，同比下降1.95%，其中二季度净利润较一季度环比下滑约36%。",
-      "publishedAt": "2026-08-14T20:42:33+08:00",
-      "source": "财联社",
-      "url": "https://www.cls.cn/detail/2454847",
-      "subCategory": "公司财报"
     }
   ]
 }

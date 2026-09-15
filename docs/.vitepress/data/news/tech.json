@@ -3,8 +3,44 @@
   "slug": "tech",
   "title": "科技新闻",
   "description": "前沿科技、互联网产品、芯片硬件、开源生态。",
-  "updatedAt": "2026-09-11T13:01:26+08:00",
+  "updatedAt": "2026-09-15T15:17:32+08:00",
   "items": [
+    {
+      "id": "tech-20260914-002",
+      "title": "Universal Robots 发布第七代协作机器人平台 Gen 7",
+      "summary": "Universal Robots 9月14日在 IMTS 展会上发布第七代协作机器人平台 Gen 7，定位于工业自动化和实体智能部署。",
+      "publishedAt": "2026-09-14T14:20:51+00:00",
+      "source": "Universal Robots",
+      "url": "https://www.universal-robots.com/news-and-media/news-center/universal-robots-unveils-gen-7-new-platform-industrial-automation-physical-ai/",
+      "subCategory": "机器人"
+    },
+    {
+      "id": "tech-20260914-001",
+      "title": "英伟达扩展开源 CUDA-Q 平台，加入容错量子计算编排层",
+      "summary": "英伟达9月14日宣布扩展开源 CUDA-Q 平台，新增 CUDA-Q Logical 编排层；费米实验室称其将容错架构开发周期从五个月缩短至三周。",
+      "publishedAt": "2026-09-14",
+      "source": "NVIDIA Newsroom",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-expands-open-source-cuda-q-platform-for-fault-tolerant-quantum-computing",
+      "subCategory": "开发者工具"
+    },
+    {
+      "id": "tech-20260913-001",
+      "title": "现代汽车集团启用用于自动驾驶研发的 AI 数据飞轮",
+      "summary": "现代汽车集团9月13日宣布全面启用 Data Flywheel，通过数据采集、AI训练、验证和部署闭环推进自动驾驶技术迭代，并展示 Atria AI 测试成果。",
+      "publishedAt": "2026-09-13",
+      "source": "Hyundai Motor Group",
+      "url": "https://www.hyundai.com/worldwide/en/newsroom/detail/0000001273",
+      "subCategory": "智能汽车"
+    },
+    {
+      "id": "tech-20260910-003",
+      "title": "IBM、洛克希德·马丁与苏黎世联邦理工启动瑞士量子创新中心",
+      "summary": "IBM与洛克希德·马丁9月10日宣布在苏黎世联邦理工启动量子创新中心，计划在年底前部署瑞士首台 IBM Quantum System Two，面向科研和产业开放。",
+      "publishedAt": "2026-09-10",
+      "source": "IBM Quantum",
+      "url": "https://www.ibm.com/quantum/blog/swiss-innovation-hub",
+      "subCategory": "芯片硬件"
+    },
     {
       "id": "tech-20260910-002",
       "title": "NASA Adds Relativity Space’s Terran R to Launch Services Contract",

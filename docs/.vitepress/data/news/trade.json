@@ -3,8 +3,26 @@
   "slug": "trade",
   "title": "外贸资讯",
   "description": "亚马逊、TikTok Shop、阿里国际站、Shopify 等平台政策与跨境电商市场、独立站、物流支付、关税法规、选品趋势。",
-  "updatedAt": "2026-09-11T13:01:26+08:00",
+  "updatedAt": "2026-09-15T15:17:32+08:00",
   "items": [
+    {
+      "id": "trade-20260910-001",
+      "title": "印度上线连接出口商与美国买家的贸易平台",
+      "summary": "彭博9月10日报道，印度上线帮助本国出口商触达美国买家的线上平台，印度正以扩大双边贸易为目标推进与美国的贸易谈判。",
+      "publishedAt": "2026-09-10T01:21:00-05:00",
+      "source": "彭博社",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-10/india-links-exporters-with-us-buyers-in-500-billion-trade-push",
+      "subCategory": "新兴市场"
+    },
+    {
+      "id": "trade-20260904-001",
+      "title": "联合国贸发会议：数字服务占全球服务出口比重升至56%",
+      "summary": "联合国贸发会议9月发布《全球贸易更新》称，数字可交付服务过去十年年均增长7.1%，2025年已占全球服务出口56%；最不发达国家占比仅0.6%。",
+      "publishedAt": "2026-09-04",
+      "source": "联合国贸发会议",
+      "url": "https://unctad.org/publication/global-trade-update-september-2026-services-are-reshaping-global-trade",
+      "subCategory": "海关数据"
+    },
     {
       "id": "trade-20260909-001",
       "title": "Accelerating Export Growth for SMEs and Mid-Sized Companies: Trade Finance Support Expanded to KRW 120 Trillion This Year, KRW 140 Trillion Next Year",

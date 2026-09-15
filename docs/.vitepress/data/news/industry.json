@@ -3,8 +3,26 @@
   "slug": "industry",
   "title": "行业新闻",
   "description": "企业服务、SaaS、云计算、制造业、消费互联网的产业动态。",
-  "updatedAt": "2026-09-11T13:01:26+08:00",
+  "updatedAt": "2026-09-15T15:17:32+08:00",
   "items": [
+    {
+      "id": "industry-20260911-002",
+      "title": "Vicor 为新增 ChiP 芯片工厂购置场地",
+      "summary": "Vicor 9月11日宣布购置美国新罕布什尔州两处场地，用于建设 ChiP Fab-2 和 Fab-3，合计规划面积近100万平方英尺，以扩大模块化电源器件产能。",
+      "publishedAt": "2026-09-11T10:55:00-04:00",
+      "source": "Vicor Corporation",
+      "url": "https://www.globenewswire.com/news-release/2026/09/11/3360412/0/en/vicor-acquires-sites-for-additional-chip-fabs.html",
+      "subCategory": "半导体产业"
+    },
+    {
+      "id": "industry-20260911-001",
+      "title": "西门子医疗在德国启用光子计数传感器晶圆厂",
+      "summary": "西门子医疗9月11日启用德国福希海姆光子计数传感器工厂，生产用于光子计数CT的碲化镉传感器；项目投资约1亿欧元并新增逾100个岗位。",
+      "publishedAt": "2026-09-11",
+      "source": "Siemens Healthineers",
+      "url": "https://www.siemens-healthineers.com/press/releases/sensorfab",
+      "subCategory": "医疗健康"
+    },
     {
       "id": "industry-20260910-001",
       "title": "NAM to House: Pass the PROTECT USA Act",
