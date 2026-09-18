@@ -776,15 +776,6 @@
       "url": "https://news.aibase.com/news/30425",
       "subCategory": "Agent",
       "id": "ai-20260818-036"
-    },
-    {
-      "id": "ai-20260818-037",
-      "title": "昆仑万维发布AI音乐模型Mureka V9.5",
-      "summary": "昆仑万维发布AI音乐模型Mureka V9.5，核心升级MusiCoT框架在生成前先构建音乐结构与旋律逻辑，内部测试显示人声良好率达61%，提示词控制准确率97%，已在mureka.ai上线。",
-      "publishedAt": "2026-08-18",
-      "source": "AIbase",
-      "url": "https://www.aibase.com/zh/news/30430",
-      "subCategory": "AI音频"
     }
   ]
 }
