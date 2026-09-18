@@ -13,3 +13,7 @@ _tmp_*
 __pycache__/
 *.pyc
 .git-rewrite
+
+# 树洞本地数据（开发期产生的留言，不进仓库）
+treehole/data.json
+treehole/data.json.bak
