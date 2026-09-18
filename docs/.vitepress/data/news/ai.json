@@ -79,7 +79,7 @@
     },
     {
       "id": "ai-20260908-001",
-      "title": "Introducing Muse: The World’s First Personal AI Agent Built for Everyone",
+      "title": "Meta 发布 Muse：全球首款面向所有人的个人 AI 智能体",
       "summary": "Meta 推出个人 AI 智能体 Muse，运行于独立的 Muse Secure VM，可跨应用执行任务、在敏感操作前请求授权并提供审计记录；产品先在美国上线，未来支持 AI 眼镜。",
       "publishedAt": "2026-09-08",
       "source": "Meta Newsroom",
@@ -208,7 +208,7 @@
       "updatedAt": "2026-09-02T18:17:47+08:00"
     },
     {
-      "title": "Introducing Claude Fable 5.1 and Claude Mythos 5.1",
+      "title": "Anthropic 发布 Claude Fable 5.1 与 Claude Mythos 5.1",
       "summary": "Anthropic发布Claude Fable 5.1和Mythos 5.1模型，称其为全球最先进的编程与知识工作模型。Fable 5.1在Terminal-Bench 4.0编程基准中得分55.8%，超越前代Fable 5（42.0%）和OpenAI GPT-5.6 Sol（37.3%）。缓存读取费用下调75%，典型工作负载成本降低约25%。Mythos 5.1仅通过可信访问计划向网络安全和生命科学机构提供。",
       "publishedAt": "2026-09-02T00:00:00+08:00",
       "source": "Anthropic",

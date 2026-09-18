@@ -62,6 +62,27 @@ jobs:
           done
           exit $fail
 
+      - name: Verify titles contain Chinese
+        # 本站是中文平台:每条 title 必须含汉字 —— 英文原文标题直接抄进 title = 翻译未完成。
+        # 专有名词 / 缩写 / 数字混排在中文句子里属正常,只拦截「整条无汉字」的标题。
+        # 与本地自检 scripts/check-zh-titles.mjs 是同一规则。
+        run: |
+          fail=0
+          for f in docs/.vitepress/data/news/policy.json \
+                   docs/.vitepress/data/news/tech.json \
+                   docs/.vitepress/data/news/industry.json \
+                   docs/.vitepress/data/news/trade.json \
+                   docs/.vitepress/data/news/ai.json \
+                   docs/.vitepress/data/news/finance.json; do
+            bad=$(jq -r '.items[]? | select((.title // "") | test("[\u3400-\u4dbf\u4e00-\u9fff]") | not) | "\(.id // .url) title=\(.title)"' "$f")
+            if [ -n "$bad" ]; then
+              while IFS= read -r line; do
+                echo "::error file=$f::title contains no Chinese characters (untranslated): $line"
+              done <<< "$bad"
+              fail=1
+            fi
+          done
+          exit $fail
       - name: Verify no placeholder URLs leaked into production data
         run: |
           if grep -rn 'example\.com' docs/.vitepress/data/news/*.json; then

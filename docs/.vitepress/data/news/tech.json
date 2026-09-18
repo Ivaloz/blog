@@ -52,7 +52,7 @@
     },
     {
       "id": "tech-20260910-002",
-      "title": "NASA Adds Relativity Space’s Terran R to Launch Services Contract",
+      "title": "NASA 将 Relativity Space 的 Terran R 火箭纳入发射服务合同",
       "summary": "NASA 将 Relativity Space 的 Terran R 发射服务纳入 NLS II 合同，可用于未来任务；该合同支持 NASA 及其他政府机构采购发射服务。",
       "publishedAt": "2026-09-10T04:11:58+08:00",
       "source": "NASA",
@@ -61,7 +61,7 @@
     },
     {
       "id": "tech-20260910-001",
-      "title": "Enterprise managed permissions for GitHub Copilot agent operations",
+      "title": "GitHub Copilot 代理操作推出企业级托管权限",
       "summary": "GitHub Changelog 公布企业管理员可集中控制 Copilot 代理操作权限，将具体操作设置为阻止、需要人工批准或无需提示即可执行。",
       "publishedAt": "2026-09-10T04:08:14+08:00",
       "source": "GitHub Changelog",
@@ -70,7 +70,7 @@
     },
     {
       "id": "tech-20260909-002",
-      "title": "Apple unveils iPhone Duo",
+      "title": "苹果发布首款折叠屏 iPhone Duo",
       "summary": "Apple 发布首款折叠屏 iPhone Duo，展开后提供更大的内屏，并搭载 A20 Pro 芯片和蒸汽室散热；官方公布了预购与发售安排。",
       "publishedAt": "2026-09-09",
       "source": "Apple Newsroom",
@@ -79,7 +79,7 @@
     },
     {
       "id": "tech-20260909-001",
-      "title": "Samsung and Mistral AI Announce Strategic Partnership for Intelligence-Driven Semiconductor Infrastructure",
+      "title": "三星与 Mistral AI 达成战略合作，共建智能驱动半导体基础设施",
       "summary": "三星宣布与 Mistral AI 建立战略合作，将把 Mistral Large 等 AI 服务用于半导体设计与制造，重点推进缺陷检测、设备优化和先进芯片良率稳定。",
       "publishedAt": "2026-09-09",
       "source": "Samsung Global Newsroom",
@@ -88,7 +88,7 @@
     },
     {
       "id": "tech-20260908-001",
-      "title": "Announcing new builds for 8 September 2026",
+      "title": "微软发布 9 月 8 日 Windows 11 预览版新构建",
       "summary": "微软发布 Windows 11 Beta 与 Experimental 频道预览版本，并公布 26H1 和 Future Platforms 构建号；更新包含跨设备续接、讲述人数学公式阅读及多显示器放大镜改进。",
       "publishedAt": "2026-09-08",
       "source": "Windows Insider Blog",
