@@ -22,6 +22,11 @@ jobs:
           cache: pnpm
       - run: pnpm install
       - run: pnpm run docs:build
+        env:
+          # 树洞后端地址。在仓库 Settings → Secrets and variables → Actions → Variables
+          # 里新建一个名为 VITE_TREEHOLE_API 的 Variable，值为 Worker 的 URL。
+          # 未设置时为空串，树洞页会退回同域相对路径（显示「连不上服务」，其余页面不受影响）。
+          VITE_TREEHOLE_API: ${{ vars.VITE_TREEHOLE_API }}
       - uses: actions/upload-pages-artifact@v3
         with:
           path: docs/.vitepress/dist
