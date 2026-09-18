@@ -1,0 +1,31 @@
+# ============================================================
+# 树洞广场 API · Cloudflare Worker 配置
+#
+# 部署前需要改的只有一处：database_id
+# 拿到它的方法：
+#   npx wrangler d1 create treehole
+# 命令会打印一段 [[d1_databases]]，把里面的 database_id 抄到下面即可。
+# ============================================================
+
+name = "treehole-api"
+main = "src/index.js"
+compatibility_date = "2026-09-01"
+
+# 不需要 Node 兼容层 —— 全部用 Web 标准 API 写，只有 crypto.randomUUID 一处
+# （它在 Workers 运行时里原生可用，不依赖 nodejs_compat）
+
+[vars]
+# CORS 白名单，逗号分隔。
+# '*' = 允许任何站点调用（测试期方便，正式上线建议收紧到自己的域名）
+# 例：ALLOWED_ORIGINS = "https://your-site.example.com,https://www.your-site.example.com"
+ALLOWED_ORIGINS = "*"
+
+[[d1_databases]]
+binding = "DB"                    # 代码里用 env.DB 访问
+database_name = "treehole"
+database_id = "PASTE_YOUR_DATABASE_ID_HERE"   # ← 跑完 d1 create 后替换
+
+# ------------------------------------------------------------
+# 不要提交进仓库、但本地开发会生成的文件：
+#   .wrangler/          wrangler 的本地状态（含本地 D1 的 sqlite）
+# ------------------------------------------------------------

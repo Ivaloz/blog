@@ -17,3 +17,6 @@ __pycache__/
 # 树洞本地数据（开发期产生的留言，不进仓库）
 treehole/data.json
 treehole/data.json.bak
+
+# 树洞 Worker 本地开发状态（wrangler 生成的本地 D1 数据库）
+treehole/worker/.wrangler/

@@ -1,6 +1,8 @@
 # 树洞广场
 
-匿名公开留言板。前端是一份**零依赖静态单页**，后端是一个**零依赖 Node HTTP 服务**，全部跑在本机即可使用。
+匿名公开留言板。前端是一份**零依赖静态单页**；后端有**两套实现，接口完全一致**：
+**本地开发用 Node**（`server.js`，零依赖），**线上用 Cloudflare Workers + D1**（`worker/`）。
+两者可随时互换，前端零改动。
 
 - 双主题：**卡片风**（默认）/ **极简风**，一键切换，选择存在 `localStorage`
 - 匿名身份：浏览器首次访问生成一个随机 `visitorId`，服务端据此派生小动物头像与等级
@@ -12,8 +14,13 @@
 
 ```
 treehole/
-  server.js        # 本地开发后端（零依赖，仅用 Node 内置模块）
-  data.json        # 本地数据（已 gitignore，不进仓库）
+  server.js        # 本地开发后端（Node 内置模块，零依赖）
+  data.json        # 本地 Node 版数据（已 gitignore，不进仓库）
+  worker/          # 线上后端（Cloudflare Workers + D1）
+    src/index.js     # Worker 入口，8 个 /api/* 端点
+    schema.sql       # D1 建表语句（幂等，可重复执行）
+    wrangler.toml    # 部署配置（database_id 待填）
+    部署手册-*.md    # 逐步上线手册
   README.md
 
 docs/public/treehole/
@@ -28,24 +35,37 @@ docs/.vitepress/theme/components/TreeHole.vue
 
 ## 本地运行
 
-```bash
-# 1) 起后端（默认端口 8788）
-node treehole/server.js
+**方式一 · Node 版**（改后端逻辑时最方便，数据是 `data.json`）
 
-# 2) 另开一个终端起站点
-node node_modules/vitepress/bin/vitepress.js dev docs --port 5173
+```bash
+node treehole/server.js                                            # 后端 :8788
+node node_modules/vitepress/bin/vitepress.js dev docs --port 5173   # 站点 :5173
 ```
 
-然后打开 <http://localhost:5173/treehole>。开发模式下 `TreeHole.vue` 会自动把前端指向
+打开 <http://localhost:5173/treehole>。开发模式下 `TreeHole.vue` 默认把前端指向
 `http://localhost:8788`，开箱即用。
+
+**方式二 · Worker 版**（本地 D1，不需要 Cloudflare 账号、不联网）
+
+```bash
+cd treehole/worker
+npx wrangler d1 execute treehole --local --file=schema.sql   # 建本地库（仅首次）
+npx wrangler dev --local --port 8789                        # 后端 :8789
+```
+
+打开 <http://localhost:5173/treehole/index.html?api=http://127.0.0.1:8789>。
+本地数据在 `treehole/worker/.wrangler/`（已 gitignore），删掉该目录即回空库。
+
+> 两套后端的接口契约完全一致，可以同时起、分别用 `?api=` 切换对照。
 
 ### 环境变量
 
 | 变量 | 作用 | 默认 |
 |---|---|---|
-| `PORT` | 后端端口 | `8788` |
-| `TREEHOLE_PUBLIC_DIR` | 静态目录 | `../docs/public/treehole` |
-| `TREEHOLE_ALLOWED_ORIGINS` | CORS 白名单，逗号分隔 | `*` |
+| `PORT` | Node 版后端端口 | `8788` |
+| `TREEHOLE_PUBLIC_DIR` | Node 版静态目录 | `../docs/public/treehole` |
+| `TREEHOLE_ALLOWED_ORIGINS` | Node 版 CORS 白名单，逗号分隔 | `*` |
+| `ALLOWED_ORIGINS` | Worker 版 CORS 白名单，逗号分隔（在 `wrangler.toml`） | `*` |
 
 站点侧用 `VITE_TREEHOLE_API` 覆盖接口地址（构建时注入）；静态页自身也接受
 `?api=https://...` 查询参数，便于一份产物适配不同环境。
@@ -68,15 +88,32 @@ POST /api/me       {visitorId,nickname?,bio?,avatarUrl?}
 
 ## 数据
 
-全部落在 `data.json`（内存为主，写操作后 120ms 防抖落盘）。四个集合：
-`visitors` / `messages` / `replies` / `likes`。删除该文件即可回到空库。
+| 后端 | 存储 | 位置 |
+|---|---|---|
+| Node 版 | JSON 文件（内存为主，写操作后 120ms 防抖落盘） | `treehole/data.json` |
+| Worker 版（本地） | 本地 D1（SQLite） | `treehole/worker/.wrangler/` |
+| Worker 版（线上） | 远端 D1 | Cloudflare，由 `wrangler` 管理 |
+
+四个集合：`visitors` / `messages` / `replies` / `likes`。两套后端的表结构一一对应。
 
 ## 部署状态
 
-**尚未部署。** 目前只在本地跑通（`localhost`）。
+**Worker 版代码已完成，本地全链路验证通过**（26 项接口测试 + 浏览器实测发帖/点赞/回复 + D1 落盘核验）。
+**尚未部署到线上** —— 部署动作由账号主人执行，步骤见 [`worker/部署手册-2026-09-18.md`](worker/部署手册-2026-09-18.md)。
 
-后端若要上线，需要先确定落点：Cloudflare Workers + D1、自建服务器、或与站点同域。
-`server.js` 是标准 Node `http` 服务，**不能直接搬到 Workers**（Workers 不是 Node 运行时），
-届时需要按目标平台的形态改写路由层；数据层与业务逻辑可以照搬。
+选型结论（2026-09）：**Cloudflare Workers + D1**。理由是 Workers Free + D1 Free + Pages **都不需要绑信用卡**，
+而同类方案（Twikoo 等）强制依赖 R2、R2 必须绑卡，故排除。
 
-上线前还需要收尾：把 `TREEHOLE_ALLOWED_ORIGINS` 从 `*` 收紧到实际站点域名。
+两套后端的差异：
+
+| | Node 版（`server.js`） | Worker 版（`worker/src/index.js`） |
+|---|---|---|
+| 用途 | 本地开发、逻辑对照 | 线上部署 |
+| 静态文件 | 自带（`PUBLIC_DIR`） | **不管**，前端由站点托管 |
+| 身份派生哈希 | `crypto.createHash('sha256')` | FNV-1a 32 位（Workers 无 `createHash`） |
+| 统计查询 | 逐帖 `filter` 全量扫描 | `db.batch()` 两条 GROUP BY 批量聚合（无 N+1） |
+| 落盘 | 120ms 防抖写 `data.json` | D1 即时持久 |
+| 限流 | 进程内存 Map | isolate 内存 Map（**挡连点，挡不住分布式刷量**） |
+
+> ⚠️ 因为哈希算法不同，**同一个 `visitorId` 在两套后端下会映射到不同的小动物**（如 🦉 vs 🐼）。
+> 这只是显示层差异，不影响任何数据。线上只会跑一套，所以不会有割裂感。
