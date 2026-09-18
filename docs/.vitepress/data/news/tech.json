@@ -3,8 +3,17 @@
   "slug": "tech",
   "title": "科技新闻",
   "description": "前沿科技、互联网产品、芯片硬件、开源生态。",
-  "updatedAt": "2026-09-18T11:42:34+08:00",
+  "updatedAt": "2026-09-18T13:02:09+08:00",
   "items": [
+    {
+      "id": "tech-20260917-001",
+      "title": "GitHub Actions 的 Ubuntu 26.04 运行器镜像正式可用于生产",
+      "summary": "GitHub 宣布 Ubuntu 26.04 的 GitHub Actions 运行器镜像结束公开预览，现已支持 x64 和 arm64 生产工作流；ubuntu-latest 将在10月19日至11月19日期间逐步迁移。",
+      "publishedAt": "2026-09-17",
+      "source": "GitHub Changelog",
+      "url": "https://github.blog/changelog/2026-09-17-ubuntu-26-generally-available-and-latest-migration",
+      "subCategory": "开发者工具"
+    },
     {
       "id": "tech-20260914-002",
       "title": "Universal Robots 发布第七代协作机器人平台 Gen 7",
