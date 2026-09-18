@@ -3,8 +3,17 @@
   "slug": "industry",
   "title": "行业新闻",
   "description": "企业服务、SaaS、云计算、制造业、消费互联网的产业动态。",
-  "updatedAt": "2026-09-15T15:17:32+08:00",
+  "updatedAt": "2026-09-18T11:42:34+08:00",
   "items": [
+    {
+      "id": "industry-20260916-001",
+      "title": "DarkHorse Technologies 完成品牌更名，聚焦 AI 基础设施",
+      "summary": "DarkHorse Technologies 9月16日宣布完成由 Sphere 3D 更名，业务将聚焦田纳西州和肯塔基州的电力及数据中心资产，为高性能计算和 AI 负载提供基础设施。",
+      "publishedAt": "2026-09-16T08:00:00-04:00",
+      "source": "DarkHorse Technologies Inc.",
+      "url": "https://www.newsfilecorp.com/release/314495",
+      "subCategory": "企业服务"
+    },
     {
       "id": "industry-20260911-002",
       "title": "Vicor 为新增 ChiP 芯片工厂购置场地",
@@ -91,6 +100,17 @@
       "updatedAt": "2026-09-08T17:09:34+08:00"
     },
     {
+      "title": "Salesforce发布Agentforce Winter 27，AI代理首次在生产环境运行完整企业工作流",
+      "summary": "Salesforce于9月1日发布Winter 27版本，计划10月12日全面上线。该版本首次实现AI代理在生产环境中端到端完成工作流，PowerSchool已有550+用户运行Adaptive Experiences功能。调查显示生产部署可降低运营成本29%、问题解决速度提升31%。",
+      "publishedAt": "2026-09-01T12:13:49-04:00",
+      "source": "TechTimes",
+      "url": "https://www.techtimes.com/articles/326164/20260901/salesforce-agentforce-winter-27-ai-agents-now-run-full-enterprise-workflows-production.htm",
+      "subCategory": "企业服务",
+      "id": "industry-20260902-007",
+      "createdAt": "2026-09-02T18:17:47+08:00",
+      "updatedAt": "2026-09-02T18:17:47+08:00"
+    },
+    {
       "title": "CSEAC 2026观察：设备、元件、材料协同成核心命题，半导体设备产业韧性如何构建",
       "summary": "第十四届半导体设备材料及核心部件展（CSEAC 2026）在无锡召开。北方华创总裁表示2026年全球半导体市场预计达1.5万亿美元，晶圆产能持续紧缺推动海外订单回流。国产设备市占率已达23%超越日本，AI辅助设计使产品开发周期缩短70%。",
       "publishedAt": "2026-09-01T22:27:00+08:00",
@@ -98,17 +118,6 @@
       "url": "https://www.chinastarmarket.cn/detail/2471222",
       "subCategory": "半导体产业",
       "id": "industry-20260902-004",
-      "createdAt": "2026-09-02T18:17:47+08:00",
-      "updatedAt": "2026-09-02T18:17:47+08:00"
-    },
-    {
-      "title": "京瓷在长崎新建半导体零部件工厂竣工，投资680亿日元应对AI需求增长",
-      "summary": "日本京瓷公司在长崎县谏早市新建的半导体零部件工厂9月1日竣工，系其约20年来首次在国内新建工厂，将生产半导体制造设备用陶瓷零部件及IC封装产品。计划2028年前投资680亿日元，2027年4月全面投产，2030年后年产能达250亿日元。",
-      "publishedAt": "2026-09-01T18:32:00+09:00",
-      "source": "共同社",
-      "url": "https://china.kyodonews.net/articles/-/15029",
-      "subCategory": "半导体产业",
-      "id": "industry-20260902-003",
       "createdAt": "2026-09-02T18:17:47+08:00",
       "updatedAt": "2026-09-02T18:17:47+08:00"
     },
@@ -124,13 +133,13 @@
       "updatedAt": "2026-09-02T18:17:47+08:00"
     },
     {
-      "title": "Salesforce发布Agentforce Winter 27，AI代理首次在生产环境运行完整企业工作流",
-      "summary": "Salesforce于9月1日发布Winter 27版本，计划10月12日全面上线。该版本首次实现AI代理在生产环境中端到端完成工作流，PowerSchool已有550+用户运行Adaptive Experiences功能。调查显示生产部署可降低运营成本29%、问题解决速度提升31%。",
-      "publishedAt": "2026-09-01T12:13:49-04:00",
-      "source": "TechTimes",
-      "url": "https://www.techtimes.com/articles/326164/20260901/salesforce-agentforce-winter-27-ai-agents-now-run-full-enterprise-workflows-production.htm",
-      "subCategory": "企业服务",
-      "id": "industry-20260902-007",
+      "title": "京瓷在长崎新建半导体零部件工厂竣工，投资680亿日元应对AI需求增长",
+      "summary": "日本京瓷公司在长崎县谏早市新建的半导体零部件工厂9月1日竣工，系其约20年来首次在国内新建工厂，将生产半导体制造设备用陶瓷零部件及IC封装产品。计划2028年前投资680亿日元，2027年4月全面投产，2030年后年产能达250亿日元。",
+      "publishedAt": "2026-09-01T18:32:00+09:00",
+      "source": "共同社",
+      "url": "https://china.kyodonews.net/articles/-/15029",
+      "subCategory": "半导体产业",
+      "id": "industry-20260902-003",
       "createdAt": "2026-09-02T18:17:47+08:00",
       "updatedAt": "2026-09-02T18:17:47+08:00"
     },
@@ -457,15 +466,6 @@
       "subCategory": "行业研报"
     },
     {
-      "id": "industry-20260817-020",
-      "title": "Omdia：2026年全球智能手机出货量将下降12.2%",
-      "summary": "Omdia预测2026年全球智能手机出货量将同比下降12.2%，降至10.93亿部，较2025年减少1.52亿部；受存储芯片涨价影响，平均销售价格预计从467美元升至565美元，市场结构向高端化转移。",
-      "publishedAt": "2026-08-17T02:38:00+08:00",
-      "source": "新浪科技",
-      "url": "https://finance.sina.com.cn/tech/roll/2026-08-17/doc-ininqarf8067201.shtml",
-      "subCategory": "行业研报"
-    },
-    {
       "title": "Omdia：2026年Q2全球可穿戴腕带设备出货量同比下滑2%，华为份额18%",
       "summary": "Omdia数据显示，2026年第二季度全球可穿戴腕带设备出货量同比下滑2%，华为以18%份额居首，小米17%列第二，苹果16%列第三，智能手表出货量增长6%。",
       "publishedAt": "2026-08-17",
@@ -482,6 +482,15 @@
       "url": "https://www.199it.com/archives/1846078.html",
       "subCategory": "公司动态",
       "id": "industry-20260817-022"
+    },
+    {
+      "id": "industry-20260817-020",
+      "title": "Omdia：2026年全球智能手机出货量将下降12.2%",
+      "summary": "Omdia预测2026年全球智能手机出货量将同比下降12.2%，降至10.93亿部，较2025年减少1.52亿部；受存储芯片涨价影响，平均销售价格预计从467美元升至565美元，市场结构向高端化转移。",
+      "publishedAt": "2026-08-17T02:38:00+08:00",
+      "source": "新浪科技",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-08-17/doc-ininqarf8067201.shtml",
+      "subCategory": "行业研报"
     },
     {
       "id": "industry-20260816-028",

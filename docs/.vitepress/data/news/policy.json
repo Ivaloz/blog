@@ -3,8 +3,17 @@
   "slug": "policy",
   "title": "政策信息",
   "description": "国家与地方政策、监管动态、产业扶持与合规要求。",
-  "updatedAt": "2026-09-15T15:17:32+08:00",
+  "updatedAt": "2026-09-18T11:42:34+08:00",
   "items": [
+    {
+      "id": "policy-20260916-001",
+      "title": "外交部回应中国—东盟博览会与欧盟网络安全法案",
+      "summary": "外交部9月16日介绍第23届中国—东盟博览会及商务与投资峰会安排，并回应欧盟网络安全法案修订案可能影响欧洲通信投资的问题。",
+      "publishedAt": "2026-09-16T17:55:00+08:00",
+      "source": "中国外交部",
+      "url": "https://vancouver.china-consulate.gov.cn/fyrth/202609/t20260916_12023724.htm",
+      "subCategory": "跨境贸易"
+    },
     {
       "id": "policy-20260915-001",
       "title": "工信部与国家发展改革委发布电子信息制造业“十五五”规划",
@@ -22,6 +31,15 @@
       "source": "国家移民管理局",
       "url": "https://www.nia.gov.cn/n897453/c1801612/content.html",
       "subCategory": "跨境贸易"
+    },
+    {
+      "id": "policy-20260912-001",
+      "title": "国务院公布《市场监督管理所条例》",
+      "summary": "国务院公布《市场监督管理所条例》，明确市场监管所的机构定位、基层监管职责和服务要求，条例自2026年11月1日起施行。",
+      "publishedAt": "2026-09-12",
+      "source": "人民日报",
+      "url": "https://cpc.people.com.cn/n1/2026/0912/c64094-40797355.html",
+      "subCategory": "反垄断"
     },
     {
       "id": "policy-20260911-001",
@@ -530,15 +548,6 @@
       "subCategory": "海外政策"
     },
     {
-      "id": "policy-20260814-019",
-      "title": "证监会发布上市公司2025年年度财务报告会计监管报告",
-      "summary": "中国证监会发布《上市公司2025年年度财务报告会计监管报告》，截至2026年4月30日共5517家公司披露年报，其中214家被出具非标准审计意见，涉及收入、金融工具、资产减值等会计问题。",
-      "publishedAt": "2026-08-14T18:30:00+08:00",
-      "source": "中国新闻网",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-14/10677789.shtml",
-      "subCategory": "金融监管"
-    },
-    {
       "id": "policy-20260814-020",
       "title": "Review launched to shape pathway to reach zero emission driving by 2035",
       "summary": "英国交通部、商业与贸易部等部门就“零排放汽车（ZEV）强制配额”机制启动公开评估，就2030年停售新燃油乘用车、2035年新车全面实现零排放的路径公开征求车企、经销商及公众意见，评估期至10月23日截止。",
@@ -546,6 +555,15 @@
       "source": "英国政府网（GOV.UK）/ 交通部",
       "url": "https://www.gov.uk/government/news/review-launched-to-shape-pathway-to-reach-zero-emission-driving-by-2035",
       "subCategory": "新能源政策"
+    },
+    {
+      "id": "policy-20260814-019",
+      "title": "证监会发布上市公司2025年年度财务报告会计监管报告",
+      "summary": "中国证监会发布《上市公司2025年年度财务报告会计监管报告》，截至2026年4月30日共5517家公司披露年报，其中214家被出具非标准审计意见，涉及收入、金融工具、资产减值等会计问题。",
+      "publishedAt": "2026-08-14T18:30:00+08:00",
+      "source": "中国新闻网",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-14/10677789.shtml",
+      "subCategory": "金融监管"
     },
     {
       "id": "policy-20260814-021",
@@ -744,24 +762,6 @@
       "url": "https://news.china.com/socialgd/10000169/20260811/49666843.html",
       "subCategory": "产业政策",
       "id": "policy-20260811-042"
-    },
-    {
-      "title": "英国首相宣布整治电子烟店与博彩店 拯救衰落商业街",
-      "summary": "英国首相安迪·伯纳姆宣布一揽子措施整治商业街：取消博彩法中的默许通过规则以赋予地方议会拒批新博彩店权力，要求新开电子烟店须获规划许可并收紧其定义，明年起对成人游戏中心设置规划要求，并将涉黑经营场所的最长关停令期限从6个月延长至12个月。",
-      "publishedAt": "2026-08-11",
-      "source": "GOV.UK",
-      "url": "https://www.gov.uk/government/news/pm-vows-to-save-hollowed-out-high-streets-with-crackdown-on-vape-and-betting-shops",
-      "subCategory": "海外政策",
-      "id": "policy-20260811-043"
-    },
-    {
-      "title": "FinCEN Permanently Ends Beneficial Ownership Reporting Requirements for Millions of Small Business Owners",
-      "summary": "美国财政部金融犯罪执法网络（FinCEN）发布最终规则，永久取消美国境内企业和美国公民依据《企业透明度法》向其报告受益所有人信息的义务，此前已提交的美国主体数据将被删除；外国报告实体仍需就外国受益人继续申报。",
-      "publishedAt": "2026-08-11",
-      "source": "FinCEN（美国财政部金融犯罪执法网络）",
-      "url": "https://www.fincen.gov/news/news-releases/fincen-permanently-ends-beneficial-ownership-reporting-requirements-millions",
-      "subCategory": "金融监管",
-      "id": "policy-20260811-044"
     }
   ]
 }

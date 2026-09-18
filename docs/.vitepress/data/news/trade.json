@@ -3,8 +3,17 @@
   "slug": "trade",
   "title": "外贸资讯",
   "description": "亚马逊、TikTok Shop、阿里国际站、Shopify 等平台政策与跨境电商市场、独立站、物流支付、关税法规、选品趋势。",
-  "updatedAt": "2026-09-15T15:17:32+08:00",
+  "updatedAt": "2026-09-18T11:42:34+08:00",
   "items": [
+    {
+      "id": "trade-20260916-001",
+      "title": "跨境电商工具更新：FedEx 推出国际贸易导航器",
+      "summary": "Practical Ecommerce 9月16日报道，FedEx推出 Global Trade Navigator，为国际运输提供贸易规划和关税税费工具；报道还梳理了跨境支付、社交电商及 AI 物流等服务更新。",
+      "publishedAt": "2026-09-16",
+      "source": "Practical Ecommerce",
+      "url": "https://www.practicalecommerce.com/new-ecommerce-tools-september-16-2026",
+      "subCategory": "物流仓储"
+    },
     {
       "id": "trade-20260910-001",
       "title": "印度上线连接出口商与美国买家的贸易平台",
@@ -13,15 +22,6 @@
       "source": "彭博社",
       "url": "https://www.bloomberg.com/news/articles/2026-09-10/india-links-exporters-with-us-buyers-in-500-billion-trade-push",
       "subCategory": "新兴市场"
-    },
-    {
-      "id": "trade-20260904-001",
-      "title": "联合国贸发会议：数字服务占全球服务出口比重升至56%",
-      "summary": "联合国贸发会议9月发布《全球贸易更新》称，数字可交付服务过去十年年均增长7.1%，2025年已占全球服务出口56%；最不发达国家占比仅0.6%。",
-      "publishedAt": "2026-09-04",
-      "source": "联合国贸发会议",
-      "url": "https://unctad.org/publication/global-trade-update-september-2026-services-are-reshaping-global-trade",
-      "subCategory": "海关数据"
     },
     {
       "id": "trade-20260909-001",
@@ -51,6 +51,15 @@
       "id": "trade-20260905-004",
       "createdAt": "2026-09-08T17:09:34+08:00",
       "updatedAt": "2026-09-08T17:09:34+08:00"
+    },
+    {
+      "id": "trade-20260904-001",
+      "title": "联合国贸发会议：数字服务占全球服务出口比重升至56%",
+      "summary": "联合国贸发会议9月发布《全球贸易更新》称，数字可交付服务过去十年年均增长7.1%，2025年已占全球服务出口56%；最不发达国家占比仅0.6%。",
+      "publishedAt": "2026-09-04",
+      "source": "联合国贸发会议",
+      "url": "https://unctad.org/publication/global-trade-update-september-2026-services-are-reshaping-global-trade",
+      "subCategory": "海关数据"
     },
     {
       "title": "TikTok Shop美区9月10日内测砍价与拼团",
@@ -301,15 +310,6 @@
       "id": "trade-20260818-019"
     },
     {
-      "id": "trade-20260818-020",
-      "title": "俄罗斯睡眠经济升温：M.Video床垫Q2销量环比增长3.3倍，矫形枕半年增16倍",
-      "summary": "俄罗斯M.Video平台数据显示，2026年上半年床品类目增长强劲，6月销量较1月增长328%、营业额增长250%，二季度床垫销量环比增长3.3倍，矫形枕上半年销量增长16倍，消费者对睡眠品质关注度上升。",
-      "publishedAt": "2026-08-18T06:30:00+08:00",
-      "source": "AMZ123",
-      "url": "https://www.amz123.com/kx/TnsorAmo",
-      "subCategory": "选品趋势"
-    },
-    {
       "title": "一夜崩塌！货运大佬涉案3.8亿，卖家慌了",
       "summary": "澳大利亚警方通报，悉尼货代公司Top Logistics三座仓库全面停摆，核心负责人谢平等7人被捕，涉案金额约8000万澳元；案件曝光后澳洲港口查验率从8%升至35%以上，清关延误7-15天。",
       "publishedAt": "2026-08-18",
@@ -335,6 +335,15 @@
       "source": "亿恩网",
       "url": "https://www.ennews.com/news-142157.html",
       "subCategory": "平台动态"
+    },
+    {
+      "id": "trade-20260818-020",
+      "title": "俄罗斯睡眠经济升温：M.Video床垫Q2销量环比增长3.3倍，矫形枕半年增16倍",
+      "summary": "俄罗斯M.Video平台数据显示，2026年上半年床品类目增长强劲，6月销量较1月增长328%、营业额增长250%，二季度床垫销量环比增长3.3倍，矫形枕上半年销量增长16倍，消费者对睡眠品质关注度上升。",
+      "publishedAt": "2026-08-18T06:30:00+08:00",
+      "source": "AMZ123",
+      "url": "https://www.amz123.com/kx/TnsorAmo",
+      "subCategory": "选品趋势"
     },
     {
       "id": "trade-20260817-024",
